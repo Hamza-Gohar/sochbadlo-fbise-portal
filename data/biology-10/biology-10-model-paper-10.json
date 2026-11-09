@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 19,
+  "chapterTitle": "FBISE Full-Book Annual Exam Simulator III (Comprehensive All Units 10–18)",
+  "slug": "biology-10-model-paper-10",
+  "totalQuestions": 12,
+  "fileName": "biology-10-model-paper-10.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which cartilaginous structure houses the vocal cords and produces the human voice? (FBISE Annual 2024)",
+      "options": {
+        "A": "Pharynx",
+        "B": "Larynx (voice box)",
+        "C": "Trachea",
+        "D": "Bronchiole"
+      },
+      "correctAnswer": "B",
+      "explanation": "The larynx contains vibrating vocal cords that produce sound modulated into speech by tongue, lips, and pharynx."
+    },
+    {
+      "id": 2,
+      "question": "What is the primary chemical composition of approximately 70% of human kidney stones (renal calculi)? (FBISE 2023)",
+      "options": {
+        "A": "Calcium oxalate and calcium phosphate",
+        "B": "Sodium chloride",
+        "C": "Pure glucose monohydrate",
+        "D": "Cholesterol crystals"
+      },
+      "correctAnswer": "A",
+      "explanation": "The majority of renal calculi are composed of insoluble calcium oxalate precipitates formed in supersaturated urine."
+    },
+    {
+      "id": 3,
+      "question": "The primary auditory sensory organ containing hair cells that transduce sound vibrations into nerve impulses in the inner ear is the:",
+      "options": {
+        "A": "Pinna",
+        "B": "Organ of Corti in the cochlea",
+        "C": "Semicircular canals",
+        "D": "Tympanic membrane"
+      },
+      "correctAnswer": "B",
+      "explanation": "The organ of Corti resting on the cochlear basilar membrane contains mechanoreceptive hair cells that generate acoustic nerve impulses."
+    },
+    {
+      "id": 4,
+      "question": "The small triangular sesamoid bone that forms the kneecap protecting the anterior knee joint is the: (FBISE 2022)",
+      "options": {
+        "A": "Patella",
+        "B": "Tibia",
+        "C": "Fibula",
+        "D": "Clavicle"
+      },
+      "correctAnswer": "A",
+      "explanation": "The patella (kneecap) is embedded within the quadriceps tendon to shield the knee and optimize extensor leverage."
+    },
+    {
+      "id": 5,
+      "question": "In flowering plants, successful fertilization results in the transformation of the ovule into a seed and the ovary into a: (FBISE 2024)",
+      "options": {
+        "A": "Pollen grain",
+        "B": "Fruit",
+        "C": "Petal",
+        "D": "Sepal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Following fertilization, the ovary wall ripens into the pericarp of the fruit, enclosing the mature seeds."
+    },
+    {
+      "id": 6,
+      "question": "If a red-flowered plant is crossed with a white-flowered plant of Mirabilis jalapa, all F1 offspring have pink flowers due to: (FBISE 2021)",
+      "options": {
+        "A": "Complete dominance",
+        "B": "Incomplete dominance",
+        "C": "Co-dominance",
+        "D": "Epistasis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Incomplete dominance produces an intermediate blended phenotype (pink flowers, Rr) in heterozygous offspring."
+    },
+    {
+      "id": 7,
+      "question": "The conversion of atmospheric nitrogen gas (N2) into biologically usable ammonia by soil microbes is termed: (FBISE 2023)",
+      "options": {
+        "A": "Denitrification",
+        "B": "Nitrogen fixation",
+        "C": "Nitrification",
+        "D": "Ammonification"
+      },
+      "correctAnswer": "B",
+      "explanation": "Biological nitrogen fixation (by Rhizobium, Azotobacter, cyanobacteria) breaks the triple bond of N2 to form ammonia."
+    },
+    {
+      "id": 8,
+      "question": "The progressive accumulation of persistent non-biodegradable synthetic chemical toxins (e.g., DDT) at higher trophic levels is:",
+      "options": {
+        "A": "Eutrophication",
+        "B": "Biomagnification",
+        "C": "Biodegradation",
+        "D": "Bioremediation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Biomagnification concentrates lipophilic persistent contaminants progressively up each step of a food chain."
+    },
+    {
+      "id": 9,
+      "question": "Bt cotton crops carry a crystalline endotoxin gene isolated from which soil bacterium to resist insect pests? (FBISE 2024)",
+      "options": {
+        "A": "Bacillus thuringiensis",
+        "B": "Escherichia coli",
+        "C": "Rhizobium leguminosarum",
+        "D": "Streptomyces griseus"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bacillus thuringiensis produces Cry endotoxins that disrupt insect larval gut membranes, providing biological pest resistance."
+    },
+    {
+      "id": 10,
+      "question": "Which category of addictive drugs includes morphine, codeine, and heroin, which relieve severe pain but cause high physical dependence?",
+      "options": {
+        "A": "Hallucinogens",
+        "B": "Narcotic opioids",
+        "C": "Antibiotics",
+        "D": "Antiseptics"
+      },
+      "correctAnswer": "B",
+      "explanation": "Narcotics (opioids) bind central opioid receptors to dull severe pain, carrying high risks of tolerance and physical dependence."
+    },
+    {
+      "id": 11,
+      "question": "Why are antibiotics completely ineffective in treating viral illnesses such as influenza and the common cold? (FBISE 2022)",
+      "options": {
+        "A": "Viruses lack cell walls, ribosomes, and metabolic machinery targeted by antibiotics",
+        "B": "Viruses destroy antibiotics in the blood",
+        "C": "Viruses are too small to touch antibiotics",
+        "D": "Antibiotics only function in plants"
+      },
+      "correctAnswer": "A",
+      "explanation": "Antibiotics selectively target bacterial cell walls, prokaryotic ribosomes, or bacterial enzymes absent in acellular viruses."
+    },
+    {
+      "id": 12,
+      "question": "The clinical technique that introduces a functional gene to replace or supplement a mutated disease-causing gene in a patient is: (FBISE 2024)",
+      "options": {
+        "A": "Chemotherapy",
+        "B": "Gene therapy",
+        "C": "Dialysis",
+        "D": "Lithotripsy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gene therapy delivers healthy, therapeutic genetic alleles directly into target patient cells to correct underlying genetic disorders."
+    }
+  ]
+}

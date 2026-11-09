@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 12,
+  "chapterTitle": "FBISE Annual Exam Simulator 03 (Unit 13 & 14: Support, Movement & Reproduction)",
+  "slug": "biology-10-model-paper-3",
+  "totalQuestions": 12,
+  "fileName": "biology-10-model-paper-3.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The total number of bones present in an adult human skeleton is: (FBISE Annual 2024)",
+      "options": {
+        "A": "180 bones",
+        "B": "206 bones",
+        "C": "250 bones",
+        "D": "300 bones"
+      },
+      "correctAnswer": "B",
+      "explanation": "The adult human skeletal framework comprises 206 bones, divided into the axial (80) and appendicular (126) skeletons."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is an example of an immovable fibrous joint in the human skeleton? (FBISE 2023)",
+      "options": {
+        "A": "Shoulder joint",
+        "B": "Sutures between cranial skull bones",
+        "C": "Elbow joint",
+        "D": "Hip joint"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cranial sutures are immovable synarthrodial fibrous joints that lock adjacent skull plates securely together."
+    },
+    {
+      "id": 3,
+      "question": "The tough band of fibrous connective tissue connecting a skeletal muscle to a bone is called a: (FBISE 2024)",
+      "options": {
+        "A": "Ligament",
+        "B": "Tendon",
+        "C": "Cartilage",
+        "D": "Fascia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tendons connect contractile muscles to bones, while ligaments connect bones together at joint articulations."
+    },
+    {
+      "id": 4,
+      "question": "In the human arm, which muscle acts as an extensor to straighten the arm at the elbow joint?",
+      "options": {
+        "A": "Biceps brachii",
+        "B": "Triceps brachii",
+        "C": "Deltoid",
+        "D": "Brachialis"
+      },
+      "correctAnswer": "B",
+      "explanation": "The triceps brachii contracts to pull on the ulna, extending and straightening the forearm at the elbow."
+    },
+    {
+      "id": 5,
+      "question": "A systemic bone disease characterized by porous, brittle bones due to loss of calcium salts is: (FBISE 2022)",
+      "options": {
+        "A": "Osteoarthritis",
+        "B": "Osteoporosis",
+        "C": "Gout",
+        "D": "Rheumatoid arthritis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Osteoporosis involves diminished bone mineral density and deterioration of microarchitecture, increasing fracture risk."
+    },
+    {
+      "id": 6,
+      "question": "Asexual reproduction in bread mold (Rhizopus) occurs predominantly by the formation of: (FBISE 2024)",
+      "options": {
+        "A": "Buds",
+        "B": "Spores in sporangia",
+        "C": "Conidia on basidia",
+        "D": "Binary fission"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rhizopus reproduces asexually through airborne non-motile spores developed inside bulbous terminal sporangia."
+    },
+    {
+      "id": 7,
+      "question": "In honeybees, the parthenogenetic development of unfertilized eggs produces: (FBISE 2023)",
+      "options": {
+        "A": "Fertile queen bees",
+        "B": "Sterile female worker bees",
+        "C": "Haploid male drone bees",
+        "D": "Larval cysts"
+      },
+      "correctAnswer": "C",
+      "explanation": "Male drone honeybees develop parthenogenetically from unfertilized haploid eggs, whereas fertilized diploid eggs produce females."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following plants propagates vegetatively through underground modified stems called rhizomes?",
+      "options": {
+        "A": "Onion",
+        "B": "Ginger",
+        "C": "Potato",
+        "D": "Strawberry"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ginger develops underground horizontal stems known as rhizomes, bearing nodes, internodes, and adventitious buds."
+    },
+    {
+      "id": 9,
+      "question": "Double fertilization in angiosperm flowers yields which two vital structures? (FBISE 2024)",
+      "options": {
+        "A": "Two diploid zygotes",
+        "B": "A diploid zygote (2n) and a triploid endosperm nucleus (3n)",
+        "C": "A haploid spore and a seed coat",
+        "D": "Four pollen grains"
+      },
+      "correctAnswer": "B",
+      "explanation": "One sperm fuses with the egg cell (2n zygote), while the second sperm fuses with two polar nuclei to yield 3n endosperm."
+    },
+    {
+      "id": 10,
+      "question": "In epigeal seed germination (e.g., in bean seeds), which part elongates rapidly to pull cotyledons above the soil?",
+      "options": {
+        "A": "Epicotyl",
+        "B": "Hypocotyl",
+        "C": "Radicle",
+        "D": "Plumule"
+      },
+      "correctAnswer": "B",
+      "explanation": "During epigeal germination, elongation of the hypocotyl arches upward and pulls the cotyledons above the ground."
+    },
+    {
+      "id": 11,
+      "question": "The pathogen responsible for Acquired Immune Deficiency Syndrome (AIDS) is: (FBISE 2021)",
+      "options": {
+        "A": "Hepatitis C virus",
+        "B": "Human Immunodeficiency Virus (HIV)",
+        "C": "Herpes simplex virus",
+        "D": "Influenza virus"
+      },
+      "correctAnswer": "B",
+      "explanation": "HIV is a retrovirus that attacks human CD4+ helper T-lymphocytes, destroying cell-mediated immunity."
+    },
+    {
+      "id": 12,
+      "question": "Which embryonic structure of a plant seed gives rise to the primary root system?",
+      "options": {
+        "A": "Plumule",
+        "B": "Radicle",
+        "C": "Cotyledon",
+        "D": "Endosperm"
+      },
+      "correctAnswer": "B",
+      "explanation": "The radicle is the embryonic root that emerges first through the seed coat to establish subterranean anchorage."
+    }
+  ]
+}

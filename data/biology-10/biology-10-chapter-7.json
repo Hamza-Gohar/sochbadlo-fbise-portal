@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 7,
+  "chapterTitle": "Unit 16: Man and his Environment",
+  "slug": "biology-10-chapter-7",
+  "totalQuestions": 35,
+  "fileName": "biology-10-chapter-7.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the basic functional ecological unit consisting of a biological community interacting with its abiotic physical environment? (FBISE 2024)",
+      "options": {
+        "A": "Population",
+        "B": "Ecosystem",
+        "C": "Biome",
+        "D": "Species"
+      },
+      "correctAnswer": "B",
+      "explanation": "An ecosystem consists of all the living organisms (biotic community) in a given physical area interacting dynamically with their non-living chemical and physical environment (abiotic factors)."
+    },
+    {
+      "id": 2,
+      "question": "All the individuals of the same biological species inhabiting a specific geographical area at a particular time constitute a: (FBISE 2023)",
+      "options": {
+        "A": "Community",
+        "B": "Population",
+        "C": "Ecosystem",
+        "D": "Biosphere"
+      },
+      "correctAnswer": "B",
+      "explanation": "A population is defined as a group of interbreeding individuals belonging to the same biological species occupying a particular geographic locale concurrently."
+    },
+    {
+      "id": 3,
+      "question": "Organisms that utilize solar radiant energy and inorganic compounds to synthesize organic carbohydrates via photosynthesis are termed: (FBISE 2024)",
+      "options": {
+        "A": "Primary consumers",
+        "B": "Producers (autotrophs)",
+        "C": "Saprotrophs",
+        "D": "Secondary consumers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Producers (autotrophs), including green plants, algae, and cyanobacteria, capture solar photon energy to synthesize glucose from carbon dioxide and water, forming the energetic base of ecosystems."
+    },
+    {
+      "id": 4,
+      "question": "Which trophic level in a typical terrestrial food chain is directly occupied by herbivorous animals such as deer, rabbits, and grasshoppers? (FBISE 2022)",
+      "options": {
+        "A": "First trophic level (Producers)",
+        "B": "Second trophic level (Primary consumers)",
+        "C": "Third trophic level (Secondary consumers)",
+        "D": "Fourth trophic level (Tertiary consumers)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Herbivores feed directly upon autotrophic plants (producers at trophic level 1) and thus constitute the primary consumers occupying the second trophic level."
+    },
+    {
+      "id": 5,
+      "question": "What is the primary ecological role of decomposers (bacteria and saprophytic fungi) in maintaining a balanced ecosystem? (FBISE 2023)",
+      "options": {
+        "A": "Trapping solar energy for carbohydrate synthesis",
+        "B": "Decomposing dead organic matter and recycling vital inorganic nutrients back into soil and water",
+        "C": "Consuming living autotrophic leaves directly",
+        "D": "Preventing all cellular respiration in plants"
+      },
+      "correctAnswer": "B",
+      "explanation": "Decomposers secrete extracellular digestive enzymes to break down complex organic compounds in dead organisms and excreta into simple mineral nutrients, recycling them for re-absorption by producers."
+    },
+    {
+      "id": 6,
+      "question": "In an ecological energy pyramid, approximately what percentage of usable energy is transferred from one trophic level up to the next? (FBISE 2024)",
+      "options": {
+        "A": "100%",
+        "B": "50%",
+        "C": "10% (The 10% Rule)",
+        "D": "1%"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to Lindemans 10% law, only about 10% of the energy stored as biomass in one trophic level is converted into biomass at the subsequent level; roughly 90% is dissipated as metabolic heat or unconsumed waste."
+    },
+    {
+      "id": 7,
+      "question": "Why is an ecological pyramid of energy ALWAYS upright and can never be inverted? (FBISE 2021)",
+      "options": {
+        "A": "Energy is constantly created at higher trophic levels",
+        "B": "Energy is progressively lost as metabolic heat at each successive trophic step according to thermodynamic laws",
+        "C": "Top carnivores consume more energy than primary producers",
+        "D": "Solar radiation penetrates only to the soil level"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Second Law of Thermodynamics dictates that energy transformations are inefficient. Because heat and entropy increase at every metabolic step, total energy decreases steadily from producers upward."
+    },
+    {
+      "id": 8,
+      "question": "A complex, interconnected network of multiple overlapping food chains within an ecological community is termed a: (FBISE 2023)",
+      "options": {
+        "A": "Trophic ladder",
+        "B": "Food web",
+        "C": "Carbon loop",
+        "D": "Monoculture"
+      },
+      "correctAnswer": "B",
+      "explanation": "A food web represents the realistic, interconnected feeding relationships among organisms in an ecosystem, providing alternative dietary pathways that grant stability against disturbances."
+    },
+    {
+      "id": 9,
+      "question": "Which biological interaction describes a symbiotic relationship where BOTH participating species derive mutual survival benefits? (FBISE 2024)",
+      "options": {
+        "A": "Parasitism",
+        "B": "Mutualism",
+        "C": "Commensalism",
+        "D": "Predation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mutualism is an obligate or facultative symbiotic relationship in which both partner organisms benefit mutually, such as nitrogen-fixing Rhizobium bacteria in legume root nodules."
+    },
+    {
+      "id": 10,
+      "question": "The symbiotic association between nitrogen-fixing Rhizobium bacteria and the root nodules of leguminous plants is a classic example of:",
+      "options": {
+        "A": "Commensalism",
+        "B": "Mutualism",
+        "C": "Ectoparasitism",
+        "D": "Endoparasitism"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rhizobium fixes atmospheric nitrogen into ammonium for the legume, while the host plant supplies carbohydrate nutrition and a protective anaerobic environment to the bacteria."
+    },
+    {
+      "id": 11,
+      "question": "An ecological interaction where one organism benefits while the other host organism is neither helped nor harmed is defined as: (FBISE 2022)",
+      "options": {
+        "A": "Commensalism",
+        "B": "Mutualism",
+        "C": "Parasitism",
+        "D": "Competition"
+      },
+      "correctAnswer": "A",
+      "explanation": "Commensalism is a relationship in which one species derives nourishment, shelter, or locomotion from the host without exerting any significant positive or negative impact on the host (e.g., epiphytic orchids on trees)."
+    },
+    {
+      "id": 12,
+      "question": "In the ecological nitrogen cycle, the biological conversion of soil ammonia into nitrites (NO2-) and then into nitrates (NO3-) is called: (FBISE 2024)",
+      "options": {
+        "A": "Denitrification",
+        "B": "Nitrification",
+        "C": "Ammonification",
+        "D": "Assimilation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nitrification is a two-step aerobic process performed by chemoautotrophic soil bacteria: Nitrosomonas converts ammonia into nitrites (NO2-), and Nitrobacter oxidizes nitrites into plant-absorbable nitrates (NO3-)."
+    },
+    {
+      "id": 13,
+      "question": "Which bacterium is primarily responsible for converting soil nitrites into nitrates during nitrification?",
+      "options": {
+        "A": "Nitrosomonas",
+        "B": "Nitrobacter",
+        "C": "Rhizobium",
+        "D": "Pseudomonas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nitrobacter oxidizes intermediate nitrites (NO2-) into nitrates (NO3-), which are subsequently absorbed by root systems for plant protein synthesis."
+    },
+    {
+      "id": 14,
+      "question": "The biological process wherein anaerobic soil bacteria convert nitrates back into inert atmospheric nitrogen gas (N2) is termed: (FBISE 2023)",
+      "options": {
+        "A": "Nitrogen fixation",
+        "B": "Denitrification",
+        "C": "Nitrification",
+        "D": "Ammonification"
+      },
+      "correctAnswer": "B",
+      "explanation": "Denitrification is performed by anaerobic bacteria such as Pseudomonas in waterlogged, poorly aerated soils, reducing soil nitrates back into gaseous N2 and completing the nitrogen cycle."
+    },
+    {
+      "id": 15,
+      "question": "Acid precipitation (acid rain) is primarily caused by atmospheric industrial emissions of which two chemical gases? (FBISE 2024)",
+      "options": {
+        "A": "Sulfur dioxide (SO2) and nitrogen oxides (NOx)",
+        "B": "Carbon monoxide and pure hydrogen",
+        "C": "Chlorofluorocarbons and methane",
+        "D": "Helium and argon"
+      },
+      "correctAnswer": "A",
+      "explanation": "Combustion of fossil fuels releases sulfur dioxide (SO2) and nitrogen oxides (NOx), which react with atmospheric water vapor to produce sulfuric acid (H2SO4) and nitric acid (HNO3)."
+    },
+    {
+      "id": 16,
+      "question": "What is the pH threshold below which rainfall is scientifically classified as acid rain?",
+      "options": {
+        "A": "pH 12.0",
+        "B": "pH 7.0",
+        "C": "pH 5.6",
+        "D": "pH 9.5"
+      },
+      "correctAnswer": "C",
+      "explanation": "Normal unpolluted rain has a pH of approximately 5.6 due to dissolved atmospheric carbon dioxide forming weak carbonic acid. Any precipitation with a pH below 5.6 is defined as acid rain."
+    },
+    {
+      "id": 17,
+      "question": "The natural atmospheric phenomenon wherein greenhouse gases trap outgoing infrared thermal radiation, maintaining Earth average surface temperature, is the: (FBISE 2022)",
+      "options": {
+        "A": "Coriolis effect",
+        "B": "Greenhouse effect",
+        "C": "Thermal inversion",
+        "D": "Eutrophication"
+      },
+      "correctAnswer": "B",
+      "explanation": "The greenhouse effect occurs when atmospheric gases (water vapor, CO2, methane) absorb longwave terrestrial infrared radiation, reradiating heat back to Earth and maintaining an average habitable temperature of ~15°C."
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is considered the primary anthropogenic greenhouse gas driving contemporary global warming due to fossil fuel combustion? (FBISE 2023)",
+      "options": {
+        "A": "Carbon dioxide (CO2)",
+        "B": "Argon",
+        "C": "Oxygen",
+        "D": "Helium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Industrial combustion of coal, oil, and gas alongside massive global deforestation has elevated atmospheric carbon dioxide (CO2) from pre-industrial 280 ppm to over 420 ppm, accelerating global warming."
+    },
+    {
+      "id": 19,
+      "question": "The progressive thinning and catalytic destruction of the stratospheric ozone layer is caused predominantly by synthetic industrial chemicals called: (FBISE 2021)",
+      "options": {
+        "A": "DDT pesticides",
+        "B": "Chlorofluorocarbons (CFCs)",
+        "C": "Polychlorinated biphenyls",
+        "D": "Sulfur granules"
+      },
+      "correctAnswer": "B",
+      "explanation": "CFCs used in refrigerants and aerosols dissociate under intense UV in the stratosphere, releasing free chlorine radicals that catalytically destroy thousands of ozone molecules."
+    },
+    {
+      "id": 20,
+      "question": "What is the severe ecological and public health consequence of stratospheric ozone layer depletion?",
+      "options": {
+        "A": "Complete cessation of all global ocean tides",
+        "B": "Increased penetration of hazardous UV-B radiation, causing skin cancers, cataracts, and immune suppression",
+        "C": "Immediate freezing of all equatorial lakes",
+        "D": "Sudden extinction of all terrestrial grass species"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ozone acts as a vital stratospheric shield absorbing lethal solar ultraviolet-B (UV-B) radiation. Its thinning increases human incidences of melanoma, corneal cataracts, and impairs marine phytoplankton."
+    },
+    {
+      "id": 21,
+      "question": "The biological process wherein agricultural fertilizer runoff introduces excess nitrates and phosphates into aquatic bodies, causing massive algal blooms and subsequent oxygen depletion, is: (FBISE 2024)",
+      "options": {
+        "A": "Bioaccumulation",
+        "B": "Eutrophication",
+        "C": "Biomagnification",
+        "D": "Salinization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Eutrophication occurs when nutrient-rich runoff triggers rapid algal blooms. When algae die, decomposing aerobic bacteria consume dissolved oxygen, asphyxiating fish and aquatic fauna."
+    },
+    {
+      "id": 22,
+      "question": "Which national animal of Pakistan is classified as an endangered mountain ungulate protected by wildlife conservation laws? (FBISE 2023)",
+      "options": {
+        "A": "Markhor (Capra falconeri)",
+        "B": "Bengal tiger",
+        "C": "Asiatic lion",
+        "D": "Giant panda"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Markhor (Capra falconeri) is Pakistans iconic national animal, a wild mountain goat with spiral horns inhabiting the rugged northern mountains, rigorously protected under wildlife conservation initiatives."
+    },
+    {
+      "id": 23,
+      "question": "The blind freshwater cetacean endemic to the Indus River system that faces critical conservation threats from dams and pollution is the: (FBISE 2022)",
+      "options": {
+        "A": "Ganges river dolphin",
+        "B": "Indus river dolphin (Platanista minor / Bhulan)",
+        "C": "Amazon pink dolphin",
+        "D": "Irrawaddy dolphin"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Indus river dolphin (Bhulan) is a unique blind freshwater dolphin found exclusively in the Indus River in Pakistan, threatened by irrigation barrages, water extraction, and agricultural pesticide runoff."
+    },
+    {
+      "id": 24,
+      "question": "Which winter migratory game bird visiting Pakistan is protected under international agreements against illegal hunting and poaching? (FBISE 2021)",
+      "options": {
+        "A": "House sparrow",
+        "B": "Houbara bustard (Chlamydotis undulata)",
+        "C": "Rock pigeon",
+        "D": "Common crow"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Houbara bustard is a vulnerable migratory bird arriving in Pakistans arid deserts from Central Asia during winter, subject to strict wildlife conservation treaties."
+    },
+    {
+      "id": 25,
+      "question": "The universal environmental management hierarchy for municipal waste reduction and resource conservation is known as the:",
+      "options": {
+        "A": "3Rs strategy (Reduce, Reuse, Recycle)",
+        "B": "Single-use disposal initiative",
+        "C": "Thermal incineration cycle",
+        "D": "Landfill compression protocol"
+      },
+      "correctAnswer": "A",
+      "explanation": "The 3Rs strategy outlines waste minimization: Reduce (minimizing consumption and waste generation), Reuse (using items repeatedly), and Recycle (processing discard materials into new goods)."
+    },
+    {
+      "id": 26,
+      "question": "The practice of planting new trees and establishing forests on land that previously did NOT bear forest cover is termed:",
+      "options": {
+        "A": "Deforestation",
+        "B": "Afforestation",
+        "C": "Reforestation",
+        "D": "Clear-cutting"
+      },
+      "correctAnswer": "B",
+      "explanation": "Afforestation is the establishment of a new forest on previously non-forested barren land, whereas reforestation refers to replanting trees on land where forests were recently cleared."
+    },
+    {
+      "id": 27,
+      "question": "In a biological community, an organism that hunts, captures, kills, and feeds upon another living animal is a:",
+      "options": {
+        "A": "Prey",
+        "B": "Predator",
+        "C": "Parasite",
+        "D": "Commensal"
+      },
+      "correctAnswer": "B",
+      "explanation": "A predator is a carnivorous organism that actively hunts, kills, and consumes prey animals, exerting strong natural selection and regulating prey population densities."
+    },
+    {
+      "id": 28,
+      "question": "Parasites that live externally on the outer surface or skin of their host organism (e.g., lice, ticks, and leeches) are classified as: (FBISE 2024)",
+      "options": {
+        "A": "Endoparasites",
+        "B": "Ectoparasites",
+        "C": "Hyperparasites",
+        "D": "Facultative saprophytes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ectoparasites attach to and feed on the external surface of the host (such as fleas, ticks, mites, and human head lice), unlike endoparasites that dwell internally."
+    },
+    {
+      "id": 29,
+      "question": "Plasmodium, the causative unicellular pathogen of human malaria residing inside liver cells and erythrocytes, is classified as an:",
+      "options": {
+        "A": "Ectoparasite",
+        "B": "Endoparasite",
+        "C": "Autotroph",
+        "D": "Epiphyte"
+      },
+      "correctAnswer": "B",
+      "explanation": "Endoparasites reside inside the internal tissues or organs of host organisms. Examples include Plasmodium, tapeworms (Taenia), and liver flukes."
+    },
+    {
+      "id": 30,
+      "question": "Competition between individuals belonging to the SAME biological species for shared limited resources (food, mates, territory) is termed: (FBISE 2023)",
+      "options": {
+        "A": "Interspecific competition",
+        "B": "Intraspecific competition",
+        "C": "Inter-kingdom predation",
+        "D": "Mutualistic antagonism"
+      },
+      "correctAnswer": "B",
+      "explanation": "Intraspecific competition occurs between members of the same species competing for identical ecological niches and resources, and is often fierce because their ecological requirements overlap completely."
+    },
+    {
+      "id": 31,
+      "question": "What is the primary reservoir of carbon in the global biosphere that participates actively in daily atmospheric carbon exchange?",
+      "options": {
+        "A": "Atmospheric carbon dioxide gas (CO2)",
+        "B": "Molten iron core of the Earth",
+        "C": "Pure granite mountain bedrock",
+        "D": "Liquid nitrogen glaciers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Atmospheric CO2 is the dynamic biological carbon reservoir, cycled continually through photosynthetic carbon fixation by autotrophs and returned by respiration and fossil fuel combustion."
+    },
+    {
+      "id": 32,
+      "question": "Which of the following human activities is the leading driver of terrestrial habitat destruction, biodiversity loss, and soil erosion worldwide?",
+      "options": {
+        "A": "Deforestation",
+        "B": "Rainwater harvesting",
+        "C": "Composting organic vegetable scraps",
+        "D": "Installing solar panels"
+      },
+      "correctAnswer": "A",
+      "explanation": "Deforestation (large-scale clearing of native forests for agriculture or timber) leads to loss of biodiversity, disruption of water cycles, accelerated soil erosion, and increased atmospheric CO2."
+    },
+    {
+      "id": 33,
+      "question": "The progressive concentration and accumulation of non-biodegradable synthetic toxins (such as DDT or heavy metals) at higher trophic levels in a food chain is: (FBISE 2022)",
+      "options": {
+        "A": "Biological magnification (Biomagnification)",
+        "B": "Bioremediation",
+        "C": "Biodiversity",
+        "D": "Biosynthesis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Biomagnification is the increasing accumulation of persistent, fat-soluble chemical pollutants (like DDT or mercury) in fatty tissues of organisms at progressively higher trophic levels in a food chain."
+    },
+    {
+      "id": 34,
+      "question": "Lichens represent an obligate mutualistic association between which two organisms? (FBISE 2021)",
+      "options": {
+        "A": "A fungus and an alga (or cyanobacterium)",
+        "B": "A flowering plant and a mammal",
+        "C": "A bacterium and a virus",
+        "D": "An insect and an amphibian"
+      },
+      "correctAnswer": "A",
+      "explanation": "A lichen is a composite mutualistic organism consisting of a photosynthetic alga or cyanobacterium (photobiont providing food) sheltered within the filaments of a fungus (mycobiont providing moisture and minerals)."
+    },
+    {
+      "id": 35,
+      "question": "The total dry weight of living organic matter present at a given trophic level in an ecosystem at any specified time is defined as: (FBISE 2024)",
+      "options": {
+        "A": "Biomass",
+        "B": "Standing crop count",
+        "C": "Net trophic heat",
+        "D": "Gross primary respiration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Biomass is the total mass of living biological organisms in a given trophic level, community, or ecosystem at a given time, typically measured as dry weight per unit area."
+    }
+  ]
+}

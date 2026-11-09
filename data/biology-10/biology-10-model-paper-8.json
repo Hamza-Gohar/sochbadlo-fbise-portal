@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 17,
+  "chapterTitle": "FBISE Full-Book Annual Exam Simulator I (Comprehensive All Units 10–18)",
+  "slug": "biology-10-model-paper-8",
+  "totalQuestions": 12,
+  "fileName": "biology-10-model-paper-8.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In woody tree stems, gaseous exchange between internal living tissues and the atmosphere takes place through: (FBISE Annual 2024)",
+      "options": {
+        "A": "Stomata",
+        "B": "Lenticels",
+        "C": "Hydathodes",
+        "D": "Xylem vessels"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lenticels are porous aerating tissue openings in the corky periderm of woody stems that allow gas diffusion."
+    },
+    {
+      "id": 2,
+      "question": "The funnel-shaped upper dilated end of the ureter inside the kidney that collects formed urine is the:",
+      "options": {
+        "A": "Renal pelvis",
+        "B": "Renal cortex",
+        "C": "Renal pyramid",
+        "D": "Renal capsule"
+      },
+      "correctAnswer": "A",
+      "explanation": "Urine produced by nephrons drains through calyces into the renal pelvis, which funnels it down the ureter."
+    },
+    {
+      "id": 3,
+      "question": "The three protective connective tissue membranes covering the human brain and spinal cord are the: (FBISE 2023)",
+      "options": {
+        "A": "Pleural membranes",
+        "B": "Pericardium",
+        "C": "Meninges",
+        "D": "Peritoneum"
+      },
+      "correctAnswer": "C",
+      "explanation": "The brain and spinal cord are enclosed by the meninges: dura mater, arachnoid mater, and pia mater."
+    },
+    {
+      "id": 4,
+      "question": "The longest and strongest bone in the human skeleton is the:",
+      "options": {
+        "A": "Humerus",
+        "B": "Tibia",
+        "C": "Femur",
+        "D": "Fibula"
+      },
+      "correctAnswer": "C",
+      "explanation": "The femur (thigh bone) is the longest, heaviest, and strongest weight-bearing bone in the human skeleton."
+    },
+    {
+      "id": 5,
+      "question": "In flowering plants, double fertilization results in the formation of a diploid zygote and a:",
+      "options": {
+        "A": "Haploid spore",
+        "B": "Triploid endosperm nucleus",
+        "C": "Tetraploid seed coat",
+        "D": "Diploid cotyledon"
+      },
+      "correctAnswer": "B",
+      "explanation": "The fusion of the second sperm nucleus with two polar nuclei produces a triploid (3n) primary endosperm nucleus."
+    },
+    {
+      "id": 6,
+      "question": "A cross between two individuals heterozygous for two traits (RrYy x RrYy) produces an F2 phenotypic ratio of: (FBISE 2024)",
+      "options": {
+        "A": "3:1",
+        "B": "9:3:3:1",
+        "C": "1:2:1",
+        "D": "1:1:1:1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mendels dihybrid cross demonstrates independent assortment, generating a characteristic 9:3:3:1 phenotypic distribution."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following ecological pyramids is ALWAYS upright and can never be inverted under natural laws? (FBISE 2022)",
+      "options": {
+        "A": "Pyramid of numbers",
+        "B": "Pyramid of biomass",
+        "C": "Pyramid of energy",
+        "D": "Pyramid of individuals"
+      },
+      "correctAnswer": "C",
+      "explanation": "Because energy is dissipated at every metabolic transfer step, an energy pyramid is always upright."
+    },
+    {
+      "id": 8,
+      "question": "The biological process in which soil nitrates are reduced back into gaseous molecular nitrogen (N2) is termed:",
+      "options": {
+        "A": "Nitrification",
+        "B": "Denitrification",
+        "C": "Ammonification",
+        "D": "Nitrogen fixation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Denitrification by anaerobic bacteria (e.g., Pseudomonas) returns fixed nitrogen back to the atmospheric reservoir."
+    },
+    {
+      "id": 9,
+      "question": "In genetic engineering, the small circular self-replicating extrachromosomal DNA used as a cloning vector is a:",
+      "options": {
+        "A": "Plasmid",
+        "B": "Mesosome",
+        "C": "Ribosome",
+        "D": "Bacteriophage coat"
+      },
+      "correctAnswer": "A",
+      "explanation": "Plasmids are bacterial DNA rings engineered with restriction sites and antibiotic markers for foreign gene insertion."
+    },
+    {
+      "id": 10,
+      "question": "Which antimalarial drug was historically derived from the bark of the Cinchona tree? (FBISE 2021)",
+      "options": {
+        "A": "Penicillin",
+        "B": "Quinine",
+        "C": "Morphine",
+        "D": "Aspirin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Quinine is an alkaloid isolated from Cinchona bark that was historically the premier clinical treatment for malaria."
+    },
+    {
+      "id": 11,
+      "question": "The physiological condition in which an individual exhibits severe physical or psychological distress when a drug is stopped is:",
+      "options": {
+        "A": "Drug tolerance",
+        "B": "Drug withdrawal syndrome",
+        "C": "Drug synergism",
+        "D": "Bacteriostasis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Withdrawal syndrome manifests when dependent body systems experience sudden deprivation of an addictive substance."
+    },
+    {
+      "id": 12,
+      "question": "What is the primary role of the sparger in an industrial fermenter?",
+      "options": {
+        "A": "To circulate coolant water around the vessel",
+        "B": "To bubble sterile air or oxygen through the liquid culture medium",
+        "C": "To measure pH continuously",
+        "D": "To remove heavy metal precipitates"
+      },
+      "correctAnswer": "B",
+      "explanation": "The sparger introduces pressurized sterile oxygen in microbubbles, ensuring adequate aeration for aerobic microbial growth."
+    }
+  ]
+}

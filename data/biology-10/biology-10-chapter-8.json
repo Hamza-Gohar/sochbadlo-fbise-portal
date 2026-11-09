@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 8,
+  "chapterTitle": "Unit 17: Biotechnology",
+  "slug": "biology-10-chapter-8",
+  "totalQuestions": 35,
+  "fileName": "biology-10-chapter-8.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The application of living organisms, cells, or biological processes to manufacture useful products and services for human welfare is defined as: (FBISE 2024)",
+      "options": {
+        "A": "Biotechnology",
+        "B": "Pharmacology",
+        "C": "Ecology",
+        "D": "Physiology"
+      },
+      "correctAnswer": "A",
+      "explanation": "Biotechnology is the technological application of biological systems, living organisms, or derivatives thereof, to create or modify products or processes for specific healthcare, agricultural, or industrial use."
+    },
+    {
+      "id": 2,
+      "question": "Which microorganism is commercially utilized in the baking and brewing industries for alcoholic fermentation? (FBISE 2023)",
+      "options": {
+        "A": "Saccharomyces cerevisiae (bakers/brewers yeast)",
+        "B": "Escherichia coli",
+        "C": "Lactobacillus bulgaricus",
+        "D": "Streptococcus pneumoniae"
+      },
+      "correctAnswer": "A",
+      "explanation": "Saccharomyces cerevisiae is a unicellular budding yeast that ferments sugars anaerobically into ethanol and carbon dioxide, making dough rise in baking and producing alcohol in brewing."
+    },
+    {
+      "id": 3,
+      "question": "In the baking of bread, what causes the dough to expand, rise, and develop a porous spongy texture? (FBISE 2022)",
+      "options": {
+        "A": "Production of oxygen gas by cellular photosynthesis",
+        "B": "Accumulation of bubbles of carbon dioxide (CO2) gas produced by yeast fermentation",
+        "C": "Expansion of pure nitrogen gas pockets",
+        "D": "Evaporation of sulfuric acid crystals"
+      },
+      "correctAnswer": "B",
+      "explanation": "During anaerobic fermentation by yeast in dough, carbon dioxide (CO2) gas is released and trapped in the gluten network. When baked, the expanding CO2 creates the light, spongy texture of bread."
+    },
+    {
+      "id": 4,
+      "question": "Which bacterium is traditionally utilized in the dairy industry to ferment milk lactose into lactic acid, producing yogurt and cheese? (FBISE 2024)",
+      "options": {
+        "A": "Lactobacillus (and Streptococcus lactis)",
+        "B": "Salmonella typhi",
+        "C": "Clostridium tetani",
+        "D": "Vibrio cholerae"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lactobacillus acidophilus and related lactic acid bacteria ferment milk lactose into lactic acid, coagulating milk casein protein to produce yogurt, curd, and cheese."
+    },
+    {
+      "id": 5,
+      "question": "A large stainless-steel industrial vessel that provides optimal environmental conditions (temperature, pH, aeration, nutrients) for the mass cultivation of microorganisms is a: (FBISE 2023)",
+      "options": {
+        "A": "Autoclave",
+        "B": "Fermenter (bioreactor)",
+        "C": "Spectrophotometer",
+        "D": "Centrifuge"
+      },
+      "correctAnswer": "B",
+      "explanation": "A fermenter (bioreactor) is a specialized closed vessel engineered to maintain strict control over temperature, dissolved oxygen, pH, and agitation for large-scale microbial synthesis of pharmaceuticals or enzymes."
+    },
+    {
+      "id": 6,
+      "question": "What is the key operational distinction between batch fermentation and continuous fermentation in industrial biotechnology?",
+      "options": {
+        "A": "Continuous fermentation adds nutrients and extracts product continuously without halting",
+        "B": "Batch fermentation never requires any microorganisms",
+        "C": "Batch fermentation operates at absolute zero temperature",
+        "D": "Continuous fermentation is carried out in open plastic buckets"
+      },
+      "correctAnswer": "A",
+      "explanation": "In continuous fermentation, fresh sterile nutrient broth is continuously added while spent broth and product are continuously harvested at the same rate, keeping microbial cultures in constant exponential growth."
+    },
+    {
+      "id": 7,
+      "question": "In genetic engineering, which specialized bacterial enzymes act as molecular scissors to cut double-stranded DNA at specific palindromic nucleotide sequences? (FBISE 2024)",
+      "options": {
+        "A": "DNA ligases",
+        "B": "Restriction endonucleases",
+        "C": "DNA polymerases",
+        "D": "Amylases"
+      },
+      "correctAnswer": "B",
+      "explanation": "Restriction endonucleases recognize specific palindromic recognition sequences (typically 4 to 8 base pairs) and cleave the phosphodiester backbones, generating blunt or cohesive sticky ends."
+    },
+    {
+      "id": 8,
+      "question": "Which enzyme functions as molecular glue in recombinant DNA technology by joining the sugar-phosphate backbones of DNA fragments together? (FBISE 2023)",
+      "options": {
+        "A": "DNA ligase",
+        "B": "Restriction endonuclease",
+        "C": "RNA polymerase",
+        "D": "Helicase"
+      },
+      "correctAnswer": "A",
+      "explanation": "DNA ligase catalyzes the formation of covalent phosphodiester bonds between adjacent 3-hydroxyl and 5-phosphate ends of cut DNA fragments, sealing foreign genes into vector plasmids."
+    },
+    {
+      "id": 9,
+      "question": "Small, circular, double-stranded extrachromosomal DNA molecules found naturally in bacteria that are widely used as vectors in genetic engineering are: (FBISE 2024)",
+      "options": {
+        "A": "Plasmids",
+        "B": "Ribosomes",
+        "C": "Mesosomes",
+        "D": "Bacteriophages"
+      },
+      "correctAnswer": "A",
+      "explanation": "Plasmids are autonomous, self-replicating circular DNA molecules in bacteria. Because they can be easily isolated, cut, spliced with foreign genes, and reintroduced into bacterial cells, they are ideal cloning vectors."
+    },
+    {
+      "id": 10,
+      "question": "A recombinant DNA molecule (chimeric DNA) is formed by:",
+      "options": {
+        "A": "Burning plant leaves to extract ash",
+        "B": "Splicing a target gene of interest into a vector plasmid using restriction enzymes and DNA ligase",
+        "C": "Mixing red and white blood cells in a test tube",
+        "D": "Freezing human chromosomes in liquid nitrogen"
+      },
+      "correctAnswer": "B",
+      "explanation": "Recombinant DNA is constructed in vitro by combining genetic material from multiple sources, typically splicing a foreign target gene into a bacterial plasmid vector."
+    },
+    {
+      "id": 11,
+      "question": "What was the first commercial pharmaceutical protein synthesized using recombinant DNA technology in genetically modified Escherichia coli bacteria? (FBISE 2022)",
+      "options": {
+        "A": "Human insulin (Humulin)",
+        "B": "Aspirin",
+        "C": "Penicillin",
+        "D": "Vitamin C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Human insulin (Humulin) was successfully cloned and produced in E. coli in 1978 and approved for clinical use in 1982, replacing animal pancreas extracts and eliminating severe allergic reactions in diabetics."
+    },
+    {
+      "id": 12,
+      "question": "Transgenic organisms (Genetically Modified Organisms / GMOs) are defined as organisms that:",
+      "options": {
+        "A": "Have been bred exclusively by traditional natural cross-pollination",
+        "B": "Contain foreign genes artificially inserted from another unrelated biological species into their genome",
+        "C": "Lack cell membranes entirely",
+        "D": "Live exclusively under anaerobic marine mud"
+      },
+      "correctAnswer": "B",
+      "explanation": "A transgenic organism (or GMO) possesses stably integrated recombinant DNA originating from an unrelated foreign species, conferring novel beneficial traits such as pest resistance or hormone secretion."
+    },
+    {
+      "id": 13,
+      "question": "Bt cotton and Bt maize crops are genetically engineered to resist insect pests by incorporating an endotoxin gene isolated from which soil bacterium? (FBISE 2023)",
+      "options": {
+        "A": "Bacillus thuringiensis",
+        "B": "Escherichia coli",
+        "C": "Rhizobium leguminosarum",
+        "D": "Streptomyces griseus"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bacillus thuringiensis produces crystalline Cry protein endotoxins lethal to insect pests (like bollworms). Introducing the Bt gene into crop plants confers intrinsic biological resistance, reducing chemical pesticide use."
+    },
+    {
+      "id": 14,
+      "question": "Golden Rice is a transgenic crop biofortified through genetic engineering to synthesize which vital human nutrient? (FBISE 2024)",
+      "options": {
+        "A": "Beta-carotene (provitamin A)",
+        "B": "Vitamin C",
+        "C": "Vitamin D",
+        "D": "Dietary iodine"
+      },
+      "correctAnswer": "A",
+      "explanation": "Golden Rice was engineered with daffodil and bacterial genes to biosynthesize beta-carotene (provitamin A) in the edible rice endosperm, aimed at combating childhood blindness and vitamin A deficiency."
+    },
+    {
+      "id": 15,
+      "question": "Which medical technique aims to treat or cure genetic disorders by inserting normal, functional genes into patient somatic cells to replace defective mutated genes? (FBISE 2021)",
+      "options": {
+        "A": "Chemotherapy",
+        "B": "Gene therapy",
+        "C": "Dialysis",
+        "D": "Radiotherapy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gene therapy is an experimental medical technique that delivers therapeutic corrective genes (via viral vectors) into patient cells to compensate for abnormal, disease-causing mutant alleles."
+    },
+    {
+      "id": 16,
+      "question": "Interferons are naturally occurring anti-viral glycoproteins produced commercially using biotechnology primarily to treat: (FBISE 2023)",
+      "options": {
+        "A": "Severe viral infections (e.g., Hepatitis B and C) and certain cancers",
+        "B": "Fungal athlete foot infections",
+        "C": "Bacterial streptococcal pharyngitis",
+        "D": "Dietary scurvy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Interferons are signaling proteins secreted by virus-infected host cells to inhibit viral replication in neighboring cells. Recombinant human interferons are used to treat chronic viral hepatitis and malignancies."
+    },
+    {
+      "id": 17,
+      "question": "Which fungus is cultured in industrial fermenters for the large-scale commercial biosynthesis of citric acid? (FBISE 2022)",
+      "options": {
+        "A": "Aspergillus niger",
+        "B": "Penicillium notatum",
+        "C": "Rhizopus stolonifer",
+        "D": "Agaricus bisporus"
+      },
+      "correctAnswer": "A",
+      "explanation": "Aspergillus niger is the primary filamentous mold used in industrial aerobic fermentation of molasses and sucrose to synthesize citric acid, an essential acidulant in soft drinks and food preservation."
+    },
+    {
+      "id": 18,
+      "question": "What is the biological vehicle used to transport a foreign gene of interest into a host cell in recombinant DNA technology called? (FBISE 2024)",
+      "options": {
+        "A": "Vector",
+        "B": "Substrate",
+        "C": "Effector",
+        "D": "Chondrosome"
+      },
+      "correctAnswer": "A",
+      "explanation": "A vector is a DNA carrier molecule (such as a bacterial plasmid, cosmid, or bacteriophage) used to deliver recombinant genetic fragments into a host organism where they can be cloned and expressed."
+    },
+    {
+      "id": 19,
+      "question": "Urokinase is an enzyme produced industrially through genetic engineering used clinically for: (FBISE 2021)",
+      "options": {
+        "A": "Dissolving pathological blood clots (thrombi) in myocardial infarction patients",
+        "B": "Stimulating stomach acid production",
+        "C": "Bleaching dental enamel",
+        "D": "Neutralizing snake venoms"
+      },
+      "correctAnswer": "A",
+      "explanation": "Urokinase is a thrombolytic enzyme that activates plasminogen to plasmin, degrading fibrin clots in coronary thrombosis and pulmonary embolism."
+    },
+    {
+      "id": 20,
+      "question": "The introduction of a foreign recombinant plasmid into a competent bacterial host cell is termed:",
+      "options": {
+        "A": "Transformation",
+        "B": "Transpiration",
+        "C": "Translocation",
+        "D": "Transcription"
+      },
+      "correctAnswer": "A",
+      "explanation": "Transformation is the process by which competent bacterial cells take up naked foreign DNA or recombinant plasmids from their surrounding environment."
+    },
+    {
+      "id": 21,
+      "question": "Why are bacteria such as Escherichia coli preferred as ideal hosts for genetic engineering and gene cloning?",
+      "options": {
+        "A": "They reproduce rapidly every 20 minutes and possess simple, well-characterized genomes",
+        "B": "They can survive temperatures above 1,000 degrees Celsius",
+        "C": "They are multicellular organisms with complex nervous systems",
+        "D": "They produce human antibodies spontaneously"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bacteria grow rapidly under laboratory conditions (generation time ~20 min), have well-mapped genomes, easily take up recombinant plasmids, and yield vast quantities of target proteins."
+    },
+    {
+      "id": 22,
+      "question": "The production of human therapeutic pharmaceutical proteins in the milk of genetically modified farm animals (e.g., sheep and goats) is known as:",
+      "options": {
+        "A": "Molecular farming (biopharming)",
+        "B": "Hydroponic farming",
+        "C": "Terrace agriculture",
+        "D": "Silviculture"
+      },
+      "correctAnswer": "A",
+      "explanation": "Molecular farming (biopharming) uses transgenic livestock carrying human genes linked to mammary-specific promoters to secrete complex therapeutic proteins directly into their milk."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following organic acids is produced commercially by the aerobic bacterial fermentation of ethanol using Acetobacter bacteria?",
+      "options": {
+        "A": "Acetic acid (vinegar)",
+        "B": "Hydrochloric acid",
+        "C": "Sulfuric acid",
+        "D": "Nitric acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Acetobacter aceti bacteria oxidize ethanol in the presence of oxygen to produce acetic acid, the primary constituent of commercial culinary vinegar."
+    },
+    {
+      "id": 24,
+      "question": "Single-cell protein (SCP) refers to edible, protein-rich microbial biomass derived from mass-cultured:",
+      "options": {
+        "A": "Algae, yeast, fungi, or bacteria",
+        "B": "Ground beef tissue",
+        "C": "Fish bone powder",
+        "D": "Synthetic plastic granules"
+      },
+      "correctAnswer": "A",
+      "explanation": "Single-cell protein (SCP) refers to purified protein extracted from mass-cultured microalgae (Spirulina), yeasts, or bacteria, serving as a high-protein supplement for human food and animal feed."
+    },
+    {
+      "id": 25,
+      "question": "What is the primary technical objective of attaching an electric cooling jacket around an industrial fermenter?",
+      "options": {
+        "A": "To remove the intense excess metabolic heat generated during rapid microbial respiration",
+        "B": "To freeze the microbial cultures solid",
+        "C": "To prevent air from entering the vessel",
+        "D": "To change the color of the pharmaceutical broth"
+      },
+      "correctAnswer": "A",
+      "explanation": "Microbial fermentation is highly exothermic. Without active cooling jackets or internal cooling coils circulating chilled water, the accumulating metabolic heat would denature microbial enzymes and kill the culture."
+    },
+    {
+      "id": 26,
+      "question": "The process of determining the exact sequential order of adenine, thymine, cytosine, and guanine nucleotide bases in a DNA molecule is: (FBISE 2023)",
+      "options": {
+        "A": "DNA sequencing",
+        "B": "DNA ligation",
+        "C": "Gel electrophoresis",
+        "D": "Centrifugation"
+      },
+      "correctAnswer": "A",
+      "explanation": "DNA sequencing is the laboratory technique used to elucidate the precise base-by-base nucleotide order in an isolated gene, plasmid, or entire genome."
+    },
+    {
+      "id": 27,
+      "question": "Which human hormone produced by recombinant DNA technology is administered to treat children with pituitary growth failure? (FBISE 2022)",
+      "options": {
+        "A": "Human growth hormone (Somatotropin)",
+        "B": "Calcitonin",
+        "C": "Adrenaline",
+        "D": "Oxytocin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Recombinant human growth hormone (somatropin) is synthesized in engineered bacteria and prescribed to treat children with pituitary dwarfism, replacing cadaver pituitary extracts."
+    },
+    {
+      "id": 28,
+      "question": "A collection of total cloned DNA fragments representing the complete genomic sequence of an organism stored inside bacterial or viral vectors is a:",
+      "options": {
+        "A": "Genomic DNA library",
+        "B": "Biological museum",
+        "C": "Karyotype display",
+        "D": "Gene locus map"
+      },
+      "correctAnswer": "A",
+      "explanation": "A genomic library is an exhaustive collection of cloned DNA sequences from an organism, each carried in a cloning vector within a host cell colony, enabling researchers to locate specific genes."
+    },
+    {
+      "id": 29,
+      "question": "The use of biological organisms (such as bacteria and fungi) to degrade, neutralize, and clean up environmental toxins and oil spills is termed: (FBISE 2024)",
+      "options": {
+        "A": "Bioremediation",
+        "B": "Biomagnification",
+        "C": "Bioaccumulation",
+        "D": "Biodegradation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bioremediation is the environmental biotechnology practice of using microorganisms to break down, neutralize, and clean up hazardous environmental pollutants, pesticides, or marine oil spills."
+    },
+    {
+      "id": 30,
+      "question": "Why is alcoholic fermentation termed an anaerobic process?",
+      "options": {
+        "A": "It proceeds strictly in the absence of free molecular oxygen (O2)",
+        "B": "It requires liquid nitrogen to operate",
+        "C": "It produces pure liquid oxygen as a byproduct",
+        "D": "It consumes massive volumes of air at high pressure"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fermentation pathways operate anaerobically (without oxygen). In the absence of oxygen, NADH reduces acetaldehyde to ethanol, regenerating NAD+ so glycolysis can continue generating ATP."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is a classic risk or ethical concern associated with the environmental release of Genetically Modified (GM) crops?",
+      "options": {
+        "A": "Potential transfer of herbicide-resistance genes to wild weedy relatives (superweeds)",
+        "B": "The plants will immediately stop photosynthesizing",
+        "C": "GM crops will drain all fresh water on the continent",
+        "D": "All insects worldwide will immediately become extinct"
+      },
+      "correctAnswer": "A",
+      "explanation": "Environmental biosafety concerns with GM crops include the risk of horizontal gene transfer or cross-pollination with wild relatives, potentially generating invasive, herbicide-resistant superweeds."
+    },
+    {
+      "id": 32,
+      "question": "What is the primary role of the sparger in an industrial aerobic fermenter?",
+      "options": {
+        "A": "Pumping sterile compressed air or oxygen bubbles through the liquid culture medium",
+        "B": "Adding concentrated hydrochloric acid to destroy bacteria",
+        "C": "Collecting solid plastic debris from the tank floor",
+        "D": "Rotating the entire external casing of the vessel"
+      },
+      "correctAnswer": "A",
+      "explanation": "A sparger is a porous pipe located at the base of an aerobic fermenter that introduces pressurized sterile air or oxygen in fine microbubbles, ensuring adequate dissolved oxygen for aerobic microbes."
+    },
+    {
+      "id": 33,
+      "question": "Which antibiotic was historically the first to be discovered and produced commercially from a fungal culture? (FBISE 2021)",
+      "options": {
+        "A": "Penicillin",
+        "B": "Tetracycline",
+        "C": "Streptomycin",
+        "D": "Ciprofloxacin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Penicillin was discovered by Sir Alexander Fleming in 1928 from the mold Penicillium notatum and later mass-produced through fungal fermentation, revolutionizing clinical medicine."
+    },
+    {
+      "id": 34,
+      "question": "In genetic engineering, sticky ends produced by restriction endonucleases are characterized as:",
+      "options": {
+        "A": "Single-stranded overhangs of DNA capable of base-pairing with complementary sticky ends",
+        "B": "Solid drops of lipid wax holding chromosomes together",
+        "C": "Strips of cellular membrane that cannot bind DNA",
+        "D": "Segments of DNA containing only sulfur atoms"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sticky ends are single-stranded staggered overhangs of DNA produced by staggered restriction enzyme cleavage that readily form complementary hydrogen bonds with matching cohesive ends."
+    },
+    {
+      "id": 35,
+      "question": "The branch of biotechnology focused on editing and replacing defective human genes using targeted molecular tools is: (FBISE 2024)",
+      "options": {
+        "A": "Gene therapy and genome editing",
+        "B": "Traditional herbalism",
+        "C": "Hydroponic gardening",
+        "D": "Zoological taxidermy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Gene therapy and modern genome editing technologies (such as CRISPR-Cas9) provide targeted molecular tools to directly repair, replace, or deactivate defective disease-causing genetic sequences."
+    }
+  ]
+}

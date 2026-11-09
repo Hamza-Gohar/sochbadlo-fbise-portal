@@ -1,0 +1,491 @@
+{
+  "chapterNumber": 3,
+  "chapterTitle": "Unit 12: Coordination and Control",
+  "slug": "biology-10-chapter-3",
+  "totalQuestions": 40,
+  "fileName": "biology-10-chapter-3.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which endocrine gland regulates basal metabolic rate and cellular oxygen consumption throughout the human body? (FBISE 2024)",
+      "options": {
+        "A": "Adrenal gland",
+        "B": "Thyroid gland",
+        "C": "Pineal gland",
+        "D": "Thymus"
+      },
+      "correctAnswer": "B",
+      "explanation": "The thyroid gland secretes thyroxine (tetraiodothyronine / T4) and triiodothyronine (T3), which stimulate cellular metabolism, protein synthesis, and heat production in nearly all tissues."
+    },
+    {
+      "id": 2,
+      "question": "Which hormone is rapidly released from the adrenal medulla during emergency fight-or-flight situations to increase blood glucose and cardiac output? (FBISE 2023)",
+      "options": {
+        "A": "Insulin",
+        "B": "Thyroxine",
+        "C": "Estrogen",
+        "D": "Epinephrine (Adrenaline)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Epinephrine (adrenaline) is secreted by the adrenal medulla under acute sympathetic stimulation. It elevates blood pressure, accelerates heart rate, and promotes glycogen breakdown in liver and skeletal muscles."
+    },
+    {
+      "id": 3,
+      "question": "Which anatomical region of the brain is primarily responsible for coordinating voluntary skeletal muscle contractions, maintaining posture, and body balance? (FBISE 2023)",
+      "options": {
+        "A": "Cerebrum",
+        "B": "Cerebellum",
+        "C": "Hypothalamus",
+        "D": "Pons"
+      },
+      "correctAnswer": "B",
+      "explanation": "The cerebellum, located behind the brainstem under the occipital lobes, integrates sensory input from inner ear balance organs and muscles to coordinate smooth, balanced motor movements."
+    },
+    {
+      "id": 4,
+      "question": "Which endocrine gland is traditionally designated as the master gland because its tropic hormones regulate other endocrine glands? (FBISE 2022)",
+      "options": {
+        "A": "Thyroid gland",
+        "B": "Pituitary gland",
+        "C": "Pancreas",
+        "D": "Adrenal gland"
+      },
+      "correctAnswer": "B",
+      "explanation": "The anterior pituitary gland secretes tropic hormones (such as TSH, ACTH, FSH, and LH) that govern the activity of the thyroid, adrenal cortex, and gonads, earning it the title of master gland."
+    },
+    {
+      "id": 5,
+      "question": "Which hormone secreted by the thyroid gland acts to lower elevated calcium levels in the blood by stimulating bone deposition? (FBISE 2024)",
+      "options": {
+        "A": "Parathormone",
+        "B": "Calcitonin",
+        "C": "Thyroxine",
+        "D": "Aldosterone"
+      },
+      "correctAnswer": "B",
+      "explanation": "Calcitonin is produced by the parafollicular cells of the thyroid gland. When blood calcium levels rise, calcitonin is secreted to promote calcium deposition in bone and reduce renal calcium reabsorption."
+    },
+    {
+      "id": 6,
+      "question": "What is the basic microscopic structural and functional unit of the human nervous system?",
+      "options": {
+        "A": "Neuron (nerve cell)",
+        "B": "Nephron",
+        "C": "Glomerulus",
+        "D": "Chondrocyte"
+      },
+      "correctAnswer": "A",
+      "explanation": "Neurons are highly specialized excitable cells that generate, receive, and conduct electrochemical signals (nerve impulses) throughout the nervous system."
+    },
+    {
+      "id": 7,
+      "question": "A nerve impulse is physiologically characterized as a:",
+      "options": {
+        "A": "Pure mechanical pressure wave along blood vessels",
+        "B": "Chemical stream of liquid hormones inside the axon",
+        "C": "Self-propagating wave of electrochemical depolarization along the axonal membrane",
+        "D": "Static thermal vibration of connective tissue"
+      },
+      "correctAnswer": "C",
+      "explanation": "A nerve impulse is an action potential, which is a transient wave of electrical depolarization and repolarization caused by the sequential opening of voltage-gated sodium and potassium channels."
+    },
+    {
+      "id": 8,
+      "question": "Which pancreatic hormone lowers elevated blood sugar levels by stimulating cellular glucose uptake and glycogen synthesis in the liver? (FBISE 2023)",
+      "options": {
+        "A": "Insulin",
+        "B": "Glucagon",
+        "C": "Somatostatin",
+        "D": "Adrenaline"
+      },
+      "correctAnswer": "A",
+      "explanation": "Insulin, secreted by beta cells of the islets of Langerhans in the pancreas, decreases blood glucose by facilitating glucose transport into body cells and stimulating glycogenesis."
+    },
+    {
+      "id": 9,
+      "question": "Neurons that transmit impulses from the central nervous system (brain and spinal cord) to effectors (muscles and glands) are classified as:",
+      "options": {
+        "A": "Sensory neurons (afferent)",
+        "B": "Motor neurons (efferent)",
+        "C": "Interneurons (associative)",
+        "D": "Bipolar retinal cells"
+      },
+      "correctAnswer": "B",
+      "explanation": "Motor (efferent) neurons conduct directives outward from the central nervous system to effectors such as skeletal muscles or secretory glands to produce a physiological response."
+    },
+    {
+      "id": 10,
+      "question": "Which division of the autonomic nervous system is responsible for accelerating heartbeat, dilating bronchioles, and inhibiting digestion during stress?",
+      "options": {
+        "A": "Sympathetic nervous system",
+        "B": "Parasympathetic nervous system",
+        "C": "Somatic nervous system",
+        "D": "Sensory afferent system"
+      },
+      "correctAnswer": "A",
+      "explanation": "The sympathetic division triggers the fight-or-flight response, preparing the body for intense physical exertion by diverting blood to muscles, increasing heart rate, and halting vegetative processes."
+    },
+    {
+      "id": 11,
+      "question": "Which hormone produced by the corpus luteum and placenta is essential for maintaining the vascular lining of the uterus during pregnancy?",
+      "options": {
+        "A": "Estrogen",
+        "B": "Luteinizing hormone",
+        "C": "Progesterone",
+        "D": "Oxytocin"
+      },
+      "correctAnswer": "C",
+      "explanation": "Progesterone prepares and maintains the uterine endometrium for blastocyst implantation and suppresses uterine contractions throughout the course of normal pregnancy."
+    },
+    {
+      "id": 12,
+      "question": "Which pigmented circular structure of the human eye contains smooth muscles that contract or dilate to control the diameter of the pupil? (FBISE 2022)",
+      "options": {
+        "A": "Cornea",
+        "B": "Iris",
+        "C": "Sclera",
+        "D": "Choroid"
+      },
+      "correctAnswer": "B",
+      "explanation": "The iris is the colored muscular diaphragm behind the cornea. Its radial and circular smooth muscle fibers regulate the size of the pupil, controlling the amount of light entering the interior eye."
+    },
+    {
+      "id": 13,
+      "question": "The photosensitive inner layer of the eyeball containing photoreceptor rod and cone cells is the: (FBISE 2021)",
+      "options": {
+        "A": "Retina",
+        "B": "Sclera",
+        "C": "Cornea",
+        "D": "Conjunctiva"
+      },
+      "correctAnswer": "A",
+      "explanation": "The retina is the neurosensory inner coat of the eye where optical images are focused onto rods (night vision) and cones (color vision) and transduced into electrical impulses."
+    },
+    {
+      "id": 14,
+      "question": "Which region of the hindbrain contains autonomic reflex centers for vital functions including heart rate, respiration, swallowing, and vomiting? (FBISE 2023)",
+      "options": {
+        "A": "Cerebrum",
+        "B": "Thalamus",
+        "C": "Medulla oblongata",
+        "D": "Hypothalamus"
+      },
+      "correctAnswer": "C",
+      "explanation": "The medulla oblongata connects the brain to the spinal cord and houses vital autonomic centers governing cardiac contraction, vasomotor tone, respiratory rhythm, coughing, and swallowing."
+    },
+    {
+      "id": 15,
+      "question": "Hyposecretion of growth hormone (somatotropin) during childhood results in which developmental condition?",
+      "options": {
+        "A": "Gigantism",
+        "B": "Pituitary dwarfism",
+        "C": "Acromegaly",
+        "D": "Cretinism"
+      },
+      "correctAnswer": "B",
+      "explanation": "Insufficient production of growth hormone by the anterior pituitary during the growth years leads to pituitary dwarfism, where the individual remains abnormally short but with proportionate body features."
+    },
+    {
+      "id": 16,
+      "question": "A nutritional deficiency of dietary iodine prevents normal thyroxine synthesis, causing compensatory enlargement of the thyroid gland termed: (FBISE 2024)",
+      "options": {
+        "A": "Endemic goiter",
+        "B": "Diabetes insipidus",
+        "C": "Grave disease",
+        "D": "Tetany"
+      },
+      "correctAnswer": "A",
+      "explanation": "Iodine is a mandatory structural atom of thyroxine. Without iodine, the thyroid cannot make hormones, and continuous TSH stimulation causes excessive thyroid tissue hyperplasia known as a goiter."
+    },
+    {
+      "id": 17,
+      "question": "Which organ of the inner ear contains the fluid-filled semicircular canals and vestibule responsible for detecting dynamic and static balance? (FBISE 2022)",
+      "options": {
+        "A": "Cochlea",
+        "B": "Vestibular apparatus (semicircular canals and vestibule)",
+        "C": "Tympanic membrane",
+        "D": "Eustachian tube"
+      },
+      "correctAnswer": "B",
+      "explanation": "The three fluid-filled semicircular canals (detecting rotational movements) and the vestibule with utricle and saccule (detecting gravitational orientation) maintain physical balance and equilibrium."
+    },
+    {
+      "id": 18,
+      "question": "Which type of neurons are located entirely within the central nervous system to process, integrate, and interpret incoming sensory information?",
+      "options": {
+        "A": "Sensory neurons",
+        "B": "Motor neurons",
+        "C": "Interneurons (relay neurons)",
+        "D": "Sympathetic ganglionic neurons"
+      },
+      "correctAnswer": "C",
+      "explanation": "Interneurons (associative or relay neurons) reside exclusively within the brain and spinal cord, forming complex computational circuits between sensory inputs and motor outputs."
+    },
+    {
+      "id": 19,
+      "question": "The microscopic specialized chemical junction across which a nerve impulse is transmitted between two adjacent neurons is called a: (FBISE 2023)",
+      "options": {
+        "A": "Synapse",
+        "B": "Neuromuscular spindle",
+        "C": "Node of Ranvier",
+        "D": "Myelin gap"
+      },
+      "correctAnswer": "A",
+      "explanation": "A synapse is the microscopic junction between an axonal terminal of one neuron and the dendrite or soma of another. Action potentials trigger neurotransmitter release across the synaptic cleft."
+    },
+    {
+      "id": 20,
+      "question": "Which brain structure acts as the principal homeostatic thermostat, regulating body temperature, thirst, hunger, and emotional responses?",
+      "options": {
+        "A": "Thalamus",
+        "B": "Hypothalamus",
+        "C": "Cerebellum",
+        "D": "Pons"
+      },
+      "correctAnswer": "B",
+      "explanation": "The hypothalamus, located below the thalamus, is the primary control center for homeostatic maintenance, monitoring blood temperature, osmolality, and endocrine release."
+    },
+    {
+      "id": 21,
+      "question": "The coiled, snail-shell-like auditory structure of the mammalian inner ear that contains the organ of Corti with sensory hair cells for hearing is the:",
+      "options": {
+        "A": "Pinna",
+        "B": "Cochlea",
+        "C": "Tympanic membrane",
+        "D": "Incus"
+      },
+      "correctAnswer": "B",
+      "explanation": "The cochlea is a fluid-filled coiled canal containing the basilar membrane and organ of Corti. Sound pressure waves deform hair cells, converting mechanical fluid vibrations into acoustic nerve signals."
+    },
+    {
+      "id": 22,
+      "question": "What is the primary physiological function of the spinal cord in the human body?",
+      "options": {
+        "A": "Serving as the conduit for bidirectional nerve tracts and coordinating rapid reflex actions",
+        "B": "Direct synthesis of metabolic steroid hormones",
+        "C": "Oxygenation of systemic capillary blood",
+        "D": "Filtration of cerebrospinal fluid into lymphatic vessels"
+      },
+      "correctAnswer": "A",
+      "explanation": "The spinal cord transmits nerve impulses between the peripheral body and the brain, and functions as the primary independent integrating coordinator for rapid spinal reflexes."
+    },
+    {
+      "id": 23,
+      "question": "The three protective connective tissue membranes that envelop the brain and spinal cord are collectively termed the: (FBISE 2024)",
+      "options": {
+        "A": "Pleural membranes",
+        "B": "Pericardial layers",
+        "C": "Meninges (dura mater, arachnoid mater, pia mater)",
+        "D": "Peritoneal folds"
+      },
+      "correctAnswer": "C",
+      "explanation": "The brain and spinal cord are cushioned and enveloped by three meningeal layers: the tough outer dura mater, web-like middle arachnoid mater, and delicate inner pia mater."
+    },
+    {
+      "id": 24,
+      "question": "The largest, most developed region of the human brain responsible for conscious thought, voluntary action, memory, reasoning, and speech is the:",
+      "options": {
+        "A": "Cerebrum",
+        "B": "Cerebellum",
+        "C": "Medulla oblongata",
+        "D": "Midbrain"
+      },
+      "correctAnswer": "A",
+      "explanation": "The cerebrum comprises roughly 85% of human brain mass. Its convoluted cerebral cortex carries out sensory perception, higher intellect, language processing, and voluntary motor control."
+    },
+    {
+      "id": 25,
+      "question": "The thick bundle of transverse myelinated nerve fibers connecting and enabling communication between the left and right cerebral hemispheres is the:",
+      "options": {
+        "A": "Corpus callosum",
+        "B": "Central sulcus",
+        "C": "Brainstem",
+        "D": "Arbor vitae"
+      },
+      "correctAnswer": "A",
+      "explanation": "The corpus callosum is a broad C-shaped nerve fiber tract beneath the cortex that bridges the two cerebral hemispheres, coordinating cognitive information between both sides."
+    },
+    {
+      "id": 26,
+      "question": "The clear protective fluid circulating within the brain ventricles, central canal, and subarachnoid space is the:",
+      "options": {
+        "A": "Synovial fluid",
+        "B": "Lymphatic plasma",
+        "C": "Cerebrospinal fluid (CSF)",
+        "D": "Aqueous humor"
+      },
+      "correctAnswer": "C",
+      "explanation": "Cerebrospinal fluid (CSF) cushions the delicate brain tissue against mechanical shock, provides buoyancy, and delivers nutrients while removing metabolic waste."
+    },
+    {
+      "id": 27,
+      "question": "Which anterior pituitary hormone triggers milk synthesis in mammary glands following childbirth?",
+      "options": {
+        "A": "Oxytocin",
+        "B": "Prolactin",
+        "C": "Vasopressin",
+        "D": "Luteinizing hormone"
+      },
+      "correctAnswer": "B",
+      "explanation": "Prolactin (luteotropic hormone) is secreted by the anterior pituitary to initiate and sustain milk production in female breast tissue after parturition."
+    },
+    {
+      "id": 28,
+      "question": "Which posterior pituitary hormone stimulates powerful uterine smooth muscle contractions during labor and promotes milk ejection (letdown)? (FBISE 2021)",
+      "options": {
+        "A": "Prolactin",
+        "B": "Oxytocin",
+        "C": "Estrogen",
+        "D": "Progesterone"
+      },
+      "correctAnswer": "B",
+      "explanation": "Oxytocin, synthesized in the hypothalamus and released from the posterior pituitary, stimulates rhythmic uterine contractions during childbirth and milk ejection during nursing."
+    },
+    {
+      "id": 29,
+      "question": "An immediate, automatic, and involuntary motor response to a painful stimulus without prior conscious thought is called a: (FBISE 2023)",
+      "options": {
+        "A": "Voluntary decision",
+        "B": "Learned behavioral habit",
+        "C": "Reflex action",
+        "D": "Cognitive perception"
+      },
+      "correctAnswer": "C",
+      "explanation": "A reflex action is an involuntary, rapid response to an external or internal stimulus that protects the body from injury before the conscious brain can even perceive the event."
+    },
+    {
+      "id": 30,
+      "question": "The correct anatomical sequence of components in a typical somatic reflex arc is:",
+      "options": {
+        "A": "Effector -> Motor neuron -> Interneuron -> Sensory neuron -> Receptor",
+        "B": "Receptor -> Sensory neuron -> Interneuron in spinal cord -> Motor neuron -> Effector",
+        "C": "Receptor -> Motor neuron -> Brain cortex -> Sensory neuron -> Effector",
+        "D": "Interneuron -> Receptor -> Sensory neuron -> Motor neuron -> Effector"
+      },
+      "correctAnswer": "B",
+      "explanation": "A reflex arc begins with a sensory receptor detecting a stimulus, conducts along a sensory neuron to an interneuron in the spinal cord, and exits via a motor neuron to an effector muscle or gland."
+    },
+    {
+      "id": 31,
+      "question": "The gelatinous fluid filling the large posterior chamber of the eyeball behind the lens that maintains the spherical shape of the eye is the:",
+      "options": {
+        "A": "Vitreous humor",
+        "B": "Aqueous humor",
+        "C": "Tear fluid",
+        "D": "Cerebrospinal fluid"
+      },
+      "correctAnswer": "A",
+      "explanation": "The vitreous humor (vitreous body) is a transparent jelly filling the space between the lens and retina, providing mechanical support to keep the retina pressed against the choroid."
+    },
+    {
+      "id": 32,
+      "question": "The visible external cartilaginous flap of the human ear that collects and directs sound waves into the auditory canal is the:",
+      "options": {
+        "A": "Pinna (auricle)",
+        "B": "Tympanic membrane",
+        "C": "Malleus",
+        "D": "Cochlea"
+      },
+      "correctAnswer": "A",
+      "explanation": "The pinna (or auricle) is the external funnel-like projection of elastic cartilage covered by skin that captures sound pressure waves from the environment and directs them into the ear canal."
+    },
+    {
+      "id": 33,
+      "question": "A clinical optical defect in which the crystalline lens of the human eye becomes cloudy or opaque, severely obscuring vision, is called: (FBISE 2024)",
+      "options": {
+        "A": "Glaucoma",
+        "B": "Cataract",
+        "C": "Myopia",
+        "D": "Astigmatism"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cataract is the progressive opacification of the natural eye lens due to protein aggregation, leading to blurred vision, glare, and eventual blindness if not surgically replaced."
+    },
+    {
+      "id": 34,
+      "question": "A visual condition where distant objects appear blurred because light rays are focused in front of the retina is known as: (FBISE 2022)",
+      "options": {
+        "A": "Hypermetropia (farsightedness)",
+        "B": "Myopia (nearsightedness)",
+        "C": "Presbyopia",
+        "D": "Strabismus"
+      },
+      "correctAnswer": "B",
+      "explanation": "In myopia (nearsightedness), either the eyeball is too long or the cornea is excessively curved, causing parallel light rays to focus in front of the retina. It is corrected with concave lenses."
+    },
+    {
+      "id": 35,
+      "question": "Which auditory structure equalizes air pressure between the middle ear cavity and the external atmosphere?",
+      "options": {
+        "A": "Eustachian tube",
+        "B": "Auditory canal",
+        "C": "Semicircular canal",
+        "D": "Cochlear duct"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Eustachian (auditory) tube connects the middle ear cavity to the nasopharynx, equalizing atmospheric air pressure on both sides of the tympanic membrane to allow free vibration."
+    },
+    {
+      "id": 36,
+      "question": "Which hormone secreted by the parathyroid glands increases blood calcium concentrations by mobilizing calcium from bone tissue into plasma?",
+      "options": {
+        "A": "Parathormone (PTH)",
+        "B": "Calcitonin",
+        "C": "Thyroxine",
+        "D": "Cortisol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Parathormone (PTH) is released in response to low serum calcium. It activates osteoclasts to dissolve bone matrix, stimulates renal calcium retention, and promotes intestinal calcium absorption."
+    },
+    {
+      "id": 37,
+      "question": "The part of a neuron that conducts outgoing electrochemical impulses away from the cell body toward target cells is the: (FBISE 2023)",
+      "options": {
+        "A": "Dendrite",
+        "B": "Axon",
+        "C": "Soma",
+        "D": "Nissl granule"
+      },
+      "correctAnswer": "B",
+      "explanation": "The axon is a single, elongated cylindrical cytoplasmic extension that transmits action potentials away from the neuronal soma toward terminal synaptic boutons."
+    },
+    {
+      "id": 38,
+      "question": "The cranial nerve that transmits electrical visual signals directly from the retina to the visual cortex of the occipital lobe is the:",
+      "options": {
+        "A": "Optic nerve (Cranial Nerve II)",
+        "B": "Auditory nerve (Cranial Nerve VIII)",
+        "C": "Olfactory nerve (Cranial Nerve I)",
+        "D": "Vagus nerve (Cranial Nerve X)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Axons of retinal ganglion cells converge at the optic disc to form the optic nerve, transmitting visual sensory impulses across the optic chiasm to the brain."
+    },
+    {
+      "id": 39,
+      "question": "Parkinson disease is a progressive neurodegenerative disorder caused primarily by the depletion of which neurotransmitter in the basal ganglia of the brain?",
+      "options": {
+        "A": "Dopamine",
+        "B": "Acetylcholine",
+        "C": "Serotonin",
+        "D": "Histamine"
+      },
+      "correctAnswer": "A",
+      "explanation": "Parkinsons disease results from progressive degeneration of dopamine-producing neurons in the substantia nigra, leading to tremors, muscle rigidity, and bradykinesia."
+    },
+    {
+      "id": 40,
+      "question": "In a negative feedback homeostatic loop, when the circulating concentration of a hormone rises above normal physiological limits, the control center responds by:",
+      "options": {
+        "A": "Increasing hormone synthesis further",
+        "B": "Inhibiting or decreasing further secretion of that hormone",
+        "C": "Converting all body cells into endocrine glands",
+        "D": "Halting oxygen delivery to tissues"
+      },
+      "correctAnswer": "B",
+      "explanation": "In negative feedback mechanisms, an increase in output produces an inhibitory counter-signal that decreases or turns off further production, restoring equilibrium."
+    }
+  ]
+}

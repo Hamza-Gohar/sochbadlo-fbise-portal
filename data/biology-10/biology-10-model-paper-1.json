@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 10,
+  "chapterTitle": "FBISE Annual Exam Simulator 01 (Unit 10 & 11: Gaseous Exchange & Homeostasis)",
+  "slug": "biology-10-model-paper-1",
+  "totalQuestions": 12,
+  "fileName": "biology-10-model-paper-1.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which structure prevents food and liquids from entering the trachea during swallowing? (FBISE Annual 2024)",
+      "options": {
+        "A": "Vocal cord",
+        "B": "Epiglottis",
+        "C": "Thyroid cartilage",
+        "D": "Soft palate"
+      },
+      "correctAnswer": "B",
+      "explanation": "The epiglottis folds down over the glottis during deglutition, preventing aspirated food particles from entering the respiratory tree."
+    },
+    {
+      "id": 2,
+      "question": "What is the primary site of rapid respiratory gas exchange in human lungs?",
+      "options": {
+        "A": "Terminal bronchioles",
+        "B": "Alveolar sacs and alveoli",
+        "C": "Primary bronchi",
+        "D": "Trachea"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alveoli provide an expansive, moist surface area surrounded by capillary beds where oxygen and carbon dioxide diffuse rapidly."
+    },
+    {
+      "id": 3,
+      "question": "During inhalation in humans, which combination of muscle actions occurs?",
+      "options": {
+        "A": "Diaphragm relaxes into dome shape and ribs move down",
+        "B": "Diaphragm contracts and flattens, while external intercostal muscles elevate ribs",
+        "C": "Internal intercostal muscles contract strongly",
+        "D": "Abdominal wall muscles compress thoracic contents"
+      },
+      "correctAnswer": "B",
+      "explanation": "Inhalation is active: contraction and flattening of the diaphragm combined with contraction of external intercostals expands thoracic volume."
+    },
+    {
+      "id": 4,
+      "question": "The respiratory disorder characterized by permanent destruction of alveolar septa, creating enlarged air spaces and reducing surface area, is: (FBISE 2023)",
+      "options": {
+        "A": "Bronchitis",
+        "B": "Emphysema",
+        "C": "Pneumonia",
+        "D": "Asthma"
+      },
+      "correctAnswer": "B",
+      "explanation": "Emphysema involves irreversible destruction of elastic alveolar walls, leading to trapped air and impaired gas diffusion."
+    },
+    {
+      "id": 5,
+      "question": "The toxic component in tobacco smoke that binds irreversibly with hemoglobin, drastically lowering blood oxygen capacity, is:",
+      "options": {
+        "A": "Nicotine",
+        "B": "Carbon monoxide",
+        "C": "Tar",
+        "D": "Nitrogen dioxide"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbon monoxide binds hemoglobin with an affinity 200 times higher than oxygen, forming stable carboxyhemoglobin."
+    },
+    {
+      "id": 6,
+      "question": "The microscopic structural and functional filtration unit of the human kidney is the: (FBISE 2024)",
+      "options": {
+        "A": "Nephron",
+        "B": "Neuron",
+        "C": "Alveolus",
+        "D": "Ureter"
+      },
+      "correctAnswer": "A",
+      "explanation": "Each human kidney contains roughly 1 million microscopic nephrons that filter metabolic waste and maintain water-solute balance."
+    },
+    {
+      "id": 7,
+      "question": "In which part of the nephron does hydrostatic pressure-driven ultrafiltration of blood occur? (FBISE 2023)",
+      "options": {
+        "A": "Loop of Henle",
+        "B": "Glomerulus and Bowman capsule",
+        "C": "Distal convoluted tubule",
+        "D": "Collecting duct"
+      },
+      "correctAnswer": "B",
+      "explanation": "High blood pressure inside the glomerulus forces water and small dissolved solutes through capillary walls into Bowman capsule."
+    },
+    {
+      "id": 8,
+      "question": "Which hormone secreted by the posterior pituitary regulates water reabsorption in the collecting ducts of the kidney?",
+      "options": {
+        "A": "Insulin",
+        "B": "Antidiuretic hormone (ADH / Vasopressin)",
+        "C": "Thyroxine",
+        "D": "Glucagon"
+      },
+      "correctAnswer": "B",
+      "explanation": "ADH increases water permeability in collecting ducts, facilitating water retention and producing concentrated urine."
+    },
+    {
+      "id": 9,
+      "question": "Plants adapted to survive in arid, drought-stricken desert environments are classified as: (FBISE 2022)",
+      "options": {
+        "A": "Hydrophytes",
+        "B": "Mesophytes",
+        "C": "Xerophytes",
+        "D": "Halophytes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Xerophytes possess thick cuticles, sunken stomata, and succulent water-storing tissues to minimize transpirational water loss."
+    },
+    {
+      "id": 10,
+      "question": "The exudation of liquid water droplets through hydathodes along leaf margins under high root pressure is termed:",
+      "options": {
+        "A": "Transpiration",
+        "B": "Guttation",
+        "C": "Imbibition",
+        "D": "Plasmolysis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Guttation occurs at night or in humid air when root pressure pushes liquid sap out through marginal hydathodes."
+    },
+    {
+      "id": 11,
+      "question": "The non-invasive clinical procedure that breaks kidney stones into passable sand-like gravel using acoustic shock waves is: (FBISE 2024)",
+      "options": {
+        "A": "Dialysis",
+        "B": "Lithotripsy",
+        "C": "Laparotomy",
+        "D": "Angioplasty"
+      },
+      "correctAnswer": "B",
+      "explanation": "Extracorporeal shock wave lithotripsy (ESWL) focuses high-energy ultrasonic pulses to pulverize kidney stones into fragments."
+    },
+    {
+      "id": 12,
+      "question": "In hemodialysis, metabolic waste products move across the artificial semipermeable membrane from blood into dialysate primarily by:",
+      "options": {
+        "A": "Active transport requiring ATP",
+        "B": "Simple diffusion down concentration gradients",
+        "C": "Phagocytosis",
+        "D": "Pinocytosis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Urea and excess solutes diffuse down their concentration gradients from blood into the constantly flowing dialysate fluid."
+    }
+  ]
+}

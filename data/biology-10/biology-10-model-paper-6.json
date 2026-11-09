@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 15,
+  "chapterTitle": "FBISE Annual Exam Simulator 06 (FBISE Past Board Papers Focus 2019–2024)",
+  "slug": "biology-10-model-paper-6",
+  "totalQuestions": 12,
+  "fileName": "biology-10-model-paper-6.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the normal breathing rate of a healthy adult human at rest? (FBISE Past Paper 2020, 2023)",
+      "options": {
+        "A": "5–10 times per minute",
+        "B": "12–20 times per minute",
+        "C": "30–40 times per minute",
+        "D": "60–70 times per minute"
+      },
+      "correctAnswer": "B",
+      "explanation": "Under normal resting basal conditions, a healthy adult breathes at a rate of 12 to 20 cycles per minute."
+    },
+    {
+      "id": 2,
+      "question": "The structural and functional unit of the human kidney is the: (FBISE Past Paper 2019, 2022)",
+      "options": {
+        "A": "Alveolus",
+        "B": "Nephron",
+        "C": "Neuron",
+        "D": "Glomerulus"
+      },
+      "correctAnswer": "B",
+      "explanation": "The nephron is the microscopic functional unit comprising Bowman capsule, convoluted tubules, and loop of Henle."
+    },
+    {
+      "id": 3,
+      "question": "Which muscle sheet forms the floor of the chest cavity and contracts during inspiration? (FBISE Past Paper 2021)",
+      "options": {
+        "A": "Diaphragm",
+        "B": "Intercostal muscle",
+        "C": "Cardiac muscle",
+        "D": "Pectoralis"
+      },
+      "correctAnswer": "A",
+      "explanation": "The muscular diaphragm contracts downward during inspiration, increasing thoracic volume and drawing air into lungs."
+    },
+    {
+      "id": 4,
+      "question": "The master endocrine gland that directs other hormonal glands in the body is the: (FBISE Past Paper 2020, 2024)",
+      "options": {
+        "A": "Thyroid gland",
+        "B": "Pituitary gland",
+        "C": "Adrenal gland",
+        "D": "Pancreas"
+      },
+      "correctAnswer": "B",
+      "explanation": "The pituitary gland secretes tropic hormones that orchestrate the activity of the thyroid, adrenal cortex, and gonads."
+    },
+    {
+      "id": 5,
+      "question": "In a monohybrid cross of heterozygous pea plants (Tt x Tt), what is the expected F2 phenotypic ratio? (FBISE Past Paper 2019, 2023)",
+      "options": {
+        "A": "1:2:1",
+        "B": "3:1",
+        "C": "9:3:3:1",
+        "D": "1:1"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to Mendelian segregation, selfing F1 heterozygotes yields a 3:1 phenotypic ratio (3 tall : 1 dwarf)."
+    },
+    {
+      "id": 6,
+      "question": "Which gas in tobacco smoke binds irreversibly with hemoglobin to form carboxyhemoglobin? (FBISE Past Paper 2022)",
+      "options": {
+        "A": "Carbon dioxide",
+        "B": "Carbon monoxide",
+        "C": "Sulfur dioxide",
+        "D": "Nitrogen oxide"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbon monoxide binds tightly to hemoglobin, impairing cellular oxygen transport throughout tissues."
+    },
+    {
+      "id": 7,
+      "question": "The U-shaped loop of the renal tubule that creates a hypertonic medullary gradient is the: (FBISE Past Paper 2021)",
+      "options": {
+        "A": "Proximal tubule",
+        "B": "Loop of Henle",
+        "C": "Distal tubule",
+        "D": "Collecting duct"
+      },
+      "correctAnswer": "B",
+      "explanation": "The loop of Henle establishes an osmotic gradient via countercurrent multiplier action to concentrate urine."
+    },
+    {
+      "id": 8,
+      "question": "Freely movable ball-and-socket joints are anatomically present in which locations? (FBISE Past Paper 2023)",
+      "options": {
+        "A": "Shoulder and hip joints",
+        "B": "Elbow and knee joints",
+        "C": "Sutures of cranium",
+        "D": "Vertebral discs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ball-and-socket joints at the shoulder and hip permit omnidirectional rotational movement."
+    },
+    {
+      "id": 9,
+      "question": "Which enzyme functions as molecular glue in genetic engineering to seal recombinant DNA backbones? (FBISE Past Paper 2024)",
+      "options": {
+        "A": "Restriction endonuclease",
+        "B": "DNA ligase",
+        "C": "DNA polymerase",
+        "D": "Amylase"
+      },
+      "correctAnswer": "B",
+      "explanation": "DNA ligase catalyzes phosphodiester bond formation between adjacent DNA fragments."
+    },
+    {
+      "id": 10,
+      "question": "The clinical condition in which an individual requires increasing doses of a drug to produce the same effect is: (FBISE Past Paper 2020)",
+      "options": {
+        "A": "Drug addiction",
+        "B": "Drug tolerance",
+        "C": "Drug withdrawal",
+        "D": "Drug resistance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Drug tolerance develops through desensitization of target receptors or accelerated clearance pathways."
+    },
+    {
+      "id": 11,
+      "question": "Which symbiotic relationship benefits both interacting species simultaneously? (FBISE Past Paper 2022)",
+      "options": {
+        "A": "Parasitism",
+        "B": "Mutualism",
+        "C": "Commensalism",
+        "D": "Predation"
+      },
+      "correctAnswer": "B",
+      "explanation": "In mutualism, both species experience positive fitness and survival benefits from their co-existence."
+    },
+    {
+      "id": 12,
+      "question": "The first clinical antibiotic discovered by Sir Alexander Fleming was: (FBISE Past Paper 2019, 2024)",
+      "options": {
+        "A": "Streptomycin",
+        "B": "Penicillin",
+        "C": "Tetracycline",
+        "D": "Chloramphenicol"
+      },
+      "correctAnswer": "B",
+      "explanation": "Penicillin was discovered by Fleming in 1928 from Penicillium notatum fungal mold."
+    }
+  ]
+}

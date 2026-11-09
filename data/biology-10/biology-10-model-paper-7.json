@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 16,
+  "chapterTitle": "FBISE Annual Exam Simulator 07 (FBISE Diagnostic SLO & Physiological Mechanisms Focus)",
+  "slug": "biology-10-model-paper-7",
+  "totalQuestions": 12,
+  "fileName": "biology-10-model-paper-7.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which primary chemical trigger in arterial blood strongly stimulates the medulla respiratory rhythm center to increase ventilation?",
+      "options": {
+        "A": "Decrease in blood glucose concentration",
+        "B": "Increase in carbon dioxide (CO2) concentration and associated hydrogen ions",
+        "C": "High nitrogen gas saturation",
+        "D": "Excess accumulation of uric acid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chemoreceptors detect rising arterial PCO2 and lowering pH, vigorously signaling the medulla to accelerate ventilation."
+    },
+    {
+      "id": 2,
+      "question": "In the human nephron, where does 100% of filtered glucose and amino acids get reabsorbed back into peritubular capillaries?",
+      "options": {
+        "A": "Proximal Convoluted Tubule (PCT)",
+        "B": "Ascending loop of Henle",
+        "C": "Distal Convoluted Tubule (DCT)",
+        "D": "Collecting duct"
+      },
+      "correctAnswer": "A",
+      "explanation": "The proximal convoluted tubule utilizes active transport to reabsorb all filtered glucose, vitamins, and amino acids."
+    },
+    {
+      "id": 3,
+      "question": "A resting neuron maintains an electrical resting membrane potential of approximately -70 mV primarily through the active action of:",
+      "options": {
+        "A": "Sodium-potassium ATPase pumps (pumping 3 Na+ out for every 2 K+ in)",
+        "B": "Calcium ion diffusion channels",
+        "C": "Chloride influx valves",
+        "D": "Glucose co-transporters"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Na+/K+ ATPase pump electrogenically extrudes 3 Na+ ions for every 2 K+ imported, maintaining the resting negativity inside the axon."
+    },
+    {
+      "id": 4,
+      "question": "The visual defect called cataracts is physiologically characterized by:",
+      "options": {
+        "A": "Excessive intraocular fluid pressure damaging the optic nerve",
+        "B": "Progressive clouding and opacification of the natural crystalline lens",
+        "C": "Total detachment of the retina from the choroid",
+        "D": "Complete absence of rod photoreceptors"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cataracts involve denatured protein aggregation within the eye lens, causing opacification and progressive loss of vision."
+    },
+    {
+      "id": 5,
+      "question": "How does rheumatoid arthritis fundamentally differ from osteoarthritis in pathophysiology?",
+      "options": {
+        "A": "Rheumatoid arthritis is an autoimmune destruction of synovial membranes, whereas osteoarthritis is mechanical cartilage wear",
+        "B": "Osteoarthritis is caused entirely by viral infections",
+        "C": "Rheumatoid arthritis affects only bones of the lower ankle",
+        "D": "Osteoarthritis is cured with simple vitamin A supplements"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rheumatoid arthritis is an autoimmune disease targeting the synovial membrane, whereas osteoarthritis is degenerative cartilage erosion."
+    },
+    {
+      "id": 6,
+      "question": "In angiosperm reproduction, the female gametophyte (embryo sac) within a mature ovule typically consists of:",
+      "options": {
+        "A": "Two diploid zygotes",
+        "B": "7 cells and 8 haploid nuclei",
+        "C": "100 microspores",
+        "D": "Four triploid endosperm cells"
+      },
+      "correctAnswer": "B",
+      "explanation": "The mature embryo sac contains 1 egg cell, 2 synergids, 3 antipodal cells, and 1 central cell with 2 polar nuclei (7 cells, 8 nuclei)."
+    },
+    {
+      "id": 7,
+      "question": "A cross between a homozygous red-eyed Drosophila and a homozygous white-eyed fly demonstrates which genetic principle when all F1 show red eyes?",
+      "options": {
+        "A": "Complete dominance of the red-eye allele",
+        "B": "Incomplete blending dominance",
+        "C": "Co-dominance",
+        "D": "Polygenic epistasis"
+      },
+      "correctAnswer": "A",
+      "explanation": "The red-eye allele completely masks the white-eye allele in the heterozygous state, manifesting classic complete dominance."
+    },
+    {
+      "id": 8,
+      "question": "In the ecological nitrogen cycle, which chemoautotrophic bacteria oxidize soil nitrites (NO2-) into plant-absorbable nitrates (NO3-)?",
+      "options": {
+        "A": "Nitrosomonas",
+        "B": "Nitrobacter",
+        "C": "Rhizobium",
+        "D": "Pseudomonas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nitrobacter completes the nitrification cascade by oxidizing nitrites (NO2-) to nitrates (NO3-)."
+    },
+    {
+      "id": 9,
+      "question": "Why does continuous fermentation maintain higher industrial productivity compared to batch fermentation?",
+      "options": {
+        "A": "Microbes are perpetually maintained in the rapid exponential (log) growth phase",
+        "B": "It operates without any sterility or cooling",
+        "C": "It consumes zero electrical power",
+        "D": "It utilizes dead microorganisms"
+      },
+      "correctAnswer": "A",
+      "explanation": "Constant influx of fresh nutrients and extraction of spent media keeps cultures in peak exponential log growth."
+    },
+    {
+      "id": 10,
+      "question": "Penicillin exerts its selective bactericidal action without harming human host cells because:",
+      "options": {
+        "A": "Human cells possess thick chitin walls",
+        "B": "Human animal cells completely lack peptidoglycan cell walls targeted by penicillin",
+        "C": "Human cells digest penicillin into glucose",
+        "D": "Penicillin only reacts at 100 degrees Celsius"
+      },
+      "correctAnswer": "B",
+      "explanation": "Penicillin targets bacterial peptidoglycan cell walls; because animal cells possess only lipid membranes, the drug is selectively non-toxic."
+    },
+    {
+      "id": 11,
+      "question": "How do memory B and T lymphocytes provide long-term active acquired immunity following vaccination?",
+      "options": {
+        "A": "They constantly destroy healthy blood vessels",
+        "B": "They persist for decades and rapidly synthesize massive antibody titers upon real pathogen exposure",
+        "C": "They prevent all future DNA mutations",
+        "D": "They replace the red bone marrow entirely"
+      },
+      "correctAnswer": "B",
+      "explanation": "Long-lived memory cells recognize specific antigens immediately upon reinfection, mounting a rapid secondary immune response."
+    },
+    {
+      "id": 12,
+      "question": "The physiological mechanism where the output of a biological pathway inhibits the initial step to maintain homeostasis is called:",
+      "options": {
+        "A": "Positive feedback",
+        "B": "Negative feedback",
+        "C": "Feedforward amplification",
+        "D": "Allosteric degradation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Negative feedback counteracts deviations from a set point, stabilizing internal physiological parameters within healthy limits."
+    }
+  ]
+}

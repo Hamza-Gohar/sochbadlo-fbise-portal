@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 4,
+  "chapterTitle": "Unit 13: Support and Movement",
+  "slug": "biology-10-chapter-4",
+  "totalQuestions": 35,
+  "fileName": "biology-10-chapter-4.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "How many total bones comprise the fully developed adult human skeleton? (FBISE 2024)",
+      "options": {
+        "A": "180 bones",
+        "B": "206 bones",
+        "C": "300 bones",
+        "D": "250 bones"
+      },
+      "correctAnswer": "B",
+      "explanation": "An adult human skeleton consists of exactly 206 bones, divided into the axial skeleton (80 bones) and the appendicular skeleton (126 bones)."
+    },
+    {
+      "id": 2,
+      "question": "How many bones constitute the axial skeleton in adult humans? (FBISE 2023)",
+      "options": {
+        "A": "80 bones",
+        "B": "126 bones",
+        "C": "60 bones",
+        "D": "106 bones"
+      },
+      "correctAnswer": "A",
+      "explanation": "The axial skeleton forms the central axis of the human body and contains 80 bones: skull, vertebral column, ribs, sternum, hyoid, and auditory ossicles."
+    },
+    {
+      "id": 3,
+      "question": "The longest, heaviest, and strongest bone in the entire human body is the: (FBISE 2024)",
+      "options": {
+        "A": "Humerus",
+        "B": "Tibia",
+        "C": "Femur (thigh bone)",
+        "D": "Pelvis"
+      },
+      "correctAnswer": "C",
+      "explanation": "The femur (thigh bone) is the longest, strongest, and heaviest bone in the human body, supporting the entire weight of the upper body during bipedal standing and walking."
+    },
+    {
+      "id": 4,
+      "question": "Which tough, inelastic fibrous connective tissue structure anchors a skeletal muscle securely to a bone? (FBISE 2022)",
+      "options": {
+        "A": "Ligament",
+        "B": "Tendon",
+        "C": "Cartilage",
+        "D": "Synovial membrane"
+      },
+      "correctAnswer": "B",
+      "explanation": "A tendon is a tough band of dense regular fibrous connective tissue composed of collagen that connects skeletal muscle to bone, transmitting the pull of muscle contraction."
+    },
+    {
+      "id": 5,
+      "question": "A strong, flexible band of fibrous connective tissue that connects one bone to another at a joint is called a: (FBISE 2021)",
+      "options": {
+        "A": "Tendon",
+        "B": "Ligament",
+        "C": "Fascia",
+        "D": "Perichondrium"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ligaments are tough, slightly elastic fibrous bands that connect articulating bones together across joints, stabilizing the joint and preventing abnormal dislocation."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is a classic anatomical example of a freely movable ball-and-socket joint? (FBISE 2023)",
+      "options": {
+        "A": "Elbow joint",
+        "B": "Knee joint",
+        "C": "Shoulder joint (and hip joint)",
+        "D": "Sutures of the skull"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ball-and-socket joints (found at the shoulder and hip) feature a rounded ball head articulating within a cup-like depression, permitting rotational movement in all planes."
+    },
+    {
+      "id": 7,
+      "question": "The elbow and knee joints permit movement predominantly in a single plane like a door hinge, and are classified as: (FBISE 2024)",
+      "options": {
+        "A": "Hinge joints",
+        "B": "Ball-and-socket joints",
+        "C": "Pivot joints",
+        "D": "Gliding joints"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hinge joints permit motion in one plane (flexion and extension), analogous to the hinge of a door. Classic examples include the elbow, knee, and interphalangeal finger joints."
+    },
+    {
+      "id": 8,
+      "question": "The mature living cells responsible for maintaining the extracellular matrix of cartilage are termed:",
+      "options": {
+        "A": "Osteocytes",
+        "B": "Chondrocytes",
+        "C": "Osteoclasts",
+        "D": "Fibroblasts"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chondrocytes are the specialized living cells embedded in small fluid-filled cavities called lacunae within the dense collagenous matrix of cartilage."
+    },
+    {
+      "id": 9,
+      "question": "Which type of cartilage is the most abundant in the human body, providing a smooth, glassy articulating surface at the ends of long bones? (FBISE 2022)",
+      "options": {
+        "A": "Elastic cartilage",
+        "B": "Hyaline cartilage",
+        "C": "Fibrocartilage",
+        "D": "Calcified cartilage"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hyaline cartilage is the most widespread cartilage type in humans. It covers the articular surfaces of movable joints and forms the costal cartilages, nasal septum, trachea, and larynx."
+    },
+    {
+      "id": 10,
+      "question": "The tough, shock-absorbing cartilage with dense bundles of thick collagen fibers found in intervertebral discs and the pubic symphysis is:",
+      "options": {
+        "A": "Hyaline cartilage",
+        "B": "Fibrocartilage",
+        "C": "Elastic cartilage",
+        "D": "Areolar cartilage"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fibrocartilage has exceptional tensile strength and compressibility due to thick parallel bundles of collagen fibers, making it ideal for cushioning vertebral bodies."
+    },
+    {
+      "id": 11,
+      "question": "The flexible cartilage found in the human external ear flap (pinna) and epiglottis that quickly springs back into shape is:",
+      "options": {
+        "A": "Elastic cartilage",
+        "B": "Hyaline cartilage",
+        "C": "Fibrocartilage",
+        "D": "Compact cartilage"
+      },
+      "correctAnswer": "A",
+      "explanation": "Elastic cartilage contains an abundant network of branching elastic fibers, granting high flexibility and resilience to structures like the external ear (pinna) and epiglottis."
+    },
+    {
+      "id": 12,
+      "question": "Microscopically, compact bone tissue is organized into repeating cylindrical structural units called: (FBISE 2023)",
+      "options": {
+        "A": "Trabeculae",
+        "B": "Osteons (Haversian systems)",
+        "C": "Sarcomeres",
+        "D": "Myofibrils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Compact bone is organized into cylindrical columns called osteons (Haversian systems), each containing concentric rings of matrix (lamellae) surrounding a central neurovascular canal."
+    },
+    {
+      "id": 13,
+      "question": "What is the primary physiological function of red bone marrow located within the trabeculae of spongy bone?",
+      "options": {
+        "A": "Storage of glycogen molecules",
+        "B": "Hematopoiesis (production of red blood cells, white blood cells, and platelets)",
+        "C": "Direct secretion of digestive bile",
+        "D": "Filtration of nitrogenous urine"
+      },
+      "correctAnswer": "B",
+      "explanation": "Red bone marrow contains pluripotent hematopoietic stem cells that generate all cellular elements of blood: erythrocytes, leukocytes, and thrombocytes."
+    },
+    {
+      "id": 14,
+      "question": "How many pairs of ribs are present in the thoracic cage of the human body?",
+      "options": {
+        "A": "10 pairs",
+        "B": "12 pairs (24 ribs total)",
+        "C": "14 pairs",
+        "D": "7 pairs"
+      },
+      "correctAnswer": "B",
+      "explanation": "Humans have 12 pairs of ribs (24 total): pairs 1-7 are true ribs (attach directly to sternum), pairs 8-10 are false ribs (attach via cartilage), and pairs 11-12 are floating ribs."
+    },
+    {
+      "id": 15,
+      "question": "Which ribs are classified as floating ribs because their anterior ends do not attach to the sternum or adjacent costal cartilage?",
+      "options": {
+        "A": "Pairs 1 and 2",
+        "B": "Pairs 6 and 7",
+        "C": "Pairs 8 and 9",
+        "D": "Pairs 11 and 12"
+      },
+      "correctAnswer": "D",
+      "explanation": "The 11th and 12th rib pairs are termed floating ribs because they terminate in the lateral abdominal musculature without any anterior connection to the sternum."
+    },
+    {
+      "id": 16,
+      "question": "How many total vertebrae constitute the adult human vertebral column?",
+      "options": {
+        "A": "26 vertebrae",
+        "B": "33 unfused bones",
+        "C": "20 vertebrae",
+        "D": "12 vertebrae"
+      },
+      "correctAnswer": "A",
+      "explanation": "In an adult, fusion reduces 33 juvenile vertebrae to 26 articulated bones: 7 cervical, 12 thoracic, 5 lumbar, 1 sacrum (5 fused), and 1 coccyx (4 fused)."
+    },
+    {
+      "id": 17,
+      "question": "The bones of the human skull that interlock through jagged, immovable fibrous joints are known as:",
+      "options": {
+        "A": "Sutures",
+        "B": "Synovial cavities",
+        "C": "Gomphoses",
+        "D": "Condyles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cranial bones are joined tightly by immovable fibrous joints called sutures, interlocking the skull bones to shield the brain from physical trauma."
+    },
+    {
+      "id": 18,
+      "question": "Which bone forms the breastbone positioned centrally in the anterior chest wall where ribs attach?",
+      "options": {
+        "A": "Clavicle",
+        "B": "Scapula",
+        "C": "Sternum",
+        "D": "Pelvis"
+      },
+      "correctAnswer": "C",
+      "explanation": "The sternum (breastbone) is a flat bone situated along the anterior thoracic midline, anchoring the true ribs via costal cartilages."
+    },
+    {
+      "id": 19,
+      "question": "The pectoral girdle that supports the upper limbs consists of which two pairs of bones? (FBISE 2021)",
+      "options": {
+        "A": "Clavicles (collarbones) and scapulae (shoulder blades)",
+        "B": "Ilium and ischium",
+        "C": "Femur and patella",
+        "D": "Radius and ulna"
+      },
+      "correctAnswer": "A",
+      "explanation": "The human pectoral girdle is made up of two clavicles (collarbones) and two scapulae (shoulder blades), connecting each upper arm to the axial skeleton."
+    },
+    {
+      "id": 20,
+      "question": "Which of the following bones is located on the lateral (thumb) side of the human forearm?",
+      "options": {
+        "A": "Ulna",
+        "B": "Radius",
+        "C": "Humerus",
+        "D": "Fibula"
+      },
+      "correctAnswer": "B",
+      "explanation": "The forearm contains two parallel long bones: the radius situated laterally on the thumb side, and the ulna situated medially on the little finger side."
+    },
+    {
+      "id": 21,
+      "question": "In the human elbow, what happens when the biceps brachii muscle contracts?",
+      "options": {
+        "A": "The forearm extends straight at the elbow joint",
+        "B": "The forearm flexes (bends) upward toward the shoulder",
+        "C": "The shoulder dislocates posteriorly",
+        "D": "The wrist bones rotate 360 degrees"
+      },
+      "correctAnswer": "B",
+      "explanation": "The biceps brachii functions as a flexor muscle: when it contracts, it pulls on its radial insertion, bending (flexing) the forearm at the elbow joint."
+    },
+    {
+      "id": 22,
+      "question": "Which antagonistic muscle contracts to extend (straighten) the human arm at the elbow joint?",
+      "options": {
+        "A": "Biceps brachii",
+        "B": "Triceps brachii",
+        "C": "Deltoid",
+        "D": "Trapezius"
+      },
+      "correctAnswer": "B",
+      "explanation": "The triceps brachii acts as an extensor muscle. Situated on the posterior arm, its contraction pulls on the olecranon process of the ulna, straightening the arm."
+    },
+    {
+      "id": 23,
+      "question": "Pairs of skeletal muscles that produce opposite physical movements across a joint are termed:",
+      "options": {
+        "A": "Antagonistic pairs",
+        "B": "Synergistic pairs",
+        "C": "Involuntary pairs",
+        "D": "Cardiac pairs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Antagonistic muscles work in opposing pairs: when one muscle (agonist/flexor) contracts, the opposing partner (antagonist/extensor) relaxes to permit coordinated movement."
+    },
+    {
+      "id": 24,
+      "question": "A systemic metabolic bone disease characterized by a progressive reduction in bone mass and density, making bones fragile and porous, is: (FBISE 2024)",
+      "options": {
+        "A": "Osteoporosis",
+        "B": "Osteomyelitis",
+        "C": "Gout",
+        "D": "Polio"
+      },
+      "correctAnswer": "A",
+      "explanation": "Osteoporosis is a disorder where bone resorption outpaces bone deposition, leading to microarchitectural deterioration, porous bones, and high susceptibility to fractures."
+    },
+    {
+      "id": 25,
+      "question": "Which hormonal decline in aging postmenopausal women is the most significant factor contributing to osteoporosis?",
+      "options": {
+        "A": "Insulin",
+        "B": "Estrogen",
+        "C": "Adrenaline",
+        "D": "Glucagon"
+      },
+      "correctAnswer": "B",
+      "explanation": "Estrogen promotes osteoblast activity and preserves bone density. With the cessation of ovarian function after menopause, dropped estrogen triggers rapid bone mineral loss."
+    },
+    {
+      "id": 26,
+      "question": "Inflammation of one or more joints accompanied by pain, swelling, stiffness, and restricted movement is clinically diagnosed as: (FBISE 2023)",
+      "options": {
+        "A": "Arthritis",
+        "B": "Osteoporosis",
+        "C": "Anemia",
+        "D": "Scoliosis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Arthritis is a general term denoting inflammation of joints, presenting with joint swelling, pain, warmth, and stiffness."
+    },
+    {
+      "id": 27,
+      "question": "The autoimmune form of arthritis where the body immune system mistakenly attacks synovial membranes of joints is: (FBISE 2022)",
+      "options": {
+        "A": "Osteoarthritis",
+        "B": "Rheumatoid arthritis",
+        "C": "Gouty arthritis",
+        "D": "Septic arthritis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rheumatoid arthritis is a chronic autoimmune condition where autoantibodies attack the synovial lining of joints, causing chronic inflammation and joint deformities."
+    },
+    {
+      "id": 28,
+      "question": "The small sesamoid bone commonly known as the kneecap that protects the anterior aspect of the knee joint is the:",
+      "options": {
+        "A": "Patella",
+        "B": "Fibula",
+        "C": "Tibia",
+        "D": "Tarsal"
+      },
+      "correctAnswer": "A",
+      "explanation": "The patella (kneecap) is a triangular sesamoid bone embedded within the quadriceps tendon that shields the anterior knee joint and improves mechanical leverage."
+    },
+    {
+      "id": 29,
+      "question": "The lubricating fluid enclosed within the fibrous capsule of freely movable joints that prevents friction between articular cartilages is:",
+      "options": {
+        "A": "Cerebrospinal fluid",
+        "B": "Synovial fluid",
+        "C": "Pleural fluid",
+        "D": "Peritoneal fluid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Synovial fluid is a viscous egg-white-like fluid secreted by the synovial membrane that lubricates articulating joint surfaces, absorbs mechanical shock, and nourishes chondrocytes."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following bones forms the shinbone on the medial weight-bearing side of the human lower leg?",
+      "options": {
+        "A": "Fibula",
+        "B": "Tibia",
+        "C": "Femur",
+        "D": "Humerus"
+      },
+      "correctAnswer": "B",
+      "explanation": "The tibia (shinbone) is the larger, medial, primary weight-bearing bone of the lower leg, whereas the lateral fibula serves primarily for muscle attachment."
+    },
+    {
+      "id": 31,
+      "question": "How many wrist bones (carpals) are present in each human hand?",
+      "options": {
+        "A": "5 bones",
+        "B": "8 bones (16 in both hands)",
+        "C": "12 bones",
+        "D": "14 bones"
+      },
+      "correctAnswer": "B",
+      "explanation": "Each human wrist contains 8 small carpal bones arranged in two transverse rows of four, granting flexibility and dexterity to hand movements."
+    },
+    {
+      "id": 32,
+      "question": "The large hip bone (coxal bone) of the human pelvic girdle is formed by the embryonic fusion of which three bones?",
+      "options": {
+        "A": "Ilium, ischium, and pubis",
+        "B": "Clavicle, scapula, and sternum",
+        "C": "Femur, tibia, and fibula",
+        "D": "Humerus, radius, and ulna"
+      },
+      "correctAnswer": "A",
+      "explanation": "Each coxal (hip) bone develops from the fusion of three separate bones: the superior flaring ilium, the inferior posterior ischium, and the anterior pubis."
+    },
+    {
+      "id": 33,
+      "question": "Why does cartilage take substantially longer to heal after injury compared to vascular bone tissue?",
+      "options": {
+        "A": "Cartilage contains dead cells without genetic material",
+        "B": "Cartilage lacks a direct internal blood supply (avascular)",
+        "C": "Cartilage cells are constantly rejected by antibodies",
+        "D": "Cartilage is completely soluble in synovial fluid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cartilage is avascular; nutrients and oxygen must slowly diffuse through the dense matrix from surrounding perichondrium, making repair and healing extremely slow."
+    },
+    {
+      "id": 34,
+      "question": "The microscopic concentric rings of mineralized extracellular bone matrix in an osteon are known as:",
+      "options": {
+        "A": "Lamellae",
+        "B": "Lacunae",
+        "C": "Canaliculi",
+        "D": "Trabeculae"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lamellae are concentric layers of hard, calcified collagen matrix that encircle the central Haversian canal inside an osteon."
+    },
+    {
+      "id": 35,
+      "question": "In the human skull, which bone is the ONLY freely movable articulated bone?",
+      "options": {
+        "A": "Maxilla",
+        "B": "Mandible (lower jaw)",
+        "C": "Frontal bone",
+        "D": "Occipital bone"
+      },
+      "correctAnswer": "B",
+      "explanation": "The mandible (lower jaw) is the only movable bone of the adult skull, articulating with the temporal bones at the temporomandibular joints (TMJ) for chewing and speaking."
+    }
+  ]
+}

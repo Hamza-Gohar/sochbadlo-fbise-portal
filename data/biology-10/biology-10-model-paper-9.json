@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 18,
+  "chapterTitle": "FBISE Full-Book Annual Exam Simulator II (Comprehensive All Units 10–18)",
+  "slug": "biology-10-model-paper-9",
+  "totalQuestions": 12,
+  "fileName": "biology-10-model-paper-9.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the approximate concentration of carbon dioxide in normal exhaled human breath? (FBISE 2024)",
+      "options": {
+        "A": "0.04%",
+        "B": "0.4%",
+        "C": "4.0%",
+        "D": "16.0%"
+      },
+      "correctAnswer": "C",
+      "explanation": "Exhaled air contains approximately 4% carbon dioxide, a hundred-fold increase over the 0.04% in inhaled atmospheric air."
+    },
+    {
+      "id": 2,
+      "question": "Which adapted plants possess broad floating leaves with stomata restricted entirely to the upper epidermis? (FBISE 2023)",
+      "options": {
+        "A": "Hydrophytes (e.g., Water lily)",
+        "B": "Xerophytes (e.g., Cactus)",
+        "C": "Halophytes",
+        "D": "Mesophytes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hydrophytes floating on water maintain stomata exclusively on upper surfaces in direct contact with ambient air."
+    },
+    {
+      "id": 3,
+      "question": "The hormone thyroxine that regulates basal metabolic rate is synthesized by which endocrine gland?",
+      "options": {
+        "A": "Adrenal gland",
+        "B": "Thyroid gland",
+        "C": "Parathyroid gland",
+        "D": "Thymus"
+      },
+      "correctAnswer": "B",
+      "explanation": "The thyroid gland secretes thyroxine to govern cellular oxidation, protein synthesis, and metabolic heat generation."
+    },
+    {
+      "id": 4,
+      "question": "The microscopic structural repeating columns comprising compact bone tissue are called:",
+      "options": {
+        "A": "Osteons (Haversian systems)",
+        "B": "Trabeculae",
+        "C": "Sarcomeres",
+        "D": "Chondrocytes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Osteons are the structural units of compact bone, featuring concentric lamellae surrounding a neurovascular canal."
+    },
+    {
+      "id": 5,
+      "question": "In potato plants, vegetative propagation takes place through underground stem structures known as: (FBISE 2022)",
+      "options": {
+        "A": "Bulbs",
+        "B": "Stem tubers with dormant buds (eyes)",
+        "C": "Rhizomes",
+        "D": "Runners"
+      },
+      "correctAnswer": "B",
+      "explanation": "Potato tubers are fleshy underground stem storage organs possessing nodal buds (eyes) that sprout into new shoots."
+    },
+    {
+      "id": 6,
+      "question": "Watson and Crick model of DNA established that the double helix is held together by hydrogen bonds between: (FBISE 2024)",
+      "options": {
+        "A": "Deoxyribose sugars",
+        "B": "Phosphate backbones",
+        "C": "Complementary nitrogenous base pairs",
+        "D": "Histone protein tails"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hydrogen bonds between complementary purine-pyrimidine base pairs (A=T and G≡C) hold the two DNA strands together."
+    },
+    {
+      "id": 7,
+      "question": "The biological process wherein agricultural fertilizer runoff causes excessive aquatic algal growth and oxygen depletion is: (FBISE 2023)",
+      "options": {
+        "A": "Biomagnification",
+        "B": "Eutrophication",
+        "C": "Bioaccumulation",
+        "D": "Salinization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Eutrophication occurs when excess phosphate and nitrate runoff induces dense algal blooms that deplete dissolved oxygen upon decay."
+    },
+    {
+      "id": 8,
+      "question": "Which endangered blind aquatic mammal is endemic to the Indus River system in Pakistan? (FBISE 2021)",
+      "options": {
+        "A": "Indus river dolphin (Bhulan)",
+        "B": "Ganges river dolphin",
+        "C": "Finless porpoise",
+        "D": "Dugong"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Indus river dolphin (Platanista minor) is an endangered freshwater cetacean native exclusively to Pakistans Indus River."
+    },
+    {
+      "id": 9,
+      "question": "Which enzyme functions as molecular scissors to cut DNA at specific palindromic recognition sequences in biotechnology?",
+      "options": {
+        "A": "DNA ligase",
+        "B": "Restriction endonuclease",
+        "C": "RNA polymerase",
+        "D": "Helicase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Restriction endonucleases recognize specific palindromic DNA sequences and cleave phosphodiester bonds."
+    },
+    {
+      "id": 10,
+      "question": "The antibiotic penicillin acts therapeutically by inhibiting which bacterial metabolic process? (FBISE 2024)",
+      "options": {
+        "A": "Protein synthesis on ribosomes",
+        "B": "Peptidoglycan cell wall cross-linking",
+        "C": "DNA replication",
+        "D": "Mitochondrial ATP synthesis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Penicillin inhibits transpeptidase enzymes that cross-link peptidoglycan, causing osmotic lysis of dividing bacteria."
+    },
+    {
+      "id": 11,
+      "question": "Which psychoactive drug class causes distortions in sensory perception and vivid hallucinations without external stimuli?",
+      "options": {
+        "A": "Sedatives",
+        "B": "Hallucinogens (e.g., Mescaline, Psilocybin)",
+        "C": "Analgesics",
+        "D": "Antibiotics"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hallucinogens profoundly alter sensory processing in the cerebrum, generating vivid perceptual hallucinations."
+    },
+    {
+      "id": 12,
+      "question": "Which type of acquired immunity is conferred when an infant receives pre-formed maternal antibodies across the placenta or via colostrum?",
+      "options": {
+        "A": "Natural passive immunity",
+        "B": "Artificial active immunity",
+        "C": "Artificial passive immunity",
+        "D": "Natural active immunity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Maternal IgG transferred via placenta or IgA via breast milk provides natural passive immunity without creating infant memory cells."
+    }
+  ]
+}

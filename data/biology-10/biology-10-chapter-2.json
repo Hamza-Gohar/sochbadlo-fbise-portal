@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 2,
+  "chapterTitle": "Unit 11: Homeostasis",
+  "slug": "biology-10-chapter-2",
+  "totalQuestions": 35,
+  "fileName": "biology-10-chapter-2.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary excretory organ in the human body responsible for filtering nitrogenous wastes from the bloodstream? (FBISE 2024)",
+      "options": {
+        "A": "Kidney",
+        "B": "Liver",
+        "C": "Lungs",
+        "D": "Heart"
+      },
+      "correctAnswer": "A",
+      "explanation": "The kidneys are the principal excretory organs in humans. They filter metabolic wastes, especially urea and uric acid, from the blood and produce urine to maintain fluid and electrolyte homeostasis."
+    },
+    {
+      "id": 2,
+      "question": "The microscopic structural and functional filtration unit of the human kidney is the: (FBISE 2023)",
+      "options": {
+        "A": "Alveolus",
+        "B": "Nephron",
+        "C": "Neuron",
+        "D": "Ureter"
+      },
+      "correctAnswer": "B",
+      "explanation": "Each human kidney contains approximately 1 million to 1.2 million microscopic functional filtration units called nephrons, consisting of a renal corpuscle and a renal tubule."
+    },
+    {
+      "id": 3,
+      "question": "The presence of glucose in human urine (glycosuria) is a classic diagnostic symptom of which metabolic disorder? (FBISE 2023)",
+      "options": {
+        "A": "Diabetes mellitus",
+        "B": "Kidney stones",
+        "C": "Liver cirrhosis",
+        "D": "Anemia"
+      },
+      "correctAnswer": "A",
+      "explanation": "In diabetes mellitus, elevated blood glucose exceeds the renal reabsorption threshold of the proximal convoluted tubule, causing unabsorbed glucose to be excreted in urine."
+    },
+    {
+      "id": 4,
+      "question": "Why is the right kidney anatomically positioned slightly lower in the abdominal cavity than the left kidney? (FBISE 2022)",
+      "options": {
+        "A": "To accommodate the large bulk of the liver on the right side",
+        "B": "Because the right renal artery is shorter than the left",
+        "C": "To allow room for the spleen in the pelvic area",
+        "D": "Due to downward pressure from the urinary bladder"
+      },
+      "correctAnswer": "A",
+      "explanation": "Because the large right lobe of the liver occupies substantial space in the right upper quadrant of the abdominal cavity, the right kidney is pushed slightly lower than the left kidney."
+    },
+    {
+      "id": 5,
+      "question": "In which anatomical portion of the nephron does the initial pressure filtration of blood (ultrafiltration) occur? (FBISE 2024)",
+      "options": {
+        "A": "Loop of Henle",
+        "B": "Bowman capsule and glomerulus",
+        "C": "Distal convoluted tubule",
+        "D": "Collecting duct"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ultrafiltration occurs in the renal corpuscle, where high hydrostatic blood pressure in the glomerulus forces water and small solutes through the capillary walls into Bowman capsule, forming glomerular filtrate."
+    },
+    {
+      "id": 6,
+      "question": "Which pituitary hormone stimulates the reabsorption of water in the collecting ducts of nephrons to conserve body water? (FBISE 2023)",
+      "options": {
+        "A": "Insulin",
+        "B": "Antidiuretic Hormone (ADH / Vasopressin)",
+        "C": "Thyroxine",
+        "D": "Oxytocin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Antidiuretic hormone (ADH), released from the posterior pituitary, increases the water permeability of the distal tubules and collecting ducts, producing concentrated urine and conserving body water."
+    },
+    {
+      "id": 7,
+      "question": "What is the primary physiological function of the U-shaped loop of Henle in the mammalian nephron?",
+      "options": {
+        "A": "Filtration of cellular blood elements",
+        "B": "Establishing a hypertonic medullary gradient for water reabsorption",
+        "C": "Secretory synthesis of urea from ammonia",
+        "D": "Storage of concentrated urine before urination"
+      },
+      "correctAnswer": "B",
+      "explanation": "The loop of Henle creates a high osmotic concentration gradient in the renal medulla through countercurrent multiplication, enabling the kidney to produce hypertonic urine and conserve water."
+    },
+    {
+      "id": 8,
+      "question": "The funnel-shaped central basin of the kidney that collects urine from the renal pyramids and channels it into the ureter is the:",
+      "options": {
+        "A": "Renal cortex",
+        "B": "Renal medulla",
+        "C": "Renal pelvis",
+        "D": "Urinary bladder"
+      },
+      "correctAnswer": "C",
+      "explanation": "The renal pelvis is the expanded upper end of the ureter inside the kidney. Major and minor calyces empty urine into the renal pelvis, which funnels it down the ureter to the bladder."
+    },
+    {
+      "id": 9,
+      "question": "Clinical dialysis treatment is medically indicated when a patient experiences:",
+      "options": {
+        "A": "Mild acute stomach indigestion",
+        "B": "Complete or severe renal failure (end-stage renal disease)",
+        "C": "Temporary nasal congestion",
+        "D": "Deficiency of dietary vitamins"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dialysis is an artificial blood-purifying technique used when kidneys lose more than 85-90% of their functional capacity, leading to toxic accumulation of urea (uremia) and electrolyte imbalance."
+    },
+    {
+      "id": 10,
+      "question": "How does hemodialysis fundamentally differ from peritoneal dialysis? (FBISE 2022)",
+      "options": {
+        "A": "Hemodialysis does not remove urea from the blood",
+        "B": "Hemodialysis filters blood outside the body through an artificial dialyzer machine",
+        "C": "Peritoneal dialysis requires major surgical bone transplants",
+        "D": "Hemodialysis is performed only once in a lifetime"
+      },
+      "correctAnswer": "B",
+      "explanation": "In hemodialysis, the patients blood is pumped out through an external dialyzer with semipermeable tubing. In peritoneal dialysis, dialysate fluid is introduced into the abdominal cavity, using the peritoneum as the natural filter."
+    },
+    {
+      "id": 11,
+      "question": "The normal pH range of fresh human urine is typically:",
+      "options": {
+        "A": "1.0 to 2.0 (extremely acidic)",
+        "B": "6.0 (slightly acidic, ranging from 4.5 to 8.0)",
+        "C": "11.0 to 12.0 (strongly alkaline)",
+        "D": "Purely neutral at 7.00 without any variation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Normal human urine has an average pH of approximately 6.0 (slightly acidic), but can physiologically range between 4.5 and 8.0 depending on diet and metabolic activity."
+    },
+    {
+      "id": 12,
+      "question": "When a healthy individual drinks an excessive volume of pure water, how do the kidneys respond homeostatically?",
+      "options": {
+        "A": "ADH secretion increases, producing concentrated urine",
+        "B": "ADH secretion decreases, producing a large volume of dilute (hypotonic) urine",
+        "C": "Filtration ceases entirely in all nephrons",
+        "D": "The kidneys secrete red blood cells into urine"
+      },
+      "correctAnswer": "B",
+      "explanation": "Excess water intake dilutes blood plasma, causing osmoreceptors in the hypothalamus to inhibit ADH release. Without ADH, collecting ducts remain impermeable to water, resulting in copious, dilute urine."
+    },
+    {
+      "id": 13,
+      "question": "Which painful joint condition is caused by the deposition of sharp uric acid crystals due to impaired nitrogenous excretion? (FBISE 2021)",
+      "options": {
+        "A": "Osteoporosis",
+        "B": "Gout (gouty arthritis)",
+        "C": "Rickets",
+        "D": "Osteomalacia"
+      },
+      "correctAnswer": "B",
+      "explanation": "High levels of uric acid in the blood (hyperuricemia) can precipitate out as monosodium urate crystals in synovial joints, particularly the big toe, causing intense acute inflammation known as gout."
+    },
+    {
+      "id": 14,
+      "question": "What is the primary chemical composition of the most common types of human kidney stones (renal calculi)? (FBISE 2024)",
+      "options": {
+        "A": "Calcium oxalate and calcium phosphate",
+        "B": "Sodium chloride and sodium bicarbonate",
+        "C": "Pure glucose monohydrate",
+        "D": "Cholesterol and bilirubin"
+      },
+      "correctAnswer": "A",
+      "explanation": "About 70% of all kidney stones are composed of calcium oxalate, formed when urine becomes supersaturated with calcium and oxalate due to low fluid intake or metabolic imbalance."
+    },
+    {
+      "id": 15,
+      "question": "The non-invasive clinical technique that uses high-intensity acoustic shock waves to break kidney stones into sand-like gravel is: (FBISE 2023)",
+      "options": {
+        "A": "Angioplasty",
+        "B": "Extracorporeal Shock Wave Lithotripsy (ESWL)",
+        "C": "Hemodialysis",
+        "D": "Laparotomy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lithotripsy uses focused ultrasound or shock waves from outside the body to pulverize renal calculi into tiny fragments that can pass painlessly through the urinary tract."
+    },
+    {
+      "id": 16,
+      "question": "The loss of liquid water droplets through specialized openings (hydathodes) along leaf tips or margins in plants is termed: (FBISE 2022)",
+      "options": {
+        "A": "Transpiration",
+        "B": "Guttation",
+        "C": "Inbibition",
+        "D": "Plasmolysis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Guttation is the exudation of liquid water droplets from hydathodes at leaf margins, occurring when high root pressure forces water upward during humid nights when transpiration is suppressed."
+    },
+    {
+      "id": 17,
+      "question": "Plants adapted to survive in severely dry, arid terrestrial environments such as deserts are called: (FBISE 2021)",
+      "options": {
+        "A": "Hydrophytes",
+        "B": "Mesophytes",
+        "C": "Xerophytes",
+        "D": "Halophytes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Xerophytes (such as cacti) are adapted to arid environments through adaptations including thick waxy cuticles, reduced or modified spine leaves, sunken stomata, and succulent water-storing stems."
+    },
+    {
+      "id": 18,
+      "question": "Which structural adaptation is uniquely characteristic of aquatic hydrophytes (e.g., water lily)?",
+      "options": {
+        "A": "Extremely deep taproots reaching underground water tables",
+        "B": "Broad leaves with stomata restricted predominantly to the upper epidermis",
+        "C": "Dense layers of cork and bark covering leaf surfaces",
+        "D": "Complete absence of chlorophyll and chloroplasts"
+      },
+      "correctAnswer": "B",
+      "explanation": "Because floating leaves of hydrophytes have their lower surface submerged in water, stomata are situated exclusively on the upper epidermis in direct contact with the atmosphere."
+    },
+    {
+      "id": 19,
+      "question": "Plants growing in high-salinity marine environments or salt marshes that possess salt-excreting glands are termed:",
+      "options": {
+        "A": "Halophytes",
+        "B": "Xerophytes",
+        "C": "Epiphytes",
+        "D": "Bryophytes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Halophytes grow in saline soils. They actively accumulate salts in cell vacuoles to keep cell sap hypertonic to soil water, and may excrete excess salt via specialized salt glands."
+    },
+    {
+      "id": 20,
+      "question": "What percentage of the glomerular filtrate formed daily by human kidneys is selectively reabsorbed back into the bloodstream?",
+      "options": {
+        "A": "10%",
+        "B": "50%",
+        "C": "75%",
+        "D": "99%"
+      },
+      "correctAnswer": "D",
+      "explanation": "About 180 liters of filtrate are formed daily by the glomeruli, but approximately 99% (about 178.5 liters) is selectively reabsorbed, leaving only 1.5 liters excreted as urine."
+    },
+    {
+      "id": 21,
+      "question": "In which segment of the renal tubule is 100% of filtered glucose and amino acids normally reabsorbed under healthy physiological conditions?",
+      "options": {
+        "A": "Proximal Convoluted Tubule (PCT)",
+        "B": "Descending limb of loop of Henle",
+        "C": "Distal Convoluted Tubule (DCT)",
+        "D": "Collecting duct"
+      },
+      "correctAnswer": "A",
+      "explanation": "The proximal convoluted tubule is lined with cuboidal epithelial cells possessing dense microvilli and mitochondria that actively reabsorb all valuable glucose, amino acids, and the majority of sodium and water."
+    },
+    {
+      "id": 22,
+      "question": "The outer, darker granular zone of the human kidney is anatomically called the:",
+      "options": {
+        "A": "Renal pelvis",
+        "B": "Renal cortex",
+        "C": "Renal medulla",
+        "D": "Renal pyramid"
+      },
+      "correctAnswer": "B",
+      "explanation": "The kidney is divided into two main regions: the outer granular renal cortex (containing glomeruli and convoluted tubules) and the inner striated renal medulla (containing loops of Henle and collecting ducts)."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following substances is NOT normally present in the glomerular filtrate of a healthy nephron?",
+      "options": {
+        "A": "Urea",
+        "B": "Glucose",
+        "C": "Plasma proteins and red blood cells",
+        "D": "Sodium ions"
+      },
+      "correctAnswer": "C",
+      "explanation": "Because the glomerular capillary endothelial pores and podocyte filtration slits are microscopic, large plasma proteins (albumin) and blood cells cannot pass into Bowman capsule."
+    },
+    {
+      "id": 24,
+      "question": "Which plant deposits insoluble crystals of calcium oxalate in leaves and stems as a harmless metabolic byproduct (e.g., in tomatoes and *Colocasia*)?",
+      "options": {
+        "A": "Raphides and druses",
+        "B": "Starch grains",
+        "C": "Lipid droplets",
+        "D": "Cellulose fibers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Plants precipitate excess calcium and oxalic acid into insoluble crystals of calcium oxalate called raphides (needle-like) or druses (star-like), harmlessly sequestered in vacuoles."
+    },
+    {
+      "id": 25,
+      "question": "Coniferous trees such as pine eliminate metabolic waste resins and gums through specialized internal:",
+      "options": {
+        "A": "Hydathodes",
+        "B": "Resin canals",
+        "C": "Stomata",
+        "D": "Pollen tubes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Conifers store waste resin in resin canals or ducts, which exude the resin when the bark is damaged to seal wounds and protect against pathogen invasion."
+    },
+    {
+      "id": 26,
+      "question": "The maintenance of internal water and solute (salt) balance within an organism is defined as: (FBISE 2024)",
+      "options": {
+        "A": "Thermoregulation",
+        "B": "Osmoregulation",
+        "C": "Excretion",
+        "D": "Metabolism"
+      },
+      "correctAnswer": "B",
+      "explanation": "Osmoregulation is the active regulation of the osmotic pressure of bodily fluids to maintain the balance of water and dissolved minerals across cell membranes."
+    },
+    {
+      "id": 27,
+      "question": "The tube that conveys urine from the renal pelvis of each kidney down to the urinary bladder is the:",
+      "options": {
+        "A": "Urethra",
+        "B": "Ureter",
+        "C": "Collecting duct",
+        "D": "Renal vein"
+      },
+      "correctAnswer": "B",
+      "explanation": "The human urinary system includes two ureters (one per kidney), muscular tubes that conduct urine from the renal pelvis to the urinary bladder by peristaltic contractions."
+    },
+    {
+      "id": 28,
+      "question": "The single terminal duct that conveys urine from the urinary bladder to the exterior of the body is the:",
+      "options": {
+        "A": "Ureter",
+        "B": "Urethra",
+        "C": "Fallopian tube",
+        "D": "Vas deferens"
+      },
+      "correctAnswer": "B",
+      "explanation": "The urethra is the single tube leading from the neck of the urinary bladder to the exterior of the body. In males, it also serves as the passage for semen."
+    },
+    {
+      "id": 29,
+      "question": "What is the primary danger when an incompatible kidney is transplanted into a patient without adequate immunological matching?",
+      "options": {
+        "A": "The transplanted kidney dissolves immediately in urine",
+        "B": "The recipients immune system recognizes foreign HLA antigens and rejects the graft",
+        "C": "The recipient stops producing red blood cells entirely",
+        "D": "The donors blood turns into dialysate fluid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kidney transplantation requires close tissue matching (HLA markers). If incompatible, recipient cytotoxic T-lymphocytes and antibodies attack the graft, causing tissue rejection."
+    },
+    {
+      "id": 30,
+      "question": "Which adrenal cortical hormone acts on nephron tubules to stimulate active sodium reabsorption and potassium excretion?",
+      "options": {
+        "A": "Aldosterone",
+        "B": "Insulin",
+        "C": "Glucagon",
+        "D": "Adrenaline"
+      },
+      "correctAnswer": "A",
+      "explanation": "Aldosterone, a mineralocorticoid secreted by the adrenal cortex, acts on the distal convoluted tubules and collecting ducts to promote sodium and water retention and potassium excretion."
+    },
+    {
+      "id": 31,
+      "question": "During tubular secretion, which of the following ions is actively secreted from peritubular capillary blood into the nephron lumen to maintain acid-base balance?",
+      "options": {
+        "A": "Hydrogen ions (H+)",
+        "B": "Hemoglobin molecules",
+        "C": "Glucose polymers",
+        "D": "Blood platelets"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tubular secretion selectively transfers substances such as hydrogen ions (H+), ammonium (NH4+), and creatinine from blood into the filtrate, playing an essential role in regulating blood pH."
+    },
+    {
+      "id": 32,
+      "question": "A temporary or permanent kidney malfunction resulting in toxic accumulation of nitrogenous waste in blood is medically termed: (FBISE 2021)",
+      "options": {
+        "A": "Uremia",
+        "B": "Hyperglycemia",
+        "C": "Hypocalcemia",
+        "D": "Jaundice"
+      },
+      "correctAnswer": "A",
+      "explanation": "Uremia is the clinical syndrome associated with severe kidney failure, characterized by elevated blood urea nitrogen (BUN), lethargy, nausea, and fluid overload."
+    },
+    {
+      "id": 33,
+      "question": "Why does peritoneal dialysis offer greater mobility to patients compared to hemodialysis?",
+      "options": {
+        "A": "It can be performed ambulatory at home without connecting to a massive blood machine",
+        "B": "It permanently cures kidney disease within two weeks",
+        "C": "It does not require any sterile fluid or catheters",
+        "D": "It replaces both kidneys biologically with new nephrons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Continuous Ambulatory Peritoneal Dialysis (CAPD) allows patients to perform fluid exchanges at home or work, using their own peritoneal cavity rather than traveling to a clinic 3 times a week."
+    },
+    {
+      "id": 34,
+      "question": "In the nephron, the cup-like sac at the beginning of the tubular component that encloses the glomerulus is called:",
+      "options": {
+        "A": "Bowman capsule",
+        "B": "Renal pyramid",
+        "C": "Malpighian pyramid",
+        "D": "Loop of Henle"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bowman capsule (glomerular capsule) is a double-walled epithelial cup that surrounds the capillary knot known as the glomerulus."
+    },
+    {
+      "id": 35,
+      "question": "Which vessel delivers oxygenated, waste-rich arterial blood directly into the kidney for filtration?",
+      "options": {
+        "A": "Hepatic portal vein",
+        "B": "Renal artery",
+        "C": "Pulmonary vein",
+        "D": "Carotid artery"
+      },
+      "correctAnswer": "B",
+      "explanation": "The renal artery branches directly from the abdominal aorta to bring approximately 20-25% of cardiac output to the kidneys for continuous metabolic filtration and oxygenation."
+    }
+  ]
+}

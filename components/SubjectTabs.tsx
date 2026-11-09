@@ -28,6 +28,7 @@ interface SubjectTabsProps {
   physics10Chapters?: ChapterMeta[];
   chemistry10Chapters?: ChapterMeta[];
   cs10Chapters?: ChapterMeta[];
+  biology10Chapters?: ChapterMeta[];
 }
 
 export default function SubjectTabs({
@@ -53,9 +54,10 @@ export default function SubjectTabs({
   physics10Chapters = [],
   chemistry10Chapters = [],
   cs10Chapters = [],
+  biology10Chapters = [],
 }: SubjectTabsProps) {
   const [activeGrade, setActiveGrade] = useState<'9' | '10' | '11'>('11');
-  const [activeGrade10Subject, setActiveGrade10Subject] = useState<'math' | 'physics' | 'chemistry' | 'cs'>('math');
+  const [activeGrade10Subject, setActiveGrade10Subject] = useState<'math' | 'physics' | 'chemistry' | 'cs' | 'biology'>('math');
   const [activeGrade9Subject, setActiveGrade9Subject] = useState<'urdu' | 'tarjuma' | 'english' | 'islamiat' | 'chemistry' | 'cs' | 'biology' | 'math' | 'physics'>('urdu');
   const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry'>('physics');
 
@@ -86,7 +88,9 @@ export default function SubjectTabs({
         }
       } else if (params.get('grade') === '10') {
         setActiveGrade('10');
-        if (params.get('subject') === 'cs') {
+        if (params.get('subject') === 'biology') {
+          setActiveGrade10Subject('biology');
+        } else if (params.get('subject') === 'cs') {
           setActiveGrade10Subject('cs');
         } else if (params.get('subject') === 'chemistry') {
           setActiveGrade10Subject('chemistry');
@@ -114,6 +118,7 @@ export default function SubjectTabs({
   const physics10Total = physics10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const chemistry10Total = chemistry10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const cs10Total = cs10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const biology10Total = biology10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -126,7 +131,9 @@ export default function SubjectTabs({
 
   const activeChapters =
     activeGrade === '10'
-      ? activeGrade10Subject === 'cs'
+      ? activeGrade10Subject === 'biology'
+        ? biology10Chapters
+        : activeGrade10Subject === 'cs'
         ? cs10Chapters
         : activeGrade10Subject === 'chemistry'
         ? chemistry10Chapters
@@ -212,7 +219,7 @@ export default function SubjectTabs({
             >
               <Calculator className="w-4 h-4 text-amber-400" />
               <span>Class 10th (SSC-II)</span>
-              <span className="text-[10px] opacity-75 font-mono">4 Subjects</span>
+              <span className="text-[10px] opacity-75 font-mono">5 Subjects</span>
             </button>
             <button
               type="button"
@@ -237,7 +244,9 @@ export default function SubjectTabs({
           <div>
             <h2 className="font-[family-name:var(--font-display)] text-xl sm:text-2xl font-bold tracking-tight text-[var(--color-ink)]">
               {activeGrade === '10'
-                ? activeGrade10Subject === 'cs'
+                ? activeGrade10Subject === 'biology'
+                  ? 'Class 10th FBISE Biology (حیاتیات - SSC-II)'
+                  : activeGrade10Subject === 'cs'
                   ? 'Class 10th FBISE Computer Science (کمپیوٹر سائنس - SSC-II)'
                   : activeGrade10Subject === 'physics'
                   ? 'Class 10th FBISE Physics (فزکس - SSC-II)'
@@ -266,7 +275,9 @@ export default function SubjectTabs({
             </h2>
             <p className="text-xs text-[var(--color-muted)] mt-1">
               {activeGrade === '10'
-                ? activeGrade10Subject === 'cs'
+                ? activeGrade10Subject === 'biology'
+                  ? 'All 9 National Curriculum units (Gaseous Exchange, Homeostasis, Coordination & Control, Support & Movement, Reproduction, Inheritance, Man & Environment, Biotechnology, Pharmacology) + 10 Annual Federal Board Examination Simulators.'
+                  : activeGrade10Subject === 'cs'
                   ? 'All 8 National Curriculum units (Computer Systems, Computational Thinking, Programming & Web Development, Data Science, IoT & Automation, Impacts of Computing, Digital Literacy, Research Methodologies) + 10 Annual Federal Board Examination Simulators.'
                   : activeGrade10Subject === 'physics'
                   ? 'All 9 National Curriculum units (Simple Harmonic Motion, Sound, Geometrical Optics, Electrostatics, Current Electricity, Electromagnetism, Introductory Electronics, ICT, Atomic & Nuclear Physics) + 10 Annual Federal Board Examination Simulators.'
@@ -297,6 +308,22 @@ export default function SubjectTabs({
 
           {activeGrade === '10' ? (
             <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs pb-1">
+              <button
+                type="button"
+                onClick={() => setActiveGrade10Subject('biology')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade10Subject === 'biology'
+                    ? 'bg-emerald-950 text-white border-emerald-950 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <Dna className="w-4 h-4 text-emerald-400" />
+                <span>Biology (حیاتیات)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {biology10Chapters.length} Modules · {biology10Total} Qs
+                </span>
+              </button>
+
               <button
                 type="button"
                 onClick={() => setActiveGrade10Subject('cs')}

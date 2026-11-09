@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 11,
+  "chapterTitle": "FBISE Annual Exam Simulator 02 (Unit 12: Coordination & Control)",
+  "slug": "biology-10-model-paper-2",
+  "totalQuestions": 12,
+  "fileName": "biology-10-model-paper-2.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which endocrine gland is located at the base of the brain and known as the master gland? (FBISE Annual 2024)",
+      "options": {
+        "A": "Thyroid gland",
+        "B": "Pituitary gland",
+        "C": "Adrenal gland",
+        "D": "Pancreas"
+      },
+      "correctAnswer": "B",
+      "explanation": "The anterior pituitary synthesizes multiple tropic hormones that govern other endocrine organs throughout the body."
+    },
+    {
+      "id": 2,
+      "question": "The hormone responsible for lowering elevated blood glucose levels by promoting glucose uptake into cells is: (FBISE 2023)",
+      "options": {
+        "A": "Glucagon",
+        "B": "Insulin",
+        "C": "Adrenaline",
+        "D": "Thyroxine"
+      },
+      "correctAnswer": "B",
+      "explanation": "Insulin, secreted by pancreatic beta cells in the islets of Langerhans, facilitates cellular uptake and storage of glucose as glycogen."
+    },
+    {
+      "id": 3,
+      "question": "Which part of the human brain regulates muscle coordination, balance, and fine motor posture? (FBISE 2024)",
+      "options": {
+        "A": "Cerebrum",
+        "B": "Cerebellum",
+        "C": "Medulla oblongata",
+        "D": "Hypothalamus"
+      },
+      "correctAnswer": "B",
+      "explanation": "The cerebellum coordinates somatic motor commands, calibrating balance and graceful musculoskeletal movements."
+    },
+    {
+      "id": 4,
+      "question": "The vital autonomic centers for cardiac contraction, blood pressure, respiration, and swallowing reside in the:",
+      "options": {
+        "A": "Thalamus",
+        "B": "Medulla oblongata",
+        "C": "Cerebrum",
+        "D": "Midbrain"
+      },
+      "correctAnswer": "B",
+      "explanation": "The medulla oblongata contains essential vegetative reflex centers that automatically sustain life functions."
+    },
+    {
+      "id": 5,
+      "question": "The emergency fight-or-flight hormone secreted rapidly by the adrenal medulla during acute stress is:",
+      "options": {
+        "A": "Cortisol",
+        "B": "Epinephrine (Adrenaline)",
+        "C": "Calcitonin",
+        "D": "Aldosterone"
+      },
+      "correctAnswer": "B",
+      "explanation": "Epinephrine elevates cardiac rate, dilates respiratory bronchioles, and mobilizes blood glucose during perceived emergencies."
+    },
+    {
+      "id": 6,
+      "question": "What is the primary role of myelin sheath surrounding an axon?",
+      "options": {
+        "A": "To nourish Schwann cell nuclei",
+        "B": "To electrically insulate the axon and increase the speed of nerve impulse conduction",
+        "C": "To store digestive enzymes",
+        "D": "To synthesize neurotransmitters directly"
+      },
+      "correctAnswer": "B",
+      "explanation": "Myelin sheaths prevent ion leakage, enabling saltatory conduction where action potentials leap rapidly between nodes of Ranvier."
+    },
+    {
+      "id": 7,
+      "question": "The microscopic specialized junction across which a nerve impulse is transferred chemically between two neurons is the: (FBISE 2022)",
+      "options": {
+        "A": "Synapse",
+        "B": "Node of Ranvier",
+        "C": "Sarcomere",
+        "D": "Desmosome"
+      },
+      "correctAnswer": "A",
+      "explanation": "At chemical synapses, neurotransmitters diffuse across the synaptic cleft from presynaptic vesicles to postsynaptic receptors."
+    },
+    {
+      "id": 8,
+      "question": "The photosensitive inner sensory layer of the eye containing rod and cone photoreceptors is the: (FBISE 2021)",
+      "options": {
+        "A": "Sclera",
+        "B": "Choroid",
+        "C": "Retina",
+        "D": "Cornea"
+      },
+      "correctAnswer": "C",
+      "explanation": "The retina converts light photon stimuli into electrical action potentials via visual pigments in rods and cones."
+    },
+    {
+      "id": 9,
+      "question": "Which coiled structure of the inner ear houses the organ of Corti responsible for acoustic hearing? (FBISE 2023)",
+      "options": {
+        "A": "Semicircular canals",
+        "B": "Cochlea",
+        "C": "Tympanum",
+        "D": "Eustachian tube"
+      },
+      "correctAnswer": "B",
+      "explanation": "The cochlea transforms mechanical fluid vibrations into acoustic nerve signals through sensory hair cells on the basilar membrane."
+    },
+    {
+      "id": 10,
+      "question": "A dietary deficiency of iodine prevents the normal synthesis of thyroxine, resulting in the clinical condition known as: (FBISE 2024)",
+      "options": {
+        "A": "Goiter",
+        "B": "Diabetes mellitus",
+        "C": "Acromegaly",
+        "D": "Addison disease"
+      },
+      "correctAnswer": "A",
+      "explanation": "Without iodine, the thyroid cannot produce thyroxine. Elevated TSH causes compensatory thyroid gland hypertrophy (goiter)."
+    },
+    {
+      "id": 11,
+      "question": "The optical defect where near objects are focused clearly but distant objects appear blurred is termed:",
+      "options": {
+        "A": "Hypermetropia",
+        "B": "Myopia (nearsightedness)",
+        "C": "Cataract",
+        "D": "Glaucoma"
+      },
+      "correctAnswer": "B",
+      "explanation": "In myopia, the focal point falls in front of the retina rather than directly on it, corrected using concave lenses."
+    },
+    {
+      "id": 12,
+      "question": "Which division of the autonomic nervous system promotes resting functions such as digestion and heart rate deceleration?",
+      "options": {
+        "A": "Sympathetic system",
+        "B": "Parasympathetic system",
+        "C": "Somatic motor system",
+        "D": "Sensory cranial system"
+      },
+      "correctAnswer": "B",
+      "explanation": "The parasympathetic system mediates rest-and-digest responses, slowing heart rate and stimulating digestive secretion."
+    }
+  ]
+}

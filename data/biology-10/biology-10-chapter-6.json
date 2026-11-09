@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 6,
+  "chapterTitle": "Unit 15: Inheritance",
+  "slug": "biology-10-chapter-6",
+  "totalQuestions": 35,
+  "fileName": "biology-10-chapter-6.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The observable physical and physiological characteristics of an organism resulting from its genetic makeup and environmental interactions are termed its: (FBISE 2024)",
+      "options": {
+        "A": "Genotype",
+        "B": "Phenotype",
+        "C": "Karyotype",
+        "D": "Epigenome"
+      },
+      "correctAnswer": "B",
+      "explanation": "The phenotype refers to the expressed, observable physical traits, biochemical properties, and behaviors of an organism (such as tall height or brown eye color), determined by its underlying genotype."
+    },
+    {
+      "id": 2,
+      "question": "When an organism carries two identical alleles for a specific gene (e.g., TT or tt), its genetic condition is described as: (FBISE 2023)",
+      "options": {
+        "A": "Homozygous",
+        "B": "Heterozygous",
+        "C": "Hemizygous",
+        "D": "Polygenic"
+      },
+      "correctAnswer": "A",
+      "explanation": "Homozygous describes an individual carrying two identical alleles for a particular locus on homologous chromosomes (homozygous dominant TT or homozygous recessive tt)."
+    },
+    {
+      "id": 3,
+      "question": "In a classical Mendelian monohybrid cross, what is the expected phenotypic ratio among offspring in the F2 generation? (FBISE 2024)",
+      "options": {
+        "A": "1:2:1",
+        "B": "3:1 (dominant to recessive)",
+        "C": "9:3:3:1",
+        "D": "1:1"
+      },
+      "correctAnswer": "B",
+      "explanation": "When heterozygous F1 individuals (Tt x Tt) are crossed, the resulting F2 generation yields a 3:1 phenotypic ratio (3 displaying the dominant trait to 1 displaying the recessive trait) and a 1:2:1 genotypic ratio."
+    },
+    {
+      "id": 4,
+      "question": "In a Mendelian dihybrid cross involving two independently assorting traits (e.g., RrYy x RrYy), what is the characteristic F2 phenotypic ratio? (FBISE 2023)",
+      "options": {
+        "A": "3:1",
+        "B": "9:3:3:1",
+        "C": "1:2:1",
+        "D": "1:1:1:1"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to Mendels Law of Independent Assortment, a dihybrid cross between two heterozygous parents yields a 9:3:3:1 phenotypic ratio in the F2 generation."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following represents a classic genetic example of co-dominance in human biology? (FBISE 2022)",
+      "options": {
+        "A": "Sickle cell anemia trait",
+        "B": "AB blood group of the ABO blood system",
+        "C": "Down syndrome",
+        "D": "Hemophilia A"
+      },
+      "correctAnswer": "B",
+      "explanation": "In human ABO blood groups, alleles IA and IB are co-dominant: both are fully and equally expressed on red blood cell surfaces in heterozygous individuals (IA IB), producing blood type AB."
+    },
+    {
+      "id": 6,
+      "question": "A father has blood group B and his biological child has blood group O. What must be the father genotype?",
+      "options": {
+        "A": "IB IB (homozygous)",
+        "B": "IB i (heterozygous)",
+        "C": "IA IB",
+        "D": "ii (homozygous recessive)"
+      },
+      "correctAnswer": "B",
+      "explanation": "A child with blood group O has genotype ii and must receive one recessive i allele from each parent. Therefore, a father with blood group B must carry the heterozygous genotype IB i."
+    },
+    {
+      "id": 7,
+      "question": "When a red-flowered plant is crossed with a white-flowered plant of Mirabilis jalapa (4 oclock plant) and all F1 offspring produce pink flowers, this phenomenon is called: (FBISE 2021)",
+      "options": {
+        "A": "Complete dominance",
+        "B": "Incomplete dominance (partial dominance)",
+        "C": "Epistasis",
+        "D": "Pleiotropy"
+      },
+      "correctAnswer": "B",
+      "explanation": "In incomplete dominance, neither allele is completely dominant. The heterozygous phenotype is an intermediate blend between the two homozygous parents, producing pink flowers (Rr) from red (RR) and white (rr)."
+    },
+    {
+      "id": 8,
+      "question": "The two complementary anti-parallel polynucleotide strands of a DNA double helix are bonded together by: (FBISE 2024)",
+      "options": {
+        "A": "Covalent peptide bonds",
+        "B": "Hydrogen bonds between complementary nitrogenous bases",
+        "C": "Ionic sulfide linkages",
+        "D": "Phosphodiester backbone bridges"
+      },
+      "correctAnswer": "B",
+      "explanation": "The two strands of the DNA double helix are stabilized by hydrogen bonds between complementary base pairs: Adenine forms two hydrogen bonds with Thymine (A=T), and Guanine forms three with Cytosine (G≡C)."
+    },
+    {
+      "id": 9,
+      "question": "According to Chargaff rules of base pairing in double-stranded DNA, adenine always pairs specifically with: (FBISE 2023)",
+      "options": {
+        "A": "Guanine",
+        "B": "Cytosine",
+        "C": "Thymine",
+        "D": "Uracil"
+      },
+      "correctAnswer": "C",
+      "explanation": "In double-stranded DNA, the purine Adenine pairs specifically with the pyrimidine Thymine via two hydrogen bonds (A=T), while Guanine pairs with Cytosine (G≡C)."
+    },
+    {
+      "id": 10,
+      "question": "A specific sequence of nucleotide bases along a DNA molecule that encodes instructions for synthesizing a functional polypeptide chain is defined as a:",
+      "options": {
+        "A": "Centromere",
+        "B": "Gene",
+        "C": "Telomere",
+        "D": "Chromatid"
+      },
+      "correctAnswer": "B",
+      "explanation": "A gene is the fundamental physical and functional unit of heredity, consisting of a distinct sequence of DNA nucleotides that determines the amino acid sequence of a protein."
+    },
+    {
+      "id": 11,
+      "question": "The specific physical position or address occupied by a gene along the length of a chromosome is termed its: (FBISE 2022)",
+      "options": {
+        "A": "Centrosome",
+        "B": "Locus",
+        "C": "Kinetochore",
+        "D": "Allele"
+      },
+      "correctAnswer": "B",
+      "explanation": "The locus (plural: loci) is the fixed anatomical position on a chromosome where a particular gene or genetic marker is located."
+    },
+    {
+      "id": 12,
+      "question": "Alternate structural forms of the same gene that occupy identical loci on homologous chromosomes are called: (FBISE 2021)",
+      "options": {
+        "A": "Alleles",
+        "B": "Nucleosomes",
+        "C": "Introns",
+        "D": "Exons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Alleles are variant versions of a given gene that govern the same trait (e.g., T for tall and t for dwarf) situated at corresponding positions on homologous chromosomes."
+    },
+    {
+      "id": 13,
+      "question": "Why did Gregor Johann Mendel specifically select the garden pea plant (Pisum sativum) for his historic hybridization experiments? (FBISE 2024)",
+      "options": {
+        "A": "It took several decades to reproduce one generation",
+        "B": "It possessed distinct, sharply contrasting traits and could be easily cross-pollinated",
+        "C": "It had over 500 chromosomes per cell",
+        "D": "It produced no viable seeds"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mendel chose Pisum sativum because it has distinct contrasting traits (e.g., tall vs dwarf, yellow vs green seeds), short generation time, high fecundity, and natural self-pollination that can be controlled."
+    },
+    {
+      "id": 14,
+      "question": "Mendel Law of Segregation states that during the biological process of gamete formation (meiosis): (FBISE 2023)",
+      "options": {
+        "A": "All chromosomes fuse into a single diploid nucleus",
+        "B": "The two alleles of each gene pair separate so that each gamete carries only one allele",
+        "C": "Alleles blend together permanently to create a uniform hybrid",
+        "D": "Dominant genes destroy recessive alleles"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mendels First Law (Law of Segregation) states that homologous chromosomes and their constituent allele pairs separate during meiosis, ensuring each gamete receives only one allele from each parent."
+    },
+    {
+      "id": 15,
+      "question": "In humans, which of the following physiological traits is an example of continuous phenotypic variation?",
+      "options": {
+        "A": "ABO blood group types",
+        "B": "Human height and skin pigmentation",
+        "C": "Ability to roll the tongue",
+        "D": "Free vs attached earlobes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Continuous variations (such as height, weight, and skin color) exhibit a complete bell-shaped spectrum of phenotypes without clear-cut categories, because they are polygenic and influenced by environment."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is a classic example of discontinuous (discrete) variation in the human population? (FBISE 2022)",
+      "options": {
+        "A": "Body weight",
+        "B": "ABO blood group system",
+        "C": "Skin color",
+        "D": "Intelligence quotient (IQ)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Discontinuous variations fall into distinct, discrete qualitative classes without intermediates (e.g., blood types A, B, AB, O; tongue roller vs non-roller), controlled by a single gene."
+    },
+    {
+      "id": 17,
+      "question": "Eukaryotic chromatin is composed of approximately what ratio of DNA to histone proteins?",
+      "options": {
+        "A": "99% lipid and 1% carbohydrate",
+        "B": "Approximately 40% DNA and 60% histone proteins",
+        "C": "100% pure RNA with no proteins",
+        "D": "10% DNA and 90% mineral salts"
+      },
+      "correctAnswer": "B",
+      "explanation": "Eukaryotic chromosomes consist of chromatin fibers made of roughly 40% double-stranded DNA coiled around 60% basic nuclear proteins called histones."
+    },
+    {
+      "id": 18,
+      "question": "The fundamental structural repeating unit of chromatin, where 147 base pairs of DNA wind around an octamer of histone proteins, is the: (FBISE 2024)",
+      "options": {
+        "A": "Nucleosome",
+        "B": "Centromere",
+        "C": "Ribosome",
+        "D": "Spliceosome"
+      },
+      "correctAnswer": "A",
+      "explanation": "A nucleosome is the structural unit consisting of a segment of DNA wound around a core particle composed of eight histone protein molecules (an octamer), resembling beads on a string."
+    },
+    {
+      "id": 19,
+      "question": "Which mechanism during prophase I of meiosis generates new combinations of maternal and paternal alleles on homologous chromosomes?",
+      "options": {
+        "A": "Crossing over (genetic recombination)",
+        "B": "Cytokinesis",
+        "C": "DNA transcription",
+        "D": "Spindle dissolution"
+      },
+      "correctAnswer": "A",
+      "explanation": "During pachynema of prophase I, non-sister chromatids of homologous chromosomes exchange genetic segments at chiasmata (crossing over), creating novel allele combinations."
+    },
+    {
+      "id": 20,
+      "question": "Who published On the Origin of Species in 1859, formulating the scientific theory of evolution by natural selection? (FBISE 2023)",
+      "options": {
+        "A": "Gregor Mendel",
+        "B": "Charles Darwin",
+        "C": "Jean-Baptiste Lamarck",
+        "D": "Louis Pasteur"
+      },
+      "correctAnswer": "B",
+      "explanation": "Charles Darwin published On the Origin of Species by Means of Natural Selection in 1859, proposing that organisms possessing advantageous variations are more likely to survive and reproduce."
+    },
+    {
+      "id": 21,
+      "question": "The intentional breeding of organisms by humans to produce domestic animals and crops with desirable economic traits is termed: (FBISE 2021)",
+      "options": {
+        "A": "Natural selection",
+        "B": "Artificial selection (selective breeding)",
+        "C": "Genetic drift",
+        "D": "Gene mutation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Artificial selection (selective breeding) is the practice of humans choosing specific individual animals or plants with desirable traits (e.g., high milk yield in cattle) to reproduce."
+    },
+    {
+      "id": 22,
+      "question": "An allele whose phenotypic effect is fully masked and unexpressed in the presence of an alternate dominant allele is called: (FBISE 2024)",
+      "options": {
+        "A": "Recessive allele",
+        "B": "Dominant allele",
+        "C": "Co-dominant allele",
+        "D": "Epistatic allele"
+      },
+      "correctAnswer": "A",
+      "explanation": "A recessive allele is one whose phenotypic expression is suppressed in a heterozygous genotype and is manifested only when present in a homozygous state."
+    },
+    {
+      "id": 23,
+      "question": "If a homozygous tall pea plant (TT) is crossed with a homozygous dwarf pea plant (tt), what percentage of the F1 generation will be tall?",
+      "options": {
+        "A": "25%",
+        "B": "50%",
+        "C": "75%",
+        "D": "100%"
+      },
+      "correctAnswer": "D",
+      "explanation": "All F1 offspring will receive a dominant T allele from the homozygous tall parent and a recessive t allele from the dwarf parent, yielding 100% heterozygous tall (Tt) plants."
+    },
+    {
+      "id": 24,
+      "question": "The three components of a single DNA nucleotide monomer are:",
+      "options": {
+        "A": "A fatty acid, glycerol, and nitrogen base",
+        "B": "A deoxyribose 5-carbon sugar, a phosphate group, and a nitrogenous base",
+        "C": "An amino acid, ribose sugar, and peptide chain",
+        "D": "Glucose, sucrose, and sulfur"
+      },
+      "correctAnswer": "B",
+      "explanation": "A DNA nucleotide consists of three covalently bonded units: a five-carbon deoxyribose sugar, a negatively charged phosphate group, and one of four nitrogenous bases (A, T, G, or C)."
+    },
+    {
+      "id": 25,
+      "question": "Which nitrogenous base is found in RNA molecules instead of thymine?",
+      "options": {
+        "A": "Adenine",
+        "B": "Uracil",
+        "C": "Cytosine",
+        "D": "Guanine"
+      },
+      "correctAnswer": "B",
+      "explanation": "RNA contains Uracil (U) in place of Thymine (T). Uracil forms complementary hydrogen bonds with Adenine during transcription and protein synthesis."
+    },
+    {
+      "id": 26,
+      "question": "In a cross between two heterozygous pink-flowered Mirabilis jalapa plants (Rr x Rr), what phenotypic ratio will be obtained?",
+      "options": {
+        "A": "3 Red : 1 White",
+        "B": "1 Red : 2 Pink : 1 White",
+        "C": "All Pink",
+        "D": "9 Red : 3 Pink : 3 White : 1 Yellow"
+      },
+      "correctAnswer": "B",
+      "explanation": "Under incomplete dominance, a self-cross of pink heterozygotes (Rr x Rr) produces 1/4 homozygous red (RR), 2/4 heterozygous pink (Rr), and 1/4 homozygous white (rr), giving a 1:2:1 ratio."
+    },
+    {
+      "id": 27,
+      "question": "What is the primary evolutionary driving force proposed by Charles Darwin that leads to adaptation and speciation?",
+      "options": {
+        "A": "Inheritance of acquired somatic modifications",
+        "B": "Differential reproductive success via natural selection",
+        "C": "Deliberate human intervention in natural habitats",
+        "D": "Spontaneous generation of new organs"
+      },
+      "correctAnswer": "B",
+      "explanation": "Natural selection acts on heritable variations: individuals best adapted to their local ecological environment survive and reproduce in greater numbers, passing adaptive alleles to offspring."
+    },
+    {
+      "id": 28,
+      "question": "How many total chromosomes are present in a normal, non-dividing human somatic body cell?",
+      "options": {
+        "A": "23 chromosomes",
+        "B": "46 chromosomes (23 homologous pairs)",
+        "C": "48 chromosomes",
+        "D": "92 chromosomes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Human diploid (2n) somatic cells contain exactly 46 chromosomes, consisting of 22 pairs of autosomes and 1 pair of sex chromosomes (XX in females, XY in males)."
+    },
+    {
+      "id": 29,
+      "question": "A sudden, permanent heritable alteration in the nucleotide sequence of an organism DNA is termed a: (FBISE 2023)",
+      "options": {
+        "A": "Translation",
+        "B": "Transcription",
+        "C": "Mutation",
+        "D": "Recombination"
+      },
+      "correctAnswer": "C",
+      "explanation": "A mutation is an alteration in the nucleotide sequence of the genome, caused by replication errors or environmental mutagens (radiation, chemicals), providing raw material for evolution."
+    },
+    {
+      "id": 30,
+      "question": "What is the biological term for the entire set of genes present in a complete haploid set of chromosomes in an organism?",
+      "options": {
+        "A": "Genotype",
+        "B": "Genome",
+        "C": "Gene pool",
+        "D": "Phenotype"
+      },
+      "correctAnswer": "B",
+      "explanation": "An organisms genome is the complete genetic content or total DNA sequence contained within a single haploid set of chromosomes."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following blood group genotypes will result in blood group A?",
+      "options": {
+        "A": "IA IA or IA i",
+        "B": "IB IB or IB i",
+        "C": "IA IB",
+        "D": "ii"
+      },
+      "correctAnswer": "A",
+      "explanation": "Blood group A is determined either by the homozygous genotype IA IA or the heterozygous genotype IA i, where the IA allele is dominant over the recessive i allele."
+    },
+    {
+      "id": 32,
+      "question": "When both alleles of a gene pair contribute independently and visibly to the phenotype without any blending, the relationship is: (FBISE 2022)",
+      "options": {
+        "A": "Incomplete dominance",
+        "B": "Co-dominance",
+        "C": "Recessive epistasis",
+        "D": "Polygenic masking"
+      },
+      "correctAnswer": "B",
+      "explanation": "Co-dominance is the condition where both alleles in a heterozygote are fully and simultaneously expressed without blending, producing a phenotype with both distinct gene products."
+    },
+    {
+      "id": 33,
+      "question": "In peas, round seed shape (R) is dominant over wrinkled seed shape (r). If a heterozygous round plant (Rr) is crossed with a wrinkled plant (rr), what fraction of offspring will be wrinkled?",
+      "options": {
+        "A": "0%",
+        "B": "25%",
+        "C": "50%",
+        "D": "75%"
+      },
+      "correctAnswer": "C",
+      "explanation": "This test cross (Rr x rr) yields gametes R and r from the heterozygote and r from the wrinkled parent, producing 50% heterozygous round (Rr) and 50% homozygous wrinkled (rr)."
+    },
+    {
+      "id": 34,
+      "question": "The historical French biologist who incorrectly proposed the theory of inheritance of acquired characteristics was: (FBISE 2021)",
+      "options": {
+        "A": "Charles Darwin",
+        "B": "Jean-Baptiste Lamarck",
+        "C": "Alfred Russel Wallace",
+        "D": "Thomas Malthus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lamarck proposed that physical traits acquired by an organism through use or disuse during its lifetime could be passed down directly to its progeny, a hypothesis later disproved."
+    },
+    {
+      "id": 35,
+      "question": "The total collection of all alleles for all genes present in an interbreeding population at a given time is called the:",
+      "options": {
+        "A": "Genome",
+        "B": "Genotype",
+        "C": "Gene pool",
+        "D": "Chromosomal locus"
+      },
+      "correctAnswer": "C",
+      "explanation": "The gene pool represents the sum total of all genetic information and alleles carried by all the individuals in a specific interbreeding biological population."
+    }
+  ]
+}

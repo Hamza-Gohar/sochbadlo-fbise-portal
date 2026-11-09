@@ -36,19 +36,21 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isCS9 = chapter.subject === 'cs-9' || chapter.slug.startsWith('cs-9');
   const isCS10 = chapter.subject === 'cs-10' || chapter.slug.startsWith('cs-10');
   const isBiology9 = chapter.subject === 'biology-9' || chapter.slug.startsWith('biology-9');
+  const isBiology10 = chapter.subject === 'biology-10' || chapter.slug.startsWith('biology-10');
   const isUrdu = (chapter.subject === 'urdu' || chapter.slug.startsWith('urdu')) && !isUrdu9;
   const isMath = (chapter.subject === 'math' || chapter.slug.startsWith('math-unit-') || chapter.slug.startsWith('math-model-paper-')) && !isMath9 && !isMath10;
   const isEnglish = (chapter.subject === 'english' || chapter.slug.startsWith('english')) && !isEnglish9;
   const isCS = (chapter.subject === 'cs' || chapter.slug.startsWith('cs')) && !isCS9 && !isCS10;
   const isIslamiat = (chapter.subject === 'islamiat' || chapter.slug.startsWith('islamiat')) && !isIslamiat9;
   const isTarjuma = (chapter.subject === 'tarjuma' || chapter.slug.startsWith('tarjuma')) && !isTarjuma9;
-  const isBiology = (chapter.subject === 'biology' || chapter.slug.startsWith('biology')) && !isBiology9;
+  const isBiology = (chapter.subject === 'biology' || chapter.slug.startsWith('biology')) && !isBiology9 && !isBiology10;
   const isChemistry = (chapter.subject === 'chemistry' || chapter.slug.startsWith('chemistry')) && !isChemistry9 && !isChemistry10;
   const isRtl = isUrdu || isIslamiat || isTarjuma || isUrdu9 || isTarjuma9 || isIslamiat9;
 
   const isPastPapers =
     chapter.slug === 'past-papers' ||
     chapter.slug === 'urdu-model-paper' ||
+    chapter.slug.startsWith('biology-10-model-paper-') ||
     chapter.slug.startsWith('cs-10-model-paper-') ||
     chapter.slug.startsWith('chemistry-10-model-paper-') ||
     chapter.slug.startsWith('physics-10-model-paper-') ||
@@ -69,7 +71,9 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     chapter.slug.startsWith('chemistry-model-paper-');
 
   let tagLabel = `Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
-  if (chapter.slug.startsWith('cs-10-model-paper-')) tagLabel = `Class 10 CS Simulator ${chapter.slug.split('-').pop()}`;
+  if (chapter.slug.startsWith('biology-10-model-paper-')) tagLabel = `Class 10 Biology Simulator ${chapter.slug.split('-').pop()}`;
+  else if (isBiology10) tagLabel = `Class 10 · Bio Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (chapter.slug.startsWith('cs-10-model-paper-')) tagLabel = `Class 10 CS Simulator ${chapter.slug.split('-').pop()}`;
   else if (isCS10) tagLabel = `Class 10 · CS Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (chapter.slug.startsWith('chemistry-10-model-paper-')) tagLabel = `Class 10 Chemistry Simulator ${chapter.slug.split('-').pop()}`;
   else if (isChemistry10) tagLabel = `Class 10 · Chemistry Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
@@ -118,7 +122,11 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (isUrdu) tagLabel = `Urdu Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
 
   let description = `Comprehensive conceptual questions, dimensional formulas, and numericals for ${chapter.title} aligned with textbook SLOs.`;
-  if (chapter.slug.startsWith('cs-10-model-paper-')) {
+  if (chapter.slug.startsWith('biology-10-model-paper-')) {
+    description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation (Lecturer Ma'am Rubina Ashraf & Soch Badlo By MAK). 12 MCQs, 15-minute timer with complete physiological and biological justifications.`;
+  } else if (isBiology10) {
+    description = `Official FBISE SSC-II Class 10 Biology: ${chapter.title}. Core biological concepts, organ physiology, genetics, biotechnology, and SLO justifications.`;
+  } else if (chapter.slug.startsWith('cs-10-model-paper-')) {
     description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation (Lecturer Sabahat Ul Hasan & Soch Badlo By MAK). 12 MCQs, 15-minute timer with complete algorithmic & C programming reasoning.`;
   } else if (isCS10) {
     description = `Official FBISE SSC-II Class 10 Computer Science: ${chapter.title}. Core computational concepts, system architectures, data analysis, and programming rationales.`;

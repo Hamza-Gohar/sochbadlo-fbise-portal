@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 13,
+  "chapterTitle": "FBISE Annual Exam Simulator 04 (Unit 15 & 16: Inheritance & Environmental Ecology)",
+  "slug": "biology-10-model-paper-4",
+  "totalQuestions": 12,
+  "fileName": "biology-10-model-paper-4.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The observable physical and morphological characteristics of an organism are termed its: (FBISE Annual 2024)",
+      "options": {
+        "A": "Genotype",
+        "B": "Phenotype",
+        "C": "Karyotype",
+        "D": "Genome"
+      },
+      "correctAnswer": "B",
+      "explanation": "The phenotype represents the outward physical expression of an organisms genetic constitution interacting with its environment."
+    },
+    {
+      "id": 2,
+      "question": "In a classical Mendelian monohybrid cross between two heterozygotes (Tt x Tt), what is the expected phenotypic ratio in F2? (FBISE 2023)",
+      "options": {
+        "A": "1:2:1",
+        "B": "3:1 (dominant to recessive)",
+        "C": "9:3:3:1",
+        "D": "1:1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Heterozygous monohybrid crosses yield a 3:1 phenotypic ratio (3 dominant : 1 recessive) and a 1:2:1 genotypic ratio."
+    },
+    {
+      "id": 3,
+      "question": "Which human blood group system demonstrates co-dominance in heterozygous individuals? (FBISE 2024)",
+      "options": {
+        "A": "Blood group O",
+        "B": "Blood group AB",
+        "C": "Rh negative group",
+        "D": "Bombay phenotype"
+      },
+      "correctAnswer": "B",
+      "explanation": "Individuals with genotype IA IB express both A and B antigens equally on red blood cell membranes, exhibiting co-dominance."
+    },
+    {
+      "id": 4,
+      "question": "The complementary base pairing in a double-stranded DNA molecule dictates that Adenine always pairs with: (FBISE 2022)",
+      "options": {
+        "A": "Guanine",
+        "B": "Cytosine",
+        "C": "Thymine",
+        "D": "Uracil"
+      },
+      "correctAnswer": "C",
+      "explanation": "In DNA, Adenine binds Thymine via two hydrogen bonds (A=T), while Guanine pairs with Cytosine via three (G≡C)."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a classic example of continuous phenotypic variation in the human population?",
+      "options": {
+        "A": "ABO blood groups",
+        "B": "Human height and skin color",
+        "C": "Tongue rolling capability",
+        "D": "Attached earlobes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Continuous variations (height, weight, skin pigmentation) display a bell-shaped range of phenotypes governed polygenically."
+    },
+    {
+      "id": 6,
+      "question": "Who formulated the scientific theory of evolution by natural selection in 1859? (FBISE 2021)",
+      "options": {
+        "A": "Gregor Mendel",
+        "B": "Charles Darwin",
+        "C": "Jean-Baptiste Lamarck",
+        "D": "Louis Pasteur"
+      },
+      "correctAnswer": "B",
+      "explanation": "Charles Darwin published On the Origin of Species in 1859, proposing natural selection as the driving engine of evolution."
+    },
+    {
+      "id": 7,
+      "question": "In an ecosystem, autotrophic green plants and phytoplankton function ecologically as: (FBISE 2024)",
+      "options": {
+        "A": "Primary consumers",
+        "B": "Producers",
+        "C": "Decomposers",
+        "D": "Secondary consumers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Producers capture solar radiant energy to synthesize organic biomass, supporting all subsequent consumer trophic levels."
+    },
+    {
+      "id": 8,
+      "question": "According to the 10% ecological energy rule, approximately what fraction of usable energy is transferred between successive trophic levels?",
+      "options": {
+        "A": "100%",
+        "B": "50%",
+        "C": "10%",
+        "D": "1%"
+      },
+      "correctAnswer": "C",
+      "explanation": "Roughly 90% of energy is lost as metabolic heat and waste, allowing only ~10% to be stored as consumable biomass in the next level."
+    },
+    {
+      "id": 9,
+      "question": "The symbiotic relationship between Rhizobium bacteria and leguminous root nodules where both partners benefit is: (FBISE 2023)",
+      "options": {
+        "A": "Parasitism",
+        "B": "Mutualism",
+        "C": "Commensalism",
+        "D": "Predation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mutualism benefits both partners: Rhizobium fixes atmospheric nitrogen for the plant, receiving carbohydrates and shelter in return."
+    },
+    {
+      "id": 10,
+      "question": "Acid precipitation (acid rain) is primarily caused by atmospheric industrial emissions of: (FBISE 2024)",
+      "options": {
+        "A": "Sulfur dioxide (SO2) and nitrogen oxides (NOx)",
+        "B": "Pure carbon monoxide",
+        "C": "Ozone gas and argon",
+        "D": "Hydrogen and helium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sulfur dioxide and nitrogen oxides react with water droplets in clouds to form dilute sulfuric and nitric acids, lowering rain pH below 5.6."
+    },
+    {
+      "id": 11,
+      "question": "The environmental phenomenon wherein greenhouse gases trap outgoing terrestrial infrared radiation to warm Earth is: (FBISE 2022)",
+      "options": {
+        "A": "Greenhouse effect",
+        "B": "Ozone depletion",
+        "C": "Thermal inversion",
+        "D": "Eutrophication"
+      },
+      "correctAnswer": "A",
+      "explanation": "Atmospheric greenhouse gases absorb and re-emit longwave infrared radiation back to the surface, maintaining a habitable global temperature."
+    },
+    {
+      "id": 12,
+      "question": "Which wild spiral-horned mountain goat is protected as the national animal of Pakistan? (FBISE 2021)",
+      "options": {
+        "A": "Markhor (Capra falconeri)",
+        "B": "Urial sheep",
+        "C": "Ibex",
+        "D": "Marco Polo sheep"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Markhor (Capra falconeri) is Pakistans national animal, rigorously conserved in northern mountainous wildlife reserves."
+    }
+  ]
+}

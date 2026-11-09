@@ -24,6 +24,7 @@ const MATH_10_DIR = path.join(process.cwd(), 'data', 'math-10');
 const PHYSICS_10_DIR = path.join(process.cwd(), 'data', 'physics-10');
 const CHEMISTRY_10_DIR = path.join(process.cwd(), 'data', 'chemistry-10');
 const CS_10_DIR = path.join(process.cwd(), 'data', 'cs-10');
+const BIOLOGY_10_DIR = path.join(process.cwd(), 'data', 'biology-10');
 
 export function getChaptersIndex(
   subject: SubjectId = 'physics'
@@ -51,6 +52,7 @@ export function getChaptersIndex(
     else if (subject === 'physics-10') dir = PHYSICS_10_DIR;
     else if (subject === 'chemistry-10') dir = CHEMISTRY_10_DIR;
     else if (subject === 'cs-10') dir = CS_10_DIR;
+    else if (subject === 'biology-10') dir = BIOLOGY_10_DIR;
 
     const indexPath = path.join(dir, 'chapters-index.json');
     if (fs.existsSync(indexPath)) {
@@ -60,7 +62,8 @@ export function getChaptersIndex(
         subject === 'math-10' ||
         subject === 'physics-10' ||
         subject === 'chemistry-10' ||
-        subject === 'cs-10'
+        subject === 'cs-10' ||
+        subject === 'biology-10'
           ? '10'
           : subject === 'physics-9' ||
             subject === 'math-9' ||
@@ -105,6 +108,7 @@ export function getAllChapters(): ChapterMeta[] {
     ...getChaptersIndex('physics-10'),
     ...getChaptersIndex('chemistry-10'),
     ...getChaptersIndex('cs-10'),
+    ...getChaptersIndex('biology-10'),
   ];
 }
 
@@ -119,7 +123,10 @@ export function getChapterBySlug(
     let targetDir = PHYSICS_DIR;
     let subject: SubjectId = 'physics';
 
-    if (slug.startsWith('cs-10')) {
+    if (slug.startsWith('biology-10')) {
+      targetDir = BIOLOGY_10_DIR;
+      subject = 'biology-10';
+    } else if (slug.startsWith('cs-10')) {
       targetDir = CS_10_DIR;
       subject = 'cs-10';
     } else if (slug.startsWith('chemistry-10')) {
@@ -199,6 +206,7 @@ export function getChapterBySlug(
 
     // Fallback search across all directories
     const dirMap: Array<[string, SubjectId]> = [
+      [BIOLOGY_10_DIR, 'biology-10'],
       [CS_10_DIR, 'cs-10'],
       [CHEMISTRY_10_DIR, 'chemistry-10'],
       [PHYSICS_10_DIR, 'physics-10'],

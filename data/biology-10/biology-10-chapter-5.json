@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 5,
+  "chapterTitle": "Unit 14: Reproduction",
+  "slug": "biology-10-chapter-5",
+  "totalQuestions": 35,
+  "fileName": "biology-10-chapter-5.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The reproductive structure in fungi such as Rhizopus (black bread mold) that houses and produces asexual spores is called a: (FBISE 2024)",
+      "options": {
+        "A": "Basidium",
+        "B": "Conidium",
+        "C": "Sporangium",
+        "D": "Ascus"
+      },
+      "correctAnswer": "C",
+      "explanation": "In Rhizopus, asexual reproduction occurs via sporangia, which are globular sac-like structures borne on aerial hyphae (sporangiophores) containing hundreds of resistant spores."
+    },
+    {
+      "id": 2,
+      "question": "In honeybees, the development of unfertilized haploid eggs into male drones is an example of: (FBISE 2023)",
+      "options": {
+        "A": "Budding",
+        "B": "Binary fission",
+        "C": "Multiple fission",
+        "D": "Parthenogenesis"
+      },
+      "correctAnswer": "D",
+      "explanation": "Parthenogenesis is a form of asexual reproduction where an unfertilized ovum develops directly into a viable adult organism. In honeybees, unfertilized haploid eggs develop into male drones."
+    },
+    {
+      "id": 3,
+      "question": "The asexual process wherein a unicellular organism divides mitotically into two identical daughter cells is termed: (FBISE 2023)",
+      "options": {
+        "A": "Budding",
+        "B": "Binary fission",
+        "C": "Fragmentation",
+        "D": "Parthenogenesis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Binary fission is the primary mode of asexual reproduction in prokaryotes and unicellular protozoans (like Amoeba and Paramecium), producing two genetically identical daughter cells."
+    },
+    {
+      "id": 4,
+      "question": "In Hydra and unicellular yeast, asexual reproduction through an outgrowth that detaches to form a new individual is called: (FBISE 2022)",
+      "options": {
+        "A": "Budding",
+        "B": "Spore formation",
+        "C": "Binary fission",
+        "D": "Cloning"
+      },
+      "correctAnswer": "A",
+      "explanation": "Budding is an asexual reproductive process where an external outgrowth (bud) develops by repeated mitotic cell division, matures, and eventually pinches off from the parent."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following plants reproduces naturally and vegetatively through underground modified shoots called bulbs? (FBISE 2021)",
+      "options": {
+        "A": "Potato",
+        "B": "Onion (and garlic)",
+        "C": "Ginger",
+        "D": "Strawberry"
+      },
+      "correctAnswer": "B",
+      "explanation": "Onions and garlic propagate vegetatively via bulbs, which are underground condensed shoots consisting of a flattened stem surrounded by fleshy scale leaves that store food."
+    },
+    {
+      "id": 6,
+      "question": "The modern laboratory technique of generating thousands of genetically identical cloned plants from small explant tissues on sterile nutrient agar is: (FBISE 2024)",
+      "options": {
+        "A": "Grafting",
+        "B": "Cutting",
+        "C": "Micropropagation (plant tissue culture)",
+        "D": "Layering"
+      },
+      "correctAnswer": "C",
+      "explanation": "Plant tissue culture (micropropagation) takes advantage of plant cell totipotency to regenerate large numbers of disease-free, genetically uniform clones from microscopic explants."
+    },
+    {
+      "id": 7,
+      "question": "The union and fusion of haploid male and female gamete nuclei to form a diploid zygote is defined as:",
+      "options": {
+        "A": "Pollination",
+        "B": "Fertilization (syngamy)",
+        "C": "Gametogenesis",
+        "D": "Parthenogenesis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fertilization (or syngamy) is the biological fusion of haploid sperm and ovum nuclei, restoring the diploid (2n) chromosome complement in the resulting zygote."
+    },
+    {
+      "id": 8,
+      "question": "In angiosperm flowers, the transfer of mature pollen grains from the anther to the receptive stigma of a carpel is termed: (FBISE 2023)",
+      "options": {
+        "A": "Fertilization",
+        "B": "Pollination",
+        "C": "Germination",
+        "D": "Translocation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pollination is the physical transfer of pollen grains from the male anther to the receptive female stigma by wind, water, insects, or other animal vectors."
+    },
+    {
+      "id": 9,
+      "question": "Double fertilization is an evolutionary hallmark unique to which plant division? (FBISE 2022)",
+      "options": {
+        "A": "Bryophytes (mosses)",
+        "B": "Gymnosperms (conifers)",
+        "C": "Angiosperms (flowering plants)",
+        "D": "Pteridophytes (ferns)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Double fertilization occurs exclusively in angiosperms: one sperm fertilizes the egg to form a diploid zygote (2n), while the second sperm fuses with two polar nuclei to yield triploid endosperm (3n)."
+    },
+    {
+      "id": 10,
+      "question": "During double fertilization in flowering plants, the triploid (3n) tissue that develops to nourish the growing embryo is the: (FBISE 2024)",
+      "options": {
+        "A": "Cotyledon",
+        "B": "Endosperm tissue",
+        "C": "Seed coat (testa)",
+        "D": "Pericarp"
+      },
+      "correctAnswer": "B",
+      "explanation": "The primary endosperm nucleus (3n), formed by the union of one sperm nucleus with two polar nuclei, undergoes rapid mitosis to form nutrient-rich endosperm tissue."
+    },
+    {
+      "id": 11,
+      "question": "Following successful double fertilization in a flower, the ovule matures into a seed, while the surrounding ovary wall transforms into the: (FBISE 2021)",
+      "options": {
+        "A": "Fruit (pericarp)",
+        "B": "Flower petal",
+        "C": "Pollen tube",
+        "D": "Sepal"
+      },
+      "correctAnswer": "A",
+      "explanation": "After fertilization, hormones trigger the ovary wall to enlarge, ripen, and develop into the fruit (pericarp), which encloses and protects the matured seeds."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is a classic botanical example of a stem tuber bearing dormant buds or eyes for vegetative propagation?",
+      "options": {
+        "A": "Sweet potato",
+        "B": "Irish potato (Solanum tuberosum)",
+        "C": "Carrot",
+        "D": "Radish"
+      },
+      "correctAnswer": "B",
+      "explanation": "The potato tuber is an enlarged underground stem that stores starch; its eyes are nodes with dormant axillary buds that sprout into new vegetative shoots."
+    },
+    {
+      "id": 13,
+      "question": "Ginger (*Zingiber officinale*) propagates vegetatively through thick, horizontal underground stems called: (FBISE 2023)",
+      "options": {
+        "A": "Bulbs",
+        "B": "Corms",
+        "C": "Rhizomes",
+        "D": "Runners"
+      },
+      "correctAnswer": "C",
+      "explanation": "Rhizomes are horizontal, subterranean fleshy stems possessing nodes, internodes, scale leaves, and adventitious roots, as observed in ginger and ferns."
+    },
+    {
+      "id": 14,
+      "question": "In artificial vegetative propagation by grafting, the rooted host plant that provides the root system is called the:",
+      "options": {
+        "A": "Scion",
+        "B": "Stock (rootstock)",
+        "C": "Callus",
+        "D": "Explant"
+      },
+      "correctAnswer": "B",
+      "explanation": "In grafting, the rooted plant providing root anchorage and water absorption is the stock, while the attached shoot or bud with desired fruiting characteristics is the scion."
+    },
+    {
+      "id": 15,
+      "question": "Which type of seed germination is characterized by rapid elongation of the hypocotyl, pulling the cotyledons above ground (e.g., in bean plants)? (FBISE 2022)",
+      "options": {
+        "A": "Hypogeal germination",
+        "B": "Epigeal germination",
+        "C": "Viviparous germination",
+        "D": "Subterranean germination"
+      },
+      "correctAnswer": "B",
+      "explanation": "In epigeal germination (e.g., green gram, French bean), the hypocotyl elongates rapidly and arches upward, pulling the cotyledons above the soil surface where they turn green."
+    },
+    {
+      "id": 16,
+      "question": "In hypogeal seed germination (e.g., in pea and maize plants), which embryonic axis elongates, causing cotyledons to remain below ground?",
+      "options": {
+        "A": "Epicotyl",
+        "B": "Hypocotyl",
+        "C": "Radicle",
+        "D": "Plumule"
+      },
+      "correctAnswer": "A",
+      "explanation": "In hypogeal germination (e.g., pea, gram, maize), the epicotyl elongates and pushes the plumule upward out of the soil, while the cotyledons remain buried underground."
+    },
+    {
+      "id": 17,
+      "question": "What is the primary biological disadvantage of continuous vegetative propagation in commercial crop species?",
+      "options": {
+        "A": "Plants take decades to produce flowers",
+        "B": "Total absence of genetic variation leaves crops vulnerable to widespread disease epidemics",
+        "C": "Vegetative plants produce toxic seeds",
+        "D": "Cloned plants cannot photosynthesize"
+      },
+      "correctAnswer": "B",
+      "explanation": "Because vegetative propagation is mitotic, all offspring are genetically uniform clones. A lack of genetic diversity means an entire crop can be wiped out by a single virulent pathogen."
+    },
+    {
+      "id": 18,
+      "question": "The protective outer coat of a mature seed derived from the integuments of the ovule is the:",
+      "options": {
+        "A": "Testa",
+        "B": "Endocarp",
+        "C": "Micropyle",
+        "D": "Aleurone"
+      },
+      "correctAnswer": "A",
+      "explanation": "The testa is the tough, water-resistant outer protective seed coat that shields the internal dormant embryo and cotyledons from drying and microbial attack."
+    },
+    {
+      "id": 19,
+      "question": "The microscopic pore opening in the seed coat through which water enters during seed germination is the:",
+      "options": {
+        "A": "Hilum",
+        "B": "Micropyle",
+        "C": "Plumule",
+        "D": "Radicle"
+      },
+      "correctAnswer": "B",
+      "explanation": "The micropyle is a tiny pore retained in the seed coat from the ovule, through which water and oxygen enter to hydrate dry cellular tissues during imbibition."
+    },
+    {
+      "id": 20,
+      "question": "Which of the following conditions is strictly required for the germination of all viable plant seeds?",
+      "options": {
+        "A": "Direct artificial electric current",
+        "B": "Moisture (water), oxygen, and suitable temperature",
+        "C": "Continuous darkness at 0 degrees Celsius",
+        "D": "Complete absence of carbon dioxide"
+      },
+      "correctAnswer": "B",
+      "explanation": "Seed germination requires three universal physiological factors: water (imbibition to activate hydrolytic enzymes), oxygen (for cellular respiration and ATP), and an optimal temperature."
+    },
+    {
+      "id": 21,
+      "question": "Flowers adapted for wind pollination (anemophily) typically possess which combination of physical characteristics? (FBISE 2024)",
+      "options": {
+        "A": "Brightly colored fragrant petals and sweet nectar",
+        "B": "Small, inconspicuous dull petals, feathery stigmas, and abundant light, smooth pollen",
+        "C": "Sticky pollen grains and deep tubular nectaries",
+        "D": "Heavy, water-soluble pollen with strong scents"
+      },
+      "correctAnswer": "B",
+      "explanation": "Wind-pollinated flowers have reduced perianths, long versatile stamens producing massive quantities of lightweight smooth pollen, and large, feathery stigmas to catch passing airborne grains."
+    },
+    {
+      "id": 22,
+      "question": "In the male reproductive system of flowering plants, the haploid microspores develop into mature:",
+      "options": {
+        "A": "Embryo sacs",
+        "B": "Pollen grains (male gametophytes)",
+        "C": "Endosperms",
+        "D": "Ovules"
+      },
+      "correctAnswer": "B",
+      "explanation": "Inside the anther microsporangia, haploid microspores divide mitotically to produce two-celled pollen grains (containing a tube cell and a generative cell), representing the immature male gametophyte."
+    },
+    {
+      "id": 23,
+      "question": "The female gametophyte of an angiosperm enclosed within the ovule is known as the: (FBISE 2023)",
+      "options": {
+        "A": "Embryo sac (containing 7 cells and 8 nuclei)",
+        "B": "Carpel",
+        "C": "Perianth",
+        "D": "Antheridium"
+      },
+      "correctAnswer": "A",
+      "explanation": "The mature angiosperm female gametophyte is the embryo sac, typically containing 8 haploid nuclei distributed across 7 cells: 1 egg cell, 2 synergids, 3 antipodals, and 1 central binucleate cell."
+    },
+    {
+      "id": 24,
+      "question": "Which developmental stage represents the first mitotic cell product resulting from the fusion of sperm and egg?",
+      "options": {
+        "A": "Zygote",
+        "B": "Blastocyst",
+        "C": "Morula",
+        "D": "Embryo"
+      },
+      "correctAnswer": "A",
+      "explanation": "The zygote is the single diploid (2n) cell formed immediately upon syngamy, which subsequently undergoes cleavage to form multicellular embryonic stages."
+    },
+    {
+      "id": 25,
+      "question": "The physiological process of sperm formation occurring in the seminiferous tubules of mammalian testes is called: (FBISE 2022)",
+      "options": {
+        "A": "Oogenesis",
+        "B": "Spermatogenesis",
+        "C": "Ovulation",
+        "D": "Metamorphosis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Spermatogenesis is the sequence of mitotic and meiotic divisions in the seminiferous tubules that transforms primordial germ cells (spermatogonia) into mature functional spermatozoa."
+    },
+    {
+      "id": 26,
+      "question": "How many functional mature haploid ova (egg cells) are produced from a single primary oocyte during human oogenesis?",
+      "options": {
+        "A": "Four functional ova",
+        "B": "One functional ovum (and three non-functional polar bodies)",
+        "C": "Two functional ova",
+        "D": "Eight functional ova"
+      },
+      "correctAnswer": "B",
+      "explanation": "During oogenesis, unequal cytokinesis concentrates all cytoplasm into a single functional ovum to nourish the potential early embryo, while the remaining genetic sets are discarded as small polar bodies."
+    },
+    {
+      "id": 27,
+      "question": "Which mode of fertilization is typical of bony fishes and amphibians, requiring water for gamete motility? (FBISE 2021)",
+      "options": {
+        "A": "Internal fertilization",
+        "B": "External fertilization",
+        "C": "Parthenogenesis",
+        "D": "Vegetative cloning"
+      },
+      "correctAnswer": "B",
+      "explanation": "In external fertilization, female aquatic animals shed unfertilized eggs into open water, where males synchronously release sperm to achieve fertilization outside the parents bodies."
+    },
+    {
+      "id": 28,
+      "question": "Acquired Immune Deficiency Syndrome (AIDS) is a sexually transmitted viral disease caused by which pathogen? (FBISE 2024)",
+      "options": {
+        "A": "Hepatitis B virus",
+        "B": "Human Immunodeficiency Virus (HIV)",
+        "C": "Treponema pallidum",
+        "D": "Neisseria gonorrhoeae"
+      },
+      "correctAnswer": "B",
+      "explanation": "AIDS is caused by Human Immunodeficiency Virus (HIV), an enveloped retrovirus that selectively attacks helper T-lymphocytes (CD4+ cells), progressively collapsing the host immune system."
+    },
+    {
+      "id": 29,
+      "question": "Which of the following is a medically verified route of transmission for the Human Immunodeficiency Virus (HIV)?",
+      "options": {
+        "A": "Casual handshakes and social hugging",
+        "B": "Sharing drinking cups and eating utensils",
+        "C": "Transfusion of unscreened blood, contaminated needle sharing, and sexual contact",
+        "D": "Airborne droplets from coughing and sneezing"
+      },
+      "correctAnswer": "C",
+      "explanation": "HIV is transmitted through direct contact with infected body fluids: unprotected sexual relations, contaminated syringe needle sharing among drug users, infected blood transfusions, and vertical mother-to-child transmission."
+    },
+    {
+      "id": 30,
+      "question": "In human reproductive anatomy, fertilization of the ovum by a sperm typically takes place in which location?",
+      "options": {
+        "A": "Vagina",
+        "B": "Uterus",
+        "C": "Fallopian tube (oviduct / ampulla)",
+        "D": "Ovary surface"
+      },
+      "correctAnswer": "C",
+      "explanation": "Fertilization normally occurs in the ampullary region of the Fallopian tube (oviduct). The resulting zygote begins cleaving as it travels down to implant into the uterine wall."
+    },
+    {
+      "id": 31,
+      "question": "Planaria displays remarkable asexual regenerative capability through which mechanism?",
+      "options": {
+        "A": "Fragmentation and regeneration",
+        "B": "Spore formation",
+        "C": "Double fertilization",
+        "D": "Parthenogenesis"
+      },
+      "correctAnswer": "A",
+      "explanation": "If a Planarian flatworm is cut or fragmented into pieces, specialized pluripotent stem cells (neoblasts) in each fragment undergo rapid mitosis and differentiation to regenerate a complete organism."
+    },
+    {
+      "id": 32,
+      "question": "The embryonic root that emerges first through the seed coat during germination is the:",
+      "options": {
+        "A": "Plumule",
+        "B": "Radicle",
+        "C": "Hypocotyl",
+        "D": "Coleoptile"
+      },
+      "correctAnswer": "B",
+      "explanation": "The radicle is the embryonic root. It is the first structure to break through the seed coat, establishing anchorage in soil and absorbing water and minerals for the growing seedling."
+    },
+    {
+      "id": 33,
+      "question": "The embryonic shoot that gives rise to the stem and true foliage leaves of a seedling is the:",
+      "options": {
+        "A": "Radicle",
+        "B": "Plumule",
+        "C": "Hilum",
+        "D": "Micropyle"
+      },
+      "correctAnswer": "B",
+      "explanation": "The plumule is the embryonic apical shoot bud consisting of rudimentary epicotylar meristem and young embryonic leaves."
+    },
+    {
+      "id": 34,
+      "question": "A scar on the seed coat that marks the point of original attachment of the ovule to the ovary wall is the:",
+      "options": {
+        "A": "Hilum",
+        "B": "Micropyle",
+        "C": "Testa",
+        "D": "Tegmen"
+      },
+      "correctAnswer": "A",
+      "explanation": "The hilum is an oval scar on the seed coat marking the site where the seed was attached to the funiculus (ovary stalk) prior to detachment."
+    },
+    {
+      "id": 35,
+      "question": "Strawberry plants naturally reproduce and spread horizontally across the ground using specialized creeping stems called: (FBISE 2021)",
+      "options": {
+        "A": "Runners (stolons)",
+        "B": "Bulbs",
+        "C": "Corms",
+        "D": "Tubers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Strawberries produce runners (stolons), which are slender, horizontal above-ground creeping branches that strike adventitious roots at nodes, establishing independent daughter plants."
+    }
+  ]
+}

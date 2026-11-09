@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 9,
+  "chapterTitle": "Unit 18: Pharmacology",
+  "slug": "biology-10-chapter-9",
+  "totalQuestions": 35,
+  "fileName": "biology-10-chapter-9.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The scientific discipline concerned with the study of drug origins, chemical properties, physiological mechanisms, and therapeutic applications is: (FBISE 2024)",
+      "options": {
+        "A": "Biotechnology",
+        "B": "Pharmacology",
+        "C": "Pharmacy",
+        "D": "Pathology"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pharmacology is the comprehensive biomedical science dealing with the research, characterization, biological actions, and medical applications of chemical drugs on living biological systems."
+    },
+    {
+      "id": 2,
+      "question": "Any chemical substance that, when absorbed into the body of a living organism, alters normal physiological or biochemical function is defined as a: (FBISE 2023)",
+      "options": {
+        "A": "Vitamin",
+        "B": "Drug",
+        "C": "Enzyme",
+        "D": "Hormone"
+      },
+      "correctAnswer": "B",
+      "explanation": "In pharmacology, a drug is any biological or synthetic chemical agent (other than food providing nutritional support) that alters biochemical or physiological processes in an organism."
+    },
+    {
+      "id": 3,
+      "question": "Which powerful narcotic analgesic is naturally extracted from the latex resin of the opium poppy (Papaver somniferum)? (FBISE 2024)",
+      "options": {
+        "A": "Aspirin",
+        "B": "Morphine",
+        "C": "Paracetamol",
+        "D": "Penicillin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Morphine is a potent opioid analgesic alkaloid isolated from the dried latex of Papaver somniferum (opium poppy), prescribed under strict medical supervision for severe acute and post-surgical pain."
+    },
+    {
+      "id": 4,
+      "question": "The cardiotonic cardiac glycoside medication Digitalis (digoxin), used to strengthen myocardial contractions in heart failure, is extracted from which plant? (FBISE 2022)",
+      "options": {
+        "A": "Foxglove (Digitalis purpurea)",
+        "B": "Cinchona tree",
+        "C": "Opium poppy",
+        "D": "Belladonna"
+      },
+      "correctAnswer": "A",
+      "explanation": "Digitalis (digoxin) is derived from the dried leaves of the purple foxglove (Digitalis purpurea). It inhibits cardiac sodium-potassium ATPase, increasing intracellular calcium and strengthening heart contractions."
+    },
+    {
+      "id": 5,
+      "question": "Which historic antimalarial medication was originally extracted from the natural bark of the South American Cinchona tree? (FBISE 2021)",
+      "options": {
+        "A": "Penicillin",
+        "B": "Quinine",
+        "C": "Insulin",
+        "D": "Aspirin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Quinine is a natural alkaloid extracted from the bark of the Cinchona tree that was historically the first effective clinical treatment for malaria caused by Plasmodium."
+    },
+    {
+      "id": 6,
+      "question": "Which widely used analgesic, antipyretic, and anti-inflammatory drug is completely synthesized chemically as acetylsalicylic acid? (FBISE 2023)",
+      "options": {
+        "A": "Aspirin",
+        "B": "Morphine",
+        "C": "Digitalis",
+        "D": "Quinine"
+      },
+      "correctAnswer": "A",
+      "explanation": "Aspirin (acetylsalicylic acid) is a synthetic non-steroidal anti-inflammatory drug (NSAID) that inhibits cyclooxygenase enzymes to relieve mild pain, reduce fever, and prevent blood platelet aggregation."
+    },
+    {
+      "id": 7,
+      "question": "Antibiotics that directly kill and destroy target bacterial cells are pharmacologically classified as: (FBISE 2024)",
+      "options": {
+        "A": "Bacteriostatic antibiotics",
+        "B": "Bactericidal antibiotics",
+        "C": "Antiseptics",
+        "D": "Disinfectants"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bactericidal antibiotics (such as penicillins and cephalosporins) directly kill bacterial pathogens, typically by lysing cell walls or damaging cytoplasmic membranes."
+    },
+    {
+      "id": 8,
+      "question": "Antibiotics that inhibit the growth, reproduction, and metabolic replication of bacteria without killing them directly are termed: (FBISE 2023)",
+      "options": {
+        "A": "Bactericidal antibiotics",
+        "B": "Bacteriostatic antibiotics",
+        "C": "Antipyretics",
+        "D": "Analgesics"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bacteriostatic antibiotics (such as tetracyclines and erythromycin) arrest bacterial cellular growth and protein synthesis, leaving the remaining immobilized bacteria to be eliminated by host immune phagocytes."
+    },
+    {
+      "id": 9,
+      "question": "Who discovered the first clinical antibiotic, penicillin, in 1928 after observing fungal contamination inhibiting bacterial growth on a petri dish? (FBISE 2024)",
+      "options": {
+        "A": "Louis Pasteur",
+        "B": "Sir Alexander Fleming",
+        "C": "Robert Koch",
+        "D": "Edward Jenner"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sir Alexander Fleming discovered penicillin in 1928 when he noticed that colonies of Staphylococcus aureus were lysed around a contaminating mold colony of Penicillium notatum."
+    },
+    {
+      "id": 10,
+      "question": "Penicillin exerts its bactericidal antibacterial effect primarily by inhibiting the synthesis of which essential bacterial structure? (FBISE 2022)",
+      "options": {
+        "A": "Peptidoglycan cell wall",
+        "B": "Mitochondrial membranes",
+        "C": "Nuclear envelope",
+        "D": "Eukaryotic Golgi apparatus"
+      },
+      "correctAnswer": "A",
+      "explanation": "Penicillin selectively inhibits bacterial transpeptidase enzymes that cross-link peptidoglycan strands in the bacterial cell wall, causing growing bacteria to lyse under osmotic pressure."
+    },
+    {
+      "id": 11,
+      "question": "An antibiotic that is clinically active against a wide variety of both Gram-positive and Gram-negative bacterial species is described as: (FBISE 2021)",
+      "options": {
+        "A": "Narrow-spectrum antibiotic",
+        "B": "Broad-spectrum antibiotic",
+        "C": "Selective antipyretic",
+        "D": "Topical astringent"
+      },
+      "correctAnswer": "B",
+      "explanation": "Broad-spectrum antibiotics (such as ampicillin and tetracycline) target fundamental mechanisms common to diverse pathogenic bacteria, killing both Gram-positive and Gram-negative strains."
+    },
+    {
+      "id": 12,
+      "question": "The progressive ability of pathogenic bacteria to survive and multiply despite exposure to standard therapeutic doses of antibiotics is termed: (FBISE 2024)",
+      "options": {
+        "A": "Antibiotic resistance",
+        "B": "Passive immunity",
+        "C": "Agglutination",
+        "D": "Bio-accumulation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Antibiotic resistance develops when bacteria mutate or acquire resistance genes (e.g., via R-plasmids) encoding beta-lactamase enzymes or drug efflux pumps, rendering standard antibiotics ineffective."
+    },
+    {
+      "id": 13,
+      "question": "Which human behavioral practice is the primary leading cause driving the rapid global spread of antibiotic-resistant superbugs?",
+      "options": {
+        "A": "Drinking distilled bottled water",
+        "B": "Overprescribing, misuse, and failing to complete prescribed courses of antibiotics",
+        "C": "Regular aerobic physical exercise",
+        "D": "Planting flowering gardens"
+      },
+      "correctAnswer": "B",
+      "explanation": "Misuse of antibiotics for viral colds, premature discontinuation of courses, and excessive prophylactic antibiotic dosing in livestock create intense selection pressure that favors resistant mutant strains."
+    },
+    {
+      "id": 14,
+      "question": "Who pioneered the first successful vaccination in 1796 using cowpox fluid to immunize a boy against lethal smallpox? (FBISE 2023)",
+      "options": {
+        "A": "Sir Alexander Fleming",
+        "B": "Edward Jenner",
+        "C": "Louis Pasteur",
+        "D": "Joseph Lister"
+      },
+      "correctAnswer": "B",
+      "explanation": "Edward Jenner demonstrated in 1796 that inoculation with mild cowpox virus protected humans against deadly smallpox, laying the foundation for modern immunological vaccinology."
+    },
+    {
+      "id": 15,
+      "question": "A vaccine containing weakened (attenuated) or killed pathogenic antigens confers disease protection primarily by stimulating: (FBISE 2024)",
+      "options": {
+        "A": "Immediate destruction of liver cells",
+        "B": "Production of specific antibodies and long-lived immunological memory B and T cells",
+        "C": "Immediate elevation of blood glucose",
+        "D": "Neutralization of digestive stomach enzymes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vaccines present harmless pathogen antigens to the immune system, inducing a primary immune response that produces protective antibodies and memory lymphocytes for rapid defense upon re-exposure."
+    },
+    {
+      "id": 16,
+      "question": "Which category of addictive psychoactive drugs depresses central nervous system activity, slows reaction time, and induces calm or drowsiness? (FBISE 2022)",
+      "options": {
+        "A": "Sedatives (and depressants)",
+        "B": "Hallucinogens",
+        "C": "Stimulants",
+        "D": "Broad-spectrum antibiotics"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sedatives (such as barbiturates and diazepam) depress neuronal transmission in the brain, reducing excitability, anxiety, and motor coordination, and inducing sleep."
+    },
+    {
+      "id": 17,
+      "question": "Drugs that alter sensory perception, causing individuals to see, hear, or feel vivid sensations that do not exist in reality, are termed: (FBISE 2021)",
+      "options": {
+        "A": "Sedatives",
+        "B": "Hallucinogens",
+        "C": "Analgesics",
+        "D": "Vaccines"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hallucinogens (such as mescaline, psilocybin, and LSD) distort sensory perception and emotional processing in the brain, provoking vivid visual and auditory hallucinations."
+    },
+    {
+      "id": 18,
+      "question": "Marijuana and hashish (charas) are psychoactive preparations derived from which plant species? (FBISE 2023)",
+      "options": {
+        "A": "Papaver somniferum",
+        "B": "Cannabis sativa (hemp plant)",
+        "C": "Digitalis purpurea",
+        "D": "Nicotiana tabacum"
+      },
+      "correctAnswer": "B",
+      "explanation": "Marijuana and hashish are derived from the Indian hemp plant (Cannabis sativa). Their primary psychoactive ingredient is tetrahydrocannabinol (THC), which affects memory and cognition."
+    },
+    {
+      "id": 19,
+      "question": "Heroin is a highly addictive, illicit semi-synthetic opioid drug chemically synthesized from: (FBISE 2024)",
+      "options": {
+        "A": "Aspirin",
+        "B": "Morphine (diacetylmorphine)",
+        "C": "Penicillin",
+        "D": "Quinine"
+      },
+      "correctAnswer": "B",
+      "explanation": "Heroin (diacetylmorphine) is synthesized by acetylating morphine. It crosses the blood-brain barrier rapidly, producing euphoria and intense physical and psychological dependence."
+    },
+    {
+      "id": 20,
+      "question": "The physiological condition in which an individual requires progressively higher doses of a drug to produce the original pharmacological effect is called: (FBISE 2022)",
+      "options": {
+        "A": "Drug addiction",
+        "B": "Drug tolerance",
+        "C": "Drug withdrawal",
+        "D": "Drug synergism"
+      },
+      "correctAnswer": "B",
+      "explanation": "Drug tolerance occurs when repeated exposure diminishes the responsiveness of receptors or accelerates metabolic clearance, requiring larger doses to achieve the same initial effect."
+    },
+    {
+      "id": 21,
+      "question": "The distressing and often life-threatening physical and psychological symptoms that occur when an addicted person abruptly halts drug use are termed: (FBISE 2021)",
+      "options": {
+        "A": "Tolerance syndrome",
+        "B": "Withdrawal syndrome",
+        "C": "Vaccine response",
+        "D": "Anaphylaxis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Withdrawal syndrome encompasses the adverse physiological and emotional disturbances (tremors, sweating, severe pain, convulsions) that manifest when a physically dependent user stops drug intake."
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is a medicinal drug historically derived from animal sources prior to modern biotechnology?",
+      "options": {
+        "A": "Insulin from bovine and porcine pancreas",
+        "B": "Aspirin from willow bark",
+        "C": "Penicillin from bread mold",
+        "D": "Morphine from poppy flowers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Before recombinant DNA technology, therapeutic insulin was extracted from slaughtered bovine (cow) and porcine (pig) pancreases, and fish liver oil was extracted for vitamins A and D."
+    },
+    {
+      "id": 23,
+      "question": "Mineral sources supply which essential chemical used medically in tincture form as a potent topical skin antiseptic? (FBISE 2023)",
+      "options": {
+        "A": "Pure gold",
+        "B": "Iodine (Tincture of iodine)",
+        "C": "Asbestos powder",
+        "D": "Liquid mercury"
+      },
+      "correctAnswer": "B",
+      "explanation": "Iodine is a natural elemental mineral used as an antiseptic (in tincture of iodine or povidone-iodine) to disinfect skin surfaces and open wounds prior to surgical procedures."
+    },
+    {
+      "id": 24,
+      "question": "Which governmental vaccination initiative in Pakistan provides free immunization to infants against major childhood infectious diseases including polio, measles, and tuberculosis?",
+      "options": {
+        "A": "Expanded Program on Immunization (EPI)",
+        "B": "National Irrigation Project",
+        "C": "Federal Afforestation Scheme",
+        "D": "Agricultural Subsidies Board"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pakistans Expanded Program on Immunization (EPI) aims to protect children under one year of age against vaccine-preventable killer diseases such as polio, diphtheria, pertussis, tetanus, and measles."
+    },
+    {
+      "id": 25,
+      "question": "Chemical agents that are applied topically to living biological tissues (skin and wounds) to prevent or stop microbial infection are called: (FBISE 2024)",
+      "options": {
+        "A": "Disinfectants",
+        "B": "Antiseptics",
+        "C": "Antibiotics",
+        "D": "Analgesics"
+      },
+      "correctAnswer": "B",
+      "explanation": "Antiseptics are non-toxic antimicrobial chemicals safe for application onto living human tissues and skin, unlike harsh disinfectants used exclusively on inanimate surfaces."
+    },
+    {
+      "id": 26,
+      "question": "Why are chemical disinfectants (such as household bleach and concentrated phenol) strictly restricted to inanimate surfaces?",
+      "options": {
+        "A": "They are completely ineffective against bacteria",
+        "B": "They are highly cytotoxic and cause chemical burns and tissue destruction to living skin",
+        "C": "They instantly freeze human blood",
+        "D": "They promote rapid bacterial reproduction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Disinfectants are powerful chemical agents formulated to sterilize floors, instruments, and bench tops; their caustic nature causes severe damage and burns to living animal tissues."
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is an example of an analgesic medication?",
+      "options": {
+        "A": "Paracetamol (acetaminophen)",
+        "B": "Penicillin G",
+        "C": "Streptomycin",
+        "D": "Polio vaccine"
+      },
+      "correctAnswer": "A",
+      "explanation": "Analgesics are medications specifically designed to relieve pain without causing loss of consciousness, such as paracetamol, ibuprofen, and aspirin."
+    },
+    {
+      "id": 28,
+      "question": "The clinical condition known as Methicillin-Resistant Staphylococcus aureus (MRSA) represents a dangerous medical threat because:",
+      "options": {
+        "A": "It is a superbug resistant to multiple standard beta-lactam antibiotics",
+        "B": "It is a giant visible macroscopic worm",
+        "C": "It only infects plastic instruments",
+        "D": "It can be cured with simple tap water"
+      },
+      "correctAnswer": "A",
+      "explanation": "MRSA is a hospital-acquired and community superbug that has evolved genetic resistance to methicillin and other common penicillin-family antibiotics, causing difficult-to-treat infections."
+    },
+    {
+      "id": 29,
+      "question": "Active acquired immunity differs from passive acquired immunity in that active immunity: (FBISE 2023)",
+      "options": {
+        "A": "Provides temporary protection that fades within two days",
+        "B": "Involves the recipient own immune system producing antibodies and long-lived memory cells",
+        "C": "Requires transfusing pre-formed horse antibodies",
+        "D": "Does not involve any lymphocytes or antigens"
+      },
+      "correctAnswer": "B",
+      "explanation": "Active immunity is stimulated when the hosts immune system encounters antigens (via infection or vaccination), generating long-lasting protective antibodies and memory cells."
+    },
+    {
+      "id": 30,
+      "question": "Administration of pre-formed antibodies (such as antivenom for snakebites or rabies immunoglobulin) provides which type of immunity?",
+      "options": {
+        "A": "Passive artificial immunity",
+        "B": "Active natural immunity",
+        "C": "Active artificial immunity",
+        "D": "Permanent genetic immunity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Antivenom provides immediate passive artificial immunity by supplying donor antibodies that neutralize toxins instantly, but confers no immunological memory and is cleared rapidly."
+    },
+    {
+      "id": 31,
+      "question": "Which hallucinogenic substance is naturally extracted from the small Mexican peyote cactus (Lophophora williamsii)?",
+      "options": {
+        "A": "Mescaline",
+        "B": "Morphine",
+        "C": "Psilocybin",
+        "D": "Cocaine"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mescaline is a naturally occurring psychedelic protoalkaloid obtained from the peyote cactus that induces altered states of consciousness and visual hallucinations."
+    },
+    {
+      "id": 32,
+      "question": "Psilocybin is an illicit hallucinogenic alkaloid naturally occurring in which biological source?",
+      "options": {
+        "A": "Certain species of wild mushrooms (magic mushrooms)",
+        "B": "Pine tree bark",
+        "C": "Bacterial plasmids",
+        "D": "Seaweed kelp"
+      },
+      "correctAnswer": "A",
+      "explanation": "Psilocybin is a natural psychedelic compound produced by over 200 species of fungi, commonly termed magic mushrooms or psilocybin mushrooms."
+    },
+    {
+      "id": 33,
+      "question": "Why are antibiotics completely ineffective against illnesses such as influenza, the common cold, and measles?",
+      "options": {
+        "A": "These illnesses are caused by viruses, which lack bacterial cellular structures and metabolism",
+        "B": "Viruses absorb antibiotics as food",
+        "C": "Viruses destroy all antibiotics in the stomach",
+        "D": "Antibiotics only work in cold weather"
+      },
+      "correctAnswer": "A",
+      "explanation": "Viruses lack peptidoglycan cell walls, ribosomes, and autonomous metabolic pathways targeted by antibiotics. Prescribing antibiotics for viral infections is completely ineffective and fuels drug resistance."
+    },
+    {
+      "id": 34,
+      "question": "Which of the following is an effective social measure to rehabilitate individuals recovering from chronic drug addiction?",
+      "options": {
+        "A": "Encouraging access to illicit narcotics",
+        "B": "Psychological counseling, medical detoxification, and vocational rehabilitation programs",
+        "C": "Total social isolation in solitary confinement",
+        "D": "Denying access to medical treatment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Successful addiction treatment requires compassionate multidisciplinary support: clinical detoxification to manage withdrawal, cognitive behavioral counseling, and vocational reintegration into society."
+    },
+    {
+      "id": 35,
+      "question": "The professional health field concerned directly with the compounding, formulation, and dispensing of medications to patients is: (FBISE 2024)",
+      "options": {
+        "A": "Pharmacology",
+        "B": "Pharmacy",
+        "C": "Toxicology",
+        "D": "Epidemiology"
+      },
+      "correctAnswer": "B",
+      "explanation": "While pharmacology is the experimental study of drug action in living organisms, pharmacy is the applied clinical health science dedicated to preparing, dispensing, and ensuring the safe use of medications."
+    }
+  ]
+}

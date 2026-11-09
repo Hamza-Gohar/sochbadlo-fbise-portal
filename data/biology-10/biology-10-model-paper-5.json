@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 14,
+  "chapterTitle": "FBISE Annual Exam Simulator 05 (Unit 17 & 18: Biotechnology & Pharmacology)",
+  "slug": "biology-10-model-paper-5",
+  "totalQuestions": 12,
+  "fileName": "biology-10-model-paper-5.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which single-celled fungus is widely utilized in industrial biotechnology for alcoholic fermentation? (FBISE Annual 2024)",
+      "options": {
+        "A": "Penicillium notatum",
+        "B": "Saccharomyces cerevisiae (bakers/brewers yeast)",
+        "C": "Aspergillus niger",
+        "D": "Rhizopus stolonifer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Saccharomyces cerevisiae ferments simple sugars into ethanol and carbon dioxide under anaerobic conditions."
+    },
+    {
+      "id": 2,
+      "question": "In recombinant DNA technology, which enzymes are referred to as molecular scissors because they cut DNA at specific palindromic sequences? (FBISE 2023)",
+      "options": {
+        "A": "DNA ligases",
+        "B": "Restriction endonucleases",
+        "C": "DNA polymerases",
+        "D": "Amylases"
+      },
+      "correctAnswer": "B",
+      "explanation": "Restriction endonucleases cleave phosphodiester backbones at specific recognition sites, producing sticky or blunt ends for gene splicing."
+    },
+    {
+      "id": 3,
+      "question": "Small circular extrachromosomal DNA molecules found in bacteria that serve as gene-carrying vectors are: (FBISE 2024)",
+      "options": {
+        "A": "Plasmids",
+        "B": "Ribosomes",
+        "C": "Centrosomes",
+        "D": "Mesosomes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Plasmids are autonomous self-replicating genetic elements in bacteria widely used as cloning vectors in recombinant DNA work."
+    },
+    {
+      "id": 4,
+      "question": "What was the first commercial therapeutic pharmaceutical protein produced in genetically modified bacteria? (FBISE 2022)",
+      "options": {
+        "A": "Human insulin (Humulin)",
+        "B": "Penicillin",
+        "C": "Aspirin",
+        "D": "Vitamin B12"
+      },
+      "correctAnswer": "A",
+      "explanation": "Human insulin (Humulin) was successfully synthesized in recombinant E. coli, providing pure, non-allergenic insulin for diabetic therapy."
+    },
+    {
+      "id": 5,
+      "question": "Golden Rice was genetically engineered with foreign genes to biosynthesize which vital human nutrient? (FBISE 2021)",
+      "options": {
+        "A": "Beta-carotene (provitamin A)",
+        "B": "Vitamin C",
+        "C": "Calcium carbonate",
+        "D": "Vitamin D3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Golden Rice synthesizes beta-carotene in its edible endosperm to combat malnutrition and childhood blindness in developing nations."
+    },
+    {
+      "id": 6,
+      "question": "A large stainless-steel vessel designed to maintain optimal environmental control for large-scale microbial cultures is a:",
+      "options": {
+        "A": "Fermenter (bioreactor)",
+        "B": "Autoclave",
+        "C": "Centrifuge",
+        "D": "Spectrophotometer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fermenters (bioreactors) regulate temperature, pH, aeration, and agitation for industrial-scale biosynthesis of antibiotics and proteins."
+    },
+    {
+      "id": 7,
+      "question": "Which narcotic opioid analgesic is naturally extracted from the latex of the opium poppy (Papaver somniferum)? (FBISE 2024)",
+      "options": {
+        "A": "Aspirin",
+        "B": "Morphine",
+        "C": "Quinine",
+        "D": "Penicillin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Morphine is a potent opioid analgesic derived from the opium poppy, prescribed for profound acute clinical pain relief."
+    },
+    {
+      "id": 8,
+      "question": "Antibiotics that directly kill target bacteria by disrupting cell wall or membrane integrity are: (FBISE 2023)",
+      "options": {
+        "A": "Bacteriostatic",
+        "B": "Bactericidal",
+        "C": "Antiseptic",
+        "D": "Antiviral"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bactericidal drugs (e.g., penicillins) kill bacteria outright, whereas bacteriostatic drugs halt bacterial division."
+    },
+    {
+      "id": 9,
+      "question": "Who discovered the first clinical antibiotic, penicillin, from a contaminated fungal mold culture in 1928? (FBISE 2024)",
+      "options": {
+        "A": "Louis Pasteur",
+        "B": "Sir Alexander Fleming",
+        "C": "Robert Koch",
+        "D": "Edward Jenner"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sir Alexander Fleming noted bacterial lysis around Penicillium mold colonies on a staphylococcal plate in 1928."
+    },
+    {
+      "id": 10,
+      "question": "Who developed the world first vaccine in 1796 using cowpox inoculation against smallpox? (FBISE 2022)",
+      "options": {
+        "A": "Edward Jenner",
+        "B": "Sir Alexander Fleming",
+        "C": "Jonas Salk",
+        "D": "Joseph Lister"
+      },
+      "correctAnswer": "A",
+      "explanation": "Edward Jenner demonstrated that inoculation with benign cowpox fluid conferred acquired immunity against lethal smallpox."
+    },
+    {
+      "id": 11,
+      "question": "Sedative medications primarily exert their pharmacological action by: (FBISE 2021)",
+      "options": {
+        "A": "Stimulating heart rate and motor agitation",
+        "B": "Depressing central nervous system activity to calm anxiety and induce drowsiness",
+        "C": "Promoting rapid bacterial cell division",
+        "D": "Destroying red blood cells"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sedatives dampen neuronal excitability in the central nervous system, calming agitation and inducing sleep."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is an illicit hallucinogenic drug derived from the Indian hemp plant (Cannabis sativa)?",
+      "options": {
+        "A": "Morphine",
+        "B": "Marijuana (hashish / charas)",
+        "C": "Aspirin",
+        "D": "Digitalis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Marijuana and hashish are cannabinoid products containing psychoactive THC derived from Cannabis sativa."
+    }
+  ]
+}

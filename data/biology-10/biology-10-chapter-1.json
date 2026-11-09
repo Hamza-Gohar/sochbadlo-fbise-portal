@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 1,
+  "chapterTitle": "Unit 10: Gaseous Exchange",
+  "slug": "biology-10-chapter-1",
+  "totalQuestions": 35,
+  "fileName": "biology-10-chapter-1.json",
+  "subject": "biology-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which cartilaginous flap prevents food particles from entering the windpipe during swallowing? (FBISE 2024)",
+      "options": {
+        "A": "Larynx",
+        "B": "Trachea",
+        "C": "Epiglottis",
+        "D": "Alveoli"
+      },
+      "correctAnswer": "C",
+      "explanation": "The epiglottis is a flap of elastic cartilage located at the entrance of the larynx. When swallowing food or liquid, the epiglottis folds downward over the glottis to prevent food from entering the trachea (windpipe)."
+    },
+    {
+      "id": 2,
+      "question": "The normal breathing rate of a healthy adult human at rest is: (FBISE 2023)",
+      "options": {
+        "A": "5–10 times per minute",
+        "B": "30–40 times per minute",
+        "C": "50–60 times per minute",
+        "D": "12–20 times per minute"
+      },
+      "correctAnswer": "D",
+      "explanation": "Under resting conditions, a normal healthy human breathes at an average rate of 12 to 20 breaths per minute. During vigorous exercise, this rate can increase to 30 to 40 times per minute."
+    },
+    {
+      "id": 3,
+      "question": "What is the primary structural and functional role of alveoli in mammalian lungs?",
+      "options": {
+        "A": "Production of digestive enzymes",
+        "B": "Rapid exchange of gases across moist surfaces",
+        "C": "Filtering cellular nitrogenous waste from blood",
+        "D": "Long-term storage of carbon dioxide"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alveoli are microscopic sac-like structures surrounded by dense networks of capillaries. Their extremely thin, moist epithelial walls provide a vast surface area for rapid diffusion of oxygen into blood and carbon dioxide out of blood."
+    },
+    {
+      "id": 4,
+      "question": "Which organ in the human body is primarily responsible for the elimination of carbon dioxide produced during cellular respiration?",
+      "options": {
+        "A": "Liver",
+        "B": "Lungs",
+        "C": "Pancreas",
+        "D": "Kidneys"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbon dioxide produced by tissue cellular respiration is transported in blood to the lungs, where it diffuses into the alveoli and is exhaled into the atmosphere during expiration."
+    },
+    {
+      "id": 5,
+      "question": "Inflammation and swelling of the mucous membrane lining the bronchi, accompanied by excessive mucus production, is known as: (FBISE 2022)",
+      "options": {
+        "A": "Pneumonia",
+        "B": "Emphysema",
+        "C": "Asthma",
+        "D": "Bronchitis"
+      },
+      "correctAnswer": "D",
+      "explanation": "Bronchitis is an inflammation of the bronchi or bronchioles caused by viruses, bacteria, or chemical irritants such as cigarette smoke, resulting in narrowing of the air passages and a productive cough."
+    },
+    {
+      "id": 6,
+      "question": "Which muscle sheet forms the floor of the thoracic cavity and plays the most prominent role during inspiration?",
+      "options": {
+        "A": "Cardiac muscle",
+        "B": "Diaphragm",
+        "C": "Smooth abdominal muscle",
+        "D": "Pectoralis major"
+      },
+      "correctAnswer": "B",
+      "explanation": "The diaphragm is a dome-shaped sheet of skeletal muscle separating the thoracic cavity from the abdominal cavity. During inhalation, it contracts and flattens downward, expanding thoracic volume and lowering intra-thoracic pressure."
+    },
+    {
+      "id": 7,
+      "question": "What is the approximate percentage concentration of oxygen in normal inhaled atmospheric air? (FBISE 2021)",
+      "options": {
+        "A": "16%",
+        "B": "0.04%",
+        "C": "21%",
+        "D": "79%"
+      },
+      "correctAnswer": "C",
+      "explanation": "Inhaled atmospheric air contains approximately 21% oxygen, 0.04% carbon dioxide, and 79% nitrogen. In contrast, exhaled air contains about 16% oxygen and 4% carbon dioxide."
+    },
+    {
+      "id": 8,
+      "question": "Why is it considered unadvisable to sleep closely under dense trees at night? (FBISE 2020)",
+      "options": {
+        "A": "Trees consume excessive moisture from the atmosphere",
+        "B": "Trees perform cellular respiration without photosynthesis, releasing carbon dioxide",
+        "C": "Trees emit carbon monoxide gas at night",
+        "D": "Trees absorb nitrogen gas from the surroundings"
+      },
+      "correctAnswer": "B",
+      "explanation": "In the absence of sunlight at night, plants stop photosynthetic oxygen production but continue cellular respiration, releasing carbon dioxide into the immediate surrounding air."
+    },
+    {
+      "id": 9,
+      "question": "What is the primary physiological function of the mucous membrane and cilia in the human nasal cavity?",
+      "options": {
+        "A": "To accelerate the velocity of inhaled air into the lungs",
+        "B": "To warm, moisten, and trap inhaled dust and microorganisms",
+        "C": "To dissolve inhaled oxygen before it reaches the bronchi",
+        "D": "To digest airborne organic particles enzymatically"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mucus moistens and warms incoming cold air while trapping airborne dust and bacteria. The coordinated beating of cilia moves the trapped particles upward toward the pharynx to be swallowed or expelled."
+    },
+    {
+      "id": 10,
+      "question": "The primary chemical stimulus that triggers the respiratory center in the brain to increase the breathing rate is: (FBISE 2023)",
+      "options": {
+        "A": "Decrease in blood glucose concentration",
+        "B": "Increase in carbon dioxide concentration in blood",
+        "C": "Accumulation of nitrogen gas in blood vessels",
+        "D": "Excess accumulation of urea in plasma"
+      },
+      "correctAnswer": "B",
+      "explanation": "The respiratory center located in the medulla oblongata of the brain is extremely sensitive to the concentration of carbon dioxide in the blood. Elevated CO2 (and lowered pH) strongly stimulates increased rate and depth of ventilation."
+    },
+    {
+      "id": 11,
+      "question": "Which progressive respiratory disease is characterized by the destruction of alveolar walls and resulting enlargement of air spaces, reducing the surface area for gas exchange? (FBISE 2024)",
+      "options": {
+        "A": "Emphysema",
+        "B": "Pneumonia",
+        "C": "Tuberculosis",
+        "D": "Asthma"
+      },
+      "correctAnswer": "A",
+      "explanation": "Emphysema involves the progressive breakdown of the alveolar septa (walls), causing fewer and larger alveolar sacs. This reduces surface area for gas exchange and traps air inside the lungs during exhalation."
+    },
+    {
+      "id": 12,
+      "question": "Which specific part of the human brain monitors blood chemistry and regulates the rhythm of autonomic breathing?",
+      "options": {
+        "A": "Cerebellum",
+        "B": "Medulla oblongata",
+        "C": "Cerebrum",
+        "D": "Thalamus"
+      },
+      "correctAnswer": "B",
+      "explanation": "The medulla oblongata (together with the pons) in the brainstem contains the primary respiratory rhythmicity centers that regulate involuntary inhalation and exhalation."
+    },
+    {
+      "id": 13,
+      "question": "What is the primary function of the external intercostal muscles during inhalation?",
+      "options": {
+        "A": "Pull the ribs downward and inward to compress the lungs",
+        "B": "Elevate the ribcage upward and outward to expand thoracic volume",
+        "C": "Contract the abdominal wall to push organs upward",
+        "D": "Constrict the diameter of the trachea and primary bronchi"
+      },
+      "correctAnswer": "B",
+      "explanation": "During inhalation, external intercostal muscles contract, pulling the rib cage upward and outward. Combined with the flattening of the diaphragm, this significantly increases thoracic cavity volume."
+    },
+    {
+      "id": 14,
+      "question": "Which of the following gases is present in the highest concentration in exhaled air from human lungs?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Carbon dioxide",
+        "C": "Nitrogen",
+        "D": "Argon"
+      },
+      "correctAnswer": "C",
+      "explanation": "Nitrogen (N2) makes up approximately 79% of both inhaled and exhaled air because it is metabolically inert and neither absorbed nor produced during mammalian gas exchange."
+    },
+    {
+      "id": 15,
+      "question": "What is the physiological role of the rhythmic upward beating of cilia in the epithelial lining of the trachea?",
+      "options": {
+        "A": "Propelling food down into the esophagus",
+        "B": "Driving air molecules downward toward the alveoli",
+        "C": "Moving mucus and trapped foreign debris upward toward the throat",
+        "D": "Pumping arterial blood through pulmonary capillaries"
+      },
+      "correctAnswer": "C",
+      "explanation": "The pseudostratified ciliated columnar epithelium of the trachea produces a mucociliary escalator that sweeps foreign particulates and trapped bacteria upward toward the pharynx."
+    },
+    {
+      "id": 16,
+      "question": "By which physical transport mechanism does oxygen move from alveolar air into pulmonary capillary blood?",
+      "options": {
+        "A": "Active transport against a concentration gradient",
+        "B": "Simple diffusion down a partial pressure gradient",
+        "C": "Endocytosis via alveolar macrophages",
+        "D": "Facilitated transport using ATP-dependent carrier proteins"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gas exchange across the respiratory membrane occurs purely by passive diffusion driven by partial pressure differences (PO2 is higher in alveoli than in deoxygenated capillary blood)."
+    },
+    {
+      "id": 17,
+      "question": "Why does the human trachea remain permanently open and prevented from collapsing even when no air is flowing through it?",
+      "options": {
+        "A": "Presence of thick skeletal muscle bands",
+        "B": "Reinforcement by C-shaped rings of hyaline cartilage",
+        "C": "High positive internal hydrostatic pressure",
+        "D": "Dense bone plates embedded within its wall"
+      },
+      "correctAnswer": "B",
+      "explanation": "The trachea contains 16 to 20 C-shaped cartilaginous rings of hyaline cartilage that hold the lumen open, preventing collapse during changes in air pressure."
+    },
+    {
+      "id": 18,
+      "question": "The voice box containing elastic vocal cords that vibrate to produce sound is anatomically known as the:",
+      "options": {
+        "A": "Pharynx",
+        "B": "Larynx",
+        "C": "Trachea",
+        "D": "Bronchiole"
+      },
+      "correctAnswer": "B",
+      "explanation": "The larynx is a cartilaginous chamber between the pharynx and trachea. It houses the vocal cords, which vibrate as air is expelled, producing human voice."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following occurs mechanically during human expiration (exhalation) at rest?",
+      "options": {
+        "A": "The diaphragm flattens and intercostal muscles contract",
+        "B": "Thoracic cavity volume increases and air rushes in",
+        "C": "The diaphragm relaxes into a dome shape and thoracic volume decreases",
+        "D": "Intra-pulmonary pressure drops below atmospheric pressure"
+      },
+      "correctAnswer": "C",
+      "explanation": "Quiet exhalation is largely a passive process: the diaphragm relaxes into its upward dome shape, the ribs move downward and inward, decreasing lung volume and forcing air out."
+    },
+    {
+      "id": 20,
+      "question": "In woody stems and mature roots, gaseous exchange occurs predominantly through specialized pore openings called: (FBISE 2021)",
+      "options": {
+        "A": "Stomata",
+        "B": "Lenticels",
+        "C": "Hydathodes",
+        "D": "Cuticular pores"
+      },
+      "correctAnswer": "B",
+      "explanation": "While leaves exchange gases through microscopic stomata, woody stems and bark exchange gases through aerating loose-celled pores known as lenticels."
+    },
+    {
+      "id": 21,
+      "question": "What is the concentration of carbon dioxide in normal exhaled human breath?",
+      "options": {
+        "A": "0.04%",
+        "B": "0.4%",
+        "C": "4.0%",
+        "D": "16.0%"
+      },
+      "correctAnswer": "C",
+      "explanation": "Inhaled atmospheric air contains approximately 0.04% CO2, but expired breath contains around 4.0% CO2 due to the addition of carbon dioxide produced during cellular metabolism."
+    },
+    {
+      "id": 22,
+      "question": "An acute infection of one or both lungs in which the alveoli become filled with pus and inflammatory fluid is called: (FBISE 2022)",
+      "options": {
+        "A": "Pneumonia",
+        "B": "Emphysema",
+        "C": "Asthma",
+        "D": "Bronchiectasis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pneumonia is an infection caused by bacteria (such as Streptococcus pneumoniae), viruses, or fungi. Alveoli fill with exudate, pus, and fluid, severely impairing gas exchange."
+    },
+    {
+      "id": 23,
+      "question": "What causes the severe shortness of breath and wheezing typical of an asthma attack?",
+      "options": {
+        "A": "Rupture of pulmonary arteries in the lungs",
+        "B": "Allergic constriction and spasmodic narrowing of bronchioles with mucus accumulation",
+        "C": "Complete destruction of cartilaginous tracheal rings",
+        "D": "Deposition of excess calcium in alveolar walls"
+      },
+      "correctAnswer": "B",
+      "explanation": "Asthma is a chronic inflammatory disorder of airways where exposure to allergens causes bronchial smooth muscles to contract in spasms (bronchoconstriction) and secrete excess mucus."
+    },
+    {
+      "id": 24,
+      "question": "Which poisonous gas in tobacco smoke binds irreversibly with hemoglobin to form carboxyhemoglobin, drastically reducing blood oxygen-carrying capacity?",
+      "options": {
+        "A": "Carbon dioxide",
+        "B": "Carbon monoxide",
+        "C": "Sulfur dioxide",
+        "D": "Nitrogen oxide"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbon monoxide (CO) has an affinity for hemoglobin over 200 times greater than oxygen, forming carboxyhemoglobin and impairing oxygen delivery to tissues."
+    },
+    {
+      "id": 25,
+      "question": "Which component of cigarette smoke is an addictive alkaloid that stimulates the sympathetic nervous system and raises heart rate and blood pressure?",
+      "options": {
+        "A": "Tar",
+        "B": "Nicotine",
+        "C": "Formaldehyde",
+        "D": "Hydrogen cyanide"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nicotine is an alkaloid chemical present in tobacco that stimulates neurotransmitter release, increasing heart rate, arterial constriction, and inducing physical addiction."
+    },
+    {
+      "id": 26,
+      "question": "The sticky, dark residue from tobacco smoke that paralyzes cilia in respiratory passages and contains multiple known carcinogens is:",
+      "options": {
+        "A": "Nicotine",
+        "B": "Tar",
+        "C": "Carbon monoxide",
+        "D": "Ammonia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tar is a dark resinous mixture of hundreds of toxic chemicals that coats the respiratory tract, immobilizes cilia, and causes genetic mutations leading to lung cancer."
+    },
+    {
+      "id": 27,
+      "question": "During daylight hours, why do green photosynthetic leaves release oxygen and absorb carbon dioxide overall?",
+      "options": {
+        "A": "The rate of cellular respiration exceeds the rate of photosynthesis",
+        "B": "The rate of photosynthesis exceeds the rate of cellular respiration",
+        "C": "Plants do not respire during daylight hours",
+        "D": "Stomata only open when oxygen pressure is elevated"
+      },
+      "correctAnswer": "B",
+      "explanation": "In bright light, photosynthesis proceeds much faster than cellular respiration. Oxygen produced by photolysis of water exceeds cellular requirements and is released, while carbon dioxide is absorbed."
+    },
+    {
+      "id": 28,
+      "question": "The microscopic, thin-walled air sacs where gas exchange occurs in human lungs are called:",
+      "options": {
+        "A": "Nephrons",
+        "B": "Alveoli",
+        "C": "Bronchioles",
+        "D": "Villi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alveoli are tiny terminal sacs in the respiratory tree numbering roughly 700 million in adult lungs, providing a total surface area of 70 to 90 square meters."
+    },
+    {
+      "id": 29,
+      "question": "Each human lung is enveloped and protected by a double-layered serous membrane called the:",
+      "options": {
+        "A": "Pericardium",
+        "B": "Pleural membrane",
+        "C": "Peritoneum",
+        "D": "Meninges"
+      },
+      "correctAnswer": "B",
+      "explanation": "The lungs are covered by the pleural membranes (visceral pleura on lung surface and parietal pleura on chest wall). The pleural cavity between them contains lubricating fluid to reduce friction."
+    },
+    {
+      "id": 30,
+      "question": "What happens to the temperature and humidity of inhaled atmospheric air as it passes through the nasal passage?",
+      "options": {
+        "A": "Its temperature drops to 0°C and it is thoroughly dried",
+        "B": "It is adjusted to body temperature (approx. 37°C) and saturated with moisture",
+        "C": "It is heated to 50°C to destroy all viral particles",
+        "D": "Its chemical composition changes into pure carbon dioxide"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rich vascular capillary beds in the nasal submucosa warm incoming air to core body temperature (~37°C), while mucous secretions saturate it with water vapor to prevent drying of alveolar surfaces."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following describes passive smoking?",
+      "options": {
+        "A": "Smoking low-nicotine tobacco products",
+        "B": "Inhalation of second-hand tobacco smoke by non-smokers in the environment",
+        "C": "Chewing raw tobacco leaves instead of smoking",
+        "D": "Smoking electronic vaping devices without combustion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Passive smoking (second-hand smoking) is the involuntary inhalation of smoke from other people cigarettes, carrying substantial risks of cardiovascular disease, asthma, and lung cancer."
+    },
+    {
+      "id": 32,
+      "question": "How many main primary bronchi does the human trachea divide into upon entering the chest cavity?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "correctAnswer": "B",
+      "explanation": "At the carina (level of the fifth thoracic vertebra), the trachea bifurcates into two primary bronchi: the right bronchus leading to the right lung and the left bronchus leading to the left lung."
+    },
+    {
+      "id": 33,
+      "question": "Why is the left lung slightly smaller than the right lung and divided into only two lobes instead of three?",
+      "options": {
+        "A": "To accommodate the heart in the cardiac notch",
+        "B": "Because the left lung receives less blood supply",
+        "C": "To allow room for the stomach above the diaphragm",
+        "D": "Due to absence of bronchial tubes on the left"
+      },
+      "correctAnswer": "A",
+      "explanation": "The human left lung has two lobes (superior and inferior) and a cardiac notch to provide anatomical space for the apex of the heart, whereas the right lung has three lobes."
+    },
+    {
+      "id": 34,
+      "question": "During cellular respiration, oxygen is utilized by cells primarily to:",
+      "options": {
+        "A": "Synthesize glucose polymers in chloroplasts",
+        "B": "Break down glucose and synthesize ATP in mitochondria",
+        "C": "Neutralize stomach hydrochloric acid",
+        "D": "Form structural keratin for hair and nails"
+      },
+      "correctAnswer": "B",
+      "explanation": "In aerobic respiration within cellular mitochondria, oxygen serves as the terminal electron acceptor in the electron transport chain, yielding ATP, water, and carbon dioxide."
+    },
+    {
+      "id": 35,
+      "question": "Which factor primarily limits the rate of diffusion of gases across the human respiratory membrane?",
+      "options": {
+        "A": "Surface area of alveoli and thickness of the alveolar-capillary barrier",
+        "B": "Concentration of nitrogen gas in red blood cells",
+        "C": "Number of cartilage rings in the larynx",
+        "D": "Salivary enzyme secretion in the oral cavity"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to Ficks Law of diffusion, the rate of gas diffusion is directly proportional to the surface area of the membrane and the partial pressure difference, and inversely proportional to the membrane thickness."
+    }
+  ]
+}
