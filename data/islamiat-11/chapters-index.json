@@ -1,0 +1,58 @@
+[
+  {
+    "chapterNumber": 1,
+    "title": "باب اول: بنیادی مآخذ اور علوم القرآن و علوم الحدیث",
+    "slug": "islamiat-unit-1",
+    "totalQuestions": 35,
+    "fileName": "islamiat-unit-1.json",
+    "subject": "islamiat"
+  },
+  {
+    "chapterNumber": 2,
+    "title": "باب دوم (الف): ایمانیات - عقائدِ اسلام (توحید، رسالت، ملائکہ، کتب سماویہ، آخرت)",
+    "slug": "islamiat-unit-2",
+    "totalQuestions": 35,
+    "fileName": "islamiat-unit-2.json",
+    "subject": "islamiat"
+  },
+  {
+    "chapterNumber": 3,
+    "title": "باب دوم (ب): ارکان و عبادات (نماز، زکوٰۃ، روزہ، حج و قربانی)",
+    "slug": "islamiat-unit-3",
+    "totalQuestions": 35,
+    "fileName": "islamiat-unit-3.json",
+    "subject": "islamiat"
+  },
+  {
+    "chapterNumber": 4,
+    "title": "باب سوم: اسوہ حسنہ اور سیرت طیبہ (مکی و مدنی دور، قیادت، خاندان و معاشی اسوہ)",
+    "slug": "islamiat-unit-4",
+    "totalQuestions": 40,
+    "fileName": "islamiat-unit-4.json",
+    "subject": "islamiat"
+  },
+  {
+    "chapterNumber": 5,
+    "title": "باب چہارم: اخلاق و معاشرت اور حسن معاملات (احترام انسانیت و اجتناب رذائل)",
+    "slug": "islamiat-unit-5",
+    "totalQuestions": 40,
+    "fileName": "islamiat-unit-5.json",
+    "subject": "islamiat"
+  },
+  {
+    "chapterNumber": 6,
+    "title": "وفاقی بورڈ ماڈل پرچہ اول (جامع معروضی امتحانی مشق)",
+    "slug": "islamiat-model-paper-1",
+    "totalQuestions": 25,
+    "fileName": "islamiat-model-paper-1.json",
+    "subject": "islamiat"
+  },
+  {
+    "chapterNumber": 7,
+    "title": "وفاقی بورڈ ماڈل پرچہ دوم (سالانہ بورڈ معروضی پرچہ)",
+    "slug": "islamiat-model-paper-2",
+    "totalQuestions": 25,
+    "fileName": "islamiat-model-paper-2.json",
+    "subject": "islamiat"
+  }
+]

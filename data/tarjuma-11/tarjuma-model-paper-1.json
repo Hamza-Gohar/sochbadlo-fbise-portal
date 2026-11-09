@@ -1,0 +1,248 @@
+{
+  "chapterNumber": 5,
+  "chapterTitle": "ماڈل پیپر 1: ترجمۃ القرآن لازمی سالانہ معروضی امتحانی سمولیٹر (FBISE Simulator 1)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "question": "قرآن مجید کی سب سے طویل سورت کون سی ہے؟ / Which is the longest Surah of the Holy Quran?",
+      "options": {
+        "A": "سورۃ البقرۃ (Surah Al-Baqarah)",
+        "B": "سورۃ آل عمران (Surah Aal-e-Imran)",
+        "C": "سورۃ النساء (Surah An-Nisa)",
+        "D": "سورۃ المائدۃ (Surah Al-Ma'idah)"
+      },
+      "correctAnswer": "A",
+      "explanation": "سورۃ البقرۃ قرآن مجید کی دوسری اور سب سے طویل سورت ہے، جس میں کل 286 آیات اور 40 رکوع ہیں۔",
+      "id": 1
+    },
+    {
+      "question": "سورۃ البقرۃ کے آغاز میں انسانوں کے کتنے گروہوں کا ذکر کیا گیا ہے؟ / In the beginning of Surah Al-Baqarah, how many groups of human beings are described?",
+      "options": {
+        "A": "دو (Two: Believers and Disbelievers)",
+        "B": "تین (Three: Muttaqeen, Kuffar, Munafiqeen)",
+        "C": "چار (Four)",
+        "D": "پانچ (Five)"
+      },
+      "correctAnswer": "B",
+      "explanation": "سورۃ البقرۃ کی پہلی بیس آیات میں انسانوں کے تین گروہوں: متقین (مومن)، کفار اور منافقین کا تفصیلی احوال بیان کیا گیا ہے۔",
+      "id": 2
+    },
+    {
+      "question": "اللہ تعالیٰ کی طرف سے 'امتِ وسط' کا خطاب کس امت کو دیا گیا ہے؟ / The honorable title 'Ummat-e-Wasta' (the balanced nation) was conferred by Allah upon:",
+      "options": {
+        "A": "قوم بنی اسرائیل کو (People of Bani Israel)",
+        "B": "امت محمدیہ ﷺ کو (Ummat-e-Muhammadiyyah ﷺ)",
+        "C": "قوم عاد کو (People of Aad)",
+        "D": "قوم ثمود کو (People of Thamud)"
+      },
+      "correctAnswer": "B",
+      "explanation": "سورۃ البقرۃ آیت 143 میں فرمایا گیا: 'وَكَذَلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا' یعنی ہم نے امت محمدیہ کو معتدل اور عادل امت بنایا ہے۔",
+      "id": 3
+    },
+    {
+      "question": "صفا اور مروہ کی تاریخی و مقدس پہاڑیاں کہاں واقع ہیں؟ / Where are the sacred hills of Safa and Marwah located?",
+      "options": {
+        "A": "مکہ مکرمہ میں (In Makkah Mukarramah)",
+        "B": "مدینہ منورہ میں (In Madinah Munawwarah)",
+        "C": "شام میں (In Syria)",
+        "D": "مصر میں (In Egypt)"
+      },
+      "correctAnswer": "A",
+      "explanation": "صفا اور مروہ مکہ مکرمہ میں بیت اللہ کے قریب واقع ہیں، جنہیں سورۃ البقرۃ (آیت 158) میں شعائر اللہ قرار دیا گیا ہے۔",
+      "id": 4
+    },
+    {
+      "question": "تحویلِ قبلہ سے قبل مسلمان کس مقدس مقام کی طرف رخ کر کے نماز ادا کرتے تھے؟ / Before the change of Qiblah, which holy place did Muslims face during prayer?",
+      "options": {
+        "A": "مسجد الحرام (Masjid-ul-Haram)",
+        "B": "بیت المقدس (Bait-ul-Muqaddas / Masjid Al-Aqsa)",
+        "C": "مسجد نبوی (Masjid-e-Nabwi)",
+        "D": "مسجد قباء (Masjid-e-Quba)"
+      },
+      "correctAnswer": "B",
+      "explanation": "مسلمان ہجرت کے بعد تقریباً 16 یا 17 ماہ تک بیت المقدس کی طرف رخ کر کے نماز ادا کرتے رہے، پھر سورۃ البقرۃ میں کعبہ کی طرف رخ کرنے کا حکم نازل ہوا۔",
+      "id": 5
+    },
+    {
+      "question": "سورۃ آل عمران قرآن مجید کی کون سی سورت ہے اور اس کی کل کتنی آیات ہیں؟ / What is the position and total number of verses in Surah Aal-e-Imran?",
+      "options": {
+        "A": "دوسری سورت، 286 آیات (2nd Surah, 286 verses)",
+        "B": "تیسری سورت، 200 آیات (3rd Surah, 200 verses)",
+        "C": "چوتھی سورت، 176 آیات (4th Surah, 176 verses)",
+        "D": "پانچویں سورت، 120 آیات (5th Surah, 120 verses)"
+      },
+      "correctAnswer": "B",
+      "explanation": "سورۃ آل عمران قرآن کریم کی تیسری سورت ہے، مدنی ہے اور اس میں کل 200 آیات اور 20 رکوع ہیں۔",
+      "id": 6
+    },
+    {
+      "question": "سورۃ آل عمران میں کس تاریخی اور اہم غزوہ کے تفصیلی اسباق بیان کیے گئے ہیں؟ / In Surah Aal-e-Imran, detailed lessons and events of which major battle are highlighted?",
+      "options": {
+        "A": "غزوہ بدر (Battle of Badr)",
+        "B": "غزوہ احد (Battle of Uhud)",
+        "C": "غزوہ خندق (Battle of Khandaq)",
+        "D": "غزوہ تبوک (Battle of Tabook)"
+      },
+      "correctAnswer": "B",
+      "explanation": "سورۃ آل عمران کے نصف آخر میں غزوہ احد کے اسباب، مسلمانوں کی آزمائش، اطاعتِ امیر کی اہمیت اور 70 صحابہ کرامؓ کی شہادت کا مفصل بیان ہے۔",
+      "id": 7
+    },
+    {
+      "question": "غزوہ احد میں کتنے جلیل القدر صحابہ کرام رضی اللہ عنہم نے جام شہادت نوش فرمایا؟ / How many noble companions (Sahabah) were martyred in the Battle of Uhud?",
+      "options": {
+        "A": "50 صحابہ (50 Sahabah)",
+        "B": "60 صحابہ (60 Sahabah)",
+        "C": "70 صحابہ کرامؓ (70 Sahabah)",
+        "D": "80 صحابہ (80 Sahabah)"
+      },
+      "correctAnswer": "C",
+      "explanation": "غزوہ احد میں 70 مسلمانوں نے شہادت پائی، جن میں سید الشہداء حضرت امیر حمزہ رضی اللہ عنہ اور حضرت مصعب بن عمیر رضی اللہ عنہ نمایاں تھے۔",
+      "id": 8
+    },
+    {
+      "question": "سورۃ آل عمران کی آیت 'مباہلہ' کس وفد کے ساتھ مذہبی مکالمے کے تناظر میں نازل ہوئی؟ / The verse of Mubahila in Surah Aal-e-Imran was revealed regarding dialogue with the delegation of:",
+      "options": {
+        "A": "قریش مکہ (Quraish of Makkah)",
+        "B": "نجران کے عیسائی (Christians of Najran)",
+        "C": "خیبر کے یہودی (Jews of Khaibar)",
+        "D": "روم کا بادشاہ (King of Rome)"
+      },
+      "correctAnswer": "B",
+      "explanation": "نجران کے عیسائی وفد سے حضرت عیسیٰؑ کی الوہیت کے رد میں دلائل دیے گئے اور سچائی کو ثابت کرنے کے لیے مباہلہ کی دعوت دی گئی۔",
+      "id": 9
+    },
+    {
+      "question": "حضرت مریم علیہا السلام کی کفالت کس برگزیدہ پیغمبر کے سپرد کی گئی؟ / Who was appointed as the guardian and protector of Hazrat Maryam (A.S)?",
+      "options": {
+        "A": "حضرت عمران علیہ السلام (Hazrat Imran A.S)",
+        "B": "حضرت زکریا علیہ السلام (Prophet Zakariya A.S)",
+        "C": "حضرت یحییٰ علیہ السلام (Prophet Yahya A.S)",
+        "D": "حضرت عیسیٰ علیہ السلام (Prophet Isa A.S)"
+      },
+      "correctAnswer": "B",
+      "explanation": "سورۃ آل عمران آیت 37 میں صراحت ہے: 'وَكَفَّلَهَا زَكَرِيَّا' یعنی اللہ نے حضرت زکریاؑ کو حضرت مریمؑ کا کفیل بنایا۔",
+      "id": 10
+    },
+    {
+      "question": "لفظ 'الانفال' کا لغوی معنی کیا ہے؟ / What is the literal and contextual meaning of the Arabic word 'Al-Anfal'?",
+      "options": {
+        "A": "مالِ غنیمت (The spoils of war)",
+        "B": "تلواریں اور نیزے (Swords and spears)",
+        "C": "شہداء کے نام (Names of martyrs)",
+        "D": "جنگی قلعے (War fortresses)"
+      },
+      "correctAnswer": "A",
+      "explanation": "الانفال 'نفل' کی جمع ہے جس کا معنی نفع، زائد چیز یا مالِ غنیمت ہے، جو میدانِ جنگ میں دشمن کے چھوڑے ہوئے ساز و سامان کو کہا جاتا ہے۔",
+      "id": 11
+    },
+    {
+      "question": "سورۃ الانفال کس تاریخی غزوہ کے فوراً بعد نازل ہوئی؟ / Surah Al-Anfal was revealed immediately after which decisive battle in Islamic history?",
+      "options": {
+        "A": "غزوہ احد (Battle of Uhud)",
+        "B": "غزوہ بدر الکبریٰ (The Great Battle of Badr - 2 AH)",
+        "C": "غزوہ خندق (Battle of Khandaq)",
+        "D": "غزوہ حنین (Battle of Hunain)"
+      },
+      "correctAnswer": "B",
+      "explanation": "سورۃ الانفال 2 ہجری میں غزوہ بدر کی شاندار فتح کے بعد نازل ہوئی اور اسی لیے اسے 'سورۃ البدر' بھی کہا جاتا ہے۔",
+      "id": 12
+    },
+    {
+      "question": "سورۃ الانفال میں آیات کی کل تعداد کتنی ہے؟ / How many total verses are there in Surah Al-Anfal?",
+      "options": {
+        "A": "75 آیات (75 verses)",
+        "B": "85 آیات (85 verses)",
+        "C": "95 آیات (95 verses)",
+        "D": "129 آیات (129 verses)"
+      },
+      "correctAnswer": "A",
+      "explanation": "سورۃ الانفال مدنی سورت ہے جس میں کل 75 آیات اور 10 رکوع ہیں۔",
+      "id": 13
+    },
+    {
+      "question": "غزوہ بدر میں کفارِ مکہ کے لشکر کی تعداد کتنی تھی؟ / How many enemy fighters were in the Quraish army at the Battle of Badr?",
+      "options": {
+        "A": "313 جنگجو (313 fighters)",
+        "B": "تقریباً 1000 مسلح جنگجو (Approximately 1,000 armed fighters)",
+        "C": "3000 جنگجو (3,000 fighters)",
+        "D": "10000 جنگجو (10,000 fighters)"
+      },
+      "correctAnswer": "B",
+      "explanation": "غزوہ بدر میں کفار کا لشکر تقریباً ایک ہزار جنگجوؤں پر مشتمل تھا جو بہترین ہتھیاروں سے لیس تھا، جبکہ مسلمان صرف 313 تھے۔",
+      "id": 14
+    },
+    {
+      "question": "قرآن مجید میں غزوہ بدر کے دن کو کس باوقار لقب سے یاد کیا گیا ہے؟ / In the Holy Quran (Surah Al-Anfal: 41), the day of the Battle of Badr is titled as:",
+      "options": {
+        "A": "یوم الفتح (The Day of Victory)",
+        "B": "یوم الفرقان (The Day of Criterion / Distinction between Truth and Falsehood)",
+        "C": "یوم الجمعہ (The Day of Gathering)",
+        "D": "یوم النصر (The Day of Triumph)"
+      },
+      "correctAnswer": "B",
+      "explanation": "آیت 41 میں غزوہ بدر کے دن کو 'يَوْمَ الْفُرْقَانِ يَوْمَ الْتَقَى الْجَمْعَانِ' قرار دیا گیا، یعنی حق اور باطل کے درمیان واضح تمیز کرنے والا دن۔",
+      "id": 15
+    },
+    {
+      "question": "قرآن مجید کی وہ واحد سورت کون سی ہے جس کے آغاز میں 'بسم اللہ الرحمن الرحیم' نہیں لکھی جاتی؟ / Which is the only Surah in the Holy Quran that does not begin with 'Bismillah-ir-Rahman-ir-Raheem'?",
+      "options": {
+        "A": "سورۃ الانفال (Surah Al-Anfal)",
+        "B": "سورۃ التوبۃ / البراءۃ (Surah At-Taubah / Al-Bara'ah)",
+        "C": "سورۃ الفتح (Surah Al-Fath)",
+        "D": "سورۃ الممتحنہ (Surah Al-Mumtahanah)"
+      },
+      "correctAnswer": "B",
+      "explanation": "سورۃ التوبۃ کے آغاز میں بسم اللہ اس لیے نہیں لکھی جاتی کیونکہ اس میں مشرکین اور منافقین کے لیے غضبِ الٰہی اور براءت کا اعلانیہ اظہار ہے۔",
+      "id": 16
+    },
+    {
+      "question": "سورۃ التوبۃ کا دوسرا مشہور نام کیا ہے؟ / What is the second widely known name of Surah At-Taubah?",
+      "options": {
+        "A": "سورۃ البراءۃ یعنی دستبرداری اور بیزاری کا اعلان (Surah Al-Bara'ah / Disassociation)",
+        "B": "سورۃ النور (Surah An-Nur)",
+        "C": "سورۃ الاحکام (Surah Al-Ahkam)",
+        "D": "سورۃ الجہاد (Surah Al-Jihad)"
+      },
+      "correctAnswer": "A",
+      "explanation": "اس سورت کا نام سورۃ البراءۃ بھی ہے کیونکہ اس کی پہلی ہی آیت میں اللہ اور اس کے رسول ﷺ کی طرف سے مشرکین کے عہد و پیمان سے براءت کا اعلان کیا گیا ہے۔",
+      "id": 17
+    },
+    {
+      "question": "سورۃ التوبۃ کس اہم اور دور دراز کے غزوہ کے پس منظر میں 9 ہجری میں نازل ہوئی؟ / In what historical context was Surah At-Taubah revealed in 9 AH?",
+      "options": {
+        "A": "غزوہ احد (Battle of Uhud)",
+        "B": "غزوہ تبوک اور رومی سلطنت کا خطرہ (Expedition of Tabook against Byzantine Roman forces)",
+        "C": "غزوہ خندق (Battle of Khandaq)",
+        "D": "صلح حدیبیہ (Treaty of Hudaibiyyah)"
+      },
+      "correctAnswer": "B",
+      "explanation": "سورۃ التوبۃ 9 ہجری میں شدید گرمی اور قحط کے موسم میں رومیوں کے خلاف غزوہ تبوک کی تیاریوں اور منافقین کے بہانوں کے موقع پر نازل ہوئی۔",
+      "id": 18
+    },
+    {
+      "question": "سورۃ التوبۃ کی آیت نمبر 60 میں زکوٰۃ کے کتنے مصارف (حقدار طبقے) بیان کیے گئے ہیں؟ / In Surah At-Taubah (Ayah 60), how many eligible categories for Zakat (Masarif-e-Zakat) are defined?",
+      "options": {
+        "A": "پانچ مصارف (5 categories)",
+        "B": "چھ مصارف (6 categories)",
+        "C": "آٹھ مصارف (8 distinct categories)",
+        "D": "دس مصارف (10 categories)"
+      },
+      "correctAnswer": "C",
+      "explanation": "آیت 60: 'إِنَّمَا الصَّدَقَاتُ لِلْفُقَرَاءِ وَالْمَسَاكِينِ وَالْعَامِلِينَ عَلَيْهَا...' کے تحت زکوٰۃ کے 8 مصارف: فقراء، مساکین، عاملین، مؤلفۃ القلوب، رقاب (غلام آزاد کرانا)، غارمین (قرض دار)، فی سبیل اللہ اور ابن السبیل (مسافر) ہیں۔",
+      "id": 19
+    },
+    {
+      "question": "منافقین نے اسلام اور مسلمانوں کے خلاف سازش کے لیے کون سی مسجد تعمیر کی تھی؟ / Which controversial structure was built by hypocrites to harm Muslims?",
+      "options": {
+        "A": "مسجد قبلتین (Masjid Al-Qiblatain)",
+        "B": "مسجد قباء (Masjid-e-Quba)",
+        "C": "مسجدِ ضرار (Masjid-e-Zirar / Mosque of Harm)",
+        "D": "مسجد نبوی (Masjid-e-Nabwi)"
+      },
+      "correctAnswer": "C",
+      "explanation": "منافقین نے مسلمانوں میں تفریق اور سازش کے لیے مسجد ضرار بنائی، جسے اللہ تعالیٰ نے سورۃ التوبۃ (آیت 107-108) میں مسمار کرنے کا حکم دیا۔",
+      "id": 20
+    }
+  ],
+  "subject": "tarjuma"
+}

@@ -10,20 +10,27 @@ export default function HomePage() {
   const mathChapters = getChaptersIndex('math');
   const englishChapters = getChaptersIndex('english');
   const csChapters = getChaptersIndex('cs');
+  const islamiatChapters = getChaptersIndex('islamiat');
+  const tarjumaChapters = getChaptersIndex('tarjuma');
 
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const englishTotal = englishChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const csTotal = csChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const islamiatTotal = islamiatChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const tarjumaTotal = tarjumaChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
 
-  const totalQuestions = physicsTotal + urduTotal + mathTotal + englishTotal + csTotal;
+  const totalQuestions =
+    physicsTotal + urduTotal + mathTotal + englishTotal + csTotal + islamiatTotal + tarjumaTotal;
   const totalModules =
     physicsChapters.length +
     urduChapters.length +
     mathChapters.length +
     englishChapters.length +
-    csChapters.length;
+    csChapters.length +
+    islamiatChapters.length +
+    tarjumaChapters.length;
 
   return (
     <div className="min-h-screen flex flex-col justify-between">
@@ -42,9 +49,9 @@ export default function HomePage() {
                 FBISE Class 11th Examination Testing & Preparation Platform
               </h1>
               <p className="text-base sm:text-lg text-[var(--color-ink-2)] max-w-2xl leading-relaxed font-[family-name:var(--font-body)]">
-                Master Federal Board Intermediate examinations with authentic chapter-wise test series, instant conceptual explanations,
-                English syntax & poetic devices, Urdu literature and rhetoric (علمِ بیان و علمِ بدیع), Mathematics step-by-step problem solving,
-                Computer Science logic & programming, and timed board exam simulations.
+                Master Federal Board Intermediate examinations across 7 subjects with authentic chapter-wise test series, instant conceptual explanations,
+                English syntax & poetic devices, Urdu literature and rhetoric (علمِ بیان و علمِ بدیع), Islamiat Compulsory (اسلامیات لازمی),
+                Tarjuma-tul-Quran (ترجمۃ القرآن المجید), Mathematics step-by-step problem solving, Computer Science logic, and timed board exam simulations.
               </p>
             </div>
 
@@ -85,6 +92,8 @@ export default function HomePage() {
           mathChapters={mathChapters}
           englishChapters={englishChapters}
           csChapters={csChapters}
+          islamiatChapters={islamiatChapters}
+          tarjumaChapters={tarjumaChapters}
         />
 
         {/* Hallmark Editorial Note & Exam Tips */}

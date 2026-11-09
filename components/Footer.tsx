@@ -22,14 +22,16 @@ export default function Footer() {
           {/* Col 2 */}
           <div>
             <h4 className="font-[family-name:var(--font-display)] text-xs font-bold uppercase tracking-wider text-[var(--color-ink)] mb-3">
-              Physics 11 Chapters
+              Class 11 Subjects (HSSC-I)
             </h4>
             <ul className="text-xs space-y-1.5 text-[var(--color-muted)] font-[family-name:var(--font-display)]">
-              <li>Units 1–5: Mechanics & Energy</li>
-              <li>Units 6–9: Waves, Fluids & Optics</li>
-              <li>Units 10–12: Thermal & Electromagnetics</li>
-              <li>Units 13–14: Relativity & Particle Physics</li>
-              <li>Special: Past Papers Simulator</li>
+              <li>Physics (14 Units + Past Papers)</li>
+              <li>اردو لازمی (نثر، نظمیں، علمِ بیان و بدیع)</li>
+              <li>اسلامیات لازمی (5 ابواب + 2 ماڈل پرچے)</li>
+              <li>ترجمۃ القرآن (4 سورتیں + 3 سمولیٹرز)</li>
+              <li>Mathematics (5 Units + 3 Simulators)</li>
+              <li>English Compulsory (6 Units + 4 Simulators)</li>
+              <li>Computer Science (8 Units + 3 Simulators)</li>
             </ul>
           </div>
 

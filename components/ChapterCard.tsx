@@ -27,10 +27,16 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isMath = chapter.subject === 'math' || chapter.slug.startsWith('math');
   const isEnglish = chapter.subject === 'english' || chapter.slug.startsWith('english');
   const isCS = chapter.subject === 'cs' || chapter.slug.startsWith('cs');
+  const isIslamiat = chapter.subject === 'islamiat' || chapter.slug.startsWith('islamiat');
+  const isTarjuma = chapter.subject === 'tarjuma' || chapter.slug.startsWith('tarjuma');
+  const isRtl = isUrdu || isIslamiat || isTarjuma;
+
   const isPastPapers =
     chapter.slug === 'past-papers' ||
     chapter.slug === 'urdu-model-paper' ||
-    chapter.slug.startsWith('cs-model-paper-');
+    chapter.slug.startsWith('cs-model-paper-') ||
+    chapter.slug.startsWith('islamiat-model-paper-') ||
+    chapter.slug.startsWith('tarjuma-model-paper-');
 
   let tagLabel = `Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   if (chapter.slug === 'past-papers') tagLabel = 'Board Simulator';
@@ -40,6 +46,10 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (chapter.slug.startsWith('math-model-paper-')) tagLabel = `Math Board Simulator ${chapter.chapterNumber}`;
   else if (chapter.slug.startsWith('english-model-paper-')) tagLabel = `English Board Simulator ${chapter.chapterNumber - 6}`;
   else if (chapter.slug.startsWith('cs-model-paper-')) tagLabel = `CS Board Simulator ${chapter.chapterNumber - 8}`;
+  else if (chapter.slug.startsWith('islamiat-model-paper-')) tagLabel = `Islamiat Board Simulator ${chapter.chapterNumber - 5}`;
+  else if (chapter.slug.startsWith('tarjuma-model-paper-')) tagLabel = `Tarjuma Board Simulator ${chapter.chapterNumber - 4}`;
+  else if (isTarjuma) tagLabel = `Tarjuma Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (isIslamiat) tagLabel = `Islamiat Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (isCS) tagLabel = `CS Chapter ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (isEnglish) tagLabel = `English Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (isMath) tagLabel = `Math Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
@@ -106,6 +116,32 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     description = 'Official Federal Board Section A examination simulation with 17 marks, 20-minute timer, and authentic curriculum SLO rationales.';
   } else if (isCS) {
     description = `Curated FBISE Class 11 Computer Science SLO questions, conceptual problems, and technical justifications for ${chapter.title}.`;
+  } else if (chapter.slug === 'islamiat-unit-1') {
+    description = 'قرآن مجید اور حدیث نبوی کے بنیادی علوم، اقسامِ وحی، اعجازِ قرآن، تدوینِ قرآن اور اصولِ حدیث پر مبنی مستند سوالات۔';
+  } else if (chapter.slug === 'islamiat-unit-2') {
+    description = 'عقائدِ اسلام: توحید فی الذات و الصفات، رسالت، ختم نبوت، ملائکہ، کتب سماویہ اور عقیدہ آخرت کے بنیادی تقاضے۔';
+  } else if (chapter.slug === 'islamiat-unit-3') {
+    description = 'فلسفہ نماز و باجماعت ادائیگی، نظامِ زکوٰۃ و صدقات، روزے کے روحانی و معاشی فوائد اور حج و قربانی کی آفاقی اہمیت۔';
+  } else if (chapter.slug === 'islamiat-unit-4') {
+    description = 'سیرتِ نبوی ﷺ: مکی و مدنی ادوار، بطور مثالی سربراہ خاندان، سپہ سالار، حسن معاملات اور اسلامی معاشی اسوہ۔';
+  } else if (chapter.slug === 'islamiat-unit-5') {
+    description = 'اسلامی معاشرت، احترامِ انسانیت، خیر خواہی، حقوق العباد، اور اخلاقی رذائل (غیبت، کذب، حسد، تکبر) سے اجتناب۔';
+  } else if (chapter.slug.startsWith('islamiat-model-paper-')) {
+    description = 'وفاقی بورڈ (FBISE) کے جدید امتحانی معیار کے مطابق لازمی اسلامیات کا مکمل سالانہ معروضی پرچہ مع مستند تشریحات۔';
+  } else if (isIslamiat) {
+    description = `وفاقی بورڈ لازمی اسلامیات سال اول: ${chapter.title} کے اہم معروضی سوالات اور مستند حوالہ جات کا پرچہ۔`;
+  } else if (chapter.slug === 'tarjuma-unit-1') {
+    description = 'سورۃ البقرۃ: تعارف، مضامین، امتِ وسط، تحویلِ قبلہ، آیۃ الکرسی، احکامِ صوم و حج اور ربا کی حرمت پر مبنی سوالات۔';
+  } else if (chapter.slug === 'tarjuma-unit-2') {
+    description = 'سورۃ آل عمران: توحید، ردِ عقائدِ باطلہ، واقعہ مباہلہ، غزوہ احد کے اسباق، شہداء کی فضیلت اور اتحادِ امت کے قرآنی ارشادات۔';
+  } else if (chapter.slug === 'tarjuma-unit-3') {
+    description = 'سورۃ الانفال: احکامِ جہاد، مالِ غنیمت کی تقسیم، غزوہ بدر (یوم الفرقان)، نصرتِ الٰہی اور اسلامی جنگی اخلاقیات۔';
+  } else if (chapter.slug === 'tarjuma-unit-4') {
+    description = 'سورۃ التوبۃ: براءتِ مشرکین، غزوہ تبوک، منافقین کی سازشیں، مسجد ضرار کا خاتمہ اور زکوٰۃ کے آٹھ مصارف کی تفہیم۔';
+  } else if (chapter.slug.startsWith('tarjuma-model-paper-')) {
+    description = 'وفاقی بورڈ لازمی ترجمۃ القرآن سالانہ امتحان سمولیٹر۔ چاروں مقررہ سورتوں کے اہم نکات پر مشتمل دو لسانی معروضی پرچہ۔';
+  } else if (isTarjuma) {
+    description = `وفاقی بورڈ ترجمۃ القرآن المجید سال اول: ${chapter.title} کے منتخب اور امتحانی کثیر الانتخابی سوالات۔`;
   }
 
   return (
@@ -144,18 +180,18 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
         {/* Title */}
         <h3
           className={`font-[family-name:var(--font-display)] text-lg sm:text-xl font-bold tracking-tight text-[var(--color-ink)] leading-snug mb-3 ${
-            isUrdu ? 'text-right leading-relaxed font-serif' : ''
+            isRtl ? 'text-right leading-relaxed font-serif' : ''
           }`}
-          dir={isUrdu ? 'rtl' : 'ltr'}
+          dir={isRtl ? 'rtl' : 'ltr'}
         >
           {chapter.title}
         </h3>
 
         <p
           className={`text-xs text-[var(--color-muted)] leading-relaxed mb-6 font-[family-name:var(--font-body)] ${
-            isUrdu ? 'text-right' : ''
+            isRtl ? 'text-right' : ''
           }`}
-          dir={isUrdu ? 'rtl' : 'ltr'}
+          dir={isRtl ? 'rtl' : 'ltr'}
         >
           {description}
         </p>

@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import ChapterCard from './ChapterCard';
 import { ChapterMeta } from '../lib/types';
-import { Atom, BookMarked, Calculator, Languages, Cpu, Sparkles } from 'lucide-react';
+import { Atom, BookMarked, Calculator, Languages, Cpu, Sparkles, BookOpen, ScrollText } from 'lucide-react';
 
 interface SubjectTabsProps {
   physicsChapters: ChapterMeta[];
@@ -11,6 +11,8 @@ interface SubjectTabsProps {
   mathChapters: ChapterMeta[];
   englishChapters: ChapterMeta[];
   csChapters: ChapterMeta[];
+  islamiatChapters: ChapterMeta[];
+  tarjumaChapters: ChapterMeta[];
 }
 
 export default function SubjectTabs({
@@ -19,14 +21,18 @@ export default function SubjectTabs({
   mathChapters,
   englishChapters,
   csChapters,
+  islamiatChapters,
+  tarjumaChapters,
 }: SubjectTabsProps) {
-  const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs'>('physics');
+  const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma'>('physics');
 
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const englishTotal = englishChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const csTotal = csChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const islamiatTotal = islamiatChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const tarjumaTotal = tarjumaChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
 
   const activeChapters =
     activeSubject === 'physics'
@@ -37,7 +43,11 @@ export default function SubjectTabs({
       ? mathChapters
       : activeSubject === 'english'
       ? englishChapters
-      : csChapters;
+      : activeSubject === 'cs'
+      ? csChapters
+      : activeSubject === 'islamiat'
+      ? islamiatChapters
+      : tarjumaChapters;
 
   return (
     <div>
@@ -54,11 +64,11 @@ export default function SubjectTabs({
           </div>
 
           {/* Subject Pills */}
-          <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs">
+          <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs pb-1">
             <button
               type="button"
               onClick={() => setActiveSubject('physics')}
-              className={`px-4 py-2 flex items-center gap-2 transition-all duration-150 border font-bold ${
+              className={`px-3.5 py-2 flex items-center gap-2 transition-all duration-150 border font-bold whitespace-nowrap ${
                 activeSubject === 'physics'
                   ? 'bg-[var(--color-ink)] text-[var(--color-paper)] border-[var(--color-ink)] shadow-sm'
                   : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
@@ -74,7 +84,7 @@ export default function SubjectTabs({
             <button
               type="button"
               onClick={() => setActiveSubject('urdu')}
-              className={`px-4 py-2 flex items-center gap-2 transition-all duration-150 border font-bold ${
+              className={`px-3.5 py-2 flex items-center gap-2 transition-all duration-150 border font-bold whitespace-nowrap ${
                 activeSubject === 'urdu'
                   ? 'bg-emerald-900 text-white border-emerald-900 shadow-sm'
                   : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
@@ -89,8 +99,40 @@ export default function SubjectTabs({
 
             <button
               type="button"
+              onClick={() => setActiveSubject('islamiat')}
+              className={`px-3.5 py-2 flex items-center gap-2 transition-all duration-150 border font-bold whitespace-nowrap ${
+                activeSubject === 'islamiat'
+                  ? 'bg-teal-900 text-white border-teal-900 shadow-sm'
+                  : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+              }`}
+            >
+              <BookOpen className="w-4 h-4 text-teal-300" />
+              <span>اسلامیات لازمی (Islamiat)</span>
+              <span className="font-mono text-[11px] opacity-80 px-1.5 py-0.2 border border-current rounded-sm">
+                {islamiatChapters.length} Units · {islamiatTotal} Qs
+              </span>
+            </button>
+
+            <button
+              type="button"
+              onClick={() => setActiveSubject('tarjuma')}
+              className={`px-3.5 py-2 flex items-center gap-2 transition-all duration-150 border font-bold whitespace-nowrap ${
+                activeSubject === 'tarjuma'
+                  ? 'bg-emerald-950 text-emerald-200 border-emerald-800 shadow-sm'
+                  : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+              }`}
+            >
+              <ScrollText className="w-4 h-4 text-emerald-400" />
+              <span>ترجمۃ القرآن (Tarjuma)</span>
+              <span className="font-mono text-[11px] opacity-80 px-1.5 py-0.2 border border-current rounded-sm">
+                {tarjumaChapters.length} Units · {tarjumaTotal} Qs
+              </span>
+            </button>
+
+            <button
+              type="button"
               onClick={() => setActiveSubject('math')}
-              className={`px-4 py-2 flex items-center gap-2 transition-all duration-150 border font-bold ${
+              className={`px-3.5 py-2 flex items-center gap-2 transition-all duration-150 border font-bold whitespace-nowrap ${
                 activeSubject === 'math'
                   ? 'bg-blue-950 text-white border-blue-950 shadow-sm'
                   : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
@@ -106,7 +148,7 @@ export default function SubjectTabs({
             <button
               type="button"
               onClick={() => setActiveSubject('english')}
-              className={`px-4 py-2 flex items-center gap-2 transition-all duration-150 border font-bold ${
+              className={`px-3.5 py-2 flex items-center gap-2 transition-all duration-150 border font-bold whitespace-nowrap ${
                 activeSubject === 'english'
                   ? 'bg-purple-950 text-white border-purple-950 shadow-sm'
                   : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
@@ -122,7 +164,7 @@ export default function SubjectTabs({
             <button
               type="button"
               onClick={() => setActiveSubject('cs')}
-              className={`px-4 py-2 flex items-center gap-2 transition-all duration-150 border font-bold ${
+              className={`px-3.5 py-2 flex items-center gap-2 transition-all duration-150 border font-bold whitespace-nowrap ${
                 activeSubject === 'cs'
                   ? 'bg-slate-900 text-cyan-300 border-cyan-700 shadow-sm'
                   : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
@@ -134,28 +176,13 @@ export default function SubjectTabs({
                 {csChapters.length} Units · {csTotal} Qs
               </span>
             </button>
-
-            <button
-              type="button"
-              disabled
-              className="px-3 py-2 border border-[var(--color-rule)] text-[var(--color-muted)] opacity-50 cursor-not-allowed hidden sm:flex items-center gap-1"
-            >
-              <span>Chemistry (Soon)</span>
-            </button>
-            <button
-              type="button"
-              disabled
-              className="px-3 py-2 border border-[var(--color-rule)] text-[var(--color-muted)] opacity-50 cursor-not-allowed hidden sm:flex items-center gap-1"
-            >
-              <span>Biology (Soon)</span>
-            </button>
           </div>
         </div>
 
         {/* Dynamic Subject Banner */}
         <div className="mt-4 p-4 border border-[var(--color-rule-2)] bg-[var(--color-paper-2)] flex flex-col sm:flex-row sm:items-center justify-between gap-3 font-[family-name:var(--font-display)]">
           <div className="flex items-center gap-3">
-            <div className="w-8 h-8 rounded-full bg-emerald-100 border border-emerald-300 flex items-center justify-center text-emerald-800">
+            <div className="w-8 h-8 rounded-full bg-emerald-100 border border-emerald-300 flex items-center justify-center text-emerald-800 flex-shrink-0">
               <Sparkles className="w-4 h-4" />
             </div>
             <div>
@@ -164,6 +191,10 @@ export default function SubjectTabs({
                   ? 'Active Subject: Class 11th Physics (SLO Based)'
                   : activeSubject === 'urdu'
                   ? 'فعال مضمون: وفاقی تعلیمی بورڈ لازمی اردو سال اول (FBISE Urdu)'
+                  : activeSubject === 'islamiat'
+                  ? 'فعال مضمون: وفاقی تعلیمی بورڈ اسلامیات لازمی سال اول (FBISE Islamiat Compulsory)'
+                  : activeSubject === 'tarjuma'
+                  ? 'فعال مضمون: ترجمۃ القرآن المجید لازمی سال اول (FBISE Tarjuma-tul-Quran)'
                   : activeSubject === 'math'
                   ? 'Active Subject: Class 11th Mathematics (HSSC-I FBISE)'
                   : activeSubject === 'english'
@@ -175,6 +206,10 @@ export default function SubjectTabs({
                   ? 'All 14 textbook units + 13-year past board exams compiled with instant formula explanations.'
                   : activeSubject === 'urdu'
                   ? 'حصہ نثر، نظمیں، غزلیات، علم بیان (تشبیہ، استعارہ، مجاز مرسل، کنایہ) اور علم بدیع کے مکمل سوالات مع تفصیلی حل۔'
+                  : activeSubject === 'islamiat'
+                  ? 'علوم القرآن و الحدیث، ایمانیات، عبادات، سیرتِ طیبہ اور اخلاق و معاشرت کے مکمل 5 یونٹس مع 2 وفاقی بورڈ سالانہ ماڈل پرچے مع مستند تشریحات۔'
+                  : activeSubject === 'tarjuma'
+                  ? 'مقررہ قرآنی سورتیں (سورۃ البقرۃ، سورۃ آل عمران، سورۃ الانفال، سورۃ التوبۃ) کے 4 جامع یونٹس مع 3 وفاقی بورڈ سالانہ معروضی سمولیٹرز (بزبان اردو و انگریزی)۔'
                   : activeSubject === 'math'
                   ? 'Units 1–5 comprehensive guess papers + 3 official FBISE Board Section A simulators with step-by-step mathematical reasoning.'
                   : activeSubject === 'english'
@@ -183,7 +218,7 @@ export default function SubjectTabs({
               </p>
             </div>
           </div>
-          <div className="flex items-center gap-3 text-xs font-mono text-[var(--color-muted)]">
+          <div className="flex items-center gap-3 text-xs font-mono text-[var(--color-muted)] flex-shrink-0">
             <span>{activeChapters.length} Modules Available</span>
             <span>·</span>
             <span>
@@ -191,6 +226,10 @@ export default function SubjectTabs({
                 ? physicsTotal
                 : activeSubject === 'urdu'
                 ? urduTotal
+                : activeSubject === 'islamiat'
+                ? islamiatTotal
+                : activeSubject === 'tarjuma'
+                ? tarjumaTotal
                 : activeSubject === 'math'
                 ? mathTotal
                 : activeSubject === 'english'
