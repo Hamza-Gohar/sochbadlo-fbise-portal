@@ -1,0 +1,286 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 19,
+  "chapterTitle": "Unit 19: Chromatography & Instrumental Analytical Methods",
+  "slug": "chemistry-9-chapter-19",
+  "description": "Chromatographic separation techniques: paper chromatography, stationary and mobile phases, retention factor (Rf values), and introduction to instrumental analysis.",
+  "totalQuestions": 23,
+  "questions": [
+    {
+      "id": "chem9-c19-q1",
+      "question": "The stationary phase can be either a solid or a ____ on a solid support",
+      "options": {
+        "A": "Gas",
+        "B": "Liquid",
+        "C": "Plasma",
+        "D": "Radioactive tracer"
+      },
+      "correctAnswer": "B",
+      "explanation": "A stationary phase may be a liquid layer held on a solid"
+    },
+    {
+      "id": "chem9-c19-q2",
+      "question": "In paper chromatography, the stationary phase is:",
+      "options": {
+        "A": "Dry cellulose",
+        "B": "Water on cellulose",
+        "C": "Pigment",
+        "D": "Mobile solvent"
+      },
+      "correctAnswer": "B",
+      "explanation": "Water absorbed on the paper acts as the stationary layer"
+    },
+    {
+      "id": "chem9-c19-q3",
+      "question": "The mobile phase in chromatography is usually a",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid or gas",
+        "C": "Powder",
+        "D": "Dye"
+      },
+      "correctAnswer": "B",
+      "explanation": "The mobile phase is the moving fluid in chromatography."
+    },
+    {
+      "id": "chem9-c19-q4",
+      "question": "Migration rate depends on a compound’s affinity for:",
+      "options": {
+        "A": "Only the mobile phase",
+        "B": "Only the stationary phase",
+        "C": "Both phases",
+        "D": "Neither phase"
+      },
+      "correctAnswer": "C",
+      "explanation": "Rates depend on the relative attraction to both phases"
+    },
+    {
+      "id": "chem9-c19-q5",
+      "question": "Paper chromatography separates mixtures based on differences in which property?",
+      "options": {
+        "A": "Density",
+        "B": "Colour intensity",
+        "C": "Solubility and adsorption",
+        "D": "Melting point"
+      },
+      "correctAnswer": "C",
+      "explanation": "Components separate due to differing attraction toward mobile and stationary phases."
+    },
+    {
+      "id": "chem9-c19-q6",
+      "question": "In paper chromatography, the stationary phase is defined as what material?",
+      "options": {
+        "A": "Pure ethanol",
+        "B": "Water absorbed in the paper",
+        "C": "The ink mixture",
+        "D": "The solvent vapours"
+      },
+      "correctAnswer": "B",
+      "explanation": "The moist filter paper acts as the stationary phase as it holds water within its fibers."
+    },
+    {
+      "id": "chem9-c19-q7",
+      "question": "A locating agent is mainly used for detecting which type of components on a chromatogram?",
+      "options": {
+        "A": "Highly coloured compounds",
+        "B": "Colourless components",
+        "C": "Oily substances",
+        "D": "Metals"
+      },
+      "correctAnswer": "B",
+      "explanation": "Locating agents reveal invisible spots that cannot be seen directly on the chromatogram"
+    },
+    {
+      "id": "chem9-c19-q8",
+      "question": "Ninhydrin is commonly used as a locating agent for which type of substances?",
+      "options": {
+        "A": "Sugars",
+        "B": "Oils",
+        "C": "Amino acids",
+        "D": "Organic acids"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ninhydrin reacts specifically with amino acids to produce coloured spots."
+    },
+    {
+      "id": "chem9-c19-q9",
+      "question": "After spraying with ninhydrin, amino acids generally develop into what kind of chromatogram?",
+      "options": {
+        "A": "Colourless",
+        "B": "Metallic",
+        "C": "Colourful",
+        "D": "Sticky"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ninhydrin produces a visible coloured pattern when reacting with amino acids."
+    },
+    {
+      "id": "chem9-c19-q10",
+      "question": "Ninhydrin is especially suitable for amino acids because it reacts with what part of the molecule?",
+      "options": {
+        "A": "Amino group",
+        "B": "Aromatic ring",
+        "C": "Carboxyl group    S",
+        "D": "ulphide group"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ninhydrin interacts with the –NH₂ group, producing a coloured compound."
+    },
+    {
+      "id": "chem9-c19-q11",
+      "question": "A mixture of amino acids is invisible on chromatography unless treated with what?",
+      "options": {
+        "A": "Water vapor",
+        "B": "Alcohol flame",
+        "C": "Graphite N powder",
+        "D": "inhydrin spray"
+      },
+      "correctAnswer": "D",
+      "explanation": "Ninhydrin reveals amino acids by forming characteristic coloured spots."
+    },
+    {
+      "id": "chem9-c19-q12",
+      "question": "The distance a compound travels from the origin to its spot is used to calculate what value?",
+      "options": {
+        "A": "Density",
+        "B": "Mass ratio",
+        "C": "Rf value",
+        "D": "Polarity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Rf expresses how far a compound moves relative to the solvent front."
+    },
+    {
+      "id": "chem9-c19-q13",
+      "question": "Rf value is calculated by dividing compound distance by what?",
+      "options": {
+        "A": "Paper width",
+        "B": "Baseline thickness",
+        "C": "Spot t diameter",
+        "D": "Distance ravelled by the solvent"
+      },
+      "correctAnswer": "D",
+      "explanation": "Solvent front distance is used as the denominator in Rf calculation."
+    },
+    {
+      "id": "chem9-c19-q14",
+      "question": "In the example given, a blue component that travelled 8 cm with a 10 cm solvent front has an Rf of what?",
+      "options": {
+        "A": "0.2",
+        "B": "0.6",
+        "C": "0.8",
+        "D": "1.2"
+      },
+      "correctAnswer": "C",
+      "explanation": "Rf = 8 ÷ 10 = 0.8"
+    },
+    {
+      "id": "chem9-c19-q15",
+      "question": "A compound with an Rf value of 0.2 has what type of affinity?",
+      "options": {
+        "A": "Strong affinity for mobile phase",
+        "B": "Very weak polarity",
+        "C": "H Equal affinity for both phases",
+        "D": "igh affinity for stationary phase"
+      },
+      "correctAnswer": "D",
+      "explanation": "Low Rf means the compound stays close to the origin, preferring the stationary phase."
+    },
+    {
+      "id": "chem9-c19-q16",
+      "question": "A component that travels the farthest has the strongest affinity toward which phase?",
+      "options": {
+        "A": "Stationary phase",
+        "B": "Mobile phase",
+        "C": "Solid phase",
+        "D": "Adsorbent phase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Greater travel shows the compound prefers dissolving in the solvent."
+    },
+    {
+      "id": "chem9-c19-q17",
+      "question": "The red component with Rf = 0.2 travelled how far if the solvent front moved 10 cm?",
+      "options": {
+        "A": "1 cm",
+        "B": "2 cm",
+        "C": "5 cm",
+        "D": "8 cm"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rf = 2 ÷ 10, so the compound travelled 2 cm."
+    },
+    {
+      "id": "chem9-c19-q18",
+      "question": "If the solvent front travelled 12 cm and a compound moved 9 cm, its Rf is what?",
+      "options": {
+        "A": "0.5",
+        "B": "0.75",
+        "C": "0.25",
+        "D": "1.1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rf = 9 ÷ 12 = 0.75"
+    },
+    {
+      "id": "chem9-c19-q19",
+      "question": "The blue component’s Rf being the highest means it has the strongest attraction to which phase?",
+      "options": {
+        "A": "Stationary phase",
+        "B": "Solid phase only",
+        "C": "Baseline Mobi region",
+        "D": "le phase"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Highest Rf value means the most movement with the solvent."
+    },
+    {
+      "id": "chem9-c19-q20",
+      "question": "The ratio used for Rf calculation always compares compound movement to what baseline reference?",
+      "options": {
+        "A": "Top of the paper",
+        "B": "Middle of the strip",
+        "C": "Colour     Solv intensity     di",
+        "D": "ent front stance"
+      },
+      "correctAnswer": "D",
+      "explanation": "Rf values are standardized using the solvent front as reference."
+    },
+    {
+      "id": "chem9-c19-q21",
+      "question": "Identifying an unknown substance in paper chromatography mainly involves comparing what?",
+      "options": {
+        "A": "Paper thickness",
+        "B": "Solvent smell",
+        "C": "Spot Rf values",
+        "D": "colour only"
+      },
+      "correctAnswer": "C",
+      "explanation": "Matching Rf values helps determine whether two substances are the same."
+    },
+    {
+      "id": "chem9-c19-q22",
+      "question": "A pure substance on a chromatogram normally gives how many spots?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Purity is indicated by a single spot showing only one component."
+    },
+    {
+      "id": "chem9-c19-q23",
+      "question": "A chromatogram showing three distinct spots indicates what about the sample?",
+      "options": {
+        "A": "It is pure",
+        "B": "It is impure",
+        "C": "It is It completely only unknown",
+        "D": "contains solvents"
+      },
+      "correctAnswer": "B",
+      "explanation": "Multiple spots confirm multiple substances in the sample. Join SochBadloByMAK For Board Exams Preparation Under Federal Board Experienced Faculty Who Have A Vast Experience Of Producing Best Result From The Past Five Years For More Details Visit Our Official Website: www.Sochbadlobymak.Com For Admission Details Contact WhatsApp Number: +92 331 5014353 Official Instagram Page: www.instagram.com/sochbadlobymak/ Official YouTube Channel: www.youtube.com/sochbadlobymak/ Official WhatsApp Channel: https://whatsapp.com/channel/0029VaCYdmqAojYyRYstAA1N"
+    }
+  ]
+}

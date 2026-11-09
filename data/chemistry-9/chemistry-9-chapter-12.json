@@ -1,0 +1,778 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 12,
+  "chapterTitle": "Unit 12: Environmental Chemistry: Hydrosphere & Water Treatment",
+  "slug": "chemistry-9-chapter-12",
+  "description": "Occurrence and properties of water, soft and hard water, temporary and permanent hardness, methods of water softening, water pollution, and drinking water purification.",
+  "totalQuestions": 64,
+  "questions": [
+    {
+      "id": "chem9-c12-q1",
+      "question": "At sea level, water boils at a temperature of:",
+      "options": {
+        "A": "0°C",
+        "B": "50°C",
+        "C": "100°C",
+        "D": "212°C"
+      },
+      "correctAnswer": "C",
+      "explanation": "The boiling point of pure water at sea level is 100°C."
+    },
+    {
+      "id": "chem9-c12-q2",
+      "question": "The freezing point of pure water at sea level is:",
+      "options": {
+        "A": "0°C",
+        "B": "4°C",
+        "C": "–10°C",
+        "D": "100°C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Water freezes at 0°C under standard atmospheric pressure"
+    },
+    {
+      "id": "chem9-c12-q3",
+      "question": "The purpose of using anhydrous copper sulphate in experiments is to:",
+      "options": {
+        "A": "Increase temperature",
+        "B": "Detect the presence of water",
+        "C": "Purify water",
+        "D": "Measure density"
+      },
+      "correctAnswer": "B",
+      "explanation": "Anhydrous copper sulphate changes colour when water is present"
+    },
+    {
+      "id": "chem9-c12-q4",
+      "question": "When water is added to anhydrous copper sulphate, the compound turns:",
+      "options": {
+        "A": "Green",
+        "B": "Blue",
+        "C": "Yellow",
+        "D": "Black"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hydrated copper sulphate has a characteristic blue colour"
+    },
+    {
+      "id": "chem9-c12-q5",
+      "question": "The colour change in copper sulphate occurs due to:",
+      "options": {
+        "A": "Evaporation",
+        "B": "Hydration",
+        "C": "Sublimation",
+        "D": "Condensation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hydration causes water molecules to bind with copper sulphate."
+    },
+    {
+      "id": "chem9-c12-q6",
+      "question": "Ice prepared from pure water begins to melt at:",
+      "options": {
+        "A": "0°C",
+        "B": "4°C",
+        "C": "–5°C",
+        "D": "10°C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pure ice melts exactly at 0°C"
+    },
+    {
+      "id": "chem9-c12-q7",
+      "question": "The thermometer bulb must not touch the beaker bottom because:",
+      "options": {
+        "A": "It may break",
+        "B": "It gives inaccurate readings",
+        "C": "It slows heating",
+        "D": "It absorbs heat"
+      },
+      "correctAnswer": "B",
+      "explanation": "Contact with the beaker affects temperature accuracy"
+    },
+    {
+      "id": "chem9-c12-q8",
+      "question": "If water boils at a temperature higher than 100°C, it indicates:",
+      "options": {
+        "A": "Presence of impurities",
+        "B": "Purity",
+        "C": "Low pressure",
+        "D": "Measurement error"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dissolved impurities elevate the boiling point 9. The presence of water molecules causes copper Lose mass Change colour Evaporate Decompose ○ ○ ○ ○ sulphate to: Answer: (B) Change colour"
+    },
+    {
+      "id": "chem9-c12-q9",
+      "question": "The presence of water molecules causes copper sulphate to:",
+      "options": {
+        "A": "Lose mass",
+        "B": "Change colour",
+        "C": "Evaporate",
+        "D": "Decompose"
+      },
+      "correctAnswer": "B",
+      "explanation": "Water molecules alter the compound’s structure and colour"
+    },
+    {
+      "id": "chem9-c12-q10",
+      "question": "Water sample purity is confirmed when it melts exactly at:",
+      "options": {
+        "A": "–1°C",
+        "B": "0°C",
+        "C": "1°C",
+        "D": "5°C"
+      },
+      "correctAnswer": "B",
+      "explanation": "Exact melting at 0°C indicates purity"
+    },
+    {
+      "id": "chem9-c12-q11",
+      "question": "While falling through air, rainwater dissolves all EXCEPT",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Carbon dioxid",
+        "D": "Hydrogen e sulphide"
+      },
+      "correctAnswer": "D",
+      "explanation": "The passage mentions oxygen, nitrogen, and carbon dioxide, not hydrogen sulphide"
+    },
+    {
+      "id": "chem9-c12-q12",
+      "question": "Thunderstorms increase the acidity of rainwater because of the presence of:",
+      "options": {
+        "A": "Carbonic acid",
+        "B": "Sulphuric acid",
+        "C": "Nitric acid",
+        "D": "Hydrochloric acid"
+      },
+      "correctAnswer": "C",
+      "explanation": "Electrical activity during thunderstorms leads to the formation of nitric acid"
+    },
+    {
+      "id": "chem9-c12-q13",
+      "question": "The presence of dissolved gases in rainwater shows that the water:",
+      "options": {
+        "A": "Is chemically inactive",
+        "B": "Cannot be polluted",
+        "C": "Exists only liquid form",
+        "D": "Acts as a in solvent even i air"
+      },
+      "correctAnswer": "D",
+      "explanation": "Rainwater dissolves atmospheric gases while falling"
+    },
+    {
+      "id": "chem9-c12-q14",
+      "question": "The survival of aquatic life is directly linked to the presence of:",
+      "options": {
+        "A": "Salts",
+        "B": "Dissolved oxygen",
+        "C": "Plastic parti",
+        "D": "cles      Nitrates"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dissolved oxygen supports the respiration of aquatic organisms"
+    },
+    {
+      "id": "chem9-c12-q15",
+      "question": "Which of the following metals is essential for haemoglobin formation:",
+      "options": {
+        "A": "Iron",
+        "B": "Sodium",
+        "C": "Calcium",
+        "D": "Potassium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Iron is required for haemoglobin that transports oxygen in blood"
+    },
+    {
+      "id": "chem9-c12-q16",
+      "question": "Zinc, copper, and magnesium are important in the body because they:",
+      "options": {
+        "A": "Increase water pollution",
+        "B": "Activate enzyme activity",
+        "C": "Reduce oxygen levels",
+        "D": "Cause diseases"
+      },
+      "correctAnswer": "B",
+      "explanation": "These metals help enzymes function properly in biological systems"
+    },
+    {
+      "id": "chem9-c12-q17",
+      "question": "Harmful microbes in natural water can cause diseases such as:",
+      "options": {
+        "A": "Asthma and cancer",
+        "B": "Cholera",
+        "C": "Diabetes",
+        "D": "Heart disease"
+      },
+      "correctAnswer": "B",
+      "explanation": "Microbes cause waterborne diseases like diarrhoea and cholera"
+    },
+    {
+      "id": "chem9-c12-q18",
+      "question": "Nitrates enter water bodies mainly through:",
+      "options": {
+        "A": "Industrial smoke",
+        "B": "Agricultural runoff",
+        "C": "Plastic wa",
+        "D": "ste    Boiling water"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fertilizers wash into water bodies during rainfall"
+    },
+    {
+      "id": "chem9-c12-q19",
+      "question": "High phosphate levels in water can lead to:",
+      "options": {
+        "A": "Eutrophication",
+        "B": "Water purification",
+        "C": "Increased immunity",
+        "D": "fish   Reduced algae growth"
+      },
+      "correctAnswer": "A",
+      "explanation": "Excess phosphates cause eutrophication and algae blooms"
+    },
+    {
+      "id": "chem9-c12-q20",
+      "question": "Damage to fish gills due to detergents affects:",
+      "options": {
+        "A": "Digestion",
+        "B": "Reproduction only",
+        "C": "Movement",
+        "D": "Respiration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gill damage interferes with oxygen exchange in fish"
+    },
+    {
+      "id": "chem9-c12-q21",
+      "question": "The respiration of aquatic organisms depends mainly on:",
+      "options": {
+        "A": "Carbon dioxide",
+        "B": "Dissolved oxygen",
+        "C": "Nitrogen",
+        "D": "Phosphates"
+      },
+      "correctAnswer": "B",
+      "explanation": "Aquatic respiration relies on oxygen dissolved in water"
+    },
+    {
+      "id": "chem9-c12-q22",
+      "question": "Algal blooms caused by eutrophication mainly threaten aquatic life by:",
+      "options": {
+        "A": "Increasing food supply",
+        "B": "Reducing oxygen levels",
+        "C": "Cleaning w",
+        "D": "Removing ater microbes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Algae consume oxygen, leading to oxygen scarcity"
+    },
+    {
+      "id": "chem9-c12-q23",
+      "question": "Sedimentation in water treatment refers to the process where:",
+      "options": {
+        "A": "Suspended matter settles down",
+        "B": "Water is boiled",
+        "C": "Chlorine added",
+        "D": "is      Water is distilled"
+      },
+      "correctAnswer": "A",
+      "explanation": "Heavier suspended particles sink to the bottom during sedimentation"
+    },
+    {
+      "id": "chem9-c12-q24",
+      "question": "During sedimentation, water is allowed to stand in a:",
+      "options": {
+        "A": "Test tube",
+        "B": "Beaker",
+        "C": "Reservoi",
+        "D": "r       Condenser"
+      },
+      "correctAnswer": "C",
+      "explanation": "Reservoirs allow sufficient time for suspended particles to settle"
+    },
+    {
+      "id": "chem9-c12-q25",
+      "question": "Which chemicals are added during the coagulation process:",
+      "options": {
+        "A": "Chlorine and iodine",
+        "B": "Slaked lime and alum",
+        "C": "Sodium chloride sand",
+        "D": "Charcoal and and gravel"
+      },
+      "correctAnswer": "B",
+      "explanation": "Slaked lime and alum help form aluminium hydroxide for impurity removal 26. The final step of domestic Sedimentation Filtration Coagulation Chlorination ○ ○ ○ ○ water treatment is: Answer: (D) Chlorination"
+    },
+    {
+      "id": "chem9-c12-q26",
+      "question": "The final step of domestic water treatment is:",
+      "options": {
+        "A": "Sedimentation",
+        "B": "Filtration",
+        "C": "Coagulation",
+        "D": "Chlorination"
+      },
+      "correctAnswer": "D",
+      "explanation": "Chlorination disinfects water by killing remaining bacteria"
+    },
+    {
+      "id": "chem9-c12-q27",
+      "question": "The pH value of distilled water is:",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correctAnswer": "C",
+      "explanation": "Distilled water is neutral in nature"
+    },
+    {
+      "id": "chem9-c12-q28",
+      "question": "Which water type is least suitable for precise chemical experiments:",
+      "options": {
+        "A": "Distilled water",
+        "B": "Deionized water",
+        "C": "Tap water",
+        "D": "Double distilled water"
+      },
+      "correctAnswer": "C",
+      "explanation": "Tap water contains dissolved substances affecting accuracy"
+    },
+    {
+      "id": "chem9-c12-q29",
+      "question": "Impurities in raw water are mainly removed in early stages by:",
+      "options": {
+        "A": "Chlorination",
+        "B": "Sedimentation and coagulation",
+        "C": "Distillation",
+        "D": "Evaporation"
+      },
+      "correctAnswer": "B",
+      "explanation": "These stages remove suspended and fine impurities"
+    },
+    {
+      "id": "chem9-c12-q30",
+      "question": "The most effective method to obtain completely pure water is:",
+      "options": {
+        "A": "Filtration",
+        "B": "Chlorination",
+        "C": "Distillation",
+        "D": "Sedimentation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Distillation removes all types of impurities from water"
+    },
+    {
+      "id": "chem9-c12-q31",
+      "question": "As rain and snow flow over rocks and soil, water mainly dissolves:",
+      "options": {
+        "A": "Plastics",
+        "B": "Oils",
+        "C": "Minerals",
+        "D": "Gases only"
+      },
+      "correctAnswer": "C",
+      "explanation": "Flowing water dissolves minerals from rocks and soil"
+    },
+    {
+      "id": "chem9-c12-q32",
+      "question": "Detergents are more harmful than soaps because they:",
+      "options": {
+        "A": "Are less effective",
+        "B": "Decompose quickly",
+        "C": "Remain in water for a lo time",
+        "D": "Improve water ng quality"
+      },
+      "correctAnswer": "C",
+      "explanation": "Detergents persist in water and cause pollution"
+    },
+    {
+      "id": "chem9-c12-q33",
+      "question": "Discharge of detergent- containing water into lakes and rivers causes:",
+      "options": {
+        "A": "Increase in oxygen",
+        "B": "Death of aquatic life",
+        "C": "Improved water clarity",
+        "D": "Growth of fish"
+      },
+      "correctAnswer": "B",
+      "explanation": "Detergents make water unfit for aquatic organisms"
+    },
+    {
+      "id": "chem9-c12-q34",
+      "question": "Bacteria present in contaminated water can cause diseases such as:",
+      "options": {
+        "A": "Cancer",
+        "B": "Typhoid",
+        "C": "Asthma",
+        "D": "Arthritis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pathogenic bacteria cause waterborne infections"
+    },
+    {
+      "id": "chem9-c12-q35",
+      "question": "Which of the following is NOT a waterborne disease mentioned:",
+      "options": {
+        "A": "Cholera",
+        "B": "Hepatitis",
+        "C": "Typhoid",
+        "D": "Tuberculosis"
+      },
+      "correctAnswer": "D",
+      "explanation": "Tuberculosis is not caused by contaminated water"
+    },
+    {
+      "id": "chem9-c12-q36",
+      "question": "Heavy metals removed during water treatment include:",
+      "options": {
+        "A": "Na and K",
+        "B": "Ca and Mg",
+        "C": "As, Cr, and Pb",
+        "D": "H and O"
+      },
+      "correctAnswer": "C",
+      "explanation": "These heavy metals are toxic even at low levels"
+    },
+    {
+      "id": "chem9-c12-q37",
+      "question": "Kidney diseases may result from the intake of water contaminated with:",
+      "options": {
+        "A": "Dissolved oxygen",
+        "B": "Essential minerals",
+        "C": "Pure water",
+        "D": "Heavy metals"
+      },
+      "correctAnswer": "D",
+      "explanation": "Toxic metals affect kidney function"
+    },
+    {
+      "id": "chem9-c12-q38",
+      "question": "Water in swimming pools is purified mainly by which of the following processes?",
+      "options": {
+        "A": "Distillation     F",
+        "B": "iltration only",
+        "C": "Sedimentation",
+        "D": "Aeration and chlorination"
+      },
+      "correctAnswer": "D",
+      "explanation": "Aeration and chlorination remove pathogenic organisms"
+    },
+    {
+      "id": "chem9-c12-q39",
+      "question": "Dysentery is classified as:",
+      "options": {
+        "A": "A respiratory disease",
+        "B": "An intestinal disease",
+        "C": "A skin disease",
+        "D": "A nervous disorder"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dysentery affects the intestines"
+    },
+    {
+      "id": "chem9-c12-q40",
+      "question": "Dysentery is an intestinal disease that is caused by which parasite:",
+      "options": {
+        "A": "Entamoeba",
+        "B": "Plasmodium",
+        "C": "Salmonella",
+        "D": "Vibrio"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dysentery is caused by the parasite Entamoeba, which infects the intestines and spreads through fecally contaminated food or water"
+    },
+    {
+      "id": "chem9-c12-q41",
+      "question": "contaminated food or water 41. Drinking polluted water can lead to all EXCEPT:",
+      "options": {
+        "A": "Dysentery",
+        "B": "Hepatitis",
+        "C": "Typhoid",
+        "D": "Asthma"
+      },
+      "correctAnswer": "D",
+      "explanation": "Asthma is not a waterborne disease"
+    },
+    {
+      "id": "chem9-c12-q42",
+      "question": "Typhoid is a dangerous intestinal disease that is also associated with:",
+      "options": {
+        "A": "Regular pulse",
+        "B": "Irregular pulse",
+        "C": "Slow breathing",
+        "D": "Skin rash"
+      },
+      "correctAnswer": "B",
+      "explanation": "Typhoid commonly shows an irregular pulse along with prolonged high fever Salmonella 43. Typhoid spreads through Entamoeba Plasmodium Hepatitis virus ○ ○ ○ ○ bacteria water contaminated with: Answer: (C) Salmonella bacteria"
+    },
+    {
+      "id": "chem9-c12-q43",
+      "question": "Typhoid spreads through water contaminated with:",
+      "options": {
+        "A": "Entamoeba",
+        "B": "Plasmodium",
+        "C": "Salmonella bacteria",
+        "D": "Hepatitis virus"
+      },
+      "correctAnswer": "C",
+      "explanation": "Salmonella bacteria cause typhoid"
+    },
+    {
+      "id": "chem9-c12-q44",
+      "question": "Which types of hepatitis spread through polluted water:",
+      "options": {
+        "A": "B and C",
+        "B": "A and E",
+        "C": "C and D",
+        "D": "B and D"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hepatitis A and E are waterborne"
+    },
+    {
+      "id": "chem9-c12-q45",
+      "question": "Loss of appetite and fatigue are symptoms of:",
+      "options": {
+        "A": "Typhoid",
+        "B": "Dysentery",
+        "C": "Jaundice",
+        "D": "Malaria"
+      },
+      "correctAnswer": "C",
+      "explanation": "Jaundice affects digestion and energy levels"
+    },
+    {
+      "id": "chem9-c12-q46",
+      "question": "Yellowness of skin and eyes in jaundice is caused by excess:",
+      "options": {
+        "A": "Oxygen",
+        "B": "Glucose",
+        "C": "Water",
+        "D": "Bile in blood"
+      },
+      "correctAnswer": "D",
+      "explanation": "Excess bile enters the bloodstream"
+    },
+    {
+      "id": "chem9-c12-q47",
+      "question": "Jaundice occurs mainly due to obstruction of the:",
+      "options": {
+        "A": "Kidney",
+        "B": "Heart",
+        "C": "Liver",
+        "D": "Lungs"
+      },
+      "correctAnswer": "C",
+      "explanation": "Liver obstruction leads to jaundice symptoms"
+    },
+    {
+      "id": "chem9-c12-q48",
+      "question": "Typhoid is caused by which bacterium:",
+      "options": {
+        "A": "Vibrio cholerae",
+        "B": "Salmonella typhi",
+        "C": "Entamoeba histolytic",
+        "D": "Escherichia coli a"
+      },
+      "correctAnswer": "B",
+      "explanation": "Salmonella typhi is the bacterium responsible for causing typhoid"
+    },
+    {
+      "id": "chem9-c12-q49",
+      "question": "Excessive algal growth in water bodies is encouraged mainly by:",
+      "options": {
+        "A": "Reduced sunlight",
+        "B": "Controlled nutrient flow",
+        "C": "Low temperature",
+        "D": "Untreated sewage"
+      },
+      "correctAnswer": "D",
+      "explanation": "Nutrient-rich waste promotes excessive algal growth"
+    },
+    {
+      "id": "chem9-c12-q50",
+      "question": "Treating domestic and industrial wastewater is important because it:",
+      "options": {
+        "A": "Increases pollution",
+        "B": "Prevents spread of diseases",
+        "C": "Reduces water availabilit",
+        "D": "Encourages y    algal blooms"
+      },
+      "correctAnswer": "B",
+      "explanation": "Wastewater treatment removes disease-causing agents"
+    },
+    {
+      "id": "chem9-c12-q51",
+      "question": "Oxygen depletion in water can be prevented by:",
+      "options": {
+        "A": "More fertilizers",
+        "B": "Nutrient control",
+        "C": "Waste dumping",
+        "D": "Less treatment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Controlling nutrients limits algal growth and oxygen loss"
+    },
+    {
+      "id": "chem9-c12-q52",
+      "question": "Nutrient control in water bodies is important because it:",
+      "options": {
+        "A": "Raises pH",
+        "B": "Stops algal blooms",
+        "C": "Adds minerals",
+        "D": "Increases heat"
+      },
+      "correctAnswer": "B",
+      "explanation": "Controlling nutrients prevents excessive algal growth"
+    },
+    {
+      "id": "chem9-c12-q53",
+      "question": "If untreated industrial waste enters a river used for fishing, the most likely long- term effect will be:",
+      "options": {
+        "A": "Cleaner water",
+        "B": "Fish growth",
+        "C": "Higher oxygen",
+        "D": "Metal buildup in fish"
+      },
+      "correctAnswer": "D",
+      "explanation": "Heavy metals from industrial waste accumulate in fish tissues over time"
+    },
+    {
+      "id": "chem9-c12-q54",
+      "question": "One major reason for declining water resources is:",
+      "options": {
+        "A": "Rainwater harvesting",
+        "B": "Excessive groundwater extraction",
+        "C": "Water recyclin",
+        "D": "g     Drip irrigation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Overuse of groundwater reduces long-term water availability"
+    },
+    {
+      "id": "chem9-c12-q55",
+      "question": "Groundwater aquifers are depleted mainly due to:",
+      "options": {
+        "A": "Controlled usage",
+        "B": "Excessive extraction",
+        "C": "Heavy rainfal",
+        "D": "Infrastructure l development"
+      },
+      "correctAnswer": "B",
+      "explanation": "Excessive pumping lowers groundwater levels"
+    },
+    {
+      "id": "chem9-c12-q56",
+      "question": "Flood irrigation causes water loss mainly through:",
+      "options": {
+        "A": "Freezing",
+        "B": "Evaporation",
+        "C": "Condensation",
+        "D": "Filtration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Open water surfaces lose large amounts through evaporation"
+    },
+    {
+      "id": "chem9-c12-q57",
+      "question": "Effective water management is needed to:",
+      "options": {
+        "A": "Increase wastage",
+        "B": "Lower population",
+        "C": "Stop rainfall",
+        "D": "Reduce water v scarcity"
+      },
+      "correctAnswer": "D",
+      "explanation": "Proper management improves water use efficiency"
+    },
+    {
+      "id": "chem9-c12-q58",
+      "question": "The main purpose of using fertilizers in agriculture is to",
+      "options": {
+        "A": "Enhance crop yield :",
+        "B": "Kill insects",
+        "C": "Increase rainf",
+        "D": "all    Reduce soil"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fertilizers increase plant growth and crop production"
+    },
+    {
+      "id": "chem9-c12-q59",
+      "question": "Fertilizers that supply nitrogen, phosphorus, and potassium are called:",
+      "options": {
+        "A": "Organic fertilizers",
+        "B": "NPK fertilizers",
+        "C": "Biofertilizer",
+        "D": "s       Pesticides"
+      },
+      "correctAnswer": "B",
+      "explanation": "NPK fertilizers contain nitrogen, phosphorus, and potassium"
+    },
+    {
+      "id": "chem9-c12-q60",
+      "question": "Which of the following is an essential plant nutrient:",
+      "options": {
+        "A": "Sodium",
+        "B": "Chlorine",
+        "C": "Nitrogen",
+        "D": "Helium"
+      },
+      "correctAnswer": "C",
+      "explanation": "Nitrogen is a primary nutrient required for plant growth"
+    },
+    {
+      "id": "chem9-c12-q61",
+      "question": "Diammonium phosphate is an example of a fertilizer that provides:",
+      "options": {
+        "A": "Nitrogen and Po phosphorus",
+        "B": "tassium only",
+        "C": "Calcium only",
+        "D": "Magnesium only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Diammonium phosphate supplies both nitrogen and phosphorus"
+    },
+    {
+      "id": "chem9-c12-q62",
+      "question": "Nutrients from fertilizers reach plants mainly through:",
+      "options": {
+        "A": "Air          W",
+        "B": "ater solution",
+        "C": "Soil particl",
+        "D": "es    Sunlight"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dissolved nutrients are absorbed by plant roots"
+    },
+    {
+      "id": "chem9-c12-q63",
+      "question": "Applying fertilizers at the right time and amount is called:",
+      "options": {
+        "A": "Crop rotation",
+        "B": "Irrigation",
+        "C": "Composting",
+        "D": "Nutrient management"
+      },
+      "correctAnswer": "D",
+      "explanation": "Nutrient management ensures efficient nutrient use"
+    },
+    {
+      "id": "chem9-c12-q64",
+      "question": "One benefit of nutrient management is the reduction of:",
+      "options": {
+        "A": "Crop yield",
+        "B": "Soil fertility",
+        "C": "Nutrient loss",
+        "D": "Sunlight"
+      },
+      "correctAnswer": "C",
+      "explanation": "Controlled fertilizer use reduces nutrient wastage"
+    }
+  ]
+}

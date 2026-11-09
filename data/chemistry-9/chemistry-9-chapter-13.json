@@ -1,0 +1,838 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 13,
+  "chapterTitle": "Unit 13: Organic Chemistry: Carbon Chains & Functional Groups",
+  "slug": "chemistry-9-chapter-13",
+  "description": "Uniqueness of carbon (catenation, tetravalency), general formula and homologous series, IUPAC nomenclature, and identification of key functional groups (alcohols, aldehydes, ketones, ethers, carboxylic acids).",
+  "totalQuestions": 69,
+  "questions": [
+    {
+      "id": "chem9-c13-q1",
+      "question": "The branch of chemistry that deals with carbon-containing compounds and their properties is known as",
+      "options": {
+        "A": "Inorganic chemistry",
+        "B": "Physical chemistry",
+        "C": "Organic chemistry",
+        "D": "Nuclear chemistry"
+      },
+      "correctAnswer": "C",
+      "explanation": "Organic chemistry focuses on the study of carbon-containing compounds and their behaviour"
+    },
+    {
+      "id": "chem9-c13-q2",
+      "question": "Carbon dioxide, carbon monoxide, carbonates, and carbides are classified as:",
+      "options": {
+        "A": "Organic compounds",
+        "B": "Biological compounds",
+        "C": "Inorganic compounds",
+        "D": "Hydrocarbons"
+      },
+      "correctAnswer": "C",
+      "explanation": "These low-carbon compounds show inorganic characteristics"
+    },
+    {
+      "id": "chem9-c13-q3",
+      "question": "The reason carbonates are excluded from organic compounds is their:",
+      "options": {
+        "A": "High molecular weight",
+        "B": "Solubility in water",
+        "C": "Inorganic chemical behaviour",
+        "D": "Presence of carbon"
+      },
+      "correctAnswer": "C",
+      "explanation": "Classification depends on properties, not just composition"
+    },
+    {
+      "id": "chem9-c13-q4",
+      "question": "Which of the following is NOT an industrial organic product?",
+      "options": {
+        "A": "Sodium chloride",
+        "B": "Detergents",
+        "C": "Soaps",
+        "D": "Artificial sweeteners"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sodium chloride is an inorganic salt"
+    },
+    {
+      "id": "chem9-c13-q5",
+      "question": "Organic compounds are essential for living beings because they:",
+      "options": {
+        "A": "Store minerals",
+        "B": "Perform life reactions",
+        "C": "Conduct heat",
+        "D": "Form rocks"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vital biochemical reactions depend on organic compounds"
+    },
+    {
+      "id": "chem9-c13-q6",
+      "question": "Which element rarely combines with carbon in organic compounds?",
+      "options": {
+        "A": "Hydrogen",
+        "B": "Oxygen",
+        "C": "Nitrogen",
+        "D": "Noble gases"
+      },
+      "correctAnswer": "D",
+      "explanation": "Noble gases are chemically inert"
+    },
+    {
+      "id": "chem9-c13-q7",
+      "question": "Organic and inorganic carbon compounds differ mainly in:",
+      "options": {
+        "A": "Chemical behaviour",
+        "B": "Carbon content",
+        "C": "Physical state",
+        "D": "Colour"
+      },
+      "correctAnswer": "A",
+      "explanation": "Properties decide classification, not composition"
+    },
+    {
+      "id": "chem9-c13-q8",
+      "question": "The wide application of organic compounds is due to their:",
+      "options": {
+        "A": "Toxicity",
+        "B": "Inertness",
+        "C": "Density",
+        "D": "Structural diversity"
+      },
+      "correctAnswer": "D",
+      "explanation": "Different structures allow different functions"
+    },
+    {
+      "id": "chem9-c13-q9",
+      "question": "A homologous series is a group of organic compounds in which adjacent members differ by:",
+      "options": {
+        "A": "CH",
+        "B": "CH2",
+        "C": "CO",
+        "D": "OH"
+      },
+      "correctAnswer": "B",
+      "explanation": "Adjacent members of a homologous series differ by a –CH2– unit"
+    },
+    {
+      "id": "chem9-c13-q10",
+      "question": "The concept of homologous series makes organic chemistry easier by:",
+      "options": {
+        "A": "Increasing reactions",
+        "B": "Reducing compounds",
+        "C": "Grouping similar compounds",
+        "D": "Removing formulas"
+      },
+      "correctAnswer": "C",
+      "explanation": "Similar behaviour allows compounds to be studied in families"
+    },
+    {
+      "id": "chem9-c13-q11",
+      "question": "Which of the following is an example of a homologous series:",
+      "options": {
+        "A": "Acids",
+        "B": "Salts",
+        "C": "Metals",
+        "D": "Alkanes"
+      },
+      "correctAnswer": "D",
+      "explanation": "Alkanes differ by a –CH2– unit between members"
+    },
+    {
+      "id": "chem9-c13-q12",
+      "question": "The molecular formula of methane is:",
+      "options": {
+        "A": "CH2",
+        "B": "CH4",
+        "C": "C2H6",
+        "D": "C2H4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Methane is the first member of the alkane series"
+    },
+    {
+      "id": "chem9-c13-q13",
+      "question": "Which unit is added to obtain the next member of a homologous series:",
+      "options": {
+        "A": "–OH",
+        "B": "–COOH",
+        "C": "–CH2-",
+        "D": "–NH2"
+      },
+      "correctAnswer": "C",
+      "explanation": "Each successive member increases by one –CH2– unit"
+    },
+    {
+      "id": "chem9-c13-q14",
+      "question": "Which functional group is common in alcohols:",
+      "options": {
+        "A": "COOH",
+        "B": "CHO",
+        "C": "OH",
+        "D": "CO"
+      },
+      "correctAnswer": "C",
+      "explanation": "Alcohols contain the hydroxyl functional group"
+    },
+    {
+      "id": "chem9-c13-q15",
+      "question": "The general formula of alkenes is:",
+      "options": {
+        "A": "CnH2n+2",
+        "B": "CnH2n",
+        "C": "CnH2n -2",
+        "D": "CnHn"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alkenes contain one double bond"
+    },
+    {
+      "id": "chem9-c13-q16",
+      "question": "Members of a homologous series have the same:",
+      "options": {
+        "A": "Molecular mass",
+        "B": "Number of atoms",
+        "C": "Physical s",
+        "D": "Functional tate group"
+      },
+      "correctAnswer": "D",
+      "explanation": "Functional group remains constant in a homologous series"
+    },
+    {
+      "id": "chem9-c13-q17",
+      "question": "Which class of compounds does NOT contain oxygen:",
+      "options": {
+        "A": "Alcohols",
+        "B": "Carboxylic ac",
+        "C": "ids    Aldehydes",
+        "D": "Alkanes"
+      },
+      "correctAnswer": "D",
+      "explanation": "Alkanes contain only carbon and hydrogen"
+    },
+    {
+      "id": "chem9-c13-q18",
+      "question": "Methane is the first member of which homologous series:",
+      "options": {
+        "A": "Alkenes",
+        "B": "Alkynes",
+        "C": "Alkanes",
+        "D": "Alcohols"
+      },
+      "correctAnswer": "C",
+      "explanation": "Methane is the simplest alkane"
+    },
+    {
+      "id": "chem9-c13-q19",
+      "question": "The functional group of carboxylic acids is:",
+      "options": {
+        "A": "COOH",
+        "B": "CHO",
+        "C": "OH",
+        "D": "CO"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carboxylic acids contain the –COOH group"
+    },
+    {
+      "id": "chem9-c13-q20",
+      "question": "Which property increases regularly in a homologous series:",
+      "options": {
+        "A": "Chemical reactivity",
+        "B": "Melting point",
+        "C": "Functional group",
+        "D": "Type of bond"
+      },
+      "correctAnswer": "B",
+      "explanation": "Physical properties show a regular trend"
+    },
+    {
+      "id": "chem9-c13-q21",
+      "question": "Which of the following does NOT form a homologous series:",
+      "options": {
+        "A": "Alkanes",
+        "B": "Alcohols",
+        "C": "Metals",
+        "D": "Carboxylic acids"
+      },
+      "correctAnswer": "C",
+      "explanation": "Homologous series are a feature of organic compounds"
+    },
+    {
+      "id": "chem9-c13-q22",
+      "question": "Chemical properties of homologous series members are:",
+      "options": {
+        "A": "Completely different",
+        "B": "Similar",
+        "C": "Unrelated",
+        "D": "Opposite"
+      },
+      "correctAnswer": "B",
+      "explanation": "The same functional group gives similar chemical behaviour"
+    },
+    {
+      "id": "chem9-c13-q23",
+      "question": "Alkynes have the general formula:",
+      "options": {
+        "A": "CnH2n",
+        "B": "CnH2n+2",
+        "C": "CnHn + 2",
+        "D": "CnH2n -2"
+      },
+      "correctAnswer": "D",
+      "explanation": "Alkynes contain a triple bond"
+    },
+    {
+      "id": "chem9-c13-q24",
+      "question": "The general formula of alkanes is:",
+      "options": {
+        "A": "CnH2n",
+        "B": "CnH2n -2",
+        "C": "CnH2n+2",
+        "D": "CnHn"
+      },
+      "correctAnswer": "C",
+      "explanation": "Alkanes are saturated hydrocarbons"
+    },
+    {
+      "id": "chem9-c13-q25",
+      "question": "Hydrocarbons are organic compounds that contain only:",
+      "options": {
+        "A": "Carbon and oxygen",
+        "B": "Carbon and hydrogen",
+        "C": "Hydrogen and nitrogen",
+        "D": "Carbon and sulphur"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hydrocarbons consist only of carbon and hydrogen atoms 26. Saturated hydrocarbons are Only single defined as hydrocarbons Double bonds Triple bonds Ionic bonds ○ ○ ○ ○ bonds having: Answer: (C) Only single bonds"
+    },
+    {
+      "id": "chem9-c13-q26",
+      "question": "Saturated hydrocarbons are defined as hydrocarbons having:",
+      "options": {
+        "A": "Double bonds      T",
+        "B": "On riple bonds b",
+        "C": "ly single Ion onds",
+        "D": "ic bonds"
+      },
+      "correctAnswer": "C",
+      "explanation": "Saturated hydrocarbons contain only C–C single bonds"
+    },
+    {
+      "id": "chem9-c13-q27",
+      "question": "Saturated hydrocarbons are also known as:",
+      "options": {
+        "A": "Alkenes",
+        "B": "Alkynes       Al",
+        "C": "kanes        Aro",
+        "D": "matics"
+      },
+      "correctAnswer": "C",
+      "explanation": "Alkanes are saturated hydrocarbons"
+    },
+    {
+      "id": "chem9-c13-q28",
+      "question": "In alkanes, each carbon atom forms:",
+      "options": {
+        "A": "Two bonds       T",
+        "B": "hree bonds    Fou",
+        "C": "r bonds      Fiv",
+        "D": "e bonds"
+      },
+      "correctAnswer": "C",
+      "explanation": "Carbon shows tetravalency in alkanes"
+    },
+    {
+      "id": "chem9-c13-q29",
+      "question": "Which of the following is a saturated hydrocarbon:",
+      "options": {
+        "A": "Ethene",
+        "B": "Ethyne       Pr",
+        "C": "opane          B",
+        "D": "utyne"
+      },
+      "correctAnswer": "C",
+      "explanation": "Propane contains only single bonds"
+    },
+    {
+      "id": "chem9-c13-q30",
+      "question": "Hydrocarbons containing carbon-carbon double bonds are called:",
+      "options": {
+        "A": "Alkenes",
+        "B": "Alkanes",
+        "C": "Alkynes",
+        "D": "Cycloalkanes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Double bonds indicate alkenes"
+    },
+    {
+      "id": "chem9-c13-q31",
+      "question": "Which hydrocarbon contains the maximum number of hydrogen atoms:",
+      "options": {
+        "A": "Alkanes",
+        "B": "Alkene",
+        "C": "Alkyne",
+        "D": "All equal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Saturated hydrocarbons contain the maximum amount of hydrogen"
+    },
+    {
+      "id": "chem9-c13-q32",
+      "question": "Which of the following They contain only single bonds statement correctly describes unsaturated hydrocarbons:",
+      "options": {
+        "A": "T They contain only single bonds",
+        "B": "hey contain T only single in bonds",
+        "C": "hey are      The organic      hyd",
+        "D": "y lack rogen"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9th Chemistry standards, the correct answer is (B) They contain only single bonds."
+    },
+    {
+      "id": "chem9-c13-q33",
+      "question": "The value of n in the formula CnH2n+2 represents:",
+      "options": {
+        "A": "Hydrogen Ox atoms",
+        "B": "ygen atoms    Bon",
+        "C": "d types     Carb",
+        "D": "on atoms"
+      },
+      "correctAnswer": "D",
+      "explanation": "n indicates the number of carbon atoms"
+    },
+    {
+      "id": "chem9-c13-q34",
+      "question": "Which of the following is an unsaturated hydrocarbon:",
+      "options": {
+        "A": "Methane",
+        "B": "Ethane       Pr",
+        "C": "opane          E",
+        "D": "thene"
+      },
+      "correctAnswer": "D",
+      "explanation": "Ethene contains a double bond Topic # 13.5 35. The chemical diversity of organic compounds is mainly Oxygen Carbon Nitrogen Sulphur ○ ○ ○ ○ due to the bonding nature of: Answer: (B) Carbon"
+    },
+    {
+      "id": "chem9-c13-q35",
+      "question": "The chemical diversity of organic compounds is mainly due to the bonding nature of:",
+      "options": {
+        "A": "Oxygen",
+        "B": "Carbon",
+        "C": "Nitrogen",
+        "D": "Sulphur"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbon forms a large variety of compounds due to its bonding ability"
+    },
+    {
+      "id": "chem9-c13-q36",
+      "question": "Carbon has how many electrons in its valence shell:",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctAnswer": "C",
+      "explanation": "Carbon has four valence electrons enabling four bonds"
+    },
+    {
+      "id": "chem9-c13-q37",
+      "question": "Carbon atoms can bond to each other to form long chains due to:",
+      "options": {
+        "A": "Catenation",
+        "B": "Polymerization",
+        "C": "Isomerism",
+        "D": "Hybridization"
+      },
+      "correctAnswer": "A",
+      "explanation": "Catenation is the self-linking ability of carbon"
+    },
+    {
+      "id": "chem9-c13-q38",
+      "question": "Which of the following element can form chains but only short ones:",
+      "options": {
+        "A": "Silicon",
+        "B": "Carbon",
+        "C": "Oxygen",
+        "D": "Nitrogen"
+      },
+      "correctAnswer": "A",
+      "explanation": "Silicon shows limited catenation compared to carbon"
+    },
+    {
+      "id": "chem9-c13-q39",
+      "question": "Compounds having same molecular formula but different structures are called:",
+      "options": {
+        "A": "Isotopes",
+        "B": "Polymers",
+        "C": "Homologues",
+        "D": "Structural isomers"
+      },
+      "correctAnswer": "D",
+      "explanation": "Structural isomers differ in atomic arrangement"
+    },
+    {
+      "id": "chem9-c13-q40",
+      "question": "The molecular formula of butane is:",
+      "options": {
+        "A": "C2H6",
+        "B": "C3H8",
+        "C": "C4H10",
+        "D": "C4H8"
+      },
+      "correctAnswer": "C",
+      "explanation": "Butane contains four carbon atoms"
+    },
+    {
+      "id": "chem9-c13-q41",
+      "question": "Which molecular formula shows structural isomerism among alkenes:",
+      "options": {
+        "A": "C2H4",
+        "B": "C3H6",
+        "C": "C4H8",
+        "D": "C5H12"
+      },
+      "correctAnswer": "C",
+      "explanation": "C4H8 forms 1-butene and 2-butene"
+    },
+    {
+      "id": "chem9-c13-q42",
+      "question": "Even when organic compounds have the same molecular formula, their number increases mainly due to:",
+      "options": {
+        "A": "Polymerization",
+        "B": "Isomerism",
+        "C": "Combustion",
+        "D": "Oxidation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Isomerism increases the number of organic compounds"
+    },
+    {
+      "id": "chem9-c13-q43",
+      "question": "Compounds having an open chain of carbon atoms are called:",
+      "options": {
+        "A": "Closed-chain",
+        "B": "Open-chain",
+        "C": "Cyclic",
+        "D": "Aromatic"
+      },
+      "correctAnswer": "B",
+      "explanation": "Open-chain compounds contain linear carbon chains"
+    },
+    {
+      "id": "chem9-c13-q44",
+      "question": "Another name used for open- chain compounds in the text is:",
+      "options": {
+        "A": "Aromatic",
+        "B": "Alicyclic",
+        "C": "Heterocyclic",
+        "D": "Cyclic"
+      },
+      "correctAnswer": "B",
+      "explanation": "Open-chain compounds are also called alicyclic as given in text"
+    },
+    {
+      "id": "chem9-c13-q45",
+      "question": "Which of the following is a straight-chain compound:",
+      "options": {
+        "A": "Isobutane",
+        "B": "Cyclopropane",
+        "C": "Benzene",
+        "D": "Propane"
+      },
+      "correctAnswer": "D",
+      "explanation": "Propane has a straight carbon chain"
+    },
+    {
+      "id": "chem9-c13-q46",
+      "question": "Alkyl radical differs from its parent alkane by:",
+      "options": {
+        "A": "1 carbon",
+        "B": "1 hydrogen less",
+        "C": "1 oxygen",
+        "D": "1 double bond"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alkyl radical has one hydrogen less than alkane"
+    },
+    {
+      "id": "chem9-c13-q47",
+      "question": "Organic compounds containing rings are called:",
+      "options": {
+        "A": "Open-chain",
+        "B": "Acyclic",
+        "C": "Closed-chain",
+        "D": "Aliphatic"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ring structures define closed-chain compounds"
+    },
+    {
+      "id": "chem9-c13-q48",
+      "question": "Cyclic compounds containing atoms other than carbon are called:",
+      "options": {
+        "A": "Carbocyclic",
+        "B": "Heterocyclic",
+        "C": "Open-chain",
+        "D": "Straight-chain"
+      },
+      "correctAnswer": "B",
+      "explanation": "Presence of hetero atoms defines heterocyclic compounds"
+    },
+    {
+      "id": "chem9-c13-q49",
+      "question": "Which of the following is a heterocyclic compound:",
+      "options": {
+        "A": "Cyclobutane",
+        "B": "Benzene",
+        "C": "Pyridine",
+        "D": "Propane"
+      },
+      "correctAnswer": "C",
+      "explanation": "Pyridine contains nitrogen in the ring"
+    },
+    {
+      "id": "chem9-c13-q50",
+      "question": "Functional groups mainly determine the:",
+      "options": {
+        "A": "Chemical properties",
+        "B": "Molecular weight",
+        "C": "Physical sta",
+        "D": "te      Density"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chemical behaviour depends on functional groups"
+    },
+    {
+      "id": "chem9-c13-q51",
+      "question": "Functional groups make the study of organic chemistry easier because:",
+      "options": {
+        "A": "They reduce reactions",
+        "B": "They limit compounds",
+        "C": "They classif compounds",
+        "D": "y    They remove isomers"
+      },
+      "correctAnswer": "C",
+      "explanation": "Functional groups help organize millions of organic compounds into manageable classes 52. Which of the following is Naming Site of Increasing NOT a role of functional Classification ○ ○ ○ ○ compounds reactivity atomic number groups: Answer: (D) Increasing atomic number"
+    },
+    {
+      "id": "chem9-c13-q52",
+      "question": "Which of the following is NOT a role of functional groups:",
+      "options": {
+        "A": "Naming compounds",
+        "B": "Classification",
+        "C": "Site of reactivity",
+        "D": "Increasing atomic number"
+      },
+      "correctAnswer": "D",
+      "explanation": "Functional groups affect chemical behaviour and classification, not the atomic number of elements"
+    },
+    {
+      "id": "chem9-c13-q53",
+      "question": "The most reactive part of an organic molecule is the:",
+      "options": {
+        "A": "Carbon chain",
+        "B": "Alkyl group",
+        "C": "Functional group",
+        "D": "Hydrogen atom"
+      },
+      "correctAnswer": "C",
+      "explanation": "Functional group is the active site"
+    },
+    {
+      "id": "chem9-c13-q54",
+      "question": "Haloalkanes contain which of the following functional groups:",
+      "options": {
+        "A": "OH",
+        "B": "COOH",
+        "C": "NH2",
+        "D": "Halogen atom"
+      },
+      "correctAnswer": "D",
+      "explanation": "Haloalkanes have halogen substitution"
+    },
+    {
+      "id": "chem9-c13-q55",
+      "question": "In haloalkanes, a halogen atom replaces which atom of the parent alkane:",
+      "options": {
+        "A": "Carbon",
+        "B": "Oxygen",
+        "C": "Nitrogen",
+        "D": "Hydrogen"
+      },
+      "correctAnswer": "D",
+      "explanation": "In haloalkanes, one hydrogen atom of an alkane is substituted by a halogen atom"
+    },
+    {
+      "id": "chem9-c13-q56",
+      "question": "The general formula of alcohols is:",
+      "options": {
+        "A": "RH",
+        "B": "RCOOH",
+        "C": "ROH",
+        "D": "RNH2"
+      },
+      "correctAnswer": "C",
+      "explanation": "Alcohols contain OH attached to alkyl group"
+    },
+    {
+      "id": "chem9-c13-q57",
+      "question": "When OH group is attached to a benzene ring, it is called",
+      "options": {
+        "A": "Phenol :",
+        "B": "Alcohol",
+        "C": "Ether",
+        "D": "Ester"
+      },
+      "correctAnswer": "A",
+      "explanation": "When a hydroxyl group is directly attached to a benzene ring, the compound is classified as phenol"
+    },
+    {
+      "id": "chem9-c13-q58",
+      "question": "Phenol was historically used mainly as:",
+      "options": {
+        "A": "Fertilizer",
+        "B": "Fuel",
+        "C": "Solvent",
+        "D": "Antiseptic"
+      },
+      "correctAnswer": "D",
+      "explanation": "Phenol was the first chemical compound used as an antiseptic before modern disinfectants were developed"
+    },
+    {
+      "id": "chem9-c13-q59",
+      "question": "Aldehydes and ketones both contain:",
+      "options": {
+        "A": "Hydroxyl group",
+        "B": "Amino group",
+        "C": "Carbonyl group",
+        "D": "Carboxyl group"
+      },
+      "correctAnswer": "C",
+      "explanation": "Both aldehydes and ketones contain the carbonyl group with a carbon–oxygen double bond"
+    },
+    {
+      "id": "chem9-c13-q60",
+      "question": "Ethers are characterized by the presence of which type of linkage in their molecules:",
+      "options": {
+        "A": "COOH",
+        "B": "C–O–C",
+        "C": "C=O",
+        "D": "NH2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ethers contain an oxygen atom bonded to two carbon atoms, forming a C–O–C linkage"
+    },
+    {
+      "id": "chem9-c13-q61",
+      "question": "The general formula that represents ethers with two alkyl groups bonded to oxygen is:",
+      "options": {
+        "A": "ROR'",
+        "B": "ROH",
+        "C": "RCOOH",
+        "D": "RNH2"
+      },
+      "correctAnswer": "A",
+      "explanation": "In ethers, an oxygen atom is bonded to two alkyl groups, which may be the same or different"
+    },
+    {
+      "id": "chem9-c13-q62",
+      "question": "Which of the following is the general formula of ketones:",
+      "options": {
+        "A": "RCOOH",
+        "B": "RCHO",
+        "C": "ROH",
+        "D": "RCOR'"
+      },
+      "correctAnswer": "D",
+      "explanation": "Ketone carbonyl is bonded to two alkyl groups"
+    },
+    {
+      "id": "chem9-c13-q63",
+      "question": "Acetone is classified as which type of organic compound based on its functional group:",
+      "options": {
+        "A": "Aldehyde",
+        "B": "Alcohol",
+        "C": "Ketone",
+        "D": "Ester"
+      },
+      "correctAnswer": "C",
+      "explanation": "Acetone contains a carbonyl group bonded to two alkyl groups, which is characteristic of ketones"
+    },
+    {
+      "id": "chem9-c13-q64",
+      "question": "Formic acid is known by which systematic chemical name:",
+      "options": {
+        "A": "Ethanoic acid",
+        "B": "Methanoic acid",
+        "C": "Propanoic acid",
+        "D": "Butanoic acid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Formic acid contains one carbon atom, so its IUPAC name is methanoic acid"
+    },
+    {
+      "id": "chem9-c13-q65",
+      "question": "Methyl ethanoate belongs to which class of organic compounds:",
+      "options": {
+        "A": "Ester",
+        "B": "Ether",
+        "C": "Aldehyde",
+        "D": "Ketone"
+      },
+      "correctAnswer": "A",
+      "explanation": "Methyl ethanoate contains the ester functional group formed from an acid and an alcohol"
+    },
+    {
+      "id": "chem9-c13-q66",
+      "question": "Ethanamide is classified under which class of organic compounds:",
+      "options": {
+        "A": "Amides",
+        "B": "Esters",
+        "C": "Amines",
+        "D": "Alcohols"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ethanamide contains the CONH2 functional group, which defines amides"
+    },
+    {
+      "id": "chem9-c13-q67",
+      "question": "Organic synthesis mainly involves which type of chemical transformation:",
+      "options": {
+        "A": "Combustion",
+        "B": "Polymerization",
+        "C": "Functional group interconversion",
+        "D": "Neutralization"
+      },
+      "correctAnswer": "C",
+      "explanation": "Organic synthesis primarily involves converting one functional group into another"
+    },
+    {
+      "id": "chem9-c13-q68",
+      "question": "Methylamine belongs to which class based on its functional group:",
+      "options": {
+        "A": "Alcohol",
+        "B": "Amine",
+        "C": "Ether",
+        "D": "Aldehyde"
+      },
+      "correctAnswer": "B",
+      "explanation": "Methylamine contains an NH2 group, which classifies it as an amine"
+    },
+    {
+      "id": "chem9-c13-q69",
+      "question": "The general formula that represents amines is:",
+      "options": {
+        "A": "RCOOH",
+        "B": "ROH",
+        "C": "RNH2",
+        "D": "ROR"
+      },
+      "correctAnswer": "C",
+      "explanation": "Amines consist of an alkyl group attached to an amino group NH2"
+    }
+  ]
+}

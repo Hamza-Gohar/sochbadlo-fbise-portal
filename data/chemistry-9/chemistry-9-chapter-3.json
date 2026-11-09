@@ -1,0 +1,1522 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 3,
+  "chapterTitle": "Unit 03: Atomic Structure & Electronic Configuration",
+  "slug": "chemistry-9-chapter-3",
+  "description": "Subatomic particles (protons, neutrons, electrons), Thomson, Rutherford, and Bohr models, atomic number, mass number, isotopes, and electronic configuration (Aufbau principle).",
+  "totalQuestions": 126,
+  "questions": [
+    {
+      "id": "chem9-c3-q1",
+      "question": "Atoms of a particular elements have the same:",
+      "options": {
+        "A": "Colour and texture",
+        "B": "Mass and volume",
+        "C": "Charge and spin",
+        "D": "Shape and size"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dalton said identical atoms have the same mass and volume."
+    },
+    {
+      "id": "chem9-c3-q2",
+      "question": "Atoms can neither be created nor destroyed according to:",
+      "options": {
+        "A": "Law of conservation of mass",
+        "B": "Law of multiple proportions",
+        "C": "Law of definite proportions",
+        "D": "Law of constant energy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dalton’s theory supported the law of conservation of mass."
+    },
+    {
+      "id": "chem9-c3-q3",
+      "question": "The indivisibility of atoms was disproved by the discovery of:",
+      "options": {
+        "A": "Molecules",
+        "B": "Subatomic particles",
+        "C": "Isotopes",
+        "D": "Electromagnetic waves"
+      },
+      "correctAnswer": "B",
+      "explanation": "Electrons, protons, and neutrons proved that atoms are divisible."
+    },
+    {
+      "id": "chem9-c3-q4",
+      "question": "The charge on an alpha particle is:",
+      "options": {
+        "A": "Single charged",
+        "B": "Double charged",
+        "C": "Neutral",
+        "D": "Negative"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alpha particles carry a +2 charge."
+    },
+    {
+      "id": "chem9-c3-q5",
+      "question": "The source of alpha particles used by Rutherford was:",
+      "options": {
+        "A": "Uranium",
+        "B": "Radium",
+        "C": "Polonium",
+        "D": "Thorium"
+      },
+      "correctAnswer": "C",
+      "explanation": "Rutherford used alpha particles from disintegration of polonium."
+    },
+    {
+      "id": "chem9-c3-q6",
+      "question": "The large deflection of some alpha particles was due to:",
+      "options": {
+        "A": "Collisions with electrons",
+        "B": "Electrostatic repulsion with positive charge",
+        "C": "Magnetic fields",
+        "D": "Random scattering"
+      },
+      "correctAnswer": "B",
+      "explanation": "Deflection occurred due to repulsion between positive charges."
+    },
+    {
+      "id": "chem9-c3-q7",
+      "question": "The continuous emission of energy by electrons would cause:",
+      "options": {
+        "A": "Expansion of orbit",
+        "B": "Collapse of atom",
+        "C": "Ionization of atom",
+        "D": "Stability of atom"
+      },
+      "correctAnswer": "B",
+      "explanation": "Losing energy would make electrons fall into the nucleus."
+    },
+    {
+      "id": "chem9-c3-q8",
+      "question": "The main drawback of Rutherford’s atomic model arises because:",
+      "options": {
+        "A": "Electrons fall int the nucleus",
+        "B": "o    The nucleus was too large",
+        "C": "Alpha particles were unstable",
+        "D": "Atom was neutral"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rutherford’s model failed to explain why electrons don’t collapse into the nucleus."
+    },
+    {
+      "id": "chem9-c3-q9",
+      "question": "Each orbit in Bohr’s model is also known as an:",
+      "options": {
+        "A": "Orbiton",
+        "B": "Energy level",
+        "C": "Shell particle",
+        "D": "Sublevel"
+      },
+      "correctAnswer": "B",
+      "explanation": "Because every orbit has a definite energy, it is called an energy level."
+    },
+    {
+      "id": "chem9-c3-q10",
+      "question": "Planck’s constant (h) has the value:",
+      "options": {
+        "A": "3.00×10⁸ J·s",
+        "B": "6.626×10⁻³⁴ J·s",
+        "C": "9.11×10⁻³¹ J·s",
+        "D": "1.67×10⁻²⁷ J·s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bohr used Planck’s constant to define quantized energy levels."
+    },
+    {
+      "id": "chem9-c3-q11",
+      "question": "When an electron jumps to a higher orbit, it:",
+      "options": {
+        "A": "Emits energy",
+        "B": "Stays constant",
+        "C": "Loses angular momentum",
+        "D": "Absorbs energy"
+      },
+      "correctAnswer": "D",
+      "explanation": "Moving to a higher energy level requires absorption of energy."
+    },
+    {
+      "id": "chem9-c3-q12",
+      "question": "The angular momentum of an electron in nth orbit is:",
+      "options": {
+        "A": "n × h/2π",
+        "B": "n² × h",
+        "C": "n × hλ",
+        "D": "h/n"
+      },
+      "correctAnswer": "A",
+      "explanation": "Quantization of angular momentum was Bohr’s key postulate."
+    },
+    {
+      "id": "chem9-c3-q13",
+      "question": "The total energy of an electron in orbit is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Negative energy indicates electrons are bound to the nucleus."
+    },
+    {
+      "id": "chem9-c3-q14",
+      "question": "Instead of orbits, the Quantum Mechanical Model introduces:",
+      "options": {
+        "A": "Energy shells",
+        "B": "Orbitals",
+        "C": "Nucleus",
+        "D": "Atomic radii"
+      },
+      "correctAnswer": "B",
+      "explanation": "Orbitals represent 3D regions where the probability of finding an electron is highest."
+    },
+    {
+      "id": "chem9-c3-q15",
+      "question": "The energy of an electron in an orbit depends on:",
+      "options": {
+        "A": "Its mass",
+        "B": "Its distance from the nucleus",
+        "C": "Nuclear charge only",
+        "D": "The atomic number"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bohr stated that energy increases with distance from the nucleus. Lower its 16. The farther an electron is Greater its from the nucleus, the: Lesser its energy energy angular Smaller its orbit ○ ○ ○ ○ momentum"
+    },
+    {
+      "id": "chem9-c3-q16",
+      "question": "The farther an electron is from the nucleus, the:",
+      "options": {
+        "A": "Lesser its energy",
+        "B": "Greater its energy",
+        "C": "Lower its angular momentum",
+        "D": "Smaller its orbit"
+      },
+      "correctAnswer": "B",
+      "explanation": "Energy and orbital radius are directly proportional in Bohr’s model."
+    },
+    {
+      "id": "chem9-c3-q17",
+      "question": "The more accurately the position of an electron is known, the:",
+      "options": {
+        "A": "More accurately its momentum is known",
+        "B": "Less accurately, its momentum is known",
+        "C": "Greater its mass becomes",
+        "D": "Lower its energy becomes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Precise knowledge of one property increases uncertainty in the other."
+    },
+    {
+      "id": "chem9-c3-q18",
+      "question": "The Uncertainty Principle replaced the concept of:",
+      "options": {
+        "A": "Definite orbits",
+        "B": "Atomic nucleus",
+        "C": "Quantized energy",
+        "D": "Electric charge"
+      },
+      "correctAnswer": "A",
+      "explanation": "The classical orbit model was replaced by probabilistic orbitals."
+    },
+    {
+      "id": "chem9-c3-q19",
+      "question": "The Uncertainty Principle shows that electrons have:",
+      "options": {
+        "A": "Fixed energy and position",
+        "B": "Wave-particle duality",
+        "C": "Purely particl nature",
+        "D": "e     Purely wave nature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Electrons act both as particles and waves, leading to inherent uncertainty."
+    },
+    {
+      "id": "chem9-c3-q20",
+      "question": "The uncertainty principle demonstrates that electrons:",
+      "options": {
+        "A": "Have a fixed orbi radius",
+        "B": "t      Remain motionless",
+        "C": "Cannot have a definite trajectory",
+        "D": "Move in straight lines"
+      },
+      "correctAnswer": "C",
+      "explanation": "Because position and momentum are uncertain, exact trajectories don’t exist."
+    },
+    {
+      "id": "chem9-c3-q21",
+      "question": "The inability to determine electron paths led to the idea of:",
+      "options": {
+        "A": "Orbitals",
+        "B": "Shells",
+        "C": "Valence bonds",
+        "D": "Atomic number"
+      },
+      "correctAnswer": "A",
+      "explanation": "Orbitals describe the probable zones of electron existence."
+    },
+    {
+      "id": "chem9-c3-q22",
+      "question": "Which of the following is not true about atomic models?",
+      "options": {
+        "A": "They are physical replicas of atoms",
+        "B": "They are conceptual ideas",
+        "C": "They evolve over time",
+        "D": "They simplify atomic complexity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Atomic models are abstract representations, not physical miniatures."
+    },
+    {
+      "id": "chem9-c3-q23",
+      "question": "Conceptually, an atomic model helps predict:",
+      "options": {
+        "A": "Atomic masses",
+        "B": "Color of compounds",
+        "C": "Bond length of molecules",
+        "D": "Chemical behaviour of elements"
+      },
+      "correctAnswer": "D",
+      "explanation": "Models provide insights into how atoms interact in chemical reactions. It’s an imaginary It’s a It’s a solid It’s an actual 24. Which statement best drawing of an microscope ○ ○ ○ ○ metal sphere atom in the lab describes an atomic model? atom image"
+    },
+    {
+      "id": "chem9-c3-q24",
+      "question": "It 24. Which statement best       dra describes an atomic model? ato",
+      "options": {
+        "A": "’s an imaginary wing of an m",
+        "B": "It’s a solid metal sphere",
+        "C": "It’s an actual atom in the lab",
+        "D": "It’s a microscope image"
+      },
+      "correctAnswer": "A",
+      "explanation": "It represents the atom conceptually to help explain observations."
+    },
+    {
+      "id": "chem9-c3-q25",
+      "question": "Atomic models bridge the gap between:",
+      "options": {
+        "A": "Hypothesis and law",
+        "B": "Observation and understanding",
+        "C": "Physics and math",
+        "D": "Energy and light"
+      },
+      "correctAnswer": "A",
+      "explanation": "They connect experimental results with theoretical interpretations."
+    },
+    {
+      "id": "chem9-c3-q26",
+      "question": "Atomic models are essential because they:",
+      "options": {
+        "A": "Prove all laws of chemistry",
+        "B": "Measure energy directly",
+        "C": "Provide a framework for atomic understanding",
+        "D": "Eliminate the need for experiments"
+      },
+      "correctAnswer": "C",
+      "explanation": "They act as theoretical tools to interpret atomic and molecular behaviour."
+    },
+    {
+      "id": "chem9-c3-q27",
+      "question": "Despite repulsion between protons, nuclei remain stable because of:",
+      "options": {
+        "A": "Electrostatic attraction",
+        "B": "Magnetic force",
+        "C": "Strong nuclear force",
+        "D": "Gravitational pull"
+      },
+      "correctAnswer": "C",
+      "explanation": "The strong nuclear force overcomes proton–proton repulsion to stabilize the nucleus."
+    },
+    {
+      "id": "chem9-c3-q28",
+      "question": "The strong nuclear force acts between:",
+      "options": {
+        "A": "Only protons",
+        "B": "Protons and electrons",
+        "C": "Neutrons and protons",
+        "D": "Electrons and neutrons"
+      },
+      "correctAnswer": "C",
+      "explanation": "It acts between all nucleons—proton–proton, neutron–proton, and neutron–neutron."
+    },
+    {
+      "id": "chem9-c3-q29",
+      "question": "The nuclear force becomes negligible when nucleons are:",
+      "options": {
+        "A": "Very close",
+        "B": "At large distances",
+        "C": "Moving slowly",
+        "D": "In excited states"
+      },
+      "correctAnswer": "B",
+      "explanation": "The strong force acts only over short ranges (~10⁻¹⁵ m)."
+    },
+    {
+      "id": "chem9-c3-q30",
+      "question": "The strong nuclear force does not act on:",
+      "options": {
+        "A": "Electrons",
+        "B": "Neutron– proton pairs",
+        "C": "Protons",
+        "D": "Neutrons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Electrons remain outside the nucleus and are not affected by nuclear forces."
+    },
+    {
+      "id": "chem9-c3-q31",
+      "question": "Which subatomic particle has the smallest mass?",
+      "options": {
+        "A": "Proton",
+        "B": "Neutron",
+        "C": "Electron",
+        "D": "Alpha particle"
+      },
+      "correctAnswer": "C",
+      "explanation": "The electron is approximately 1/1836 the mass of a proton. 1.6726×10⁻²⁷ 1.6749×10⁻³¹ 32. The mass of a proton is 9.11×10⁻³¹ kg 2.0×10⁻²⁷ kg ○ ○ ○ ○ kg kg approximately: Answer: (B) 1.6726×10⁻²⁷ kg"
+    },
+    {
+      "id": "chem9-c3-q32",
+      "question": "The mass of a proton is approximately:",
+      "options": {
+        "A": "9.11×10⁻³¹ kg",
+        "B": "1.6726×10⁻²⁷ kg",
+        "C": "1.6749×10⁻³¹ kg",
+        "D": "2.0×10⁻²⁷ kg"
+      },
+      "correctAnswer": "B",
+      "explanation": "Proton mass is ~1 atomic mass unit (amu), roughly 1.6726×10⁻²⁷ kg."
+    },
+    {
+      "id": "chem9-c3-q33",
+      "question": "Which force prevents the nucleus from breaking apart?",
+      "options": {
+        "A": "Gravitational force",
+        "B": "Electrostatic force",
+        "C": "Magnetic force",
+        "D": "Strong nuclear force"
+      },
+      "correctAnswer": "D",
+      "explanation": "Strong nuclear force overcomes proton–proton repulsion and stabilizes the nucleus."
+    },
+    {
+      "id": "chem9-c3-q34",
+      "question": "The charge-to-mass ratio of an electron is:",
+      "options": {
+        "A": "Smaller than proton",
+        "B": "Zero",
+        "C": "Positive and small",
+        "D": "Negative and very large"
+      },
+      "correctAnswer": "D",
+      "explanation": "Electrons’ charge is negative and its mass is extremely small compared to nucleons."
+    },
+    {
+      "id": "chem9-c3-q35",
+      "question": "The mass of an electron in atomic mass units (amu) is approximately:",
+      "options": {
+        "A": "1 amu",
+        "B": "1/1836 amu",
+        "C": "1/2 amu",
+        "D": "1836 amu"
+      },
+      "correctAnswer": "B",
+      "explanation": "Electron mass is tiny compared to protons and neutrons (~1/1836 amu)."
+    },
+    {
+      "id": "chem9-c3-q36",
+      "question": "The attraction between electrons and protons keeps atoms:",
+      "options": {
+        "A": "Neutral and stable",
+        "B": "Negatively charged",
+        "C": "Ionized",
+        "D": "Magnetic"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equal proton and electron numbers ensure atomic stability and neutrality."
+    },
+    {
+      "id": "chem9-c3-q37",
+      "question": "If the electrostatic attraction between protons and electrons vanished, atoms would:",
+      "options": {
+        "A": "Stay stable",
+        "B": "Disintegrate",
+        "C": "Gain neutrons",
+        "D": "Form ions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Without electrostatic force, electrons would escape, breaking the atom apart."
+    },
+    {
+      "id": "chem9-c3-q38",
+      "question": "In an electric field, protons are deflected toward the:",
+      "options": {
+        "A": "Positive plate",
+        "B": "Negative plate",
+        "C": "Remain stationary",
+        "D": "Magnetic pole"
+      },
+      "correctAnswer": "B",
+      "explanation": "Protons carry a positive charge, so they are attracted to the negative plate."
+    },
+    {
+      "id": "chem9-c3-q39",
+      "question": "When protons and electrons travel at the same L speed, electrons are deflected:",
+      "options": {
+        "A": "ess",
+        "B": "Equally",
+        "C": "More strongly",
+        "D": "Not at all"
+      },
+      "correctAnswer": "C",
+      "explanation": "Because of their lighter mass, electrons deviate more than heavy protons."
+    },
+    {
+      "id": "chem9-c3-q40",
+      "question": "If electrons and protons Cu move in opposite directions sa in an electric field, their paths will:",
+      "options": {
+        "A": "rve toward the me side",
+        "B": "Curves in opposite directions",
+        "C": "Remain straight",
+        "D": "Overlap completely"
+      },
+      "correctAnswer": "B",
+      "explanation": "Positive and negative particles bend in opposite directions due to opposite charges."
+    },
+    {
+      "id": "chem9-c3-q41",
+      "question": "Deflection of a charged particle in an electric field depends on:",
+      "options": {
+        "A": "Charge and mass",
+        "B": "Size only",
+        "C": "Temperature",
+        "D": "Volume"
+      },
+      "correctAnswer": "A",
+      "explanation": "The greater the charge and the smaller the mass, the greater the deflection."
+    },
+    {
+      "id": "chem9-c3-q42",
+      "question": "When the number of electrons equals the number of protons, the atom’s net charge is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Variable"
+      },
+      "correctAnswer": "C",
+      "explanation": "Equal but opposite charges cancel, resulting in zero net charge."
+    },
+    {
+      "id": "chem9-c3-q43",
+      "question": "In a neutral atom, removing a proton would make it:",
+      "options": {
+        "A": "Negative",
+        "B": "Positive",
+        "C": "Remain neutral",
+        "D": "Electrically unstable only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Removing a positive charge leaves an excess of electrons, creating a negative atom."
+    },
+    {
+      "id": "chem9-c3-q44",
+      "question": "Charge neutrality is maintained in an atom by:",
+      "options": {
+        "A": "Neutrons",
+        "B": "Equal protons and electrons",
+        "C": "Nuclear force",
+        "D": "External fields"
+      },
+      "correctAnswer": "B",
+      "explanation": "The balance between proton and electron charges keeps the atom neutral."
+    },
+    {
+      "id": "chem9-c3-q45",
+      "question": "Radioactive decay occurs when an atom has:",
+      "options": {
+        "A": "Equal protons and neutrons",
+        "B": "Unstable nucleus",
+        "C": "Balanced energy",
+        "D": "No electrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Unstable combinations of neutrons and protons cause decay."
+    },
+    {
+      "id": "chem9-c3-q46",
+      "question": "Hydrogen-3 (tritium) is an example of a:",
+      "options": {
+        "A": "Stable isotope",
+        "B": "Radioisotope",
+        "C": "Ion",
+        "D": "Neutral atom"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tritium is a radioactive form of hydrogen with two neutrons."
+    },
+    {
+      "id": "chem9-c3-q47",
+      "question": "The number of protons in isotopes of an element is:",
+      "options": {
+        "A": "Always the same",
+        "B": "Always different",
+        "C": "Zero",
+        "D": "Variable"
+      },
+      "correctAnswer": "A",
+      "explanation": "Protons define the element, so their number remains constant."
+    },
+    {
+      "id": "chem9-c3-q48",
+      "question": "Carbon-14 is widely used in:",
+      "options": {
+        "A": "Food preservation",
+        "B": "Radiocarbon dating",
+        "C": "Industrial cleaning",
+        "D": "Nuclear shielding"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbon-14 helps estimate the age of ancient organic materials. Chemically Electrically Electron Nuclear 49. Uranium-238 is a ○ ○ ○ ○ unstable unstable deficient unstable radioisotope that is: Answer: (D) Nuclear unstable"
+    },
+    {
+      "id": "chem9-c3-q49",
+      "question": "Uranium-238 is a radioisotope that is:",
+      "options": {
+        "A": "Chemically unstable",
+        "B": "Electrically unstable",
+        "C": "Electron deficient        u",
+        "D": "Nuclear nstable"
+      },
+      "correctAnswer": "D",
+      "explanation": "Uranium-238 has an unstable nucleus that undergoes radioactive decay."
+    },
+    {
+      "id": "chem9-c3-q50",
+      "question": "In a neutral atom, the number of protons equals the number of:",
+      "options": {
+        "A": "Neutrons",
+        "B": "Electrons",
+        "C": "Nucleons",
+        "D": "Photons"
+      },
+      "correctAnswer": "B",
+      "explanation": "An equal numbers of protons and electrons balance the atom’s charge."
+    },
+    {
+      "id": "chem9-c3-q51",
+      "question": "The atom of hydrogen has how many protons?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hydrogen’s nucleus contains a single proton, so Z = 1."
+    },
+    {
+      "id": "chem9-c3-q52",
+      "question": "The atomic number of carbon is 6, meaning it has:",
+      "options": {
+        "A": "6 protons",
+        "B": "12 protons",
+        "C": "6 neutrons",
+        "D": "12 electrons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carbon’s atomic number equals its six positively charged protons."
+    },
+    {
+      "id": "chem9-c3-q53",
+      "question": "The number of electrons in a neutral oxygen atom is:",
+      "options": {
+        "A": "6",
+        "B": "8",
+        "C": "10",
+        "D": "12"
+      },
+      "correctAnswer": "B",
+      "explanation": "Oxygen has 8 protons, so it also has 8 electrons."
+    },
+    {
+      "id": "chem9-c3-q54",
+      "question": "The atomic number of an ion changes only when:",
+      "options": {
+        "A": "Electrons are lost",
+        "B": "Neutrons change",
+        "C": "Protons change",
+        "D": "It reacts chemically"
+      },
+      "correctAnswer": "C",
+      "explanation": "Only altering proton count changes the element’s atomic number."
+    },
+    {
+      "id": "chem9-c3-q55",
+      "question": "The number of protons defines the element’s:",
+      "options": {
+        "A": "Position in the periodic table",
+        "B": "Atomic mass",
+        "C": "Isotopic variation",
+        "D": "Ionization energy"
+      },
+      "correctAnswer": "A",
+      "explanation": "The proton count determines the element’s exact position."
+    },
+    {
+      "id": "chem9-c3-q56",
+      "question": "Which of the following elements has 20 protons?",
+      "options": {
+        "A": "Magnesium",
+        "B": "Sodium",
+        "C": "Potassium",
+        "D": "Calcium"
+      },
+      "correctAnswer": "D",
+      "explanation": "Calcium’s atomic number is 20."
+    },
+    {
+      "id": "chem9-c3-q57",
+      "question": "In neutral atoms, the proton number also indicates:",
+      "options": {
+        "A": "Neutron number",
+        "B": "Electron number",
+        "C": "Mass",
+        "D": "Energy level"
+      },
+      "correctAnswer": "B",
+      "explanation": "Neutral atoms have equal numbers of protons and electrons."
+    },
+    {
+      "id": "chem9-c3-q58",
+      "question": "Elements with the same number of protons but different neutrons are called:",
+      "options": {
+        "A": "Isotopes",
+        "B": "Ions",
+        "C": "Isomers",
+        "D": "Compounds"
+      },
+      "correctAnswer": "A",
+      "explanation": "Isotopes differ only in neutron count, not proton count."
+    },
+    {
+      "id": "chem9-c3-q59",
+      "question": "What do we call the phenomenon in which an unstable nucleus emits particles to become more stable?",
+      "options": {
+        "A": "Nuclear fusion",
+        "B": "Radioactive decay",
+        "C": "Ionization",
+        "D": "Chemical reaction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Radioactive decay is the process by which unstable nuclei emit particles until they reach stability"
+    },
+    {
+      "id": "chem9-c3-q60",
+      "question": "Which statement best describes radioactive decay?",
+      "options": {
+        "A": "It decreases atomic mass only",
+        "B": "It increases nuclear force",
+        "C": "It increases atomic stability",
+        "D": "It maintains isotopic composition"
+      },
+      "correctAnswer": "C",
+      "explanation": "Decay continues until stability is reached"
+    },
+    {
+      "id": "chem9-c3-q61",
+      "question": "Why does C-14 exist in living organisms?",
+      "options": {
+        "A": "They produce it internally",
+        "B": "They consume fossil fuels",
+        "C": "They absorb atmospheric CO₂",
+        "D": "They form it during respiration"
+      },
+      "correctAnswer": "C",
+      "explanation": "Organisms take in CO₂ containing C-14"
+    },
+    {
+      "id": "chem9-c3-q62",
+      "question": "Uranium-238 eventually becomes ______ after its decay series",
+      "options": {
+        "A": "Lead-206",
+        "B": "Iron-56",
+        "C": "Carbon-12",
+        "D": "Nitrogen-14"
+      },
+      "correctAnswer": "A",
+      "explanation": "U-238 decays through steps to stable Pb-206"
+    },
+    {
+      "id": "chem9-c3-q63",
+      "question": "Carbon-14 transforms into which element after decay?",
+      "options": {
+        "A": "Oxygen-14",
+        "B": "Helium-4",
+        "C": "Nitrogen-14",
+        "D": "Carbon-12"
+      },
+      "correctAnswer": "C",
+      "explanation": "C-14 decays to N-14 via beta decay"
+    },
+    {
+      "id": "chem9-c3-q64",
+      "question": "Relative atomic mass compares the mass of an atom to the mass of which isotope?",
+      "options": {
+        "A": "Hydrogen-1",
+        "B": "Carbon-12",
+        "C": "Nitrogen-14",
+        "D": "Oxygen-16"
+      },
+      "correctAnswer": "B",
+      "explanation": "The C-12 isotope is the agreed international reference for comparing all atomic masses 65. Which instrument Optical Electron Mass accurately determined Atomic clock ○ ○ ○ ○ spectrometer microscope spectrometer the mass of the C-12 isotope? Answer: (D) Mass spectrometer"
+    },
+    {
+      "id": "chem9-c3-q65",
+      "question": "Which instrument accurately determined the mass of the C-12 isotope?",
+      "options": {
+        "A": "Optical spectrometer",
+        "B": "Electron microscope",
+        "C": "Atomic clock s",
+        "D": "Mass pectrometer"
+      },
+      "correctAnswer": "D",
+      "explanation": "Mass spectrometers precisely measure atomic and molecular masses using charged particle separation"
+    },
+    {
+      "id": "chem9-c3-q66",
+      "question": "The mass of other elements is compared to C-12 to determine their _____.",
+      "options": {
+        "A": "Atomic number",
+        "B": "Relative atomic mass",
+        "C": "Electron configuratio n",
+        "D": "Chemical reactivity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Relative atomic mass is a comparison of an atom’s mass with the mass of C-12"
+    },
+    {
+      "id": "chem9-c3-q67",
+      "question": "Carbon-12 is described as a “light isotope” because it",
+      "options": {
+        "A": "Has few electrons",
+        "B": "Has the lowest mass among carbons",
+        "C": "Emits       B photons",
+        "D": "reaks down easily"
+      },
+      "correctAnswer": "B",
+      "explanation": "C-12 is the lightest stable isotope of carbon used as a mass reference"
+    },
+    {
+      "id": "chem9-c3-q68",
+      "question": "The C-12 isotope contains how many neutrons",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "12"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbon-12 has 6 protons and 6 neutrons, giving it mass number 12"
+    },
+    {
+      "id": "chem9-c3-q69",
+      "question": "Relative atomic mass uses C-12 as the baseline because its mass is",
+      "options": {
+        "A": "Exactly defined",
+        "B": "Variable under conditions",
+        "C": "Unknown",
+        "D": "Very large"
+      },
+      "correctAnswer": "A",
+      "explanation": "The mass of C-12 is fixed at exactly 12 amu, serving as a perfect reference"
+    },
+    {
+      "id": "chem9-c3-q70",
+      "question": "Why is the mass of electrons ignored in atomic mass calculations",
+      "options": {
+        "A": "Electrons have no mass",
+        "B": "Electrons are unstable",
+        "C": "Electron mass E is extremely small",
+        "D": "lectron move too fast"
+      },
+      "correctAnswer": "C",
+      "explanation": "Electron mass is negligible compared to protons and neutrons."
+    },
+    {
+      "id": "chem9-c3-q71",
+      "question": "Isotopes differ from one another in their _____.",
+      "options": {
+        "A": "Protons",
+        "B": "Electrons",
+        "C": "Neutrons",
+        "D": "Charge"
+      },
+      "correctAnswer": "C",
+      "explanation": "Isotopes have different numbers of neutrons, causing different mass numbers."
+    },
+    {
+      "id": "chem9-c3-q72",
+      "question": "Isotopes have different mass numbers because they have different _____.",
+      "options": {
+        "A": "Neutrons",
+        "B": "Protons",
+        "C": "Electrons",
+        "D": "Charge"
+      },
+      "correctAnswer": "A",
+      "explanation": "Variation in neutron count changes the mass number."
+    },
+    {
+      "id": "chem9-c3-q73",
+      "question": "Why are isotopes considered atoms of the same element?",
+      "options": {
+        "A": "They have same mass",
+        "B": "They have same protons",
+        "C": "They have       T same neutrons       el",
+        "D": "hey have same ectrons only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Identity of an element comes from its number of protons, which isotopes share."
+    },
+    {
+      "id": "chem9-c3-q74",
+      "question": "Which hydrogen isotope contains no neutrons?",
+      "options": {
+        "A": "Deuterium",
+        "B": "Tritium",
+        "C": "Protium       He",
+        "D": "avy hydrogen"
+      },
+      "correctAnswer": "C",
+      "explanation": "Protium (H-1) consists of only one proton and no neutron."
+    },
+    {
+      "id": "chem9-c3-q75",
+      "question": "Why is tritium rare in nature?",
+      "options": {
+        "A": "It dissolves in water easily",
+        "B": "It forms metals",
+        "C": "It reacts     It instantly with air",
+        "D": "s nucleus is highly unstable"
+      },
+      "correctAnswer": "D",
+      "explanation": "Tritium is radioactive and decays rapidly due to instability."
+    },
+    {
+      "id": "chem9-c3-q76",
+      "question": "Water containing deuterium instead of protium is called _____.",
+      "options": {
+        "A": "Soft water",
+        "B": "Heavy water",
+        "C": "Mineral water",
+        "D": "Tritium water"
+      },
+      "correctAnswer": "B",
+      "explanation": "When H-2 replaces H-1 in water, it becomes heavy water (D₂O)."
+    },
+    {
+      "id": "chem9-c3-q77",
+      "question": "What is the melting point of heavy water?",
+      "options": {
+        "A": "0°C",
+        "B": "1.01°C",
+        "C": "3.81°C",
+        "D": "−1°C"
+      },
+      "correctAnswer": "C",
+      "explanation": "Heavy water has a slightly higher melting point than normal water."
+    },
+    {
+      "id": "chem9-c3-q78",
+      "question": "The boiling point of heavy water is _____.",
+      "options": {
+        "A": "100°C",
+        "B": "101.2°C",
+        "C": "99°C",
+        "D": "102.5°C"
+      },
+      "correctAnswer": "B",
+      "explanation": "Heavy water boils at 101.2°C due to increased mass."
+    },
+    {
+      "id": "chem9-c3-q79",
+      "question": "Which hydrogen isotope is radioactive?",
+      "options": {
+        "A": "Tritium",
+        "B": "Protium",
+        "C": "Deuterium",
+        "D": "None"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tritium is the only radioactive isotope of hydrogen."
+    },
+    {
+      "id": "chem9-c3-q80",
+      "question": "Why is heavy water heavier than normal water?",
+      "options": {
+        "A": "It contains helium",
+        "B": "It contains deuterium",
+        "C": "It contains     I extra oxygen",
+        "D": "t has more electrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Replacing H-1 with heavier H-2 increases its mass."
+    },
+    {
+      "id": "chem9-c3-q81",
+      "question": "What is the neutron count in deuterium?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correctAnswer": "B",
+      "explanation": "Deuterium has one neutron, giving it mass number 2."
+    },
+    {
+      "id": "chem9-c3-q82",
+      "question": "Deuterium naturally occurs in hydrogen at about _____.",
+      "options": {
+        "A": "1%",
+        "B": "0.1%",
+        "C": "5%",
+        "D": "0.0015%"
+      },
+      "correctAnswer": "D",
+      "explanation": "Deuterium exists in extremely small proportions naturally."
+    },
+    {
+      "id": "chem9-c3-q83",
+      "question": "Almost all naturally occurring carbon is _____.",
+      "options": {
+        "A": "Carbon-12",
+        "B": "Carbon-13",
+        "C": "Carbon-14",
+        "D": "Carbon-15"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carbon-12 makes up the majority of carbon in nature."
+    },
+    {
+      "id": "chem9-c3-q84",
+      "question": "Which carbon isotope is used in radiocarbon dating?",
+      "options": {
+        "A": "Carbon-12",
+        "B": "Carbon-13",
+        "C": "Carbon-14",
+        "D": "Carbon-15"
+      },
+      "correctAnswer": "C",
+      "explanation": "Carbon-14 decays over time and is used to date ancient objects."
+    },
+    {
+      "id": "chem9-c3-q85",
+      "question": "How many protons are there in all carbon isotopes?",
+      "options": {
+        "A": "12",
+        "B": "6",
+        "C": "13",
+        "D": "14"
+      },
+      "correctAnswer": "B",
+      "explanation": "All carbon isotopes have 6 protons."
+    },
+    {
+      "id": "chem9-c3-q86",
+      "question": "How many natural isotopes does chlorine have?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chlorine has two naturally occurring isotopes: chlorine-35 and chlorine-37."
+    },
+    {
+      "id": "chem9-c3-q87",
+      "question": "How many protons are present in chlorine-35?",
+      "options": {
+        "A": "17",
+        "B": "18",
+        "C": "20              3",
+        "D": "5"
+      },
+      "correctAnswer": "A",
+      "explanation": "All chlorine isotopes have 17 protons."
+    },
+    {
+      "id": "chem9-c3-q88",
+      "question": "Chlorine is fairly soluble in _____.",
+      "options": {
+        "A": "Oil",
+        "B": "Alcohol",
+        "C": "Gas             Wa",
+        "D": "ter"
+      },
+      "correctAnswer": "D",
+      "explanation": "Chlorine dissolves moderately in water."
+    },
+    {
+      "id": "chem9-c3-q89",
+      "question": "Chlorine-37 occurs in nature approximately _____.",
+      "options": {
+        "A": "25%",
+        "B": "50%",
+        "C": "75%",
+        "D": "100%"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chlorine-37 is less abundant, about 25%."
+    },
+    {
+      "id": "chem9-c3-q90",
+      "question": "Which isotope of chlorine is more abundant in nature?",
+      "options": {
+        "A": "Chlorine-35",
+        "B": "Chlorine-37       Bo",
+        "C": "th equal         No",
+        "D": "ne"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chlorine-35 occurs about 75% naturally, making it more abundant."
+    },
+    {
+      "id": "chem9-c3-q91",
+      "question": "How many neutrons does chlorine-37 have?",
+      "options": {
+        "A": "17",
+        "B": "18",
+        "C": "20",
+        "D": "37"
+      },
+      "correctAnswer": "C",
+      "explanation": "Chlorine-37 has 17 protons and 20 neutrons."
+    },
+    {
+      "id": "chem9-c3-q92",
+      "question": "Which uranium isotope is used in nuclear reactors and bombs?",
+      "options": {
+        "A": "Uranium-234",
+        "B": "Uranium-235",
+        "C": "Uranium-238",
+        "D": "Uranium-239"
+      },
+      "correctAnswer": "B",
+      "explanation": "Uranium-235 is fissile and can sustain a nuclear chain reaction."
+    },
+    {
+      "id": "chem9-c3-q93",
+      "question": "Natural abundance of uranium-234 is approximately _____.",
+      "options": {
+        "A": "0.006%",
+        "B": "0.72%",
+        "C": "99.27%",
+        "D": "1%"
+      },
+      "correctAnswer": "A",
+      "explanation": "Uranium-234 is very rare in nature."
+    },
+    {
+      "id": "chem9-c3-q94",
+      "question": "When uranium-238 decays, it emits _____.",
+      "options": {
+        "A": "Alpha particle",
+        "B": "Beta particle   G",
+        "C": "amma ray         Ne",
+        "D": "utron"
+      },
+      "correctAnswer": "A",
+      "explanation": "Uranium-238 emits an alpha particle (helium nucleus) during decay."
+    },
+    {
+      "id": "chem9-c3-q95",
+      "question": "Energy released by fission of 1 kg uranium-235 is equivalent to burning ____ of coal.",
+      "options": {
+        "A": "1000 kg",
+        "B": "5000 kg",
+        "C": "17000 kg        100",
+        "D": "000 kg"
+      },
+      "correctAnswer": "C",
+      "explanation": "1 kg uranium-235 produces energy equal to burning 17,000 kg coal."
+    },
+    {
+      "id": "chem9-c3-q96",
+      "question": "Relative atomic mass of an element is calculated using its isotopes and their _____.",
+      "options": {
+        "A": "Charges",
+        "B": "Densities     M",
+        "C": "N elting points abu",
+        "D": "atural ndances"
+      },
+      "correctAnswer": "D",
+      "explanation": "The calculation depends on how much each isotope is present in nature."
+    },
+    {
+      "id": "chem9-c3-q97",
+      "question": "Which carbon isotope has an abundance of 1.1%?",
+      "options": {
+        "A": "Carbon-12",
+        "B": "Carbon-13",
+        "C": "Carbon-14       Car",
+        "D": "bon-15"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbon-13 accounts for about 1.1% of natural carbon."
+    },
+    {
+      "id": "chem9-c3-q98",
+      "question": "Iodine-131 is mainly used to diagnose problems in the _____.",
+      "options": {
+        "A": "Heart",
+        "B": "Thyroid gland",
+        "C": "Kidneys       L",
+        "D": "ungs"
+      },
+      "correctAnswer": "B",
+      "explanation": "I-131 traces thyroid activity to detect disorders. 99. Iodine-123 is commonly Brain Lungs Bones Liver ○ ○ ○ ○ used for imaging the _____. Answer: (A) Brain"
+    },
+    {
+      "id": "chem9-c3-q99",
+      "question": "Iodine-123 is commonly used for imaging the _____.",
+      "options": {
+        "A": "Brain",
+        "B": "Lungs",
+        "C": "Bones",
+        "D": "Liver"
+      },
+      "correctAnswer": "A",
+      "explanation": "I-123 produces clear images for brain scanning."
+    },
+    {
+      "id": "chem9-c3-q100",
+      "question": "Which isotope is widely used in radiotherapy to treat cancer?",
+      "options": {
+        "A": "C-14",
+        "B": "Co-60",
+        "C": "Na-24",
+        "D": "I-123"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cobalt-60 emits strong gamma rays for tumor treatment."
+    },
+    {
+      "id": "chem9-c3-q101",
+      "question": "Carbon-14 helps trace the path of carbon during _____.",
+      "options": {
+        "A": "Respiration",
+        "B": "Photosynthe sis",
+        "C": "Fermentation",
+        "D": "Digestion"
+      },
+      "correctAnswer": "B",
+      "explanation": "C-14 follows carbon movement in photosynthetic reactions."
+    },
+    {
+      "id": "chem9-c3-q102",
+      "question": "Living organisms constantly absorb carbon-14 because it _____.",
+      "options": {
+        "A": "Builds bones",
+        "B": "Circulates in nature",
+        "C": "Has a strong smell",
+        "D": "Is magnetic"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbon cycles through air, oceans, and living bodies."
+    },
+    {
+      "id": "chem9-c3-q103",
+      "question": "Which of the following stops immediately at the moment of death?",
+      "options": {
+        "A": "Decay of C-14",
+        "B": "Absorption of C-14",
+        "C": "Movement of C-12",
+        "D": "Formation of carbon dioxide"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dead organisms no longer take in radioactive carbon."
+    },
+    {
+      "id": "chem9-c3-q104",
+      "question": "Cations are usually formed by which type of elements?",
+      "options": {
+        "A": "Non-metals",
+        "B": "Noble gases",
+        "C": "Metals",
+        "D": "Metalloids"
+      },
+      "correctAnswer": "C",
+      "explanation": "Metals tend to lose electrons easily, leading to cation formation."
+    },
+    {
+      "id": "chem9-c3-q105",
+      "question": "A cation forms when an atom____.",
+      "options": {
+        "A": "Gains electron",
+        "B": "Loses electrons",
+        "C": "Shares electrons only",
+        "D": "Splits its nucleus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Losing electrons results in more protons than electrons, creating a positive ion."
+    },
+    {
+      "id": "chem9-c3-q106",
+      "question": "What happens to a neutral atom’s electron count when forming a cation?",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Stays the same",
+        "D": "Doubles"
+      },
+      "correctAnswer": "B",
+      "explanation": "A cation forms only when electrons are removed from the atom."
+    },
+    {
+      "id": "chem9-c3-q107",
+      "question": "A neutral atom becomes a +3 ion after losing electrons. How many electrons were lost?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "C",
+      "explanation": "The positive charge equals the number of lost electrons."
+    },
+    {
+      "id": "chem9-c3-q108",
+      "question": "What drives a metal atom to lose electrons and form a cation?",
+      "options": {
+        "A": "To increase its mass",
+        "B": "To achieve noble-gas stability",
+        "C": "To become radioactive",
+        "D": "To increase neutron number"
+      },
+      "correctAnswer": "B",
+      "explanation": "Metals lose electrons to reach a stable electron configuration like noble gases."
+    },
+    {
+      "id": "chem9-c3-q109",
+      "question": "When a metal atom forms a cation, its nucleus",
+      "options": {
+        "A": "Loses protons",
+        "B": "Remains unchanged",
+        "C": "Gains neutrons",
+        "D": "Expands"
+      },
+      "correctAnswer": "B",
+      "explanation": "Proton and neutron numbers remain constant during ion formation."
+    },
+    {
+      "id": "chem9-c3-q110",
+      "question": "An anion forms when an atom______.",
+      "options": {
+        "A": "Loses electrons",
+        "B": "Gains electrons",
+        "C": "Splits into ions",
+        "D": "Gains protons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gaining electrons increases negative charge, forming an anion."
+    },
+    {
+      "id": "chem9-c3-q111",
+      "question": "Why does gaining electrons make an atom negatively charged?",
+      "options": {
+        "A": "Protons decreases",
+        "B": "Electrons outnumber protons",
+        "C": "Neutrons break apart",
+        "D": "Mass becomes larger"
+      },
+      "correctAnswer": "B",
+      "explanation": "More electrons than protons result in a net negative charge."
+    },
+    {
+      "id": "chem9-c3-q112",
+      "question": "When chlorine gains one electron, it becomes______.",
+      "options": {
+        "A": "Cl+",
+        "B": "Cl2+",
+        "C": "Cl-",
+        "D": "Cl2-"
+      },
+      "correctAnswer": "C",
+      "explanation": "Gaining one electron gives chlorine a -1 charge."
+    },
+    {
+      "id": "chem9-c3-q113",
+      "question": "In a neutral atom, protons = electrons. What changes when forming an anion?",
+      "options": {
+        "A": "Protons increases",
+        "B": "Electrons decreases",
+        "C": "Electrons increases",
+        "D": "Neutrons increases"
+      },
+      "correctAnswer": "C",
+      "explanation": "Anions form only when extra electrons are added."
+    },
+    {
+      "id": "chem9-c3-q114",
+      "question": "Which of the following is a typical anion?",
+      "options": {
+        "A": "Na+",
+        "B": "Mg2+",
+        "C": "O2-",
+        "D": "Ca2+"
+      },
+      "correctAnswer": "C",
+      "explanation": "Oxygen commonly gains 2 electrons to form O2-."
+    },
+    {
+      "id": "chem9-c3-q115",
+      "question": "Why do atoms with high electron affinity easily form anions?",
+      "options": {
+        "A": "They reject extra electrons",
+        "B": "They need more protons",
+        "C": "They strongly attract additional electrons",
+        "D": "They have weak nuclei"
+      },
+      "correctAnswer": "C",
+      "explanation": "High electron affinity means the atom readily pulls in electrons to become stable."
+    },
+    {
+      "id": "chem9-c3-q116",
+      "question": "What happens to the energy of a shell as n increases?",
+      "options": {
+        "A": "It decreases",
+        "B": "It disappears",
+        "C": "It increases",
+        "D": "It becomes negative"
+      },
+      "correctAnswer": "C",
+      "explanation": "Electrons in higher shells possess more energy than those in lower shells."
+    },
+    {
+      "id": "chem9-c3-q117",
+      "question": "Which shell would have the highest energy among the following?",
+      "options": {
+        "A": "K shell",
+        "B": "L shell",
+        "C": "M shell",
+        "D": "K and L both equally"
+      },
+      "correctAnswer": "C",
+      "explanation": "As n increases, energy rises, so the M shell has more energy than K or L."
+    },
+    {
+      "id": "chem9-c3-q118",
+      "question": "As the value of n increases, what happens to the electron’s distance from the nucleus?",
+      "options": {
+        "A": "It decreases",
+        "B": "It becomes zero",
+        "C": "It increases",
+        "D": "It remains constant"
+      },
+      "correctAnswer": "C",
+      "explanation": "Higher shells lie farther from the nucleus, so electron distance increases with n."
+    },
+    {
+      "id": "chem9-c3-q119",
+      "question": "Which sub-shell exists in the k shell (n=1)?",
+      "options": {
+        "A": "1p",
+        "B": "1d",
+        "C": "1f",
+        "D": "1s"
+      },
+      "correctAnswer": "D",
+      "explanation": "The K shell has only 1 sub-shell, labelled as 1s."
+    },
+    {
+      "id": "chem9-c3-q120",
+      "question": "Which sub-shell can accommodate a maximum of 10 electrons?",
+      "options": {
+        "A": "s",
+        "B": "p",
+        "C": "d",
+        "D": "f"
+      },
+      "correctAnswer": "C",
+      "explanation": "The d sub-shell can hold up to 10 electrons at full capacity."
+    },
+    {
+      "id": "chem9-c3-q121",
+      "question": "Which of the following shows the correct increasing energy order?",
+      "options": {
+        "A": "3p<2p<4s",
+        "B": "1s<2s<2p<3s",
+        "C": "3d<4s<3p",
+        "D": "4s<3s<1s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Energy increases in the sequence 1s → 2s → 2p → 3s and so on, as shown in the Aufbau order."
+    },
+    {
+      "id": "chem9-c3-q122",
+      "question": "The increasing number of sub-shells in higher shells is due to _____.",
+      "options": {
+        "A": "More nuclear charge",
+        "B": "Increase in value",
+        "C": "n Electron lo",
+        "D": "Attraction of ss neutrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "As n increases, the number of allowed sub-shells also increases (n sub-shells per shell)."
+    },
+    {
+      "id": "chem9-c3-q123",
+      "question": "Why does the 4s sub- shell fill before the 3d sub- shell?",
+      "options": {
+        "A": "4s is physica closer to th nucleus",
+        "B": "lly 3d has no e electrons",
+        "C": "4s has lowe energy than",
+        "D": "r 3d is unstab 3d"
+      },
+      "correctAnswer": "C",
+      "explanation": "Even though it is in a higher shell, 4s has slightly lower energy than 3d, so it fills first."
+    },
+    {
+      "id": "chem9-c3-q124",
+      "question": "Why does the M shell contain a 3d sub-shell but the L shell does not contain a 2d sub-shell?",
+      "options": {
+        "A": "2d is too large exist",
+        "B": "to      d sub-shell start from n",
+        "C": "d sub-shel s cannot hol = 3 electrons",
+        "D": "ls 2d has z d energy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Quantum rules allow d sub-shells to exist only from the third energy level (n = 3)."
+    },
+    {
+      "id": "chem9-c3-q125",
+      "question": "In an ion symbol, a 2+ charge indicates the atom has _____.",
+      "options": {
+        "A": "Gained 2 electrons",
+        "B": "Lost 2 electrons",
+        "C": "Gained 2 protons",
+        "D": "Lost 2 protons"
+      },
+      "correctAnswer": "B",
+      "explanation": "A positive charge means electrons were lost since losing negative particles makes the ion positive."
+    },
+    {
+      "id": "chem9-c3-q126",
+      "question": "The atomic number is always equal to the number of _____.",
+      "options": {
+        "A": "Electrons in cases",
+        "B": "all Protons",
+        "C": "Neutrons",
+        "D": "Total nucleons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Atomic number uniquely identifies an element by counting its protons."
+    }
+  ]
+}

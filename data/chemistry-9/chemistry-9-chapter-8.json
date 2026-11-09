@@ -1,0 +1,586 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 8,
+  "chapterTitle": "Unit 08: Energetics, Thermochemistry & Enthalpy",
+  "slug": "chemistry-9-chapter-8",
+  "description": "Exothermic and endothermic reactions, thermochemical equations, enthalpy changes (ΔH), heat of reaction, activation energy, and energy diagrams.",
+  "totalQuestions": 48,
+  "questions": [
+    {
+      "id": "chem9-c8-q1",
+      "question": "Which of the following processes require energy?",
+      "options": {
+        "A": "Exothermic processes",
+        "B": "Endothermic processes",
+        "C": "Energy- neutral processes",
+        "D": "Physical processes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Some processes need energy input to proceed"
+    },
+    {
+      "id": "chem9-c8-q2",
+      "question": "Which of the following is NOT mentioned as a raw material?",
+      "options": {
+        "A": "Iron",
+        "B": "Steel",
+        "C": "Aluminium",
+        "D": "Plastic"
+      },
+      "correctAnswer": "D",
+      "explanation": "Plastic is not listed among the given raw materials"
+    },
+    {
+      "id": "chem9-c8-q3",
+      "question": "The study of energy changes in chemical reactions called:",
+      "options": {
+        "A": "Chemical energetics",
+        "B": "Thermodyna mics",
+        "C": "Chemical kinetics",
+        "D": "Electrochemis try"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chemical energetics deals with energy changes in reactions"
+    },
+    {
+      "id": "chem9-c8-q4",
+      "question": "Energy in chemical reactions is commonly exchanged in the form of?",
+      "options": {
+        "A": "Light",
+        "B": "Electricity",
+        "C": "Heat",
+        "D": "Sound"
+      },
+      "correctAnswer": "C",
+      "explanation": "Heat is absorbed or released during chemical reactions"
+    },
+    {
+      "id": "chem9-c8-q5",
+      "question": "Why is energy developed or absorbed during reactions?",
+      "options": {
+        "A": "Change in temperature",
+        "B": "Change in pressure",
+        "C": "Change in volume",
+        "D": "Breaking and forming of bonds"
+      },
+      "correctAnswer": "D",
+      "explanation": "Energy change occurs due to bond breaking and formation"
+    },
+    {
+      "id": "chem9-c8-q6",
+      "question": "Breaking chemical bonds always:",
+      "options": {
+        "A": "Releases energy",
+        "B": "Consumes energy",
+        "C": "Produces heat",
+        "D": "Produces light"
+      },
+      "correctAnswer": "B",
+      "explanation": "Energy is required to break chemical bonds"
+    },
+    {
+      "id": "chem9-c8-q7",
+      "question": "During chemical reactions, energy is exchanged with:",
+      "options": {
+        "A": "System only",
+        "B": "Surroundings only",
+        "C": "System and surroundings",
+        "D": "Neither system nor surroundings"
+      },
+      "correctAnswer": "C",
+      "explanation": "Energy exchange in a chemical reaction occurs between the system and its surroundings 8. The rest of the universe, System Environment Matter Substance ○ ○ ○ ○ except the system, is called? Answer: (B) Environment"
+    },
+    {
+      "id": "chem9-c8-q8",
+      "question": "The rest of the universe, except the system, is called?",
+      "options": {
+        "A": "System",
+        "B": "Environment",
+        "C": "Matter",
+        "D": "Substance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Everything outside the system is the environment"
+    },
+    {
+      "id": "chem9-c8-q9",
+      "question": "In the limestone and hydrochloric acid reaction, what is the system?",
+      "options": {
+        "A": "Limestone and an acid solution",
+        "B": "Test tube",
+        "C": "Air",
+        "D": "Laboratory"
+      },
+      "correctAnswer": "A",
+      "explanation": "Reacting substances together form the system"
+    },
+    {
+      "id": "chem9-c8-q10",
+      "question": "Which of the following reactions absorbs energy?",
+      "options": {
+        "A": "Exothermic",
+        "B": "Endothermic",
+        "C": "Neutral",
+        "D": "Spontaneous"
+      },
+      "correctAnswer": "B",
+      "explanation": "Endothermic reactions absorb energy from the surroundings"
+    },
+    {
+      "id": "chem9-c8-q11",
+      "question": "Energy exchange during reactions occurs due to interaction with:",
+      "options": {
+        "A": "Surroundings",
+        "B": "System only",
+        "C": "Products only",
+        "D": "Reactants only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Energy flows between system and its surroundings"
+    },
+    {
+      "id": "chem9-c8-q12",
+      "question": "When a chemical change takes place, energy is exchanged between which two entities?",
+      "options": {
+        "A": "System and surroundings",
+        "B": "Reactants and products",
+        "C": "Atoms and molecules",
+        "D": "Heat and light"
+      },
+      "correctAnswer": "A",
+      "explanation": "During any chemical change, energy flows between the system and its surroundings"
+    },
+    {
+      "id": "chem9-c8-q13",
+      "question": "A chemical reaction involving absorption or evolution of heat is called what?",
+      "options": {
+        "A": "Physical reaction",
+        "B": "Nuclear reaction",
+        "C": "Reversible reaction",
+        "D": "Thermochemi cal reaction"
+      },
+      "correctAnswer": "D",
+      "explanation": "Thermochemical reactions are defined by heat changes during chemical reactions"
+    },
+    {
+      "id": "chem9-c8-q14",
+      "question": "In the reaction C + O₂ → CO₂, the value of ΔH° is:",
+      "options": {
+        "A": "Positive",
+        "B": "Zero",
+        "C": "+393.5 kJ",
+        "D": "−393.5 kJ"
+      },
+      "correctAnswer": "D",
+      "explanation": "The given reaction releases 393.5 kJ of heat indicating an exothermic process"
+    },
+    {
+      "id": "chem9-c8-q15",
+      "question": "A reaction that proceeds with the evolution of heat is called:",
+      "options": {
+        "A": "Endothermic reaction",
+        "B": "Neutral reaction",
+        "C": "Reversible reaction",
+        "D": "Exothermic reaction"
+      },
+      "correctAnswer": "D",
+      "explanation": "Exothermic reactions release heat to the surroundings"
+    },
+    {
+      "id": "chem9-c8-q16",
+      "question": "Which of the following is a highly exothermic reaction?",
+      "options": {
+        "A": "Melting of ice",
+        "B": "Photosynthesi s",
+        "C": "Evaporation of water",
+        "D": "Burning of fuel"
+      },
+      "correctAnswer": "D",
+      "explanation": "Burning of fuel releases a large amount of heat energy"
+    },
+    {
+      "id": "chem9-c8-q17",
+      "question": "A reaction that proceeds with absorption of heat is known as:",
+      "options": {
+        "A": "Exothermic reaction",
+        "B": "Thermoneutra l reaction",
+        "C": "Endothermic reaction",
+        "D": "Spontaneous reaction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Endothermic reactions absorb heat from their surroundings"
+    },
+    {
+      "id": "chem9-c8-q18",
+      "question": "What is the sign of the enthalpy change for an exothermic reaction?",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Variable"
+      },
+      "correctAnswer": "B",
+      "explanation": "Exothermic reactions release heat so their enthalpy change is negative"
+    },
+    {
+      "id": "chem9-c8-q19",
+      "question": "What is the sign of the enthalpy change for an endothermic reaction?",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Variable"
+      },
+      "correctAnswer": "A",
+      "explanation": "Endothermic reactions absorb heat, resulting in a positive enthalpy change"
+    },
+    {
+      "id": "chem9-c8-q20",
+      "question": "Standard enthalpy change is measured at which temperature?",
+      "options": {
+        "A": "0°C",
+        "B": "25°C or 298 K",
+        "C": "100°C",
+        "D": "−273°C"
+      },
+      "correctAnswer": "B",
+      "explanation": "Standard enthalpy change is defined at 25°C or 298 K under standard conditions"
+    },
+    {
+      "id": "chem9-c8-q21",
+      "question": "Standard enthalpy change is measured at which pressure?",
+      "options": {
+        "A": "2 atm",
+        "B": "0.5 atm",
+        "C": "Variable pressure",
+        "D": "1 atm"
+      },
+      "correctAnswer": "D",
+      "explanation": "Standard enthalpy change is measured at a pressure of 1 atmosphere"
+    },
+    {
+      "id": "chem9-c8-q22",
+      "question": "Breaking a chemical bond always:",
+      "options": {
+        "A": "Releases energy",
+        "B": "Requires energy",
+        "C": "Has no energy change",
+        "D": "Produces heat automatically"
+      },
+      "correctAnswer": "B",
+      "explanation": "Energy must be supplied to break chemical bonds"
+    },
+    {
+      "id": "chem9-c8-q23",
+      "question": "What does the term bond dissociation energy specifically refer to in chemical reactions?",
+      "options": {
+        "A": "Bond formation",
+        "B": "Bond breaking",
+        "C": "Energy release",
+        "D": "Heat flow"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bond dissociation energy is the energy needed to break a bond into neutral atoms"
+    },
+    {
+      "id": "chem9-c8-q24",
+      "question": "How is the overall enthalpy change of a chemical reaction determined based on bond energies?",
+      "options": {
+        "A": "Total energy change",
+        "B": "Breaking energy",
+        "C": "Forming energy",
+        "D": "Kinetic energy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Enthalpy change equals the net energy absorbed and released during bond processes"
+    },
+    {
+      "id": "chem9-c8-q25",
+      "question": "During a chemical reaction, what correctly describes the changes that occur to chemical bonds?",
+      "options": {
+        "A": "Only broken",
+        "B": "Only formed",
+        "C": "Unchanged",
+        "D": "Broken and formed"
+      },
+      "correctAnswer": "D",
+      "explanation": "Chemical reactions involve breaking existing bonds and forming new ones"
+    },
+    {
+      "id": "chem9-c8-q26",
+      "question": "What does the difference between bond dissociation energy and bond energy help determine in a reaction?",
+      "options": {
+        "A": "Energy change",
+        "B": "Reaction rate",
+        "C": "Reaction path",
+        "D": "Yield"
+      },
+      "correctAnswer": "A",
+      "explanation": "The balance between bond breaking and bond forming decides energy absorption or release"
+    },
+    {
+      "id": "chem9-c8-q27",
+      "question": "Changes in chemical bonds during reactions are always accompanied by changes in:",
+      "options": {
+        "A": "Mass",
+        "B": "Volume",
+        "C": "Energy",
+        "D": "Pressure"
+      },
+      "correctAnswer": "C",
+      "explanation": "Bond breaking and formation are associated with energy changes"
+    },
+    {
+      "id": "chem9-c8-q28",
+      "question": "Which theory was proposed to explain reaction kinetics?",
+      "options": {
+        "A": "Atomic theory",
+        "B": "Collision theory",
+        "C": "Valence theory",
+        "D": "Orbital theory"
+      },
+      "correctAnswer": "B",
+      "explanation": "Collision theory explains how reaction rates depend on particle collisions"
+    },
+    {
+      "id": "chem9-c8-q29",
+      "question": "For a chemical reaction to occur, reacting particles must:",
+      "options": {
+        "A": "Mix properly",
+        "B": "Dissolve",
+        "C": "Be heated",
+        "D": "Collide with each other"
+      },
+      "correctAnswer": "D",
+      "explanation": "Reactions occur only when atoms or molecules collide 30. What is the relationship Higher energy Higher energy Constant rate No relation ○ ○ ○ ○ between activation faster rate lower rate energy and reaction rate? Answer: (B) Higher energy lower rate"
+    },
+    {
+      "id": "chem9-c8-q30",
+      "question": "What is the relationship between activation energy and reaction rate?",
+      "options": {
+        "A": "Higher energy faster rate",
+        "B": "Higher energy lower rate",
+        "C": "Constant rate",
+        "D": "No relation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Higher activation energy results in fewer effective collisions and slower rate"
+    },
+    {
+      "id": "chem9-c8-q31",
+      "question": "The speed of a chemical reaction mainly depends on its:",
+      "options": {
+        "A": "Temperature",
+        "B": "Concentration",
+        "C": "Volume",
+        "D": "Activation energy"
+      },
+      "correctAnswer": "D",
+      "explanation": "Activation energy controls how easily reactions can occur"
+    },
+    {
+      "id": "chem9-c8-q32",
+      "question": "What happens if reacting particles have energy lower than activation energy?",
+      "options": {
+        "A": "Fast reaction",
+        "B": "Slow reaction",
+        "C": "Explosion",
+        "D": "No reaction occurs"
+      },
+      "correctAnswer": "D",
+      "explanation": "Without sufficient energy, effective collisions cannot take place"
+    },
+    {
+      "id": "chem9-c8-q33",
+      "question": "Activation energy is required in addition to which energy?",
+      "options": {
+        "A": "Potential energy",
+        "B": "Nuclear energy",
+        "C": "Average kinetic energ of particles",
+        "D": "y       Bond energy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Particles must have energy greater than their average kinetic energy to react"
+    },
+    {
+      "id": "chem9-c8-q34",
+      "question": "At the moment of effective collision, which atoms must collide?",
+      "options": {
+        "A": "Atoms forming new bonds",
+        "B": "Any atoms",
+        "C": "Random atoms",
+        "D": "Inert atoms"
+      },
+      "correctAnswer": "A",
+      "explanation": "Only specific atoms involved in bond formation must collide"
+    },
+    {
+      "id": "chem9-c8-q35",
+      "question": "Why are many industrial reactions carried out at high temperatures?",
+      "options": {
+        "A": "To reduce pressure",
+        "B": "To maximize product yield",
+        "C": "To slow reactions",
+        "D": "To change enthalpy"
+      },
+      "correctAnswer": "B",
+      "explanation": "High temperature is used to increase reaction rate and product formation"
+    },
+    {
+      "id": "chem9-c8-q36",
+      "question": "What is another method to increase the rate of a reaction besides temperature?",
+      "options": {
+        "A": "Increasing volume",
+        "B": "Changing colour",
+        "C": "Reducing pressure",
+        "D": "Changing reaction mechanism"
+      },
+      "correctAnswer": "D",
+      "explanation": "Altering the reaction pathway can increase reaction rate 37. Changing the reaction Activation Temperature Pressure Enthalpy ○ ○ ○ ○ mechanism mainly helps energy by lowering? Answer: (D) Activation energy"
+    },
+    {
+      "id": "chem9-c8-q37",
+      "question": "Changing the reaction mechanism mainly helps by lowering?",
+      "options": {
+        "A": "Temperature",
+        "B": "Pressure",
+        "C": "Enthalpy",
+        "D": "Activation energy"
+      },
+      "correctAnswer": "D",
+      "explanation": "Lower activation energy allows reactions to occur more easily"
+    },
+    {
+      "id": "chem9-c8-q38",
+      "question": "What is added to a reaction mixture to lower activation energy?",
+      "options": {
+        "A": "Reactant",
+        "B": "Solvent",
+        "C": "Catalyst",
+        "D": "Product"
+      },
+      "correctAnswer": "C",
+      "explanation": "A catalyst provides an alternative pathway with lower activation energy"
+    },
+    {
+      "id": "chem9-c8-q39",
+      "question": "The process involving the action of a catalyst is called?",
+      "options": {
+        "A": "Activation",
+        "B": "Catalysis",
+        "C": "Oxidation",
+        "D": "Neutralization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Catalysis refers to the phenomenon of rate enhancement by a catalyst"
+    },
+    {
+      "id": "chem9-c8-q40",
+      "question": "What type of mechanism does a catalyst provide?",
+      "options": {
+        "A": "High-energy pathway",
+        "B": "Random pathway",
+        "C": "Direct pathway",
+        "D": "Intermediate low-energy pathway"
+      },
+      "correctAnswer": "D",
+      "explanation": "Catalysts offer an alternative pathway with lower activation energy"
+    },
+    {
+      "id": "chem9-c8-q41",
+      "question": "What effect does a catalyst have on reaction enthalpy?",
+      "options": {
+        "A": "Increases enthalpy",
+        "B": "Decreases enthalpy",
+        "C": "Reverses enthalpy",
+        "D": "No effect"
+      },
+      "correctAnswer": "D",
+      "explanation": "Catalysts do not alter the thermodynamics or enthalpy of reactions"
+    },
+    {
+      "id": "chem9-c8-q42",
+      "question": "Which substances act as catalysts in living organisms?",
+      "options": {
+        "A": "Enzymes",
+        "B": "Hormones",
+        "C": "Vitamins",
+        "D": "Carbohydrate s"
+      },
+      "correctAnswer": "A",
+      "explanation": "Enzymes catalyse biochemical reactions inside living organisms"
+    },
+    {
+      "id": "chem9-c8-q43",
+      "question": "Which property of a catalyst remains unchanged after the reaction?",
+      "options": {
+        "A": "Mass",
+        "B": "Chemical nature",
+        "C": "Phase",
+        "D": "Volume"
+      },
+      "correctAnswer": "B",
+      "explanation": "A catalyst remains chemically unchanged at the end of a reaction"
+    },
+    {
+      "id": "chem9-c8-q44",
+      "question": "Which substance is oxidized during respiration to release energy?",
+      "options": {
+        "A": "Protein",
+        "B": "Lipid",
+        "C": "Vitamin",
+        "D": "Glucose"
+      },
+      "correctAnswer": "D",
+      "explanation": "Glucose is oxidized in the body to release energy"
+    },
+    {
+      "id": "chem9-c8-q45",
+      "question": "Why is respiration considered an exothermic reaction?",
+      "options": {
+        "A": "It absorbs heat",
+        "B": "It releases energy",
+        "C": "It needs oxygen",
+        "D": "It forms water"
+      },
+      "correctAnswer": "B",
+      "explanation": "Respiration releases energy, making it an exothermic process"
+    },
+    {
+      "id": "chem9-c8-q46",
+      "question": "Which of the following type of respiration requires oxygen?",
+      "options": {
+        "A": "Aerobic respiration",
+        "B": "Anaerobic respiration",
+        "C": "Cellular respiration",
+        "D": "Fermentation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Aerobic respiration requires oxygen to break down glucose"
+    },
+    {
+      "id": "chem9-c8-q47",
+      "question": "Which products are formed in aerobic respiration?",
+      "options": {
+        "A": "Lactic acid and energy",
+        "B": "Carbon dioxide, water and energy",
+        "C": "Ethanol and energy",
+        "D": "Oxygen and energy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Aerobic respiration produces carbon dioxide, water and energy"
+    },
+    {
+      "id": "chem9-c8-q48",
+      "question": "During intense exercise, which substance is oxidized for energy when glucose is insufficient?",
+      "options": {
+        "A": "Lipids",
+        "B": "Proteins",
+        "C": "Vitamins",
+        "D": "Minerals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lipids are oxidized to supply energy when glucose is not enough"
+    }
+  ]
+}

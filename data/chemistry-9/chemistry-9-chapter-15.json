@@ -1,0 +1,586 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 15,
+  "chapterTitle": "Unit 15: Biochemistry: Biomolecules, Nutrition & Metabolism",
+  "slug": "chemistry-9-chapter-15",
+  "description": "Essential biomolecules: carbohydrates (monosaccharides, disaccharides, polysaccharides), proteins and amino acids, lipids and fatty acids, nucleic acids (DNA and RNA), vitamins, and dietary energy.",
+  "totalQuestions": 48,
+  "questions": [
+    {
+      "id": "chem9-c15-q1",
+      "question": "Which function is NOT controlled by the brain?",
+      "options": {
+        "A": "Breathing",
+        "B": "Heartbeat",
+        "C": "Thinking",
+        "D": "Digestion of food"
+      },
+      "correctAnswer": "D",
+      "explanation": "Digestion mainly occurs in the digestive system"
+    },
+    {
+      "id": "chem9-c15-q2",
+      "question": "The statement “our food choices impact our health” means that:",
+      "options": {
+        "A": "Only expensive food is healthy",
+        "B": "Diet directly influences physical well- being",
+        "C": "Food affects mood only",
+        "D": "Health depends on exercise alone"
+      },
+      "correctAnswer": "B",
+      "explanation": "What we eat affects body functions and health"
+    },
+    {
+      "id": "chem9-c15-q3",
+      "question": "Good nutrition is considered an important part of a healthy lifestyle because it:",
+      "options": {
+        "A": "Prevents aging",
+        "B": "Supports normal body functions",
+        "C": "Eliminates all diseases",
+        "D": "Replaces medicines"
+      },
+      "correctAnswer": "B",
+      "explanation": "Proper nutrition maintains normal physiological functions"
+    },
+    {
+      "id": "chem9-c15-q4",
+      "question": "A healthy balanced diet helps to reduce high blood pressure mainly by:",
+      "options": {
+        "A": "Controlling fat and salt levels",
+        "B": "Increasing sugar intake",
+        "C": "Avoiding all carbohydrates",
+        "D": "Increasing salt intake"
+      },
+      "correctAnswer": "A",
+      "explanation": "Balanced nutrients help regulate blood pressure"
+    },
+    {
+      "id": "chem9-c15-q5",
+      "question": "Increased bone health from a healthy diet is mainly due to adequate intake of:",
+      "options": {
+        "A": "Vitamins and minerals",
+        "B": "Carbohydrates only",
+        "C": "Fats only",
+        "D": "Water only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Minerals like calcium strengthen bones"
+    },
+    {
+      "id": "chem9-c15-q6",
+      "question": "Muscle strength improves with healthy eating mainly because:",
+      "options": {
+        "A": "Fats store energy",
+        "B": "Proteins repair and build tissues",
+        "C": "Vitamins give taste",
+        "D": "Water adds weight"
+      },
+      "correctAnswer": "B",
+      "explanation": "Proteins support muscle development"
+    },
+    {
+      "id": "chem9-c15-q7",
+      "question": "A diet lacking minerals for a long time may lead to:",
+      "options": {
+        "A": "Improved immunity",
+        "B": "Skeletal problems",
+        "C": "Increased height",
+        "D": "Faster metabolism"
+      },
+      "correctAnswer": "B",
+      "explanation": "Minerals are vital for bone structure"
+    },
+    {
+      "id": "chem9-c15-q8",
+      "question": "The study of molecules present in living organisms is known as:",
+      "options": {
+        "A": "Organic chemistry",
+        "B": "Physical chemistry",
+        "C": "Biochemistry",
+        "D": "Analytical chemistry"
+      },
+      "correctAnswer": "C",
+      "explanation": "Biochemistry focuses on molecules of life"
+    },
+    {
+      "id": "chem9-c15-q9",
+      "question": "Which of the following is NOT mainly studied under biochemistry?",
+      "options": {
+        "A": "Proteins",
+        "B": "Lipids",
+        "C": "Carbohydrates",
+        "D": "Metals in rocks"
+      },
+      "correctAnswer": "D",
+      "explanation": "Metals in rocks are studied in geology"
+    },
+    {
+      "id": "chem9-c15-q10",
+      "question": "Amino acids are significant in biochemistry because they:",
+      "options": {
+        "A": "Form vitamins",
+        "B": "Build proteins",
+        "C": "Store fats",
+        "D": "Produce minerals"
+      },
+      "correctAnswer": "B",
+      "explanation": "Amino acids are the building blocks of proteins"
+    },
+    {
+      "id": "chem9-c15-q11",
+      "question": "The energy required by the body for activities like playing and growing comes mainly from:",
+      "options": {
+        "A": "Water and minerals",
+        "B": "C Enzymes only",
+        "C": "arbohydrates and fats",
+        "D": "DNA and RNA"
+      },
+      "correctAnswer": "C",
+      "explanation": "Carbohydrates and fats are major energy sources"
+    },
+    {
+      "id": "chem9-c15-q12",
+      "question": "Repair of body tissues is mainly supported by:",
+      "options": {
+        "A": "Proteins",
+        "B": "Carbohydrates",
+        "C": "Lipids",
+        "D": "Minerals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Proteins help in growth and tissue repair"
+    },
+    {
+      "id": "chem9-c15-q13",
+      "question": "Carbohydrates are mainly known as the primary source of:",
+      "options": {
+        "A": "Proteins",
+        "B": "Vitamins",
+        "C": "Energy",
+        "D": "Minerals"
+      },
+      "correctAnswer": "C",
+      "explanation": "Carbohydrates supply energy to body cells"
+    },
+    {
+      "id": "chem9-c15-q14",
+      "question": "One gram of carbohydrates provides approximately:",
+      "options": {
+        "A": "2 kilocalories",
+        "B": "4 kilocalories",
+        "C": "7 kilocalories",
+        "D": "9 kilocalories"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbohydrates yield 4 kcal per gram"
+    },
+    {
+      "id": "chem9-c15-q15",
+      "question": "In the human body, carbohydrates are broken down into:",
+      "options": {
+        "A": "Fatty acids",
+        "B": "Amino acids",
+        "C": "Glucose",
+        "D": "Minerals"
+      },
+      "correctAnswer": "C",
+      "explanation": "Glucose is the usable form of carbohydrate energy"
+    },
+    {
+      "id": "chem9-c15-q16",
+      "question": "Monosaccharides are carbohydrates that contain:",
+      "options": {
+        "A": "No sugar units",
+        "B": "One sugar unit   T",
+        "C": "wo sugar units",
+        "D": "Many sugar units"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mono means single sugar molecule"
+    },
+    {
+      "id": "chem9-c15-q17",
+      "question": "Which of the following is an example of a monosaccharide?",
+      "options": {
+        "A": "Sucrose",
+        "B": "Lactose",
+        "C": "Starch",
+        "D": "Glucose"
+      },
+      "correctAnswer": "D",
+      "explanation": "Glucose is a single sugar unit"
+    },
+    {
+      "id": "chem9-c15-q18",
+      "question": "Which of the following carbohydrates are classified as a disaccharide?",
+      "options": {
+        "A": "Fructose",
+        "B": "Lactose",
+        "C": "Glucose",
+        "D": "Glycogen"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lactose contains two sugar units"
+    },
+    {
+      "id": "chem9-c15-q19",
+      "question": "Which of the following is a polysaccharide?",
+      "options": {
+        "A": "Glucose",
+        "B": "Fructose",
+        "C": "Sucrose",
+        "D": "Starch"
+      },
+      "correctAnswer": "D",
+      "explanation": "Starch is a complex carbohydrate"
+    },
+    {
+      "id": "chem9-c15-q20",
+      "question": "The basic structural unit of a protein molecule is a:",
+      "options": {
+        "A": "Amino acid",
+        "B": "Fatty acid    G",
+        "C": "lucose unit",
+        "D": "Nucleotide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Proteins are chains of amino acids"
+    },
+    {
+      "id": "chem9-c15-q21",
+      "question": "Enzymes are best described as proteins that:",
+      "options": {
+        "A": "Store energy",
+        "B": "Break down fats only",
+        "C": "Form cell membranes",
+        "D": "Speed up chemical reactions"
+      },
+      "correctAnswer": "D",
+      "explanation": "Enzymes act as biological catalysts"
+    },
+    {
+      "id": "chem9-c15-q22",
+      "question": "Which statement best explains why proteins are essential for growth?",
+      "options": {
+        "A": "They provide water",
+        "B": "They form hormones only",
+        "C": "Th They store minerals",
+        "D": "ey help build and repair tissues"
+      },
+      "correctAnswer": "D",
+      "explanation": "Proteins support growth and tissue repair"
+    },
+    {
+      "id": "chem9-c15-q23",
+      "question": "If the body lacks sufficient protein intake, it will mainly affect:",
+      "options": {
+        "A": "Taste sensation",
+        "B": "Tissue repair   W and growth",
+        "C": "ater balance only He",
+        "D": "at regulation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Proteins are crucial for repair and development"
+    },
+    {
+      "id": "chem9-c15-q24",
+      "question": "The chain-like structure of proteins is formed due to the linking of:",
+      "options": {
+        "A": "Sugars",
+        "B": "Fat molecules",
+        "C": "Mineral ions",
+        "D": "Amino acids"
+      },
+      "correctAnswer": "D",
+      "explanation": "Amino acids join to form polypeptide chains Combine to 25. Amino acids are called the building blocks of proteins Store energy form protein Act as enzymes Carry oxygen ○ ○ ○ ○ chains because they: Answer: (B) Combine to form protein chains"
+    },
+    {
+      "id": "chem9-c15-q25",
+      "question": "Amino acids are called the building blocks of proteins because they:",
+      "options": {
+        "A": "Store energy",
+        "B": "Combine to form protein chains",
+        "C": "Act as enzymes",
+        "D": "Carry oxygen"
+      },
+      "correctAnswer": "B",
+      "explanation": "Proteins are formed by linking amino acids"
+    },
+    {
+      "id": "chem9-c15-q26",
+      "question": "One gram of protein provides approximately:",
+      "options": {
+        "A": "2 kilocalories",
+        "B": "4 kilocalories",
+        "C": "7 kilocalor",
+        "D": "ies   9 kilocalories"
+      },
+      "correctAnswer": "B",
+      "explanation": "Proteins release 4 kcal per gram"
+    },
+    {
+      "id": "chem9-c15-q27",
+      "question": "Lipids are best described as compounds that are generally:",
+      "options": {
+        "A": "Soluble in water",
+        "B": "Insoluble in a solvents",
+        "C": "ll   Soluble only acids",
+        "D": "Soluble in in organic solvents"
+      },
+      "correctAnswer": "D",
+      "explanation": "Lipids dissolve in organic solvents like alcohol"
+    },
+    {
+      "id": "chem9-c15-q28",
+      "question": "Lipids are insoluble in water mainly because they are:",
+      "options": {
+        "A": "Ionic in nature",
+        "B": "Polar compounds",
+        "C": "Non-polar hydrocarbons",
+        "D": "Acidic substances"
+      },
+      "correctAnswer": "C",
+      "explanation": "Non-polar molecules do not dissolve in water"
+    },
+    {
+      "id": "chem9-c15-q29",
+      "question": "One gram of lipids provides approximately:",
+      "options": {
+        "A": "2 kilocalories",
+        "B": "4 kilocalories",
+        "C": "7 kilocalor",
+        "D": "ies   9 kilocalories"
+      },
+      "correctAnswer": "D",
+      "explanation": "Lipids are the most energy-dense nutrients"
+    },
+    {
+      "id": "chem9-c15-q30",
+      "question": "A major structural role of lipids in the body is forming:",
+      "options": {
+        "A": "Enzymes",
+        "B": "Cell membranes",
+        "C": "Ribosomes",
+        "D": "DNA"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lipids make up the phospholipid bilayer"
+    },
+    {
+      "id": "chem9-c15-q31",
+      "question": "Which of the following is a fat-soluble vitamin?",
+      "options": {
+        "A": "Vitamin C",
+        "B": "Vitamin B",
+        "C": "Vitamin E",
+        "D": "Vitamin B12"
+      },
+      "correctAnswer": "C",
+      "explanation": "Vitamins A, D, E, and K are fat-soluble"
+    },
+    {
+      "id": "chem9-c15-q32",
+      "question": "Foods like salmon fish and broccoli are good sources of:",
+      "options": {
+        "A": "Water-soluble vitamins",
+        "B": "Fat-soluble vitamins",
+        "C": "Only carbohydrate",
+        "D": "Only proteins s"
+      },
+      "correctAnswer": "B",
+      "explanation": "These foods contain lipid-based vitamins"
+    },
+    {
+      "id": "chem9-c15-q33",
+      "question": "Most of the cholesterol present in the human body is:",
+      "options": {
+        "A": "Obtained from vegetables",
+        "B": "Produced by the liver",
+        "C": "Absorbed fro water",
+        "D": "m      Formed in muscles"
+      },
+      "correctAnswer": "B",
+      "explanation": "The liver synthesizes most cholesterol"
+    },
+    {
+      "id": "chem9-c15-q34",
+      "question": "Nucleic acids are classified as biomolecules because they:",
+      "options": {
+        "A": "Store energy only",
+        "B": "Carry genetic information",
+        "C": "Act as enzymes",
+        "D": "Form cell membranes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nucleic acids store and transmit genetic data"
+    },
+    {
+      "id": "chem9-c15-q35",
+      "question": "The basic structural unit of nucleic acids is called a:",
+      "options": {
+        "A": "Amino acid",
+        "B": "Fatty acid",
+        "C": "Nucleotide",
+        "D": "Monosaccharid e"
+      },
+      "correctAnswer": "C",
+      "explanation": "Nucleotides form nucleic acids"
+    },
+    {
+      "id": "chem9-c15-q36",
+      "question": "DNA is double-stranded, which is significant because it:",
+      "options": {
+        "A": "Increases solubility",
+        "B": "Allows accurate replication",
+        "C": "Speeds up translation",
+        "D": "Prevents mutation completely"
+      },
+      "correctAnswer": "B",
+      "explanation": "Complementary strands ensure faithful copying"
+    },
+    {
+      "id": "chem9-c15-q37",
+      "question": "DNA can pass genetic information to the next generation because it:",
+      "options": {
+        "A": "Is chemically reactive",
+        "B": "Produces energy",
+        "C": "Is water soluble",
+        "D": "Can self- replicate"
+      },
+      "correctAnswer": "D",
+      "explanation": "Replication allows inheritance"
+    },
+    {
+      "id": "chem9-c15-q38",
+      "question": "If RNA synthesis is disrupted in a cell, the most immediate effect would be:",
+      "options": {
+        "A": "Failure of protein production",
+        "B": "Loss of stored energy",
+        "C": "Cell membrane damage",
+        "D": "Enzyme denaturation"
+      },
+      "correctAnswer": "A",
+      "explanation": "RNA is essential for protein synthesis"
+    },
+    {
+      "id": "chem9-c15-q39",
+      "question": "Which statement best explains why nucleic acids are essential for life?",
+      "options": {
+        "A": "They release energy",
+        "B": "They store and express information",
+        "C": "They form membranes",
+        "D": "They act as solvents"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nucleic acids store genetic information and guide protein synthesis, which controls all life processes"
+    },
+    {
+      "id": "chem9-c15-q40",
+      "question": "Ataxia–telangiectasia primarily affects motor coordination due to:",
+      "options": {
+        "A": "Impaired fat digestion",
+        "B": "DNA repair defects",
+        "C": "Carbohydrate deficiency",
+        "D": "Enzyme inactivity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Defects in DNA repair lead to progressive damage of neurons controlling movement and speech"
+    },
+    {
+      "id": "chem9-c15-q41",
+      "question": "Why is DNA more suitable than RNA for long-term genetic storage?",
+      "options": {
+        "A": "DNA is single- stranded",
+        "B": "DNA is chemically more stable",
+        "C": "DNA leaves the nucleus",
+        "D": "DNA forms enzymes"
+      },
+      "correctAnswer": "B",
+      "explanation": "DNA’s double-stranded structure makes it more stable for inheritance"
+    },
+    {
+      "id": "chem9-c15-q42",
+      "question": "If DNA is damaged but RNA remains unaffected, which process will be disrupted first?",
+      "options": {
+        "A": "Cell division",
+        "B": "Respiration",
+        "C": "Diffusion",
+        "D": "Osmosis"
+      },
+      "correctAnswer": "A",
+      "explanation": "DNA damage prevents accurate replication during cell division"
+    },
+    {
+      "id": "chem9-c15-q43",
+      "question": "A cell can survive briefly without proteins, but not without nucleic acids. This is because nucleic acids:",
+      "options": {
+        "A": "Provide direct energy",
+        "B": "Control protein formation",
+        "C": "Form cell membranes",
+        "D": "Store fats"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nucleic acids contain instructions needed to make proteins essential for survival"
+    },
+    {
+      "id": "chem9-c15-q44",
+      "question": "A young adult following an unbalanced diet for long periods is at risk of:",
+      "options": {
+        "A": "Better immunity",
+        "B": "Faster growth",
+        "C": "Higher energy",
+        "D": "Malnutrition"
+      },
+      "correctAnswer": "D",
+      "explanation": "Poor diet leads to nutrient deficiencies"
+    },
+    {
+      "id": "chem9-c15-q45",
+      "question": "Marasmus occurs due to the deficiency of:",
+      "options": {
+        "A": "Only proteins",
+        "B": "Only carbohydrates",
+        "C": "All macronutrients",
+        "D": "Only vitamins"
+      },
+      "correctAnswer": "C",
+      "explanation": "It involves a deficiency of carbs, fats, and proteins"
+    },
+    {
+      "id": "chem9-c15-q46",
+      "question": "Reducing excess intake of sugar, salt, and fat mainly helps to:",
+      "options": {
+        "A": "Increase energy",
+        "B": "Improve taste",
+        "C": "Prevent health problems",
+        "D": "Slow metabolism"
+      },
+      "correctAnswer": "C",
+      "explanation": "Excess sugar, salt, and fat increase the risk of obesity, hypertension, and heart disease, so reducing them supports long-term health"
+    },
+    {
+      "id": "chem9-c15-q47",
+      "question": "long-term health 47. Malnutrition includes both undernutrition and overnutrition because both:",
+      "options": {
+        "A": "Reduce appetite",
+        "B": "Lead to nutrient imbalance",
+        "C": "Increase immunity",
+        "D": "Improve metabolism"
+      },
+      "correctAnswer": "B",
+      "explanation": "Both insufficient and excessive intake disturb normal body functions"
+    },
+    {
+      "id": "chem9-c15-q48",
+      "question": "A young adult with long-term poor diet is more likely to develop marasmus because:",
+      "options": {
+        "A": "Vitamins are absent",
+        "B": "All macronutrients are deficient",
+        "C": "Excess fat is stored",
+        "D": "Water intake is high"
+      },
+      "correctAnswer": "B",
+      "explanation": "Marasmus results from severe deficiency of carbohydrates, proteins, and fats"
+    }
+  ]
+}

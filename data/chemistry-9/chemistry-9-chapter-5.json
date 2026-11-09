@@ -1,0 +1,1822 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 5,
+  "chapterTitle": "Unit 05: Chemical Bonding & Intermolecular Forces",
+  "slug": "chemistry-9-chapter-5",
+  "description": "Octet and duplet rules, chemical bonding types: ionic, covalent (single, double, triple, polar, non-polar), coordinate covalent, metallic bonding, and hydrogen bonding.",
+  "totalQuestions": 151,
+  "questions": [
+    {
+      "id": "chem9-c5-q1",
+      "question": "Rocks, soil, petroleum, and coal are best classified as:",
+      "options": {
+        "A": "Pure elements",
+        "B": "Simple compounds",
+        "C": "Complex mixtures of compounds",
+        "D": "Atomic substances"
+      },
+      "correctAnswer": "C",
+      "explanation": "These materials contain multiple compounds mixed in varying proportions"
+    },
+    {
+      "id": "chem9-c5-q2",
+      "question": "Few elements consist of unbounded atoms, such as:",
+      "options": {
+        "A": "Oxygen and nitrogen",
+        "B": "Helium and neon",
+        "C": "Sodium and chlorine",
+        "D": "Carbon and sulphur"
+      },
+      "correctAnswer": "B",
+      "explanation": "Noble gases exist as single, unbonded atoms in nature"
+    },
+    {
+      "id": "chem9-c5-q3",
+      "question": "Helium, neon, and argon, are present in the atmosphere as:",
+      "options": {
+        "A": "Molecules",
+        "B": "Compounds",
+        "C": "Bounded atoms",
+        "D": "Unbounded atoms"
+      },
+      "correctAnswer": "D",
+      "explanation": "These noble gases remain monoatomic due to their stable electronic structure"
+    },
+    {
+      "id": "chem9-c5-q4",
+      "question": "Some substances being hard while others are soft is due to:",
+      "options": {
+        "A": "Size of atoms",
+        "B": "Colour of substances",
+        "C": "Type of atomic bonding",
+        "D": "Presence of air"
+      },
+      "correctAnswer": "C",
+      "explanation": "Bond strength and structure determine hardness or flexibility"
+    },
+    {
+      "id": "chem9-c5-q5",
+      "question": "The periodic table contains how many groups of normal elements:",
+      "options": {
+        "A": "Six",
+        "B": "Seven",
+        "C": "Eight",
+        "D": "Ten"
+      },
+      "correctAnswer": "C",
+      "explanation": "Normal elements are arranged in eight main groups from IA to VIIIA"
+    },
+    {
+      "id": "chem9-c5-q6",
+      "question": "Group VIIIA elements are called noble gases because they are:",
+      "options": {
+        "A": "Highly reactive",
+        "B": "Chemically inert",
+        "C": "Very heavy",
+        "D": "Metallic"
+      },
+      "correctAnswer": "B",
+      "explanation": "Noble gases have completely filled valence shells making them inert"
+    },
+    {
+      "id": "chem9-c5-q7",
+      "question": "Noble gases exist in the atmosphere in:",
+      "options": {
+        "A": "Atomic form",
+        "B": "Molecular form",
+        "C": "Compound form",
+        "D": "Ionic form"
+      },
+      "correctAnswer": "A",
+      "explanation": "They exist as single atoms due to lack of reactivity"
+    },
+    {
+      "id": "chem9-c5-q8",
+      "question": "The general electronic configuration of noble gases is:",
+      "options": {
+        "A": "ns1",
+        "B": "ns2",
+        "C": "ns2 np4",
+        "D": "ns2 np6"
+      },
+      "correctAnswer": "D",
+      "explanation": "Noble gases have fully filled s and p subshells"
+    },
+    {
+      "id": "chem9-c5-q9",
+      "question": "Helium is an exception because its configuration is:",
+      "options": {
+        "A": "1s1",
+        "B": "1s2",
+        "C": "2s2",
+        "D": "2p6"
+      },
+      "correctAnswer": "B",
+      "explanation": "Helium has only one shell which is completely filled with two electrons"
+    },
+    {
+      "id": "chem9-c5-q10",
+      "question": "Noble gases have completely filled:",
+      "options": {
+        "A": "d orbitals",
+        "B": "f orbitals",
+        "C": "only s subshell",
+        "D": "s and p subshells"
+      },
+      "correctAnswer": "D",
+      "explanation": "Filled s and p subshells provide maximum stability"
+    },
+    {
+      "id": "chem9-c5-q11",
+      "question": "Noble gases are also known as:",
+      "options": {
+        "A": "Reactive gases",
+        "B": "Inert gases",
+        "C": "Halogens",
+        "D": "Alkali metal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Their chemical inactivity gives them the name inert gases"
+    },
+    {
+      "id": "chem9-c5-q12",
+      "question": "Which of the following is the electronic configuration of neon is:",
+      "options": {
+        "A": "1s2 2s2 2p4",
+        "B": "1s2 2s2 2p6",
+        "C": "1s2 2s1",
+        "D": "1s2 2p6"
+      },
+      "correctAnswer": "B",
+      "explanation": "Neon has a complete octet in its second shell"
+    },
+    {
+      "id": "chem9-c5-q13",
+      "question": "Lewis introduced which concept to explain stability:",
+      "options": {
+        "A": "Valency rule",
+        "B": "Atomic theory",
+        "C": "Quantum rul",
+        "D": "Octet and e duplet rule"
+      },
+      "correctAnswer": "D",
+      "explanation": "Lewis explained bonding using electron configurations"
+    },
+    {
+      "id": "chem9-c5-q14",
+      "question": "The octet rule states that an atom is stable when it has______ number of electrons in its valence shell",
+      "options": {
+        "A": "2",
+        "B": "6",
+        "C": "8",
+        "D": "10"
+      },
+      "correctAnswer": "C",
+      "explanation": "Eight valence electrons provide chemical stability"
+    },
+    {
+      "id": "chem9-c5-q15",
+      "question": "During bond formation, the octet rule helps predict the:",
+      "options": {
+        "A": "Atomic mass",
+        "B": "Chemical behaviour",
+        "C": "Density",
+        "D": "Colour"
+      },
+      "correctAnswer": "B",
+      "explanation": "The octet rule explains reactions because atoms gain, lose, or share valence electrons to achieve stability"
+    },
+    {
+      "id": "chem9-c5-q16",
+      "question": "Which of the following elements follows duplet rule?",
+      "options": {
+        "A": "Hydrogen and helium",
+        "B": "Oxygen and nitrogen",
+        "C": "Sodium and potassium",
+        "D": "Chlorine and fluorine"
+      },
+      "correctAnswer": "A",
+      "explanation": "These elements need only two electrons for stability"
+    },
+    {
+      "id": "chem9-c5-q17",
+      "question": "Duplet rule applies to elements with electrons in:",
+      "options": {
+        "A": "p orbital",
+        "B": "d orbital",
+        "C": "f orbital",
+        "D": "s orbital only"
+      },
+      "correctAnswer": "D",
+      "explanation": "The first shell can hold only two electrons"
+    },
+    {
+      "id": "chem9-c5-q18",
+      "question": "Neon written as 1s2 2s2 2p6 3s1 is considered as:",
+      "options": {
+        "A": "Unstable and reactive",
+        "B": "Stable",
+        "C": "Inert",
+        "D": "Nobl"
+      },
+      "correctAnswer": "A",
+      "explanation": "The presence of an extra electron outside the completed shell makes the atom unstable and highly reactive"
+    },
+    {
+      "id": "chem9-c5-q19",
+      "question": "reactive 19. Loss of one electron from unstable Ne gives:",
+      "options": {
+        "A": "Ne",
+        "B": "Ne⁻",
+        "C": "Ne⁺",
+        "D": "Ne"
+      },
+      "correctAnswer": "C",
+      "explanation": "Loss of one electron completes the octet"
+    },
+    {
+      "id": "chem9-c5-q20",
+      "question": "Cl⁻ has configuration similar to:",
+      "options": {
+        "A": "Neon",
+        "B": "Argon",
+        "C": "Helium",
+        "D": "Krypt"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chloride ion matches argon’s configuration"
+    },
+    {
+      "id": "chem9-c5-q21",
+      "question": "Lithium achieves stability by:",
+      "options": {
+        "A": "Gaining one electron",
+        "B": "Losing one electron",
+        "C": "Sharing electron",
+        "D": "Gaining s          elect"
+      },
+      "correctAnswer": "B",
+      "explanation": "Loss of one electron gives helium-like configuration"
+    },
+    {
+      "id": "chem9-c5-q22",
+      "question": "Electronic configuration of lithium is:",
+      "options": {
+        "A": "1s2",
+        "B": "1s2 2s1",
+        "C": "1s2 2p1",
+        "D": "1s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lithium has one electron in its outer shell"
+    },
+    {
+      "id": "chem9-c5-q23",
+      "question": "Be forms Be²⁺ by:",
+      "options": {
+        "A": "Gaining electrons",
+        "B": "Sharing electrons",
+        "C": "Losing on electron",
+        "D": "e         Losing elect"
+      },
+      "correctAnswer": "D",
+      "explanation": "Loss of two electrons gives stable duplet"
+    },
+    {
+      "id": "chem9-c5-q24",
+      "question": "Helium is chemically inert because:",
+      "options": {
+        "A": "It is heavy",
+        "B": "It is radioactive",
+        "C": "It has tw shells",
+        "D": "It h o compl dupl"
+      },
+      "correctAnswer": "D",
+      "explanation": "A completely filled first shell satisfies the duplet rule and prevents helium from participating in chemical reactions It has many It is close to 25. Beryllium follows the duplet It is noble It is heavy ○ ○ ○ ○ rule because: shells helium"
+    },
+    {
+      "id": "chem9-c5-q25",
+      "question": "Beryllium follows the duplet rule because:",
+      "options": {
+        "A": "It is noble",
+        "B": "It is heavy",
+        "C": "It has man shells",
+        "D": "y       It is cl helium"
+      },
+      "correctAnswer": "D",
+      "explanation": "Elements near helium in the periodic table tend to lose electrons to attain a stable two-electron valence shell"
+    },
+    {
+      "id": "chem9-c5-q26",
+      "question": "Noble gases do not normally form compounds because:",
+      "options": {
+        "A": "Their valence shell is complete",
+        "B": "They are heavy",
+        "C": "They are metals",
+        "D": "They la electro"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since their outer shells are full, noble gases have no tendency to gain, lose, or share electrons in chemical reactions"
+    },
+    {
+      "id": "chem9-c5-q27",
+      "question": "reactions 27. Atoms react with other atoms due to:",
+      "options": {
+        "A": "Complete octet",
+        "B": "Incomplete valence shell",
+        "C": "Stable structure",
+        "D": "Zero elect"
+      },
+      "correctAnswer": "B",
+      "explanation": "Atoms with incomplete valence shells form bonds to achieve a stable electronic configuration"
+    },
+    {
+      "id": "chem9-c5-q28",
+      "question": "For which type of elements does the octet rule often fail due to involvement of d electrons in bonding:",
+      "options": {
+        "A": "Transition elements",
+        "B": "Main group elements",
+        "C": "s-block elements",
+        "D": "Halogen"
+      },
+      "correctAnswer": "A",
+      "explanation": "The octet rule does not always apply to transition elements because their d orbitals participate in bonding, making simple octet completion insufficient"
+    },
+    {
+      "id": "chem9-c5-q29",
+      "question": "simple octet completion insufficien 29. Which shell of an atom is called the valence shell because it participates in chemical reactions:",
+      "options": {
+        "A": "t Innermost shell",
+        "B": "Middle shell",
+        "C": "Outermost shell",
+        "D": "Filled s"
+      },
+      "correctAnswer": "C",
+      "explanation": "The valence shell is the outermost shell of an atom, and its electrons determine how the atom reacts chemically"
+    },
+    {
+      "id": "chem9-c5-q30",
+      "question": "chemically 30. Noble gases are placed in which of the following groups:",
+      "options": {
+        "A": "IA",
+        "B": "IVA",
+        "C": "VIIA",
+        "D": "VIIIA"
+      },
+      "correctAnswer": "D",
+      "explanation": "Noble gases are placed in Group VIIIA as they have completely filled valence shells and show very low chemical reactivity"
+    },
+    {
+      "id": "chem9-c5-q31",
+      "question": "chemical reactivity 31. Which factor directly determines the stability of an atom by influencing how it reacts chemically:",
+      "options": {
+        "A": "Atomic size",
+        "B": "Nuclear charge",
+        "C": "Atomic mass",
+        "D": "Electro configurat"
+      },
+      "correctAnswer": "D",
+      "explanation": "The stability of an atom depends on its electron arrangement, as a complete valence shell makes it less likely to react 32. What results when an atom loses or gains Isotopes Ions Molecules Neutrons ○ ○ ○ ○ electrons to achieve a stable electronic configuration: Answer: (B) Ions"
+    },
+    {
+      "id": "chem9-c5-q32",
+      "question": "likely to react 32. What results when an atom loses or gains electrons to achieve a stable electronic configuration:",
+      "options": {
+        "A": "Isotopes",
+        "B": "Ions",
+        "C": "Molecules",
+        "D": "Neutrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "When atoms lose or gain electrons, they become charged species called ions, which can participate in chemical reactions"
+    },
+    {
+      "id": "chem9-c5-q33",
+      "question": "chemical reactions 33. How is an atom with a complete octet in its valence shell classified in terms of chemical reactivity:",
+      "options": {
+        "A": "Reactive         Un",
+        "B": "stable          Me",
+        "C": "tallic",
+        "D": "Chemically stable"
+      },
+      "correctAnswer": "D",
+      "explanation": "An atom with a complete octet has a fully filled valence shell, which makes it chemically stable and less likely to react"
+    },
+    {
+      "id": "chem9-c5-q34",
+      "question": "likely to react 34. To which group of elements does the duet rule mainly apply because their first shell can hold only two electrons:",
+      "options": {
+        "A": "S Third period p elements el",
+        "B": "econd Firs eriod ele ements",
+        "C": "t period ments",
+        "D": "Transition metals"
+      },
+      "correctAnswer": "C",
+      "explanation": "The duet rule applies to first-period elements since their valence shell can accommodate only two electrons, making them stable with a duplet"
+    },
+    {
+      "id": "chem9-c5-q35",
+      "question": "electrons, making them stable with 35. On what factor does the chemical reactivity of an atom primarily depend, determining how it forms bonds with other atoms:",
+      "options": {
+        "A": "a duplet Number of Ne shells",
+        "B": "At utrons we",
+        "C": "omic ight",
+        "D": "Valence electrons"
+      },
+      "correctAnswer": "D",
+      "explanation": "The chemical reactivity of an atom is governed by the number and arrangement of its valence electrons, which determine how it interacts with other atoms"
+    },
+    {
+      "id": "chem9-c5-q36",
+      "question": "which determine how it interacts wi 36. On what factor does the chemical reactivity of an atom primarily depend, determining how it forms bonds with other atoms:",
+      "options": {
+        "A": "th other atoms Number of Ne shells",
+        "B": "Va utrons ele",
+        "C": "lence ctrons",
+        "D": "Atomic weight"
+      },
+      "correctAnswer": "C",
+      "explanation": "The chemical reactivity of an atom is governed by the number and arrangement of its valence electrons, which determine how it interacts with other atoms"
+    },
+    {
+      "id": "chem9-c5-q37",
+      "question": "which determine how it interacts wi 37. What effect does the completion of an octet have on the chemical nature of an atom:",
+      "options": {
+        "A": "th other atoms Larger        More",
+        "B": "reactive        S",
+        "C": "table",
+        "D": "Ionized"
+      },
+      "correctAnswer": "C",
+      "explanation": "Completion of the octet makes an atom chemically stable, so it shows little tendency to participate in chemical reactions"
+    },
+    {
+      "id": "chem9-c5-q38",
+      "question": "chemical reactions 38. Why does hydrogen behave differently from most other elements in chemical reactions:",
+      "options": {
+        "A": "It is heavy",
+        "B": "It has only one shell",
+        "C": "It is noble",
+        "D": "It has d electrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hydrogen has only one electron shell that can hold a maximum of two electrons, so it follows the duplet rule instead of the octet rule"
+    },
+    {
+      "id": "chem9-c5-q39",
+      "question": "rule instead of the octet rule 39. What holds atoms together when they combine to form substances:",
+      "options": {
+        "A": "Magnetic        Gr forces",
+        "B": "avitational Nu forces",
+        "C": "clear forces",
+        "D": "Chemical bonds"
+      },
+      "correctAnswer": "D",
+      "explanation": "Chemical bonds are forces of attraction that hold atoms together in substance"
+    },
+    {
+      "id": "chem9-c5-q40",
+      "question": "Chemical bonds are formed due to forces that are mainly:",
+      "options": {
+        "A": "Electrical",
+        "B": "Mechanical",
+        "C": "Magnetic",
+        "D": "Nuclear"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chemical bonding arises from electrical forces between charged particles"
+    },
+    {
+      "id": "chem9-c5-q41",
+      "question": "Atoms other than noble gases tend to react because they:",
+      "options": {
+        "A": "Are heavy       Ar",
+        "B": "e unstable",
+        "C": "Have filled shells",
+        "D": "Seek greater stability"
+      },
+      "correctAnswer": "D",
+      "explanation": "Reactive atoms combine to achieve a more stable electronic configuration"
+    },
+    {
+      "id": "chem9-c5-q42",
+      "question": "The tendency of metal atoms to lose electrons is called:",
+      "options": {
+        "A": "Electronegativ ity",
+        "B": "Electro positivity",
+        "C": "Electron affinity",
+        "D": "Ionization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Electro positivity describes the ability of metals to lose electrons easily"
+    },
+    {
+      "id": "chem9-c5-q43",
+      "question": "The tendency of non- metal atoms to gain electrons is called:",
+      "options": {
+        "A": "Electronegativ ity",
+        "B": "Electro positivity",
+        "C": "Electron affinity",
+        "D": "Conductivity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Electronegativity refers to the attraction of electrons by non-metals"
+    },
+    {
+      "id": "chem9-c5-q44",
+      "question": "Metals are described as electropositive because they:",
+      "options": {
+        "A": "Gain electrons",
+        "B": "Share         Lo electrons",
+        "C": "se electrons easily",
+        "D": "Have high electronegativ ity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Metals lose electrons from their outermost shell to become stable"
+    },
+    {
+      "id": "chem9-c5-q45",
+      "question": "Non-metals are electronegative because they:",
+      "options": {
+        "A": "Lose electrons ele",
+        "B": "Share        Gain ctrons only",
+        "C": "electrons easily",
+        "D": "Have low electron affinity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Non-metals gain electrons to complete their valence shell"
+    },
+    {
+      "id": "chem9-c5-q46",
+      "question": "Metals generally have low ionization energy which allows them to:",
+      "options": {
+        "A": "Gain electrons e",
+        "B": "Share lectrons",
+        "C": "Attract electrons",
+        "D": "Lose electrons easily"
+      },
+      "correctAnswer": "D",
+      "explanation": "Low ionization energy makes it easier for metals to lose electrons"
+    },
+    {
+      "id": "chem9-c5-q47",
+      "question": "Sodium forms a positive ion by the process:",
+      "options": {
+        "A": "Na + e⁻ →        Na Na⁻",
+        "B": "→ Na⁺ + e⁻",
+        "C": "Na + 2e⁻ → Na²⁻",
+        "D": "Na → Na²⁺ + 2e⁻"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sodium loses one electron to form a stable Na⁺ ion"
+    },
+    {
+      "id": "chem9-c5-q48",
+      "question": "Magnesium forms Mg²⁺ because it:",
+      "options": {
+        "A": "Gains two         L electrons         e",
+        "B": "oses two lectrons",
+        "C": "Gains one electron",
+        "D": "Shares electrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Magnesium loses two electrons to achieve a noble gas configuration"
+    },
+    {
+      "id": "chem9-c5-q49",
+      "question": "Fluorine forms a negative ion by which of the reaction:",
+      "options": {
+        "A": "F → F⁺ + e⁻",
+        "B": "F + e⁻ → F⁻",
+        "C": "F + 2e⁻ → F²⁻",
+        "D": "F → F²⁺ + 2e⁻"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fluorine gains one electron to complete its octet"
+    },
+    {
+      "id": "chem9-c5-q50",
+      "question": "Electronegative elements are generally:",
+      "options": {
+        "A": "Metals         No",
+        "B": "n-metals",
+        "C": "Noble gases",
+        "D": "All elements"
+      },
+      "correctAnswer": "B",
+      "explanation": "Non-metals are electronegative as they attract electrons strongly"
+    },
+    {
+      "id": "chem9-c5-q51",
+      "question": "Atoms can achieve noble gas configuration by:",
+      "options": {
+        "A": "Only losing      Onl electrons         e",
+        "B": "y gaining lectrons",
+        "C": "Sharing electrons",
+        "D": "All of these methods"
+      },
+      "correctAnswer": "D",
+      "explanation": "Atoms can lose, gain, or share electrons to achieve stability"
+    },
+    {
+      "id": "chem9-c5-q52",
+      "question": "In ionic bonding, the atom that loses electrons forms a:",
+      "options": {
+        "A": "Cation",
+        "B": "Anion",
+        "C": "Neutral atom",
+        "D": "Molecule"
+      },
+      "correctAnswer": "A",
+      "explanation": "Loss of electrons produces a positively charged ion called a cation"
+    },
+    {
+      "id": "chem9-c5-q53",
+      "question": "In ionic bonding, the atom that gains electrons becomes a:",
+      "options": {
+        "A": "Cation",
+        "B": "Anion",
+        "C": "Neutral atom",
+        "D": "Molecule"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gain of electrons results in the formation of a negatively charged ion"
+    },
+    {
+      "id": "chem9-c5-q54",
+      "question": "Sodium belongs to which group of the periodic table:",
+      "options": {
+        "A": "IIA",
+        "B": "IA",
+        "C": "VIA",
+        "D": "VIIIA"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sodium is an alkali metal placed in Group IA of the periodic table"
+    },
+    {
+      "id": "chem9-c5-q55",
+      "question": "The number of valence electrons present in a sodium atom is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "7"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sodium has one electron in its outermost shell"
+    },
+    {
+      "id": "chem9-c5-q56",
+      "question": "Magnesium belongs to which group in the periodic table:",
+      "options": {
+        "A": "IIA",
+        "B": "IA",
+        "C": "VIA",
+        "D": "VIIIA"
+      },
+      "correctAnswer": "A",
+      "explanation": "Magnesium is an alkaline earth metal in Group IIA"
+    },
+    {
+      "id": "chem9-c5-q57",
+      "question": "The number of valence electrons in a magnesium atom is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Magnesium has two electrons in its outermost shell"
+    },
+    {
+      "id": "chem9-c5-q58",
+      "question": "The attraction between cations and anions is:",
+      "options": {
+        "A": "Weak         Tem",
+        "B": "porary         Mag",
+        "C": "netic      el",
+        "D": "Strong ectrostatic force"
+      },
+      "correctAnswer": "D",
+      "explanation": "Opposite charges attract strongly, forming ionic bonds"
+    },
+    {
+      "id": "chem9-c5-q59",
+      "question": "Compounds formed by ionic bonds are called:",
+      "options": {
+        "A": "Covalent      Mol compounds     comp",
+        "B": "ecular           I ounds        compo",
+        "C": "onic unds       co",
+        "D": "Metallic mpounds"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ionic compounds consist of ions held together by electrostatic forces"
+    },
+    {
+      "id": "chem9-c5-q60",
+      "question": "Sodium is classified as a metal because it:",
+      "options": {
+        "A": "Gains          S electrons      el",
+        "B": "L hares ele ectrons e",
+        "C": "oses ctrons    ele asily",
+        "D": "Has high ctronegativ ity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Metals lose electrons to form positive ions"
+    },
+    {
+      "id": "chem9-c5-q61",
+      "question": "A sodium ion is represented as:",
+      "options": {
+        "A": "Na",
+        "B": "Na⁻           N",
+        "C": "a⁺",
+        "D": "Na²⁺"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sodium loses one electron to form Na⁺ ion"
+    },
+    {
+      "id": "chem9-c5-q62",
+      "question": "Magnesium forms which type of ion after losing electrons:",
+      "options": {
+        "A": "Mg⁺",
+        "B": "Mg²⁻",
+        "C": "Mg²⁺",
+        "D": "Mg⁻"
+      },
+      "correctAnswer": "C",
+      "explanation": "Magnesium loses two electrons to form Mg²⁺ ion"
+    },
+    {
+      "id": "chem9-c5-q63",
+      "question": "In magnesium fluoride, the ratio of Mg²⁺ to F⁻ ions is:",
+      "options": {
+        "A": "1:1",
+        "B": "2:1",
+        "C": "2:2",
+        "D": "1:2"
+      },
+      "correctAnswer": "D",
+      "explanation": "One Mg²⁺ ion requires two F⁻ ions to balance charges"
+    },
+    {
+      "id": "chem9-c5-q64",
+      "question": "Which pair is most likely to form an ionic bond:",
+      "options": {
+        "A": "H and H",
+        "B": "Na and Cl      C a",
+        "C": "nd H        O",
+        "D": "and O"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ionic bonds form between metals and non-metals like Na and Cl"
+    },
+    {
+      "id": "chem9-c5-q65",
+      "question": "What type of chemical bond is formed when non-metal atoms share electrons with each other:",
+      "options": {
+        "A": "Covalent bond",
+        "B": "Ionic bond   Metal",
+        "C": "H lic bond",
+        "D": "ydrogen bond"
+      },
+      "correctAnswer": "A",
+      "explanation": "A covalent bond is formed by the mutual sharing of electrons between non-metal atoms"
+    },
+    {
+      "id": "chem9-c5-q66",
+      "question": "Covalent bonds are generally formed between:",
+      "options": {
+        "A": "A me Two metals",
+        "B": "tal and a     Two non-metal       me",
+        "C": "non-       Me tals       no",
+        "D": "tals and ble gases"
+      },
+      "correctAnswer": "C",
+      "explanation": "Non-metal atoms share electrons to form covalent bonds"
+    },
+    {
+      "id": "chem9-c5-q67",
+      "question": "In a hydrogen molecule, two hydrogen atoms form a bond by:",
+      "options": {
+        "A": "Sharing electrons",
+        "B": "Gaining        Lo electrons      ele",
+        "C": "sing       Tr ctrons",
+        "D": "ansferring protons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Two hydrogen atoms share electrons to form a stable diatomic molecule"
+    },
+    {
+      "id": "chem9-c5-q68",
+      "question": "The molecule formed when two hydrogen atoms share electrons is:",
+      "options": {
+        "A": "H₂",
+        "B": "H₂⁺",
+        "C": "H",
+        "D": "H⁺"
+      },
+      "correctAnswer": "A",
+      "explanation": "Two hydrogen atoms share one electron pair to form H₂ molecule Energy of the Atoms Nuclear 69. Covalent bonding results Atoms lose system become charge ○ ○ ○ ○ in greater stability electrons decreases heavier increases because: Answer: (A) Energy of the system decreases"
+    },
+    {
+      "id": "chem9-c5-q69",
+      "question": "Covalent bonding results in greater stability because:",
+      "options": {
+        "A": "Energy of the system decreases",
+        "B": "Atoms become heavier         in",
+        "C": "Nuclear charge creases",
+        "D": "Atoms lose electrons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bond formation lowers energy, making the system more stable"
+    },
+    {
+      "id": "chem9-c5-q70",
+      "question": "Chlorine belongs to which group of the periodic table:",
+      "options": {
+        "A": "VA",
+        "B": "VIA",
+        "C": "VIIA",
+        "D": "VIIIA"
+      },
+      "correctAnswer": "C",
+      "explanation": "Chlorine is a halogen placed in Group VIIA"
+    },
+    {
+      "id": "chem9-c5-q71",
+      "question": "Valence electrons that are not shared in a covalent bond are called:",
+      "options": {
+        "A": "Bond pairs",
+        "B": "Free electrons",
+        "C": "Core electrons",
+        "D": "Lone pairs"
+      },
+      "correctAnswer": "D",
+      "explanation": "Lone pairs are valence electrons not involved in bonding"
+    },
+    {
+      "id": "chem9-c5-q72",
+      "question": "A covalent bond formed by sharing one electron pair is called a:",
+      "options": {
+        "A": "Double covalent bond   cov",
+        "B": "Triple co alent bond",
+        "C": "Single valent bond",
+        "D": "Polar bond"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sharing one pair of electrons results in a single covalent bond"
+    },
+    {
+      "id": "chem9-c5-q73",
+      "question": "A double covalent bond is formed when atoms share:",
+      "options": {
+        "A": "One One electron",
+        "B": "electron     Two pair",
+        "C": "electron pairs",
+        "D": "Three electron pairs"
+      },
+      "correctAnswer": "C",
+      "explanation": "Double bonds involve sharing of two electron pairs"
+    },
+    {
+      "id": "chem9-c5-q74",
+      "question": "The number of valence electrons in an oxygen atom is:",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correctAnswer": "B",
+      "explanation": "Oxygen has six electrons in its outermost shell"
+    },
+    {
+      "id": "chem9-c5-q75",
+      "question": "Each oxygen atom needs how many electrons to complete its octet:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Oxygen needs two more electrons to achieve octet configuration"
+    },
+    {
+      "id": "chem9-c5-q76",
+      "question": "The main reason covalent bonds form between atoms is to:",
+      "options": {
+        "A": "Achieve greater a stability",
+        "B": "Increase Incr tomic size",
+        "C": "ease mass",
+        "D": "Become charged"
+      },
+      "correctAnswer": "A",
+      "explanation": "Covalent bonds form because sharing electrons lowers energy and increases stability"
+    },
+    {
+      "id": "chem9-c5-q77",
+      "question": "A non-polar covalent bond is formed when electrons are shared between:",
+      "options": {
+        "A": "A metal and       Two non-metal",
+        "B": "different   Two i atoms            a",
+        "C": "dentical toms",
+        "D": "An ion and atom"
+      },
+      "correctAnswer": "C",
+      "explanation": "Identical atoms attract shared electrons equally, making the bond non-polar"
+    },
+    {
+      "id": "chem9-c5-q78",
+      "question": "Which molecule contains a non-polar covalent bond:",
+      "options": {
+        "A": "O₂",
+        "B": "H₂O",
+        "C": "HCl",
+        "D": "NH₃"
+      },
+      "correctAnswer": "A",
+      "explanation": "O₂ consists of identical atoms sharing electrons equally"
+    },
+    {
+      "id": "chem9-c5-q79",
+      "question": "The bond present in H–H molecule is classified as:",
+      "options": {
+        "A": "Polar covalent",
+        "B": "Coor Ionic cov",
+        "C": "dinate alent",
+        "D": "Non-polar covalent"
+      },
+      "correctAnswer": "D",
+      "explanation": "Both hydrogen atoms exert equal force on the shared electrons"
+    },
+    {
+      "id": "chem9-c5-q80",
+      "question": "Which of the following represents a non-polar double covalent bond:",
+      "options": {
+        "A": "H–Cl",
+        "B": "O=O",
+        "C": "N–H",
+        "D": "O–H"
+      },
+      "correctAnswer": "B",
+      "explanation": "Oxygen atoms share electrons equally forming a non-polar double bond"
+    },
+    {
+      "id": "chem9-c5-q81",
+      "question": "A polar covalent bond is formed when shared electrons are:",
+      "options": {
+        "A": "Un Equally shared s",
+        "B": "equally       Comp hared         tran",
+        "C": "letely sferred",
+        "D": "Not shared"
+      },
+      "correctAnswer": "B",
+      "explanation": "Difference in electronegativity leads to unequal electron sharing"
+    },
+    {
+      "id": "chem9-c5-q82",
+      "question": "In a polar covalent bond, the more electronegative atom becomes:",
+      "options": {
+        "A": "Positively N charged",
+        "B": "Pa eutral        nega cha",
+        "C": "rtially tively rged",
+        "D": "Completely negative"
+      },
+      "correctAnswer": "C",
+      "explanation": "Greater attraction pulls electron density toward the electronegative atom"
+    },
+    {
+      "id": "chem9-c5-q83",
+      "question": "The atom with lower electronegativity in a polar bond becomes:",
+      "options": {
+        "A": "Partially      P positive       n",
+        "B": "artially Ne egative",
+        "C": "utral       F",
+        "D": "ully charged"
+      },
+      "correctAnswer": "A",
+      "explanation": "Unequal sharing causes partial positive charge on less electronegative atom"
+    },
+    {
+      "id": "chem9-c5-q84",
+      "question": "Partial charges developed in polar covalent bonds are denoted as:",
+      "options": {
+        "A": "+1 and –1         δ⁺",
+        "B": "and δ⁻       Full",
+        "C": "charges",
+        "D": "Neutral charges"
+      },
+      "correctAnswer": "B",
+      "explanation": "Partial charges show uneven distribution of electron density"
+    },
+    {
+      "id": "chem9-c5-q85",
+      "question": "Which ion is formed using a coordinate covalent bond:",
+      "options": {
+        "A": "Na⁺",
+        "B": "NH₄⁺",
+        "C": "Mg²⁺",
+        "D": "Cl⁻"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ammonium ion contains a coordinate bond between N and H"
+    },
+    {
+      "id": "chem9-c5-q86",
+      "question": "The ammonium ion is formed from the reaction of:",
+      "options": {
+        "A": "NH₃ and NaCl",
+        "B": "NH₃ and HCl",
+        "C": "NH₃ and H₂O",
+        "D": "NH₃ and BF₃"
+      },
+      "correctAnswer": "B",
+      "explanation": "NH₃ donates a lone pair to H⁺ from HCl to form NH₄⁺"
+    },
+    {
+      "id": "chem9-c5-q87",
+      "question": "In the formation of NH₄⁺, the hydrogen contributes:",
+      "options": {
+        "A": "One electron     Two",
+        "B": "electrons    No el",
+        "C": "ectrons",
+        "D": "One proton only"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hydrogen contributes only its nucleus, not electrons"
+    },
+    {
+      "id": "chem9-c5-q88",
+      "question": "Coordinate covalent bonds are commonly observed in:",
+      "options": {
+        "A": "Noble gases       Met",
+        "B": "D als only m",
+        "C": "iatomic     M olecules",
+        "D": "etal–ligand complexes"
+      },
+      "correctAnswer": "D",
+      "explanation": "Metal ions often form coordinate bonds with ligands"
+    },
+    {
+      "id": "chem9-c5-q89",
+      "question": "A coordinate covalent bond becomes indistinguishable from a normal covalent bond because:",
+      "options": {
+        "A": "Electrons are    Elec identical       tra",
+        "B": "trons are nsferred         s",
+        "C": "Atoms eparate",
+        "D": "Charges develop"
+      },
+      "correctAnswer": "A",
+      "explanation": "Electrons cannot be differentiated after bond formation"
+    },
+    {
+      "id": "chem9-c5-q90",
+      "question": "Which of the following contains a coordinate covalent bond:",
+      "options": {
+        "A": "H₂",
+        "B": "NH₄⁺",
+        "C": "O₂",
+        "D": "Cl₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "NH₄⁺ has a dative bond formed by lone pair donation"
+    },
+    {
+      "id": "chem9-c5-q91",
+      "question": "Intermolecular forces are generally:",
+      "options": {
+        "A": "Stronger than    Weak covalent         ch bonds",
+        "B": "er than Equal emical bonds",
+        "C": "to ionic N bonds",
+        "D": "uclear forces"
+      },
+      "correctAnswer": "B",
+      "explanation": "They are weaker than covalent or ionic bonds but still affect properties Polar Non-polar Ionic 92. Dipole–dipole forces Noble gases ○ ○ ○ ○ molecules molecules compounds occur mainly between: Answer: (A) Polar molecules"
+    },
+    {
+      "id": "chem9-c5-q92",
+      "question": "Dipole–dipole forces occur mainly between:",
+      "options": {
+        "A": "Polar        No molecules       mo",
+        "B": "n-polar lecules       comp",
+        "C": "Ionic ounds",
+        "D": "Noble gases"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dipole–dipole interactions arise due to polarity in molecules"
+    },
+    {
+      "id": "chem9-c5-q93",
+      "question": "Which of the following substances shows dipole– dipole interaction:",
+      "options": {
+        "A": "O₂",
+        "B": "N₂",
+        "C": "HCl",
+        "D": "Cl₂"
+      },
+      "correctAnswer": "C",
+      "explanation": "HCl is a polar molecule and exhibits dipole–dipole forces"
+    },
+    {
+      "id": "chem9-c5-q94",
+      "question": "Paints and dyes protect surfaces mainly due to:",
+      "options": {
+        "A": "M Ionic bonding bo",
+        "B": "etallic nding",
+        "C": "Nuclear attraction",
+        "D": "Intermolecular forces"
+      },
+      "correctAnswer": "D",
+      "explanation": "Intermolecular forces help paints adhere and protect surfaces"
+    },
+    {
+      "id": "chem9-c5-q95",
+      "question": "The slight attraction between polar molecules is mainly due to:",
+      "options": {
+        "A": "Covalent         M bonding         bo",
+        "B": "etallic nding",
+        "C": "Nuclear forces",
+        "D": "Dipole– dipole interactions"
+      },
+      "correctAnswer": "D",
+      "explanation": "Dipole–dipole forces arise from partial charge attraction"
+    },
+    {
+      "id": "chem9-c5-q96",
+      "question": "Hydrogen bonding occurs when hydrogen is bonded to:",
+      "options": {
+        "A": "Fluorine",
+        "B": "Carbon",
+        "C": "Sulphur",
+        "D": "Any metal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nitrogen, oxygen, and fluorine strongly attract electrons, making hydrogen highly electron-deficient so it can form hydrogen bonds"
+    },
+    {
+      "id": "chem9-c5-q97",
+      "question": "can form hydrogen bonds 97. Which of the following molecules shows hydrogen bonding:",
+      "options": {
+        "A": "CO₂",
+        "B": "NH₃",
+        "C": "O₂",
+        "D": "N₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "NH₃ contains hydrogen bonded to nitrogen enabling hydrogen bonding"
+    },
+    {
+      "id": "chem9-c5-q98",
+      "question": "The unique properties of water are largely due to:",
+      "options": {
+        "A": "Ionic          M bonding         bo",
+        "B": "etallic nding",
+        "C": "Covalent bonding",
+        "D": "Hydrogen bonding"
+      },
+      "correctAnswer": "D",
+      "explanation": "Hydrogen bonding gives water high boiling point and cohesion"
+    },
+    {
+      "id": "chem9-c5-q99",
+      "question": "Which of the following materials benefits from hydrogen bonding:",
+      "options": {
+        "A": "Metals          P",
+        "B": "Pain lastics",
+        "C": "ts and resins",
+        "D": "Noble gases"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hydrogen bonding enhances adhesion and durability Topic # 5.5"
+    },
+    {
+      "id": "chem9-c5-q100",
+      "question": "For a substance to be soluble in water, it must contain:",
+      "options": {
+        "A": "Io Metals only m",
+        "B": "ns or polar    Non olecules       mol",
+        "C": "-polar ecules",
+        "D": "Neutral atoms"
+      },
+      "correctAnswer": "B",
+      "explanation": "Water dissolves substances that can interact through ionic or polar attractions"
+    },
+    {
+      "id": "chem9-c5-q101",
+      "question": "Which type of bond generally results in high melting point:",
+      "options": {
+        "A": "Weak intermolecular forces",
+        "B": "Str Hydrogen or bonding b",
+        "C": "ong ionic covalent onds",
+        "D": "Van der Waals forces"
+      },
+      "correctAnswer": "C",
+      "explanation": "Stronger bonds require more energy to break, raising melting points"
+    },
+    {
+      "id": "chem9-c5-q102",
+      "question": "Silicon dioxide has high melting point because it has:",
+      "options": {
+        "A": "Weak intermolecular m forces",
+        "B": "Small Free olecules",
+        "C": "electrons",
+        "D": "Giant covalent structure"
+      },
+      "correctAnswer": "D",
+      "explanation": "Strong covalent bonds form a rigid network that is difficult to break"
+    },
+    {
+      "id": "chem9-c5-q103",
+      "question": "Each silicon atom in silicon dioxide is bonded to:",
+      "options": {
+        "A": "One atom",
+        "B": "Two atoms",
+        "C": "Four atoms",
+        "D": "Seven atoms"
+      },
+      "correctAnswer": "D",
+      "explanation": "Each silicon atom is strongly bonded in a large covalent network"
+    },
+    {
+      "id": "chem9-c5-q104",
+      "question": "In graphite, carbon atoms are arranged in:",
+      "options": {
+        "A": "3-dimensional     2- network",
+        "B": "dimensional     Ra layers         p",
+        "C": "ndom attern",
+        "D": "Linear chains"
+      },
+      "correctAnswer": "B",
+      "explanation": "A layered arrangement allows graphite layers to slide over one another"
+    },
+    {
+      "id": "chem9-c5-q105",
+      "question": "Diamond is extremely hard because it has:",
+      "options": {
+        "A": "3- Weak bonds",
+        "B": "dimensional      L network        st",
+        "C": "ayered ructure",
+        "D": "Free electrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Strong covalent bonds extend in all directions making diamond very hard"
+    },
+    {
+      "id": "chem9-c5-q106",
+      "question": "Metals generally have high melting points due to:",
+      "options": {
+        "A": "Strong H metallic bonding",
+        "B": "ydrogen Ioni bonding",
+        "C": "c bonding",
+        "D": "Weak forces"
+      },
+      "correctAnswer": "A",
+      "explanation": "Metallic bonding holds atoms tightly in a giant structure"
+    },
+    {
+      "id": "chem9-c5-q107",
+      "question": "The main reason ionic compounds have high boiling points is:",
+      "options": {
+        "A": "Strong ionic L bonding",
+        "B": "Pre arge size mol",
+        "C": "sence of ecules",
+        "D": "Free electrons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Strong electrostatic forces require very high energy to break"
+    },
+    {
+      "id": "chem9-c5-q108",
+      "question": "Which of the following factor explains why graphite conducts electricity:",
+      "options": {
+        "A": "Free Ionic bonding wit",
+        "B": "electrons     Hyd hin layers",
+        "C": "rogen      In bonding",
+        "D": "termolecular forces"
+      },
+      "correctAnswer": "B",
+      "explanation": "Delocalized electrons move within graphite layers"
+    },
+    {
+      "id": "chem9-c5-q109",
+      "question": "Which compound has weak intermolecular forces:",
+      "options": {
+        "A": "NaCl",
+        "B": "CO₂",
+        "C": "CaCl₂",
+        "D": "MgO"
+      },
+      "correctAnswer": "B",
+      "explanation": "CO₂ molecules are held by weak intermolecular attractions"
+    },
+    {
+      "id": "chem9-c5-q110",
+      "question": "Electrical conduction requires the movement of:",
+      "options": {
+        "A": "Neutral atoms",
+        "B": "Nuclei        Mole",
+        "C": "cules",
+        "D": "Charged particles"
+      },
+      "correctAnswer": "D",
+      "explanation": "Only charged particles can carry electric current"
+    },
+    {
+      "id": "chem9-c5-q111",
+      "question": "Which structure allows easy movement of layers:",
+      "options": {
+        "A": "Graphite c",
+        "B": "Sodium hloride",
+        "C": "Diamond    Si",
+        "D": "licon dioxide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Weak forces between graphite layers allow sliding"
+    },
+    {
+      "id": "chem9-c5-q112",
+      "question": "Which compound has the highest melting point:",
+      "options": {
+        "A": "H₂O",
+        "B": "NaCl",
+        "C": "CO₂",
+        "D": "NH₃"
+      },
+      "correctAnswer": "B",
+      "explanation": "Strong ionic bonding gives NaCl a very high melting point"
+    },
+    {
+      "id": "chem9-c5-q113",
+      "question": "Which substance conducts electricity only when dissolved in water:",
+      "options": {
+        "A": "Copper",
+        "B": "Diamond",
+        "C": "Graphite",
+        "D": "HCl"
+      },
+      "correctAnswer": "D",
+      "explanation": "Hydrogen chloride forms mobile H⁺ and Cl⁻ ions only in aqueous solution, which allows the passage of electric current"
+    },
+    {
+      "id": "chem9-c5-q114",
+      "question": "electric current 114. Ionic compounds are electrically neutral overall because:",
+      "options": {
+        "A": "C They have no can ions",
+        "B": "harges They cel each mole other",
+        "C": "contain cules      fr",
+        "D": "They have ee electrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Total positive and negative charges balance out"
+    },
+    {
+      "id": "chem9-c5-q115",
+      "question": "Which of the following compounds will NOT conduct electricity in any state:",
+      "options": {
+        "A": "NaCl",
+        "B": "HCl",
+        "C": "MgCl₂",
+        "D": "CO₂"
+      },
+      "correctAnswer": "D",
+      "explanation": "Carbon dioxide exists as neutral covalent molecules and does not produce free ions or electrons in any state, so it cannot conduct electricity"
+    },
+    {
+      "id": "chem9-c5-q116",
+      "question": "state, so it cannot conduct electri 116. Which substance is the hardest naturally occurring material:",
+      "options": {
+        "A": "city Graphite",
+        "B": "Diamond",
+        "C": "Iron",
+        "D": "Quartz"
+      },
+      "correctAnswer": "B",
+      "explanation": "Diamond’s 3D covalent network gives extreme hardness"
+    },
+    {
+      "id": "chem9-c5-q117",
+      "question": "The arrangement of particles in polymers is mainly:",
+      "options": {
+        "A": "Layered",
+        "B": "3-dimensional",
+        "C": "In planes",
+        "D": "Random"
+      },
+      "correctAnswer": "C",
+      "explanation": "Polymer molecules consist of long chain structures that are arranged mainly in planes rather than in layered or fully three-dimensional networks"
+    },
+    {
+      "id": "chem9-c5-q118",
+      "question": "layered or fully three-dimensional 118. Electrical conduction in molten ionic compounds occurs due to:",
+      "options": {
+        "A": "networks Free-moving ions",
+        "B": "Electrons    Mole",
+        "C": "cules",
+        "D": "Neutrons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ions move freely and carry charge when molten"
+    },
+    {
+      "id": "chem9-c5-q119",
+      "question": "Sodium chloride melts at a high temperature because it has:",
+      "options": {
+        "A": "Strong ionic We bonding",
+        "B": "Hydr ak bonds bon",
+        "C": "ogen ding        m",
+        "D": "Small olecules"
+      },
+      "correctAnswer": "A",
+      "explanation": "Strong attraction between Na⁺ and Cl⁻ ions requires much energy"
+    },
+    {
+      "id": "chem9-c5-q120",
+      "question": "Acids conduct electricity in aqueous solution because they produce:",
+      "options": {
+        "A": "Neutrons",
+        "B": "Free I electrons",
+        "C": "ons         M",
+        "D": "olecules"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ions formed in water move freely and carry current"
+    },
+    {
+      "id": "chem9-c5-q121",
+      "question": "Which of the following is a covalent compound that conducts electricity in water:",
+      "options": {
+        "A": "NaCl",
+        "B": "HCl           C",
+        "C": "O₂",
+        "D": "CH₄"
+      },
+      "correctAnswer": "B",
+      "explanation": "HCl ionizes in water to form H⁺ and Cl⁻ ions"
+    },
+    {
+      "id": "chem9-c5-q122",
+      "question": "The melting of covalent solids involves breaking:",
+      "options": {
+        "A": "Intermolecular forces",
+        "B": "Covalent Ioni bonds",
+        "C": "c bonds",
+        "D": "Metallic bonds"
+      },
+      "correctAnswer": "A",
+      "explanation": "Only weak intermolecular attractions are broken"
+    },
+    {
+      "id": "chem9-c5-q123",
+      "question": "Graphite is commonly known as:",
+      "options": {
+        "A": "White carbon       Bl",
+        "B": "ack lead       Dia",
+        "C": "mond",
+        "D": "Charcoal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Graphite is traditionally called black lead due to its colour and appearance"
+    },
+    {
+      "id": "chem9-c5-q124",
+      "question": "Graphite is an allotrope of:",
+      "options": {
+        "A": "Silicon",
+        "B": "Iron            S",
+        "C": "ulphur",
+        "D": "Carbon"
+      },
+      "correctAnswer": "D",
+      "explanation": "Graphite and diamond are different structural forms of carbon"
+    },
+    {
+      "id": "chem9-c5-q125",
+      "question": "In graphite, each carbon atom is bonded to how many other carbon atoms:",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "7"
+      },
+      "correctAnswer": "B",
+      "explanation": "Each carbon atom forms three covalent bonds within a layer"
+    },
+    {
+      "id": "chem9-c5-q126",
+      "question": "The arrangement formed by carbon atoms in graphite layers is:",
+      "options": {
+        "A": "Cubic",
+        "B": "Hex Linear",
+        "C": "agonal rings",
+        "D": "Random"
+      },
+      "correctAnswer": "C",
+      "explanation": "Carbon atoms in graphite form hexagonal ring structures"
+    },
+    {
+      "id": "chem9-c5-q127",
+      "question": "The fourth valence electron of carbon in graphite is involved in:",
+      "options": {
+        "A": "Covalent      Van d bonding           f",
+        "B": "er Waals Ionic orces",
+        "C": "bonding",
+        "D": "Hydrogen bonding"
+      },
+      "correctAnswer": "B",
+      "explanation": "The fourth valence electron contributes to weak forces between layers"
+    },
+    {
+      "id": "chem9-c5-q128",
+      "question": "Which property of graphite makes it suitable for use in pencils:",
+      "options": {
+        "A": "Hardness         Br",
+        "B": "ittleness    Trans",
+        "C": "parency",
+        "D": "Layered structure"
+      },
+      "correctAnswer": "D",
+      "explanation": "Sliding layers leave marks on paper during writing"
+    },
+    {
+      "id": "chem9-c5-q129",
+      "question": "Diamond is an allotrope of:",
+      "options": {
+        "A": "Carbon            S",
+        "B": "ulphur",
+        "C": "Silicon",
+        "D": "Iron"
+      },
+      "correctAnswer": "A",
+      "explanation": "Diamond is a crystalline allotrope in which carbon atoms are strongly bonded in a rigid structure"
+    },
+    {
+      "id": "chem9-c5-q130",
+      "question": "The crystal structure of diamond is known as:",
+      "options": {
+        "A": "Hexagonal          L lattice         st",
+        "B": "ayered Ioni ructure",
+        "C": "c lattice",
+        "D": "Diamond cubic lattice"
+      },
+      "correctAnswer": "D",
+      "explanation": "Carbon atoms in diamond are arranged in a diamond cubic crystal lattice 131. In diamond, each carbon atom is bonded 4 carbon 3 carbon 6 carbon 8 carbon ○ ○ ○ ○ to: Answer: (A) 4 carbon"
+    },
+    {
+      "id": "chem9-c5-q131",
+      "question": "In diamond, each carbon atom is bonded to:",
+      "options": {
+        "A": "4 carbon",
+        "B": "3 carbon",
+        "C": "6 carbon",
+        "D": "8 carbon"
+      },
+      "correctAnswer": "A",
+      "explanation": "Each carbon atom forms four covalent bonds in a tetrahedral arrangement"
+    },
+    {
+      "id": "chem9-c5-q132",
+      "question": "The geometry around each carbon atom in diamond is:",
+      "options": {
+        "A": "Tetrahedral",
+        "B": "Octahedral",
+        "C": "Linear",
+        "D": "Trigonal planar"
+      },
+      "correctAnswer": "A",
+      "explanation": "Four bonds around carbon give diamond a tetrahedral geometry"
+    },
+    {
+      "id": "chem9-c5-q133",
+      "question": "The distance between two bonded carbon atoms in diamond is about:",
+      "options": {
+        "A": "1.0 × 10⁻¹⁰ m    1",
+        "B": ".54 × 10⁻¹⁰ m   2.",
+        "C": "5 × 10⁻¹⁰ m",
+        "D": "3.0 × 10⁻¹⁰ m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Strong covalent bonding keeps carbon atoms at a fixed distance of 1.54 × 10⁻¹⁰ m"
+    },
+    {
+      "id": "chem9-c5-q134",
+      "question": "The C–C–C bond angle in diamond is approximately:",
+      "options": {
+        "A": "90°",
+        "B": "120°",
+        "C": "180°",
+        "D": "109.5°"
+      },
+      "correctAnswer": "D",
+      "explanation": "The tetrahedral arrangement produces a bond angle of about 109.5 degrees"
+    },
+    {
+      "id": "chem9-c5-q135",
+      "question": "Diamond is a poor conductor of electricity because it:",
+      "options": {
+        "A": "Lacks delocalized electrons",
+        "B": "Is metallic    Co",
+        "C": "ntains ions",
+        "D": "Has free electrons"
+      },
+      "correctAnswer": "A",
+      "explanation": "All valence electrons are involved in covalent bonds, leaving no free electrons"
+    },
+    {
+      "id": "chem9-c5-q136",
+      "question": "The chemical inertness of diamond is due to:",
+      "options": {
+        "A": "Weak bonding",
+        "B": "Strong Pr covalent bonds",
+        "C": "esence of metals",
+        "D": "Ionic nature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Strong covalent bonds make diamond resistant to chemical reactions"
+    },
+    {
+      "id": "chem9-c5-q137",
+      "question": "Diamond is commonly used in jewellery because it has:",
+      "options": {
+        "A": "Durability and lustre",
+        "B": "High conductivity",
+        "C": "Magnetic nature",
+        "D": "Soft texture"
+      },
+      "correctAnswer": "A",
+      "explanation": "Exceptional hardness and shine make diamond ideal for ornaments"
+    },
+    {
+      "id": "chem9-c5-q138",
+      "question": "The hardness of diamond is useful in industry for:",
+      "options": {
+        "A": "Electrical insulation",
+        "B": "Cu Lubrication dr",
+        "C": "tting and illing tools",
+        "D": "Fuel production"
+      },
+      "correctAnswer": "C",
+      "explanation": "Diamond edges can cut hard materials without wearing out"
+    },
+    {
+      "id": "chem9-c5-q139",
+      "question": "Ionic compounds are strong in compression but generally:",
+      "options": {
+        "A": "Flexible",
+        "B": "Brittle",
+        "C": "Elastic",
+        "D": "Ductile"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ionic compounds break easily under stress because shifting ions cause repulsion"
+    },
+    {
+      "id": "chem9-c5-q140",
+      "question": "In the solid state, ionic compounds are poor conductors of electricity because:",
+      "options": {
+        "A": "They lack charge",
+        "B": "Ions are fixed   T in position",
+        "C": "hey contain molecules",
+        "D": "Electrons are fre"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fixed ions in the solid lattice cannot move to carry electric current"
+    },
+    {
+      "id": "chem9-c5-q141",
+      "question": "Ionic compounds conduct electricity when they are:",
+      "options": {
+        "A": "Solid",
+        "B": "Crystalline",
+        "C": "Compressed",
+        "D": "Melted"
+      },
+      "correctAnswer": "D",
+      "explanation": "Melting or dissolving frees ions, allowing them to move and conduct electricity"
+    },
+    {
+      "id": "chem9-c5-q142",
+      "question": "The electrical conductivity of molten ionic compounds is due to:",
+      "options": {
+        "A": "Free electrons",
+        "B": "Neutral atoms    M",
+        "C": "obile ions",
+        "D": "Weak bonds"
+      },
+      "correctAnswer": "C",
+      "explanation": "Freely moving positive and negative ions carry electric charge"
+    },
+    {
+      "id": "chem9-c5-q143",
+      "question": "Ionic compounds are commonly used in batteries and fuel cells as:",
+      "options": {
+        "A": "Electrolytes",
+        "B": "Electrodes",
+        "C": "Insulators",
+        "D": "Catalysts"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ionic compounds act as electrolytes by allowing ion movement in electrochemical cells"
+    },
+    {
+      "id": "chem9-c5-q144",
+      "question": "Quartz and silicon dioxide are widely used as:",
+      "options": {
+        "A": "Fuels",
+        "B": "Abrasives",
+        "C": "Lubricants",
+        "D": "Electrolytes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Their hardness allows them to wear down other surfaces effectively"
+    },
+    {
+      "id": "chem9-c5-q145",
+      "question": "In metals, valence electrons are described as:",
+      "options": {
+        "A": "Free electrons",
+        "B": "Fixed",
+        "C": "Localized",
+        "D": "Lone pairs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Valence electrons in metals are not bound to individual atoms and can move freely Delocalized Protons in Neutrons in Bound 146. The term “electron electrons ○ ○ ○ ○ metals metals electrons sea” refers to: moving freely"
+    },
+    {
+      "id": "chem9-c5-q146",
+      "question": "The term “electron sea” refers to:",
+      "options": {
+        "A": "Protons in       Ne metals",
+        "B": "De utrons in el metals movi",
+        "C": "localized ectrons ng freely",
+        "D": "Bound electrons"
+      },
+      "correctAnswer": "C",
+      "explanation": "The electron sea consists of delocalized electrons that move throughout the metal lattice"
+    },
+    {
+      "id": "chem9-c5-q147",
+      "question": "Metal cations are held together due to attraction between:",
+      "options": {
+        "A": "Cations only",
+        "B": "Meta Electrons only",
+        "C": "l cations and electron sea",
+        "D": "Neutral atoms"
+      },
+      "correctAnswer": "C",
+      "explanation": "Strong electrostatic attraction between positive ions and negative electrons holds metals together"
+    },
+    {
+      "id": "chem9-c5-q148",
+      "question": "Metallic bonding gives metals their characteristic property of:",
+      "options": {
+        "A": "Low Brittleness",
+        "B": "melting Tran point",
+        "C": "sparency    M",
+        "D": "alleability"
+      },
+      "correctAnswer": "D",
+      "explanation": "Layers of metal ions can slide over each other without breaking bonds"
+    },
+    {
+      "id": "chem9-c5-q149",
+      "question": "The sliding of metal layers without bond breaking is possible because:",
+      "options": {
+        "A": "Bonds are         B directional",
+        "B": "onds are        At weak            n",
+        "C": "oms are eutral",
+        "D": "Metallic bonds are non- directional"
+      },
+      "correctAnswer": "D",
+      "explanation": "Non-directional metallic bonds allow layers to move while maintaining attraction"
+    },
+    {
+      "id": "chem9-c5-q150",
+      "question": "The shiny appearance of metals is called:",
+      "options": {
+        "A": "Metallic lustre   Tra",
+        "B": "nsparency        D",
+        "C": "ullness",
+        "D": "Opacity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Free electrons reflect light, giving metals their shiny appearance"
+    },
+    {
+      "id": "chem9-c5-q151",
+      "question": "The ability of metals to be drawn into wires is called:",
+      "options": {
+        "A": "Ductility",
+        "B": "Malleability",
+        "C": "Elasticity",
+        "D": "Hardness"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ductility arises because metallic bonds remain intact during stretching"
+    }
+  ]
+}

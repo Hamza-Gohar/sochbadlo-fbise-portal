@@ -1,0 +1,370 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 9,
+  "chapterTitle": "Unit 09: Chemical Equilibrium & Reversible Reactions",
+  "slug": "chemistry-9-chapter-9",
+  "description": "Reversible reactions, dynamic equilibrium, law of mass action, equilibrium constant (Kc), conditions of equilibrium, and Le Chatelier principle in chemical systems.",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": "chem9-c9-q1",
+      "question": "A reaction in which products react to form original reactants is called:",
+      "options": {
+        "A": "Irreversible reaction",
+        "B": "Reversible reaction",
+        "C": "Displacement reaction",
+        "D": "Combustion reaction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reversible reactions proceed in both directions"
+    },
+    {
+      "id": "chem9-c9-q2",
+      "question": "When a liquid is placed in a closed container, it undergoes which physical process?",
+      "options": {
+        "A": "Evaporation only",
+        "B": "Condensation only",
+        "C": "Freezing",
+        "D": "Both A and B"
+      },
+      "correctAnswer": "D",
+      "explanation": "Evaporation and condensation occur simultaneously in a closed system"
+    },
+    {
+      "id": "chem9-c9-q3",
+      "question": "At equilibrium in a liquid- vapor system, which rates are equal?",
+      "options": {
+        "A": "Evaporation and freezing",
+        "B": "Evaporation and condensation",
+        "C": "Condensatio n and melting",
+        "D": "Freezing and melting"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rate of evaporation equals rate of condensation at equilibrium"
+    },
+    {
+      "id": "chem9-c9-q4",
+      "question": "In the reaction N₂ + 2O₂ ⇌ 2NO₂, the forward reaction produces:",
+      "options": {
+        "A": "N₂ and O₂",
+        "B": "NO₂",
+        "C": "N₂O",
+        "D": "O₃"
+      },
+      "correctAnswer": "B",
+      "explanation": "Forward reaction forms products from reactants"
+    },
+    {
+      "id": "chem9-c9-q5",
+      "question": "At the start of a reversible reaction, the rate of the reverse reaction is:",
+      "options": {
+        "A": "Zero",
+        "B": "Maximum",
+        "C": "Equal to forward reaction",
+        "D": "Unpredictabl e"
+      },
+      "correctAnswer": "A",
+      "explanation": "Initially, no product exists to react backward"
+    },
+    {
+      "id": "chem9-c9-q6",
+      "question": "In the reaction 2SO₂ + O₂ ⇌ 2SO₃, which is the forward reaction?",
+      "options": {
+        "A": "SO₃ → SO₂ + O₂",
+        "B": "2SO₂ + O₂ → 2SO₃",
+        "C": "SO₂ → O₂ + SO₃",
+        "D": "O₂ → SO₂ + SO₃"
+      },
+      "correctAnswer": "B",
+      "explanation": "Forward reaction is reactants forming products"
+    },
+    {
+      "id": "chem9-c9-q7",
+      "question": "As the concentration of SO₃ increases, the rate of reverse reaction:",
+      "options": {
+        "A": "Decreases",
+        "B": "Stays zero",
+        "C": "Disappears",
+        "D": "Increases"
+      },
+      "correctAnswer": "D",
+      "explanation": "Higher product concentration accelerates the reverse reaction Rates of Reactants are forward and Forward The reverse 8. Chemical equilibrium is fully reverse ○ ○ ○ ○ reaction stops reaction stops achieved when: converted reactions are equal"
+    },
+    {
+      "id": "chem9-c9-q8",
+      "question": "Chemical equilibrium is achieved when:",
+      "options": {
+        "A": "Forward reaction stops",
+        "B": "The reverse reaction stops",
+        "C": "Reactants are fully converted",
+        "D": "Rates of forward and reverse reactions are equal"
+      },
+      "correctAnswer": "D",
+      "explanation": "At equilibrium, reactions continue, but concentrations remain constant"
+    },
+    {
+      "id": "chem9-c9-q9",
+      "question": "Equilibrium in reversible reactions is called:",
+      "options": {
+        "A": "Static equilibrium",
+        "B": "Dynamic equilibrium",
+        "C": "Incomplete reaction",
+        "D": "Physical equilibrium"
+      },
+      "correctAnswer": "B",
+      "explanation": "Molecules constantly react but overall concentrations do not change"
+    },
+    {
+      "id": "chem9-c9-q10",
+      "question": "At dynamic equilibrium, the concentration of reactants and products:",
+      "options": {
+        "A": "Continues to change",
+        "B": "Becomes constant",
+        "C": "Becomes zero",
+        "D": "Becomes infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Constant concentrations indicate dynamic equilibrium"
+    },
+    {
+      "id": "chem9-c9-q11",
+      "question": "In reversible chemical reactions, the forward reaction converts:",
+      "options": {
+        "A": "Reactants into products",
+        "B": "Products into reactants",
+        "C": "Nothing",
+        "D": "Only gases"
+      },
+      "correctAnswer": "A",
+      "explanation": "Forward reaction forms products from reactants"
+    },
+    {
+      "id": "chem9-c9-q12",
+      "question": "In reversible reactions, the backward reaction converts:",
+      "options": {
+        "A": "Reactants into products",
+        "B": "Products into reactants",
+        "C": "Solvent into solute",
+        "D": "Catalyst into reactant"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reverse reaction regenerates the original reactants"
+    },
+    {
+      "id": "chem9-c9-q13",
+      "question": "In the chemical industry, reversible reactions are important for producing:",
+      "options": {
+        "A": "Ammonia and sulphuric acid",
+        "B": "Water only",
+        "C": "Oxygen",
+        "D": "Sand"
+      },
+      "correctAnswer": "A",
+      "explanation": "Industrial chemicals rely on equilibrium reactions"
+    },
+    {
+      "id": "chem9-c9-q14",
+      "question": "In a liquid-vapor equilibrium, the system is:",
+      "options": {
+        "A": "Open",
+        "B": "Closed",
+        "C": "Vacuum only",
+        "D": "At low pressure"
+      },
+      "correctAnswer": "B",
+      "explanation": "Equilibrium requires a closed system to prevent escape of molecules"
+    },
+    {
+      "id": "chem9-c9-q15",
+      "question": "Equilibrium in reversible reactions is reached when",
+      "options": {
+        "A": "Forward rate = Reverse rate",
+        "B": "Forward rate > Reverse rate",
+        "C": "Reverse rate Forward rate",
+        "D": ">   No reaction occurs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equal reaction rates define equilibrium"
+    },
+    {
+      "id": "chem9-c9-q16",
+      "question": "Which of the following is NOT true for dynamic equilibrium?",
+      "options": {
+        "A": "Forward reaction continues",
+        "B": "Reverse reaction continues",
+        "C": "Individual molecules keep reactin",
+        "D": "Concentratio s change g     constantly"
+      },
+      "correctAnswer": "D",
+      "explanation": "Concentrations remain constant; only molecular reactions continue"
+    },
+    {
+      "id": "chem9-c9-q17",
+      "question": "In the reaction 2SO₂ + O₂ ⇌ 2SO₃, what happens as SO₃ concentration increases?",
+      "options": {
+        "A": "Forward reaction accelerates",
+        "B": "Reverse reaction accelerates",
+        "C": "Forward reaction sto",
+        "D": "Reaction becomes ps irreversibl"
+      },
+      "correctAnswer": "B",
+      "explanation": "Higher product concentration speeds up the reverse reaction"
+    },
+    {
+      "id": "chem9-c9-q18",
+      "question": "Chemical equilibrium can be achieved when which of the following is placed in a closed container?",
+      "options": {
+        "A": "Only pure reactants",
+        "B": "Only pure products",
+        "C": "A mixture of reactants an product",
+        "D": "All of the d above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Equilibrium can be established starting from reactants, products, or their mixture"
+    },
+    {
+      "id": "chem9-c9-q19",
+      "question": "Equilibrium is possible only when the reaction system is kept in a:",
+      "options": {
+        "A": "Open container",
+        "B": "Closed container",
+        "C": "Vacuum chamber",
+        "D": "Flowing system"
+      },
+      "correctAnswer": "B",
+      "explanation": "A closed container prevents loss of reactants or products"
+    },
+    {
+      "id": "chem9-c9-q20",
+      "question": "At equilibrium, the forward and backward reactions occur:",
+      "options": {
+        "A": "At different speeds",
+        "B": "At zero speed",
+        "C": "At the same speed",
+        "D": "Alternately"
+      },
+      "correctAnswer": "C",
+      "explanation": "Equal rates of forward and reverse reactions define equilibrium"
+    },
+    {
+      "id": "chem9-c9-q21",
+      "question": "For equilibrium to persist, the temperature of the system must:",
+      "options": {
+        "A": "Increase",
+        "B": "Decrease",
+        "C": "Fluctuate",
+        "D": "Remain constant"
+      },
+      "correctAnswer": "D",
+      "explanation": "Change in temperature shifts the equilibrium position"
+    },
+    {
+      "id": "chem9-c9-q22",
+      "question": "Which physical factor related to space must remain constant for equilibrium?",
+      "options": {
+        "A": "Density",
+        "B": "Pressure or volume",
+        "C": "Surface area",
+        "D": "Colour"
+      },
+      "correctAnswer": "B",
+      "explanation": "Constant pressure or volume is essential for equilibrium 23. Which of the following is Constant Constant Constant Presence of a NOT a required condition pressure or ○ ○ ○ ○ concentration temperature catalyst for maintaining volume equilibrium? Answer: (D) Presence of a catalyst"
+    },
+    {
+      "id": "chem9-c9-q23",
+      "question": "Which of the following is NOT a required condition for maintaining equilibrium?",
+      "options": {
+        "A": "Constant concentration",
+        "B": "Constant temperature",
+        "C": "Constant pressure or volume",
+        "D": "Presence of a catalyst"
+      },
+      "correctAnswer": "D",
+      "explanation": "Catalysts do not change equilibrium conditions"
+    },
+    {
+      "id": "chem9-c9-q24",
+      "question": "The initial colour of hydrated copper(II) sulphate is",
+      "options": {
+        "A": "White",
+        "B": "Blue",
+        "C": "Pink",
+        "D": "Green"
+      },
+      "correctAnswer": "B",
+      "explanation": "CuSO₄·5H₂O is blue due to water of crystallization"
+    },
+    {
+      "id": "chem9-c9-q25",
+      "question": "On heating hydrated copper(II) sulphate, the observed colour change is:",
+      "options": {
+        "A": "White to blue",
+        "B": "Blue to green",
+        "C": "Blue to pink",
+        "D": "Blue to white"
+      },
+      "correctAnswer": "D",
+      "explanation": "Heating removes water, forming white anhydrous CuSO₄"
+    },
+    {
+      "id": "chem9-c9-q26",
+      "question": "On heating hydrated copper(II) sulphate, the observed colour change is:",
+      "options": {
+        "A": "White to blue",
+        "B": "Blue to white",
+        "C": "Blue to pink",
+        "D": "Blue to green"
+      },
+      "correctAnswer": "B",
+      "explanation": "Heating removes water, forming white anhydrous CuSO₄"
+    },
+    {
+      "id": "chem9-c9-q27",
+      "question": "The white solid formed after heating hydrated copper(II) sulphate is:",
+      "options": {
+        "A": "Anhydrous copper(II) sulphate",
+        "B": "Copper metal",
+        "C": "Copper oxide",
+        "D": "Copper carbonate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Removal of water forms anhydrous CuSO₄"
+    },
+    {
+      "id": "chem9-c9-q28",
+      "question": "When water is added to anhydrous copper(II) sulphate, it:",
+      "options": {
+        "A": "Turns blue again",
+        "B": "Remains white",
+        "C": "Turns green",
+        "D": "Decomposes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Anhydrous CuSO₄ absorbs water and becomes hydrated again"
+    },
+    {
+      "id": "chem9-c9-q29",
+      "question": "Hydrated cobalt(II) chloride has which colour?",
+      "options": {
+        "A": "Pink",
+        "B": "White",
+        "C": "Green",
+        "D": "Blue"
+      },
+      "correctAnswer": "A",
+      "explanation": "CoCl₂·6H₂O is pink due to water of crystallization 30. On heating hydrated Blue to pink Pink to blue White to blue Green to pink ○ ○ ○ ○ cobalt(II) chloride, the colour changes from: Answer: (B) Pink to blue"
+    },
+    {
+      "id": "chem9-c9-q30",
+      "question": "On heating hydrated cobalt(II) chloride, the colour changes from:",
+      "options": {
+        "A": "Blue to pink",
+        "B": "Pink to blue",
+        "C": "White to blue",
+        "D": "Green to pink"
+      },
+      "correctAnswer": "B",
+      "explanation": "Heating removes water forming blue anhydrous CoCl₂"
+    }
+  ]
+}

@@ -1,0 +1,2254 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 4,
+  "chapterTitle": "Unit 04: Periodic Table & Periodicity of Properties",
+  "slug": "chemistry-9-chapter-4",
+  "description": "Development of the periodic table, Mendeleev vs modern periodic law, groups and periods, periodic trends: atomic radius, ionic radius, ionization energy, electron affinity, and electronegativity.",
+  "totalQuestions": 187,
+  "questions": [
+    {
+      "id": "chem9-c4-q1",
+      "question": "The modern periodic table is based on increasing:",
+      "options": {
+        "A": "Atomic Mass",
+        "B": "Neutron Number",
+        "C": "Mass Number",
+        "D": "Atomic Number"
+      },
+      "correctAnswer": "D",
+      "explanation": "Elements are arranged according to increasing atomic number as discovered by Moseley"
+    },
+    {
+      "id": "chem9-c4-q2",
+      "question": "The scientist who established atomic number as the basis of classification in 1913 was:",
+      "options": {
+        "A": "Dalton",
+        "B": "Mendeleev",
+        "C": "Moseley",
+        "D": "Rutherford"
+      },
+      "correctAnswer": "C",
+      "explanation": "Moseley proved atomic number is fundamental for element arrangement"
+    },
+    {
+      "id": "chem9-c4-q3",
+      "question": "The periodic law states that properties of elements repeat periodically when arranged by increasing:",
+      "options": {
+        "A": "Atomic Number",
+        "B": "Atomic Mass",
+        "C": "Atomic Volume",
+        "D": "Density"
+      },
+      "correctAnswer": "A",
+      "explanation": "Element properties repeat when arranged by atomic number"
+    },
+    {
+      "id": "chem9-c4-q4",
+      "question": "The horizontal rows of the periodic table are called:",
+      "options": {
+        "A": "Groups",
+        "B": "Families",
+        "C": "Blocks",
+        "D": "Periods"
+      },
+      "correctAnswer": "D",
+      "explanation": "Horizontal rows are known as periods"
+    },
+    {
+      "id": "chem9-c4-q5",
+      "question": "Total number of periods in the periodic table are:",
+      "options": {
+        "A": "4",
+        "B": "7",
+        "C": "8",
+        "D": "5"
+      },
+      "correctAnswer": "B",
+      "explanation": "There are seven periods in the modern periodic table"
+    },
+    {
+      "id": "chem9-c4-q6",
+      "question": "Period 1 contains how many elements?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "18",
+        "D": "32"
+      },
+      "correctAnswer": "A",
+      "explanation": "The first period contains only two elements"
+    },
+    {
+      "id": "chem9-c4-q7",
+      "question": "Period 6 contains maximum how many elements?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "18",
+        "D": "32"
+      },
+      "correctAnswer": "D",
+      "explanation": "Sixth period contains 32 elements including f-block"
+    },
+    {
+      "id": "chem9-c4-q8",
+      "question": "The first three periods are called:",
+      "options": {
+        "A": "Long Periods",
+        "B": "Transition Periods",
+        "C": "Noble Periods",
+        "D": "Short Periods"
+      },
+      "correctAnswer": "D",
+      "explanation": "Periods 1 to 3 are known as short periods"
+    },
+    {
+      "id": "chem9-c4-q9",
+      "question": "Elements with similar properties lie in the same:",
+      "options": {
+        "A": "Group",
+        "B": "Period",
+        "C": "Diagonal",
+        "D": "Block body"
+      },
+      "correctAnswer": "A",
+      "explanation": "Elements in the same group have similar properties"
+    },
+    {
+      "id": "chem9-c4-q10",
+      "question": "Group 2 elements are known as:",
+      "options": {
+        "A": "Halogens",
+        "B": "Noble Gases",
+        "C": "Alkaline Ear Metals",
+        "D": "th Actinides"
+      },
+      "correctAnswer": "C",
+      "explanation": "Group 2 elements are alkaline earth metals"
+    },
+    {
+      "id": "chem9-c4-q11",
+      "question": "Group 1 elements are called:",
+      "options": {
+        "A": "Halogens",
+        "B": "Alkali Meta",
+        "C": "ls   Noble Gases",
+        "D": "Transition Metals"
+      },
+      "correctAnswer": "B",
+      "explanation": "Group 1 metallic elements are known as alkali metals"
+    },
+    {
+      "id": "chem9-c4-q12",
+      "question": "The atomic number represents number of:",
+      "options": {
+        "A": "Neutrons",
+        "B": "Shells",
+        "C": "Orbitals",
+        "D": "Protons Or Electrons"
+      },
+      "correctAnswer": "D",
+      "explanation": "Atomic number equals number of protons and electrons"
+    },
+    {
+      "id": "chem9-c4-q13",
+      "question": "According to Aufbau principle orbitals fill in orde of:",
+      "options": {
+        "A": "Decreasing r Energy",
+        "B": "Increasing Energy",
+        "C": "Random Order",
+        "D": "Alphabetical Order"
+      },
+      "correctAnswer": "B",
+      "explanation": "Electrons fill orbitals from lower to higher energy levels"
+    },
+    {
+      "id": "chem9-c4-q14",
+      "question": "The first orbital filled according to Aufbau principle is:",
+      "options": {
+        "A": "2s",
+        "B": "2p",
+        "C": "1s",
+        "D": "3s"
+      },
+      "correctAnswer": "C",
+      "explanation": "Electron filling begins with 1s orbital"
+    },
+    {
+      "id": "chem9-c4-q15",
+      "question": "Group 17 elements are called:",
+      "options": {
+        "A": "Halogens",
+        "B": "Alkali Meta",
+        "C": "ls   Noble Gases",
+        "D": "Transition Metals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Group 17 elements are highly reactive halogens"
+    },
+    {
+      "id": "chem9-c4-q16",
+      "question": "Group 18 elements are known as:",
+      "options": {
+        "A": "Alkali Metals",
+        "B": "Halogens",
+        "C": "Transition Metals",
+        "D": "Noble Gases"
+      },
+      "correctAnswer": "D",
+      "explanation": "Group 18 elements are inert noble gases"
+    },
+    {
+      "id": "chem9-c4-q17",
+      "question": "Maximum electrons in s orbital are:",
+      "options": {
+        "A": "6",
+        "B": "10",
+        "C": "14",
+        "D": "2"
+      },
+      "correctAnswer": "D",
+      "explanation": "An s orbital can hold maximum two electrons"
+    },
+    {
+      "id": "chem9-c4-q18",
+      "question": "Maximum electrons in d orbital are:",
+      "options": {
+        "A": "2",
+        "B": "6",
+        "C": "10",
+        "D": "14"
+      },
+      "correctAnswer": "C",
+      "explanation": "d subshell holds up to ten electrons"
+    },
+    {
+      "id": "chem9-c4-q19",
+      "question": "Maximum electrons in f orbital are:",
+      "options": {
+        "A": "2",
+        "B": "6",
+        "C": "10",
+        "D": "14"
+      },
+      "correctAnswer": "D",
+      "explanation": "f subshell can accommodate fourteen electrons"
+    },
+    {
+      "id": "chem9-c4-q20",
+      "question": "The block of an element is determined by:",
+      "options": {
+        "A": "Last Filled Orbital",
+        "B": "Atomic Mass",
+        "C": "Number Of Neutrons",
+        "D": "Densit"
+      },
+      "correctAnswer": "A",
+      "explanation": "The subshell of last electron determines the block"
+    },
+    {
+      "id": "chem9-c4-q21",
+      "question": "In s-block elements group number equals:",
+      "options": {
+        "A": "Number Of Neutrons",
+        "B": "Number Of Valence Electrons",
+        "C": "Period Numbe",
+        "D": "r       Atomic Ma"
+      },
+      "correctAnswer": "B",
+      "explanation": "For s-block group equals valence electrons"
+    },
+    {
+      "id": "chem9-c4-q22",
+      "question": "Sodium with configuration 1s2 2s2 2p6 3s1 belongs to:",
+      "options": {
+        "A": "p-block",
+        "B": "d-block",
+        "C": "f-block",
+        "D": "s-bloc"
+      },
+      "correctAnswer": "D",
+      "explanation": "Sodium belongs to the s-block because its last electron enters the 3s subshell according to the Aufbau principle"
+    },
+    {
+      "id": "chem9-c4-q23",
+      "question": "Sodium belongs to which of the following periods?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "C",
+      "explanation": "Valence electron has principal quantum number 3"
+    },
+    {
+      "id": "chem9-c4-q24",
+      "question": "Lithium configuration 1s² 2s¹ indicates it belongs to:",
+      "options": {
+        "A": "s-block",
+        "B": "p-block",
+        "C": "d-block",
+        "D": "f-bloc"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lithium belongs to the s-block because its valence electron is present in the 2s subshell"
+    },
+    {
+      "id": "chem9-c4-q25",
+      "question": "Carbon configuration 1s² 2s² 2p² belongs to:",
+      "options": {
+        "A": "s-block",
+        "B": "p-block",
+        "C": "d-block",
+        "D": "f-bloc"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbon belongs to the p-block because its valence electrons are present in the 2p subshell"
+    },
+    {
+      "id": "chem9-c4-q26",
+      "question": "Elements in same group have same number of:",
+      "options": {
+        "A": "Shells",
+        "B": "Neutrons",
+        "C": "Isotopes",
+        "D": "Valenc Electro"
+      },
+      "correctAnswer": "D",
+      "explanation": "Same valence electrons cause similar chemical properties"
+    },
+    {
+      "id": "chem9-c4-q27",
+      "question": "Elements in same period have same:",
+      "options": {
+        "A": "Valence Electrons",
+        "B": "Quantum Number n",
+        "C": "Group Number",
+        "D": "Atomic Ma"
+      },
+      "correctAnswer": "B",
+      "explanation": "Elements in the same period have the same principal quantum number n which represents the outermost shell Transitional Main Group f-block 28. Group A elements are also Inert Elements ○ ○ ○ ○ Elements Elements Elements called: Answer: (B) Main Group Elements"
+    },
+    {
+      "id": "chem9-c4-q28",
+      "question": "Group A elements are also called:",
+      "options": {
+        "A": "Transitional Elements",
+        "B": "Main Group Elements",
+        "C": "f-bloc Elements",
+        "D": "k Inert Elemen"
+      },
+      "correctAnswer": "B",
+      "explanation": "Group A elements are representative elements"
+    },
+    {
+      "id": "chem9-c4-q29",
+      "question": "Group B elements are known as:",
+      "options": {
+        "A": "Noble Gases",
+        "B": "Transitional Elements",
+        "C": "Halogens",
+        "D": "Alkali Meta"
+      },
+      "correctAnswer": "B",
+      "explanation": "Group B elements are called transitional elements because they form a bridge between s and p block elements"
+    },
+    {
+      "id": "chem9-c4-q30",
+      "question": "In groups 13 to 18 number of valence electrons equals:",
+      "options": {
+        "A": "Group Number Minus 10",
+        "B": "Group Number Plus 10",
+        "C": "Twice Grou Number",
+        "D": "p Period Numbe"
+      },
+      "correctAnswer": "A",
+      "explanation": "For p-block valence electrons equal group number minus ten"
+    },
+    {
+      "id": "chem9-c4-q31",
+      "question": "Number of valence electrons in group 15 is:",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "correctAnswer": "B",
+      "explanation": "Group 15 elements have five valence electrons in their outermost shell according to periodic trends"
+    },
+    {
+      "id": "chem9-c4-q32",
+      "question": "The pattern of properties repeats from one period to next according to:",
+      "options": {
+        "A": "Atomic Mass Law",
+        "B": "Periodic Law",
+        "C": "Octet Rul",
+        "D": "e      Boyle Law"
+      },
+      "correctAnswer": "B",
+      "explanation": "The periodic law states that when elements are arranged by increasing atomic number their properties repeat periodically"
+    },
+    {
+      "id": "chem9-c4-q33",
+      "question": "periodically 33. Groups 13 to 18 elements except helium are:",
+      "options": {
+        "A": "s-block",
+        "B": "p-block",
+        "C": "d-block",
+        "D": "f-block"
+      },
+      "correctAnswer": "B",
+      "explanation": "These elements belong to the p-block because their valence electrons occupy the p subshell"
+    },
+    {
+      "id": "chem9-c4-q34",
+      "question": "The charge on an ion is mainly determined by the number of:",
+      "options": {
+        "A": "Neutrons",
+        "B": "Valence Electrons",
+        "C": "Shells",
+        "D": "Isotopes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ions are formed by loss or gain of valence electrons to achieve stability"
+    },
+    {
+      "id": "chem9-c4-q35",
+      "question": "In s-block elements the group number is equal to:",
+      "options": {
+        "A": "Atomic Mass",
+        "B": "Number Of Valence Electrons",
+        "C": "Period Numb",
+        "D": "Neutron er Number"
+      },
+      "correctAnswer": "B",
+      "explanation": "For s-block elements group number directly represents valence electrons"
+    },
+    {
+      "id": "chem9-c4-q36",
+      "question": "In p-block elements valence electrons equal:",
+      "options": {
+        "A": "Group Number Minus 10",
+        "B": "Group Number Plus 10",
+        "C": "Period Numb",
+        "D": "Twice Atomic er Number"
+      },
+      "correctAnswer": "A",
+      "explanation": "For p-block elements valence electrons are calculated as group number minus ten"
+    },
+    {
+      "id": "chem9-c4-q37",
+      "question": "The most stable electron configuration is:",
+      "options": {
+        "A": "3 Or 5 Electrons",
+        "B": "2 Or 8 Electrons",
+        "C": "10 Electrons",
+        "D": "12 Electron"
+      },
+      "correctAnswer": "B",
+      "explanation": "Atoms become stable when they achieve duplet or octet configuration"
+    },
+    {
+      "id": "chem9-c4-q38",
+      "question": "Elements with 1 valence electron tend to form:",
+      "options": {
+        "A": "-1 Ion",
+        "B": "+1 Ion",
+        "C": "+2 Ion",
+        "D": "-2 Ion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Elements with one valence electron lose that electron to achieve a stable noble gas configuration and form a +1 ion"
+    },
+    {
+      "id": "chem9-c4-q39",
+      "question": "Elements with 3 valence electrons tend to form:",
+      "options": {
+        "A": "-3 Ion",
+        "B": "+3 Ion",
+        "C": "-2 Ion",
+        "D": "+1 Ion"
+      },
+      "correctAnswer": "B",
+      "explanation": "They lose three electrons to achieve noble gas configuration"
+    },
+    {
+      "id": "chem9-c4-q40",
+      "question": "Elements with 7 valence electrons tend to form:",
+      "options": {
+        "A": "+1 Ion",
+        "B": "-1 Ion",
+        "C": "+2 Ion",
+        "D": "-2 Ion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Elements with seven valence electrons gain one electron to complete their octet and form a −1 ion"
+    },
+    {
+      "id": "chem9-c4-q41",
+      "question": "Elements with 4 valence electrons can form:",
+      "options": {
+        "A": "Only +4 Ion",
+        "B": "Only -4 Ion",
+        "C": "Both +4 And -4 Ions",
+        "D": "Only +1 Ion"
+      },
+      "correctAnswer": "C",
+      "explanation": "They may lose or gain four electrons depending on conditions"
+    },
+    {
+      "id": "chem9-c4-q42",
+      "question": "Lithium forms which ion?",
+      "options": {
+        "A": "Li²⁺",
+        "B": "Li⁺",
+        "C": "Li⁻",
+        "D": "Li²⁻"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lithium loses one electron to form Li⁺"
+    },
+    {
+      "id": "chem9-c4-q43",
+      "question": "After losing one electron Na⁺ attains configuration of:",
+      "options": {
+        "A": "Neon",
+        "B": "Helium",
+        "C": "Argon",
+        "D": "Krypton"
+      },
+      "correctAnswer": "A",
+      "explanation": "Na⁺ has electron configuration similar to noble gas neon"
+    },
+    {
+      "id": "chem9-c4-q44",
+      "question": "Group 2 elements are called:",
+      "options": {
+        "A": "Halogens",
+        "B": "Alkaline Earth Metals",
+        "C": "Noble Gases",
+        "D": "Transition Metals"
+      },
+      "correctAnswer": "B",
+      "explanation": "Group 2 elements are known as alkaline earth metals"
+    },
+    {
+      "id": "chem9-c4-q45",
+      "question": "Group 2 elements form:",
+      "options": {
+        "A": "+1 Ion",
+        "B": "-1 Ion",
+        "C": "+2 Ion",
+        "D": "-2 Ion"
+      },
+      "correctAnswer": "C",
+      "explanation": "They lose two valence electrons forming divalent cations"
+    },
+    {
+      "id": "chem9-c4-q46",
+      "question": "Magnesium belongs to group:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "16",
+        "D": "17"
+      },
+      "correctAnswer": "B",
+      "explanation": "Magnesium has two valence electrons so it is in group 2"
+    },
+    {
+      "id": "chem9-c4-q47",
+      "question": "How many electrons does Mg lose to become stable?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Magnesium loses two electrons to achieve noble gas configuration"
+    },
+    {
+      "id": "chem9-c4-q48",
+      "question": "An ion formed by gain of electrons is called:",
+      "options": {
+        "A": "Cation",
+        "B": "Anion",
+        "C": "Proton",
+        "D": "Neutron"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gain of electrons produces negatively charged anion"
+    },
+    {
+      "id": "chem9-c4-q49",
+      "question": "An ion formed by loss of electrons is called:",
+      "options": {
+        "A": "Cation",
+        "B": "Anion",
+        "C": "Isotope",
+        "D": "Rad"
+      },
+      "correctAnswer": "A",
+      "explanation": "Loss of electrons produces positively charged cation"
+    },
+    {
+      "id": "chem9-c4-q50",
+      "question": "The tendency of atoms to gain or lose electrons is to achieve:",
+      "options": {
+        "A": "Higher Mass",
+        "B": "Higher Densi",
+        "C": "ty   Metallic Nat",
+        "D": "Noble Gas ure Configurat"
+      },
+      "correctAnswer": "D",
+      "explanation": "Atoms gain or lose electrons in order to attain a stable noble gas configuration with a complete duplet or octet"
+    },
+    {
+      "id": "chem9-c4-q51",
+      "question": "Elements with 5 valence electrons tend to form:",
+      "options": {
+        "A": "-3 Ion",
+        "B": "+3 Ion",
+        "C": "-1 Ion",
+        "D": "+2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Elements with five valence electrons gain three electrons to complete their octet and form a −3 ion"
+    },
+    {
+      "id": "chem9-c4-q52",
+      "question": "Neon has stable configuration because it has:",
+      "options": {
+        "A": "2 Electrons",
+        "B": "8 Electrons",
+        "C": "6 Electron",
+        "D": "s        4 Electr"
+      },
+      "correctAnswer": "B",
+      "explanation": "Neon is stable because it has a complete octet of eight electrons in its outermost shell"
+    },
+    {
+      "id": "chem9-c4-q53",
+      "question": "Helium has how many valence electrons?",
+      "options": {
+        "A": "8",
+        "B": "6",
+        "C": "1",
+        "D": "2"
+      },
+      "correctAnswer": "D",
+      "explanation": "Helium follows duplet rule with two electrons"
+    },
+    {
+      "id": "chem9-c4-q54",
+      "question": "Noble gases are chemically:",
+      "options": {
+        "A": "Highly Reactive",
+        "B": "Stable And Unreactive",
+        "C": "Strong Oxidizers",
+        "D": "Strong Reducer"
+      },
+      "correctAnswer": "B",
+      "explanation": "They have complete valence shells making them stable"
+    },
+    {
+      "id": "chem9-c4-q55",
+      "question": "Physical and chemical properties vary periodically because of changes in:",
+      "options": {
+        "A": "Atomic Mass",
+        "B": "Electronic Configuratio",
+        "C": "Colour n",
+        "D": "Den"
+      },
+      "correctAnswer": "B",
+      "explanation": "Periodic changes in electronic configuration cause periodic variation in properties"
+    },
+    {
+      "id": "chem9-c4-q56",
+      "question": "Elements placed in the same group have similar:",
+      "options": {
+        "A": "Atomic Size",
+        "B": "Valence Shell Electronic Configuration",
+        "C": "Number Of Shells",
+        "D": "Atomic"
+      },
+      "correctAnswer": "B",
+      "explanation": "Same valence shell configuration results in similar chemical behaviour"
+    },
+    {
+      "id": "chem9-c4-q57",
+      "question": "Physical properties in a group vary gradually because of change in:",
+      "options": {
+        "A": "Atomic Size",
+        "B": "Atomic Number Only",
+        "C": "Colour",
+        "D": "Isoto"
+      },
+      "correctAnswer": "A",
+      "explanation": "Atomic size increases down a group causing gradual variation"
+    },
+    {
+      "id": "chem9-c4-q58",
+      "question": "Atomic size changes from top to bottom in a group because:",
+      "options": {
+        "A": "Protons Decrease",
+        "B": "Shielding Decreases",
+        "C": "Valence Electrons Decrease",
+        "D": "Number Shells I"
+      },
+      "correctAnswer": "D",
+      "explanation": "Atomic size increases down a group because an extra electron shell is added in each successive element"
+    },
+    {
+      "id": "chem9-c4-q59",
+      "question": "In a period valence electrons increase from:",
+      "options": {
+        "A": "Top To Bottom",
+        "B": "Left To Right",
+        "C": "Right To Le",
+        "D": "ft       Bottom T"
+      },
+      "correctAnswer": "B",
+      "explanation": "Across a period valence electrons increase gradually"
+    },
+    {
+      "id": "chem9-c4-q60",
+      "question": "Shielding effect is caused by:",
+      "options": {
+        "A": "Valence Electrons",
+        "B": "Inner Shell Electrons",
+        "C": "Protons",
+        "D": "Neutr"
+      },
+      "correctAnswer": "B",
+      "explanation": "Inner electrons reduce attraction between nucleus and valence electrons"
+    },
+    {
+      "id": "chem9-c4-q61",
+      "question": "Which has greater shielding effect Be or Mg?",
+      "options": {
+        "A": "Be",
+        "B": "Mg",
+        "C": "Both equal",
+        "D": "Non"
+      },
+      "correctAnswer": "B",
+      "explanation": "Magnesium has greater shielding effect because it has more electron shells than beryllium"
+    },
+    {
+      "id": "chem9-c4-q62",
+      "question": "Shielding effect increases when moving:",
+      "options": {
+        "A": "Top To Bottom",
+        "B": "Right To Left",
+        "C": "Left To Rig",
+        "D": "ht        Across"
+      },
+      "correctAnswer": "A",
+      "explanation": "Shielding effect increases down a group because additional inner shells reduce the nuclear attraction on valence electrons"
+    },
+    {
+      "id": "chem9-c4-q63",
+      "question": "electrons 63. Which has greater number of shells Li or Be?",
+      "options": {
+        "A": "Be",
+        "B": "Li",
+        "C": "Both equal",
+        "D": "Non"
+      },
+      "correctAnswer": "C",
+      "explanation": "Lithium and beryllium are in same period so have same shells"
+    },
+    {
+      "id": "chem9-c4-q64",
+      "question": "Across a period shielding effect remains:",
+      "options": {
+        "A": "Increasing",
+        "B": "Decreasing",
+        "C": "Constant",
+        "D": "Zer"
+      },
+      "correctAnswer": "C",
+      "explanation": "Shielding effect remains constant across a period because the number of inner shell electrons does not change"
+    },
+    {
+      "id": "chem9-c4-q65",
+      "question": "Atomic size is affected by which of the following?",
+      "options": {
+        "A": "Electronic Configuration",
+        "B": "Colour",
+        "C": "Shape",
+        "D": "Taste"
+      },
+      "correctAnswer": "A",
+      "explanation": "Atomic size depends on how electrons are arranged around the nucleus which determines the atomic radius"
+    },
+    {
+      "id": "chem9-c4-q66",
+      "question": "Ionization energy depends on:",
+      "options": {
+        "A": "Density",
+        "B": "Electronic Configuration",
+        "C": "Boiling Poin",
+        "D": "t      Pressure"
+      },
+      "correctAnswer": "B",
+      "explanation": "Electron arrangement influences ease of removing electrons"
+    },
+    {
+      "id": "chem9-c4-q67",
+      "question": "Elements in same group have similar chemical properties because they have:",
+      "options": {
+        "A": "Same Size",
+        "B": "Same Density",
+        "C": "Same Atomic Mass",
+        "D": "Same Valence Electrons"
+      },
+      "correctAnswer": "D",
+      "explanation": "Elements in the same group have similar chemical properties because they possess the same number of valence electrons"
+    },
+    {
+      "id": "chem9-c4-q68",
+      "question": "electrons 68. Physical properties change gradually in a group due to:",
+      "options": {
+        "A": "Constant Shells",
+        "B": "Increasing Atomic Size",
+        "C": "Decreasing Protons",
+        "D": "Constant Electrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Increasing size down group changes physical trends"
+    },
+    {
+      "id": "chem9-c4-q69",
+      "question": "Periodic trends are consistent within:",
+      "options": {
+        "A": "Only Groups",
+        "B": "Only Periods",
+        "C": "Both A and B",
+        "D": "Blocks Only"
+      },
+      "correctAnswer": "C",
+      "explanation": "Trends are observed both across periods and down groups"
+    },
+    {
+      "id": "chem9-c4-q70",
+      "question": "As atomic number increases electronic configuration shows:",
+      "options": {
+        "A": "Random Change",
+        "B": "Periodic Fluctuation",
+        "C": "No Change",
+        "D": "Sudden Stop"
+      },
+      "correctAnswer": "B",
+      "explanation": "Electronic arrangement changes periodically with atomic number"
+    },
+    {
+      "id": "chem9-c4-q71",
+      "question": "Shielding effect reduces attraction between:",
+      "options": {
+        "A": "Neutrons And Protons",
+        "B": "Nucleus And Valence Electrons",
+        "C": "Protons And Electrons",
+        "D": "Atoms And Molecules"
+      },
+      "correctAnswer": "B",
+      "explanation": "Inner electrons weaken nuclear pull on outer electrons"
+    },
+    {
+      "id": "chem9-c4-q72",
+      "question": "The trends of properties in periodic table are related to:",
+      "options": {
+        "A": "Density",
+        "B": "Electronic Configuration",
+        "C": "Boiling Poin",
+        "D": "t      Pressure"
+      },
+      "correctAnswer": "B",
+      "explanation": "Periodic trends arise due to systematic variation in electron arrangement"
+    },
+    {
+      "id": "chem9-c4-q73",
+      "question": "Down a group electron affinity generally:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains Zero",
+        "D": "Doubles"
+      },
+      "correctAnswer": "B",
+      "explanation": "Larger size reduces attraction for additional electrons"
+    },
+    {
+      "id": "chem9-c4-q74",
+      "question": "Which property usually decreases across a period?",
+      "options": {
+        "A": "Atomic Size",
+        "B": "Valence Electrons",
+        "C": "Nuclear Char",
+        "D": "ge   Proton Numbe"
+      },
+      "correctAnswer": "A",
+      "explanation": "Atomic size decreases from left to right due to stronger nuclear pull"
+    },
+    {
+      "id": "chem9-c4-q75",
+      "question": "Atomic size mainly depends on:",
+      "options": {
+        "A": "Atomic Mass",
+        "B": "Electronic Configuration",
+        "C": "Colou",
+        "D": "r       Density"
+      },
+      "correctAnswer": "B",
+      "explanation": "Atomic size is determined by the arrangement of electrons around the nucleus"
+    },
+    {
+      "id": "chem9-c4-q76",
+      "question": "Atomic size is defined as the distance between the nucleus and:",
+      "options": {
+        "A": "Inner Shell",
+        "B": "Valence Shell",
+        "C": "Protons",
+        "D": "Neutrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Atomic radius is the average distance from nucleus to the outermost shell"
+    },
+    {
+      "id": "chem9-c4-q77",
+      "question": "Atomic radius generally decreases across a period because:",
+      "options": {
+        "A": "Shells Increase",
+        "B": "Nuclear Charge Increases",
+        "C": "Shielding Increases",
+        "D": "Atomic Mass Decreases"
+      },
+      "correctAnswer": "B",
+      "explanation": "Greater nuclear charge pulls valence electrons closer reducing atomic size"
+    },
+    {
+      "id": "chem9-c4-q78",
+      "question": "When moving left to right in a period electrons are added to:",
+      "options": {
+        "A": "New Shell",
+        "B": "Same Valence Shell",
+        "C": "Inner Core On",
+        "D": "ly      Nucleus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Across a period electrons enter the same outer shell"
+    },
+    {
+      "id": "chem9-c4-q79",
+      "question": "From lithium to beryllium atomic size:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains Zer",
+        "D": "o       Doubles"
+      },
+      "correctAnswer": "B",
+      "explanation": "Atomic size decreases from Li to Be due to increased nuclear charge"
+    },
+    {
+      "id": "chem9-c4-q80",
+      "question": "When a new shell is added atomic radius:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains Zer",
+        "D": "o       Doubles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adding a new electron shell increases atomic size"
+    },
+    {
+      "id": "chem9-c4-q81",
+      "question": "Across a period shielding effect generally:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains Constant",
+        "D": "Doubles"
+      },
+      "correctAnswer": "C",
+      "explanation": "Inner shell electrons remain same across a period"
+    },
+    {
+      "id": "chem9-c4-q82",
+      "question": "The size of an atom is mainly determined by the size of its:",
+      "options": {
+        "A": "Nucleus",
+        "B": "Neutrons",
+        "C": "Core Electro",
+        "D": "ns   Valence Shel"
+      },
+      "correctAnswer": "D",
+      "explanation": "Atomic size depends on the outermost shell distance 83. Atomic number increases 2 To 3 3 To 4 4 To 5 5 To 6 ○ ○ ○ ○ from Li to Be from: Answer: (B) 3 To 4"
+    },
+    {
+      "id": "chem9-c4-q83",
+      "question": "Atomic number increases from Li to Be from:",
+      "options": {
+        "A": "2 To 3",
+        "B": "3 To 4",
+        "C": "4 To",
+        "D": "5             5"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lithium has atomic number 3 and beryllium has 4"
+    },
+    {
+      "id": "chem9-c4-q84",
+      "question": "Increase in nuclear charge across a period causes atomic radius to:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains Constan",
+        "D": "t Doub"
+      },
+      "correctAnswer": "B",
+      "explanation": "Stronger attraction between nucleus and electrons reduces size"
+    },
+    {
+      "id": "chem9-c4-q85",
+      "question": "Ionization energy values are expressed in:",
+      "options": {
+        "A": "Joules per atom",
+        "B": "Kilojoules mole",
+        "C": "per     Electron per gra",
+        "D": "volts      Calori m             mol"
+      },
+      "correctAnswer": "B",
+      "explanation": "Standard unit for ionization energy is kJ/mol to quantify energy per mole of atoms"
+    },
+    {
+      "id": "chem9-c4-q86",
+      "question": "As we move down a group, ionization energy:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains Constan",
+        "D": "Fluct t           rando"
+      },
+      "correctAnswer": "B",
+      "explanation": "Down a group, increased shielding weakens nucleus-electron attraction, lowering ionization energy"
+    },
+    {
+      "id": "chem9-c4-q87",
+      "question": "Why does ionization energy decrease down a group?",
+      "options": {
+        "A": "Atomic radius decreases",
+        "B": "Nuclear char decreases",
+        "C": "ge     Electron a increas",
+        "D": "ffinity   Shieldi es           incr"
+      },
+      "correctAnswer": "D",
+      "explanation": "More inner electrons shield valence electrons, making them easier to remove"
+    },
+    {
+      "id": "chem9-c4-q88",
+      "question": "Reason for increasing ionization energy across a period:",
+      "options": {
+        "A": "Nuclear charge increases",
+        "B": "Shielding ef decreases",
+        "C": "fect     Atomic s increas",
+        "D": "Ele ize es repu incr"
+      },
+      "correctAnswer": "A",
+      "explanation": "Stronger nuclear pull across a period requires more energy to remove the outer electron"
+    },
+    {
+      "id": "chem9-c4-q89",
+      "question": "Across a period, ionization energy:",
+      "options": {
+        "A": "Decreases",
+        "B": "Increases",
+        "C": "Remains constan",
+        "D": "Drops t              ri"
+      },
+      "correctAnswer": "B",
+      "explanation": "Across a period, increasing nuclear charge pulls electrons closer, raising ionization energy"
+    },
+    {
+      "id": "chem9-c4-q90",
+      "question": "Ionization energy trend in a group is mainly due to:",
+      "options": {
+        "A": "Increasing atomic mass",
+        "B": "Increasin shielding ef",
+        "C": "g       Decreasin fect   nuclear ch",
+        "D": "Incre g numbe arge prot"
+      },
+      "correctAnswer": "B",
+      "explanation": "More inner electrons shield valence electrons, decreasing ionization energy down the group"
+    },
+    {
+      "id": "chem9-c4-q91",
+      "question": "Which of the following correctly explains easy cation formation?",
+      "options": {
+        "A": "High electronegativi y",
+        "B": "Low atomic t mass",
+        "C": "High ioniz energy",
+        "D": "ation     Low ion ener"
+      },
+      "correctAnswer": "D",
+      "explanation": "Elements with low ionization energy lose electrons easily to form cations"
+    },
+    {
+      "id": "chem9-c4-q92",
+      "question": "Electron affinity explains the formation of:",
+      "options": {
+        "A": "Cations",
+        "B": "Neutron",
+        "C": "s           Anion",
+        "D": "s           Proto"
+      },
+      "correctAnswer": "C",
+      "explanation": "Electron affinity describes energy released when an atom gains an electron to form an anion"
+    },
+    {
+      "id": "chem9-c4-q93",
+      "question": "Electron affinity results in th formation of a:",
+      "options": {
+        "A": "e       Uni-positive i",
+        "B": "on     Neutral a",
+        "C": "Uni-nega tom gaseous",
+        "D": "tive Di-posit ion"
+      },
+      "correctAnswer": "C",
+      "explanation": "Addition of one electron produces a Uni-negative gaseous ion"
+    },
+    {
+      "id": "chem9-c4-q94",
+      "question": "Which factor affects electron affinity?",
+      "options": {
+        "A": "Nuclear charge",
+        "B": "Temperatu only",
+        "C": "re Pressure",
+        "D": "only       Densi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nuclear charge influences how strongly the added electron is attracted to the nucleus"
+    },
+    {
+      "id": "chem9-c4-q95",
+      "question": "Across a period from left to right, electron affinity generally:",
+      "options": {
+        "A": "Decreases",
+        "B": "Increas",
+        "C": "Remain es consta",
+        "D": "s         Drops t nt           rise"
+      },
+      "correctAnswer": "B",
+      "explanation": "Increasing nuclear charge across a period binds the added electron more strongly"
+    },
+    {
+      "id": "chem9-c4-q96",
+      "question": "Alkali metals have:",
+      "options": {
+        "A": "Highest electron affin",
+        "B": "Lowest ity electron aff",
+        "C": "Zero ele inity       affin",
+        "D": "ctron      Negati ity      nuclear"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alkali metals release the least energy when gaining an electron in a period"
+    },
+    {
+      "id": "chem9-c4-q97",
+      "question": "Alkali metals release the least energy when gaining an electron in a period",
+      "options": {
+        "A": "Decrease in atomic radius",
+        "B": "Increase shielding",
+        "C": "Increa in nuclear effect onl",
+        "D": "se in Decreas charge proton y"
+      },
+      "correctAnswer": "B",
+      "explanation": "Increased shielding down the group weakens attraction for the added electron"
+    },
+    {
+      "id": "chem9-c4-q98",
+      "question": "Due to increased shielding down a group, the added electron binds:",
+      "options": {
+        "A": "Less tightly",
+        "B": "More tigh",
+        "C": "With sa tly force",
+        "D": "me        With do forc"
+      },
+      "correctAnswer": "A",
+      "explanation": "Greater shielding reduces effective nuclear attraction on the incoming electron"
+    },
+    {
+      "id": "chem9-c4-q99",
+      "question": "Characteristic properties of elements in a group are based on:",
+      "options": {
+        "A": "Atomic mass only",
+        "B": "Periodicit chemica reactivi",
+        "C": "y and l         Density ty",
+        "D": "Colou only variat"
+      },
+      "correctAnswer": "B",
+      "explanation": "Elements in the same group show similar properties due to periodic trends and reactivity patterns 100. Alkali metals belong to: Group 2 Group 17 Group 1 Group 18 ○ ○ ○ ○"
+    },
+    {
+      "id": "chem9-c4-q100",
+      "question": "Alkali metals belong to:",
+      "options": {
+        "A": "Group 2",
+        "B": "Group 17",
+        "C": "Group 1",
+        "D": "Group 18"
+      },
+      "correctAnswer": "C",
+      "explanation": "Alkali metals are placed in Group 1 of the periodic table"
+    },
+    {
+      "id": "chem9-c4-q101",
+      "question": "Which of the following is an alkali metal?",
+      "options": {
+        "A": "Sodium",
+        "B": "Calcium",
+        "C": "Alumi",
+        "D": "nium        Chlor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sodium is a Group 1 alkali metal with high reactivity"
+    },
+    {
+      "id": "chem9-c4-q102",
+      "question": "Reactivity of alkali metals increases:",
+      "options": {
+        "A": "From bottom to top",
+        "B": "From left t right",
+        "C": "o           From bot",
+        "D": "top to Across a tom"
+      },
+      "correctAnswer": "C",
+      "explanation": "Down the group atomic size increases making electron loss easier"
+    },
+    {
+      "id": "chem9-c4-q103",
+      "question": "Increase in atomic size down a group causes:",
+      "options": {
+        "A": "Decrease in reactivity",
+        "B": "Increase i reactivit",
+        "C": "n       No change y        reactivi",
+        "D": "Incre in electron ty"
+      },
+      "correctAnswer": "B",
+      "explanation": "Larger atomic size makes electron loss easier, increasing reactivity"
+    },
+    {
+      "id": "chem9-c4-q104",
+      "question": "Metallic character refers to the tendency of an element to:",
+      "options": {
+        "A": "Gain electrons",
+        "B": "Share electr",
+        "C": "Lose elect ons      and form cations",
+        "D": "rons Form an only"
+      },
+      "correctAnswer": "C",
+      "explanation": "Metallic character is the ability of an atom to lose electrons easily"
+    },
+    {
+      "id": "chem9-c4-q105",
+      "question": "Elements with strong metallic character easily form:",
+      "options": {
+        "A": "Anions",
+        "B": "Cations",
+        "C": "Neut",
+        "D": "Covalent rons onl"
+      },
+      "correctAnswer": "B",
+      "explanation": "Metals readily lose electrons to form positive ions"
+    },
+    {
+      "id": "chem9-c4-q106",
+      "question": "Metallic character increases down a group because of:",
+      "options": {
+        "A": "Decrease in atomic mass",
+        "B": "Addition of new electron shells",
+        "C": "Decre ic shie",
+        "D": "Incre ase in electron lding"
+      },
+      "correctAnswer": "B",
+      "explanation": "More shells increase atomic size and reduce nuclear attraction for valence electrons"
+    },
+    {
+      "id": "chem9-c4-q107",
+      "question": "As new shells are added down a group, outer electrons are:",
+      "options": {
+        "A": "Closer to nucleus",
+        "B": "More tightl held",
+        "C": "y       Farther f nucleus",
+        "D": "rom         Remov comple"
+      },
+      "correctAnswer": "C",
+      "explanation": "Added shells increase distance between nucleus and valence electrons"
+    },
+    {
+      "id": "chem9-c4-q108",
+      "question": "Stronger attractive force across a period makes valence electrons:",
+      "options": {
+        "A": "Easy to remove",
+        "B": "Difficult remove",
+        "C": "to Free movi",
+        "D": "ng           Neut"
+      },
+      "correctAnswer": "B",
+      "explanation": "Increased effective nuclear charge tightly holds valence electrons"
+    },
+    {
+      "id": "chem9-c4-q109",
+      "question": "Potassium compared to sodium is:",
+      "options": {
+        "A": "Less reactive",
+        "B": "Equal in reactivity",
+        "C": "More reactiv",
+        "D": "e        Non-meta"
+      },
+      "correctAnswer": "C",
+      "explanation": "Potassium lies below sodium and loses its outer electron more easily"
+    },
+    {
+      "id": "chem9-c4-q110",
+      "question": "Reactivity generally increases down a group due to:",
+      "options": {
+        "A": "Decrease in atomic mass",
+        "B": "Increase in atomic size",
+        "C": "Decrease shieldi",
+        "D": "in      Increase ng      melting p"
+      },
+      "correctAnswer": "B",
+      "explanation": "Larger atomic size weakens nuclear attraction making electron participation easier"
+    },
+    {
+      "id": "chem9-c4-q111",
+      "question": "Down a group, outermost electrons are:",
+      "options": {
+        "A": "Closer to nucleus",
+        "B": "More tightly held",
+        "C": "Farther fr nucleus",
+        "D": "om Absent"
+      },
+      "correctAnswer": "C",
+      "explanation": "Additional shells increase distance between nucleus and valence electrons"
+    },
+    {
+      "id": "chem9-c4-q112",
+      "question": "Elements in Groups 1 and 2 are highly reactive because they:",
+      "options": {
+        "A": "Gain electrons easily",
+        "B": "Lose electrons easily to form cations",
+        "C": "Have hig density",
+        "D": "h         Have fu valence s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Group 1 and 2 elements readily lose electrons forming positive ions"
+    },
+    {
+      "id": "chem9-c4-q113",
+      "question": "Elements in Groups 16 and 17 are reactive because they tend to:",
+      "options": {
+        "A": "Lose electrons",
+        "B": "Share neutrons",
+        "C": "Form metalli bonds only",
+        "D": "c       Gain elec to form a"
+      },
+      "correctAnswer": "D",
+      "explanation": "Groups 16 and 17 gain electrons to complete their valence shells"
+    },
+    {
+      "id": "chem9-c4-q114",
+      "question": "Density generally increases down a group because of:",
+      "options": {
+        "A": "Decreasing atomic mass",
+        "B": "Increasing atomic mass and size",
+        "C": "Decreasi protons",
+        "D": "ng        Constan neutron"
+      },
+      "correctAnswer": "B",
+      "explanation": "More protons and neutrons increase mass resulting in higher density"
+    },
+    {
+      "id": "chem9-c4-q115",
+      "question": "Increase in number of protons and neutrons leads to:",
+      "options": {
+        "A": "Lower density",
+        "B": "Higher density",
+        "C": "Lower reactiv",
+        "D": "Smaller a ity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Greater nuclear mass contributes to increased density"
+    },
+    {
+      "id": "chem9-c4-q116",
+      "question": "Across a period, density generally:",
+      "options": {
+        "A": "Decreases continuously",
+        "B": "Increases then decreases",
+        "C": "Remains constan",
+        "D": "Double t"
+      },
+      "correctAnswer": "B",
+      "explanation": "Density peaks near the middle of a period then declines"
+    },
+    {
+      "id": "chem9-c4-q117",
+      "question": "Alkali metals form which type of ion?",
+      "options": {
+        "A": "-1 ion",
+        "B": "+2 ion",
+        "C": "+1 ion",
+        "D": "Neutral a"
+      },
+      "correctAnswer": "C",
+      "explanation": "Alkali metals lose one valence electron forming +1 cations"
+    },
+    {
+      "id": "chem9-c4-q118",
+      "question": "Reactivity of alkali metals down the group:",
+      "options": {
+        "A": "Decreases",
+        "B": "Increas",
+        "C": "Remains es constant",
+        "D": "Drops the rises"
+      },
+      "correctAnswer": "B",
+      "explanation": "Increased atomic size down the group makes electron loss easier"
+    },
+    {
+      "id": "chem9-c4-q119",
+      "question": "Alkali metals are relatively:",
+      "options": {
+        "A": "Hard",
+        "B": "Dense",
+        "C": "Non-metall",
+        "D": "ic         Soft"
+      },
+      "correctAnswer": "D",
+      "explanation": "Alkali metals are soft and can be cut with a knife"
+    },
+    {
+      "id": "chem9-c4-q120",
+      "question": "Density of alkali metals is generally:",
+      "options": {
+        "A": "High",
+        "B": "Moderate",
+        "C": "Low",
+        "D": "Extremely h"
+      },
+      "correctAnswer": "C",
+      "explanation": "Alkali metals have comparatively low densities among metals"
+    },
+    {
+      "id": "chem9-c4-q121",
+      "question": "Alkali metals are good conductors of:",
+      "options": {
+        "A": "Heat and electricity",
+        "B": "Light o",
+        "C": "nly     Sound onl",
+        "D": "y       Radiation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Free-moving electrons make alkali metals excellent conductors"
+    },
+    {
+      "id": "chem9-c4-q122",
+      "question": "Alkali metals react with water to produce:",
+      "options": {
+        "A": "Metal oxide only",
+        "B": "Metal chlorid",
+        "C": "Metal e     hydroxide a hydrogen",
+        "D": "nd      Oxygen ga"
+      },
+      "correctAnswer": "C",
+      "explanation": "Metal + water forms metal hydroxide and hydrogen gas"
+    },
+    {
+      "id": "chem9-c4-q123",
+      "question": "Melting and boiling points of alkali metals down the group:",
+      "options": {
+        "A": "Increase",
+        "B": "Decreas",
+        "C": "e         Double",
+        "D": "Remain constant"
+      },
+      "correctAnswer": "B",
+      "explanation": "Increased atomic size weakens metallic bonding lowering melting and boiling points"
+    },
+    {
+      "id": "chem9-c4-q124",
+      "question": "Electronic configuration influences an element’s:",
+      "options": {
+        "A": "Colour only",
+        "B": "Chemical behaviour",
+        "C": "Density on",
+        "D": "ly    Physical sh"
+      },
+      "correctAnswer": "B",
+      "explanation": "Valence electron arrangement determines chemical properties"
+    },
+    {
+      "id": "chem9-c4-q125",
+      "question": "Periodic table helps identify trends in:",
+      "options": {
+        "A": "Atomic size",
+        "B": "Electronic configuratio",
+        "C": "Gravity n",
+        "D": "Colour"
+      },
+      "correctAnswer": "A",
+      "explanation": "Atomic size follows predictable trends across periods and groups"
+    },
+    {
+      "id": "chem9-c4-q126",
+      "question": "Unknown element position can be predicted by examining its:",
+      "options": {
+        "A": "Colour",
+        "B": "Densit",
+        "C": "Electron y configurat",
+        "D": "ic ion Temperature"
+      },
+      "correctAnswer": "C",
+      "explanation": "Electronic configuration determines periodic table placement"
+    },
+    {
+      "id": "chem9-c4-q127",
+      "question": "Reactivity of alkali metals with water down the group:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreas",
+        "C": "Remain es Consta",
+        "D": "s              St nt           comp"
+      },
+      "correctAnswer": "A",
+      "explanation": "Greater atomic size down the group enhances reaction with water"
+    },
+    {
+      "id": "chem9-c4-q128",
+      "question": "Periodic table helps identify trends in:",
+      "options": {
+        "A": "Atomic size",
+        "B": "Temperat",
+        "C": "ure          Colo",
+        "D": "ur             Gr"
+      },
+      "correctAnswer": "A",
+      "explanation": "Atomic size follows predictable trends across periods and groups"
+    },
+    {
+      "id": "chem9-c4-q129",
+      "question": "Transition elements are located in which block of the periodic table:",
+      "options": {
+        "A": "s-block",
+        "B": "p-block",
+        "C": "d-block",
+        "D": "f-block"
+      },
+      "correctAnswer": "C",
+      "explanation": "Transition elements belong to the d-block of the periodic table"
+    },
+    {
+      "id": "chem9-c4-q130",
+      "question": "Transition elements are found in which groups of the periodic table:",
+      "options": {
+        "A": "Group 1 To 2",
+        "B": "Group 3 To 12",
+        "C": "Group 3 To 12",
+        "D": "Group 1 To 18"
+      },
+      "correctAnswer": "B",
+      "explanation": "They occupy groups 3 to 12 in the periodic table"
+    },
+    {
+      "id": "chem9-c4-q131",
+      "question": "Transition elements generally have high density due to:",
+      "options": {
+        "A": "Low Atomic Mass",
+        "B": "Closely P Struct",
+        "C": "acked   Weak Meta ure       Bonding",
+        "D": "llic        Large S"
+      },
+      "correctAnswer": "B",
+      "explanation": "High atomic mass and closely packed structure increase density"
+    },
+    {
+      "id": "chem9-c4-q132",
+      "question": "Transition elements have high melting points because of:",
+      "options": {
+        "A": "Strong Metalli Bond",
+        "B": "c       Weak Ion Bond",
+        "C": "ic      Weak Cova Bond",
+        "D": "lent        Large Ra"
+      },
+      "correctAnswer": "A",
+      "explanation": "Strong metallic bonding raises their melting points"
+    },
+    {
+      "id": "chem9-c4-q133",
+      "question": "Strong metallic bonding in transition elements is due to:",
+      "options": {
+        "A": "Filled s Subsh",
+        "B": "Fille ell Subshe",
+        "C": "d p     Partially ll         Subshe",
+        "D": "Filled d     Emp lls           Sub"
+      },
+      "correctAnswer": "C",
+      "explanation": "Partially filled d subshells strengthen metallic bonding"
+    },
+    {
+      "id": "chem9-c4-q134",
+      "question": "Iron (Fe) commonly shows which oxidation states:",
+      "options": {
+        "A": "+1 And +2",
+        "B": "+2 And +3",
+        "C": "+3 And +4",
+        "D": "+4 And +5"
+      },
+      "correctAnswer": "B",
+      "explanation": "Iron commonly exhibits +2 and +3 oxidation states 135. Copper (Cu) commonly shows which oxidation +1 And +2 +2 And +3 +3 And +4 +4 And +5 ○ ○ ○ ○ states: Answer: (A) +1 And +2"
+    },
+    {
+      "id": "chem9-c4-q135",
+      "question": "Copper (Cu) commonly shows which oxidation states:",
+      "options": {
+        "A": "+1 And +2",
+        "B": "+2 And +3",
+        "C": "+3 And +4",
+        "D": "+4 And +5"
+      },
+      "correctAnswer": "A",
+      "explanation": "Copper shows +1 and +2 oxidation states because both its 4s and 3d electrons can participate in bonding"
+    },
+    {
+      "id": "chem9-c4-q136",
+      "question": "Copper compounds usually appear:",
+      "options": {
+        "A": "Blue",
+        "B": "Yellow",
+        "C": "Red",
+        "D": "Black"
+      },
+      "correctAnswer": "A",
+      "explanation": "Copper compounds commonly appear blue or green"
+    },
+    {
+      "id": "chem9-c4-q137",
+      "question": "Iron is used as a catalyst in which process:",
+      "options": {
+        "A": "Contact Process",
+        "B": "Haber Process",
+        "C": "Ostwald Process",
+        "D": "Solvay Proc"
+      },
+      "correctAnswer": "B",
+      "explanation": "Iron is used in the Haber process to synthesize ammonia"
+    },
+    {
+      "id": "chem9-c4-q138",
+      "question": "Platinum and Palladium are used in automobiles as catalysts in:",
+      "options": {
+        "A": "Electrolysis Units",
+        "B": "Catalytic Converters",
+        "C": "Boilers",
+        "D": "Generator"
+      },
+      "correctAnswer": "B",
+      "explanation": "They reduce harmful emissions in catalytic converters"
+    },
+    {
+      "id": "chem9-c4-q139",
+      "question": "Nickel is used as a catalyst in the manufacture of:",
+      "options": {
+        "A": "Soap",
+        "B": "Plastic",
+        "C": "Margarine",
+        "D": "Paper"
+      },
+      "correctAnswer": "C",
+      "explanation": "Nickel is used in hydrogenation to make margarine"
+    },
+    {
+      "id": "chem9-c4-q140",
+      "question": "Lanthanides are also known as:",
+      "options": {
+        "A": "Noble gases",
+        "B": "Rare earth elements",
+        "C": "Alkali meta",
+        "D": "ls       Halogens"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lanthanides are called rare earth elements because they have similar properties and are found together in nature"
+    },
+    {
+      "id": "chem9-c4-q141",
+      "question": "Lanthanides include elements with atomic numbers:",
+      "options": {
+        "A": "39 To 48",
+        "B": "57 To 71",
+        "C": "72 To 86",
+        "D": "89 To 103"
+      },
+      "correctAnswer": "B",
+      "explanation": "The lanthanide series consists of elements with atomic numbers from 57 to 71 in the periodic table"
+    },
+    {
+      "id": "chem9-c4-q142",
+      "question": "Actinides are located where in the periodic table:",
+      "options": {
+        "A": "Above lanthanides",
+        "B": "Below lanthanides",
+        "C": "In group 1",
+        "D": "In group"
+      },
+      "correctAnswer": "B",
+      "explanation": "Actinides are placed just below the lanthanide series at the bottom of the periodic table"
+    },
+    {
+      "id": "chem9-c4-q143",
+      "question": "Actinides include elements with atomic numbers:",
+      "options": {
+        "A": "71 To 85",
+        "B": "89 To 103",
+        "C": "104 To 118",
+        "D": "57 To 71"
+      },
+      "correctAnswer": "B",
+      "explanation": "The actinide series includes elements having atomic numbers from 89 to 103"
+    },
+    {
+      "id": "chem9-c4-q144",
+      "question": "Halogens are generally classified as:",
+      "options": {
+        "A": "Reactive non- metals",
+        "B": "Noble gases",
+        "C": "Alkali metal",
+        "D": "Transition s metals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Halogens are highly reactive non-metals due to their strong tendency to gain electrons"
+    },
+    {
+      "id": "chem9-c4-q145",
+      "question": "Halogens exist naturally as:",
+      "options": {
+        "A": "Monoatomic molecules",
+        "B": "Triatomic molecules",
+        "C": "Diatomic molecules",
+        "D": "Polyatomic io"
+      },
+      "correctAnswer": "C",
+      "explanation": "Halogens exist as diatomic molecules like F₂ and Cl₂ under normal conditions"
+    },
+    {
+      "id": "chem9-c4-q146",
+      "question": "Fluorine (F₂) at room temperature is a:",
+      "options": {
+        "A": "Pale yellow gas",
+        "B": "Yellow-green gas",
+        "C": "Red-brown liquid",
+        "D": "Gray-black so"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fluorine exists as a pale yellow gas at room temperature and pressure"
+    },
+    {
+      "id": "chem9-c4-q147",
+      "question": "Chlorine (Cl₂) at room temperature is a:",
+      "options": {
+        "A": "Pale yellow gas",
+        "B": "Yellow-green gas",
+        "C": "Red-brown liquid",
+        "D": "Voilet soli"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chlorine exists as a yellow-green gas at room temperature"
+    },
+    {
+      "id": "chem9-c4-q148",
+      "question": "Bromine (Br₂) at room temperature is a:",
+      "options": {
+        "A": "Gas",
+        "B": "Solid",
+        "C": "Red-brown liquid",
+        "D": "Colourless liquid"
+      },
+      "correctAnswer": "C",
+      "explanation": "Bromine is the only non-metal that exists as a liquid at room temperature"
+    },
+    {
+      "id": "chem9-c4-q149",
+      "question": "Iodine (I₂) at room temperature is a:",
+      "options": {
+        "A": "Gas",
+        "B": "Liquid",
+        "C": "Yellow solid",
+        "D": "Grey-black solid"
+      },
+      "correctAnswer": "D",
+      "explanation": "Iodine exists as a grey-black solid at room temperature"
+    },
+    {
+      "id": "chem9-c4-q150",
+      "question": "Halogens have how many electrons in their valence shell:",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correctAnswer": "C",
+      "explanation": "Halogens have seven valence electrons in their outermost shell"
+    },
+    {
+      "id": "chem9-c4-q151",
+      "question": "The general electronic configuration of halogens is:",
+      "options": {
+        "A": "ns² np³",
+        "B": "ns² np⁵",
+        "C": "ns² np⁴",
+        "D": "ns¹ np⁶"
+      },
+      "correctAnswer": "B",
+      "explanation": "Halogens have the general electronic configuration ns² np⁵"
+    },
+    {
+      "id": "chem9-c4-q152",
+      "question": "Halogens need how many electrons to complete their valence shell:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Halogens need one electron to complete their octet and achieve stability"
+    },
+    {
+      "id": "chem9-c4-q153",
+      "question": "Halogens form which type of ions:",
+      "options": {
+        "A": "Divalent positive ions",
+        "B": "Trivalent negative ions",
+        "C": "Univalent negative i",
+        "D": "Neutral a ons"
+      },
+      "correctAnswer": "C",
+      "explanation": "Halogens gain one electron to form univalent negative ions like Cl⁻"
+    },
+    {
+      "id": "chem9-c4-q154",
+      "question": "The chloride ion is represented as:",
+      "options": {
+        "A": "Cl⁺",
+        "B": "Cl⁻",
+        "C": "Cl²⁻",
+        "D": "Cl²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chlorine gains one electron to form chloride ion Cl⁻"
+    },
+    {
+      "id": "chem9-c4-q155",
+      "question": "The increase in density down the group is mainly because:",
+      "options": {
+        "A": "Volume increases more than mass",
+        "B": "Mass increase more than volume",
+        "C": "s Atomic numb decreases",
+        "D": "er      Electrone y incre"
+      },
+      "correctAnswer": "B",
+      "explanation": "The mass increases faster than volume, leading to higher density"
+    },
+    {
+      "id": "chem9-c4-q156",
+      "question": "Intermolecular forces in halogens:",
+      "options": {
+        "A": "Decrease down the group",
+        "B": "Remain same",
+        "C": "Increase do the group",
+        "D": "wn Become z"
+      },
+      "correctAnswer": "C",
+      "explanation": "Larger molecules have stronger intermolecular attractions down the group"
+    },
+    {
+      "id": "chem9-c4-q157",
+      "question": "Iodine molecules are more tightly packed than:",
+      "options": {
+        "A": "Fluorine",
+        "B": "Chlorine",
+        "C": "Bromine",
+        "D": "Neon"
+      },
+      "correctAnswer": "C",
+      "explanation": "Solid iodine has stronger intermolecular forces than bromine"
+    },
+    {
+      "id": "chem9-c4-q158",
+      "question": "The reactivity of halogens depends on their ability to:",
+      "options": {
+        "A": "Lose electrons",
+        "B": "Gain electron",
+        "C": "Share elect s equally",
+        "D": "rons     Form met bonds"
+      },
+      "correctAnswer": "B",
+      "explanation": "Halogens are reactive because they readily gain one electron"
+    },
+    {
+      "id": "chem9-c4-q159",
+      "question": "The order of decreasing reactivity is:",
+      "options": {
+        "A": "I₂ > Br₂ > Cl₂ > F₂",
+        "B": "F₂ > Cl₂ > Br I₂",
+        "C": "₂ >   Cl₂ > F₂ > I₂",
+        "D": "Br₂ >   Br₂ > Cl₂ I₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fluorine is most reactive followed by chlorine, bromine and iodine"
+    },
+    {
+      "id": "chem9-c4-q160",
+      "question": "Bromine is unique among non-metals because it is:",
+      "options": {
+        "A": "A solid",
+        "B": "A liquid",
+        "C": "A gas",
+        "D": "Radioac"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bromine is the only non-metal that is liquid at room temperature"
+    },
+    {
+      "id": "chem9-c4-q161",
+      "question": "Iodine changes directly from solid to vapor on heating which is called:",
+      "options": {
+        "A": "Condensation",
+        "B": "Melting",
+        "C": "Sublimation",
+        "D": "Freezing"
+      },
+      "correctAnswer": "C",
+      "explanation": "Iodine undergoes sublimation forming purple vapours on heating"
+    },
+    {
+      "id": "chem9-c4-q162",
+      "question": "Reactivity of halogens down the group:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constan",
+        "D": "First t         then de"
+      },
+      "correctAnswer": "B",
+      "explanation": "First increases then decreases"
+    },
+    {
+      "id": "chem9-c4-q163",
+      "question": "The oxidizing power of halogens is highest for:",
+      "options": {
+        "A": "I₂",
+        "B": "Br₂",
+        "C": "Cl₂",
+        "D": "F"
+      },
+      "correctAnswer": "D",
+      "explanation": "Fluorine has the greatest tendency to gain electrons making it the strongest oxidizing agent"
+    },
+    {
+      "id": "chem9-c4-q164",
+      "question": "The oxidizing power of halogens is lowest for:",
+      "options": {
+        "A": "I₂",
+        "B": "Br₂",
+        "C": "Cl₂",
+        "D": "F"
+      },
+      "correctAnswer": "A",
+      "explanation": "Iodine has the least tendency to gain electrons so it is the weakest oxidizing agent"
+    },
+    {
+      "id": "chem9-c4-q165",
+      "question": "A more reactive halogen can displace:",
+      "options": {
+        "A": "A more reactive halid ion",
+        "B": "A less react e halide ion",
+        "C": "ive A noble",
+        "D": "gas       A metal"
+      },
+      "correctAnswer": "B",
+      "explanation": "A stronger oxidizing halogen displaces the halide ion of a less reactive halogen"
+    },
+    {
+      "id": "chem9-c4-q166",
+      "question": "Fluorine can displace:",
+      "options": {
+        "A": "Only Cl⁻",
+        "B": "Only Br⁻",
+        "C": "Only I⁻",
+        "D": "All halide ions"
+      },
+      "correctAnswer": "D",
+      "explanation": "Fluorine being most reactive can oxidize and displace all other halide ions"
+    },
+    {
+      "id": "chem9-c4-q167",
+      "question": "In the reaction F₂ + 2KCl → 2KF + Cl₂, fluorine acts as:",
+      "options": {
+        "A": "Reducing agent",
+        "B": "Oxidizing ag",
+        "C": "ent        Cataly",
+        "D": "Neut st subst"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fluorine oxidizes chloride ions to chlorine gas so it acts as oxidizing agent"
+    },
+    {
+      "id": "chem9-c4-q168",
+      "question": "Chlorine can oxidize which ions:",
+      "options": {
+        "A": "F⁻",
+        "B": "Br⁻ And I",
+        "C": "⁻          Only F",
+        "D": "⁻              No"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chlorine can displace bromide and iodide ions as they are less reactive"
+    },
+    {
+      "id": "chem9-c4-q169",
+      "question": "Halogens react with hydrogen to form:",
+      "options": {
+        "A": "Hydrogen oxides",
+        "B": "Hydrogen halides",
+        "C": "Metal hydr",
+        "D": "ides          Wat"
+      },
+      "correctAnswer": "B",
+      "explanation": "Halogens combine with hydrogen to form hydrogen halides like HCl"
+    },
+    {
+      "id": "chem9-c4-q170",
+      "question": "The strength of hydrogen-halogen bond depends on:",
+      "options": {
+        "A": "Atomic mass",
+        "B": "Electronegat y differen",
+        "C": "ivit Colou ce",
+        "D": "r             Den"
+      },
+      "correctAnswer": "B",
+      "explanation": "Greater electronegativity difference results in stronger hydrogen-halogen bond 171. Which of the most thermally stable hydrogen HF HCl HBr HI ○ ○ ○ ○ halide is: Answer: (A) HF"
+    },
+    {
+      "id": "chem9-c4-q171",
+      "question": "Which of the most thermally stable hydrogen halide is:",
+      "options": {
+        "A": "HF",
+        "B": "HCl",
+        "C": "HBr",
+        "D": "HI"
+      },
+      "correctAnswer": "A",
+      "explanation": "HF has strongest bond due to highest electronegativity difference"
+    },
+    {
+      "id": "chem9-c4-q172",
+      "question": "Thermal stability of hydrogen halides decreases from:",
+      "options": {
+        "A": "HI To HF",
+        "B": "HF To HI",
+        "C": "HCl To HF",
+        "D": "HBr To HF"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bond strength decreases from HF to HI so thermal stability also decreases"
+    },
+    {
+      "id": "chem9-c4-q173",
+      "question": "The weakest hydrogen- halogen bond is found in:",
+      "options": {
+        "A": "HF",
+        "B": "HCl",
+        "C": "HBr",
+        "D": "H"
+      },
+      "correctAnswer": "D",
+      "explanation": "HI has the weakest bond due to smallest electronegativity difference"
+    },
+    {
+      "id": "chem9-c4-q174",
+      "question": "The correct order of bond strength is:",
+      "options": {
+        "A": "HF > HCl > HBr > HI",
+        "B": "HI > HBr > H HF",
+        "C": "Cl >   HCl > HF > > HI",
+        "D": "HBr      HBr > H >"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bond strength decreases gradually from HF to HI"
+    },
+    {
+      "id": "chem9-c4-q175",
+      "question": "Melting and boiling points of halogens:",
+      "options": {
+        "A": "Decrease down the group",
+        "B": "Increase dow the group",
+        "C": "n          Remain constan",
+        "D": "First t         then de"
+      },
+      "correctAnswer": "B",
+      "explanation": "Stronger intermolecular forces down the group increase melting and boiling points"
+    },
+    {
+      "id": "chem9-c4-q176",
+      "question": "The displacement reaction of halogens is based on their:",
+      "options": {
+        "A": "Oxidizing power",
+        "B": "Density",
+        "C": "Atomic rad",
+        "D": "ius       Melting"
+      },
+      "correctAnswer": "A",
+      "explanation": "More powerful oxidizing halogen displaces weaker one from its salt solution"
+    },
+    {
+      "id": "chem9-c4-q177",
+      "question": "The correct order of decreasing oxidizing power is:",
+      "options": {
+        "A": "I₂ > Br₂ > Cl₂ > F₂",
+        "B": "F₂ > Cl₂ > B I₂",
+        "C": "r₂ >   Cl₂ > F₂ > I₂",
+        "D": "Br₂ >    Br₂ > I"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fluorine has maximum oxidizing power followed by chlorine, bromine and iodine"
+    },
+    {
+      "id": "chem9-c4-q178",
+      "question": "The general electron configuration of noble gases is:",
+      "options": {
+        "A": "ns² np³",
+        "B": "ns² np⁶",
+        "C": "ns² np⁵",
+        "D": "ns²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Noble gases have fully filled valence shells, ns² np⁶, making them chemically stable"
+    },
+    {
+      "id": "chem9-c4-q179",
+      "question": "The exception to the general noble gas electron configuration is:",
+      "options": {
+        "A": "Ne",
+        "B": "Ar",
+        "C": "Xe",
+        "D": "He"
+      },
+      "correctAnswer": "D",
+      "explanation": "Helium has configuration 1s² since it only has two electrons in its valence shell"
+    },
+    {
+      "id": "chem9-c4-q180",
+      "question": "The low reactivity of noble gases is due to:",
+      "options": {
+        "A": "Small atomic size",
+        "B": "Low density",
+        "C": "Complete valence sh",
+        "D": "High mel ell         point"
+      },
+      "correctAnswer": "C",
+      "explanation": "Complete valence shells make noble gases stable and unlikely to form bonds"
+    },
+    {
+      "id": "chem9-c4-q181",
+      "question": "Noble gases are also known as:",
+      "options": {
+        "A": "Halogens",
+        "B": "Inert gases",
+        "C": "Alkali met",
+        "D": "Transit als element"
+      },
+      "correctAnswer": "B",
+      "explanation": "Noble gases are called inert gases because they are very unreactive due to a complete valence shell"
+    },
+    {
+      "id": "chem9-c4-q182",
+      "question": "The brittleness of nonmetals is because:",
+      "options": {
+        "A": "They have metallic bonds",
+        "B": "They have weak bonds",
+        "C": "They have f electrons",
+        "D": "ree        They a ducti"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nonmetals break easily under pressure due to weak or directional bonds"
+    },
+    {
+      "id": "chem9-c4-q183",
+      "question": "The adaptability of metals (malleability and ductility) is due to:",
+      "options": {
+        "A": "Ionic bonding",
+        "B": "Metallic bonding",
+        "C": "Covalent bonding",
+        "D": "Van der W force"
+      },
+      "correctAnswer": "B",
+      "explanation": "Metallic bonds allow atoms to slide past each other without breaking the lattice"
+    },
+    {
+      "id": "chem9-c4-q184",
+      "question": "Nonmetals generally have low melting and boiling points because:",
+      "options": {
+        "A": "Their atoms are held by weak bonds",
+        "B": "They have fre electrons",
+        "C": "e        They are malleabl",
+        "D": "They hav e       metallic"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nonmetals are held by covalent, van der Waals, or hydrogen bonds which require less energy to break"
+    },
+    {
+      "id": "chem9-c4-q185",
+      "question": "Metals have high melting and boiling points because:",
+      "options": {
+        "A": "They have weak van der Waals forces",
+        "B": "They have strong metall bonds",
+        "C": "ic    They are br",
+        "D": "They are ittle      at roo temperat"
+      },
+      "correctAnswer": "B",
+      "explanation": "Strong metallic bonds require high energy to break, giving metals high melting and boiling points"
+    },
+    {
+      "id": "chem9-c4-q186",
+      "question": "Nonmetals are poor conductors of electricity because:",
+      "options": {
+        "A": "They have strong metallic bonds",
+        "B": "They lack fr electrons",
+        "C": "ee       They are malleabl",
+        "D": "They a e           ducti"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nonmetals do not have delocalized electrons to carry electric current"
+    },
+    {
+      "id": "chem9-c4-q187",
+      "question": "Metals are good conductors of electricity because:",
+      "options": {
+        "A": "They have ions",
+        "B": "They have fre electrons",
+        "C": "e       They have covalent bo",
+        "D": "They are nds"
+      },
+      "correctAnswer": "B",
+      "explanation": "Free electrons in metals move easily under an electric field making them good conductors"
+    }
+  ]
+}

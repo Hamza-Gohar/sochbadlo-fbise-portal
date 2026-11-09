@@ -1,0 +1,706 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 17,
+  "chapterTitle": "Unit 17: Separation Techniques & Analytical Chemistry",
+  "slug": "chemistry-9-chapter-17",
+  "description": "Separation of heterogeneous and homogeneous mixtures: filtration, crystallization, simple distillation, fractional distillation, solvent extraction, and sublimation.",
+  "totalQuestions": 58,
+  "questions": [
+    {
+      "id": "chem9-c17-q1",
+      "question": "The method described for separating gold from soil mainly depends on the difference in:",
+      "options": {
+        "A": "Colour of substances",
+        "B": "Solubility in water",
+        "C": "Chemical reactivity",
+        "D": "Melting point"
+      },
+      "correctAnswer": "B",
+      "explanation": "Soil dissolves in water while gold remains insoluble"
+    },
+    {
+      "id": "chem9-c17-q2",
+      "question": "The method chosen to separate a mixture mainly depends on the:",
+      "options": {
+        "A": "Physical states of the components",
+        "B": "Chemical formula of substances",
+        "C": "Colour of the mixture",
+        "D": "Temperature of the environment"
+      },
+      "correctAnswer": "A",
+      "explanation": "Solid, liquid, or gas states determine the suitable separation method"
+    },
+    {
+      "id": "chem9-c17-q3",
+      "question": "The separation technique that uses density differences to settle heavier particles is:",
+      "options": {
+        "A": "Distillation",
+        "B": "Evaporation",
+        "C": "Sedimentation",
+        "D": "Magnetic separation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Heavier particles settle at the bottom due to gravity"
+    },
+    {
+      "id": "chem9-c17-q4",
+      "question": "Magnetic separation is effective when one component of the mixture is:",
+      "options": {
+        "A": "Soluble in water",
+        "B": "Volatile",
+        "C": "Magnetic in nature",
+        "D": "Transparent"
+      },
+      "correctAnswer": "C",
+      "explanation": "Magnetic materials can be separated using a magnet"
+    },
+    {
+      "id": "chem9-c17-q5",
+      "question": "Centrifugation is preferred over sedimentation because it:",
+      "options": {
+        "A": "Uses magnetic force",
+        "B": "Is slower",
+        "C": "Works only for gases",
+        "D": "Speeds up particle settling"
+      },
+      "correctAnswer": "D",
+      "explanation": "Rapid spinning increases effective gravitational force"
+    },
+    {
+      "id": "chem9-c17-q6",
+      "question": "Evaporation is a separation method mainly used when a mixture contains:",
+      "options": {
+        "A": "Two insoluble solids",
+        "B": "A solid dissolved in a liquid",
+        "C": "Two miscible liquids",
+        "D": "A gas dissolved in a liquid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Evaporation separates dissolved solids from liquids"
+    },
+    {
+      "id": "chem9-c17-q7",
+      "question": "During evaporation, the liquid component of a mixture changes into:",
+      "options": {
+        "A": "Solid phase",
+        "B": "Liquid phase",
+        "C": "Gaseous phase",
+        "D": "Plasma phase"
+      },
+      "correctAnswer": "C",
+      "explanation": "Liquid particles gain energy and escape as vapor"
+    },
+    {
+      "id": "chem9-c17-q8",
+      "question": "Evaporation becomes difficult at high pressure because:",
+      "options": {
+        "A": "Liquids freeze",
+        "B": "Particle attraction increases",
+        "C": "Temperature decreases",
+        "D": "Surface area reduces"
+      },
+      "correctAnswer": "B",
+      "explanation": "Increased force between particles resists escape into gas phase"
+    },
+    {
+      "id": "chem9-c17-q9",
+      "question": "Reducing pressure will generally cause the rate of evaporation to:",
+      "options": {
+        "A": "Decrease",
+        "B": "Remain unchanged",
+        "C": "Stop completely",
+        "D": "Increase"
+      },
+      "correctAnswer": "D",
+      "explanation": "Lower pressure allows easier escape of liquid molecules"
+    },
+    {
+      "id": "chem9-c17-q10",
+      "question": "Warm water evaporates faster than cold water because:",
+      "options": {
+        "A": "Its molecules move faster",
+        "B": "It contains less air",
+        "C": "It has higher density",
+        "D": "It is lighter"
+      },
+      "correctAnswer": "A",
+      "explanation": "Faster-moving molecules escape more easily"
+    },
+    {
+      "id": "chem9-c17-q11",
+      "question": "A liquid spread into a thin layer evaporates faster due to:",
+      "options": {
+        "A": "Increased volume",
+        "B": "Increased surface area",
+        "C": "Decreased temperature",
+        "D": "Stronger forces"
+      },
+      "correctAnswer": "B",
+      "explanation": "A Larger surface area increases the evaporation rate"
+    },
+    {
+      "id": "chem9-c17-q12",
+      "question": "The enthalpy of vaporization is an indicator of:",
+      "options": {
+        "A": "Density",
+        "B": "Intermolecular forces",
+        "C": "Surface area",
+        "D": "Pressure"
+      },
+      "correctAnswer": "B",
+      "explanation": "Higher enthalpy means stronger intermolecular attraction"
+    },
+    {
+      "id": "chem9-c17-q13",
+      "question": "Increasing surface area without changing temperature will:",
+      "options": {
+        "A": "Reduce evaporation",
+        "B": "Stop evaporation",
+        "C": "Condense the liquid",
+        "D": "Increase evaporation"
+      },
+      "correctAnswer": "D",
+      "explanation": "More exposed molecules evaporate"
+    },
+    {
+      "id": "chem9-c17-q14",
+      "question": "Drinking water can be obtained from sea water mainly by:",
+      "options": {
+        "A": "Filtration",
+        "B": "Sedimentation",
+        "C": "Magnetic separation",
+        "D": "Evaporation"
+      },
+      "correctAnswer": "D",
+      "explanation": "Water evaporates, leaving salts behind"
+    },
+    {
+      "id": "chem9-c17-q15",
+      "question": "The liquid collected after condensation during distillation is called:",
+      "options": {
+        "A": "Distillate",
+        "B": "Sediment",
+        "C": "Residue",
+        "D": "Filtrate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Condensed vapor is known as a distillate"
+    },
+    {
+      "id": "chem9-c17-q16",
+      "question": "The round bottom flask in distillation is used to:",
+      "options": {
+        "A": "Condense vapours",
+        "B": "Collect distillate",
+        "C": "Measure volume",
+        "D": "Hold and heat the liquid mixture"
+      },
+      "correctAnswer": "D",
+      "explanation": "Heating the mixture initiates vaporization"
+    },
+    {
+      "id": "chem9-c17-q17",
+      "question": "During distillation, the component with the lower boiling point:",
+      "options": {
+        "A": "Remains in flask",
+        "B": "Solidifies",
+        "C": "Vaporizes first",
+        "D": "Decomposes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Lower boiling point substances vaporize earlier"
+    },
+    {
+      "id": "chem9-c17-q18",
+      "question": "The condensed liquid finally collects in the:",
+      "options": {
+        "A": "Graduated cylinder",
+        "B": "Round bottom flask",
+        "C": "Fractionating column",
+        "D": "Beaker"
+      },
+      "correctAnswer": "A",
+      "explanation": "Distillate is collected for measurement"
+    },
+    {
+      "id": "chem9-c17-q19",
+      "question": "The component left behind in the round bottom flask is the one with:",
+      "options": {
+        "A": "Lower boiling point",
+        "B": "Higher volatility",
+        "C": "Higher boiling point",
+        "D": "Lower density"
+      },
+      "correctAnswer": "C",
+      "explanation": "Higher boiling point liquids vaporize later"
+    },
+    {
+      "id": "chem9-c17-q20",
+      "question": "Fractional distillation differs from simple distillation because it uses:",
+      "options": {
+        "A": "Vacuum pump",
+        "B": "Steam",
+        "C": "Fractionating column",
+        "D": "Magnetic field"
+      },
+      "correctAnswer": "C",
+      "explanation": "Fractionating column improves separation efficiency"
+    },
+    {
+      "id": "chem9-c17-q21",
+      "question": "The fractionating column works by creating a:",
+      "options": {
+        "A": "Pressure gradient",
+        "B": "Density gradient",
+        "C": "Magnetic gradient",
+        "D": "Temperature gradient"
+      },
+      "correctAnswer": "D",
+      "explanation": "Temperature varies from bottom to top"
+    },
+    {
+      "id": "chem9-c17-q22",
+      "question": "Steam distillation is useful for substances that are:",
+      "options": {
+        "A": "Highly soluble in water",
+        "B": "Heat sensitive",
+        "C": "Non-volatile",
+        "D": "Magnetic"
+      },
+      "correctAnswer": "B",
+      "explanation": "Steam prevents the decomposition of sensitive compounds"
+    },
+    {
+      "id": "chem9-c17-q23",
+      "question": "If two liquids have identical boiling points, distillation wil be:",
+      "options": {
+        "A": "l Highly efficient",
+        "B": "Impossible",
+        "C": "Faster",
+        "D": "Independent of pressure"
+      },
+      "correctAnswer": "B",
+      "explanation": "No boiling point difference prevents separation"
+    },
+    {
+      "id": "chem9-c17-q24",
+      "question": "Distillation cannot separate mixtures when components have:",
+      "options": {
+        "A": "Different boiling points",
+        "B": "Different volatilities",
+        "C": "Same boiling points",
+        "D": "Different densities"
+      },
+      "correctAnswer": "C",
+      "explanation": "No driving force for separation exists"
+    },
+    {
+      "id": "chem9-c17-q25",
+      "question": "The energy required in distillation mainly supplies:",
+      "options": {
+        "A": "Activation energy",
+        "B": "Heat of fusion",
+        "C": "Heat of vaporization",
+        "D": "Heat of reaction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Vaporization needs latent heat"
+    },
+    {
+      "id": "chem9-c17-q26",
+      "question": "The principle common to all distillation techniques is:",
+      "options": {
+        "A": "Filtration",
+        "B": "Magnetism",
+        "C": "Volatility difference",
+        "D": "Solubility difference"
+      },
+      "correctAnswer": "C",
+      "explanation": "Volatility governs vapor formation"
+    },
+    {
+      "id": "chem9-c17-q27",
+      "question": "Distillation under reduced pressure is also called:",
+      "options": {
+        "A": "Steam distillation",
+        "B": "Vacuum distillation",
+        "C": "Fractional distillation",
+        "D": "Destructive distillation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reduced pressure defines vacuum distillation"
+    },
+    {
+      "id": "chem9-c17-q28",
+      "question": "Distillation separates components without changing their:",
+      "options": {
+        "A": "State",
+        "B": "Volume",
+        "C": "Chemical identity",
+        "D": "Colour"
+      },
+      "correctAnswer": "C",
+      "explanation": "Distillation is a physical process"
+    },
+    {
+      "id": "chem9-c17-q29",
+      "question": "Distillation plays a major role in refining:",
+      "options": {
+        "A": "Metals",
+        "B": "Crude oil",
+        "C": "Plastics",
+        "D": "Fertilizers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Crude oil is separated into fractions by distillation"
+    },
+    {
+      "id": "chem9-c17-q30",
+      "question": "Distilled water is commonly used in lead acid batteries because it:",
+      "options": {
+        "A": "Contains minerals",
+        "B": "Is electrically conductive",
+        "C": "Is free from impurities",
+        "D": "Has high density"
+      },
+      "correctAnswer": "C",
+      "explanation": "Impurity-free water prevents battery damage"
+    },
+    {
+      "id": "chem9-c17-q31",
+      "question": "The principle of filtration is based on the difference in:",
+      "options": {
+        "A": "Density",
+        "B": "Particle size",
+        "C": "Colour",
+        "D": "Solubility"
+      },
+      "correctAnswer": "B",
+      "explanation": "Filter pores block larger solid particles"
+    },
+    {
+      "id": "chem9-c17-q32",
+      "question": "The material that allows liquid to pass but blocks solid particles is called:",
+      "options": {
+        "A": "Solvent",
+        "B": "Filter medium",
+        "C": "Filtrate",
+        "D": "Residue"
+      },
+      "correctAnswer": "B",
+      "explanation": "Filter medium selectively permits smaller particles"
+    },
+    {
+      "id": "chem9-c17-q33",
+      "question": "The solid that remains on the filter paper after filtration is known as:",
+      "options": {
+        "A": "Residue",
+        "B": "Solvent",
+        "C": "Filtrate",
+        "D": "Solution"
+      },
+      "correctAnswer": "A",
+      "explanation": "Insoluble solid stays on the filter medium"
+    },
+    {
+      "id": "chem9-c17-q34",
+      "question": "A homogeneous mixture is one in which the solute is:",
+      "options": {
+        "A": "Visible to naked eye",
+        "B": "Not evenly distributed",
+        "C": "Insoluble",
+        "D": "Evenly distributed"
+      },
+      "correctAnswer": "D",
+      "explanation": "Uniform composition defines homogeneity"
+    },
+    {
+      "id": "chem9-c17-q35",
+      "question": "In a salt solution, water acts as the:",
+      "options": {
+        "A": "Solute",
+        "B": "Solvent",
+        "C": "Residue",
+        "D": "Filtrate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Solvent is present in larger quantity"
+    },
+    {
+      "id": "chem9-c17-q36",
+      "question": "A solution consists of two main components known as:",
+      "options": {
+        "A": "Residue and filtrate",
+        "B": "Acid and base",
+        "C": "Solute and solvent",
+        "D": "Solid and gas"
+      },
+      "correctAnswer": "C",
+      "explanation": "Solutions contain dissolved solute in solvent"
+    },
+    {
+      "id": "chem9-c17-q37",
+      "question": "A brine solution is an example of a:",
+      "options": {
+        "A": "Heterogeneous mixture",
+        "B": "Homogeneous mixture",
+        "C": "Suspension",
+        "D": "Colloid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Salt is evenly distributed in water"
+    },
+    {
+      "id": "chem9-c17-q38",
+      "question": "Which type of mixture requires filtration for separation?",
+      "options": {
+        "A": "Heterogeneous mixture",
+        "B": "Homogeneous mixture",
+        "C": "True solution",
+        "D": "Alloy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Filtration works best for heterogeneous mixtures"
+    },
+    {
+      "id": "chem9-c17-q39",
+      "question": "Buchner and Hirsch funnels are mainly used for:",
+      "options": {
+        "A": "Gravity filtration",
+        "B": "Vacuum filtration",
+        "C": "Distillation",
+        "D": "Decantation"
+      },
+      "correctAnswer": "B",
+      "explanation": "These funnels speed up filtration using a vacuum"
+    },
+    {
+      "id": "chem9-c17-q40",
+      "question": "Filtration is commonly used when the solid in a mixture is:",
+      "options": {
+        "A": "Soluble",
+        "B": "Insoluble",
+        "C": "Volatile",
+        "D": "Gaseous"
+      },
+      "correctAnswer": "B",
+      "explanation": "Insoluble solids can be physically separated by filtration"
+    },
+    {
+      "id": "chem9-c17-q41",
+      "question": "Muslin cloth and filter paper serve the same purpose because both act as:",
+      "options": {
+        "A": "Solvents",
+        "B": "Filtrates",
+        "C": "Filtration membranes",
+        "D": "Residues"
+      },
+      "correctAnswer": "C",
+      "explanation": "Both allow liquid to pass while holding solids"
+    },
+    {
+      "id": "chem9-c17-q42",
+      "question": "HEPA filters are commonly used to remove dust and pollen from:",
+      "options": {
+        "A": "Water",
+        "B": "Blood",
+        "C": "Air",
+        "D": "Soil"
+      },
+      "correctAnswer": "C",
+      "explanation": "HEPA filters purify air by trapping fine particles"
+    },
+    {
+      "id": "chem9-c17-q43",
+      "question": "Before vacuum filtration begins, the filter paper is wetted mainly to:",
+      "options": {
+        "A": "Increase pore size",
+        "B": "Cool the solution",
+        "C": "Create a proper seal",
+        "D": "Dissolve residue"
+      },
+      "correctAnswer": "C",
+      "explanation": "Wetting ensures tight sealing and efficient filtration"
+    },
+    {
+      "id": "chem9-c17-q44",
+      "question": "Crystallization is mainly used as a technique for:",
+      "options": {
+        "A": "Mixing substances",
+        "B": "Heating liquids",
+        "C": "Purification of solids",
+        "D": "Gas separation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Crystallization purifies solids from impure solutions"
+    },
+    {
+      "id": "chem9-c17-q45",
+      "question": "A crystal obtained by crystallization is considered:",
+      "options": {
+        "A": "Impure",
+        "B": "Pure",
+        "C": "Semi-pure",
+        "D": "Colloid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Crystals exclude most impurities"
+    },
+    {
+      "id": "chem9-c17-q46",
+      "question": "Crystallization occurs when solubility of a compound:",
+      "options": {
+        "A": "Increases",
+        "B": "Becomes infinite",
+        "C": "Remains constant",
+        "D": "Decreases"
+      },
+      "correctAnswer": "D",
+      "explanation": "Lower solubility causes solute to crystallize"
+    },
+    {
+      "id": "chem9-c17-q47",
+      "question": "Heating the solution during crystallization mainly helps to:",
+      "options": {
+        "A": "Freeze the solvent",
+        "B": "Increase solubility",
+        "C": "Decrease pressure",
+        "D": "Remove impurities directly"
+      },
+      "correctAnswer": "B",
+      "explanation": "Solubility generally increases with temperature"
+    },
+    {
+      "id": "chem9-c17-q48",
+      "question": "The glass rod test indicates saturation when the drop:",
+      "options": {
+        "A": "Remains clear",
+        "B": "Evaporates",
+        "C": "Turns cloudy",
+        "D": "Changes colour"
+      },
+      "correctAnswer": "C",
+      "explanation": "Cloudiness shows crystal formation"
+    },
+    {
+      "id": "chem9-c17-q49",
+      "question": "The process where molecules arrange at fixed angles is called:",
+      "options": {
+        "A": "Condensation",
+        "B": "Crystallization",
+        "C": "Filtration",
+        "D": "Sublimation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fixed geometry defines crystalline structure"
+    },
+    {
+      "id": "chem9-c17-q50",
+      "question": "After crystal formation, crystals are separated from solution by:",
+      "options": {
+        "A": "Evaporation",
+        "B": "Decantation",
+        "C": "Filtration",
+        "D": "Distillation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Filtration removes solid crystals"
+    },
+    {
+      "id": "chem9-c17-q51",
+      "question": "The formation of a well- defined three-dimensional structure during crystallization is called:",
+      "options": {
+        "A": "Evaporation",
+        "B": "Condensation",
+        "C": "Filtration",
+        "D": "Crystal formation"
+      },
+      "correctAnswer": "D",
+      "explanation": "Ordered molecular arrangement forms crystals 52. Crystallization is preferred Uses less Produces purer Works at low over evaporation for Is faster ○ ○ ○ ○ solvent solids temperature purification because it: Answer: (C) Produces purer solids"
+    },
+    {
+      "id": "chem9-c17-q52",
+      "question": "Crystallization is preferred over evaporation for purification because it:",
+      "options": {
+        "A": "Is faster",
+        "B": "Uses less solvent",
+        "C": "Produces purer solids",
+        "D": "Works at low temperature"
+      },
+      "correctAnswer": "C",
+      "explanation": "Impurities remain dissolved in solution"
+    },
+    {
+      "id": "chem9-c17-q53",
+      "question": "In purification processes, crystallization is preferred when the substance:",
+      "options": {
+        "A": "Is volatile",
+        "B": "Is gaseous",
+        "C": "Does not dissolve",
+        "D": "Can form crystals"
+      },
+      "correctAnswer": "D",
+      "explanation": "Crystal formation ensures high purity of the substance"
+    },
+    {
+      "id": "chem9-c17-q54",
+      "question": "Pure alum crystals can be obtained from impure alum using:",
+      "options": {
+        "A": "Filtration",
+        "B": "Distillation",
+        "C": "Crystallization",
+        "D": "Decantation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Alum recrystallizes into a pure crystalline form"
+    },
+    {
+      "id": "chem9-c17-q55",
+      "question": "Filtration can be classified as both a physical and:",
+      "options": {
+        "A": "Biological process",
+        "B": "Nuclear process",
+        "C": "Chemical process",
+        "D": "Thermal process"
+      },
+      "correctAnswer": "A",
+      "explanation": "Filtration occurs in machines and living organisms"
+    },
+    {
+      "id": "chem9-c17-q56",
+      "question": "Melting point and boiling point are used to:",
+      "options": {
+        "A": "Change substances",
+        "B": "Separate mixtures",
+        "C": "Increase reaction rate",
+        "D": "Identify substances"
+      },
+      "correctAnswer": "D",
+      "explanation": "These are characteristic properties of substances"
+    },
+    {
+      "id": "chem9-c17-q57",
+      "question": "Pure water melts at:",
+      "options": {
+        "A": "100 °C",
+        "B": "−10 °C",
+        "C": "0 °C",
+        "D": "50 °C"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ice melts at zero degrees Celsius"
+    },
+    {
+      "id": "chem9-c17-q58",
+      "question": "Impure substances differ from pure substances because they:",
+      "options": {
+        "A": "Have no melting point",
+        "B": "Change state instantly",
+        "C": "Are always solids",
+        "D": "Melt and boil over a range"
+      },
+      "correctAnswer": "D",
+      "explanation": "Impurities cause irregular phase changes"
+    }
+  ]
+}

@@ -1,0 +1,694 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 2,
+  "chapterTitle": "Unit 02: Matter: States, Mixtures & Solutions",
+  "slug": "chemistry-9-chapter-2",
+  "description": "States of matter, physical/chemical properties, pure substances vs mixtures, homogeneous/heterogeneous mixtures, solutions, colloids, and suspensions.",
+  "totalQuestions": 57,
+  "questions": [
+    {
+      "id": "chem9-c2-q1",
+      "question": "Which of the following is an example of matter:",
+      "options": {
+        "A": "Air",
+        "B": "Sound",
+        "C": "Light",
+        "D": "Heat"
+      },
+      "correctAnswer": "A",
+      "explanation": "Air is considered matter because it has mass and occupies space even though it is invisible"
+    },
+    {
+      "id": "chem9-c2-q2",
+      "question": "The building block of matter is:",
+      "options": {
+        "A": "Molecule",
+        "B": "Atom",
+        "C": "Cell",
+        "D": "Electron"
+      },
+      "correctAnswer": "B",
+      "explanation": "Atoms combine in different ways to form all types of matter"
+    },
+    {
+      "id": "chem9-c2-q3",
+      "question": "The different forms in which matter can exist are called:",
+      "options": {
+        "A": "Phases",
+        "B": "States of matter",
+        "C": "Elements",
+        "D": "Compounds"
+      },
+      "correctAnswer": "B",
+      "explanation": "States of matter refer to the different physical forms in which a substance can exist such as solid, liquid, gas, or plasma"
+    },
+    {
+      "id": "chem9-c2-q4",
+      "question": "plasma 4. When gas is ionized at very high energy which of the following is formed?",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gas",
+        "D": "Plasma"
+      },
+      "correctAnswer": "D",
+      "explanation": "Gas transforms into plasma when atoms are ionized at high temperature"
+    },
+    {
+      "id": "chem9-c2-q5",
+      "question": "State of matter depends on:",
+      "options": {
+        "A": "Arrangement of particles only",
+        "B": "Movement of particles only",
+        "C": "Both A & B",
+        "D": "None"
+      },
+      "correctAnswer": "C",
+      "explanation": "Particle arrangement, motion, and intermolecular forces determine state"
+    },
+    {
+      "id": "chem9-c2-q6",
+      "question": "Energy can change matter by:",
+      "options": {
+        "A": "Changing its colour",
+        "B": "Changing its state",
+        "C": "Destroying atoms",
+        "D": "Removing mass"
+      },
+      "correctAnswer": "B",
+      "explanation": "Heating or applying energy can convert matter from one state to another"
+    },
+    {
+      "id": "chem9-c2-q7",
+      "question": "Liquid crystal is formed when:",
+      "options": {
+        "A": "Solid becomes cloudy",
+        "B": "Gas freezes",
+        "C": "Liquid freezes",
+        "D": "Plasma cools"
+      },
+      "correctAnswer": "A",
+      "explanation": "Liquid crystals form when certain solids partially melt into a cloudy intermediate state on heating"
+    },
+    {
+      "id": "chem9-c2-q8",
+      "question": "Liquid crystals have properties of:",
+      "options": {
+        "A": "Only solids",
+        "B": "Only gases",
+        "C": "Only liquids",
+        "D": "Both A & C"
+      },
+      "correctAnswer": "D",
+      "explanation": "Liquid crystals show properties of both solids and liquids Very high Very low Room High pressure 9. Bose-Einstein condensate is ○ ○ ○ ○ temperature temperature temperature only formed at: Answer: (B) Very low temperature"
+    },
+    {
+      "id": "chem9-c2-q9",
+      "question": "Bose-Einstein condensate is formed at:",
+      "options": {
+        "A": "Very high temperature",
+        "B": "Very low temperature",
+        "C": "Room temperature",
+        "D": "High pressure only"
+      },
+      "correctAnswer": "B",
+      "explanation": "BEC forms when atoms are cooled very close to absolute zero"
+    },
+    {
+      "id": "chem9-c2-q10",
+      "question": "Macroscopic properties can be observed:",
+      "options": {
+        "A": "Only with microscope",
+        "B": "With naked eye",
+        "C": "Only in lab",
+        "D": "Only digitally"
+      },
+      "correctAnswer": "B",
+      "explanation": "Macroscopic properties are visible and measurable without magnification"
+    },
+    {
+      "id": "chem9-c2-q11",
+      "question": "Which of the following is a macroscopic property:",
+      "options": {
+        "A": "Density",
+        "B": "Proton number",
+        "C": "Electron spin",
+        "D": "Atomic radius"
+      },
+      "correctAnswer": "A",
+      "explanation": "Density is a measurable macroscopic property of matter"
+    },
+    {
+      "id": "chem9-c2-q12",
+      "question": "Gas has low density because:",
+      "options": {
+        "A": "Molecules are heavy",
+        "B": "Large spaces exist",
+        "C": "Strong bonds exist",
+        "D": "Particles are fixed"
+      },
+      "correctAnswer": "B",
+      "explanation": "Large intermolecular spaces reduce density in gases"
+    },
+    {
+      "id": "chem9-c2-q13",
+      "question": "Fluidity means the ability to:",
+      "options": {
+        "A": "Flow",
+        "B": "Break",
+        "C": "Compress",
+        "D": "Freeze"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fluidity refers to the ability of a substance to flow"
+    },
+    {
+      "id": "chem9-c2-q14",
+      "question": "When water boils it changes from:",
+      "options": {
+        "A": "Solid to liquid",
+        "B": "Liquid to gas",
+        "C": "Gas to liquid",
+        "D": "Plasma to gas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Boiling converts liquid water into water vapor"
+    },
+    {
+      "id": "chem9-c2-q15",
+      "question": "Conversion between states without changing composition is called:",
+      "options": {
+        "A": "Chemical change",
+        "B": "Nuclear change",
+        "C": "Physical change",
+        "D": "Combustion"
+      },
+      "correctAnswer": "C",
+      "explanation": "State changes are physical because chemical composition remains same"
+    },
+    {
+      "id": "chem9-c2-q16",
+      "question": "Plasma is considered:",
+      "options": {
+        "A": "Neutral gas",
+        "B": "Ionized gas",
+        "C": "Solid",
+        "D": "Liquid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Plasma consists of ionized particles formed at high energy"
+    },
+    {
+      "id": "chem9-c2-q17",
+      "question": "Pure substances include:",
+      "options": {
+        "A": "Elements and compounds",
+        "B": "Mixtures only",
+        "C": "Colloids only",
+        "D": "Suspensions only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pure substances are either elements or compounds with fixed composition Electron Neutron 18. Atomic number is also called: Proton number Mass number ○ ○ ○ ○ number number"
+    },
+    {
+      "id": "chem9-c2-q18",
+      "question": "Atomic number is also called:",
+      "options": {
+        "A": "Proton number",
+        "B": "Mass number",
+        "C": "Electron number",
+        "D": "Neutron number"
+      },
+      "correctAnswer": "A",
+      "explanation": "Atomic number represents the number of protons in an atom"
+    },
+    {
+      "id": "chem9-c2-q19",
+      "question": "The diversity of objects around us is due to:",
+      "options": {
+        "A": "Single element only",
+        "B": "Combination of different elements",
+        "C": "Only mixtures",
+        "D": "Only compounds"
+      },
+      "correctAnswer": "B",
+      "explanation": "Different elements combine in various ways to create the wide variety of matter around us"
+    },
+    {
+      "id": "chem9-c2-q20",
+      "question": "Colloids and suspensions are types of: 21.",
+      "options": {
+        "A": "Compounds",
+        "B": "Elements",
+        "C": "Heterogeneous mixtures",
+        "D": "Pure substances"
+      },
+      "correctAnswer": "C",
+      "explanation": "Colloids and suspensions are forms of heterogeneous mixtures"
+    },
+    {
+      "id": "chem9-c2-q21",
+      "question": "Homogeneous and heterogeneous are types of:",
+      "options": {
+        "A": "Elements",
+        "B": "Compounds",
+        "C": "Mixtures",
+        "D": "Atoms"
+      },
+      "correctAnswer": "C",
+      "explanation": "Mixtures can be homogeneous or heterogeneous based on uniformity"
+    },
+    {
+      "id": "chem9-c2-q22",
+      "question": "The property of an element to exist in different physical forms is called:",
+      "options": {
+        "A": "Isomerism",
+        "B": "Allotropy",
+        "C": "Polymorphism",
+        "D": "Radioactivity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Allotropy is the ability of an element to exist in different structural forms in the same physical state"
+    },
+    {
+      "id": "chem9-c2-q23",
+      "question": "Which of the following is the allotrope of carbon?",
+      "options": {
+        "A": "Graphite",
+        "B": "Water",
+        "C": "Sodium",
+        "D": "Oxygen"
+      },
+      "correctAnswer": "A",
+      "explanation": "Graphite, Diamond, and Buckyballs are 3 structural forms of carbon"
+    },
+    {
+      "id": "chem9-c2-q24",
+      "question": "In graphite each carbon atom is bonded to:",
+      "options": {
+        "A": "1 carbon atom 1 carbon atom",
+        "B": "3 carbon atom",
+        "C": "4 carbon atom",
+        "D": "6 carbon atom"
+      },
+      "correctAnswer": "B",
+      "explanation": "Each carbon in graphite forms 3 covalent bonds within a layer"
+    },
+    {
+      "id": "chem9-c2-q25",
+      "question": "Graphite is soft and slippery because:",
+      "options": {
+        "A": "It has weak ionic bonds",
+        "B": "Layers can slide over each other",
+        "C": "It has free protons",
+        "D": "It is amorphous"
+      },
+      "correctAnswer": "B",
+      "explanation": "Weak forces between layers allow them to slide easily making graphite soft"
+    },
+    {
+      "id": "chem9-c2-q26",
+      "question": "Graphite is a good conductor of electricity because it has:",
+      "options": {
+        "A": "Free electrons",
+        "B": "No electrons",
+        "C": "Only ionic bonds",
+        "D": "Strong intermolecular forces"
+      },
+      "correctAnswer": "A",
+      "explanation": "Delocalized electrons in graphite can move freely and conduct electricity"
+    },
+    {
+      "id": "chem9-c2-q27",
+      "question": "Diamond is considered the hardest substance because:",
+      "options": {
+        "A": "It has weak bonds",
+        "B": "It has layered structure",
+        "C": "It has rigid 3-D network",
+        "D": "It has free electrons"
+      },
+      "correctAnswer": "C",
+      "explanation": "Diamonds has a strong tetrahedral covalent network extending in 3-Dimentions"
+    },
+    {
+      "id": "chem9-c2-q28",
+      "question": "Buckyballs are also known as:",
+      "options": {
+        "A": "Graphene",
+        "B": "Fullerenes",
+        "C": "Nanotubes",
+        "D": "Isotopes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Buckyballs are called Fullerenes due to their hollow spherical structure"
+    },
+    {
+      "id": "chem9-c2-q29",
+      "question": "A solution is a homogeneous mixture of how many substances?",
+      "options": {
+        "A": "1",
+        "B": "2 or more",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "B",
+      "explanation": "A solution contains two or more substances mixed uniformly"
+    },
+    {
+      "id": "chem9-c2-q30",
+      "question": "In a solution, the substance that is dissolved is called:",
+      "options": {
+        "A": "Solvent",
+        "B": "Solute",
+        "C": "Mixture",
+        "D": "Medium"
+      },
+      "correctAnswer": "B",
+      "explanation": "The dissolved substance in a solution is called solute"
+    },
+    {
+      "id": "chem9-c2-q31",
+      "question": "The substance in which solute dissolves is called:",
+      "options": {
+        "A": "Solvent",
+        "B": "Solute",
+        "C": "Mixture",
+        "D": "Medium"
+      },
+      "correctAnswer": "A",
+      "explanation": "The solvent is the medium that dissolves the solute"
+    },
+    {
+      "id": "chem9-c2-q32",
+      "question": "In salt water solution, water is the:",
+      "options": {
+        "A": "Solvent",
+        "B": "Solute",
+        "C": "Mixture",
+        "D": "Medium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Water dissolves salt, so it acts as solvent"
+    },
+    {
+      "id": "chem9-c2-q33",
+      "question": "Air is an example of which type of solution?",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gaseous",
+        "D": "Colloid"
+      },
+      "correctAnswer": "C",
+      "explanation": "Air is a gaseous solution because its solvent is gas"
+    },
+    {
+      "id": "chem9-c2-q34",
+      "question": "Alloy is an example of:",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gaseous",
+        "D": "Colloid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Alloys are solid mixtures of metals"
+    },
+    {
+      "id": "chem9-c2-q35",
+      "question": "In hydrogen and nickel example, hydrogen acts as:",
+      "options": {
+        "A": "Solvent",
+        "B": "Solute",
+        "C": "Catalyst",
+        "D": "Alloy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hydrogen gas dissolves on nickel surface as solute 37. Brass and bronze are Alloys Solid solution Liquid solution Compounds ○ ○ ○ ○ examples of: Answer: (A) Alloys"
+    },
+    {
+      "id": "chem9-c2-q36",
+      "question": "Brass and bronze are examples of:",
+      "options": {
+        "A": "Alloys",
+        "B": "Solid solution",
+        "C": "Liquid solution",
+        "D": "Compounds"
+      },
+      "correctAnswer": "A",
+      "explanation": "Brass and bronze are mixtures of metals"
+    },
+    {
+      "id": "chem9-c2-q37",
+      "question": "An aqueous solution is formed when a substance is dissolved in:",
+      "options": {
+        "A": "Alcohol",
+        "B": "Water",
+        "C": "Ether",
+        "D": "Oil"
+      },
+      "correctAnswer": "B",
+      "explanation": "An aqueous solution is made by dissolving a substance in water"
+    },
+    {
+      "id": "chem9-c2-q38",
+      "question": "In an aqueous solution, the solvent is always:",
+      "options": {
+        "A": "Acid",
+        "B": "Base",
+        "C": "Water",
+        "D": "Salt"
+      },
+      "correctAnswer": "C",
+      "explanation": "Water acts as the solvent in every aqueous solution"
+    },
+    {
+      "id": "chem9-c2-q39",
+      "question": "A solution containing maximum amount of solute at given temperature is called:",
+      "options": {
+        "A": "Dilute Solution",
+        "B": "Unsaturated Solution",
+        "C": "Saturated Solution",
+        "D": "Supersaturated Solution"
+      },
+      "correctAnswer": "C",
+      "explanation": "A saturated solution holds maximum solute at a specific temperature"
+    },
+    {
+      "id": "chem9-c2-q40",
+      "question": "In a saturated solution, extra solute added will:",
+      "options": {
+        "A": "Dissolve Completely",
+        "B": "Evaporate",
+        "C": "Remain Undissolved",
+        "D": "Change Colour"
+      },
+      "correctAnswer": "C",
+      "explanation": "Extra solute settles at the bottom in saturated solution"
+    },
+    {
+      "id": "chem9-c2-q41",
+      "question": "At particle level, saturated solution is in:",
+      "options": {
+        "A": "Static State",
+        "B": "Dynamic Equilibrium",
+        "C": "Chemical Reaction",
+        "D": "Combustion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dissolution and crystallization occur at equal rates"
+    },
+    {
+      "id": "chem9-c2-q42",
+      "question": "A solution that can dissolve more solute is called:",
+      "options": {
+        "A": "Saturated",
+        "B": "Unsaturated",
+        "C": "Supersaturated",
+        "D": "Concentrated"
+      },
+      "correctAnswer": "B",
+      "explanation": "Unsaturated solutions have capacity to dissolve more solute"
+    },
+    {
+      "id": "chem9-c2-q43",
+      "question": "Supersaturated solutions are generally:",
+      "options": {
+        "A": "Stable",
+        "B": "Neutral",
+        "C": "Unstable",
+        "D": "Permanent"
+      },
+      "correctAnswer": "C",
+      "explanation": "Supersaturated solutions are not stable and crystallize easily"
+    },
+    {
+      "id": "chem9-c2-q44",
+      "question": "Heating a saturated solution usually:",
+      "options": {
+        "A": "Decreases Solubility",
+        "B": "Increases Solubility",
+        "C": "Freezes Solution",
+        "D": "Removes Solvent"
+      },
+      "correctAnswer": "B",
+      "explanation": "Most solids dissolve more on increasing temperature"
+    },
+    {
+      "id": "chem9-c2-q45",
+      "question": "Adding more solvent to a solution will make it:",
+      "options": {
+        "A": "Concentrated",
+        "B": "Saturated",
+        "C": "Dilute",
+        "D": "Supersaturated"
+      },
+      "correctAnswer": "C",
+      "explanation": "Addition of solvent lowers concentration"
+    },
+    {
+      "id": "chem9-c2-q46",
+      "question": "Solubility mainly depends on:",
+      "options": {
+        "A": "Colour",
+        "B": "Shape",
+        "C": "Temperature and pressure",
+        "D": "Size of container"
+      },
+      "correctAnswer": "C",
+      "explanation": "Temperature and pressure affect solubility"
+    },
+    {
+      "id": "chem9-c2-q47",
+      "question": "When solute settles at bottom, solution becomes:",
+      "options": {
+        "A": "Unsaturated",
+        "B": "Dilute",
+        "C": "Saturated      S",
+        "D": "upersaturated"
+      },
+      "correctAnswer": "C",
+      "explanation": "Settling indicates maximum solute has dissolved"
+    },
+    {
+      "id": "chem9-c2-q48",
+      "question": "Unsaturated solution at given temperature can become saturated by:",
+      "options": {
+        "A": "Adding More Solute",
+        "B": "Removing Solute",
+        "C": "Freezing",
+        "D": "Filtering"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adding solute increases concentration until saturation"
+    },
+    {
+      "id": "chem9-c2-q49",
+      "question": "Supersaturated solution is more concentrated than:",
+      "options": {
+        "A": "Dilute",
+        "B": "Unsaturated",
+        "C": "Saturated",
+        "D": "Pure water"
+      },
+      "correctAnswer": "C",
+      "explanation": "Supersaturated contains excess dissolved solute"
+    },
+    {
+      "id": "chem9-c2-q50",
+      "question": "The size of colloidal particles ranges from:",
+      "options": {
+        "A": "1 To 1000 Micrometres",
+        "B": "1 To 1000 Nanometres",
+        "C": "1 To 10       1 Nanometres",
+        "D": "000 To 2000 Nanometres"
+      },
+      "correctAnswer": "B",
+      "explanation": "Colloidal particles are 1–1000 nm in diameter"
+    },
+    {
+      "id": "chem9-c2-q51",
+      "question": "Colloids are also called:",
+      "options": {
+        "A": "True Solutions",
+        "B": "Colloidal Dispersions",
+        "C": "Suspensions",
+        "D": "Emulsions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Substances in colloids remain dispersed without settling"
+    },
+    {
+      "id": "chem9-c2-q52",
+      "question": "Colloidal particles do not settle because:",
+      "options": {
+        "A": "They Are Heavy",
+        "B": "They Dissolve Completely",
+        "C": "They Remain Evenly Distributed",
+        "D": "They Are Coloured"
+      },
+      "correctAnswer": "C",
+      "explanation": "Particles remain dispersed throughout the medium"
+    },
+    {
+      "id": "chem9-c2-q53",
+      "question": "Tyndall effect is:",
+      "options": {
+        "A": "Scattering Of Light By Colloid Particles",
+        "B": "Evaporation",
+        "C": "Precipitation",
+        "D": "Dissolution"
+      },
+      "correctAnswer": "A",
+      "explanation": "Colloids scatter light, making the beam visible 55. The main characteristic that distinguishes colloids from Tyndall Effect Colour Temperature Viscosity ○ ○ ○ ○ solutions is: Answer: (A) Tyndall Effect"
+    },
+    {
+      "id": "chem9-c2-q54",
+      "question": "The main characteristic that distinguishes colloids from solutions is:",
+      "options": {
+        "A": "Tyndall Effect",
+        "B": "Colour",
+        "C": "Temperature",
+        "D": "Viscosity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Only colloids show Tyndall effect, solutions do not"
+    },
+    {
+      "id": "chem9-c2-q55",
+      "question": "Suspensions are heterogeneous mixtures in which particles are:",
+      "options": {
+        "A": "Smaller Than Colloid",
+        "B": "Between 1– 1000 Nanometres",
+        "C": "Dissolved Completely",
+        "D": "Large Enough To Be Seen"
+      },
+      "correctAnswer": "D",
+      "explanation": "Suspension particles are big and visible to naked eye"
+    },
+    {
+      "id": "chem9-c2-q56",
+      "question": "Particles of suspension:",
+      "options": {
+        "A": "Remain Evenly Distributed Forever",
+        "B": "Settle Down Over Time",
+        "C": "Scatter Ligh Like Colloid",
+        "D": "t    Dissolve s   Completely"
+      },
+      "correctAnswer": "B",
+      "explanation": "Suspension particles eventually settle due to gravity"
+    },
+    {
+      "id": "chem9-c2-q57",
+      "question": "False solutions refer to:",
+      "options": {
+        "A": "True Solutions",
+        "B": "Colloidal Solutions",
+        "C": "Suspensions",
+        "D": "Saturated Solutions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Colloids are called false solutions because they look like solutions"
+    }
+  ]
+}

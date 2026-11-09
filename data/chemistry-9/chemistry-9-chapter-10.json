@@ -1,0 +1,538 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 10,
+  "chapterTitle": "Unit 10: Acids, Bases, Salts & Neutralization",
+  "slug": "chemistry-9-chapter-10",
+  "description": "Arrhenius and Bronsted-Lowry theories of acids and bases, pH scale and indicators, neutralization reactions, preparation and properties of salts, and buffer concepts.",
+  "totalQuestions": 44,
+  "questions": [
+    {
+      "id": "chem9-c10-q1",
+      "question": "Which of the following acids is naturally present in fruits",
+      "options": {
+        "A": "Citric acid",
+        "B": "Sulphuric acid",
+        "C": "Nitric acid",
+        "D": "Hydrochloric acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Citric acid occurs naturally in citrus fruits and gives them a sour taste"
+    },
+    {
+      "id": "chem9-c10-q2",
+      "question": "Which taste is characteristic of acidic substances:",
+      "options": {
+        "A": "Sweet",
+        "B": "Sour",
+        "C": "Bitter",
+        "D": "Salty"
+      },
+      "correctAnswer": "B",
+      "explanation": "Acids are identified by their sour taste such as lemon juice and vinegar"
+    },
+    {
+      "id": "chem9-c10-q3",
+      "question": "What is the effect of an acid on blue litmus paper?",
+      "options": {
+        "A": "Turns red",
+        "B": "Turns green",
+        "C": "Turns blue",
+        "D": "No change"
+      },
+      "correctAnswer": "A",
+      "explanation": "Acids change blue litmus paper to red due to their acidic nature"
+    },
+    {
+      "id": "chem9-c10-q4",
+      "question": "Which change is observed when a base is added to red litmus paper?",
+      "options": {
+        "A": "Turns red",
+        "B": "Turns blue",
+        "C": "No change",
+        "D": "Turns yellow"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bases convert red litmus paper into blue indicating basic nature"
+    },
+    {
+      "id": "chem9-c10-q5",
+      "question": "Which of the following property is common to both acids and bases:",
+      "options": {
+        "A": "Effect on litmus",
+        "B": "Electrical conductivity in aqueous solution",
+        "C": "Neutral nature",
+        "D": "Taste"
+      },
+      "correctAnswer": "B",
+      "explanation": "Both acids and bases conduct electricity when dissolved in water due to ions"
+    },
+    {
+      "id": "chem9-c10-q6",
+      "question": "According to Arrhenius, ______ ion is produced by acids in aqueous solution",
+      "options": {
+        "A": "OH⁻",
+        "B": "Na⁺",
+        "C": "Cl⁻",
+        "D": "H⁺"
+      },
+      "correctAnswer": "D",
+      "explanation": "Arrhenius acids ionize in water to produce hydrogen ions 7. Which ion is released by H⁺ OH⁻ Cl⁻ NO₃⁻ ○ ○ ○ ○ an Arrhenius base in water Answer: (B) OH⁻"
+    },
+    {
+      "id": "chem9-c10-q7",
+      "question": "Which ion is released by an Arrhenius base in water",
+      "options": {
+        "A": "H⁺",
+        "B": "OH⁻",
+        "C": "Cl⁻",
+        "D": "NO₃⁻"
+      },
+      "correctAnswer": "B",
+      "explanation": "Arrhenius bases produce hydroxide ions when dissolved in water"
+    },
+    {
+      "id": "chem9-c10-q8",
+      "question": "Which scientist proposed the Arrhenius concept of acids and bases?",
+      "options": {
+        "A": "Dalton",
+        "B": "Avogadro         Ru",
+        "C": "therford",
+        "D": "Svante Arrhenius"
+      },
+      "correctAnswer": "D",
+      "explanation": "Svante Arrhenius proposed the first successful acid–base theory in 1887"
+    },
+    {
+      "id": "chem9-c10-q9",
+      "question": "What happens when HCl dissolves in water according to Arrhenius theory:",
+      "options": {
+        "A": "Produces Na⁺ and OH⁻",
+        "B": "Produces H⁺ and Cl⁻",
+        "C": "Produces H₃O⁺ only",
+        "D": "Does not ionize"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hydrochloric acid ionizes to give hydrogen and chloride ions in water"
+    },
+    {
+      "id": "chem9-c10-q10",
+      "question": "Which acid is commonly used for cleaning metals and bricks:",
+      "options": {
+        "A": "Nitric acid     S",
+        "B": "Ph ulphuric acid",
+        "C": "osphoric       Hy acid",
+        "D": "drochloric acid"
+      },
+      "correctAnswer": "D",
+      "explanation": "Hydrochloric acid is widely used to clean metals and remove scale"
+    },
+    {
+      "id": "chem9-c10-q11",
+      "question": "Which acid is mainly used in the manufacture of fertilizers and explosives:",
+      "options": {
+        "A": "Hydrochloric acid",
+        "B": "Ph Nitric acid",
+        "C": "osphoric Ca acid",
+        "D": "rbonic acid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nitric acid is essential in producing fertilizers and explosives"
+    },
+    {
+      "id": "chem9-c10-q12",
+      "question": "Which base is used in making liquid soap and shaving cream?",
+      "options": {
+        "A": "Sodium hydroxide",
+        "B": "Calcium         Ma hydroxide",
+        "C": "gnesium hydroxide",
+        "D": "Potassium hydroxide"
+      },
+      "correctAnswer": "D",
+      "explanation": "Potassium hydroxide is used to produce soft soaps and shaving products"
+    },
+    {
+      "id": "chem9-c10-q13",
+      "question": "Calcium hydroxide is commonly used in:",
+      "options": {
+        "A": "As an antacid",
+        "B": "Making mortar and cement",
+        "C": "Food Dr regulation",
+        "D": "ain cleaning"
+      },
+      "correctAnswer": "B",
+      "explanation": "Calcium hydroxide is widely used in construction materials"
+    },
+    {
+      "id": "chem9-c10-q14",
+      "question": "Which base is used as an antacid and laxative",
+      "options": {
+        "A": "Sodium hydroxide",
+        "B": "Potassium hydroxide",
+        "C": "Calcium      M hydroxide     h",
+        "D": "agnesium ydroxide"
+      },
+      "correctAnswer": "D",
+      "explanation": "Magnesium hydroxide neutralizes stomach acid and relieves indigestion 15. According to the Produces OH⁻ Accepts Donates a Produces salt Bronsted–Lowry theory, ○ ○ ○ ○ ions electrons proton only an acid is defined as a substance that Answer: (C) Donates a proton"
+    },
+    {
+      "id": "chem9-c10-q15",
+      "question": "According to the Bronsted–Lowry theory, an acid is defined as a substance that",
+      "options": {
+        "A": "Produces OH⁻        A ions           e",
+        "B": "ccepts           Don lectrons           p",
+        "C": "ates a      Produ roton           o",
+        "D": "ces salt nly"
+      },
+      "correctAnswer": "C",
+      "explanation": "Bronsted–Lowry acids donate protons during chemical reactions"
+    },
+    {
+      "id": "chem9-c10-q16",
+      "question": "In the reaction HCl + H₂O → H₃O⁺ + Cl⁻, which species acts as a base",
+      "options": {
+        "A": "HCl",
+        "B": "H₂O",
+        "C": "H₃O⁺",
+        "D": "Cl⁻"
+      },
+      "correctAnswer": "B",
+      "explanation": "Water accepts a proton from HCl and acts as a base"
+    },
+    {
+      "id": "chem9-c10-q17",
+      "question": "Why is ammonia considered a base in the Bronsted–Lowry concept",
+      "options": {
+        "A": "It produces       It OH⁻ directly",
+        "B": "contains         It oxygen          hydr",
+        "C": "It a releases proto ogen ions w",
+        "D": "ccepts a n from ater"
+      },
+      "correctAnswer": "D",
+      "explanation": "Ammonia accepts a proton from water forming ammonium ion"
+    },
+    {
+      "id": "chem9-c10-q18",
+      "question": "Which of the following is a strong acid:",
+      "options": {
+        "A": "Hydrochloric Car acid",
+        "B": "bonic acid       Ace",
+        "C": "tic acid    Ethan",
+        "D": "oic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hydrochloric acid ionizes completely in aqueous solution"
+    },
+    {
+      "id": "chem9-c10-q19",
+      "question": "The ionization of hydrochloric acid in water is correctly represented as",
+      "options": {
+        "A": "HCl → H₂ +       HCl Cl₂         H",
+        "B": "+ H₂O →         HCl ⁺ + Cl⁻",
+        "C": "→ H⁻ +     HCl + Cl⁺            H",
+        "D": "OH⁻ → ₂O"
+      },
+      "correctAnswer": "B",
+      "explanation": "HCl dissociates completely to give H⁺ and Cl⁻ ions in water"
+    },
+    {
+      "id": "chem9-c10-q20",
+      "question": "Which of the following is an alkali?",
+      "options": {
+        "A": "NaOH            A",
+        "B": "l(OH)₃            Cu",
+        "C": "(OH)₂         Fe(",
+        "D": "OH)₃"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sodium hydroxide is a base that dissolves readily in water"
+    },
+    {
+      "id": "chem9-c10-q21",
+      "question": "Which of the following is a weak base as stated?",
+      "options": {
+        "A": "NaOH",
+        "B": "NH₃               C",
+        "C": "a(OH)₂          K",
+        "D": "OH"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ammonia ionizes partially when dissolved in water"
+    },
+    {
+      "id": "chem9-c10-q22",
+      "question": "The ionization of potassium hydroxide in water is represented as",
+      "options": {
+        "A": "KOH → K +        KOH OH",
+        "B": "→ K⁻ + KOH OH⁺",
+        "C": "KOH + → K₂O K⁺",
+        "D": "H₂O → + OH⁻"
+      },
+      "correctAnswer": "D",
+      "explanation": "Potassium hydroxide is a strong base that ionizes completely Topic # 10.3"
+    },
+    {
+      "id": "chem9-c10-q23",
+      "question": "The effect of acids on blue litmus paper is a commonly used test",
+      "options": {
+        "A": "Turns blue",
+        "B": "Turns red",
+        "C": "Turns green",
+        "D": "No change"
+      },
+      "correctAnswer": "B",
+      "explanation": "Acids convert blue litmus paper into red indicating acidity"
+    },
+    {
+      "id": "chem9-c10-q24",
+      "question": "Acids generally react with most metals and show which behaviour",
+      "options": {
+        "A": "Neutral         C nature",
+        "B": "orrosive Bas nature",
+        "C": "ic nature      In",
+        "D": "ert nature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Acids corrode many metals due to chemical reactions"
+    },
+    {
+      "id": "chem9-c10-q25",
+      "question": "Which gas is liberated when acids react with metals?",
+      "options": {
+        "A": "Oxygen          N",
+        "B": "itrogen",
+        "C": "Carbon Hy dioxide",
+        "D": "drogen"
+      },
+      "correctAnswer": "D",
+      "explanation": "Reaction of acids with metals releases hydrogen gas as bubbles"
+    },
+    {
+      "id": "chem9-c10-q26",
+      "question": "Acids react with metal carbonates to produce which set of products?",
+      "options": {
+        "A": "Salt and hydrogen",
+        "B": "Salt and           S water",
+        "C": "Sa alt and an oxygen d",
+        "D": "lt, water, d carbon ioxide"
+      },
+      "correctAnswer": "D",
+      "explanation": "Carbon dioxide is released when acids react with carbonates"
+    },
+    {
+      "id": "chem9-c10-q27",
+      "question": "The bubbles formed during reaction of acids with metal carbonates are due to:",
+      "options": {
+        "A": "Carbon Hyd dioxide gas",
+        "B": "rogen gas         Ox",
+        "C": "ygen gas      Nit",
+        "D": "rogen gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carbon dioxide gas escapes as bubbles during the reaction"
+    },
+    {
+      "id": "chem9-c10-q28",
+      "question": "The reaction between an acid and a base to form a salt and water is called:",
+      "options": {
+        "A": "Oxidation        R",
+        "B": "eduction         Neu",
+        "C": "Dec tralization",
+        "D": "ompositio n"
+      },
+      "correctAnswer": "C",
+      "explanation": "Neutralization reactions cancel acidic and basic properties"
+    },
+    {
+      "id": "chem9-c10-q29",
+      "question": "Normal rainwater is slightly acidic due to the presence of",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Sulphur         C dioxide         d",
+        "D": "arbon ioxide"
+      },
+      "correctAnswer": "D",
+      "explanation": "Dissolved CO₂ forms weak carbonic acid in rainwater"
+    },
+    {
+      "id": "chem9-c10-q30",
+      "question": "Carbon dioxide released during acid–carbonate reactions is observed as",
+      "options": {
+        "A": "Smoke          Pr",
+        "B": "ecipitate",
+        "C": "Bu",
+        "D": "bbles in water"
+      },
+      "correctAnswer": "D",
+      "explanation": "CO₂ escapes as visible bubbles during the reaction"
+    },
+    {
+      "id": "chem9-c10-q31",
+      "question": "Bases are identified by a characteristic taste as:",
+      "options": {
+        "A": "Bitter",
+        "B": "Sour",
+        "C": "Sweet",
+        "D": "Salty"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bases have a bitter taste which helps in their identification"
+    },
+    {
+      "id": "chem9-c10-q32",
+      "question": "What change is observed when a base is added to blue litmus paper?",
+      "options": {
+        "A": "Turns red",
+        "B": "Turns green",
+        "C": "Turns blue",
+        "D": "No change"
+      },
+      "correctAnswer": "D",
+      "explanation": "Bases convert red litmus paper into blue indicating basic nature"
+    },
+    {
+      "id": "chem9-c10-q33",
+      "question": "Which physical sensation is associated with aqueous solutions of bases?",
+      "options": {
+        "A": "Sticky",
+        "B": "Rough",
+        "C": "Dry",
+        "D": "Slippery"
+      },
+      "correctAnswer": "D",
+      "explanation": "Aqueous solutions of bases feel slippery or soapy to touch"
+    },
+    {
+      "id": "chem9-c10-q34",
+      "question": "Which products are formed when bases neutralize acids:",
+      "options": {
+        "A": "Hydrogen and oxygen",
+        "B": "Salt and A water",
+        "C": "cid and base    d",
+        "D": "Carbon ioxide and water"
+      },
+      "correctAnswer": "B",
+      "explanation": "Neutralization always results in salt and water formation"
+    },
+    {
+      "id": "chem9-c10-q35",
+      "question": "Bases decompose ammonium salts on heating to liberate which gas?",
+      "options": {
+        "A": "Hydrogen",
+        "B": "Carbon dioxide",
+        "C": "Oxygen        A",
+        "D": "mmonia"
+      },
+      "correctAnswer": "D",
+      "explanation": "Heating ammonium salts with bases releases ammonia gas"
+    },
+    {
+      "id": "chem9-c10-q36",
+      "question": "Which of the following is NOT a characteristic property of bases?",
+      "options": {
+        "A": "Bitter taste",
+        "B": "Turns red S litmus blue",
+        "C": "lippery touch l",
+        "D": "Turns blue itmus red"
+      },
+      "correctAnswer": "D",
+      "explanation": "Turning blue litmus red is a property of acids, not bases"
+    },
+    {
+      "id": "chem9-c10-q37",
+      "question": "Bases are primarily composed of hydroxides of metals, which exhibit typical basic properties",
+      "options": {
+        "A": "True",
+        "B": "False m",
+        "C": "Only in O olten form",
+        "D": "nly in acids"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bases are metal hydroxides showing characteristic properties of bases"
+    },
+    {
+      "id": "chem9-c10-q38",
+      "question": "Metallic oxides are formed by the reaction of metals with which element?",
+      "options": {
+        "A": "Nitrogen",
+        "B": "Oxygen          Hydr",
+        "C": "ogen     Carbon",
+        "D": "All of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "Metals react with oxygen to form metallic oxides"
+    },
+    {
+      "id": "chem9-c10-q39",
+      "question": "The reaction of sodium with oxygen produces which oxide",
+      "options": {
+        "A": "NaO₂",
+        "B": "Na₂O",
+        "C": "NaOH",
+        "D": "Na₂O₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sodium reacts with oxygen to form sodium oxide"
+    },
+    {
+      "id": "chem9-c10-q40",
+      "question": "Magnesium burns in air, producing which oxide?",
+      "options": {
+        "A": "Mg(OH)₂",
+        "B": "MgO              Mg₂",
+        "C": "O        MgCO₃",
+        "D": "All of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ignition of magnesium in air produces magnesium oxide"
+    },
+    {
+      "id": "chem9-c10-q41",
+      "question": "Most metal oxides and hydroxides are:",
+      "options": {
+        "A": "Acidic",
+        "B": "Neutral        Very",
+        "C": "Amphoteri basic only",
+        "D": "c"
+      },
+      "correctAnswer": "C",
+      "explanation": "Metallic oxides and hydroxides usually show strong basic behavior"
+    },
+    {
+      "id": "chem9-c10-q42",
+      "question": "Which of the following is a metallic oxide that is strongly basic?",
+      "options": {
+        "A": "Na₂O",
+        "B": "Al₂O₃",
+        "C": "ZnO",
+        "D": "NH₄OH"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sodium oxide dissolves in water to give OH⁻ ions strongly"
+    },
+    {
+      "id": "chem9-c10-q43",
+      "question": "Zinc hydroxide, Zn(OH)₂, is best described as",
+      "options": {
+        "A": "Strong base       Wea only",
+        "B": "k base         Ampho only          hydro",
+        "C": "teric     Acidic xide    hydroxide",
+        "D": "All of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "Zn(OH)₂ can act as both an acid and a base"
+    },
+    {
+      "id": "chem9-c10-q44",
+      "question": "Aluminium hydroxide, Al(OH)₃, exhibits which property?",
+      "options": {
+        "A": "Amphoteric",
+        "B": "Acidic only",
+        "C": "Basic only",
+        "D": "Neutral"
+      },
+      "correctAnswer": "A",
+      "explanation": "Aluminium hydroxide can react with acids and bases"
+    }
+  ]
+}

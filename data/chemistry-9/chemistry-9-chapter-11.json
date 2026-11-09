@@ -1,0 +1,778 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 11,
+  "chapterTitle": "Unit 11: Environmental Chemistry: Atmosphere & Air Pollution",
+  "slug": "chemistry-9-chapter-11",
+  "description": "Composition of atmosphere, troposphere and stratosphere, primary and secondary air pollutants (CO, SO2, NOx, VOCs), acid rain, greenhouse effect, and ozone layer depletion.",
+  "totalQuestions": 64,
+  "questions": [
+    {
+      "id": "chem9-c11-q1",
+      "question": "Which gas makes up the largest percentage of air:",
+      "options": {
+        "A": "Oxygen",
+        "B": "Carbon dioxide",
+        "C": "Nitrogen",
+        "D": "Argon"
+      },
+      "correctAnswer": "C",
+      "explanation": "Nitrogen constitutes about 78% of the Earth’s atmosphere"
+    },
+    {
+      "id": "chem9-c11-q2",
+      "question": "Oxygen forms approximately what percentage of the atmosphere:",
+      "options": {
+        "A": "10%",
+        "B": "21%",
+        "C": "50%",
+        "D": "78%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Oxygen makes up about 21% of the air and supports respiration"
+    },
+    {
+      "id": "chem9-c11-q3",
+      "question": "The envelope of gases surrounding the Earth is called:",
+      "options": {
+        "A": "Atmosphere",
+        "B": "Biosphere",
+        "C": "Lithosphere",
+        "D": "Hydrosphere"
+      },
+      "correctAnswer": "A",
+      "explanation": "The atmosphere is the layer of gases and water vapor around Earth"
+    },
+    {
+      "id": "chem9-c11-q4",
+      "question": "The amount of water vapor in air:",
+      "options": {
+        "A": "Is always constant",
+        "B": "Is highest in deserts",
+        "C": "Is zero everywhere",
+        "D": "Varies with place and time"
+      },
+      "correctAnswer": "D",
+      "explanation": "Water vapor content changes with climate, location, and weather"
+    },
+    {
+      "id": "chem9-c11-q5",
+      "question": "Which of the following gases is present in very small amounts in air:",
+      "options": {
+        "A": "Nitrogen",
+        "B": "Oxygen",
+        "C": "Argon",
+        "D": "Carbon dioxide"
+      },
+      "correctAnswer": "D",
+      "explanation": "Carbon dioxide is present in trace amounts but strongly affects climate"
+    },
+    {
+      "id": "chem9-c11-q6",
+      "question": "Which of the following is NOT a major component of air:",
+      "options": {
+        "A": "Nitrogen",
+        "B": "Oxygen",
+        "C": "Argon",
+        "D": "Hydrogen"
+      },
+      "correctAnswer": "D",
+      "explanation": "Hydrogen is present only in trace amounts in the atmosphere"
+    },
+    {
+      "id": "chem9-c11-q7",
+      "question": "Which of the following is an air pollutant:",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Sulphur dioxide",
+        "D": "Helium"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sulphur dioxide is a harmful gas released from burning fossil fuels 8. Sulphur dioxide Fog Acid rain Snow Dew ○ ○ ○ ○ contributes significantly to the formation of: Answer: (B) Acid rain"
+    },
+    {
+      "id": "chem9-c11-q8",
+      "question": "Sulphur dioxide contributes significantly to the formation of:",
+      "options": {
+        "A": "Fog",
+        "B": "Acid rain",
+        "C": "Snow",
+        "D": "Dew"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sulphur dioxide reacts in the atmosphere to form acids that fall as acid rain"
+    },
+    {
+      "id": "chem9-c11-q9",
+      "question": "Nitrogen oxides are harmful mainly because they cause:",
+      "options": {
+        "A": "Vitamin deficiency",
+        "B": "Respiratory problems",
+        "C": "Bone weakness",
+        "D": "Dehydrati"
+      },
+      "correctAnswer": "B",
+      "explanation": "NOx gases irritate airways and damage respiratory health"
+    },
+    {
+      "id": "chem9-c11-q10",
+      "question": "Carbon dioxide is considered a major pollutant mainly because it causes:",
+      "options": {
+        "A": "Acid burns",
+        "B": "Global warming",
+        "C": "Lung cancer",
+        "D": "Smog"
+      },
+      "correctAnswer": "B",
+      "explanation": "Increased carbon dioxide traps heat and raises global temperatures"
+    },
+    {
+      "id": "chem9-c11-q11",
+      "question": "Carbon monoxide is mainly produced due to:",
+      "options": {
+        "A": "Incomplete combustion",
+        "B": "Complete combustion",
+        "C": "Photosynthes s",
+        "D": "i Respirati"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lack of oxygen during burning leads to carbon monoxide formation"
+    },
+    {
+      "id": "chem9-c11-q12",
+      "question": "Carbon monoxide combines with haemoglobin to form:",
+      "options": {
+        "A": "Oxyhaemoglo bin",
+        "B": "Deoxyhaemo globin",
+        "C": "Methaemoglo bin",
+        "D": "Carboxyha oglobin"
+      },
+      "correctAnswer": "D",
+      "explanation": "Carboxyhaemoglobin cannot carry oxygen in the blood"
+    },
+    {
+      "id": "chem9-c11-q13",
+      "question": "Methane enters the atmosphere mainly from:",
+      "options": {
+        "A": "Oceans",
+        "B": "Volcanos",
+        "C": "Decomposing waste",
+        "D": "Photosynt is"
+      },
+      "correctAnswer": "C",
+      "explanation": "Decomposition of organic matter releases methane gas"
+    },
+    {
+      "id": "chem9-c11-q14",
+      "question": "Ground-level ozone is also known as:",
+      "options": {
+        "A": "Fog",
+        "B": "Smog",
+        "C": "Mist",
+        "D": "Smoke"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ozone formed near ground level creates smog"
+    },
+    {
+      "id": "chem9-c11-q15",
+      "question": "Atomic oxygen formed in sunlight reacts with O2 to form:",
+      "options": {
+        "A": "CO2",
+        "B": "SO3",
+        "C": "O3",
+        "D": "NO"
+      },
+      "correctAnswer": "C",
+      "explanation": "Decomposition of organic matter releases methane gas"
+    },
+    {
+      "id": "chem9-c11-q16",
+      "question": "Nitrogen oxides contribute to photochemical smog by:",
+      "options": {
+        "A": "Absorbing oxygen",
+        "B": "Reacting with VOCs",
+        "C": "Cooling ai",
+        "D": "Increasi r humidit"
+      },
+      "correctAnswer": "B",
+      "explanation": "NOx reacts under sunlight to form ozone and smog"
+    },
+    {
+      "id": "chem9-c11-q17",
+      "question": "Increased carbon dioxide levels are mainly associated with:",
+      "options": {
+        "A": "Ozone Layer Repair",
+        "B": "Global Warming",
+        "C": "Neut",
+        "D": "Acid Cool ralization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rising CO₂ levels enhance the greenhouse effect leading to global warming"
+    },
+    {
+      "id": "chem9-c11-q18",
+      "question": "Burning of fossil fuels increases the amount of:",
+      "options": {
+        "A": "Helium",
+        "B": "Nitroge",
+        "C": "n           Hy",
+        "D": "drogen       Carb"
+      },
+      "correctAnswer": "D",
+      "explanation": "Combustion of fossil fuels releases large amounts of carbon dioxide into the atmosphere"
+    },
+    {
+      "id": "chem9-c11-q19",
+      "question": "Incomplete combustion occurs due to lack of:",
+      "options": {
+        "A": "Fuel",
+        "B": "Nitroge",
+        "C": "n",
+        "D": "Oxygen"
+      },
+      "correctAnswer": "C",
+      "explanation": "Incomplete combustion happens when there is insufficient oxygen supply"
+    },
+    {
+      "id": "chem9-c11-q20",
+      "question": "Ground-level ozone is commonly called:",
+      "options": {
+        "A": "Fog",
+        "B": "Smog",
+        "C": "All of the above",
+        "D": "Mist"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ground-level ozone formed in polluted areas is known as smog"
+    },
+    {
+      "id": "chem9-c11-q21",
+      "question": "The reactions that form ozone in sunlight are called:",
+      "options": {
+        "A": "Neutral Reactions",
+        "B": "Photochemi Reaction",
+        "C": "cal          N s           Re",
+        "D": "uclear Ele actions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sunlight-driven chemical reactions are known as photochemical reactions"
+    },
+    {
+      "id": "chem9-c11-q22",
+      "question": "Atomic oxygen reacts with O₂ to form:",
+      "options": {
+        "A": "O₄",
+        "B": "O3",
+        "C": "All of the above",
+        "D": "CO2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Atomic oxygen combines with oxygen molecules to produce ozone O₃"
+    },
+    {
+      "id": "chem9-c11-q23",
+      "question": "Air that contains harmful particles and dust is said to be:",
+      "options": {
+        "A": "Pure Air",
+        "B": "Moist Air",
+        "C": "Polluted Air",
+        "D": "Dry Air"
+      },
+      "correctAnswer": "C",
+      "explanation": "Air containing harmful particles and dust is classified as polluted air"
+    },
+    {
+      "id": "chem9-c11-q24",
+      "question": "Volcanoes, termites and cows release large amounts of:",
+      "options": {
+        "A": "Carbon Dioxi",
+        "B": "de        Methane",
+        "C": "All of the above",
+        "D": "Helium       Hy"
+      },
+      "correctAnswer": "B",
+      "explanation": "These natural sources emit methane which is a greenhouse gas"
+    },
+    {
+      "id": "chem9-c11-q25",
+      "question": "Electrical discharges in the atmosphere produce:",
+      "options": {
+        "A": "Carbon Monoxide",
+        "B": "Sulphur Di",
+        "C": "Ni oxide O",
+        "D": "trogen Me xides"
+      },
+      "correctAnswer": "C",
+      "explanation": "Lightning and electrical discharges form nitrogen oxides in the atmosphere"
+    },
+    {
+      "id": "chem9-c11-q26",
+      "question": "Disturbing the natural balance of greenhouse gases leads to:",
+      "options": {
+        "A": "Global Coolin",
+        "B": "Global g Warming",
+        "C": "Ozone H",
+        "D": "Reduce ealing Radiat"
+      },
+      "correctAnswer": "B",
+      "explanation": "Disruption of greenhouse gas balance enhances warming of the atmosphere"
+    },
+    {
+      "id": "chem9-c11-q27",
+      "question": "Methane contributes to global warming because it is a:",
+      "options": {
+        "A": "Cooling Gas",
+        "B": "Neutral Ga",
+        "C": "Greenh s Ga",
+        "D": "ouse Inert s"
+      },
+      "correctAnswer": "C",
+      "explanation": "Methane traps heat effectively making it a potent greenhouse gas"
+    },
+    {
+      "id": "chem9-c11-q28",
+      "question": "Higher concentration of greenhouse gases results in:",
+      "options": {
+        "A": "Greater Heat Trapping",
+        "B": "Less Heat Trapping",
+        "C": "No Temper Chan",
+        "D": "ature    Less Rad ge"
+      },
+      "correctAnswer": "A",
+      "explanation": "More greenhouse gases increase heat retention in the atmosphere"
+    },
+    {
+      "id": "chem9-c11-q29",
+      "question": "Human activities increase greenhouse gases by:",
+      "options": {
+        "A": "Planting Tree Only",
+        "B": "s     Burning Fos Fuels",
+        "C": "sil        Red Indu",
+        "D": "ucing      Cleani stries     Oceans"
+      },
+      "correctAnswer": "B",
+      "explanation": "Burning fossil fuels significantly raises greenhouse gas concentrations"
+    },
+    {
+      "id": "chem9-c11-q30",
+      "question": "Greenhouse gases absorb mainly:",
+      "options": {
+        "A": "Visible Ligh",
+        "B": "Magnetic t Energy",
+        "C": "Sound",
+        "D": "Infra Energy Radiat"
+      },
+      "correctAnswer": "D",
+      "explanation": "Greenhouse gases trap infrared radiation emitted by the Earth"
+    },
+    {
+      "id": "chem9-c11-q31",
+      "question": "The Earth emits energy in the form of:",
+      "options": {
+        "A": "Ultraviolet Radiation",
+        "B": "X Rays",
+        "C": "Radio",
+        "D": "Infra Waves Radiat"
+      },
+      "correctAnswer": "D",
+      "explanation": "Heated Earth releases energy as infrared radiation"
+    },
+    {
+      "id": "chem9-c11-q32",
+      "question": "Acid rain is defined as rain having pH less than:",
+      "options": {
+        "A": "7.0",
+        "B": "6.5",
+        "C": "5.6",
+        "D": "5.6         4.5"
+      },
+      "correctAnswer": "C",
+      "explanation": "Rainwater with pH below 5.6 is classified as acid rain"
+    },
+    {
+      "id": "chem9-c11-q33",
+      "question": "The pH of acid rain during severe pollution can be as low as:",
+      "options": {
+        "A": "5.6",
+        "B": "4.5",
+        "C": "3.5",
+        "D": "2.1"
+      },
+      "correctAnswer": "D",
+      "explanation": "In highly polluted thunderstorms, rainwater pH can drop to 2.1 34. Sulphur dioxide in the Burning Fossil atmosphere mainly comes Volcanoes Only Oceans Plants ○ ○ ○ ○ Fuels from: Answer: (B) Burning Fossil Fuels"
+    },
+    {
+      "id": "chem9-c11-q34",
+      "question": "Sulphur dioxide in the atmosphere mainly comes from:",
+      "options": {
+        "A": "Volcanoes Onl",
+        "B": "Burning y Fuels",
+        "C": "Fossil O",
+        "D": "ceans           P"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fossil fuel combustion in power plants releases sulphur dioxide"
+    },
+    {
+      "id": "chem9-c11-q35",
+      "question": "Nitrogen dioxide contributes to acid rain by forming:",
+      "options": {
+        "A": "Hydrochlori Acid",
+        "B": "c        Sulfuric Only",
+        "C": "Acid Nit",
+        "D": "Carb ric Acid"
+      },
+      "correctAnswer": "C",
+      "explanation": "NO₂ reacts in the atmosphere to form nitric acid"
+    },
+    {
+      "id": "chem9-c11-q36",
+      "question": "The reaction 2NO₂ + 3O₂ + 2H₂O → ? produces:",
+      "options": {
+        "A": "Sulphuric a",
+        "B": "cid       Nitric",
+        "C": "Acid     Carbo",
+        "D": "nic Acid     Nitr"
+      },
+      "correctAnswer": "B",
+      "explanation": "This reaction shows formation of nitric acid in the atmosphere"
+    },
+    {
+      "id": "chem9-c11-q37",
+      "question": "Nitrogen dioxide helps convert sulphur dioxide into sulphur trioxide by:",
+      "options": {
+        "A": "Neutralizat",
+        "B": "ion       Reducti",
+        "C": "on        Evap",
+        "D": "Ca oration Ox"
+      },
+      "correctAnswer": "D",
+      "explanation": "NO₂ catalyses oxidation of SO₂ to SO₃ enhancing acid formation"
+    },
+    {
+      "id": "chem9-c11-q38",
+      "question": "Marble statues are damaged by acid rain because marble contains:",
+      "options": {
+        "A": "Sodium Chloride",
+        "B": "Silicon D",
+        "C": "Ca ioxide Car",
+        "D": "lcium Iro bonate"
+      },
+      "correctAnswer": "C",
+      "explanation": "Calcium carbonate in marble reacts with acids, causing disintegration"
+    },
+    {
+      "id": "chem9-c11-q39",
+      "question": "If rainwater has pH 4.0, it i considered:",
+      "options": {
+        "A": "s         Normal Rain",
+        "B": "Neutral",
+        "C": "Rain        Ac",
+        "D": "id Rain        Ba"
+      },
+      "correctAnswer": "C",
+      "explanation": "Any rainwater with pH below 5.6 is classified as acid rain"
+    },
+    {
+      "id": "chem9-c11-q40",
+      "question": "Catalytic converters are used to reduce:",
+      "options": {
+        "A": "Water Polluti",
+        "B": "on      Noise Pol",
+        "C": "lution    Soil",
+        "D": "Air Pollution From"
+      },
+      "correctAnswer": "D",
+      "explanation": "Catalytic converters reduce harmful gases emitted from car exhaust systems"
+    },
+    {
+      "id": "chem9-c11-q41",
+      "question": "Which metal is commonly used as a catalyst in catalyt converters:",
+      "options": {
+        "A": "ic Iron",
+        "B": "Platinum",
+        "C": "Sodium",
+        "D": "Aluminium"
+      },
+      "correctAnswer": "B",
+      "explanation": "Platinum is widely used due to its high catalytic efficiency"
+    },
+    {
+      "id": "chem9-c11-q42",
+      "question": "Palladium and rhodium are used in catalytic converters because they:",
+      "options": {
+        "A": "Act As Cataly",
+        "B": "Increase sts Consumpti",
+        "C": "Fuel Produ on",
+        "D": "Co ce Smoke E"
+      },
+      "correctAnswer": "A",
+      "explanation": "These metals speed up the conversion of harmful gases without being consumed"
+    },
+    {
+      "id": "chem9-c11-q43",
+      "question": "Transition to renewable energy helps to reduce:",
+      "options": {
+        "A": "Greenhouse Gas Emissions",
+        "B": "Oxygen Lev",
+        "C": "els       Sunl",
+        "D": "ight          Rai"
+      },
+      "correctAnswer": "A",
+      "explanation": "Renewable energy sources lower greenhouse gas emissions by replacing fossil fuels"
+    },
+    {
+      "id": "chem9-c11-q44",
+      "question": "Which of the following is a renewable energy source:",
+      "options": {
+        "A": "Coal",
+        "B": "Solar Ene",
+        "C": "rgy      Petro",
+        "D": "leum        Natur"
+      },
+      "correctAnswer": "B",
+      "explanation": "Solar energy is renewable because it is continuously supplied by the sun"
+    },
+    {
+      "id": "chem9-c11-q45",
+      "question": "Trees help reduce carbon dioxide through:",
+      "options": {
+        "A": "Combustion",
+        "B": "Respirati",
+        "C": "on       Oxida",
+        "D": "tion      Photosy"
+      },
+      "correctAnswer": "D",
+      "explanation": "During photosynthesis, plants absorb CO₂ from the atmosphere"
+    },
+    {
+      "id": "chem9-c11-q46",
+      "question": "A low carbon economy focuses on:",
+      "options": {
+        "A": "High Fossil Fu Use",
+        "B": "Reduced el Carbon Emission",
+        "C": "More Burn s",
+        "D": "Coal Defores ing"
+      },
+      "correctAnswer": "B",
+      "explanation": "A low carbon economy aims to minimize greenhouse gas emissions"
+    },
+    {
+      "id": "chem9-c11-q47",
+      "question": "What is a key goal of reducing deforestation?",
+      "options": {
+        "A": "Increase Timber Exports",
+        "B": "Promote Sustainab Logging",
+        "C": "Expand le Are",
+        "D": "Incr Urban Min as Acti"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sustainable logging reduces environmental damage while maintaining forest resources"
+    },
+    {
+      "id": "chem9-c11-q48",
+      "question": "Transition to which economy helps reduce carbon dioxide emissions?",
+      "options": {
+        "A": "Hydrogen Economy",
+        "B": "Coal-Base Economy",
+        "C": "d      Oil-Dep Econ",
+        "D": "endent    Plastic omy         Econo"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hydrogen is a clean energy source that lowers carbon emissions"
+    },
+    {
+      "id": "chem9-c11-q49",
+      "question": "The Paris Agreement aims to limit global warming to:",
+      "options": {
+        "A": "5°C",
+        "B": "3°C",
+        "C": "Well Be",
+        "D": "low 2°C         4"
+      },
+      "correctAnswer": "C",
+      "explanation": "The agreement focuses on keeping temperature rise well below 2°C"
+    },
+    {
+      "id": "chem9-c11-q50",
+      "question": "Acid rain is mainly caused by emissions of:",
+      "options": {
+        "A": "Oxygen And Nitrogen",
+        "B": "Sulphur Dio",
+        "C": "Carbo xide Monoxid",
+        "D": "n Hydroge e Only"
+      },
+      "correctAnswer": "B",
+      "explanation": "SO₂ and NOₓ react in the atmosphere to form acids"
+    },
+    {
+      "id": "chem9-c11-q51",
+      "question": "Flue Gas Desulfurization systems are used to remove:",
+      "options": {
+        "A": "Sulphur Dioxide",
+        "B": "Carbon Dio",
+        "C": "xide      Oxyg",
+        "D": "en          Water"
+      },
+      "correctAnswer": "A",
+      "explanation": "Scrubbers remove sulphur dioxide before it enters the atmosphere"
+    },
+    {
+      "id": "chem9-c11-q52",
+      "question": "Catalytic converters are installed in:",
+      "options": {
+        "A": "Factory Chimneys",
+        "B": "Water Treatment Plants",
+        "C": "Wind T",
+        "D": "Vehi urbines S"
+      },
+      "correctAnswer": "D",
+      "explanation": "They reduce harmful gases from vehicle exhaust"
+    },
+    {
+      "id": "chem9-c11-q53",
+      "question": "Catalytic converters contain which metal?",
+      "options": {
+        "A": "Iron And Copper",
+        "B": "Platinum",
+        "C": "All of the above",
+        "D": "Gold          Al"
+      },
+      "correctAnswer": "B",
+      "explanation": "These metals act as catalysts to convert harmful gases into safer ones"
+    },
+    {
+      "id": "chem9-c11-q54",
+      "question": "Photosynthesis is a process i which plants use which type of energy?",
+      "options": {
+        "A": "n Solar Energy",
+        "B": "Chemical Energy",
+        "C": "Me E",
+        "D": "chanical Nucl nergy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Plants use sunlight as the primary source of energy for photosynthesis"
+    },
+    {
+      "id": "chem9-c11-q55",
+      "question": "Which substances are converted into glucose during photosynthesis?",
+      "options": {
+        "A": "Oxygen And Nitrogen",
+        "B": "Hydrogen A Oxygen",
+        "C": "nd          Ni",
+        "D": "trogen And   Carb Water        An"
+      },
+      "correctAnswer": "D",
+      "explanation": "Carbon dioxide and water react to form glucose during the process"
+    },
+    {
+      "id": "chem9-c11-q56",
+      "question": "Photosynthesis occurs in the presence of which pigment?",
+      "options": {
+        "A": "Haemoglobin",
+        "B": "Chlorophy",
+        "C": "ll",
+        "D": "Melanin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chlorophyll captures sunlight and enables the process of photosynthesis"
+    },
+    {
+      "id": "chem9-c11-q57",
+      "question": "Photosynthesis plays an important role in which natural cycle?",
+      "options": {
+        "A": "Water Cycle",
+        "B": "Nitrogen Cycle",
+        "C": "Carbon Cycle",
+        "D": "Rock Cycle"
+      },
+      "correctAnswer": "C",
+      "explanation": "It removes carbon dioxide from the atmosphere and converts it into organic matter"
+    },
+    {
+      "id": "chem9-c11-q58",
+      "question": "Which device is designed to filter out dust, smoke, and some airborne chemicals?",
+      "options": {
+        "A": "N95 Masks",
+        "B": "Surgical Caps",
+        "C": "Cotton Cloth",
+        "D": "Face Shield"
+      },
+      "correctAnswer": "A",
+      "explanation": "N95 masks filter fine particles and certain pollutants from the air"
+    },
+    {
+      "id": "chem9-c11-q59",
+      "question": "Gas masks contain which material to absorb harmful gases?",
+      "options": {
+        "A": "Plastic Fib",
+        "B": "er      Plastic F",
+        "C": "iber        Co",
+        "D": "Ac tton Layer C"
+      },
+      "correctAnswer": "D",
+      "explanation": "Activated carbon absorbs gases and volatile organic compounds effectively"
+    },
+    {
+      "id": "chem9-c11-q60",
+      "question": "Gas masks are effective against:",
+      "options": {
+        "A": "Only Dust",
+        "B": "Sound Polluti",
+        "C": "on       Heat",
+        "D": "Waves         VOC"
+      },
+      "correctAnswer": "D",
+      "explanation": "Activated carbon filters trap harmful gases and vapours"
+    },
+    {
+      "id": "chem9-c11-q61",
+      "question": "Long-term exposure to polluted air can mainly damage which system of the body?",
+      "options": {
+        "A": "Digestive System",
+        "B": "Nervous System",
+        "C": "Respi Sys",
+        "D": "ratory     Circul tem          Syst"
+      },
+      "correctAnswer": "C",
+      "explanation": "Polluted air primarily harms the lungs and airways causing respiratory diseases"
+    },
+    {
+      "id": "chem9-c11-q62",
+      "question": "Which of the following is a harmful air pollutant?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Helium",
+        "C": "Hydro",
+        "D": "gen       Nitroge"
+      },
+      "correctAnswer": "D",
+      "explanation": "Nitrogen oxide is a major air pollutant that damages the respiratory system"
+    },
+    {
+      "id": "chem9-c11-q63",
+      "question": "Long-term air pollution exposure can contribute to which disease?",
+      "options": {
+        "A": "Diabetes",
+        "B": "Asthma",
+        "C": "Malaria",
+        "D": "Typhoid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Air pollutants can trigger asthma and other chronic lung conditions"
+    },
+    {
+      "id": "chem9-c11-q64",
+      "question": "Which of the following is an allergen?",
+      "options": {
+        "A": "Pollen",
+        "B": "Plastic",
+        "C": "G",
+        "D": "lass          Ste"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pollen is a common allergen that can cause respiratory allergies"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 23,
+  "chapterTitle": "Federal Board Annual Exam Simulator 04 (Ch 7, 8, 9, 10)",
+  "slug": "chemistry-9-model-paper-4",
+  "description": "Authentic 12-mark Section A Federal Board examination simulator covering Electrochemistry, Energetics, Chemical Equilibrium, and Acids/Bases.",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "id": "chem9-p4-q1",
+      "question": "Which of the following conditions is UNFAVORABLE for producing a smooth and adherent metal deposit during electroplating:",
+      "options": {
+        "A": "Low current density",
+        "B": "High current and high temperature",
+        "C": "High concentration of metal ions in electrolyte",
+        "D": "Clean metal cathode surface"
+      },
+      "correctAnswer": "B",
+      "explanation": "High electric current and high bath temperature cause rough, uneven, and coarse metallic deposition during electroplating."
+    },
+    {
+      "id": "chem9-p4-q2",
+      "question": "The oxidation state of sulphur in sulphur dioxide (SO₂) is:",
+      "options": {
+        "A": "+2",
+        "B": "+4",
+        "C": "-4",
+        "D": "-2"
+      },
+      "correctAnswer": "B",
+      "explanation": "In neutral SO2, oxygen has an oxidation state of -2. Thus: S + 2(-2) = 0 => S - 4 = 0 => S = +4."
+    },
+    {
+      "id": "chem9-p4-q3",
+      "question": "Consider the redox reaction: ZnO + H₂ → Zn + H₂O. In this reaction, zinc oxide (ZnO) acts as the:",
+      "options": {
+        "A": "Reducing agent",
+        "B": "Oxidizing agent",
+        "C": "Electrolyte",
+        "D": "Catalyst"
+      },
+      "correctAnswer": "B",
+      "explanation": "ZnO loses oxygen (Zn²⁺ is reduced to Zn⁰), causing H2 to be oxidized to H2O; therefore, ZnO functions as the oxidizing agent."
+    },
+    {
+      "id": "chem9-p4-q4",
+      "question": "The oxidation state of chromium in potassium dichromate (K₂Cr₂O₇) is:",
+      "options": {
+        "A": "+12",
+        "B": "+6",
+        "C": "+3",
+        "D": "-6"
+      },
+      "correctAnswer": "B",
+      "explanation": "In K2Cr2O7: 2(+1) + 2(Cr) + 7(-2) = 0 => 2 + 2Cr - 14 = 0 => 2Cr = 12 => Cr = +6."
+    },
+    {
+      "id": "chem9-p4-q5",
+      "question": "In metal hydrides such as sodium hydride (NaH) and calcium hydride (CaH₂), the oxidation state of hydrogen is:",
+      "options": {
+        "A": "+1",
+        "B": "-1",
+        "C": "0",
+        "D": "+2"
+      },
+      "correctAnswer": "B",
+      "explanation": "When hydrogen bonds with electropositive metals, it forms hydride ions (H⁻) where hydrogen carries an oxidation state of -1."
+    },
+    {
+      "id": "chem9-p4-q6",
+      "question": "In an electrolytic cell connected to an external DC power source, the cathode is:",
+      "options": {
+        "A": "Positively charged and where oxidation occurs",
+        "B": "Negatively charged and where reduction occurs",
+        "C": "Positively charged and where reduction occurs",
+        "D": "Neutral"
+      },
+      "correctAnswer": "B",
+      "explanation": "In electrolytic cells, the cathode is connected to the negative terminal of the battery and attracts cations, which undergo reduction by gaining electrons."
+    },
+    {
+      "id": "chem9-p4-q7",
+      "question": "According to the Brønsted-Lowry acid-base theory, an acid is defined as a substance that:",
+      "options": {
+        "A": "Accepts a proton (H⁺)",
+        "B": "Donates a proton (H⁺)",
+        "C": "Donates an electron pair",
+        "D": "Produces OH⁻ ions in water only"
+      },
+      "correctAnswer": "B",
+      "explanation": "A Brønsted-Lowry acid is a proton (H⁺) donor, while a Brønsted-Lowry base is a proton acceptor."
+    },
+    {
+      "id": "chem9-p4-q8",
+      "question": "Carbon dioxide (CO₂) behaves as which type of chemical species when reacting with water or bases:",
+      "options": {
+        "A": "Brønsted base",
+        "B": "Lewis acid (electron pair acceptor)",
+        "C": "Neutral gas with no acid-base properties",
+        "D": "Amphoteric base"
+      },
+      "correctAnswer": "B",
+      "explanation": "CO2 is an electrophilic non-metal oxide; its central carbon atom accepts an electron pair from Lewis bases (like OH⁻), acting as a Lewis acid."
+    },
+    {
+      "id": "chem9-p4-q9",
+      "question": "A chemical reaction that proceeds only in the forward direction until at least one reactant is completely consumed is called an:",
+      "options": {
+        "A": "Equilibrium reaction",
+        "B": "Irreversible reaction",
+        "C": "Reversible reaction",
+        "D": "Oscillating reaction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Irreversible reactions proceed in one direction only and go to completion without establishing a reverse dynamic equilibrium."
+    },
+    {
+      "id": "chem9-p4-q10",
+      "question": "A chemical system is said to have reached dynamic chemical equilibrium when:",
+      "options": {
+        "A": "All reactant molecules are completely converted into products",
+        "B": "The forward reaction rate equals the reverse reaction rate",
+        "C": "The concentrations of reactants and products become zero",
+        "D": "Reaction stops occurring at the molecular level"
+      },
+      "correctAnswer": "B",
+      "explanation": "At dynamic equilibrium, forward and reverse reactions proceed at identical rates, so macroscopic properties and concentrations remain constant."
+    },
+    {
+      "id": "chem9-p4-q11",
+      "question": "A chemical reaction that releases thermal energy to the surroundings with a negative enthalpy change (ΔH < 0) is classified as:",
+      "options": {
+        "A": "Endothermic reaction",
+        "B": "Exothermic reaction",
+        "C": "Non-spontaneous reaction",
+        "D": "Isothermal reaction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Exothermic reactions release heat energy, raising the temperature of their surroundings, and have negative ΔH."
+    },
+    {
+      "id": "chem9-p4-q12",
+      "question": "Which of the following compounds is an example of an inorganic salt formed by acid-base neutralization:",
+      "options": {
+        "A": "Hydrochloric acid (HCl)",
+        "B": "Sodium chloride (NaCl)",
+        "C": "Sodium hydroxide (NaOH)",
+        "D": "Water (H₂O)"
+      },
+      "correctAnswer": "B",
+      "explanation": "NaCl is formed by the neutralization reaction of hydrochloric acid (HCl) with sodium hydroxide (NaOH): HCl + NaOH → NaCl + H2O."
+    }
+  ]
+}

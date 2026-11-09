@@ -1,0 +1,163 @@
+[
+  {
+    "chapterNumber": 1,
+    "chapterTitle": "Unit 01: Nature of Science of Chemistry & Laboratory Safety",
+    "slug": "chemistry-9-chapter-1",
+    "description": "Introduction to chemistry, scientific inquiry, green chemistry principles, major branches (organic, inorganic, physical, analytical, biochemistry), and laboratory safety.",
+    "totalQuestions": 40
+  },
+  {
+    "chapterNumber": 2,
+    "chapterTitle": "Unit 02: Matter: States, Mixtures & Solutions",
+    "slug": "chemistry-9-chapter-2",
+    "description": "States of matter, physical/chemical properties, pure substances vs mixtures, homogeneous/heterogeneous mixtures, solutions, colloids, and suspensions.",
+    "totalQuestions": 57
+  },
+  {
+    "chapterNumber": 3,
+    "chapterTitle": "Unit 03: Atomic Structure & Electronic Configuration",
+    "slug": "chemistry-9-chapter-3",
+    "description": "Subatomic particles (protons, neutrons, electrons), Thomson, Rutherford, and Bohr models, atomic number, mass number, isotopes, and electronic configuration (Aufbau principle).",
+    "totalQuestions": 126
+  },
+  {
+    "chapterNumber": 4,
+    "chapterTitle": "Unit 04: Periodic Table & Periodicity of Properties",
+    "slug": "chemistry-9-chapter-4",
+    "description": "Development of the periodic table, Mendeleev vs modern periodic law, groups and periods, periodic trends: atomic radius, ionic radius, ionization energy, electron affinity, and electronegativity.",
+    "totalQuestions": 187
+  },
+  {
+    "chapterNumber": 5,
+    "chapterTitle": "Unit 05: Chemical Bonding & Intermolecular Forces",
+    "slug": "chemistry-9-chapter-5",
+    "description": "Octet and duplet rules, chemical bonding types: ionic, covalent (single, double, triple, polar, non-polar), coordinate covalent, metallic bonding, and hydrogen bonding.",
+    "totalQuestions": 151
+  },
+  {
+    "chapterNumber": 6,
+    "chapterTitle": "Unit 06: Stoichiometry, Mole & Chemical Calculations",
+    "slug": "chemistry-9-chapter-6",
+    "description": "Atomic mass, molecular mass, formula mass, mole concept, Avogadro number, molar mass, empirical and molecular formulas, percentage composition, and stoichiometric calculations.",
+    "totalQuestions": 51
+  },
+  {
+    "chapterNumber": 7,
+    "chapterTitle": "Unit 07: Electrochemistry, Oxidation-Reduction & Cells",
+    "slug": "chemistry-9-chapter-7",
+    "description": "Oxidation and reduction concepts, oxidation states, balancing redox equations, electrolytic cells, galvanic (voltaic) cells, electroplating, and corrosion prevention.",
+    "totalQuestions": 45
+  },
+  {
+    "chapterNumber": 8,
+    "chapterTitle": "Unit 08: Energetics, Thermochemistry & Enthalpy",
+    "slug": "chemistry-9-chapter-8",
+    "description": "Exothermic and endothermic reactions, thermochemical equations, enthalpy changes (ΔH), heat of reaction, activation energy, and energy diagrams.",
+    "totalQuestions": 48
+  },
+  {
+    "chapterNumber": 9,
+    "chapterTitle": "Unit 09: Chemical Equilibrium & Reversible Reactions",
+    "slug": "chemistry-9-chapter-9",
+    "description": "Reversible reactions, dynamic equilibrium, law of mass action, equilibrium constant (Kc), conditions of equilibrium, and Le Chatelier principle in chemical systems.",
+    "totalQuestions": 30
+  },
+  {
+    "chapterNumber": 10,
+    "chapterTitle": "Unit 10: Acids, Bases, Salts & Neutralization",
+    "slug": "chemistry-9-chapter-10",
+    "description": "Arrhenius and Bronsted-Lowry theories of acids and bases, pH scale and indicators, neutralization reactions, preparation and properties of salts, and buffer concepts.",
+    "totalQuestions": 44
+  },
+  {
+    "chapterNumber": 11,
+    "chapterTitle": "Unit 11: Environmental Chemistry: Atmosphere & Air Pollution",
+    "slug": "chemistry-9-chapter-11",
+    "description": "Composition of atmosphere, troposphere and stratosphere, primary and secondary air pollutants (CO, SO2, NOx, VOCs), acid rain, greenhouse effect, and ozone layer depletion.",
+    "totalQuestions": 64
+  },
+  {
+    "chapterNumber": 12,
+    "chapterTitle": "Unit 12: Environmental Chemistry: Hydrosphere & Water Treatment",
+    "slug": "chemistry-9-chapter-12",
+    "description": "Occurrence and properties of water, soft and hard water, temporary and permanent hardness, methods of water softening, water pollution, and drinking water purification.",
+    "totalQuestions": 64
+  },
+  {
+    "chapterNumber": 13,
+    "chapterTitle": "Unit 13: Organic Chemistry: Carbon Chains & Functional Groups",
+    "slug": "chemistry-9-chapter-13",
+    "description": "Uniqueness of carbon (catenation, tetravalency), general formula and homologous series, IUPAC nomenclature, and identification of key functional groups (alcohols, aldehydes, ketones, ethers, carboxylic acids).",
+    "totalQuestions": 69
+  },
+  {
+    "chapterNumber": 14,
+    "chapterTitle": "Unit 14: Hydrocarbons: Alkanes, Alkenes & Alkynes",
+    "slug": "chemistry-9-chapter-14",
+    "description": "Saturated hydrocarbons (alkanes), unsaturated hydrocarbons (alkenes and alkynes), combustion, substitution and addition reactions, physical properties, and uses of methane, ethene, and ethyne.",
+    "totalQuestions": 22
+  },
+  {
+    "chapterNumber": 15,
+    "chapterTitle": "Unit 15: Biochemistry: Biomolecules, Nutrition & Metabolism",
+    "slug": "chemistry-9-chapter-15",
+    "description": "Essential biomolecules: carbohydrates (monosaccharides, disaccharides, polysaccharides), proteins and amino acids, lipids and fatty acids, nucleic acids (DNA and RNA), vitamins, and dietary energy.",
+    "totalQuestions": 48
+  },
+  {
+    "chapterNumber": 16,
+    "chapterTitle": "Unit 16: Chemical Measurements, SI Units & Significant Figures",
+    "slug": "chemistry-9-chapter-16",
+    "description": "International System of Units (SI base and derived units), scientific notation, prefixes, measurement errors, precision vs accuracy, significant figures, and temperature scale conversions.",
+    "totalQuestions": 50
+  },
+  {
+    "chapterNumber": 17,
+    "chapterTitle": "Unit 17: Separation Techniques & Analytical Chemistry",
+    "slug": "chemistry-9-chapter-17",
+    "description": "Separation of heterogeneous and homogeneous mixtures: filtration, crystallization, simple distillation, fractional distillation, solvent extraction, and sublimation.",
+    "totalQuestions": 58
+  },
+  {
+    "chapterNumber": 18,
+    "chapterTitle": "Unit 18: Industrial Chemistry & Manufacturing Processes",
+    "slug": "chemistry-9-chapter-18",
+    "description": "Chemical industries: manufacture of ammonia by Haber process, sulfuric acid by Contact process, fertilizers (urea), cement, and environmental impact of industrial effluents.",
+    "totalQuestions": 31
+  },
+  {
+    "chapterNumber": 19,
+    "chapterTitle": "Unit 19: Chromatography & Instrumental Analytical Methods",
+    "slug": "chemistry-9-chapter-19",
+    "description": "Chromatographic separation techniques: paper chromatography, stationary and mobile phases, retention factor (Rf values), and introduction to instrumental analysis.",
+    "totalQuestions": 23
+  },
+  {
+    "chapterNumber": 20,
+    "chapterTitle": "Federal Board Annual Exam Simulator 01 (Ch 1–3)",
+    "slug": "chemistry-9-model-paper-1",
+    "description": "Authentic 12-mark Section A Federal Board examination simulator covering Nature of Science, Matter, and Atomic Structure by Lecturer Ayesha Amjad.",
+    "totalQuestions": 12
+  },
+  {
+    "chapterNumber": 21,
+    "chapterTitle": "Federal Board Annual Exam Simulator 02 (Ch 4, 5, 13, 14)",
+    "slug": "chemistry-9-model-paper-2",
+    "description": "Authentic 12-mark Section A Federal Board examination simulator covering Periodic Table, Chemical Bonding, Organic Chemistry, and Hydrocarbons.",
+    "totalQuestions": 12
+  },
+  {
+    "chapterNumber": 22,
+    "chapterTitle": "Federal Board Annual Exam Simulator 03 (Ch 6, 11, 12, 15)",
+    "slug": "chemistry-9-model-paper-3",
+    "description": "Authentic 12-mark Section A Federal Board examination simulator covering Stoichiometry, Air Pollution, Water Treatment, and Biochemistry.",
+    "totalQuestions": 12
+  },
+  {
+    "chapterNumber": 23,
+    "chapterTitle": "Federal Board Annual Exam Simulator 04 (Ch 7, 8, 9, 10)",
+    "slug": "chemistry-9-model-paper-4",
+    "description": "Authentic 12-mark Section A Federal Board examination simulator covering Electrochemistry, Energetics, Chemical Equilibrium, and Acids/Bases.",
+    "totalQuestions": 12
+  }
+]

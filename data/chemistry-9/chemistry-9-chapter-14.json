@@ -1,0 +1,274 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 14,
+  "chapterTitle": "Unit 14: Hydrocarbons: Alkanes, Alkenes & Alkynes",
+  "slug": "chemistry-9-chapter-14",
+  "description": "Saturated hydrocarbons (alkanes), unsaturated hydrocarbons (alkenes and alkynes), combustion, substitution and addition reactions, physical properties, and uses of methane, ethene, and ethyne.",
+  "totalQuestions": 22,
+  "questions": [
+    {
+      "id": "chem9-c14-q1",
+      "question": "Which of the following is the general formula of alkanes?",
+      "options": {
+        "A": "CₙH₂ₙ",
+        "B": "CₙH₂ₙ₊₂",
+        "C": "CₙHₙ",
+        "D": "CₙH₂ₙ₋₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alkanes follow the formula CₙH₂ₙ₊₂"
+    },
+    {
+      "id": "chem9-c14-q2",
+      "question": "Alkanes are called saturated hydrocarbons because they:",
+      "options": {
+        "A": "Contain oxygen",
+        "B": "Have only single bonds",
+        "C": "Are liquids at room temperature",
+        "D": "Are highly reactive"
+      },
+      "correctAnswer": "B",
+      "explanation": "Saturation means only single covalent bonds"
+    },
+    {
+      "id": "chem9-c14-q3",
+      "question": "The classification of hydrocarbons mainly depends on which characteristic of carbon atoms?",
+      "options": {
+        "A": "Atomic mass",
+        "B": "Number of hydrogens",
+        "C": "Type of bonding",
+        "D": "Physical state"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hydrocarbons are grouped based on whether carbon atoms share single, double, or triple bonds"
+    },
+    {
+      "id": "chem9-c14-q4",
+      "question": "Why is methane considered the first member of the alkane series?",
+      "options": {
+        "A": "It is highly reactive",
+        "B": "It has one carbon atom",
+        "C": "It is gaseous",
+        "D": "It contains double bonds"
+      },
+      "correctAnswer": "B",
+      "explanation": "Methane has the minimum possible carbon atoms required to form an alkane molecule"
+    },
+    {
+      "id": "chem9-c14-q5",
+      "question": "In alkane molecules, how many covalent bonds does each carbon atom form?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "D",
+      "explanation": "Carbon completes its octet by forming four covalent bonds in stable organic compounds"
+    },
+    {
+      "id": "chem9-c14-q6",
+      "question": "The addition of hydrogen across a carbon–carbon multiple bond is chemically termed as which process?",
+      "options": {
+        "A": "Oxidation",
+        "B": "Hydrogenation",
+        "C": "Cracking",
+        "D": "Substitution"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hydrogenation involves the addition of hydrogen atoms across double or triple bonds"
+    },
+    {
+      "id": "chem9-c14-q7",
+      "question": "When an alkyne undergoes complete hydrogenation, how many hydrogen molecules are added?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "B",
+      "explanation": "An alkyne has a triple bond and requires two hydrogen molecules for full saturation"
+    },
+    {
+      "id": "chem9-c14-q8",
+      "question": "The first product formed when ethyne undergoes hydrogenation under controlled conditions is which compound?",
+      "options": {
+        "A": "Ethene",
+        "B": "Ethane",
+        "C": "Methane",
+        "D": "Propane"
+      },
+      "correctAnswer": "A",
+      "explanation": "Partial hydrogenation of ethyne converts the triple bond into a double bond first"
+    },
+    {
+      "id": "chem9-c14-q9",
+      "question": "Reduction of alkyl halides to alkanes requires the presence of which metal?",
+      "options": {
+        "A": "Copper",
+        "B": "Iron",
+        "C": "Zinc",
+        "D": "Silver"
+      },
+      "correctAnswer": "C",
+      "explanation": "Zinc reacts with aqueous acid to generate nascent hydrogen for reduction"
+    },
+    {
+      "id": "chem9-c14-q10",
+      "question": "Which reagent is commonly used along with zinc for reducing alkyl halides?",
+      "options": {
+        "A": "Dry ether",
+        "B": "Aqueous acid",
+        "C": "Alcohol",
+        "D": "Alkali"
+      },
+      "correctAnswer": "B",
+      "explanation": "Aqueous acids provide hydrogen ions that help generate nascent hydrogen"
+    },
+    {
+      "id": "chem9-c14-q11",
+      "question": "Which method directly converts unsaturated hydrocarbons into saturated hydrocarbons?",
+      "options": {
+        "A": "Cracking",
+        "B": "Hydrogenation",
+        "C": "Halogenation",
+        "D": "Fermentation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hydrogenation removes unsaturation by adding hydrogen across multiple bonds"
+    },
+    {
+      "id": "chem9-c14-q12",
+      "question": "Addition of nascent hydrogen to an alkyl halide is classifie under which reaction type?",
+      "options": {
+        "A": "d Oxidation",
+        "B": "Reduction",
+        "C": "Elimination",
+        "D": "Polymerization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gain of hydrogen by a compound is defined as a reduction reaction"
+    },
+    {
+      "id": "chem9-c14-q13",
+      "question": "Alkanes do not dissolve in water primarily because of which reason?",
+      "options": {
+        "A": "High density",
+        "B": "Polarity difference",
+        "C": "Chemical reactivity",
+        "D": "Molecular siz"
+      },
+      "correctAnswer": "B",
+      "explanation": "Non-polar alkanes cannot interact effectively with polar water molecules"
+    },
+    {
+      "id": "chem9-c14-q14",
+      "question": "Alkanes containing up to four carbon atoms usually exist in which physical state at room temperature?",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gas",
+        "D": "Plasma"
+      },
+      "correctAnswer": "C",
+      "explanation": "Short-chain alkanes have weak intermolecular forces, so they remain gaseous"
+    },
+    {
+      "id": "chem9-c14-q15",
+      "question": "A chemical reaction that occurs in the presence of sunlight is known as what type of reaction?",
+      "options": {
+        "A": "Thermal",
+        "B": "Photochemical",
+        "C": "Catalytic",
+        "D": "Electrolyti"
+      },
+      "correctAnswer": "B",
+      "explanation": "Light-initiated reactions are classified as photochemical reactions"
+    },
+    {
+      "id": "chem9-c14-q16",
+      "question": "The reaction between an alkane and a halogen is classified as which reaction type?",
+      "options": {
+        "A": "Substitution",
+        "B": "Addition",
+        "C": "Neutralizati",
+        "D": "on     Polymerizati"
+      },
+      "correctAnswer": "A",
+      "explanation": "A halogen atom replaces a hydrogen atom during alkane halogenation"
+    },
+    {
+      "id": "chem9-c14-q17",
+      "question": "What is the main organic product when methane reacts with chlorine in diffused sunlight?",
+      "options": {
+        "A": "Carbon",
+        "B": "Chloroform",
+        "C": "Carbon dioxid",
+        "D": "e      Chloromethan"
+      },
+      "correctAnswer": "D",
+      "explanation": "Controlled halogenation substitutes one hydrogen atom with chlorine"
+    },
+    {
+      "id": "chem9-c14-q18",
+      "question": "Complete combustion of alkanes produces which main products?",
+      "options": {
+        "A": "CO and water",
+        "B": "Carbon and heat",
+        "C": "CO₂ and H₂O",
+        "D": "CO₂ and carb"
+      },
+      "correctAnswer": "C",
+      "explanation": "Adequate oxygen ensures full oxidation to carbon dioxide and water"
+    },
+    {
+      "id": "chem9-c14-q19",
+      "question": "Why are lighter alkanes preferred as domestic and industrial fuels?",
+      "options": {
+        "A": "Difficult stora",
+        "B": "ge    High toxicit",
+        "C": "Control y combusti",
+        "D": "led      Low heat on        output"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lighter alkanes burn cleanly and release large amounts of energy"
+    },
+    {
+      "id": "chem9-c14-q20",
+      "question": "Incomplete combustion of methane occurs mainly due to which condition?",
+      "options": {
+        "A": "High pressure",
+        "B": "Excess oxygen",
+        "C": "Limited oxyge",
+        "D": "Low n temperature"
+      },
+      "correctAnswer": "C",
+      "explanation": "Insufficient oxygen prevents full oxidation of carbon atoms"
+    },
+    {
+      "id": "chem9-c14-q21",
+      "question": "Which substances may form during the incomplete combustion of methane?",
+      "options": {
+        "A": "CO₂ only",
+        "B": "CO and C",
+        "C": "Oxygen gas",
+        "D": "Alcohols"
+      },
+      "correctAnswer": "B",
+      "explanation": "Partial oxidation forms toxic CO and soot particles"
+    },
+    {
+      "id": "chem9-c14-q22",
+      "question": "The presence of carbon particles during combustion indicates which type of reaction?",
+      "options": {
+        "A": "Complete combustion",
+        "B": "Neutralizatio",
+        "C": "n         Substitu",
+        "D": "Incomplete tion combustion"
+      },
+      "correctAnswer": "D",
+      "explanation": "Solid carbon formation shows a lack of sufficient oxygen for complete burning"
+    }
+  ]
+}

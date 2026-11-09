@@ -29,6 +29,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isTarjuma9 = chapter.subject === 'tarjuma-9' || chapter.slug.startsWith('tarjuma-9');
   const isEnglish9 = chapter.subject === 'english-9' || chapter.slug.startsWith('english-9');
   const isIslamiat9 = chapter.subject === 'islamiat-9' || chapter.slug.startsWith('islamiat-9');
+  const isChemistry9 = chapter.subject === 'chemistry-9' || chapter.slug.startsWith('chemistry-9');
   const isUrdu = (chapter.subject === 'urdu' || chapter.slug.startsWith('urdu')) && !isUrdu9;
   const isMath = (chapter.subject === 'math' || chapter.slug.startsWith('math-unit-') || chapter.slug.startsWith('math-model-paper-')) && !isMath9;
   const isEnglish = (chapter.subject === 'english' || chapter.slug.startsWith('english')) && !isEnglish9;
@@ -36,7 +37,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isIslamiat = (chapter.subject === 'islamiat' || chapter.slug.startsWith('islamiat')) && !isIslamiat9;
   const isTarjuma = (chapter.subject === 'tarjuma' || chapter.slug.startsWith('tarjuma')) && !isTarjuma9;
   const isBiology = chapter.subject === 'biology' || chapter.slug.startsWith('biology');
-  const isChemistry = chapter.subject === 'chemistry' || chapter.slug.startsWith('chemistry');
+  const isChemistry = (chapter.subject === 'chemistry' || chapter.slug.startsWith('chemistry')) && !isChemistry9;
   const isRtl = isUrdu || isIslamiat || isTarjuma || isUrdu9 || isTarjuma9 || isIslamiat9;
 
   const isPastPapers =
@@ -48,6 +49,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     chapter.slug.startsWith('tarjuma-9-model-paper-') ||
     chapter.slug.startsWith('english-9-model-paper-') ||
     chapter.slug.startsWith('islamiat-9-model-paper-') ||
+    chapter.slug.startsWith('chemistry-9-model-paper-') ||
     chapter.slug.startsWith('cs-model-paper-') ||
     chapter.slug.startsWith('islamiat-model-paper-') ||
     chapter.slug.startsWith('tarjuma-model-paper-') ||
@@ -69,6 +71,8 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (isEnglish9) tagLabel = `Class 9 · English Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (chapter.slug.startsWith('islamiat-9-model-paper-')) tagLabel = `Class 9 Islamiat Simulator ${chapter.slug.split('-').pop()}`;
   else if (isIslamiat9) tagLabel = `Class 9 · Islamiat Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (chapter.slug.startsWith('chemistry-9-model-paper-')) tagLabel = `Class 9 Chemistry Simulator ${chapter.slug.split('-').pop()}`;
+  else if (isChemistry9) tagLabel = `Class 9 · Chemistry Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (chapter.slug === 'past-papers') tagLabel = 'Board Simulator';
   else if (chapter.slug === 'urdu-model-paper') tagLabel = 'Urdu Full Board Simulator';
   else if (chapter.slug === 'urdu-ilm-e-bayan') tagLabel = 'Urdu Rhetoric (علم بیان)';
@@ -90,7 +94,11 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (isUrdu) tagLabel = `Urdu Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
 
   let description = `Comprehensive conceptual questions, dimensional formulas, and numericals for ${chapter.title} aligned with textbook SLOs.`;
-  if (chapter.slug.startsWith('english-9-model-paper-')) {
+  if (chapter.slug.startsWith('chemistry-9-model-paper-')) {
+    description = `Official Federal Board Section A SSC-I annual examination simulation (Lecturer Ayesha Amjad). 12 MCQs, 20-minute timer with complete chemical justifications.`;
+  } else if (isChemistry9) {
+    description = `Official FBISE SSC-I Class 9 Chemistry: ${chapter.title}. Core conceptual questions, electronic structures, chemical bonding, and SLO justifications.`;
+  } else if (chapter.slug.startsWith('english-9-model-paper-')) {
     description = `Official Federal Board Section A SSC-I annual examination simulation (Lecturer Adeela Naheed). 15 MCQs, 20-minute timer with complete grammatical reasoning.`;
   } else if (isEnglish9) {
     description = `Official FBISE SSC-I Class 9 English: ${chapter.title}. Core conceptual questions, grammar rules, literary devices, and SLO justifications.`;

@@ -1,0 +1,550 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 7,
+  "chapterTitle": "Unit 07: Electrochemistry, Oxidation-Reduction & Cells",
+  "slug": "chemistry-9-chapter-7",
+  "description": "Oxidation and reduction concepts, oxidation states, balancing redox equations, electrolytic cells, galvanic (voltaic) cells, electroplating, and corrosion prevention.",
+  "totalQuestions": 45,
+  "questions": [
+    {
+      "id": "chem9-c7-q1",
+      "question": "Oxidation-reduction reactions are commonly known as:",
+      "options": {
+        "A": "Neutralization Reactions",
+        "B": "Decomposition Reactions",
+        "C": "Combination Reactions",
+        "D": "Redox Reactions"
+      },
+      "correctAnswer": "D",
+      "explanation": "Oxidation and reduction occurring together are collectively called redox reactions"
+    },
+    {
+      "id": "chem9-c7-q2",
+      "question": "Oxidation in terms of oxygen is defined as:",
+      "options": {
+        "A": "Loss Of Oxygen",
+        "B": "Gain Of Oxygen",
+        "C": "Gain Of Hydrogen",
+        "D": "Gain Of Electrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Oxidation means gain of oxygen according to classical definition"
+    },
+    {
+      "id": "chem9-c7-q3",
+      "question": "Reduction in terms of oxygen is defined as:",
+      "options": {
+        "A": "Gain Of Oxygen",
+        "B": "Loss Of Electrons",
+        "C": "Gain Of Heat",
+        "D": "Loss Of Oxygen"
+      },
+      "correctAnswer": "D",
+      "explanation": "Reduction involves removal or loss of oxygen"
+    },
+    {
+      "id": "chem9-c7-q4",
+      "question": "In the reaction Fe₂O₃ + 3CO → 2Fe + 3CO₂, Fe₂O₃ undergoes:",
+      "options": {
+        "A": "Oxidation",
+        "B": "Neutralization",
+        "C": "Reduction",
+        "D": "Combustion"
+      },
+      "correctAnswer": "C",
+      "explanation": "Fe₂O₃ loses oxygen to form Fe so it undergoes reduction"
+    },
+    {
+      "id": "chem9-c7-q5",
+      "question": "Oxidation in terms of hydrogen is defined as:",
+      "options": {
+        "A": "Gain Of Hydrogen",
+        "B": "Gain Of Oxygen",
+        "C": "Gain Of Electrons",
+        "D": "Loss Of Hydrogen"
+      },
+      "correctAnswer": "D",
+      "explanation": "Oxidation can also be defined as loss of hydrogen"
+    },
+    {
+      "id": "chem9-c7-q6",
+      "question": "In the reaction 2C₂H₂ + 5O₂ → 4CO₂ + 2H₂O, acetylene undergoes:",
+      "options": {
+        "A": "Oxidation",
+        "B": "Reduction",
+        "C": "Neutralization",
+        "D": "Precipitation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Acetylene loses hydrogen during combustion so it is oxidized"
+    },
+    {
+      "id": "chem9-c7-q7",
+      "question": "Which of the following is an industrial application of redox reactions?",
+      "options": {
+        "A": "Filtration",
+        "B": "Distillation",
+        "C": "Crystallization",
+        "D": "Production Of Electricity In Batteries"
+      },
+      "correctAnswer": "D",
+      "explanation": "Batteries generate electrical energy through redox reactions"
+    },
+    {
+      "id": "chem9-c7-q8",
+      "question": "The oxidation state of any free element is:",
+      "options": {
+        "A": "+1",
+        "B": "−1",
+        "C": "0",
+        "D": "+2"
+      },
+      "correctAnswer": "C",
+      "explanation": "Any un combined element such as Zn, Na, H₂ or S₈ has oxidation number zero"
+    },
+    {
+      "id": "chem9-c7-q9",
+      "question": "The oxidation number of Cl in Cl⁻ is:",
+      "options": {
+        "A": "+1",
+        "B": "−1",
+        "C": "0",
+        "D": "+2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chlorine gains one electron to form Cl⁻ , so its oxidation number is −1"
+    },
+    {
+      "id": "chem9-c7-q10",
+      "question": "The oxidation number of carbon in CO2 is:",
+      "options": {
+        "A": "+2",
+        "B": "+4",
+        "C": "-2",
+        "D": "-1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Oxygen is −2 each so carbon must be +4 to make total zero"
+    },
+    {
+      "id": "chem9-c7-q11",
+      "question": "The sum of oxidation numbers in a neutral compound is always:",
+      "options": {
+        "A": "0",
+        "B": "+1",
+        "C": "-1",
+        "D": "+3"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9th Chemistry standards, the correct answer is (A) 0."
+    },
+    {
+      "id": "chem9-c7-q12",
+      "question": "The oxidation number of a monatomic ion is:",
+      "options": {
+        "A": "+1",
+        "B": "Equal to its charge",
+        "C": "+2",
+        "D": "Zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "The oxidation number of a monatomic ion is always equal to the charge present on that ion"
+    },
+    {
+      "id": "chem9-c7-q13",
+      "question": "When sodium loses one electron, its charge becomes:",
+      "options": {
+        "A": "+2",
+        "B": "+1",
+        "C": "-1",
+        "D": "-2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Loss of one electron from sodium produces a +1 charge on the ion"
+    },
+    {
+      "id": "chem9-c7-q14",
+      "question": "In a polyatomic ion, the sum of oxidation numbers of all atoms is equal to:",
+      "options": {
+        "A": "Zero",
+        "B": "Number Of Atoms",
+        "C": "Charge On The Ion",
+        "D": "Oxidation Of Oxygen"
+      },
+      "correctAnswer": "C",
+      "explanation": "The total of oxidation numbers in a polyatomic ion equals its overall charge"
+    },
+    {
+      "id": "chem9-c7-q15",
+      "question": "The oxidation state of chromium in K₂Cr₂O₇ is:",
+      "options": {
+        "A": "+3",
+        "B": "+4",
+        "C": "+2",
+        "D": "+6"
+      },
+      "correctAnswer": "D",
+      "explanation": "Chromium has an oxidation state of +6 in potassium dichromate"
+    },
+    {
+      "id": "chem9-c7-q16",
+      "question": "Potassium dichromate, used in breath analyser, acts as a:",
+      "options": {
+        "A": "Reducing Agent",
+        "B": "Weak Acid",
+        "C": "Neutral Salt",
+        "D": "Strong Oxidizing Agent"
+      },
+      "correctAnswer": "D",
+      "explanation": "Potassium dichromate oxidizes alcohol, so it acts as a strong oxidizing agent"
+    },
+    {
+      "id": "chem9-c7-q17",
+      "question": "A breath analyser is used to detect:",
+      "options": {
+        "A": "Sugar level",
+        "B": "Alcohol",
+        "C": "Oxygen level",
+        "D": "Carbon dioxide"
+      },
+      "correctAnswer": "B",
+      "explanation": "Breath analysers are used by police to detect alcohol in a person's breath"
+    },
+    {
+      "id": "chem9-c7-q18",
+      "question": "Boric acid is commonly used in:",
+      "options": {
+        "A": "Eye Wash",
+        "B": "Fuel Cells",
+        "C": "Explosives",
+        "D": "Batteries"
+      },
+      "correctAnswer": "A",
+      "explanation": "Boric acid is mild and commonly used in eye wash solutions"
+    },
+    {
+      "id": "chem9-c7-q19",
+      "question": "The oxidation state of boron in H₃BO₃ is:",
+      "options": {
+        "A": "+1",
+        "B": "+2",
+        "C": "+3",
+        "D": "+4"
+      },
+      "correctAnswer": "C",
+      "explanation": "In boric acid, boron has an oxidation number of +3"
+    },
+    {
+      "id": "chem9-c7-q20",
+      "question": "To determine the formula of an ionic compound, we must find the:",
+      "options": {
+        "A": "Atomic Mass",
+        "B": "Simplest Whole Number Ratio",
+        "C": "Number Of Electrons",
+        "D": "Number Of Protons"
+      },
+      "correctAnswer": "B",
+      "explanation": "The formula is based on the simplest whole number ratio that balances the charges"
+    },
+    {
+      "id": "chem9-c7-q21",
+      "question": "The correct formula of calcium chloride is:",
+      "options": {
+        "A": "CaCl",
+        "B": "CaCl₂",
+        "C": "Ca₂Cl",
+        "D": "Ca₂Cl₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Two chloride ions are needed to balance one calcium ion forming CaCl₂"
+    },
+    {
+      "id": "chem9-c7-q22",
+      "question": "The formula of magnesium oxide is:",
+      "options": {
+        "A": "MgO",
+        "B": "Mg₂O",
+        "C": "MgO₂",
+        "D": "Mg₂O₂"
+      },
+      "correctAnswer": "A",
+      "explanation": "Magnesium (+2) and oxide (−2) combine in 1:1 ratio to form MgO"
+    },
+    {
+      "id": "chem9-c7-q23",
+      "question": "In magnesium oxide, the charges on magnesium and oxide ions are:",
+      "options": {
+        "A": "Mg⁺ And O²⁻",
+        "B": "Mg²⁺ And O²⁻",
+        "C": "Mg²⁺ And O⁻",
+        "D": "Mg⁺ And O⁻"
+      },
+      "correctAnswer": "B",
+      "explanation": "Magnesium forms Mg²⁺ and oxide forms O²⁻ ion"
+    },
+    {
+      "id": "chem9-c7-q24",
+      "question": "FeCl₂ is correctly named as:",
+      "options": {
+        "A": "Iron(I) Chlorid",
+        "B": "e    Iron(II) Chlor",
+        "C": "Iron(III) ide Chloride",
+        "D": "Iron Chlorate"
+      },
+      "correctAnswer": "B",
+      "explanation": "FeCl₂ contains Fe²⁺ ion so it is named Iron(II) chloride"
+    },
+    {
+      "id": "chem9-c7-q25",
+      "question": "The formula of aluminium sulphate is:",
+      "options": {
+        "A": "AlSO₄",
+        "B": "Al₂(SO₄)₃",
+        "C": "Al₃SO₄",
+        "D": "Al(SO₄)₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Two Al³⁺ ions balance three SO₄²⁻ ions forming Al₂(SO₄)₃"
+    },
+    {
+      "id": "chem9-c7-q26",
+      "question": "An oxidizing agent is a substance that:",
+      "options": {
+        "A": "Accepts Electrons",
+        "B": "Donates Electrons",
+        "C": "Loses Protons",
+        "D": "Forms Salts Only"
+      },
+      "correctAnswer": "A",
+      "explanation": "An oxidizing agent accepts electrons from another substance and is reduced in the process 27. During oxidation, the Oxidized Neutralized Reduced Evaporated ○ ○ ○ ○ oxidizing agent itself is: Answer: (C) Reduced"
+    },
+    {
+      "id": "chem9-c7-q27",
+      "question": "During oxidation, the oxidizing agent itself is:",
+      "options": {
+        "A": "Oxidized",
+        "B": "Neutralized",
+        "C": "Reduced",
+        "D": "Evaporated"
+      },
+      "correctAnswer": "C",
+      "explanation": "The oxidizing agent gains electrons and therefore gets reduced"
+    },
+    {
+      "id": "chem9-c7-q28",
+      "question": "Which of the following is a common oxidizing agent:",
+      "options": {
+        "A": "O₂",
+        "B": "H₂",
+        "C": "CO",
+        "D": "Al"
+      },
+      "correctAnswer": "A",
+      "explanation": "Oxygen readily accepts electrons and acts as a strong oxidizing agent"
+    },
+    {
+      "id": "chem9-c7-q29",
+      "question": "Potassium permanganate (KMnO₄) acts as a:",
+      "options": {
+        "A": "Reducing Agent",
+        "B": "Oxidizing Agent",
+        "C": "Neutral Salt",
+        "D": "Weak Base"
+      },
+      "correctAnswer": "B",
+      "explanation": "KMnO₄ is well known for its strong oxidizing properties"
+    },
+    {
+      "id": "chem9-c7-q30",
+      "question": "During reduction of another substance, the reducing agent is:",
+      "options": {
+        "A": "Reduced",
+        "B": "Oxidized",
+        "C": "Neutralized",
+        "D": "Unchanged"
+      },
+      "correctAnswer": "B",
+      "explanation": "The reducing agent loses electrons and becomes oxidized"
+    },
+    {
+      "id": "chem9-c7-q31",
+      "question": "Which of the following is a reducing agent:",
+      "options": {
+        "A": "Cl₂",
+        "B": "H₂O₂",
+        "C": "H₂",
+        "D": "O₂"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hydrogen gas donates electrons and acts as a reducing agent"
+    },
+    {
+      "id": "chem9-c7-q32",
+      "question": "In the reaction 2Na + Cl₂ → 2NaCl, sodium acts as a:",
+      "options": {
+        "A": "Oxidizing Agent",
+        "B": "Reducing Agent",
+        "C": "Catalyst",
+        "D": "Neutral Compound"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sodium loses electrons and is oxidized, so it acts as a reducing agent"
+    },
+    {
+      "id": "chem9-c7-q33",
+      "question": "In the reaction Fe₂O₃ + 3CO → 2Fe + 3CO₂, iron in Fe₂O₃ has oxidation state:",
+      "options": {
+        "A": "0",
+        "B": "+2",
+        "C": "+3",
+        "D": "+6"
+      },
+      "correctAnswer": "C",
+      "explanation": "In Fe₂O₃, each iron atom has an oxidation state of +3"
+    },
+    {
+      "id": "chem9-c7-q34",
+      "question": "Corrosion is a natural process in which a metal reacts with:",
+      "options": {
+        "A": "Oxygen And Moisture",
+        "B": "Nitrogen Only",
+        "C": "Hydrogen Only",
+        "D": "Carbon Only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Corrosion occurs when metals react with oxygen and moisture present in the environment"
+    },
+    {
+      "id": "chem9-c7-q35",
+      "question": "Corrosion converts refined metals into more stable:",
+      "options": {
+        "A": "Salts",
+        "B": "Hydroxides",
+        "C": "Oxides",
+        "D": "Acids"
+      },
+      "correctAnswer": "C",
+      "explanation": "During corrosion, metals are converted into their more stable metal oxides 36. The region with less moisture Cathode Electrolyte Salt Bridge Anode ○ ○ ○ ○ acts as: Answer: (D) Anode"
+    },
+    {
+      "id": "chem9-c7-q36",
+      "question": "The region with less moisture acts as:",
+      "options": {
+        "A": "Cathode",
+        "B": "Electrolyt",
+        "C": "e     Salt Bridge",
+        "D": "Anode"
+      },
+      "correctAnswer": "D",
+      "explanation": "The drier region acts as anode where oxidation of iron occurs"
+    },
+    {
+      "id": "chem9-c7-q37",
+      "question": "Which of the following is anodic reaction?",
+      "options": {
+        "A": "Fe → Fe²⁺ + 2e⁻",
+        "B": "O₂ + 2H₂O + 4e⁻ → 4OH⁻",
+        "C": "Fe²⁺ + O₂ → Rust",
+        "D": "H₂ → 2H⁺"
+      },
+      "correctAnswer": "A",
+      "explanation": "Iron oxidizes to Fe²⁺ by losing two electrons"
+    },
+    {
+      "id": "chem9-c7-q38",
+      "question": "The region with more moisture acts as:",
+      "options": {
+        "A": "Anode",
+        "B": "Cathode",
+        "C": "Metal Core",
+        "D": "Insulator"
+      },
+      "correctAnswer": "B",
+      "explanation": "The wetter region acts as a cathode where reduction occurs"
+    },
+    {
+      "id": "chem9-c7-q39",
+      "question": "At the cathode, oxygen is converted into:",
+      "options": {
+        "A": "Oxide Ions",
+        "B": "Hydroxide Ions",
+        "C": "Hydrogen Gas",
+        "D": "Carbon Monoxide"
+      },
+      "correctAnswer": "B",
+      "explanation": "Oxygen gains electrons and forms hydroxide ions at the cathode"
+    },
+    {
+      "id": "chem9-c7-q40",
+      "question": "Alloying iron with chromium forms:",
+      "options": {
+        "A": "Galvanized Iron",
+        "B": "Tinned Iron",
+        "C": "Stainless Steel",
+        "D": "Cast Iron"
+      },
+      "correctAnswer": "C",
+      "explanation": "Adding chromium to iron produces corrosion resistant stainless steel"
+    },
+    {
+      "id": "chem9-c7-q41",
+      "question": "Galvanizing involves coating iron with:",
+      "options": {
+        "A": "Zinc",
+        "B": "Tin",
+        "C": "Copper",
+        "D": "Aluminium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Galvanizing protects iron by coating it with zinc"
+    },
+    {
+      "id": "chem9-c7-q42",
+      "question": "Cathodic protection is also called:",
+      "options": {
+        "A": "Sacrificial Protection",
+        "B": "Galvanic Protection",
+        "C": "Alloy Protection",
+        "D": "Thermal Protection"
+      },
+      "correctAnswer": "A",
+      "explanation": "In cathodic protection a more active metal sacrifices itself"
+    },
+    {
+      "id": "chem9-c7-q43",
+      "question": "Metals used as sacrificial anodes include:",
+      "options": {
+        "A": "Gold",
+        "B": "Silver",
+        "C": "Magnesium",
+        "D": "Platinum"
+      },
+      "correctAnswer": "C",
+      "explanation": "Magnesium is more reactive and protects iron by oxidizing itself"
+    },
+    {
+      "id": "chem9-c7-q44",
+      "question": "Adding chromium increases corrosion resistance because it forms:",
+      "options": {
+        "A": "Protective Oxide Layer",
+        "B": "Salt Layer",
+        "C": "Hydroxide Layer",
+        "D": "Water Layer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chromium forms a thin protective oxide film that prevents further corrosion"
+    },
+    {
+      "id": "chem9-c7-q45",
+      "question": "Electroplating helps in corrosion prevention by:",
+      "options": {
+        "A": "Heating Metal",
+        "B": "Depositing Protective Metal Layer",
+        "C": "Cooling Metal",
+        "D": "Breaking Metal"
+      },
+      "correctAnswer": "B",
+      "explanation": "A thin protective layer of another metal prevents contact with air and moisture"
+    }
+  ]
+}

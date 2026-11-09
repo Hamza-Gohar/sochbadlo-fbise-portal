@@ -21,6 +21,7 @@ interface SubjectTabsProps {
   tarjuma9Chapters?: ChapterMeta[];
   english9Chapters?: ChapterMeta[];
   islamiat9Chapters?: ChapterMeta[];
+  chemistry9Chapters?: ChapterMeta[];
 }
 
 export default function SubjectTabs({
@@ -39,9 +40,10 @@ export default function SubjectTabs({
   tarjuma9Chapters = [],
   english9Chapters = [],
   islamiat9Chapters = [],
+  chemistry9Chapters = [],
 }: SubjectTabsProps) {
   const [activeGrade, setActiveGrade] = useState<'9' | '11'>('11');
-  const [activeGrade9Subject, setActiveGrade9Subject] = useState<'urdu' | 'tarjuma' | 'english' | 'islamiat' | 'math' | 'physics'>('urdu');
+  const [activeGrade9Subject, setActiveGrade9Subject] = useState<'urdu' | 'tarjuma' | 'english' | 'islamiat' | 'chemistry' | 'math' | 'physics'>('urdu');
   const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry'>('physics');
 
   // Detect grade and subject from URL query on client mount
@@ -62,6 +64,8 @@ export default function SubjectTabs({
           setActiveGrade9Subject('english');
         } else if (params.get('subject') === 'islamiat') {
           setActiveGrade9Subject('islamiat');
+        } else if (params.get('subject') === 'chemistry') {
+          setActiveGrade9Subject('chemistry');
         }
       } else if (params.get('grade') === '11') {
         setActiveGrade('11');
@@ -75,6 +79,7 @@ export default function SubjectTabs({
   const tarjuma9Total = tarjuma9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const english9Total = english9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const islamiat9Total = islamiat9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const chemistry9Total = chemistry9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -95,6 +100,8 @@ export default function SubjectTabs({
         ? english9Chapters
         : activeGrade9Subject === 'islamiat'
         ? islamiat9Chapters
+        : activeGrade9Subject === 'chemistry'
+        ? chemistry9Chapters
         : activeGrade9Subject === 'math'
         ? math9Chapters
         : physics9Chapters
@@ -144,7 +151,7 @@ export default function SubjectTabs({
             >
               <Atom className="w-4 h-4 text-emerald-400" />
               <span>Class 9th (SSC-I)</span>
-              <span className="text-[10px] opacity-75 font-mono">6 Subjects</span>
+              <span className="text-[10px] opacity-75 font-mono">7 Subjects</span>
             </button>
             <button
               type="button"
@@ -262,6 +269,22 @@ export default function SubjectTabs({
                 <span>اسلامیات لازمی (Islamiat)</span>
                 <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
                   {islamiat9Chapters.length} Modules · {islamiat9Total} Qs
+                </span>
+              </button>
+
+              <button
+                type="button"
+                onClick={() => setActiveGrade9Subject('chemistry')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade9Subject === 'chemistry'
+                    ? 'bg-amber-950 text-amber-200 border-amber-900 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <FlaskConical className="w-4 h-4 text-amber-400" />
+                <span>Chemistry (کیمسٹری)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {chemistry9Chapters.length} Modules · {chemistry9Total} Qs
                 </span>
               </button>
 
@@ -463,6 +486,8 @@ export default function SubjectTabs({
                     ? 'Active Subject: Class 9th English Compulsory (SSC-I Matric Part 1)'
                     : activeGrade9Subject === 'islamiat'
                     ? 'فعال مضمون: وفاقی تعلیمی بورڈ اسلامیات لازمی جماعت نہم (FBISE Islamiat Class 9)'
+                    : activeGrade9Subject === 'chemistry'
+                    ? 'Active Subject: Class 9th Chemistry (SSC-I Matric Part 1)'
                     : activeGrade9Subject === 'math'
                     ? 'Active Subject: Class 9th Mathematics (SSC-I Matric Part 1)'
                     : 'Active Subject: Class 9th Physics (SSC-I Matric Part 1)'
@@ -494,6 +519,8 @@ export default function SubjectTabs({
                     ? 'Prepositions, Articles, Conditionals (Zero–3rd), Verbals, Poetic Devices, Parts of Speech, Transitional Devices, Passivization + 4 official Section A simulators (Lecturer Adeela Naheed).'
                     : activeGrade9Subject === 'islamiat'
                     ? 'قرآن و حدیث، ایمانیات و عبادات، سیرتِ طیبہ، اخلاق و آداب، قسم و شہادت، مشاہیرِ اسلام اور جدید تقاضے مع 4 وفاقی بورڈ سالانہ امتحانی سمولیٹرز (لیکچرار طیبہ رفاقت)۔'
+                    : activeGrade9Subject === 'chemistry'
+                    ? 'All 19 National Curriculum chapters (Nature of Science, Matter, Atomic Structure, Periodic Table, Bonding, Stoichiometry, Redox, Energetics, Equilibrium, Acids/Bases, Air & Water, Organic, Hydrocarbons, Biomolecules, Measurements, Separation, Industrial, Chromatography) + 4 official Section A simulators (Lecturer Ayesha Amjad).'
                     : activeGrade9Subject === 'math'
                     ? 'All 11 National Curriculum chapters (Real Numbers, Logarithms, Sets, Factorization, Linear Equations, Trigonometry, Coordinate Geometry, Straight Lines, Polygons, Practical Geometry, Statistics) + 2 official Section A annual board examination simulators.'
                     : 'All 9 National Curriculum units (Physical Quantities, Kinematics, Dynamics, Turning Effect, Pressure, Work & Energy, Density, Magnetism, Nature of Science) + 2 official Section A annual board examination simulators.'

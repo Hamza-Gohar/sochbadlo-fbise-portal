@@ -1,0 +1,154 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 22,
+  "chapterTitle": "Federal Board Annual Exam Simulator 03 (Ch 6, 11, 12, 15)",
+  "slug": "chemistry-9-model-paper-3",
+  "description": "Authentic 12-mark Section A Federal Board examination simulator covering Stoichiometry, Air Pollution, Water Treatment, and Biochemistry.",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "id": "chem9-p3-q1",
+      "question": "Which of the following nitrogenous bases is found in RNA but NOT in DNA:",
+      "options": {
+        "A": "Adenine",
+        "B": "Uracil",
+        "C": "Guanine",
+        "D": "Cytosine"
+      },
+      "correctAnswer": "B",
+      "explanation": "DNA contains adenine, thymine, cytosine, and guanine, whereas RNA replaces thymine with uracil."
+    },
+    {
+      "id": "chem9-p3-q2",
+      "question": "The biological oxidation of carbohydrates in human metabolism yields approximately how much energy per gram:",
+      "options": {
+        "A": "8 kcal/g",
+        "B": "4 kcal/g (17 kJ/g)",
+        "C": "9 kcal/g",
+        "D": "12 kcal/g"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbohydrates and proteins yield about 4 kcal/g, whereas fats yield approximately 9 kcal/g of metabolic energy."
+    },
+    {
+      "id": "chem9-p3-q3",
+      "question": "Precipitation is scientifically classified as “acid rain” when its pH falls below:",
+      "options": {
+        "A": "4.6",
+        "B": "5.6",
+        "C": "7.0",
+        "D": "8.5"
+      },
+      "correctAnswer": "B",
+      "explanation": "Natural unpolluted rainwater has a pH of ~5.6 due to dissolved atmospheric carbon dioxide forming weak carbonic acid; rain with pH < 5.6 is acid rain."
+    },
+    {
+      "id": "chem9-p3-q4",
+      "question": "All of the following atmospheric gases are harmful air pollutants EXCEPT:",
+      "options": {
+        "A": "Nitrogen dioxide (NO₂)",
+        "B": "Nitrogen gas (N₂)",
+        "C": "Sulphur dioxide (SO₂)",
+        "D": "Sulphur trioxide (SO₃)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nitrogen gas (N2) is an inert, harmless natural component comprising 78% of dry air, whereas NO2, SO2, and SO3 are toxic pollutants."
+    },
+    {
+      "id": "chem9-p3-q5",
+      "question": "The mass of oxygen contained in one mole of water (H₂O) is:",
+      "options": {
+        "A": "12 g",
+        "B": "16 g",
+        "C": "20 g",
+        "D": "18 g"
+      },
+      "correctAnswer": "B",
+      "explanation": "One mole of water (18 g) contains 2 moles of hydrogen (2 g) and 1 mole of oxygen atoms (16 g)."
+    },
+    {
+      "id": "chem9-p3-q6",
+      "question": "Molecules such as CO₂ and H₂O that contain atoms of more than one element are classified as:",
+      "options": {
+        "A": "Mono-atomic molecules",
+        "B": "Hetero-atomic molecules",
+        "C": "Homo-atomic molecules",
+        "D": "Molecular ions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Molecules composed of two or more different elements chemically bonded together are called hetero-atomic molecules."
+    },
+    {
+      "id": "chem9-p3-q7",
+      "question": "Which of the following compounds is chemically decomposed during thermal dissociation into nitrogen and hydrogen gases:",
+      "options": {
+        "A": "Ammonia (NH₃)",
+        "B": "Pure oxygen",
+        "C": "Solid sulphur",
+        "D": "Pure iron"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ammonia decomposes at elevated temperatures over a catalyst: 2NH3 → N2 + 3H2."
+    },
+    {
+      "id": "chem9-p3-q8",
+      "question": "Which of the following lists consists entirely of homonuclear diatomic molecules:",
+      "options": {
+        "A": "N₂, H₂, O₂",
+        "B": "H, O, Cl",
+        "C": "H₂O, NaCl, CO₂",
+        "D": "CO, NO, HCl"
+      },
+      "correctAnswer": "A",
+      "explanation": "N2, H2, and O2 each consist of two identical atoms chemically bonded together."
+    },
+    {
+      "id": "chem9-p3-q9",
+      "question": "The molar mass of elemental carbon (C-12 standard) containing exactly 6.022 × 10²³ atoms is:",
+      "options": {
+        "A": "1.008 g",
+        "B": "12.01 g",
+        "C": "14.01 g",
+        "D": "16.00 g"
+      },
+      "correctAnswer": "B",
+      "explanation": "One mole of carbon atoms has a mass equal to its atomic mass expressed in grams, which is 12.011 g."
+    },
+    {
+      "id": "chem9-p3-q10",
+      "question": "The chemical formula that represents the simplest whole-number ratio of atoms of each element in a compound is the:",
+      "options": {
+        "A": "Molecular formula",
+        "B": "Empirical formula",
+        "C": "Structural formula",
+        "D": "Condensed formula"
+      },
+      "correctAnswer": "B",
+      "explanation": "The empirical formula expresses the simplest whole-number ratio of atoms in a compound (e.g. CH2O for glucose)."
+    },
+    {
+      "id": "chem9-p3-q11",
+      "question": "The major chemical pollutants responsible for catalytic depletion of stratospheric ozone are:",
+      "options": {
+        "A": "Carbon dioxide and methane",
+        "B": "Chlorofluorocarbons (CFCs)",
+        "C": "Water vapor and argon",
+        "D": "Nitrogen and oxygen"
+      },
+      "correctAnswer": "B",
+      "explanation": "CFCs release chlorine free radicals under UV irradiation in the stratosphere, each of which can break down over 100,000 ozone molecules."
+    },
+    {
+      "id": "chem9-p3-q12",
+      "question": "The empirical formula of glucose (molecular formula C₆H₁₂O₆) is:",
+      "options": {
+        "A": "CHO",
+        "B": "CH₂O",
+        "C": "C₂H₄O₂",
+        "D": "C₆H₁₂O₆"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dividing the subscripts 6, 12, 6 by their greatest common divisor (6) gives the simplest ratio 1:2:1, resulting in CH2O."
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 21,
+  "chapterTitle": "Federal Board Annual Exam Simulator 02 (Ch 4, 5, 13, 14)",
+  "slug": "chemistry-9-model-paper-2",
+  "description": "Authentic 12-mark Section A Federal Board examination simulator covering Periodic Table, Chemical Bonding, Organic Chemistry, and Hydrocarbons.",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "id": "chem9-p2-q1",
+      "question": "An acyclic hydrocarbon with molecular formula C₆H₁₂ must contain:",
+      "options": {
+        "A": "All single bonds only",
+        "B": "At least one double bond",
+        "C": "At least one triple bond",
+        "D": "All double bonds"
+      },
+      "correctAnswer": "B",
+      "explanation": "The formula C₆H₁₂ conforms to CnH2n (alkenes), indicating the presence of one carbon-carbon double bond (or a cycloalkane ring)."
+    },
+    {
+      "id": "chem9-p2-q2",
+      "question": "In IUPAC organic nomenclature, the prefix “Hex-” denotes a parent chain of how many carbon atoms:",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "correctAnswer": "C",
+      "explanation": "In organic chemistry root names: Meth- (1), Eth- (2), Prop- (3), But- (4), Pent- (5), Hex- (6), Hept- (7), Oct- (8)."
+    },
+    {
+      "id": "chem9-p2-q3",
+      "question": "In which of the following functional groups is a divalent oxygen atom bonded directly to two alkyl groups (R–O–R′):",
+      "options": {
+        "A": "Alcohol",
+        "B": "Ester",
+        "C": "Ether",
+        "D": "Carboxylic acid"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ethers have the general structure R–O–R′, where an oxygen atom bridges two hydrocarbon radical groups."
+    },
+    {
+      "id": "chem9-p2-q4",
+      "question": "Which of the following non-metals exists as a lustrous, purple-black solid that sublimes upon gentle heating:",
+      "options": {
+        "A": "Sodium",
+        "B": "Iodine",
+        "C": "Nitrogen",
+        "D": "Sulphur"
+      },
+      "correctAnswer": "B",
+      "explanation": "Iodine (I2) is a halogen non-metal with metallic luster that readily undergoes sublimation into violet vapor."
+    },
+    {
+      "id": "chem9-p2-q5",
+      "question": "Which element belongs to Group 17 (Halogens) of the periodic table?",
+      "options": {
+        "A": "Chlorine",
+        "B": "Sodium",
+        "C": "Calcium",
+        "D": "Argon"
+      },
+      "correctAnswer": "A",
+      "explanation": "Group 17 elements (fluorine, chlorine, bromine, iodine, astatine) are called halogens because they form salts with alkali metals."
+    },
+    {
+      "id": "chem9-p2-q6",
+      "question": "Moving from left to right across a period in the modern periodic table, the first ionization energy generally:",
+      "options": {
+        "A": "Decreases steadily",
+        "B": "Increases due to higher effective nuclear charge",
+        "C": "Remains constant",
+        "D": "First decreases then increases"
+      },
+      "correctAnswer": "B",
+      "explanation": "Across a period, nuclear charge increases while valence electrons are added to the same shell, drawing electrons closer and increasing ionization energy."
+    },
+    {
+      "id": "chem9-p2-q7",
+      "question": "In the formation of the ionic compound aluminum fluoride (AlF₃), each aluminum atom:",
+      "options": {
+        "A": "Gains 3 electrons",
+        "B": "Loses 3 electrons to achieve neon configuration",
+        "C": "Shares 3 pairs of electrons",
+        "D": "Loses 1 electron"
+      },
+      "correctAnswer": "B",
+      "explanation": "Aluminum has electronic configuration 2, 8, 3. It donates 3 valence electrons to three fluorine atoms, forming Al³⁺ cation with stable noble gas configuration."
+    },
+    {
+      "id": "chem9-p2-q8",
+      "question": "Which element in the periodic table possesses the highest Pauling electronegativity value (4.0):",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Chlorine",
+        "D": "Fluorine"
+      },
+      "correctAnswer": "D",
+      "explanation": "Fluorine has the highest electronegativity (4.0) because of its small atomic radius and high effective nuclear attraction for shared electron pairs."
+    },
+    {
+      "id": "chem9-p2-q9",
+      "question": "Carbon has 4 valence electrons and is located in which group of the periodic table:",
+      "options": {
+        "A": "Group 12",
+        "B": "Group 13",
+        "C": "Group 14 (IV-A)",
+        "D": "Group 15"
+      },
+      "correctAnswer": "C",
+      "explanation": "Carbon (atomic number 6) has configuration 1s² 2s² 2p² and belongs to Group 14 (IVA)."
+    },
+    {
+      "id": "chem9-p2-q10",
+      "question": "Which of the following compounds exhibits ionic bonding with a giant crystal lattice:",
+      "options": {
+        "A": "Methane (CH₄)",
+        "B": "Sodium Chloride (NaCl)",
+        "C": "Water (H₂O)",
+        "D": "Carbon dioxide (CO₂)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sodium chloride is formed by complete electron transfer from Na to Cl, creating strong electrostatic attraction in a 3D ionic lattice."
+    },
+    {
+      "id": "chem9-p2-q11",
+      "question": "Which of the following is classified as an alkaline earth metal (Group 2):",
+      "options": {
+        "A": "Potassium (K)",
+        "B": "Magnesium (Mg)",
+        "C": "Iron (Fe)",
+        "D": "Copper (Cu)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Group 2 elements (beryllium, magnesium, calcium, strontium, barium, radium) are known as alkaline earth metals."
+    },
+    {
+      "id": "chem9-p2-q12",
+      "question": "A coordinate covalent (dative) bond is present in which of the following species:",
+      "options": {
+        "A": "Ammonium ion (NH₄⁺)",
+        "B": "Chlorine molecule (Cl₂)",
+        "C": "Oxygen molecule (O₂)",
+        "D": "Methane (CH₄)"
+      },
+      "correctAnswer": "A",
+      "explanation": "In NH₄⁺, the ammonia molecule shares its lone pair of electrons on the nitrogen atom with a proton (H⁺), forming a coordinate covalent bond."
+    }
+  ]
+}

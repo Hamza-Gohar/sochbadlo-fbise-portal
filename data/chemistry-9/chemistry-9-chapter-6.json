@@ -1,0 +1,622 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 6,
+  "chapterTitle": "Unit 06: Stoichiometry, Mole & Chemical Calculations",
+  "slug": "chemistry-9-chapter-6",
+  "description": "Atomic mass, molecular mass, formula mass, mole concept, Avogadro number, molar mass, empirical and molecular formulas, percentage composition, and stoichiometric calculations.",
+  "totalQuestions": 51,
+  "questions": [
+    {
+      "id": "chem9-c6-q1",
+      "question": "The empirical formula represents the:",
+      "options": {
+        "A": "Actual Number Of Atoms",
+        "B": "Simplest Integer Ratio Of Atoms",
+        "C": "Molecular Mass",
+        "D": "Physical Properties"
+      },
+      "correctAnswer": "B",
+      "explanation": "Empirical formula shows the simplest whole number ratio"
+    },
+    {
+      "id": "chem9-c6-q2",
+      "question": "The empirical formula of hydrogen peroxide is:",
+      "options": {
+        "A": "H2O2",
+        "B": "HO",
+        "C": "H2O",
+        "D": "H3O2"
+      },
+      "correctAnswer": "B",
+      "explanation": "H2O2 simplifies to the ratio 1:1 giving HO"
+    },
+    {
+      "id": "chem9-c6-q3",
+      "question": "The molecular formula of hydrogen peroxide is:",
+      "options": {
+        "A": "H2O2",
+        "B": "HO",
+        "C": "H2O",
+        "D": "H3O2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Molecular formula shows actual atoms present in one molecule"
+    },
+    {
+      "id": "chem9-c6-q4",
+      "question": "The simplest ratio of C:H:O in glucose is:",
+      "options": {
+        "A": "1:2:1",
+        "B": "2:4:2",
+        "C": "6:12:6",
+        "D": "3:6:3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Glucose simplifies to 1:2:1 ratio in empirical form"
+    },
+    {
+      "id": "chem9-c6-q5",
+      "question": "Which pair has same empirical and molecular formula?:",
+      "options": {
+        "A": "Benzene",
+        "B": "Glucose",
+        "C": "Hydrogen Peroxide",
+        "D": "Water"
+      },
+      "correctAnswer": "D",
+      "explanation": "Water has identical empirical and molecular formula"
+    },
+    {
+      "id": "chem9-c6-q6",
+      "question": "Which of the following is already in simplest ratio?:",
+      "options": {
+        "A": "C6H12O6",
+        "B": "H2O",
+        "C": "C2H4",
+        "D": "H2O2"
+      },
+      "correctAnswer": "B",
+      "explanation": "H2O cannot be simplified further"
+    },
+    {
+      "id": "chem9-c6-q7",
+      "question": "The ratio 1:1 between two elements indicates:",
+      "options": {
+        "A": "Empirical Formula",
+        "B": "Atomic Mass",
+        "C": "Density",
+        "D": "Valency"
+      },
+      "correctAnswer": "A",
+      "explanation": "Simplest equal ratio represents empirical formula"
+    },
+    {
+      "id": "chem9-c6-q8",
+      "question": "Benzene molecule contains how many carbon atoms?:",
+      "options": {
+        "A": "Three",
+        "B": "Six",
+        "C": "Eight",
+        "D": "Four"
+      },
+      "correctAnswer": "B",
+      "explanation": "Benzene has six carbon atoms 9. Hydrogen peroxide contains how many 1 2 3 4 ○ ○ ○ ○ hydrogen atoms in one molecule?: Answer: (B) 2"
+    },
+    {
+      "id": "chem9-c6-q9",
+      "question": "Hydrogen peroxide contains how many hydrogen atoms in one molecule?:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "B",
+      "explanation": "The molecular formula H2O2 clearly shows that each molecule contains two hydrogen atoms and two oxygen atoms"
+    },
+    {
+      "id": "chem9-c6-q10",
+      "question": "oxygen atoms 10. Which of the formula gives simplest ratio?:",
+      "options": {
+        "A": "Molecular Formula",
+        "B": "Empirical Formula",
+        "C": "Structural Formula",
+        "D": "Atomi Formul"
+      },
+      "correctAnswer": "B",
+      "explanation": "The empirical formula represents the compound in the simplest whole number ratio of its constituent atoms without showing the actual number present in a molecule"
+    },
+    {
+      "id": "chem9-c6-q11",
+      "question": "without showing the actual number 11. Which formula shows actual number of atoms?:",
+      "options": {
+        "A": "present in a molecule Molecular Formula",
+        "B": "Empirical Formula",
+        "C": "Structural Formula",
+        "D": "Atomi Formul"
+      },
+      "correctAnswer": "A",
+      "explanation": "The molecular formula specifies the exact number of atoms of each element present in one molecule of the compound"
+    },
+    {
+      "id": "chem9-c6-q12",
+      "question": "the compound 12. To calculate molecular mass of a compound, we must:",
+      "options": {
+        "A": "Multiply Atomic        M Numbers",
+        "B": "Add Atomic asses Of All Atoms",
+        "C": "Subtract Atomic Masses",
+        "D": "Count Val Only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Molecular mass is calculated by summing the atomic masses of each atom in the compound"
+    },
+    {
+      "id": "chem9-c6-q13",
+      "question": "The molecular mass of water H2O is:",
+      "options": {
+        "A": "16.00 Amu",
+        "B": "18.016 Amu",
+        "C": "2.016 Amu",
+        "D": "20.00 A"
+      },
+      "correctAnswer": "B",
+      "explanation": "The molecular mass of water equals 2(1.008) + 16.00 which gives 18.016 amu"
+    },
+    {
+      "id": "chem9-c6-q14",
+      "question": "The atomic mass of hydrogen used in calculation of water is:",
+      "options": {
+        "A": "1.008",
+        "B": "2.016",
+        "C": "16.00",
+        "D": "18.016"
+      },
+      "correctAnswer": "A",
+      "explanation": "Each hydrogen atom has an atomic mass of 1.008 amu"
+    },
+    {
+      "id": "chem9-c6-q15",
+      "question": "The term molecular mass is used for:",
+      "options": {
+        "A": "Ionic Compounds",
+        "B": "Molecular Compounds",
+        "C": "Metals Only",
+        "D": "Elements"
+      },
+      "correctAnswer": "B",
+      "explanation": "Molecular mass is specifically used for substances that exist as discrete molecules"
+    },
+    {
+      "id": "chem9-c6-q16",
+      "question": "The term formula mass is used for:",
+      "options": {
+        "A": "Molecular Compounds",
+        "B": "Covalent Compounds",
+        "C": "Noble Gases",
+        "D": "Ioni Compounds"
+      },
+      "correctAnswer": "D",
+      "explanation": "Formula mass applies to ionic compounds which do not exist as separate molecules"
+    },
+    {
+      "id": "chem9-c6-q17",
+      "question": "In NaCl, the ratio of Na positive to Cl negative ions is:",
+      "options": {
+        "A": "1:1",
+        "B": "2:1",
+        "C": "1:2",
+        "D": "2:2"
+      },
+      "correctAnswer": "A",
+      "explanation": "There is one sodium ion for every one chloride ion in common salt"
+    },
+    {
+      "id": "chem9-c6-q18",
+      "question": "Water is an example of:",
+      "options": {
+        "A": "Ionic Compound",
+        "B": "Molecular Compound",
+        "C": "Metal",
+        "D": "All"
+      },
+      "correctAnswer": "B",
+      "explanation": "Water exists as discrete molecules so molecular mass term is used"
+    },
+    {
+      "id": "chem9-c6-q19",
+      "question": "Ionic compounds are represented by which of the following:",
+      "options": {
+        "A": "Formula Unit",
+        "B": "Molecular Formula",
+        "C": "Structural Formula",
+        "D": "Empir Formula O"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ionic compounds are expressed using formula units instead of molecules"
+    },
+    {
+      "id": "chem9-c6-q20",
+      "question": "The value 18.016 Amu represents the:",
+      "options": {
+        "A": "Formula Mass Of NaCl     M",
+        "B": "Molecular ass Of H2O",
+        "C": "Atomic Mass Of Oxygen",
+        "D": "Atomic Ma Of Hydrog"
+      },
+      "correctAnswer": "B",
+      "explanation": "18.016 amu is the calculated molecular mass of one water molecule"
+    },
+    {
+      "id": "chem9-c6-q21",
+      "question": "Ionic compounds consist of:",
+      "options": {
+        "A": "Separate Molecules",
+        "B": "Neutral Atoms Only",
+        "C": "Only Cation",
+        "D": "Array s         Oppos Charged I"
+      },
+      "correctAnswer": "D",
+      "explanation": "Ionic compounds are made of repeating arrangements of positive and negative ions"
+    },
+    {
+      "id": "chem9-c6-q22",
+      "question": "While naming an ionic compound, the name of the __________ is written first:",
+      "options": {
+        "A": "Anion",
+        "B": "Cation",
+        "C": "Nonmetal",
+        "D": "Suf"
+      },
+      "correctAnswer": "B",
+      "explanation": "In ionic compound naming, the cation name is always written before the anion"
+    },
+    {
+      "id": "chem9-c6-q23",
+      "question": "The name of the cation in a binary ionic compound is the same as the name of the:",
+      "options": {
+        "A": "Nonmetal",
+        "B": "Gas",
+        "C": "Radical",
+        "D": "Met"
+      },
+      "correctAnswer": "D",
+      "explanation": "The cation retains the original name of the metal element 24. Which of the following is Sodium Sodium Sodium Sodium a correctly named binary ○ ○ ○ ○ Chloride Chlorate Carbonate Hydroxide ionic compound?: Answer: (A) Sodium Chloride"
+    },
+    {
+      "id": "chem9-c6-q24",
+      "question": "Which of the following is a correctly named binary ionic compound?:",
+      "options": {
+        "A": "Sodium Chloride",
+        "B": "Sodium Chlorate",
+        "C": "Sodium Carbonate",
+        "D": "So Hydro"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sodium chloride follows the rule of metal name first and nonmetal with \"-ide\" ending"
+    },
+    {
+      "id": "chem9-c6-q25",
+      "question": "The total charge on cations and anions in an ionic compound must be:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Unequal",
+        "D": "Equal"
+      },
+      "correctAnswer": "D",
+      "explanation": "Ionic compounds are neutral, so total positive and negative charges must balance"
+    },
+    {
+      "id": "chem9-c6-q26",
+      "question": "After balancing charges, the coefficients are written as:",
+      "options": {
+        "A": "Charges",
+        "B": "Prefixes",
+        "C": "Subscripts",
+        "D": "Superscripts"
+      },
+      "correctAnswer": "C",
+      "explanation": "The balanced numbers become subscripts in the chemical formula"
+    },
+    {
+      "id": "chem9-c6-q27",
+      "question": "A mole of a substance contains how many particles?",
+      "options": {
+        "A": "6.022 × 10²²",
+        "B": "6.022 × 10²³",
+        "C": "6.022 × 10²⁴",
+        "D": "6.022 × 10²¹"
+      },
+      "correctAnswer": "B",
+      "explanation": "One mole represents exactly 6.022 × 10²³ representative particles of a substance"
+    },
+    {
+      "id": "chem9-c6-q28",
+      "question": "The number 6.022 × 10²³ is known as:",
+      "options": {
+        "A": "Atomic Number",
+        "B": "Mass Number",
+        "C": "Charge Number",
+        "D": "Avoga Numb"
+      },
+      "correctAnswer": "D",
+      "explanation": "The experimentally determined value 6.022 × 10²³ is called Avogadro's number"
+    },
+    {
+      "id": "chem9-c6-q29",
+      "question": "A mole of carbon contains:",
+      "options": {
+        "A": "6.022 × 10²³ Molecules",
+        "B": "6.022 × 10²³ Atoms",
+        "C": "12 Atoms",
+        "D": "1 A"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbon exists as atoms so one mole contains 6.022 × 10²³ atoms"
+    },
+    {
+      "id": "chem9-c6-q30",
+      "question": "The mass of one mole of a substance is called:",
+      "options": {
+        "A": "Atomic Mass",
+        "B": "Molecular Formula",
+        "C": "Valency",
+        "D": "Molar"
+      },
+      "correctAnswer": "D",
+      "explanation": "Molar mass is the mass of one mole of a substance expressed in grams"
+    },
+    {
+      "id": "chem9-c6-q31",
+      "question": "Atomic mass of zinc is:",
+      "options": {
+        "A": "63.54 Amu",
+        "B": "23 Amu",
+        "C": "12 Amu",
+        "D": "35.5 Amu"
+      },
+      "correctAnswer": "A",
+      "explanation": "Gram atomic mass is atomic mass expressed in grams so Zn is 63.54 amu Formula 32. Gram atomic mass Molecules Ions Atoms ○ ○ ○ ○ Units represents one mole of: Answer: (D) Atoms"
+    },
+    {
+      "id": "chem9-c6-q32",
+      "question": "Gram atomic mass represents one mole of:",
+      "options": {
+        "A": "Molecules",
+        "B": "Formula Units",
+        "C": "Ions",
+        "D": "Ato"
+      },
+      "correctAnswer": "D",
+      "explanation": "Gram atomic mass corresponds to one mole of atoms of an element"
+    },
+    {
+      "id": "chem9-c6-q33",
+      "question": "Gram molecular mass represents one mole of:",
+      "options": {
+        "A": "Atoms",
+        "B": "Molecules",
+        "C": "Ions",
+        "D": "Pro"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gram molecular mass corresponds to one mole of molecules"
+    },
+    {
+      "id": "chem9-c6-q34",
+      "question": "Gram formula mass represents one mole of:",
+      "options": {
+        "A": "Molecules",
+        "B": "Atoms",
+        "C": "Formula Un",
+        "D": "its        Neut"
+      },
+      "correctAnswer": "C",
+      "explanation": "Gram formula mass corresponds to one mole of ionic formula units"
+    },
+    {
+      "id": "chem9-c6-q35",
+      "question": "All gram atomic, molecular, and formula masses represent:",
+      "options": {
+        "A": "Atomic Number",
+        "B": "Valency",
+        "C": "Charge",
+        "D": "Molar"
+      },
+      "correctAnswer": "D",
+      "explanation": "All these quantities represent the mass of one mole of a substance in grams"
+    },
+    {
+      "id": "chem9-c6-q36",
+      "question": "Why do one mole of carbon and one mole of sulphur have different masses?:",
+      "options": {
+        "A": "Different Colours",
+        "B": "Different Atomic Masses",
+        "C": "Differe Charges",
+        "D": "nt       Same A Mas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Although both contain Avogadro's number of atoms, their atomic masses are different"
+    },
+    {
+      "id": "chem9-c6-q37",
+      "question": "Calculate the mass of 3.5 moles of Na:",
+      "options": {
+        "A": "46 g",
+        "B": "80.5 g",
+        "C": "92 g",
+        "D": "69"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mass = Moles × Molar Mass = 3.5 × 23 = 80.5 g"
+    },
+    {
+      "id": "chem9-c6-q38",
+      "question": "How many moles are present in 56 g of N₂?:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "All of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "Moles = 56 ÷ 28 = 2 mol"
+    },
+    {
+      "id": "chem9-c6-q39",
+      "question": "How many moles are present in 196 g of H₂SO₄? (Molar mass = 98 g/mol):",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "0.5"
+      },
+      "correctAnswer": "B",
+      "explanation": "Moles = 196 ÷ 98 = 2 mol"
+    },
+    {
+      "id": "chem9-c6-q40",
+      "question": "Calculate the mass of 4 moles of NH₃ (Molar mass = 17 g/mol):",
+      "options": {
+        "A": "68 g",
+        "B": "34 g",
+        "C": "51 g",
+        "D": "85 g"
+      },
+      "correctAnswer": "A",
+      "explanation": "The mass is calculated using the formula mass = moles × molar mass, so 4 × 17 gives 68 g 41. How many formula units are present in 0.4 moles of 2.408 × 10²³ 6.022 × 10²³ 1.204 × 10²³ 4 × 10²³ ○ ○ ○ ○ NaCl?: Answer: (A) 2.408 × 10²³"
+    },
+    {
+      "id": "chem9-c6-q41",
+      "question": "How many formula units are present in 0.4 moles of NaCl?:",
+      "options": {
+        "A": "2.408 × 10²³",
+        "B": "6.022 × 10²³",
+        "C": "1.204 × 10²³",
+        "D": "4 × 10²³"
+      },
+      "correctAnswer": "A",
+      "explanation": "Formula Units = 0.4 × 6.022 × 10²³ = 2.408 × 10²³ units"
+    },
+    {
+      "id": "chem9-c6-q42",
+      "question": "How many molecules are present in 1.5 moles of CH₄?:",
+      "options": {
+        "A": "9.033 × 10²³",
+        "B": "6.022 × 10²³",
+        "C": "3.011 ×",
+        "D": "10²³     1.5 ×"
+      },
+      "correctAnswer": "A",
+      "explanation": "Molecules = 1.5 × 6.022 × 10²³ = 9.033 × 10²³ molecules"
+    },
+    {
+      "id": "chem9-c6-q43",
+      "question": "The symbolic representation of a chemical reaction is called a:",
+      "options": {
+        "A": "Chemical Formula",
+        "B": "Chemical Equation",
+        "C": "Ionic Bo",
+        "D": "nd     Molecula"
+      },
+      "correctAnswer": "B",
+      "explanation": "A chemical equation represents a chemical reaction using symbols and formulas of substances"
+    },
+    {
+      "id": "chem9-c6-q44",
+      "question": "Which law is satisfied by a balanced chemical equation?",
+      "options": {
+        "A": "Law Of Definite Proportion",
+        "B": "Law Of Multipl Proportion",
+        "C": "e      Law Of Gravitat",
+        "D": "Law O Conserv ion Of Ma"
+      },
+      "correctAnswer": "D",
+      "explanation": "Balanced equations follow the law of conservation of mass where atoms are conserved"
+    },
+    {
+      "id": "chem9-c6-q45",
+      "question": "Which of the following is a balanced equation?",
+      "options": {
+        "A": "CH4 + O2 → CO2 + H2O",
+        "B": "CH4 + 2O2 → CO2 + 2H2O",
+        "C": "CH4 + O2 CO2 + 2H",
+        "D": "→      2CH4 + 2O       CO2 +"
+      },
+      "correctAnswer": "B",
+      "explanation": "CH4 + 2O2 → CO2 + 2H2O has equal atoms of each element on both sides"
+    },
+    {
+      "id": "chem9-c6-q46",
+      "question": "While balancing equations, we are allowed to change:",
+      "options": {
+        "A": "Subscripts",
+        "B": "Chemical Formula",
+        "C": "Coeffici",
+        "D": "Eleme ents Symbo"
+      },
+      "correctAnswer": "C",
+      "explanation": "Only coefficients can be changed to balance an equation, not subscripts"
+    },
+    {
+      "id": "chem9-c6-q47",
+      "question": "A chemical equation in which dissolved substances are written as ions is called:",
+      "options": {
+        "A": "Molecular Equation",
+        "B": "Balanced Equation",
+        "C": "Word Equa",
+        "D": "tion   Ionic Eq"
+      },
+      "correctAnswer": "D",
+      "explanation": "Ionic equations show substances as separate ions in aqueous solution"
+    },
+    {
+      "id": "chem9-c6-q48",
+      "question": "In CH4 + 2O2 → CO2 + 2H2O, total oxygen atoms on product side are:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "D",
+      "explanation": "CO2 has 2 oxygen atoms, and 2H2O has 2 more, making a total 4"
+    },
+    {
+      "id": "chem9-c6-q49",
+      "question": "A compound has molecular formula C₄H₁₀. How many total atoms are present in one molecule?",
+      "options": {
+        "A": "14",
+        "B": "12",
+        "C": "16",
+        "D": "10"
+      },
+      "correctAnswer": "A",
+      "explanation": "Total atoms = 4 carbon + 10 hydrogen = 14 atoms in one molecule"
+    },
+    {
+      "id": "chem9-c6-q50",
+      "question": "Propane has molecular formula C₃H₈. How many carbon atoms are present in 5 molecules of propane?",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "11",
+        "D": "15"
+      },
+      "correctAnswer": "D",
+      "explanation": "Each molecule contains 3 carbon atoms so 5 × 3 = 15 carbon atoms"
+    },
+    {
+      "id": "chem9-c6-q51",
+      "question": "Methanol has molecular formula CH₄O. What is the ratio of hydrogen atoms to oxygen atoms in one molecule?",
+      "options": {
+        "A": "1:1",
+        "B": "4:1",
+        "C": "2:1",
+        "D": "1:4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Methanol contains 4 hydrogen atoms and 1 oxygen atom so the ratio is 4:1"
+    }
+  ]
+}

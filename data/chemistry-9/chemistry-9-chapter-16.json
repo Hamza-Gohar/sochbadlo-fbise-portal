@@ -1,0 +1,610 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 16,
+  "chapterTitle": "Unit 16: Chemical Measurements, SI Units & Significant Figures",
+  "slug": "chemistry-9-chapter-16",
+  "description": "International System of Units (SI base and derived units), scientific notation, prefixes, measurement errors, precision vs accuracy, significant figures, and temperature scale conversions.",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": "chem9-c16-q1",
+      "question": "The globally accepted system of measurement is called:",
+      "options": {
+        "A": "CGS system",
+        "B": "FPS system",
+        "C": "SI system",
+        "D": "British system"
+      },
+      "correctAnswer": "C",
+      "explanation": "SI is the international standard"
+    },
+    {
+      "id": "chem9-c16-q2",
+      "question": "In ancient times, people measured length using:",
+      "options": {
+        "A": "Meter scale",
+        "B": "Vernier calliper",
+        "C": "Laser devices",
+        "D": "Cubit and hand span"
+      },
+      "correctAnswer": "D",
+      "explanation": "Early units were based on body parts"
+    },
+    {
+      "id": "chem9-c16-q3",
+      "question": "Length, mass, and time are examples of:",
+      "options": {
+        "A": "Chemical quantities",
+        "B": "Physical quantities",
+        "C": "Abstract ideas",
+        "D": "Constants"
+      },
+      "correctAnswer": "B",
+      "explanation": "These can be measured directly"
+    },
+    {
+      "id": "chem9-c16-q4",
+      "question": "Which SI unit is used to measure temperature?",
+      "options": {
+        "A": "Degree Fahrenheit",
+        "B": "Celsius",
+        "C": "Joule",
+        "D": "Kelvin"
+      },
+      "correctAnswer": "D",
+      "explanation": "Kelvin is the SI unit of temperature"
+    },
+    {
+      "id": "chem9-c16-q5",
+      "question": "Normal human body temperature is approximately:",
+      "options": {
+        "A": "100°F",
+        "B": "96°F",
+        "C": "98.6°F",
+        "D": "102°F"
+      },
+      "correctAnswer": "C",
+      "explanation": "98.6°F is the standard normal temperature"
+    },
+    {
+      "id": "chem9-c16-q6",
+      "question": "The unit of measurement must be:",
+      "options": {
+        "A": "Variable",
+        "B": "Fixed",
+        "C": "Random",
+        "D": "All of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fixed units ensure uniform results"
+    },
+    {
+      "id": "chem9-c16-q7",
+      "question": "Units used to measure basic physical quantities are called:",
+      "options": {
+        "A": "Derived units",
+        "B": "Arbitrary units",
+        "C": "Fundamental units",
+        "D": "Secondary units"
+      },
+      "correctAnswer": "C",
+      "explanation": "Fundamental units measure base quantities"
+    },
+    {
+      "id": "chem9-c16-q8",
+      "question": "How many fundamental units are there in the SI system?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correctAnswer": "C",
+      "explanation": "SI system defines seven base units"
+    },
+    {
+      "id": "chem9-c16-q9",
+      "question": "Which of the following is a fundamental unit?",
+      "options": {
+        "A": "Newton",
+        "B": "Meter",
+        "C": "Joule",
+        "D": "Pascal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Meter is the base unit of length"
+    },
+    {
+      "id": "chem9-c16-q10",
+      "question": "Which of the following is a derived unit?",
+      "options": {
+        "A": "Second",
+        "B": "Kilogram",
+        "C": "Meter",
+        "D": "Newton"
+      },
+      "correctAnswer": "D",
+      "explanation": "Newton is derived from kg, m, and s"
+    },
+    {
+      "id": "chem9-c16-q11",
+      "question": "The prefix used for two atoms of an element is:",
+      "options": {
+        "A": "Mono-",
+        "B": "Di-",
+        "C": "Tri-",
+        "D": "Tetra-"
+      },
+      "correctAnswer": "B",
+      "explanation": "Di- indicates two"
+    },
+    {
+      "id": "chem9-c16-q12",
+      "question": "Conversion between millimetre, centimetre, and meter is called:",
+      "options": {
+        "A": "Time conversion",
+        "B": "Mass conversion",
+        "C": "Length conversion",
+        "D": "Energy conversion"
+      },
+      "correctAnswer": "C",
+      "explanation": "These units measure length"
+    },
+    {
+      "id": "chem9-c16-q13",
+      "question": "A length of 250 cm is best expressed in meters because:",
+      "options": {
+        "A": "It avoids fractions",
+        "B": "Metre is the SI unit",
+        "C": "Centimetre is outdated",
+        "D": "It increases value"
+      },
+      "correctAnswer": "B",
+      "explanation": "SI units provide a standard representation"
+    },
+    {
+      "id": "chem9-c16-q14",
+      "question": "Which of the following is a correct length conversion?",
+      "options": {
+        "A": "1 cm = 100 mm",
+        "B": "1 m = 10 cm",
+        "C": "1 dm = 10 cm",
+        "D": "1 km = 100 m"
+      },
+      "correctAnswer": "C",
+      "explanation": "1 decimetre equals 10 centimetres"
+    },
+    {
+      "id": "chem9-c16-q15",
+      "question": "Unit conversion is necessary in scientific work mainly to avoid:",
+      "options": {
+        "A": "Calculation errors",
+        "B": "Measurements",
+        "C": "Instruments",
+        "D": "Experiments"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct conversion prevents numerical mistakes"
+    },
+    {
+      "id": "chem9-c16-q16",
+      "question": "A tablet contains 50 mg of medicine; administering 0.2 g requires unit conversion because:",
+      "options": {
+        "A": "Units are identical",
+        "B": "Gram is larger than milligram",
+        "C": "Milligram is U larger than gram",
+        "D": "nits cannot be compared"
+      },
+      "correctAnswer": "B",
+      "explanation": "Larger units must be converted into smaller ones"
+    },
+    {
+      "id": "chem9-c16-q17",
+      "question": "Which conversion shows movement from a smaller unit to a larger unit?",
+      "options": {
+        "A": "m → cm",
+        "B": "kg → g",
+        "C": "cm → m",
+        "D": "g → mg"
+      },
+      "correctAnswer": "C",
+      "explanation": "Converting to larger units reduces the numerical value"
+    },
+    {
+      "id": "chem9-c16-q18",
+      "question": "A number written in scientific notation has the form:",
+      "options": {
+        "A": "a × 10ⁿ",
+        "B": "a ÷ 10ⁿ",
+        "C": "a + 10ⁿ",
+        "D": "a − 10ⁿ"
+      },
+      "correctAnswer": "A",
+      "explanation": "Standard form uses multiplication by powers of ten"
+    },
+    {
+      "id": "chem9-c16-q19",
+      "question": "In scientific notation, the value of “a” must be:",
+      "options": {
+        "A": "Less than 1",
+        "B": "Bet Equal to 0",
+        "C": "ween 1 and    Gre 10",
+        "D": "ater than 10"
+      },
+      "correctAnswer": "C",
+      "explanation": "The coefficient must be ≥1 and <10"
+    },
+    {
+      "id": "chem9-c16-q20",
+      "question": "The exponent “n” in scientific notation can be:",
+      "options": {
+        "A": "Only positive   O",
+        "B": "nly negative     O",
+        "C": "Po nly zero n",
+        "D": "sitive or egative"
+      },
+      "correctAnswer": "D",
+      "explanation": "Exponent shows magnitude and direction"
+    },
+    {
+      "id": "chem9-c16-q21",
+      "question": "A negative exponent in scientific notation represents a number that is:",
+      "options": {
+        "A": "Very large",
+        "B": "Very small   Equ",
+        "C": "Al al to zero i",
+        "D": "ways an nteger"
+      },
+      "correctAnswer": "B",
+      "explanation": "Negative powers indicate small quantities"
+    },
+    {
+      "id": "chem9-c16-q22",
+      "question": "Which of the following is correctly written in scientific notation?",
+      "options": {
+        "A": "65 × 10⁴",
+        "B": "0.65 × 10⁵",
+        "C": "650 × 10³",
+        "D": "6.5 × 10⁴"
+      },
+      "correctAnswer": "D",
+      "explanation": "Coefficient must be between 1 and 10"
+    },
+    {
+      "id": "chem9-c16-q23",
+      "question": "The number 0.00045 written in scientific notation is:",
+      "options": {
+        "A": "4.5 × 10⁻⁴",
+        "B": "45 × 10⁻⁵      4",
+        "C": ".5 × 10⁻²      4.",
+        "D": "5 × 10⁻³"
+      },
+      "correctAnswer": "A",
+      "explanation": "Decimal moves four places right"
+    },
+    {
+      "id": "chem9-c16-q24",
+      "question": "All numbers in scientific notation are expressed as multiples of:",
+      "options": {
+        "A": "2",
+        "B": "5",
+        "C": "10",
+        "D": "100"
+      },
+      "correctAnswer": "C",
+      "explanation": "Base 10 is used universally"
+    },
+    {
+      "id": "chem9-c16-q25",
+      "question": "Which value of “a” is NOT allowed in scientific notation?",
+      "options": {
+        "A": "1.5",
+        "B": "9.2",
+        "C": "4",
+        "D": "0.7"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Coefficient must be at least 1"
+    },
+    {
+      "id": "chem9-c16-q26",
+      "question": "The exponent in scientific notation must be:",
+      "options": {
+        "A": "Zero only",
+        "B": "A A fraction",
+        "C": "non-zero Alwa integer",
+        "D": "ys positive"
+      },
+      "correctAnswer": "C",
+      "explanation": "Exponents can be positive or negative integers 27. Which of the following coefficients is NOT valid in 12.5 3.4 −7.2 9.9 ○ ○ ○ ○ scientific notation? Answer: (A) 12.5"
+    },
+    {
+      "id": "chem9-c16-q27",
+      "question": "Which of the following coefficients is NOT valid in scientific notation?",
+      "options": {
+        "A": "12.5",
+        "B": "3.4",
+        "C": "−7.2",
+        "D": "9.9"
+      },
+      "correctAnswer": "A",
+      "explanation": "Coefficient must be less than 10"
+    },
+    {
+      "id": "chem9-c16-q28",
+      "question": "If a number is greater than 10, the decimal point is moved:",
+      "options": {
+        "A": "To the right",
+        "B": "To the left",
+        "C": "Upward",
+        "D": "Not moved"
+      },
+      "correctAnswer": "B",
+      "explanation": "Decimal moves left for large numbers"
+    },
+    {
+      "id": "chem9-c16-q29",
+      "question": "When the decimal point moves to the left, the exponent of 10 becomes:",
+      "options": {
+        "A": "Negative",
+        "B": "Zero",
+        "C": "Positive",
+        "D": "Fractional"
+      },
+      "correctAnswer": "C",
+      "explanation": "Left shift increases power"
+    },
+    {
+      "id": "chem9-c16-q30",
+      "question": "The scientific notation of 0.006 is:",
+      "options": {
+        "A": "6 × 10³",
+        "B": "0.6 × 10⁻²",
+        "C": "6 × 10⁻³",
+        "D": "60 × 10⁻⁴"
+      },
+      "correctAnswer": "C",
+      "explanation": "Decimal moves three places right"
+    },
+    {
+      "id": "chem9-c16-q31",
+      "question": "4,900,000,000 written in scientific notation is:",
+      "options": {
+        "A": "4.9 × 10⁸",
+        "B": "0.49 × 10¹⁰",
+        "C": "4.9 × 10⁹",
+        "D": "49 × 10⁷"
+      },
+      "correctAnswer": "A",
+      "explanation": "Decimal shifts eight places left"
+    },
+    {
+      "id": "chem9-c16-q32",
+      "question": "Accuracy in measurement refers to how close a value is to the:",
+      "options": {
+        "A": "Average value",
+        "B": "Repeated readings",
+        "C": "Apparent value",
+        "D": "True value"
+      },
+      "correctAnswer": "D",
+      "explanation": "Accuracy measures closeness to the true value"
+    },
+    {
+      "id": "chem9-c16-q33",
+      "question": "An instrument giving similar readings repeatedly but far from the true value is:",
+      "options": {
+        "A": "Accurate but not precise",
+        "B": "Precise but not accurate",
+        "C": "Both accurate and precise",
+        "D": "Neither accurate nor precise"
+      },
+      "correctAnswer": "B",
+      "explanation": "Consistency without correctness indicates precision only"
+    },
+    {
+      "id": "chem9-c16-q34",
+      "question": "A balance that is incorrectly adjusted mainly affects:",
+      "options": {
+        "A": "Precision",
+        "B": "Units",
+        "C": "Sensitivity",
+        "D": "Accuracy"
+      },
+      "correctAnswer": "D",
+      "explanation": "Misadjusted equipment shifts results from true value"
+    },
+    {
+      "id": "chem9-c16-q35",
+      "question": "Which situation represents both accuracy and precision?",
+      "options": {
+        "A": "Values close together and near true value",
+        "B": "Values close together but wrong",
+        "C": "Values scattered around true value",
+        "D": "Random values"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ideal measurements are correct and consistent"
+    },
+    {
+      "id": "chem9-c16-q36",
+      "question": "In scientific measurements, the best results are those that are:",
+      "options": {
+        "A": "Only precise      O",
+        "B": "N nly accurate   acc",
+        "C": "either Both urate nor and precise",
+        "D": "accurate precise"
+      },
+      "correctAnswer": "D",
+      "explanation": "Reliable science requires both correctness and consistency"
+    },
+    {
+      "id": "chem9-c16-q37",
+      "question": "The curved surface formed by liquid in a measuring cylinder is called:",
+      "options": {
+        "A": "Arc",
+        "B": "Meniscus",
+        "C": "Curve",
+        "D": "Dip"
+      },
+      "correctAnswer": "B",
+      "explanation": "Liquid adhesion creates a meniscus shape"
+    },
+    {
+      "id": "chem9-c16-q38",
+      "question": "Reading the measuring cylinder from below eye level gives:",
+      "options": {
+        "A": "Smaller volume     L",
+        "B": "Ac arger volume v",
+        "C": "curate No r olume",
+        "D": "eading"
+      },
+      "correctAnswer": "B",
+      "explanation": "Low angle causes overestimation"
+    },
+    {
+      "id": "chem9-c16-q39",
+      "question": "The maximum volume delivered by a standard burette is:",
+      "options": {
+        "A": "25 cm³",
+        "B": "40 cm³",
+        "C": "50 cm³",
+        "D": "100 cm³"
+      },
+      "correctAnswer": "C",
+      "explanation": "Standard burettes hold up to 50 cm³"
+    },
+    {
+      "id": "chem9-c16-q40",
+      "question": "Accuracy of gas syringes is similar to:",
+      "options": {
+        "A": "Pipettes",
+        "B": "Burettes      Ba",
+        "C": "Meas lances cyli",
+        "D": "uring nders"
+      },
+      "correctAnswer": "D",
+      "explanation": "Both give moderate accuracy"
+    },
+    {
+      "id": "chem9-c16-q41",
+      "question": "Laboratory thermometers are used to measure:",
+      "options": {
+        "A": "Body t temperature",
+        "B": "Room Atm emperature p only",
+        "C": "ospheric      Che ressure     tempe",
+        "D": "mical ratures"
+      },
+      "correctAnswer": "D",
+      "explanation": "They measure the temperatures of substances"
+    },
+    {
+      "id": "chem9-c16-q42",
+      "question": "Stopwatch precision is usually up to:",
+      "options": {
+        "A": "1 second",
+        "B": "0.1 second    0.0",
+        "C": "1 second    0.001",
+        "D": "second"
+      },
+      "correctAnswer": "C",
+      "explanation": "Two decimal places indicate high precision"
+    },
+    {
+      "id": "chem9-c16-q43",
+      "question": "A student uses a beaker instead of a pipette to measure 25 cm³. What is most affected?",
+      "options": {
+        "A": "Accuracy",
+        "B": "Colour       Tem",
+        "C": "perature        T",
+        "D": "ime"
+      },
+      "correctAnswer": "A",
+      "explanation": "Beakers give only approximate volume"
+    },
+    {
+      "id": "chem9-c16-q44",
+      "question": "For repeated transfer of exactly 25 cm³, the best tool is:",
+      "options": {
+        "A": "Beaker",
+        "B": "Cylinder",
+        "C": "Pipette",
+        "D": "Flask"
+      },
+      "correctAnswer": "C",
+      "explanation": "Pipettes deliver fixed accurate volume"
+    },
+    {
+      "id": "chem9-c16-q45",
+      "question": "During a titration, a student records only the final burette reading and forgets the initial reading. What is the major consequence?",
+      "options": {
+        "A": "No effect on result",
+        "B": "Volume delivered cannot be calculated",
+        "C": "Only precision is affected",
+        "D": "Only accuracy is affected"
+      },
+      "correctAnswer": "B",
+      "explanation": "Delivered volume requires difference of readings"
+    },
+    {
+      "id": "chem9-c16-q46",
+      "question": "Using many variations in experiments helps to:",
+      "options": {
+        "A": "Confuse data",
+        "B": "Reduce accuracy",
+        "C": "Improve reliability",
+        "D": "Save time"
+      },
+      "correctAnswer": "C",
+      "explanation": "Variations strengthen experimental conclusions"
+    },
+    {
+      "id": "chem9-c16-q47",
+      "question": "A disadvantage of experimental methods is that they may create:",
+      "options": {
+        "A": "Natural results",
+        "B": "Artificial conditions",
+        "C": "Accurate data",
+        "D": "Universal laws"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lab settings may differ from real life"
+    },
+    {
+      "id": "chem9-c16-q48",
+      "question": "An experiment gives consistent results but differs from real-life conditions. This shows:",
+      "options": {
+        "A": "High cost",
+        "B": "Artificiality",
+        "C": "Low control",
+        "D": "Poor design"
+      },
+      "correctAnswer": "B",
+      "explanation": "Controlled settings may lack realism"
+    },
+    {
+      "id": "chem9-c16-q49",
+      "question": "High-quality equipment improves experiments by increasing:",
+      "options": {
+        "A": "Accuracy",
+        "B": "Error",
+        "C": "Artificiality",
+        "D": "Cost"
+      },
+      "correctAnswer": "A",
+      "explanation": "Better tools give precise measurements"
+    },
+    {
+      "id": "chem9-c16-q50",
+      "question": "An experiment affected by measurement mistakes mainly suffers from:",
+      "options": {
+        "A": "Reliability",
+        "B": "Accuracy",
+        "C": "Cost",
+        "D": "Speed"
+      },
+      "correctAnswer": "B",
+      "explanation": "Measurement mistakes distort results"
+    }
+  ]
+}

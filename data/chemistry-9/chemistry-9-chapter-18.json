@@ -1,0 +1,382 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 18,
+  "chapterTitle": "Unit 18: Industrial Chemistry & Manufacturing Processes",
+  "slug": "chemistry-9-chapter-18",
+  "description": "Chemical industries: manufacture of ammonia by Haber process, sulfuric acid by Contact process, fertilizers (urea), cement, and environmental impact of industrial effluents.",
+  "totalQuestions": 31,
+  "questions": [
+    {
+      "id": "chem9-c18-q1",
+      "question": "Which of the following does not fall under quantitative analysis?",
+      "options": {
+        "A": "Determining concentration",
+        "B": "Identifying the nature of a substance",
+        "C": "Measuring mass",
+        "D": "Calculating percentage composition"
+      },
+      "correctAnswer": "B",
+      "explanation": "Identifying the nature of a substance is qualitative, not quantitative."
+    },
+    {
+      "id": "chem9-c18-q2",
+      "question": "Ammonia gas is classified as which type of gas?",
+      "options": {
+        "A": "Acidic gas",
+        "B": "Basic gas",
+        "C": "Neutral gas",
+        "D": "Inert gas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ammonia is a basic gas with pH greater than 7."
+    },
+    {
+      "id": "chem9-c18-q3",
+      "question": "In the Haber process, ammonia is formed by reacting nitrogen with______.",
+      "options": {
+        "A": "Hydrogen",
+        "B": "Oxygen",
+        "C": "Carbon dioxide",
+        "D": "Sulphur dioxide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hydrogen gas reacts with nitrogen gas to form ammonia."
+    },
+    {
+      "id": "chem9-c18-q4",
+      "question": "What happens to lime water when CO₂ passes through it?",
+      "options": {
+        "A": "Turns red",
+        "B": "Turns milky",
+        "C": "Turns blue",
+        "D": "Becomes clear"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lime water becomes milky due to the formation of CaCO₃."
+    },
+    {
+      "id": "chem9-c18-q5",
+      "question": "The milky appearance in lime water confirms the formation of",
+      "options": {
+        "A": "Calcium chloride",
+        "B": "Calcium carbonate",
+        "C": "Calcium nitrate",
+        "D": "Calcium sulphate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Insoluble CaCO₃ produces the characteristic milky effect."
+    },
+    {
+      "id": "chem9-c18-q6",
+      "question": "What is the purpose of the U-shaped glass tube?",
+      "options": {
+        "A": "To store CO₂",
+        "B": "To heat the gas",
+        "C": "To remove impurities",
+        "D": "To transfer gas to lime water"
+      },
+      "correctAnswer": "D",
+      "explanation": "The U-tube directs CO₂ into the lime-water test tube."
+    },
+    {
+      "id": "chem9-c18-q7",
+      "question": "What type of test is lime- water turning milky for CO₂?",
+      "options": {
+        "A": "Preliminary test",
+        "B": "Chromatogra phic test",
+        "C": "Physical test",
+        "D": "Preliminary test"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lime-water test is a confirmatory test for CO₂ gas."
+    },
+    {
+      "id": "chem9-c18-q8",
+      "question": "Which type of litmus paper is used to detect chlorine gas in the laboratory?",
+      "options": {
+        "A": "Red litmus paper",
+        "B": "Blue litmus paper",
+        "C": "Dry litmus paper",
+        "D": "Phenolphthalei n paper"
+      },
+      "correctAnswer": "B",
+      "explanation": "Blue litmus is used because chlorine behaves as an acidic gas in moist conditions."
+    },
+    {
+      "id": "chem9-c18-q9",
+      "question": "The first observable colour change when chlorine gas contacts damp blue litmus paper is:",
+      "options": {
+        "A": "Blue to whi",
+        "B": "te      Blue to g",
+        "C": "reen        Blue",
+        "D": "to red       Red to"
+      },
+      "correctAnswer": "C",
+      "explanation": "Chlorine initially turns blue litmus red due to its acidic nature."
+    },
+    {
+      "id": "chem9-c18-q10",
+      "question": "The correct sequence of colour change observed on damp blue litmus paper exposed to chlorine gas is:",
+      "options": {
+        "A": "Blue → Whit → Red",
+        "B": "e       Blue → Re White",
+        "C": "d →        Red → Wh",
+        "D": "Blue →      Blue → G ite            → Whi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Acidic reaction occurs first, followed by bleaching"
+    },
+    {
+      "id": "chem9-c18-q11",
+      "question": "After turning red, the litmus paper eventually becomes white because chlorine gas:",
+      "options": {
+        "A": "Evaporates quickly",
+        "B": "Is a bas",
+        "C": "Is a r ic gas ag",
+        "D": "educing     Is a ble ent              age"
+      },
+      "correctAnswer": "D",
+      "explanation": "Chlorine bleaches the dye by oxidation."
+    },
+    {
+      "id": "chem9-c18-q12",
+      "question": "Hydrogen gas is prepared in the laboratory by reacting zinc metal with:",
+      "options": {
+        "A": "Hydrochlori acid",
+        "B": "c Nitric",
+        "C": "acid        Aceti",
+        "D": "c acid      Sulphuri"
+      },
+      "correctAnswer": "D",
+      "explanation": "Zinc reacts with dilute sulphuric acid to produce hydrogen gas."
+    },
+    {
+      "id": "chem9-c18-q13",
+      "question": "Hydrogen gas can be stored in an open inverted test tube because it:",
+      "options": {
+        "A": "Is heavier t air",
+        "B": "han     Is lighte ai",
+        "C": "r than     Is ins r",
+        "D": "oluble in Is non-r air"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hydrogen’s low density prevents it from escaping downward."
+    },
+    {
+      "id": "chem9-c18-q14",
+      "question": "The reason hydrogen does not go out of a vertically inverted test tube is due to its:",
+      "options": {
+        "A": "High pressu",
+        "B": "Chemic re inertn",
+        "C": "al Low d ess",
+        "D": "High ensity tempera"
+      },
+      "correctAnswer": "C",
+      "explanation": "Being lighter than air, hydrogen remains collected at the top."
+    },
+    {
+      "id": "chem9-c18-q15",
+      "question": "The container used for the preparation of hydrogen gas in this setup is called a:",
+      "options": {
+        "A": "Gas jar",
+        "B": "Conical",
+        "C": "Round- flask fl",
+        "D": "bottom Wolf bo ask"
+      },
+      "correctAnswer": "D",
+      "explanation": "A wolf bottle allows controlled gas generation."
+    },
+    {
+      "id": "chem9-c18-q16",
+      "question": "The test tube is placed vertically inverted over the tubing so that:",
+      "options": {
+        "A": "Hydrogen rises into",
+        "B": "Gas can it         cooled",
+        "C": "be         Pressu redu",
+        "D": "re is       Gas diss ced             in a"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hydrogen rises upward due to its low density."
+    },
+    {
+      "id": "chem9-c18-q17",
+      "question": "The chemical equation representing the preparation of hydrogen gas is:",
+      "options": {
+        "A": "Zn + HCl → ZnCl₂ + H₂",
+        "B": "Zn + H₂SO₄ → ZnSO₄ + H₂",
+        "C": "ZnO + H₂ → Zn + H₂O",
+        "D": "Zn + O₂ → ZnO"
+      },
+      "correctAnswer": "B",
+      "explanation": "Zinc displaces hydrogen from sulphuric acid."
+    },
+    {
+      "id": "chem9-c18-q18",
+      "question": "Oxygen gas is commonly detected in the laboratory by using a:",
+      "options": {
+        "A": "Burning splint",
+        "B": "Glowing splint",
+        "C": "Damp litmus paper",
+        "D": "Lighted candle"
+      },
+      "correctAnswer": "B",
+      "explanation": "Oxygen supports combustion and relights a glowing splint."
+    },
+    {
+      "id": "chem9-c18-q19",
+      "question": "The observation of bright burning of the splint indicates an increase in:",
+      "options": {
+        "A": "Temperature",
+        "B": "Pressure",
+        "C": "Gas density",
+        "D": "Rate of combustion"
+      },
+      "correctAnswer": "D",
+      "explanation": "Oxygen increases combustion rate."
+    },
+    {
+      "id": "chem9-c18-q20",
+      "question": "Hydrogen peroxide produces oxygen gas because it undergoes:",
+      "options": {
+        "A": "Combination reaction",
+        "B": "Displacement reaction",
+        "C": "Decompositi on reaction",
+        "D": "Neutralizatio n reaction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hydrogen peroxide breaks down to form oxygen."
+    },
+    {
+      "id": "chem9-c18-q21",
+      "question": "Sulphur dioxide gas is detected using potassium permanganate solution because SO₂ acts as a:",
+      "options": {
+        "A": "Oxidizing agent",
+        "B": "Neutral gas",
+        "C": "Reducing agent",
+        "D": "Catalyst"
+      },
+      "correctAnswer": "C",
+      "explanation": "SO₂ reduces KMnO₄, causing a colour change."
+    },
+    {
+      "id": "chem9-c18-q22",
+      "question": "The potassium permanganate solution used for detecting SO₂ is initiall",
+      "options": {
+        "A": "Colourless y:",
+        "B": "Bright purple",
+        "C": "Green",
+        "D": "Blue"
+      },
+      "correctAnswer": "B",
+      "explanation": "KMnO₄ has a characteristic purple colour."
+    },
+    {
+      "id": "chem9-c18-q23",
+      "question": "The presence of sulphur dioxide is confirmed when the KMnO₄ solution:",
+      "options": {
+        "A": "Turns green",
+        "B": "Turns red",
+        "C": "Forms bubbles",
+        "D": "Becomes colourless"
+      },
+      "correctAnswer": "D",
+      "explanation": "Purple colour disappears due to the reduction of KMnO₄."
+    },
+    {
+      "id": "chem9-c18-q24",
+      "question": "The disappearance of the purple colour during the test indicates which type of chemical change?",
+      "options": {
+        "A": "Neutralization reaction",
+        "B": "Precipitatio reaction",
+        "C": "n Redox reactio",
+        "D": "Decomposition n reaction"
+      },
+      "correctAnswer": "C",
+      "explanation": "The colour change results from electron transfer between SO₂ and KMnO₄. Topic# 18.2 25. The upper part of a Bunsen Luminous burner flame is known as Oxidizing flame Reducing flame Neutral flame ○ ○ ○ ○ flame which type of flame? Answer: (A) Oxidizing flame"
+    },
+    {
+      "id": "chem9-c18-q25",
+      "question": "The upper part of a Bunsen burner flame is known as which type of flame?",
+      "options": {
+        "A": "Oxidizing flam",
+        "B": "e     Reducing fl",
+        "C": "ame    Neutral fl",
+        "D": "Luminous ame flame"
+      },
+      "correctAnswer": "A",
+      "explanation": "The upper part has excess oxygen, so it acts as an oxidizing flame"
+    },
+    {
+      "id": "chem9-c18-q26",
+      "question": "Flame tests are mainly useful for identifying which group of elements?",
+      "options": {
+        "A": "Transition metals",
+        "B": "Noble gase",
+        "C": "Alkali a s      alkaline e metals",
+        "D": "nd arth       Halogens"
+      },
+      "correctAnswer": "C",
+      "explanation": "These metals have low ionization energy and show clear flame colours"
+    },
+    {
+      "id": "chem9-c18-q27",
+      "question": "Flame colour is produced when electrons return to which state?",
+      "options": {
+        "A": "Ionized stat",
+        "B": "e      Excited st",
+        "C": "ate        Ground",
+        "D": "Metastable state state"
+      },
+      "correctAnswer": "C",
+      "explanation": "Emission occurs when electrons fall back to ground state"
+    },
+    {
+      "id": "chem9-c18-q28",
+      "question": "The golden yellow colour in the flame test indicates the presence of which metal ion?",
+      "options": {
+        "A": "Potassium",
+        "B": "Sodium",
+        "C": "Lithium",
+        "D": "Cesium"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sodium ions produce an intense golden yellow flame"
+    },
+    {
+      "id": "chem9-c18-q29",
+      "question": "Strong crimson red flame colour is characteristic of which metal?",
+      "options": {
+        "A": "Lithium",
+        "B": "Potassium",
+        "C": "Barium",
+        "D": "Copper"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lithium ions emit crimson red light in flame"
+    },
+    {
+      "id": "chem9-c18-q30",
+      "question": "Which material is most suitable for making the wire loop used in flame tests?",
+      "options": {
+        "A": "Iron",
+        "B": "Copper",
+        "C": "Aluminium",
+        "D": "Platinum"
+      },
+      "correctAnswer": "D",
+      "explanation": "Platinum is non-reactive and does not affect flame colour"
+    },
+    {
+      "id": "chem9-c18-q31",
+      "question": "The heat of the flame supplies energy required for:",
+      "options": {
+        "A": "Nuclear reactions",
+        "B": "Chemical bonding",
+        "C": "Elec excit",
+        "D": "tron Atomic fusi ation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Thermal energy excites valence electrons"
+    }
+  ]
+}

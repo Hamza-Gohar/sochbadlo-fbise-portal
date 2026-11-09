@@ -1,0 +1,490 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 1,
+  "chapterTitle": "Unit 01: Nature of Science of Chemistry & Laboratory Safety",
+  "slug": "chemistry-9-chapter-1",
+  "description": "Introduction to chemistry, scientific inquiry, green chemistry principles, major branches (organic, inorganic, physical, analytical, biochemistry), and laboratory safety.",
+  "totalQuestions": 40,
+  "questions": [
+    {
+      "id": "chem9-c1-q1",
+      "question": "Chemistry is best defined as the science that studies:",
+      "options": {
+        "A": "Living organisms",
+        "B": "Earth materials",
+        "C": "Matter and its changes",
+        "D": "Celestial bodies"
+      },
+      "correctAnswer": "C",
+      "explanation": "Chemistry investigates the materials of the universe and the changes they undergo"
+    },
+    {
+      "id": "chem9-c1-q2",
+      "question": "Chemistry mainly deals with the composition, structure, properties, and behaviour of:",
+      "options": {
+        "A": "Energy only",
+        "B": "Matter and energy",
+        "C": "Living cells",
+        "D": "Planets"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chemistry focuses on understanding both matter and energy and their interactions"
+    },
+    {
+      "id": "chem9-c1-q3",
+      "question": "Green chemistry focuses on:",
+      "options": {
+        "A": "Increasing chemical waste",
+        "B": "Using hazardous substances",
+        "C": "Reducing harmful chemicals",
+        "D": "Slowing reactions"
+      },
+      "correctAnswer": "C",
+      "explanation": "Green chemistry aims to minimize the use and generation of hazardous substances"
+    },
+    {
+      "id": "chem9-c1-q4",
+      "question": "The branch of chemistry that studies carbon compounds except carbonates and oxides is:",
+      "options": {
+        "A": "Inorganic Chemistry",
+        "B": "Organic Chemistry",
+        "C": "Physical Chemistry",
+        "D": "Environmental Chemistry"
+      },
+      "correctAnswer": "B",
+      "explanation": "Organic chemistry deals with carbon-containing compounds excluding carbonates, oxides, and carbides"
+    },
+    {
+      "id": "chem9-c1-q5",
+      "question": "The study of elements and their compounds other than organic compounds is called:",
+      "options": {
+        "A": "Organic Chemistry",
+        "B": "Analytical Chemistry",
+        "C": "Inorganic Chemistry",
+        "D": "Biochemistry"
+      },
+      "correctAnswer": "C",
+      "explanation": "Inorganic chemistry focuses on elements and non-organic compounds"
+    },
+    {
+      "id": "chem9-c1-q6",
+      "question": "The branch concerned with identifying the composition of substances is:",
+      "options": {
+        "A": "Biochemistry",
+        "B": "Analytical Chemistry",
+        "C": "Organic Chemistry",
+        "D": "Astrochemistry"
+      },
+      "correctAnswer": "B",
+      "explanation": "Analytical chemistry uses methods and instruments to determine composition and properties"
+    },
+    {
+      "id": "chem9-c1-q7",
+      "question": "Chemical processes occurring inside living organisms are studied in:",
+      "options": {
+        "A": "Environmental Chemistry",
+        "B": "Medicinal Chemistry",
+        "C": "Biochemistry",
+        "D": "Nuclear Chemistry"
+      },
+      "correctAnswer": "C",
+      "explanation": "Biochemistry deals with chemical and physical changes in living systems"
+    },
+    {
+      "id": "chem9-c1-q8",
+      "question": "The study of pollutants and their harmful effects on the environment belongs to:",
+      "options": {
+        "A": "Industrial Chemistry",
+        "B": "Environmental Chemistry",
+        "C": "Geochemistry",
+        "D": "Astrochemistry"
+      },
+      "correctAnswer": "B",
+      "explanation": "Environmental chemistry focuses on toxic substances and their environmental impact"
+    },
+    {
+      "id": "chem9-c1-q9",
+      "question": "Large-scale manufacture of chemicals is the subject of:",
+      "options": {
+        "A": "Analytical Chemistry",
+        "B": "Polymer Chemistry",
+        "C": "Industrial Chemistry",
+        "D": "Physical Chemistry"
+      },
+      "correctAnswer": "C",
+      "explanation": "Industrial chemistry deals with mass production of chemical substances"
+    },
+    {
+      "id": "chem9-c1-q10",
+      "question": "Plastic bags and Teflon cookware are examples related to:",
+      "options": {
+        "A": "Nuclear Chemistry",
+        "B": "Geochemistry",
+        "C": "Polymer Chemistry",
+        "D": "Analytical Chemistry"
+      },
+      "correctAnswer": "C",
+      "explanation": "These materials are synthetic polymers studied in polymer chemistry"
+    },
+    {
+      "id": "chem9-c1-q11",
+      "question": "Chemical reactions occurring in stars and interstellar spa are studied in:",
+      "options": {
+        "A": "Astrochemistr ce y",
+        "B": "Geochemistry",
+        "C": "Environmental Chemistry",
+        "D": "Industrial Chemistry"
+      },
+      "correctAnswer": "A",
+      "explanation": "Astrochemistry deals with chemical processes in astronomical environments"
+    },
+    {
+      "id": "chem9-c1-q12",
+      "question": "Which branch is most suitable for studying drug design and development:",
+      "options": {
+        "A": "Polymer Chemistry",
+        "B": "Medicinal Chemistry",
+        "C": "Biochemistry",
+        "D": "Analytical Chemistry"
+      },
+      "correctAnswer": "B",
+      "explanation": "Medicinal chemistry is central to designing and developing new drugs"
+    },
+    {
+      "id": "chem9-c1-q13",
+      "question": "The branch that best explains chemical principles using mathematical laws is:",
+      "options": {
+        "A": "Physical Chemistry",
+        "B": "Organic Chemistry",
+        "C": "Environmental Chemistry",
+        "D": "Industrial Chemistry"
+      },
+      "correctAnswer": "A",
+      "explanation": "Physical chemistry applies mathematical laws to explain chemical behaviour"
+    },
+    {
+      "id": "chem9-c1-q14",
+      "question": "The synthesis of medicines that interact with enzymes is an application of:",
+      "options": {
+        "A": "Inorganic Chemistry",
+        "B": "Physical Chemistry",
+        "C": "Analytical Chemistry",
+        "D": "Organic Chemistry"
+      },
+      "correctAnswer": "D",
+      "explanation": "Organic chemistry is used to design and synthesize medicines for disease treatment Organic Inorganic Environment 15. Lithium-ion batteries are Biochemistry ○ ○ ○ ○ Chemistry Chemistry al Chemistry an application of: Answer: (C) Environmental Chemistry"
+    },
+    {
+      "id": "chem9-c1-q15",
+      "question": "Lithium-ion batteries are an application of:",
+      "options": {
+        "A": "Organic Chemistry",
+        "B": "Inorganic Chemistry",
+        "C": "Environment al Chemistry",
+        "D": "Biochemistry"
+      },
+      "correctAnswer": "C",
+      "explanation": "Inorganic chemistry is involved in the materials used in Li-ion batteries"
+    },
+    {
+      "id": "chem9-c1-q16",
+      "question": "The chemical analysis of crime scene evidence belongs to:",
+      "options": {
+        "A": "Physical Chemistry",
+        "B": "Environmental Chemistry",
+        "C": "Analytical Chemistry",
+        "D": "Polymer Chemistry"
+      },
+      "correctAnswer": "C",
+      "explanation": "Analytical chemistry is used in forensic investigations to analyse evidence"
+    },
+    {
+      "id": "chem9-c1-q17",
+      "question": "The study of batteries in vehicles is based on principles of:",
+      "options": {
+        "A": "Thermochemi stry",
+        "B": "Electrochemis try",
+        "C": "Nuclear chemistry",
+        "D": "Polymer chemistry"
+      },
+      "correctAnswer": "B",
+      "explanation": "Physical chemistry explains battery function through electrochemical principles"
+    },
+    {
+      "id": "chem9-c1-q18",
+      "question": "Vehicle batteries converting chemical energy into electrical energy involve:",
+      "options": {
+        "A": "Physical Chemistry",
+        "B": "Organic Chemistry",
+        "C": "Thermochemi stry",
+        "D": "Electrochemistr y"
+      },
+      "correctAnswer": "A",
+      "explanation": "Physical chemistry explains energy conversion in batteries"
+    },
+    {
+      "id": "chem9-c1-q19",
+      "question": "Disinfection of contaminated water is an application of:",
+      "options": {
+        "A": "Biochemistry",
+        "B": "Environmental Chemistry",
+        "C": "Physical Chemistry",
+        "D": "Industrial Chemistry"
+      },
+      "correctAnswer": "B",
+      "explanation": "Environmental chemistry helps protect water quality through treatment processes"
+    },
+    {
+      "id": "chem9-c1-q20",
+      "question": "Rechargeable batteries used in headphones and toys are examples of:",
+      "options": {
+        "A": "Nuclear chemistry",
+        "B": "Inorganic chemistry",
+        "C": "Biochemistry",
+        "D": "Astrochemistry"
+      },
+      "correctAnswer": "A",
+      "explanation": "Inorganic chemistry provides materials for rechargeable battery systems"
+    },
+    {
+      "id": "chem9-c1-q21",
+      "question": "Studying chemical reactions helps chemists understand:",
+      "options": {
+        "A": "Costs",
+        "B": "Matter behaviour",
+        "C": "Marketing",
+        "D": "Production"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chemical reactions explain how matter behaves and changes under different conditions"
+    },
+    {
+      "id": "chem9-c1-q22",
+      "question": "Which field combines science and math to design systems and tools:",
+      "options": {
+        "A": "Engineering",
+        "B": "Chemistry",
+        "C": "Technology",
+        "D": "Biology"
+      },
+      "correctAnswer": "A",
+      "explanation": "Engineering uses science and mathematics for designing practical systems Detergents, Only 23. Which of the following is a None of the product of technology in medicines, mathematical History books above ○ ○ ○ ○ fuels formulas chemistry? Answer: (A) Detergents, medicines, fuels"
+    },
+    {
+      "id": "chem9-c1-q23",
+      "question": "Which of the following is a product of technology in chemistry?",
+      "options": {
+        "A": "Detergents medicines, fuels",
+        "B": ",       Only mathematical formulas",
+        "C": "History books",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Technology allows the creation and improvement of chemical products"
+    },
+    {
+      "id": "chem9-c1-q24",
+      "question": "Technology helps chemists by:",
+      "options": {
+        "A": "Writing poetry",
+        "B": "Making analysis",
+        "C": "Ignoring experiments",
+        "D": "Learning history"
+      },
+      "correctAnswer": "B",
+      "explanation": "Technology enhances speed and accuracy in chemical analysis"
+    },
+    {
+      "id": "chem9-c1-q25",
+      "question": "The systematic process of constructing and organizing knowledge is called:",
+      "options": {
+        "A": "Technology",
+        "B": "Science",
+        "C": "Engineering",
+        "D": "Art"
+      },
+      "correctAnswer": "B",
+      "explanation": "Science systematically builds knowledge about the universe"
+    },
+    {
+      "id": "chem9-c1-q26",
+      "question": "Tools, machines, and systems are primarily associated with",
+      "options": {
+        "A": "Science :",
+        "B": "Technology",
+        "C": "Engineering",
+        "D": "Chemistry theory"
+      },
+      "correctAnswer": "B",
+      "explanation": "Technology creates practical tools and systems"
+    },
+    {
+      "id": "chem9-c1-q27",
+      "question": "What role does technology play in chemical industries?",
+      "options": {
+        "A": "Helps improve quality and efficiency",
+        "B": "Makes experiments easier",
+        "C": "Replaces science entirely",
+        "D": "Produces fuel"
+      },
+      "correctAnswer": "A",
+      "explanation": "Technology improves research, analysis, and product quality"
+    },
+    {
+      "id": "chem9-c1-q28",
+      "question": "Identify the field: Uses scientific knowledge to solve practical problems",
+      "options": {
+        "A": "Engineering",
+        "B": "Technology",
+        "C": "Science",
+        "D": "Philosophy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Technology applies science to create solutions"
+    },
+    {
+      "id": "chem9-c1-q29",
+      "question": "Which field uses science and mathematics to design systems and structures:",
+      "options": {
+        "A": "Philosophy",
+        "B": "History",
+        "C": "Literature",
+        "D": "Engineering"
+      },
+      "correctAnswer": "D",
+      "explanation": "Engineering applies science and math to design tools and systems"
+    },
+    {
+      "id": "chem9-c1-q30",
+      "question": "Science is primarily a proces to:",
+      "options": {
+        "A": "Apply s machines",
+        "B": "Understand natural world",
+        "C": "Build structures",
+        "D": "Make food"
+      },
+      "correctAnswer": "B",
+      "explanation": "Science seeks to understand the natural world systematically"
+    },
+    {
+      "id": "chem9-c1-q31",
+      "question": "Investigating rust on a bike involves studying the reaction between:",
+      "options": {
+        "A": "Iron, water, and oxygen",
+        "B": "Iron, oil, sunlight",
+        "C": "Water, and carbon, and oxygen",
+        "D": "Iron, nitrogen, and water"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rust forms when iron reacts with water and oxygen"
+    },
+    {
+      "id": "chem9-c1-q32",
+      "question": "Which of the following roles does a scientist play in preventing rust:",
+      "options": {
+        "A": "Designing bik frames",
+        "B": "Investigati e chemical reactions",
+        "C": "ng Selling anti rust paint",
+        "D": "-    Constructing garages"
+      },
+      "correctAnswer": "B",
+      "explanation": "Scientists study reactions to understand and prevent rust formation"
+    },
+    {
+      "id": "chem9-c1-q33",
+      "question": "Engineering contributes to rust prevention by:",
+      "options": {
+        "A": "Building protectiv structure",
+        "B": "Studying ir e properties s",
+        "C": "Analysing on chemical reactions",
+        "D": "Writing reports"
+      },
+      "correctAnswer": "A",
+      "explanation": "Engineers design structures and systems to prevent rust."
+    },
+    {
+      "id": "chem9-c1-q34",
+      "question": "Which engineer design wiring for a solar power plant:",
+      "options": {
+        "A": "Civil enginee",
+        "B": "Electrica r engineer",
+        "C": "l      Chemical engineer",
+        "D": "Mechanical engineer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Electrical engineers handle wiring and connections for energy systems"
+    },
+    {
+      "id": "chem9-c1-q35",
+      "question": "Mechanical engineers in water filtration:",
+      "options": {
+        "A": "Study chemical reactions",
+        "B": "Design physical components",
+        "C": "Extract oil",
+        "D": "Analyse carbohydrates"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mechanical engineers handle structural and physical design"
+    },
+    {
+      "id": "chem9-c1-q36",
+      "question": "Plastic bags are made from:",
+      "options": {
+        "A": "Carbohydrates",
+        "B": "Metal",
+        "C": "Water",
+        "D": "Polymers"
+      },
+      "correctAnswer": "D",
+      "explanation": "Polymers like polyethylene form the material for plastic bags"
+    },
+    {
+      "id": "chem9-c1-q37",
+      "question": "Engineers and technicians use polymers to make bags that are:",
+      "options": {
+        "A": "Fragile and weak",
+        "B": "Edible",
+        "C": "Durable and flexible",
+        "D": "Rust-prone"
+      },
+      "correctAnswer": "C",
+      "explanation": "Engineering ensures plastic bags are practical for daily use"
+    },
+    {
+      "id": "chem9-c1-q38",
+      "question": "Which of the following processes demonstrates applied chemistry in daily life?",
+      "options": {
+        "A": "Rust formation",
+        "B": "Water filtratio",
+        "C": "Solar panel n       wiring",
+        "D": "Civil construction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Filtration uses chemical principles to clean water"
+    },
+    {
+      "id": "chem9-c1-q39",
+      "question": "Organic molecules in frying oil are mainly:",
+      "options": {
+        "A": "Carbohydrates",
+        "B": "Metals",
+        "C": "Water",
+        "D": "Polymers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carbohydrates are the primary organic molecules in oil for frying"
+    },
+    {
+      "id": "chem9-c1-q40",
+      "question": "Which engineer ensures safe large-scale production",
+      "options": {
+        "A": "Chemical engineer",
+        "B": "Electrical engineer",
+        "C": "Mechanical engineer",
+        "D": "Civil engineer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chemical engineers design processes to ensure efficiency and safety"
+    }
+  ]
+}

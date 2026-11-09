@@ -1,0 +1,154 @@
+{
+  "subject": "chemistry-9",
+  "chapterNumber": 20,
+  "chapterTitle": "Federal Board Annual Exam Simulator 01 (Ch 1–3)",
+  "slug": "chemistry-9-model-paper-1",
+  "description": "Authentic 12-mark Section A Federal Board examination simulator covering Nature of Science, Matter, and Atomic Structure by Lecturer Ayesha Amjad.",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "id": "chem9-p1-q1",
+      "question": "The branch of chemistry concerned with the large-scale production of useful substances is:",
+      "options": {
+        "A": "Biochemistry",
+        "B": "Environmental Chemistry",
+        "C": "Analytical Chemistry",
+        "D": "Industrial Chemistry"
+      },
+      "correctAnswer": "D",
+      "explanation": "Industrial chemistry is the branch of chemistry that applies physical and chemical processes toward the transformation of raw materials into products that are of benefit to humanity."
+    },
+    {
+      "id": "chem9-p1-q2",
+      "question": "Which one of the following can be chemically broken down into simpler substances?",
+      "options": {
+        "A": "Ammonia",
+        "B": "Oxygen",
+        "C": "Sulphur",
+        "D": "Iron filings"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ammonia (NH3) is a chemical compound composed of nitrogen and hydrogen and can be decomposed into its elements, whereas oxygen, sulphur, and iron are elements."
+    },
+    {
+      "id": "chem9-p1-q3",
+      "question": "Why is the proton number unique to each element and used to arrange elements in the modern periodic table?",
+      "options": {
+        "A": "Protons determine the mass of the element",
+        "B": "Protons define the atomic number of the element",
+        "C": "Protons indicate the number of neutrons in the nucleus",
+        "D": "Protons indicate the number of electrons in the atom"
+      },
+      "correctAnswer": "B",
+      "explanation": "Every chemical element has a characteristic, fixed number of protons in its nucleus, known as its atomic number (Z), which uniquely defines its chemical identity."
+    },
+    {
+      "id": "chem9-p1-q4",
+      "question": "Crystallization will spontaneously occur in which of the following solutions upon slight cooling or disturbance?",
+      "options": {
+        "A": "Dilute solution",
+        "B": "Supersaturated solution",
+        "C": "Unsaturated solution",
+        "D": "Saturated solution"
+      },
+      "correctAnswer": "B",
+      "explanation": "A supersaturated solution holds more dissolved solute than a saturated solution at the given temperature; it is metastable and crystallizes readily."
+    },
+    {
+      "id": "chem9-p1-q5",
+      "question": "The total number of orbitals in the third energy level (M-shell, n = 3) is:",
+      "options": {
+        "A": "1",
+        "B": "3",
+        "C": "4",
+        "D": "9"
+      },
+      "correctAnswer": "D",
+      "explanation": "The total number of orbitals in any principal quantum shell is given by n². For M shell (n = 3), n² = 3² = 9 orbitals (one 3s, three 3p, and five 3d orbitals)."
+    },
+    {
+      "id": "chem9-p1-q6",
+      "question": "Which radioisotope of uranium is primarily used as fuel in commercial nuclear power plants?",
+      "options": {
+        "A": "U-238",
+        "B": "U-234",
+        "C": "U-235",
+        "D": "Both A and B"
+      },
+      "correctAnswer": "C",
+      "explanation": "Uranium-235 (U-235) undergoes induced nuclear fission when struck by thermal neutrons, releasing tremendous thermal energy used in power reactors."
+    },
+    {
+      "id": "chem9-p1-q7",
+      "question": "In his pioneering gold foil experiment, Ernest Rutherford used which type of particles:",
+      "options": {
+        "A": "He⁺ ions",
+        "B": "He²⁺ ions (alpha particles)",
+        "C": "Helium nuclei",
+        "D": "Both B and C"
+      },
+      "correctAnswer": "D",
+      "explanation": "Alpha particles are doubly ionized helium atoms (He²⁺) consisting of 2 protons and 2 neutrons, which are identical to helium nuclei."
+    },
+    {
+      "id": "chem9-p1-q8",
+      "question": "The rest mass of an electron in SI units is approximately:",
+      "options": {
+        "A": "1.6726 × 10⁻²⁷ kg",
+        "B": "9.11 × 10⁻³¹ kg",
+        "C": "1.6726 × 10⁻²⁷ g",
+        "D": "9.11 × 10⁻²⁸ g"
+      },
+      "correctAnswer": "B",
+      "explanation": "The rest mass of an electron is 9.10938 × 10⁻³¹ kg (or 9.11 × 10⁻²⁸ g)."
+    },
+    {
+      "id": "chem9-p1-q9",
+      "question": "The statement “it is impossible to determine simultaneously both the position and momentum of an electron with absolute precision” is known as:",
+      "options": {
+        "A": "Louis de Broglie hypothesis",
+        "B": "Davisson-Germer theorem",
+        "C": "Bohr atomic postulate",
+        "D": "Heisenberg uncertainty principle"
+      },
+      "correctAnswer": "D",
+      "explanation": "Werner Heisenberg formulated the uncertainty principle in 1927: Δx · Δp ≥ h / (4π)."
+    },
+    {
+      "id": "chem9-p1-q10",
+      "question": "The density of pure liquid water at standard laboratory temperature (4°C) is approximately:",
+      "options": {
+        "A": "0.997 g/cm³",
+        "B": "1.997 g/cm³",
+        "C": "1.1044 g/cm³",
+        "D": "0.1044 g/cm³"
+      },
+      "correctAnswer": "A",
+      "explanation": "At 4°C water reaches its maximum density of 1.000 g/cm³, and around room temperature (25°C) its density is 0.997 g/cm³."
+    },
+    {
+      "id": "chem9-p1-q11",
+      "question": "The second principal shell (L shell, n = 2) consists of which subshells:",
+      "options": {
+        "A": "1s only",
+        "B": "2s and 2p",
+        "C": "2s, 2p, and 2d",
+        "D": "2p only"
+      },
+      "correctAnswer": "B",
+      "explanation": "For n = 2, the azimuthal quantum number l can have values 0 and 1, corresponding to the 2s and 2p subshells."
+    },
+    {
+      "id": "chem9-p1-q12",
+      "question": "A subshell that can accommodate a maximum of 6 electrons is designated as:",
+      "options": {
+        "A": "s subshell",
+        "B": "p subshell",
+        "C": "d subshell",
+        "D": "f subshell"
+      },
+      "correctAnswer": "B",
+      "explanation": "The maximum electron capacity of a subshell is 2(2l + 1). For p subshell (l = 1), maximum capacity is 2(2·1 + 1) = 6 electrons."
+    }
+  ]
+}
