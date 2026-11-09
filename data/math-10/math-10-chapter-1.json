@@ -1,0 +1,309 @@
+{
+  "chapterNumber": 1,
+  "chapterTitle": "Unit 01: Quadratic Equations",
+  "totalQuestions": 25,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The standard form of a quadratic equation in one variable x is:",
+      "options": {
+        "A": "bx + c = 0",
+        "B": "ax² + bx + c = 0, where a ≠ 0",
+        "C": "ax² = bx",
+        "D": "ax² = 0"
+      },
+      "correctAnswer": "B",
+      "explanation": "The general (or standard) form of a quadratic equation is ax² + bx + c = 0, where a, b, c ∈ ℝ and the leading coefficient a ≠ 0 so the degree remains 2."
+    },
+    {
+      "id": 2,
+      "question": "The number of terms in the standard quadratic equation ax² + bx + c = 0 is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "C",
+      "explanation": "A complete standard quadratic equation contains three distinct terms: the quadratic term (ax²), the linear term (bx), and the constant term (c)."
+    },
+    {
+      "id": 3,
+      "question": "If b = 0 in the quadratic equation ax² + bx + c = 0, then it is called a/an:",
+      "options": {
+        "A": "Pure quadratic equation",
+        "B": "Linear equation",
+        "C": "Reciprocal equation",
+        "D": "Exponential equation"
+      },
+      "correctAnswer": "A",
+      "explanation": "When the linear term coefficient b = 0, the equation reduces to ax² + c = 0, which is known as a pure quadratic equation (e.g., x² - 16 = 0)."
+    },
+    {
+      "id": 4,
+      "question": "If a = 0 in ax² + bx + c = 0, then the equation reduces to a:",
+      "options": {
+        "A": "Pure quadratic equation",
+        "B": "Linear equation",
+        "C": "Cubic equation",
+        "D": "Radical equation"
+      },
+      "correctAnswer": "B",
+      "explanation": "If the leading coefficient a = 0, the quadratic term ax² vanishes, leaving bx + c = 0, which is a first-degree (linear) equation."
+    },
+    {
+      "id": 5,
+      "question": "How many basic algebraic methods are used to solve a quadratic equation?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "C",
+      "explanation": "There are three primary algebraic methods taught in FBISE Class 10: (1) Factorization, (2) Completing the square, and (3) The Quadratic Formula."
+    },
+    {
+      "id": 6,
+      "question": "The quadratic formula for solving ax² + bx + c = 0 (a ≠ 0) is:",
+      "options": {
+        "A": "x = (-b ± √(b² - 4ac)) / (2a)",
+        "B": "x = (b ± √(b² - 4ac)) / (2a)",
+        "C": "x = (-b ± √(b² + 4ac)) / (2a)",
+        "D": "x = (-b ± √(b² - 4ac)) / a"
+      },
+      "correctAnswer": "A",
+      "explanation": "Derived by completing the square on ax² + bx + c = 0, the universal quadratic formula is x = (-b ± √(b² - 4ac)) / (2a)."
+    },
+    {
+      "id": 7,
+      "question": "The two linear factors of x² - 15x + 56 = 0 are:",
+      "options": {
+        "A": "(x - 7)(x + 8)",
+        "B": "(x + 7)(x - 8)",
+        "C": "(x - 7)(x - 8)",
+        "D": "(x + 7)(x + 8)"
+      },
+      "correctAnswer": "C",
+      "explanation": "We seek two numbers whose product is +56 and sum is -15. These numbers are -7 and -8. Hence x² - 7x - 8x + 56 = (x - 7)(x - 8) = 0."
+    },
+    {
+      "id": 8,
+      "question": "The solution set of the equation x² - 7x + 6 = 0 is:",
+      "options": {
+        "A": "{1, 6}",
+        "B": "{-1, -6}",
+        "C": "{-1, 6}",
+        "D": "{1, -6}"
+      },
+      "correctAnswer": "A",
+      "explanation": "Factoring x² - 7x + 6 gives (x - 1)(x - 6) = 0, which yields x = 1 or x = 6. Thus the solution set is {1, 6}."
+    },
+    {
+      "id": 9,
+      "question": "What are the solutions of the equation x² - 8x + 15 = 0?",
+      "options": {
+        "A": "x = 1 or x = -7",
+        "B": "x = 2 or x = 4",
+        "C": "x = -3 or x = -5",
+        "D": "x = 3 or x = 5"
+      },
+      "correctAnswer": "D",
+      "explanation": "Factoring x² - 8x + 15 = 0 gives (x - 3)(x - 5) = 0, yielding x = 3 and x = 5."
+    },
+    {
+      "id": 10,
+      "question": "The solutions of the quadratic equation x² + 7x - 18 = 0 are:",
+      "options": {
+        "A": "2 or 9",
+        "B": "-2 or 9",
+        "C": "2 or -9",
+        "D": "-2 or -9"
+      },
+      "correctAnswer": "C",
+      "explanation": "Factoring x² + 9x - 2x - 18 = 0 gives (x + 9)(x - 2) = 0. Therefore x = 2 or x = -9."
+    },
+    {
+      "id": 11,
+      "question": "If x² - 3x - 4 = 0, then the roots are:",
+      "options": {
+        "A": "x = 4, -1",
+        "B": "x = -4, 1",
+        "C": "x = 4, 1",
+        "D": "x = -4, -1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Factorization gives (x - 4)(x + 1) = 0, which produces roots x = 4 and x = -1."
+    },
+    {
+      "id": 12,
+      "question": "An equation which remains unchanged when x is replaced by 1/x is called a/an:",
+      "options": {
+        "A": "Exponential equation",
+        "B": "Reciprocal equation",
+        "C": "Radical equation",
+        "D": "Logarithmic equation"
+      },
+      "correctAnswer": "B",
+      "explanation": "By definition, a reciprocal equation satisfies f(1/x) = f(x). For example, 2x⁴ - 5x³ + 6x² - 5x + 2 = 0 is a reciprocal equation."
+    },
+    {
+      "id": 13,
+      "question": "An equation in which variable occurs in exponents is called a/an:",
+      "options": {
+        "A": "Exponential equation",
+        "B": "Reciprocal equation",
+        "C": "Radical equation",
+        "D": "Quadratic equation"
+      },
+      "correctAnswer": "A",
+      "explanation": "An equation having the unknown variable as an index/power (e.g., 5^(1+x) + 5^(1-x) = 26) is called an exponential equation."
+    },
+    {
+      "id": 14,
+      "question": "An equation involving expressions of the variable under a radical sign (√) is called a/an:",
+      "options": {
+        "A": "Pure quadratic equation",
+        "B": "Exponential equation",
+        "C": "Radical equation",
+        "D": "Reciprocal equation"
+      },
+      "correctAnswer": "C",
+      "explanation": "An equation containing the variable under a square root or radical sign is defined as a radical equation (e.g., √(x + 3) = 2x - 1)."
+    },
+    {
+      "id": 15,
+      "question": "A root obtained by solving an equation that does not satisfy the original equation is called a/an:",
+      "options": {
+        "A": "Extraneous root",
+        "B": "Real root",
+        "C": "Imaginary root",
+        "D": "Repeated root"
+      },
+      "correctAnswer": "A",
+      "explanation": "Squaring both sides of radical equations may introduce extraneous roots—values that satisfy the transformed equation but fail in the original."
+    },
+    {
+      "id": 16,
+      "question": "In the standard quadratic equation ax² + bx + c = 0, the coefficients a, b, c belong to the set of:",
+      "options": {
+        "A": "Irrational numbers only",
+        "B": "Rational numbers only",
+        "C": "Real numbers (ℝ)",
+        "D": "Whole numbers only"
+      },
+      "correctAnswer": "C",
+      "explanation": "In standard polynomial theory over real numbers, coefficients a, b, c are real numbers (ℝ) with the restriction a ≠ 0."
+    },
+    {
+      "id": 17,
+      "question": "The solution set of (x - 2)² = 4 is:",
+      "options": {
+        "A": "{0, 4}",
+        "B": "{2, -2}",
+        "C": "{0, -4}",
+        "D": "{4, -4}"
+      },
+      "correctAnswer": "A",
+      "explanation": "Taking the square root: x - 2 = ±2. Thus x = 2 + 2 = 4 or x = 2 - 2 = 0. The solution set is {0, 4}."
+    },
+    {
+      "id": 18,
+      "question": "To complete the square for x² + 6x, we must add the constant:",
+      "options": {
+        "A": "3",
+        "B": "6",
+        "C": "9",
+        "D": "12"
+      },
+      "correctAnswer": "C",
+      "explanation": "The term to add is (half of coefficient of x)² = (6/2)² = 3² = 9, creating the perfect square (x + 3)²."
+    },
+    {
+      "id": 19,
+      "question": "The degree of a quadratic equation is always:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "B",
+      "explanation": "A quadratic equation is a second-degree polynomial equation in a single variable; the highest exponent of x is 2."
+    },
+    {
+      "id": 20,
+      "question": "The roots of the pure quadratic equation 4x² - 25 = 0 are:",
+      "options": {
+        "A": "± 5/2",
+        "B": "± 2/5",
+        "C": "± 25/4",
+        "D": "± 5"
+      },
+      "correctAnswer": "A",
+      "explanation": "4x² = 25 ⟹ x² = 25/4 ⟹ x = ±√(25/4) = ± 5/2."
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is a reciprocal equation?",
+      "options": {
+        "A": "x⁴ - 3x³ + 2x² - 3x + 1 = 0",
+        "B": "3^(2x) - 10·3^x + 9 = 0",
+        "C": "√(x + 1) + √(x - 2) = 5",
+        "D": "x² + 5x + 6 = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "x⁴ - 3x³ + 2x² - 3x + 1 = 0 has symmetric coefficients [1, -3, 2, -3, 1], meaning replacing x with 1/x returns the same equation multiplied by x⁴."
+    },
+    {
+      "id": 22,
+      "question": "The solution set of 5^(1+x) + 5^(1-x) = 26 is:",
+      "options": {
+        "A": "{1, -1}",
+        "B": "{0, 1}",
+        "C": "{5, 1/5}",
+        "D": "{2, -2}"
+      },
+      "correctAnswer": "A",
+      "explanation": "Let 5^x = y. Then 5y + 5/y = 26 ⟹ 5y² - 26y + 5 = 0 ⟹ (5y - 1)(y - 5) = 0 ⟹ y = 5 or y = 1/5. Thus 5^x = 5¹ ⟹ x = 1, and 5^x = 5⁻¹ ⟹ x = -1."
+    },
+    {
+      "id": 23,
+      "question": "How many roots does any quadratic equation have in the complex number system?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "Infinitely many"
+      },
+      "correctAnswer": "B",
+      "explanation": "By the Fundamental Theorem of Algebra, a polynomial equation of degree 2 always possesses exactly 2 roots (which may be real and distinct, real and equal, or complex conjugates)."
+    },
+    {
+      "id": 24,
+      "question": "The solution set of x(x + 7) = 0 is:",
+      "options": {
+        "A": "{0, 7}",
+        "B": "{0, -7}",
+        "C": "{-7}",
+        "D": "{7}"
+      },
+      "correctAnswer": "B",
+      "explanation": "Setting each factor to zero: x = 0 or x + 7 = 0 ⟹ x = -7. Thus the solution set is {0, -7}."
+    },
+    {
+      "id": 25,
+      "question": "Equations of the form ax^(2n) + bx^n + c = 0 can be reduced to quadratic form by substituting:",
+      "options": {
+        "A": "y = x^n",
+        "B": "y = x^(2n)",
+        "C": "y = 1/x",
+        "D": "y = x + 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Substituting y = x^n yields a(x^n)² + b(x^n) + c = ay² + by + c = 0, which is standard quadratic form."
+    }
+  ]
+}

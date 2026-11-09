@@ -1,0 +1,189 @@
+{
+  "chapterNumber": 16,
+  "chapterTitle": "Federal Board Annual Exam Simulator 03 (Guess Paper 3)",
+  "totalQuestions": 15,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A line which has two points in common with a circle is called a:",
+      "options": {
+        "A": "Secant of a circle",
+        "B": "Tangent of a circle",
+        "C": "Sine of a circle",
+        "D": "Cosine of a circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "A line cutting through a circle at two distinct points is defined as a secant line."
+    },
+    {
+      "id": 2,
+      "question": "A line which has only one point in common with a circle is called a:",
+      "options": {
+        "A": "Tangent of a circle",
+        "B": "Secant of a circle",
+        "C": "Sine of a circle",
+        "D": "Chord"
+      },
+      "correctAnswer": "A",
+      "explanation": "A tangent line touches the circle at exactly one point (the point of contact)."
+    },
+    {
+      "id": 3,
+      "question": "Two tangents drawn to a circle from a point outside it are:",
+      "options": {
+        "A": "Equal in length",
+        "B": "Half in length",
+        "C": "Double in length",
+        "D": "Triple in length"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theorem: Tangents drawn to a circle from an external point are equal in length (PA = PB)."
+    },
+    {
+      "id": 4,
+      "question": "A circle has only one:",
+      "options": {
+        "A": "Centre",
+        "B": "Secant",
+        "C": "Chord",
+        "D": "Diameter"
+      },
+      "correctAnswer": "A",
+      "explanation": "A circle has infinitely many chords and secants, but exactly one unique centre."
+    },
+    {
+      "id": 5,
+      "question": "A tangent line intersects the circle at:",
+      "options": {
+        "A": "One point",
+        "B": "Two points",
+        "C": "Three points",
+        "D": "Four points"
+      },
+      "correctAnswer": "A",
+      "explanation": "A tangent meets the circumference at exactly one point of contact."
+    },
+    {
+      "id": 6,
+      "question": "In a ratio a : b, the first term 'a' is called the:",
+      "options": {
+        "A": "Antecedent",
+        "B": "Consequent",
+        "C": "Mean",
+        "D": "Extreme"
+      },
+      "correctAnswer": "A",
+      "explanation": "In ratio a : b, 'a' is the antecedent and 'b' is the consequent."
+    },
+    {
+      "id": 7,
+      "question": "In a ratio a : b, the second term 'b' is called the:",
+      "options": {
+        "A": "Consequent",
+        "B": "Antecedent",
+        "C": "Mean",
+        "D": "Extreme"
+      },
+      "correctAnswer": "A",
+      "explanation": "The second term 'b' in ratio a : b is named the consequent."
+    },
+    {
+      "id": 8,
+      "question": "In a proportion a : b :: c : d, 'a' and 'd' are called:",
+      "options": {
+        "A": "Extremes",
+        "B": "Means",
+        "C": "Antecedents",
+        "D": "Consequents"
+      },
+      "correctAnswer": "A",
+      "explanation": "The outer terms 'a' and 'd' are extremes, and the inner terms 'b' and 'c' are means."
+    },
+    {
+      "id": 9,
+      "question": "In a proportion a : b :: c : d, 'b' and 'c' are called:",
+      "options": {
+        "A": "Means",
+        "B": "Extremes",
+        "C": "Antecedents",
+        "D": "Consequents"
+      },
+      "correctAnswer": "A",
+      "explanation": "The inner terms 'b' and 'c' in a proportion are called means."
+    },
+    {
+      "id": 10,
+      "question": "The fourth proportional to 5, 8, 15 is:",
+      "options": {
+        "A": "24",
+        "B": "40",
+        "C": "56",
+        "D": "64"
+      },
+      "correctAnswer": "A",
+      "explanation": "5 : 8 :: 15 : d ⟹ 5d = 8 · 15 = 120 ⟹ d = 24."
+    },
+    {
+      "id": 11,
+      "question": "Find x in proportion 4 : x :: 5 : 15:",
+      "options": {
+        "A": "12",
+        "B": "75/4",
+        "C": "4/3",
+        "D": "3/4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Product of means = Product of extremes ⟹ 5x = 4 · 15 = 60 ⟹ x = 12."
+    },
+    {
+      "id": 12,
+      "question": "If y ∝ x, then:",
+      "options": {
+        "A": "y = kx",
+        "B": "y = k / x",
+        "C": "xy = k",
+        "D": "y = x"
+      },
+      "correctAnswer": "A",
+      "explanation": "Direct variation means y is directly proportional to x, producing y = kx."
+    },
+    {
+      "id": 13,
+      "question": "If y ∝ 1/x, then:",
+      "options": {
+        "A": "y = k / x",
+        "B": "y = kx",
+        "C": "y = 1/x",
+        "D": "xy = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Inverse variation means y = k/x (or xy = k)."
+    },
+    {
+      "id": 14,
+      "question": "The mean proportional between 4 and 16 is:",
+      "options": {
+        "A": "± 8",
+        "B": "± 6",
+        "C": "± 12",
+        "D": "± 64"
+      },
+      "correctAnswer": "A",
+      "explanation": "m² = 4 · 16 = 64 ⟹ m = ±8."
+    },
+    {
+      "id": 15,
+      "question": "The radius of a circle is perpendicular to the tangent at:",
+      "options": {
+        "A": "The point of contact",
+        "B": "Any external point",
+        "C": "The centre only",
+        "D": "The chord"
+      },
+      "correctAnswer": "A",
+      "explanation": "The radial segment drawn to the point of contact makes a 90° angle with the tangent line."
+    }
+  ]
+}

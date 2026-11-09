@@ -1,0 +1,249 @@
+{
+  "chapterNumber": 12,
+  "chapterTitle": "Unit 12: Angle in a Segment of a Circle",
+  "totalQuestions": 20,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The measure of a central angle of a minor arc of a circle is:",
+      "options": {
+        "A": "Double the angle subtended by the corresponding major arc at the circumference",
+        "B": "Equal to the angle subtended at the circumference",
+        "C": "Half of the angle subtended at the circumference",
+        "D": "One-fourth of the angle subtended"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theorem 1 of Unit 12: Central Angle = 2 × Inscribed Angle subtended by the same arc."
+    },
+    {
+      "id": 2,
+      "question": "If the central angle subtended by an arc is 80°, the angle subtended by the same arc at the circumference is:",
+      "options": {
+        "A": "40°",
+        "B": "80°",
+        "C": "160°",
+        "D": "20°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Inscribed angle = (Central angle) / 2 = 80° / 2 = 40°."
+    },
+    {
+      "id": 3,
+      "question": "Any two angles in the same segment of a circle are:",
+      "options": {
+        "A": "Equal",
+        "B": "Supplementary",
+        "C": "Complementary",
+        "D": "Unequal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theorem 2 of Unit 12: Angles subtended by the same arc in the same segment are equal."
+    },
+    {
+      "id": 4,
+      "question": "The angle inscribed in a semicircle is a:",
+      "options": {
+        "A": "Right angle (90°)",
+        "B": "Acute angle",
+        "C": "Obtuse angle",
+        "D": "Straight angle"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theorem 3: Since the central angle of a semicircle is 180°, the inscribed angle is 180° / 2 = 90° (Thales' theorem)."
+    },
+    {
+      "id": 5,
+      "question": "The angle in a segment greater than a semicircle (major segment) is:",
+      "options": {
+        "A": "An acute angle (< 90°)",
+        "B": "An obtuse angle (> 90°)",
+        "C": "A right angle (90°)",
+        "D": "Zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "The central angle of a minor arc is < 180°, so the inscribed angle is < 90° (acute)."
+    },
+    {
+      "id": 6,
+      "question": "The angle in a segment less than a semicircle (minor segment) is:",
+      "options": {
+        "A": "An obtuse angle (> 90°)",
+        "B": "An acute angle (< 90°)",
+        "C": "A right angle",
+        "D": "180°"
+      },
+      "correctAnswer": "A",
+      "explanation": "The central angle of a major arc is > 180°, so the inscribed angle in the minor segment is > 90° (obtuse)."
+    },
+    {
+      "id": 7,
+      "question": "The opposite angles of any cyclic quadrilateral are:",
+      "options": {
+        "A": "Supplementary (sum = 180°)",
+        "B": "Equal always",
+        "C": "Complementary (sum = 90°)",
+        "D": "Unequal and unrelated"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theorem 4: In any cyclic quadrilateral, the sum of opposite interior angles is always 180°."
+    },
+    {
+      "id": 8,
+      "question": "If ABCD is a cyclic quadrilateral and ∠A = 70°, then ∠C is:",
+      "options": {
+        "A": "110°",
+        "B": "70°",
+        "C": "20°",
+        "D": "90°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Opposite angles are supplementary: ∠C = 180° - ∠A = 180° - 70° = 110°."
+    },
+    {
+      "id": 9,
+      "question": "If ABCD is a cyclic quadrilateral and ∠B = 105°, then ∠D is:",
+      "options": {
+        "A": "75°",
+        "B": "105°",
+        "C": "85°",
+        "D": "95°"
+      },
+      "correctAnswer": "A",
+      "explanation": "∠D = 180° - 105° = 75°."
+    },
+    {
+      "id": 10,
+      "question": "An angle subtended by an arc at the centre is called a/an:",
+      "options": {
+        "A": "Central angle",
+        "B": "Inscribed angle",
+        "C": "Circumscribed angle",
+        "D": "Reflex angle"
+      },
+      "correctAnswer": "A",
+      "explanation": "An angle whose vertex is the centre of the circle is defined as a central angle."
+    },
+    {
+      "id": 11,
+      "question": "An angle whose vertex lies on the circumference of a circle and whose arms contain chords is a/an:",
+      "options": {
+        "A": "Inscribed angle",
+        "B": "Central angle",
+        "C": "Exterior angle",
+        "D": "Right angle"
+      },
+      "correctAnswer": "A",
+      "explanation": "An angle formed by two chords meeting at a point on the circumference is an inscribed angle."
+    },
+    {
+      "id": 12,
+      "question": "If an inscribed angle is 55°, the central angle subtended by the same arc is:",
+      "options": {
+        "A": "110°",
+        "B": "55°",
+        "C": "27.5°",
+        "D": "125°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Central angle = 2 × Inscribed angle = 2 × 55° = 110°."
+    },
+    {
+      "id": 13,
+      "question": "In a cyclic quadrilateral, if an exterior angle is formed by producing one side, it is equal to the:",
+      "options": {
+        "A": "Interior opposite angle",
+        "B": "Adjacent interior angle",
+        "C": "Sum of all angles",
+        "D": "90° always"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since interior + exterior = 180° and interior + opposite = 180°, the exterior angle equals the interior opposite angle."
+    },
+    {
+      "id": 14,
+      "question": "A quadrilateral whose all four vertices lie on a circle is called a:",
+      "options": {
+        "A": "Cyclic quadrilateral",
+        "B": "Rhombus",
+        "C": "Trapezium",
+        "D": "Kite"
+      },
+      "correctAnswer": "A",
+      "explanation": "A polygon whose vertices all lie on a common circle is cyclic (concyclic points)."
+    },
+    {
+      "id": 15,
+      "question": "Can a non-rectangular parallelogram be cyclic?",
+      "options": {
+        "A": "No, because opposite angles of a parallelogram are equal, so for a cyclic one they must both be 90° (a rectangle)",
+        "B": "Yes, always",
+        "C": "Only if it is a rhombus with angles 60° and 120°",
+        "D": "Yes, if sides are equal"
+      },
+      "correctAnswer": "A",
+      "explanation": "In a parallelogram opposite angles are equal (x = y). In cyclic, x + y = 180° ⟹ 2x = 180° ⟹ x = 90°, so it must be a rectangle."
+    },
+    {
+      "id": 16,
+      "question": "A cyclic parallelogram is necessarily a:",
+      "options": {
+        "A": "Rectangle",
+        "B": "Rhombus",
+        "C": "Trapezoid",
+        "D": "Kite"
+      },
+      "correctAnswer": "A",
+      "explanation": "A parallelogram inscribed in a circle must have all angles equal to 90°, making it a rectangle."
+    },
+    {
+      "id": 17,
+      "question": "A cyclic rhombus is necessarily a:",
+      "options": {
+        "A": "Square",
+        "B": "Rectangle only",
+        "C": "Parallelogram only",
+        "D": "Trapezium"
+      },
+      "correctAnswer": "A",
+      "explanation": "A rhombus has equal sides; being cyclic forces its angles to be 90°, making it a square."
+    },
+    {
+      "id": 18,
+      "question": "If triangle ABC is inscribed in a circle with side BC as diameter, then ∠BAC is:",
+      "options": {
+        "A": "90°",
+        "B": "60°",
+        "C": "45°",
+        "D": "120°"
+      },
+      "correctAnswer": "A",
+      "explanation": "An angle inscribed in a semicircle with diameter BC is always a right angle (90°)."
+    },
+    {
+      "id": 19,
+      "question": "In a circle with centre O, if minor arc AB subtends ∠AOB = 100°, then the reflex angle ∠AOB is:",
+      "options": {
+        "A": "260°",
+        "B": "100°",
+        "C": "80°",
+        "D": "180°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Reflex angle = 360° - 100° = 260°."
+    },
+    {
+      "id": 20,
+      "question": "Points that all lie on the circumference of the same circle are called:",
+      "options": {
+        "A": "Concyclic points",
+        "B": "Collinear points",
+        "C": "Coplanar points only",
+        "D": "Concurrent points"
+      },
+      "correctAnswer": "A",
+      "explanation": "Points through which a single circle passes are defined as concyclic points."
+    }
+  ]
+}

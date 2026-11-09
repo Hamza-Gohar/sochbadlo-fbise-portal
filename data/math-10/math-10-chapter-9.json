@@ -1,0 +1,249 @@
+{
+  "chapterNumber": 9,
+  "chapterTitle": "Unit 09: Chords of a Circle",
+  "totalQuestions": 20,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A line segment joining any two points on the boundary of a circle is called a/an:",
+      "options": {
+        "A": "Chord",
+        "B": "Radius",
+        "C": "Tangent",
+        "D": "Secant line"
+      },
+      "correctAnswer": "A",
+      "explanation": "A chord is any straight line segment whose endpoints both lie on the circle's circumference."
+    },
+    {
+      "id": 2,
+      "question": "The longest chord of a circle passing through its centre is the:",
+      "options": {
+        "A": "Diameter",
+        "B": "Radius",
+        "C": "Secant",
+        "D": "Tangent"
+      },
+      "correctAnswer": "A",
+      "explanation": "A diameter passes through the centre of the circle and has length 2r, making it the longest chord."
+    },
+    {
+      "id": 3,
+      "question": "A straight line drawn from the centre of a circle to bisect a chord (which is not a diameter) is:",
+      "options": {
+        "A": "Perpendicular to the chord",
+        "B": "Parallel to the chord",
+        "C": "At 45° to the chord",
+        "D": "Collinear with the chord"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theorem 1 of Unit 9: The line joining the centre to the midpoint of a non-diameter chord is perpendicular to the chord."
+    },
+    {
+      "id": 4,
+      "question": "The perpendicular from the centre of a circle to a chord:",
+      "options": {
+        "A": "Bisects the chord",
+        "B": "Doubles the chord",
+        "C": "Is equal to the chord",
+        "D": "Is parallel to the chord"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theorem 2 (converse): The perpendicular dropped from the centre to any chord divides the chord into two equal halves."
+    },
+    {
+      "id": 5,
+      "question": "One and only one circle can pass through how many non-collinear points?",
+      "options": {
+        "A": "Three",
+        "B": "Two",
+        "C": "One",
+        "D": "Four"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theorem 3: Exactly one unique circle can be drawn through any three non-collinear points."
+    },
+    {
+      "id": 6,
+      "question": "Congruent chords of a circle are:",
+      "options": {
+        "A": "Equidistant from the centre",
+        "B": "At different distances from the centre",
+        "C": "Parallel to each other always",
+        "D": "Perpendicular to each other always"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theorem 4: Chords of equal length in a circle lie at equal perpendicular distances from the centre."
+    },
+    {
+      "id": 7,
+      "question": "Chords of a circle which are equidistant from the centre are:",
+      "options": {
+        "A": "Congruent (equal in length)",
+        "B": "Unequal",
+        "C": "Parallel",
+        "D": "Diameters"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theorem 5 (converse): If two chords are at the same distance from the centre, their lengths are identical."
+    },
+    {
+      "id": 8,
+      "question": "A straight line can intersect a circle in at most how many points?",
+      "options": {
+        "A": "2 points",
+        "B": "1 point",
+        "C": "3 points",
+        "D": "Infinitely many points"
+      },
+      "correctAnswer": "A",
+      "explanation": "A line intersects a circle at 0 points (outside), 1 point (tangent), or 2 points (secant). It can never intersect in 3 points."
+    },
+    {
+      "id": 9,
+      "question": "If a chord of length 8 cm is at a distance of 3 cm from the centre, the radius of the circle is:",
+      "options": {
+        "A": "5 cm",
+        "B": "4 cm",
+        "C": "6 cm",
+        "D": "7 cm"
+      },
+      "correctAnswer": "A",
+      "explanation": "Half chord = 8/2 = 4 cm. By Pythagoras: r² = 3² + 4² = 9 + 16 = 25 ⟹ r = 5 cm."
+    },
+    {
+      "id": 10,
+      "question": "If the radius of a circle is 13 cm and a chord is of length 24 cm, its distance from the centre is:",
+      "options": {
+        "A": "5 cm",
+        "B": "12 cm",
+        "C": "7 cm",
+        "D": "10 cm"
+      },
+      "correctAnswer": "A",
+      "explanation": "Half chord = 24/2 = 12 cm. Distance d = √(13² - 12²) = √(169 - 144) = √25 = 5 cm."
+    },
+    {
+      "id": 11,
+      "question": "The region bounded by a chord and its corresponding arc is called a:",
+      "options": {
+        "A": "Segment of a circle",
+        "B": "Sector of a circle",
+        "C": "Quadrant",
+        "D": "Circumference"
+      },
+      "correctAnswer": "A",
+      "explanation": "A circular segment is the area enclosed between a chord and the circular arc cut off by it."
+    },
+    {
+      "id": 12,
+      "question": "The portion of a circle enclosed between two radii and their intercepted arc is called a:",
+      "options": {
+        "A": "Sector",
+        "B": "Segment",
+        "C": "Chord",
+        "D": "Secant"
+      },
+      "correctAnswer": "A",
+      "explanation": "A circular sector is bounded by two radii and the intercepted arc."
+    },
+    {
+      "id": 13,
+      "question": "Two circles having the same centre but different radii are called:",
+      "options": {
+        "A": "Concentric circles",
+        "B": "Congruent circles",
+        "C": "Intersecting circles",
+        "D": "Orthogonal circles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Circles sharing an identical centre point are called concentric circles."
+    },
+    {
+      "id": 14,
+      "question": "Two circles having equal radii are called:",
+      "options": {
+        "A": "Congruent circles",
+        "B": "Concentric circles",
+        "C": "Similar circles only",
+        "D": "Eccentric circles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Circles with identical radii are congruent in every geometric dimension."
+    },
+    {
+      "id": 15,
+      "question": "The distance of a chord from the centre as the chord length increases:",
+      "options": {
+        "A": "Decreases",
+        "B": "Increases",
+        "C": "Remains constant",
+        "D": "Becomes infinite"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since d² = r² - (chord/2)², larger chords lie closer to the centre, reaching d = 0 for diameter."
+    },
+    {
+      "id": 16,
+      "question": "How many common points do two non-intersecting, separate circles have?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Non-intersecting circles have no points in common."
+    },
+    {
+      "id": 17,
+      "question": "Circles having three points in common must be:",
+      "options": {
+        "A": "Coincident (the exact same circle)",
+        "B": "Intersecting at 3 points",
+        "C": "Concentric with different radii",
+        "D": "Collinear"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since exactly one circle passes through 3 non-collinear points, sharing 3 points means they are identical."
+    },
+    {
+      "id": 18,
+      "question": "The perpendicular bisector of any chord of a circle passes through:",
+      "options": {
+        "A": "The centre of the circle",
+        "B": "The circumference only",
+        "C": "An external point",
+        "D": "The origin only"
+      },
+      "correctAnswer": "A",
+      "explanation": "The locus of points equidistant from the chord's ends is its right bisector, which always contains the centre."
+    },
+    {
+      "id": 19,
+      "question": "If two chords of a circle are parallel, their perpendicular bisectors:",
+      "options": {
+        "A": "Coincide in a single line passing through the centre",
+        "B": "Are perpendicular",
+        "C": "Never intersect",
+        "D": "Do not pass through the centre"
+      },
+      "correctAnswer": "A",
+      "explanation": "Both right bisectors pass through the centre and are perpendicular to the parallel lines, thus forming one common line."
+    },
+    {
+      "id": 20,
+      "question": "A diameter bisects a chord perpendicularly. If the chord length is 16 cm and diameter is 20 cm, the distance from centre is:",
+      "options": {
+        "A": "6 cm",
+        "B": "8 cm",
+        "C": "10 cm",
+        "D": "4 cm"
+      },
+      "correctAnswer": "A",
+      "explanation": "Radius r = 20/2 = 10 cm; half chord = 16/2 = 8 cm. Distance d = √(10² - 8²) = √(100 - 64) = √36 = 6 cm."
+    }
+  ]
+}

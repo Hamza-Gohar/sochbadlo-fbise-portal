@@ -29,7 +29,8 @@ export type SubjectId =
   | 'islamiat-9'
   | 'chemistry-9'
   | 'cs-9'
-  | 'biology-9';
+  | 'biology-9'
+  | 'math-10';
 
 export interface ChapterData {
   chapterNumber: number;
@@ -37,7 +38,7 @@ export interface ChapterData {
   totalQuestions: number;
   questions: Question[];
   subject?: SubjectId;
-  grade?: '9' | '11';
+  grade?: '9' | '10' | '11';
 }
 
 export interface ChapterMeta {
@@ -47,7 +48,7 @@ export interface ChapterMeta {
   totalQuestions: number;
   fileName: string;
   subject?: SubjectId;
-  grade?: '9' | '11';
+  grade?: '9' | '10' | '11';
 }
 
 export interface QuizResult {

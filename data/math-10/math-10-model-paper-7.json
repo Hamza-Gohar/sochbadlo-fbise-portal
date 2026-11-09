@@ -1,0 +1,189 @@
+{
+  "chapterNumber": 20,
+  "chapterTitle": "Federal Board Annual Exam Simulator 07 (Full Book Simulator - Lecturer Jazab)",
+  "totalQuestions": 15,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The circumference of a circle is called its:",
+      "options": {
+        "A": "Boundary (Perimeter)",
+        "B": "Chord",
+        "C": "Segment",
+        "D": "Parallel"
+      },
+      "correctAnswer": "A",
+      "explanation": "The total boundary line enclosing the circular area is its circumference."
+    },
+    {
+      "id": 2,
+      "question": "A line intersecting a circle at two points is called a:",
+      "options": {
+        "A": "Secant",
+        "B": "Tangent",
+        "C": "Chord",
+        "D": "Perpendicular"
+      },
+      "correctAnswer": "A",
+      "explanation": "A line passing through a circle and cutting it at two points is a secant line."
+    },
+    {
+      "id": 3,
+      "question": "The portion of a circle enclosed between two radii and an arc is called a:",
+      "options": {
+        "A": "Sector",
+        "B": "Segment",
+        "C": "Chord",
+        "D": "Bisect"
+      },
+      "correctAnswer": "A",
+      "explanation": "A region bounded by two radii and the intercepted arc is a sector."
+    },
+    {
+      "id": 4,
+      "question": "Circles having three non-collinear points in common must:",
+      "options": {
+        "A": "Coincide (be identical)",
+        "B": "Be collinear",
+        "C": "Be concentric only",
+        "D": "Not coincide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since three non-collinear points determine a unique circle, any circles sharing them must coincide."
+    },
+    {
+      "id": 5,
+      "question": "A 4 cm long chord subtends a central angle of 60°. The radial segment of this circle is:",
+      "options": {
+        "A": "4 cm",
+        "B": "1 cm",
+        "C": "2 cm",
+        "D": "3 cm"
+      },
+      "correctAnswer": "A",
+      "explanation": "The central triangle is equilateral, so radius = chord length = 4 cm."
+    },
+    {
+      "id": 6,
+      "question": "The length of a chord and radial segment are congruent. The central angle made by the chord is:",
+      "options": {
+        "A": "60°",
+        "B": "30°",
+        "C": "45°",
+        "D": "75°"
+      },
+      "correctAnswer": "A",
+      "explanation": "All three sides are equal (r, r, r), giving central angle = 60°."
+    },
+    {
+      "id": 7,
+      "question": "Out of two congruent arcs, if one arc makes a central angle of 30°, the other arc will subtend:",
+      "options": {
+        "A": "30°",
+        "B": "15°",
+        "C": "45°",
+        "D": "60°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Congruent arcs in a circle always subtend equal central angles."
+    },
+    {
+      "id": 8,
+      "question": "An arc subtends a central angle of 40°. Then the corresponding chord will subtend a central angle of:",
+      "options": {
+        "A": "40°",
+        "B": "20°",
+        "C": "60°",
+        "D": "80°"
+      },
+      "correctAnswer": "A",
+      "explanation": "The chord and arc share endpoints, both subtending 40° at the centre."
+    },
+    {
+      "id": 9,
+      "question": "A pair of chords of a circle subtending two congruent central angles are:",
+      "options": {
+        "A": "Congruent",
+        "B": "Parallel",
+        "C": "Perpendicular",
+        "D": "Unequal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equal central angles intercept congruent chords."
+    },
+    {
+      "id": 10,
+      "question": "The measure of central angle of a minor arc is:",
+      "options": {
+        "A": "Double the angle subtended by corresponding major arc",
+        "B": "Equal to the angle subtended",
+        "C": "Half of the angle subtended",
+        "D": "Triple the angle subtended"
+      },
+      "correctAnswer": "A",
+      "explanation": "Central angle = 2 × Inscribed angle."
+    },
+    {
+      "id": 11,
+      "question": "The angle in a semicircle is a:",
+      "options": {
+        "A": "Right angle",
+        "B": "Acute angle",
+        "C": "Obtuse angle",
+        "D": "Straight angle"
+      },
+      "correctAnswer": "A",
+      "explanation": "An inscribed angle in a semicircle is 90°."
+    },
+    {
+      "id": 12,
+      "question": "The opposite angles of any cyclic quadrilateral are:",
+      "options": {
+        "A": "Supplementary",
+        "B": "Complementary",
+        "C": "Equal",
+        "D": "Right angles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Opposite angles of a cyclic quadrilateral sum to 180°."
+    },
+    {
+      "id": 13,
+      "question": "The angle in a segment greater than a semicircle is:",
+      "options": {
+        "A": "Acute (< 90°)",
+        "B": "Obtuse (> 90°)",
+        "C": "Right (90°)",
+        "D": "180°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Inscribed angle in a major segment is acute."
+    },
+    {
+      "id": 14,
+      "question": "The angle in a segment less than a semicircle is:",
+      "options": {
+        "A": "Obtuse (> 90°)",
+        "B": "Acute (< 90°)",
+        "C": "Right (90°)",
+        "D": "0°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Inscribed angle in a minor segment is obtuse."
+    },
+    {
+      "id": 15,
+      "question": "The centre of an incircle of a triangle is the concurrency point of the:",
+      "options": {
+        "A": "Internal angle bisectors",
+        "B": "Right bisectors of sides",
+        "C": "Altitudes",
+        "D": "Medians"
+      },
+      "correctAnswer": "A",
+      "explanation": "Internal angle bisectors meet at the incentre."
+    }
+  ]
+}

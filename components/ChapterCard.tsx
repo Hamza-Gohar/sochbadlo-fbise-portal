@@ -25,6 +25,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
 
   const isPhysics9 = chapter.subject === 'physics-9' || chapter.slug.startsWith('physics-9');
   const isMath9 = chapter.subject === 'math-9' || chapter.slug.startsWith('math-9');
+  const isMath10 = chapter.subject === 'math-10' || chapter.slug.startsWith('math-10');
   const isUrdu9 = chapter.subject === 'urdu-9' || chapter.slug.startsWith('urdu-9');
   const isTarjuma9 = chapter.subject === 'tarjuma-9' || chapter.slug.startsWith('tarjuma-9');
   const isEnglish9 = chapter.subject === 'english-9' || chapter.slug.startsWith('english-9');
@@ -33,7 +34,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isCS9 = chapter.subject === 'cs-9' || chapter.slug.startsWith('cs-9');
   const isBiology9 = chapter.subject === 'biology-9' || chapter.slug.startsWith('biology-9');
   const isUrdu = (chapter.subject === 'urdu' || chapter.slug.startsWith('urdu')) && !isUrdu9;
-  const isMath = (chapter.subject === 'math' || chapter.slug.startsWith('math-unit-') || chapter.slug.startsWith('math-model-paper-')) && !isMath9;
+  const isMath = (chapter.subject === 'math' || chapter.slug.startsWith('math-unit-') || chapter.slug.startsWith('math-model-paper-')) && !isMath9 && !isMath10;
   const isEnglish = (chapter.subject === 'english' || chapter.slug.startsWith('english')) && !isEnglish9;
   const isCS = (chapter.subject === 'cs' || chapter.slug.startsWith('cs')) && !isCS9;
   const isIslamiat = (chapter.subject === 'islamiat' || chapter.slug.startsWith('islamiat')) && !isIslamiat9;
@@ -45,6 +46,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isPastPapers =
     chapter.slug === 'past-papers' ||
     chapter.slug === 'urdu-model-paper' ||
+    chapter.slug.startsWith('math-10-model-paper-') ||
     chapter.slug.startsWith('physics-9-model-paper-') ||
     chapter.slug.startsWith('math-9-model-paper-') ||
     chapter.slug.startsWith('urdu-9-model-paper-') ||
@@ -61,6 +63,8 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     chapter.slug.startsWith('chemistry-model-paper-');
 
   let tagLabel = `Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  if (chapter.slug.startsWith('math-10-model-paper-')) tagLabel = `Class 10 Math Simulator ${chapter.slug.split('-').pop()}`;
+  else if (isMath10) tagLabel = `Class 10 · Math Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   if (chapter.slug === 'physics-9-model-paper-1') tagLabel = 'Class 9 Board Simulator 1';
   else if (chapter.slug === 'physics-9-model-paper-2') tagLabel = 'Class 9 Board Simulator 2';
   else if (isPhysics9) tagLabel = `Class 9 · Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
@@ -102,7 +106,11 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (isUrdu) tagLabel = `Urdu Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
 
   let description = `Comprehensive conceptual questions, dimensional formulas, and numericals for ${chapter.title} aligned with textbook SLOs.`;
-  if (chapter.slug.startsWith('biology-9-model-paper-')) {
+  if (chapter.slug.startsWith('math-10-model-paper-')) {
+    description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation (Lecturer Jazab / Nimra Abid / MAK). 15 MCQs, 20-minute timer with complete mathematical reasoning.`;
+  } else if (isMath10) {
+    description = `Official FBISE SSC-II Class 10 Mathematics: ${chapter.title}. Core theorems, algebraic manipulations, coordinate formulas, and problem-solving rationales.`;
+  } else if (chapter.slug.startsWith('biology-9-model-paper-')) {
     description = `Official Federal Board Section A SSC-I annual examination simulation (Lecturer Rubina Ashraf). 12 MCQs, 20-minute timer with complete biological justifications.`;
   } else if (isBiology9) {
     description = `Official FBISE SSC-I Class 9 Biology: ${chapter.title}. Core conceptual questions, cellular processes, organ systems, and SLO justifications.`;

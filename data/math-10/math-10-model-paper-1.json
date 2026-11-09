@@ -1,0 +1,189 @@
+{
+  "chapterNumber": 14,
+  "chapterTitle": "Federal Board Annual Exam Simulator 01 (Guess Paper 1)",
+  "totalQuestions": 15,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Standard form of Quadratic Equation is:",
+      "options": {
+        "A": "bx + c = 0",
+        "B": "ax² + bx + c = 0",
+        "C": "ax² = bx",
+        "D": "ax² = 0"
+      },
+      "correctAnswer": "B",
+      "explanation": "The standard general form of a quadratic equation in one variable x is ax² + bx + c = 0, where a ≠ 0 and a, b, c ∈ ℝ."
+    },
+    {
+      "id": 2,
+      "question": "The number of terms in standard quadratic equation ax² + bx + c = 0 is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "C",
+      "explanation": "A complete quadratic equation contains three distinct terms: ax² (quadratic term), bx (linear term), and c (constant term)."
+    },
+    {
+      "id": 3,
+      "question": "Two linear factors of x² - 15x + 56 are:",
+      "options": {
+        "A": "(x - 7)(x + 8)",
+        "B": "(x + 7)(x - 8)",
+        "C": "(x - 7)(x - 8)",
+        "D": "(x + 7)(x + 8)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Factoring x² - 15x + 56: (-7) + (-8) = -15 and (-7)(-8) = +56, giving (x - 7)(x - 8)."
+    },
+    {
+      "id": 4,
+      "question": "An equation which remains unchanged when x is replaced by 1/x is called a/an:",
+      "options": {
+        "A": "Exponential equation",
+        "B": "Reciprocal equation",
+        "C": "Radical equation",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "By definition, an equation that satisfies f(1/x) = f(x) is termed a reciprocal equation."
+    },
+    {
+      "id": 5,
+      "question": "The solution set of equation x² - 7x + 6 = 0 is:",
+      "options": {
+        "A": "{1, 6}",
+        "B": "{-1, -6}",
+        "C": "{-1, 6}",
+        "D": "{1, -6}"
+      },
+      "correctAnswer": "A",
+      "explanation": "Factoring (x - 1)(x - 6) = 0 gives solutions x = 1 and x = 6. Hence solution set is {1, 6}."
+    },
+    {
+      "id": 6,
+      "question": "If b = 0 in a quadratic equation ax² + bx + c = 0, then it is called:",
+      "options": {
+        "A": "Pure quadratic equation",
+        "B": "Linear equation",
+        "C": "Quadratic equation",
+        "D": "Exponential equation"
+      },
+      "correctAnswer": "A",
+      "explanation": "When the linear coefficient b = 0, the equation ax² + c = 0 is known as a pure quadratic equation."
+    },
+    {
+      "id": 7,
+      "question": "Sentences involving the sign '=' between two algebraic expressions are called:",
+      "options": {
+        "A": "<",
+        "B": ">",
+        "C": "=",
+        "D": "< or >"
+      },
+      "correctAnswer": "C",
+      "explanation": "An algebraic statement asserting that two expressions are equal via '=' is called an equation."
+    },
+    {
+      "id": 8,
+      "question": "The standard form of quadratic equation is ax² + bx + c = 0 where a, b, c are:",
+      "options": {
+        "A": "Irrational numbers",
+        "B": "Rational numbers",
+        "C": "Real numbers",
+        "D": "Whole numbers"
+      },
+      "correctAnswer": "C",
+      "explanation": "In standard algebra, coefficients a, b, c belong to the field of real numbers (ℝ) with a ≠ 0."
+    },
+    {
+      "id": 9,
+      "question": "If a = 0 in ax² + bx + c = 0, then it reduces to:",
+      "options": {
+        "A": "Pure quadratic equation",
+        "B": "Linear equation",
+        "C": "Quadratic equation",
+        "D": "Exponential equation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Setting a = 0 eliminates the second-degree term, reducing the equation to bx + c = 0 (a linear equation)."
+    },
+    {
+      "id": 10,
+      "question": "The method of completing square is used to:",
+      "options": {
+        "A": "Solve a linear equation",
+        "B": "Solve a quadratic equation",
+        "C": "Solve a radical sign equation only",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Completing the square is one of the three foundational techniques for finding the roots of quadratic equations."
+    },
+    {
+      "id": 11,
+      "question": "A root of an equation which does not satisfy the original equation is called a/an:",
+      "options": {
+        "A": "Extraneous root",
+        "B": "Linear root",
+        "C": "Quadratic root",
+        "D": "Exponential root"
+      },
+      "correctAnswer": "A",
+      "explanation": "Extraneous roots commonly arise when solving radical equations by squaring both sides."
+    },
+    {
+      "id": 12,
+      "question": "An equation involving expression of the variable under a radical sign is called a:",
+      "options": {
+        "A": "Radical equation",
+        "B": "Exponential equation",
+        "C": "Linear equation",
+        "D": "Quadratic equation"
+      },
+      "correctAnswer": "A",
+      "explanation": "An equation containing the unknown variable under a square root or radical sign is defined as a radical equation."
+    },
+    {
+      "id": 13,
+      "question": "If x² - 3x - 4 = 0, then the solutions are:",
+      "options": {
+        "A": "x = 4, -1",
+        "B": "x = -4, 1",
+        "C": "x = 4, 1",
+        "D": "x = -4, -1"
+      },
+      "correctAnswer": "A",
+      "explanation": "(x - 4)(x + 1) = 0 ⟹ x = 4 or x = -1."
+    },
+    {
+      "id": 14,
+      "question": "What are the solutions of the equation x² + 7x - 18 = 0?",
+      "options": {
+        "A": "-2 or 9",
+        "B": "2 or 9",
+        "C": "2 or -9",
+        "D": "-2 or -9"
+      },
+      "correctAnswer": "C",
+      "explanation": "x² + 9x - 2x - 18 = 0 ⟹ (x + 9)(x - 2) = 0 ⟹ x = 2 or x = -9."
+    },
+    {
+      "id": 15,
+      "question": "What are the solutions of the equation x² - 8x + 15 = 0?",
+      "options": {
+        "A": "x = 1 or x = -7",
+        "B": "x = 2 or x = 4",
+        "C": "x = -2 or x = 4",
+        "D": "x = 3 or x = 5"
+      },
+      "correctAnswer": "D",
+      "explanation": "(x - 3)(x - 5) = 0 ⟹ x = 3 or x = 5."
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "chapterNumber": 23,
+  "chapterTitle": "Federal Board Annual Exam Simulator 10 (Specialized Simulator C - Lecturer Nimra Abid)",
+  "totalQuestions": 15,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In triangle geometry, the inradius r of a triangle is given by the formula:",
+      "options": {
+        "A": "r = Δ / s",
+        "B": "r = Δ / R",
+        "C": "r = Δ / c",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "The inradius r is the area Δ divided by the semi-perimeter s: r = Δ / s."
+    },
+    {
+      "id": 2,
+      "question": "The Law of Sines states that in any triangle ABC:",
+      "options": {
+        "A": "a / sin α = b / sin β = c / sin γ",
+        "B": "a / cos α = b / cos β",
+        "C": "a sin α = b sin β",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Law of Sines relates sides to the sines of opposite angles: a/sin α = b/sin β = c/sin γ."
+    },
+    {
+      "id": 3,
+      "question": "In the Law of Cosines, b² is equal to:",
+      "options": {
+        "A": "a² + c² - 2ac cos β",
+        "B": "a² + c² - 2ac sin β",
+        "C": "a² + c² - 2ac sin α",
+        "D": "a² + b² - 2ac sin β"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Law of Cosines for side b is b² = a² + c² - 2ac cos β."
+    },
+    {
+      "id": 4,
+      "question": "The Law of Cosines reduces to Pythagoras' Theorem when the included angle is:",
+      "options": {
+        "A": "90°",
+        "B": "60°",
+        "C": "30°",
+        "D": "45°"
+      },
+      "correctAnswer": "A",
+      "explanation": "When angle = 90°, cos 90° = 0, so b² = a² + c² - 0 = a² + c²."
+    },
+    {
+      "id": 5,
+      "question": "The magnitude of a vector is also called its:",
+      "options": {
+        "A": "Length (or Norm)",
+        "B": "Direction",
+        "C": "Scalar product",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "The magnitude of a vector represents its geometric length or norm."
+    },
+    {
+      "id": 6,
+      "question": "If ABCD is a parallelogram, which vector equality holds true?",
+      "options": {
+        "A": "AB = DC",
+        "B": "AB = CD",
+        "C": "AC = BD",
+        "D": "AD = AB"
+      },
+      "correctAnswer": "A",
+      "explanation": "In parallelogram ABCD, opposite sides AB and DC are parallel and equal in length with the same direction: vector AB = vector DC."
+    },
+    {
+      "id": 7,
+      "question": "The unit vector û in the direction of non-zero vector u is defined as:",
+      "options": {
+        "A": "u / |u|",
+        "B": "u · u / |u|",
+        "C": "1 / |u|",
+        "D": "u"
+      },
+      "correctAnswer": "A",
+      "explanation": "A unit vector is obtained by dividing the vector by its magnitude: û = u / |u|."
+    },
+    {
+      "id": 8,
+      "question": "A unit vector has a magnitude equal to:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "2"
+      },
+      "correctAnswer": "A",
+      "explanation": "By definition, the norm or magnitude of any unit vector is exactly 1."
+    },
+    {
+      "id": 9,
+      "question": "The magnitude of the vector v = 3i - 4j is:",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "25",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "|v| = √(3² + (-4)²) = √(9 + 16) = √25 = 5."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following vectors represents the position vector of point P relative to origin O?",
+      "options": {
+        "A": "OP",
+        "B": "-OP",
+        "C": "PO",
+        "D": "PQ"
+      },
+      "correctAnswer": "A",
+      "explanation": "A position vector originates at the origin O and terminates at point P, denoted vector OP."
+    },
+    {
+      "id": 11,
+      "question": "What type of quadrilateral ABCD is formed if vector AB = (2/3) vector DC?",
+      "options": {
+        "A": "Trapezium",
+        "B": "Rectangle",
+        "C": "Kite",
+        "D": "Rhombus"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since AB is a scalar multiple of DC, AB is parallel to DC, but their lengths are unequal (2/3 ratio). A quadrilateral with one pair of unequal parallel sides is a trapezium."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is a vector quantity?",
+      "options": {
+        "A": "Velocity",
+        "B": "Speed",
+        "C": "Distance",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Velocity has both magnitude and direction, making it a vector quantity, unlike scalar speed or distance."
+    },
+    {
+      "id": 13,
+      "question": "In any triangle ABC with circumradius R, R(sin α + sin β + sin γ) is equal to:",
+      "options": {
+        "A": "s (Semi-perimeter)",
+        "B": "s²",
+        "C": "s³",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the sine rule: a = 2R sin α, b = 2R sin β, c = 2R sin γ. Summing gives a + b + c = 2R(sin α + sin β + sin γ) = 2s ⟹ R(sin α + sin β + sin γ) = s."
+    },
+    {
+      "id": 14,
+      "question": "If a = 17, b = 10, c = 12, the semi-perimeter s is:",
+      "options": {
+        "A": "19.5",
+        "B": "39",
+        "C": "20",
+        "D": "15"
+      },
+      "correctAnswer": "A",
+      "explanation": "s = (a + b + c)/2 = (17 + 10 + 12)/2 = 39/2 = 19.5."
+    },
+    {
+      "id": 15,
+      "question": "If two vectors are perpendicular to each other, their dot product is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "u · v = |u||v| cos 90° = |u||v|(0) = 0."
+    }
+  ]
+}

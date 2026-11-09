@@ -1,0 +1,309 @@
+{
+  "chapterNumber": 4,
+  "chapterTitle": "Unit 04: Partial Fractions",
+  "totalQuestions": 25,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "An equation of the form N(x) / D(x), where N(x) and D(x) are polynomials with D(x) ≠ 0, is called a/an:",
+      "options": {
+        "A": "Fraction (Rational fraction)",
+        "B": "Irrational equation",
+        "C": "Identity",
+        "D": "Radical fraction"
+      },
+      "correctAnswer": "A",
+      "explanation": "A quotient of two polynomials N(x)/D(x) where D(x) is not the zero polynomial is defined as a rational fraction."
+    },
+    {
+      "id": 2,
+      "question": "A rational fraction N(x) / D(x) is called a proper fraction if:",
+      "options": {
+        "A": "Degree of N(x) < Degree of D(x)",
+        "B": "Degree of N(x) > Degree of D(x)",
+        "C": "Degree of N(x) = Degree of D(x)",
+        "D": "Degree of N(x) ≥ Degree of D(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "In a proper rational fraction, the degree of the numerator polynomial is strictly less than the degree of the denominator polynomial."
+    },
+    {
+      "id": 3,
+      "question": "A rational fraction N(x) / D(x) is called an improper fraction if:",
+      "options": {
+        "A": "Degree of N(x) ≥ Degree of D(x)",
+        "B": "Degree of N(x) < Degree of D(x)",
+        "C": "Degree of N(x) = 0",
+        "D": "Degree of D(x) = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "An improper fraction has numerator degree greater than or equal to the denominator degree; it must be divided before partial fraction decomposition."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is a proper rational fraction?",
+      "options": {
+        "A": "(2x + 1) / (x² + 1)",
+        "B": "(x² + 1) / (x + 1)",
+        "C": "(x³ - 1) / (x² + 2)",
+        "D": "(x² + 3) / (x² - 1)"
+      },
+      "correctAnswer": "A",
+      "explanation": "In (2x + 1)/(x² + 1), degree of numerator is 1 and degree of denominator is 2. Since 1 < 2, it is proper."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is an improper rational fraction?",
+      "options": {
+        "A": "(x² + 5) / (x² - 1)",
+        "B": "(x + 1) / (x² + 3)",
+        "C": "1 / (x + 2)",
+        "D": "(3x - 2) / (x³ + 1)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The degree of numerator is 2 and denominator is 2. Since 2 ≥ 2, it is an improper fraction."
+    },
+    {
+      "id": 6,
+      "question": "An equation which is satisfied by all possible values of the variable is called a/an:",
+      "options": {
+        "A": "Identity",
+        "B": "Conditional equation",
+        "C": "Linear equation",
+        "D": "Inconsistent equation"
+      },
+      "correctAnswer": "A",
+      "explanation": "An algebraic identity (such as (x + 1)² ≡ x² + 2x + 1) holds true for all real values of x."
+    },
+    {
+      "id": 7,
+      "question": "(x + 3)(x + 4) = x² + 7x + 12 is a/an:",
+      "options": {
+        "A": "Identity",
+        "B": "Conditional equation",
+        "C": "Linear equation",
+        "D": "Inconsistent equation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Expanding the left side yields identically x² + 7x + 12 for every value of x, satisfying the definition of an identity."
+    },
+    {
+      "id": 8,
+      "question": "The partial fraction form of 1 / [(x - 1)(x + 2)] is:",
+      "options": {
+        "A": "A/(x - 1) + B/(x + 2)",
+        "B": "A/(x - 1) + B/(x + 2)²",
+        "C": "(Ax + B)/[(x - 1)(x + 2)]",
+        "D": "A/(x - 1)² + B/(x + 2)"
+      },
+      "correctAnswer": "A",
+      "explanation": "For non-repeated linear factors (ax + b), each factor produces a term of the form A/(ax + b)."
+    },
+    {
+      "id": 9,
+      "question": "The partial fraction form of 1 / [(x - 1)²(x + 2)] is:",
+      "options": {
+        "A": "A/(x - 1) + B/(x - 1)² + C/(x + 2)",
+        "B": "A/(x - 1) + B/(x + 2)",
+        "C": "(Ax + B)/(x - 1)² + C/(x + 2)",
+        "D": "A/(x - 1)² + B/(x + 2)²"
+      },
+      "correctAnswer": "A",
+      "explanation": "A repeated linear factor (x - 1)² requires two terms: A/(x - 1) + B/(x - 1)², plus C/(x + 2) for the distinct linear factor."
+    },
+    {
+      "id": 10,
+      "question": "The partial fraction form of 1 / [(x² + 1)(x + 2)] is:",
+      "options": {
+        "A": "(Ax + B)/(x² + 1) + C/(x + 2)",
+        "B": "A/(x² + 1) + B/(x + 2)",
+        "C": "A/(x² + 1) + (Bx + C)/(x + 2)",
+        "D": "(Ax + B)/(x² + 1)² + C/(x + 2)"
+      },
+      "correctAnswer": "A",
+      "explanation": "An irreducible quadratic factor (x² + 1) in the denominator requires a linear numerator (Ax + B)."
+    },
+    {
+      "id": 11,
+      "question": "The partial fraction form of 1 / [(x² + 1)²(x - 1)] is:",
+      "options": {
+        "A": "(Ax + B)/(x² + 1) + (Cx + D)/(x² + 1)² + E/(x - 1)",
+        "B": "(Ax + B)/(x² + 1)² + C/(x - 1)",
+        "C": "A/(x² + 1) + B/(x² + 1)² + C/(x - 1)",
+        "D": "(Ax + B)/(x² + 1) + C/(x - 1)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Repeated irreducible quadratic factors require ascending powers with linear numerators for each power."
+    },
+    {
+      "id": 12,
+      "question": "The number of partial fractions of 1 / (x³ - 1) is:",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "1",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "x³ - 1 = (x - 1)(x² + x + 1). Decomposition is A/(x - 1) + (Bx + C)/(x² + x + 1), which has 2 partial fractions."
+    },
+    {
+      "id": 13,
+      "question": "The number of partial fractions of (x² + 1) / [(x - 1)(x + 2)(x - 3)] is:",
+      "options": {
+        "A": "3",
+        "B": "2",
+        "C": "4",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "There are 3 distinct linear factors in the denominator, resulting in A/(x - 1) + B/(x + 2) + C/(x - 3) (3 partial fractions)."
+    },
+    {
+      "id": 14,
+      "question": "If 1 / [(x - 1)(x + 1)] = A/(x - 1) + B/(x + 1), then the value of A is:",
+      "options": {
+        "A": "1/2",
+        "B": "-1/2",
+        "C": "1",
+        "D": "-1"
+      },
+      "correctAnswer": "A",
+      "explanation": "1 = A(x + 1) + B(x - 1). Setting x = 1: 1 = A(2) ⟹ A = 1/2."
+    },
+    {
+      "id": 15,
+      "question": "If 1 / [(x - 1)(x + 1)] = A/(x - 1) + B/(x + 1), then the value of B is:",
+      "options": {
+        "A": "-1/2",
+        "B": "1/2",
+        "C": "-1",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Setting x = -1: 1 = B(-2) ⟹ B = -1/2."
+    },
+    {
+      "id": 16,
+      "question": "To resolve an improper fraction into partial fractions, the first step is to:",
+      "options": {
+        "A": "Perform polynomial long division",
+        "B": "Factor the numerator",
+        "C": "Equate coefficients directly",
+        "D": "Multiply by denominator"
+      },
+      "correctAnswer": "A",
+      "explanation": "Improper fractions must first be divided by long division into a polynomial quotient plus a proper rational fraction."
+    },
+    {
+      "id": 17,
+      "question": "In partial fraction decomposition, the zero method (substitution) is primarily used to find constants associated with:",
+      "options": {
+        "A": "Non-repeated linear factors",
+        "B": "Irreducible quadratic factors",
+        "C": "Repeated quadratic factors",
+        "D": "Improper quotients"
+      },
+      "correctAnswer": "A",
+      "explanation": "Setting each linear factor to zero immediately isolates its specific numerator constant without simultaneous equations."
+    },
+    {
+      "id": 18,
+      "question": "A quadratic factor ax² + bx + c is irreducible over real numbers if:",
+      "options": {
+        "A": "b² - 4ac < 0",
+        "B": "b² - 4ac ≥ 0",
+        "C": "b² - 4ac = 0",
+        "D": "a = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "If Disc < 0, the quadratic polynomial cannot be factored into real linear factors and is termed irreducible over ℝ."
+    },
+    {
+      "id": 19,
+      "question": "The fraction (x² - 3) / (2x + 1) is a/an:",
+      "options": {
+        "A": "Improper fraction",
+        "B": "Proper fraction",
+        "C": "Identity",
+        "D": "Partial fraction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Degree of numerator is 2, while degree of denominator is 1. Since 2 > 1, it is an improper rational fraction."
+    },
+    {
+      "id": 20,
+      "question": "How many constants are to be determined in the partial fractions of (x + 2) / [(x² + 4)(x - 1)]?",
+      "options": {
+        "A": "3",
+        "B": "2",
+        "C": "4",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "(Ax + B)/(x² + 4) + C/(x - 1) involves 3 unknown constants: A, B, and C."
+    },
+    {
+      "id": 21,
+      "question": "The identity (x + 1)² = x² + 2x + 1 holds true for:",
+      "options": {
+        "A": "All real numbers x",
+        "B": "Only x = 0",
+        "C": "Only x = 1",
+        "D": "Only positive values of x"
+      },
+      "correctAnswer": "A",
+      "explanation": "An identity is satisfied by every real value of the variable in its domain."
+    },
+    {
+      "id": 22,
+      "question": "The fraction 2x / (x² - 4) decomposes into partial fractions as:",
+      "options": {
+        "A": "1/(x - 2) + 1/(x + 2)",
+        "B": "1/(x - 2) - 1/(x + 2)",
+        "C": "2/(x - 2) + 2/(x + 2)",
+        "D": "2x/(x - 2) + 2x/(x + 2)"
+      },
+      "correctAnswer": "A",
+      "explanation": "2x/[(x-2)(x+2)] = A/(x-2) + B/(x+2). At x=2, 4 = 4A ⟹ A=1. At x=-2, -4 = -4B ⟹ B=1. So 1/(x-2) + 1/(x+2)."
+    },
+    {
+      "id": 23,
+      "question": "What is the degree of the polynomial in the denominator of 7x / [(x - 1)(x + 2)²]?",
+      "options": {
+        "A": "3",
+        "B": "2",
+        "C": "1",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "(x - 1) is degree 1 and (x + 2)² is degree 2. Total degree of denominator is 1 + 2 = 3."
+    },
+    {
+      "id": 24,
+      "question": "The number of partial fractions of (x³ + 1) / [(x - 1)(x - 2)] after long division will be:",
+      "options": {
+        "A": "2 partial fractions (plus a linear polynomial quotient)",
+        "B": "1 partial fraction",
+        "C": "3 partial fractions",
+        "D": "4 partial fractions"
+      },
+      "correctAnswer": "A",
+      "explanation": "After dividing out the degree 1 polynomial quotient, the remainder fraction has 2 distinct linear denominator factors, giving 2 partial fractions."
+    },
+    {
+      "id": 25,
+      "question": "In resolving into partial fractions, equating coefficients of like powers of x is based on the property that:",
+      "options": {
+        "A": "Two identical polynomials have equal corresponding coefficients",
+        "B": "All polynomials equal zero",
+        "C": "Roots of polynomials are always real",
+        "D": "The degree of polynomial is undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "If two polynomials are identically equal (an identity), the coefficients of corresponding powers of x on both sides must be equal."
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "chapterNumber": 5,
+  "chapterTitle": "Unit 05: Sets and Functions",
+  "totalQuestions": 30,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A well-defined collection of distinct objects is called a/an:",
+      "options": {
+        "A": "Set",
+        "B": "Relation",
+        "C": "Function",
+        "D": "Matrix"
+      },
+      "correctAnswer": "A",
+      "explanation": "By Cantor's classical definition, a set is a well-defined collection of distinct objects."
+    },
+    {
+      "id": 2,
+      "question": "A set containing no elements at all is called a/an:",
+      "options": {
+        "A": "Empty set (or Null set)",
+        "B": "Universal set",
+        "C": "Singleton set",
+        "D": "Infinite set"
+      },
+      "correctAnswer": "A",
+      "explanation": "An empty or null set contains zero elements and is symbolized by ∅ or {}."
+    },
+    {
+      "id": 3,
+      "question": "The number of elements in the power set P(S) of a set S having n elements is:",
+      "options": {
+        "A": "2ⁿ",
+        "B": "n²",
+        "C": "2n",
+        "D": "n!"
+      },
+      "correctAnswer": "A",
+      "explanation": "The power set consists of all possible subsets of S. If n(S) = n, the total number of subsets is 2ⁿ."
+    },
+    {
+      "id": 4,
+      "question": "If S = {1, 2, 3}, then the number of elements in P(S) is:",
+      "options": {
+        "A": "8",
+        "B": "6",
+        "C": "9",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Here n = 3. The number of subsets in the power set is 2³ = 8."
+    },
+    {
+      "id": 5,
+      "question": "The set of irrational numbers is represented by:",
+      "options": {
+        "A": "Q'",
+        "B": "Q",
+        "C": "R",
+        "D": "Z"
+      },
+      "correctAnswer": "A",
+      "explanation": "Irrational numbers cannot be written as p/q and are denoted by Q' (the complement of rational numbers Q in ℝ)."
+    },
+    {
+      "id": 6,
+      "question": "The complement of set A with respect to universal set U is defined as:",
+      "options": {
+        "A": "U - A",
+        "B": "A - U",
+        "C": "U ∪ A",
+        "D": "U ∩ A"
+      },
+      "correctAnswer": "A",
+      "explanation": "By definition, A' = U - A, which contains all elements of the universal set U that do not belong to A."
+    },
+    {
+      "id": 7,
+      "question": "For any set A, A ∪ A' is equal to:",
+      "options": {
+        "A": "U (Universal set)",
+        "B": "∅",
+        "C": "A",
+        "D": "A'"
+      },
+      "correctAnswer": "A",
+      "explanation": "Union of any set with its complement produces the entire universal set U."
+    },
+    {
+      "id": 8,
+      "question": "For any set A, A ∩ A' is equal to:",
+      "options": {
+        "A": "∅",
+        "B": "U",
+        "C": "A",
+        "D": "{0}"
+      },
+      "correctAnswer": "A",
+      "explanation": "A set and its complement have no elements in common; their intersection is the empty set ∅."
+    },
+    {
+      "id": 9,
+      "question": "De Morgan's first law of sets states that:",
+      "options": {
+        "A": "(A ∪ B)' = A' ∩ B'",
+        "B": "(A ∪ B)' = A' ∪ B'",
+        "C": "(A ∩ B)' = A' ∩ B'",
+        "D": "A' ∪ B' = U"
+      },
+      "correctAnswer": "A",
+      "explanation": "De Morgan's law states that the complement of the union of two sets is the intersection of their individual complements: (A ∪ B)' = A' ∩ B'."
+    },
+    {
+      "id": 10,
+      "question": "De Morgan's second law of sets states that:",
+      "options": {
+        "A": "(A ∩ B)' = A' ∪ B'",
+        "B": "(A ∩ B)' = A' ∩ B'",
+        "C": "(A ∪ B)' = A' ∩ B'",
+        "D": "(A - B)' = A' - B'"
+      },
+      "correctAnswer": "A",
+      "explanation": "The complement of an intersection equals the union of the complements: (A ∩ B)' = A' ∪ B'."
+    },
+    {
+      "id": 11,
+      "question": "If A ∩ B = ∅, then the sets A and B are called:",
+      "options": {
+        "A": "Disjoint sets",
+        "B": "Overlapping sets",
+        "C": "Equal sets",
+        "D": "Equivalent sets"
+      },
+      "correctAnswer": "A",
+      "explanation": "Two sets with zero shared elements (intersection empty) are mutually disjoint sets."
+    },
+    {
+      "id": 12,
+      "question": "If n(A) = 3 and n(B) = 2, then the number of elements in A × B is:",
+      "options": {
+        "A": "6",
+        "B": "5",
+        "C": "8",
+        "D": "9"
+      },
+      "correctAnswer": "A",
+      "explanation": "The cardinal number of a Cartesian product is n(A × B) = n(A) · n(B) = 3 · 2 = 6."
+    },
+    {
+      "id": 13,
+      "question": "If n(A) = 2 and n(B) = 3, how many binary relations can be formed from A to B?",
+      "options": {
+        "A": "2⁶ = 64",
+        "B": "6",
+        "C": "2⁵ = 32",
+        "D": "2⁴ = 16"
+      },
+      "correctAnswer": "A",
+      "explanation": "Any binary relation is a subset of A × B. Total subsets = 2^(n(A)·n(B)) = 2⁶ = 64."
+    },
+    {
+      "id": 14,
+      "question": "A relation f: A → B is a function if:",
+      "options": {
+        "A": "Dom f = A and every element of A has a unique image in B",
+        "B": "Range f = B only",
+        "C": "Dom f = B",
+        "D": "A ∩ B = ∅"
+      },
+      "correctAnswer": "A",
+      "explanation": "A relation f is a well-defined function if Dom(f) = A and no first element of any ordered pair is repeated."
+    },
+    {
+      "id": 15,
+      "question": "A function f: A → B is called an onto (surjective) function if:",
+      "options": {
+        "A": "Range f = B",
+        "B": "Range f ⊂ B (proper subset)",
+        "C": "Range f = A",
+        "D": "Dom f = B"
+      },
+      "correctAnswer": "A",
+      "explanation": "When the range of the function is identical to the codomain B, the function is surjective or onto."
+    },
+    {
+      "id": 16,
+      "question": "A function f: A → B is called an into function if:",
+      "options": {
+        "A": "Range f ⊂ B (Range is a proper subset of B)",
+        "B": "Range f = B",
+        "C": "Range f = A",
+        "D": "Dom f ⊂ A"
+      },
+      "correctAnswer": "A",
+      "explanation": "In an into function, at least one element of the codomain B does not have a preimage in A."
+    },
+    {
+      "id": 17,
+      "question": "A function that is both one-one (injective) and onto (surjective) is called a/an:",
+      "options": {
+        "A": "Bijective function (one-to-one correspondence)",
+        "B": "Into function",
+        "C": "Constant function",
+        "D": "Identity function only"
+      },
+      "correctAnswer": "A",
+      "explanation": "A bijective mapping establishes an exact one-to-one correspondence between sets A and B, making it invertible."
+    },
+    {
+      "id": 18,
+      "question": "The linear function f(x) = ax + b becomes the identity function if:",
+      "options": {
+        "A": "a = 1, b = 0",
+        "B": "a = 0, b = 1",
+        "C": "a = 0, b = 0",
+        "D": "a = 1, b = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "The identity function is defined as f(x) = x. Matching ax + b = x gives a = 1 and b = 0."
+    },
+    {
+      "id": 19,
+      "question": "The linear function f(x) = ax + b becomes a constant function if:",
+      "options": {
+        "A": "a = 0",
+        "B": "b = 0",
+        "C": "a = 1",
+        "D": "a = b"
+      },
+      "correctAnswer": "A",
+      "explanation": "Setting a = 0 makes f(x) = b for all x, which is the definition of a constant function."
+    },
+    {
+      "id": 20,
+      "question": "If A = {1, 2} and B = {a, b}, then which of the following is a binary relation from A to B?",
+      "options": {
+        "A": "{(1, a), (2, b)}",
+        "B": "{(a, 1), (b, 2)}",
+        "C": "{(1, 2), (a, b)}",
+        "D": "{(1, 1), (2, 2)}"
+      },
+      "correctAnswer": "A",
+      "explanation": "A relation from A to B must have first components from A = {1, 2} and second components from B = {a, b}."
+    },
+    {
+      "id": 21,
+      "question": "Which of the following two sets are equal?",
+      "options": {
+        "A": "A = {1, 2, 3} and B = {2, 1, 3}",
+        "B": "A = {1, 2} and B = {1}",
+        "C": "A = {1, 2} and B = {1, 2, 3}",
+        "D": "A = {1, 2, 4} and B = {1, 2, 3}"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sets are equal if they contain exactly the same elements, regardless of order: {1, 2, 3} = {2, 1, 3}."
+    },
+    {
+      "id": 22,
+      "question": "Empty set is a/an:",
+      "options": {
+        "A": "Finite set",
+        "B": "Infinite set",
+        "C": "Universal set",
+        "D": "Unknown set"
+      },
+      "correctAnswer": "A",
+      "explanation": "An empty set contains 0 elements. Since 0 is a whole number, it is classified as a finite set."
+    },
+    {
+      "id": 23,
+      "question": "If U = {1, 2, 3, ..., 10} and A = {2, 4, 6, 8, 10}, then A' is:",
+      "options": {
+        "A": "{1, 3, 5, 7, 9}",
+        "B": "{2, 4, 6, 8, 10}",
+        "C": "∅",
+        "D": "U"
+      },
+      "correctAnswer": "A",
+      "explanation": "A' = U - A = odd natural numbers up to 10 = {1, 3, 5, 7, 9}."
+    },
+    {
+      "id": 24,
+      "question": "If R = {(1, 2), (2, 3), (3, 4)}, then the domain of R is:",
+      "options": {
+        "A": "{1, 2, 3}",
+        "B": "{2, 3, 4}",
+        "C": "{1, 2, 3, 4}",
+        "D": "{1, 3}"
+      },
+      "correctAnswer": "A",
+      "explanation": "The domain is the set of all first coordinates in the ordered pairs: {1, 2, 3}."
+    },
+    {
+      "id": 25,
+      "question": "If R = {(1, 2), (2, 3), (3, 4)}, then the range of R is:",
+      "options": {
+        "A": "{2, 3, 4}",
+        "B": "{1, 2, 3}",
+        "C": "{1, 4}",
+        "D": "{1, 2, 3, 4}"
+      },
+      "correctAnswer": "A",
+      "explanation": "The range is the set of all second coordinates in the ordered pairs: {2, 3, 4}."
+    },
+    {
+      "id": 26,
+      "question": "Every set is an improper subset of:",
+      "options": {
+        "A": "Itself",
+        "B": "Empty set",
+        "C": "Universal set only",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "For any set A, A ⊆ A, which is the definition of an improper subset."
+    },
+    {
+      "id": 27,
+      "question": "The Venn diagram representing A ⊆ B shows circle A entirely:",
+      "options": {
+        "A": "Inside circle B",
+        "B": "Outside circle B",
+        "C": "Overlapping circle B partially",
+        "D": "Disjoint from B"
+      },
+      "correctAnswer": "A",
+      "explanation": "When every element of A is in B, region A is completely contained inside region B."
+    },
+    {
+      "id": 28,
+      "question": "The symmetric difference of sets A and B, denoted A Δ B, is:",
+      "options": {
+        "A": "(A - B) ∪ (B - A)",
+        "B": "A ∩ B",
+        "C": "(A ∪ B)'",
+        "D": "A - B"
+      },
+      "correctAnswer": "A",
+      "explanation": "The symmetric difference contains elements belonging to either A or B but not both: (A - B) ∪ (B - A)."
+    },
+    {
+      "id": 29,
+      "question": "If set A has 4 elements, the number of proper subsets of A is:",
+      "options": {
+        "A": "15",
+        "B": "16",
+        "C": "8",
+        "D": "14"
+      },
+      "correctAnswer": "A",
+      "explanation": "Total subsets = 2⁴ = 16. Proper subsets exclude the set itself: 16 - 1 = 15."
+    },
+    {
+      "id": 30,
+      "question": "In the Cartesian coordinate plane, the point (0, y) always lies on the:",
+      "options": {
+        "A": "y-axis",
+        "B": "x-axis",
+        "C": "Origin",
+        "D": "First quadrant"
+      },
+      "correctAnswer": "A",
+      "explanation": "Every point with x-coordinate = 0 lies on the vertical y-axis."
+    }
+  ]
+}

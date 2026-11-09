@@ -26,6 +26,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     };
   }
 
+  const isGrade10 = chapter.subject === 'math-10' || slug.startsWith('math-10');
   const isGrade9 =
     chapter.subject === 'physics-9' ||
     slug.startsWith('physics-9') ||
@@ -46,7 +47,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     chapter.subject === 'biology-9' ||
     slug.startsWith('biology-9');
   let subjectName = 'Physics';
-  if (chapter.subject === 'urdu-9' || slug.startsWith('urdu-9')) subjectName = 'Urdu Compulsory (اردو لازمی)';
+  if (isGrade10) subjectName = 'Mathematics (ریاضی)';
+  else if (chapter.subject === 'urdu-9' || slug.startsWith('urdu-9')) subjectName = 'Urdu Compulsory (اردو لازمی)';
   else if (chapter.subject === 'tarjuma-9' || slug.startsWith('tarjuma-9')) subjectName = 'Tarjuma-tul-Quran (ترجمۃ القرآن المجید)';
   else if (chapter.subject === 'english-9' || slug.startsWith('english-9')) subjectName = 'English Compulsory';
   else if (chapter.subject === 'islamiat-9' || slug.startsWith('islamiat-9')) subjectName = 'Islamiat Compulsory (اسلامیات لازمی)';
@@ -64,7 +66,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   else if (chapter.subject === 'chemistry') subjectName = 'Chemistry (کیمسٹری)';
   else if (chapter.subject === 'physics-9' || slug.startsWith('physics-9')) subjectName = 'Physics';
 
-  const classLabel = isGrade9 ? 'Class 9 (SSC-I)' : 'Class 11 (HSSC-I)';
+  const classLabel = isGrade10 ? 'Class 10 (SSC-II)' : isGrade9 ? 'Class 9 (SSC-I)' : 'Class 11 (HSSC-I)';
 
   return {
     title: `${chapter.chapterTitle} | ${classLabel} ${subjectName} MCQs | SochBadlo Prep`,

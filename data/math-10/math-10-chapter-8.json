@@ -1,0 +1,249 @@
+{
+  "chapterNumber": 8,
+  "chapterTitle": "Unit 08: Projection of a Side of a Triangle",
+  "totalQuestions": 20,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In an obtuse-angled triangle, the square on the side opposite to the obtuse angle is equal to the sum of the squares on the sides containing the obtuse angle together with:",
+      "options": {
+        "A": "Twice the rectangle contained by one of those sides and the projection of the other upon it",
+        "B": "The rectangle contained by one of those sides and the projection",
+        "C": "Twice the square of the median",
+        "D": "Half the product of the two sides"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theorem 1 of Unit 8 states: c² = a² + b² + 2ap (for obtuse angle opposite side c)."
+    },
+    {
+      "id": 2,
+      "question": "In an acute-angled triangle, the square on the side opposite to an acute angle is equal to the sum of the squares on the sides containing that acute angle:",
+      "options": {
+        "A": "Diminished by twice the rectangle contained by one of those sides and the projection of the other upon it",
+        "B": "Increased by twice the rectangle contained by those sides",
+        "C": "Diminished by half the rectangle",
+        "D": "Equal to the sum of their squares only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theorem 2 states: c² = a² + b² - 2ap for an acute angle."
+    },
+    {
+      "id": 3,
+      "question": "When the included angle of a triangle becomes a right angle (90°), the projection p becomes zero, and the theorem reduces to:",
+      "options": {
+        "A": "Pythagoras' Theorem",
+        "B": "Apollonius' Theorem",
+        "C": "De Moivre's Theorem",
+        "D": "Ceva's Theorem"
+      },
+      "correctAnswer": "A",
+      "explanation": "With angle = 90°, p = 0, leaving c² = a² + b², which is Pythagoras' theorem."
+    },
+    {
+      "id": 4,
+      "question": "Apollonius' theorem relates the sides of any triangle to its:",
+      "options": {
+        "A": "Median",
+        "B": "Incircle radius",
+        "C": "Circumcentre",
+        "D": "Angle bisector only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Apollonius' Theorem states: AB² + AC² = 2(AD² + BD²), where AD is the median to side BC."
+    },
+    {
+      "id": 5,
+      "question": "The geometric projection of a point upon a straight line is a:",
+      "options": {
+        "A": "Point (the foot of the perpendicular)",
+        "B": "Line segment",
+        "C": "Ray",
+        "D": "Circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "Projecting a point P onto line L produces the single point where the perpendicular from P intersects L."
+    },
+    {
+      "id": 6,
+      "question": "The projection of a line segment perpendicular to a given line upon that line is a:",
+      "options": {
+        "A": "Single point (length = 0)",
+        "B": "Line segment of equal length",
+        "C": "Ray",
+        "D": "Line segment of half length"
+      },
+      "correctAnswer": "A",
+      "explanation": "If a segment is perpendicular to the line of projection, both its endpoints project onto the exact same point, so its projection length is zero."
+    },
+    {
+      "id": 7,
+      "question": "The projection of a line segment parallel to a given line upon that line has length:",
+      "options": {
+        "A": "Equal to the length of the segment",
+        "B": "Zero",
+        "C": "Half of the segment",
+        "D": "Double the segment"
+      },
+      "correctAnswer": "A",
+      "explanation": "When a segment is parallel to the target line, the projected segment forms an exact rectangle with it, preserving its original length."
+    },
+    {
+      "id": 8,
+      "question": "In triangle ABC with acute angle C, if a = 5 cm, b = 6 cm, and projection p of b on a is 2 cm, then c² is:",
+      "options": {
+        "A": "41 cm²",
+        "B": "61 cm²",
+        "C": "81 cm²",
+        "D": "21 cm²"
+      },
+      "correctAnswer": "A",
+      "explanation": "c² = a² + b² - 2ap = 5² + 6² - 2(5)(2) = 25 + 36 - 20 = 41 cm²."
+    },
+    {
+      "id": 9,
+      "question": "In triangle ABC with obtuse angle C, if a = 4, b = 3, and projection p = 1, then c² is:",
+      "options": {
+        "A": "33",
+        "B": "25",
+        "C": "17",
+        "D": "49"
+      },
+      "correctAnswer": "A",
+      "explanation": "c² = a² + b² + 2ap = 4² + 3² + 2(4)(1) = 16 + 9 + 8 = 33."
+    },
+    {
+      "id": 10,
+      "question": "In triangle ABC, if c² > a² + b², then angle C is:",
+      "options": {
+        "A": "Obtuse",
+        "B": "Acute",
+        "C": "Right",
+        "D": "Straight"
+      },
+      "correctAnswer": "A",
+      "explanation": "If c² > a² + b², the opposite angle C is obtuse (> 90°)."
+    },
+    {
+      "id": 11,
+      "question": "In triangle ABC, if c² < a² + b², then angle C is:",
+      "options": {
+        "A": "Acute",
+        "B": "Obtuse",
+        "C": "Right",
+        "D": "Reflex"
+      },
+      "correctAnswer": "A",
+      "explanation": "If the square on the longest side is less than the sum of the squares on the other two, all angles are acute (< 90°)."
+    },
+    {
+      "id": 12,
+      "question": "In triangle ABC, if c² = a² + b², then angle C is:",
+      "options": {
+        "A": "Right angle (90°)",
+        "B": "Acute",
+        "C": "Obtuse",
+        "D": "45°"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the Converse of Pythagoras' Theorem, c² = a² + b² implies angle C = 90°."
+    },
+    {
+      "id": 13,
+      "question": "If the sides of a triangle are 6 cm, 8 cm, and 10 cm, the triangle is:",
+      "options": {
+        "A": "Right-angled",
+        "B": "Acute-angled",
+        "C": "Obtuse-angled",
+        "D": "Equilateral"
+      },
+      "correctAnswer": "A",
+      "explanation": "6² + 8² = 36 + 64 = 100 = 10². Hence it is a right-angled triangle."
+    },
+    {
+      "id": 14,
+      "question": "If the sides of a triangle are 5 cm, 7 cm, and 9 cm, the triangle is:",
+      "options": {
+        "A": "Obtuse-angled",
+        "B": "Right-angled",
+        "C": "Acute-angled",
+        "D": "Isosceles"
+      },
+      "correctAnswer": "A",
+      "explanation": "5² + 7² = 25 + 49 = 74. Since 9² = 81 > 74, the triangle is obtuse-angled."
+    },
+    {
+      "id": 15,
+      "question": "If the sides of a triangle are 5 cm, 6 cm, and 7 cm, the triangle is:",
+      "options": {
+        "A": "Acute-angled",
+        "B": "Obtuse-angled",
+        "C": "Right-angled",
+        "D": "Equilateral"
+      },
+      "correctAnswer": "A",
+      "explanation": "5² + 6² = 25 + 36 = 61. Since 7² = 49 < 61, the triangle is acute-angled."
+    },
+    {
+      "id": 16,
+      "question": "In Apollonius' theorem, if D is the midpoint of BC, the median AD divides BC into two segments such that BD = :",
+      "options": {
+        "A": "BC / 2",
+        "B": "BC / 3",
+        "C": "2 BC",
+        "D": "BC"
+      },
+      "correctAnswer": "A",
+      "explanation": "By definition of midpoint, D bisects BC into BD = CD = BC/2."
+    },
+    {
+      "id": 17,
+      "question": "The projection of side AC on side BC of triangle ABC is denoted mathematically by:",
+      "options": {
+        "A": "The segment between the foot of perpendicular from A and vertex C",
+        "B": "The length of altitude AD",
+        "C": "The hypotenuse",
+        "D": "The median AD"
+      },
+      "correctAnswer": "A",
+      "explanation": "Projection of AC on BC is the segment CD where D is the foot of the perpendicular dropped from A to line BC."
+    },
+    {
+      "id": 18,
+      "question": "In an equilateral triangle of side 's', the length of the projection of any side on another side is:",
+      "options": {
+        "A": "s / 2",
+        "B": "s",
+        "C": "s√3 / 2",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Projection = s · cos 60° = s(1/2) = s/2."
+    },
+    {
+      "id": 19,
+      "question": "If a line segment makes an angle θ with a line L, the length of its projection on L is:",
+      "options": {
+        "A": "length × cos θ",
+        "B": "length × sin θ",
+        "C": "length × tan θ",
+        "D": "length / cos θ"
+      },
+      "correctAnswer": "A",
+      "explanation": "By trigonometry, adjacent side in the right projection triangle is Hypotenuse · cos θ."
+    },
+    {
+      "id": 20,
+      "question": "In any parallelogram, the sum of the squares on the four sides is equal to the:",
+      "options": {
+        "A": "Sum of the squares on its diagonals",
+        "B": "Product of its diagonals",
+        "C": "Twice the sum of its diagonals",
+        "D": "Area squared"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Parallelogram Law (derived from Apollonius' Theorem) states 2(a² + b²) = d₁² + d₂²."
+    }
+  ]
+}

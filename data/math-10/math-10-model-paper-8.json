@@ -1,0 +1,189 @@
+{
+  "chapterNumber": 21,
+  "chapterTitle": "Federal Board Annual Exam Simulator 08 (Specialized Simulator A - Lecturer Nimra Abid)",
+  "totalQuestions": 15,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The transpose of a row matrix is a:",
+      "options": {
+        "A": "Column matrix",
+        "B": "Diagonal matrix",
+        "C": "Null matrix",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Transposing a 1 × n row matrix interchanges rows and columns into an n × 1 column matrix."
+    },
+    {
+      "id": 2,
+      "question": "The inverse of a matrix exists if and only if it is a:",
+      "options": {
+        "A": "Non-singular matrix (|A| ≠ 0)",
+        "B": "Singular matrix (|A| = 0)",
+        "C": "Null matrix",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "A matrix inverse A⁻¹ = Adj(A)/|A| exists if and only if |A| ≠ 0 (non-singular)."
+    },
+    {
+      "id": 3,
+      "question": "If k is any scalar, then (k A B)ᵗ is equal to:",
+      "options": {
+        "A": "k Bᵗ Aᵗ",
+        "B": "(AB)ᵗ",
+        "C": "Aᵗ Bᵗ",
+        "D": "k Aᵗ Bᵗ"
+      },
+      "correctAnswer": "A",
+      "explanation": "By properties of matrix transposition: (AB)ᵗ = Bᵗ Aᵗ, so (kAB)ᵗ = k Bᵗ Aᵗ."
+    },
+    {
+      "id": 4,
+      "question": "For a square matrix A = [a_ij], if all a_ij = 0 for all i and j, then A is a:",
+      "options": {
+        "A": "Null matrix",
+        "B": "Diagonal matrix",
+        "C": "Column matrix",
+        "D": "Singular matrix only"
+      },
+      "correctAnswer": "A",
+      "explanation": "A matrix whose every entry is 0 is defined as the null (zero) matrix."
+    },
+    {
+      "id": 5,
+      "question": "The mathematical constant π is a/an:",
+      "options": {
+        "A": "Irrational number",
+        "B": "Whole number",
+        "C": "Rational number",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "π has a non-terminating and non-repeating decimal expansion, making it an irrational number."
+    },
+    {
+      "id": 6,
+      "question": "A number which has a finite decimal part is called:",
+      "options": {
+        "A": "Terminating decimal",
+        "B": "Non-terminating decimal",
+        "C": "Recurring decimal",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Decimals with a finite number of digits after the decimal point are terminating decimals."
+    },
+    {
+      "id": 7,
+      "question": "The multiplicative identity of a complex number (x, y) is:",
+      "options": {
+        "A": "(1, 0)",
+        "B": "(0, 0)",
+        "C": "(0, 1)",
+        "D": "(1, 1)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The number 1 + 0i = (1, 0) is the multiplicative identity for all complex numbers."
+    },
+    {
+      "id": 8,
+      "question": "The value of i²³ + i⁵⁸ + i²¹ is:",
+      "options": {
+        "A": "-1",
+        "B": "1",
+        "C": "-i",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "i²³ = i²⁰ · i³ = 1(-i) = -i; i⁵⁸ = i⁵⁶ · i² = 1(-1) = -1; i²¹ = i²⁰ · i = 1(i) = i. Sum = -i - 1 + i = -1."
+    },
+    {
+      "id": 9,
+      "question": "Every real number is a/an:",
+      "options": {
+        "A": "Complex number (with imaginary part zero)",
+        "B": "Natural number",
+        "C": "Rational number only",
+        "D": "Irrational number only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Any real number x can be written as x + 0i, so ℝ ⊂ ℂ."
+    },
+    {
+      "id": 10,
+      "question": "|z₁ z₂| is equal to:",
+      "options": {
+        "A": "|z₁| |z₂|",
+        "B": "|z₁|",
+        "C": "|z₂|",
+        "D": "1 / |z₁|"
+      },
+      "correctAnswer": "A",
+      "explanation": "The modulus of a product of complex numbers equals the product of their moduli: |z₁ z₂| = |z₁| |z₂|."
+    },
+    {
+      "id": 11,
+      "question": "The linear function f(x) = ax + b becomes the identity function if:",
+      "options": {
+        "A": "a = 1, b = 0",
+        "B": "a = b = 0",
+        "C": "a = b = 1",
+        "D": "a = 0, b = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "The identity function f(x) = x requires coefficient a = 1 and constant b = 0."
+    },
+    {
+      "id": 12,
+      "question": "A constant polynomial is also called a:",
+      "options": {
+        "A": "Zero degree polynomial",
+        "B": "Linear polynomial",
+        "C": "Non-linear polynomial",
+        "D": "No degree polynomial"
+      },
+      "correctAnswer": "A",
+      "explanation": "A non-zero constant c = c·x⁰ has degree 0."
+    },
+    {
+      "id": 13,
+      "question": "What is the x-intercept of every point on the y-axis?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "The y-axis is the line x = 0; every point on it has x-coordinate zero."
+    },
+    {
+      "id": 14,
+      "question": "If f(x) = tan x, then f(π/4) is equal to:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "2"
+      },
+      "correctAnswer": "A",
+      "explanation": "π/4 radians = 45°. tan(45°) = 1."
+    },
+    {
+      "id": 15,
+      "question": "In the complex plane, imaginary points (pure imaginary numbers) are drawn on the:",
+      "options": {
+        "A": "y-axis",
+        "B": "x-axis",
+        "C": "Origin",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "In an Argand diagram, the vertical y-axis represents the imaginary axis."
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "chapterNumber": 10,
+  "chapterTitle": "Unit 10: Tangent to a Circle",
+  "totalQuestions": 20,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A line which intersects a circle in only one single point is called a:",
+      "options": {
+        "A": "Tangent line",
+        "B": "Secant line",
+        "C": "Chord",
+        "D": "Diameter"
+      },
+      "correctAnswer": "A",
+      "explanation": "A tangent touches the circle at exactly one point, known as the point of contact."
+    },
+    {
+      "id": 2,
+      "question": "A line which intersects a circle in two distinct points is called a:",
+      "options": {
+        "A": "Secant line",
+        "B": "Tangent line",
+        "C": "Radial segment",
+        "D": "Normal"
+      },
+      "correctAnswer": "A",
+      "explanation": "A secant line cuts through the circle, intersecting it at two distinct points."
+    },
+    {
+      "id": 3,
+      "question": "The radial segment drawn to the point of contact of a tangent is:",
+      "options": {
+        "A": "Perpendicular to the tangent line",
+        "B": "Parallel to the tangent line",
+        "C": "At 45° to the tangent line",
+        "D": "Collinear with the tangent line"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theorem 1 of Unit 10: The radius drawn to the point of contact is perpendicular to the tangent (angle = 90°)."
+    },
+    {
+      "id": 4,
+      "question": "The number of tangents that can be drawn to a circle from a point outside it is:",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "0",
+        "D": "Infinitely many"
+      },
+      "correctAnswer": "A",
+      "explanation": "From any external point P, exactly two tangents (PA and PB) can be drawn to the circle."
+    },
+    {
+      "id": 5,
+      "question": "The lengths of two tangents drawn from an external point to a circle are:",
+      "options": {
+        "A": "Equal",
+        "B": "Unequal",
+        "C": "Double each other",
+        "D": "Half each other"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theorem 2 of Unit 10: Two tangents drawn to a circle from an exterior point have identical lengths (PA = PB)."
+    },
+    {
+      "id": 6,
+      "question": "How many tangents can be drawn to a circle from a point lying inside the circle?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "Infinite"
+      },
+      "correctAnswer": "A",
+      "explanation": "Every line through an interior point is a secant; zero tangents can be drawn."
+    },
+    {
+      "id": 7,
+      "question": "How many tangents can be drawn to a circle at a given point lying on the circle?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "0",
+        "D": "Infinite"
+      },
+      "correctAnswer": "A",
+      "explanation": "At any specific point on the circumference, exactly one unique tangent line can be drawn."
+    },
+    {
+      "id": 8,
+      "question": "If PA and PB are two tangents from P to a circle with centre O, the quadrilateral PAOB is a/an:",
+      "options": {
+        "A": "Cyclic quadrilateral",
+        "B": "Square always",
+        "C": "Parallelogram",
+        "D": "Trapezium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since ∠PAO = ∠PBO = 90°, their sum is 180°, making opposite angles supplementary and PAOB cyclic."
+    },
+    {
+      "id": 9,
+      "question": "If the angle between two tangents drawn from an external point is 60°, the angle subtended by their chord of contact at the centre is:",
+      "options": {
+        "A": "120°",
+        "B": "60°",
+        "C": "90°",
+        "D": "180°"
+      },
+      "correctAnswer": "A",
+      "explanation": "The central angle and the angle between tangents are supplementary: 180° - 60° = 120°."
+    },
+    {
+      "id": 10,
+      "question": "If a tangent PA of length 12 cm is drawn to a circle of radius 5 cm, the distance of P from the centre O is:",
+      "options": {
+        "A": "13 cm",
+        "B": "15 cm",
+        "C": "17 cm",
+        "D": "14 cm"
+      },
+      "correctAnswer": "A",
+      "explanation": "Triangle OAP is right-angled at A. OP = √(OA² + PA²) = √(5² + 12²) = √(25 + 144) = √169 = 13 cm."
+    },
+    {
+      "id": 11,
+      "question": "Tangents drawn at the endpoints of a diameter of a circle are:",
+      "options": {
+        "A": "Parallel to each other",
+        "B": "Perpendicular to each other",
+        "C": "Intersecting at 45°",
+        "D": "Coincident"
+      },
+      "correctAnswer": "A",
+      "explanation": "Both tangents are perpendicular to the same diameter line, making them parallel to each other."
+    },
+    {
+      "id": 12,
+      "question": "Two circles touch each other externally. How many common tangents can be drawn to them?",
+      "options": {
+        "A": "3",
+        "B": "2",
+        "C": "4",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Two external direct common tangents plus one transverse common tangent at the point of contact = 3 common tangents."
+    },
+    {
+      "id": 13,
+      "question": "Two circles touch each other internally. How many common tangents can be drawn to them?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "There is only one common tangent passing through their single shared point of internal contact."
+    },
+    {
+      "id": 14,
+      "question": "Two circles intersect at two distinct points. How many common tangents can be drawn to them?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Intersecting circles have exactly 2 direct common tangents."
+    },
+    {
+      "id": 15,
+      "question": "Two completely separate non-intersecting circles have how many common tangents?",
+      "options": {
+        "A": "4 (2 direct, 2 transverse)",
+        "B": "2",
+        "C": "3",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Two disjoint circles admit 2 direct and 2 transverse (internal) common tangents, totaling 4."
+    },
+    {
+      "id": 16,
+      "question": "The line segment joining the centres of two touching circles passes through:",
+      "options": {
+        "A": "Their point of contact",
+        "B": "External space",
+        "C": "Origin only",
+        "D": "Chord endpoint"
+      },
+      "correctAnswer": "A",
+      "explanation": "The centres and the point of contact are collinear."
+    },
+    {
+      "id": 17,
+      "question": "If two circles of radii 5 cm and 3 cm touch externally, the distance between their centres is:",
+      "options": {
+        "A": "8 cm",
+        "B": "2 cm",
+        "C": "15 cm",
+        "D": "4 cm"
+      },
+      "correctAnswer": "A",
+      "explanation": "For externally touching circles, distance between centres d = r₁ + r₂ = 5 + 3 = 8 cm."
+    },
+    {
+      "id": 18,
+      "question": "If two circles of radii 7 cm and 3 cm touch internally, the distance between their centres is:",
+      "options": {
+        "A": "4 cm",
+        "B": "10 cm",
+        "C": "21 cm",
+        "D": "2 cm"
+      },
+      "correctAnswer": "A",
+      "explanation": "For internally touching circles, distance between centres d = |r₁ - r₂| = 7 - 3 = 4 cm."
+    },
+    {
+      "id": 19,
+      "question": "The perpendicular to a tangent line at its point of contact passes through:",
+      "options": {
+        "A": "The centre of the circle",
+        "B": "An external point",
+        "C": "A parallel chord",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "The normal to a circle at any point on its circumference is the radial line, which passes through the centre."
+    },
+    {
+      "id": 20,
+      "question": "A circle has only one:",
+      "options": {
+        "A": "Centre",
+        "B": "Chord",
+        "C": "Tangent",
+        "D": "Secant"
+      },
+      "correctAnswer": "A",
+      "explanation": "A circle has infinitely many chords, tangents, and secants, but exactly one unique centre point."
+    }
+  ]
+}

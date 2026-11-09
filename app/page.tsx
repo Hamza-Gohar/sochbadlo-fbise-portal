@@ -23,6 +23,7 @@ export default function HomePage() {
   const chemistry9Chapters = getChaptersIndex('chemistry-9');
   const cs9Chapters = getChaptersIndex('cs-9');
   const biology9Chapters = getChaptersIndex('biology-9');
+  const math10Chapters = getChaptersIndex('math-10');
 
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const biologyTotal = biologyChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -42,6 +43,7 @@ export default function HomePage() {
   const chemistry9Total = chemistry9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const cs9Total = cs9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const biology9Total = biology9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const math10Total = math10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
 
   const totalQuestions =
     physicsTotal +
@@ -61,7 +63,8 @@ export default function HomePage() {
     islamiat9Total +
     chemistry9Total +
     cs9Total +
-    biology9Total;
+    biology9Total +
+    math10Total;
   const totalModules =
     physicsChapters.length +
     biologyChapters.length +
@@ -80,7 +83,8 @@ export default function HomePage() {
     islamiat9Chapters.length +
     chemistry9Chapters.length +
     cs9Chapters.length +
-    biology9Chapters.length;
+    biology9Chapters.length +
+    math10Chapters.length;
 
   return (
     <div className="min-h-screen flex flex-col justify-between">
@@ -93,14 +97,14 @@ export default function HomePage() {
             <div className="max-w-3xl">
               <div className="inline-flex items-center gap-2 px-2.5 py-1 border border-[var(--color-rule-2)] text-xs font-mono uppercase tracking-widest text-[var(--color-muted)] mb-4 bg-[var(--color-paper-2)]">
                 <span className="w-1.5 h-1.5 rounded-full bg-emerald-600"></span>
-                Official FBISE Curriculum Preparation Portal · Class 9th & 11th
+                Official FBISE Curriculum Preparation Portal · Class 9th, 10th & 11th
               </div>
               <h1 className="font-[family-name:var(--font-display)] text-3xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-[var(--color-ink)] leading-[1.05] mb-5">
                 FBISE Examination Testing & Preparation Platform
               </h1>
               <p className="text-base sm:text-lg text-[var(--color-ink-2)] max-w-2xl leading-relaxed font-[family-name:var(--font-body)]">
-                Master Federal Board SSC-I (Matric Part 1) and HSSC-I (Intermediate Part 1) examinations with authentic chapter-wise test series, instant conceptual explanations,
-                Class 9th Biology (10 chapters + 8 Section A simulators by Lecturer Rubina Ashraf), Class 9th Computer Science (7 chapters + 4 Section A simulators by Lecturer Sabahat Ul Hasan & Aryan Ali), Class 9th Chemistry (19 chapters + 4 Section A simulators by Lecturer Ayesha Amjad), Class 9th English Compulsory (7 units + 4 Section A simulators by Lecturer Adeela Naheed), Class 9th Islamiat Compulsory (7 units + 4 Section A simulators by Lecturer Tayabah Rafaqat), Class 9th Urdu Compulsory (7 units + 4 Section A simulators), Class 9th Tarjuma-tul-Quran (9 units + 4 bilingual simulators), Class 9th Mathematics (11 units + 2 Section A simulators), Class 9th Physics (9 units + 2 Section A simulators), Biology (حیاتیات), Chemistry (کیمسٹری with Lecturer Ayesha Amjad rationales),
+                Master Federal Board SSC-I (Matric Part 1), SSC-II (Matric Part 2), and HSSC-I (Intermediate Part 1) examinations with authentic chapter-wise test series, instant conceptual explanations,
+                Class 10th Mathematics (13 units + 10 Section A simulators by Lecturer Jazab & Nimra Abid), Class 9th Biology (10 chapters + 8 Section A simulators by Lecturer Rubina Ashraf), Class 9th Computer Science (7 chapters + 4 Section A simulators by Lecturer Sabahat Ul Hasan & Aryan Ali), Class 9th Chemistry (19 chapters + 4 Section A simulators by Lecturer Ayesha Amjad), Class 9th English Compulsory (7 units + 4 Section A simulators by Lecturer Adeela Naheed), Class 9th Islamiat Compulsory (7 units + 4 Section A simulators by Lecturer Tayabah Rafaqat), Class 9th Urdu Compulsory (7 units + 4 Section A simulators), Class 9th Tarjuma-tul-Quran (9 units + 4 bilingual simulators), Class 9th Mathematics (11 units + 2 Section A simulators), Class 9th Physics (9 units + 2 Section A simulators), Biology (حیاتیات), Chemistry (کیمسٹری with Lecturer Ayesha Amjad rationales),
                 Physics formulas, English syntax & poetic devices, Urdu literature and rhetoric (علمِ بیان و علمِ بدیع), Islamiat Compulsory (اسلامیات لازمی),
                 Tarjuma-tul-Quran (ترجمۃ القرآن المجید), Mathematics step-by-step problem solving, Computer Science logic, and timed board exam simulations.
               </p>
@@ -156,6 +160,7 @@ export default function HomePage() {
           chemistry9Chapters={chemistry9Chapters}
           cs9Chapters={cs9Chapters}
           biology9Chapters={biology9Chapters}
+          math10Chapters={math10Chapters}
         />
 
         {/* Hallmark Editorial Note & Exam Tips */}

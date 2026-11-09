@@ -1,0 +1,249 @@
+{
+  "chapterNumber": 13,
+  "chapterTitle": "Unit 13: Practical Geometry — Circles",
+  "totalQuestions": 20,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A circle which passes through all three vertices of a triangle is called the:",
+      "options": {
+        "A": "Circumscribed circle (Circumcircle)",
+        "B": "Inscribed circle (Incircle)",
+        "C": "Escribed circle (Excircle)",
+        "D": "Concentric circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "The circle circumscribing a triangle passes through all three vertices, and its centre is the circumcentre."
+    },
+    {
+      "id": 2,
+      "question": "The centre of a circumscribed circle (circumcentre) is the point of concurrency of the:",
+      "options": {
+        "A": "Right bisectors of the sides of the triangle",
+        "B": "Internal bisectors of the angles of the triangle",
+        "C": "Medians of the triangle",
+        "D": "Altitudes of the triangle"
+      },
+      "correctAnswer": "A",
+      "explanation": "Perpendicular bisectors of the triangle's sides are concurrent at the circumcentre."
+    },
+    {
+      "id": 3,
+      "question": "A circle which touches all three sides of a triangle internally is called the:",
+      "options": {
+        "A": "Inscribed circle (Incircle)",
+        "B": "Circumscribed circle",
+        "C": "Escribed circle",
+        "D": "Great circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "An incircle is drawn inside the triangle, tangent to all three sides."
+    },
+    {
+      "id": 4,
+      "question": "The centre of an inscribed circle (incentre) is the point of concurrency of the:",
+      "options": {
+        "A": "Internal bisectors of the angles of the triangle",
+        "B": "Right bisectors of the sides",
+        "C": "Altitudes",
+        "D": "Medians"
+      },
+      "correctAnswer": "A",
+      "explanation": "The internal angle bisectors meet at the incentre, which is equidistant from the three sides."
+    },
+    {
+      "id": 5,
+      "question": "A circle which touches one side of a triangle externally and the other two produced sides is called a/an:",
+      "options": {
+        "A": "Escribed circle (Excircle)",
+        "B": "Inscribed circle",
+        "C": "Circumscribed circle",
+        "D": "Concentric circle"
+      },
+      "correctAnswer": "A",
+      "explanation": "An excircle touches one side externally and two extended sides."
+    },
+    {
+      "id": 6,
+      "question": "How many escribed circles (excircles) can be drawn for any triangle?",
+      "options": {
+        "A": "3",
+        "B": "1",
+        "C": "2",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Every triangle has exactly three excircles, one opposite each of its three vertices."
+    },
+    {
+      "id": 7,
+      "question": "The centre of an escribed circle opposite to vertex A is the intersection of the:",
+      "options": {
+        "A": "Internal bisector of ∠A and external bisectors of ∠B and ∠C",
+        "B": "External bisectors of all three angles",
+        "C": "Right bisectors of sides",
+        "D": "Altitudes of the triangle"
+      },
+      "correctAnswer": "A",
+      "explanation": "The excentre I₁ is the concurrence point of the internal bisector of angle A and the external bisectors of angles B and C."
+    },
+    {
+      "id": 8,
+      "question": "In a right-angled triangle, the circumcentre lies:",
+      "options": {
+        "A": "At the midpoint of the hypotenuse",
+        "B": "Inside the triangle",
+        "C": "Outside the triangle",
+        "D": "At the right-angle vertex"
+      },
+      "correctAnswer": "A",
+      "explanation": "Because the hypotenuse subtends a 90° angle, it serves as diameter of the circumcircle; its midpoint is the circumcentre."
+    },
+    {
+      "id": 9,
+      "question": "In an obtuse-angled triangle, the circumcentre lies:",
+      "options": {
+        "A": "Outside the triangle",
+        "B": "Inside the triangle",
+        "C": "On the longest side",
+        "D": "At the obtuse vertex"
+      },
+      "correctAnswer": "A",
+      "explanation": "For an obtuse triangle, the circumcentre falls outside the triangle opposite the obtuse angle."
+    },
+    {
+      "id": 10,
+      "question": "In an acute-angled triangle, the circumcentre lies:",
+      "options": {
+        "A": "Inside the triangle",
+        "B": "Outside the triangle",
+        "C": "On the boundary",
+        "D": "At a vertex"
+      },
+      "correctAnswer": "A",
+      "explanation": "For all acute-angled triangles, the circumcentre lies strictly inside the triangle."
+    },
+    {
+      "id": 11,
+      "question": "The incentre of ANY triangle always lies:",
+      "options": {
+        "A": "Inside the triangle",
+        "B": "Outside the triangle",
+        "C": "On the longest side",
+        "D": "At the centroid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Because the incircle is enclosed within the three triangle sides, the incentre always lies strictly inside the triangle."
+    },
+    {
+      "id": 12,
+      "question": "In an equilateral triangle, the circumcentre, incentre, centroid, and orthocentre:",
+      "options": {
+        "A": "Coincide at the exact same point",
+        "B": "Are four distinct points",
+        "C": "Lie outside the triangle",
+        "D": "Do not exist"
+      },
+      "correctAnswer": "A",
+      "explanation": "By perfect 3-fold symmetry, all four classical triangle centres coincide at one single point in an equilateral triangle."
+    },
+    {
+      "id": 13,
+      "question": "To draw a tangent to a circle from an external point P, we first construct a circle on line segment OP as:",
+      "options": {
+        "A": "Diameter",
+        "B": "Radius",
+        "C": "Chord",
+        "D": "Tangent"
+      },
+      "correctAnswer": "A",
+      "explanation": "Using OP as diameter ensures that the inscribed angle at the circle's boundary is 90°, identifying the points of tangency."
+    },
+    {
+      "id": 14,
+      "question": "The radii of circumcircle R, incircle r, and excircles r₁, r₂, r₃ of an equilateral triangle of side 'a' satisfy the ratio:",
+      "options": {
+        "A": "r : R = 1 : 2",
+        "B": "r : R = 1 : 3",
+        "C": "r : R = 2 : 3",
+        "D": "r : R = 1 : 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "In an equilateral triangle, R = a/√3 and r = a/(2√3), giving the standard ratio r : R = 1 : 2."
+    },
+    {
+      "id": 15,
+      "question": "How many direct common tangents can be drawn to two separate non-intersecting circles?",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Two non-intersecting circles have 2 direct common tangents (and 2 transverse common tangents, totaling 4)."
+    },
+    {
+      "id": 16,
+      "question": "How many transverse common tangents can be drawn to two separate non-intersecting circles?",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "There are 2 transverse (internal crossing) common tangents between two separate disjoint circles."
+    },
+    {
+      "id": 17,
+      "question": "If two circles of equal radii touch externally, the transverse common tangent at the point of contact is:",
+      "options": {
+        "A": "Perpendicular to the line joining their centres",
+        "B": "Parallel to the line of centres",
+        "C": "At 45° to the line of centres",
+        "D": "Coincident with the line of centres"
+      },
+      "correctAnswer": "A",
+      "explanation": "The line connecting centres is the common normal; the tangent at the contact point is perpendicular to it."
+    },
+    {
+      "id": 18,
+      "question": "The length of the transverse common tangent between two circles is:",
+      "options": {
+        "A": "Less than the length of the direct common tangent",
+        "B": "Greater than the direct common tangent",
+        "C": "Equal to the direct common tangent",
+        "D": "Double the direct common tangent"
+      },
+      "correctAnswer": "A",
+      "explanation": "L_direct = √(d² - (r₁ - r₂)²), while L_transverse = √(d² - (r₁ + r₂)²). Since (r₁+r₂)² > (r₁-r₂)², transverse length is shorter."
+    },
+    {
+      "id": 19,
+      "question": "The radius of the incircle of a triangle with area Δ and semi-perimeter s is given by:",
+      "options": {
+        "A": "r = Δ / s",
+        "B": "r = s / Δ",
+        "C": "r = Δ · s",
+        "D": "r = 2Δ / s"
+      },
+      "correctAnswer": "A",
+      "explanation": "The area of the triangle is the sum of three sub-triangles: Δ = 1/2 ar + 1/2 br + 1/2 cr = r(a+b+c)/2 = rs ⟹ r = Δ/s."
+    },
+    {
+      "id": 20,
+      "question": "The radius of an escribed circle touching side 'a' of a triangle is given by:",
+      "options": {
+        "A": "r₁ = Δ / (s - a)",
+        "B": "r₁ = Δ / s",
+        "C": "r₁ = (s - a) / Δ",
+        "D": "r₁ = Δ / (s + a)"
+      },
+      "correctAnswer": "A",
+      "explanation": "By standard geometry formulas for excircles: r₁ = Δ / (s - a), r₂ = Δ / (s - b), and r₃ = Δ / (s - c)."
+    }
+  ]
+}

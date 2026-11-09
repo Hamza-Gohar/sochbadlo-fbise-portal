@@ -1,0 +1,369 @@
+{
+  "chapterNumber": 6,
+  "chapterTitle": "Unit 06: Basic Statistics",
+  "totalQuestions": 30,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The difference between the upper limit of two consecutive classes in a frequency table is called the:",
+      "options": {
+        "A": "Class interval (or Class width)",
+        "B": "Class mark",
+        "C": "Class limit",
+        "D": "Range"
+      },
+      "correctAnswer": "A",
+      "explanation": "The distance between consecutive upper class limits (or lower limits) is defined as the class interval or class width (h)."
+    },
+    {
+      "id": 2,
+      "question": "A cumulative frequency curve is also commonly called a/an:",
+      "options": {
+        "A": "Ogive",
+        "B": "Histogram",
+        "C": "Pie chart",
+        "D": "Frequency polygon"
+      },
+      "correctAnswer": "A",
+      "explanation": "In graphical statistics, a smooth cumulative frequency curve is termed an ogive."
+    },
+    {
+      "id": 3,
+      "question": "The number of times a particular observation appears in a dataset is called its:",
+      "options": {
+        "A": "Frequency",
+        "B": "Cumulative frequency",
+        "C": "Class mark",
+        "D": "Range"
+      },
+      "correctAnswer": "A",
+      "explanation": "The repetition count of an observation in raw data is defined as its frequency (f)."
+    },
+    {
+      "id": 4,
+      "question": "The mode of the data: 3, 2, 1, 1, 1, 5, 3, 1, 2, 1, 2 is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "5"
+      },
+      "correctAnswer": "A",
+      "explanation": "The value 1 appears 5 times, which is more frequent than any other value. Thus mode = 1."
+    },
+    {
+      "id": 5,
+      "question": "In which dataset are the mean, median, and mode all equal to 2?",
+      "options": {
+        "A": "1, 2, 2, 2, 3",
+        "B": "1, 2, 3, 4, 5",
+        "C": "2, 2, 2, 4, 5",
+        "D": "1, 1, 2, 3, 3"
+      },
+      "correctAnswer": "A",
+      "explanation": "For 1, 2, 2, 2, 3: Mean = (1+2+2+2+3)/5 = 10/5 = 2. Median = middle value = 2. Mode = 2."
+    },
+    {
+      "id": 6,
+      "question": "The arithmetic mean of numbers 10, 12, 16, 20, 22 is:",
+      "options": {
+        "A": "16",
+        "B": "15",
+        "C": "14",
+        "D": "18"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mean = (10 + 12 + 16 + 20 + 22) / 5 = 80 / 5 = 16."
+    },
+    {
+      "id": 7,
+      "question": "The median of the observations: 4, 1, 8, 13, 2, 7, 5 is:",
+      "options": {
+        "A": "5",
+        "B": "4",
+        "C": "7",
+        "D": "8"
+      },
+      "correctAnswer": "A",
+      "explanation": "Arranging in ascending order: 1, 2, 4, 5, 7, 8, 13. With n = 7, the 4th (middle) observation is 5."
+    },
+    {
+      "id": 8,
+      "question": "The middle value of an ordered dataset is defined as the:",
+      "options": {
+        "A": "Median",
+        "B": "Mean",
+        "C": "Mode",
+        "D": "Standard deviation"
+      },
+      "correctAnswer": "A",
+      "explanation": "The median divides an ordered distribution into two equal halves (50% below, 50% above)."
+    },
+    {
+      "id": 9,
+      "question": "The value which occurs with the greatest frequency in a dataset is called the:",
+      "options": {
+        "A": "Mode",
+        "B": "Mean",
+        "C": "Median",
+        "D": "Variance"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mode is the observation that occurs most frequently in a distribution."
+    },
+    {
+      "id": 10,
+      "question": "The difference between the maximum and minimum observations in a dataset is called:",
+      "options": {
+        "A": "Range",
+        "B": "Variance",
+        "C": "Standard deviation",
+        "D": "Class mark"
+      },
+      "correctAnswer": "A",
+      "explanation": "Range = X_max - X_min, measuring the total spread of the data."
+    },
+    {
+      "id": 11,
+      "question": "The positive square root of the arithmetic mean of squared deviations from the mean is called:",
+      "options": {
+        "A": "Standard deviation",
+        "B": "Variance",
+        "C": "Range",
+        "D": "Mean deviation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Standard deviation σ = √[ Σ(x - x̄)² / n ]."
+    },
+    {
+      "id": 12,
+      "question": "The square of the standard deviation is called the:",
+      "options": {
+        "A": "Variance",
+        "B": "Range",
+        "C": "Mean deviation",
+        "D": "Coefficient of variation"
+      },
+      "correctAnswer": "A",
+      "explanation": "By definition, Variance (σ²) is the square of the standard deviation."
+    },
+    {
+      "id": 13,
+      "question": "If the variance of a dataset is 16, then its standard deviation is:",
+      "options": {
+        "A": "4",
+        "B": "256",
+        "C": "8",
+        "D": "2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Standard deviation = +√Variance = +√16 = 4."
+    },
+    {
+      "id": 14,
+      "question": "The mid-point of a class interval with limits 10 and 20 is:",
+      "options": {
+        "A": "15",
+        "B": "10",
+        "C": "20",
+        "D": "30"
+      },
+      "correctAnswer": "A",
+      "explanation": "Class mark x = (10 + 20) / 2 = 30 / 2 = 15."
+    },
+    {
+      "id": 15,
+      "question": "The empirical relationship between mean, median, and mode for moderately skewed data is:",
+      "options": {
+        "A": "Mode ≈ 3 Median - 2 Mean",
+        "B": "Mode ≈ 2 Median - 3 Mean",
+        "C": "Mode ≈ 3 Mean - 2 Median",
+        "D": "Mean ≈ 3 Median - 2 Mode"
+      },
+      "correctAnswer": "A",
+      "explanation": "Karl Pearson's empirical formula states: Mode = 3 Median - 2 Mean."
+    },
+    {
+      "id": 16,
+      "question": "A histogram is a graphical representation of grouped data consisting of adjacent:",
+      "options": {
+        "A": "Rectangles",
+        "B": "Sectors",
+        "C": "Circles",
+        "D": "Triangles"
+      },
+      "correctAnswer": "A",
+      "explanation": "A histogram consists of adjacent vertical rectangles whose widths represent class boundaries and heights represent frequencies."
+    },
+    {
+      "id": 17,
+      "question": "The sum of deviations of all observations from their arithmetic mean (Σ(x - x̄)) is always:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "Positive",
+        "D": "Negative"
+      },
+      "correctAnswer": "A",
+      "explanation": "A fundamental algebraic property of the arithmetic mean is that Σ(x - x̄) = Σx - n(x̄) = n(x̄) - n(x̄) = 0."
+    },
+    {
+      "id": 18,
+      "question": "Geometric mean of two numbers 4 and 16 is:",
+      "options": {
+        "A": "8",
+        "B": "10",
+        "C": "64",
+        "D": "2"
+      },
+      "correctAnswer": "A",
+      "explanation": "G.M. = √(4 · 16) = √64 = 8."
+    },
+    {
+      "id": 19,
+      "question": "Harmonic mean of two numbers a and b is given by:",
+      "options": {
+        "A": "2ab / (a + b)",
+        "B": "(a + b) / 2",
+        "C": "√(ab)",
+        "D": "(a + b) / (2ab)"
+      },
+      "correctAnswer": "A",
+      "explanation": "H.M. = 2 / (1/a + 1/b) = 2 / [(b + a)/ab] = 2ab / (a + b)."
+    },
+    {
+      "id": 20,
+      "question": "For any set of positive distinct numbers, the relationship between A.M, G.M, and H.M is:",
+      "options": {
+        "A": "A.M > G.M > H.M",
+        "B": "A.M < G.M < H.M",
+        "C": "G.M > A.M > H.M",
+        "D": "H.M > A.M > G.M"
+      },
+      "correctAnswer": "A",
+      "explanation": "For any non-identical positive real numbers, the arithmetic mean strictly exceeds the geometric mean, which exceeds the harmonic mean."
+    },
+    {
+      "id": 21,
+      "question": "If each observation in a dataset is increased by 5, the arithmetic mean will:",
+      "options": {
+        "A": "Increase by 5",
+        "B": "Remain unchanged",
+        "C": "Increase by 25",
+        "D": "Multiply by 5"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adding a constant c to every observation increases the mean by exactly that constant c."
+    },
+    {
+      "id": 22,
+      "question": "If each observation in a dataset is multiplied by 3, the standard deviation will:",
+      "options": {
+        "A": "Multiply by 3",
+        "B": "Multiply by 9",
+        "C": "Remain unchanged",
+        "D": "Increase by 3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Standard deviation is scaled by |c|. Multiplying all observations by 3 multiplies standard deviation by 3."
+    },
+    {
+      "id": 23,
+      "question": "Standard deviation is independent of:",
+      "options": {
+        "A": "Change of origin (addition/subtraction of a constant)",
+        "B": "Change of scale (multiplication/division)",
+        "C": "Both origin and scale",
+        "D": "Units of measurement"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adding or subtracting a constant shifts all data points equally, leaving the dispersion (spread) unchanged."
+    },
+    {
+      "id": 24,
+      "question": "A dataset with two modes is called:",
+      "options": {
+        "A": "Bimodal",
+        "B": "Unimodal",
+        "C": "Multimodal",
+        "D": "Trimodal"
+      },
+      "correctAnswer": "A",
+      "explanation": "When two distinct values share the highest equal frequency, the distribution is classified as bimodal."
+    },
+    {
+      "id": 25,
+      "question": "In a pie chart, the angle of the sector for a component is calculated as:",
+      "options": {
+        "A": "(Component value / Total value) × 360°",
+        "B": "(Component value / Total value) × 100°",
+        "C": "(Component value / Total value) × 180°",
+        "D": "(Total value / Component value) × 360°"
+      },
+      "correctAnswer": "A",
+      "explanation": "A circle has 360°. The sector angle is proportional to the fraction of the total multiplied by 360°."
+    },
+    {
+      "id": 26,
+      "question": "The range of the values: 12, 6, 7, 3, 15, 10, 18, 5 is:",
+      "options": {
+        "A": "15",
+        "B": "18",
+        "C": "12",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "X_max = 18, X_min = 3. Range = 18 - 3 = 15."
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is NOT a measure of central tendency?",
+      "options": {
+        "A": "Variance",
+        "B": "Arithmetic mean",
+        "C": "Median",
+        "D": "Mode"
+      },
+      "correctAnswer": "A",
+      "explanation": "Variance is a measure of dispersion (spread), whereas mean, median, and mode are measures of central location."
+    },
+    {
+      "id": 28,
+      "question": "The median of 10, 12, 14, 16, 18, 20 is:",
+      "options": {
+        "A": "15",
+        "B": "14",
+        "C": "16",
+        "D": "14.5"
+      },
+      "correctAnswer": "A",
+      "explanation": "With an even sample size n = 6, median is the average of the 3rd and 4th terms: (14 + 16)/2 = 15."
+    },
+    {
+      "id": 29,
+      "question": "For a symmetrical distribution:",
+      "options": {
+        "A": "Mean = Median = Mode",
+        "B": "Mean > Median > Mode",
+        "C": "Mean < Median < Mode",
+        "D": "Mean ≠ Median"
+      },
+      "correctAnswer": "A",
+      "explanation": "In a perfectly symmetrical unimodal distribution, the center of gravity (mean), 50th percentile (median), and peak (mode) coincide."
+    },
+    {
+      "id": 30,
+      "question": "The sum of frequencies (Σf) in a frequency distribution table represents:",
+      "options": {
+        "A": "The total number of observations (N)",
+        "B": "The sample mean",
+        "C": "The class width",
+        "D": "The variance"
+      },
+      "correctAnswer": "A",
+      "explanation": "Summing all class frequencies gives the total count of data observations: Σf = N."
+    }
+  ]
+}

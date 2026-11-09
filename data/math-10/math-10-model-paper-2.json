@@ -1,0 +1,189 @@
+{
+  "chapterNumber": 15,
+  "chapterTitle": "Federal Board Annual Exam Simulator 02 (Guess Paper 2)",
+  "totalQuestions": 15,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "If α, β are the roots of 3x² + 5x - 2 = 0, then α + β is:",
+      "options": {
+        "A": "5/3",
+        "B": "3/5",
+        "C": "-5/3",
+        "D": "-2/3"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sum of roots α + β = -b/a = -5/3."
+    },
+    {
+      "id": 2,
+      "question": "If α, β are the roots of 7x² - 5x + 2 = 0, then αβ is:",
+      "options": {
+        "A": "2/7",
+        "B": "-5/7",
+        "C": "5/7",
+        "D": "-2/7"
+      },
+      "correctAnswer": "A",
+      "explanation": "Product of roots αβ = c/a = 2/7."
+    },
+    {
+      "id": 3,
+      "question": "Roots of the equation 4x² - 5x + 2 = 0 are:",
+      "options": {
+        "A": "Irrational",
+        "B": "Imaginary",
+        "C": "Rational",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Discriminant b² - 4ac = (-5)² - 4(4)(2) = 25 - 32 = -7 < 0. Hence the roots are imaginary."
+    },
+    {
+      "id": 4,
+      "question": "Sum of the cube roots of unity (1 + ω + ω²) is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "The sum of all three cube roots of unity is identically zero."
+    },
+    {
+      "id": 5,
+      "question": "Product of the cube roots of unity (1 · ω · ω²) is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "3"
+      },
+      "correctAnswer": "B",
+      "explanation": "Product = ω³ = 1."
+    },
+    {
+      "id": 6,
+      "question": "If b² - 4ac < 0, then the roots of ax² + bx + c = 0 are:",
+      "options": {
+        "A": "Irrational",
+        "B": "Rational",
+        "C": "Imaginary",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "A negative discriminant results in the square root of a negative number, producing complex imaginary roots."
+    },
+    {
+      "id": 7,
+      "question": "If b² - 4ac > 0 but is NOT a perfect square, then the roots are:",
+      "options": {
+        "A": "Rational",
+        "B": "Irrational",
+        "C": "Imaginary",
+        "D": "Equal"
+      },
+      "correctAnswer": "B",
+      "explanation": "When Disc is positive and not a square, the square root remains a surd, yielding conjugate irrational roots."
+    },
+    {
+      "id": 8,
+      "question": "1 / α + 1 / β is equal to:",
+      "options": {
+        "A": "(α + β) / (αβ)",
+        "B": "α / β",
+        "C": "β / α",
+        "D": "αβ"
+      },
+      "correctAnswer": "A",
+      "explanation": "Taking common denominator: 1/α + 1/β = (β + α)/(αβ) = (α + β)/(αβ)."
+    },
+    {
+      "id": 9,
+      "question": "The nature of roots of equation x² + 2x + 3 = 0 is:",
+      "options": {
+        "A": "Imaginary",
+        "B": "Rational and equal",
+        "C": "Rational and unequal",
+        "D": "Irrational"
+      },
+      "correctAnswer": "A",
+      "explanation": "Disc = 2² - 4(1)(3) = 4 - 12 = -8 < 0. Thus roots are imaginary."
+    },
+    {
+      "id": 10,
+      "question": "A straight line drawn from the centre of a circle to bisect a chord (not a diameter) is:",
+      "options": {
+        "A": "Perpendicular to the chord",
+        "B": "Parallel to the chord",
+        "C": "Tangent to the chord",
+        "D": "Collinear with the chord"
+      },
+      "correctAnswer": "A",
+      "explanation": "By Theorem 1 (Chords of a Circle), the line connecting the centre to the midpoint of a chord is perpendicular to it."
+    },
+    {
+      "id": 11,
+      "question": "The perpendicular from the centre of a circle to a chord:",
+      "options": {
+        "A": "Bisects the chord",
+        "B": "Doubles the chord",
+        "C": "Equals the radius",
+        "D": "Is parallel to the chord"
+      },
+      "correctAnswer": "A",
+      "explanation": "The perpendicular dropped from the centre bisects the chord into two congruent segments."
+    },
+    {
+      "id": 12,
+      "question": "One and only one circle can pass through how many non-collinear points?",
+      "options": {
+        "A": "Three",
+        "B": "Two",
+        "C": "One",
+        "D": "Four"
+      },
+      "correctAnswer": "A",
+      "explanation": "Exactly three non-collinear points uniquely define a circle (its circumcircle)."
+    },
+    {
+      "id": 13,
+      "question": "Congruent chords of a circle are:",
+      "options": {
+        "A": "Equidistant from the centre",
+        "B": "At different distances from centre",
+        "C": "Perpendicular to each other",
+        "D": "Diameters always"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chords of equal length in a circle are equidistant from the centre."
+    },
+    {
+      "id": 14,
+      "question": "Chords of a circle which are equidistant from the centre are:",
+      "options": {
+        "A": "Congruent (equal in length)",
+        "B": "Unequal",
+        "C": "Parallel always",
+        "D": "Perpendicular"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chords having the same perpendicular distance from the centre are congruent."
+    },
+    {
+      "id": 15,
+      "question": "The longest chord in a circle is its:",
+      "options": {
+        "A": "Diameter",
+        "B": "Radius",
+        "C": "Tangent",
+        "D": "Secant"
+      },
+      "correctAnswer": "A",
+      "explanation": "The diameter passes through the centre and has maximum length 2r among all chords."
+    }
+  ]
+}

@@ -1,0 +1,369 @@
+{
+  "chapterNumber": 7,
+  "chapterTitle": "Unit 07: Introduction to Trigonometry",
+  "totalQuestions": 30,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "1 radian is equal to how many degrees (approx)?",
+      "options": {
+        "A": "57.3° (180° / π)",
+        "B": "180°",
+        "C": "90°",
+        "D": "45°"
+      },
+      "correctAnswer": "A",
+      "explanation": "1 rad = 180° / π ≈ 180 / 3.14159 ≈ 57.296° ≈ 57.3°."
+    },
+    {
+      "id": 2,
+      "question": "How many radians are there in 180°?",
+      "options": {
+        "A": "π radians",
+        "B": "2π radians",
+        "C": "π/2 radians",
+        "D": "π/4 radians"
+      },
+      "correctAnswer": "A",
+      "explanation": "By definition of circular measure, a straight angle of 180° equals exactly π radians."
+    },
+    {
+      "id": 3,
+      "question": "The relationship between arc length l, radius r, and central angle θ (in radians) is:",
+      "options": {
+        "A": "l = r θ",
+        "B": "l = r / θ",
+        "C": "θ = r l",
+        "D": "r = l θ"
+      },
+      "correctAnswer": "A",
+      "explanation": "By definition of radian measure, angle θ = l / r, which rearranges to l = rθ."
+    },
+    {
+      "id": 4,
+      "question": "If r = 6 cm and θ = 2 radians, then the arc length l is:",
+      "options": {
+        "A": "12 cm",
+        "B": "3 cm",
+        "C": "8 cm",
+        "D": "36 cm"
+      },
+      "correctAnswer": "A",
+      "explanation": "l = r θ = 6 · 2 = 12 cm."
+    },
+    {
+      "id": 5,
+      "question": "The area A of a circular sector of radius r subtending angle θ (in radians) is:",
+      "options": {
+        "A": "1/2 r² θ",
+        "B": "r² θ",
+        "C": "1/2 r θ",
+        "D": "2 r² θ"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sector area is proportional to the full circle: A = (θ / 2π) · πr² = 1/2 r² θ."
+    },
+    {
+      "id": 6,
+      "question": "The fundamental Pythagorean identity in trigonometry is:",
+      "options": {
+        "A": "sin²θ + cos²θ = 1",
+        "B": "sin²θ - cos²θ = 1",
+        "C": "tan²θ - sec²θ = 1",
+        "D": "cot²θ - csc²θ = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "From the unit circle x² + y² = 1, substituting x = cosθ and y = sinθ gives sin²θ + cos²θ = 1."
+    },
+    {
+      "id": 7,
+      "question": "1 + tan²θ is equal to:",
+      "options": {
+        "A": "sec²θ",
+        "B": "csc²θ",
+        "C": "cot²θ",
+        "D": "cos²θ"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dividing sin²θ + cos²θ = 1 by cos²θ gives tan²θ + 1 = sec²θ."
+    },
+    {
+      "id": 8,
+      "question": "1 + cot²θ is equal to:",
+      "options": {
+        "A": "csc²θ",
+        "B": "sec²θ",
+        "C": "tan²θ",
+        "D": "sin²θ"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dividing sin²θ + cos²θ = 1 by sin²θ gives 1 + cot²θ = csc²θ."
+    },
+    {
+      "id": 9,
+      "question": "sec²θ - tan²θ is equal to:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since 1 + tan²θ = sec²θ, subtracting tan²θ from both sides yields sec²θ - tan²θ = 1."
+    },
+    {
+      "id": 10,
+      "question": "The value of sin 30° is:",
+      "options": {
+        "A": "1/2",
+        "B": "√3 / 2",
+        "C": "1 / √2",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "In a 30°-60°-90° special triangle, side opposite 30° is half the hypotenuse: sin 30° = 1/2."
+    },
+    {
+      "id": 11,
+      "question": "The value of tan 45° is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "1 / √3",
+        "D": "√3"
+      },
+      "correctAnswer": "A",
+      "explanation": "In a 45°-45°-90° isosceles right triangle, opposite = adjacent, so tan 45° = 1."
+    },
+    {
+      "id": 12,
+      "question": "The value of cos 60° is:",
+      "options": {
+        "A": "1/2",
+        "B": "√3 / 2",
+        "C": "1 / √2",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "By complementary angles, cos 60° = sin 30° = 1/2."
+    },
+    {
+      "id": 13,
+      "question": "The reciprocal of sin θ is:",
+      "options": {
+        "A": "csc θ",
+        "B": "sec θ",
+        "C": "cot θ",
+        "D": "cos θ"
+      },
+      "correctAnswer": "A",
+      "explanation": "By definition of the cosecant ratio, csc θ = 1 / sin θ."
+    },
+    {
+      "id": 14,
+      "question": "The reciprocal of cos θ is:",
+      "options": {
+        "A": "sec θ",
+        "B": "csc θ",
+        "C": "tan θ",
+        "D": "cot θ"
+      },
+      "correctAnswer": "A",
+      "explanation": "The secant ratio is the reciprocal of cosine: sec θ = 1 / cos θ."
+    },
+    {
+      "id": 15,
+      "question": "In the fourth quadrant (Quadrant IV), which trigonometric ratios are positive?",
+      "options": {
+        "A": "cos θ and sec θ",
+        "B": "sin θ and csc θ",
+        "C": "tan θ and cot θ",
+        "D": "All ratios"
+      },
+      "correctAnswer": "A",
+      "explanation": "In Quadrant IV, x > 0 and y < 0, meaning cos θ = x/r > 0 and sec θ > 0, while sin and tan are negative."
+    },
+    {
+      "id": 16,
+      "question": "If sin θ > 0 and cos θ < 0, then terminal arm of angle θ lies in quadrant:",
+      "options": {
+        "A": "II",
+        "B": "I",
+        "C": "III",
+        "D": "IV"
+      },
+      "correctAnswer": "A",
+      "explanation": "sin θ > 0 in quadrants I and II; cos θ < 0 in quadrants II and III. The intersection is Quadrant II."
+    },
+    {
+      "id": 17,
+      "question": "Convert π/4 radians into sexagesimal degrees:",
+      "options": {
+        "A": "45°",
+        "B": "60°",
+        "C": "30°",
+        "D": "90°"
+      },
+      "correctAnswer": "A",
+      "explanation": "π/4 · (180° / π) = 180° / 4 = 45°."
+    },
+    {
+      "id": 18,
+      "question": "Convert 60° into circular radians:",
+      "options": {
+        "A": "π/3 radians",
+        "B": "π/6 radians",
+        "C": "π/2 radians",
+        "D": "2π/3 radians"
+      },
+      "correctAnswer": "A",
+      "explanation": "60° · (π / 180°) = 60π / 180 = π/3 radians."
+    },
+    {
+      "id": 19,
+      "question": "If tan θ = 1, and terminal arm is in Quadrant III, then θ is:",
+      "options": {
+        "A": "225° (5π/4 rad)",
+        "B": "45°",
+        "C": "135°",
+        "D": "315°"
+      },
+      "correctAnswer": "A",
+      "explanation": "In Quadrant III, reference angle 45° gives θ = 180° + 45° = 225°."
+    },
+    {
+      "id": 20,
+      "question": "The angle viewed by an observer looking upward above the horizontal line of sight is called the angle of:",
+      "options": {
+        "A": "Elevation",
+        "B": "Depression",
+        "C": "Incidence",
+        "D": "Refraction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Looking upwards from the horizontal eye level forms an angle of elevation."
+    },
+    {
+      "id": 21,
+      "question": "The angle viewed by an observer looking downward below the horizontal line of sight is called the angle of:",
+      "options": {
+        "A": "Depression",
+        "B": "Elevation",
+        "C": "Projection",
+        "D": "Subtension"
+      },
+      "correctAnswer": "A",
+      "explanation": "Looking downwards below the horizontal eye level forms an angle of depression."
+    },
+    {
+      "id": 22,
+      "question": "If a 20 m ladder leans against a vertical wall making an angle of 30° with the ground, its height on the wall is:",
+      "options": {
+        "A": "10 m",
+        "B": "20 m",
+        "C": "15 m",
+        "D": "10√3 m"
+      },
+      "correctAnswer": "A",
+      "explanation": "sin 30° = height / hypotenuse ⟹ 1/2 = h / 20 ⟹ h = 10 m."
+    },
+    {
+      "id": 23,
+      "question": "cot θ is equivalent to:",
+      "options": {
+        "A": "cos θ / sin θ",
+        "B": "sin θ / cos θ",
+        "C": "1 / cos θ",
+        "D": "1 / sec θ"
+      },
+      "correctAnswer": "A",
+      "explanation": "By quotient identity, cot θ = 1 / tan θ = cos θ / sin θ."
+    },
+    {
+      "id": 24,
+      "question": "sin (90° - θ) is identically equal to:",
+      "options": {
+        "A": "cos θ",
+        "B": "-cos θ",
+        "C": "sin θ",
+        "D": "tan θ"
+      },
+      "correctAnswer": "A",
+      "explanation": "By co-function identities of complementary angles, sin (90° - θ) = cos θ."
+    },
+    {
+      "id": 25,
+      "question": "2 cos²θ - 1 is equivalent to:",
+      "options": {
+        "A": "cos²θ - sin²θ",
+        "B": "sin²θ - cos²θ",
+        "C": "1",
+        "D": "2 sin²θ"
+      },
+      "correctAnswer": "A",
+      "explanation": "2 cos²θ - 1 = cos²θ + (cos²θ - 1) = cos²θ - (1 - cos²θ) = cos²θ - sin²θ."
+    },
+    {
+      "id": 26,
+      "question": "The value of (sin θ)(csc θ) for any defined θ is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "sin²θ"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since csc θ = 1 / sin θ, their product is identically (sin θ)(1/sin θ) = 1."
+    },
+    {
+      "id": 27,
+      "question": "If l = 30 cm and r = 6 cm, then the angle θ subtended at the centre is:",
+      "options": {
+        "A": "5 radians",
+        "B": "180 radians",
+        "C": "0.2 radians",
+        "D": "36 radians"
+      },
+      "correctAnswer": "A",
+      "explanation": "θ = l / r = 30 / 6 = 5 radians."
+    },
+    {
+      "id": 28,
+      "question": "How many degrees are in one complete rotation of a circle?",
+      "options": {
+        "A": "360°",
+        "B": "180°",
+        "C": "270°",
+        "D": "90°"
+      },
+      "correctAnswer": "A",
+      "explanation": "One full circle revolution is partitioned into 360 sexagesimal degrees (or 2π radians)."
+    },
+    {
+      "id": 29,
+      "question": "The value of cos 0° is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "At 0°, the terminal arm lies along the positive x-axis, where x = r, so cos 0° = x/r = 1."
+    },
+    {
+      "id": 30,
+      "question": "(1 - sin θ)(1 + sin θ) simplifies to:",
+      "options": {
+        "A": "cos²θ",
+        "B": "sin²θ",
+        "C": "tan²θ",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "(1 - sin θ)(1 + sin θ) = 1 - sin²θ = cos²θ by the Pythagorean identity."
+    }
+  ]
+}

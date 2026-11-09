@@ -1,0 +1,189 @@
+{
+  "chapterNumber": 22,
+  "chapterTitle": "Federal Board Annual Exam Simulator 09 (Specialized Simulator B - Lecturer Nimra Abid)",
+  "totalQuestions": 15,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The maximum number of roots of a cubic equation is:",
+      "options": {
+        "A": "3",
+        "B": "1",
+        "C": "2",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "A cubic equation has degree 3, and hence at most and exactly 3 roots in the complex plane."
+    },
+    {
+      "id": 2,
+      "question": "The quadratic equation 2x² - 3x + 1 = 0 has:",
+      "options": {
+        "A": "Real, rational roots",
+        "B": "Imaginary roots",
+        "C": "Real and imaginary roots",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Disc = (-3)² - 4(2)(1) = 9 - 8 = 1 > 0 and is a perfect square, so roots are real and rational."
+    },
+    {
+      "id": 3,
+      "question": "The equation (x + 1)² - x² = 0 has how many real roots?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "(x² + 2x + 1) - x² = 0 ⟹ 2x + 1 = 0 ⟹ x = -1/2 (exactly 1 real root)."
+    },
+    {
+      "id": 4,
+      "question": "Condition for a pure quadratic equation ax² + bx + c = 0 is:",
+      "options": {
+        "A": "b = 0",
+        "B": "a = 0",
+        "C": "a, b = 0",
+        "D": "c = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "A pure quadratic equation has no linear term, requiring b = 0."
+    },
+    {
+      "id": 5,
+      "question": "For what value of k will the equation x² - kx + 4 = 0 have sum of roots equal to product of roots?",
+      "options": {
+        "A": "4",
+        "B": "3",
+        "C": "-2",
+        "D": "-4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sum of roots = k; Product of roots = 4. Equating sum = product gives k = 4."
+    },
+    {
+      "id": 6,
+      "question": "If roots of a quadratic equation are imaginary, then:",
+      "options": {
+        "A": "b² - 4ac < 0",
+        "B": "b² - 4ac = 0",
+        "C": "b² - 4ac > 0",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Negative discriminant indicates complex imaginary roots."
+    },
+    {
+      "id": 7,
+      "question": "If p = -5 and q = 2, then the value of p²q + pq² + 2p²q is:",
+      "options": {
+        "A": "130",
+        "B": "120",
+        "C": "260",
+        "D": "350"
+      },
+      "correctAnswer": "A",
+      "explanation": "p²q + 2p²q = 3p²q = 3(-5)²(2) = 3(25)(2) = 150. pq² = (-5)(2)² = -20. Sum = 150 - 20 = 130."
+    },
+    {
+      "id": 8,
+      "question": "An equation of the type 5^x + 5^(1-x) = 1 is a/an:",
+      "options": {
+        "A": "Exponential equation",
+        "B": "Reciprocal equation",
+        "C": "Radical equation",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "The variable occurs in exponents, so it is an exponential equation."
+    },
+    {
+      "id": 9,
+      "question": "The roots of the equation 2x² - 5x - 3 = 0 are:",
+      "options": {
+        "A": "3, -1/2",
+        "B": "3, 2",
+        "C": "3, 5",
+        "D": "5, 6"
+      },
+      "correctAnswer": "A",
+      "explanation": "2x² - 6x + x - 3 = 0 ⟹ (2x + 1)(x - 3) = 0 ⟹ x = 3 or x = -1/2."
+    },
+    {
+      "id": 10,
+      "question": "If S₁, S₂ are roots of 2x² + 3x + 4 = 0, then 1/S₁ + 1/S₂ is:",
+      "options": {
+        "A": "-3/4",
+        "B": "1/4",
+        "C": "-1/2",
+        "D": "3/4"
+      },
+      "correctAnswer": "A",
+      "explanation": "1/S₁ + 1/S₂ = (S₁ + S₂)/(S₁S₂) = (-b/a)/(c/a) = -b/c = -3/4."
+    },
+    {
+      "id": 11,
+      "question": "If b² - 4ac = 0, then the roots are:",
+      "options": {
+        "A": "Equal",
+        "B": "Unequal",
+        "C": "Imaginary",
+        "D": "Irrational"
+      },
+      "correctAnswer": "A",
+      "explanation": "Zero discriminant implies identical (equal) roots."
+    },
+    {
+      "id": 12,
+      "question": "A polynomial of degree zero is called a:",
+      "options": {
+        "A": "Constant polynomial",
+        "B": "Linear polynomial",
+        "C": "Non-linear polynomial",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "P(x) = c (c ≠ 0) has degree 0 and is known as a constant polynomial."
+    },
+    {
+      "id": 13,
+      "question": "According to the number of terms, an algebraic expression with 2 terms is called a:",
+      "options": {
+        "A": "Binomial",
+        "B": "Monomial",
+        "C": "Trinomial",
+        "D": "Multinomial"
+      },
+      "correctAnswer": "A",
+      "explanation": "An expression containing exactly two unlike terms is a binomial."
+    },
+    {
+      "id": 14,
+      "question": "Irrational algebraic expressions are those expressions in which exponent of variable is a:",
+      "options": {
+        "A": "Non-integer (fractional) rational number",
+        "B": "Integer",
+        "C": "Real",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "If the variable appears under a radical sign or with a non-integer exponent, it is an irrational expression."
+    },
+    {
+      "id": 15,
+      "question": "The difference of the sum of a and b from the product of a and b is represented by:",
+      "options": {
+        "A": "ab - a - b",
+        "B": "a + b - ab",
+        "C": "2ab - b",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Product = ab; Sum = a + b. Difference of sum from product = ab - (a + b) = ab - a - b."
+    }
+  ]
+}

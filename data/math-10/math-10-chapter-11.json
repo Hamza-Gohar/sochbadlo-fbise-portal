@@ -1,0 +1,249 @@
+{
+  "chapterNumber": 11,
+  "chapterTitle": "Unit 11: Chords and Arcs",
+  "totalQuestions": 20,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A 4 cm long chord subtends a central angle of 60°. The radial segment of this circle is:",
+      "options": {
+        "A": "4 cm",
+        "B": "2 cm",
+        "C": "3 cm",
+        "D": "1 cm"
+      },
+      "correctAnswer": "A",
+      "explanation": "In triangle OAB, OA = OB = r and central angle is 60°. The remaining angles are (180° - 60°)/2 = 60°, so OAB is equilateral. Thus r = chord = 4 cm."
+    },
+    {
+      "id": 2,
+      "question": "The length of a chord and the radial segment of a circle are congruent. The central angle made by the chord will be:",
+      "options": {
+        "A": "60°",
+        "B": "30°",
+        "C": "45°",
+        "D": "75°"
+      },
+      "correctAnswer": "A",
+      "explanation": "When chord = radius, all three sides of the triangle formed by the centre and chord endpoints are equal (equilateral), so central angle = 60°."
+    },
+    {
+      "id": 3,
+      "question": "Out of two congruent arcs of a circle, if one arc subtends a central angle of 30°, the other arc will subtend a central angle of:",
+      "options": {
+        "A": "30°",
+        "B": "15°",
+        "C": "45°",
+        "D": "60°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theorem 1 of Unit 11: Congruent arcs subtend equal central angles in the same circle (or congruent circles)."
+    },
+    {
+      "id": 4,
+      "question": "An arc subtends a central angle of 40°. Then the corresponding chord will subtend a central angle of:",
+      "options": {
+        "A": "40°",
+        "B": "20°",
+        "C": "60°",
+        "D": "80°"
+      },
+      "correctAnswer": "A",
+      "explanation": "The chord connects the same endpoints as the arc; its central angle is identically 40°."
+    },
+    {
+      "id": 5,
+      "question": "If two arcs of a circle are congruent, then their corresponding chords are:",
+      "options": {
+        "A": "Equal (congruent)",
+        "B": "Parallel",
+        "C": "Perpendicular",
+        "D": "Unequal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Theorem: If two arcs of a circle are congruent, their corresponding chords are equal in length."
+    },
+    {
+      "id": 6,
+      "question": "If two chords of a circle are equal in length, their corresponding minor arcs are:",
+      "options": {
+        "A": "Congruent",
+        "B": "Unequal",
+        "C": "Supplementary",
+        "D": "Complementary"
+      },
+      "correctAnswer": "A",
+      "explanation": "Converse theorem: Equal chords cut off congruent minor (and major) arcs."
+    },
+    {
+      "id": 7,
+      "question": "An arc of a circle whose measure is less than that of a semicircle is called a/an:",
+      "options": {
+        "A": "Minor arc",
+        "B": "Major arc",
+        "C": "Chord",
+        "D": "Sector"
+      },
+      "correctAnswer": "A",
+      "explanation": "An arc subtending less than 180° at the centre is defined as a minor arc."
+    },
+    {
+      "id": 8,
+      "question": "An arc of a circle whose measure is greater than that of a semicircle is called a/an:",
+      "options": {
+        "A": "Major arc",
+        "B": "Minor arc",
+        "C": "Sector",
+        "D": "Circumference"
+      },
+      "correctAnswer": "A",
+      "explanation": "An arc subtending more than 180° at the centre is a major arc."
+    },
+    {
+      "id": 9,
+      "question": "An arc having measure equal to half of the circle's circumference is called a:",
+      "options": {
+        "A": "Semicircle",
+        "B": "Minor arc",
+        "C": "Major arc",
+        "D": "Quadrant"
+      },
+      "correctAnswer": "A",
+      "explanation": "Half of the circumference subtending 180° at the centre is a semicircle."
+    },
+    {
+      "id": 10,
+      "question": "If an arc subtends a central angle of 90°, the ratio of the chord length to radius r is:",
+      "options": {
+        "A": "√2",
+        "B": "1",
+        "C": "2",
+        "D": "√3"
+      },
+      "correctAnswer": "A",
+      "explanation": "In right triangle with legs r, r, hypotenuse chord = √(r² + r²) = r√2. Ratio chord/r = √2."
+    },
+    {
+      "id": 11,
+      "question": "Equal chords of a circle subtend central angles that are:",
+      "options": {
+        "A": "Equal",
+        "B": "Supplementary",
+        "C": "Complementary",
+        "D": "Unequal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Triangles formed by radii and equal chords are congruent by SSS, so their central angles are equal."
+    },
+    {
+      "id": 12,
+      "question": "The sum of the central angles of all non-overlapping adjacent sectors forming a complete circle is:",
+      "options": {
+        "A": "360° (2π radians)",
+        "B": "180°",
+        "C": "90°",
+        "D": "270°"
+      },
+      "correctAnswer": "A",
+      "explanation": "The total angle around the central point of a circle is 360°."
+    },
+    {
+      "id": 13,
+      "question": "If arc AB has length equal to the circumference of the circle divided by 6, its central angle is:",
+      "options": {
+        "A": "60°",
+        "B": "30°",
+        "C": "45°",
+        "D": "90°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Central angle = 360° / 6 = 60°."
+    },
+    {
+      "id": 14,
+      "question": "If chord AB = chord CD in a circle, then:",
+      "options": {
+        "A": "m(arc AB) = m(arc CD)",
+        "B": "m(arc AB) > m(arc CD)",
+        "C": "m(arc AB) < m(arc CD)",
+        "D": "m(arc AB) + m(arc CD) = 180°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equal chords intercept arcs of equal degree measure."
+    },
+    {
+      "id": 15,
+      "question": "In a circle with radius 5 cm, the perimeter of a semicircle (including diameter) is:",
+      "options": {
+        "A": "5π + 10 cm",
+        "B": "10π cm",
+        "C": "5π cm",
+        "D": "25π cm"
+      },
+      "correctAnswer": "A",
+      "explanation": "Perimeter = arc + diameter = πr + 2r = 5π + 10 cm."
+    },
+    {
+      "id": 16,
+      "question": "Two arcs of the same circle are congruent if they have:",
+      "options": {
+        "A": "The same degree measure (or equal lengths)",
+        "B": "Different central angles",
+        "C": "Parallel chords",
+        "D": "Common endpoints"
+      },
+      "correctAnswer": "A",
+      "explanation": "In a given circle, arcs are congruent if and only if their central angle measures (and lengths) are equal."
+    },
+    {
+      "id": 17,
+      "question": "A chord subtending a central angle of 180° is a:",
+      "options": {
+        "A": "Diameter",
+        "B": "Tangent",
+        "C": "Radius",
+        "D": "Minor chord"
+      },
+      "correctAnswer": "A",
+      "explanation": "A central angle of 180° forms a straight line through the centre, which is the diameter."
+    },
+    {
+      "id": 18,
+      "question": "If the minor arc AB is 100°, then the corresponding major arc AB is:",
+      "options": {
+        "A": "260°",
+        "B": "80°",
+        "C": "100°",
+        "D": "180°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major arc = 360° - minor arc = 360° - 100° = 260°."
+    },
+    {
+      "id": 19,
+      "question": "Congruent circles have equal:",
+      "options": {
+        "A": "Radii",
+        "B": "Chords only",
+        "C": "Centres only",
+        "D": "Secants only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Circles are congruent if and only if their radii (or diameters) are equal."
+    },
+    {
+      "id": 20,
+      "question": "If chord AB = 10 cm and chord CD = 10 cm in the same circle, the arcs AB and CD are:",
+      "options": {
+        "A": "Congruent",
+        "B": "Supplementary",
+        "C": "Unequal",
+        "D": "Complementary"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chords of equal length in a circle intercept congruent arcs."
+    }
+  ]
+}

@@ -1,0 +1,309 @@
+{
+  "chapterNumber": 3,
+  "chapterTitle": "Unit 03: Variations",
+  "totalQuestions": 25,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A relation between two quantities of the same kind measured in the same unit is called a/an:",
+      "options": {
+        "A": "Proportion",
+        "B": "Ratio",
+        "C": "Variation",
+        "D": "Identity"
+      },
+      "correctAnswer": "B",
+      "explanation": "A ratio is a numerical comparison of two homogeneous quantities of the same unit expressed as a : b or a/b."
+    },
+    {
+      "id": 2,
+      "question": "In the ratio a : b, the first term 'a' is called the:",
+      "options": {
+        "A": "Antecedent",
+        "B": "Consequent",
+        "C": "Mean",
+        "D": "Extreme"
+      },
+      "correctAnswer": "A",
+      "explanation": "In ratio a : b, the first term 'a' is called the antecedent and the second term 'b' is called the consequent."
+    },
+    {
+      "id": 3,
+      "question": "In the ratio a : b, the second term 'b' is called the:",
+      "options": {
+        "A": "Antecedent",
+        "B": "Consequent",
+        "C": "Mean",
+        "D": "Extreme"
+      },
+      "correctAnswer": "B",
+      "explanation": "The second term 'b' in ratio a : b is named the consequent."
+    },
+    {
+      "id": 4,
+      "question": "A statement of equality between two ratios is called a/an:",
+      "options": {
+        "A": "Proportion",
+        "B": "Fraction",
+        "C": "Equation",
+        "D": "Polynomial"
+      },
+      "correctAnswer": "A",
+      "explanation": "An equality of two ratios a : b = c : d is defined as a proportion."
+    },
+    {
+      "id": 5,
+      "question": "In the proportion a : b :: c : d, the terms 'a' and 'd' are called:",
+      "options": {
+        "A": "Means",
+        "B": "Extremes",
+        "C": "Antecedents",
+        "D": "Consequents"
+      },
+      "correctAnswer": "B",
+      "explanation": "The outer terms 'a' and 'd' are the extremes, while the inner terms 'b' and 'c' are the means."
+    },
+    {
+      "id": 6,
+      "question": "The fundamental law of proportion states that:",
+      "options": {
+        "A": "Product of extremes = Product of means (ad = bc)",
+        "B": "Sum of extremes = Sum of means",
+        "C": "Product of extremes = 1",
+        "D": "Difference of extremes = Difference of means"
+      },
+      "correctAnswer": "A",
+      "explanation": "From a/b = c/d, cross-multiplication immediately gives ad = bc (Product of extremes = Product of means)."
+    },
+    {
+      "id": 7,
+      "question": "Find x if 4 : x :: 5 : 15:",
+      "options": {
+        "A": "12",
+        "B": "10",
+        "C": "8",
+        "D": "6"
+      },
+      "correctAnswer": "A",
+      "explanation": "Product of means = Product of extremes ⟹ 5x = 4 · 15 = 60 ⟹ x = 12."
+    },
+    {
+      "id": 8,
+      "question": "The fourth proportional to 5, 8, 15 is:",
+      "options": {
+        "A": "24",
+        "B": "20",
+        "C": "18",
+        "D": "30"
+      },
+      "correctAnswer": "A",
+      "explanation": "5 : 8 :: 15 : d ⟹ 5d = 8 · 15 = 120 ⟹ d = 24."
+    },
+    {
+      "id": 9,
+      "question": "The third proportional to 6 and 12 is:",
+      "options": {
+        "A": "24",
+        "B": "18",
+        "C": "36",
+        "D": "72"
+      },
+      "correctAnswer": "A",
+      "explanation": "6 : 12 :: 12 : c ⟹ 6c = 144 ⟹ c = 24."
+    },
+    {
+      "id": 10,
+      "question": "The mean proportional between 4 and 16 is:",
+      "options": {
+        "A": "± 8",
+        "B": "± 6",
+        "C": "± 10",
+        "D": "± 64"
+      },
+      "correctAnswer": "A",
+      "explanation": "4 : m :: m : 16 ⟹ m² = 4 · 16 = 64 ⟹ m = ±8."
+    },
+    {
+      "id": 11,
+      "question": "If y varies directly as x (y ∝ x), then the mathematical relationship is:",
+      "options": {
+        "A": "y = kx, where k ≠ 0 is constant",
+        "B": "xy = k",
+        "C": "y = k / x",
+        "D": "y + x = k"
+      },
+      "correctAnswer": "A",
+      "explanation": "Direct variation means y increases linearly with x, giving y = kx, where k is the constant of variation."
+    },
+    {
+      "id": 12,
+      "question": "If y varies inversely as x (y ∝ 1/x), then:",
+      "options": {
+        "A": "xy = k, where k ≠ 0",
+        "B": "y = kx",
+        "C": "y/x = k",
+        "D": "y - x = k"
+      },
+      "correctAnswer": "A",
+      "explanation": "Inverse variation means y = k/x, which rearranges to the product xy = k."
+    },
+    {
+      "id": 13,
+      "question": "If y ∝ x and y = 8 when x = 2, then the value of constant k is:",
+      "options": {
+        "A": "4",
+        "B": "16",
+        "C": "2",
+        "D": "10"
+      },
+      "correctAnswer": "A",
+      "explanation": "y = kx ⟹ 8 = k(2) ⟹ k = 4."
+    },
+    {
+      "id": 14,
+      "question": "If y ∝ 1/x and y = 4 when x = 3, what is y when x = 6?",
+      "options": {
+        "A": "2",
+        "B": "8",
+        "C": "12",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "k = xy = 3 · 4 = 12. When x = 6, y = k/x = 12/6 = 2."
+    },
+    {
+      "id": 15,
+      "question": "The theorem: If a : b = c : d, then b : a = d : c is called:",
+      "options": {
+        "A": "Invertendo theorem",
+        "B": "Alternando theorem",
+        "C": "Componendo theorem",
+        "D": "Dividendo theorem"
+      },
+      "correctAnswer": "A",
+      "explanation": "Inverting both ratios in a proportion is known as Theorem of Invertendo."
+    },
+    {
+      "id": 16,
+      "question": "The theorem: If a : b = c : d, then a : c = b : d is called:",
+      "options": {
+        "A": "Invertendo theorem",
+        "B": "Alternando theorem",
+        "C": "Componendo theorem",
+        "D": "Dividendo theorem"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alternating the means (or extremes) is called Theorem of Alternando."
+    },
+    {
+      "id": 17,
+      "question": "The theorem: If a : b = c : d, then (a + b) : b = (c + d) : d is called:",
+      "options": {
+        "A": "Componendo theorem",
+        "B": "Dividendo theorem",
+        "C": "Invertendo theorem",
+        "D": "Alternando theorem"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adding the consequent to the antecedent in both ratios is the Theorem of Componendo."
+    },
+    {
+      "id": 18,
+      "question": "The theorem: If a : b = c : d, then (a - b) : b = (c - d) : d is called:",
+      "options": {
+        "A": "Dividendo theorem",
+        "B": "Componendo theorem",
+        "C": "Alternando theorem",
+        "D": "Invertendo theorem"
+      },
+      "correctAnswer": "A",
+      "explanation": "Subtracting the consequent from the antecedent is the Theorem of Dividendo."
+    },
+    {
+      "id": 19,
+      "question": "The theorem: If a : b = c : d, then (a + b) : (a - b) = (c + d) : (c - d) is called:",
+      "options": {
+        "A": "Componendo-Dividendo theorem",
+        "B": "Alternando theorem",
+        "C": "Invertendo theorem",
+        "D": "k-method theorem"
+      },
+      "correctAnswer": "A",
+      "explanation": "Combining both theorems yields the Componendo-Dividendo theorem, extensively used for solving rational fraction equations."
+    },
+    {
+      "id": 20,
+      "question": "In continued proportion a : b = b : c, the relationship among terms is:",
+      "options": {
+        "A": "b² = ac",
+        "B": "ac = 2b",
+        "C": "b = ac",
+        "D": "a² = bc"
+      },
+      "correctAnswer": "A",
+      "explanation": "From a/b = b/c, cross multiplication gives b² = ac, where b is the geometric mean (mean proportional)."
+    },
+    {
+      "id": 21,
+      "question": "Joint variation is a relationship in which a variable varies directly or inversely with:",
+      "options": {
+        "A": "Two or more other variables",
+        "B": "Only one variable",
+        "C": "A constant alone",
+        "D": "Zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Joint variation combines direct and/or inverse variations of multiple variables simultaneously (e.g., y ∝ xz/w)."
+    },
+    {
+      "id": 22,
+      "question": "Using the k-method for a/b = c/d = k, the expressions for a and c are:",
+      "options": {
+        "A": "a = bk, c = dk",
+        "B": "a = b/k, c = d/k",
+        "C": "a = k/b, c = k/d",
+        "D": "a = b + k, c = d + k"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since a/b = k ⟹ a = bk, and c/d = k ⟹ c = dk."
+    },
+    {
+      "id": 23,
+      "question": "The ratio 200 g to 1 kg in simplest form is:",
+      "options": {
+        "A": "1 : 5",
+        "B": "5 : 1",
+        "C": "1 : 50",
+        "D": "200 : 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "1 kg = 1000 g. The ratio is 200 : 1000 = 1 : 5."
+    },
+    {
+      "id": 24,
+      "question": "If (u / v) = (v / w) = k, then u is equal to:",
+      "options": {
+        "A": "w k²",
+        "B": "w k",
+        "C": "w / k²",
+        "D": "k / w"
+      },
+      "correctAnswer": "A",
+      "explanation": "v = wk, and u = vk = (wk)k = wk²."
+    },
+    {
+      "id": 25,
+      "question": "If a, b, c, d are in proportion, then (a - b)/b = (c - d)/d is guaranteed by:",
+      "options": {
+        "A": "Dividendo theorem",
+        "B": "Invertendo theorem",
+        "C": "Alternando theorem",
+        "D": "Componendo theorem"
+      },
+      "correctAnswer": "A",
+      "explanation": "This is precisely the Dividendo property of proportions."
+    }
+  ]
+}

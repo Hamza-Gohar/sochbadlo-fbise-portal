@@ -1,0 +1,189 @@
+{
+  "chapterNumber": 17,
+  "chapterTitle": "Federal Board Annual Exam Simulator 04 (Guess Paper 4)",
+  "totalQuestions": 15,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A 4 cm long chord subtends a central angle of 60°. The radial segment of this circle is:",
+      "options": {
+        "A": "4 cm",
+        "B": "1 cm",
+        "C": "2 cm",
+        "D": "3 cm"
+      },
+      "correctAnswer": "A",
+      "explanation": "The central triangle with angle 60° and equal radii arms is equilateral, so radius = chord = 4 cm."
+    },
+    {
+      "id": 2,
+      "question": "The length of a chord and the radial segment of a circle are congruent. The central angle made by the chord will be:",
+      "options": {
+        "A": "60°",
+        "B": "30°",
+        "C": "45°",
+        "D": "75°"
+      },
+      "correctAnswer": "A",
+      "explanation": "All three sides of the central triangle are equal, making each angle 60°."
+    },
+    {
+      "id": 3,
+      "question": "Out of two congruent arcs of circle, if one arc makes a central angle of 30°, then the other arc will subtend a central angle of:",
+      "options": {
+        "A": "30°",
+        "B": "15°",
+        "C": "45°",
+        "D": "60°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Congruent arcs of a circle subtend equal central angles."
+    },
+    {
+      "id": 4,
+      "question": "An arc subtends a central angle of 40°. Then the corresponding chord will subtend a central angle of:",
+      "options": {
+        "A": "40°",
+        "B": "20°",
+        "C": "60°",
+        "D": "80°"
+      },
+      "correctAnswer": "A",
+      "explanation": "The chord connects the same endpoints as the arc, subtending the same 40° at the centre."
+    },
+    {
+      "id": 5,
+      "question": "A pair of chords of a circle subtending two congruent central angles are:",
+      "options": {
+        "A": "Congruent (equal in length)",
+        "B": "Parallel",
+        "C": "Perpendicular",
+        "D": "Unequal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equal central angles correspond to equal chords."
+    },
+    {
+      "id": 6,
+      "question": "A fraction in which the degree of numerator is less than the degree of denominator is called a/an:",
+      "options": {
+        "A": "Proper fraction",
+        "B": "Improper fraction",
+        "C": "Equation",
+        "D": "Identity"
+      },
+      "correctAnswer": "A",
+      "explanation": "When deg(N) < deg(D), the rational fraction is proper."
+    },
+    {
+      "id": 7,
+      "question": "A fraction in which the degree of numerator is greater than or equal to the degree of denominator is called a/an:",
+      "options": {
+        "A": "Improper fraction",
+        "B": "Proper fraction",
+        "C": "Identity",
+        "D": "Constant fraction"
+      },
+      "correctAnswer": "A",
+      "explanation": "When deg(N) ≥ deg(D), it is an improper rational fraction."
+    },
+    {
+      "id": 8,
+      "question": "(x + 3)² = x² + 6x + 9 is a/an:",
+      "options": {
+        "A": "Identity",
+        "B": "Linear equation",
+        "C": "Conditional equation",
+        "D": "Inconsistent equation"
+      },
+      "correctAnswer": "A",
+      "explanation": "It holds true for all values of x, satisfying the definition of an algebraic identity."
+    },
+    {
+      "id": 9,
+      "question": "The partial fraction form of (x - 2) / [(x - 1)(x + 2)] is:",
+      "options": {
+        "A": "A/(x - 1) + B/(x + 2)",
+        "B": "A/(x - 1) + B/(x + 2)²",
+        "C": "(Ax + B)/[(x - 1)(x + 2)]",
+        "D": "A/(x - 1)² + B/(x + 2)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Non-repeated linear denominator factors decompose into A/(x - 1) + B/(x + 2)."
+    },
+    {
+      "id": 10,
+      "question": "The partial fraction form of (x + 2) / [(x + 1)(x² + 2)] is:",
+      "options": {
+        "A": "A/(x + 1) + (Bx + C)/(x² + 2)",
+        "B": "A/(x + 1) + B/(x² + 2)",
+        "C": "(Ax + B)/(x + 1) + C/(x² + 2)",
+        "D": "A/(x + 1) + B/(x + 2)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The irreducible quadratic factor (x² + 2) takes a linear numerator (Bx + C)."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is an improper fraction?",
+      "options": {
+        "A": "(x² + 1) / (x + 1)",
+        "B": "(2x + 1) / (x² + 1)",
+        "C": "1 / (x + 3)",
+        "D": "x / (x² + 4)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Degree of numerator is 2, denominator is 1. Since 2 > 1, it is improper."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is a proper fraction?",
+      "options": {
+        "A": "(2x + 1) / (x² + 1)",
+        "B": "(x² + 1) / (x + 1)",
+        "C": "(x³ - 1) / (x² + 2)",
+        "D": "(x² + 3) / (x² - 1)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Degree of numerator (1) is less than degree of denominator (2), so it is proper."
+    },
+    {
+      "id": 13,
+      "question": "The number of partial fractions of (x² + 1) / [(x - 1)(x + 2)(x - 3)] is:",
+      "options": {
+        "A": "3",
+        "B": "2",
+        "C": "4",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Three distinct linear factors yield 3 partial fractions."
+    },
+    {
+      "id": 14,
+      "question": "An arc of a circle subtends an angle at the centre which is:",
+      "options": {
+        "A": "Double the angle subtended at the circumference",
+        "B": "Equal to the angle at circumference",
+        "C": "Half the angle at circumference",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Central angle is always twice the inscribed angle subtended by the same arc."
+    },
+    {
+      "id": 15,
+      "question": "If two arcs of a circle are equal in length, their chords are:",
+      "options": {
+        "A": "Equal",
+        "B": "Unequal",
+        "C": "Parallel",
+        "D": "Perpendicular"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equal arcs intercept chords of equal length."
+    }
+  ]
+}

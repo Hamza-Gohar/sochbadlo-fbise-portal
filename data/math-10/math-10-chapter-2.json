@@ -1,0 +1,369 @@
+{
+  "chapterNumber": 2,
+  "chapterTitle": "Unit 02: Theory of Quadratic Equations",
+  "totalQuestions": 30,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The expression that determines the nature of the roots of ax² + bx + c = 0 is the discriminant, given by:",
+      "options": {
+        "A": "b² - 4ac",
+        "B": "b² + 4ac",
+        "C": "-b ± √(b² - 4ac)",
+        "D": "4ac - b²"
+      },
+      "correctAnswer": "A",
+      "explanation": "The quantity under the radical sign in the quadratic formula, b² - 4ac, is called the discriminant (Disc) of the quadratic equation."
+    },
+    {
+      "id": 2,
+      "question": "If b² - 4ac = 0, then the roots of ax² + bx + c = 0 are:",
+      "options": {
+        "A": "Real, rational and equal",
+        "B": "Real, irrational and unequal",
+        "C": "Imaginary (complex conjugates)",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "When Disc = 0, x = (-b ± 0)/(2a) = -b/(2a), so both roots are rational, real, and identical (equal/coincident)."
+    },
+    {
+      "id": 3,
+      "question": "If b² - 4ac < 0, then the roots of the quadratic equation are:",
+      "options": {
+        "A": "Rational and equal",
+        "B": "Rational and unequal",
+        "C": "Imaginary (complex numbers)",
+        "D": "Irrational and equal"
+      },
+      "correctAnswer": "C",
+      "explanation": "A negative discriminant involves the square root of a negative real number, producing complex conjugate imaginary roots."
+    },
+    {
+      "id": 4,
+      "question": "If b² - 4ac > 0 and is a perfect square, then the roots are:",
+      "options": {
+        "A": "Rational and unequal",
+        "B": "Irrational and unequal",
+        "C": "Imaginary",
+        "D": "Equal"
+      },
+      "correctAnswer": "A",
+      "explanation": "When Disc > 0 and a perfect square, √(b² - 4ac) simplifies to a rational number, resulting in distinct rational roots."
+    },
+    {
+      "id": 5,
+      "question": "If b² - 4ac > 0 and is NOT a perfect square, then the roots are:",
+      "options": {
+        "A": "Rational and equal",
+        "B": "Irrational and unequal",
+        "C": "Imaginary",
+        "D": "Equal"
+      },
+      "correctAnswer": "B",
+      "explanation": "When Disc > 0 is not a perfect square, the square root remains a surd, making the roots conjugate irrational numbers."
+    },
+    {
+      "id": 6,
+      "question": "The cube roots of unity are:",
+      "options": {
+        "A": "1, ω, ω²",
+        "B": "1, -1, 0",
+        "C": "1, i, -i",
+        "D": "1, 2, 3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Solving x³ - 1 = 0 ⟹ (x - 1)(x² + x + 1) = 0 yields x = 1 and x = (-1 ± i√3)/2, denoted as 1, ω, and ω²."
+    },
+    {
+      "id": 7,
+      "question": "The sum of all three cube roots of unity (1 + ω + ω²) is equal to:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "1 + (-1 + i√3)/2 + (-1 - i√3)/2 = 1 + (-1/2 - 1/2) + 0 = 1 - 1 = 0."
+    },
+    {
+      "id": 8,
+      "question": "The product of all three cube roots of unity (1 · ω · ω² = ω³) is equal to:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "3"
+      },
+      "correctAnswer": "B",
+      "explanation": "ω³ = 1. Therefore, 1 · ω · ω² = ω³ = 1."
+    },
+    {
+      "id": 9,
+      "question": "ω⁴ is equivalent to:",
+      "options": {
+        "A": "1",
+        "B": "ω",
+        "C": "ω²",
+        "D": "-1"
+      },
+      "correctAnswer": "B",
+      "explanation": "ω⁴ = ω³ · ω = 1 · ω = ω."
+    },
+    {
+      "id": 10,
+      "question": "ω^(28) + ω^(29) + 1 is equal to:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "ω",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "ω^(28) = (ω³)^9 · ω = ω; ω^(29) = (ω³)^9 · ω² = ω². Hence ω + ω² + 1 = 0."
+    },
+    {
+      "id": 11,
+      "question": "If α and β are roots of ax² + bx + c = 0, then the sum of roots (α + β) is:",
+      "options": {
+        "A": "-b / a",
+        "B": "b / a",
+        "C": "c / a",
+        "D": "-c / a"
+      },
+      "correctAnswer": "A",
+      "explanation": "By Vieta's formulas, sum of roots α + β = -(coefficient of x) / (coefficient of x²) = -b/a."
+    },
+    {
+      "id": 12,
+      "question": "If α and β are roots of ax² + bx + c = 0, then the product of roots (αβ) is:",
+      "options": {
+        "A": "-b / a",
+        "B": "c / a",
+        "C": "-c / a",
+        "D": "b / c"
+      },
+      "correctAnswer": "B",
+      "explanation": "By Vieta's formulas, product of roots αβ = (constant term) / (coefficient of x²) = c/a."
+    },
+    {
+      "id": 13,
+      "question": "If α, β are the roots of 3x² + 5x - 2 = 0, then the sum of roots (α + β) is:",
+      "options": {
+        "A": "5/3",
+        "B": "3/5",
+        "C": "-5/3",
+        "D": "-2/3"
+      },
+      "correctAnswer": "C",
+      "explanation": "Here a = 3, b = 5, c = -2. Sum of roots = -b/a = -5/3."
+    },
+    {
+      "id": 14,
+      "question": "If α, β are the roots of 7x² - 5x + 2 = 0, then the product of roots (αβ) is:",
+      "options": {
+        "A": "2/7",
+        "B": "-5/7",
+        "C": "5/7",
+        "D": "-2/7"
+      },
+      "correctAnswer": "A",
+      "explanation": "Product of roots = c/a = 2/7."
+    },
+    {
+      "id": 15,
+      "question": "The symmetric function α² + β² in terms of sum and product of roots is:",
+      "options": {
+        "A": "(α + β)² - 2αβ",
+        "B": "(α + β)² + 2αβ",
+        "C": "(α - β)² - 2αβ",
+        "D": "α²β²"
+      },
+      "correctAnswer": "A",
+      "explanation": "From identity (α + β)² = α² + 2αβ + β², isolating α² + β² yields (α + β)² - 2αβ."
+    },
+    {
+      "id": 16,
+      "question": "The quadratic equation having roots α and β is given by:",
+      "options": {
+        "A": "x² - (α + β)x + αβ = 0",
+        "B": "x² + (α + β)x + αβ = 0",
+        "C": "x² - (α + β)x - αβ = 0",
+        "D": "x² + (α + β)x - αβ = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "(x - α)(x - β) = x² - (α + β)x + αβ = 0, commonly written as x² - Sx + P = 0."
+    },
+    {
+      "id": 17,
+      "question": "A quadratic equation whose roots are 2 and -3 is:",
+      "options": {
+        "A": "x² + x - 6 = 0",
+        "B": "x² - x - 6 = 0",
+        "C": "x² + 5x + 6 = 0",
+        "D": "x² - 5x - 6 = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "S = 2 + (-3) = -1; P = 2(-3) = -6. Equation: x² - (-1)x + (-6) = x² + x - 6 = 0."
+    },
+    {
+      "id": 18,
+      "question": "For what value of k will the equation x² - kx + 4 = 0 have equal roots?",
+      "options": {
+        "A": "± 4",
+        "B": "± 2",
+        "C": "± 16",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equal roots require Disc = 0 ⟹ (-k)² - 4(1)(4) = 0 ⟹ k² - 16 = 0 ⟹ k = ±4."
+    },
+    {
+      "id": 19,
+      "question": "For what value of k will the equation x² - kx + 4 = 0 have sum of roots equal to product of roots?",
+      "options": {
+        "A": "4",
+        "B": "-4",
+        "C": "2",
+        "D": "-2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sum of roots = -(-k)/1 = k. Product of roots = 4/1 = 4. Equating sum = product gives k = 4."
+    },
+    {
+      "id": 20,
+      "question": "Synthetic division is a shorthand method of dividing a polynomial by a:",
+      "options": {
+        "A": "Linear divisor of the form x - a",
+        "B": "Quadratic divisor ax² + bx + c",
+        "C": "Cubic divisor",
+        "D": "Reciprocal polynomial"
+      },
+      "correctAnswer": "A",
+      "explanation": "Synthetic division is an efficient numerical algorithm used specifically when dividing a polynomial by a first-degree linear factor of form (x - a)."
+    },
+    {
+      "id": 21,
+      "question": "If 1/α + 1/β is evaluated for ax² + bx + c = 0, its value is:",
+      "options": {
+        "A": "-b / c",
+        "B": "b / c",
+        "C": "-c / b",
+        "D": "c / b"
+      },
+      "correctAnswer": "A",
+      "explanation": "1/α + 1/β = (α + β)/(αβ) = (-b/a) / (c/a) = -b/c."
+    },
+    {
+      "id": 22,
+      "question": "The complex cube roots of unity are:",
+      "options": {
+        "A": "Conjugates of each other",
+        "B": "Squares of each other",
+        "C": "Reciprocals of each other",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "ω and ω² satisfy: (1) ω = (ω²)* (conjugates), (2) (ω)² = ω² and (ω²)² = ω⁴ = ω (squares), and (3) ω · ω² = 1 ⟹ ω = 1/ω² (reciprocals)."
+    },
+    {
+      "id": 23,
+      "question": "The roots of the equation 4x² - 5x + 2 = 0 are:",
+      "options": {
+        "A": "Imaginary",
+        "B": "Rational",
+        "C": "Irrational",
+        "D": "Equal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Disc = b² - 4ac = (-5)² - 4(4)(2) = 25 - 32 = -7 < 0. Since Disc is negative, the roots are imaginary."
+    },
+    {
+      "id": 24,
+      "question": "If roots of px² + qx + r = 0 are equal, then:",
+      "options": {
+        "A": "q² = 4pr",
+        "B": "q² > 4pr",
+        "C": "q² < 4pr",
+        "D": "q = pr"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equal roots require Disc = 0 ⟹ q² - 4pr = 0 ⟹ q² = 4pr."
+    },
+    {
+      "id": 25,
+      "question": "The product of the roots of (2k + 1)x² + 3kx + (k - 1) = 0 is:",
+      "options": {
+        "A": "(k - 1) / (2k + 1)",
+        "B": "-3k / (2k + 1)",
+        "C": "3k / (2k + 1)",
+        "D": "(2k + 1) / (k - 1)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Product of roots = c/a = (k - 1) / (2k + 1)."
+    },
+    {
+      "id": 26,
+      "question": "If ω is a complex cube root of unity, then (1 - ω - ω²)³ is:",
+      "options": {
+        "A": "8",
+        "B": "-8",
+        "C": "0",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since 1 + ω + ω² = 0 ⟹ -ω - ω² = 1. Thus 1 - ω - ω² = 1 + 1 = 2. Then 2³ = 8."
+    },
+    {
+      "id": 27,
+      "question": "The value of (1 + ω - ω²)(1 - ω + ω²) is:",
+      "options": {
+        "A": "4",
+        "B": "2",
+        "C": "-4",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "1 + ω = -ω², so (1 + ω - ω²) = -2ω². Also 1 + ω² = -ω, so (1 - ω + ω²) = -2ω. Product = (-2ω²)(-2ω) = 4ω³ = 4(1) = 4."
+    },
+    {
+      "id": 28,
+      "question": "If one root of x² - 5x + k = 0 is 2, then the value of k is:",
+      "options": {
+        "A": "6",
+        "B": "-6",
+        "C": "10",
+        "D": "-10"
+      },
+      "correctAnswer": "A",
+      "explanation": "Substituting x = 2: 2² - 5(2) + k = 0 ⟹ 4 - 10 + k = 0 ⟹ -6 + k = 0 ⟹ k = 6."
+    },
+    {
+      "id": 29,
+      "question": "A polynomial f(x) has a factor (x - a) if and only if:",
+      "options": {
+        "A": "f(a) = 0",
+        "B": "f(a) > 0",
+        "C": "f(a) < 0",
+        "D": "f(-a) = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the Factor Theorem, (x - a) is a factor of polynomial f(x) if and only if the remainder f(a) equals zero."
+    },
+    {
+      "id": 30,
+      "question": "The maximum number of roots of a cubic equation is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "C",
+      "explanation": "By the Fundamental Theorem of Algebra, a polynomial equation of degree 3 (cubic) has at most and exactly 3 roots in the complex number system."
+    }
+  ]
+}

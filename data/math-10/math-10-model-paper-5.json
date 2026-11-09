@@ -1,0 +1,189 @@
+{
+  "chapterNumber": 18,
+  "chapterTitle": "Federal Board Annual Exam Simulator 05 (Guess Paper 5)",
+  "totalQuestions": 15,
+  "subject": "math-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "How many elements are there in the complement of set A if A = U?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "A' = U - A = U - U = ∅, which contains 0 elements."
+    },
+    {
+      "id": 2,
+      "question": "Empty set is a/an:",
+      "options": {
+        "A": "Finite set",
+        "B": "Infinite set",
+        "C": "Unknown set",
+        "D": "Universal set"
+      },
+      "correctAnswer": "A",
+      "explanation": "The empty set contains zero elements. Since 0 is a fixed whole number, it is finite."
+    },
+    {
+      "id": 3,
+      "question": "The number of elements in the Power set P(S) of the set S = {1, 2, 3} is:",
+      "options": {
+        "A": "8",
+        "B": "2",
+        "C": "4",
+        "D": "10"
+      },
+      "correctAnswer": "A",
+      "explanation": "Number of subsets = 2³ = 8."
+    },
+    {
+      "id": 4,
+      "question": "Order of the power set P(A) of a set A of order n is equal to:",
+      "options": {
+        "A": "2ⁿ",
+        "B": "n",
+        "C": "2n",
+        "D": "n²"
+      },
+      "correctAnswer": "A",
+      "explanation": "The cardinality of the power set of any finite set of size n is 2ⁿ."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following two sets are equal?",
+      "options": {
+        "A": "A = {1, 2, 3} and B = {2, 1, 3}",
+        "B": "A = {1, 2} and B = {1}",
+        "C": "A = {1, 2} and B = {1, 2, 3}",
+        "D": "A = {1, 2, 4} and B = {1, 2, 3}"
+      },
+      "correctAnswer": "A",
+      "explanation": "The order of elements in a set does not matter; {1, 2, 3} = {2, 1, 3}."
+    },
+    {
+      "id": 6,
+      "question": "Let U be the universal set. Then U' (complement of U) is:",
+      "options": {
+        "A": "∅ (Empty set)",
+        "B": "U",
+        "C": "{0}",
+        "D": "{1}"
+      },
+      "correctAnswer": "A",
+      "explanation": "U' = U - U = ∅."
+    },
+    {
+      "id": 7,
+      "question": "For any set A, A ∩ A' is equal to:",
+      "options": {
+        "A": "∅",
+        "B": "U",
+        "C": "A",
+        "D": "A'"
+      },
+      "correctAnswer": "A",
+      "explanation": "A set and its complement have no common elements: A ∩ A' = ∅."
+    },
+    {
+      "id": 8,
+      "question": "For any set A, A ∪ A' is equal to:",
+      "options": {
+        "A": "U",
+        "B": "∅",
+        "C": "A",
+        "D": "A'"
+      },
+      "correctAnswer": "A",
+      "explanation": "The union of A and its complement spans the entire universal set U."
+    },
+    {
+      "id": 9,
+      "question": "If n(A) = 3 and n(B) = 2, then n(A × B) is:",
+      "options": {
+        "A": "6",
+        "B": "5",
+        "C": "8",
+        "D": "9"
+      },
+      "correctAnswer": "A",
+      "explanation": "n(A × B) = 3 · 2 = 6."
+    },
+    {
+      "id": 10,
+      "question": "A relation f: A → B is an onto function if:",
+      "options": {
+        "A": "Range f = B",
+        "B": "Range f ⊂ B",
+        "C": "Range f = A",
+        "D": "Dom f = B"
+      },
+      "correctAnswer": "A",
+      "explanation": "When range equals codomain B, the function is surjective (onto)."
+    },
+    {
+      "id": 11,
+      "question": "The angle in a semicircle is a:",
+      "options": {
+        "A": "Right angle (90°)",
+        "B": "Acute angle",
+        "C": "Obtuse angle",
+        "D": "Straight angle"
+      },
+      "correctAnswer": "A",
+      "explanation": "The inscribed angle subtended by a diameter across a semicircle is 180° / 2 = 90°."
+    },
+    {
+      "id": 12,
+      "question": "Angles in the same segment of a circle are:",
+      "options": {
+        "A": "Equal",
+        "B": "Supplementary",
+        "C": "Complementary",
+        "D": "Unequal"
+      },
+      "correctAnswer": "A",
+      "explanation": "All angles inscribed in the same circular segment subtended by the same arc are congruent."
+    },
+    {
+      "id": 13,
+      "question": "The opposite angles of any cyclic quadrilateral are:",
+      "options": {
+        "A": "Supplementary",
+        "B": "Complementary",
+        "C": "Equal always",
+        "D": "Right angles always"
+      },
+      "correctAnswer": "A",
+      "explanation": "The sum of opposite interior angles of a cyclic quadrilateral is always 180°."
+    },
+    {
+      "id": 14,
+      "question": "The angle in a segment greater than a semicircle is:",
+      "options": {
+        "A": "Less than a right angle (< 90°)",
+        "B": "Greater than a right angle (> 90°)",
+        "C": "Equal to 90°",
+        "D": "180°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Major segment angles are acute (< 90°)."
+    },
+    {
+      "id": 15,
+      "question": "The angle in a segment less than a semicircle is:",
+      "options": {
+        "A": "Greater than a right angle (> 90°)",
+        "B": "Less than a right angle (< 90°)",
+        "C": "Equal to 90°",
+        "D": "45°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Minor segment angles are obtuse (> 90°)."
+    }
+  ]
+}

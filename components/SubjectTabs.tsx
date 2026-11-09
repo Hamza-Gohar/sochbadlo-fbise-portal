@@ -24,6 +24,7 @@ interface SubjectTabsProps {
   chemistry9Chapters?: ChapterMeta[];
   cs9Chapters?: ChapterMeta[];
   biology9Chapters?: ChapterMeta[];
+  math10Chapters?: ChapterMeta[];
 }
 
 export default function SubjectTabs({
@@ -45,8 +46,9 @@ export default function SubjectTabs({
   chemistry9Chapters = [],
   cs9Chapters = [],
   biology9Chapters = [],
+  math10Chapters = [],
 }: SubjectTabsProps) {
-  const [activeGrade, setActiveGrade] = useState<'9' | '11'>('11');
+  const [activeGrade, setActiveGrade] = useState<'9' | '10' | '11'>('11');
   const [activeGrade9Subject, setActiveGrade9Subject] = useState<'urdu' | 'tarjuma' | 'english' | 'islamiat' | 'chemistry' | 'cs' | 'biology' | 'math' | 'physics'>('urdu');
   const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry'>('physics');
 
@@ -75,6 +77,8 @@ export default function SubjectTabs({
         } else if (params.get('subject') === 'biology') {
           setActiveGrade9Subject('biology');
         }
+      } else if (params.get('grade') === '10') {
+        setActiveGrade('10');
       } else if (params.get('grade') === '11') {
         setActiveGrade('11');
       }
@@ -90,6 +94,7 @@ export default function SubjectTabs({
   const chemistry9Total = chemistry9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const cs9Total = cs9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const biology9Total = biology9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const math10Total = math10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -101,7 +106,9 @@ export default function SubjectTabs({
   const chemistryTotal = chemistryChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
 
   const activeChapters =
-    activeGrade === '9'
+    activeGrade === '10'
+      ? math10Chapters
+      : activeGrade === '9'
       ? activeGrade9Subject === 'urdu'
         ? urdu9Chapters
         : activeGrade9Subject === 'tarjuma'
@@ -147,7 +154,9 @@ export default function SubjectTabs({
               Curriculum Level Switcher
             </div>
             <h2 className="font-[family-name:var(--font-display)] text-lg sm:text-xl font-bold tracking-tight text-[var(--color-ink)] mt-0.5">
-              {activeGrade === '9'
+              {activeGrade === '10'
+                ? 'Class 10th (SSC-II Matric Part 2) · Federal Board Curriculum'
+                : activeGrade === '9'
                 ? 'Class 9th (SSC-I Matric Part 1) · Federal Board Curriculum'
                 : 'Class 11th (HSSC-I Intermediate Part 1) · Federal Board Curriculum'}
             </h2>
@@ -166,6 +175,19 @@ export default function SubjectTabs({
               <Atom className="w-4 h-4 text-emerald-400" />
               <span>Class 9th (SSC-I)</span>
               <span className="text-[10px] opacity-75 font-mono">9 Subjects</span>
+            </button>
+            <button
+              type="button"
+              onClick={() => setActiveGrade('10')}
+              className={`px-4 py-2 border text-xs font-bold flex items-center gap-2 transition-all ${
+                activeGrade === '10'
+                  ? 'bg-blue-950 text-white border-blue-950 shadow-sm'
+                  : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+              }`}
+            >
+              <Calculator className="w-4 h-4 text-amber-400" />
+              <span>Class 10th (SSC-II)</span>
+              <span className="text-[10px] opacity-75 font-mono">Mathematics Ready</span>
             </button>
             <button
               type="button"
@@ -189,7 +211,9 @@ export default function SubjectTabs({
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 pb-6 border-b border-[var(--color-rule)]">
           <div>
             <h2 className="font-[family-name:var(--font-display)] text-xl sm:text-2xl font-bold tracking-tight text-[var(--color-ink)]">
-              {activeGrade === '9'
+              {activeGrade === '10'
+                ? 'Class 10th FBISE Mathematics (ریاضی - SSC-II)'
+                : activeGrade === '9'
                 ? activeGrade9Subject === 'urdu'
                   ? 'Class 9th FBISE Urdu Compulsory (اردو لازمی)'
                   : activeGrade9Subject === 'tarjuma'
@@ -210,7 +234,9 @@ export default function SubjectTabs({
                 : 'Class 11 FBISE Subjects (HSSC-I)'}
             </h2>
             <p className="text-xs text-[var(--color-muted)] mt-1">
-              {activeGrade === '9'
+              {activeGrade === '10'
+                ? 'All 13 National Curriculum chapters (Quadratic Equations, Variations, Partial Fractions, Sets & Functions, Basic Statistics, Trigonometry, Circle Geometry) + 10 Annual Federal Board Examination Simulators.'
+                : activeGrade === '9'
                 ? activeGrade9Subject === 'urdu'
                   ? 'حصہ نثر، حصہ نظم، حصہ غزل، علم بیان، علم بدیع، اصناف ادب اور قواعد و انشا کے 7 یونٹس مع 4 وفاقی بورڈ سیکشن اے سالانہ امتحانی سمولیٹرز۔'
                   : activeGrade9Subject === 'tarjuma'
@@ -232,7 +258,20 @@ export default function SubjectTabs({
             </p>
           </div>
 
-          {activeGrade === '9' ? (
+          {activeGrade === '10' ? (
+            <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs pb-1">
+              <button
+                type="button"
+                className="px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap bg-blue-950 text-white border-blue-950 shadow-sm"
+              >
+                <Calculator className="w-4 h-4 text-amber-400" />
+                <span>Mathematics (ریاضی)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {math10Chapters.length} Modules · {math10Total} Qs
+                </span>
+              </button>
+            </div>
+          ) : activeGrade === '9' ? (
             <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs pb-1">
               <button
                 type="button"
@@ -535,7 +574,9 @@ export default function SubjectTabs({
             </div>
             <div>
               <span className="text-xs font-mono uppercase tracking-widest text-emerald-900 font-bold block">
-                {activeGrade === '9'
+                {activeGrade === '10'
+                  ? 'Active Subject: Class 10th Mathematics (SSC-II Matric Part 2)'
+                  : activeGrade === '9'
                   ? activeGrade9Subject === 'urdu'
                     ? 'فعال مضمون: وفاقی تعلیمی بورڈ اردو لازمی جماعت نہم (FBISE Urdu Class 9)'
                     : activeGrade9Subject === 'tarjuma'
@@ -572,7 +613,9 @@ export default function SubjectTabs({
                   : 'Active Subject: Class 11th Computer Science (HSSC-I FBISE)'}
               </span>
               <p className="text-xs text-[var(--color-muted)] mt-0.5">
-                {activeGrade === '9'
+                {activeGrade === '10'
+                  ? 'All 13 National Curriculum chapters + 10 official Section A annual board examination simulators (Lecturer Jazab, Lecturer Nimra Abid & Soch Badlo By MAK) with full mathematical reasoning.'
+                  : activeGrade === '9'
                   ? activeGrade9Subject === 'urdu'
                     ? 'حصہ نثر، حصہ نظم، حصہ غزل، علم بیان، علم بدیع، اصناف ادب اور قواعد و انشا کے 7 یونٹس مع 4 وفاقی بورڈ سالانہ امتحانی سمولیٹرز (لیکچرار نرجس ظہیر)۔'
                     : activeGrade9Subject === 'tarjuma'
@@ -614,7 +657,9 @@ export default function SubjectTabs({
             <span>{activeChapters.length} Modules Available</span>
             <span>·</span>
             <span>
-              {activeGrade === '9'
+              {activeGrade === '10'
+                ? math10Total
+                : activeGrade === '9'
                 ? activeGrade9Subject === 'urdu'
                   ? urdu9Total
                   : activeGrade9Subject === 'tarjuma'
