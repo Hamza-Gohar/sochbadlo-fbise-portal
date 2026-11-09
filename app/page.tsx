@@ -1,12 +1,17 @@
 import React from 'react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
-import ChapterCard from '../components/ChapterCard';
+import SubjectTabs from '../components/SubjectTabs';
 import { getChaptersIndex } from '../lib/data';
 
 export default function HomePage() {
-  const chapters = getChaptersIndex();
-  const totalQuestions = chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const physicsChapters = getChaptersIndex('physics');
+  const urduChapters = getChaptersIndex('urdu');
+
+  const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const totalQuestions = physicsTotal + urduTotal;
+  const totalModules = physicsChapters.length + urduChapters.length;
 
   return (
     <div className="min-h-screen flex flex-col justify-between">
@@ -19,14 +24,14 @@ export default function HomePage() {
             <div className="max-w-3xl">
               <div className="inline-flex items-center gap-2 px-2.5 py-1 border border-[var(--color-rule-2)] text-xs font-mono uppercase tracking-widest text-[var(--color-muted)] mb-4 bg-[var(--color-paper-2)]">
                 <span className="w-1.5 h-1.5 rounded-full bg-emerald-600"></span>
-                Official Curriculum Preparation Portal
+                Official FBISE Curriculum Preparation Portal
               </div>
               <h1 className="font-[family-name:var(--font-display)] text-3xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-[var(--color-ink)] leading-[1.05] mb-5">
-                FBISE Class 11th Physics Chapter-Wise Testing Platform
+                FBISE Class 11th Examination Testing & Preparation Platform
               </h1>
               <p className="text-base sm:text-lg text-[var(--color-ink-2)] max-w-2xl leading-relaxed font-[family-name:var(--font-body)]">
-                Master all 14 chapters of Federal Board Intermediate Physics with comprehensive multiple choice questions,
-                instant conceptual explanations, and timed board exam simulations.
+                Master Federal Board Intermediate examinations with authentic chapter-wise test series, instant conceptual explanations,
+                Urdu literature and rhetoric (علمِ بیان و علمِ بدیع), and timed board exam simulations.
               </p>
             </div>
 
@@ -34,15 +39,15 @@ export default function HomePage() {
             <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 border border-[var(--color-rule-2)] p-4 bg-[var(--color-paper-2)] font-[family-name:var(--font-display)]">
               <div>
                 <span className="text-2xl sm:text-3xl font-extrabold text-[var(--color-ink)] block">
-                  14
+                  {totalModules}
                 </span>
                 <span className="text-xs uppercase text-[var(--color-muted)] tracking-wider">
-                  Units Covered
+                  Modules Ready
                 </span>
               </div>
               <div>
                 <span className="text-2xl sm:text-3xl font-extrabold text-[var(--color-ink)] block">
-                  {totalQuestions || 941}
+                  {totalQuestions}
                 </span>
                 <span className="text-xs uppercase text-[var(--color-muted)] tracking-wider">
                   Active MCQs
@@ -60,55 +65,8 @@ export default function HomePage() {
           </div>
         </section>
 
-        {/* Subject Navigation Tabs */}
-        <section className="mb-10">
-          <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 pb-4 border-b border-[var(--color-rule)]">
-            <div>
-              <h2 className="font-[family-name:var(--font-display)] text-xl sm:text-2xl font-bold tracking-tight text-[var(--color-ink)]">
-                Class 11 Curriculum (HSSC-I)
-              </h2>
-              <p className="text-xs text-[var(--color-muted)] mt-0.5">
-                Select a subject to begin testing. Physics is fully unlocked with all 14 chapters.
-              </p>
-            </div>
-
-            <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs">
-              <span className="px-3.5 py-1.5 bg-[var(--color-ink)] text-[var(--color-paper)] font-bold tracking-wide border border-[var(--color-ink)]">
-                Physics (14 Units)
-              </span>
-              <button
-                type="button"
-                disabled
-                className="px-3 py-1.5 border border-[var(--color-rule)] text-[var(--color-muted)] opacity-60 cursor-not-allowed"
-              >
-                Chemistry (Soon)
-              </button>
-              <button
-                type="button"
-                disabled
-                className="px-3 py-1.5 border border-[var(--color-rule)] text-[var(--color-muted)] opacity-60 cursor-not-allowed"
-              >
-                Biology (Soon)
-              </button>
-              <button
-                type="button"
-                disabled
-                className="px-3 py-1.5 border border-[var(--color-rule)] text-[var(--color-muted)] opacity-60 cursor-not-allowed"
-              >
-                Computer (Soon)
-              </button>
-            </div>
-          </div>
-        </section>
-
-        {/* Chapters Grid */}
-        <section className="mb-16">
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {chapters.map((chapter) => (
-              <ChapterCard key={chapter.slug} chapter={chapter} />
-            ))}
-          </div>
-        </section>
+        {/* Interactive Subject Tabs & Chapters Grid */}
+        <SubjectTabs physicsChapters={physicsChapters} urduChapters={urduChapters} />
 
         {/* Hallmark Editorial Note & Exam Tips */}
         <section className="border-t border-[var(--color-rule)] pt-12 pb-6">

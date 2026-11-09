@@ -1,6 +1,6 @@
 import React from 'react';
 import { notFound } from 'next/navigation';
-import { getChapterBySlug, getChaptersIndex } from '../../../lib/data';
+import { getChapterBySlug, getAllChapters } from '../../../lib/data';
 import QuizEngine from '../../../components/QuizEngine';
 import type { Metadata } from 'next';
 
@@ -10,7 +10,7 @@ interface PageProps {
 }
 
 export async function generateStaticParams() {
-  const chapters = getChaptersIndex();
+  const chapters = getAllChapters();
   return chapters.map((c) => ({
     slug: c.slug,
   }));
@@ -26,9 +26,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     };
   }
 
+  const subjectName = chapter.subject === 'urdu' ? 'Urdu' : 'Physics';
+
   return {
-    title: `${chapter.chapterTitle} | Class 11 Physics MCQs | SochBadlo Prep`,
-    description: `Practice and timed test for FBISE Class 11th Physics ${chapter.chapterTitle} with ${chapter.totalQuestions} verified MCQs.`,
+    title: `${chapter.chapterTitle} | Class 11 ${subjectName} MCQs | SochBadlo Prep`,
+    description: `Practice and timed test for FBISE Class 11th ${subjectName} ${chapter.chapterTitle} with ${chapter.totalQuestions} verified MCQs.`,
   };
 }
 

@@ -36,6 +36,14 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
 
   const questions = chapter.questions;
   const currentQ = questions[currentIndex] || questions[0];
+  const isUrdu = slug.startsWith('urdu') || /[\u0600-\u06FF]/.test(currentQ?.question || '');
+
+  const urduOptionLabels: Record<'A' | 'B' | 'C' | 'D', string> = {
+    A: 'الف (A)',
+    B: 'ب (B)',
+    C: 'ج (C)',
+    D: 'د (D)',
+  };
 
   // Timer interval for Exam Mode
   useEffect(() => {
@@ -397,7 +405,12 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
                       </div>
                     </div>
 
-                    <h4 className="font-[family-name:var(--font-display)] text-base font-semibold text-[var(--color-ink)] mb-4 leading-relaxed">
+                    <h4
+                      className={`font-[family-name:var(--font-display)] text-base font-semibold text-[var(--color-ink)] mb-4 leading-relaxed ${
+                        isUrdu ? 'text-right font-serif text-lg leading-relaxed' : ''
+                      }`}
+                      dir={isUrdu ? 'rtl' : 'ltr'}
+                    >
                       {q.question}
                     </h4>
 
@@ -419,24 +432,34 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
                         return (
                           <div
                             key={opt}
-                            className={`p-2.5 border flex items-center gap-2.5 ${optClass}`}
+                            className={`p-2.5 border flex items-center gap-2.5 ${optClass} ${
+                              isUrdu ? 'flex-row-reverse text-right' : ''
+                            }`}
+                            dir={isUrdu ? 'rtl' : 'ltr'}
                           >
-                            <span className="font-mono font-bold w-5 h-5 flex items-center justify-center border border-current text-[11px]">
-                              {opt}
+                            <span className="font-mono font-bold px-1.5 py-0.5 border border-current text-[11px] whitespace-nowrap">
+                              {isUrdu ? urduOptionLabels[opt] : opt}
                             </span>
-                            <span className="flex-1">{optText}</span>
+                            <span className={`flex-1 ${isUrdu ? 'font-serif text-sm' : ''}`}>{optText}</span>
                           </div>
                         );
                       })}
                     </div>
 
-                    {/* Scientific Explanation */}
+                    {/* Explanation */}
                     {q.explanation && (
-                      <div className="bg-[var(--color-paper-2)] border-l-2 border-emerald-800 p-3 text-xs text-[var(--color-ink-2)] font-[family-name:var(--font-body)]">
+                      <div
+                        className={`bg-[var(--color-paper-2)] border-l-2 ${
+                          isUrdu ? 'border-r-2 border-l-0 text-right' : ''
+                        } border-emerald-800 p-3 text-xs text-[var(--color-ink-2)] font-[family-name:var(--font-body)]`}
+                        dir={isUrdu ? 'rtl' : 'ltr'}
+                      >
                         <strong className="font-[family-name:var(--font-display)] uppercase tracking-wider text-[10px] text-emerald-900 block mb-0.5">
-                          Solution Justification:
+                          {isUrdu ? 'امتحانی تشریح و مفہوم:' : 'Solution Justification:'}
                         </strong>
-                        <p>{q.explanation}</p>
+                        <p className={isUrdu ? 'font-serif text-sm leading-relaxed text-neutral-800' : ''}>
+                          {q.explanation}
+                        </p>
                       </div>
                     )}
                   </article>
@@ -476,7 +499,12 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
 
                 {/* Question Prompt */}
                 <div className="mb-8">
-                  <h2 className="font-[family-name:var(--font-display)] text-xl sm:text-2xl font-bold tracking-tight text-[var(--color-ink)] leading-snug">
+                  <h2
+                    className={`font-[family-name:var(--font-display)] text-xl sm:text-2xl font-bold tracking-tight text-[var(--color-ink)] leading-snug ${
+                      isUrdu ? 'text-right leading-relaxed font-serif text-2xl sm:text-3xl' : ''
+                    }`}
+                    dir={isUrdu ? 'rtl' : 'ltr'}
+                  >
                     {currentQ.question}
                   </h2>
                 </div>
@@ -490,7 +518,8 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
                     const isCorrect = currentQ.correctAnswer === opt;
                     const hasAnswered = Boolean(answers[currentQ.id]);
 
-                    let btnStyle = 'border-[var(--color-rule-2)] bg-[var(--color-paper)] hover:border-[var(--color-ink)] text-[var(--color-ink)]';
+                    let btnStyle =
+                      'border-[var(--color-rule-2)] bg-[var(--color-paper)] hover:border-[var(--color-ink)] text-[var(--color-ink)]';
 
                     // Practice mode styling
                     if (mode === 'practice' && hasAnswered) {
@@ -502,7 +531,8 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
                         btnStyle = 'border-[var(--color-rule)] opacity-60 text-[var(--color-muted)]';
                       }
                     } else if (mode === 'exam' && isSelected) {
-                      btnStyle = 'border-[var(--color-ink)] bg-[var(--color-paper-2)] font-bold text-[var(--color-ink)] ring-1 ring-[var(--color-ink)]';
+                      btnStyle =
+                        'border-[var(--color-ink)] bg-[var(--color-paper-2)] font-bold text-[var(--color-ink)] ring-1 ring-[var(--color-ink)]';
                     }
 
                     return (
@@ -510,13 +540,22 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
                         key={opt}
                         type="button"
                         onClick={() => handleSelectOption(opt)}
-                        className={`w-full text-left p-4 border flex items-center justify-between gap-4 transition-all duration-150 ${btnStyle}`}
+                        className={`w-full text-left p-4 border flex items-center justify-between gap-4 transition-all duration-150 ${btnStyle} ${
+                          isUrdu ? 'flex-row-reverse text-right' : ''
+                        }`}
+                        dir={isUrdu ? 'rtl' : 'ltr'}
                       >
-                        <div className="flex items-center gap-3">
-                          <span className="font-mono text-xs w-6 h-6 flex items-center justify-center border border-current font-bold">
-                            {opt}
+                        <div className={`flex items-center gap-3 ${isUrdu ? 'flex-row-reverse' : ''}`}>
+                          <span className="font-mono text-xs px-2 py-0.5 border border-current font-bold whitespace-nowrap">
+                            {isUrdu ? urduOptionLabels[opt] : opt}
                           </span>
-                          <span className="text-sm sm:text-base font-normal">{optText}</span>
+                          <span
+                            className={`text-sm sm:text-base font-normal ${
+                              isUrdu ? 'font-serif text-base sm:text-lg' : ''
+                            }`}
+                          >
+                            {optText}
+                          </span>
                         </div>
 
                         {mode === 'practice' && hasAnswered && (
@@ -532,12 +571,23 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
 
                 {/* Practice Mode Instant Explanation Box */}
                 {mode === 'practice' && answers[currentQ.id] && currentQ.explanation && (
-                  <div className="border-l-4 border-emerald-800 bg-[var(--color-paper-2)] p-4 mb-8 text-xs font-[family-name:var(--font-body)] text-[var(--color-ink)] leading-relaxed">
-                    <div className="flex items-center gap-1.5 font-[family-name:var(--font-display)] font-bold text-emerald-900 uppercase tracking-wider text-[11px] mb-1">
+                  <div
+                    className={`border-l-4 ${
+                      isUrdu ? 'border-r-4 border-l-0 text-right' : ''
+                    } border-emerald-800 bg-[var(--color-paper-2)] p-4 mb-8 text-xs font-[family-name:var(--font-body)] text-[var(--color-ink)] leading-relaxed`}
+                    dir={isUrdu ? 'rtl' : 'ltr'}
+                  >
+                    <div
+                      className={`flex items-center gap-1.5 font-[family-name:var(--font-display)] font-bold text-emerald-900 uppercase tracking-wider text-[11px] mb-1 ${
+                        isUrdu ? 'flex-row-reverse' : ''
+                      }`}
+                    >
                       <Sparkles className="w-3.5 h-3.5 text-emerald-700" />
-                      <span>Scientific Explanation</span>
+                      <span>{isUrdu ? 'تفصیلی امتحانی تشریح و وضاحت' : 'Scientific Explanation'}</span>
                     </div>
-                    <p>{currentQ.explanation}</p>
+                    <p className={isUrdu ? 'font-serif text-sm leading-relaxed text-neutral-800' : ''}>
+                      {currentQ.explanation}
+                    </p>
                   </div>
                 )}
               </div>

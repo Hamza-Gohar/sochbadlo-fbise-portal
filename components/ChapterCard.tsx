@@ -23,7 +23,28 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     }
   }, [chapter.slug]);
 
-  const isPastPapers = chapter.slug === 'past-papers';
+  const isUrdu = chapter.subject === 'urdu' || chapter.slug.startsWith('urdu');
+  const isPastPapers = chapter.slug === 'past-papers' || chapter.slug === 'urdu-model-paper';
+
+  let tagLabel = `Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  if (chapter.slug === 'past-papers') tagLabel = 'Board Simulator';
+  else if (chapter.slug === 'urdu-model-paper') tagLabel = 'Urdu Full Board Simulator';
+  else if (chapter.slug === 'urdu-ilm-e-bayan') tagLabel = 'Urdu Rhetoric (علم بیان)';
+  else if (chapter.slug === 'urdu-ilm-e-badi') tagLabel = 'Urdu Figures (علم بدیع)';
+  else if (isUrdu) tagLabel = `Urdu Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+
+  let description = `Comprehensive conceptual questions, dimensional formulas, and numericals for ${chapter.title} aligned with textbook SLOs.`;
+  if (chapter.slug === 'past-papers') {
+    description = 'Official past board exam papers (FBISE 2010–2022). Comprehensive simulation matching the exact 17-mark section A pattern.';
+  } else if (chapter.slug === 'urdu-model-paper') {
+    description = 'مکمل نصاب پر مشتمل وفاقی بورڈ سالانہ ماڈل پیپر سمیلیٹر۔ 20 نمبروں پر مبنی جامع پرچہ مع مستند تشریحات۔';
+  } else if (chapter.slug === 'urdu-ilm-e-bayan') {
+    description = 'تشبیہ، استعارہ، مجازِ مرسل اور کنایہ کے بنیادی ارکان، مستند قواعد اور امتحانی اشعار پر مبنی 65 کثیر الانتخابی سوالات۔';
+  } else if (chapter.slug === 'urdu-ilm-e-badi') {
+    description = 'صنائعِ لفظی و معنوی: تضاد، تلمیح، حسنِ تعلیل، لف و نشر اور مراعاۃ النظیر کے 50 حل شدہ مشقی سوالات مع تفصیلی وضاحت۔';
+  } else if (isUrdu) {
+    description = `وفاقی بورڈ لازمی اردو سال اول: ${chapter.title} کے اہم سوالات، معانی، تراکیب اور شعری اصطلاحات کا ٹیسٹ۔`;
+  }
 
   return (
     <article
@@ -37,7 +58,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
         {/* Top Header */}
         <div className="flex items-center justify-between pb-3 border-b border-[var(--color-rule)] mb-4">
           <span className="font-[family-name:var(--font-display)] text-xs font-bold tracking-widest uppercase text-[var(--color-muted)]">
-            {isPastPapers ? 'Board Simulator' : `Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`}
+            {tagLabel}
           </span>
           <div className="flex items-center gap-2">
             <span className="text-xs font-mono bg-[var(--color-paper-2)] border border-[var(--color-rule)] px-2 py-0.5 text-[var(--color-ink)]">
@@ -59,14 +80,22 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
         </div>
 
         {/* Title */}
-        <h3 className="font-[family-name:var(--font-display)] text-lg sm:text-xl font-bold tracking-tight text-[var(--color-ink)] leading-snug mb-3">
+        <h3
+          className={`font-[family-name:var(--font-display)] text-lg sm:text-xl font-bold tracking-tight text-[var(--color-ink)] leading-snug mb-3 ${
+            isUrdu ? 'text-right leading-relaxed font-serif' : ''
+          }`}
+          dir={isUrdu ? 'rtl' : 'ltr'}
+        >
           {chapter.title}
         </h3>
 
-        <p className="text-xs text-[var(--color-muted)] leading-relaxed mb-6 font-[family-name:var(--font-body)]">
-          {isPastPapers
-            ? 'Official past board exam papers (FBISE 2010–2022). Comprehensive simulation matching the exact 17-mark section A pattern.'
-            : `Comprehensive conceptual questions, dimensional formulas, and numericals for ${chapter.title} aligned with textbook SLOs.`}
+        <p
+          className={`text-xs text-[var(--color-muted)] leading-relaxed mb-6 font-[family-name:var(--font-body)] ${
+            isUrdu ? 'text-right' : ''
+          }`}
+          dir={isUrdu ? 'rtl' : 'ltr'}
+        >
+          {description}
         </p>
       </div>
 

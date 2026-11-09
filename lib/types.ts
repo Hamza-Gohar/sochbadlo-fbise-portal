@@ -16,6 +16,7 @@ export interface ChapterData {
   chapterTitle: string;
   totalQuestions: number;
   questions: Question[];
+  subject?: 'physics' | 'urdu';
 }
 
 export interface ChapterMeta {
@@ -24,6 +25,7 @@ export interface ChapterMeta {
   slug: string;
   totalQuestions: number;
   fileName: string;
+  subject?: 'physics' | 'urdu';
 }
 
 export interface QuizResult {
