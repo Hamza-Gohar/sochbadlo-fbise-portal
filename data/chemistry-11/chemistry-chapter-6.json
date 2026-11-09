@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 6,
+  "chapterTitle": "Chapter 6: Chemical Kinetics, Reaction Rates & Rate Laws",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "question": "The rate of a chemical reaction is defined as the:",
+      "options": {
+        "A": "Change in concentration of products per unit time",
+        "B": "Change in concentration of reactants per unit time",
+        "C": "Time taken for the reaction to complete",
+        "D": "Time taken for a reactant to be consumed"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Change in concentration of reactants per unit time'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 1
+    },
+    {
+      "question": "The unit of rate constant for a first-order reaction is:",
+      "options": {
+        "A": "M",
+        "B": "s⁻¹",
+        "C": "M/s",
+        "D": "s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 's⁻¹'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 2
+    },
+    {
+      "question": "The rate law for a reaction can be determined by:",
+      "options": {
+        "A": "Experimentally measuring the concentration of reactants",
+        "B": "Using the stoichiometric coefficients",
+        "C": "Theoretical calculations based on molecular behavior",
+        "D": "The energy of activation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Experimentally measuring the concentration of'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 3
+    },
+    {
+      "question": "For a zero-order reaction, the rate of reaction depends on:",
+      "options": {
+        "A": "Concentration of reactants",
+        "B": "Square of the concentration of reactants",
+        "C": "Cube of the concentration of reactants",
+        "D": "The rate constant only"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'The rate constant only'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 4
+    },
+    {
+      "question": "The rate constant of a first-order reaction has units of:",
+      "options": {
+        "A": "M/s",
+        "B": "M⁻¹ s⁻¹",
+        "C": "s⁻¹",
+        "D": "M²/s"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 's⁻¹'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 5
+    },
+    {
+      "question": "The rate of a reaction increases with temperature due to:",
+      "options": {
+        "A": "A decrease in the activation energy",
+        "B": "A decrease in the collision frequency",
+        "C": "A greater fraction of molecules possessing sufficient energy",
+        "D": "A constant rate constant"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'A greater fraction of molecules possessing sufficient'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 6
+    },
+    {
+      "question": "The activation energy is defined as the:",
+      "options": {
+        "A": "Energy required to break bonds in the reactants",
+        "B": "Energy required to form bonds in the products",
+        "C": "Energy required to initiate the reaction",
+        "D": "Energy released during the reaction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Energy required to initiate the reaction'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 7
+    },
+    {
+      "question": "The relationship between rate constant and temperature is given by:",
+      "options": {
+        "A": "Van't Hoff equation",
+        "B": "Arrhenius equation",
+        "C": "Nernst equation",
+        "D": "Le Chatelier's principle"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Arrhenius equation'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 8
+    },
+    {
+      "question": "In a first-order reaction, the time required for half of the reactant to be consumed is called the:",
+      "options": {
+        "A": "Rate-determining step",
+        "B": "Activation time",
+        "C": "Half-life",
+        "D": "Reaction time"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Half-life'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 9
+    },
+    {
+      "question": "The unit of the rate constant for a second-order reaction is:",
+      "options": {
+        "A": "M/s",
+        "B": "s⁻¹",
+        "C": "M⁻¹ s⁻¹",
+        "D": "M²/s"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'M⁻¹ s⁻¹'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 10
+    },
+    {
+      "question": "The slope of a concentration vs. time plot for a first-order reaction is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Dependent on temperature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Negative'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 11
+    },
+    {
+      "question": "In a second-order reaction, the rate law is proportional to:",
+      "options": {
+        "A": "The concentration of one reactant raised to the second power",
+        "B": "The concentration of one reactant",
+        "C": "The square of the concentration of products",
+        "D": "The rate constant"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'The concentration of one reactant raised to the second'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 12
+    },
+    {
+      "question": "The rate of a reaction is directly proportional to the concentration of the reactant in a:",
+      "options": {
+        "A": "Zero-order reaction",
+        "B": "First-order reaction",
+        "C": "Second-order reaction",
+        "D": "Third-order reaction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'First-order reaction'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 13
+    },
+    {
+      "question": "The collision theory states that for a reaction to occur, molecules must:",
+      "options": {
+        "A": "Collide with sufficient energy and proper orientation",
+        "B": "Collide at any energy level",
+        "C": "Have similar masses",
+        "D": "All of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Collide with sufficient energy and proper orientation'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 14
+    },
+    {
+      "question": "The rate of a reaction is proportional to the concentration of the reactant raised to a power. This power is known as:",
+      "options": {
+        "A": "The rate constant",
+        "B": "The reaction order",
+        "C": "The activation energy",
+        "D": "The rate-determining step"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'The reaction order'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 15
+    },
+    {
+      "question": "A reaction is said to be of \"zero order\" when:",
+      "options": {
+        "A": "The rate is directly proportional to the concentration of the reactant",
+        "B": "The rate is inversely proportional to the concentration of the reactant",
+        "C": "The rate is independent of the concentration of the reactant",
+        "D": "The rate is proportional to the square of the concentration"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'The rate is independent of the concentration of the'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 16
+    },
+    {
+      "question": "In a reaction, if the temperature increases, the rate constant typically:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Becomes zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Increases'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 17
+    },
+    {
+      "question": "The term \"activation energy\" refers to the:",
+      "options": {
+        "A": "Energy released during the reaction",
+        "B": "Minimum energy required for a reaction to occur",
+        "C": "Maximum energy required for a reaction to occur",
+        "D": "Energy required to form products"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Minimum energy required for a reaction to occur'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 18
+    },
+    {
+      "question": "The integrated rate law for a first-order reaction is:",
+      "options": {
+        "A": "ln[A] = -kt + ln[A₀]",
+        "B": "1/[A] = kt + 1/[A₀]",
+        "C": "[A] = [A₀] - kt",
+        "D": "[A] = [A₀]e(-kt)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'ln[A] = -kt + ln[A₀]'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 19
+    },
+    {
+      "question": "For a reaction to be considered a true \"elementary reaction,\" it must:",
+      "options": {
+        "A": "Involve more than one molecular collision",
+        "B": "Occur in a single step",
+        "C": "Have an irreversible rate law",
+        "D": "All of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Occur in a single step'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 20
+    },
+    {
+      "question": "The rate constant of a reaction can be influenced by:",
+      "options": {
+        "A": "Temperature",
+        "B": "Pressure",
+        "C": "Catalysts",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'All of the above'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 21
+    },
+    {
+      "question": "In a reaction of order zero, the rate is independent of:",
+      "options": {
+        "A": "Concentration of reactants",
+        "B": "The temperature",
+        "C": "The rate constant",
+        "D": "Time"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Concentration of reactants'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 22
+    },
+    {
+      "question": "The activation energy for a reaction can be determined by:",
+      "options": {
+        "A": "Measuring the rate at various temperatures",
+        "B": "Using the equilibrium constant",
+        "C": "Measuring the rate of reaction at constant temperature",
+        "D": "Determining the rate constant"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Measuring the rate at various temperatures'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 23
+    },
+    {
+      "question": "In a reaction, if the rate constant doubles when temperature is increased, the activation energy can be found using:",
+      "options": {
+        "A": "Van’t Hoff equation",
+        "B": "Arrhenius equation",
+        "C": "Le Chatelier’s principle",
+        "D": "Gibbs free energy equation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Arrhenius equation'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 24
+    },
+    {
+      "question": "The half-life of a first-order reaction is:",
+      "options": {
+        "A": "Independent of initial concentration",
+        "B": "Directly proportional to the concentration of reactants",
+        "C": "Inversely proportional to the rate constant",
+        "D": "Directly proportional to the temperature"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Independent of initial concentration'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 25
+    },
+    {
+      "question": "The rate of a chemical reaction is directly proportional to the:",
+      "options": {
+        "A": "Square of the concentration of reactants",
+        "B": "First power of the concentration of reactants",
+        "C": "Rate constant only",
+        "D": "Sum of the concentrations of all reactants"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'First power of the concentration of reactants'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 26
+    },
+    {
+      "question": "For a reaction with a rate law of rate = k[A]², the reaction is:",
+      "options": {
+        "A": "Zero order",
+        "B": "First order",
+        "C": "Second order",
+        "D": "Third order"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Second order'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 27
+    },
+    {
+      "question": "A reaction's rate constant is dependent on:",
+      "options": {
+        "A": "The concentration of reactants",
+        "B": "The temperature",
+        "C": "The pressure of reactants",
+        "D": "The type of catalyst"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'The temperature'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 28
+    },
+    {
+      "question": "A catalyst works by:",
+      "options": {
+        "A": "Lowering the activation energy of the reaction",
+        "B": "Changing the concentration of reactants",
+        "C": "Increasing the number of collisions",
+        "D": "Increasing the pressure in the system"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Lowering the activation energy of the reaction'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 29
+    },
+    {
+      "question": "If the rate constant of a reaction decreases with temperature, this suggests that the reaction:",
+      "options": {
+        "A": "Is endothermic",
+        "B": "Is exothermic",
+        "C": "Has a very low activation energy",
+        "D": "Follows a negative activation energy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Is exothermic'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 30
+    },
+    {
+      "question": "The rate law of a reaction is determined by:",
+      "options": {
+        "A": "The concentration of products",
+        "B": "The activation energy",
+        "C": "The experimental data on how concentration affects the rate",
+        "D": "The temperature of the reaction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'The experimental data on how concentration affects'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 31
+    },
+    {
+      "question": "The units of the rate constant for a zero-order reaction are:",
+      "options": {
+        "A": "M/s",
+        "B": "M⁻¹ s⁻¹",
+        "C": "s⁻¹",
+        "D": "M²/s"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'M/s'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 32
+    },
+    {
+      "question": "The rate law for a reaction is: rate = k[A]². If the concentration of A is doubled, the rate of the reaction will:",
+      "options": {
+        "A": "Quadruple",
+        "B": "Double",
+        "C": "Remain the same",
+        "D": "Halve"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Quadruple'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 33
+    },
+    {
+      "question": "The concentration-time relationship for a second-order reaction is:",
+      "options": {
+        "A": "ln[A] = -kt + ln[A₀]",
+        "B": "1/[A] = kt + 1/[A₀]",
+        "C": "[A] = [A₀]e^(-kt)",
+        "D": "[A] = [A₀] - kt"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '1/[A] = kt + 1/[A₀]'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 34
+    },
+    {
+      "question": "In a reaction mechanism, the slowest step is called the:",
+      "options": {
+        "A": "Rate-determining step",
+        "B": "Intermediate step",
+        "C": "Fastest step",
+        "D": "Catalytic step"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Rate-determining step'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 35
+    },
+    {
+      "question": "The rate of reaction is defined as:",
+      "options": {
+        "A": "Change in volume per unit time",
+        "B": "Change in concentration per unit time",
+        "C": "Change in pressure per unit time",
+        "D": "Change in mass per unit time"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Change in concentration per unit time'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 36
+    },
+    {
+      "question": "The rate constant of a first-order reaction has units of:",
+      "options": {
+        "A": "mol/L·s",
+        "B": "1/s",
+        "C": "1/mol·L·s",
+        "D": "mol·L/s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '1/s'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 37
+    },
+    {
+      "question": "For a reaction to be first-order, the rate law must depend on:",
+      "options": {
+        "A": "The concentration of one reactant raised to the power of 2",
+        "B": "The concentration of all reactants raised to the power of 1",
+        "C": "The concentration of one reactant raised to the power of 1",
+        "D": "The concentration of one reactant raised to the power of 3"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'The concentration of one reactant raised to the power'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 38
+    },
+    {
+      "question": "Which of the following is true for the units of rate constant (k) of a second-order reaction?",
+      "options": {
+        "A": "mol/L·s",
+        "B": "1/s",
+        "C": "1/mol·L·s",
+        "D": "mol·L/s"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '1/mol·L·s'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 39
+    },
+    {
+      "question": "The rate of reaction increases with temperature because:",
+      "options": {
+        "A": "The activation energy decreases",
+        "B": "The activation energy increases",
+        "C": "The number of collisions increases",
+        "D": "The collision energy decreases"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'The number of collisions increases'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 40
+    },
+    {
+      "question": "The integrated rate law for a first-order reaction is:",
+      "options": {
+        "A": "ln[A] = -kt + ln[A]₀",
+        "B": "[A] = -kt + [A]₀",
+        "C": "ln[A] = kt + ln[A]₀",
+        "D": "[A] = k + [A]₀"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'ln[A] = -kt + ln[A]₀'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 41
+    },
+    {
+      "question": "The half-life of a first-order reaction is:",
+      "options": {
+        "A": "Independent of the initial concentration",
+        "B": "Directly proportional to the initial concentration",
+        "C": "Inversely proportional to the initial concentration",
+        "D": "Directly proportional to the rate constant"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Independent of the initial concentration'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 42
+    },
+    {
+      "question": "The molecularity of a reaction refers to:",
+      "options": {
+        "A": "The number of atoms in a molecule",
+        "B": "The number of molecules involved in the rate-determining step",
+        "C": "The number of molecules involved in the overall reaction",
+        "D": "The rate constant of a reaction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'The number of molecules involved in the rate-'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 43
+    },
+    {
+      "question": "In a reaction mechanism, the slowest step is called the:",
+      "options": {
+        "A": "Rate-determining step",
+        "B": "Fastest step",
+        "C": "Intermediate step",
+        "D": "Final step"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Rate-determining step'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 44
+    },
+    {
+      "question": "Which of the following reactions is zero-order?",
+      "options": {
+        "A": "A → B",
+        "B": "2A → C",
+        "C": "A + B → C",
+        "D": "2A → 2B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'A → B'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 45
+    },
+    {
+      "question": "The rate constant of a reaction is dependent on:",
+      "options": {
+        "A": "Temperature",
+        "B": "Concentration of reactants",
+        "C": "The presence of a catalyst",
+        "D": "All of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Temperature'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 46
+    },
+    {
+      "question": "The collision theory of chemical reactions states that:",
+      "options": {
+        "A": "Reactions occur when particles collide with sufficient energy",
+        "B": "Reactions occur without any collisions",
+        "C": "Reactions require a catalyst to take place",
+        "D": "Only gas molecules can react"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Reactions occur when particles collide with sufficient'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 47
+    },
+    {
+      "question": "In a second-order reaction, the integrated rate law is:",
+      "options": {
+        "A": "1/[A] = kt + 1/[A]₀",
+        "B": "[A] = kt + [A]₀",
+        "C": "ln[A] = -kt + ln[A]₀",
+        "D": "1/[A] = k + [A]₀"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '1/[A] = kt + 1/[A]₀'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 48
+    },
+    {
+      "question": "The activation energy of a reaction is the:",
+      "options": {
+        "A": "Energy required to form products from reactants",
+        "B": "Energy required to start the reaction",
+        "C": "Energy released during a reaction",
+        "D": "Energy required to break bonds in reactants"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Energy required to start the reaction'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 49
+    },
+    {
+      "question": "For a reaction to be of first order, the rate of reaction is proportional to:",
+      "options": {
+        "A": "The square of the concentration of the reactant",
+        "B": "The concentration of the reactant raised to the power of 1",
+        "C": "The concentration of the reactant raised to the power of 2",
+        "D": "The concentration of the reactant raised to the power of 3"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'The concentration of the reactant raised to the power'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 50
+    }
+  ],
+  "subject": "chemistry"
+}

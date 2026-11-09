@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 2,
+  "chapterTitle": "Chapter 2: Molecular Biology",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the central dogma of molecular biology?",
+      "options": {
+        "A": "DNA → RNA → Protein",
+        "B": "RNA → DNA → Protein",
+        "C": "Protein → DNA → RNA",
+        "D": "DNA → Protein → RNA"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'DNA → RNA → Protein'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 2,
+      "question": "Which enzyme is responsible for synthesizing RNA from a DNA template?",
+      "options": {
+        "A": "DNA polymerase",
+        "B": "RNA polymerase",
+        "C": "Ligase",
+        "D": "Helicase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'RNA polymerase'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 3,
+      "question": "In DNA, adenine pairs with:",
+      "options": {
+        "A": "Cytosine",
+        "B": "Guanine",
+        "C": "Thymine",
+        "D": "Uracil"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Thymine'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is not a component of a nucleotide?",
+      "options": {
+        "A": "Phosphate group",
+        "B": "Nitrogenous base",
+        "C": "Amino acid",
+        "D": "Pentose sugar"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Amino acid'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 5,
+      "question": "During transcription, the DNA strand that is read is called the:",
+      "options": {
+        "A": "Coding strand",
+        "B": "Template strand",
+        "C": "Leading strand",
+        "D": "Lagging strand"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Template strand'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 6,
+      "question": "Which RNA carries amino acids to the ribosome?",
+      "options": {
+        "A": "mRNA",
+        "B": "tRNA",
+        "C": "rRNA",
+        "D": "snRNA"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'tRNA'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 7,
+      "question": "The process of protein synthesis from mRNA is called:",
+      "options": {
+        "A": "Transcription",
+        "B": "Replication",
+        "C": "Translation",
+        "D": "Translocation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Translation'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is a start codon?",
+      "options": {
+        "A": "UAA",
+        "B": "AUG",
+        "C": "UGA",
+        "D": "UAG"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'AUG'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 9,
+      "question": "Which enzyme unwinds the DNA helix during replication?",
+      "options": {
+        "A": "Ligase",
+        "B": "Helicase",
+        "C": "Primase",
+        "D": "Topoisomerase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Helicase'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 10,
+      "question": "In eukaryotes, transcription occurs in the:",
+      "options": {
+        "A": "Cytoplasm",
+        "B": "Nucleus",
+        "C": "Ribosome",
+        "D": "Endoplasmic reticulum"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Nucleus'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is not involved in DNA replication?",
+      "options": {
+        "A": "DNA polymerase",
+        "B": "RNA polymerase",
+        "C": "Ligase",
+        "D": "Helicase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'RNA polymerase'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 12,
+      "question": "The enzyme that joins Okazaki fragments is:",
+      "options": {
+        "A": "DNA polymerase",
+        "B": "Ligase",
+        "C": "Helicase",
+        "D": "Primase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Ligase'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 13,
+      "question": "Which base is found in RNA but not in DNA?",
+      "options": {
+        "A": "Adenine",
+        "B": "Thymine",
+        "C": "Uracil",
+        "D": "Cytosine"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Uracil'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 14,
+      "question": "The process by which DNA makes a copy of itself is called:",
+      "options": {
+        "A": "Transcription",
+        "B": "Translation",
+        "C": "Replication",
+        "D": "Transduction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Replication'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is a purine base?",
+      "options": {
+        "A": "Cytosine",
+        "B": "Thymine",
+        "C": "Adenine",
+        "D": "Uracil"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Adenine'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is not a function of DNA?",
+      "options": {
+        "A": "Storage of genetic information",
+        "B": "Protein synthesis",
+        "C": "Transmission of genetic information",
+        "D": "Catalysis of biochemical reactions"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Catalysis of biochemical reactions'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 17,
+      "question": "Which type of mutation involves a single nucleotide change?",
+      "options": {
+        "A": "Frameshift mutation",
+        "B": "Point mutation",
+        "C": "Deletion mutation",
+        "D": "Insertion mutation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Point mutation'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 18,
+      "question": "The anticodon is a part of:",
+      "options": {
+        "A": "mRNA",
+        "B": "tRNA",
+        "C": "rRNA",
+        "D": "DNA"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'tRNA'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is not a stop codon?",
+      "options": {
+        "A": "UAA",
+        "B": "UAG",
+        "C": "UGA",
+        "D": "AUG"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'AUG'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 20,
+      "question": "The enzyme responsible for synthesizing the RNA primer during DNA replication is:",
+      "options": {
+        "A": "DNA polymerase",
+        "B": "RNA polymerase",
+        "C": "Primase",
+        "D": "Ligase"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Primase'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 21,
+      "question": "Which of the following processes is carried out by the ribosome?",
+      "options": {
+        "A": "DNA replication",
+        "B": "Transcription",
+        "C": "Translation",
+        "D": "RNA splicing"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Translation'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 22,
+      "question": "In prokaryotes, the site of transcription is the:",
+      "options": {
+        "A": "Nucleus",
+        "B": "Cytoplasm",
+        "C": "Ribosome",
+        "D": "Endoplasmic reticulum"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Cytoplasm'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following best describes a gene?",
+      "options": {
+        "A": "A segment of RNA that codes for a protein",
+        "B": "A segment of DNA that codes for a protein",
+        "C": "A protein that regulates transcription",
+        "D": "A carbohydrate that stores genetic information"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'A segment of DNA that codes for a protein'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 24,
+      "question": "Which enzyme is responsible for adding nucleotides during DNA replication?",
+      "options": {
+        "A": "DNA ligase",
+        "B": "DNA helicase",
+        "C": "DNA polymerase",
+        "D": "RNA polymerase"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'DNA polymerase'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is not a type of RNA?",
+      "options": {
+        "A": "mRNA",
+        "B": "tRNA",
+        "C": "rRNA",
+        "D": "dRNA"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'dRNA'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 26,
+      "question": "The process of removing introns from pre-mRNA is called:",
+      "options": {
+        "A": "Capping",
+        "B": "Polyadenylation",
+        "C": "Splicing",
+        "D": "Translation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Splicing'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 27,
+      "question": "Which of the following statements about the genetic code is true?",
+      "options": {
+        "A": "It is overlapping",
+        "B": "It is ambiguous",
+        "C": "It is universal",
+        "D": "It is species-specific"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'It is universal'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 28,
+      "question": "Which of the following is not involved in the process of translation?",
+      "options": {
+        "A": "mRNA",
+        "B": "tRNA",
+        "C": "rRNA",
+        "D": "DNA"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'DNA'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 29,
+      "question": "Which of the following enzymes is involved in transcription?",
+      "options": {
+        "A": "DNA polymerase",
+        "B": "RNA polymerase",
+        "C": "Ligase",
+        "D": "Helicase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'RNA polymerase'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is a function of tRNA?",
+      "options": {
+        "A": "Carrying genetic information from DNA to ribosomes",
+        "B": "Catalyzing peptide bond formation",
+        "C": "Bringing amino acids to the ribosome",
+        "D": "Forming the structure of ribosomes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Bringing amino acids to the ribosome'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is not a component of the lac operon?",
+      "options": {
+        "A": "Promoter",
+        "B": "Operator",
+        "C": "Repressor",
+        "D": "Enhancer"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Enhancer'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 32,
+      "question": "Which of the following is true about eukaryotic mRNA?",
+      "options": {
+        "A": "It is not processed after transcription",
+        "B": "It contains introns and exons",
+        "C": "It is translated in the nucleus",
+        "D": "It is circular"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'It contains introns and exons'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is not a post-transcriptional modification?",
+      "options": {
+        "A": "5' capping",
+        "B": "Polyadenylation",
+        "C": "Splicing",
+        "D": "DNA methylation"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'DNA methylation'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 34,
+      "question": "Which of the following is a stop codon?",
+      "options": {
+        "A": "UAA",
+        "B": "AUG",
+        "C": "GGU",
+        "D": "CCC"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'UAA'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 35,
+      "question": "Which of the following is not true about DNA replication?",
+      "options": {
+        "A": "It is semi-conservative",
+        "B": "It occurs during the S phase of the cell cycle",
+        "C": "It requires RNA primers",
+        "D": "It occurs in the cytoplasm of eukaryotic cells"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'It occurs in the cytoplasm of eukaryotic cells'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 36,
+      "question": "Which of the following is not a function of rRNA?",
+      "options": {
+        "A": "Structural component of ribosomes",
+        "B": "Catalyzing peptide bond formation",
+        "C": "Carrying amino acids to the ribosome",
+        "D": "Ensuring proper alignment of mRNA and tRNA"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Carrying amino acids to the ribosome'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 37,
+      "question": "Which of the following is not a characteristic of the genetic code?",
+      "options": {
+        "A": "Triplet",
+        "B": "Non-overlapping",
+        "C": "Degenerate",
+        "D": "Ambiguous"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Ambiguous'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 38,
+      "question": "Which of the following is not involved in the initiation of translation?",
+      "options": {
+        "A": "Small ribosomal subunit",
+        "B": "Initiator tRNA",
+        "C": "mRNA",
+        "D": "DNA"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'DNA'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is not a type of point mutation?",
+      "options": {
+        "A": "Silent mutation",
+        "B": "Missense mutation",
+        "C": "Nonsense mutation",
+        "D": "Frameshift mutation"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Frameshift mutation'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 40,
+      "question": "Which of the following is not true about RNA?",
+      "options": {
+        "A": "It is usually single-stranded",
+        "B": "It contains the sugar deoxyribose",
+        "C": "It contains uracil instead of thymine",
+        "D": "It can function as an enzyme"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'It contains the sugar deoxyribose'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 41,
+      "question": "Which of the following is not a function of DNA polymerase?",
+      "options": {
+        "A": "Synthesizing new DNA strands",
+        "B": "Proofreading newly synthesized DNA",
+        "C": "Removing RNA primers",
+        "D": "Joining Okazaki fragments"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Joining Okazaki fragments'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is not a component of the transcription initiation complex?",
+      "options": {
+        "A": "RNA polymerase",
+        "B": "Transcription factors",
+        "C": "Promoter region",
+        "D": "Ribosome"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Ribosome'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 43,
+      "question": "Which of the following is not a step in PCR (Polymerase Chain Reaction)?",
+      "options": {
+        "A": "Denaturation",
+        "B": "Annealing",
+        "C": "Extension",
+        "D": "Translation"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Translation'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 44,
+      "question": "Which of the following is not a function of the 5' cap added to eukaryotic mRNA?",
+      "options": {
+        "A": "Protecting mRNA from degradation",
+        "B": "Assisting in ribosome binding",
+        "C": "Facilitating nuclear export",
+        "D": "Coding for amino acids"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Coding for amino acids'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is not involved in the elongation phase of translation?",
+      "options": {
+        "A": "Aminoacyl-tRNA",
+        "B": "Peptidyl transferase",
+        "C": "Release factors",
+        "D": "Ribosome"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Release factors'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 46,
+      "question": "Which of the following is not a type of RNA processing?",
+      "options": {
+        "A": "5' capping",
+        "B": "Polyadenylation",
+        "C": "Splicing",
+        "D": "Replication"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Replication'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 47,
+      "question": "Which of the following is not true about the genetic code?",
+      "options": {
+        "A": "It is universal",
+        "B": "It is redundant",
+        "C": "It is overlapping",
+        "D": "It is composed of codons"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'It is overlapping'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 48,
+      "question": "Which of the following best describes a codon?",
+      "options": {
+        "A": "A segment of DNA that regulates replication",
+        "B": "A three-nucleotide sequence on mRNA that codes for an amino acid",
+        "C": "A part of tRNA that binds to mRNA",
+        "D": "A protein that starts transcription"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'A three-nucleotide sequence on mRNA that codes for an amino acid'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 49,
+      "question": "Which of the following helps in the formation of peptide bonds between amino acids during translation?",
+      "options": {
+        "A": "DNA polymerase",
+        "B": "Peptidyl transferase",
+        "C": "RNA ligase",
+        "D": "tRNA synthetase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Peptidyl transferase'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 50,
+      "question": "Which molecule acts as the blueprint for protein synthesis?",
+      "options": {
+        "A": "rRNA",
+        "B": "tRNA",
+        "C": "mRNA",
+        "D": "DNA polymerase"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'mRNA'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    }
+  ],
+  "subject": "biology"
+}

@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 1,
+  "chapterTitle": "Chapter 1: Cells and Sub-cellular Organelles",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who discovered the cell?",
+      "options": {
+        "A": "Robert Koch",
+        "B": "Robert Hooke",
+        "C": "Anton van Leeuwenhoek",
+        "D": "Rudolf Virchow"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Robert Hooke'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is not found in prokaryotic cells?",
+      "options": {
+        "A": "Ribosomes",
+        "B": "Cell membrane",
+        "C": "Nucleus",
+        "D": "Cytoplasm"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Nucleus'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 3,
+      "question": "Which organelle controls all the activities of a cell?",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Golgi apparatus",
+        "C": "Nucleus",
+        "D": "Ribosome"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Nucleus'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 4,
+      "question": "Cell wall is absent in:",
+      "options": {
+        "A": "Bacteria",
+        "B": "Animals",
+        "C": "Fungi",
+        "D": "Plants"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Animals'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is called the powerhouse of the cell?",
+      "options": {
+        "A": "Lysosome",
+        "B": "Mitochondria",
+        "C": "Nucleus",
+        "D": "Ribosome"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Mitochondria'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 6,
+      "question": "The cell membrane is mainly composed of:",
+      "options": {
+        "A": "Proteins and glucose",
+        "B": "Proteins and lipids",
+        "C": "DNA and RNA",
+        "D": "Cellulose and pectin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Proteins and lipids'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 7,
+      "question": "Which organelle helps in the synthesis of proteins?",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Golgi bodies",
+        "C": "Ribosomes",
+        "D": "Vacuoles"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Ribosomes'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 8,
+      "question": "The function of lysosomes is:",
+      "options": {
+        "A": "Energy production",
+        "B": "Digestion of worn-out cell parts",
+        "C": "Photosynthesis",
+        "D": "Protein synthesis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Digestion of worn-out cell parts'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 9,
+      "question": "Which organelle is found only in plant cells?",
+      "options": {
+        "A": "Ribosome",
+        "B": "Chloroplast",
+        "C": "Mitochondria",
+        "D": "Golgi body"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Chloroplast'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 10,
+      "question": "Which structure gives shape and support to the plant cell?",
+      "options": {
+        "A": "Plasma membrane",
+        "B": "Cytoplasm",
+        "C": "Vacuole",
+        "D": "Cell wall"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Cell wall'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 11,
+      "question": "The cell theory was proposed by:",
+      "options": {
+        "A": "Robert Brown",
+        "B": "Schleiden and Schwann",
+        "C": "Hooke and Virchow",
+        "D": "Watson and Crick"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Schleiden and Schwann'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 12,
+      "question": "DNA is mostly found in:",
+      "options": {
+        "A": "Cytoplasm",
+        "B": "Ribosome",
+        "C": "Golgi bodies",
+        "D": "Nucleus"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Nucleus'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is a membrane-bound organelle?",
+      "options": {
+        "A": "Ribosome",
+        "B": "Cytoskeleton",
+        "C": "Mitochondrion",
+        "D": "Nucleoid"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Mitochondrion'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 14,
+      "question": "Ribosomes are manufactured in:",
+      "options": {
+        "A": "Cytoplasm",
+        "B": "Endoplasmic reticulum",
+        "C": "Mitochondria",
+        "D": "Nucleolus"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Nucleolus'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 15,
+      "question": "Chlorophyll is present in:",
+      "options": {
+        "A": "Nucleus",
+        "B": "Chloroplast",
+        "C": "Mitochondria",
+        "D": "Ribosome"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Chloroplast'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 16,
+      "question": "The jelly-like substance inside the cell membrane is:",
+      "options": {
+        "A": "Cytosol",
+        "B": "Protoplasm",
+        "C": "Cytoplasm",
+        "D": "Nucleoplasm"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Cytoplasm'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 17,
+      "question": "Which part of the cell is responsible for packaging and transport?",
+      "options": {
+        "A": "Golgi apparatus",
+        "B": "Ribosome",
+        "C": "Vacuole",
+        "D": "Cytoplasm"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Golgi apparatus'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 18,
+      "question": "Mitochondria provide energy in the form of:",
+      "options": {
+        "A": "DNA",
+        "B": "ATP",
+        "C": "RNA",
+        "D": "NADPH"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'ATP'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 19,
+      "question": "Which organelle is responsible for photosynthesis?",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Ribosomes",
+        "C": "Chloroplast",
+        "D": "Nucleus"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Chloroplast'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 20,
+      "question": "What is the basic structural and functional unit of life?",
+      "options": {
+        "A": "Tissue",
+        "B": "Organ",
+        "C": "Organ system",
+        "D": "Cell"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Cell'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 21,
+      "question": "Which organelle contains digestive enzymes?",
+      "options": {
+        "A": "Ribosome",
+        "B": "Lysosome",
+        "C": "Golgi body",
+        "D": "Vacuole"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Lysosome'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 22,
+      "question": "What is the function of centrioles in animal cells?",
+      "options": {
+        "A": "Photosynthesis",
+        "B": "Digestion",
+        "C": "Cell division",
+        "D": "Protein synthesis"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Cell division'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 23,
+      "question": "The membrane around the nucleus is called:",
+      "options": {
+        "A": "Plasma membrane",
+        "B": "Cell wall",
+        "C": "Nuclear envelope",
+        "D": "Nucleoplasm"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Nuclear envelope'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following is a double membrane-bound organelle?",
+      "options": {
+        "A": "Ribosome",
+        "B": "Lysosome",
+        "C": "Mitochondrion",
+        "D": "Vacuole"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Mitochondrion'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 25,
+      "question": "Prokaryotic cells reproduce by:",
+      "options": {
+        "A": "Mitosis",
+        "B": "Meiosis",
+        "C": "Binary fission",
+        "D": "Budding"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Binary fission'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 26,
+      "question": "Which organelle stores water and waste in plant cells?",
+      "options": {
+        "A": "Nucleus",
+        "B": "Vacuole",
+        "C": "Golgi body",
+        "D": "Chloroplast"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Vacuole'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 27,
+      "question": "Which of the following organelles is involved in the formation of lipids?",
+      "options": {
+        "A": "Smooth ER",
+        "B": "Rough ER",
+        "C": "Ribosome",
+        "D": "Nucleolus"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Smooth ER'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 28,
+      "question": "Which type of cell has a well-defined nucleus?",
+      "options": {
+        "A": "Prokaryotic",
+        "B": "Virus",
+        "C": "Eukaryotic",
+        "D": "Bacterial"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Eukaryotic'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 29,
+      "question": "Which of the following is absent in animal cells?",
+      "options": {
+        "A": "Lysosomes",
+        "B": "Centrosome",
+        "C": "Cell wall",
+        "D": "Nucleus"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Cell wall'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 30,
+      "question": "What do chloroplasts and mitochondria have in common?",
+      "options": {
+        "A": "Single membrane",
+        "B": "Presence in animal cells",
+        "C": "Production of glucose",
+        "D": "Double membrane and own DNA"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Double membrane and own DNA'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 31,
+      "question": "Cellulose is the main component of:",
+      "options": {
+        "A": "Cell membrane",
+        "B": "Nuclear envelope",
+        "C": "Cell wall",
+        "D": "Cytoplasm"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Cell wall'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 32,
+      "question": "The rough endoplasmic reticulum is rough because of:",
+      "options": {
+        "A": "Enzymes",
+        "B": "Ribosomes",
+        "C": "Mitochondria",
+        "D": "Vesicles"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Ribosomes'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 33,
+      "question": "Which of these cells lack a nucleus?",
+      "options": {
+        "A": "White blood cells",
+        "B": "Red blood cells",
+        "C": "Liver cells",
+        "D": "Plant cells"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Red blood cells'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 34,
+      "question": "Which of the following is the site of aerobic respiration?",
+      "options": {
+        "A": "Golgi bodies",
+        "B": "Ribosomes",
+        "C": "Mitochondria",
+        "D": "Nucleus"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Mitochondria'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 35,
+      "question": "Who coined the term “protoplasm”?",
+      "options": {
+        "A": "Robert Hooke",
+        "B": "Purkinje",
+        "C": "Schleiden",
+        "D": "Schwann"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Purkinje'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 36,
+      "question": "What are organelles?",
+      "options": {
+        "A": "Large organs",
+        "B": "Cell organs",
+        "C": "Membrane-bound structures inside cells",
+        "D": "Multicellular organisms"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Membrane-bound structures inside cells'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 37,
+      "question": "DNA replication occurs in:",
+      "options": {
+        "A": "Cytoplasm",
+        "B": "Ribosome",
+        "C": "Nucleus",
+        "D": "Golgi bodies"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Nucleus'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 38,
+      "question": "Which of these organelles is responsible for protein modification and packaging?",
+      "options": {
+        "A": "Ribosome",
+        "B": "Golgi apparatus",
+        "C": "Nucleolus",
+        "D": "Vacuole"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Golgi apparatus'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 39,
+      "question": "The semi-fluid substance between the cell membrane and nucleus is:",
+      "options": {
+        "A": "Nucleoplasm",
+        "B": "Cytoplasm",
+        "C": "Protoplasm",
+        "D": "Vacuole"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Cytoplasm'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 40,
+      "question": "Which of the following has its own DNA?",
+      "options": {
+        "A": "Golgi body",
+        "B": "Lysosome",
+        "C": "Mitochondria",
+        "D": "Ribosome"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Mitochondria'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 41,
+      "question": "Which structure is present in plant but not in animal cells?",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Nucleus",
+        "C": "Cell wall",
+        "D": "Ribosome"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Cell wall'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 42,
+      "question": "Which organelle forms spindle fibers during cell division in animals?",
+      "options": {
+        "A": "Centriole",
+        "B": "Ribosome",
+        "C": "Nucleus",
+        "D": "Lysosome"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Centriole'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 43,
+      "question": "Which structure regulates the movement of substances into and out of the cell?",
+      "options": {
+        "A": "Cell wall",
+        "B": "Plasma membrane",
+        "C": "Nucleus",
+        "D": "Cytoplasm"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Plasma membrane'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 44,
+      "question": "Function of the nucleolus is:",
+      "options": {
+        "A": "Energy production",
+        "B": "DNA storage",
+        "C": "Ribosome synthesis",
+        "D": "Cell wall formation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Ribosome synthesis'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 45,
+      "question": "Organisms with no true nucleus are:",
+      "options": {
+        "A": "Animals",
+        "B": "Fungi",
+        "C": "Bacteria",
+        "D": "Plants"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Bacteria'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 46,
+      "question": "The cytoplasm includes:",
+      "options": {
+        "A": "Only water",
+        "B": "Nucleus and vacuoles",
+        "C": "Organelles and cytosol",
+        "D": "Ribosomes only"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Organelles and cytosol'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 47,
+      "question": "Which organelle helps in detoxification in liver cells?",
+      "options": {
+        "A": "Ribosome",
+        "B": "Mitochondria",
+        "C": "Smooth ER",
+        "D": "Golgi body"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Smooth ER'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 48,
+      "question": "Which organelle forms vesicles for secretion?",
+      "options": {
+        "A": "Nucleus",
+        "B": "Ribosome",
+        "C": "Golgi body",
+        "D": "Mitochondria"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Golgi body'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 49,
+      "question": "Which of the following has a selectively permeable membrane?",
+      "options": {
+        "A": "Cell wall",
+        "B": "Nucleus",
+        "C": "Cell membrane",
+        "D": "Cytoplasm"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Cell membrane'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 50,
+      "question": "The smallest living unit in an organism is:",
+      "options": {
+        "A": "Atom",
+        "B": "Tissue",
+        "C": "Cell",
+        "D": "Organelle"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Cell'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    }
+  ],
+  "subject": "biology"
+}

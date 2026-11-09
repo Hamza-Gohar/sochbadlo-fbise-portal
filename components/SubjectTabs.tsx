@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import ChapterCard from './ChapterCard';
 import { ChapterMeta } from '../lib/types';
-import { Atom, BookMarked, Calculator, Languages, Cpu, Sparkles, BookOpen, ScrollText } from 'lucide-react';
+import { Atom, BookMarked, Calculator, Languages, Cpu, Sparkles, BookOpen, ScrollText, Dna, FlaskConical } from 'lucide-react';
 
 interface SubjectTabsProps {
   physicsChapters: ChapterMeta[];
@@ -13,6 +13,8 @@ interface SubjectTabsProps {
   csChapters: ChapterMeta[];
   islamiatChapters: ChapterMeta[];
   tarjumaChapters: ChapterMeta[];
+  biologyChapters: ChapterMeta[];
+  chemistryChapters: ChapterMeta[];
 }
 
 export default function SubjectTabs({
@@ -23,8 +25,10 @@ export default function SubjectTabs({
   csChapters,
   islamiatChapters,
   tarjumaChapters,
+  biologyChapters,
+  chemistryChapters,
 }: SubjectTabsProps) {
-  const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma'>('physics');
+  const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry'>('physics');
 
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -33,6 +37,8 @@ export default function SubjectTabs({
   const csTotal = csChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const islamiatTotal = islamiatChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const tarjumaTotal = tarjumaChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const biologyTotal = biologyChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const chemistryTotal = chemistryChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
 
   const activeChapters =
     activeSubject === 'physics'
@@ -47,7 +53,11 @@ export default function SubjectTabs({
       ? csChapters
       : activeSubject === 'islamiat'
       ? islamiatChapters
-      : tarjumaChapters;
+      : activeSubject === 'tarjuma'
+      ? tarjumaChapters
+      : activeSubject === 'biology'
+      ? biologyChapters
+      : chemistryChapters;
 
   return (
     <div>
@@ -78,6 +88,38 @@ export default function SubjectTabs({
               <span>Physics</span>
               <span className="font-mono text-[11px] opacity-80 px-1.5 py-0.2 border border-current rounded-sm">
                 14 Units · {physicsTotal} Qs
+              </span>
+            </button>
+
+            <button
+              type="button"
+              onClick={() => setActiveSubject('biology')}
+              className={`px-3.5 py-2 flex items-center gap-2 transition-all duration-150 border font-bold whitespace-nowrap ${
+                activeSubject === 'biology'
+                  ? 'bg-emerald-950 text-emerald-300 border-emerald-700 shadow-sm'
+                  : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+              }`}
+            >
+              <Dna className="w-4 h-4 text-emerald-400" />
+              <span>Biology (حیاتیات)</span>
+              <span className="font-mono text-[11px] opacity-80 px-1.5 py-0.2 border border-current rounded-sm">
+                {biologyChapters.length} Units · {biologyTotal} Qs
+              </span>
+            </button>
+
+            <button
+              type="button"
+              onClick={() => setActiveSubject('chemistry')}
+              className={`px-3.5 py-2 flex items-center gap-2 transition-all duration-150 border font-bold whitespace-nowrap ${
+                activeSubject === 'chemistry'
+                  ? 'bg-amber-950 text-amber-200 border-amber-800 shadow-sm'
+                  : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+              }`}
+            >
+              <FlaskConical className="w-4 h-4 text-amber-400" />
+              <span>Chemistry (کیمسٹری)</span>
+              <span className="font-mono text-[11px] opacity-80 px-1.5 py-0.2 border border-current rounded-sm">
+                {chemistryChapters.length} Units · {chemistryTotal} Qs
               </span>
             </button>
 
@@ -189,6 +231,10 @@ export default function SubjectTabs({
               <span className="text-xs font-mono uppercase tracking-widest text-emerald-900 font-bold block">
                 {activeSubject === 'physics'
                   ? 'Active Subject: Class 11th Physics (SLO Based)'
+                  : activeSubject === 'biology'
+                  ? 'Active Subject: Class 11th Biology (HSSC-I FBISE Pre-Medical)'
+                  : activeSubject === 'chemistry'
+                  ? 'Active Subject: Class 11th Chemistry (HSSC-I FBISE Pre-Medical & Pre-Engineering)'
                   : activeSubject === 'urdu'
                   ? 'فعال مضمون: وفاقی تعلیمی بورڈ لازمی اردو سال اول (FBISE Urdu)'
                   : activeSubject === 'islamiat'
@@ -204,6 +250,10 @@ export default function SubjectTabs({
               <p className="text-xs text-[var(--color-muted)] mt-0.5">
                 {activeSubject === 'physics'
                   ? 'All 14 textbook units + 13-year past board exams compiled with instant formula explanations.'
+                  : activeSubject === 'biology'
+                  ? 'All 15 National Curriculum chapters (Cell Biology, Genetics, Physiology, Biodiversity) + 2 official FBISE Board Section A exam simulators.'
+                  : activeSubject === 'chemistry'
+                  ? '12 core domains (Stoichiometry, Atomic Theory, Bonding, Gas Laws, Energetics, Organic) with rationales by Lecturer Ayesha Amjad + 3 FBISE Board Simulators.'
                   : activeSubject === 'urdu'
                   ? 'حصہ نثر، نظمیں، غزلیات، علم بیان (تشبیہ، استعارہ، مجاز مرسل، کنایہ) اور علم بدیع کے مکمل سوالات مع تفصیلی حل۔'
                   : activeSubject === 'islamiat'
@@ -224,6 +274,10 @@ export default function SubjectTabs({
             <span>
               {activeSubject === 'physics'
                 ? physicsTotal
+                : activeSubject === 'biology'
+                ? biologyTotal
+                : activeSubject === 'chemistry'
+                ? chemistryTotal
                 : activeSubject === 'urdu'
                 ? urduTotal
                 : activeSubject === 'islamiat'

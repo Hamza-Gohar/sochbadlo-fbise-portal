@@ -26,6 +26,8 @@ export default function Footer() {
             </h4>
             <ul className="text-xs space-y-1.5 text-[var(--color-muted)] font-[family-name:var(--font-display)]">
               <li>Physics (14 Units + Past Papers)</li>
+              <li>Biology (15 Units + 2 Simulators)</li>
+              <li>Chemistry (12 Units + 3 Simulators)</li>
               <li>اردو لازمی (نثر، نظمیں، علمِ بیان و بدیع)</li>
               <li>اسلامیات لازمی (5 ابواب + 2 ماڈل پرچے)</li>
               <li>ترجمۃ القرآن (4 سورتیں + 3 سمولیٹرز)</li>

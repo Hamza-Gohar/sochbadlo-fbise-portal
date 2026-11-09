@@ -1,0 +1,212 @@
+{
+  "chapterNumber": 17,
+  "chapterTitle": "Annual Board Examination Section A Simulator 2 (FBISE Class 11 Biology)",
+  "totalQuestions": 17,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of these organelles is responsible for protein modification and packaging?",
+      "options": {
+        "A": "Ribosome",
+        "B": "Golgi apparatus",
+        "C": "Nucleolus",
+        "D": "Vacuole"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Golgi apparatus'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is true about eukaryotic mRNA?",
+      "options": {
+        "A": "It is not processed after transcription",
+        "B": "It contains introns and exons",
+        "C": "It is translated in the nucleus",
+        "D": "It is circular"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'It contains introns and exons'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 3,
+      "question": "The action of enzyme is:",
+      "options": {
+        "A": "Reversible",
+        "B": "Irreversible",
+        "C": "Random",
+        "D": "None"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Reversible'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 4,
+      "question": "Which is a limiting factor in photosynthesis?",
+      "options": {
+        "A": "Light intensity",
+        "B": "Temperature",
+        "C": "CO₂ concentration",
+        "D": "All of these"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'All of these'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 5,
+      "question": "Viruses are inactive:",
+      "options": {
+        "A": "Inside host cell",
+        "B": "In the presence of oxygen",
+        "C": "Outside the host cell",
+        "D": "In dark conditions"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Outside the host cell'. Acellular biological entities such as viruses and prions lack independent cellular metabolism and replicate obligately within susceptible host cells."
+    },
+    {
+      "id": 6,
+      "question": "Bacteria reproduce by:",
+      "options": {
+        "A": "Mitosis",
+        "B": "Meiosis",
+        "C": "Binary fission",
+        "D": "Budding"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Binary fission'. Prokaryotes (Bacteria and Archaea) feature nucleoid genetic regions, peptidoglycan cell walls, and binary fission without membrane-bound organelles."
+    },
+    {
+      "id": 7,
+      "question": "Protists with plant-like characteristics are called:",
+      "options": {
+        "A": "Protozoa",
+        "B": "Algae",
+        "C": "Fungi",
+        "D": "Bacteria"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Algae'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 8,
+      "question": "Which is a common fungal disease in plants?",
+      "options": {
+        "A": "Rust",
+        "B": "Malaria",
+        "C": "Tuberculosis",
+        "D": "AIDS"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Rust'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 9,
+      "question": "Seedless vascular plants include:",
+      "options": {
+        "A": "Bryophytes",
+        "B": "Pteridophytes",
+        "C": "Gymnosperms",
+        "D": "Angiosperms"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Pteridophytes'. Plant evolution demonstrates progressive adaptations from non-vascular bryophytes to vascular, seed-bearing gymnosperms and flowering angiosperms."
+    },
+    {
+      "id": 10,
+      "question": "Plants use energy stored in glucose for:",
+      "options": {
+        "A": "Photosynthesis",
+        "B": "Respiration",
+        "C": "Transpiration",
+        "D": "Germination"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Respiration'. Plant physiological mechanisms govern stomatal opening, transpiration pull, xylem water conduction, and phloem pressure-flow translocation."
+    },
+    {
+      "id": 11,
+      "question": "The respiratory organs of fish are:",
+      "options": {
+        "A": "Lungs",
+        "B": "Gills",
+        "C": "Trachea",
+        "D": "Skin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Gills'. Kingdom Animalia encompasses diverse invertebrate and vertebrate phyla exhibiting bilateral/radial symmetry, coelomic organization, and organ system specialization."
+    },
+    {
+      "id": 12,
+      "question": "The union of male and female gametes is called:",
+      "options": {
+        "A": "Fusion",
+        "B": "Copulation",
+        "C": "Fertilization",
+        "D": "Germination"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Fertilization'. Reproduction ensures species continuity through sexual and asexual modes, gametogenesis, fertilization, and embryonic development."
+    },
+    {
+      "id": 13,
+      "question": "Mendel’s experiments were rediscovered in:",
+      "options": {
+        "A": "1800",
+        "B": "1856",
+        "C": "1900",
+        "D": "1950"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '1900'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 14,
+      "question": "The backbone of DNA is made up of:",
+      "options": {
+        "A": "Base pairs",
+        "B": "Sugar and phosphate",
+        "C": "Ribose and lipid",
+        "D": "Hydrogen bonds"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Sugar and phosphate'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 15,
+      "question": "The book Origin of Species was written by:",
+      "options": {
+        "A": "Mendel",
+        "B": "Darwin",
+        "C": "Lamarck",
+        "D": "Wallace"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Darwin'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following best defines evolution?",
+      "options": {
+        "A": "Sudden change",
+        "B": "Genetic change over generations",
+        "C": "Acquired traits",
+        "D": "Change in environment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Genetic change over generations'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 17,
+      "question": "The burning of fossil fuels adds:",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "CO2",
+        "D": "Ozone"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'CO2'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    }
+  ],
+  "subject": "biology"
+}

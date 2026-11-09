@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 4,
+  "chapterTitle": "Chapter 4: States & Phases of Matter (Gases, Liquids & Solids)",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "question": "Which of the following states of matter has a definite volume but no definite shape?",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gas",
+        "D": "Plasma"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Liquid'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 1
+    },
+    {
+      "question": "What is the phase transition from gas to liquid called?",
+      "options": {
+        "A": "Sublimation",
+        "B": "Condensation",
+        "C": "Freezing",
+        "D": "Evaporation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Condensation'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 2
+    },
+    {
+      "question": "The temperature at which a liquid changes into a solid is called:",
+      "options": {
+        "A": "Boiling point",
+        "B": "Freezing point",
+        "C": "Melting point",
+        "D": "Sublimation point"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Freezing point'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 3
+    },
+    {
+      "question": "In which state of matter are particles most tightly packed?",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gas",
+        "D": "Plasma"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Solid'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 4
+    },
+    {
+      "question": "What happens to the kinetic energy of particles as a substance changes from solid to liquid?",
+      "options": {
+        "A": "It increases",
+        "B": "It decreases",
+        "C": "It stays the same",
+        "D": "It oscillates"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'It increases'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 5
+    },
+    {
+      "question": "Which phase transition occurs when a substance changes from a gas directly to a solid?",
+      "options": {
+        "A": "Deposition",
+        "B": "Sublimation",
+        "C": "Evaporation",
+        "D": "Condensation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Deposition'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 6
+    },
+    {
+      "question": "The boiling point of water at standard atmospheric pressure is:",
+      "options": {
+        "A": "50°C",
+        "B": "100°C",
+        "C": "0°C",
+        "D": "150°C"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '100°C'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 7
+    },
+    {
+      "question": "Which of the following has the highest kinetic energy?",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gas",
+        "D": "Plasma"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Gas'. Stronger the hydrogen bonding (strong intermolecular forces), greater of higher the boiling point will\n be.\n                                      Decrease in        Increase in                        Increase in",
+      "id": 8
+    },
+    {
+      "question": "The change of state from liquid to gas is called:",
+      "options": {
+        "A": "Condensation",
+        "B": "Evaporation",
+        "C": "Freezing",
+        "D": "Sublimation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Evaporation'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 9
+    },
+    {
+      "question": "The volume of a gas is most affected by which factor?",
+      "options": {
+        "A": "Temperature",
+        "B": "Pressure",
+        "C": "Volume",
+        "D": "Mass"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Pressure'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 10
+    },
+    {
+      "question": "Which gas law states that volume is inversely proportional to pressure at constant temperature?",
+      "options": {
+        "A": "Charles's Law",
+        "B": "Boyle's Law",
+        "C": "Avogadro's Law",
+        "D": "Ideal Gas Law"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Boyle's Law'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 11
+    },
+    {
+      "question": "What is the state of matter with neither a definite volume nor a definite shape?",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gas",
+        "D": "Plasma"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Gas'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 12
+    },
+    {
+      "question": "The substance that sublimes at room temperature is:",
+      "options": {
+        "A": "Water",
+        "B": "Iodine",
+        "C": "Mercury",
+        "D": "Sodium"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Iodine'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 13
+    },
+    {
+      "question": "The relationship between the pressure and temperature of a gas is described by:",
+      "options": {
+        "A": "Boyle's Law",
+        "B": "Charles's Law",
+        "C": "Gay-Lussac's Law",
+        "D": "Avogadro's Law"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Gay-Lussac's Law'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 14
+    },
+    {
+      "question": "Which of the following statements is true for liquids?",
+      "options": {
+        "A": "Liquids have no definite volume.",
+        "B": "Liquids have a definite shape but no definite volume.",
+        "C": "Liquids have both definite shape and volume.",
+        "D": "Liquids have a definite volume but no definite shape."
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Liquids have a definite volume but no definite shape.'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 15
+    },
+    {
+      "question": "The energy required to change a substance from solid to liquid is called:",
+      "options": {
+        "A": "Heat of fusion",
+        "B": "Heat of vaporization",
+        "C": "Latent heat",
+        "D": "Specific heat"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Heat of fusion'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 16
+    },
+    {
+      "question": "Which of the following is a characteristic of gases?",
+      "options": {
+        "A": "Gases are incompressible.",
+        "B": "Gases have fixed shapes.",
+        "C": "Gases expand to fill the container.",
+        "D": "Gases have high densities."
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Gases expand to fill the container.'. CHCl₃ contains three halogen atoms attached to the same carbon\n                                                     CH₃CH₂CH₂O      CH₃CH₂CH₂B        CH₃CH₂CH₂N",
+      "id": 17
+    },
+    {
+      "question": "The energy required to change a liquid to a gas is called:",
+      "options": {
+        "A": "Heat of fusion",
+        "B": "Heat of vaporization",
+        "C": "Specific heat",
+        "D": "Latent heat"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Heat of vaporization'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 18
+    },
+    {
+      "question": "A substance at its critical temperature and pressure is in the:",
+      "options": {
+        "A": "Liquid state",
+        "B": "Gas state",
+        "C": "Supercritical fluid state",
+        "D": "Solid state"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Supercritical fluid state'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 19
+    },
+    {
+      "question": "The temperature at which the vapor pressure of a liquid equals the atmospheric pressure is called the:",
+      "options": {
+        "A": "Boiling point",
+        "B": "Freezing point",
+        "C": "Melting point",
+        "D": "Critical point"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Boiling point'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 20
+    },
+    {
+      "question": "Which of the following best describes the particles in a gas?",
+      "options": {
+        "A": "Close together and fixed in place",
+        "B": "Spread far apart and move freely",
+        "C": "Close together but can move past each other",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Spread far apart and move freely'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 21
+    },
+    {
+      "question": "The term \"liquid crystals\" refers to substances that:",
+      "options": {
+        "A": "Can only exist at very low temperatures",
+        "B": "Have properties between liquids and solids",
+        "C": "Are found in solid form at room temperature",
+        "D": "Are always gaseous"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Have properties between liquids and solids'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 22
+    },
+    {
+      "question": "The heat required to convert a solid into a liquid at its melting point is called:",
+      "options": {
+        "A": "Latent heat of fusion",
+        "B": "Latent heat of vaporization",
+        "C": "Specific heat",
+        "D": "Enthalpy of fusion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Latent heat of fusion'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 23
+    },
+    {
+      "question": "What is the effect of temperature on the volume of a gas?",
+      "options": {
+        "A": "Volume decreases with temperature",
+        "B": "Volume remains constant with temperature",
+        "C": "Volume increases with temperature",
+        "D": "Volume becomes negative at high temperature"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Volume increases with temperature'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 24
+    },
+    {
+      "question": "The intermolecular forces are weakest in which phase of matter?",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gas",
+        "D": "Plasma"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Gas'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 25
+    },
+    {
+      "question": "Which of the following gases would deviate most from ideal gas behavior?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Hydrogen",
+        "C": "Nitrogen",
+        "D": "Ammonia"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Ammonia'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 26
+    },
+    {
+      "question": "The boiling point of a liquid decreases with:",
+      "options": {
+        "A": "Decrease in pressure",
+        "B": "Increase in pressure",
+        "C": "Decrease in temperature",
+        "D": "Increase in temperature"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Decrease in pressure'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 27
+    },
+    {
+      "question": "Which of the following best describes the phase change from gas to solid?",
+      "options": {
+        "A": "Sublimation",
+        "B": "Deposition",
+        "C": "Condensation",
+        "D": "Melting"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Deposition'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 28
+    },
+    {
+      "question": "A solid is changed directly into a gas without becoming a liquid. This process is called:",
+      "options": {
+        "A": "Evaporation",
+        "B": "Sublimation",
+        "C": "Freezing",
+        "D": "Condensation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Sublimation'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 29
+    },
+    {
+      "question": "In which state of matter do particles have the least kinetic energy?",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gas",
+        "D": "Plasma"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Solid'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 30
+    },
+    {
+      "question": "A substance with high vapor pressure at room temperature is generally:",
+      "options": {
+        "A": "A solid",
+        "B": "A liquid with strong intermolecular forces",
+        "C": "A liquid with weak intermolecular forces",
+        "D": "A gas"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'A liquid with weak intermolecular forces'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 31
+    },
+    {
+      "question": "The critical temperature of a substance is the temperature above which:",
+      "options": {
+        "A": "The substance cannot exist as a liquid",
+        "B": "The substance cannot exist as a gas",
+        "C": "The substance becomes a solid",
+        "D": "The substance freezes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'The substance cannot exist as a liquid'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 32
+    },
+    {
+      "question": "Which of the following is true about the gas phase?",
+      "options": {
+        "A": "Gas particles are close together but move slowly",
+        "B": "Gas particles are far apart and move freely",
+        "C": "Gas particles are close together and move rapidly",
+        "D": "Gas particles have strong intermolecular forces"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Gas particles are far apart and move freely'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 33
+    },
+    {
+      "question": "What happens to the volume of a gas if the temperature is doubled at constant pressure?",
+      "options": {
+        "A": "The volume stays the same",
+        "B": "The volume doubles",
+        "C": "The volume halves",
+        "D": "The volume decreases by half"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'The volume doubles'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 34
+    },
+    {
+      "question": "The melting point of a substance is:",
+      "options": {
+        "A": "The temperature at which it changes from gas to liquid",
+        "B": "The temperature at which it changes from solid to liquid",
+        "C": "The temperature at which it freezes",
+        "D": "The temperature at which it boils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'The temperature at which it changes from solid to'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 35
+    },
+    {
+      "question": "In which state of matter do particles have the highest kinetic energy?",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gas",
+        "D": "Plasma"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Plasma'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 36
+    },
+    {
+      "question": "The energy required to convert a liquid to a gas at its boiling point is called:",
+      "options": {
+        "A": "Latent heat of fusion",
+        "B": "Latent heat of vaporization",
+        "C": "Specific heat",
+        "D": "Heat capacity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Latent heat of vaporization'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 37
+    },
+    {
+      "question": "Which phase transition occurs when a gas turns directly into a solid?",
+      "options": {
+        "A": "Sublimation",
+        "B": "Deposition",
+        "C": "Condensation",
+        "D": "Evaporation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Deposition'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 38
+    },
+    {
+      "question": "What happens to the gas volume if the pressure is reduced while temperature remains constant?",
+      "options": {
+        "A": "Volume decreases",
+        "B": "Volume remains the same",
+        "C": "Volume increases",
+        "D": "Volume fluctuates"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Volume increases'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 39
+    },
+    {
+      "question": "What is the phase change from liquid to gas below the boiling point called?",
+      "options": {
+        "A": "Boiling",
+        "B": "Evaporation",
+        "C": "Condensation",
+        "D": "Freezing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Evaporation'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 40
+    },
+    {
+      "question": "In a gas, the intermolecular forces are:",
+      "options": {
+        "A": "Strong",
+        "B": "Weak",
+        "C": "Negligible",
+        "D": "Variable"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Negligible'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 41
+    },
+    {
+      "question": "The behavior of real gases deviates most from ideal gas behavior at:",
+      "options": {
+        "A": "High temperature and low pressure",
+        "B": "High pressure and low temperature",
+        "C": "Low pressure and high temperature",
+        "D": "Standard temperature and pressure"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'High pressure and low temperature'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 42
+    },
+    {
+      "question": "The volume occupied by gas molecules is considered in the Van der Waals equation through the term:",
+      "options": {
+        "A": "a",
+        "B": "b",
+        "C": "T",
+        "D": "P"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'b'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 43
+    },
+    {
+      "question": "At the critical point, the density of the liquid and vapor phases:",
+      "options": {
+        "A": "Becomes equal",
+        "B": "Becomes zero",
+        "C": "Becomes infinite",
+        "D": "Remains the same as in other states"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Becomes equal'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 44
+    },
+    {
+      "question": "The compressibility factor of an ideal gas is:",
+      "options": {
+        "A": "Always greater than 1",
+        "B": "Always less than 1",
+        "C": "Equal to 1",
+        "D": "Depends on the pressure only"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Equal to 1'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 45
+    },
+    {
+      "question": "During the process of condensation, the temperature of a substance:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Fluctuates"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Remains constant'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 46
+    },
+    {
+      "question": "In which phase does a substance have both a definite volume and shape?",
+      "options": {
+        "A": "Liquid",
+        "B": "Gas",
+        "C": "Solid",
+        "D": "Plasma"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Solid'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 47
+    },
+    {
+      "question": "The heat of vaporization is:",
+      "options": {
+        "A": "The energy needed to convert a gas to liquid",
+        "B": "The energy needed to convert a solid to liquid",
+        "C": "The energy needed to convert a liquid to gas",
+        "D": "The energy needed to convert a solid to gas"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'The energy needed to convert a liquid to gas'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 48
+    },
+    {
+      "question": "According to the kinetic molecular theory, the average kinetic energy of particles is directly proportional to:",
+      "options": {
+        "A": "The temperature of the gas",
+        "B": "The volume of the gas",
+        "C": "The pressure of the gas",
+        "D": "The molar mass of the gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'The temperature of the gas'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 49
+    },
+    {
+      "question": "The boiling point of a substance decreases as:",
+      "options": {
+        "A": "The atmospheric pressure increases",
+        "B": "The temperature increases",
+        "C": "The atmospheric pressure decreases",
+        "D": "The vapor pressure decreases"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'The atmospheric pressure decreases'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 50
+    }
+  ],
+  "subject": "chemistry"
+}

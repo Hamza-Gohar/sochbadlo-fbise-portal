@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 7,
+  "chapterTitle": "Chapter 7: Protista and Fungi",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is a unicellular protist?",
+      "options": {
+        "A": "Spirogyra",
+        "B": "Amoeba",
+        "C": "Mushrooms",
+        "D": "Fern"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Amoeba'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 2,
+      "question": "Protists with plant-like characteristics are called:",
+      "options": {
+        "A": "Protozoa",
+        "B": "Algae",
+        "C": "Fungi",
+        "D": "Bacteria"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Algae'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 3,
+      "question": "Which protist moves by pseudopodia?",
+      "options": {
+        "A": "Paramecium",
+        "B": "Amoeba",
+        "C": "Euglena",
+        "D": "Diatoms"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Amoeba'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 4,
+      "question": "Which protist has both plant and animal characteristics?",
+      "options": {
+        "A": "Amoeba",
+        "B": "Paramecium",
+        "C": "Euglena",
+        "D": "Volvox"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Euglena'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 5,
+      "question": "The locomotory organelles of Paramecium are:",
+      "options": {
+        "A": "Flagella",
+        "B": "Cilia",
+        "C": "Pseudopodia",
+        "D": "Pili"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Cilia'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 6,
+      "question": "Which protist is used as a model organism in genetics?",
+      "options": {
+        "A": "Volvox",
+        "B": "Paramecium",
+        "C": "Amoeba",
+        "D": "Euglena"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Paramecium'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 7,
+      "question": "Diatoms are important because they:",
+      "options": {
+        "A": "Cause diseases",
+        "B": "Perform photosynthesis",
+        "C": "Fix nitrogen",
+        "D": "Are decomposers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Perform photosynthesis'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 8,
+      "question": "The cell wall of diatoms contains:",
+      "options": {
+        "A": "Cellulose",
+        "B": "Chitin",
+        "C": "Silica",
+        "D": "Peptidoglycan"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Silica'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 9,
+      "question": "Volvox is an example of:",
+      "options": {
+        "A": "Unicellular algae",
+        "B": "Colonial algae",
+        "C": "Multicellular fungi",
+        "D": "Protozoa"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Colonial algae'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 10,
+      "question": "Which protist causes malaria?",
+      "options": {
+        "A": "Trypanosoma",
+        "B": "Plasmodium",
+        "C": "Giardia",
+        "D": "Paramecium"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Plasmodium'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 11,
+      "question": "Plasmodium is transmitted by:",
+      "options": {
+        "A": "Mosquito",
+        "B": "Fly",
+        "C": "Tick",
+        "D": "Water"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Mosquito'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is a parasitic protozoan?",
+      "options": {
+        "A": "Euglena",
+        "B": "Plasmodium",
+        "C": "Volvox",
+        "D": "Diatoms"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Plasmodium'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 13,
+      "question": "Ciliates move by:",
+      "options": {
+        "A": "Flagella",
+        "B": "Cilia",
+        "C": "Pseudopodia",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Cilia'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 14,
+      "question": "Amoeba feeds by:",
+      "options": {
+        "A": "Photosynthesis",
+        "B": "Phagocytosis",
+        "C": "Diffusion",
+        "D": "Osmosis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Phagocytosis'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 15,
+      "question": "Euglena produces food by:",
+      "options": {
+        "A": "Photosynthesis only",
+        "B": "Heterotrophic nutrition only",
+        "C": "Both photosynthesis and heterotrophic nutrition",
+        "D": "None of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Both photosynthesis and heterotrophic nutrition'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 16,
+      "question": "Which pigment is found in green algae?",
+      "options": {
+        "A": "Chlorophyll a and b",
+        "B": "Phycoerythrin",
+        "C": "Fucoxanthin",
+        "D": "Carotenoids only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Chlorophyll a and b'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 17,
+      "question": "Which group of protists are known as “plant-like” protists?",
+      "options": {
+        "A": "Protozoa",
+        "B": "Algae",
+        "C": "Fungi",
+        "D": "Slime molds"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Algae'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 18,
+      "question": "Algae are important because they:",
+      "options": {
+        "A": "Produce oxygen through photosynthesis",
+        "B": "Cause diseases",
+        "C": "Are parasites",
+        "D": "Break down organic matter"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Produce oxygen through photosynthesis'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following algae is used as food and in agar production?",
+      "options": {
+        "A": "Red algae",
+        "B": "Green algae",
+        "C": "Brown algae",
+        "D": "Diatoms"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Red algae'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 20,
+      "question": "The reproductive structure in Volvox is called:",
+      "options": {
+        "A": "Zoospore",
+        "B": "Gamete",
+        "C": "Zygospore",
+        "D": "Sporangium"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Zygospore'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 21,
+      "question": "Fungi obtain their nutrition by:",
+      "options": {
+        "A": "Photosynthesis",
+        "B": "Saprophytic or parasitic mode",
+        "C": "Chemosynthesis",
+        "D": "Autotrophic mode"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Saprophytic or parasitic mode'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 22,
+      "question": "The cell wall of fungi is made up of:",
+      "options": {
+        "A": "Cellulose",
+        "B": "Chitin",
+        "C": "Peptidoglycan",
+        "D": "Silica"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Chitin'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 23,
+      "question": "Fungi reproduce by:",
+      "options": {
+        "A": "Binary fission",
+        "B": "Budding and spores",
+        "C": "Seeds",
+        "D": "Fragmentation only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Budding and spores'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 24,
+      "question": "Yeast reproduces mainly by:",
+      "options": {
+        "A": "Binary fission",
+        "B": "Budding",
+        "C": "Spores",
+        "D": "Fragmentation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Budding'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 25,
+      "question": "The body of a fungus is called:",
+      "options": {
+        "A": "Mycelium",
+        "B": "Hyphae",
+        "C": "Thallus",
+        "D": "Colony"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Thallus'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 26,
+      "question": "The network of thread-like structures in fungi is called:",
+      "options": {
+        "A": "Mycelium",
+        "B": "Hyphae",
+        "C": "Spores",
+        "D": "Buds"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Mycelium'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 27,
+      "question": "Fungi lack:",
+      "options": {
+        "A": "Chlorophyll",
+        "B": "Cell wall",
+        "C": "Nucleus",
+        "D": "Cytoplasm"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Chlorophyll'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 28,
+      "question": "The spores in fungi are:",
+      "options": {
+        "A": "Sexual and asexual",
+        "B": "Only sexual",
+        "C": "Only asexual",
+        "D": "Neither sexual nor asexual"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Sexual and asexual'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 29,
+      "question": "Which of the following fungi is used in antibiotics production?",
+      "options": {
+        "A": "Penicillium",
+        "B": "Yeast",
+        "C": "Mushrooms",
+        "D": "Algae"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Penicillium'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 30,
+      "question": "The edible fungi are:",
+      "options": {
+        "A": "Mushrooms",
+        "B": "Penicillium",
+        "C": "Yeast",
+        "D": "Molds"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Mushrooms'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is a harmful fungus?",
+      "options": {
+        "A": "Penicillium",
+        "B": "Aspergillus",
+        "C": "Rhizopus",
+        "D": "All of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Aspergillus'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 32,
+      "question": "Fungi store food in the form of:",
+      "options": {
+        "A": "Starch",
+        "B": "Glycogen",
+        "C": "Cellulose",
+        "D": "Sucrose"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Glycogen'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 33,
+      "question": "Which fungus is used in baking and brewing?",
+      "options": {
+        "A": "Rhizopus",
+        "B": "Yeast",
+        "C": "Penicillium",
+        "D": "Aspergillus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Yeast'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 34,
+      "question": "Rhizopus belongs to the group:",
+      "options": {
+        "A": "Zygomycetes",
+        "B": "Ascomycetes",
+        "C": "Basidiomycetes",
+        "D": "Deuteromycetes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Zygomycetes'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 35,
+      "question": "The sexual spores of Rhizopus are called:",
+      "options": {
+        "A": "Zygospores",
+        "B": "Basidiospores",
+        "C": "Ascospores",
+        "D": "Conidiospores"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Zygospores'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 36,
+      "question": "Mushrooms reproduce sexually by:",
+      "options": {
+        "A": "Spores",
+        "B": "Budding",
+        "C": "Binary fission",
+        "D": "Fragmentation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Spores'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 37,
+      "question": "Fungi that live on dead organic matter are called:",
+      "options": {
+        "A": "Parasites",
+        "B": "Saprophytes",
+        "C": "Symbionts",
+        "D": "Autotrophs"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Saprophytes'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 38,
+      "question": "The hyphae that penetrate host tissue in parasitic fungi are called:",
+      "options": {
+        "A": "Rhizoids",
+        "B": "Haustoria",
+        "C": "Stolons",
+        "D": "Mycelium"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Haustoria'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 39,
+      "question": "The main function of fungal spores is:",
+      "options": {
+        "A": "Nutrition",
+        "B": "Reproduction and dispersal",
+        "C": "Photosynthesis",
+        "D": "Respiration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Reproduction and dispersal'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 40,
+      "question": "Lichens are a symbiotic association between fungi and:",
+      "options": {
+        "A": "Algae or cyanobacteria",
+        "B": "Bacteria",
+        "C": "Protozoa",
+        "D": "Moss"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Algae or cyanobacteria'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 41,
+      "question": "Which fungal group lacks sexual reproduction?",
+      "options": {
+        "A": "Zygomycetes",
+        "B": "Basidiomycetes",
+        "C": "Ascomycetes",
+        "D": "Deuteromycetes"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Deuteromycetes'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 42,
+      "question": "Penicillium produces:",
+      "options": {
+        "A": "Alcohol",
+        "B": "Antibiotic",
+        "C": "Vitamin",
+        "D": "Enzymes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Antibiotic'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 43,
+      "question": "Mycorrhiza is a symbiotic association of fungi with:",
+      "options": {
+        "A": "Algae",
+        "B": "Roots of plants",
+        "C": "Protozoa",
+        "D": "Mosses"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Roots of plants'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 44,
+      "question": "The vegetative part of fungi consists of:",
+      "options": {
+        "A": "Spores",
+        "B": "Hyphae",
+        "C": "Buds",
+        "D": "Zygospores"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Hyphae'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 45,
+      "question": "Fungi play an important role in:",
+      "options": {
+        "A": "Photosynthesis",
+        "B": "Decomposition of organic matter",
+        "C": "Nitrogen fixation",
+        "D": "Pollination"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Decomposition of organic matter'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 46,
+      "question": "Which is a common fungal disease in plants?",
+      "options": {
+        "A": "Rust",
+        "B": "Malaria",
+        "C": "Tuberculosis",
+        "D": "AIDS"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Rust'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 47,
+      "question": "Mushrooms belong to:",
+      "options": {
+        "A": "Zygomycetes",
+        "B": "Ascomycetes",
+        "C": "Basidiomycetes",
+        "D": "Deuteromycetes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Basidiomycetes'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 48,
+      "question": "Asexual spores produced by fungi are called:",
+      "options": {
+        "A": "Zygospores",
+        "B": "Conidiospores",
+        "C": "Basidiospores",
+        "D": "Ascospores"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Conidiospores'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 49,
+      "question": "Fungi differ from plants because they:",
+      "options": {
+        "A": "Have chlorophyll",
+        "B": "Store food as starch",
+        "C": "Are heterotrophic",
+        "D": "Have roots"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Are heterotrophic'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 50,
+      "question": "Fungi reproduce sexually through:",
+      "options": {
+        "A": "Budding",
+        "B": "Binary fission",
+        "C": "Spores",
+        "D": "Fragmentation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Spores'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    }
+  ],
+  "subject": "biology"
+}

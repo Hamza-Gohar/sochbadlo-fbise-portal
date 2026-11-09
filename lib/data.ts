@@ -9,9 +9,11 @@ const ENGLISH_DIR = path.join(process.cwd(), 'data', 'english-11');
 const CS_DIR = path.join(process.cwd(), 'data', 'cs-11');
 const ISLAMIAT_DIR = path.join(process.cwd(), 'data', 'islamiat-11');
 const TARJUMA_DIR = path.join(process.cwd(), 'data', 'tarjuma-11');
+const BIOLOGY_DIR = path.join(process.cwd(), 'data', 'biology-11');
+const CHEMISTRY_DIR = path.join(process.cwd(), 'data', 'chemistry-11');
 
 export function getChaptersIndex(
-  subject: 'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' = 'physics'
+  subject: 'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry' = 'physics'
 ): ChapterMeta[] {
   try {
     let dir = PHYSICS_DIR;
@@ -21,6 +23,8 @@ export function getChaptersIndex(
     else if (subject === 'cs') dir = CS_DIR;
     else if (subject === 'islamiat') dir = ISLAMIAT_DIR;
     else if (subject === 'tarjuma') dir = TARJUMA_DIR;
+    else if (subject === 'biology') dir = BIOLOGY_DIR;
+    else if (subject === 'chemistry') dir = CHEMISTRY_DIR;
 
     const indexPath = path.join(dir, 'chapters-index.json');
     if (fs.existsSync(indexPath)) {
@@ -43,6 +47,8 @@ export function getAllChapters(): ChapterMeta[] {
     ...getChaptersIndex('cs'),
     ...getChaptersIndex('islamiat'),
     ...getChaptersIndex('tarjuma'),
+    ...getChaptersIndex('biology'),
+    ...getChaptersIndex('chemistry'),
   ];
 }
 
@@ -52,10 +58,10 @@ export function getAllSlugs(): string[] {
 
 export function getChapterBySlug(
   slug: string
-): (ChapterData & { slug: string; subject: 'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' }) | null {
+): (ChapterData & { slug: string; subject: 'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry' }) | null {
   try {
     let targetDir = PHYSICS_DIR;
-    let subject: 'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' = 'physics';
+    let subject: 'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry' = 'physics';
 
     if (slug.startsWith('urdu')) {
       targetDir = URDU_DIR;
@@ -75,6 +81,12 @@ export function getChapterBySlug(
     } else if (slug.startsWith('tarjuma')) {
       targetDir = TARJUMA_DIR;
       subject = 'tarjuma';
+    } else if (slug.startsWith('biology')) {
+      targetDir = BIOLOGY_DIR;
+      subject = 'biology';
+    } else if (slug.startsWith('chemistry')) {
+      targetDir = CHEMISTRY_DIR;
+      subject = 'chemistry';
     }
 
     const fileName = slug.endsWith('.json') ? slug : `${slug}.json`;
@@ -90,8 +102,10 @@ export function getChapterBySlug(
       };
     }
 
-    // Fallback search across all seven directories
-    const dirMap: Array<[string, 'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma']> = [
+    // Fallback search across all nine directories
+    const dirMap: Array<[string, 'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry']> = [
+      [BIOLOGY_DIR, 'biology'],
+      [CHEMISTRY_DIR, 'chemistry'],
       [ISLAMIAT_DIR, 'islamiat'],
       [TARJUMA_DIR, 'tarjuma'],
       [CS_DIR, 'cs'],

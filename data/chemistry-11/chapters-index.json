@@ -1,0 +1,122 @@
+[
+  {
+    "chapterNumber": 1,
+    "title": "Chapter 1: Stoichiometry & Quantitative Chemical Calculations",
+    "slug": "chemistry-chapter-1",
+    "totalQuestions": 50,
+    "fileName": "chemistry-chapter-1.json",
+    "subject": "chemistry"
+  },
+  {
+    "chapterNumber": 2,
+    "title": "Chapter 2: Atomic Structure, Subshells & Quantum Numbers",
+    "slug": "chemistry-chapter-2",
+    "totalQuestions": 50,
+    "fileName": "chemistry-chapter-2.json",
+    "subject": "chemistry"
+  },
+  {
+    "chapterNumber": 3,
+    "title": "Chapter 3: Chemical Bonding, VSEPR & Molecular Geometry",
+    "slug": "chemistry-chapter-3",
+    "totalQuestions": 50,
+    "fileName": "chemistry-chapter-3.json",
+    "subject": "chemistry"
+  },
+  {
+    "chapterNumber": 4,
+    "title": "Chapter 4: States & Phases of Matter (Gases, Liquids & Solids)",
+    "slug": "chemistry-chapter-4",
+    "totalQuestions": 50,
+    "fileName": "chemistry-chapter-4.json",
+    "subject": "chemistry"
+  },
+  {
+    "chapterNumber": 5,
+    "title": "Chapter 5: Energetics, Enthalpy & Thermochemical Equations",
+    "slug": "chemistry-chapter-5",
+    "totalQuestions": 50,
+    "fileName": "chemistry-chapter-5.json",
+    "subject": "chemistry"
+  },
+  {
+    "chapterNumber": 6,
+    "title": "Chapter 6: Chemical Kinetics, Reaction Rates & Rate Laws",
+    "slug": "chemistry-chapter-6",
+    "totalQuestions": 50,
+    "fileName": "chemistry-chapter-6.json",
+    "subject": "chemistry"
+  },
+  {
+    "chapterNumber": 7,
+    "title": "Chapter 7: Chemical Equilibrium & Le Chatelier's Principle",
+    "slug": "chemistry-chapter-7",
+    "totalQuestions": 50,
+    "fileName": "chemistry-chapter-7.json",
+    "subject": "chemistry"
+  },
+  {
+    "chapterNumber": 8,
+    "title": "Chapter 8: Acids, Bases, pH & Ionic Equilibria",
+    "slug": "chemistry-chapter-8",
+    "totalQuestions": 50,
+    "fileName": "chemistry-chapter-8.json",
+    "subject": "chemistry"
+  },
+  {
+    "chapterNumber": 9,
+    "title": "Chapter 9: Periodic Table, Periodicity & Element Groups",
+    "slug": "chemistry-chapter-9",
+    "totalQuestions": 50,
+    "fileName": "chemistry-chapter-9.json",
+    "subject": "chemistry"
+  },
+  {
+    "chapterNumber": 10,
+    "title": "Chapter 10: Environmental Chemistry (Air & Water Quality)",
+    "slug": "chemistry-chapter-10",
+    "totalQuestions": 50,
+    "fileName": "chemistry-chapter-10.json",
+    "subject": "chemistry"
+  },
+  {
+    "chapterNumber": 11,
+    "title": "Chapter 11: Organic Chemistry Fundamentals & Hydrocarbons",
+    "slug": "chemistry-chapter-11",
+    "totalQuestions": 50,
+    "fileName": "chemistry-chapter-11.json",
+    "subject": "chemistry"
+  },
+  {
+    "chapterNumber": 12,
+    "title": "Chapter 12: Functional Groups, Organic Derivatives & Synthesis",
+    "slug": "chemistry-chapter-12",
+    "totalQuestions": 50,
+    "fileName": "chemistry-chapter-12.json",
+    "subject": "chemistry"
+  },
+  {
+    "chapterNumber": 13,
+    "title": "Annual Board Examination Section A Simulator 1 (FBISE Class 11 Chemistry)",
+    "slug": "chemistry-model-paper-1",
+    "totalQuestions": 17,
+    "fileName": "chemistry-model-paper-1.json",
+    "subject": "chemistry"
+  },
+  {
+    "chapterNumber": 14,
+    "title": "Annual Board Examination Section A Simulator 2 (FBISE Class 11 Chemistry)",
+    "slug": "chemistry-model-paper-2",
+    "totalQuestions": 17,
+    "fileName": "chemistry-model-paper-2.json",
+    "subject": "chemistry"
+  },
+  {
+    "chapterNumber": 15,
+    "title": "Annual Board Examination Section A Simulator 3 (FBISE Class 11 Chemistry)",
+    "slug": "chemistry-model-paper-3",
+    "totalQuestions": 17,
+    "fileName": "chemistry-model-paper-3.json",
+    "subject": "chemistry"
+  }
+]

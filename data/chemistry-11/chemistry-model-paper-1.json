@@ -1,0 +1,212 @@
+{
+  "chapterNumber": 13,
+  "chapterTitle": "Annual Board Examination Section A Simulator 1 (FBISE Class 11 Chemistry)",
+  "totalQuestions": 17,
+  "questions": [
+    {
+      "question": "The molar mass of NaCl is:",
+      "options": {
+        "A": "58 g/mol",
+        "B": "35.5 g/mol",
+        "C": "22.99 g/mol",
+        "D": "44.99 g/mol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '58 g/mol'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 1
+    },
+    {
+      "question": "What is the number of atoms in 2 moles of oxygen gas (O₂)?",
+      "options": {
+        "A": "6.022 × 10²³",
+        "B": "3.011 × 10²³",
+        "C": "1.204 × 10²³",
+        "D": "12.044 × 10²³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '3.011 × 10²³'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 2
+    },
+    {
+      "question": "The shape of a 'd' orbital is:",
+      "options": {
+        "A": "Spherical",
+        "B": "Dumbbell-shaped",
+        "C": "Double dumbbell-shaped",
+        "D": "Complex"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Double dumbbell-shaped'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 3
+    },
+    {
+      "question": "The electronegativity difference between atoms in a covalent bond is:",
+      "options": {
+        "A": "0",
+        "B": "Less than 0.5",
+        "C": "0.5 to 1.7",
+        "D": "Greater than 1.7"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Less than 0.5'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 4
+    },
+    {
+      "question": "The electron cloud in a covalent bond is:",
+      "options": {
+        "A": "Spherical",
+        "B": "Pointed",
+        "C": "Non-uniform",
+        "D": "Uniform"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Uniform'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 5
+    },
+    {
+      "question": "Which of the following gases would deviate most from ideal gas behavior?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Hydrogen",
+        "C": "Nitrogen",
+        "D": "Ammonia"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Ammonia'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 6
+    },
+    {
+      "question": "The heat released in an exothermic reaction is:",
+      "options": {
+        "A": "Negative",
+        "B": "Positive",
+        "C": "Zero",
+        "D": "Dependent on the reactants"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Negative'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 7
+    },
+    {
+      "question": "The heat required to raise the temperature of a substance by 1°C is called its:",
+      "options": {
+        "A": "Heat capacity",
+        "B": "Specific heat",
+        "C": "Molar heat",
+        "D": "Latent heat"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Specific heat'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 8
+    },
+    {
+      "question": "The rate law of a reaction is determined by:",
+      "options": {
+        "A": "The concentration of products",
+        "B": "The activation energy",
+        "C": "The experimental data on how concentration affects the rate",
+        "D": "The temperature of the reaction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'The experimental data on how concentration affects'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 9
+    },
+    {
+      "question": "If the reaction quotient Q is greater than the equilibrium constant K, the reaction will shift:",
+      "options": {
+        "A": "To the right",
+        "B": "To the left",
+        "C": "No shift",
+        "D": "Cannot predict"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'To the left'. According to Federal Board Class 11 Chemistry principles of Chemical Equilibrium & Le Chatelier's Principle.",
+      "id": 10
+    },
+    {
+      "question": "A strong acid dissociates:",
+      "options": {
+        "A": "Partially",
+        "B": "Completely",
+        "C": "Slowly",
+        "D": "Not at all"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Completely'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 11
+    },
+    {
+      "question": "An acid which partially dissociates in water is called:",
+      "options": {
+        "A": "Strong acid",
+        "B": "Weak acid",
+        "C": "Concentrated acid",
+        "D": "Dilute acid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Weak acid'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 12
+    },
+    {
+      "question": "As you move across a period, the ionization energy of elements generally:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Fluctuates"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Increases'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 13
+    },
+    {
+      "question": "Which of the following is a major air pollutant released by vehicles?",
+      "options": {
+        "A": "Nitrogen oxides",
+        "B": "Sulfur dioxide",
+        "C": "Ozone",
+        "D": "Carbon dioxide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Nitrogen oxides'. CHCl₃ contains three halogen atoms attached to the same carbon\n                                                     CH₃CH₂CH₂O      CH₃CH₂CH₂B        CH₃CH₂CH₂N",
+      "id": 14
+    },
+    {
+      "question": "The primary source of sulfur dioxide in the air is:",
+      "options": {
+        "A": "Industrial processes",
+        "B": "Forest fires",
+        "C": "Agricultural activities",
+        "D": "Automobile emissions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Industrial processes'. According to Federal Board Class 11 Chemistry principles of Environmental Chemistry (Air & Water Quality).",
+      "id": 15
+    },
+    {
+      "question": "Which of the following is a tertiary carbon atom?",
+      "options": {
+        "A": "Carbon attached to three other carbons",
+        "B": "Carbon attached to two carbons",
+        "C": "Carbon attached to one carbon",
+        "D": "Carbon attached to no carbon"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Carbon attached to three other carbons'. CHCl₃ contains three halogen atoms attached to the same carbon\n                                                     CH₃CH₂CH₂O      CH₃CH₂CH₂B        CH₃CH₂CH₂N",
+      "id": 16
+    },
+    {
+      "question": "What is the hybridization of carbon in halogenoalkanes?",
+      "options": {
+        "A": "sp",
+        "B": "sp²",
+        "C": "sp³",
+        "D": "sp³d"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'sp³'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 17
+    }
+  ],
+  "subject": "chemistry"
+}

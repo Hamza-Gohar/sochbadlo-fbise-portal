@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 11,
+  "chapterTitle": "Chapter 11: Organic Chemistry Fundamentals & Hydrocarbons",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "question": "The simplest alkane is:",
+      "options": {
+        "A": "Ethane",
+        "B": "Propane",
+        "C": "Methane",
+        "D": "Butane"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Methane'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 1
+    },
+    {
+      "question": "The functional group of alcohols is:",
+      "options": {
+        "A": "-COOH",
+        "B": "-CHO",
+        "C": "-OH",
+        "D": "-CO-"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '-OH'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 2
+    },
+    {
+      "question": "The IUPAC name of CH₃CH₂OH is:",
+      "options": {
+        "A": "Methanol",
+        "B": "Ethanol",
+        "C": "Propanol",
+        "D": "Butanol"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Ethanol'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 3
+    },
+    {
+      "question": "Isomers have:",
+      "options": {
+        "A": "Same chemical formula, different structures",
+        "B": "Different chemical formula",
+        "C": "Same structure",
+        "D": "Same formula and structure"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Same chemical formula, different structures'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 4
+    },
+    {
+      "question": "Which hybridization is present in ethyne (C₂H₂)?",
+      "options": {
+        "A": "sp³",
+        "B": "sp²",
+        "C": "sp",
+        "D": "sp³d"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'sp'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 5
+    },
+    {
+      "question": "Which type of reaction involves the addition of hydrogen to alkenes?",
+      "options": {
+        "A": "Oxidation",
+        "B": "Reduction",
+        "C": "Substitution",
+        "D": "Elimination"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Reduction'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 6
+    },
+    {
+      "question": "Alkanes mainly undergo:",
+      "options": {
+        "A": "Addition reactions",
+        "B": "Substitution reactions",
+        "C": "Elimination reactions",
+        "D": "Redox reactions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Substitution reactions'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 7
+    },
+    {
+      "question": "Which reagent is used for the bromination of alkanes?",
+      "options": {
+        "A": "HCl",
+        "B": "Br₂ with UV light",
+        "C": "HBr",
+        "D": "Br₂ without light"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Br₂ with UV light'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 8
+    },
+    {
+      "question": "Which of the following is a saturated hydrocarbon?",
+      "options": {
+        "A": "Ethene",
+        "B": "Ethyne",
+        "C": "Methane",
+        "D": "Benzene"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Methane'. CHCl₃ contains three halogen atoms attached to the same carbon\n                                                     CH₃CH₂CH₂O      CH₃CH₂CH₂B        CH₃CH₂CH₂N",
+      "id": 9
+    },
+    {
+      "question": "Markovnikov’s rule applies to:",
+      "options": {
+        "A": "Alkanes",
+        "B": "Alkenes",
+        "C": "Alkynes",
+        "D": "Arenes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Alkenes'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 10
+    },
+    {
+      "question": "Which of the following is an aromatic compound?",
+      "options": {
+        "A": "Ethane",
+        "B": "Propane",
+        "C": "Benzene",
+        "D": "Butene"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Benzene'. CHCl₃ contains three halogen atoms attached to the same carbon\n                                                     CH₃CH₂CH₂O      CH₃CH₂CH₂B        CH₃CH₂CH₂N",
+      "id": 11
+    },
+    {
+      "question": "Which element must be present in all organic compounds?",
+      "options": {
+        "A": "Nitrogen",
+        "B": "Carbon",
+        "C": "Oxygen",
+        "D": "Sulfur"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Carbon'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 12
+    },
+    {
+      "question": "In nucleophilic substitution, a nucleophile replaces:",
+      "options": {
+        "A": "Proton",
+        "B": "Leaving group",
+        "C": "Metal ion",
+        "D": "Radical"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Leaving group'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 13
+    },
+    {
+      "question": "What is the general formula for alkenes?",
+      "options": {
+        "A": "CnH₂n+₂",
+        "B": "CnH₂n",
+        "C": "CnH₂n-₂",
+        "D": "CnH₂nO"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'CnH₂n'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 14
+    },
+    {
+      "question": "In a primary carbon atom, the carbon is attached to:",
+      "options": {
+        "A": "Three other carbons",
+        "B": "Two other carbons",
+        "C": "One other carbon",
+        "D": "No carbon"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'One other carbon'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 15
+    },
+    {
+      "question": "Tetrahedral geometry is shown by carbon with which hybridization?",
+      "options": {
+        "A": "sp",
+        "B": "sp²",
+        "C": "sp³",
+        "D": "dsp³"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'sp³'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 16
+    },
+    {
+      "question": "Which is a secondary alcohol?",
+      "options": {
+        "A": "Methanol",
+        "B": "Ethanol",
+        "C": "Isopropanol",
+        "D": "Butanol"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Isopropanol'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 17
+    },
+    {
+      "question": "Which series of compounds differ by a CH₂ group?",
+      "options": {
+        "A": "Functional group isomers",
+        "B": "Chain isomers",
+        "C": "Homologous series",
+        "D": "Structural isomers"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Homologous series'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 18
+    },
+    {
+      "question": "The reaction of alkene with water in the presence of acid is called:",
+      "options": {
+        "A": "Hydrolysis",
+        "B": "Hydration",
+        "C": "Dehydration",
+        "D": "Hydroboration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Hydration'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 19
+    },
+    {
+      "question": "In free radical substitution, which step is chain initiating?",
+      "options": {
+        "A": "Termination",
+        "B": "Propagation",
+        "C": "Initiation",
+        "D": "Elimination"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Initiation'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 20
+    },
+    {
+      "question": "Which of the following compounds is an alkene?",
+      "options": {
+        "A": "C₂H₆",
+        "B": "C₂H₄",
+        "C": "C₂H₂",
+        "D": "C₆H₆"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'C₂H₄'. The carbon attached to halogen is bonded to three alkyl groups.",
+      "id": 21
+    },
+    {
+      "question": "Which hydrocarbon has a triple bond?",
+      "options": {
+        "A": "Ethene",
+        "B": "Ethyne",
+        "C": "Propane",
+        "D": "Butane"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Ethyne'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 22
+    },
+    {
+      "question": "Which compound shows cis-trans isomerism?",
+      "options": {
+        "A": "Alkanes",
+        "B": "Alkenes",
+        "C": "Alkynes",
+        "D": "Alkanols"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Alkenes'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 23
+    },
+    {
+      "question": "What type of bond is present in benzene?",
+      "options": {
+        "A": "Single only",
+        "B": "Double only",
+        "C": "Resonance",
+        "D": "Triple"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Resonance'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 24
+    },
+    {
+      "question": "Which catalyst is used in hydrogenation of alkenes?",
+      "options": {
+        "A": "Ni",
+        "B": "Fe",
+        "C": "Zn",
+        "D": "Ag"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Ni'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 25
+    },
+    {
+      "question": "Which of the following is a tertiary carbon atom?",
+      "options": {
+        "A": "Carbon attached to three other carbons",
+        "B": "Carbon attached to two carbons",
+        "C": "Carbon attached to one carbon",
+        "D": "Carbon attached to no carbon"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Carbon attached to three other carbons'. CHCl₃ contains three halogen atoms attached to the same carbon\n                                                     CH₃CH₂CH₂O      CH₃CH₂CH₂B        CH₃CH₂CH₂N",
+      "id": 26
+    },
+    {
+      "question": "Alkynes undergo which type of reactions mostly?",
+      "options": {
+        "A": "Substitution",
+        "B": "Addition",
+        "C": "Elimination",
+        "D": "Combustion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Addition'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 27
+    },
+    {
+      "question": "Which is the first member of the alkyne series?",
+      "options": {
+        "A": "Ethyne",
+        "B": "Methyne",
+        "C": "Propane",
+        "D": "Butyne"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Ethyne'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 28
+    },
+    {
+      "question": "The formula of benzene is:",
+      "options": {
+        "A": "C₆H₆",
+        "B": "C₆H₁₂",
+        "C": "C₅H₁₀",
+        "D": "C₆H₁₀"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'C₆H₆'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 29
+    },
+    {
+      "question": "Which halogenation reaction needs sunlight?",
+      "options": {
+        "A": "Addition",
+        "B": "Substitution in alkanes",
+        "C": "Dehydration",
+        "D": "Combustion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Substitution in alkanes'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 30
+    },
+    {
+      "question": "A molecule with C=C bond reacts with HBr to form:",
+      "options": {
+        "A": "Alkane",
+        "B": "Alkene",
+        "C": "Alcohol",
+        "D": "Haloalkane"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Haloalkane'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 31
+    },
+    {
+      "question": "An organic compound with -COOH group is:",
+      "options": {
+        "A": "Alcohol",
+        "B": "Ketone",
+        "C": "Carboxylic acid",
+        "D": "Aldehyde"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Carboxylic acid'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 32
+    },
+    {
+      "question": "Which hybridization is found in benzene?",
+      "options": {
+        "A": "sp³",
+        "B": "sp²",
+        "C": "sp",
+        "D": "sp³d"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'sp²'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 33
+    },
+    {
+      "question": "What is the product when ethanol is oxidized?",
+      "options": {
+        "A": "Methane",
+        "B": "Ethene",
+        "C": "Ethanoic acid",
+        "D": "Propane"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Ethanoic acid'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 34
+    },
+    {
+      "question": "Addition of Cl₂ to ethene gives:",
+      "options": {
+        "A": "Ethane",
+        "B": "1,2-Dichloroethane",
+        "C": "Chloroethane",
+        "D": "Ethyne"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '1,2-Dichloroethane'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 35
+    },
+    {
+      "question": "The general formula for alkynes is:",
+      "options": {
+        "A": "CnH₂n",
+        "B": "CnH₂n-₂",
+        "C": "CnH₂n+₂",
+        "D": "CnH₂nO"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'CnH₂n-₂'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 36
+    },
+    {
+      "question": "Which compound is prepared by the Wurtz reaction?",
+      "options": {
+        "A": "Alkyne",
+        "B": "Alkane",
+        "C": "Alkene",
+        "D": "Alcohol"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Alkane'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 37
+    },
+    {
+      "question": "An example of an electrophile is:",
+      "options": {
+        "A": "OH⁻",
+        "B": "H₂O",
+        "C": "H⁺",
+        "D": "Cl⁻"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'H⁺'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 38
+    },
+    {
+      "question": "In a dehydration reaction, which molecule is removed?",
+      "options": {
+        "A": "CO₂",
+        "B": "H₂O",
+        "C": "H₂",
+        "D": "O₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'H₂O'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 39
+    },
+    {
+      "question": "The most reactive hydrocarbon is:",
+      "options": {
+        "A": "Alkane",
+        "B": "Alkene",
+        "C": "Alkyne",
+        "D": "Benzene"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Alkyne'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 40
+    },
+    {
+      "question": "Which of the following is a saturated hydrocarbon?",
+      "options": {
+        "A": "Ethene",
+        "B": "Ethyne",
+        "C": "Ethane",
+        "D": "Benzene"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Ethane'. CHCl₃ contains three halogen atoms attached to the same carbon\n                                                     CH₃CH₂CH₂O      CH₃CH₂CH₂B        CH₃CH₂CH₂N",
+      "id": 41
+    },
+    {
+      "question": "Alkynes have how many π-bonds?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Two'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 42
+    },
+    {
+      "question": "Which hydrocarbon undergoes substitution reactions?",
+      "options": {
+        "A": "Alkene",
+        "B": "Alkyne",
+        "C": "Alkane",
+        "D": "All of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Alkane'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 43
+    },
+    {
+      "question": "Which gas is known as marsh gas?",
+      "options": {
+        "A": "Ethane",
+        "B": "Methane",
+        "C": "Propane",
+        "D": "Butane"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Methane'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 44
+    },
+    {
+      "question": "In which reaction, hydrogen is added to an unsaturated hydrocarbon?",
+      "options": {
+        "A": "Halogenation",
+        "B": "Hydrogenation",
+        "C": "Polymerization",
+        "D": "Combustion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Hydrogenation'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 45
+    },
+    {
+      "question": "The simplest alkyne is:",
+      "options": {
+        "A": "Ethyne",
+        "B": "Methyne",
+        "C": "Propyne",
+        "D": "Butyne"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Ethyne'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 46
+    },
+    {
+      "question": "Cracking is used to break:",
+      "options": {
+        "A": "Short chain hydrocarbons",
+        "B": "Long chain hydrocarbons",
+        "C": "Aromatic compounds",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Long chain hydrocarbons'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 47
+    },
+    {
+      "question": "Which hydrocarbon is aromatic?",
+      "options": {
+        "A": "Propane",
+        "B": "Ethane",
+        "C": "Benzene",
+        "D": "Butane"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Benzene'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 48
+    },
+    {
+      "question": "Which hybridization is found in alkanes?",
+      "options": {
+        "A": "sp",
+        "B": "sp²",
+        "C": "sp³",
+        "D": "sp³d"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'sp³'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 49
+    },
+    {
+      "question": "The product of complete combustion of hydrocarbons is:",
+      "options": {
+        "A": "CO₂ and H₂O",
+        "B": "CO and H₂O",
+        "C": "C and H₂O",
+        "D": "C and H₂"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'CO₂ and H₂O'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 50
+    }
+  ],
+  "subject": "chemistry"
+}

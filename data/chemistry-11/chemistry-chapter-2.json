@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 2,
+  "chapterTitle": "Chapter 2: Atomic Structure, Subshells & Quantum Numbers",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "question": "Which of the following statements is true about the electron in Bohr's model of the atom?",
+      "options": {
+        "A": "Electrons revolve around the nucleus in elliptical orbits.",
+        "B": "Electrons revolve in fixed circular orbits without radiating energy.",
+        "C": "Electrons are at rest in fixed positions.",
+        "D": "Electrons can exist anywhere in the atom."
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Electrons revolve in fixed circular orbits without'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 1
+    },
+    {
+      "question": "The quantum number that determines the shape of an orbital is:",
+      "options": {
+        "A": "Principal quantum number",
+        "B": "Magnetic quantum number",
+        "C": "Azimuthal quantum number",
+        "D": "Spin quantum number"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Azimuthal quantum number'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 2
+    },
+    {
+      "question": "Which of the following is the maximum number of electrons that can occupy an 'f' orbital?",
+      "options": {
+        "A": "2",
+        "B": "6",
+        "C": "10",
+        "D": "14"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: '14'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 3
+    },
+    {
+      "question": "What is the value of the principal quantum number for the first shell of an atom?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '1'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 4
+    },
+    {
+      "question": "Who proposed the concept of quantized energy levels in atoms?",
+      "options": {
+        "A": "Rutherford",
+        "B": "Bohr",
+        "C": "Thomson",
+        "D": "Planck"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Bohr'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 5
+    },
+    {
+      "question": "What is the maximum number of electrons that can be present in the third energy level (n = 3)?",
+      "options": {
+        "A": "2",
+        "B": "8",
+        "C": "18",
+        "D": "32"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '18'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 6
+    },
+    {
+      "question": "The energy associated with an electron in an atom is quantized and can only have certain values. This concept was introduced by:",
+      "options": {
+        "A": "Bohr",
+        "B": "Planck",
+        "C": "Einstein",
+        "D": "Heisenberg"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Planck'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 7
+    },
+    {
+      "question": "Which quantum number describes the orientation of an orbital in space?",
+      "options": {
+        "A": "Principal quantum number",
+        "B": "Azimuthal quantum number",
+        "C": "Magnetic quantum number",
+        "D": "Spin quantum number"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Magnetic quantum number'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 8
+    },
+    {
+      "question": "What does the Pauli Exclusion Principle state?",
+      "options": {
+        "A": "Two electrons in the same orbital must have opposite spins.",
+        "B": "Electrons in the same shell must have the same energy.",
+        "C": "Electrons must be arranged in increasing order of energy.",
+        "D": "All orbitals must be filled before pairing occurs."
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Two electrons in the same orbital must have opposite'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 9
+    },
+    {
+      "question": "The number of subshells in the second energy level (n = 2) is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '2'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 10
+    },
+    {
+      "question": "Which of the following describes the shape of the 'p' orbital?",
+      "options": {
+        "A": "Spherical",
+        "B": "Dumbbell-shaped",
+        "C": "Double dumbbell-shaped",
+        "D": "Complex"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Dumbbell-shaped'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 11
+    },
+    {
+      "question": "In the Bohr model, the radius of an electron's orbit is proportional to:",
+      "options": {
+        "A": "The square of the principal quantum number (n²).",
+        "B": "The cube of the principal quantum number (n³).",
+        "C": "The square root of the principal quantum number.",
+        "D": "The inverse of the principal quantum number."
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'The square of the principal quantum number (n²).'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 12
+    },
+    {
+      "question": "Which subatomic particle is responsible for the negative charge of an atom?",
+      "options": {
+        "A": "Proton",
+        "B": "Neutron",
+        "C": "Electron",
+        "D": "Photon"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Electron'. Cathode rays are electrons by nature so their negative charge provides the deflection in the\n experiment.\n                                                                                           Number of",
+      "id": 13
+    },
+    {
+      "question": "The maximum number of electrons that can occupy the second shell (n = 2) is:",
+      "options": {
+        "A": "2",
+        "B": "8",
+        "C": "10",
+        "D": "18"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '8'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 14
+    },
+    {
+      "question": "What does the Heisenberg Uncertainty Principle state?",
+      "options": {
+        "A": "The position and momentum of a particle can be known precisely.",
+        "B": "The position and momentum of a particle cannot be known simultaneously with perfect accuracy.",
+        "C": "Electrons move in fixed orbits around the nucleus.",
+        "D": "The energy of an electron is quantized."
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'The position and momentum of a particle cannot be'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 15
+    },
+    {
+      "question": "In which region of the atom is the proton located?",
+      "options": {
+        "A": "Electron cloud",
+        "B": "Nucleus",
+        "C": "Outer orbitals",
+        "D": "Shells"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Nucleus'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 16
+    },
+    {
+      "question": "Which of the following particles has a mass nearly equal to that of a proton?",
+      "options": {
+        "A": "Neutron",
+        "B": "Electron",
+        "C": "Positron",
+        "D": "Photon"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Neutron'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 17
+    },
+    {
+      "question": "The atomic number of an element corresponds to:",
+      "options": {
+        "A": "The number of neutrons in the nucleus",
+        "B": "The number of protons in the nucleus",
+        "C": "The number of electrons in an atom",
+        "D": "The number of orbitals in the atom"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'The number of protons in the nucleus'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 18
+    },
+    {
+      "question": "Which of the following quantum numbers determines the spin orientation of an electron?",
+      "options": {
+        "A": "Principal quantum number",
+        "B": "Azimuthal quantum number",
+        "C": "Magnetic quantum number",
+        "D": "Spin quantum number"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Spin quantum number'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 19
+    },
+    {
+      "question": "The region where the probability of finding an electron is highest is called the:",
+      "options": {
+        "A": "Orbital",
+        "B": "Shell",
+        "C": "Nucleus",
+        "D": "Energy level"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Orbital'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 20
+    },
+    {
+      "question": "The shape of a 'd' orbital is:",
+      "options": {
+        "A": "Spherical",
+        "B": "Dumbbell-shaped",
+        "C": "Double dumbbell-shaped",
+        "D": "Complex"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Double dumbbell-shaped'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 21
+    },
+    {
+      "question": "The energy of an electron in a hydrogen atom is:",
+      "options": {
+        "A": "Negative",
+        "B": "Zero",
+        "C": "Positive",
+        "D": "Infinite"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Negative'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 22
+    },
+    {
+      "question": "The maximum number of electrons in the fourth shell is:",
+      "options": {
+        "A": "8",
+        "B": "18",
+        "C": "32",
+        "D": "64"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '32'. The formula for finding maximum number of electrons in a shell is 2n2.",
+      "id": 23
+    },
+    {
+      "question": "What is the main limitation of Bohr's model of the atom?",
+      "options": {
+        "A": "It could not explain the spectra of multi-electron atoms.",
+        "B": "It could not explain the mass of the electron.",
+        "C": "It could not explain the quantum behavior of particles.",
+        "D": "It could not explain the existence of neutrons."
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'It could not explain the spectra of multi-electron atoms.'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 24
+    },
+    {
+      "question": "The electron configuration for the element with atomic number 8 is:",
+      "options": {
+        "A": "1s² 2s² 2p⁴",
+        "B": "1s² 2s² 2p²",
+        "C": "1s² 2p⁶",
+        "D": "1s² 2p³"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '1s² 2s² 2p⁴'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 25
+    },
+    {
+      "question": "Which subatomic particle was discovered by J.J. Thomson?",
+      "options": {
+        "A": "Proton",
+        "B": "Neutron",
+        "C": "Electron",
+        "D": "Photon"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Electron'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 26
+    },
+    {
+      "question": "The number of orbitals in the n = 3 shell is:",
+      "options": {
+        "A": "1",
+        "B": "3",
+        "C": "5",
+        "D": "9"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '5'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 27
+    },
+    {
+      "question": "The Bohr radius is:",
+      "options": {
+        "A": "The size of the electron orbit",
+        "B": "The distance between nucleus and electron",
+        "C": "The size of the nucleus",
+        "D": "The radius of the atom's outermost shell"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'The distance between nucleus and electron'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 28
+    },
+    {
+      "question": "Which of the following quantum numbers determines the energy of an electron in an atom?",
+      "options": {
+        "A": "Principal quantum number",
+        "B": "Azimuthal quantum number",
+        "C": "Magnetic quantum number",
+        "D": "Spin quantum number"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Principal quantum number'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 29
+    },
+    {
+      "question": "The magnetic quantum number indicates:",
+      "options": {
+        "A": "The size of the orbital",
+        "B": "The energy of the electron",
+        "C": "The shape of the orbital",
+        "D": "The orientation of the orbital"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'The orientation of the orbital'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 30
+    },
+    {
+      "question": "The electron cloud is:",
+      "options": {
+        "A": "A dense region where electrons are most likely to be found",
+        "B": "The path electrons follow in orbits",
+        "C": "A fixed path that electrons follow",
+        "D": "The nucleus of the atom"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'A dense region where electrons are most likely to be'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 31
+    },
+    {
+      "question": "The maximum number of electrons that can occupy the 'p' subshell is:",
+      "options": {
+        "A": "2",
+        "B": "6",
+        "C": "10",
+        "D": "14"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '6'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 32
+    },
+    {
+      "question": "The quantum number that specifies the spin direction of an electron is:",
+      "options": {
+        "A": "Principal quantum number",
+        "B": "Azimuthal quantum number",
+        "C": "Magnetic quantum number",
+        "D": "Spin quantum number"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Spin quantum number'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 33
+    },
+    {
+      "question": "Which of the following is the value of the principal quantum number for the third energy level?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '3'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 34
+    },
+    {
+      "question": "Which scientist introduced the concept of wave-particle duality of matter?",
+      "options": {
+        "A": "Bohr",
+        "B": "Einstein",
+        "C": "De Broglie",
+        "D": "Planck"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'De Broglie'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 35
+    },
+    {
+      "question": "The number of electrons in an atom of element with atomic number 17 is:",
+      "options": {
+        "A": "8",
+        "B": "17",
+        "C": "35",
+        "D": "34"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '17'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 36
+    },
+    {
+      "question": "The atomic mass unit (amu) is based on the mass of:",
+      "options": {
+        "A": "Proton",
+        "B": "Neutron",
+        "C": "Electron",
+        "D": "Carbon-12 isotope"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Carbon-12 isotope'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 37
+    },
+    {
+      "question": "The principal quantum number (n) indicates the:",
+      "options": {
+        "A": "Shape of the orbital",
+        "B": "Energy level and distance from nucleus",
+        "C": "Orientation of the orbital",
+        "D": "Spin direction of an electron"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Energy level and distance from nucleus'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 38
+    },
+    {
+      "question": "The concept of electron shells was first proposed by:",
+      "options": {
+        "A": "Rutherford",
+        "B": "Bohr",
+        "C": "Thomson",
+        "D": "Heisenberg"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Bohr'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 39
+    },
+    {
+      "question": "The electron configuration of an atom with atomic number 11 is:",
+      "options": {
+        "A": "1s² 2s² 2p⁶ 3s¹",
+        "B": "1s² 2s² 2p⁶ 3p¹",
+        "C": "1s² 2s² 3s²",
+        "D": "1s² 2s² 2p³"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '1s² 2s² 2p⁶ 3s¹'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 40
+    },
+    {
+      "question": "The first energy level (n=1) can hold a maximum of:",
+      "options": {
+        "A": "2 electrons",
+        "B": "8 electrons",
+        "C": "18 electrons",
+        "D": "32 electrons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '2 electrons'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 41
+    },
+    {
+      "question": "The de Broglie wavelength of an electron depends on:",
+      "options": {
+        "A": "Mass of the electron",
+        "B": "Velocity of the electron",
+        "C": "Both mass and velocity of the electron",
+        "D": "Charge of the electron"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Both mass and velocity of the electron'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 42
+    },
+    {
+      "question": "The magnetic quantum number (m) determines the:",
+      "options": {
+        "A": "Shape of the orbital",
+        "B": "Orientation of the orbital",
+        "C": "Size of the orbital",
+        "D": "Energy of the orbital"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Orientation of the orbital'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 43
+    },
+    {
+      "question": "Which of the following statements about the Bohr model is true?",
+      "options": {
+        "A": "It explains the hydrogen spectrum",
+        "B": "It predicts the exact location of electrons",
+        "C": "It is applicable to all elements",
+        "D": "It describes electron paths as fixed orbits"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'It explains the hydrogen spectrum'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 44
+    },
+    {
+      "question": "The dual nature of matter was proposed by:",
+      "options": {
+        "A": "Einstein",
+        "B": "Bohr",
+        "C": "Heisenberg",
+        "D": "De Broglie"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'De Broglie'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 45
+    },
+    {
+      "question": "The number of orbitals in the p subshell is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '3'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 46
+    },
+    {
+      "question": "The magnetic quantum number for a 4d orbital is:",
+      "options": {
+        "A": "-2 to +2",
+        "B": "-3 to +3",
+        "C": "-1 to +1",
+        "D": "0 to +1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '-2 to +2'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 47
+    },
+    {
+      "question": "The total number of orbitals in the n = 3 shell is:",
+      "options": {
+        "A": "3",
+        "B": "9",
+        "C": "18",
+        "D": "12"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '9'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 48
+    },
+    {
+      "question": "Which of the following is true according to the Aufbau principle?",
+      "options": {
+        "A": "Electrons fill the highest energy orbitals first",
+        "B": "Electrons fill orbitals in order of increasing energy",
+        "C": "Electrons fill orbitals randomly",
+        "D": "Electrons never occupy the same orbital"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Electrons fill orbitals in order of increasing energy'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 49
+    },
+    {
+      "question": "The energy of an electron in an atom increases as:",
+      "options": {
+        "A": "The principal quantum number increases",
+        "B": "The magnetic quantum number increases",
+        "C": "The azimuthal quantum number increases",
+        "D": "The spin quantum number increases"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'The principal quantum number increases'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 50
+    }
+  ],
+  "subject": "chemistry"
+}

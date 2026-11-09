@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 13,
+  "chapterTitle": "Chapter 13: Chromosomes & DNA",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The hereditary material in humans is:",
+      "options": {
+        "A": "RNA",
+        "B": "DNA",
+        "C": "Protein",
+        "D": "Cytoplasm"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'DNA'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 2,
+      "question": "DNA is mainly located in the:",
+      "options": {
+        "A": "Ribosome",
+        "B": "Cytoplasm",
+        "C": "Nucleus",
+        "D": "Mitochondria"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Nucleus'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 3,
+      "question": "Chromosomes are made up of:",
+      "options": {
+        "A": "RNA and lipids",
+        "B": "DNA and proteins",
+        "C": "DNA and lipids",
+        "D": "Carbohydrates and proteins"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'DNA and proteins'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 4,
+      "question": "The number of chromosomes in human body cells is:",
+      "options": {
+        "A": "44",
+        "B": "23",
+        "C": "46",
+        "D": "22"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '46'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is not a component of a nucleotide?",
+      "options": {
+        "A": "Sugar",
+        "B": "Base",
+        "C": "Lipid",
+        "D": "Phosphate"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Lipid'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 6,
+      "question": "The sugar present in DNA is:",
+      "options": {
+        "A": "Glucose",
+        "B": "Ribose",
+        "C": "Deoxyribose",
+        "D": "Fructose"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Deoxyribose'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a nitrogenous base?",
+      "options": {
+        "A": "Adenine",
+        "B": "Glucose",
+        "C": "Ribose",
+        "D": "Phosphate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Adenine'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 8,
+      "question": "The double helix structure of DNA was proposed by:",
+      "options": {
+        "A": "Darwin and Wallace",
+        "B": "Watson and Crick",
+        "C": "Mendel and Morgan",
+        "D": "Lamarck and Pasteur"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Watson and Crick'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 9,
+      "question": "The shape of DNA molecule is:",
+      "options": {
+        "A": "Spiral",
+        "B": "Zigzag",
+        "C": "Helical",
+        "D": "Circular"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Helical'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 10,
+      "question": "The backbone of DNA is made up of:",
+      "options": {
+        "A": "Base pairs",
+        "B": "Sugar and phosphate",
+        "C": "Ribose and lipid",
+        "D": "Hydrogen bonds"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Sugar and phosphate'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 11,
+      "question": "Which base pairs with adenine in DNA?",
+      "options": {
+        "A": "Guanine",
+        "B": "Thymine",
+        "C": "Cytosine",
+        "D": "Uracil"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Thymine'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 12,
+      "question": "Which base pairs with cytosine in DNA?",
+      "options": {
+        "A": "Thymine",
+        "B": "Uracil",
+        "C": "Guanine",
+        "D": "Adenine"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Guanine'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 13,
+      "question": "In RNA, thymine is replaced by:",
+      "options": {
+        "A": "Cytosine",
+        "B": "Guanine",
+        "C": "Uracil",
+        "D": "Adenine"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Uracil'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 14,
+      "question": "The number of chromosome pairs in humans is:",
+      "options": {
+        "A": "22",
+        "B": "23",
+        "C": "44",
+        "D": "46"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '23'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 15,
+      "question": "The chromosomes that determine gender are called:",
+      "options": {
+        "A": "Autosomes",
+        "B": "Hormones",
+        "C": "Sex chromosomes",
+        "D": "Genes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Sex chromosomes'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 16,
+      "question": "Autosomes in humans are:",
+      "options": {
+        "A": "22 pairs",
+        "B": "1 pair",
+        "C": "44",
+        "D": "Both a and c"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Both a and c'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 17,
+      "question": "The sex chromosomes in male are:",
+      "options": {
+        "A": "XX",
+        "B": "XY",
+        "C": "YY",
+        "D": "X"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'XY'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 18,
+      "question": "A gene is a segment of:",
+      "options": {
+        "A": "Protein",
+        "B": "Chromosome",
+        "C": "DNA",
+        "D": "RNA"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'DNA'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 19,
+      "question": "Genes are responsible for:",
+      "options": {
+        "A": "Digestion",
+        "B": "Transport",
+        "C": "Inheritance",
+        "D": "Excretion"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Inheritance'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 20,
+      "question": "DNA stands for:",
+      "options": {
+        "A": "Deoxyribonucleic acid",
+        "B": "Double nucleic acid",
+        "C": "Dioxide nucleic acid",
+        "D": "Deoxyribose nucleic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Deoxyribonucleic acid'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 21,
+      "question": "Which base is not found in DNA?",
+      "options": {
+        "A": "Uracil",
+        "B": "Adenine",
+        "C": "Thymine",
+        "D": "Cytosine"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Uracil'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 22,
+      "question": "The sides of DNA ladder are composed of:",
+      "options": {
+        "A": "Base pairs",
+        "B": "Hydrogen bonds",
+        "C": "Sugar and phosphate",
+        "D": "Lipids"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Sugar and phosphate'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 23,
+      "question": "Which of these is a purine?",
+      "options": {
+        "A": "Thymine",
+        "B": "Cytosine",
+        "C": "Adenine",
+        "D": "Uracil"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Adenine'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 24,
+      "question": "The nitrogenous bases are held together by:",
+      "options": {
+        "A": "Ionic bonds",
+        "B": "Hydrogen bonds",
+        "C": "Covalent bonds",
+        "D": "Peptide bonds"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Hydrogen bonds'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 25,
+      "question": "The process of DNA making a copy of itself is called:",
+      "options": {
+        "A": "Replication",
+        "B": "Duplication",
+        "C": "Translation",
+        "D": "Transcription"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Replication'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 26,
+      "question": "Genes control:",
+      "options": {
+        "A": "Chemical reactions",
+        "B": "Traits",
+        "C": "Cell division",
+        "D": "All of these"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'All of these'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 27,
+      "question": "Chromosomes are visible during:",
+      "options": {
+        "A": "Interphase",
+        "B": "Prophase",
+        "C": "Metaphase",
+        "D": "Cell division"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Cell division'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 28,
+      "question": "A normal human has how many sex chromosomes?",
+      "options": {
+        "A": "2",
+        "B": "23",
+        "C": "44",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '2'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 29,
+      "question": "Which organelle is called the control center of the cell?",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Ribosome",
+        "C": "Golgi apparatus",
+        "D": "Nucleus"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Nucleus'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 30,
+      "question": "What determines the specific trait of an organism?",
+      "options": {
+        "A": "Proteins",
+        "B": "Genes",
+        "C": "Lipids",
+        "D": "Hormones"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Genes'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 31,
+      "question": "The portion of chromosome where genes are located is called:",
+      "options": {
+        "A": "Locus",
+        "B": "Node",
+        "C": "Pole",
+        "D": "Linkage"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Locus'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 32,
+      "question": "The total set of chromosomes in a species is called:",
+      "options": {
+        "A": "Genome",
+        "B": "Gene pool",
+        "C": "Genotype",
+        "D": "Phenotype"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Genome'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 33,
+      "question": "The complementary base pair for guanine is:",
+      "options": {
+        "A": "Adenine",
+        "B": "Cytosine",
+        "C": "Thymine",
+        "D": "Uracil"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Cytosine'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 34,
+      "question": "The unit of inheritance is:",
+      "options": {
+        "A": "Protein",
+        "B": "Gene",
+        "C": "DNA",
+        "D": "Chromosome"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Gene'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 35,
+      "question": "In a chromosome, the centromere is:",
+      "options": {
+        "A": "A gene",
+        "B": "The middle point",
+        "C": "A base pair",
+        "D": "A DNA molecule"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'The middle point'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 36,
+      "question": "Which of the following is not part of a chromosome?",
+      "options": {
+        "A": "Centromere",
+        "B": "Chromatid",
+        "C": "Ribosome",
+        "D": "DNA"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Ribosome'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 37,
+      "question": "Which of the following forms a gene?",
+      "options": {
+        "A": "One nucleotide",
+        "B": "A sequence of nucleotides",
+        "C": "Ribosome",
+        "D": "Protein chain"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'A sequence of nucleotides'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 38,
+      "question": "Genes are found on:",
+      "options": {
+        "A": "Cell membrane",
+        "B": "Ribosome",
+        "C": "Chromosomes",
+        "D": "Cytoplasm"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Chromosomes'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is a DNA base but not found in RNA?",
+      "options": {
+        "A": "Cytosine",
+        "B": "Thymine",
+        "C": "Uracil",
+        "D": "Adenine"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Thymine'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 40,
+      "question": "A double-stranded DNA consists of how many strands?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '2'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 41,
+      "question": "The complete set of genetic material is called:",
+      "options": {
+        "A": "Chromosome",
+        "B": "Genome",
+        "C": "Ribosome",
+        "D": "Allele"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Genome'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 42,
+      "question": "The term 'genetics' was first used by:",
+      "options": {
+        "A": "Mendel",
+        "B": "Watson",
+        "C": "Bateson",
+        "D": "Crick"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Bateson'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 43,
+      "question": "The pairing of bases in DNA follows:",
+      "options": {
+        "A": "A–G, T–C",
+        "B": "A–T, G–C",
+        "C": "A–C, T–G",
+        "D": "T–A, C–A"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'A–T, G–C'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 44,
+      "question": "Which is the largest molecule in the human body?",
+      "options": {
+        "A": "Protein",
+        "B": "Glucose",
+        "C": "DNA",
+        "D": "Lipid"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'DNA'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 45,
+      "question": "How many base pairs are present in the human genome?",
+      "options": {
+        "A": "3 million",
+        "B": "3 billion",
+        "C": "300 thousand",
+        "D": "30 million"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '3 billion'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 46,
+      "question": "Function of DNA is to:",
+      "options": {
+        "A": "Carry oxygen",
+        "B": "Digest food",
+        "C": "Store genetic information",
+        "D": "Produce energy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Store genetic information'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 47,
+      "question": "The twisted shape of DNA is known as:",
+      "options": {
+        "A": "Twister",
+        "B": "Coil",
+        "C": "Spiral",
+        "D": "Double helix"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Double helix'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 48,
+      "question": "Which of these is not a component of DNA?",
+      "options": {
+        "A": "Phosphate",
+        "B": "Ribose",
+        "C": "Adenine",
+        "D": "Cytosine"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Ribose'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 49,
+      "question": "Which is not a function of chromosomes?",
+      "options": {
+        "A": "Protein synthesis",
+        "B": "Cell division",
+        "C": "Inheritance",
+        "D": "Photosynthesis"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Photosynthesis'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 50,
+      "question": "Chromosomes appear during which stage of cell cycle?",
+      "options": {
+        "A": "Interphase",
+        "B": "G1 phase",
+        "C": "M phase",
+        "D": "S phase"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'M phase'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    }
+  ],
+  "subject": "biology"
+}

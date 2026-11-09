@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 15,
+  "chapterTitle": "Chapter 15: Ecology",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Ecology is the study of:",
+      "options": {
+        "A": "Cells",
+        "B": "Environment",
+        "C": "Interactions between organisms and their environment",
+        "D": "Climate only"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Interactions between organisms and their environment'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 2,
+      "question": "The largest unit of ecological organization is:",
+      "options": {
+        "A": "Population",
+        "B": "Community",
+        "C": "Ecosystem",
+        "D": "Biosphere"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Biosphere'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 3,
+      "question": "A group of organisms of the same species living in an area is called:",
+      "options": {
+        "A": "Community",
+        "B": "Population",
+        "C": "Habitat",
+        "D": "Biome"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Population'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 4,
+      "question": "An ecosystem includes:",
+      "options": {
+        "A": "Only living things",
+        "B": "Only non-living things",
+        "C": "Biotic and abiotic components",
+        "D": "Climate only"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Biotic and abiotic components'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a biotic factor?",
+      "options": {
+        "A": "Water",
+        "B": "Soil",
+        "C": "Light",
+        "D": "Plants"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Plants'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 6,
+      "question": "Abiotic components include:",
+      "options": {
+        "A": "Fungi",
+        "B": "Bacteria",
+        "C": "Water and soil",
+        "D": "Trees"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Water and soil'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 7,
+      "question": "A place where an organism lives is its:",
+      "options": {
+        "A": "Habitat",
+        "B": "Niche",
+        "C": "Ecosystem",
+        "D": "Community"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Habitat'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 8,
+      "question": "The role an organism plays in its environment is called:",
+      "options": {
+        "A": "Habitat",
+        "B": "Niche",
+        "C": "Biome",
+        "D": "Ecosystem"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Niche'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 9,
+      "question": "Producers in an ecosystem are usually:",
+      "options": {
+        "A": "Animals",
+        "B": "Plants",
+        "C": "Fungi",
+        "D": "Bacteria"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Plants'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 10,
+      "question": "Green plants make food by:",
+      "options": {
+        "A": "Digestion",
+        "B": "Respiration",
+        "C": "Photosynthesis",
+        "D": "Fermentation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Photosynthesis'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 11,
+      "question": "Consumers that eat plants only are called:",
+      "options": {
+        "A": "Carnivores",
+        "B": "Herbivores",
+        "C": "Omnivores",
+        "D": "Decomposers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Herbivores'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 12,
+      "question": "Animals that feed on other animals are called:",
+      "options": {
+        "A": "Producers",
+        "B": "Herbivores",
+        "C": "Carnivores",
+        "D": "Omnivores"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Carnivores'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 13,
+      "question": "An organism that eats both plants and animals is called:",
+      "options": {
+        "A": "Herbivore",
+        "B": "Carnivore",
+        "C": "Omnivore",
+        "D": "Decomposer"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Omnivore'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 14,
+      "question": "Fungi and bacteria are examples of:",
+      "options": {
+        "A": "Producers",
+        "B": "Decomposers",
+        "C": "Carnivores",
+        "D": "Scavengers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Decomposers'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 15,
+      "question": "A food chain shows the flow of:",
+      "options": {
+        "A": "Water",
+        "B": "Oxygen",
+        "C": "Energy",
+        "D": "Soil"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Energy'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 16,
+      "question": "In a food chain, energy flows from:",
+      "options": {
+        "A": "Consumers to producers",
+        "B": "Sun to producers",
+        "C": "Decomposers to consumers",
+        "D": "Animals to plants"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Sun to producers'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 17,
+      "question": "The primary source of energy for life on Earth is:",
+      "options": {
+        "A": "Moon",
+        "B": "Plants",
+        "C": "Animals",
+        "D": "Sun"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Sun'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 18,
+      "question": "A network of interconnected food chains is called:",
+      "options": {
+        "A": "Energy cycle",
+        "B": "Food web",
+        "C": "Trophic level",
+        "D": "Ecology"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Food web'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 19,
+      "question": "Each step in a food chain is called a:",
+      "options": {
+        "A": "Trophic level",
+        "B": "Consumer level",
+        "C": "Food level",
+        "D": "Chain level"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Trophic level'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 20,
+      "question": "The first trophic level in any food chain is occupied by:",
+      "options": {
+        "A": "Herbivores",
+        "B": "Carnivores",
+        "C": "Decomposers",
+        "D": "Producers"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Producers'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 21,
+      "question": "Pyramid of energy shows:",
+      "options": {
+        "A": "Biomass",
+        "B": "Energy transfer",
+        "C": "Nutrients",
+        "D": "Food production"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Energy transfer'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 22,
+      "question": "Ecological pyramids represent:",
+      "options": {
+        "A": "Population and energy",
+        "B": "Only energy",
+        "C": "Oxygen",
+        "D": "Biomes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Population and energy'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 23,
+      "question": "Which pyramid can never be inverted?",
+      "options": {
+        "A": "Pyramid of number",
+        "B": "Pyramid of biomass",
+        "C": "Pyramid of energy",
+        "D": "All can be inverted"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Pyramid of energy'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 24,
+      "question": "The process of water movement through the ecosystem is:",
+      "options": {
+        "A": "Nitrogen cycle",
+        "B": "Water cycle",
+        "C": "Carbon cycle",
+        "D": "Oxygen cycle"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Water cycle'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is not part of the nitrogen cycle?",
+      "options": {
+        "A": "Nitrogen fixation",
+        "B": "Nitrification",
+        "C": "Denitrification",
+        "D": "Photosynthesis"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Photosynthesis'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 26,
+      "question": "Carbon dioxide is used by plants in:",
+      "options": {
+        "A": "Respiration",
+        "B": "Transpiration",
+        "C": "Photosynthesis",
+        "D": "Decomposition"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Photosynthesis'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 27,
+      "question": "Decomposers release nutrients into:",
+      "options": {
+        "A": "Water",
+        "B": "Air",
+        "C": "Soil",
+        "D": "Plants"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Soil'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 28,
+      "question": "Which of the following is a pollutant?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Sulphur dioxide",
+        "D": "Carbon"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Sulphur dioxide'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 29,
+      "question": "Which is a renewable resource?",
+      "options": {
+        "A": "Coal",
+        "B": "Oil",
+        "C": "Water",
+        "D": "Natural gas"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Water'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 30,
+      "question": "The main cause of global warming is:",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Carbon dioxide",
+        "D": "Hydrogen"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Carbon dioxide'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 31,
+      "question": "Ozone layer protects Earth from:",
+      "options": {
+        "A": "IR radiation",
+        "B": "Visible light",
+        "C": "UV rays",
+        "D": "Gamma rays"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'UV rays'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 32,
+      "question": "Which gas is responsible for acid rain?",
+      "options": {
+        "A": "O2",
+        "B": "CO2",
+        "C": "SO2",
+        "D": "N2"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'SO2'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 33,
+      "question": "Which organism is at the top of the food chain?",
+      "options": {
+        "A": "Decomposer",
+        "B": "Producer",
+        "C": "Carnivore",
+        "D": "Herbivore"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Carnivore'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 34,
+      "question": "Overpopulation leads to:",
+      "options": {
+        "A": "Balance in ecosystem",
+        "B": "More food",
+        "C": "Resource depletion",
+        "D": "Less pollution"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Resource depletion'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 35,
+      "question": "Which is a non-renewable resource?",
+      "options": {
+        "A": "Solar energy",
+        "B": "Wind energy",
+        "C": "Petroleum",
+        "D": "Water"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Petroleum'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 36,
+      "question": "The living part of an ecosystem is called:",
+      "options": {
+        "A": "Biotic",
+        "B": "Abiotic",
+        "C": "Climate",
+        "D": "Habitat"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Biotic'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 37,
+      "question": "The non-living part of an ecosystem is:",
+      "options": {
+        "A": "Biotic",
+        "B": "Abiotic",
+        "C": "Decomposer",
+        "D": "Consumer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Abiotic'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 38,
+      "question": "Which of these is not a biotic component?",
+      "options": {
+        "A": "Trees",
+        "B": "Fungi",
+        "C": "Bacteria",
+        "D": "Soil"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Soil'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is a tertiary consumer?",
+      "options": {
+        "A": "Grass",
+        "B": "Rabbit",
+        "C": "Snake",
+        "D": "Hawk"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Hawk'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 40,
+      "question": "Biomass refers to:",
+      "options": {
+        "A": "Mass of decomposers",
+        "B": "Mass of inorganic matter",
+        "C": "Total mass of living matter",
+        "D": "Air weight"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Total mass of living matter'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 41,
+      "question": "Which of the following helps in nitrogen fixation?",
+      "options": {
+        "A": "Yeast",
+        "B": "Rhizobium",
+        "C": "Fungi",
+        "D": "Plasmodium"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Rhizobium'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 42,
+      "question": "The burning of fossil fuels adds:",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "CO2",
+        "D": "Ozone"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'CO2'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 43,
+      "question": "Eutrophication is caused by excess:",
+      "options": {
+        "A": "Carbon",
+        "B": "Nutrients",
+        "C": "Oxygen",
+        "D": "Water"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Nutrients'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 44,
+      "question": "Deforestation leads to:",
+      "options": {
+        "A": "Increased oxygen",
+        "B": "Soil erosion",
+        "C": "More rainfall",
+        "D": "Ozone formation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Soil erosion'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 45,
+      "question": "Which of these is a secondary consumer?",
+      "options": {
+        "A": "Grass",
+        "B": "Grasshopper",
+        "C": "Frog",
+        "D": "Lion"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Frog'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 46,
+      "question": "The base of all food chains is formed by:",
+      "options": {
+        "A": "Consumers",
+        "B": "Decomposers",
+        "C": "Producers",
+        "D": "Omnivores"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Producers'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 47,
+      "question": "Which factor directly affects plant growth?",
+      "options": {
+        "A": "Sunlight",
+        "B": "Herbivores",
+        "C": "Air pressure",
+        "D": "Migration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Sunlight'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 48,
+      "question": "Which of the following is an artificial ecosystem?",
+      "options": {
+        "A": "Forest",
+        "B": "Desert",
+        "C": "Aquarium",
+        "D": "River"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Aquarium'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 49,
+      "question": "Which cycle is involved in returning water to the atmosphere?",
+      "options": {
+        "A": "Nitrogen",
+        "B": "Carbon",
+        "C": "Water",
+        "D": "Oxygen"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Water'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    },
+    {
+      "id": 50,
+      "question": "Pollution due to plastics is:",
+      "options": {
+        "A": "Biodegradable",
+        "B": "Recyclable only",
+        "C": "Non-biodegradable",
+        "D": "Eco-friendly"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Non-biodegradable'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    }
+  ],
+  "subject": "biology"
+}

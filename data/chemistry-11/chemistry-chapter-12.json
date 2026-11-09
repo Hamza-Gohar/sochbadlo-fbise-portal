@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 12,
+  "chapterTitle": "Chapter 12: Functional Groups, Organic Derivatives & Synthesis",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "question": "What is the general formula for mono halogenoalkanes?",
+      "options": {
+        "A": "CnH₂n+1X",
+        "B": "CnH₂nX",
+        "C": "CnH₂n-2X",
+        "D": "CnHnX"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'CnH₂n+1X'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 1
+    },
+    {
+      "question": "Which type of bond is present between carbon and halogen?",
+      "options": {
+        "A": "Ionic",
+        "B": "Covalent",
+        "C": "Metallic",
+        "D": "Coordinate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Covalent'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 2
+    },
+    {
+      "question": "Which halogenoalkane reacts fastest in SN1 mechanism?",
+      "options": {
+        "A": "Primary",
+        "B": "Secondary",
+        "C": "Tertiary",
+        "D": "Methyl"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Tertiary'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 3
+    },
+    {
+      "question": "What is the product when bromoethane reacts with aqueous KOH?",
+      "options": {
+        "A": "Ethanol",
+        "B": "Ethene",
+        "C": "Ethanoic acid",
+        "D": "Acetaldehyde"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Ethanol'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 4
+    },
+    {
+      "question": "Halogenoalkanes are insoluble in:",
+      "options": {
+        "A": "Organic solvents",
+        "B": "Water",
+        "C": "Alcohol",
+        "D": "Ether"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Water'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 5
+    },
+    {
+      "question": "Which halogen atom forms the strongest C-X bond?",
+      "options": {
+        "A": "Fluorine",
+        "B": "Chlorine",
+        "C": "Bromine",
+        "D": "Iodine"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Fluorine'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 6
+    },
+    {
+      "question": "Which halogenoalkane undergoes elimination easily?",
+      "options": {
+        "A": "Primary",
+        "B": "Secondary",
+        "C": "Tertiary",
+        "D": "Methyl"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Tertiary'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 7
+    },
+    {
+      "question": "The reaction of halogenoalkanes with alcoholic KOH gives:",
+      "options": {
+        "A": "Alcohol",
+        "B": "Alkene",
+        "C": "Aldehyde",
+        "D": "Ether"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Alkene'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 8
+    },
+    {
+      "question": "Which reagent is used for nucleophilic substitution?",
+      "options": {
+        "A": "Alcoholic KOH",
+        "B": "Aqueous KOH",
+        "C": "H₂SO₄",
+        "D": "HNO₃"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Aqueous KOH'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 9
+    },
+    {
+      "question": "Which halogenoalkane reacts fastest in SN2 reaction?",
+      "options": {
+        "A": "Primary",
+        "B": "Secondary",
+        "C": "Tertiary",
+        "D": "Benzyl"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Primary'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 10
+    },
+    {
+      "question": "What is the hybridization of carbon in halogenoalkanes?",
+      "options": {
+        "A": "sp",
+        "B": "sp²",
+        "C": "sp³",
+        "D": "sp³d"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'sp³'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 11
+    },
+    {
+      "question": "Hydrolysis of halogenoalkane produces:",
+      "options": {
+        "A": "Ether",
+        "B": "Alcohol",
+        "C": "Aldehyde",
+        "D": "Ketone"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Alcohol'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 12
+    },
+    {
+      "question": "The leaving group in nucleophilic substitution is:",
+      "options": {
+        "A": "Carbon",
+        "B": "Hydrogen",
+        "C": "Halide ion",
+        "D": "Hydroxide ion"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Halide ion'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 13
+    },
+    {
+      "question": "Which bond is broken in SN1 reaction?",
+      "options": {
+        "A": "C-H",
+        "B": "C-C",
+        "C": "C-X",
+        "D": "C-O"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'C-X'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 14
+    },
+    {
+      "question": "In SN2, the rate depends on:",
+      "options": {
+        "A": "Only substrate",
+        "B": "Only nucleophile",
+        "C": "Both",
+        "D": "Neither"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Both'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 15
+    },
+    {
+      "question": "Best solvent for SN1 reaction is:",
+      "options": {
+        "A": "Polar protic",
+        "B": "Polar aprotic",
+        "C": "Non-polar",
+        "D": "Ionic"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Polar protic'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 16
+    },
+    {
+      "question": "Which halogenoalkane gives racemic mixture in SN1?",
+      "options": {
+        "A": "Primary",
+        "B": "Secondary",
+        "C": "Tertiary",
+        "D": "Methyl"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Tertiary'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 17
+    },
+    {
+      "question": "Which is the best leaving group?",
+      "options": {
+        "A": "F⁻",
+        "B": "Cl⁻",
+        "C": "Br⁻",
+        "D": "I⁻"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'I⁻'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 18
+    },
+    {
+      "question": "In SN2 reaction, inversion of configuration is called:",
+      "options": {
+        "A": "Walden inversion",
+        "B": "E-Z isomerism",
+        "C": "Racemization",
+        "D": "Epimerization"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Walden inversion'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 19
+    },
+    {
+      "question": "Which factor increases the rate of SN2 reaction?",
+      "options": {
+        "A": "Bulky groups",
+        "B": "Small groups",
+        "C": "Polar protic solvent",
+        "D": "Weak nucleophile"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Small groups'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 20
+    },
+    {
+      "question": "SN1 mechanism proceeds through formation of:",
+      "options": {
+        "A": "Carbanion",
+        "B": "Carbocation",
+        "C": "Free radical",
+        "D": "Neutral molecule"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Carbocation'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 21
+    },
+    {
+      "question": "Which halogenoalkane is most reactive in SN1?",
+      "options": {
+        "A": "Methyl chloride",
+        "B": "1-chlorobutane",
+        "C": "2-chlorobutane",
+        "D": "2-chloro-2-methylpropane"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: '2-chloro-2-methylpropane'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 22
+    },
+    {
+      "question": "In halogenoalkanes, the carbon atom is:",
+      "options": {
+        "A": "Nucleophilic",
+        "B": "Electrophilic",
+        "C": "Neutral",
+        "D": "Reducing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Electrophilic'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 23
+    },
+    {
+      "question": "Reaction of halogenoalkane with CN⁻ ion forms:",
+      "options": {
+        "A": "Amine",
+        "B": "Alcohol",
+        "C": "Nitrile",
+        "D": "Ether"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Nitrile'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 24
+    },
+    {
+      "question": "Which order of SN2 reaction rate is correct?",
+      "options": {
+        "A": "Tertiary > Secondary > Primary",
+        "B": "Secondary > Tertiary > Primary",
+        "C": "Primary > Secondary > Tertiary",
+        "D": "Secondary > Primary > Tertiary"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Primary > Secondary > Tertiary'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 25
+    },
+    {
+      "question": "Which halide is least reactive in substitution?",
+      "options": {
+        "A": "R-F",
+        "B": "R-Cl",
+        "C": "R-Br",
+        "D": "R-I"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'R-F'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 26
+    },
+    {
+      "question": "Polar aprotic solvents favor:",
+      "options": {
+        "A": "SN1",
+        "B": "SN2",
+        "C": "E1",
+        "D": "E2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'SN2'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 27
+    },
+    {
+      "question": "The boiling point of halogenoalkanes is higher due to:",
+      "options": {
+        "A": "Ionic bonds",
+        "B": "Hydrogen bonds",
+        "C": "Dipole interactions",
+        "D": "London forces"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Dipole interactions'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 28
+    },
+    {
+      "question": "Which halogen atom makes best leaving group?",
+      "options": {
+        "A": "F",
+        "B": "Cl",
+        "C": "Br",
+        "D": "I"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'I'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 29
+    },
+    {
+      "question": "Which compound will undergo elimination easily?",
+      "options": {
+        "A": "Primary halide",
+        "B": "Secondary halide",
+        "C": "Tertiary halide",
+        "D": "Methyl halide"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Tertiary halide'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 30
+    },
+    {
+      "question": "In SN2, nucleophile attacks from:",
+      "options": {
+        "A": "Front side",
+        "B": "Back side",
+        "C": "Above",
+        "D": "Below"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Back side'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 31
+    },
+    {
+      "question": "Which will react faster with aqueous KOH?",
+      "options": {
+        "A": "1-chlorobutane",
+        "B": "1-bromobutane",
+        "C": "1-iodobutane",
+        "D": "1-fluorobutane"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '1-iodobutane'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 32
+    },
+    {
+      "question": "Hydrolysis of 1-chloropropane gives:",
+      "options": {
+        "A": "Propanol",
+        "B": "Propanoic acid",
+        "C": "Propene",
+        "D": "Propanone"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Propanol'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 33
+    },
+    {
+      "question": "Dehydrohalogenation is a type of:",
+      "options": {
+        "A": "Addition",
+        "B": "Substitution",
+        "C": "Elimination",
+        "D": "Oxidation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Elimination'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 34
+    },
+    {
+      "question": "The SN1 reaction rate depends on:",
+      "options": {
+        "A": "Nucleophile only",
+        "B": "Substrate only",
+        "C": "Both",
+        "D": "Solvent only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Substrate only'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 35
+    },
+    {
+      "question": "Reaction with KCN converts halogenoalkane to:",
+      "options": {
+        "A": "Amine",
+        "B": "Alkane",
+        "C": "Nitrile",
+        "D": "Alcohol"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Nitrile'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 36
+    },
+    {
+      "question": "Which halogenoalkane reacts fastest with NaOH?",
+      "options": {
+        "A": "1-chlorobutane",
+        "B": "1-bromobutane",
+        "C": "1-iodobutane",
+        "D": "1-fluorobutane"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '1-iodobutane'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 37
+    },
+    {
+      "question": "In SN1, carbocation stability is:",
+      "options": {
+        "A": "Primary > Secondary > Tertiary",
+        "B": "Tertiary > Secondary > Primary",
+        "C": "Secondary > Primary > Tertiary",
+        "D": "Equal for all"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Tertiary > Secondary > Primary'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 38
+    },
+    {
+      "question": "Which of the following undergoes fastest SN2 reaction?",
+      "options": {
+        "A": "1-bromobutane",
+        "B": "2-bromobutane",
+        "C": "2-bromo-2-methylpropane",
+        "D": "Bromomethane"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Bromomethane'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 39
+    },
+    {
+      "question": "A better nucleophile favors:",
+      "options": {
+        "A": "SN1",
+        "B": "SN2",
+        "C": "E1",
+        "D": "E2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'SN2'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 40
+    },
+    {
+      "question": "Which solvent is best for SN2 reaction?",
+      "options": {
+        "A": "Ethanol",
+        "B": "Water",
+        "C": "Acetone",
+        "D": "Methanol"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Acetone'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 41
+    },
+    {
+      "question": "Which one forms carbocation easily?",
+      "options": {
+        "A": "CH₃Cl",
+        "B": "C₂H₅Cl",
+        "C": "(CH₃)₃CCl",
+        "D": "C₆H₅Cl"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '(CH₃)₃CCl'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 42
+    },
+    {
+      "question": "Which halogenoalkane is used as anesthetic?",
+      "options": {
+        "A": "Chloroform",
+        "B": "Bromoform",
+        "C": "Iodoform",
+        "D": "Fluoroform"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Chloroform'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 43
+    },
+    {
+      "question": "In SN2, transition state has:",
+      "options": {
+        "A": "Partial bonds",
+        "B": "Full bonds",
+        "C": "No bonds",
+        "D": "Ionic bonds"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Partial bonds'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 44
+    },
+    {
+      "question": "Dehydrohalogenation leads to formation of:",
+      "options": {
+        "A": "Alkanes",
+        "B": "Alkenes",
+        "C": "Alkynes",
+        "D": "Alcohols"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Alkenes'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 45
+    },
+    {
+      "question": "SN1 reaction is favored by:",
+      "options": {
+        "A": "Strong nucleophile",
+        "B": "Weak nucleophile",
+        "C": "Neutral nucleophile",
+        "D": "No nucleophile"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Weak nucleophile'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 46
+    },
+    {
+      "question": "In SN2, rate law is:",
+      "options": {
+        "A": "First order",
+        "B": "Second order",
+        "C": "Zero order",
+        "D": "Third order"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Second order'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 47
+    },
+    {
+      "question": "Which increases nucleophilicity?",
+      "options": {
+        "A": "Decrease in size",
+        "B": "Increase in size",
+        "C": "Increase in electronegativity",
+        "D": "Decrease in electronegativity"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Decrease in electronegativity'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 48
+    },
+    {
+      "question": "Bromomethane reacts with AgNO₃ to form:",
+      "options": {
+        "A": "Precipitate of AgCl",
+        "B": "Precipitate of AgBr",
+        "C": "Precipitate of AgI",
+        "D": "No precipitate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Precipitate of AgBr'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 49
+    },
+    {
+      "question": "Which factor increases elimination over substitution?",
+      "options": {
+        "A": "High temperature",
+        "B": "Low temperature",
+        "C": "Polar solvent",
+        "D": "Weak base"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'High temperature'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 50
+    }
+  ],
+  "subject": "chemistry"
+}

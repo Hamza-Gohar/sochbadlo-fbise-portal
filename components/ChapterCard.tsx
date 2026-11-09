@@ -29,6 +29,8 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isCS = chapter.subject === 'cs' || chapter.slug.startsWith('cs');
   const isIslamiat = chapter.subject === 'islamiat' || chapter.slug.startsWith('islamiat');
   const isTarjuma = chapter.subject === 'tarjuma' || chapter.slug.startsWith('tarjuma');
+  const isBiology = chapter.subject === 'biology' || chapter.slug.startsWith('biology');
+  const isChemistry = chapter.subject === 'chemistry' || chapter.slug.startsWith('chemistry');
   const isRtl = isUrdu || isIslamiat || isTarjuma;
 
   const isPastPapers =
@@ -36,7 +38,9 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     chapter.slug === 'urdu-model-paper' ||
     chapter.slug.startsWith('cs-model-paper-') ||
     chapter.slug.startsWith('islamiat-model-paper-') ||
-    chapter.slug.startsWith('tarjuma-model-paper-');
+    chapter.slug.startsWith('tarjuma-model-paper-') ||
+    chapter.slug.startsWith('biology-model-paper-') ||
+    chapter.slug.startsWith('chemistry-model-paper-');
 
   let tagLabel = `Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   if (chapter.slug === 'past-papers') tagLabel = 'Board Simulator';
@@ -48,8 +52,12 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (chapter.slug.startsWith('cs-model-paper-')) tagLabel = `CS Board Simulator ${chapter.chapterNumber - 8}`;
   else if (chapter.slug.startsWith('islamiat-model-paper-')) tagLabel = `Islamiat Board Simulator ${chapter.chapterNumber - 5}`;
   else if (chapter.slug.startsWith('tarjuma-model-paper-')) tagLabel = `Tarjuma Board Simulator ${chapter.chapterNumber - 4}`;
+  else if (chapter.slug.startsWith('biology-model-paper-')) tagLabel = `Biology Board Simulator ${chapter.slug.split('-').pop()}`;
+  else if (chapter.slug.startsWith('chemistry-model-paper-')) tagLabel = `Chemistry Board Simulator ${chapter.slug.split('-').pop()}`;
   else if (isTarjuma) tagLabel = `Tarjuma Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (isIslamiat) tagLabel = `Islamiat Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (isBiology) tagLabel = `Bio Chapter ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (isChemistry) tagLabel = `Chem Chapter ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (isCS) tagLabel = `CS Chapter ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (isEnglish) tagLabel = `English Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (isMath) tagLabel = `Math Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
@@ -142,6 +150,14 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     description = 'وفاقی بورڈ لازمی ترجمۃ القرآن سالانہ امتحان سمولیٹر۔ چاروں مقررہ سورتوں کے اہم نکات پر مشتمل دو لسانی معروضی پرچہ۔';
   } else if (isTarjuma) {
     description = `وفاقی بورڈ ترجمۃ القرآن المجید سال اول: ${chapter.title} کے منتخب اور امتحانی کثیر الانتخابی سوالات۔`;
+  } else if (chapter.slug.startsWith('biology-model-paper-')) {
+    description = 'Official Federal Board Section A examination simulation for Biology (17 questions, 20 minutes) with step-by-step scientific rationales.';
+  } else if (isBiology) {
+    description = `FBISE Class 11 Biology curriculum test for ${chapter.title}. Includes cell biology, molecular genetics, physiology, taxonomy, and comprehensive scientific rationales.`;
+  } else if (chapter.slug.startsWith('chemistry-model-paper-')) {
+    description = 'Official Federal Board Section A examination simulation for Chemistry (17 questions, 20 minutes) with stoichiometry & molecular justifications.';
+  } else if (isChemistry) {
+    description = `Curated FBISE Class 11 Chemistry question series for ${chapter.title} prepared by Lecturer Ayesha Amjad (Soch Badlo By MAK). Complete with formula steps and molecular justifications.`;
   }
 
   return (

@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 5,
+  "chapterTitle": "Chapter 5: Energetics, Enthalpy & Thermochemical Equations",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "question": "The enthalpy change of a reaction is the heat absorbed or released under:",
+      "options": {
+        "A": "Constant volume",
+        "B": "Constant temperature",
+        "C": "Constant pressure",
+        "D": "Varying pressure"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Constant pressure'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 1
+    },
+    {
+      "question": "The unit of enthalpy is:",
+      "options": {
+        "A": "J/kg",
+        "B": "J/mol",
+        "C": "J",
+        "D": "kcal/mol"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'J/mol'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 2
+    },
+    {
+      "question": "The enthalpy change for the formation of one mole of a compound from its elements in their standard states is called:",
+      "options": {
+        "A": "Standard enthalpy of combustion",
+        "B": "Standard enthalpy of formation",
+        "C": "Standard enthalpy of reaction",
+        "D": "Enthalpy of fusion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Standard enthalpy of formation'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 3
+    },
+    {
+      "question": "The law of conservation of energy states that:",
+      "options": {
+        "A": "Energy can be created or destroyed",
+        "B": "Energy can only be destroyed",
+        "C": "Energy can neither be created nor destroyed",
+        "D": "Energy is destroyed in chemical reactions"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Energy can neither be created nor destroyed'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 4
+    },
+    {
+      "question": "If the products of a reaction have higher energy than the reactants, the reaction is:",
+      "options": {
+        "A": "Exothermic",
+        "B": "Endothermic",
+        "C": "Spontaneous",
+        "D": "Reversible"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Endothermic'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 5
+    },
+    {
+      "question": "Which of the following is the correct expression for the heat capacity of a substance?",
+      "options": {
+        "A": "Heat absorbed / Temperature change",
+        "B": "Temperature change / Heat absorbed",
+        "C": "Heat absorbed × Temperature change",
+        "D": "Heat released / Temperature change"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Heat absorbed / Temperature change'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 6
+    },
+    {
+      "question": "The heat of combustion of a substance is:",
+      "options": {
+        "A": "The heat released when one mole of the substance reacts with oxygen",
+        "B": "The heat absorbed when one mole of the substance reacts with oxygen",
+        "C": "The energy needed to break bonds in a substance",
+        "D": "The enthalpy change in an exothermic reaction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'The heat released when one mole of the substance'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 7
+    },
+    {
+      "question": "Which of the following is NOT a state function?",
+      "options": {
+        "A": "Temperature",
+        "B": "Enthalpy",
+        "C": "Heat",
+        "D": "Pressure"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Heat'. Biogas is renewable, not fossil-derived.",
+      "id": 8
+    },
+    {
+      "question": "The enthalpy change for a reaction is independent of:",
+      "options": {
+        "A": "The temperature",
+        "B": "The pathway of the reaction",
+        "C": "The amount of reactants used",
+        "D": "The states of reactants and products"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'The pathway of the reaction'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 9
+    },
+    {
+      "question": "Which of the following would increase the rate of an endothermic reaction?",
+      "options": {
+        "A": "Increasing the temperature",
+        "B": "Decreasing the temperature",
+        "C": "Adding a catalyst",
+        "D": "Both A and C"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Both A and C'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 10
+    },
+    {
+      "question": "The heat released in an exothermic reaction is:",
+      "options": {
+        "A": "Negative",
+        "B": "Positive",
+        "C": "Zero",
+        "D": "Dependent on the reactants"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Negative'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 11
+    },
+    {
+      "question": "Which of the following processes is exothermic?",
+      "options": {
+        "A": "Melting of ice",
+        "B": "Evaporation of water",
+        "C": "Condensation of water vapor",
+        "D": "Sublimation of dry ice"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Condensation of water vapor'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 12
+    },
+    {
+      "question": "The enthalpy change for a reaction can be calculated using:",
+      "options": {
+        "A": "Hess's Law",
+        "B": "Boyle's Law",
+        "C": "Charles's Law",
+        "D": "Raoult's Law"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Hess's Law'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 13
+    },
+    {
+      "question": "The standard enthalpy of formation of a compound is:",
+      "options": {
+        "A": "Always positive",
+        "B": "Always negative",
+        "C": "Zero for elements in their standard states",
+        "D": "Dependent on the temperature"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Zero for elements in their standard states'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 14
+    },
+    {
+      "question": "The enthalpy of neutralization is the heat change when:",
+      "options": {
+        "A": "An acid reacts with a base to form water and a salt",
+        "B": "A metal reacts with water",
+        "C": "A gas dissolves in a liquid",
+        "D": "A liquid evaporates"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'An acid reacts with a base to form water and a salt'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 15
+    },
+    {
+      "question": "The change in enthalpy for a reaction at constant pressure is equivalent to:",
+      "options": {
+        "A": "The work done by the system",
+        "B": "The heat absorbed or released",
+        "C": "The heat capacity",
+        "D": "The volume change"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'The heat absorbed or released'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 16
+    },
+    {
+      "question": "In an exothermic reaction, the heat of the products is:",
+      "options": {
+        "A": "Higher than that of the reactants",
+        "B": "Equal to that of the reactants",
+        "C": "Lower than that of the reactants",
+        "D": "Zero"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Lower than that of the reactants'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 17
+    },
+    {
+      "question": "The enthalpy change for a reaction is determined by:",
+      "options": {
+        "A": "The difference between the heat of the products and the heat of the reactants",
+        "B": "The total heat absorbed",
+        "C": "The pressure of the system",
+        "D": "The temperature of the system"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'The difference between the heat of the products and'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 18
+    },
+    {
+      "question": "When the temperature of a system increases, the enthalpy of the system:",
+      "options": {
+        "A": "Decreases",
+        "B": "Increases",
+        "C": "Remains constant",
+        "D": "Becomes negative"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Increases'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 19
+    },
+    {
+      "question": "The specific heat of water is higher than that of most substances because:",
+      "options": {
+        "A": "Water has a high density",
+        "B": "Water molecules are large",
+        "C": "Water can absorb more heat per unit mass for a given temperature rise",
+        "D": "Water vaporizes easily"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Water can absorb more heat per unit mass for a given'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 20
+    },
+    {
+      "question": "The enthalpy change of an endothermic reaction is:",
+      "options": {
+        "A": "Negative",
+        "B": "Zero",
+        "C": "Positive",
+        "D": "Dependent on pressure"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Positive'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 21
+    },
+    {
+      "question": "According to Hess's Law, the enthalpy change of a reaction is:",
+      "options": {
+        "A": "Dependent on the pathway",
+        "B": "Independent of the pathway",
+        "C": "Always negative",
+        "D": "Always positive"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Independent of the pathway'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 22
+    },
+    {
+      "question": "In an exothermic reaction, the products have:",
+      "options": {
+        "A": "Higher energy than reactants",
+        "B": "The same energy as reactants",
+        "C": "Lower energy than reactants",
+        "D": "No energy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Lower energy than reactants'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 23
+    },
+    {
+      "question": "The heat of formation of an element in its standard state is:",
+      "options": {
+        "A": "Zero",
+        "B": "One",
+        "C": "Negative",
+        "D": "Positive"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Zero'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 24
+    },
+    {
+      "question": "The enthalpy of neutralization is the heat change when:",
+      "options": {
+        "A": "A gas is produced",
+        "B": "An acid reacts with a base",
+        "C": "A liquid freezes",
+        "D": "A solid dissolves in water"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'An acid reacts with a base'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 25
+    },
+    {
+      "question": "The standard enthalpy of combustion of a substance is always:",
+      "options": {
+        "A": "Zero",
+        "B": "Negative",
+        "C": "Positive",
+        "D": "Undefined"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Negative'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 26
+    },
+    {
+      "question": "The heat capacity of a substance is:",
+      "options": {
+        "A": "Inversely proportional to temperature",
+        "B": "Directly proportional to temperature",
+        "C": "Independent of the substance's mass",
+        "D": "Directly proportional to its mass"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Directly proportional to its mass'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 27
+    },
+    {
+      "question": "The relationship between work, heat, and internal energy is given by:",
+      "options": {
+        "A": "Boyles' Law",
+        "B": "Hess's Law",
+        "C": "First Law of Thermodynamics",
+        "D": "Second Law of Thermodynamics"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'First Law of Thermodynamics'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 28
+    },
+    {
+      "question": "For an ideal gas, the internal energy depends only on:",
+      "options": {
+        "A": "Pressure",
+        "B": "Volume",
+        "C": "Temperature",
+        "D": "Number of moles"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Temperature'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 29
+    },
+    {
+      "question": "The bond dissociation enthalpy is the enthalpy required to:",
+      "options": {
+        "A": "Form one mole of a bond",
+        "B": "Break one mole of bonds in a substance",
+        "C": "Form ions in a substance",
+        "D": "Break a liquid into gas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Break one mole of bonds in a substance'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 30
+    },
+    {
+      "question": "The first law of thermodynamics is also known as:",
+      "options": {
+        "A": "Law of entropy",
+        "B": "Law of energy conservation",
+        "C": "Law of conservation of mass",
+        "D": "Law of heat transfer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Law of energy conservation'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 31
+    },
+    {
+      "question": "Which of the following is a state function?",
+      "options": {
+        "A": "Work",
+        "B": "Heat",
+        "C": "Internal energy",
+        "D": "Distance"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Internal energy'. CHCl₃ contains three halogen atoms attached to the same carbon\n                                                     CH₃CH₂CH₂O      CH₃CH₂CH₂B        CH₃CH₂CH₂N",
+      "id": 32
+    },
+    {
+      "question": "Enthalpy change during a reaction at constant pressure is equal to:",
+      "options": {
+        "A": "Heat absorbed by the system",
+        "B": "Work done by the system",
+        "C": "Heat released by the system",
+        "D": "Entropy change of the system"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Heat absorbed by the system'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 33
+    },
+    {
+      "question": "In an exothermic reaction, the enthalpy change is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Independent of temperature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Negative'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 34
+    },
+    {
+      "question": "The standard enthalpy of formation of an element in its most stable form is:",
+      "options": {
+        "A": "Zero",
+        "B": "1",
+        "C": "100",
+        "D": "Infinite"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Zero'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 35
+    },
+    {
+      "question": "A reaction in which energy is absorbed by the system is called:",
+      "options": {
+        "A": "Exothermic",
+        "B": "Endothermic",
+        "C": "Isothermal",
+        "D": "Isochoric"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Endothermic'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 36
+    },
+    {
+      "question": "The heat capacity of a substance is defined as the amount of heat required to:",
+      "options": {
+        "A": "Increase its temperature by one degree Celsius",
+        "B": "Change its state",
+        "C": "Heat the substance to its boiling point",
+        "D": "Increase its volume by one liter"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Increase its temperature by one degree Celsius'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 37
+    },
+    {
+      "question": "The heat released or absorbed during a reaction at constant pressure is measured as:",
+      "options": {
+        "A": "Work done",
+        "B": "Enthalpy change",
+        "C": "Internal energy change",
+        "D": "Temperature change"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Enthalpy change'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 38
+    },
+    {
+      "question": "In an isothermal process, the change in internal energy of the system is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Variable"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Zero'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 39
+    },
+    {
+      "question": "The work done by a gas during an expansion is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Positive'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 40
+    },
+    {
+      "question": "The bond dissociation enthalpy is the enthalpy change required to:",
+      "options": {
+        "A": "Dissociate one mole of a compound into its ions",
+        "B": "Break one mole of bonds in a compound",
+        "C": "Form one mole of a compound from its elements",
+        "D": "Break one mole of a gaseous molecule into atoms"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Break one mole of bonds in a compound'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 41
+    },
+    {
+      "question": "The entropy of the universe always tends to:",
+      "options": {
+        "A": "Increase",
+        "B": "Decrease",
+        "C": "Stay constant",
+        "D": "Fluctuate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Increase'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 42
+    },
+    {
+      "question": "Which of the following statements is true for an exothermic reaction?",
+      "options": {
+        "A": "Heat is absorbed from the surroundings",
+        "B": "The system gains heat",
+        "C": "The system loses heat",
+        "D": "The enthalpy of the products is higher than the reactants"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'The system loses heat'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 43
+    },
+    {
+      "question": "The enthalpy change for a reaction can be calculated using:",
+      "options": {
+        "A": "Hess's Law",
+        "B": "Boyle's Law",
+        "C": "Charles's Law",
+        "D": "Avogadro's Law"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Hess's Law'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 44
+    },
+    {
+      "question": "The enthalpy change for the reaction C(s) + O2(g) → CO2(g) is called the:",
+      "options": {
+        "A": "Enthalpy of combustion",
+        "B": "Enthalpy of formation",
+        "C": "Enthalpy of fusion",
+        "D": "Enthalpy of vaporization"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Enthalpy of combustion'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 45
+    },
+    {
+      "question": "The heat required to raise the temperature of a substance by 1°C is called its:",
+      "options": {
+        "A": "Heat capacity",
+        "B": "Specific heat",
+        "C": "Molar heat",
+        "D": "Latent heat"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Specific heat'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 46
+    },
+    {
+      "question": "When heat is transferred into the system and the volume remains constant, the process is:",
+      "options": {
+        "A": "Isothermal",
+        "B": "Isobaric",
+        "C": "Isochoric",
+        "D": "Adiabatic"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Isochoric'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 47
+    },
+    {
+      "question": "The change in internal energy is related to heat and work by:",
+      "options": {
+        "A": "Boyle's Law",
+        "B": "Charles's Law",
+        "C": "The first law of thermodynamics",
+        "D": "Hess's Law"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'The first law of thermodynamics'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 48
+    },
+    {
+      "question": "The enthalpy change for the vaporization of a liquid is called:",
+      "options": {
+        "A": "Latent heat of vaporization",
+        "B": "Latent heat of fusion",
+        "C": "Enthalpy of formation",
+        "D": "Enthalpy of combustion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Latent heat of vaporization'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 49
+    },
+    {
+      "question": "The change in enthalpy when one mole of a compound is formed from its elements in their standard states is called:",
+      "options": {
+        "A": "Enthalpy of combustion",
+        "B": "Enthalpy of formation",
+        "C": "Enthalpy of fusion",
+        "D": "Enthalpy of vaporization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Enthalpy of formation'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 50
+    }
+  ],
+  "subject": "chemistry"
+}

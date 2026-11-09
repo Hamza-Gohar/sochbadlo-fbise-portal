@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 4,
+  "chapterTitle": "Chapter 4: Bioenergetics",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The study of energy relationships in living organisms is called:",
+      "options": {
+        "A": "Biophysics",
+        "B": "Thermodynamics",
+        "C": "Bioenergetics",
+        "D": "Metabolism"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Bioenergetics'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 2,
+      "question": "Photosynthesis occurs in:",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Ribosomes",
+        "C": "Chloroplasts",
+        "D": "Cytoplasm"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Chloroplasts'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 3,
+      "question": "The light-dependent reactions of photosynthesis take place in:",
+      "options": {
+        "A": "Stroma",
+        "B": "Thylakoid membrane",
+        "C": "Cytoplasm",
+        "D": "Inner membrane"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Thylakoid membrane'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 4,
+      "question": "The green pigment involved in photosynthesis is:",
+      "options": {
+        "A": "Carotene",
+        "B": "Xanthophyll",
+        "C": "Chlorophyll",
+        "D": "Phycobilin"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Chlorophyll'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is a product of light reaction?",
+      "options": {
+        "A": "Glucose",
+        "B": "NADP",
+        "C": "NADPH",
+        "D": "CO₂"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'NADPH'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 6,
+      "question": "The main source of energy for photosynthesis is:",
+      "options": {
+        "A": "ATP",
+        "B": "Sunlight",
+        "C": "Heat",
+        "D": "Glucose"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Sunlight'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 7,
+      "question": "The dark reaction occurs in the:",
+      "options": {
+        "A": "Grana",
+        "B": "Thylakoid",
+        "C": "Stroma",
+        "D": "Membrane"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Stroma'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 8,
+      "question": "Which gas is used in photosynthesis?",
+      "options": {
+        "A": "O₂",
+        "B": "CO₂",
+        "C": "N₂",
+        "D": "H₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'CO₂'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 9,
+      "question": "Photosynthesis is a/an:",
+      "options": {
+        "A": "Catabolic process",
+        "B": "Exothermic reaction",
+        "C": "Anabolic process",
+        "D": "Neutral reaction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Anabolic process'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 10,
+      "question": "Oxygen released during photosynthesis comes from:",
+      "options": {
+        "A": "CO₂",
+        "B": "Water",
+        "C": "Glucose",
+        "D": "Chlorophyll"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Water'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 11,
+      "question": "Which molecule captures light energy in plants?",
+      "options": {
+        "A": "NADPH",
+        "B": "ATP",
+        "C": "Chlorophyll",
+        "D": "Starch"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Chlorophyll'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is not required for photosynthesis?",
+      "options": {
+        "A": "CO₂",
+        "B": "Water",
+        "C": "Oxygen",
+        "D": "Light"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Oxygen'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 13,
+      "question": "During light reaction, water is split in a process called:",
+      "options": {
+        "A": "Hydrolysis",
+        "B": "Electrolysis",
+        "C": "Photolysis",
+        "D": "Chemolysis"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Photolysis'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 14,
+      "question": "ATP and NADPH are used in which stage?",
+      "options": {
+        "A": "Glycolysis",
+        "B": "Light reaction",
+        "C": "Calvin cycle",
+        "D": "Electron transport"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Calvin cycle'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 15,
+      "question": "The final product of photosynthesis is:",
+      "options": {
+        "A": "ATP",
+        "B": "Glucose",
+        "C": "CO₂",
+        "D": "Water"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Glucose'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 16,
+      "question": "Calvin cycle occurs in the:",
+      "options": {
+        "A": "Grana",
+        "B": "Mitochondria",
+        "C": "Cytoplasm",
+        "D": "Stroma"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Stroma'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 17,
+      "question": "Glucose is stored in plants as:",
+      "options": {
+        "A": "Sucrose",
+        "B": "Glycogen",
+        "C": "Cellulose",
+        "D": "Starch"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Starch'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 18,
+      "question": "Photosynthesis is vital for:",
+      "options": {
+        "A": "Water production",
+        "B": "Light production",
+        "C": "Energy conversion",
+        "D": "Protein synthesis"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Energy conversion'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 19,
+      "question": "Photosynthesis converts:",
+      "options": {
+        "A": "Chemical energy to light energy",
+        "B": "Light energy to chemical energy",
+        "C": "Thermal energy to light",
+        "D": "Sound to chemical energy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Light energy to chemical energy'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 20,
+      "question": "Which is a limiting factor in photosynthesis?",
+      "options": {
+        "A": "Light intensity",
+        "B": "Temperature",
+        "C": "CO₂ concentration",
+        "D": "All of these"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'All of these'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 21,
+      "question": "Which is not a phase of photosynthesis?",
+      "options": {
+        "A": "Light reaction",
+        "B": "Glycolysis",
+        "C": "Dark reaction",
+        "D": "Calvin cycle"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Glycolysis'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 22,
+      "question": "Chlorophyll absorbs which color most efficiently?",
+      "options": {
+        "A": "Green",
+        "B": "Blue",
+        "C": "Yellow",
+        "D": "Orange"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Blue'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 23,
+      "question": "The energy currency of the cell is:",
+      "options": {
+        "A": "DNA",
+        "B": "ATP",
+        "C": "Protein",
+        "D": "NADH"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'ATP'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 24,
+      "question": "Which is required in the Calvin cycle?",
+      "options": {
+        "A": "Light",
+        "B": "Oxygen",
+        "C": "ATP",
+        "D": "NADP"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'ATP'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 25,
+      "question": "ATP stands for:",
+      "options": {
+        "A": "Adenosine triphosphate",
+        "B": "Adenosine tetraphosphate",
+        "C": "Adenine phosphate",
+        "D": "Adenosine trioxy phosphate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Adenosine triphosphate'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 26,
+      "question": "NADPH is a:",
+      "options": {
+        "A": "Protein",
+        "B": "Sugar",
+        "C": "Energy carrier",
+        "D": "Enzyme"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Energy carrier'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 27,
+      "question": "Aerobic respiration requires:",
+      "options": {
+        "A": "CO₂",
+        "B": "O₂",
+        "C": "N₂",
+        "D": "H₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'O₂'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 28,
+      "question": "First step of aerobic respiration is:",
+      "options": {
+        "A": "Krebs cycle",
+        "B": "Glycolysis",
+        "C": "Photosynthesis",
+        "D": "Fermentation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Glycolysis'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 29,
+      "question": "Glycolysis takes place in the:",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Cytoplasm",
+        "C": "Ribosomes",
+        "D": "Chloroplast"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Cytoplasm'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 30,
+      "question": "End products of glycolysis are:",
+      "options": {
+        "A": "Glucose and ATP",
+        "B": "Pyruvic acid and ATP",
+        "C": "Oxygen and ATP",
+        "D": "CO₂ and Water"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Pyruvic acid and ATP'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following occurs in mitochondria?",
+      "options": {
+        "A": "Glycolysis",
+        "B": "Photosynthesis",
+        "C": "Calvin cycle",
+        "D": "Krebs cycle"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Krebs cycle'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 32,
+      "question": "Fermentation is a type of:",
+      "options": {
+        "A": "Anaerobic respiration",
+        "B": "Photosynthesis",
+        "C": "Aerobic process",
+        "D": "Hydrolysis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Anaerobic respiration'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 33,
+      "question": "Krebs cycle occurs in:",
+      "options": {
+        "A": "Cytoplasm",
+        "B": "Nucleus",
+        "C": "Mitochondria",
+        "D": "Ribosome"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Mitochondria'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 34,
+      "question": "Electron transport chain is located in:",
+      "options": {
+        "A": "Cytoplasm",
+        "B": "Outer membrane",
+        "C": "Inner mitochondrial membrane",
+        "D": "Nucleoplasm"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Inner mitochondrial membrane'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 35,
+      "question": "Final product of aerobic respiration is:",
+      "options": {
+        "A": "Alcohol",
+        "B": "Lactic acid",
+        "C": "Water and CO₂",
+        "D": "Pyruvic acid"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Water and CO₂'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 36,
+      "question": "Which produces more ATP?",
+      "options": {
+        "A": "Anaerobic respiration",
+        "B": "Photosynthesis",
+        "C": "Aerobic respiration",
+        "D": "Glycolysis"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Aerobic respiration'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 37,
+      "question": "Which organisms perform alcoholic fermentation?",
+      "options": {
+        "A": "Humans",
+        "B": "Plants",
+        "C": "Bacteria",
+        "D": "Yeasts"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Yeasts'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 38,
+      "question": "Which of the following does not occur in aerobic respiration?",
+      "options": {
+        "A": "Oxygen use",
+        "B": "CO₂ release",
+        "C": "Lactic acid production",
+        "D": "Water formation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Lactic acid production'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 39,
+      "question": "Which of the following occurs without oxygen?",
+      "options": {
+        "A": "Krebs cycle",
+        "B": "Glycolysis",
+        "C": "Electron transport",
+        "D": "All of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Glycolysis'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 40,
+      "question": "Respiration is a:",
+      "options": {
+        "A": "Anabolic process",
+        "B": "Energy-releasing process",
+        "C": "Energy-storing process",
+        "D": "Light-absorbing process"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Energy-releasing process'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 41,
+      "question": "In aerobic respiration, maximum ATP is produced in:",
+      "options": {
+        "A": "Glycolysis",
+        "B": "Krebs cycle",
+        "C": "ETC",
+        "D": "Fermentation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'ETC'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 42,
+      "question": "Which is a 6-carbon sugar used in respiration?",
+      "options": {
+        "A": "Ribose",
+        "B": "Glucose",
+        "C": "Fructose",
+        "D": "Galactose"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Glucose'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 43,
+      "question": "Number of ATP molecules from 1 glucose in aerobic respiration:",
+      "options": {
+        "A": "2",
+        "B": "18",
+        "C": "32",
+        "D": "38"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: '38'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 44,
+      "question": "In anaerobic respiration, end product in muscle is:",
+      "options": {
+        "A": "Ethanol",
+        "B": "CO₂",
+        "C": "Lactic acid",
+        "D": "Water"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Lactic acid'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 45,
+      "question": "Which of the following steps produces CO₂?",
+      "options": {
+        "A": "Glycolysis",
+        "B": "Calvin cycle",
+        "C": "Krebs cycle",
+        "D": "ETC"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Krebs cycle'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 46,
+      "question": "Respiration and photosynthesis both involve:",
+      "options": {
+        "A": "Light energy",
+        "B": "Electron carriers",
+        "C": "Protein synthesis",
+        "D": "Water splitting"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Electron carriers'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 47,
+      "question": "ATP synthase is found in:",
+      "options": {
+        "A": "Cytoplasm",
+        "B": "Nucleus",
+        "C": "Mitochondria and chloroplast",
+        "D": "Ribosome"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Mitochondria and chloroplast'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 48,
+      "question": "Source of energy in respiration is:",
+      "options": {
+        "A": "Glucose",
+        "B": "Oxygen",
+        "C": "CO₂",
+        "D": "Light"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Glucose'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 49,
+      "question": "Which cycle is also known as the citric acid cycle?",
+      "options": {
+        "A": "Calvin cycle",
+        "B": "Krebs cycle",
+        "C": "Urea cycle",
+        "D": "Glycolysis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Krebs cycle'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 50,
+      "question": "Which process stores energy in glucose bonds?",
+      "options": {
+        "A": "Respiration",
+        "B": "Fermentation",
+        "C": "Photosynthesis",
+        "D": "Digestion"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Photosynthesis'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    }
+  ],
+  "subject": "biology"
+}

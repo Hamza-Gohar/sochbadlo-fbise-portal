@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 1,
+  "chapterTitle": "Chapter 1: Stoichiometry & Quantitative Chemical Calculations",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "question": "The molar mass of NaCl is:",
+      "options": {
+        "A": "58 g/mol",
+        "B": "35.5 g/mol",
+        "C": "22.99 g/mol",
+        "D": "44.99 g/mol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '58 g/mol'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 1
+    },
+    {
+      "question": "The number of moles in 36 grams of water (H₂O) is:",
+      "options": {
+        "A": "1 mole",
+        "B": "2 moles",
+        "C": "3 moles",
+        "D": "0.5 moles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '1 mole'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 2
+    },
+    {
+      "question": "4 moles of Na react with chlorine to form NaCl. How many grams of NaCl will be produced? (Molar mass of NaCl = 58 g/mol)",
+      "options": {
+        "A": "116 g",
+        "B": "232 g",
+        "C": "58 g",
+        "D": "29 g"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '116 g'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 3
+    },
+    {
+      "question": "The limiting reagent in a reaction is the substance that:",
+      "options": {
+        "A": "Is completely consumed",
+        "B": "Remains in excess",
+        "C": "Does not participate in the reaction",
+        "D": "Is produced in the greatest quantity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Is completely consumed'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 4
+    },
+    {
+      "question": "In the reaction 2H₂ + O₂ → 2H₂O, if 4 moles of H₂ and 2 moles of O₂ are used, how many moles of H₂O will be formed?",
+      "options": {
+        "A": "4 moles",
+        "B": "2 moles",
+        "C": "1 mole",
+        "D": "6 moles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '4 moles'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 5
+    },
+    {
+      "question": "The empirical formula of a compound is CH₂O. If its molecular mass is 180 g/mol, the molecular formula is:",
+      "options": {
+        "A": "C₆H₁₂O₆",
+        "B": "CH₂O",
+        "C": "C₄H₈O₄",
+        "D": "C₃H₆O₃"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'C₆H₁₂O₆'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 6
+    },
+    {
+      "question": "0.25 moles of NaOH are dissolved in water to make 1 liter of solution. The molarity of NaOH is:",
+      "options": {
+        "A": "0.25 M",
+        "B": "1 M",
+        "C": "2 M",
+        "D": "0.5 M"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '0.25 M'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 7
+    },
+    {
+      "question": "What is the mole ratio of H₂ to O₂ in the reaction 2H₂ + O₂ → 2H₂O?",
+      "options": {
+        "A": "1:1",
+        "B": "2:1",
+        "C": "2:2",
+        "D": "1:2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '2:1'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 8
+    },
+    {
+      "question": "3 moles of oxygen (O₂) will react with how many moles of hydrogen (H₂) in the reaction 2H₂ + O₂ → 2H₂O?",
+      "options": {
+        "A": "6 moles",
+        "B": "3 moles",
+        "C": "2 moles",
+        "D": "1 mole"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '6 moles'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 9
+    },
+    {
+      "question": "The percentage composition of oxygen in water (H₂O) is:",
+      "options": {
+        "A": "33.3%",
+        "B": "66.6%",
+        "C": "50%",
+        "D": "80%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '66.6%'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 10
+    },
+    {
+      "question": "What volume of 0.5 M NaOH solution contains 2 moles of NaOH?",
+      "options": {
+        "A": "1 L",
+        "B": "2 L",
+        "C": "0.5 L",
+        "D": "0.25 L"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '2 L'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 11
+    },
+    {
+      "question": "The reaction 2Na + Cl₂ → 2NaCl produces how many grams of NaCl from 1 mole of Na and 1 mole of Cl₂?",
+      "options": {
+        "A": "58 g",
+        "B": "116 g",
+        "C": "29 g",
+        "D": "60 g"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '58 g'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 12
+    },
+    {
+      "question": "The molar volume of a gas at standard temperature and pressure (STP) is:",
+      "options": {
+        "A": "22.4 L",
+        "B": "12.1 L",
+        "C": "24.3 L",
+        "D": "36.2 L"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '22.4 L'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 13
+    },
+    {
+      "question": "The molar mass of calcium carbonate (CaCO₃) is:",
+      "options": {
+        "A": "100 g/mol",
+        "B": "150 g/mol",
+        "C": "200 g/mol",
+        "D": "120 g/mol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '100 g/mol'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 14
+    },
+    {
+      "question": "If 0.5 moles of NaOH react with HCl, how many moles of NaCl will be produced? (Balanced equation: NaOH + HCl → NaCl + H₂O)",
+      "options": {
+        "A": "0.5 moles",
+        "B": "1 mole",
+        "C": "2 moles",
+        "D": "0.25 moles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '0.5 moles'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 15
+    },
+    {
+      "question": "Which of the following is a stoichiometric calculation?",
+      "options": {
+        "A": "Finding the amount of energy released in a reaction",
+        "B": "Determining the pressure of a gas",
+        "C": "Finding the mass of a product formed",
+        "D": "Calculating the bond length of a molecule"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Finding the mass of a product formed'. CHCl₃ contains three halogen atoms attached to the same carbon\n                                                     CH₃CH₂CH₂O      CH₃CH₂CH₂B        CH₃CH₂CH₂N",
+      "id": 16
+    },
+    {
+      "question": "In a reaction, 2 moles of reactant A produces 3 moles of product B. If 6 moles of A are used, how many moles of B are formed?",
+      "options": {
+        "A": "6 moles",
+        "B": "9 moles",
+        "C": "12 moles",
+        "D": "4 moles"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '9 moles'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 17
+    },
+    {
+      "question": "In the reaction 2H₂ + O₂ → 2H₂O, how many grams of H₂ are required to form 18 g of water (H₂O)?",
+      "options": {
+        "A": "4 g",
+        "B": "9 g",
+        "C": "2 g",
+        "D": "1 g"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '4 g'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 18
+    },
+    {
+      "question": "What is the molar mass of sulfuric acid (H₂SO₄)?",
+      "options": {
+        "A": "98 g/mol",
+        "B": "102 g/mol",
+        "C": "92 g/mol",
+        "D": "88 g/mol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '98 g/mol'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 19
+    },
+    {
+      "question": "How many molecules are present in 1 mole of CO₂?",
+      "options": {
+        "A": "1.2 × 10²³",
+        "B": "6.022 × 10²³",
+        "C": "3.5 × 10²³",
+        "D": "1.5 × 10²³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '6.022 × 10²³'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 20
+    },
+    {
+      "question": "The molar mass of methane (CH₄) is:",
+      "options": {
+        "A": "16 g/mol",
+        "B": "18 g/mol",
+        "C": "14 g/mol",
+        "D": "20 g/mol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '16 g/mol'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 21
+    },
+    {
+      "question": "In the reaction 2H₂ + O₂ → 2H₂O, how many grams of oxygen are required to react with 4 moles of hydrogen?",
+      "options": {
+        "A": "32 g",
+        "B": "64 g",
+        "C": "16 g",
+        "D": "8 g"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '32 g'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 22
+    },
+    {
+      "question": "The molarity of a solution containing 10 moles of NaOH in 2 liters of solution is:",
+      "options": {
+        "A": "5 M",
+        "B": "2 M",
+        "C": "1 M",
+        "D": "0.5 M"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '5 M'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 23
+    },
+    {
+      "question": "In a balanced chemical equation, the coefficients represent:",
+      "options": {
+        "A": "Moles of molecules involved",
+        "B": "Number of atoms involved",
+        "C": "Volume of gases involved",
+        "D": "Pressure of reactants"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Moles of molecules involved'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 24
+    },
+    {
+      "question": "0.1 moles of NaOH is dissolved in 250 mL of solution. The molarity is:",
+      "options": {
+        "A": "0.4 M",
+        "B": "0.25 M",
+        "C": "0.5 M",
+        "D": "0.1 M"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '0.25 M'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 25
+    },
+    {
+      "question": "The number of moles in 88 grams of CO₂ is:",
+      "options": {
+        "A": "1 mole",
+        "B": "2 moles",
+        "C": "3 moles",
+        "D": "0.5 moles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '1 mole'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 26
+    },
+    {
+      "question": "How many moles of H₂O are produced when 2 moles of H₂ react with 1 mole of O₂?",
+      "options": {
+        "A": "1 mole",
+        "B": "2 moles",
+        "C": "3 moles",
+        "D": "4 moles"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '2 moles'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 27
+    },
+    {
+      "question": "If 1 mole of oxygen reacts with 2 moles of hydrogen, how many grams of water (H₂O) will be produced?",
+      "options": {
+        "A": "18 g",
+        "B": "36 g",
+        "C": "9 g",
+        "D": "28 g"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '18 g'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 28
+    },
+    {
+      "question": "What is the volume of 1 mole of an ideal gas at STP?",
+      "options": {
+        "A": "11.2 L",
+        "B": "22.4 L",
+        "C": "24.3 L",
+        "D": "30.0 L"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '22.4 L'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 29
+    },
+    {
+      "question": "The empirical formula of a compound is CH₃. Its molecular mass is 46 g/mol. What is the molecular formula?",
+      "options": {
+        "A": "C₂H₆",
+        "B": "CH₄",
+        "C": "C₃H₆",
+        "D": "C₆H₁₈"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'C₂H₆'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 30
+    },
+    {
+      "question": "In a reaction, 2 moles of reactant A produce 4 moles of product B. How many grams of B will be formed from 5 moles of A?",
+      "options": {
+        "A": "5 g",
+        "B": "10 g",
+        "C": "20 g",
+        "D": "40 g"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '20 g'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 31
+    },
+    {
+      "question": "Which of the following is the correct mole-to-mole ratio for the reaction 4Fe + 3O₂ → 2Fe₂O₃?",
+      "options": {
+        "A": "4:3",
+        "B": "4:2",
+        "C": "3:4",
+        "D": "2:3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '4:3'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 32
+    },
+    {
+      "question": "0.5 moles of NaCl are dissolved in 1 liter of water. The molarity is:",
+      "options": {
+        "A": "0.5 M",
+        "B": "2 M",
+        "C": "1 M",
+        "D": "0.25 M"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '0.5 M'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 33
+    },
+    {
+      "question": "The number of molecules in 2 moles of CO₂ is:",
+      "options": {
+        "A": "6.022 × 10²³",
+        "B": "1.2 × 10²³",
+        "C": "2.4 × 10²³",
+        "D": "12.044 × 10²³"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '2.4 × 10²³'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 34
+    },
+    {
+      "question": "If 3 moles of hydrogen gas react with excess oxygen, how many grams of water will be formed?",
+      "options": {
+        "A": "18 g",
+        "B": "36 g",
+        "C": "9 g",
+        "D": "54 g"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '36 g'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 35
+    },
+    {
+      "question": "What is the number of atoms in 2 moles of oxygen gas (O₂)?",
+      "options": {
+        "A": "6.022 × 10²³",
+        "B": "3.011 × 10²³",
+        "C": "1.204 × 10²³",
+        "D": "12.044 × 10²³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '3.011 × 10²³'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 36
+    },
+    {
+      "question": "The volume of 1.5 moles of an ideal gas at STP is:",
+      "options": {
+        "A": "22.4 L",
+        "B": "33.6 L",
+        "C": "44.8 L",
+        "D": "11.2 L"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '33.6 L'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 37
+    },
+    {
+      "question": "The formula for calculating the number of moles is:",
+      "options": {
+        "A": "moles = mass × molar mass",
+        "B": "moles = mass ÷ molar mass",
+        "C": "moles = volume × molarity",
+        "D": "moles = moles ÷ volume"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'moles = mass ÷ molar mass'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 38
+    },
+    {
+      "question": "What is the molar mass of nitrogen gas (N₂)?",
+      "options": {
+        "A": "28 g/mol",
+        "B": "14 g/mol",
+        "C": "56 g/mol",
+        "D": "7 g/mol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '28 g/mol'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 39
+    },
+    {
+      "question": "The molarity of a solution prepared by dissolving 4 moles of KOH in 2 liters of solution is:",
+      "options": {
+        "A": "2 M",
+        "B": "0.5 M",
+        "C": "4 M",
+        "D": "8 M"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '2 M'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 40
+    },
+    {
+      "question": "How many grams of NaCl are present in 2 moles of NaCl?",
+      "options": {
+        "A": "58 g",
+        "B": "116 g",
+        "C": "29 g",
+        "D": "72 g"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '116 g'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 41
+    },
+    {
+      "question": "In a reaction, if 4 moles of A react with 3 moles of B, how many moles of C will be produced if the ratio is 2A + 3B → 4C?",
+      "options": {
+        "A": "3 moles",
+        "B": "6 moles",
+        "C": "4 moles",
+        "D": "8 moles"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '6 moles'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 42
+    },
+    {
+      "question": "The molar mass of sodium sulfate (Na₂SO₄) is:",
+      "options": {
+        "A": "142 g/mol",
+        "B": "96 g/mol",
+        "C": "120 g/mol",
+        "D": "56 g/mol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '142 g/mol'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 43
+    },
+    {
+      "question": "How many moles of oxygen are required to react with 8 moles of hydrogen in the reaction 2H₂ + O₂ → 2H₂O?",
+      "options": {
+        "A": "8 moles",
+        "B": "2 moles",
+        "C": "4 moles",
+        "D": "16 moles"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '4 moles'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 44
+    },
+    {
+      "question": "What volume of CO₂ gas will be produced from 2 moles of C₆H₁₂O₆ in the reaction C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O? (At STP)",
+      "options": {
+        "A": "22.4 L",
+        "B": "44.8 L",
+        "C": "33.6 L",
+        "D": "12.8 L"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '44.8 L'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 45
+    },
+    {
+      "question": "If 10 grams of NaOH are dissolved in water to make 0.5 liters of solution, what is the molarity? (Molar mass of NaOH = 40 g/mol)",
+      "options": {
+        "A": "0.5 M",
+        "B": "1 M",
+        "C": "2 M",
+        "D": "0.25 M"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '0.5 M'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 46
+    },
+    {
+      "question": "What is the percentage composition of hydrogen in methane (CH₄)?",
+      "options": {
+        "A": "25%",
+        "B": "50%",
+        "C": "75%",
+        "D": "80%"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '75%'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 47
+    },
+    {
+      "question": "How many moles of H₂O will be produced when 5 moles of H₂ react with excess oxygen in the reaction 2H₂ + O₂ → 2H₂O?",
+      "options": {
+        "A": "10 moles",
+        "B": "5 moles",
+        "C": "2.5 moles",
+        "D": "20 moles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '10 moles'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 48
+    },
+    {
+      "question": "What is the empirical formula of a compound with 40% carbon, 6.7% hydrogen, and 53.3% oxygen?",
+      "options": {
+        "A": "CH₂O",
+        "B": "C₂H₆O",
+        "C": "CH₄O₂",
+        "D": "C₄H₁₂O₂"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'CH₂O'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 49
+    },
+    {
+      "question": "The volume of 1 mole of an ideal gas at STP is:",
+      "options": {
+        "A": "10.6 L",
+        "B": "22.4 L",
+        "C": "33.6 L",
+        "D": "44.8 L"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '22.4 L'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 50
+    }
+  ],
+  "subject": "chemistry"
+}

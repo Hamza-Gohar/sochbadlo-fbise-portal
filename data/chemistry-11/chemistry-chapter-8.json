@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 8,
+  "chapterTitle": "Chapter 8: Acids, Bases, pH & Ionic Equilibria",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "question": "A strong acid dissociates:",
+      "options": {
+        "A": "Partially",
+        "B": "Completely",
+        "C": "Slowly",
+        "D": "Not at all"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Completely'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 1
+    },
+    {
+      "question": "The pH of a neutral solution at 25°C is:",
+      "options": {
+        "A": "0",
+        "B": "7",
+        "C": "14",
+        "D": "1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '7'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 2
+    },
+    {
+      "question": "The acid dissociation constant (Ka) is a measure of:",
+      "options": {
+        "A": "Acid strength",
+        "B": "Acid concentration",
+        "C": "Base strength",
+        "D": "Base concentration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Acid strength'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 3
+    },
+    {
+      "question": "A substance that can donate a proton (H⁺) is called a:",
+      "options": {
+        "A": "Base",
+        "B": "Acid",
+        "C": "Salt",
+        "D": "Neutral"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Acid'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 4
+    },
+    {
+      "question": "In a strong acid-strong base reaction, the pH of the solution will be:",
+      "options": {
+        "A": "Less than 7",
+        "B": "Equal to 7",
+        "C": "Greater than 7",
+        "D": "Depends on the concentration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Equal to 7'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 5
+    },
+    {
+      "question": "The pH of a solution can be calculated using:",
+      "options": {
+        "A": "pH = -log[H⁺]",
+        "B": "pH = log[H⁺]",
+        "C": "pH = -log[OH⁻]",
+        "D": "pH = log[OH⁻]"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'pH = -log[H⁺]'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 6
+    },
+    {
+      "question": "The conjugate base of HCl is:",
+      "options": {
+        "A": "Cl⁻",
+        "B": "H₃O⁺",
+        "C": "HCl₂",
+        "D": "H₂Cl⁻"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Cl⁻'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 7
+    },
+    {
+      "question": "A buffer solution resists changes in pH when:",
+      "options": {
+        "A": "Diluted",
+        "B": "Acid is added",
+        "C": "Base is added",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'All of the above'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 8
+    },
+    {
+      "question": "Which of the following is a weak acid?",
+      "options": {
+        "A": "HCl",
+        "B": "HNO₃",
+        "C": "CH₃COOH",
+        "D": "H₂SO₄"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'CH₃COOH'. CHCl₃ contains three halogen atoms attached to the same carbon\n                                                     CH₃CH₂CH₂O      CH₃CH₂CH₂B        CH₃CH₂CH₂N",
+      "id": 9
+    },
+    {
+      "question": "The pKa of an acid is the pH at which:",
+      "options": {
+        "A": "The acid is 100% dissociated",
+        "B": "The acid is 50% dissociated",
+        "C": "The acid is completely neutralized",
+        "D": "The base is neutralized"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'The acid is 50% dissociated'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 10
+    },
+    {
+      "question": "A solution with pH = 3 is:",
+      "options": {
+        "A": "Neutral",
+        "B": "Acidic",
+        "C": "Basic",
+        "D": "Cannot be determined"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Acidic'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 11
+    },
+    {
+      "question": "In a neutralization reaction, an acid reacts with a base to form:",
+      "options": {
+        "A": "Water and a salt",
+        "B": "Water and carbon dioxide",
+        "C": "Salt and oxygen",
+        "D": "Salt and hydrogen gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Water and a salt'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 12
+    },
+    {
+      "question": "The stronger the acid, the:",
+      "options": {
+        "A": "Lower the pKa",
+        "B": "Higher the pKa",
+        "C": "Higher the pH",
+        "D": "Weaker the conjugate base"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Lower the pKa'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 13
+    },
+    {
+      "question": "Which of the following is a Lewis acid?",
+      "options": {
+        "A": "NH₃",
+        "B": "H₂O",
+        "C": "BF₃",
+        "D": "CH₄"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'BF₃'. CHCl₃ contains three halogen atoms attached to the same carbon\n                                                     CH₃CH₂CH₂O      CH₃CH₂CH₂B        CH₃CH₂CH₂N",
+      "id": 14
+    },
+    {
+      "question": "The conjugate acid of NH₃ is:",
+      "options": {
+        "A": "NH₂⁻",
+        "B": "NH₄⁺",
+        "C": "NH₃",
+        "D": "H₂O"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'NH₄⁺'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 15
+    },
+    {
+      "question": "The pOH of a solution is related to the pH by the equation:",
+      "options": {
+        "A": "pOH = 14 - pH",
+        "B": "pOH = pH + 14",
+        "C": "pOH = pH",
+        "D": "pOH = 7 - pH"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'pOH = 14 - pH'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 16
+    },
+    {
+      "question": "A solution with pOH = 4 has a pH of:",
+      "options": {
+        "A": "10",
+        "B": "7",
+        "C": "9",
+        "D": "4"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '9'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 17
+    },
+    {
+      "question": "The hydronium ion concentration in a solution with pH = 5 is:",
+      "options": {
+        "A": "1 × 10⁻⁵ M",
+        "B": "1 × 10⁻⁶ M",
+        "C": "1 × 10⁴ M",
+        "D": "1 × 10⁻³ M"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '1 × 10⁻⁵ M'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 18
+    },
+    {
+      "question": "The common ion effect refers to:",
+      "options": {
+        "A": "The increase in solubility due to a common ion",
+        "B": "The decrease in solubility due to a common ion",
+        "C": "The neutralization of acids by bases",
+        "D": "The dissociation of weak acids in water"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'The decrease in solubility due to a common ion'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 19
+    },
+    {
+      "question": "The Kw of water at 25°C is:",
+      "options": {
+        "A": "1 × 10⁻¹⁴",
+        "B": "1 × 10⁻⁷",
+        "C": "1 × 10⁻⁹",
+        "D": "1 × 10⁻¹²"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '1 × 10⁻¹⁴'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 20
+    },
+    {
+      "question": "The pH of a buffer solution is most affected by:",
+      "options": {
+        "A": "Acid concentration",
+        "B": "Base concentration",
+        "C": "Temperature",
+        "D": "Volume of the solution"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Temperature'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 21
+    },
+    {
+      "question": "The conjugate base of H₂SO₄ is:",
+      "options": {
+        "A": "SO₄²⁻",
+        "B": "HSO₄⁻",
+        "C": "H₂SO₄²⁻",
+        "D": "SO₄⁻"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'HSO₄⁻'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 22
+    },
+    {
+      "question": "A strong acid in water produces:",
+      "options": {
+        "A": "Weak conjugate base",
+        "B": "Strong conjugate base",
+        "C": "No conjugate base",
+        "D": "Neutral conjugate base"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Weak conjugate base'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 23
+    },
+    {
+      "question": "In a titration of a weak acid with a strong base, the pH at the equivalence point is:",
+      "options": {
+        "A": "Less than 7",
+        "B": "Equal to 7",
+        "C": "Greater than 7",
+        "D": "Depends on the acid"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Greater than 7'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 24
+    },
+    {
+      "question": "The buffer capacity is strongest when:",
+      "options": {
+        "A": "The pH equals pKa",
+        "B": "The acid concentration is much higher than the base",
+        "C": "The base concentration is much higher than the acid",
+        "D": "The concentration of buffer components is low"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'The pH equals pKa'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 25
+    },
+    {
+      "question": "Which of the following is a strong base?",
+      "options": {
+        "A": "NH₃",
+        "B": "NaOH",
+        "C": "CH₃NH₂",
+        "D": "C₂H₅OH"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'NaOH'. CHCl₃ contains three halogen atoms attached to the same carbon\n                                                     CH₃CH₂CH₂O      CH₃CH₂CH₂B        CH₃CH₂CH₂N",
+      "id": 26
+    },
+    {
+      "question": "The conjugate base of H₂CO₃ is:",
+      "options": {
+        "A": "HCO₃⁻",
+        "B": "CO₃²⁻",
+        "C": "H₂CO₃⁻",
+        "D": "CO₂"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'HCO₃⁻'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 27
+    },
+    {
+      "question": "A weak base among the following is:",
+      "options": {
+        "A": "KOH",
+        "B": "Ba(OH)₂",
+        "C": "NH₃",
+        "D": "NaOH"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'NH₃'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 28
+    },
+    {
+      "question": "When an acid reacts with a base, the products are:",
+      "options": {
+        "A": "Salt and water",
+        "B": "Water only",
+        "C": "Salt only",
+        "D": "Gas only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Salt and water'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 29
+    },
+    {
+      "question": "Which of the following is an amphiprotic species?",
+      "options": {
+        "A": "OH⁻",
+        "B": "HCO₃⁻",
+        "C": "Cl⁻",
+        "D": "SO₄²⁻"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'HCO₃⁻'. CHCl₃ contains three halogen atoms attached to the same carbon\n                                                     CH₃CH₂CH₂O      CH₃CH₂CH₂B        CH₃CH₂CH₂N",
+      "id": 30
+    },
+    {
+      "question": "The stronger the acid, the _____ its conjugate base.",
+      "options": {
+        "A": "Stronger",
+        "B": "Weaker",
+        "C": "More reactive",
+        "D": "Less reactive"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Weaker'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 31
+    },
+    {
+      "question": "Which of these is NOT a characteristic of bases?",
+      "options": {
+        "A": "Slippery touch",
+        "B": "Sour taste",
+        "C": "Bitter taste",
+        "D": "Turns red litmus blue"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Sour taste'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 32
+    },
+    {
+      "question": "Which acid is present in vinegar?",
+      "options": {
+        "A": "Hydrochloric acid",
+        "B": "Nitric acid",
+        "C": "Acetic acid",
+        "D": "Sulfuric acid"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Acetic acid'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 33
+    },
+    {
+      "question": "In self-ionization of water, one water molecule acts as:",
+      "options": {
+        "A": "Only an acid",
+        "B": "Only a base",
+        "C": "Both acid and base",
+        "D": "Neither acid nor base"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Both acid and base'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 34
+    },
+    {
+      "question": "The strength of an acid is determined by:",
+      "options": {
+        "A": "The number of hydrogen atoms",
+        "B": "Its ability to donate protons",
+        "C": "Its molecular size",
+        "D": "Its color"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Its ability to donate protons'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 35
+    },
+    {
+      "question": "An acid which partially dissociates in water is called:",
+      "options": {
+        "A": "Strong acid",
+        "B": "Weak acid",
+        "C": "Concentrated acid",
+        "D": "Dilute acid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Weak acid'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 36
+    },
+    {
+      "question": "The unit of pH is:",
+      "options": {
+        "A": "Molarity",
+        "B": "Mole",
+        "C": "No unit",
+        "D": "Pascal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'No unit'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 37
+    },
+    {
+      "question": "Which of the following acids is dibasic?",
+      "options": {
+        "A": "HCl",
+        "B": "H₂SO₄",
+        "C": "HNO₃",
+        "D": "CH₃COOH"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'H₂SO₄'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 38
+    },
+    {
+      "question": "Which of the following bases is weak?",
+      "options": {
+        "A": "NaOH",
+        "B": "KOH",
+        "C": "Ca(OH)₂",
+        "D": "NH₃"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'NH₃'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 39
+    },
+    {
+      "question": "The ion responsible for acidic character is:",
+      "options": {
+        "A": "OH⁻",
+        "B": "Cl⁻",
+        "C": "H⁺",
+        "D": "Na⁺"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'H⁺'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 40
+    },
+    {
+      "question": "What happens to the pH of an acidic solution when it is diluted?",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains same",
+        "D": "Becomes neutral"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Increases'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 41
+    },
+    {
+      "question": "An acid which contains more than one replaceable hydrogen ion is called:",
+      "options": {
+        "A": "Monobasic acid",
+        "B": "Dibasic acid",
+        "C": "Polyprotic acid",
+        "D": "Non-protic acid"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Polyprotic acid'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 42
+    },
+    {
+      "question": "The acid used in car batteries is:",
+      "options": {
+        "A": "Hydrochloric acid",
+        "B": "Sulfuric acid",
+        "C": "Acetic acid",
+        "D": "Nitric acid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Sulfuric acid'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 43
+    },
+    {
+      "question": "Neutralization reaction is:",
+      "options": {
+        "A": "Endothermic",
+        "B": "Exothermic",
+        "C": "Neither",
+        "D": "Both"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Exothermic'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 44
+    },
+    {
+      "question": "Which of the following substances can act both as an acid and a base?",
+      "options": {
+        "A": "H₂SO₄",
+        "B": "NH₃",
+        "C": "H₂O",
+        "D": "HCl"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'H₂O'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 45
+    },
+    {
+      "question": "The base used in the manufacture of soap is:",
+      "options": {
+        "A": "NaOH",
+        "B": "HCl",
+        "C": "H₂SO₄",
+        "D": "CH₃COOH"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'NaOH'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 46
+    },
+    {
+      "question": "The acid rain is mainly due to:",
+      "options": {
+        "A": "CO₂",
+        "B": "SO₂ and NO₂",
+        "C": "CH₄",
+        "D": "O₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'SO₂ and NO₂'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 47
+    },
+    {
+      "question": "What color does blue litmus paper turn in an acid?",
+      "options": {
+        "A": "Blue",
+        "B": "Red",
+        "C": "Yellow",
+        "D": "Green"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Red'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 48
+    },
+    {
+      "question": "Bronsted-Lowry definition of base involves:",
+      "options": {
+        "A": "Accepting a proton",
+        "B": "Donating a proton",
+        "C": "Accepting an electron",
+        "D": "Donating an electron"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Accepting a proton'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 49
+    },
+    {
+      "question": "The strength of a base depends on its ability to:",
+      "options": {
+        "A": "Accept protons",
+        "B": "Donate protons",
+        "C": "Accept electrons",
+        "D": "Donate electrons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Accept protons'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 50
+    }
+  ],
+  "subject": "chemistry"
+}

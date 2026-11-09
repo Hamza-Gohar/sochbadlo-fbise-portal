@@ -1,0 +1,212 @@
+{
+  "chapterNumber": 16,
+  "chapterTitle": "Annual Board Examination Section A Simulator 1 (FBISE Class 11 Biology)",
+  "totalQuestions": 17,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Who discovered the cell?",
+      "options": {
+        "A": "Robert Koch",
+        "B": "Robert Hooke",
+        "C": "Anton van Leeuwenhoek",
+        "D": "Rudolf Virchow"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Robert Hooke'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 2,
+      "question": "Organisms with no true nucleus are:",
+      "options": {
+        "A": "Animals",
+        "B": "Fungi",
+        "C": "Bacteria",
+        "D": "Plants"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Bacteria'. In cell biology, structure directly correlates with cellular function as defined by the Cell Theory and electron microscopy observations."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is not a type of point mutation?",
+      "options": {
+        "A": "Silent mutation",
+        "B": "Missense mutation",
+        "C": "Nonsense mutation",
+        "D": "Frameshift mutation"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Frameshift mutation'. Biological macromolecules (carbohydrates, lipids, proteins, and nucleic acids) serve essential structural, catalytic, and genetic functions in living systems."
+    },
+    {
+      "id": 4,
+      "question": "Effect of enzyme concentration is visible when:",
+      "options": {
+        "A": "Substrate is absent",
+        "B": "Substrate is limiting",
+        "C": "Substrate is in excess",
+        "D": "Enzyme is absent"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Substrate is in excess'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 5,
+      "question": "Aerobic respiration requires:",
+      "options": {
+        "A": "CO₂",
+        "B": "O₂",
+        "C": "N₂",
+        "D": "H₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'O₂'. Bioenergetics encompasses photochemical and biochemical pathways of energy transformation, including ATP synthesis during photosynthesis and cellular respiration."
+    },
+    {
+      "id": 6,
+      "question": "Viral replication occurs in:",
+      "options": {
+        "A": "Cytoplasm only",
+        "B": "Nucleus only",
+        "C": "Outside the host",
+        "D": "Inside host cell"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Inside host cell'. Acellular biological entities such as viruses and prions lack independent cellular metabolism and replicate obligately within susceptible host cells."
+    },
+    {
+      "id": 7,
+      "question": "Bacteria that live in extreme environments are:",
+      "options": {
+        "A": "Cyanobacteria",
+        "B": "Archaebacteria",
+        "C": "Protists",
+        "D": "Actinomycetes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Archaebacteria'. Prokaryotes (Bacteria and Archaea) feature nucleoid genetic regions, peptidoglycan cell walls, and binary fission without membrane-bound organelles."
+    },
+    {
+      "id": 8,
+      "question": "Volvox is an example of:",
+      "options": {
+        "A": "Unicellular algae",
+        "B": "Colonial algae",
+        "C": "Multicellular fungi",
+        "D": "Protozoa"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Colonial algae'. Kingdom Protista represents diverse eukaryotic microorganisms, while Fungi exhibit chitinous cell walls, hyphal structures, and absorptive heterotrophic nutrition."
+    },
+    {
+      "id": 9,
+      "question": "Phloem transports:",
+      "options": {
+        "A": "Water",
+        "B": "Minerals",
+        "C": "Food",
+        "D": "Hormones"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Food'. Plant evolution demonstrates progressive adaptations from non-vascular bryophytes to vascular, seed-bearing gymnosperms and flowering angiosperms."
+    },
+    {
+      "id": 10,
+      "question": "The opening and closing of stomata are controlled by:",
+      "options": {
+        "A": "Guard cells",
+        "B": "Epidermal cells",
+        "C": "Mesophyll cells",
+        "D": "Xylem"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Guard cells'. Plant evolution demonstrates progressive adaptations from non-vascular bryophytes to vascular, seed-bearing gymnosperms and flowering angiosperms."
+    },
+    {
+      "id": 11,
+      "question": "The hormone responsible for fruit ripening is:",
+      "options": {
+        "A": "Auxin",
+        "B": "Cytokinin",
+        "C": "Ethylene",
+        "D": "Gibberellin"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Ethylene'. Plant physiological mechanisms govern stomatal opening, transpiration pull, xylem water conduction, and phloem pressure-flow translocation."
+    },
+    {
+      "id": 12,
+      "question": "The wings of birds are modified:",
+      "options": {
+        "A": "Legs",
+        "B": "Forelimbs",
+        "C": "Tails",
+        "D": "Antennae"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Forelimbs'. Kingdom Animalia encompasses diverse invertebrate and vertebrate phyla exhibiting bilateral/radial symmetry, coelomic organization, and organ system specialization."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following organisms reproduces by budding?",
+      "options": {
+        "A": "Paramecium",
+        "B": "Euglena",
+        "C": "Amoeba",
+        "D": "Yeast"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Yeast'. Reproduction ensures species continuity through sexual and asexual modes, gametogenesis, fertilization, and embryonic development."
+    },
+    {
+      "id": 14,
+      "question": "Genes are located on:",
+      "options": {
+        "A": "Ribosomes",
+        "B": "Nucleus",
+        "C": "Chromosomes",
+        "D": "DNA"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Chromosomes'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 15,
+      "question": "The sex chromosomes in male are:",
+      "options": {
+        "A": "XX",
+        "B": "XY",
+        "C": "YY",
+        "D": "X"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'XY'. Chromosomal structure, nucleosomes, semi-conservative DNA replication, and gene expression (transcription and translation) govern molecular inheritance."
+    },
+    {
+      "id": 16,
+      "question": "Which of these shows evolution in modern times?",
+      "options": {
+        "A": "Horse evolution",
+        "B": "Antibiotic resistance",
+        "C": "Dinosaur extinction",
+        "D": "Water cycle"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Antibiotic resistance'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is a biotic factor?",
+      "options": {
+        "A": "Water",
+        "B": "Soil",
+        "C": "Light",
+        "D": "Plants"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Plants'. Ecology studies interactions between biotic communities and abiotic factors across trophic levels, food webs, ecological pyramids, and biogeochemical cycles."
+    }
+  ],
+  "subject": "biology"
+}

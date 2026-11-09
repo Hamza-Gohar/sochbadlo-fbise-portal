@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 3,
+  "chapterTitle": "Chapter 3: Enzymes",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Enzymes are biologically active:",
+      "options": {
+        "A": "Lipids",
+        "B": "Carbohydrates",
+        "C": "Proteins",
+        "D": "Nucleic acids"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Proteins'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 2,
+      "question": "The substance upon which an enzyme acts is called:",
+      "options": {
+        "A": "Product",
+        "B": "Substrate",
+        "C": "Catalyst",
+        "D": "Coenzyme"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Substrate'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 3,
+      "question": "The region of an enzyme where the substrate binds is called:",
+      "options": {
+        "A": "Passive site",
+        "B": "Catalytic site",
+        "C": "Active site (More specific Binding site)",
+        "D": "Substrate pocket"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Active site (More specific Binding site)'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is not true about enzymes?",
+      "options": {
+        "A": "They are reusable",
+        "B": "They are consumed in reactions",
+        "C": "They lower activation energy",
+        "D": "They are specific"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'They are consumed in reactions'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following affects enzyme activity?",
+      "options": {
+        "A": "Temperature",
+        "B": "pH",
+        "C": "Substrate concentration",
+        "D": "All of these"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'All of these'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 6,
+      "question": "Optimum temperature for human enzymes is around:",
+      "options": {
+        "A": "10°C",
+        "B": "25°C",
+        "C": "37°C",
+        "D": "50°C"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '37°C'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 7,
+      "question": "Extreme pH can:",
+      "options": {
+        "A": "Activate enzymes",
+        "B": "Enhance product formation",
+        "C": "Denature enzymes",
+        "D": "Replace substrate"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Denature enzymes'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 8,
+      "question": "Enzymes speed up reactions by:",
+      "options": {
+        "A": "Increasing energy",
+        "B": "Raising activation energy",
+        "C": "Lowering activation energy",
+        "D": "Providing ATP"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Lowering activation energy'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following acts as a coenzyme?",
+      "options": {
+        "A": "Water",
+        "B": "NAD+",
+        "C": "Glucose",
+        "D": "DNA"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'NAD+'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 10,
+      "question": "Inhibitors that bind to the active site are called:",
+      "options": {
+        "A": "Allosteric inhibitors",
+        "B": "Non-competitive inhibitors",
+        "C": "Competitive inhibitors",
+        "D": "Reverse inhibitors"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Competitive inhibitors'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 11,
+      "question": "Which factor does not directly affect enzyme activity?",
+      "options": {
+        "A": "Temperature",
+        "B": "Light",
+        "C": "pH",
+        "D": "Substrate concentration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Light'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 12,
+      "question": "Enzyme + Substrate →",
+      "options": {
+        "A": "Product only",
+        "B": "Enzyme-substrate complex",
+        "C": "Product + enzyme-substrate",
+        "D": "Substrate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Enzyme-substrate complex'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 13,
+      "question": "Most enzymes are named by adding the suffix “-ase” to the name of:",
+      "options": {
+        "A": "Product",
+        "B": "Enzyme",
+        "C": "Substrate",
+        "D": "Protein"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Substrate'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 14,
+      "question": "Which statement is incorrect about enzymes?",
+      "options": {
+        "A": "They speed up chemical reactions",
+        "B": "They are consumed during reaction",
+        "C": "They are highly specific",
+        "D": "They are sensitive to environmental conditions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'They are consumed during reaction'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 15,
+      "question": "Which enzyme breaks down hydrogen peroxide?",
+      "options": {
+        "A": "Amylase",
+        "B": "Catalase",
+        "C": "Lipase",
+        "D": "Pepsin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Catalase'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 16,
+      "question": "Digestive enzymes act best at:",
+      "options": {
+        "A": "Low temperatures",
+        "B": "Neutral pH",
+        "C": "Body temperature",
+        "D": "Very high temperatures"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Body temperature'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 17,
+      "question": "Pepsin works best in:",
+      "options": {
+        "A": "Alkaline pH",
+        "B": "Acidic pH",
+        "C": "Neutral pH",
+        "D": "Basic pH"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Acidic pH'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 18,
+      "question": "A non-protein part essential for enzyme function is called:",
+      "options": {
+        "A": "Catalyst",
+        "B": "Inhibitor",
+        "C": "Coenzyme",
+        "D": "Isotope"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Coenzyme'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 19,
+      "question": "The term ‘apoenzyme’ refers to:",
+      "options": {
+        "A": "A cofactor",
+        "B": "A complete enzyme",
+        "C": "Inactive protein portion of enzyme",
+        "D": "Enzyme inhibitor"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Inactive protein portion of enzyme'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 20,
+      "question": "The complete active enzyme is called:",
+      "options": {
+        "A": "Apoenzyme",
+        "B": "Holoenzyme",
+        "C": "Prosthetic group",
+        "D": "Inhibitor"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Holoenzyme'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 21,
+      "question": "Allosteric site is the site:",
+      "options": {
+        "A": "That binds the product",
+        "B": "Where substrate binds",
+        "C": "Other than the active site",
+        "D": "That breaks enzyme"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Other than the active site'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 22,
+      "question": "An enzyme works by binding with a substrate to form:",
+      "options": {
+        "A": "A molecule",
+        "B": "A product",
+        "C": "A complex",
+        "D": "ATP"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'A complex'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 23,
+      "question": "Which enzyme helps digest proteins?",
+      "options": {
+        "A": "Lipase",
+        "B": "Amylase",
+        "C": "Pepsin",
+        "D": "Maltase"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Pepsin'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 24,
+      "question": "Amylase digests:",
+      "options": {
+        "A": "Proteins",
+        "B": "Carbohydrates",
+        "C": "Lipids",
+        "D": "DNA"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Carbohydrates'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 25,
+      "question": "Lipase breaks down:",
+      "options": {
+        "A": "Proteins",
+        "B": "Sugars",
+        "C": "Fats",
+        "D": "Nucleic acids"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Fats'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 26,
+      "question": "The action of enzyme is:",
+      "options": {
+        "A": "Reversible",
+        "B": "Irreversible",
+        "C": "Random",
+        "D": "None"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Reversible'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 27,
+      "question": "Which is not a characteristic of enzymes?",
+      "options": {
+        "A": "Specificity",
+        "B": "Catalytic activity",
+        "C": "Destructive nature",
+        "D": "Reusability"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Destructive nature'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 28,
+      "question": "Which is a digestive enzyme?",
+      "options": {
+        "A": "Hemoglobin",
+        "B": "Pepsin",
+        "C": "Insulin",
+        "D": "Myosin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Pepsin'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 29,
+      "question": "What is the product of lipase action on fat?",
+      "options": {
+        "A": "Amino acids",
+        "B": "Glucose",
+        "C": "Fatty acids and glycerol",
+        "D": "Nucleotides"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Fatty acids and glycerol'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is a protein-digesting enzyme?",
+      "options": {
+        "A": "Sucrase",
+        "B": "Trypsin",
+        "C": "Amylase",
+        "D": "Lactase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Trypsin'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 31,
+      "question": "Denaturation of enzymes results in loss of:",
+      "options": {
+        "A": "Substrate",
+        "B": "Function",
+        "C": "Products",
+        "D": "Cofactor"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Function'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 32,
+      "question": "Which is a hydrolytic enzyme?",
+      "options": {
+        "A": "Catalase",
+        "B": "Pepsin",
+        "C": "Urease",
+        "D": "Hexokinase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Pepsin'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 33,
+      "question": "Effect of enzyme concentration is visible when:",
+      "options": {
+        "A": "Substrate is absent",
+        "B": "Substrate is limiting",
+        "C": "Substrate is in excess",
+        "D": "Enzyme is absent"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Substrate is in excess'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 34,
+      "question": "Which enzyme helps in DNA replication?",
+      "options": {
+        "A": "RNA polymerase",
+        "B": "DNA ligase",
+        "C": "DNA polymerase",
+        "D": "Helicase"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'DNA polymerase'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 35,
+      "question": "What happens to enzyme activity at very high temperatures?",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Becomes optimal",
+        "D": "Denatures"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Denatures'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 36,
+      "question": "Feedback inhibition in enzymes is due to:",
+      "options": {
+        "A": "Substrate",
+        "B": "Enzyme itself",
+        "C": "End product",
+        "D": "Coenzyme"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'End product'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 37,
+      "question": "Name the enzyme that breaks down proteins in the small intestine:",
+      "options": {
+        "A": "Amylase",
+        "B": "Trypsin",
+        "C": "Lipase",
+        "D": "Catalase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Trypsin'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 38,
+      "question": "Which enzyme is active in saliva?",
+      "options": {
+        "A": "Pepsin",
+        "B": "Amylase",
+        "C": "Lipase",
+        "D": "Lactase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Amylase'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 39,
+      "question": "Which part of enzyme interacts with substrate?",
+      "options": {
+        "A": "Active site",
+        "B": "Cofactor",
+        "C": "Holoenzyme",
+        "D": "Allosteric site"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Active site'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 40,
+      "question": "Which is true about enzymes?",
+      "options": {
+        "A": "Work at any pH",
+        "B": "Are consumed in reaction",
+        "C": "Can be denatured",
+        "D": "Are lipids"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Can be denatured'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 41,
+      "question": "Coenzymes are usually derived from:",
+      "options": {
+        "A": "Carbohydrates",
+        "B": "Proteins",
+        "C": "Vitamins",
+        "D": "Nucleic acids"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Vitamins'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 42,
+      "question": "Induced fit model explains:",
+      "options": {
+        "A": "Enzyme inhibition",
+        "B": "Enzyme denaturation",
+        "C": "Substrate binding",
+        "D": "pH effect"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Substrate binding'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 43,
+      "question": "An example of an intracellular enzyme is:",
+      "options": {
+        "A": "Pepsin",
+        "B": "Catalase",
+        "C": "Trypsin",
+        "D": "Amylase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Catalase'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 44,
+      "question": "Prosthetic group is:",
+      "options": {
+        "A": "Inorganic enzyme",
+        "B": "Protein portion",
+        "C": "Tightly bound non-protein part",
+        "D": "Enzyme inhibitor"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Tightly bound non-protein part'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 45,
+      "question": "Enzymes used in detergents are:",
+      "options": {
+        "A": "Catalase",
+        "B": "Protease",
+        "C": "Ligase",
+        "D": "Sucrase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Protease'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 46,
+      "question": "Which enzyme breaks urea into ammonia and CO₂?",
+      "options": {
+        "A": "Catalase",
+        "B": "Urease",
+        "C": "Amylase",
+        "D": "Trypsin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Urease'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 47,
+      "question": "Which enzyme is used in glucose test strips?",
+      "options": {
+        "A": "Invertase",
+        "B": "Urease",
+        "C": "Glucose oxidase",
+        "D": "Sucrase"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Glucose oxidase'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 48,
+      "question": "Denatured enzyme has lost its:",
+      "options": {
+        "A": "Mass",
+        "B": "Activity",
+        "C": "Substrate",
+        "D": "Color"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Activity'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is heat-stable?",
+      "options": {
+        "A": "Pepsin",
+        "B": "DNA",
+        "C": "Thermophilic enzymes",
+        "D": "Amylase"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Thermophilic enzymes'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    },
+    {
+      "id": 50,
+      "question": "The term “enzyme” was coined by:",
+      "options": {
+        "A": "Robert Hooke",
+        "B": "Kuhne",
+        "C": "Darwin",
+        "D": "Watson"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Kuhne'. Enzymes are biological catalysts that speed up biochemical reactions by lowering activation energy without being consumed."
+    }
+  ],
+  "subject": "biology"
+}

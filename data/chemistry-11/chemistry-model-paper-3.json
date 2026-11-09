@@ -1,0 +1,212 @@
+{
+  "chapterNumber": 15,
+  "chapterTitle": "Annual Board Examination Section A Simulator 3 (FBISE Class 11 Chemistry)",
+  "totalQuestions": 17,
+  "questions": [
+    {
+      "question": "What does the Pauli Exclusion Principle state?",
+      "options": {
+        "A": "Two electrons in the same orbital must have opposite spins.",
+        "B": "Electrons in the same shell must have the same energy.",
+        "C": "Electrons must be arranged in increasing order of energy.",
+        "D": "All orbitals must be filled before pairing occurs."
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Two electrons in the same orbital must have opposite'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 1
+    },
+    {
+      "question": "Which of the following statements about the Bohr model is true?",
+      "options": {
+        "A": "It explains the hydrogen spectrum",
+        "B": "It predicts the exact location of electrons",
+        "C": "It is applicable to all elements",
+        "D": "It describes electron paths as fixed orbits"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'It explains the hydrogen spectrum'. According to Federal Board Class 11 Chemistry principles of Atomic Structure, Subshells & Quantum Numbers.",
+      "id": 2
+    },
+    {
+      "question": "The ionic bond is formed between:",
+      "options": {
+        "A": "Two non-metals",
+        "B": "Two metals",
+        "C": "A metal and a nonmetal",
+        "D": "Two electrons"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'A metal and a nonmetal'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 3
+    },
+    {
+      "question": "The relationship between the pressure and temperature of a gas is described by:",
+      "options": {
+        "A": "Boyle's Law",
+        "B": "Charles's Law",
+        "C": "Gay-Lussac's Law",
+        "D": "Avogadro's Law"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Gay-Lussac's Law'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 4
+    },
+    {
+      "question": "According to the kinetic molecular theory, the average kinetic energy of particles is directly proportional to:",
+      "options": {
+        "A": "The temperature of the gas",
+        "B": "The volume of the gas",
+        "C": "The pressure of the gas",
+        "D": "The molar mass of the gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'The temperature of the gas'. According to Federal Board Class 11 Chemistry principles of States & Phases of Matter (Gases, Liquids & Solids).",
+      "id": 5
+    },
+    {
+      "question": "In an exothermic reaction, the enthalpy change is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Independent of temperature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Negative'. According to Federal Board Class 11 Chemistry principles of Energetics, Enthalpy & Thermochemical Equations.",
+      "id": 6
+    },
+    {
+      "question": "The integrated rate law for a first-order reaction is:",
+      "options": {
+        "A": "ln[A] = -kt + ln[A₀]",
+        "B": "1/[A] = kt + 1/[A₀]",
+        "C": "[A] = [A₀] - kt",
+        "D": "[A] = [A₀]e(-kt)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'ln[A] = -kt + ln[A₀]'. According to Federal Board Class 11 Chemistry principles of Chemical Kinetics, Reaction Rates & Rate Laws.",
+      "id": 7
+    },
+    {
+      "question": "A reaction at equilibrium will shift towards the products if:",
+      "options": {
+        "A": "The concentration of reactants is increased",
+        "B": "The temperature is decreased",
+        "C": "The pressure is increased",
+        "D": "The volume is increased"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'The concentration of reactants is increased'. According to Federal Board Class 11 Chemistry principles of Chemical Equilibrium & Le Chatelier's Principle.",
+      "id": 8
+    },
+    {
+      "question": "If the value of the equilibrium constant (K) is very large, the reaction is:",
+      "options": {
+        "A": "At equilibrium",
+        "B": "Not favored",
+        "C": "Almost complete, favoring products",
+        "D": "Almost complete, favoring reactants"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Almost complete, favoring products'. According to Federal Board Class 11 Chemistry principles of Chemical Equilibrium & Le Chatelier's Principle.",
+      "id": 9
+    },
+    {
+      "question": "In a titration of a weak acid with a strong base, the pH at the equivalence point is:",
+      "options": {
+        "A": "Less than 7",
+        "B": "Equal to 7",
+        "C": "Greater than 7",
+        "D": "Depends on the acid"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Greater than 7'. According to Federal Board Class 11 Chemistry principles of Acids, Bases, pH & Ionic Equilibria.",
+      "id": 10
+    },
+    {
+      "question": "Which of the following elements is a metalloid?",
+      "options": {
+        "A": "Aluminum",
+        "B": "Silicon",
+        "C": "Iron",
+        "D": "Sodium"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Silicon'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 11
+    },
+    {
+      "question": "Element with highest ionization energy:",
+      "options": {
+        "A": "Hydrogen",
+        "B": "Helium",
+        "C": "Neon",
+        "D": "Fluorine"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Helium'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 12
+    },
+    {
+      "question": "The highest concentration of ozone is found in which part of the atmosphere?",
+      "options": {
+        "A": "Troposphere",
+        "B": "Stratosphere",
+        "C": "Mesosphere",
+        "D": "Thermosphere"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Stratosphere'. According to Federal Board Class 11 Chemistry principles of Environmental Chemistry (Air & Water Quality).",
+      "id": 13
+    },
+    {
+      "question": "What is the general formula for alkenes?",
+      "options": {
+        "A": "CnH₂n+₂",
+        "B": "CnH₂n",
+        "C": "CnH₂n-₂",
+        "D": "CnH₂nO"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'CnH₂n'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 14
+    },
+    {
+      "question": "Which hybridization is found in alkanes?",
+      "options": {
+        "A": "sp",
+        "B": "sp²",
+        "C": "sp³",
+        "D": "sp³d"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'sp³'. According to Federal Board Class 11 Chemistry principles of Organic Chemistry Fundamentals & Hydrocarbons.",
+      "id": 15
+    },
+    {
+      "question": "Dehydrohalogenation is a type of:",
+      "options": {
+        "A": "Addition",
+        "B": "Substitution",
+        "C": "Elimination",
+        "D": "Oxidation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Elimination'. According to Federal Board Class 11 Chemistry principles of Functional Groups, Organic Derivatives & Synthesis.",
+      "id": 16
+    },
+    {
+      "question": "What is the molar mass of sulfuric acid (H₂SO₄)?",
+      "options": {
+        "A": "98 g/mol",
+        "B": "102 g/mol",
+        "C": "92 g/mol",
+        "D": "88 g/mol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '98 g/mol'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "id": 17
+    }
+  ],
+  "subject": "chemistry"
+}

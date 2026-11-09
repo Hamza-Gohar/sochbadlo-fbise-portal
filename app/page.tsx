@@ -6,6 +6,8 @@ import { getChaptersIndex } from '../lib/data';
 
 export default function HomePage() {
   const physicsChapters = getChaptersIndex('physics');
+  const biologyChapters = getChaptersIndex('biology');
+  const chemistryChapters = getChaptersIndex('chemistry');
   const urduChapters = getChaptersIndex('urdu');
   const mathChapters = getChaptersIndex('math');
   const englishChapters = getChaptersIndex('english');
@@ -14,6 +16,8 @@ export default function HomePage() {
   const tarjumaChapters = getChaptersIndex('tarjuma');
 
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const biologyTotal = biologyChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const chemistryTotal = chemistryChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const englishTotal = englishChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -22,9 +26,19 @@ export default function HomePage() {
   const tarjumaTotal = tarjumaChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
 
   const totalQuestions =
-    physicsTotal + urduTotal + mathTotal + englishTotal + csTotal + islamiatTotal + tarjumaTotal;
+    physicsTotal +
+    biologyTotal +
+    chemistryTotal +
+    urduTotal +
+    mathTotal +
+    englishTotal +
+    csTotal +
+    islamiatTotal +
+    tarjumaTotal;
   const totalModules =
     physicsChapters.length +
+    biologyChapters.length +
+    chemistryChapters.length +
     urduChapters.length +
     mathChapters.length +
     englishChapters.length +
@@ -49,7 +63,8 @@ export default function HomePage() {
                 FBISE Class 11th Examination Testing & Preparation Platform
               </h1>
               <p className="text-base sm:text-lg text-[var(--color-ink-2)] max-w-2xl leading-relaxed font-[family-name:var(--font-body)]">
-                Master Federal Board Intermediate examinations across 7 subjects with authentic chapter-wise test series, instant conceptual explanations,
+                Master Federal Board Intermediate examinations across all 9 subjects with authentic chapter-wise test series, instant conceptual explanations,
+                Biology (حیاتیات), Chemistry (کیمسٹری with Lecturer Ayesha Amjad rationales), Physics formulas,
                 English syntax & poetic devices, Urdu literature and rhetoric (علمِ بیان و علمِ بدیع), Islamiat Compulsory (اسلامیات لازمی),
                 Tarjuma-tul-Quran (ترجمۃ القرآن المجید), Mathematics step-by-step problem solving, Computer Science logic, and timed board exam simulations.
               </p>
@@ -94,6 +109,8 @@ export default function HomePage() {
           csChapters={csChapters}
           islamiatChapters={islamiatChapters}
           tarjumaChapters={tarjumaChapters}
+          biologyChapters={biologyChapters}
+          chemistryChapters={chemistryChapters}
         />
 
         {/* Hallmark Editorial Note & Exam Tips */}

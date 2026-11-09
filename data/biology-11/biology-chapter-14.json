@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 14,
+  "chapterTitle": "Chapter 14: Evolution",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Evolution is the change in organisms over:",
+      "options": {
+        "A": "Days",
+        "B": "Years",
+        "C": "Generations",
+        "D": "Seasons"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Generations'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 2,
+      "question": "The theory of natural selection was proposed by:",
+      "options": {
+        "A": "Lamarck",
+        "B": "Watson",
+        "C": "Darwin",
+        "D": "Mendel"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Darwin'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 3,
+      "question": "According to Lamarck, organs develop due to:",
+      "options": {
+        "A": "Random changes",
+        "B": "Mutations",
+        "C": "Use and disuse",
+        "D": "Migration"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Use and disuse'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 4,
+      "question": "The book Origin of Species was written by:",
+      "options": {
+        "A": "Mendel",
+        "B": "Darwin",
+        "C": "Lamarck",
+        "D": "Wallace"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Darwin'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 5,
+      "question": "A fossil is:",
+      "options": {
+        "A": "Living organism",
+        "B": "Dead cell",
+        "C": "Preserved remains of organisms",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Preserved remains of organisms'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 6,
+      "question": "The study of fossils is called:",
+      "options": {
+        "A": "Biology",
+        "B": "Geology",
+        "C": "Palaeontology",
+        "D": "Botany"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Palaeontology'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 7,
+      "question": "Darwin visited the Galapagos Islands on the ship:",
+      "options": {
+        "A": "HMS Eagle",
+        "B": "HMS Beagle",
+        "C": "HMS Whale",
+        "D": "HMS Shark"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'HMS Beagle'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 8,
+      "question": "Evolution occurs due to:",
+      "options": {
+        "A": "Genetic variation",
+        "B": "Weather",
+        "C": "Pollution",
+        "D": "Mutation only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Genetic variation'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 9,
+      "question": "The process of better adapted individuals surviving is called:",
+      "options": {
+        "A": "Mutation",
+        "B": "Selection",
+        "C": "Natural selection",
+        "D": "Reproduction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Natural selection'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 10,
+      "question": "Which is evidence of evolution?",
+      "options": {
+        "A": "Same blood group",
+        "B": "Similar fossils",
+        "C": "Same diet",
+        "D": "Breathing in air"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Similar fossils'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 11,
+      "question": "Which of these shows evolution in modern times?",
+      "options": {
+        "A": "Horse evolution",
+        "B": "Antibiotic resistance",
+        "C": "Dinosaur extinction",
+        "D": "Water cycle"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Antibiotic resistance'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 12,
+      "question": "According to Darwin, survival depends on:",
+      "options": {
+        "A": "Strength",
+        "B": "Intelligence",
+        "C": "Adaptation",
+        "D": "Speed"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Adaptation'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 13,
+      "question": "Which organ is vestigial in humans?",
+      "options": {
+        "A": "Liver",
+        "B": "Kidney",
+        "C": "Appendix",
+        "D": "Heart"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Appendix'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 14,
+      "question": "Homologous organs indicate:",
+      "options": {
+        "A": "Common function",
+        "B": "Similar structure and origin",
+        "C": "Same size",
+        "D": "Same color"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Similar structure and origin'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 15,
+      "question": "The wings of birds and bats are examples of:",
+      "options": {
+        "A": "Homologous organs",
+        "B": "Analogous organs",
+        "C": "Vestigial organs",
+        "D": "Internal organs"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Analogous organs'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is an extinct animal?",
+      "options": {
+        "A": "Lion",
+        "B": "Deer",
+        "C": "Dinosaur",
+        "D": "Crocodile"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Dinosaur'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 17,
+      "question": "Darwin’s theory is based on:",
+      "options": {
+        "A": "Sudden changes",
+        "B": "Gradual changes",
+        "C": "Catastrophes",
+        "D": "Experiments"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Gradual changes'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 18,
+      "question": "Which structure is evidence of common ancestry?",
+      "options": {
+        "A": "Analogous",
+        "B": "Homologous",
+        "C": "Vestigial",
+        "D": "None"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Homologous'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 19,
+      "question": "Fossils are found in:",
+      "options": {
+        "A": "Igneous rocks",
+        "B": "Metamorphic rocks",
+        "C": "Sedimentary rocks",
+        "D": "Sand dunes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Sedimentary rocks'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 20,
+      "question": "Which one is not evidence of evolution?",
+      "options": {
+        "A": "Embryology",
+        "B": "Fossils",
+        "C": "Vestigial organs",
+        "D": "Inhalation"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Inhalation'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 21,
+      "question": "According to Lamarck, giraffes have long necks because of:",
+      "options": {
+        "A": "Mutations",
+        "B": "Use of neck",
+        "C": "Migration",
+        "D": "Climate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Use of neck'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 22,
+      "question": "According to Darwin, variation arises due to:",
+      "options": {
+        "A": "Need",
+        "B": "Inheritance",
+        "C": "Environment",
+        "D": "Random chance"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Random chance'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 23,
+      "question": "Which theory supports the idea of inherited characteristics?",
+      "options": {
+        "A": "Natural selection",
+        "B": "Theory of use and disuse",
+        "C": "Gene theory",
+        "D": "Chromosome theory"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Theory of use and disuse'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 24,
+      "question": "According to Darwin, variation is:",
+      "options": {
+        "A": "Inherited",
+        "B": "Acquired",
+        "C": "Temporary",
+        "D": "None"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Inherited'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 25,
+      "question": "Which animal shows evolutionary link between reptiles and birds?",
+      "options": {
+        "A": "Dinosaur",
+        "B": "Archaeopteryx",
+        "C": "Bat",
+        "D": "Lizard"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Archaeopteryx'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 26,
+      "question": "Modern humans evolved from:",
+      "options": {
+        "A": "Neanderthals",
+        "B": "Australopithecus",
+        "C": "Homo erectus",
+        "D": "Chimpanzees"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Homo erectus'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 27,
+      "question": "Which one is considered as the father of evolution?",
+      "options": {
+        "A": "Mendel",
+        "B": "Lamarck",
+        "C": "Darwin",
+        "D": "Linnaeus"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Darwin'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 28,
+      "question": "Which one is a vestigial organ in snakes?",
+      "options": {
+        "A": "Limbs",
+        "B": "Eyes",
+        "C": "Lungs",
+        "D": "Tongue"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Limbs'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 29,
+      "question": "Variation is important because it:",
+      "options": {
+        "A": "Increases pollution",
+        "B": "Makes organisms stronger",
+        "C": "Provides raw material for evolution",
+        "D": "Stops evolution"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Provides raw material for evolution'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 30,
+      "question": "The first life appeared on Earth:",
+      "options": {
+        "A": "1 billion years ago",
+        "B": "2.5 billion years ago",
+        "C": "3.5 billion years ago",
+        "D": "5 billion years ago"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '3.5 billion years ago'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 31,
+      "question": "Organisms that survive and reproduce pass on:",
+      "options": {
+        "A": "Weak traits",
+        "B": "Acquired traits",
+        "C": "Favorable traits",
+        "D": "All traits"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Favorable traits'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 32,
+      "question": "Mutations are changes in:",
+      "options": {
+        "A": "Organs",
+        "B": "Chromosomes",
+        "C": "Environment",
+        "D": "Food"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Chromosomes'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 33,
+      "question": "Which of these supports the theory of common ancestry?",
+      "options": {
+        "A": "Homologous structures",
+        "B": "Different DNA",
+        "C": "Analogous organs",
+        "D": "Migration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Homologous structures'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 34,
+      "question": "Survival of the fittest means:",
+      "options": {
+        "A": "Only the strong survive",
+        "B": "Only the big survive",
+        "C": "Best adapted survive",
+        "D": "All survive"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Best adapted survive'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 35,
+      "question": "Evolution leads to:",
+      "options": {
+        "A": "Extinction only",
+        "B": "Diversity of life",
+        "C": "Uniformity",
+        "D": "Mutation only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Diversity of life'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 36,
+      "question": "The theory of acquired characteristics was proposed by:",
+      "options": {
+        "A": "Lamarck",
+        "B": "Darwin",
+        "C": "Mendel",
+        "D": "Wallace"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Lamarck'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 37,
+      "question": "Natural selection is a process where:",
+      "options": {
+        "A": "Nature chooses the best",
+        "B": "Humans choose traits",
+        "C": "Environment changes",
+        "D": "Species mutate randomly"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Nature chooses the best'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 38,
+      "question": "Which is an example of natural selection in action?",
+      "options": {
+        "A": "Cutting a tail",
+        "B": "Antibiotic resistance",
+        "C": "Cloning",
+        "D": "Mutation in a lab"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Antibiotic resistance'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 39,
+      "question": "Which of these is a cause of evolution?",
+      "options": {
+        "A": "Migration",
+        "B": "Mutation",
+        "C": "Natural selection",
+        "D": "All of these"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'All of these'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 40,
+      "question": "Which organism evolved earliest?",
+      "options": {
+        "A": "Fish",
+        "B": "Amphibians",
+        "C": "Bacteria",
+        "D": "Humans"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Bacteria'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 41,
+      "question": "Species that no longer exist are called:",
+      "options": {
+        "A": "Modern",
+        "B": "Ancient",
+        "C": "Extinct",
+        "D": "Fossilized"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Extinct'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 42,
+      "question": "Comparative embryology supports evolution because:",
+      "options": {
+        "A": "Embryos of many species look alike",
+        "B": "All embryos are different",
+        "C": "Embryos are fossils",
+        "D": "Embryos don't change"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Embryos of many species look alike'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 43,
+      "question": "Who co-discovered natural selection with Darwin?",
+      "options": {
+        "A": "Lamarck",
+        "B": "Wallace",
+        "C": "Mendel",
+        "D": "Linnaeus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Wallace'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 44,
+      "question": "The age of fossils is determined by:",
+      "options": {
+        "A": "Color",
+        "B": "Size",
+        "C": "Carbon dating",
+        "D": "Texture"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Carbon dating'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 45,
+      "question": "Evolution results in:",
+      "options": {
+        "A": "Fewer species",
+        "B": "No change",
+        "C": "Better-adapted species",
+        "D": "Loss of all traits"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Better-adapted species'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 46,
+      "question": "Fossils in lower layers of Earth are:",
+      "options": {
+        "A": "Younger",
+        "B": "Older",
+        "C": "Modern",
+        "D": "Artificial"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Older'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 47,
+      "question": "The genetic material responsible for evolution is:",
+      "options": {
+        "A": "RNA",
+        "B": "DNA",
+        "C": "Protein",
+        "D": "ATP"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'DNA'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 48,
+      "question": "Which of the following best defines evolution?",
+      "options": {
+        "A": "Sudden change",
+        "B": "Genetic change over generations",
+        "C": "Acquired traits",
+        "D": "Change in environment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Genetic change over generations'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 49,
+      "question": "Adaptive radiation is the:",
+      "options": {
+        "A": "Loss of species",
+        "B": "Evolution of diverse species from a common ancestor",
+        "C": "Radiation effect",
+        "D": "Movement of organisms"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Evolution of diverse species from a common ancestor'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    },
+    {
+      "id": 50,
+      "question": "The earliest fossils are of:",
+      "options": {
+        "A": "Dinosaurs",
+        "B": "Fish",
+        "C": "Bacteria",
+        "D": "Mammals"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Bacteria'. Evolution by natural selection, genetic drift, Hardy-Weinberg equilibrium, and fossil evidence explain biological diversity and adaptation over time."
+    }
+  ],
+  "subject": "biology"
+}

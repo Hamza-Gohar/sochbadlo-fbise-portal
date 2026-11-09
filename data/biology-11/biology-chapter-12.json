@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 12,
+  "chapterTitle": "Chapter 12: Inheritance",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Inheritance is the transmission of characteristics from:",
+      "options": {
+        "A": "Friends to friends",
+        "B": "Parents to offspring",
+        "C": "Teachers to students",
+        "D": "Offspring to parents"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Parents to offspring'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 2,
+      "question": "Gregor Mendel is known as the father of:",
+      "options": {
+        "A": "Evolution",
+        "B": "Genetics",
+        "C": "Physiology",
+        "D": "Botany"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Genetics'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 3,
+      "question": "Mendel used which plant for his experiments?",
+      "options": {
+        "A": "Wheat",
+        "B": "Rose",
+        "C": "Pea",
+        "D": "Cotton"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Pea'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 4,
+      "question": "Which term is used for alternative forms of a gene?",
+      "options": {
+        "A": "Chromosomes",
+        "B": "Alleles",
+        "C": "Traits",
+        "D": "Loci"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Alleles'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 5,
+      "question": "A dominant trait is expressed in the:",
+      "options": {
+        "A": "Homozygous state only",
+        "B": "Heterozygous state only",
+        "C": "Both homozygous and heterozygous",
+        "D": "Recessive condition"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Both homozygous and heterozygous'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 6,
+      "question": "A recessive trait is only expressed when:",
+      "options": {
+        "A": "Both alleles are recessive",
+        "B": "One allele is dominant",
+        "C": "Both alleles are dominant",
+        "D": "All of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Both alleles are recessive'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 7,
+      "question": "Phenotype refers to:",
+      "options": {
+        "A": "Genetic makeup",
+        "B": "Physical appearance",
+        "C": "Number of genes",
+        "D": "Type of gametes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Physical appearance'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 8,
+      "question": "Genotype refers to:",
+      "options": {
+        "A": "Outer traits",
+        "B": "Internal organs",
+        "C": "Genetic composition",
+        "D": "All of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Genetic composition'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 9,
+      "question": "Tall (T) is dominant over dwarf (t). A heterozygous plant is:",
+      "options": {
+        "A": "TT",
+        "B": "tt",
+        "C": "Tt",
+        "D": "tTt"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Tt'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 10,
+      "question": "If a plant has genotype TT, it is:",
+      "options": {
+        "A": "Heterozygous",
+        "B": "Homozygous dominant",
+        "C": "Homozygous recessive",
+        "D": "Hybrid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Homozygous dominant'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 11,
+      "question": "In a monohybrid cross, the F2 phenotypic ratio is:",
+      "options": {
+        "A": "1:1",
+        "B": "2:1",
+        "C": "3:1",
+        "D": "1:3"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '3:1'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 12,
+      "question": "In F2 generation of monohybrid cross, genotypic ratio is:",
+      "options": {
+        "A": "1:1",
+        "B": "1:2:1",
+        "C": "2:1:1",
+        "D": "3:1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '1:2:1'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 13,
+      "question": "A pure tall plant is crossed with a pure dwarf. All F1 are tall. This shows:",
+      "options": {
+        "A": "Dwarf is dominant",
+        "B": "Tall is recessive",
+        "C": "Tall is dominant",
+        "D": "Both are codominant"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Tall is dominant'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 14,
+      "question": "Which of these is not a Mendel’s law?",
+      "options": {
+        "A": "Law of dominance",
+        "B": "Law of mutation",
+        "C": "Law of segregation",
+        "D": "Law of independent assortment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Law of mutation'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 15,
+      "question": "Law of segregation states:",
+      "options": {
+        "A": "Alleles blend together",
+        "B": "Alleles are linked",
+        "C": "Alleles separate during gamete formation",
+        "D": "Chromosomes duplicate"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Alleles separate during gamete formation'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 16,
+      "question": "Mendel’s experiments were rediscovered in:",
+      "options": {
+        "A": "1800",
+        "B": "1856",
+        "C": "1900",
+        "D": "1950"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '1900'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 17,
+      "question": "A person with identical alleles is called:",
+      "options": {
+        "A": "Hybrid",
+        "B": "Homozygous",
+        "C": "Heterozygous",
+        "D": "Carrier"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Homozygous'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 18,
+      "question": "A test cross is done to find out the:",
+      "options": {
+        "A": "Phenotype",
+        "B": "Size of chromosome",
+        "C": "Genotype",
+        "D": "Age of organism"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Genotype'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 19,
+      "question": "Which organism did Mendel experiment on?",
+      "options": {
+        "A": "Mouse",
+        "B": "Pea plant",
+        "C": "Corn",
+        "D": "Human"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Pea plant'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is a recessive trait in humans?",
+      "options": {
+        "A": "Dimples",
+        "B": "Hitchhiker's thumb",
+        "C": "Free earlobes",
+        "D": "Tongue rolling"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Hitchhiker's thumb'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 21,
+      "question": "Which is a dominant trait in humans?",
+      "options": {
+        "A": "Straight hairline",
+        "B": "Attached earlobes",
+        "C": "Mid-digital hair",
+        "D": "Albinism"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Mid-digital hair'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 22,
+      "question": "The unit of inheritance is:",
+      "options": {
+        "A": "RNA",
+        "B": "Chromosome",
+        "C": "Gene",
+        "D": "Cell"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Gene'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 23,
+      "question": "Genes are located on:",
+      "options": {
+        "A": "Ribosomes",
+        "B": "Nucleus",
+        "C": "Chromosomes",
+        "D": "DNA"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Chromosomes'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 24,
+      "question": "DNA stands for:",
+      "options": {
+        "A": "Deoxyribo Nucleic Acid",
+        "B": "Dynamic Nucleic Acid",
+        "C": "Double Nucleic Acid",
+        "D": "Deoxy Nucleus Acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Deoxyribo Nucleic Acid'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 25,
+      "question": "Number of chromosomes in human body cells:",
+      "options": {
+        "A": "44",
+        "B": "23",
+        "C": "46",
+        "D": "22"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '46'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 26,
+      "question": "Chromosomes are made up of:",
+      "options": {
+        "A": "Proteins only",
+        "B": "DNA and RNA",
+        "C": "DNA and proteins",
+        "D": "RNA and lipids"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'DNA and proteins'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 27,
+      "question": "Sex chromosomes in human males are:",
+      "options": {
+        "A": "XX",
+        "B": "XY",
+        "C": "YY",
+        "D": "ZZ"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'XY'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 28,
+      "question": "The genotype of a female is:",
+      "options": {
+        "A": "XY",
+        "B": "XX",
+        "C": "YY",
+        "D": "X"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'XX'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 29,
+      "question": "Genes for a trait are located on:",
+      "options": {
+        "A": "Same loci of homologous chromosomes",
+        "B": "Non-homologous chromosomes",
+        "C": "Ribosomes",
+        "D": "Cytoplasm"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Same loci of homologous chromosomes'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following shows codominance?",
+      "options": {
+        "A": "Skin color",
+        "B": "Blood group AB",
+        "C": "Eye color",
+        "D": "Height"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Blood group AB'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 31,
+      "question": "Blood group inheritance is an example of:",
+      "options": {
+        "A": "Simple dominance",
+        "B": "Codominance and multiple alleles",
+        "C": "Incomplete dominance",
+        "D": "Sex-linked inheritance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Codominance and multiple alleles'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 32,
+      "question": "Which blood group is universal donor?",
+      "options": {
+        "A": "A",
+        "B": "AB",
+        "C": "O",
+        "D": "B"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'O'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 33,
+      "question": "Universal recipient blood group is:",
+      "options": {
+        "A": "A",
+        "B": "AB",
+        "C": "O",
+        "D": "B"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'AB'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 34,
+      "question": "Which of these is a sex-linked disorder?",
+      "options": {
+        "A": "Diabetes",
+        "B": "Hemophilia",
+        "C": "Cancer",
+        "D": "Thalassemia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Hemophilia'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 35,
+      "question": "Genes for sex-linked disorders are mostly present on:",
+      "options": {
+        "A": "X chromosome",
+        "B": "Y chromosome",
+        "C": "Autosomes",
+        "D": "All chromosomes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'X chromosome'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 36,
+      "question": "Males are more affected by X-linked disorders because:",
+      "options": {
+        "A": "They have two X chromosomes",
+        "B": "Y is stronger",
+        "C": "They have only one X chromosome",
+        "D": "They have no X chromosome"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'They have only one X chromosome'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 37,
+      "question": "In a dihybrid cross, the phenotypic ratio in F2 is:",
+      "options": {
+        "A": "3:1",
+        "B": "9:3:3:1",
+        "C": "1:2:1",
+        "D": "2:1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '9:3:3:1'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 38,
+      "question": "If both parents are carriers of a recessive gene, probability of affected child is:",
+      "options": {
+        "A": "0%",
+        "B": "25%",
+        "C": "50%",
+        "D": "75%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '25%'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 39,
+      "question": "Albinism is caused due to absence of:",
+      "options": {
+        "A": "Hemoglobin",
+        "B": "Melanin",
+        "C": "Chlorophyll",
+        "D": "Insulin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Melanin'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 40,
+      "question": "Thalassemia affects the production of:",
+      "options": {
+        "A": "Insulin",
+        "B": "Hemoglobin",
+        "C": "Melanin",
+        "D": "DNA"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Hemoglobin'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 41,
+      "question": "Gregor Mendel conducted his experiments in which century?",
+      "options": {
+        "A": "18th",
+        "B": "19th",
+        "C": "20th",
+        "D": "21st"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '19th'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 42,
+      "question": "Which of the following traits did Mendel study?",
+      "options": {
+        "A": "Leaf color",
+        "B": "Seed shape",
+        "C": "Root type",
+        "D": "Stem height"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Seed shape'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 43,
+      "question": "Which of the following traits shows incomplete dominance?",
+      "options": {
+        "A": "Red x white = pink flower",
+        "B": "AB blood group",
+        "C": "Rolling tongue",
+        "D": "Hemophilia"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Red x white = pink flower'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 44,
+      "question": "What controls the expression of traits?",
+      "options": {
+        "A": "Hormones",
+        "B": "Proteins",
+        "C": "Genes",
+        "D": "Ribosomes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Genes'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is not an inherited trait?",
+      "options": {
+        "A": "Eye color",
+        "B": "Blood group",
+        "C": "Language",
+        "D": "Skin color"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Language'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 46,
+      "question": "Sickle cell anemia is caused by mutation in:",
+      "options": {
+        "A": "Chromosome 21",
+        "B": "Hemoglobin gene",
+        "C": "Insulin gene",
+        "D": "X chromosome"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Hemoglobin gene'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 47,
+      "question": "Genes are made up of:",
+      "options": {
+        "A": "RNA",
+        "B": "Proteins",
+        "C": "DNA",
+        "D": "Chromosomes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'DNA'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 48,
+      "question": "The number of autosomes in humans is:",
+      "options": {
+        "A": "44",
+        "B": "46",
+        "C": "23",
+        "D": "2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '44'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 49,
+      "question": "DNA fingerprinting is used in:",
+      "options": {
+        "A": "Eye testing",
+        "B": "Identifying diseases",
+        "C": "Crime investigation",
+        "D": "Digestion"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Crime investigation'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    },
+    {
+      "id": 50,
+      "question": "The main function of chromosomes is to:",
+      "options": {
+        "A": "Control digestion",
+        "B": "Store energy",
+        "C": "Transmit genetic information",
+        "D": "Help in respiration"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Transmit genetic information'. Mendelian genetics, laws of segregation and independent assortment, codominance, and sex linkage dictate hereditary transmission patterns."
+    }
+  ],
+  "subject": "biology"
+}

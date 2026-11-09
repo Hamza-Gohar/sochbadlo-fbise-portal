@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 3,
+  "chapterTitle": "Chapter 3: Chemical Bonding, VSEPR & Molecular Geometry",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "question": "The bond formed by the sharing of electrons between atoms is called:",
+      "options": {
+        "A": "Ionic bond",
+        "B": "Covalent bond",
+        "C": "Metallic bond",
+        "D": "Hydrogen bond"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Covalent bond'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 1
+    },
+    {
+      "question": "The type of bond formed between two metals is:",
+      "options": {
+        "A": "Ionic bond",
+        "B": "Covalent bond",
+        "C": "Metallic bond",
+        "D": "Coordinate bond"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Metallic bond'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 2
+    },
+    {
+      "question": "In an ionic bond, electrons are:",
+      "options": {
+        "A": "Shared",
+        "B": "Donated",
+        "C": "Accepted",
+        "D": "Transferred"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Transferred'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 3
+    },
+    {
+      "question": "A molecule with a linear shape typically has:",
+      "options": {
+        "A": "Two bonding pairs",
+        "B": "Three bonding pairs",
+        "C": "Four bonding pairs",
+        "D": "No bonding pairs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Two bonding pairs'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 4
+    },
+    {
+      "question": "The octet rule states that atoms tend to gain, lose, or share electrons to have:",
+      "options": {
+        "A": "Four electrons",
+        "B": "Six electrons",
+        "C": "Eight electrons",
+        "D": "Ten electrons"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Eight electrons'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 5
+    },
+    {
+      "question": "The electronegativity difference between atoms in a covalent bond is:",
+      "options": {
+        "A": "0",
+        "B": "Less than 0.5",
+        "C": "0.5 to 1.7",
+        "D": "Greater than 1.7"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Less than 0.5'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 6
+    },
+    {
+      "question": "The ion formed by chlorine (Cl) in an ionic bond is:",
+      "options": {
+        "A": "Cl⁻",
+        "B": "Cl⁺",
+        "C": "Cl²⁻",
+        "D": "Cl²⁺"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Cl⁻'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 7
+    },
+    {
+      "question": "The lattice energy of an ionic compound depends on the:",
+      "options": {
+        "A": "Atomic mass",
+        "B": "Electronegativity difference",
+        "C": "Size of ions",
+        "D": "Covalent radius"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Size of ions'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 8
+    },
+    {
+      "question": "Which molecule has a polar covalent bond?",
+      "options": {
+        "A": "O₂",
+        "B": "Cl₂",
+        "C": "H₂O",
+        "D": "N₂"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'H₂O'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 9
+    },
+    {
+      "question": "The bond angle in a trigonal planar molecule is:",
+      "options": {
+        "A": "90°",
+        "B": "120°",
+        "C": "180°",
+        "D": "109.5°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '120°'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 10
+    },
+    {
+      "question": "The number of electrons involved in a double bond is:",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '4'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 11
+    },
+    {
+      "question": "A covalent bond is formed when atoms share:",
+      "options": {
+        "A": "Neutrons",
+        "B": "Protons",
+        "C": "Electrons",
+        "D": "Nuclei"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Electrons'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 12
+    },
+    {
+      "question": "Which element commonly forms a triple bond with nitrogen?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Carbon",
+        "C": "Hydrogen",
+        "D": "Phosphorus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Carbon'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 13
+    },
+    {
+      "question": "The shape of a molecule with two bonding pairs and two lone pairs is:",
+      "options": {
+        "A": "Linear",
+        "B": "Tetrahedral",
+        "C": "Bent",
+        "D": "Triangular"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Bent'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 14
+    },
+    {
+      "question": "The type of bond formed by the transfer of electrons is:",
+      "options": {
+        "A": "Covalent bond",
+        "B": "Ionic bond",
+        "C": "Metallic bond",
+        "D": "Polar bond"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Ionic bond'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 15
+    },
+    {
+      "question": "The dipole moment in a molecule arises due to:",
+      "options": {
+        "A": "Sharing of electrons",
+        "B": "Unequal sharing of electrons",
+        "C": "Equal sharing of electrons",
+        "D": "Movement of electrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Unequal sharing of electrons'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 16
+    },
+    {
+      "question": "The electron pair repulsion theory is used to predict:",
+      "options": {
+        "A": "Bond angles",
+        "B": "Lattice energy",
+        "C": "Ionization energy",
+        "D": "Atomic radius"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Bond angles'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 17
+    },
+    {
+      "question": "The bond between sodium (Na) and chlorine (Cl) is:",
+      "options": {
+        "A": "Ionic",
+        "B": "Covalent",
+        "C": "Metallic",
+        "D": "Hydrogen"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Ionic'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 18
+    },
+    {
+      "question": "The molecule with the highest electronegativity difference is:",
+      "options": {
+        "A": "HCl",
+        "B": "NaCl",
+        "C": "Cl₂",
+        "D": "O₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'NaCl'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 19
+    },
+    {
+      "question": "Which bond has the highest ionic character?",
+      "options": {
+        "A": "F-F",
+        "B": "Na-Cl",
+        "C": "H-F",
+        "D": "O-H"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Na-Cl'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 20
+    },
+    {
+      "question": "Which of the following molecules has a tetrahedral shape?",
+      "options": {
+        "A": "CH₄",
+        "B": "NH₃",
+        "C": "H₂O",
+        "D": "CO₂"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'CH₄'. H₂O is bent with two polar O–H bonds that do not cancel, creating a significant net dipole moment.\n                                        Dense,      Hexagonal,                           Random,",
+      "id": 21
+    },
+    {
+      "question": "The energy required to break a bond is known as:",
+      "options": {
+        "A": "Lattice energy",
+        "B": "Ionization energy",
+        "C": "Bond dissociation energy",
+        "D": "Electron affinity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Bond dissociation energy'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 22
+    },
+    {
+      "question": "A molecule with a trigonal bipyramidal shape has how many bonding pairs?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "6"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '5'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 23
+    },
+    {
+      "question": "The bond order in a molecule refers to the:",
+      "options": {
+        "A": "Number of bonds between two atoms",
+        "B": "Distance between two atoms",
+        "C": "Electronegativity difference",
+        "D": "Size of atoms"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Number of bonds between two atoms'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 24
+    },
+    {
+      "question": "Which molecule has a bond angle of 120°?",
+      "options": {
+        "A": "CO₂",
+        "B": "H₂O",
+        "C": "NH₃",
+        "D": "BF₃"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'BF₃'. BF₃ has sp² hybridization and trigonal planar geometry with exact 120° bond angles.\n                                                                       The bond\n                                                                    dipoles cancel\n                                                      The C–O         each other",
+      "id": 25
+    },
+    {
+      "question": "The bond formed between a metal and a nonmetal is:",
+      "options": {
+        "A": "Covalent bond",
+        "B": "Ionic bond",
+        "C": "Metallic bond",
+        "D": "Polar bond"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Ionic bond'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 26
+    },
+    {
+      "question": "Which of the following has the highest electronegativity?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Fluorine",
+        "D": "Chlorine"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Fluorine'. Stronger the hydrogen bonding (strong intermolecular forces), greater of higher the boiling point will\n be.\n                                      Decrease in        Increase in                        Increase in",
+      "id": 27
+    },
+    {
+      "question": "In a covalent bond, electrons are:",
+      "options": {
+        "A": "Completely transferred",
+        "B": "Shared equally",
+        "C": "Shared unequally",
+        "D": "Absorbed by the nucleus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Shared equally'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 28
+    },
+    {
+      "question": "The ionic bond is formed between:",
+      "options": {
+        "A": "Two non-metals",
+        "B": "Two metals",
+        "C": "A metal and a nonmetal",
+        "D": "Two electrons"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'A metal and a nonmetal'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 29
+    },
+    {
+      "question": "The octet rule is mainly applicable to which types of elements?",
+      "options": {
+        "A": "Transition metals",
+        "B": "Alkali metals",
+        "C": "Halogens",
+        "D": "Noble gases"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Halogens'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 30
+    },
+    {
+      "question": "Which of the following molecules is nonpolar?",
+      "options": {
+        "A": "H₂O",
+        "B": "CO₂",
+        "C": "NH₃",
+        "D": "CH₄"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'CO₂'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 31
+    },
+    {
+      "question": "Which bond is formed by the overlap of 's' and 'p' orbitals?",
+      "options": {
+        "A": "Sigma bond",
+        "B": "Pi bond",
+        "C": "Ionic bond",
+        "D": "Coordinate bond"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Sigma bond'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 32
+    },
+    {
+      "question": "The number of lone pairs on the nitrogen atom in NH₃ is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '1'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 33
+    },
+    {
+      "question": "Which of the following is an example of a coordinate bond?",
+      "options": {
+        "A": "H₂O",
+        "B": "NH₃",
+        "C": "CO₂",
+        "D": "NH₄⁺"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'NH₄⁺'. CHCl₃ contains three halogen atoms attached to the same carbon\n                                                     CH₃CH₂CH₂O      CH₃CH₂CH₂B        CH₃CH₂CH₂N",
+      "id": 34
+    },
+    {
+      "question": "The bond angle in a tetrahedral molecule is approximately:",
+      "options": {
+        "A": "90°",
+        "B": "120°",
+        "C": "109.5°",
+        "D": "180°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '109.5°'. The angle present in a tetrahedral shape is approximately 109.5 degree due to the presence of 4 total\nelectrons pairs.",
+      "id": 35
+    },
+    {
+      "question": "The bond type in a molecule with high electronegativity difference is:",
+      "options": {
+        "A": "Polar covalent bond",
+        "B": "Nonpolar covalent bond",
+        "C": "Ionic bond",
+        "D": "Metallic bond"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Ionic bond'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 36
+    },
+    {
+      "question": "The energy released when an ionic bond is formed is called:",
+      "options": {
+        "A": "Ionization energy",
+        "B": "Electron affinity",
+        "C": "Lattice energy",
+        "D": "Electronegativity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Lattice energy'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 37
+    },
+    {
+      "question": "Which molecule has a bent shape due to lone pair repulsion?",
+      "options": {
+        "A": "CO₂",
+        "B": "NH₃",
+        "C": "H₂O",
+        "D": "CH₄"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'H₂O'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 38
+    },
+    {
+      "question": "The hybridization of carbon in CH₄ is:",
+      "options": {
+        "A": "sp",
+        "B": "sp²",
+        "C": "sp³",
+        "D": "sp³d"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'sp³'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 39
+    },
+    {
+      "question": "Which of the following molecules has a bond order of 1?",
+      "options": {
+        "A": "O₂",
+        "B": "N₂",
+        "C": "Cl₂",
+        "D": "H₂"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Cl₂'. H₂O is bent with two polar O–H bonds that do not cancel, creating a significant net dipole moment.\n                                        Dense,      Hexagonal,                           Random,",
+      "id": 40
+    },
+    {
+      "question": "The electron cloud in a covalent bond is:",
+      "options": {
+        "A": "Spherical",
+        "B": "Pointed",
+        "C": "Non-uniform",
+        "D": "Uniform"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Uniform'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 41
+    },
+    {
+      "question": "The bond angle in a linear molecule is:",
+      "options": {
+        "A": "90°",
+        "B": "120°",
+        "C": "180°",
+        "D": "109.5°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '180°'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 42
+    },
+    {
+      "question": "Which of the following molecules exhibits ionic bonding?",
+      "options": {
+        "A": "NaCl",
+        "B": "H₂O",
+        "C": "O₂",
+        "D": "CO₂"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'NaCl'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 43
+    },
+    {
+      "question": "The hybridization of the central atom in CO₂ is:",
+      "options": {
+        "A": "sp",
+        "B": "sp²",
+        "C": "sp³",
+        "D": "sp³d"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'sp'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 44
+    },
+    {
+      "question": "In which molecule is the central atom sp³ hybridized?",
+      "options": {
+        "A": "CO₂",
+        "B": "NH₃",
+        "C": "CH₄",
+        "D": "H₂O"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'CH₄'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 45
+    },
+    {
+      "question": "A molecule formed by the overlap of two p orbitals will form:",
+      "options": {
+        "A": "Sigma bond",
+        "B": "Pi bond",
+        "C": "Ionic bond",
+        "D": "Coordinate bond"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Pi bond'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 46
+    },
+    {
+      "question": "The bond length in a triple bond is:",
+      "options": {
+        "A": "Longer than in a double bond",
+        "B": "Shorter than in a double bond",
+        "C": "Same as in a double bond",
+        "D": "Irrelevant"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Shorter than in a double bond'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 47
+    },
+    {
+      "question": "The bond angle in a trigonal pyramidal molecule is approximately:",
+      "options": {
+        "A": "120°",
+        "B": "109.5°",
+        "C": "90°",
+        "D": "180°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '109.5°'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 48
+    },
+    {
+      "question": "In a covalent bond, the shared electrons are located:",
+      "options": {
+        "A": "Closer to the nucleus of the less electronegative atom",
+        "B": "Equally between both atoms",
+        "C": "Closer to the nucleus of the more electronegative atom",
+        "D": "Distributed randomly"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Closer to the nucleus of the more electronegative atom'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 49
+    },
+    {
+      "question": "Which of the following has a trigonal bipyramidal molecular shape?",
+      "options": {
+        "A": "CH₄",
+        "B": "BF₃",
+        "C": "PF₅",
+        "D": "NH₃"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'PF₅'. According to Federal Board Class 11 Chemistry principles of Chemical Bonding, VSEPR & Molecular Geometry.",
+      "id": 50
+    }
+  ],
+  "subject": "chemistry"
+}

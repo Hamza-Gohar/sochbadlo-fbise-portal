@@ -33,6 +33,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   else if (chapter.subject === 'cs') subjectName = 'Computer Science';
   else if (chapter.subject === 'islamiat') subjectName = 'Islamiat Compulsory (اسلامیات لازمی)';
   else if (chapter.subject === 'tarjuma') subjectName = 'Tarjuma-tul-Quran (ترجمۃ القرآن المجید)';
+  else if (chapter.subject === 'biology') subjectName = 'Biology (حیاتیات)';
+  else if (chapter.subject === 'chemistry') subjectName = 'Chemistry (کیمسٹری)';
 
   return {
     title: `${chapter.chapterTitle} | Class 11 ${subjectName} MCQs | SochBadlo Prep`,

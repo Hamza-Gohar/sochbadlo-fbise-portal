@@ -1,0 +1,608 @@
+{
+  "chapterNumber": 9,
+  "chapterTitle": "Chapter 9: Periodic Table, Periodicity & Element Groups",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "question": "The periodic law states that the properties of elements are a periodic function of their:",
+      "options": {
+        "A": "Atomic mass",
+        "B": "Atomic number",
+        "C": "Electron configuration",
+        "D": "Ionization energy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Atomic number'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 1
+    },
+    {
+      "question": "Which of the following groups contains only non-metals?",
+      "options": {
+        "A": "Group 1",
+        "B": "Group 17",
+        "C": "Group 2",
+        "D": "Group 18"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Group 17'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 2
+    },
+    {
+      "question": "Which of the following elements has the largest atomic radius?",
+      "options": {
+        "A": "Na",
+        "B": "Mg",
+        "C": "Al",
+        "D": "K"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'K'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 3
+    },
+    {
+      "question": "Which group of elements is known as the halogens?",
+      "options": {
+        "A": "Group 1",
+        "B": "Group 17",
+        "C": "Group 18",
+        "D": "Group 2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Group 17'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 4
+    },
+    {
+      "question": "Which of the following elements is a noble gas?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nitrogen",
+        "C": "Argon",
+        "D": "Chlorine"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Argon'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 5
+    },
+    {
+      "question": "The ionization energy generally increases across a period due to:",
+      "options": {
+        "A": "Decreasing nuclear charge",
+        "B": "Increasing nuclear charge",
+        "C": "Decreasing atomic size",
+        "D": "Increasing electron shielding"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Increasing nuclear charge'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 6
+    },
+    {
+      "question": "Which element has the highest electronegativity?",
+      "options": {
+        "A": "Lithium",
+        "B": "Fluorine",
+        "C": "Oxygen",
+        "D": "Chlorine"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Fluorine'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 7
+    },
+    {
+      "question": "The atomic number of an element corresponds to the number of:",
+      "options": {
+        "A": "Electrons",
+        "B": "Neutrons",
+        "C": "Protons",
+        "D": "Neurons"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Protons'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 8
+    },
+    {
+      "question": "Which of the following elements is a metalloid?",
+      "options": {
+        "A": "Aluminum",
+        "B": "Silicon",
+        "C": "Iron",
+        "D": "Sodium"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Silicon'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 9
+    },
+    {
+      "question": "The elements in the same group of the periodic table have similar:",
+      "options": {
+        "A": "Atomic number",
+        "B": "Ionization energies",
+        "C": "Electron configurations",
+        "D": "Atomic mass"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Electron configurations'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 10
+    },
+    {
+      "question": "The transition elements are located in which block of the periodic table?",
+      "options": {
+        "A": "s-block",
+        "B": "p-block",
+        "C": "d-block",
+        "D": "f-block"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'd-block'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 11
+    },
+    {
+      "question": "Which of the following elements has the smallest atomic radius?",
+      "options": {
+        "A": "Li",
+        "B": "Na",
+        "C": "K",
+        "D": "Rb"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Li'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 12
+    },
+    {
+      "question": "Which element in Period 3 has the highest ionization energy?",
+      "options": {
+        "A": "Sodium",
+        "B": "Magnesium",
+        "C": "Silicon",
+        "D": "Chlorine"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Chlorine'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 13
+    },
+    {
+      "question": "Which of the following trends occurs as you move down a group in the periodic table?",
+      "options": {
+        "A": "Atomic radius decreases",
+        "B": "Electronegativity increases",
+        "C": "Ionization energy decreases",
+        "D": "Electron affinity increases"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Ionization energy decreases'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 14
+    },
+    {
+      "question": "The periodic table was first arranged by:",
+      "options": {
+        "A": "Dalton",
+        "B": "Mendeleev",
+        "C": "Moseley",
+        "D": "Rutherford"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Mendeleev'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 15
+    },
+    {
+      "question": "The Lanthanides and Actinides are placed separately in the periodic table because:",
+      "options": {
+        "A": "They are radioactive",
+        "B": "They are transition metals",
+        "C": "Their properties do not fit in any other group",
+        "D": "They are non-metals"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Their properties do not fit in any other group'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 16
+    },
+    {
+      "question": "Which of the following is a characteristic of noble gases?",
+      "options": {
+        "A": "They are highly reactive",
+        "B": "They have low ionization energy",
+        "C": "They have complete outer electron shells",
+        "D": "They readily form compounds"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'They have complete outer electron shells'. CHCl₃ contains three halogen atoms attached to the same carbon\n                                                     CH₃CH₂CH₂O      CH₃CH₂CH₂B        CH₃CH₂CH₂N",
+      "id": 17
+    },
+    {
+      "question": "Which of the following elements is in Group 2 of the periodic table?",
+      "options": {
+        "A": "Calcium",
+        "B": "Carbon",
+        "C": "Nitrogen",
+        "D": "Oxygen"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Calcium'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 18
+    },
+    {
+      "question": "Which of the following elements has the highest atomic number?",
+      "options": {
+        "A": "Carbon",
+        "B": "Oxygen",
+        "C": "Neon",
+        "D": "Sodium"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Sodium'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 19
+    },
+    {
+      "question": "Which of the following is a property of alkali metals?",
+      "options": {
+        "A": "They are non-reactive",
+        "B": "They have high ionization energies",
+        "C": "They are good conductors of heat and electricity",
+        "D": "They form acidic oxides"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'They are good conductors of heat and electricity'. CHCl₃ contains three halogen atoms attached to the same carbon\n                                                     CH₃CH₂CH₂O      CH₃CH₂CH₂B        CH₃CH₂CH₂N",
+      "id": 20
+    },
+    {
+      "question": "As you move across a period, the ionization energy of elements generally:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Fluctuates"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Increases'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 21
+    },
+    {
+      "question": "Which of the following has the largest atomic radius?",
+      "options": {
+        "A": "O",
+        "B": "F",
+        "C": "Ne",
+        "D": "C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'O'. Stronger the hydrogen bonding (strong intermolecular forces), greater of higher the boiling point will\n be.\n                                      Decrease in        Increase in                        Increase in",
+      "id": 22
+    },
+    {
+      "question": "The electronegativity of an element increases as you move:",
+      "options": {
+        "A": "Down a group",
+        "B": "Across a period from left to right",
+        "C": "From right to left in a period",
+        "D": "From left to right in a group"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Across a period from left to right'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 23
+    },
+    {
+      "question": "Which group of elements has the smallest atomic radius?",
+      "options": {
+        "A": "Alkali metals",
+        "B": "Halogens",
+        "C": "Noble gases",
+        "D": "Transition metals"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Halogens'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 24
+    },
+    {
+      "question": "Which of the following is true for elements across a period?",
+      "options": {
+        "A": "Atomic radius increases",
+        "B": "Electronegativity decreases",
+        "C": "Ionization energy decreases",
+        "D": "Electron affinity increases"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Electron affinity increases'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 25
+    },
+    {
+      "question": "The first ionization energy of oxygen is higher than that of sulfur because:",
+      "options": {
+        "A": "Oxygen has fewer electrons",
+        "B": "Oxygen has a smaller atomic radius",
+        "C": "Sulfur has more shielding electrons",
+        "D": "Sulfur is a noble gas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Oxygen has a smaller atomic radius'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 26
+    },
+    {
+      "question": "As you move down Group 17, the atomic radius of halogens:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "First increases, then decreases"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Increases'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 27
+    },
+    {
+      "question": "Which element has the smallest ionization energy in Period 3?",
+      "options": {
+        "A": "Na",
+        "B": "Mg",
+        "C": "Si",
+        "D": "P"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Na'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 28
+    },
+    {
+      "question": "The trend of increasing atomic radius down a group is mainly due to:",
+      "options": {
+        "A": "Increased electron shielding",
+        "B": "Decreased nuclear charge",
+        "C": "Increased effective nuclear charge",
+        "D": "Decreased electron-electron repulsion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Increased electron shielding'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 29
+    },
+    {
+      "question": "The effective nuclear charge increases as you move:",
+      "options": {
+        "A": "Down a group",
+        "B": "Across a period",
+        "C": "From left to right within a group",
+        "D": "Both A and B"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Across a period'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 30
+    },
+    {
+      "question": "Which of the following elements has the highest electron affinity?",
+      "options": {
+        "A": "Cl",
+        "B": "Br",
+        "C": "F",
+        "D": "I"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'F'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 31
+    },
+    {
+      "question": "Which element in Period 2 has the highest ionization energy?",
+      "options": {
+        "A": "Li",
+        "B": "Be",
+        "C": "B",
+        "D": "C"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'C'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 32
+    },
+    {
+      "question": "The electron configuration of a noble gas is:",
+      "options": {
+        "A": "ns²",
+        "B": "ns²np⁶",
+        "C": "ns²np⁶nd¹⁰",
+        "D": "ns²np⁶n⁰"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'ns²np⁶'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 33
+    },
+    {
+      "question": "Which of the following elements is most likely to have a high electronegativity?",
+      "options": {
+        "A": "Na",
+        "B": "Mg",
+        "C": "F",
+        "D": "K"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'F'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 34
+    },
+    {
+      "question": "Which trend in the periodic table increases as you move across a period from left to right?",
+      "options": {
+        "A": "Atomic radius",
+        "B": "Ionization energy",
+        "C": "Electron shielding",
+        "D": "Electron affinity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Ionization energy'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 35
+    },
+    {
+      "question": "As you move from left to right across a period, the atomic radius of the elements:",
+      "options": {
+        "A": "Decreases",
+        "B": "Increases",
+        "C": "First increases, then decreases",
+        "D": "Remains constant"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Decreases'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 36
+    },
+    {
+      "question": "Which of the following has the highest electronegativity?",
+      "options": {
+        "A": "Lithium",
+        "B": "Neon",
+        "C": "Oxygen",
+        "D": "Chlorine"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Chlorine'. Stronger the hydrogen bonding (strong intermolecular forces), greater of higher the boiling point will\n be.\n                                      Decrease in        Increase in                        Increase in",
+      "id": 37
+    },
+    {
+      "question": "Which of the following is the correct order of atomic radius from smallest to largest?",
+      "options": {
+        "A": "O < F < N",
+        "B": "N < O < F",
+        "C": "F < N < O",
+        "D": "N < F < O"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'N < O < F'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 38
+    },
+    {
+      "question": "Which of the following elements has the smallest ionization energy?",
+      "options": {
+        "A": "Be",
+        "B": "B",
+        "C": "N",
+        "D": "O"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'B'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 39
+    },
+    {
+      "question": "Which trend occurs as you move down a group in the periodic table?",
+      "options": {
+        "A": "Atomic radius decreases",
+        "B": "Ionization energy increases",
+        "C": "Electronegativity decreases",
+        "D": "Electron affinity increases"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Electronegativity decreases'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 40
+    },
+    {
+      "question": "Element with highest electronegativity is:",
+      "options": {
+        "A": "Oxygen",
+        "B": "Fluorine",
+        "C": "Nitrogen",
+        "D": "Chlorine"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Fluorine'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 41
+    },
+    {
+      "question": "Atomic radius across a period:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains same",
+        "D": "Doubles"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Decreases'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 42
+    },
+    {
+      "question": "Group 1 elements are called:",
+      "options": {
+        "A": "Halogens",
+        "B": "Noble gases",
+        "C": "Alkali metals",
+        "D": "Alkaline earth metals"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct answer: 'Alkali metals'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 43
+    },
+    {
+      "question": "Element with highest ionization energy:",
+      "options": {
+        "A": "Hydrogen",
+        "B": "Helium",
+        "C": "Neon",
+        "D": "Fluorine"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Helium'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 44
+    },
+    {
+      "question": "Metallic character down a group:",
+      "options": {
+        "A": "Decreases",
+        "B": "Increases",
+        "C": "Remains same",
+        "D": "Doubles"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Increases'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 45
+    },
+    {
+      "question": "Period number indicates:",
+      "options": {
+        "A": "Number of electrons",
+        "B": "Number of shells",
+        "C": "Atomic mass",
+        "D": "Number of neutrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'Number of shells'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 46
+    },
+    {
+      "question": "Which group has complete outer shells?",
+      "options": {
+        "A": "Group 1",
+        "B": "Group 2",
+        "C": "Group 17",
+        "D": "Group 18"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Group 18'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 47
+    },
+    {
+      "question": "Valency of nitrogen is:",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '3'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 48
+    },
+    {
+      "question": "Which is the most reactive halogen?",
+      "options": {
+        "A": "Iodine",
+        "B": "Chlorine",
+        "C": "Bromine",
+        "D": "Fluorine"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct answer: 'Fluorine'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 49
+    },
+    {
+      "question": "Across a period, ionization energy generally:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Stays constant",
+        "D": "Drops then rises"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct answer: 'Increases'. According to Federal Board Class 11 Chemistry principles of Periodic Table, Periodicity & Element Groups.",
+      "id": 50
+    }
+  ],
+  "subject": "chemistry"
+}
