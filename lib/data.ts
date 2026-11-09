@@ -15,6 +15,8 @@ const PHYSICS_9_DIR = path.join(process.cwd(), 'data', 'physics-9');
 const MATH_9_DIR = path.join(process.cwd(), 'data', 'math-9');
 const URDU_9_DIR = path.join(process.cwd(), 'data', 'urdu-9');
 const TARJUMA_9_DIR = path.join(process.cwd(), 'data', 'tarjuma-9');
+const ENGLISH_9_DIR = path.join(process.cwd(), 'data', 'english-9');
+const ISLAMIAT_9_DIR = path.join(process.cwd(), 'data', 'islamiat-9');
 
 export function getChaptersIndex(
   subject: SubjectId = 'physics'
@@ -33,6 +35,8 @@ export function getChaptersIndex(
     else if (subject === 'math-9') dir = MATH_9_DIR;
     else if (subject === 'urdu-9') dir = URDU_9_DIR;
     else if (subject === 'tarjuma-9') dir = TARJUMA_9_DIR;
+    else if (subject === 'english-9') dir = ENGLISH_9_DIR;
+    else if (subject === 'islamiat-9') dir = ISLAMIAT_9_DIR;
 
     const indexPath = path.join(dir, 'chapters-index.json');
     if (fs.existsSync(indexPath)) {
@@ -42,7 +46,9 @@ export function getChaptersIndex(
         subject === 'physics-9' ||
         subject === 'math-9' ||
         subject === 'urdu-9' ||
-        subject === 'tarjuma-9'
+        subject === 'tarjuma-9' ||
+        subject === 'english-9' ||
+        subject === 'islamiat-9'
           ? '9'
           : '11';
       return list.map((item) => ({ ...item, subject, grade: item.grade || grade }));
@@ -68,6 +74,8 @@ export function getAllChapters(): ChapterMeta[] {
     ...getChaptersIndex('math-9'),
     ...getChaptersIndex('urdu-9'),
     ...getChaptersIndex('tarjuma-9'),
+    ...getChaptersIndex('english-9'),
+    ...getChaptersIndex('islamiat-9'),
   ];
 }
 
@@ -94,6 +102,12 @@ export function getChapterBySlug(
     } else if (slug.startsWith('tarjuma-9')) {
       targetDir = TARJUMA_9_DIR;
       subject = 'tarjuma-9';
+    } else if (slug.startsWith('english-9')) {
+      targetDir = ENGLISH_9_DIR;
+      subject = 'english-9';
+    } else if (slug.startsWith('islamiat-9')) {
+      targetDir = ISLAMIAT_9_DIR;
+      subject = 'islamiat-9';
     } else if (slug.startsWith('urdu')) {
       targetDir = URDU_DIR;
       subject = 'urdu';
@@ -135,6 +149,8 @@ export function getChapterBySlug(
 
     // Fallback search across all directories
     const dirMap: Array<[string, SubjectId]> = [
+      [ISLAMIAT_9_DIR, 'islamiat-9'],
+      [ENGLISH_9_DIR, 'english-9'],
       [TARJUMA_9_DIR, 'tarjuma-9'],
       [URDU_9_DIR, 'urdu-9'],
       [MATH_9_DIR, 'math-9'],

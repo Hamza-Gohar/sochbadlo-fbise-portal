@@ -1,0 +1,188 @@
+{
+  "chapterNumber": 11,
+  "chapterTitle": "FBISE Section A Board Examination Simulator 04",
+  "subject": "english-9",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following words is correctly spelled?",
+      "options": [
+        "Privilege",
+        "Privelege",
+        "Priviledge",
+        "Privilege"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Privilege' is spelled with 'i' in both syllables and ends with 'e-g-e'."
+    },
+    {
+      "id": 2,
+      "question": "Choose the sentence with correct subject-verb agreement:",
+      "options": [
+        "Every student and teacher was inspired by the guest speaker.",
+        "Every student and teacher were inspired by the guest speaker.",
+        "Every student and teacher are inspired by the guest speaker.",
+        "Every student and teacher have been inspired by the guest speaker."
+      ],
+      "correctAnswer": "A",
+      "explanation": "Subjects preceded by 'every' or 'each' take singular verbs ('was inspired')."
+    },
+    {
+      "id": 3,
+      "question": "Identify the conditional sentence: 'If you heat ice, it melts.'",
+      "options": [
+        "Zero Conditional",
+        "First Conditional",
+        "Second Conditional",
+        "Third Conditional"
+      ],
+      "correctAnswer": "A",
+      "explanation": "This states a scientific reality in present tense, representing the Zero Conditional."
+    },
+    {
+      "id": 4,
+      "question": "Identify the poetic device: 'The leaves danced across the lawn in the autumn breeze.'",
+      "options": [
+        "Personification",
+        "Simile",
+        "Metaphor",
+        "Irony"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Attributing the human action 'danced' to leaves is personification."
+    },
+    {
+      "id": 5,
+      "question": "Convert to active voice: 'The mysterious letter was delivered by the postman.'",
+      "options": [
+        "The postman delivered the mysterious letter.",
+        "The postman has delivered the mysterious letter.",
+        "The postman was delivering the mysterious letter.",
+        "The postman had delivered the mysterious letter."
+      ],
+      "correctAnswer": "A",
+      "explanation": "Passive 'was delivered' transforms to active simple past 'delivered'."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following sentences contains a gerund phrase?",
+      "options": [
+        "Reading historical biographies expands one's perspective on life.",
+        "She was reading historical biographies last night.",
+        "Having read the book, she returned it.",
+        "She wanted to read historical biographies."
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Reading historical biographies' acts as the subject noun phrase of the verb 'expands', making it a gerund phrase."
+    },
+    {
+      "id": 7,
+      "question": "Identify the type of clause: 'Although he was fatigued, he continued solving the equations.'",
+      "options": [
+        "Adverbial clause of concession",
+        "Noun clause",
+        "Adjective clause",
+        "Coordinate clause"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Although he was fatigued' modifies the main verb by presenting a concession, forming an adverbial clause."
+    },
+    {
+      "id": 8,
+      "question": "Identify the demonstrative pronoun in: 'These are the best scientific journals in the library.'",
+      "options": [
+        "These",
+        "best",
+        "journals",
+        "library"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'These' stands alone as the subject replacing the noun phrase, functioning as a demonstrative pronoun."
+    },
+    {
+      "id": 9,
+      "question": "Which transitional word introduces an additional supporting point?",
+      "options": [
+        "Furthermore",
+        "However",
+        "Conversely",
+        "Nevertheless"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Furthermore' introduces additional evidence or points supporting an argument."
+    },
+    {
+      "id": 10,
+      "question": "Identify the adjective of quality in: 'The diligent scholar received full scholarship honors.'",
+      "options": [
+        "diligent",
+        "scholar",
+        "full",
+        "honors"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Diligent' describes the inherent characteristic or quality of the scholar."
+    },
+    {
+      "id": 11,
+      "question": "Identify the correct preposition: 'She has been studying in this academy ___ 2023.'",
+      "options": [
+        "since",
+        "for",
+        "from",
+        "at"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Since' is used to denote a specific starting point in time with perfect tenses."
+    },
+    {
+      "id": 12,
+      "question": "What is the tone of: 'Could you kindly review this draft when you have a moment?'",
+      "options": [
+        "Polite request",
+        "Harsh imperative",
+        "Sarcastic statement",
+        "Casual declaration"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The auxiliary 'could' paired with 'kindly' establishes a polite request."
+    },
+    {
+      "id": 13,
+      "question": "In 'The fog comes on little cat feet' (Carl Sandburg), the poet uses:",
+      "options": [
+        "Extended Metaphor",
+        "Direct Simile",
+        "Hyperbole",
+        "Alliteration only"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Comparing fog to a creeping cat without using 'like' or 'as' is a classic metaphor."
+    },
+    {
+      "id": 14,
+      "question": "Identify the correct sentence:",
+      "options": [
+        "One of my best friends lives in Islamabad.",
+        "One of my best friend lives in Islamabad.",
+        "One of my best friends live in Islamabad.",
+        "One of my best friend live in Islamabad."
+      ],
+      "correctAnswer": "A",
+      "explanation": "'One of + plural noun ('friends')' takes a singular verb ('lives')."
+    },
+    {
+      "id": 15,
+      "question": "What literary element creates sensory impressions for the reader?",
+      "options": [
+        "Imagery",
+        "Alliteration",
+        "Consonance",
+        "Meter"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Imagery employs descriptive language appealing to the five senses (visual, auditory, tactile, olfactory, gustatory)."
+    }
+  ]
+}

@@ -27,15 +27,17 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isMath9 = chapter.subject === 'math-9' || chapter.slug.startsWith('math-9');
   const isUrdu9 = chapter.subject === 'urdu-9' || chapter.slug.startsWith('urdu-9');
   const isTarjuma9 = chapter.subject === 'tarjuma-9' || chapter.slug.startsWith('tarjuma-9');
+  const isEnglish9 = chapter.subject === 'english-9' || chapter.slug.startsWith('english-9');
+  const isIslamiat9 = chapter.subject === 'islamiat-9' || chapter.slug.startsWith('islamiat-9');
   const isUrdu = (chapter.subject === 'urdu' || chapter.slug.startsWith('urdu')) && !isUrdu9;
   const isMath = (chapter.subject === 'math' || chapter.slug.startsWith('math-unit-') || chapter.slug.startsWith('math-model-paper-')) && !isMath9;
-  const isEnglish = chapter.subject === 'english' || chapter.slug.startsWith('english');
+  const isEnglish = (chapter.subject === 'english' || chapter.slug.startsWith('english')) && !isEnglish9;
   const isCS = chapter.subject === 'cs' || chapter.slug.startsWith('cs');
-  const isIslamiat = chapter.subject === 'islamiat' || chapter.slug.startsWith('islamiat');
+  const isIslamiat = (chapter.subject === 'islamiat' || chapter.slug.startsWith('islamiat')) && !isIslamiat9;
   const isTarjuma = (chapter.subject === 'tarjuma' || chapter.slug.startsWith('tarjuma')) && !isTarjuma9;
   const isBiology = chapter.subject === 'biology' || chapter.slug.startsWith('biology');
   const isChemistry = chapter.subject === 'chemistry' || chapter.slug.startsWith('chemistry');
-  const isRtl = isUrdu || isIslamiat || isTarjuma || isUrdu9 || isTarjuma9;
+  const isRtl = isUrdu || isIslamiat || isTarjuma || isUrdu9 || isTarjuma9 || isIslamiat9;
 
   const isPastPapers =
     chapter.slug === 'past-papers' ||
@@ -44,6 +46,8 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     chapter.slug.startsWith('math-9-model-paper-') ||
     chapter.slug.startsWith('urdu-9-model-paper-') ||
     chapter.slug.startsWith('tarjuma-9-model-paper-') ||
+    chapter.slug.startsWith('english-9-model-paper-') ||
+    chapter.slug.startsWith('islamiat-9-model-paper-') ||
     chapter.slug.startsWith('cs-model-paper-') ||
     chapter.slug.startsWith('islamiat-model-paper-') ||
     chapter.slug.startsWith('tarjuma-model-paper-') ||
@@ -61,6 +65,10 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (isUrdu9) tagLabel = `Class 9 · Urdu Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (chapter.slug.startsWith('tarjuma-9-model-paper-')) tagLabel = `Class 9 Tarjuma Simulator ${chapter.slug.split('-').pop()}`;
   else if (isTarjuma9) tagLabel = `Class 9 · Tarjuma Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (chapter.slug.startsWith('english-9-model-paper-')) tagLabel = `Class 9 English Simulator ${chapter.slug.split('-').pop()}`;
+  else if (isEnglish9) tagLabel = `Class 9 · English Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (chapter.slug.startsWith('islamiat-9-model-paper-')) tagLabel = `Class 9 Islamiat Simulator ${chapter.slug.split('-').pop()}`;
+  else if (isIslamiat9) tagLabel = `Class 9 · Islamiat Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (chapter.slug === 'past-papers') tagLabel = 'Board Simulator';
   else if (chapter.slug === 'urdu-model-paper') tagLabel = 'Urdu Full Board Simulator';
   else if (chapter.slug === 'urdu-ilm-e-bayan') tagLabel = 'Urdu Rhetoric (علم بیان)';
@@ -82,7 +90,15 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (isUrdu) tagLabel = `Urdu Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
 
   let description = `Comprehensive conceptual questions, dimensional formulas, and numericals for ${chapter.title} aligned with textbook SLOs.`;
-  if (chapter.slug.startsWith('urdu-9-model-paper-')) {
+  if (chapter.slug.startsWith('english-9-model-paper-')) {
+    description = `Official Federal Board Section A SSC-I annual examination simulation (Lecturer Adeela Naheed). 15 MCQs, 20-minute timer with complete grammatical reasoning.`;
+  } else if (isEnglish9) {
+    description = `Official FBISE SSC-I Class 9 English: ${chapter.title}. Core conceptual questions, grammar rules, literary devices, and SLO justifications.`;
+  } else if (chapter.slug.startsWith('islamiat-9-model-paper-')) {
+    description = `وفاقی تعلیمی بورڈ (FBISE) جماعت نہم لازمی اسلامیات سیکشن اے سالانہ ماڈل امتحانی پرچہ نمبر ${chapter.slug.split('-').pop()} (لیکچرار طیبہ رفاقت)۔ 20 معروضی سوالات مع تصدیق شدہ حل۔`;
+  } else if (isIslamiat9) {
+    description = `وفاقی تعلیمی بورڈ لازمی اسلامیات جماعت نہم (SSC-I): ${chapter.title} کے بنیادی ایمانی و اخلاقی احکام اور امتحانی کثیر الانتخابی سوالات۔`;
+  } else if (chapter.slug.startsWith('urdu-9-model-paper-')) {
     description = `وفاقی تعلیمی بورڈ (FBISE) جماعت نہم لازمی اردو سیکشن اے سالانہ ماڈل امتحانی پرچہ نمبر ${chapter.slug.split('-').pop()} (لیکچرار نرجس ظہیر)۔ 15 معروضی سوالات مع تصدیق شدہ حل۔`;
   } else if (isUrdu9) {
     description = `وفاقی تعلیمی بورڈ لازمی اردو جماعت نہم (SSC-I): ${chapter.title} کے بنیادی قواعد، معانی و مفاہیم اور امتحانی کثیر الانتخابی سوالات۔`;

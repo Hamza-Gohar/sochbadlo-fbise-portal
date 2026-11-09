@@ -1,0 +1,188 @@
+{
+  "chapterNumber": 9,
+  "chapterTitle": "FBISE Section A Board Examination Simulator 02",
+  "subject": "english-9",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following words is correctly spelled?",
+      "options": [
+        "Occurrence",
+        "Occurence",
+        "Occurrance",
+        "Ocurrence"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Occurrence' is spelled with double 'c' and double 'r' followed by 'ence'."
+    },
+    {
+      "id": 2,
+      "question": "Identify the type of sentence: 'Alas! We lost our way in the dark forest.'",
+      "options": [
+        "Exclamatory",
+        "Declarative",
+        "Imperative",
+        "Interrogative"
+      ],
+      "correctAnswer": "A",
+      "explanation": "The sentence expresses sudden grief or strong emotion with an interjection ('Alas!') and exclamation mark."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following sentences is in the Third Conditional?",
+      "options": [
+        "If she had known the truth, she would have told us.",
+        "If she knows the truth, she will tell us.",
+        "If she knew the truth, she would tell us.",
+        "If she learns the truth, she tells us."
+      ],
+      "correctAnswer": "A",
+      "explanation": "The Third conditional follows: 'If + past perfect ('had known'), would have + past participle ('would have told')'."
+    },
+    {
+      "id": 4,
+      "question": "'The classroom was a zoo during recess.' This sentence contains a:",
+      "options": [
+        "Metaphor",
+        "Simile",
+        "Personification",
+        "Hyperbole"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Directly equating the classroom to a zoo without using 'like' or 'as' creates a metaphor."
+    },
+    {
+      "id": 5,
+      "question": "Choose the sentence containing a gerund as subject:",
+      "options": [
+        "Swimming is an excellent full-body exercise.",
+        "He is swimming across the lake.",
+        "The swimming pool is clean.",
+        "She wanted to swim across the lake."
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Swimming' functions as the noun subject of the sentence, making it a gerund."
+    },
+    {
+      "id": 6,
+      "question": "Change into passive: 'The chef prepared a delightful five-course meal.'",
+      "options": [
+        "A delightful five-course meal was prepared by the chef.",
+        "A delightful five-course meal has been prepared by the chef.",
+        "A delightful five-course meal is prepared by the chef.",
+        "A delightful five-course meal was being prepared by the chef."
+      ],
+      "correctAnswer": "A",
+      "explanation": "Simple past 'prepared' converts to 'was prepared by the chef' in the passive voice."
+    },
+    {
+      "id": 7,
+      "question": "Identify the transitional device indicating contrast:",
+      "options": [
+        "However",
+        "Consequently",
+        "Moreover",
+        "Furthermore"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'However' is an adversative transitional adverb used to show contrast between clauses."
+    },
+    {
+      "id": 8,
+      "question": "Identify the underlined part: 'She spoke in a very gentle manner.'",
+      "options": [
+        "Adverb phrase",
+        "Noun phrase",
+        "Adjective phrase",
+        "Prepositional phrase acting as noun"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'In a very gentle manner' modifies the verb 'spoke' by indicating how she spoke, functioning as an adverb phrase."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following sentences uses a collective noun correctly?",
+      "options": [
+        "The jury has reached its unanimous verdict.",
+        "The jury have reached its unanimous verdict.",
+        "The jurys has reached its unanimous verdict.",
+        "The jury are unanimous in its verdict."
+      ],
+      "correctAnswer": "A",
+      "explanation": "When acting as a single cohesive unit, the collective noun 'jury' takes a singular verb ('has') and pronoun ('its')."
+    },
+    {
+      "id": 10,
+      "question": "Choose the sentence with correct punctuation:",
+      "options": [
+        "Although it was raining heavily, they decided to go for a hike.",
+        "Although it was raining heavily; they decided to go for a hike.",
+        "Although it was raining heavily they decided, to go for a hike.",
+        "Although, it was raining heavily they decided to go for a hike."
+      ],
+      "correctAnswer": "A",
+      "explanation": "A comma correctly separates the introductory adverbial dependent clause from the independent main clause."
+    },
+    {
+      "id": 11,
+      "question": "What type of pronoun is 'myself' in: 'I will finish this challenging assignment myself'?",
+      "options": [
+        "Emphatic pronoun",
+        "Reflexive pronoun",
+        "Relative pronoun",
+        "Demonstrative pronoun"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Myself' is used for emphasis directly reinforcing the subject 'I', rather than acting as a direct object."
+    },
+    {
+      "id": 12,
+      "question": "Identify the figure of speech: 'The daffodils tossed their heads in sprightly dance.'",
+      "options": [
+        "Personification",
+        "Metaphor",
+        "Simile",
+        "Irony"
+      ],
+      "correctAnswer": "A",
+      "explanation": "Attributing human actions ('tossed their heads', 'dance') to flowers represents personification."
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct preposition: 'The committee agreed ___ the proposed changes unanimously.'",
+      "options": [
+        "to",
+        "with",
+        "on",
+        "at"
+      ],
+      "correctAnswer": "A",
+      "explanation": "One 'agrees to' a proposal, plan, or change, whereas one 'agrees with' a person."
+    },
+    {
+      "id": 14,
+      "question": "In the sentence 'The wounded soldier was carried to safety', the word 'wounded' is a:",
+      "options": [
+        "Past participle used as an adjective",
+        "Present participle",
+        "Gerund",
+        "Infinitive"
+      ],
+      "correctAnswer": "A",
+      "explanation": "'Wounded' is the past participle form of 'wound' functioning adjectivally to describe 'soldier'."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following sentences contains an independent clause?",
+      "options": [
+        "She loved reading classic novels in the evening.",
+        "Because she loved reading classic novels in the evening.",
+        "Although she loved reading classic novels in the evening.",
+        "While she was reading classic novels in the evening."
+      ],
+      "correctAnswer": "A",
+      "explanation": "Option A contains a complete thought with subject and finite verb, expressing a complete independent sentence."
+    }
+  ]
+}

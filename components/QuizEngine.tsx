@@ -37,7 +37,7 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
 
   const questions = chapter.questions;
   const currentQ = questions[currentIndex] || questions[0];
-  const isUrdu = slug.startsWith('urdu') || slug.startsWith('tarjuma') || /[\u0600-\u06FF]/.test(currentQ?.question || '');
+  const isUrdu = slug.startsWith('urdu') || slug.startsWith('tarjuma') || slug.startsWith('islamiat-9') || /[\u0600-\u06FF]/.test(currentQ?.question || '');
 
   const urduOptionLabels: Record<'A' | 'B' | 'C' | 'D', string> = {
     A: 'الف (A)',

@@ -34,10 +34,16 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     chapter.subject === 'urdu-9' ||
     slug.startsWith('urdu-9') ||
     chapter.subject === 'tarjuma-9' ||
-    slug.startsWith('tarjuma-9');
+    slug.startsWith('tarjuma-9') ||
+    chapter.subject === 'english-9' ||
+    slug.startsWith('english-9') ||
+    chapter.subject === 'islamiat-9' ||
+    slug.startsWith('islamiat-9');
   let subjectName = 'Physics';
   if (chapter.subject === 'urdu-9' || slug.startsWith('urdu-9')) subjectName = 'Urdu Compulsory (اردو لازمی)';
   else if (chapter.subject === 'tarjuma-9' || slug.startsWith('tarjuma-9')) subjectName = 'Tarjuma-tul-Quran (ترجمۃ القرآن المجید)';
+  else if (chapter.subject === 'english-9' || slug.startsWith('english-9')) subjectName = 'English Compulsory';
+  else if (chapter.subject === 'islamiat-9' || slug.startsWith('islamiat-9')) subjectName = 'Islamiat Compulsory (اسلامیات لازمی)';
   else if (chapter.subject === 'urdu') subjectName = 'Urdu';
   else if (chapter.subject === 'math') subjectName = 'Mathematics';
   else if (chapter.subject === 'math-9' || slug.startsWith('math-9')) subjectName = 'Mathematics';
