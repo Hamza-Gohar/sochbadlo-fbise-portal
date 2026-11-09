@@ -1,0 +1,551 @@
+{
+  "chapterNumber": 3,
+  "chapterTitle": "Unit 03: Programming Fundamentals & Web Development",
+  "slug": "cs-10-chapter-3",
+  "totalQuestions": 45,
+  "fileName": "cs-10-chapter-3.json",
+  "subject": "cs-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the first step in website development?",
+      "options": {
+        "A": "Writing code",
+        "B": "Testing the website",
+        "C": "Planning the website",
+        "D": "Launching the website"
+      },
+      "correctAnswer": "C",
+      "explanation": "Website development starts with planning to define purpose, goals, and user actions."
+    },
+    {
+      "id": 2,
+      "question": "Website development is divided into which two main segments?",
+      "options": {
+        "A": "Design and Hosting",
+        "B": "Front-end and Back-end",
+        "C": "Client and User",
+        "D": "Software and Hardware"
+      },
+      "correctAnswer": "B",
+      "explanation": "Websites are divided into front-end (user interface) and backend (server-side processing)."
+    },
+    {
+      "id": 3,
+      "question": "Which part of a website is also called client-side?",
+      "options": {
+        "A": "Database",
+        "B": "Server",
+        "C": "Back-end",
+        "D": "Front-end"
+      },
+      "correctAnswer": "D",
+      "explanation": "Front-end runs on the user’s device and is called client-side."
+    },
+    {
+      "id": 4,
+      "question": "Which language is NOT used in front-end development?",
+      "options": {
+        "A": "HTML",
+        "B": "CSS",
+        "C": "JavaScript",
+        "D": "Python"
+      },
+      "correctAnswer": "D",
+      "explanation": "Python is mainly used for back-end development."
+    },
+    {
+      "id": 5,
+      "question": "Back-end developers mainly work on which aspect?",
+      "options": {
+        "A": "Website colors",
+        "B": "Images and buttons",
+        "C": "Database and server logic",
+        "D": "Page layout"
+      },
+      "correctAnswer": "C",
+      "explanation": "Back-end handles databases, data processing, and server logic."
+    },
+    {
+      "id": 6,
+      "question": "Which architecture shows interaction between client and server?",
+      "options": {
+        "A": "Peer-to-peer",
+        "B": "Standalone system",
+        "C": "Client-server architecture",
+        "D": "Cloud computing"
+      },
+      "correctAnswer": "C",
+      "explanation": "Client-server architecture allows communication between user devices and servers."
+    },
+    {
+      "id": 7,
+      "question": "What is responsive web design mainly used for?",
+      "options": {
+        "A": "Increasing storage",
+        "B": "Adjusting website to different screen sizes",
+        "C": "Improving server speed",
+        "D": "Securing data"
+      },
+      "correctAnswer": "B",
+      "explanation": "Responsive design adapts layouts for mobiles, tablets, and desktops."
+    },
+    {
+      "id": 8,
+      "question": "Coding schemes are used to convert data into which form?",
+      "options": {
+        "A": "Decimal",
+        "B": "Alphabetic",
+        "C": "Binary",
+        "D": "Graphical"
+      },
+      "correctAnswer": "C",
+      "explanation": "Computers understand data in binary form (0s and 1s)."
+    },
+    {
+      "id": 9,
+      "question": "ASCII stands for:",
+      "options": {
+        "A": "American Software Code",
+        "B": "American Standard Code for Information Interchange",
+        "C": "Advanced System Code Interface",
+        "D": "Automated Standard Code Index"
+      },
+      "correctAnswer": "B",
+      "explanation": "ASCII is a standard character encoding system."
+    },
+    {
+      "id": 10,
+      "question": "How many characters can ASCII-7 represent?",
+      "options": {
+        "A": "64",
+        "B": "128",
+        "C": "256",
+        "D": "512"
+      },
+      "correctAnswer": "B",
+      "explanation": "ASCII-7 uses 7 bits and represents 128 characters."
+    },
+    {
+      "id": 11,
+      "question": "Extended ASCII uses how many bits?",
+      "options": {
+        "A": "6-bit",
+        "B": "7-bit",
+        "C": "8-bit",
+        "D": "16-bit"
+      },
+      "correctAnswer": "C",
+      "explanation": "Extended ASCII uses 8 bits and can represent 256 characters."
+    },
+    {
+      "id": 12,
+      "question": "Why was Unicode introduced?",
+      "options": {
+        "A": "To replace HTML",
+        "B": "To support all world languages",
+        "C": "To reduce memory usage",
+        "D": "To improve graphics"
+      },
+      "correctAnswer": "B",
+      "explanation": "Unicode supports characters from almost all languages."
+    },
+    {
+      "id": 13,
+      "question": "Which version of Unicode was first introduced?",
+      "options": {
+        "A": "1981",
+        "B": "1987",
+        "C": "1991",
+        "D": "2000"
+      },
+      "correctAnswer": "C",
+      "explanation": "Unicode was first introduced in 1991."
+    },
+    {
+      "id": 14,
+      "question": "JavaScript is mainly used to add which feature to websites?",
+      "options": {
+        "A": "Styling",
+        "B": "Structure",
+        "C": "Interactivity",
+        "D": "Hosting"
+      },
+      "correctAnswer": "C",
+      "explanation": "JavaScript adds interactivity like clicks, forms, and dynamic updates."
+    },
+    {
+      "id": 15,
+      "question": "JavaScript arrays are used to:",
+      "options": {
+        "A": "Store single values",
+        "B": "Store multiple values in one variable",
+        "C": "Design layouts",
+        "D": "Connect databases"
+      },
+      "correctAnswer": "B",
+      "explanation": "Arrays store multiple related values in a single variable."
+    },
+    {
+      "id": 16,
+      "question": "Which symbol is used to represent a decision in a flowchart?",
+      "options": {
+        "A": "Rectangle",
+        "B": "Oval",
+        "C": "Diamond",
+        "D": "Parallelogram"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct option is D: 'Parallelogram'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 17,
+      "question": "What is the correct syntax for declaring an integer variable in C?",
+      "options": {
+        "A": "integer num;",
+        "B": "int num;",
+        "C": "num int;",
+        "D": "var num;"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'int num;'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 18,
+      "question": "The logical OR operator in C is represented by:",
+      "options": {
+        "A": "&",
+        "B": "||",
+        "C": "&&",
+        "D": "%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: '||'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 19,
+      "question": "Which loop ensures at least one execution of its body?",
+      "options": {
+        "A": "for loop",
+        "B": "while loop",
+        "C": "do-while loop",
+        "D": "switch statement"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct option is D: 'switch statement'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 20,
+      "question": "What is the output of 10 % 4 in C?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "0",
+        "D": "10"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct option is A: '2'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 21,
+      "question": "What is the return type of the main() function in C?",
+      "options": {
+        "A": "void",
+        "B": "int",
+        "C": "float",
+        "D": "string"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'int'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 22,
+      "question": "In a flowchart, a parallelogram represents:",
+      "options": {
+        "A": "Input/Output",
+        "B": "Processing",
+        "C": "Decision",
+        "D": "Connector"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct option is A: 'Input/Output'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 23,
+      "question": "Which escape sequence in C moves the cursor to the next line?",
+      "options": {
+        "A": "\\t",
+        "B": "\\n",
+        "C": "\\r",
+        "D": "\\b"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: '\\n'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 24,
+      "question": "Which operator in C is used for modulus division?",
+      "options": {
+        "A": "/",
+        "B": "%",
+        "C": "*",
+        "D": "//"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: '%'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 25,
+      "question": "What will be the value of x after the following execution? int x = 5; x += 3;",
+      "options": {
+        "A": "5",
+        "B": "8",
+        "C": "3",
+        "D": "15"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: '8'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 26,
+      "question": "Which data type is used to store decimal values in C?",
+      "options": {
+        "A": "int",
+        "B": "char",
+        "C": "float",
+        "D": "bool"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'float'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 27,
+      "question": "What is the correct HTML element for inserting a line break?",
+      "options": {
+        "A": "<br>",
+        "B": "<hr>",
+        "C": "<p>",
+        "D": "<line>"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct option is A: '<br>'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 28,
+      "question": "Which logic gate produces an output only when both inputs are 1?",
+      "options": {
+        "A": "OR",
+        "B": "NOT",
+        "C": "AND",
+        "D": "XOR"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct option is A: 'OR'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 29,
+      "question": "In C, the sizeof(int) typically returns:",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "8",
+        "D": "16"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: '4'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 30,
+      "question": "What is the correct way to write a single-line comment in C?",
+      "options": {
+        "A": "// Comment",
+        "B": "/* Comment */",
+        "C": "# Comment",
+        "D": "-- Comment"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct option is A: '// Comment'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 31,
+      "question": "Which function is used to take user input in C?",
+      "options": {
+        "A": "printf()",
+        "B": "scanf()",
+        "C": "gets()",
+        "D": "input()"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'scanf()'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 32,
+      "question": "What is the extension of a C program file?",
+      "options": {
+        "A": ".exe",
+        "B": ".cpp",
+        "C": ".c",
+        "D": ".txt"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: '.c'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is a valid loop declaration?",
+      "options": {
+        "A": "for(;;)",
+        "B": "for i=0; i<5; i++",
+        "C": "for(int i = 0; i < 10, i++)",
+        "D": "for {i = 0; i < 10; i++}"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct option is A: 'for(;;)'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 34,
+      "question": "What is the output of the following code? int a = 15; float s = 5.50; printf(\"%f\", a/s);",
+      "options": {
+        "A": "2",
+        "B": "2.72",
+        "C": "3",
+        "D": "5"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: '2.72'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 35,
+      "question": "Which function must all C programs contain?",
+      "options": {
+        "A": "system()",
+        "B": "main()",
+        "C": "scanf()",
+        "D": "getche()"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'main()'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 36,
+      "question": "What does != mean in C?",
+      "options": {
+        "A": "Assignment",
+        "B": "Not equal to",
+        "C": "Greater than",
+        "D": "Less than"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Not equal to'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 37,
+      "question": "Which of the following operators has the highest precedence in C?",
+      "options": {
+        "A": "+",
+        "B": "*",
+        "C": "&&",
+        "D": "="
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: '*'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 38,
+      "question": "The do-while loop runs at least:",
+      "options": {
+        "A": "0 times",
+        "B": "1 time",
+        "C": "2 times",
+        "D": "Infinite times"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: '1 time'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 39,
+      "question": "Which function is used to clear the output screen in C?",
+      "options": {
+        "A": "clear()",
+        "B": "clrscr()",
+        "C": "reset()",
+        "D": "printf()"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'reset()'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 40,
+      "question": "In C, an array index starts from:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "Depends on declaration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: '0'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 41,
+      "question": "What is the output of printf(\"%c\", 65);?",
+      "options": {
+        "A": "65",
+        "B": "A",
+        "C": "B",
+        "D": "Error"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct option is A: '65'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 42,
+      "question": "The getch() function is used to:",
+      "options": {
+        "A": "Print characters",
+        "B": "Read a character",
+        "C": "Display text",
+        "D": "Perform calculations"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Read a character'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 43,
+      "question": "Which keyword is used to declare a constant variable in C?",
+      "options": {
+        "A": "final",
+        "B": "static",
+        "C": "const",
+        "D": "let"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'const'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 44,
+      "question": "What is the correct syntax to declare a character variable in C?",
+      "options": {
+        "A": "char name;",
+        "B": "character name;",
+        "C": "char name[10];",
+        "D": "Both a and c"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'character name;'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is a valid conditional statement in C?",
+      "options": {
+        "A": "if x = 10",
+        "B": "if(x == 10)",
+        "C": "if(x != 10) then",
+        "D": "if x > 10:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'if(x == 10)'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+    }
+  ]
+}

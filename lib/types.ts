@@ -32,7 +32,8 @@ export type SubjectId =
   | 'biology-9'
   | 'math-10'
   | 'physics-10'
-  | 'chemistry-10';
+  | 'chemistry-10'
+  | 'cs-10';
 
 export interface ChapterData {
   chapterNumber: number;

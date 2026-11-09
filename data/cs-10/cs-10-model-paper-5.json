@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 13,
+  "chapterTitle": "FBISE Annual Exam Simulator 05 (Unit 8 & Systems Architecture)",
+  "slug": "cs-10-model-paper-5",
+  "totalQuestions": 12,
+  "fileName": "cs-10-model-paper-5.json",
+  "subject": "cs-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary purpose of an “Elevator Pitch”?",
+      "options": {
+        "A": "To provide a 40-page roadmap",
+        "B": "To quickly pique interest and seek a next step",
+        "C": "To list all technical specifications of a product",
+        "D": "To sign a legal contract immediately"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('To quickly pique interest and seek a next step') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 05 (Unit 8 & Systems Architecture)."
+    },
+    {
+      "id": 2,
+      "question": "The “Hook” in a pitch is intended to:",
+      "options": {
+        "A": "Summarize the financial history",
+        "B": "Grab attention at the very beginning",
+        "C": "Introduce the technical staff",
+        "D": "Close the deal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('Grab attention at the very beginning') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 05 (Unit 8 & Systems Architecture)."
+    },
+    {
+      "id": 3,
+      "question": "Which component of a pitch explains what makes the business unique?",
+      "options": {
+        "A": "Financial Projections",
+        "B": "Unique Selling Proposition (USP)",
+        "C": "The Team",
+        "D": "The Appendix"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('Unique Selling Proposition (USP)') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 05 (Unit 8 & Systems Architecture)."
+    },
+    {
+      "id": 4,
+      "question": "A business plan is different from a pitch document because it is:",
+      "options": {
+        "A": "Much shorter",
+        "B": "A comprehensive, detailed document (20–40 pages)",
+        "C": "Only used for verbal presentations",
+        "D": "Not required for investors"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('A comprehensive, detailed document (20–40 pages)') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 05 (Unit 8 & Systems Architecture)."
+    },
+    {
+      "id": 5,
+      "question": "Every elevator pitch should end with a:",
+      "options": {
+        "A": "Long silence",
+        "B": "Detailed budget table",
+        "C": "Clear “Call to Action”",
+        "D": "Technical diagram"
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('Clear “Call to Action”') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 05 (Unit 8 & Systems Architecture)."
+    },
+    {
+      "id": 6,
+      "question": "Which OS manages a network of computers, allowing programs to run on multiple machines simultaneously?",
+      "options": {
+        "A": "Embedded OS",
+        "B": "Distributed OS",
+        "C": "Time-sharing OS",
+        "D": "Batch Processing OS"
+      },
+      "correctAnswer": "B",
+      "explanation": "A Distributed OS allows different computers to work together and share resources."
+    },
+    {
+      "id": 7,
+      "question": "An Operating System integrated into the hardware of a specific device like a microwave oven is called:",
+      "options": {
+        "A": "Real-time OS",
+        "B": "Distributed OS",
+        "C": "Embedded OS",
+        "D": "Multitasking OS"
+      },
+      "correctAnswer": "C",
+      "explanation": "Embedded operating systems are built into devices such as microwaves, washing machines, and smart appliances."
+    },
+    {
+      "id": 8,
+      "question": "What is a \"Thread\" in the context of a process?",
+      "options": {
+        "A": "A separate hardware device",
+        "B": "A basic ordered sequence of instructions within a process",
+        "C": "A backup of the process",
+        "D": "A security policy"
+      },
+      "correctAnswer": "B",
+      "explanation": "A thread is the smallest unit of execution within a process."
+    },
+    {
+      "id": 9,
+      "question": "Which process state occurs when a process is waiting for a resource like a printer?",
+      "options": {
+        "A": "Ready State",
+        "B": "Running State",
+        "C": "Blocked/Waiting State",
+        "D": "Terminated State"
+      },
+      "correctAnswer": "C",
+      "explanation": "A process enters the blocked/waiting state when it must wait for a resource."
+    },
+    {
+      "id": 10,
+      "question": "A \"Deadlock\" occurs when:",
+      "options": {
+        "A": "A process finishes its execution",
+        "B": "Two or more processes are stuck waiting for each other’s resources",
+        "C": "The computer is turned off",
+        "D": "A virus attacks the system"
+      },
+      "correctAnswer": "B",
+      "explanation": "Deadlock happens when processes wait indefinitely for resources held by each other."
+    },
+    {
+      "id": 11,
+      "question": "Signals that alert the CPU to events needing immediate attention are called:",
+      "options": {
+        "A": "Schedules",
+        "B": "Threads",
+        "C": "Interrupts",
+        "D": "Batches"
+      },
+      "correctAnswer": "C",
+      "explanation": "Interrupts notify the CPU about events that require immediate processing."
+    },
+    {
+      "id": 12,
+      "question": "What is software?",
+      "options": {
+        "A": "Physical parts of a computer",
+        "B": "Programs and instructions that tell the computer what to do",
+        "C": "A type of hardware",
+        "D": "An operating system only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Software is a collection of programs and instructions that enable the computer to perform specific tasks."
+    }
+  ]
+}

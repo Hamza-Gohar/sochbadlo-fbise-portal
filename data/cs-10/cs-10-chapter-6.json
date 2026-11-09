@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 6,
+  "chapterTitle": "Unit 06: Impacts of Computing & Cyber Ethics",
+  "slug": "cs-10-chapter-6",
+  "totalQuestions": 35,
+  "fileName": "cs-10-chapter-6.json",
+  "subject": "cs-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Technology addiction refers to the excessive and compulsive use of which of the following?",
+      "options": {
+        "A": "Physical books and magazines",
+        "B": "Outdoor sports and exercise",
+        "C": "Smartphones, computers, and social media",
+        "D": "Board games and puzzles"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Smartphones, computers, and social media'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 2,
+      "question": "Which activity is specifically mentioned as a common lead to technology addiction?",
+      "options": {
+        "A": "Cooking",
+        "B": "Endless web browsing",
+        "C": "Gardening",
+        "D": "Painting"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Endless web browsing'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 3,
+      "question": "What is the key difference between using technology a lot and being addicted to it?",
+      "options": {
+        "A": "The cost of the device",
+        "B": "Whether it negatively affects one's life and control",
+        "C": "The brand of the smartphone",
+        "D": "How many apps are installed"
+      },
+      "correctAnswer": "B",
+      "explanation": "Addiction is defined by the inability to control the behavior despite negative consequences to daily life and relationships."
+    },
+    {
+      "id": 4,
+      "question": "How can social media contribute to depression and anxiety according to the text?",
+      "options": {
+        "A": "By teaching new skills",
+        "B": "Through constant comparison and cyberbullying",
+        "C": "By improving sleep patterns",
+        "D": "By helping with homework"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Through constant comparison and cyberbullying'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 5,
+      "question": "What is a common result of spending excessive time on screens?",
+      "options": {
+        "A": "Increased face-to-face interaction",
+        "B": "Social isolation and loneliness",
+        "C": "Better relationship with family",
+        "D": "Improved physical fitness"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Social isolation and loneliness'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 6,
+      "question": "Why might a student addicted to technology suffer from academic underperformance?",
+      "options": {
+        "A": "Because they have too much information",
+        "B": "Due to constant distractions and difficulty focusing",
+        "C": "Because they use educational apps too much",
+        "D": "Because they spend too much time in the library"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Due to constant distractions and difficulty focusing'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 7,
+      "question": "The internet is described as being like a massive:",
+      "options": {
+        "A": "Shopping mall",
+        "B": "Library where you can find almost anything to learn",
+        "C": "Television station",
+        "D": "Sports stadium"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Library where you can find almost anything to learn'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 8,
+      "question": "How does the internet benefit scientific research?",
+      "options": {
+        "A": "By providing free entertainment",
+        "B": "By allowing researchers to collaborate and share findings online",
+        "C": "By selling lab equipment",
+        "D": "By replacing the need for experiments"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'By allowing researchers to collaborate and share findings online'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 9,
+      "question": "Social media sites have played a big role in social activism by:",
+      "options": {
+        "A": "Selling products",
+        "B": "Making people more aware of social and environmental problems",
+        "C": "Providing games",
+        "D": "Discouraging people from voting"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Making people more aware of social and environmental problems'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 10,
+      "question": "Which service makes it easier for people to get healthcare in remote areas?",
+      "options": {
+        "A": "Online shopping",
+        "B": "Telemedicine",
+        "C": "Social media",
+        "D": "Gaming platforms"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Telemedicine'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 11,
+      "question": "What is cybercrime as defined in section 6.2.2?",
+      "options": {
+        "A": "Using the internet to find a job",
+        "B": "Illegal activities like hacking, identity theft, and fraud",
+        "C": "Learning how to code",
+        "D": "Sending emails to friends"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Illegal activities like hacking, identity theft, and fraud'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 12,
+      "question": "Cyberterrorism is characterized by attacking computer systems to:",
+      "options": {
+        "A": "Win a game",
+        "B": "Create fear or disrupt essential services for political reasons",
+        "C": "Make money through advertising",
+        "D": "Help the government"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Create fear or disrupt essential services for political reasons'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following is considered “Illegal Content” on the internet?",
+      "options": {
+        "A": "Educational tutorials",
+        "B": "Pirated software and copyrighted materials without permission",
+        "C": "Public news articles",
+        "D": "Scientific papers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Pirated software and copyrighted materials without permission'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 14,
+      "question": "What is phishing?",
+      "options": {
+        "A": "A type of online game",
+        "B": "A scam that tricks people into giving away personal info like passwords",
+        "C": "A way to catch real fish using sensors",
+        "D": "A software used to edit photos"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'A scam that tricks people into giving away personal info like passwords'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 15,
+      "question": "What are “Cookies” in the context of web browsing?",
+      "options": {
+        "A": "Digital reward points",
+        "B": "Tiny files saved on a device to remember online activity",
+        "C": "Viruses that delete data",
+        "D": "Physical snacks for computer users"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Tiny files saved on a device to remember online activity'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 16,
+      "question": "How does Spyware invade a user’s privacy?",
+      "options": {
+        "A": "By cleaning the hard drive",
+        "B": "By spying on activity and taking personal info like login credentials",
+        "C": "By speeding up the internet connection",
+        "D": "By showing educational videos"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'By spying on activity and taking personal info like login credentials'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 17,
+      "question": "What is a recommended way to deal with spam emails?",
+      "options": {
+        "A": "Reply to every email",
+        "B": "Use spam filters and be careful who you share your email with",
+        "C": "Click on all the links to see what they are",
+        "D": "Forward them to your friends"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Use spam filters and be careful who you share your email with'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 18,
+      "question": "Cloud computing allows users to rent computer resources instead of:",
+      "options": {
+        "A": "Using the internet",
+        "B": "Buying and managing all the hardware themselves",
+        "C": "Having a monitor",
+        "D": "Paying for electricity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Buying and managing all the hardware themselves'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 19,
+      "question": "A “Public Cloud” is called public because the infrastructure is:",
+      "options": {
+        "A": "Located in a public park",
+        "B": "Owned by a third-party provider and available to the general public",
+        "C": "Free for everyone to use without a password",
+        "D": "Managed by the government only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Owned by a third-party provider and available to the general public'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 20,
+      "question": "A “Private Cloud” is exclusively used by:",
+      "options": {
+        "A": "Any individual with a smartphone",
+        "B": "A single organization or entity",
+        "C": "Social media influencers",
+        "D": "Students in a classroom"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'A single organization or entity'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 21,
+      "question": "What is the purpose of Data Encryption in cloud computing?",
+      "options": {
+        "A": "To make the files smaller",
+        "B": "To keep data safe from unauthorized access by using secure methods",
+        "C": "To change the language of the data",
+        "D": "To delete old files automatically"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'To keep data safe from unauthorized access by using secure methods'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 22,
+      "question": "Biometric sensors help secure devices by using:",
+      "options": {
+        "A": "Long text passwords",
+        "B": "Fingerprints or facial recognition",
+        "C": "Secret handshakes",
+        "D": "Voice recordings only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Fingerprints or facial recognition'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 23,
+      "question": "A firewall acts like a:",
+      "options": {
+        "A": "Battery charger",
+        "B": "Barrier that blocks unwanted traffic from entering or leaving a network",
+        "C": "Storage device for photos",
+        "D": "Cooling fan for the CPU"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Barrier that blocks unwanted traffic from entering or leaving a network'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 24,
+      "question": "Why are Operating System updates important for security?",
+      "options": {
+        "A": "They give the computer a new look",
+        "B": "They often include security patches that address weaknesses",
+        "C": "They delete unnecessary files",
+        "D": "They make the keyboard easier to use"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'They often include security patches that address weaknesses'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 25,
+      "question": "What does 2FA stand for in password management?",
+      "options": {
+        "A": "Two-File Attachment",
+        "B": "Two-Factor Authentication",
+        "C": "Twice-Fast Access",
+        "D": "Two-Folder Arrangement"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Two-Factor Authentication'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 26,
+      "question": "What is the role of a VPN?",
+      "options": {
+        "A": "To increase the volume of the speakers",
+        "B": "To encrypt the internet connection and protect online activities",
+        "C": "To back up files to a USB drive",
+        "D": "To scan for physical hardware damage"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'To encrypt the internet connection and protect online activities'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 27,
+      "question": "Cybersecurity is the practice of protecting systems from:",
+      "options": {
+        "A": "Dust and heat",
+        "B": "Unauthorized access, cyberattacks, and malicious activities",
+        "C": "Expensive electricity bills",
+        "D": "Low internet speeds"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Unauthorized access, cyberattacks, and malicious activities'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 28,
+      "question": "Which of the following is an example of an “Instance of Cybercrime” mentioned in the text?",
+      "options": {
+        "A": "Writing a blog post",
+        "B": "Stealing personal info like social security or bank details",
+        "C": "Watching a movie online",
+        "D": "Playing a multiplayer game"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Stealing personal info like social security or bank details'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 29,
+      "question": "What is DDoS (as shown in the Fig. 6.20)?",
+      "options": {
+        "A": "A type of secure password",
+        "B": "A cyberattack that floods a website with traffic to make it unusable",
+        "C": "A department of the police",
+        "D": "A new social media platform"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'A cyberattack that floods a website with traffic to make it unusable'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 30,
+      "question": "Cybercrime laws are designed to:",
+      "options": {
+        "A": "Help people hack safely",
+        "B": "Set punishments for cybercriminals and guide police",
+        "C": "Make the internet faster",
+        "D": "Charge people for every email they send"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Set punishments for cybercriminals and guide police'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 31,
+      "question": "Users can protect their privacy on social media by:",
+      "options": {
+        "A": "Sharing their password with everyone",
+        "B": "Adjusting privacy settings and being cautious about sharing sensitive info",
+        "C": "Accepting all friend requests",
+        "D": "Posting their home address publicly"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Adjusting privacy settings and being cautious about sharing sensitive info'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 32,
+      "question": "What is “Peer Pressure” in the context of social media?",
+      "options": {
+        "A": "The speed of the internet",
+        "B": "Feeling the need to act a certain way to be accepted by others",
+        "C": "The weight of the computer",
+        "D": "A type of anti-virus software"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Feeling the need to act a certain way to be accepted by others'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 33,
+      "question": "Cyberbullying includes which of the following actions?",
+      "options": {
+        "A": "Complimenting a friend’s photo",
+        "B": "Spreading rumors or sharing private info to embarrass someone",
+        "C": "Sending a homework reminder",
+        "D": "Blocking a known scammer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Spreading rumors or sharing private info to embarrass someone'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 34,
+      "question": "What is a psychological effect victims of cyberbullying often experience?",
+      "options": {
+        "A": "Increased happiness",
+        "B": "Anxiety, depression, and low self-esteem",
+        "C": "Better concentration at school",
+        "D": "More energy for sports"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Anxiety, depression, and low self-esteem'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 35,
+      "question": "Electronic waste (e-waste) is a problem because:",
+      "options": {
+        "A": "It makes computers faster",
+        "B": "It contains harmful materials that can damage the environment",
+        "C": "It is too expensive to buy",
+        "D": "It is made of gold and silver"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'It contains harmful materials that can damage the environment'. In Impacts of Computing (Cyber Safety & Ethics), this fundamental concept is standard across Federal Board curriculum specifications."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 11,
+  "chapterTitle": "FBISE Annual Exam Simulator 03 (Unit 4 & 5: Data Science & IoT)",
+  "slug": "cs-10-model-paper-3",
+  "totalQuestions": 12,
+  "fileName": "cs-10-model-paper-3.json",
+  "subject": "cs-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which type of visualization is ideal for displaying nominal or ordinal data?",
+      "options": {
+        "A": "Temporal Visualization",
+        "B": "Statistical Visualization",
+        "C": "Categorical Visualization",
+        "D": "Spatial Visualization"
+      },
+      "correctAnswer": "C",
+      "explanation": "Categorical visualization helps show parts of a whole and is ideal for nominal or ordinal data."
+    },
+    {
+      "id": 2,
+      "question": "Spatial Visualization is used to represent data related to:",
+      "options": {
+        "A": "Time series",
+        "B": "Physical locations or spaces",
+        "C": "Abstract concepts",
+        "D": "Market trends"
+      },
+      "correctAnswer": "B",
+      "explanation": "Spatial visualization relates to geographic or spatial data, such as a heatmap showing population density."
+    },
+    {
+      "id": 3,
+      "question": "Which visualization type allows users to interact with data through dashboards?",
+      "options": {
+        "A": "Information Visualization",
+        "B": "Multivariate Visualization",
+        "C": "Interactive Visualization",
+        "D": "Quantitative Visualization"
+      },
+      "correctAnswer": "C",
+      "explanation": "Interactive visualization allows users to use filters and dashboards to manipulate and explore different trends."
+    },
+    {
+      "id": 4,
+      "question": "Network diagrams and word clouds are examples of:",
+      "options": {
+        "A": "Statistical Visualization",
+        "B": "Information Visualization",
+        "C": "Temporal Visualization",
+        "D": "Categorical Visualization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Information visualization is used for abstract or conceptual data sets like network diagrams and tree maps."
+    },
+    {
+      "id": 5,
+      "question": "Which field uses data visualization to track the spread of disease?",
+      "options": {
+        "A": "Business Intelligence",
+        "B": "Education",
+        "C": "Healthcare",
+        "D": "Entertainment"
+      },
+      "correctAnswer": "C",
+      "explanation": "In healthcare, visualization helps track disease impact and visualize the spread of disease."
+    },
+    {
+      "id": 6,
+      "question": "What is the first stage of the Data Science Life Cycle?",
+      "options": {
+        "A": "Data Collection",
+        "B": "Data Cleaning",
+        "C": "Problem Definition",
+        "D": "Model Evaluation"
+      },
+      "correctAnswer": "C",
+      "explanation": "The life cycle begins with defining the business problem or research question with clear objectives."
+    },
+    {
+      "id": 7,
+      "question": "KPIs stand for:",
+      "options": {
+        "A": "Key Process Indicators",
+        "B": "Key Performance Indicators",
+        "C": "Known Project Insights",
+        "D": "Key Population Information"
+      },
+      "correctAnswer": "B",
+      "explanation": "KPIs are measurable targets used to track the success and progress of a process."
+    },
+    {
+      "id": 8,
+      "question": "Using APIs to gather data is part of which stage?",
+      "options": {
+        "A": "Data Modeling",
+        "B": "Data Collection",
+        "C": "Data Analysis",
+        "D": "Model Deployment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Data collection involves gathering data from sources like surveys or online services through APIs."
+    },
+    {
+      "id": 9,
+      "question": "Fixing errors and removing duplicate values is called:",
+      "options": {
+        "A": "Data Analysis",
+        "B": "Data Modeling",
+        "C": "Data Cleaning",
+        "D": "Model Evaluation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Data cleaning (or preprocessing) involves fixing wrong information, duplicates, and filling in missing values."
+    },
+    {
+      "id": 10,
+      "question": "In which stage are statistics or machine learning used to find patterns?",
+      "options": {
+        "A": "Data Collection",
+        "B": "Data Analysis",
+        "C": "Problem Definition",
+        "D": "Model Deployment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Data analysis uses statistical or machine learning techniques to identify trends and important details."
+    },
+    {
+      "id": 11,
+      "question": "Data Modeling involves:",
+      "options": {
+        "A": "Collecting raw data",
+        "B": "Organizing data into a structured model",
+        "C": "Presenting the final report",
+        "D": "Deleting the database"
+      },
+      "correctAnswer": "B",
+      "explanation": "Data modeling organizes data into a structured model to show relationships between different entities."
+    },
+    {
+      "id": 12,
+      "question": "Which stage measures how accurate and reliable a model is?",
+      "options": {
+        "A": "Model Evaluation",
+        "B": "Data Cleaning",
+        "C": "Model Deployment",
+        "D": "Data Collection"
+      },
+      "correctAnswer": "A",
+      "explanation": "Model evaluation involves testing the model to see if it meets performance goals and makes right predictions."
+    }
+  ]
+}

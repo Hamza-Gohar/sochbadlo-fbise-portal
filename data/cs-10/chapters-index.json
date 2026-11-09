@@ -1,0 +1,164 @@
+[
+  {
+    "chapterNumber": 1,
+    "title": "Unit 01: Computer Systems",
+    "slug": "cs-10-chapter-1",
+    "totalQuestions": 35,
+    "fileName": "cs-10-chapter-1.json",
+    "subject": "cs-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 2,
+    "title": "Unit 02: Computational Thinking & Algorithms",
+    "slug": "cs-10-chapter-2",
+    "totalQuestions": 40,
+    "fileName": "cs-10-chapter-2.json",
+    "subject": "cs-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 3,
+    "title": "Unit 03: Programming Fundamentals & Web Development",
+    "slug": "cs-10-chapter-3",
+    "totalQuestions": 45,
+    "fileName": "cs-10-chapter-3.json",
+    "subject": "cs-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 4,
+    "title": "Unit 04: Data & Analysis",
+    "slug": "cs-10-chapter-4",
+    "totalQuestions": 35,
+    "fileName": "cs-10-chapter-4.json",
+    "subject": "cs-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 5,
+    "title": "Unit 05: Applications of Computer Science (IoT & Automation)",
+    "slug": "cs-10-chapter-5",
+    "totalQuestions": 35,
+    "fileName": "cs-10-chapter-5.json",
+    "subject": "cs-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 6,
+    "title": "Unit 06: Impacts of Computing & Cyber Ethics",
+    "slug": "cs-10-chapter-6",
+    "totalQuestions": 35,
+    "fileName": "cs-10-chapter-6.json",
+    "subject": "cs-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 7,
+    "title": "Unit 07: Digital Literacy & Communication",
+    "slug": "cs-10-chapter-7",
+    "totalQuestions": 30,
+    "fileName": "cs-10-chapter-7.json",
+    "subject": "cs-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 8,
+    "title": "Unit 08: Research Methodologies & Entrepreneurship",
+    "slug": "cs-10-chapter-8",
+    "totalQuestions": 35,
+    "fileName": "cs-10-chapter-8.json",
+    "subject": "cs-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 9,
+    "title": "FBISE Annual Exam Simulator 01 (Unit 1 & 2: Systems & Algorithms)",
+    "slug": "cs-10-model-paper-1",
+    "totalQuestions": 12,
+    "fileName": "cs-10-model-paper-1.json",
+    "subject": "cs-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 10,
+    "title": "FBISE Annual Exam Simulator 02 (Unit 3: C Syntax & Web Development)",
+    "slug": "cs-10-model-paper-2",
+    "totalQuestions": 12,
+    "fileName": "cs-10-model-paper-2.json",
+    "subject": "cs-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 11,
+    "title": "FBISE Annual Exam Simulator 03 (Unit 4 & 5: Data Science & IoT)",
+    "slug": "cs-10-model-paper-3",
+    "totalQuestions": 12,
+    "fileName": "cs-10-model-paper-3.json",
+    "subject": "cs-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 12,
+    "title": "FBISE Annual Exam Simulator 04 (Unit 6 & 7: Cyber Ethics & Literacy)",
+    "slug": "cs-10-model-paper-4",
+    "totalQuestions": 12,
+    "fileName": "cs-10-model-paper-4.json",
+    "subject": "cs-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 13,
+    "title": "FBISE Annual Exam Simulator 05 (Unit 8 & Systems Architecture)",
+    "slug": "cs-10-model-paper-5",
+    "totalQuestions": 12,
+    "fileName": "cs-10-model-paper-5.json",
+    "subject": "cs-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 14,
+    "title": "FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)",
+    "slug": "cs-10-model-paper-6",
+    "totalQuestions": 12,
+    "fileName": "cs-10-model-paper-6.json",
+    "subject": "cs-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 15,
+    "title": "FBISE Annual Exam Simulator 07 (FBISE Past Papers Focus II)",
+    "slug": "cs-10-model-paper-7",
+    "totalQuestions": 12,
+    "fileName": "cs-10-model-paper-7.json",
+    "subject": "cs-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 16,
+    "title": "FBISE Annual Exam Simulator 08 (Full-Book Board Simulator I)",
+    "slug": "cs-10-model-paper-8",
+    "totalQuestions": 12,
+    "fileName": "cs-10-model-paper-8.json",
+    "subject": "cs-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 17,
+    "title": "FBISE Annual Exam Simulator 09 (Full-Book Board Simulator II)",
+    "slug": "cs-10-model-paper-9",
+    "totalQuestions": 12,
+    "fileName": "cs-10-model-paper-9.json",
+    "subject": "cs-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 18,
+    "title": "FBISE Annual Exam Simulator 10 (Full-Book Board Simulator III)",
+    "slug": "cs-10-model-paper-10",
+    "totalQuestions": 12,
+    "fileName": "cs-10-model-paper-10.json",
+    "subject": "cs-10",
+    "grade": "10"
+  }
+]

@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 4,
+  "chapterTitle": "Unit 04: Data & Analysis",
+  "slug": "cs-10-chapter-4",
+  "totalQuestions": 35,
+  "fileName": "cs-10-chapter-4.json",
+  "subject": "cs-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Data Science is a combination of mathematics, statistics, and which other domain?",
+      "options": {
+        "A": "Physics",
+        "B": "Computer Science",
+        "C": "Biology",
+        "D": "Chemistry"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Computer Science'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 2,
+      "question": "The primary objective of data science techniques is to get ________ from available data.",
+      "options": {
+        "A": "More data",
+        "B": "Meaningful insight",
+        "C": "Faster internet",
+        "D": "Hardware storage"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Meaningful insight'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 3,
+      "question": "Available data in data science can be:",
+      "options": {
+        "A": "Only structured",
+        "B": "Only unstructured",
+        "C": "Structured as well as unstructured",
+        "D": "Neither structured nor unstructured"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Structured as well as unstructured'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is NOT a step mentioned for achieving data science objectives?",
+      "options": {
+        "A": "Data collection",
+        "B": "Data cleaning",
+        "C": "Data preprocessing",
+        "D": "Hardware manufacturing"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct option is D: 'Hardware manufacturing'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 5,
+      "question": "Which programming language is mentioned as being used for data visualization?",
+      "options": {
+        "A": "HTML",
+        "B": "Python",
+        "C": "C++",
+        "D": "Java"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Python'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 6,
+      "question": "In Healthcare, data science is used to predict diseases based on:",
+      "options": {
+        "A": "Patient's age only",
+        "B": "X-Rays and Ultrasounds",
+        "C": "Patient's height",
+        "D": "Hospital location"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'X-Rays and Ultrasounds'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 7,
+      "question": "How does data science help in the field of Sports?",
+      "options": {
+        "A": "By cleaning the stadium",
+        "B": "By predicting match winners based on previous performance",
+        "C": "By manufacturing sports gear",
+        "D": "By broadcasting the match"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'By predicting match winners based on previous performance'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 8,
+      "question": "In the Finance sector, data science is particularly helpful in:",
+      "options": {
+        "A": "Printing notes",
+        "B": "Fraud detection",
+        "C": "Building banks",
+        "D": "Selling insurance manually"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Fraud detection'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 9,
+      "question": "In Goods Transportation, a data-driven approach helps to:",
+      "options": {
+        "A": "Increase fuel prices",
+        "B": "Minimize delivery times",
+        "C": "Hire more drivers",
+        "D": "Change the product quality"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Minimize delivery times'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 10,
+      "question": "In the Airline industry, data science helps in:",
+      "options": {
+        "A": "Building airplanes",
+        "B": "Efficient route planning to reduce fuel consumption",
+        "C": "Increasing ticket prices randomly",
+        "D": "Cleaning the runway"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Efficient route planning to reduce fuel consumption'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 11,
+      "question": "How is data science used in the Energy and Utilities sector?",
+      "options": {
+        "A": "To increase electricity bills",
+        "B": "To optimize energy production and distribution",
+        "C": "To dig more coal",
+        "D": "To manufacture wires"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'To optimize energy production and distribution'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 12,
+      "question": "In Education, data science helps to enhance:",
+      "options": {
+        "A": "School building design",
+        "B": "Personalized learning",
+        "C": "Number of holidays",
+        "D": "Sports equipment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Personalized learning'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 13,
+      "question": "Which technique is used in Communication Media to identify customer feelings?",
+      "options": {
+        "A": "Programming",
+        "B": "Sentiment analysis",
+        "C": "Data cleaning",
+        "D": "Route optimization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Sentiment analysis'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 14,
+      "question": "A tool used to suggest products or services to users based on past behavior is called:",
+      "options": {
+        "A": "Operating System",
+        "B": "Recommender system",
+        "C": "Browser",
+        "D": "Antivirus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Recommender system'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 15,
+      "question": "Sentiment analysis can identify sentiments as:",
+      "options": {
+        "A": "High or Low",
+        "B": "Fast or Slow",
+        "C": "Positive, negative, or neutral",
+        "D": "Hard or Soft"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Positive, negative, or neutral'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 16,
+      "question": "In the Entertainment industry, data science provides suggestions for:",
+      "options": {
+        "A": "Computer hardware",
+        "B": "Favorite songs",
+        "C": "Internet speed",
+        "D": "Game development tools"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Favorite songs'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 17,
+      "question": "In Business, data science helps in making ________ for optimal profits.",
+      "options": {
+        "A": "Manual entries",
+        "B": "Intelligent decisions",
+        "C": "Marketing posters",
+        "D": "Random guesses"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Intelligent decisions'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 18,
+      "question": "1?",
+      "options": {
+        "A": "R studio",
+        "B": "MATLAB",
+        "C": "Photoshop",
+        "D": "Python"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Photoshop'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 19,
+      "question": "What is the first step in the Machine Learning process?",
+      "options": {
+        "A": "Selecting an algorithm",
+        "B": "Splitting data into Training and Testing sets",
+        "C": "Final Results",
+        "D": "Learning"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Splitting data into Training and Testing sets'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 20,
+      "question": "Which learning model uses a set of labeled data (questions with answers)?",
+      "options": {
+        "A": "Unsupervised Learning",
+        "B": "Reinforcement Learning",
+        "C": "Supervised Learning",
+        "D": "Deep Learning"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Supervised Learning'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 21,
+      "question": "In Unsupervised Learning, data is provided to the machine as:",
+      "options": {
+        "A": "Labeled",
+        "B": "Unlabeled",
+        "C": "Correct answers",
+        "D": "Feedback"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Unlabeled'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 22,
+      "question": "Reinforcement learning works on the basis of:",
+      "options": {
+        "A": "Correct answers only",
+        "B": "Positive or negative feedback (Rewards/Penalties)",
+        "C": "Labeled fruits",
+        "D": "News keywords"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Positive or negative feedback (Rewards/Penalties)'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 23,
+      "question": "The 'Agent' and 'Environment' are key terms in which model?",
+      "options": {
+        "A": "Supervised Learning",
+        "B": "Reinforcement Learning",
+        "C": "Data Visualization",
+        "D": "Churn Prediction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Reinforcement Learning'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 24,
+      "question": "In the ML process, a small amount of data kept to validate results is called:",
+      "options": {
+        "A": "Training data",
+        "B": "Raw data",
+        "C": "Validation data",
+        "D": "Labeled data"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Validation data'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 25,
+      "question": "The output of Data Science is:",
+      "options": {
+        "A": "Mimicking human behavior",
+        "B": "Prediction and classification",
+        "C": "Insight, reports, and visualization",
+        "D": "Automated robots"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Insight, reports, and visualization'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 26,
+      "question": "What is the primary purpose of Data Visualization?",
+      "options": {
+        "A": "To store data in tables",
+        "B": "To create graphical representations of data",
+        "C": "To write complex code",
+        "D": "To delete redundant data"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to the text, data visualization is the process of creating graphical representations to transform raw data into meaningful and insightful information."
+    },
+    {
+      "id": 27,
+      "question": "Which chart is used to show comparison among discrete values?",
+      "options": {
+        "A": "Line Chart",
+        "B": "Scatter Plot",
+        "C": "Bar Chart",
+        "D": "Box Plot"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Bar Chart method is specifically used to visualize marks of students or sales data to compare discrete values."
+    },
+    {
+      "id": 28,
+      "question": "Which visualization tool is best for displaying trends over a period of time?",
+      "options": {
+        "A": "Pie Chart",
+        "B": "Line Chart",
+        "C": "Histogram",
+        "D": "Heatmap"
+      },
+      "correctAnswer": "B",
+      "explanation": "Line Charts are used to display trends, such as gold prices or temperature changes, over short or long periods."
+    },
+    {
+      "id": 29,
+      "question": "A Pie Chart is used to represent:",
+      "options": {
+        "A": "Correlation between variables",
+        "B": "Trends over time",
+        "C": "Proportions of various categories in a whole",
+        "D": "Distribution of a single value"
+      },
+      "correctAnswer": "C",
+      "explanation": "The text states that a Pie Chart represents proportions, such as the market shares of various companies in a specific industry."
+    },
+    {
+      "id": 30,
+      "question": "What does a Scatter Plot display?",
+      "options": {
+        "A": "The relationship between numerical variables",
+        "B": "Data in matrix form",
+        "C": "Annual salary ranges",
+        "D": "Discrete comparisons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Scatter Plots are used to show the correlation or relationship between two numerical variables, like height and weight."
+    },
+    {
+      "id": 31,
+      "question": "Which chart shows the distribution of a single numerical value?",
+      "options": {
+        "A": "Bubble Chart",
+        "B": "Histogram",
+        "C": "Pie Chart",
+        "D": "Line Chart"
+      },
+      "correctAnswer": "B",
+      "explanation": "A Histogram is used to show the frequency distribution of a single numerical value, such as test scores in a class."
+    },
+    {
+      "id": 32,
+      "question": "A Box Plot is also known as a:",
+      "options": {
+        "A": "Matrix Plot",
+        "B": "Bubble Plot",
+        "C": "Box-and-Whisker Plot",
+        "D": "Trend Plot"
+      },
+      "correctAnswer": "C",
+      "explanation": "The text explicitly mentions that a Box Plot is also called a Boxand-Whisker Plot."
+    },
+    {
+      "id": 33,
+      "question": "Which of these is NOT part of a Box Plot summary?",
+      "options": {
+        "A": "Median",
+        "B": "First Quartile",
+        "C": "Standard Deviation",
+        "D": "Maximum data"
+      },
+      "correctAnswer": "C",
+      "explanation": "A Box Plot summarizes data using minimum, first quartile, median, third quartile, and maximum data."
+    },
+    {
+      "id": 34,
+      "question": "In a Heatmap, how are data values shown?",
+      "options": {
+        "A": "By the size of bubbles",
+        "B": "By color intensity",
+        "C": "By dots on a graph",
+        "D": "By slices of a circle"
+      },
+      "correctAnswer": "B",
+      "explanation": "Heatmaps represent data in matrix form where values are indicated by color intensity (e.g., for weather forecasts)."
+    },
+    {
+      "id": 35,
+      "question": "What distinguishes a Bubble Chart from a Scatter Plot?",
+      "options": {
+        "A": "It uses lines instead of dots",
+        "B": "It has a third variable represented by bubble size",
+        "C": "It only uses two variables",
+        "D": "It shows proportions of a whole"
+      },
+      "correctAnswer": "B",
+      "explanation": "A Bubble Chart is similar to a scatter plot but includes a third variable proportional to the size of the bubble."
+    }
+  ]
+}

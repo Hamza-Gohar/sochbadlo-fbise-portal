@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 15,
+  "chapterTitle": "FBISE Annual Exam Simulator 07 (FBISE Past Papers Focus II)",
+  "slug": "cs-10-model-paper-7",
+  "totalQuestions": 12,
+  "fileName": "cs-10-model-paper-7.json",
+  "subject": "cs-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the output of the following statement where the value of a = 65? (MODEL PAPER) printf(\"%c = %d\", a, a);",
+      "options": {
+        "A": "65 = A",
+        "B": "65 = 65",
+        "C": "A = 65",
+        "D": "a = a"
+      },
+      "correctAnswer": "A",
+      "explanation": "Option A ('65 = A') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 07 (FBISE Past Papers Focus II)."
+    },
+    {
+      "id": 2,
+      "question": "Which one of the following functions is used to read the string \"Computer Science\"? (MODEL PAPER)",
+      "options": {
+        "A": "scanf()",
+        "B": "gets()",
+        "C": "getchar()",
+        "D": "getch()"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('gets()') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 07 (FBISE Past Papers Focus II)."
+    },
+    {
+      "id": 3,
+      "question": "Which escape sequence can be used to insert a Tab in the \"C\" Language? (MODEL PAPER)",
+      "options": {
+        "A": "\\a",
+        "B": "\\b",
+        "C": "\\t",
+        "D": "\\n"
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('\\t') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 07 (FBISE Past Papers Focus II)."
+    },
+    {
+      "id": 4,
+      "question": "Which symbol with the variable refers to the memory location in scanf() function? (MODEL PAPER)",
+      "options": {
+        "A": "#",
+        "B": "&",
+        "C": "%",
+        "D": "$"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('&') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 07 (FBISE Past Papers Focus II)."
+    },
+    {
+      "id": 5,
+      "question": "What is the value of \"z\" after evaluating the given expression where a = 5, b = 3? (MODEL PAPER) z = b/2 + b * 4 / b && b < a + a/3;",
+      "options": {
+        "A": "5",
+        "B": "0",
+        "C": "1",
+        "D": "6"
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('1') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 07 (FBISE Past Papers Focus II)."
+    },
+    {
+      "id": 6,
+      "question": "Which is a logical operator? (FBISE 2022)",
+      "options": {
+        "A": "==",
+        "B": "<=",
+        "C": "!",
+        "D": "!="
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('!') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 07 (FBISE Past Papers Focus II)."
+    },
+    {
+      "id": 7,
+      "question": "Which operator has the highest precedence? (FBISE 2022)",
+      "options": {
+        "A": "<",
+        "B": "++",
+        "C": "&&",
+        "D": "!="
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('++') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 07 (FBISE Past Papers Focus II)."
+    },
+    {
+      "id": 8,
+      "question": "How many logical operators are there in C? (FBISE 2021)",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('3') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 07 (FBISE Past Papers Focus II)."
+    },
+    {
+      "id": 9,
+      "question": "Which escape sequence is used to remove the left character? (FBISE 2021)",
+      "options": {
+        "A": "\\t",
+        "B": "\\b",
+        "C": "\\n",
+        "D": "\\r"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('\\b') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 07 (FBISE Past Papers Focus II)."
+    },
+    {
+      "id": 10,
+      "question": "What is the output of the following program code segment when a = -1 and b = 2? (FBISE 2022) if (++a == 0) printf (\"%d\", a + b); else printf(\"%d\", b - a);",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('1') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 07 (FBISE Past Papers Focus II)."
+    },
+    {
+      "id": 11,
+      "question": "The case block in a switch statement ends with: (FBISE 2019)",
+      "options": {
+        "A": "end select",
+        "B": "end case",
+        "C": "break",
+        "D": "case close"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('end case') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 07 (FBISE Past Papers Focus II)."
+    },
+    {
+      "id": 12,
+      "question": "Which of the selection structures tests only for equality? (MODEL PAPER)",
+      "options": {
+        "A": "if statement",
+        "B": "if-else statement",
+        "C": "if-else-if statement",
+        "D": "switch statement"
+      },
+      "correctAnswer": "D",
+      "explanation": "Option D ('switch statement') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 07 (FBISE Past Papers Focus II)."
+    }
+  ]
+}

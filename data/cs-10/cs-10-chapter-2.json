@@ -1,0 +1,491 @@
+{
+  "chapterNumber": 2,
+  "chapterTitle": "Unit 02: Computational Thinking & Algorithms",
+  "slug": "cs-10-chapter-2",
+  "totalQuestions": 40,
+  "fileName": "cs-10-chapter-2.json",
+  "subject": "cs-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which concept involves breaking down big problems into smaller parts?",
+      "options": {
+        "A": "Abstraction",
+        "B": "Decomposition",
+        "C": "Algorithm Design",
+        "D": "Pattern Recognition"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Decomposition'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 2,
+      "question": "A problem that typically requires a \"yes-or-no\" response is called a:",
+      "options": {
+        "A": "Search Problem",
+        "B": "Counting Problem",
+        "C": "Decision Problem",
+        "D": "Logical Problem"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Decision Problem'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 3,
+      "question": "Finding the best route on a map from Islamabad to Lahore is an example of a:",
+      "options": {
+        "A": "Decision Problem",
+        "B": "Search Problem",
+        "C": "Counting Problem",
+        "D": "Sorting Problem"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Search Problem'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 4,
+      "question": "Which structural approach is most effective for solving Counting Principle problems?",
+      "options": {
+        "A": "Linear lists",
+        "B": "Truth tables",
+        "C": "Tree-based approaches",
+        "D": "Venn diagrams"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Tree-based approaches'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 5,
+      "question": "A \"Permutation\" is a way to arrange items where:",
+      "options": {
+        "A": "Order does not matter",
+        "B": "Order is important",
+        "C": "Only two items are selected",
+        "D": "Items are grouped randomly"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Order is important'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 6,
+      "question": "If you have 4 paintings and 3 places on a wall, how many permutations are possible?",
+      "options": {
+        "A": "7",
+        "B": "12",
+        "C": "24",
+        "D": "64"
+      },
+      "correctAnswer": "C",
+      "explanation": "Using the multiplication principle: $4 \\times 3 \\times 2 = 24$."
+    },
+    {
+      "id": 7,
+      "question": "If $n+1$ objects are put into $n$ boxes, at least one box contains two or more objects. This is the:",
+      "options": {
+        "A": "Multiplication Principle",
+        "B": "Inclusion-Exclusion Principle",
+        "C": "Pigeonhole Principle",
+        "D": "Addition Principle"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Pigeonhole Principle'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 8,
+      "question": "How many apples are needed to guarantee at least one basket has more than one apple if there are 12 baskets?",
+      "options": {
+        "A": "11",
+        "B": "12",
+        "C": "13",
+        "D": "24"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: '13'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 9,
+      "question": "The Inclusion-Exclusion principle requires subtracting \"shared ways\" to:",
+      "options": {
+        "A": "Increase the total count",
+        "B": "Obtain an accurate count by removing duplicates",
+        "C": "Simplify the math",
+        "D": "Create a search problem"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Obtain an accurate count by removing duplicates'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 10,
+      "question": "According to the Pigeonhole Principle, if there are 10 pigeons and 9 holes:",
+      "options": {
+        "A": "Each hole has one pigeon",
+        "B": "One hole must have more than 1 pigeon",
+        "C": "All pigeons fit perfectly",
+        "D": "Two holes will be empty"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'One hole must have more than 1 pigeon'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 11,
+      "question": "In the binary string example, how many strings of length eight begin with '1'?",
+      "options": {
+        "A": "64",
+        "B": "128",
+        "C": "32",
+        "D": "160"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: '128'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 12,
+      "question": "In the binary string example, how many strings end with '00'?",
+      "options": {
+        "A": "64",
+        "B": "128",
+        "C": "32",
+        "D": "160"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct option is A: '64'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 13,
+      "question": "In the binary string example, how many strings meet BOTH requirements (begin with '1' and end with '00')?",
+      "options": {
+        "A": "128",
+        "B": "64",
+        "C": "32",
+        "D": "160"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: '32'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 14,
+      "question": "The total accurate count for the binary string problem using Inclusion-Exclusion is:",
+      "options": {
+        "A": "192",
+        "B": "224",
+        "C": "160",
+        "D": "128"
+      },
+      "correctAnswer": "C",
+      "explanation": "$128 + 64 - 32 = 160$."
+    },
+    {
+      "id": 15,
+      "question": "Combination counting principle is used when the sequence of choosing objects is:",
+      "options": {
+        "A": "Essential",
+        "B": "Irrelevant",
+        "C": "Alphabetical",
+        "D": "Numerical"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Irrelevant'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 16,
+      "question": "How many combinations define the ways to select 3 out of 4 paintings?",
+      "options": {
+        "A": "24",
+        "B": "6",
+        "C": "4",
+        "D": "1"
+      },
+      "correctAnswer": "C",
+      "explanation": "Permutations (24) divided by ways to order the selection (6) equals 4."
+    },
+    {
+      "id": 17,
+      "question": "An algorithm is defined as a:",
+      "options": {
+        "A": "Programming language",
+        "B": "Step-by-step procedure for solving a problem",
+        "C": "Type of computer hardware",
+        "D": "Random set of instructions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Step-by-step procedure for solving a problem'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 18,
+      "question": "\"Finiteness\" as a property of an algorithm means:",
+      "options": {
+        "A": "It must have an input",
+        "B": "Each step must be clear",
+        "C": "It must end after a limited number of steps",
+        "D": "It must solve every problem"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'It must end after a limited number of steps'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 19,
+      "question": "\"Definiteness\" means every algorithmic step needs to be:",
+      "options": {
+        "A": "Written in C++",
+        "B": "Clearly and accurately stated",
+        "C": "Short",
+        "D": "Complex"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Clearly and accurately stated'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 20,
+      "question": "An algorithm must produce at least ______ output.",
+      "options": {
+        "A": "Zero",
+        "B": "One",
+        "C": "Five",
+        "D": "Ten"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'One'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 21,
+      "question": "\"Generality\" means an algorithm should offer a solution for:",
+      "options": {
+        "A": "Only one specific number",
+        "B": "Several related problems",
+        "C": "Hardware issues only",
+        "D": "Syntax errors"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Several related problems'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 22,
+      "question": "Which is NOT a way algorithms can be expressed?",
+      "options": {
+        "A": "Flowcharts",
+        "B": "Pseudocode",
+        "C": "Natural language",
+        "D": "Physical hardware"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct option is D: 'Physical hardware'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 23,
+      "question": "Algorithms are designed to be efficient in terms of:",
+      "options": {
+        "A": "Color and shape",
+        "B": "Time and space",
+        "C": "Sound and video",
+        "D": "Language and grammar"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Time and space'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 24,
+      "question": "Which field uses algorithms for \"Dijkstra\" to find shortest paths?",
+      "options": {
+        "A": "Cryptography",
+        "B": "Navigation applications",
+        "C": "Image processing",
+        "D": "Machine Learning"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Navigation applications'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 25,
+      "question": "In Boolean logic, statements can have how many potential values?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Two'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 26,
+      "question": "In Boolean logic, \"True\" is represented by which number?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "-1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: '1'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 27,
+      "question": "Which operator returns True only if BOTH terms are true?",
+      "options": {
+        "A": "OR",
+        "B": "NOT",
+        "C": "AND",
+        "D": "IF"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'AND'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 28,
+      "question": "Which operator returns True if at least ONE term is true?",
+      "options": {
+        "A": "AND",
+        "B": "OR",
+        "C": "NOT",
+        "D": "NAND"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'OR'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 29,
+      "question": "The NOT operator is used for:",
+      "options": {
+        "A": "Combining two terms",
+        "B": "Only one term (reversing it)",
+        "C": "Adding numbers",
+        "D": "Search problems"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Only one term (reversing it)'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 30,
+      "question": "If A is False and B is True, what is \"A AND B\"?",
+      "options": {
+        "A": "True",
+        "B": "False",
+        "C": "1",
+        "D": "Both"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'False'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 31,
+      "question": "If A is False and B is True, what is \"A OR B\"?",
+      "options": {
+        "A": "True",
+        "B": "False",
+        "C": "0",
+        "D": "None"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct option is A: 'True'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 32,
+      "question": "Reasoning questions presented using figures, pictures, or diagrams are:",
+      "options": {
+        "A": "Verbal reasoning",
+        "B": "Non-verbal reasoning",
+        "C": "Boolean reasoning",
+        "D": "Search reasoning"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Non-verbal reasoning'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 33,
+      "question": "In the \"favorite colors\" example, if Uzair's favorite color is blue, blue cannot be the favorite of:",
+      "options": {
+        "A": "Aiza",
+        "B": "Luqman",
+        "C": "Both Aiza and Luqman",
+        "D": "No one"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Both Aiza and Luqman'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 34,
+      "question": "A repeating pattern of Square, Triangle, Circle repeats every _____ shapes.",
+      "options": {
+        "A": "Two",
+        "B": "Three",
+        "C": "Four",
+        "D": "Five"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Three'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 35,
+      "question": "Which sorting algorithm repeatedly steps through the list and swaps adjacent elements?",
+      "options": {
+        "A": "Merge Sort",
+        "B": "Selection Sort",
+        "C": "Bubble Sort",
+        "D": "Insertion Sort"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Bubble Sort'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 36,
+      "question": "Selection Sort works by repeatedly selecting the ______ element from the unsorted part.",
+      "options": {
+        "A": "Largest",
+        "B": "Smallest (or largest)",
+        "C": "Middle",
+        "D": "First"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Smallest (or largest)'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 37,
+      "question": "Which algorithm divides the list into halves and then merges them?",
+      "options": {
+        "A": "Bubble Sort",
+        "B": "Insertion Sort",
+        "C": "Selection Sort",
+        "D": "Merge Sort"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct option is D: 'Merge Sort'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 38,
+      "question": "Linear Search checks elements:",
+      "options": {
+        "A": "By dividing the list in half",
+        "B": "Sequentially one by one",
+        "C": "Randomly",
+        "D": "In reverse only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Sequentially one by one'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 39,
+      "question": "Binary Search works efficiently only on:",
+      "options": {
+        "A": "Random lists",
+        "B": "Sorted arrays",
+        "C": "Unsorted lists",
+        "D": "Short lists"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Sorted arrays'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 40,
+      "question": "Identifying similarities and differences in data is called:",
+      "options": {
+        "A": "Decomposition",
+        "B": "Abstraction",
+        "C": "Pattern Recognition",
+        "D": "Algorithm Design"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Pattern Recognition'. In Computational Thinking & Algorithms, this fundamental concept is standard across Federal Board curriculum specifications."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 9,
+  "chapterTitle": "FBISE Annual Exam Simulator 01 (Unit 1 & 2: Systems & Algorithms)",
+  "slug": "cs-10-model-paper-1",
+  "totalQuestions": 12,
+  "fileName": "cs-10-model-paper-1.json",
+  "subject": "cs-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is an example of an Operating System?",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Google Chrome",
+        "C": "Mac OS",
+        "D": "Adobe Photoshop"
+      },
+      "correctAnswer": "C",
+      "explanation": "Mac OS is an operating system that manages computer hardware and software resources."
+    },
+    {
+      "id": 2,
+      "question": "A program in execution is known as a:",
+      "options": {
+        "A": "File",
+        "B": "Process",
+        "C": "Hardware",
+        "D": "User"
+      },
+      "correctAnswer": "B",
+      "explanation": "A process is a program that is currently running or executing in the computer."
+    },
+    {
+      "id": 3,
+      "question": "Which function of the OS allocates resources like CPU time to various tasks in memory?",
+      "options": {
+        "A": "File Management",
+        "B": "Security Management",
+        "C": "Process Management",
+        "D": "Network Management"
+      },
+      "correctAnswer": "C",
+      "explanation": "Process management controls how CPU time and other resources are assigned to running processes."
+    },
+    {
+      "id": 4,
+      "question": "Moving a process from the main memory (RAM) to the backing store (HD) is called:",
+      "options": {
+        "A": "Swap In",
+        "B": "Swap Out",
+        "C": "Loading",
+        "D": "Formatting"
+      },
+      "correctAnswer": "B",
+      "explanation": "Swap Out means moving a process from RAM to secondary storage (hard disk) to free memory."
+    },
+    {
+      "id": 5,
+      "question": "Which OS function allows users to perform operations like creating, renaming, and deleting folders?",
+      "options": {
+        "A": "Device Management",
+        "B": "Process Management",
+        "C": "File Management",
+        "D": "Memory Management"
+      },
+      "correctAnswer": "C",
+      "explanation": "File management controls file and folder operations such as creating, renaming, and deleting."
+    },
+    {
+      "id": 6,
+      "question": "Device management controls which of the following?",
+      "options": {
+        "A": "User accounts",
+        "B": "Input and output devices",
+        "C": "Network protocols",
+        "D": "CPU cycles"
+      },
+      "correctAnswer": "B",
+      "explanation": "Device management handles communication between the OS and input/output devices like keyboards, printers, and monitors."
+    },
+    {
+      "id": 7,
+      "question": "What happens if three programs try to use the printer at the same time?",
+      "options": {
+        "A": "The computer crashes",
+        "B": "The OS sets up a queue",
+        "C": "The printer ignores all requests",
+        "D": "Only the smallest file prints"
+      },
+      "correctAnswer": "B",
+      "explanation": "The operating system creates a print queue, allowing tasks to be processed one by one."
+    },
+    {
+      "id": 8,
+      "question": "Which OS type groups similar tasks and executes them sequentially?",
+      "options": {
+        "A": "Real-time OS",
+        "B": "Time-sharing OS",
+        "C": "Batch Processing OS",
+        "D": "Multiprocessor OS"
+      },
+      "correctAnswer": "C",
+      "explanation": "A Batch Processing OS collects similar jobs and executes them sequentially in batches."
+    },
+    {
+      "id": 9,
+      "question": "Which system is ideal for payroll processing or generating bank statements?",
+      "options": {
+        "A": "Embedded OS",
+        "B": "Batch Processing OS",
+        "C": "Distributed OS",
+        "D": "Multitasking OS"
+      },
+      "correctAnswer": "B",
+      "explanation": "Batch processing systems are commonly used for repetitive tasks like payroll and billing."
+    },
+    {
+      "id": 10,
+      "question": "In a Time-sharing OS, the CPU time is divided into short intervals known as:",
+      "options": {
+        "A": "Time slices",
+        "B": "Batches",
+        "C": "Processes",
+        "D": "Threads"
+      },
+      "correctAnswer": "A",
+      "explanation": "Time-sharing systems divide CPU time into small units called time slices."
+    },
+    {
+      "id": 11,
+      "question": "Which OS provides immediate responses and is used in medical equipment?",
+      "options": {
+        "A": "Batch Processing OS",
+        "B": "Real-time OS (RTOS)",
+        "C": "Distributed OS",
+        "D": "Embedded OS"
+      },
+      "correctAnswer": "B",
+      "explanation": "Real-time operating systems provide instant responses, which are critical in systems like medical equipment."
+    },
+    {
+      "id": 12,
+      "question": "A Multiprocessor OS increases processing speed by:",
+      "options": {
+        "A": "Using more RAM",
+        "B": "Distributing tasks among several CPUs",
+        "C": "Grouping jobs into batches",
+        "D": "Using time slices"
+      },
+      "correctAnswer": "B",
+      "explanation": "Multiprocessor systems use multiple CPUs to execute tasks simultaneously."
+    }
+  ]
+}

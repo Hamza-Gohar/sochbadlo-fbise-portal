@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 8,
+  "chapterTitle": "Unit 08: Research Methodologies & Entrepreneurship",
+  "slug": "cs-10-chapter-8",
+  "totalQuestions": 35,
+  "fileName": "cs-10-chapter-8.json",
+  "subject": "cs-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Quantitative research is primarily expressed in:",
+      "options": {
+        "A": "Words and descriptions",
+        "B": "Numbers and graphs",
+        "C": "Personal stories",
+        "D": "Video recordings"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Numbers and graphs'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 2,
+      "question": "Which type of research is used to understand concepts, thoughts, or experiences?",
+      "options": {
+        "A": "Quantitative",
+        "B": "Qualitative",
+        "C": "Statistical",
+        "D": "Experimental"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Qualitative'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is a common quantitative data collection method?",
+      "options": {
+        "A": "Focus groups",
+        "B": "Ethnography",
+        "C": "Surveys with closed-ended questions",
+        "D": "Literature reviews"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Surveys with closed-ended questions'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 4,
+      "question": "What is the main goal of quantitative research?",
+      "options": {
+        "A": "To test or confirm theories and hypotheses",
+        "B": "To explore new ideas without a hypothesis",
+        "C": "To gather in-depth insights into social contexts",
+        "D": "To record personal feelings in detail"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct option is A: 'To test or confirm theories and hypotheses'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 5,
+      "question": "Qualitative research is best suited for:",
+      "options": {
+        "A": "Testing generalizable facts",
+        "B": "Collecting hard data",
+        "C": "Topics that are not well understood",
+        "D": "Large-scale statistical analysis"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Topics that are not well understood'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 6,
+      "question": "Which method involves the researcher participating in a community for an extended period?",
+      "options": {
+        "A": "Survey",
+        "B": "Ethnography",
+        "C": "Controlled Observation",
+        "D": "Experiment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Ethnography'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 7,
+      "question": "In data analysis, “Thematic Analysis” is used to analyze:",
+      "options": {
+        "A": "Statistical correlations",
+        "B": "Mathematical averages",
+        "C": "Qualitative data to identify patterns",
+        "D": "Experimental variables"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Qualitative data to identify patterns'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 8,
+      "question": "Which software is mentioned for performing advanced statistical analysis?",
+      "options": {
+        "A": "Adobe",
+        "B": "SPSS or R",
+        "C": "Transcription software",
+        "D": "Microsoft Word"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'SPSS or R'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 9,
+      "question": "What is a common disadvantage of qualitative research?",
+      "options": {
+        "A": "It uses too many graphs",
+        "B": "It cannot be analyzed through math",
+        "C": "It is only used for testing theories",
+        "D": "It ignores the “why” behind human behavior"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'It cannot be analyzed through math'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 10,
+      "question": "“Closed-ended” questions are a hallmark of which research type?",
+      "options": {
+        "A": "Qualitative",
+        "B": "Quantitative",
+        "C": "Literature Review",
+        "D": "Focus Groups"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Quantitative'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 11,
+      "question": "A questionnaire is best described as:",
+      "options": {
+        "A": "The entire process of data collection and analysis",
+        "B": "A specific tool or instrument with a list of questions",
+        "C": "A method for defining a population",
+        "D": "A data cleansing technique"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'A specific tool or instrument with a list of questions'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is NOT a step in conducting a survey?",
+      "options": {
+        "A": "Defining the population",
+        "B": "Data cleansing",
+        "C": "Choosing a sampling method",
+        "D": "Creating a product prototype"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct option is D: 'Creating a product prototype'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 13,
+      "question": "What is “Nonresponse Bias”?",
+      "options": {
+        "A": "When a researcher ignores certain answers",
+        "B": "When respondents answer dishonestly",
+        "C": "When people invited to a survey do not complete it",
+        "D": "When questions are too difficult to read"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'When people invited to a survey do not complete it'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 14,
+      "question": "Which variables represent categories that cannot be ranked (e.g., Race or Ethnicity)?",
+      "options": {
+        "A": "Nominal variables",
+        "B": "Ordinal variables",
+        "C": "Interval variables",
+        "D": "Ratio variables"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct option is A: 'Nominal variables'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 15,
+      "question": "A 5-point scale ranging from “Strongly Disagree” to “Strongly Agree” is called a:",
+      "options": {
+        "A": "Nominal Scale",
+        "B": "Likert Scale",
+        "C": "Binary Scale",
+        "D": "Open-ended Scale"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Likert Scale'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 16,
+      "question": "Which type of questionnaire is usually delivered via mail or online?",
+      "options": {
+        "A": "Researcher-administered",
+        "B": "Self-administered",
+        "C": "In-person interview",
+        "D": "Phone-administered"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Self-administered'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 17,
+      "question": "What is a primary disadvantage of researcher-administered questionnaires?",
+      "options": {
+        "A": "Low response rate",
+        "B": "Lack of clarification for questions",
+        "C": "Higher cost and social desirability bias",
+        "D": "Only suitable for large groups"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Higher cost and social desirability bias'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 18,
+      "question": "“Closed-ended” questions are also known as:",
+      "options": {
+        "A": "Restricted-choice questions",
+        "B": "Long-form questions",
+        "C": "Narrative questions",
+        "D": "Qualitative questions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct option is A: 'Restricted-choice questions'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 19,
+      "question": "Which question type is best for finding “unexpected insights”?",
+      "options": {
+        "A": "Multiple choice",
+        "B": "Yes/No",
+        "C": "Open-ended",
+        "D": "Likert scale"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Open-ended'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 20,
+      "question": "To ensure a questionnaire is valid, the researcher should first:",
+      "options": {
+        "A": "Send it to 1,000 people",
+        "B": "Define the research objectives",
+        "C": "Write the conclusion",
+        "D": "Analyze the data"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Define the research objectives'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 21,
+      "question": "Market validation is the process of:",
+      "options": {
+        "A": "Hiring a new marketing team",
+        "B": "Determining if there is a real need for a product",
+        "C": "Selling products at a discount",
+        "D": "Recording business expenses"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Determining if there is a real need for a product'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 22,
+      "question": "“Alpha Testing” is typically performed by:",
+      "options": {
+        "A": "Real external customers",
+        "B": "Government regulators",
+        "C": "Internal employees",
+        "D": "Competitors"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Internal employees'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 23,
+      "question": "What is the main goal of “Beta Testing”?",
+      "options": {
+        "A": "To secure bank loans",
+        "B": "For real users to identify problems in an unfinished product",
+        "C": "To design the company logo",
+        "D": "To test the product in a staged setting internally"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'For real users to identify problems in an unfinished product'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 24,
+      "question": "Researching “Monthly Search Volume” helps an entrepreneur:",
+      "options": {
+        "A": "Calculate payroll",
+        "B": "Gauge consumer interest and need for a product",
+        "C": "Register a trademark",
+        "D": "Conduct alpha testing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Gauge consumer interest and need for a product'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 25,
+      "question": "Why is it important to validate a market idea early?",
+      "options": {
+        "A": "To avoid wasting time and resources",
+        "B": "To hire employees faster",
+        "C": "To skip the business plan",
+        "D": "To avoid paying taxes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct option is A: 'To avoid wasting time and resources'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 26,
+      "question": "Market validation provides confidence to:",
+      "options": {
+        "A": "Competitors",
+        "B": "Stakeholders and Investors",
+        "C": "The general public only",
+        "D": "Delivery drivers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Stakeholders and Investors'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 27,
+      "question": "Demographic segmentation includes which of the following?",
+      "options": {
+        "A": "Values and attitudes",
+        "B": "Purchasing history",
+        "C": "Age, sex, and income",
+        "D": "Region and city"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Age, sex, and income'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 28,
+      "question": "Which data type focuses on a customer’s attitudes, values, and interests?",
+      "options": {
+        "A": "Demographics",
+        "B": "Psychographics",
+        "C": "Geographics",
+        "D": "Behavioral"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Psychographics'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 29,
+      "question": "What does “Customer Churn” represent?",
+      "options": {
+        "A": "The cost of advertising",
+        "B": "The loss of customers over time",
+        "C": "The profit made per customer",
+        "D": "The number of items in a cart"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'The loss of customers over time'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 30,
+      "question": "How does customer profiling help the Sales team?",
+      "options": {
+        "A": "By reducing their salary",
+        "B": "By highlighting “pain points” to offer solutions",
+        "C": "By increasing the price of the product",
+        "D": "By identifying the physical location of the factory"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'By highlighting “pain points” to offer solutions'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 31,
+      "question": "“Customer Acquisition Cost” (CAC) is:",
+      "options": {
+        "A": "The price the customer pays",
+        "B": "The money spent to attract a single customer",
+        "C": "The cost of manufacturing the product",
+        "D": "The tax paid on a sale"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'The money spent to attract a single customer'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 32,
+      "question": "Behavioral segmentation looks at:",
+      "options": {
+        "A": "Where the customer lives",
+        "B": "How much money the customer makes",
+        "C": "Product usage and brand loyalty",
+        "D": "The customer’s religious beliefs"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Product usage and brand loyalty'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 33,
+      "question": "Customer profiling allows a business to target:",
+      "options": {
+        "A": "Every person in the world",
+        "B": "Only “better-fit” prospects",
+        "C": "Only people with high education",
+        "D": "Competitor employees"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Only “better-fit” prospects'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 34,
+      "question": "Identifying “Pain Points” helps a business to:",
+      "options": {
+        "A": "Increase customer frustration",
+        "B": "Predict issues and serve customers better",
+        "C": "Lower the quality of the product",
+        "D": "Ignore customer support"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Predict issues and serve customers better'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 35,
+      "question": "A “Pitch Document” (Slide Deck) usually consists of how many slides?",
+      "options": {
+        "A": "1 to 5",
+        "B": "10 to 15",
+        "C": "40 to 50",
+        "D": "100+"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: '10 to 15'. In Research Methodologies & Entrepreneurship, this fundamental concept is standard across Federal Board curriculum specifications."
+    }
+  ]
+}

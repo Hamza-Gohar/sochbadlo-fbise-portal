@@ -26,6 +26,7 @@ export default function HomePage() {
   const math10Chapters = getChaptersIndex('math-10');
   const physics10Chapters = getChaptersIndex('physics-10');
   const chemistry10Chapters = getChaptersIndex('chemistry-10');
+  const cs10Chapters = getChaptersIndex('cs-10');
 
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const biologyTotal = biologyChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -48,6 +49,7 @@ export default function HomePage() {
   const math10Total = math10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const physics10Total = physics10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const chemistry10Total = chemistry10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const cs10Total = cs10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
 
   const totalQuestions =
     physicsTotal +
@@ -70,7 +72,8 @@ export default function HomePage() {
     biology9Total +
     math10Total +
     physics10Total +
-    chemistry10Total;
+    chemistry10Total +
+    cs10Total;
   const totalModules =
     physicsChapters.length +
     biologyChapters.length +
@@ -92,7 +95,8 @@ export default function HomePage() {
     biology9Chapters.length +
     math10Chapters.length +
     physics10Chapters.length +
-    chemistry10Chapters.length;
+    chemistry10Chapters.length +
+    cs10Chapters.length;
 
   return (
     <div className="min-h-screen flex flex-col justify-between">
@@ -112,7 +116,7 @@ export default function HomePage() {
               </h1>
               <p className="text-base sm:text-lg text-[var(--color-ink-2)] max-w-2xl leading-relaxed font-[family-name:var(--font-body)]">
                 Master Federal Board SSC-I (Matric Part 1), SSC-II (Matric Part 2), and HSSC-I (Intermediate Part 1) examinations with authentic chapter-wise test series, instant conceptual explanations,
-                Class 10th Chemistry (8 units + 10 Section A simulators by Soch Badlo By MAK), Class 10th Physics (9 units + 10 Section A simulators by Soch Badlo By MAK), Class 10th Mathematics (13 units + 10 Section A simulators by Lecturer Jazab & Nimra Abid), Class 9th Biology (10 chapters + 8 Section A simulators by Lecturer Rubina Ashraf), Class 9th Computer Science (7 chapters + 4 Section A simulators by Lecturer Sabahat Ul Hasan & Aryan Ali), Class 9th Chemistry (19 chapters + 4 Section A simulators by Lecturer Ayesha Amjad), Class 9th English Compulsory (7 units + 4 Section A simulators by Lecturer Adeela Naheed), Class 9th Islamiat Compulsory (7 units + 4 Section A simulators by Lecturer Tayabah Rafaqat), Class 9th Urdu Compulsory (7 units + 4 Section A simulators), Class 9th Tarjuma-tul-Quran (9 units + 4 bilingual simulators), Class 9th Mathematics (11 units + 2 Section A simulators), Class 9th Physics (9 units + 2 Section A simulators), Biology (حیاتیات), Chemistry (کیمسٹری with Lecturer Ayesha Amjad rationales),
+                Class 10th Computer Science (8 units + 10 Section A simulators by Lecturer Sabahat Ul Hasan & Soch Badlo By MAK), Class 10th Chemistry (8 units + 10 Section A simulators by Soch Badlo By MAK), Class 10th Physics (9 units + 10 Section A simulators by Soch Badlo By MAK), Class 10th Mathematics (13 units + 10 Section A simulators by Lecturer Jazab & Nimra Abid), Class 9th Biology (10 chapters + 8 Section A simulators by Lecturer Rubina Ashraf), Class 9th Computer Science (7 chapters + 4 Section A simulators by Lecturer Sabahat Ul Hasan & Aryan Ali), Class 9th Chemistry (19 chapters + 4 Section A simulators by Lecturer Ayesha Amjad), Class 9th English Compulsory (7 units + 4 Section A simulators by Lecturer Adeela Naheed), Class 9th Islamiat Compulsory (7 units + 4 Section A simulators by Lecturer Tayabah Rafaqat), Class 9th Urdu Compulsory (7 units + 4 Section A simulators), Class 9th Tarjuma-tul-Quran (9 units + 4 bilingual simulators), Class 9th Mathematics (11 units + 2 Section A simulators), Class 9th Physics (9 units + 2 Section A simulators), Biology (حیاتیات), Chemistry (کیمسٹری with Lecturer Ayesha Amjad rationales),
                 Physics formulas, English syntax & poetic devices, Urdu literature and rhetoric (علمِ بیان و علمِ بدیع), Islamiat Compulsory (اسلامیات لازمی),
                 Tarjuma-tul-Quran (ترجمۃ القرآن المجید), Mathematics step-by-step problem solving, Computer Science logic, and timed board exam simulations.
               </p>
@@ -171,6 +175,7 @@ export default function HomePage() {
           math10Chapters={math10Chapters}
           physics10Chapters={physics10Chapters}
           chemistry10Chapters={chemistry10Chapters}
+          cs10Chapters={cs10Chapters}
         />
 
         {/* Hallmark Editorial Note & Exam Tips */}

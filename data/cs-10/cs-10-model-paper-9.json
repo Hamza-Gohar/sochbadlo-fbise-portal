@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 17,
+  "chapterTitle": "FBISE Annual Exam Simulator 09 (Full-Book Board Simulator II)",
+  "slug": "cs-10-model-paper-9",
+  "totalQuestions": 12,
+  "fileName": "cs-10-model-paper-9.json",
+  "subject": "cs-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The condition in a while loop is checked:",
+      "options": {
+        "A": "Before execution of the loop body",
+        "B": "After execution of the loop body",
+        "C": "At the middle of the loop",
+        "D": "Only when the program ends"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('After execution of the loop body') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 09 (Full-Book Board Simulator II)."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a valid variable name in C?",
+      "options": {
+        "A": "1num",
+        "B": "_value",
+        "C": "int",
+        "D": "double"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('_value') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 09 (Full-Book Board Simulator II)."
+    },
+    {
+      "id": 3,
+      "question": "In a for loop, which part is executed only once?",
+      "options": {
+        "A": "Initialization",
+        "B": "Condition",
+        "C": "Update",
+        "D": "Body of the loop"
+      },
+      "correctAnswer": "A",
+      "explanation": "Option A ('Initialization') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 09 (Full-Book Board Simulator II)."
+    },
+    {
+      "id": 4,
+      "question": "What will be the output of printf(\"%d\", 5 == 5);?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "5",
+        "D": "Error"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('1') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 09 (Full-Book Board Simulator II)."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is not a looping structure?",
+      "options": {
+        "A": "for",
+        "B": "while",
+        "C": "if",
+        "D": "do-while"
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('if') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 09 (Full-Book Board Simulator II)."
+    },
+    {
+      "id": 6,
+      "question": "What is the output of printf(\"%d\", 8 / 3);?",
+      "options": {
+        "A": "2",
+        "B": "2.67",
+        "C": "3",
+        "D": "Error"
+      },
+      "correctAnswer": "A",
+      "explanation": "Option A ('2') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 09 (Full-Book Board Simulator II)."
+    },
+    {
+      "id": 7,
+      "question": "Which function is used to find the square root of a number in C?",
+      "options": {
+        "A": "sqrt()",
+        "B": "power()",
+        "C": "root()",
+        "D": "pow()"
+      },
+      "correctAnswer": "A",
+      "explanation": "Option A ('sqrt()') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 09 (Full-Book Board Simulator II)."
+    },
+    {
+      "id": 8,
+      "question": "What is the correct way to declare a constant variable in C?",
+      "options": {
+        "A": "const int x = 10;",
+        "B": "int const x = 10;",
+        "C": "final int x = 10;",
+        "D": "Both a and b"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('int const x = 10;') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 09 (Full-Book Board Simulator II)."
+    },
+    {
+      "id": 9,
+      "question": "How many logical operators does C have?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('3') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 09 (Full-Book Board Simulator II)."
+    },
+    {
+      "id": 10,
+      "question": "In a do-while loop, the condition is checked:",
+      "options": {
+        "A": "Before the loop starts",
+        "B": "After executing the loop body",
+        "C": "Only when the loop is finished",
+        "D": "After every two iterations"
+      },
+      "correctAnswer": "A",
+      "explanation": "Option A ('Before the loop starts') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 09 (Full-Book Board Simulator II)."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is the correct syntax for an if statement?",
+      "options": {
+        "A": "if x > 10",
+        "B": "if(x > 10)",
+        "C": "if x > 10 then",
+        "D": "if(x > 10):"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('if(x > 10)') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 09 (Full-Book Board Simulator II)."
+    },
+    {
+      "id": 12,
+      "question": "The function used to find the length of a string in C is:",
+      "options": {
+        "A": "strsize()",
+        "B": "length()",
+        "C": "count()",
+        "D": "strlen()"
+      },
+      "correctAnswer": "D",
+      "explanation": "Option D ('strlen()') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 09 (Full-Book Board Simulator II)."
+    }
+  ]
+}

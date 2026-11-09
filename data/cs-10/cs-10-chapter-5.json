@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 5,
+  "chapterTitle": "Unit 05: Applications of Computer Science (IoT & Automation)",
+  "slug": "cs-10-chapter-5",
+  "totalQuestions": 35,
+  "fileName": "cs-10-chapter-5.json",
+  "subject": "cs-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary medium used to deliver cloud computing services?",
+      "options": {
+        "A": "Local Area Network",
+        "B": "The Internet",
+        "C": "Physical Hard Drives",
+        "D": "Bluetooth"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'The Internet'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 2,
+      "question": "Which benefit of cloud computing allows a business to increase its resources as it grows?",
+      "options": {
+        "A": "Security",
+        "B": "Cost Reduction",
+        "C": "Scalability",
+        "D": "Task Automation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Scalability'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 3,
+      "question": "In cloud computing, who is responsible for the maintenance of hardware and software?",
+      "options": {
+        "A": "The business owner",
+        "B": "The cloud provider",
+        "C": "The end-user",
+        "D": "The local IT department"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'The cloud provider'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is an example of a cloud-based storage system?",
+      "options": {
+        "A": "RAM",
+        "B": "OneDrive",
+        "C": "Internal SSD",
+        "D": "ROM"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'OneDrive'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 5,
+      "question": "How does cloud computing improve enhanced collaboration?",
+      "options": {
+        "A": "By limiting access to one office",
+        "B": "By providing access from anywhere at any time",
+        "C": "By increasing hardware costs",
+        "D": "By slowing communication"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'By providing access from anywhere at any time'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 6,
+      "question": "Cloud computing is an alternative to which traditional model?",
+      "options": {
+        "A": "Online shopping",
+        "B": "On-premises computing",
+        "C": "Manual bookkeeping",
+        "D": "Paper-based filing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'On-premises computing'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 7,
+      "question": "Which feature streamlines business operations by handling repetitive tasks?",
+      "options": {
+        "A": "Scalability",
+        "B": "Automation of Tasks",
+        "C": "Cost Reduction",
+        "D": "File Storage"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Automation of Tasks'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 8,
+      "question": "What is required to access cloud-based storage?",
+      "options": {
+        "A": "Physical cable connection",
+        "B": "Internet connection",
+        "C": "Supercomputer",
+        "D": "Local server"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Internet connection'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 9,
+      "question": "Which of these is NOT a benefit of cloud computing?",
+      "options": {
+        "A": "Quick Access",
+        "B": "Task Automation",
+        "C": "Physical Hardware Ownership",
+        "D": "Enhanced Collaboration"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Physical Hardware Ownership'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 10,
+      "question": "Why is data stored in cloud storage considered low risk?",
+      "options": {
+        "A": "Because it is never accessed",
+        "B": "Because providers restore data from backups",
+        "C": "Because hackers cannot use the internet",
+        "D": "Because it is stored on phones"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Because providers restore data from backups'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 11,
+      "question": "Which technology converts human speech into text or commands?",
+      "options": {
+        "A": "Voice Recognition",
+        "B": "Speech Recognition",
+        "C": "Image Recognition",
+        "D": "Data Encryption"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Speech Recognition'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 12,
+      "question": "What is the primary function of Voice Recognition?",
+      "options": {
+        "A": "Converting speech to text",
+        "B": "Typing emails",
+        "C": "Verifying a person's identity",
+        "D": "Translating languages"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Verifying a person's identity'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 13,
+      "question": "Which software is an example of a mobile dictation app?",
+      "options": {
+        "A": "Windows Recognition",
+        "B": "Gboard",
+        "C": "Excel",
+        "D": "Photoshop"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Gboard'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 14,
+      "question": "How does speech recognition help disabled persons?",
+      "options": {
+        "A": "Improving hearing",
+        "B": "Providing hands-free device control",
+        "C": "Fixing hardware",
+        "D": "Increasing battery life"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Providing hands-free device control'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 15,
+      "question": "Which field uses speech recognition for medical reports?",
+      "options": {
+        "A": "Education",
+        "B": "Healthcare",
+        "C": "Gaming",
+        "D": "eCommerce"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Healthcare'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 16,
+      "question": "What does voice recognition use to identify a person?",
+      "options": {
+        "A": "Fingerprints",
+        "B": "Unique voice features like tone and pitch",
+        "C": "Eye color",
+        "D": "Typing speed"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Unique voice features like tone and pitch'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is an AI assistant using speech recognition?",
+      "options": {
+        "A": "Dropbox",
+        "B": "Alexa",
+        "C": "Shopify",
+        "D": "Zoom"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Alexa'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 18,
+      "question": "In criminal investigations voice recognition helps to:",
+      "options": {
+        "A": "Record crimes",
+        "B": "Identify criminals or suspects",
+        "C": "Translate laws",
+        "D": "Buy equipment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Identify criminals or suspects'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 19,
+      "question": "What is the goal of NLP?",
+      "options": {
+        "A": "Making computers faster",
+        "B": "Enabling computers to understand human language",
+        "C": "Protecting computers from viruses",
+        "D": "Building hardware"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Enabling computers to understand human language'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 20,
+      "question": "Which NLP application identifies junk emails?",
+      "options": {
+        "A": "Predictive Text",
+        "B": "Email Filtering",
+        "C": "Document Analysis",
+        "D": "Sentiment Analysis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Email Filtering'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 21,
+      "question": "What does Sentiment Analysis determine?",
+      "options": {
+        "A": "Language used",
+        "B": "Typing speed",
+        "C": "Emotional tone of a message",
+        "D": "Sender location"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct option is C: 'Emotional tone of a message'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 22,
+      "question": "Which feature suggests the next words while typing?",
+      "options": {
+        "A": "Email Filtering",
+        "B": "Predictive Text",
+        "C": "Voice Recognition",
+        "D": "Scalability"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Predictive Text'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 23,
+      "question": "How does NLP help in document analysis?",
+      "options": {
+        "A": "Printing documents",
+        "B": "Extracting and categorizing information",
+        "C": "Deleting files",
+        "D": "Changing fonts"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Extracting and categorizing information'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 24,
+      "question": "Which technology is commonly used in NLP translation programs?",
+      "options": {
+        "A": "Bluetooth",
+        "B": "Machine Learning and Deep Learning",
+        "C": "Manual typing",
+        "D": "Radio waves"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Machine Learning and Deep Learning'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 25,
+      "question": "Is NLP email filtering always accurate?",
+      "options": {
+        "A": "Yes, always",
+        "B": "No, sometimes emails are wrongly marked as spam",
+        "C": "Yes, because it uses AI",
+        "D": "No, it works only in English"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'No, sometimes emails are wrongly marked as spam'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 26,
+      "question": "Why do companies use Sentiment Analysis on social media?",
+      "options": {
+        "A": "Counting likes",
+        "B": "Identifying product improvement areas",
+        "C": "Blocking users",
+        "D": "Hiding advertisements"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Identifying product improvement areas'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 27,
+      "question": "Robotics is a combination of:",
+      "options": {
+        "A": "Biology and Art",
+        "B": "AI and Engineering",
+        "C": "Chemistry and Physics",
+        "D": "History and Math"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'AI and Engineering'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 28,
+      "question": "Which robot type helps in disasters and rescue operations?",
+      "options": {
+        "A": "Roomba",
+        "B": "Rescue robots",
+        "C": "Grafting robots",
+        "D": "Palletizing robots"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Rescue robots'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 29,
+      "question": "Why are robots used in manufacturing industries?",
+      "options": {
+        "A": "Playing games",
+        "B": "Performing repeated tasks efficiently",
+        "C": "Cleaning kitchens",
+        "D": "Selling products"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Performing repeated tasks efficiently'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 30,
+      "question": "What is a Roomba?",
+      "options": {
+        "A": "Mars robot",
+        "B": "Autonomous vacuum cleaner",
+        "C": "Surgical robot",
+        "D": "Farming robot"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Autonomous vacuum cleaner'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 31,
+      "question": "Which robot is used for picking fruits and vegetables?",
+      "options": {
+        "A": "Spraying robots",
+        "B": "Harvesting robots",
+        "C": "Drone robots",
+        "D": "Hospital robots"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Harvesting robots'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 32,
+      "question": "Why are robots useful in space exploration?",
+      "options": {
+        "A": "Cheaper than telescopes",
+        "B": "Work in extreme temperatures and radiation",
+        "C": "Talk to aliens",
+        "D": "Faster than light"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Work in extreme temperatures and radiation'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 33,
+      "question": "How do AMRs help in hospitals?",
+      "options": {
+        "A": "Performing surgery",
+        "B": "Sanitizing rooms and delivering medicines",
+        "C": "Answering calls",
+        "D": "Cooking food"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Sanitizing rooms and delivering medicines'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 34,
+      "question": "Which farming robot joins parts of two plants?",
+      "options": {
+        "A": "Harvesting",
+        "B": "Grafting",
+        "C": "Spraying",
+        "D": "Palletizing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Grafting'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 35,
+      "question": "What does AI bias mean?",
+      "options": {
+        "A": "AI is expensive",
+        "B": "Unfairness or discrimination",
+        "C": "AI is faster than humans",
+        "D": "AI needs no internet"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: 'Unfairness or discrimination'. In Applications of Computer Science (IoT & Automation), this fundamental concept is standard across Federal Board curriculum specifications."
+    }
+  ]
+}

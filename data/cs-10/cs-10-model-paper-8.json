@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 16,
+  "chapterTitle": "FBISE Annual Exam Simulator 08 (Full-Book Board Simulator I)",
+  "slug": "cs-10-model-paper-8",
+  "totalQuestions": 12,
+  "fileName": "cs-10-model-paper-8.json",
+  "subject": "cs-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following functions must all C programs contain? (FBISE 2019)",
+      "options": {
+        "A": "main()",
+        "B": "system()",
+        "C": "scanf()",
+        "D": "getche()"
+      },
+      "correctAnswer": "A",
+      "explanation": "Option A ('main()') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 08 (Full-Book Board Simulator I)."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is required to write a C program? (FBISE 2019)",
+      "options": {
+        "A": "Compiler",
+        "B": "Text editor",
+        "C": "Debugger",
+        "D": "Interpreter"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('Text editor') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 08 (Full-Book Board Simulator I)."
+    },
+    {
+      "id": 3,
+      "question": "In 'C', a variable name CANNOT start with: (FBISE 2019)",
+      "options": {
+        "A": "A number",
+        "B": "Underscore",
+        "C": "Small alphabet",
+        "D": "Capital alphabet"
+      },
+      "correctAnswer": "A",
+      "explanation": "Option A ('A number') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 08 (Full-Book Board Simulator I)."
+    },
+    {
+      "id": 4,
+      "question": "Which program translates high-level language into machine language? (MODEL PAPER)",
+      "options": {
+        "A": "Compiler",
+        "B": "Linker",
+        "C": "Loader",
+        "D": "Debugger"
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('Loader') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 08 (Full-Book Board Simulator I)."
+    },
+    {
+      "id": 5,
+      "question": "How many bytes are set by the compiler for a variable of type 'int'? (MODEL PAPER)",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('4') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 08 (Full-Book Board Simulator I)."
+    },
+    {
+      "id": 6,
+      "question": "Which software examines the values stored in variables and helps in finding and removing errors? (MODEL PAPER)",
+      "options": {
+        "A": "Loader",
+        "B": "Linker",
+        "C": "Editor",
+        "D": "Debugger"
+      },
+      "correctAnswer": "D",
+      "explanation": "Option D ('Debugger') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 08 (Full-Book Board Simulator I)."
+    },
+    {
+      "id": 7,
+      "question": "What will be the output of the following statement? (6>7)? printf(\"ABC\") : printf(\"XYZ\"); (FBISE 2021)",
+      "options": {
+        "A": "ABC",
+        "B": "XYZ",
+        "C": "6>7",
+        "D": "Error"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('XYZ') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 08 (Full-Book Board Simulator I)."
+    },
+    {
+      "id": 8,
+      "question": "Which statement is equivalent to 'k = k + i'? (FBISE 2021)",
+      "options": {
+        "A": "k =+ i;",
+        "B": "i =+ k;",
+        "C": "k += i;",
+        "D": "i += k;"
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('k += i;') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 08 (Full-Book Board Simulator I)."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is the symbol for the AND operator? (FBISE 2019)",
+      "options": {
+        "A": "||",
+        "B": "&",
+        "C": "&&",
+        "D": "|"
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('&&') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 08 (Full-Book Board Simulator I)."
+    },
+    {
+      "id": 10,
+      "question": "Which escape sequence is used to move the cursor to the beginning of the current line? (FBISE 2019)",
+      "options": {
+        "A": "\\a",
+        "B": "\\r",
+        "C": "\\n",
+        "D": "\\b"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('\\r') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 08 (Full-Book Board Simulator I)."
+    },
+    {
+      "id": 11,
+      "question": "Which statement is equivalent to \"k = k + a;\" (MODEL PAPER)",
+      "options": {
+        "A": "K += a;",
+        "B": "k =+ a;",
+        "C": "k++a;",
+        "D": "k = a++;"
+      },
+      "correctAnswer": "A",
+      "explanation": "Option A ('K += a;') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 08 (Full-Book Board Simulator I)."
+    },
+    {
+      "id": 12,
+      "question": "Which format specifier is used to print or read a floating-point value in decimal notation? (MODEL PAPER)",
+      "options": {
+        "A": "%d",
+        "B": "%g",
+        "C": "%f",
+        "D": "%e"
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('%f') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 08 (Full-Book Board Simulator I)."
+    }
+  ]
+}

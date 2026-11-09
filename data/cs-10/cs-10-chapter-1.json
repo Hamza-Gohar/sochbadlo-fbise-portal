@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 1,
+  "chapterTitle": "Unit 01: Computer Systems",
+  "slug": "cs-10-chapter-1",
+  "totalQuestions": 35,
+  "fileName": "cs-10-chapter-1.json",
+  "subject": "cs-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "At the machine level, what are the fundamental units of information in computer?",
+      "options": {
+        "A": "Decimals",
+        "B": "Binary digits (bits)",
+        "C": "Alphabets",
+        "D": "Floating points"
+      },
+      "correctAnswer": "B",
+      "explanation": "Computers represent and process all information using binary digits (0 and"
+    },
+    {
+      "id": 2,
+      "question": "Which bit in an integer representation typically indicates the sign (positive or negative)?",
+      "options": {
+        "A": "The rightmost bit",
+        "B": "The middle bit",
+        "C": "The Most Significant Bit (leftmost)",
+        "D": "The Least Significant Bit"
+      },
+      "correctAnswer": "C",
+      "explanation": "In signed binary numbers, the Most Significant Bit (MSB) is used to represent the sign of the number (positive or negative)."
+    },
+    {
+      "id": 3,
+      "question": "What is the ASCII code for the character 'A' in binary?",
+      "options": {
+        "A": "00000001",
+        "B": "01000001",
+        "C": "11111111",
+        "D": "00000101"
+      },
+      "correctAnswer": "B",
+      "explanation": "The ASCII value of A is 65 in decimal, which equals 01000001 in binary."
+    },
+    {
+      "id": 4,
+      "question": "What is the base of the Decimal number system?",
+      "options": {
+        "A": "2",
+        "B": "8",
+        "C": "10",
+        "D": "16"
+      },
+      "correctAnswer": "C",
+      "explanation": "The decimal system uses digits 0–9, therefore its base is 10."
+    },
+    {
+      "id": 5,
+      "question": "Which digit in a number carries the \"least weight\"?",
+      "options": {
+        "A": "Most Significant Digit (MSD)",
+        "B": "Least Significant Digit (LSD)",
+        "C": "The middle digit",
+        "D": "The first digit"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Least Significant Digit (LSD) has the smallest positional value in a number."
+    },
+    {
+      "id": 6,
+      "question": "The Hexadecimal number system uses digits 0-9 and which letters?",
+      "options": {
+        "A": "A-E",
+        "B": "A-F",
+        "C": "A-G",
+        "D": "X-Z"
+      },
+      "correctAnswer": "B",
+      "explanation": "The hexadecimal system uses digits 0–9 and letters A–F, representing values 10–15."
+    },
+    {
+      "id": 7,
+      "question": "In the Octal number system, what is the maximum value a single digit can have?",
+      "options": {
+        "A": "8",
+        "B": "9",
+        "C": "7",
+        "D": "1"
+      },
+      "correctAnswer": "C",
+      "explanation": "Octal has base 8, so its digits range from 0 to 7."
+    },
+    {
+      "id": 8,
+      "question": "Why do computers use binary arithmetic instead of decimal?",
+      "options": {
+        "A": "Because it is faster for humans to read",
+        "B": "Because digital electronic circuits inherently operate in binary",
+        "C": "Because binary uses more digits",
+        "D": "Because decimal is too simple"
+      },
+      "correctAnswer": "B",
+      "explanation": "Digital circuits operate using two electrical states (ON/OFF) which correspond to binary 1 and 0."
+    },
+    {
+      "id": 9,
+      "question": "In binary addition, what is the result of 1 + 1?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "10 (0 with a carry of 1)",
+        "D": "11"
+      },
+      "correctAnswer": "C",
+      "explanation": "In binary arithmetic 1 + 1 = 10, meaning 0 with a carry of 1."
+    },
+    {
+      "id": 10,
+      "question": "What is the binary equivalent of the Hexadecimal digit 'B'?",
+      "options": {
+        "A": "1010",
+        "B": "1011",
+        "C": "1100",
+        "D": "1111"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hexadecimal B = decimal 11, and 11 in binary = 1011."
+    },
+    {
+      "id": 11,
+      "question": "Which system is also known as the \"Denary\" number system?",
+      "options": {
+        "A": "Binary",
+        "B": "Octal",
+        "C": "Hexadecimal",
+        "D": "Decimal"
+      },
+      "correctAnswer": "D",
+      "explanation": "The denary system is another name for the decimal system (base 10)."
+    },
+    {
+      "id": 12,
+      "question": "What is the decimal value of the binary number (101)₂?",
+      "options": {
+        "A": "2",
+        "B": "5",
+        "C": "10",
+        "D": "7"
+      },
+      "correctAnswer": "B",
+      "explanation": "1×22+0×21+1×20=4+0+1=51×22+0×21+1×20=4+0+1=5."
+    },
+    {
+      "id": 13,
+      "question": "To convert a decimal number to binary, you must repeatedly divide the number by:",
+      "options": {
+        "A": "10",
+        "B": "8",
+        "C": "16",
+        "D": "2"
+      },
+      "correctAnswer": "D",
+      "explanation": "Decimal numbers are converted to binary by repeatedly dividing by 2 and recording the remainders."
+    },
+    {
+      "id": 14,
+      "question": "What is the decimal equivalent of the Octal number (672)₈?",
+      "options": {
+        "A": "442",
+        "B": "672",
+        "C": "512",
+        "D": "384"
+      },
+      "correctAnswer": "A",
+      "explanation": "6×82+7×81+2×80=384+56+2=4426×82+7×81+2×80=384+56+2=44 2."
+    },
+    {
+      "id": 15,
+      "question": "When converting Binary to Octal, how many bits are grouped together from the right?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctAnswer": "B",
+      "explanation": "3 binary bits represent one octal digit."
+    },
+    {
+      "id": 16,
+      "question": "What is the Hexadecimal (3AF)₁₆ in decimal?",
+      "options": {
+        "A": "943",
+        "B": "315",
+        "C": "768",
+        "D": "1000"
+      },
+      "correctAnswer": "A",
+      "explanation": "3×162+10×16+15=9433×162+10×16+15=943."
+    },
+    {
+      "id": 17,
+      "question": "Convert (11001)₂ to decimal.",
+      "options": {
+        "A": "20",
+        "B": "25",
+        "C": "31",
+        "D": "23"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct option is B: '25'. In Computer Systems & Data Representation, this fundamental concept is standard across Federal Board curriculum specifications."
+    },
+    {
+      "id": 18,
+      "question": "To convert Octal to Binary, each octal digit is replaced by how many bits?",
+      "options": {
+        "A": "2 bits",
+        "B": "3 bits",
+        "C": "4 bits",
+        "D": "8 bits"
+      },
+      "correctAnswer": "B",
+      "explanation": "Each octal digit equals 3 binary bits."
+    },
+    {
+      "id": 19,
+      "question": "What is the octal representation of the decimal number (165)₁₀?",
+      "options": {
+        "A": "245",
+        "B": "165",
+        "C": "300",
+        "D": "205"
+      },
+      "correctAnswer": "A",
+      "explanation": "Converting 165 decimal to octal gives 245."
+    },
+    {
+      "id": 20,
+      "question": "In binary to hexadecimal conversion, how many bits are grouped together?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "10"
+      },
+      "correctAnswer": "C",
+      "explanation": "4 binary bits represent one hexadecimal digit."
+    },
+    {
+      "id": 21,
+      "question": "What is the decimal value of (1011.101)₂?",
+      "options": {
+        "A": "11.625",
+        "B": "10.5",
+        "C": "11.125",
+        "D": "11.5"
+      },
+      "correctAnswer": "A",
+      "explanation": "8+2+1+0.5+0.125=11.6258+2+1+0.5+0.125=11.625."
+    },
+    {
+      "id": 22,
+      "question": "Convert Hexadecimal (1BE8)₁₆ to Decimal.",
+      "options": {
+        "A": "7144",
+        "B": "4096",
+        "C": "8000",
+        "D": "1234"
+      },
+      "correctAnswer": "A",
+      "explanation": "1×4096+11×256+14×16+8=71441×4096+11×256+14×16+8=7144."
+    },
+    {
+      "id": 23,
+      "question": "What is the binary of Octal digit 7?",
+      "options": {
+        "A": "111",
+        "B": "110",
+        "C": "101",
+        "D": "011"
+      },
+      "correctAnswer": "A",
+      "explanation": "The octal digit 7 equals binary 111."
+    },
+    {
+      "id": 24,
+      "question": "What are coding schemes use for?",
+      "options": {
+        "A": "To design hardware",
+        "B": "To convert data into machine-readable form",
+        "C": "To increase internet speed",
+        "D": "To store images only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Coding schemes convert human-readable data into binary form so computers can understand and process it."
+    },
+    {
+      "id": 25,
+      "question": "Which number system do computers use to represent data?",
+      "options": {
+        "A": "Decimal",
+        "B": "Hexadecimal",
+        "C": "Binary",
+        "D": "Octal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Computers use binary digits (0s and 1s) to represent all types of data."
+    },
+    {
+      "id": 26,
+      "question": "What is the main purpose of standardization in coding schemes?",
+      "options": {
+        "A": "Increase storage space",
+        "B": "Improve graphics",
+        "C": "Ensure compatibility across devices",
+        "D": "Reduce electricity usage"
+      },
+      "correctAnswer": "C",
+      "explanation": "Standardization ensures that different systems can understand and exchange data correctly."
+    },
+    {
+      "id": 27,
+      "question": "What does ASCII stand for?",
+      "options": {
+        "A": "American Standard Code for Internet Information",
+        "B": "American Standard Code for Information Interchange",
+        "C": "Automated System Code for Information",
+        "D": "Advanced Standard Coding Interface"
+      },
+      "correctAnswer": "B",
+      "explanation": "ASCII is a standard coding system used to represent text characters in computers."
+    },
+    {
+      "id": 28,
+      "question": "How many characters can ASCII-7 represent?",
+      "options": {
+        "A": "64",
+        "B": "128",
+        "C": "256",
+        "D": "512"
+      },
+      "correctAnswer": "B",
+      "explanation": "ASCII-7 uses 7 bits, allowing 2⁷ = 128 different characters."
+    },
+    {
+      "id": 29,
+      "question": "Why was ASCII-8 developed?",
+      "options": {
+        "A": "To reduce memory usage",
+        "B": "To support more characters",
+        "C": "To replace binary system",
+        "D": "To improve speed"
+      },
+      "correctAnswer": "B",
+      "explanation": "ASCII-8 uses 8 bits and can represent 256 characters, allowing more symbols and languages."
+    },
+    {
+      "id": 30,
+      "question": "How many characters can ASCII-8 represent?",
+      "options": {
+        "A": "128",
+        "B": "200",
+        "C": "256",
+        "D": "512"
+      },
+      "correctAnswer": "C",
+      "explanation": "ASCII-8 uses 8 bits, so it can represent 2⁸ = 256 characters."
+    },
+    {
+      "id": 31,
+      "question": "What is Unicode?",
+      "options": {
+        "A": "A programming language",
+        "B": "A hardware device",
+        "C": "An international character encoding system",
+        "D": "A type of computer"
+      },
+      "correctAnswer": "C",
+      "explanation": "Unicode is a universal system that represents characters from almost all languages."
+    },
+    {
+      "id": 32,
+      "question": "Who developed Unicode?",
+      "options": {
+        "A": "Microsoft",
+        "B": "Apple",
+        "C": "Unicode Consortium",
+        "D": "IBM"
+      },
+      "correctAnswer": "C",
+      "explanation": "Unicode was developed by the Unicode Consortium to support multiple languages globally."
+    },
+    {
+      "id": 33,
+      "question": "What is the main advantage of Unicode over ASCII?",
+      "options": {
+        "A": "Faster processing",
+        "B": "Smaller size",
+        "C": "Supports more characters and languages",
+        "D": "Uses less electricity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Unicode supports over 100,000 characters, making it suitable for global use compared to ASCII."
+    },
+    {
+      "id": 34,
+      "question": "Which software is essential for managing a computer's memory, processes, hardware, and software?",
+      "options": {
+        "A": "Word Processor",
+        "B": "Operating System",
+        "C": "Spreadsheet",
+        "D": "Database"
+      },
+      "correctAnswer": "B",
+      "explanation": "An Operating System (OS) manages hardware resources, memory, processes, and provides a platform for applications."
+    },
+    {
+      "id": 35,
+      "question": "When is the Operating System loaded into the RAM?",
+      "options": {
+        "A": "When a file is deleted",
+        "B": "When the computer is turned on",
+        "C": "When the internet is connected",
+        "D": "When a printer is installed"
+      },
+      "correctAnswer": "B",
+      "explanation": "When a computer starts, a process called booting loads the operating system from storage into RAM."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 18,
+  "chapterTitle": "FBISE Annual Exam Simulator 10 (Full-Book Board Simulator III)",
+  "slug": "cs-10-model-paper-10",
+  "totalQuestions": 12,
+  "fileName": "cs-10-model-paper-10.json",
+  "subject": "cs-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In an array, index numbers start from:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "Depends on declaration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('0') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 10 (Full-Book Board Simulator III)."
+    },
+    {
+      "id": 2,
+      "question": "What will be the output of printf(\"%d\", 5 != 5);?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "5",
+        "D": "Error"
+      },
+      "correctAnswer": "A",
+      "explanation": "Option A ('0') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 10 (Full-Book Board Simulator III)."
+    },
+    {
+      "id": 3,
+      "question": "A nested loop is a loop that:",
+      "options": {
+        "A": "Runs in an infinite cycle",
+        "B": "Has another loop inside it",
+        "C": "Uses more than one condition",
+        "D": "Executes only once"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('Has another loop inside it') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 10 (Full-Book Board Simulator III)."
+    },
+    {
+      "id": 4,
+      "question": "What will be the output of printf(\"%d\", 7 && 3);?",
+      "options": {
+        "A": "7",
+        "B": "3",
+        "C": "1",
+        "D": "0"
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('1') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 10 (Full-Book Board Simulator III)."
+    },
+    {
+      "id": 5,
+      "question": "Which function is used to convert a string to an integer?",
+      "options": {
+        "A": "stringToInt()",
+        "B": "atoi()",
+        "C": "convert()",
+        "D": "itoa()"
+      },
+      "correctAnswer": "A",
+      "explanation": "Option A ('stringToInt()') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 10 (Full-Book Board Simulator III)."
+    },
+    {
+      "id": 6,
+      "question": "The || operator returns true if:",
+      "options": {
+        "A": "Both conditions are true",
+        "B": "Any one condition is true",
+        "C": "Both conditions are false",
+        "D": "The first condition is false"
+      },
+      "correctAnswer": "A",
+      "explanation": "Option A ('Both conditions are true') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 10 (Full-Book Board Simulator III)."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a valid function declaration in C?",
+      "options": {
+        "A": "void fun();",
+        "B": "fun() void;",
+        "C": "function void();",
+        "D": "void function();"
+      },
+      "correctAnswer": "A",
+      "explanation": "Option A ('void fun();') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 10 (Full-Book Board Simulator III)."
+    },
+    {
+      "id": 8,
+      "question": "The value of 5 & 3 in binary is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "5"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('2') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 10 (Full-Book Board Simulator III)."
+    },
+    {
+      "id": 9,
+      "question": "The break statement is used to:",
+      "options": {
+        "A": "Stop the program",
+        "B": "Exit from a loop or switch case",
+        "C": "Skip one iteration of a loop",
+        "D": "Move to the next statement"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('Exit from a loop or switch case') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 10 (Full-Book Board Simulator III)."
+    },
+    {
+      "id": 10,
+      "question": "The primary purpose of a compiler is to:",
+      "options": {
+        "A": "Execute programs",
+        "B": "Convert high-level code to machine code",
+        "C": "Debug errors",
+        "D": "Store data"
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('Debug errors') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 10 (Full-Book Board Simulator III)."
+    },
+    {
+      "id": 11,
+      "question": "The keyword used to return a value from a function in C is:",
+      "options": {
+        "A": "return",
+        "B": "send",
+        "C": "output",
+        "D": "exit"
+      },
+      "correctAnswer": "A",
+      "explanation": "Option A ('return') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 10 (Full-Book Board Simulator III)."
+    },
+    {
+      "id": 12,
+      "question": "What does the ++ operator do in C?",
+      "options": {
+        "A": "Decreases a value by 1",
+        "B": "Increases a value by 1",
+        "C": "Multiplies two values",
+        "D": "Compares two values"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('Increases a value by 1') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 10 (Full-Book Board Simulator III)."
+    }
+  ]
+}

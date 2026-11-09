@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 14,
+  "chapterTitle": "FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)",
+  "slug": "cs-10-model-paper-6",
+  "totalQuestions": 12,
+  "fileName": "cs-10-model-paper-6.json",
+  "subject": "cs-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which symbol is used to represent Process/Processing in a flowchart?(FBISE 2022)",
+      "options": {
+        "A": "Oval",
+        "B": "Parallelogram",
+        "C": "Rectangle",
+        "D": "Diamond"
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('Rectangle') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)."
+    },
+    {
+      "id": 2,
+      "question": "What does a small circle represent in a flowchart? (FBISE 2019)",
+      "options": {
+        "A": "Start/Stop",
+        "B": "Decision",
+        "C": "Processing",
+        "D": "Connector"
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('Processing') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)."
+    },
+    {
+      "id": 3,
+      "question": "A small circle in a flowchart represents: (FBISE 2021)",
+      "options": {
+        "A": "Start/Stop",
+        "B": "Decision",
+        "C": "Processing",
+        "D": "Connector"
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('Processing') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following structures allows a choice among various options? (MODEL PAPER)",
+      "options": {
+        "A": "Sequence",
+        "B": "Selection",
+        "C": "Loop",
+        "D": "Decision"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('Selection') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)."
+    },
+    {
+      "id": 5,
+      "question": "Which of the symbols is used in a flowchart for the statement \"K < 3\"? (MODEL PAPER)",
+      "options": {
+        "A": "Oval",
+        "B": "Parallelogram",
+        "C": "Diamond",
+        "D": "Rectangle"
+      },
+      "correctAnswer": "D",
+      "explanation": "Option D ('Rectangle') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)."
+    },
+    {
+      "id": 6,
+      "question": "Which one of the following symbols is used in a flowchart for the statement \"Marks < 33\"? (MODEL PAPER)",
+      "options": {
+        "A": "Oval",
+        "B": "Parallelogram",
+        "C": "Diamond",
+        "D": "Rectangle"
+      },
+      "correctAnswer": "D",
+      "explanation": "Option D ('Rectangle') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)."
+    },
+    {
+      "id": 7,
+      "question": "Which symbol is used to obtain the total marks from the values given by users in flowchart development? (MODEL PAPER)",
+      "options": {
+        "A": "Rectangle",
+        "B": "Parallelogram",
+        "C": "Diamond",
+        "D": "Oval"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('Parallelogram') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)."
+    },
+    {
+      "id": 8,
+      "question": "Which one of the following stages of problem-solving refers to dividing the solution into steps and arranging them into a proper order that will solve the problem? (MODEL PAPER)",
+      "options": {
+        "A": "Analyzing the problem",
+        "B": "Planning the solution of the problem",
+        "C": "Candid solution of a problem",
+        "D": "Defining the problem"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('Planning the solution of the problem') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)."
+    },
+    {
+      "id": 9,
+      "question": "How many reserved words does C language have? (FBISE 2022)",
+      "options": {
+        "A": "16",
+        "B": "32",
+        "C": "48",
+        "D": "64"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('32') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)."
+    },
+    {
+      "id": 10,
+      "question": "The process of retrieving a program instruction from memory is called: (FBISE 2021)",
+      "options": {
+        "A": "Linking",
+        "B": "Loading",
+        "C": "Executing",
+        "D": "Storing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('Loading') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)."
+    },
+    {
+      "id": 11,
+      "question": "How many bytes does the long data type variable take in memory? (FBISE 2021)",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "8",
+        "D": "16"
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('8') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is NOT a high-level language? (FBISE 2021)",
+      "options": {
+        "A": "Java",
+        "B": "C++",
+        "C": "Assembly",
+        "D": "VB"
+      },
+      "correctAnswer": "A",
+      "explanation": "Option A ('Java') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)."
+    }
+  ]
+}

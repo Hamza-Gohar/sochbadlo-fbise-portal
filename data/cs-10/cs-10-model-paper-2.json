@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 10,
+  "chapterTitle": "FBISE Annual Exam Simulator 02 (Unit 3: C Syntax & Web Development)",
+  "slug": "cs-10-model-paper-2",
+  "totalQuestions": 12,
+  "fileName": "cs-10-model-paper-2.json",
+  "subject": "cs-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the output of printf(\"%d\", 2 + 3 * 4);?",
+      "options": {
+        "A": "20",
+        "B": "14",
+        "C": "24",
+        "D": "18"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('14') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 02 (Unit 3: C Syntax & Web Development)."
+    },
+    {
+      "id": 2,
+      "question": "Which loop is best for iterating a known number of times?",
+      "options": {
+        "A": "for loop",
+        "B": "while loop",
+        "C": "do-while loop",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Option A ('for loop') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 02 (Unit 3: C Syntax & Web Development)."
+    },
+    {
+      "id": 3,
+      "question": "The && operator in C represents:",
+      "options": {
+        "A": "Bitwise AND",
+        "B": "Logical AND",
+        "C": "Bitwise OR",
+        "D": "Logical OR"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('Logical AND') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 02 (Unit 3: C Syntax & Web Development)."
+    },
+    {
+      "id": 4,
+      "question": "In a switch statement, each case block ends with:",
+      "options": {
+        "A": "continue",
+        "B": "break",
+        "C": "return",
+        "D": "stop"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('break') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 02 (Unit 3: C Syntax & Web Development)."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following operators has the lowest precedence in C?",
+      "options": {
+        "A": "+",
+        "B": "*",
+        "C": "&&",
+        "D": "="
+      },
+      "correctAnswer": "D",
+      "explanation": "Option D ('=') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 02 (Unit 3: C Syntax & Web Development)."
+    },
+    {
+      "id": 6,
+      "question": "What will be the output of printf(\"%d\", 9 / 2);?",
+      "options": {
+        "A": "4",
+        "B": "4.5",
+        "C": "5",
+        "D": "Error"
+      },
+      "correctAnswer": "A",
+      "explanation": "Option A ('4') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 02 (Unit 3: C Syntax & Web Development)."
+    },
+    {
+      "id": 7,
+      "question": "What will be the output of printf(\"%f\", 9.0 / 2);?",
+      "options": {
+        "A": "4.0",
+        "B": "4.5",
+        "C": "5.0",
+        "D": "Error"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('4.5') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 02 (Unit 3: C Syntax & Web Development)."
+    },
+    {
+      "id": 8,
+      "question": "The %d format specifier in printf() is used for:",
+      "options": {
+        "A": "Floating-point numbers",
+        "B": "Integer values",
+        "C": "Character values",
+        "D": "Strings"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('Integer values') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 02 (Unit 3: C Syntax & Web Development)."
+    },
+    {
+      "id": 9,
+      "question": "Which function is used to find the length of a string in C?",
+      "options": {
+        "A": "strlen()",
+        "B": "size()",
+        "C": "count()",
+        "D": "strlength()"
+      },
+      "correctAnswer": "A",
+      "explanation": "Option A ('strlen()') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 02 (Unit 3: C Syntax & Web Development)."
+    },
+    {
+      "id": 10,
+      "question": "What will be the output of the following code? int x = 5; x++; printf(\"%d\", x);",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "Error"
+      },
+      "correctAnswer": "C",
+      "explanation": "Option C ('6') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 02 (Unit 3: C Syntax & Web Development)."
+    },
+    {
+      "id": 11,
+      "question": "Which HTML tag is used to create a hyperlink?",
+      "options": {
+        "A": "<link>",
+        "B": "<a>",
+        "C": "<h1>",
+        "D": "<p>"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('<a>') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 02 (Unit 3: C Syntax & Web Development)."
+    },
+    {
+      "id": 12,
+      "question": "How many bytes does a float variable typically take in memory?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "8",
+        "D": "16"
+      },
+      "correctAnswer": "B",
+      "explanation": "Option B ('4') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 02 (Unit 3: C Syntax & Web Development)."
+    }
+  ]
+}
