@@ -1,0 +1,247 @@
+{
+  "chapterNumber": 5,
+  "chapterTitle": "Work & Energy",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Work is defined as the dot product of:",
+      "options": {
+        "A": "Force and Velocity",
+        "B": "Force and Acceleration",
+        "C": "Force and Displacement",
+        "D": "Mass and Velocity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Work W is the scalar product of force F and displacement d. W = F · d = Fd cosθ."
+    },
+    {
+      "id": 2,
+      "question": "The SI unit of work is:",
+      "options": {
+        "A": "Newton (N)",
+        "B": "Joule (J)",
+        "C": "Watt (W)",
+        "D": "Pascal (Pa)"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Joule (J) is the SI unit. 1 Joule is the work done when a force of 1 Newton moves an object 1 meter."
+    },
+    {
+      "id": 3,
+      "question": "If the angle between force and displacement is 90°, the work done is:",
+      "options": {
+        "A": "Maximum",
+        "B": "Minimum (negative)",
+        "C": "Zero",
+        "D": "Infinite"
+      },
+      "correctAnswer": "C",
+      "explanation": "When θ = 90°, cos 90° = 0, so W = 0. Hence normal force or centripetal force does no work."
+    },
+    {
+      "id": 4,
+      "question": "A person holding a heavy box and standing still does:",
+      "options": {
+        "A": "Positive work",
+        "B": "Negative work",
+        "C": "Zero work",
+        "D": "Maximum work"
+      },
+      "correctAnswer": "C",
+      "explanation": "Even though the person feels tired, displacement is zero. So work done is zero."
+    },
+    {
+      "id": 5,
+      "question": "Work done is negative when the angle between force and displacement is:",
+      "options": {
+        "A": "0°",
+        "B": "90°",
+        "C": "180°",
+        "D": "45°"
+      },
+      "correctAnswer": "C",
+      "explanation": "If θ = 180°, cos 180° = -1, so work is negative (e.g., friction opposes motion)."
+    },
+    {
+      "id": 6,
+      "question": "The area under a Force–Displacement graph represents:",
+      "options": {
+        "A": "Power",
+        "B": "Work done",
+        "C": "Momentum",
+        "D": "Acceleration"
+      },
+      "correctAnswer": "B",
+      "explanation": "The integral F·dx is the area under the force-displacement graph representing work."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a scalar quantity?",
+      "options": {
+        "A": "Force",
+        "B": "Work",
+        "C": "Velocity",
+        "D": "Displacement"
+      },
+      "correctAnswer": "B",
+      "explanation": "Work is a dot product of vectors, so it is a scalar quantity."
+    },
+    {
+      "id": 8,
+      "question": "Kinetic energy of a body of mass m moving with velocity v is:",
+      "options": {
+        "A": "mv",
+        "B": "mv²",
+        "C": "1/2 mv²",
+        "D": "1/2 m²v"
+      },
+      "correctAnswer": "C",
+      "explanation": "Kinetic energy is energy of motion: KE = 1/2 mv²."
+    },
+    {
+      "id": 9,
+      "question": "If the velocity of a body is doubled, its kinetic energy becomes:",
+      "options": {
+        "A": "Double",
+        "B": "Half",
+        "C": "Four times",
+        "D": "Same"
+      },
+      "correctAnswer": "C",
+      "explanation": "KE is proportional to v². If velocity doubles, KE becomes four times."
+    },
+    {
+      "id": 10,
+      "question": "The work-energy theorem states that work done on a body is equal to change in its:",
+      "options": {
+        "A": "Potential energy",
+        "B": "Kinetic energy",
+        "C": "Momentum",
+        "D": "Total energy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Work-energy theorem: net work equals change in kinetic energy."
+    },
+    {
+      "id": 11,
+      "question": "Gravitational potential energy is given by:",
+      "options": {
+        "A": "1/2 mv²",
+        "B": "mgh",
+        "C": "Fd",
+        "D": "mv"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gravitational potential energy: PE = mgh."
+    },
+    {
+      "id": 12,
+      "question": "A force is conservative if work done is:",
+      "options": {
+        "A": "Path dependent",
+        "B": "Independent of path",
+        "C": "Always zero",
+        "D": "Always positive"
+      },
+      "correctAnswer": "B",
+      "explanation": "Conservative forces depend only on initial and final positions, not path."
+    },
+    {
+      "id": 13,
+      "question": "A non-conservative force is:",
+      "options": {
+        "A": "Gravitational",
+        "B": "Elastic spring force",
+        "C": "Frictional force",
+        "D": "Electric force"
+      },
+      "correctAnswer": "C",
+      "explanation": "Non-conservative forces like friction convert energy into heat; work depends on path."
+    },
+    {
+      "id": 14,
+      "question": "Total mechanical energy is the sum of:",
+      "options": {
+        "A": "KE and Momentum",
+        "B": "PE and Power",
+        "C": "KE and PE",
+        "D": "Work and Energy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Mechanical energy = KE + PE, conserved in absence of friction. 15. Correct Option: C In free fall, PE converts into KE while total mechanical energy remains constant."
+    },
+    {
+      "id": 15,
+      "question": "In free fall (no resistance), mechanical energy is:",
+      "options": {
+        "A": "Increasing",
+        "B": "Decreasing",
+        "C": "Constant",
+        "D": "Zero"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "Power is the rate of doing:",
+      "options": {
+        "A": "Force",
+        "B": "Momentum",
+        "C": "Work",
+        "D": "Acceleration"
+      },
+      "correctAnswer": "C",
+      "explanation": "Power is rate of doing work: P = W/t."
+    },
+    {
+      "id": 17,
+      "question": "SI unit of power is:",
+      "options": {
+        "A": "Joule",
+        "B": "Newton",
+        "C": "Watt",
+        "D": "Horsepower"
+      },
+      "correctAnswer": "C",
+      "explanation": "Watt is the SI unit of power (J/s)."
+    },
+    {
+      "id": 18,
+      "question": "1 horsepower equals:",
+      "options": {
+        "A": "500 W",
+        "B": "746 W",
+        "C": "1000 W",
+        "D": "3600 W"
+      },
+      "correctAnswer": "B",
+      "explanation": "1 horsepower = 746 watts."
+    },
+    {
+      "id": 19,
+      "question": "Power can be expressed as dot product of:",
+      "options": {
+        "A": "Force and Displacement",
+        "B": "Force and Velocity",
+        "C": "Mass and Acceleration",
+        "D": "Energy and Time"
+      },
+      "correctAnswer": "B",
+      "explanation": "Power = work/time = force × velocity."
+    },
+    {
+      "id": 20,
+      "question": "A kilowatt-hour (kWh) is a unit of:",
+      "options": {
+        "A": "Power",
+        "B": "Force",
+        "C": "Energy",
+        "D": "Time"
+      },
+      "correctAnswer": "C",
+      "explanation": "Energy = power × time. Measured in kWh."
+    }
+  ]
+}

@@ -1,0 +1,835 @@
+{
+  "chapterNumber": 7,
+  "chapterTitle": "Oscillations",
+  "totalQuestions": 69,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Substances that have a fixed shape and volume and are virtually incompressible are:",
+      "options": {
+        "A": "Gases",
+        "B": "Liquids",
+        "C": "Solids",
+        "D": "Plasmas"
+      },
+      "correctAnswer": "C",
+      "explanation": "Solids are rigid substances with fixed shape and volume and are almost incompressible."
+    },
+    {
+      "id": 2,
+      "question": "Solids with a regular, repeating 3D arrangement of atoms are called:",
+      "options": {
+        "A": "Amorphous",
+        "B": "Crystalline",
+        "C": "Polymeric",
+        "D": "Glassy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Crystalline solids have atoms arranged in a regular, repeating 3D pattern called a crystal lattice."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is an example of a crystalline solid?",
+      "options": {
+        "A": "Glass",
+        "B": "Rubber",
+        "C": "Sodium Chloride (NaCl)",
+        "D": "Plastic"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sodium chloride is an ionic crystalline solid with a well-defined cubic structure."
+    },
+    {
+      "id": 4,
+      "question": "Crystalline solids are characterized by:",
+      "options": {
+        "A": "A range of melting points",
+        "B": "Sharp melting points",
+        "C": "No definite shape",
+        "D": "Isotropic properties"
+      },
+      "correctAnswer": "B",
+      "explanation": "Crystals have a sharp melting point because all bonds break at nearly the same energy."
+    },
+    {
+      "id": 5,
+      "question": "Physical properties that vary with direction are called:",
+      "options": {
+        "A": "Isotropic",
+        "B": "Anisotropic",
+        "C": "Homogeneous",
+        "D": "Polymorphic\n\n6. Solids with many small crystals are:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Anisotropy means physical properties change with direction in a crystal."
+    },
+    {
+      "id": 7,
+      "question": "Boundaries between grains are called:",
+      "options": {
+        "A": "Lattice points",
+        "B": "Grain boundaries",
+        "C": "Unit cells",
+        "D": "Dislocations"
+      },
+      "correctAnswer": "B",
+      "explanation": "Grain boundaries are the regions where different crystal orientations meet."
+    },
+    {
+      "id": 8,
+      "question": "Polycrystalline materials behave as:",
+      "options": {
+        "A": "Anisotropic",
+        "B": "Isotropic",
+        "C": "Amorphous",
+        "D": "Fluids"
+      },
+      "correctAnswer": "B",
+      "explanation": "Random orientation of grains makes bulk materials behave isotropically."
+    },
+    {
+      "id": 9,
+      "question": "Amorphous means:",
+      "options": {
+        "A": "Hard",
+        "B": "Without form",
+        "C": "Transparent",
+        "D": "Ordered"
+      },
+      "correctAnswer": "B",
+      "explanation": "Amorphous means “without form” or lacking a regular structure."
+    },
+    {
+      "id": 10,
+      "question": "Glass is often called:",
+      "options": {
+        "A": "Supercooled liquid",
+        "B": "True solid",
+        "C": "Perfect crystal",
+        "D": "Plasma"
+      },
+      "correctAnswer": "A",
+      "explanation": "Glass behaves like a supercooled liquid rather than a true crystal."
+    },
+    {
+      "id": 11,
+      "question": "Amorphous solids have:",
+      "options": {
+        "A": "Long-range order",
+        "B": "Short-range order only",
+        "C": "No order",
+        "D": "Sharp melting points\n\n12. Glass-transition temperature is:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Amorphous solids have only short-range order."
+    },
+    {
+      "id": 13,
+      "question": "Natural polymers include:",
+      "options": {
+        "A": "Nylon",
+        "B": "PVC",
+        "C": "Rubber and cellulose",
+        "D": "Teflon"
+      },
+      "correctAnswer": "C",
+      "explanation": "Natural polymers include rubber and cellulose."
+    },
+    {
+      "id": 14,
+      "question": "Smallest repeating unit of crystal is:",
+      "options": {
+        "A": "Atom",
+        "B": "Unit cell",
+        "C": "Basis",
+        "D": "Grain"
+      },
+      "correctAnswer": "B",
+      "explanation": "The unit cell is the smallest repeating unit of a crystal lattice."
+    },
+    {
+      "id": 15,
+      "question": "Imaginary framework of crystal is:",
+      "options": {
+        "A": "Basis",
+        "B": "Space lattice",
+        "C": "Unit cell",
+        "D": "Crystal system"
+      },
+      "correctAnswer": "B",
+      "explanation": "A space lattice is the regular arrangement of points in a crystal."
+    },
+    {
+      "id": 16,
+      "question": "Number of crystal systems is:",
+      "options": {
+        "A": "3",
+        "B": "7",
+        "C": "14",
+        "D": "32"
+      },
+      "correctAnswer": "B",
+      "explanation": "There are seven crystal systems in total."
+    },
+    {
+      "id": 17,
+      "question": "Cubic system relation is:",
+      "options": {
+        "A": "a = b = c; angles 90°",
+        "B": "a ≠ b ≠ c; angles 90°",
+        "C": "a = b ≠ c",
+        "D": "angles not 90°\n\n18. Most unsymmetrical system is:"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cubic system has all sides equal and all angles 90 degrees."
+    },
+    {
+      "id": 19,
+      "question": "Graphene is made of:",
+      "options": {
+        "A": "Silicon",
+        "B": "Carbon",
+        "C": "Aluminum",
+        "D": "Iron"
+      },
+      "correctAnswer": "B",
+      "explanation": "Graphene is made of carbon atoms in a hexagonal lattice. 20. Correct Option: B Quartz shows piezoelectric effect, producing electric charge under stress."
+    },
+    {
+      "id": 20,
+      "question": "Quartz works in watches due to:",
+      "options": {
+        "A": "Magnetic property",
+        "B": "Piezoelectric effect",
+        "C": "Superconductivity",
+        "D": "Fluorescence\nGreat — here is the full continuation (21–80) in the same format:"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "Stress is defined as:",
+      "options": {
+        "A": "Change in length per unit length",
+        "B": "Deforming force per unit area",
+        "C": "Force per unit volume",
+        "D": "Change in volume"
+      },
+      "correctAnswer": "B",
+      "explanation": "Stress is force per unit area applied to a material."
+    },
+    {
+      "id": 22,
+      "question": "The SI unit of stress is:",
+      "options": {
+        "A": "Joule",
+        "B": "Pascal",
+        "C": "Newton",
+        "D": "Watt"
+      },
+      "correctAnswer": "B",
+      "explanation": "Stress has same SI unit as pressure: Pascal."
+    },
+    {
+      "id": 23,
+      "question": "Tensile stress tends to:",
+      "options": {
+        "A": "Compress",
+        "B": "Elongate",
+        "C": "Twist",
+        "D": "Bend"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tensile stress causes elongation of a material."
+    },
+    {
+      "id": 24,
+      "question": "Strain is dimensionless because it is:",
+      "options": {
+        "A": "Very small number",
+        "B": "Ratio of two similar quantities",
+        "C": "A vector",
+        "D": "Independent of force"
+      },
+      "correctAnswer": "B",
+      "explanation": "Strain is a ratio of similar quantities, so it has no unit."
+    },
+    {
+      "id": 25,
+      "question": "Ratio of change in length to original length is:",
+      "options": {
+        "A": "Volumetric strain",
+        "B": "Shear strain",
+        "C": "Tensile strain",
+        "D": "Stress"
+      },
+      "correctAnswer": "C",
+      "explanation": "Tensile strain is change in length divided by original length."
+    },
+    {
+      "id": 26,
+      "question": "Shear strain is measured by:",
+      "options": {
+        "A": "ΔL/L",
+        "B": "ΔV/V",
+        "C": "Angle of deformation",
+        "D": "Force/Area"
+      },
+      "correctAnswer": "C",
+      "explanation": "Shear strain is measured by angular deformation."
+    },
+    {
+      "id": 27,
+      "question": "Hooke’s Law states:",
+      "options": {
+        "A": "Stress inversely proportional to strain",
+        "B": "Stress directly proportional to strain",
+        "C": "Stress constant",
+        "D": "Stress equals strain"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hooke’s law states stress is directly proportional to strain within elastic limit."
+    },
+    {
+      "id": 28,
+      "question": "Ratio of stress to strain is:",
+      "options": {
+        "A": "Bulk Modulus",
+        "B": "Shear Modulus",
+        "C": "Young’s Modulus",
+        "D": "Poisson’s Ratio"
+      },
+      "correctAnswer": "C",
+      "explanation": "Young’s modulus is the ratio of tensile stress to tensile strain."
+    },
+    {
+      "id": 29,
+      "question": "Modulus dealing with volume change:",
+      "options": {
+        "A": "Young’s Modulus",
+        "B": "Bulk Modulus",
+        "C": "Rigidity Modulus",
+        "D": "Elastic limit\n\n30. Reciprocal of bulk modulus is:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bulk modulus deals with change in volume under pressure."
+    },
+    {
+      "id": 31,
+      "question": "Shear modulus is also called:",
+      "options": {
+        "A": "Elastic modulus",
+        "B": "Modulus of rigidity",
+        "C": "Volumetric modulus",
+        "D": "Tensile modulus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Shear modulus is also called modulus of rigidity."
+    },
+    {
+      "id": 32,
+      "question": "Units of elasticity moduli:",
+      "options": {
+        "A": "Nm",
+        "B": "N/m²",
+        "C": "Dimensionless",
+        "D": "N/m"
+      },
+      "correctAnswer": "B",
+      "explanation": "All elastic moduli have unit of pressure (Pascal)."
+    },
+    {
+      "id": 33,
+      "question": "Elasticity is:",
+      "options": {
+        "A": "Permanent deformation",
+        "B": "Return to original shape",
+        "C": "Breaking property",
+        "D": "Flow property"
+      },
+      "correctAnswer": "B",
+      "explanation": "Elasticity is the ability to regain original shape after removing force."
+    },
+    {
+      "id": 34,
+      "question": "Plastic material:",
+      "options": {
+        "A": "Returns to shape",
+        "B": "Remains deformed",
+        "C": "Is brittle",
+        "D": "Is rigid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Plastic materials undergo permanent deformation."
+    },
+    {
+      "id": 35,
+      "question": "Hooke’s law is valid up to:",
+      "options": {
+        "A": "Elastic limit",
+        "B": "Plastic region",
+        "C": "Fracture point",
+        "D": "Breaking point\n\n36. Maximum stress without permanent deformation:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Proportional limit is where stress is proportional to strain."
+    },
+    {
+      "id": 37,
+      "question": "Beyond elastic limit:",
+      "options": {
+        "A": "Elastic deformation",
+        "B": "Plastic deformation",
+        "C": "No change",
+        "D": "Sublimation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Beyond elastic limit, plastic deformation occurs."
+    },
+    {
+      "id": 38,
+      "question": "Yield point is where material:",
+      "options": {
+        "A": "Breaks",
+        "B": "Flows easily",
+        "C": "Becomes rigid",
+        "D": "Stops stretching"
+      },
+      "correctAnswer": "A",
+      "explanation": "Yield point is where material deforms rapidly without extra stress."
+    },
+    {
+      "id": 39,
+      "question": "Ductile materials:",
+      "options": {
+        "A": "Break easily",
+        "B": "Stretch before breaking",
+        "C": "Are gases",
+        "D": "Are brittle"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ductile materials can be stretched into wires."
+    },
+    {
+      "id": 40,
+      "question": "Example of ductile material:",
+      "options": {
+        "A": "Glass",
+        "B": "Cast iron",
+        "C": "Copper",
+        "D": "Ceramic"
+      },
+      "correctAnswer": "C",
+      "explanation": "Copper and gold are highly ductile metals."
+    },
+    {
+      "id": 41,
+      "question": "Brittle materials:",
+      "options": {
+        "A": "Stretch easily",
+        "B": "Break quickly",
+        "C": "Are soft",
+        "D": "Are flexible\n\n42. Glass is:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Brittle materials break suddenly with little deformation."
+    },
+    {
+      "id": 43,
+      "question": "Area under force-extension graph gives:",
+      "options": {
+        "A": "Stress",
+        "B": "Work done",
+        "C": "Pressure",
+        "D": "Mass"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 44,
+      "question": "Elastic energy stored is:",
+      "options": {
+        "A": "Fx",
+        "B": "1/2 Fx",
+        "C": "Fx²",
+        "D": "F/x"
+      },
+      "correctAnswer": "B",
+      "explanation": "Elastic potential energy is half F multiplied by extension."
+    },
+    {
+      "id": 45,
+      "question": "Strain energy is per unit:",
+      "options": {
+        "A": "Length",
+        "B": "Area",
+        "C": "Volume",
+        "D": "Mass"
+      },
+      "correctAnswer": "C",
+      "explanation": "Strain energy density is energy per unit volume."
+    },
+    {
+      "id": 46,
+      "question": "Strain energy density formula:",
+      "options": {
+        "A": "σϵ",
+        "B": "1/2 σϵ",
+        "C": "σ/ϵ",
+        "D": "σ²ϵ"
+      },
+      "correctAnswer": "B",
+      "explanation": "Energy density equals half stress multiplied by strain."
+    },
+    {
+      "id": 47,
+      "question": "Steel is harder than rubber due to:",
+      "options": {
+        "A": "Density",
+        "B": "Young’s modulus",
+        "C": "Weight",
+        "D": "Volume\n\n48. Young’s modulus dimensions:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Steel has higher Young’s modulus than rubber, so it is stiffer."
+    },
+    {
+      "id": 49,
+      "question": "Beam top surface under bending:",
+      "options": {
+        "A": "Tension",
+        "B": "Compression",
+        "C": "Shear",
+        "D": "Neutral"
+      },
+      "correctAnswer": "B",
+      "explanation": "In beams, top layer is under compression when sagging."
+    },
+    {
+      "id": 50,
+      "question": "I-beams are used because:",
+      "options": {
+        "A": "Light weight",
+        "B": "High strength efficiency",
+        "C": "Cheap",
+        "D": "Flexible\n\n51–80 continued (same format condensed to avoid repetition overload — I can\nexpand if needed)"
+      },
+      "correctAnswer": "B",
+      "explanation": "I-beams reduce weight while maintaining strength."
+    },
+    {
+      "id": 51,
+      "question": "Atomic structure study method:",
+      "options": {
+        "A": "Ultrasound",
+        "B": "X-ray diffraction",
+        "C": "Radar",
+        "D": "Light waves"
+      },
+      "correctAnswer": "B",
+      "explanation": "X-ray diffraction is used to study crystal structure."
+    },
+    {
+      "id": 52,
+      "question": "High strength-to-weight material:",
+      "options": {
+        "A": "Lead",
+        "B": "Zylon",
+        "C": "Tin",
+        "D": "Wood\n\n53. Doubling wire length strain:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Zylon has very high strength-to-weight ratio."
+    },
+    {
+      "id": 54,
+      "question": "Rigid body Young’s modulus:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "Infinite",
+        "D": "Negative"
+      },
+      "correctAnswer": "C",
+      "explanation": "Rigid body has infinite Young’s modulus."
+    },
+    {
+      "id": 55,
+      "question": "Liquids and gases have only:",
+      "options": {
+        "A": "Young’s modulus",
+        "B": "Bulk modulus",
+        "C": "Shear modulus",
+        "D": "None"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fluids have bulk modulus only, not shear modulus."
+    },
+    {
+      "id": 56,
+      "question": "Malleability means:",
+      "options": {
+        "A": "Breaking easily",
+        "B": "Hammer into sheets",
+        "C": "Stretching",
+        "D": "Hardness"
+      },
+      "correctAnswer": "B",
+      "explanation": "Malleability allows metals to be hammered into sheets."
+    },
+    {
+      "id": 57,
+      "question": "Spring constant k unit:",
+      "options": {
+        "A": "N m",
+        "B": "N/m",
+        "C": "J",
+        "D": "Pa"
+      },
+      "correctAnswer": "B",
+      "explanation": "k is spring constant representing stiffness."
+    },
+    {
+      "id": 58,
+      "question": "Doubling radius effect:",
+      "options": {
+        "A": "Doubles modulus",
+        "B": "No change",
+        "C": "Halves",
+        "D": "Quadruples\n\n59. Energy density formula:"
+      },
+      "correctAnswer": "C",
+      "explanation": "Young’s modulus does not depend on size or shape."
+    },
+    {
+      "id": 60,
+      "question": "Permanent deformation occurs beyond:",
+      "options": {
+        "A": "Elastic limit",
+        "B": "Proportional limit",
+        "C": "Yield point",
+        "D": "Fracture\n\n61–80 (final set)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Permanent deformation occurs beyond elastic limit."
+    },
+    {
+      "id": 61,
+      "question": "Copper is used in wires due to:",
+      "options": {
+        "A": "Brittle",
+        "B": "Ductile",
+        "C": "Soft",
+        "D": "Amorphous"
+      },
+      "correctAnswer": "B",
+      "explanation": "Copper is ductile, so it is used in wires."
+    },
+    {
+      "id": 62,
+      "question": "Shear modulus of liquids:",
+      "options": {
+        "A": "High",
+        "B": "Zero",
+        "C": "Infinite",
+        "D": "Small"
+      },
+      "correctAnswer": "B",
+      "explanation": "Liquids have zero shear modulus."
+    },
+    {
+      "id": 63,
+      "question": "Crystal system with no 90° angles:",
+      "options": {
+        "A": "Cubic",
+        "B": "Rhombohedral",
+        "C": "Tetragonal",
+        "D": "Triclinic"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rhombohedral system has equal sides but angles not equal to 90 degrees."
+    },
+    {
+      "id": 64,
+      "question": "Polymers are made of:",
+      "options": {
+        "A": "Monomers",
+        "B": "Ions",
+        "C": "Atoms only",
+        "D": "Metals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Polymers are made of repeating monomers."
+    },
+    {
+      "id": 65,
+      "question": "AET gives:",
+      "options": {
+        "A": "2D image",
+        "B": "3D atomic image",
+        "C": "Sound image",
+        "D": "Thermal image"
+      },
+      "correctAnswer": "B",
+      "explanation": "Atomic Electron Tomography produces 3D atomic images. 66. Correct Option: B Amorphous solids have disordered structure like frozen liquids."
+    },
+    {
+      "id": 66,
+      "question": "Solid with liquid-like disorder:",
+      "options": {
+        "A": "Polycrystalline",
+        "B": "Amorphous",
+        "C": "Crystal",
+        "D": "Ionic"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 67,
+      "question": "UTS is:",
+      "options": {
+        "A": "Minimum stress",
+        "B": "Maximum stress",
+        "C": "Zero stress",
+        "D": "Yield stress"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ultimate tensile strength is maximum stress before breaking."
+    },
+    {
+      "id": 68,
+      "question": "Gold wire length from 1g:",
+      "options": {
+        "A": "2 m",
+        "B": "20 m",
+        "C": "2 km",
+        "D": "200 km"
+      },
+      "correctAnswer": "C",
+      "explanation": "Gold can be stretched into extremely long thin wires."
+    },
+    {
+      "id": 69,
+      "question": "Spring constant unit:",
+      "options": {
+        "A": "N m",
+        "B": "N/m",
+        "C": "J",
+        "D": "Pa"
+      },
+      "correctAnswer": "B",
+      "explanation": "Spring constant unit is Newton per meter."
+    },
+    {
+      "id": 70,
+      "question": "Compression strain is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Infinite\n\n71. Most elastic material:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Compressive strain is negative."
+    },
+    {
+      "id": 72,
+      "question": "Brittle material curve ends at:",
+      "options": {
+        "A": "Yield point",
+        "B": "Fracture",
+        "C": "Plastic region",
+        "D": "Origin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Brittle materials break shortly after elastic limit."
+    },
+    {
+      "id": 73,
+      "question": "Work done becomes:",
+      "options": {
+        "A": "Heat",
+        "B": "Elastic energy",
+        "C": "Kinetic energy",
+        "D": "Light"
+      },
+      "correctAnswer": "B",
+      "explanation": "Work done is stored as elastic potential energy."
+    },
+    {
+      "id": 74,
+      "question": "Tetragonal system:",
+      "options": {
+        "A": "a=b=c",
+        "B": "a=b≠c",
+        "C": "all unequal",
+        "D": "random"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tetragonal system has two equal sides and one different."
+    },
+    {
+      "id": 75,
+      "question": "Internal force per area:",
+      "options": {
+        "A": "Stress",
+        "B": "Strain",
+        "C": "Pressure",
+        "D": "Modulus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Stress is internal restoring force per unit area."
+    },
+    {
+      "id": 76,
+      "question": "No plastic deformation means:",
+      "options": {
+        "A": "Ductile",
+        "B": "Brittle",
+        "C": "Elastic",
+        "D": "Malleable\n\n77. Slope of stress-strain curve:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Brittle materials break without plastic deformation."
+    },
+    {
+      "id": 78,
+      "question": "Unit of strain:",
+      "options": {
+        "A": "m",
+        "B": "No unit",
+        "C": "N",
+        "D": "Pa"
+      },
+      "correctAnswer": "A",
+      "explanation": "Strain has no unit."
+    },
+    {
+      "id": 79,
+      "question": "Crystalline solids have:",
+      "options": {
+        "A": "Random structure",
+        "B": "Regular structure",
+        "C": "Liquid structure",
+        "D": "No atoms"
+      },
+      "correctAnswer": "B",
+      "explanation": "Crystalline solids have regular atomic arrangement."
+    },
+    {
+      "id": 80,
+      "question": "Elasticity applies to:",
+      "options": {
+        "A": "Solids only",
+        "B": "Liquids only",
+        "C": "Gases only",
+        "D": "All states"
+      },
+      "correctAnswer": "D",
+      "explanation": "All states of matter show elasticity to some extent."
+    }
+  ]
+}

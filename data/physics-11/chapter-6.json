@@ -1,0 +1,919 @@
+{
+  "chapterNumber": 6,
+  "chapterTitle": "Fluid Dynamics",
+  "totalQuestions": 76,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Substances that can flow from one place to another are called:",
+      "options": {
+        "A": "Solids",
+        "B": "Fluids",
+        "C": "Crystals",
+        "D": "Rigid bodies"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fluids are substances (liquids and gases) that do not have a fixed shape and flow under external force. 2. Correct Option: C Fluid mechanics is divided into: • • Fluid statics (fluids at rest) Fluid dynamics (fluids in motion)"
+    },
+    {
+      "id": 3,
+      "question": "The SI unit of pressure is:",
+      "options": {
+        "A": "Joule",
+        "B": "Pascal",
+        "C": "Newton",
+        "D": "Watt"
+      },
+      "correctAnswer": "B",
+      "explanation": "The SI unit of pressure is Pascal (Pa), where 1 Pa = 1 N/m²."
+    },
+    {
+      "id": 4,
+      "question": "One Pascal is equivalent to:",
+      "options": {
+        "A": "1 N m",
+        "B": "1 N/m²",
+        "C": "1 kg m/s²",
+        "D": "1 J/s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pressure = Force / Area → 1 Pa = 1 N/m²."
+    },
+    {
+      "id": 5,
+      "question": "The upward force exerted by a fluid on an object immersed in it is called:",
+      "options": {
+        "A": "Viscous drag",
+        "B": "Upthrust (Buoyant force)",
+        "C": "Surface tension",
+        "D": "Friction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Buoyancy (upthrust) is the upward force due to pressure difference in a fluid."
+    },
+    {
+      "id": 6,
+      "question": "According to Archimedes’ Principle, upthrust is equal to:",
+      "options": {
+        "A": "Mass of the object",
+        "B": "Weight of the fluid displaced",
+        "C": "Volume of the object",
+        "D": "Density of the object"
+      },
+      "correctAnswer": "B",
+      "explanation": "Archimedes’ Principle: Upthrust = weight of displaced fluid."
+    },
+    {
+      "id": 7,
+      "question": "An object will float if its density is:",
+      "options": {
+        "A": "Greater than the fluid",
+        "B": "Less than or equal to the fluid",
+        "C": "Exactly double the fluid",
+        "D": "Zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "An object floats if its density is less than or equal to the fluid."
+    },
+    {
+      "id": 8,
+      "question": "A ship floats on water because:",
+      "options": {
+        "A": "It is made of wood",
+        "B": "Its average density is less than water",
+        "C": "Water is incompressible",
+        "D": "It has no weight in sea"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ships float because their average density is less than water due to hollow structure."
+    },
+    {
+      "id": 9,
+      "question": "The internal friction between different layers of a flowing fluid is called:",
+      "options": {
+        "A": "Surface tension",
+        "B": "Viscosity",
+        "C": "Adhesion",
+        "D": "Cohesion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Viscosity is internal friction between layers of a fluid."
+    },
+    {
+      "id": 10,
+      "question": "The SI unit of coefficient of viscosity is:",
+      "options": {
+        "A": "kg m⁻¹ s⁻¹",
+        "B": "N s m⁻²",
+        "C": "Pascal-second",
+        "D": "All of these\n\n11–20"
+      },
+      "correctAnswer": "D",
+      "explanation": "Unit of viscosity can be written as: • • • N s/m² Pa·s kg m⁻¹ s⁻¹ All are equivalent."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following has the highest viscosity?",
+      "options": {
+        "A": "Water",
+        "B": "Air",
+        "C": "Honey",
+        "D": "Kerosene\n\n12. Viscosity of liquids increases with temperature."
+      },
+      "correctAnswer": "C",
+      "explanation": "Honey has the highest viscosity among common fluids listed."
+    },
+    {
+      "id": 13,
+      "question": "Viscosity of gases with increase in temperature:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Becomes zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "In gases, viscosity increases with temperature due to increased molecular motion."
+    },
+    {
+      "id": 14,
+      "question": "Stoke’s Law is applicable to:",
+      "options": {
+        "A": "Fast moving large objects",
+        "B": "Slow moving spherical objects",
+        "C": "Any shape",
+        "D": "Vacuum"
+      },
+      "correctAnswer": "B",
+      "explanation": "Stokes’ law applies to small spherical objects moving slowly in a fluid."
+    },
+    {
+      "id": 15,
+      "question": "Stoke’s Law is:",
+      "options": {
+        "A": "6πηrv",
+        "B": "1/2 ρv²",
+        "C": "mgh",
+        "D": "6ηrv²"
+      },
+      "correctAnswer": "A",
+      "explanation": "Stokes’ Law: F = 6πηrv"
+    },
+    {
+      "id": 16,
+      "question": "Maximum constant velocity of a falling body in fluid is:",
+      "options": {
+        "A": "Critical velocity",
+        "B": "Escape velocity",
+        "C": "Terminal velocity",
+        "D": "Orbital velocity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Terminal velocity is the constant maximum speed when net force becomes zero."
+    },
+    {
+      "id": 17,
+      "question": "Terminal velocity is proportional to:",
+      "options": {
+        "A": "r",
+        "B": "r²",
+        "C": "1/r",
+        "D": "√r\n\n18. If radius is doubled, terminal velocity becomes:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Terminal velocity is proportional to r²."
+    },
+    {
+      "id": 19,
+      "question": "Streamline flow means:",
+      "options": {
+        "A": "Turbulent flow",
+        "B": "Laminar flow",
+        "C": "Mixed flow",
+        "D": "Irregular flow"
+      },
+      "correctAnswer": "B",
+      "explanation": "Streamline (laminar) flow: particles follow smooth, parallel paths. 20. Correct Option: B Turbulent flow is irregular and chaotic."
+    },
+    {
+      "id": 20,
+      "question": "Irregular flow is called:",
+      "options": {
+        "A": "Laminar",
+        "B": "Turbulent",
+        "C": "Static",
+        "D": "Uniform"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "An ideal fluid is:",
+      "options": {
+        "A": "Non-viscous",
+        "B": "Incompressible",
+        "C": "Streamline flow",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Ideal fluid is: • • • Non-viscous Incompressible Steady (streamline) flow"
+    },
+    {
+      "id": 22,
+      "question": "Av is called:",
+      "options": {
+        "A": "Flow rate",
+        "B": "Pressure",
+        "C": "Force",
+        "D": "Momentum"
+      },
+      "correctAnswer": "A",
+      "explanation": "Av represents volume flow rate (discharge)."
+    },
+    {
+      "id": 23,
+      "question": "Equation of continuity is based on:",
+      "options": {
+        "A": "Energy conservation",
+        "B": "Mass conservation",
+        "C": "Momentum conservation",
+        "D": "Newton’s law\n\n24. When area decreases, fluid speed:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Continuity equation is based on conservation of mass."
+    },
+    {
+      "id": 25,
+      "question": "Bernoulli’s equation is based on:",
+      "options": {
+        "A": "Mass",
+        "B": "Energy",
+        "C": "Momentum",
+        "D": "Charge"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bernoulli’s equation is based on conservation of energy."
+    },
+    {
+      "id": 26,
+      "question": "High speed fluid has:",
+      "options": {
+        "A": "High pressure",
+        "B": "Low pressure",
+        "C": "Zero pressure",
+        "D": "Infinite pressure"
+      },
+      "correctAnswer": "B",
+      "explanation": "Higher velocity → lower pressure."
+    },
+    {
+      "id": 27,
+      "question": "Bernoulli equation is:",
+      "options": {
+        "A": "P + 1/2ρv² + ρgh = constant",
+        "B": "P + ρv² + ρgh = constant",
+        "C": "Av = constant",
+        "D": "F = 6πηrv"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bernoulli equation: P + ½ρv² + ρgh = constant"
+    },
+    {
+      "id": 28,
+      "question": "Speed of efflux is given by:",
+      "options": {
+        "A": "Torricelli’s theorem",
+        "B": "Venturi effect",
+        "C": "Pascal’s law",
+        "D": "Stoke’s law"
+      },
+      "correctAnswer": "A",
+      "explanation": "Speed of efflux is given by Torricelli’s theorem. 29. Correct Option: B v = √(2gh)"
+    },
+    {
+      "id": 29,
+      "question": "Torricelli’s theorem gives:",
+      "options": {
+        "A": "√gh",
+        "B": "√2gh",
+        "C": "2gh",
+        "D": "1/2gh\n\n30. Device to measure flow speed:"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 31,
+      "question": "Venturi effect describes:",
+      "options": {
+        "A": "Increase in pressure",
+        "B": "Decrease in pressure",
+        "C": "Stability",
+        "D": "Fluctuation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Venturi effect: pressure decreases when fluid speeds up in a constriction."
+    },
+    {
+      "id": 32,
+      "question": "Swing of cricket ball is due to:",
+      "options": {
+        "A": "Bernoulli principle",
+        "B": "Archimedes principle",
+        "C": "Newton’s law",
+        "D": "Continuity equation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Swing of cricket ball is due to Bernoulli’s principle."
+    },
+    {
+      "id": 33,
+      "question": "Magnus effect relates to:",
+      "options": {
+        "A": "Falling drops",
+        "B": "Spinning objects",
+        "C": "Static fluids",
+        "D": "Floating ships"
+      },
+      "correctAnswer": "B",
+      "explanation": "Magnus effect acts on spinning objects in fluids."
+    },
+    {
+      "id": 34,
+      "question": "Atomizer works on:",
+      "options": {
+        "A": "Stoke’s law",
+        "B": "Bernoulli principle",
+        "C": "Archimedes principle",
+        "D": "Torricelli theorem"
+      },
+      "correctAnswer": "B",
+      "explanation": "Atomizer works due to Bernoulli’s principle."
+    },
+    {
+      "id": 35,
+      "question": "Blood is:",
+      "options": {
+        "A": "Non-viscous",
+        "B": "Viscous",
+        "C": "Solid",
+        "D": "Ideal fluid\n\n36. High blood pressure is due to:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Blood is viscous due to cells and proteins."
+    },
+    {
+      "id": 37,
+      "question": "Zero viscosity state is:",
+      "options": {
+        "A": "Plasma",
+        "B": "Superfluid",
+        "C": "Superconductor",
+        "D": "Solid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Superfluid has zero viscosity."
+    },
+    {
+      "id": 38,
+      "question": "Superfluids can:",
+      "options": {
+        "A": "Creep over container walls",
+        "B": "Flow without resistance",
+        "C": "Flow forever",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Superfluids show: • • • No resistance Wall climbing Continuous flow"
+    },
+    {
+      "id": 39,
+      "question": "Lift of airplane wing is due to:",
+      "options": {
+        "A": "Gravity",
+        "B": "Higher air speed on top",
+        "C": "Lower air speed on top",
+        "D": "Viscosity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lift is due to higher air speed above wing → lower pressure."
+    },
+    {
+      "id": 40,
+      "question": "Fog stays suspended due to:",
+      "options": {
+        "A": "Zero gravity",
+        "B": "Low terminal velocity",
+        "C": "High air density",
+        "D": "Buoyancy only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fog stays suspended due to very low terminal velocity"
+    },
+    {
+      "id": 41,
+      "question": "Dimensions of viscosity are:",
+      "options": {
+        "A": "ML⁻¹T⁻¹",
+        "B": "MLT⁻¹",
+        "C": "ML²T⁻¹",
+        "D": "ML⁻²T⁻¹\n\n42. Bernoulli (horizontal pipe) reduces to:"
+      },
+      "correctAnswer": "A",
+      "explanation": "The dimensions of coefficient of viscosity are [M L⁻¹ T⁻¹] (kg m⁻¹ s⁻¹), representing internal resistance to flow."
+    },
+    {
+      "id": 43,
+      "question": "Unit of flow rate is:",
+      "options": {
+        "A": "m²/s",
+        "B": "m³/s",
+        "C": "m/s",
+        "D": "kg/s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Flow rate = Area × Velocity = m² × m/s = m³/s."
+    },
+    {
+      "id": 44,
+      "question": "Fast heartbeat causes flow to be:",
+      "options": {
+        "A": "Laminar",
+        "B": "Turbulent",
+        "C": "Static",
+        "D": "Ideal"
+      },
+      "correctAnswer": "B",
+      "explanation": "High speed blood flow may become chaotic, leading to turbulence."
+    },
+    {
+      "id": 45,
+      "question": "Clouds stay due to:",
+      "options": {
+        "A": "Pressure",
+        "B": "Viscosity",
+        "C": "Temperature",
+        "D": "Humidity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cloud droplets remain suspended due to air resistance and viscous drag."
+    },
+    {
+      "id": 46,
+      "question": "To increase water speed from pipe:",
+      "options": {
+        "A": "Increase radius",
+        "B": "Decrease radius",
+        "C": "Lengthen pipe",
+        "D": "Heat water"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reducing pipe area increases fluid velocity (continuity equation: Av = constant)."
+    },
+    {
+      "id": 47,
+      "question": "Turbulent flow example:",
+      "options": {
+        "A": "Smooth river",
+        "B": "Smoke in irregular motion",
+        "C": "Capillary flow",
+        "D": "Resting blood\n\n48. Viscosity is due to:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Smoke forming irregular swirls is a classic example of turbulent flow. 48. Correct Option: C Viscosity arises from: • • Cohesive forces in liquids Molecular collisions in gases"
+    },
+    {
+      "id": 49,
+      "question": "If velocity doubles, drag becomes:",
+      "options": {
+        "A": "F",
+        "B": "2F",
+        "C": "4F",
+        "D": "F/2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Stokes’ drag is directly proportional to velocity, so doubling velocity doubles force."
+    },
+    {
+      "id": 50,
+      "question": "Terminal velocity occurs when:",
+      "options": {
+        "A": "Drag = Weight",
+        "B": "Drag + buoyant force = weight",
+        "C": "Buoyant force = weight",
+        "D": "Acceleration = g\n\n51–90 (Final Set)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Terminal velocity occurs when: Weight = Buoyant force + Drag force"
+    },
+    {
+      "id": 51,
+      "question": "Density of water is:",
+      "options": {
+        "A": "1000 kg/m³",
+        "B": "1 g/cm³",
+        "C": "Both",
+        "D": "100 kg/m³"
+      },
+      "correctAnswer": "C",
+      "explanation": "Water density is: • • 1000 kg/m³ 1 g/cm³ Both are equivalent."
+    },
+    {
+      "id": 52,
+      "question": "Relative density has units:",
+      "options": {
+        "A": "kg/m³",
+        "B": "g/cm³",
+        "C": "No unit",
+        "D": "Newton"
+      },
+      "correctAnswer": "C",
+      "explanation": "Relative density is a ratio of densities, so it has no unit."
+    },
+    {
+      "id": 53,
+      "question": "Hydrometer measures:",
+      "options": {
+        "A": "Pressure",
+        "B": "Relative density",
+        "C": "Viscosity",
+        "D": "Velocity"
+      },
+      "correctAnswer": "B",
+      "explanation": "A hydrometer measures relative density of liquids."
+    },
+    {
+      "id": 54,
+      "question": "Superfluid flows with:",
+      "options": {
+        "A": "High resistance",
+        "B": "Zero resistance",
+        "C": "Moderate resistance",
+        "D": "Infinite resistance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Superfluid flows with zero resistance due to quantum effects."
+    },
+    {
+      "id": 55,
+      "question": "Bernoulli not applicable to:",
+      "options": {
+        "A": "Streamline flow",
+        "B": "Turbulent flow",
+        "C": "Incompressible fluid",
+        "D": "Non-viscous fluid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bernoulli’s equation does not apply to turbulent flow because energy is not conserved smoothly. 56. Correct Option: B At terminal velocity, net force = 0 (no acceleration)."
+    },
+    {
+      "id": 56,
+      "question": "Net force at terminal velocity:",
+      "options": {
+        "A": "mg",
+        "B": "Zero",
+        "C": "Drag force",
+        "D": "Upthrust"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 57,
+      "question": "Torricelli is based on:",
+      "options": {
+        "A": "Continuity",
+        "B": "Bernoulli",
+        "C": "Newton",
+        "D": "Stoke"
+      },
+      "correctAnswer": "B",
+      "explanation": "Torricelli’s theorem is derived from Bernoulli’s equation."
+    },
+    {
+      "id": 58,
+      "question": "Pressure at lake bottom depends on:",
+      "options": {
+        "A": "Depth",
+        "B": "Density",
+        "C": "Gravity",
+        "D": "All"
+      },
+      "correctAnswer": "D",
+      "explanation": "Pressure in a fluid depends on: • • • Depth Density Gravity P = ρgh"
+    },
+    {
+      "id": 59,
+      "question": "Venturi minimum pressure at:",
+      "options": {
+        "A": "Wide part",
+        "B": "Narrow part",
+        "C": "Constant everywhere",
+        "D": "At inlet\n\n60. Ping-pong balls in airflow:"
+      },
+      "correctAnswer": "A",
+      "explanation": "At the narrow section of a Venturi tube, velocity is maximum and pressure is minimum."
+    },
+    {
+      "id": 61,
+      "question": "SI unit of flow rate:",
+      "options": {
+        "A": "m²/s",
+        "B": "m³/s",
+        "C": "kg/s",
+        "D": "N s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Flow rate unit is m³/s (volume per second)."
+    },
+    {
+      "id": 62,
+      "question": "Barometer measures:",
+      "options": {
+        "A": "Fluid pressure",
+        "B": "Atmospheric pressure",
+        "C": "Gauge pressure",
+        "D": "Absolute pressure"
+      },
+      "correctAnswer": "B",
+      "explanation": "A barometer measures atmospheric pressure."
+    },
+    {
+      "id": 63,
+      "question": "Upthrust depends on:",
+      "options": {
+        "A": "Density body",
+        "B": "Volume displaced",
+        "C": "Weight",
+        "D": "Shape"
+      },
+      "correctAnswer": "B",
+      "explanation": "Upthrust depends on the volume of fluid displaced. 64. Correct Option: B If half volume is submerged: ρobject = ½ ρwater = 500 kg/m³."
+    },
+    {
+      "id": 64,
+      "question": "Wood floats with half submerged density:",
+      "options": {
+        "A": "1000",
+        "B": "500",
+        "C": "250",
+        "D": "2000"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 65,
+      "question": "Pressure at 10 m depth (approx):",
+      "options": {
+        "A": "10⁵ Pa",
+        "B": "10⁴ Pa",
+        "C": "1 Pa",
+        "D": "10⁶ Pa\n\n66. Continuity ratio v1/v2 equals:"
+      },
+      "correctAnswer": "A",
+      "explanation": "P = ρgh = 1000 × 10 × 10 = 10⁵ Pa."
+    },
+    {
+      "id": 67,
+      "question": "Steady flow means velocity:",
+      "options": {
+        "A": "Changes with time",
+        "B": "Constant with time",
+        "C": "Zero",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Steady flow means velocity at a point does not change with time."
+    },
+    {
+      "id": 68,
+      "question": "Streamline tangent shows:",
+      "options": {
+        "A": "Pressure",
+        "B": "Velocity direction",
+        "C": "Density",
+        "D": "Mass"
+      },
+      "correctAnswer": "B",
+      "explanation": "A streamline’s tangent gives the direction of velocity."
+    },
+    {
+      "id": 69,
+      "question": "Streamlines cannot:",
+      "options": {
+        "A": "Be parallel",
+        "B": "Cross each other",
+        "C": "Be curved",
+        "D": "Be straight"
+      },
+      "correctAnswer": "B",
+      "explanation": "Streamlines cannot intersect, as that would give two velocities at one point."
+    },
+    {
+      "id": 70,
+      "question": "Terminal velocity is inversely proportional to:",
+      "options": {
+        "A": "Radius",
+        "B": "Density",
+        "C": "Viscosity",
+        "D": "Gravity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Terminal velocity is inversely proportional to viscosity."
+    },
+    {
+      "id": 71,
+      "question": "Incompressible fluid means constant:",
+      "options": {
+        "A": "Velocity",
+        "B": "Density",
+        "C": "Pressure",
+        "D": "Temperature\n\n72. Blood incompressible means:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Incompressible fluid means density remains constant."
+    },
+    {
+      "id": 73,
+      "question": "Air speed above umbrella causes:",
+      "options": {
+        "A": "Down force",
+        "B": "Lift",
+        "C": "No effect",
+        "D": "Closure"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 74,
+      "question": "Venturi meter works on:",
+      "options": {
+        "A": "Pressure-velocity relation",
+        "B": "Continuity",
+        "C": "Gravity",
+        "D": "Friction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Venturi meter works on pressure-velocity relationship (Bernoulli principle)."
+    },
+    {
+      "id": 75,
+      "question": "Torricelli speed depends on:",
+      "options": {
+        "A": "Density",
+        "B": "Height of liquid",
+        "C": "Area",
+        "D": "Shape"
+      },
+      "correctAnswer": "B",
+      "explanation": "Torricelli’s speed depends only on height of liquid column (h)."
+    },
+    {
+      "id": 76,
+      "question": "Spinning ball curves due to:",
+      "options": {
+        "A": "Air resistance",
+        "B": "Gravity",
+        "C": "Pressure difference",
+        "D": "No friction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Spinning ball curves due to pressure difference (Magnus effect)."
+    },
+    {
+      "id": 77,
+      "question": "Non-viscous fluid means:",
+      "options": {
+        "A": "Thick fluid",
+        "B": "No internal friction",
+        "C": "Solid",
+        "D": "Static\n\n78. Reynolds number tells:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Non-viscous fluid has zero internal friction."
+    },
+    {
+      "id": 79,
+      "question": "Laminar flow Reynolds number is:",
+      "options": {
+        "A": "High",
+        "B": "Low",
+        "C": "Zero",
+        "D": "Negative"
+      },
+      "correctAnswer": "B",
+      "explanation": "Low Reynolds number indicates laminar flow."
+    },
+    {
+      "id": 80,
+      "question": "Carburetor works on:",
+      "options": {
+        "A": "Venturi effect",
+        "B": "Archimedes",
+        "C": "Stoke",
+        "D": "Pascal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carburetors work using the Venturi effect (pressure drop increases fuel mixing)."
+    },
+    {
+      "id": 81,
+      "question": "Viscosity in liquids is due to:",
+      "options": {
+        "A": "Cohesion",
+        "B": "Adhesion",
+        "C": "Magnetism",
+        "D": "Gravity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Viscosity in liquids is mainly due to cohesive intermolecular forces."
+    },
+    {
+      "id": 82,
+      "question": "Viscosity in gases is due to:",
+      "options": {
+        "A": "Cohesion",
+        "B": "Momentum transfer",
+        "C": "Pressure",
+        "D": "Volume"
+      },
+      "correctAnswer": "B",
+      "explanation": "In gases, viscosity is due to momentum transfer between molecules. 83. Correct Option: B Loss in weight = upthrust = W − W’."
+    },
+    {
+      "id": 83,
+      "question": "Upthrust formula is:",
+      "options": {
+        "A": "W + W’",
+        "B": "W − W’",
+        "C": "W’",
+        "D": "W/W’\n\n84. Helium balloon rises because:"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 85,
+      "question": "Fluid pressure acts:",
+      "options": {
+        "A": "Downward only",
+        "B": "Upward only",
+        "C": "All directions",
+        "D": "Horizontally only"
+      },
+      "correctAnswer": "C",
+      "explanation": "Fluid pressure acts equally in all directions (Pascal’s law)."
+    },
+    {
+      "id": 86,
+      "question": "Bernoulli effect used in:",
+      "options": {
+        "A": "Chimneys",
+        "B": "Blood flow",
+        "C": "Sailboats",
+        "D": "All"
+      },
+      "correctAnswer": "D",
+      "explanation": "Bernoulli effect is used in: • • • Chimneys Blood flow Sailing All of these."
+    },
+    {
+      "id": 87,
+      "question": "Terminal velocity depends on:",
+      "options": {
+        "A": "Density difference",
+        "B": "Inversely",
+        "C": "Log",
+        "D": "None"
+      },
+      "correctAnswer": "A",
+      "explanation": "Terminal velocity increases with density difference (ρ − σ)."
+    },
+    {
+      "id": 88,
+      "question": "Vertical pipe Bernoulli includes:",
+      "options": {
+        "A": "ρgh term",
+        "B": "Only pressure",
+        "C": "Only velocity",
+        "D": "No term"
+      },
+      "correctAnswer": "A",
+      "explanation": "In vertical pipes, potential energy term ρgh must be included."
+    },
+    {
+      "id": 89,
+      "question": "Flow rate unit equals:",
+      "options": {
+        "A": "m/s × m²",
+        "B": "m/s",
+        "C": "Pascal",
+        "D": "Newton\n\n90. Superfluidity first seen in:"
+      },
+      "correctAnswer": "A",
+      "explanation": "Flow rate = area × velocity = m³/s."
+    }
+  ]
+}

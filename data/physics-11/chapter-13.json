@@ -1,0 +1,607 @@
+{
+  "chapterNumber": 13,
+  "chapterTitle": "Relativity",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A frame of reference in which Newton’s first law of motion holds good is called:",
+      "options": {
+        "A": "Accelerated frame",
+        "B": "Non-inertial frame",
+        "C": "Inertial frame",
+        "D": "Rotating frame"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 2,
+      "question": "According to the first postulate of special relativity, the laws of physics are the same in all:",
+      "options": {
+        "A": "Accelerated frames",
+        "B": "Inertial frames",
+        "C": "Non-inertial frames",
+        "D": "Gravitational fields"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 3,
+      "question": "The speed of light in a vacuum is independent of:",
+      "options": {
+        "A": "The motion of the source only",
+        "B": "The motion of the observer only",
+        "C": "Both the motion of the source and the observer",
+        "D": "The frequency of light only"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 4,
+      "question": "If an object moves with the speed of light, its relativistic mass becomes:",
+      "options": {
+        "A": "Zero",
+        "B": "Equal to its rest mass",
+        "C": "Double its rest mass",
+        "D": "Infinite"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "The time interval measured by an observer who is at rest relative to the event is called:",
+      "options": {
+        "A": "Dilated time",
+        "B": "Proper time",
+        "C": "Relative time",
+        "D": "Absolute time"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 6,
+      "question": "A spaceship 100 m long flies past an observer at 0.8c. The length measured by the observer will be:",
+      "options": {
+        "A": "100 m",
+        "B": "80 m",
+        "C": "60 m",
+        "D": "125 m"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 7,
+      "question": "The concept of simultaneity in special relativity is:",
+      "options": {
+        "A": "Absolute for all observers",
+        "B": "Relative to the observer’s frame",
+        "C": "Only valid for inertial frames",
+        "D": "Dependent on the intensity of light"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 8,
+      "question": "For a particle moving at v = 0.6c, the Lorentz factor γ is:",
+      "options": {
+        "A": "0.8",
+        "B": "1.25",
+        "C": "1.66",
+        "D": "1.0"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 9,
+      "question": "The rest mass energy of an electron (m₀ = 9.11 × 10⁻³¹ kg) is approximately:",
+      "options": {
+        "A": "0.511 MeV",
+        "B": "1.02 MeV",
+        "C": "931 MeV",
+        "D": "0.931 MeV"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "If the kinetic energy of a particle is equal to its rest mass energy, its speed is:",
+      "options": {
+        "A": "0.5c",
+        "B": "0.707c",
+        "C": "0.866c",
+        "D": "c"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "As the speed of an object increases, its length in the direction of motion:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Becomes imaginary"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "A clock in a moving spaceship appears to run ______ to an observer on Earth.",
+      "options": {
+        "A": "Faster",
+        "B": "Slower",
+        "C": "At the same rate",
+        "D": "Backward"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 13,
+      "question": "The mass-energy equivalence relation is given by:",
+      "options": {
+        "A": "E = m₀c",
+        "B": "E = mc²",
+        "C": "E = ½m₀v²",
+        "D": "E = hf"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "In the limit where v ≪ c, the relativistic kinetic energy reduces to:",
+      "options": {
+        "A": "m₀c²",
+        "B": "m₀v²",
+        "C": "½m₀v²",
+        "D": "Zero"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 15,
+      "question": "The fourth dimension in the mathematical model of relativity is:",
+      "options": {
+        "A": "Mass",
+        "B": "Energy",
+        "C": "Time",
+        "D": "Velocity"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 16,
+      "question": "π-mesons have a rest-life of 2.6 × 10⁻⁸ s. If they travel at 0.9c, their laboratory lifetime will:",
+      "options": {
+        "A": "Increase",
+        "B": "Decrease",
+        "C": "Remain the same",
+        "D": "Be zero"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 17,
+      "question": "A non-inertial frame of reference is one which is:",
+      "options": {
+        "A": "Moving with uniform velocity",
+        "B": "At rest",
+        "C": "Undergoing acceleration",
+        "D": "Following Newton’s first law"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "The Lorentz transformation equations reduce to Galilean transformations when:",
+      "options": {
+        "A": "v = c",
+        "B": "v > c",
+        "C": "v ≪ c",
+        "D": "v = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 19,
+      "question": "The variation of mass with velocity implies that:",
+      "options": {
+        "A": "Mass is a constant property",
+        "B": "Mass is a form of energy",
+        "C": "Mass depends on the observer’s frame",
+        "D": "Density remains constant"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is a consequence of the constancy of the speed of light?",
+      "options": {
+        "A": "Time is absolute",
+        "B": "Space is absolute",
+        "C": "Both space and time are relative",
+        "D": "Speed of light depends on the medium only"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 21,
+      "question": "A particle’s relativistic mass is 2m₀. Its speed must be:",
+      "options": {
+        "A": "0.5c",
+        "B": "0.866c",
+        "C": "0.707c",
+        "D": "0.99c"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "The relativistic momentum of a particle is given by:",
+      "options": {
+        "A": "p = m₀v",
+        "B": "p = γm₀v",
+        "C": "p = mv²",
+        "D": "p = m₀c³"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 23,
+      "question": "An observer in a spaceship moving at 0.95c measures the length of his own ship to be L. An observer on Earth measures it to be L′. The relation is:",
+      "options": {
+        "A": "L′ > L",
+        "B": "L′ < L",
+        "C": "L′ = L",
+        "D": "L′ = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 24,
+      "question": "The total energy E of a particle is the sum of:",
+      "options": {
+        "A": "Kinetic energy and potential energy",
+        "B": "Rest mass energy and kinetic energy",
+        "C": "Rest mass energy and potential energy",
+        "D": "Momentum and velocity"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "When v approaches c, the factor √(1 − v²/c²) approaches:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "∞",
+        "D": "0.5"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 26,
+      "question": "A meter rod moving with velocity v along its length appears to be 50 cm long. The velocity v is:",
+      "options": {
+        "A": "0.5c",
+        "B": "0.866c",
+        "C": "0.707c",
+        "D": "0.25c"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 27,
+      "question": "The relativistic kinetic energy of an object is:",
+      "options": {
+        "A": "mc² − m₀c²",
+        "B": "½mv²",
+        "C": "m₀c²",
+        "D": "mc²"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 28,
+      "question": "In the mass-energy equivalence, if 1 kg of matter is converted into energy, it would produce:",
+      "options": {
+        "A": "9 × 10¹⁶ J",
+        "B": "3 × 10⁸ J",
+        "C": "9 × 10⁸ J",
+        "D": "1 J"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 29,
+      "question": "Spacetime can be thought of as a metaphorical sheet that can bend due to:",
+      "options": {
+        "A": "Velocity",
+        "B": "Pressure",
+        "C": "Gravity/Mass",
+        "D": "Temperature"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 30,
+      "question": "According to Einstein, the mass of an object:",
+      "options": {
+        "A": "Is a measure of its energy content",
+        "B": "Is independent of its motion",
+        "C": "Is always conserved as a scalar",
+        "D": "Vanishes at high speeds"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 31,
+      "question": "If two events are simultaneous in one inertial frame, they:",
+      "options": {
+        "A": "Must be simultaneous in all other inertial frames",
+        "B": "May not be simultaneous in another inertial frame",
+        "C": "Are only simultaneous if they happen at the same point",
+        "D": "Cannot happen in another frame"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 32,
+      "question": "The proper length of a spaceship is L₀. If it moves at 0.6c, the percentage contraction is:",
+      "options": {
+        "A": "20%",
+        "B": "40%",
+        "C": "60%",
+        "D": "80%"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 33,
+      "question": "The principle of relativity was first introduced in a restricted sense by:",
+      "options": {
+        "A": "Newton",
+        "B": "Galileo",
+        "C": "Einstein",
+        "D": "Maxwell"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 34,
+      "question": "A person on a spaceship moving at 0.9c holds a mirror. He will see his reflection:",
+      "options": {
+        "A": "Normally",
+        "B": "Delayed",
+        "C": "Not at all",
+        "D": "Distorted"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 35,
+      "question": "The ratio of relativistic mass to rest mass (m/m₀) for a particle moving at 0.8c is:",
+      "options": {
+        "A": "1.25",
+        "B": "1.66",
+        "C": "0.6",
+        "D": "2.0"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 36,
+      "question": "If v = c, the time dilation formula implies that:",
+      "options": {
+        "A": "Time stops for the moving observer",
+        "B": "Time moves at infinite speed",
+        "C": "Time is the same as the rest frame",
+        "D": "The formula becomes invalid"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 37,
+      "question": "For an object to reach the speed of light, the work required would be:",
+      "options": {
+        "A": "m₀c²",
+        "B": "Infinite",
+        "C": "Zero",
+        "D": "2m₀c²"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 38,
+      "question": "The GPS satellite system must account for:",
+      "options": {
+        "A": "Time dilation only",
+        "B": "Length contraction only",
+        "C": "Both special and general relativistic effects",
+        "D": "Newton’s second law only"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 39,
+      "question": "The increase in mass of a particle as it approaches c is:",
+      "options": {
+        "A": "Linear",
+        "B": "Exponential",
+        "C": "Asymptotic to infinity",
+        "D": "Parabolic"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 40,
+      "question": "Atomic bombs and nuclear reactors are practical applications of:",
+      "options": {
+        "A": "Time dilation",
+        "B": "Length contraction",
+        "C": "Mass-energy equivalence",
+        "D": "Non-inertial frames"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 41,
+      "question": "Proper time is the time interval between two events.",
+      "options": {
+        "A": "Shortest",
+        "B": "Longest",
+        "C": "Average",
+        "D": "Absolute"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 42,
+      "question": "A particle with rest mass m₀ has a total energy of 5m₀c². Its kinetic energy is:",
+      "options": {
+        "A": "5m₀c²",
+        "B": "4m₀c²",
+        "C": "6m₀c²",
+        "D": "m₀c²"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 43,
+      "question": "Which postulate of Special Relativity specifically addresses the speed of light?",
+      "options": {
+        "A": "First",
+        "B": "Second",
+        "C": "Third",
+        "D": "Fourth"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 44,
+      "question": "Special relativity applies to frames of reference that are:",
+      "options": {
+        "A": "Accelerating",
+        "B": "Rotating",
+        "C": "Moving at constant velocity",
+        "D": "In a strong gravitational field"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 45,
+      "question": "The expression 1/√(1 − v²/c²) is always:",
+      "options": {
+        "A": "Less than 1",
+        "B": "Equal to 1",
+        "C": "Greater than or equal to 1",
+        "D": "Negative"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 46,
+      "question": "In the Twin Paradox, the twin who travels to space and returns is:",
+      "options": {
+        "A": "Younger than the stay-at-home twin",
+        "B": "Older than the stay-at-home twin",
+        "C": "The same age",
+        "D": "Non-existent"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 47,
+      "question": "If a spaceship’s speed is 0.99c, its length appears to be roughly ______ of its proper length.",
+      "options": {
+        "A": "14%",
+        "B": "50%",
+        "C": "99%",
+        "D": "1%"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 48,
+      "question": "Mass-Energy equivalence means that:",
+      "options": {
+        "A": "Energy can be created from nothing",
+        "B": "Mass can be converted into energy and vice versa",
+        "C": "Mass and energy are independent",
+        "D": "Only potential energy is related to mass"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 49,
+      "question": "The speed of light is the ______ speed for any object with mass.",
+      "options": {
+        "A": "Minimum",
+        "B": "Average",
+        "C": "Ultimate/Maximum",
+        "D": "Starting"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 50,
+      "question": "Einstein received the Nobel Prize primarily for his work on:",
+      "options": {
+        "A": "Special Relativity",
+        "B": "General Relativity",
+        "C": "Photoelectric Effect",
+        "D": "Brownian Motion"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    }
+  ]
+}

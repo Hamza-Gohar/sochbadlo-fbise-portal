@@ -1,0 +1,44 @@
+/* Hallmark · shape: Portal · genre: editorial · theme: Editorial (by request) · job: try · draw: custom
+ * hero: Stage · nav: edge-aligned · footer: mast · imagery: none · signature: live examination testing engine
+ * axes: light/display-condensed/chromatic-green · posture: restrained · contrast: pass · fold: pass · v2.0.0 */
+/* Hallmark · pre-emit critique: P5 H5 E5 S5 R5 V5 · weakest: H5, heightened typography contrast */
+@import "./tokens.css";
+@import "./base.css" layer(base);
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Hallmark Editorial helpers */
+.hallmark-rule {
+  border-top: var(--rule-heavy) solid var(--color-ink);
+}
+
+.hallmark-hairline {
+  border-top: var(--rule-hair) solid var(--color-rule);
+}
+
+.hallmark-card {
+  background: var(--color-paper);
+  border: 1px solid var(--color-rule-2);
+  transition: border-color var(--dur-short) var(--ease-out), transform var(--dur-short) var(--ease-out);
+}
+
+.hallmark-card:hover {
+  border-color: var(--color-ink);
+}
+
+.badge-tag {
+  font-family: var(--font-display);
+  font-size: var(--text-xs);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  padding: 2px 8px;
+  border: 1px solid var(--color-rule-2);
+}
+
+.badge-tag-active {
+  background: var(--color-ink);
+  color: var(--color-paper);
+  border-color: var(--color-ink);
+}

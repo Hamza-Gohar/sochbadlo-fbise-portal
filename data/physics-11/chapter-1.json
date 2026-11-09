@@ -1,0 +1,679 @@
+{
+  "chapterNumber": 1,
+  "chapterTitle": "Physical Quantities & Measurements",
+  "totalQuestions": 56,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A student measures the length of a rod as 37.5 ± 0.1 cm. The uncertainty in this measurement is primarily due to:",
+      "options": {
+        "A": "Random fluctuations in the environment",
+        "B": "The skill level of the experimenter",
+        "C": "The least count of the measuring instrument",
+        "D": "Parallax error during observation"
+      },
+      "correctAnswer": "C",
+      "explanation": "The uncertainty in a single measurement of a physical quantity is usually taken as the least count of the instrument used. This defines the limit of resolution of the measurement."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following sets of quantities have the same dimensions?",
+      "options": {
+        "A": "Force, Weight, and Pressure",
+        "B": "Work, Energy, and Torque",
+        "C": "Power, Force, and Velocity",
+        "D": "Stress, Strain, and Young’s Modulus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Work, Energy, and Torque all have the same dimensions because each depends on force multiplied by distance."
+    },
+    {
+      "id": 3,
+      "question": "If the percentage uncertainty in the measurement of radius r is 0.4%, then the percentage uncertainty in the volume of a sphere is:",
+      "options": {
+        "A": "0.4%",
+        "B": "0.8%",
+        "C": "1.2%",
+        "D": "1.6%"
+      },
+      "correctAnswer": "C",
+      "explanation": "For volume of a sphere, the percentage uncertainty in volume is three times the percentage uncertainty in radius. Therefore: 3 × 0.4% = 1.2%. 4. Correct Option: C The average of 161, 162, and 158 is close to 160, making it accurate. However, the readings are spread out, showing low precision."
+    },
+    {
+      "id": 4,
+      "question": "A measurement of 161, 162, 158 pounds for a standard 160 lb mass is described as:",
+      "options": {
+        "A": "Accurate and precise",
+        "B": "Precise but not accurate",
+        "C": "Accurate but not precise",
+        "D": "Neither accurate nor precise"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 5,
+      "question": "The dimension of the ratio of Work to Time is equivalent to:",
+      "options": {
+        "A": "ML²T⁻²",
+        "B": "ML²T⁻³",
+        "C": "MLT⁻²",
+        "D": "L²T⁻³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Power is equal to work divided by time."
+    },
+    {
+      "id": 6,
+      "question": "Dimensional analysis is limited because it cannot:",
+      "options": {
+        "A": "Check the homogeneity of an equation",
+        "B": "Derive a relationship between physical quantities",
+        "C": "Determine the value of dimensionless constants like 2π",
+        "D": "Convert units from one system to another\n\n7. The density of water is 10³ kg m⁻³. To estimate the mass of 1 liter of water, we use the fact\nthat 1 liter is:"
+      },
+      "correctAnswer": "C",
+      "explanation": "Dimensional analysis cannot determine numerical constants such as 2, π, or 1/2 because they have no dimensions."
+    },
+    {
+      "id": 8,
+      "question": "The dimension M⁻¹L³T⁻² corresponds to:",
+      "options": {
+        "A": "Planck’s constant",
+        "B": "Gravitational constant",
+        "C": "Ideal gas constant",
+        "D": "Modulus of elasticity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Using the gravitational force equation, the dimensions of the gravitational constant are obtained as M⁻¹L³T⁻²."
+    },
+    {
+      "id": 9,
+      "question": "In the equation v = √(λg), if v is speed, λ is wavelength, and g is acceleration, the equation is:",
+      "options": {
+        "A": "Dimensionally incorrect",
+        "B": "Dimensionally correct",
+        "C": "Physically incorrect but dimensionally correct",
+        "D": "Both dimensionally and physically incorrect"
+      },
+      "correctAnswer": "B",
+      "explanation": "Both sides of the equation have identical dimensions, so the equation is dimensionally correct."
+    },
+    {
+      "id": 10,
+      "question": "The time period of a simple pendulum is proportional to √(l/g). If the length l is doubled and g is halved, the time period becomes:",
+      "options": {
+        "A": "T",
+        "B": "2T",
+        "C": "4T",
+        "D": "T/2"
+      },
+      "correctAnswer": "B",
+      "explanation": "If the pendulum length becomes four times larger, the time period doubles because the time period is proportional to the square root of length."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is a dimensionless variable?",
+      "options": {
+        "A": "Plane angle",
+        "B": "Speed of light",
+        "C": "Planck’s constant",
+        "D": "Acceleration due to gravity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Plane angle is dimensionless because it is the ratio of arc length to radius."
+    },
+    {
+      "id": 12,
+      "question": "The number of heartbeats in a 60-year human lifetime is approximately:",
+      "options": {
+        "A": "10⁷",
+        "B": "10⁸",
+        "C": "10⁹",
+        "D": "10¹¹"
+      },
+      "correctAnswer": "C",
+      "explanation": "The human heart beats approximately 1.8 × 10⁹ times in 60 years, giving an order of magnitude of 10⁹."
+    },
+    {
+      "id": 13,
+      "question": "Absolute uncertainty in a measurement is equal to:",
+      "options": {
+        "A": "Fractional uncertainty × Mean value",
+        "B": "Least count of the instrument",
+        "C": "Percentage uncertainty ÷ 100",
+        "D": "Range of values ÷ Number of readings"
+      },
+      "correctAnswer": "B",
+      "explanation": "In a single measurement, the absolute uncertainty equals the least count of the instrument."
+    },
+    {
+      "id": 14,
+      "question": "If z = x − y, the absolute uncertainty Δz is:",
+      "options": {
+        "A": "Δx − Δy",
+        "B": "Δx + Δy",
+        "C": "(Δx + Δy)/(x − y)",
+        "D": "√(Δx² + Δy²)"
+      },
+      "correctAnswer": "B",
+      "explanation": "In addition and subtraction, absolute uncertainties are added together."
+    },
+    {
+      "id": 15,
+      "question": "The dimension of electric charge in SI base units is:",
+      "options": {
+        "A": "IT",
+        "B": "As",
+        "C": "AT⁻¹",
+        "D": "I²T"
+      },
+      "correctAnswer": "A",
+      "explanation": "Charge equals current multiplied by time, so its dimensions are based on current and time."
+    },
+    {
+      "id": 16,
+      "question": "A student takes 5 readings of a time interval. The mean deviation of these readings represents:",
+      "options": {
+        "A": "Systematic error",
+        "B": "Absolute uncertainty in the average",
+        "C": "Fractional uncertainty",
+        "D": "Personal error"
+      },
+      "correctAnswer": "B",
+      "explanation": "For repeated measurements, the mean deviation or average uncertainty represents the final absolute uncertainty. 17. Correct Option: B Measuring many sheets together reduces percentage uncertainty and improves reliability."
+    },
+    {
+      "id": 17,
+      "question": "Estimation of the thickness of a paper is best done by:",
+      "options": {
+        "A": "Using a meter rod on a single sheet",
+        "B": "Measuring a stack of 100 sheets and dividing by 100",
+        "C": "Using a micrometer on a single sheet only",
+        "D": "Sound physical reasoning without measurement"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 18,
+      "question": "The SI unit of Power expressed in base units is:",
+      "options": {
+        "A": "kg·m²·s⁻²",
+        "B": "kg·m·s⁻³",
+        "C": "kg·m²·s⁻³",
+        "D": "kg·m⁻¹·s⁻²"
+      },
+      "correctAnswer": "C",
+      "explanation": "Power equals work divided by time, giving units of kilogram meter squared per second cubed."
+    },
+    {
+      "id": 19,
+      "question": "Which order of magnitude represents the diameter of a typical virus?",
+      "options": {
+        "A": "10⁻⁷ m",
+        "B": "10⁻⁹ m",
+        "C": "10⁻¹⁰ m",
+        "D": "10⁻¹⁵ m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Viruses are usually in the nanometer range."
+    },
+    {
+      "id": 20,
+      "question": "If F = crv, where F is force, r is radius, and v is velocity, the base units of c are:",
+      "options": {
+        "A": "kg·m·s⁻¹",
+        "B": "kg·m⁻¹·s⁻¹",
+        "C": "kg·m·s⁻²",
+        "D": "kg·m²·s⁻¹"
+      },
+      "correctAnswer": "B",
+      "explanation": "The coefficient of viscosity has dimensions of ML⁻¹T⁻¹."
+    },
+    {
+      "id": 21,
+      "question": "The error that occurs due to the use of a faulty apparatus is known as:",
+      "options": {
+        "A": "Random error",
+        "B": "Systematic error",
+        "C": "Personal error",
+        "D": "Significant error\n\n22. A precise measurement is one that has:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Calibration and zero errors are systematic errors because they affect all readings consistently."
+    },
+    {
+      "id": 23,
+      "question": "The dimension of Pressure is:",
+      "options": {
+        "A": "ML⁻¹T⁻²",
+        "B": "MLT⁻²",
+        "C": "ML²T⁻²",
+        "D": "ML⁻²T⁻²"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pressure equals force divided by area."
+    },
+    {
+      "id": 24,
+      "question": "A supercomputer performs one floating-point operation in 10⁻¹⁷ s. How many operations can it perform in 1 day (approximately 10⁵ s)?",
+      "options": {
+        "A": "10¹²",
+        "B": "10¹⁷",
+        "C": "10²²",
+        "D": "10²⁴"
+      },
+      "correctAnswer": "C",
+      "explanation": "The total number of operations is found by dividing total time by time per operation."
+    },
+    {
+      "id": 25,
+      "question": "If the mass of a hummingbird is estimated as 10⁻² kg, its mass in grams is:",
+      "options": {
+        "A": "0.1 g",
+        "B": "1 g",
+        "C": "10 g",
+        "D": "100 g"
+      },
+      "correctAnswer": "C",
+      "explanation": "10⁻² kg equals 10 grams."
+    },
+    {
+      "id": 26,
+      "question": "The ratio of the diameter of the observable universe to the diameter of a proton is approximately:",
+      "options": {
+        "A": "10¹¹",
+        "B": "10²⁶",
+        "C": "10⁴¹",
+        "D": "10⁵³"
+      },
+      "correctAnswer": "C",
+      "explanation": "The ratio of the universe’s diameter to a proton’s diameter is approximately 10⁴¹."
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is NOT a dimensional constant?",
+      "options": {
+        "A": "Speed of light",
+        "B": "Gravitational constant",
+        "C": "Refractive index",
+        "D": "Planck’s constant"
+      },
+      "correctAnswer": "C",
+      "explanation": "Refractive index is dimensionless because it is a ratio of speeds."
+    },
+    {
+      "id": 28,
+      "question": "An equation that is dimensionally correct:",
+      "options": {
+        "A": "Must be physically correct",
+        "B": "May or may not be physically correct",
+        "C": "Is always physically incorrect",
+        "D": "Cannot contain trigonometric functions"
+      },
+      "correctAnswer": "B",
+      "explanation": "An equation may be dimensionally correct but still physically incorrect if numerical factors are missing."
+    },
+    {
+      "id": 29,
+      "question": "In the rule for power z = xⁿ, the percentage uncertainty in z is:",
+      "options": {
+        "A": "n × absolute uncertainty in x",
+        "B": "n × percentage uncertainty in x",
+        "C": "Percentage uncertainty in x ÷ n",
+        "D": "n² × percentage uncertainty in x"
+      },
+      "correctAnswer": "B",
+      "explanation": "In powers, percentage uncertainty is multiplied by the power."
+    },
+    {
+      "id": 30,
+      "question": "The dimension of angle θ is:",
+      "options": {
+        "A": "L",
+        "B": "L⁰",
+        "C": "M",
+        "D": "T"
+      },
+      "correctAnswer": "B",
+      "explanation": "Angle is dimensionless because it is a ratio of two lengths."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is the most accurate scale for weighing 160.0 lbs?",
+      "options": {
+        "A": "Scale A: 170.1, 169.9, 170.0",
+        "B": "Scale B: 161, 162, 158",
+        "C": "Scale C: 159.9, 160.0, 160.1",
+        "D": "All are equally accurate"
+      },
+      "correctAnswer": "C",
+      "explanation": "Accuracy means closeness to the true value. The readings centered around 160.0 are the most accurate. 32. Correct Option: B Force multiplied by velocity gives the dimensions of power."
+    },
+    {
+      "id": 32,
+      "question": "The dimension of the product of Force and Velocity is equivalent to:",
+      "options": {
+        "A": "Work",
+        "B": "Power",
+        "C": "Torque",
+        "D": "Momentum"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 33,
+      "question": "To estimate the height of a building, a student uses the “people on shoulders” model. If the building has 10 floors, each floor is 2 people high, and a person is 1.5 m, the height is:",
+      "options": {
+        "A": "15 m",
+        "B": "30 m",
+        "C": "45 m",
+        "D": "60 m"
+      },
+      "correctAnswer": "B",
+      "explanation": "10 floors × 2 people × 1.5 m gives approximately 30 meters."
+    },
+    {
+      "id": 34,
+      "question": "The density of air is approximately:",
+      "options": {
+        "A": "1 kg m⁻³",
+        "B": "10 kg m⁻³",
+        "C": "100 kg m⁻³",
+        "D": "1000 kg m⁻³"
+      },
+      "correctAnswer": "A",
+      "explanation": "The density of air is about 1 kilogram per cubic meter."
+    },
+    {
+      "id": 35,
+      "question": "A measurement 3.06 ± 0.02 mm implies the true value lies between:",
+      "options": {
+        "A": "3.04 and 3.08 mm",
+        "B": "3.05 and 3.07 mm",
+        "C": "3.00 and 3.10 mm",
+        "D": "3.02 and 3.08 mm"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adding and subtracting uncertainty gives the range from 3.04 to 3.08."
+    },
+    {
+      "id": 36,
+      "question": "The dimensions ML²T⁻¹ represent:",
+      "options": {
+        "A": "Energy",
+        "B": "Angular Momentum",
+        "C": "Force",
+        "D": "Power\n\n37. In a timing experiment for 20 vibrations, if the least count of the stopwatch is 0.1 s, the\nuncertainty in the time period is:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Angular momentum depends on mass, velocity, and radius."
+    },
+    {
+      "id": 38,
+      "question": "One light-year is approximately:",
+      "options": {
+        "A": "10¹² m",
+        "B": "10¹⁵ m",
+        "C": "10¹⁶ m",
+        "D": "10¹⁸ m"
+      },
+      "correctAnswer": "C",
+      "explanation": "One light year is approximately 10¹⁶ meters."
+    },
+    {
+      "id": 39,
+      "question": "The SI unit of luminous intensity is:",
+      "options": {
+        "A": "Joule",
+        "B": "Candela",
+        "C": "Meter",
+        "D": "Newton"
+      },
+      "correctAnswer": "A",
+      "explanation": "Luminous intensity is a base quantity measured in candela."
+    },
+    {
+      "id": 40,
+      "question": "If P = ρgh, checking homogeneity requires dimensions of ρ which are:",
+      "options": {
+        "A": "ML²",
+        "B": "ML⁻³",
+        "C": "ML⁻²",
+        "D": "M⁻¹L³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Density is mass divided by volume."
+    },
+    {
+      "id": 41,
+      "question": "The age of the universe is approximately:",
+      "options": {
+        "A": "10¹⁵ s",
+        "B": "10¹⁷ s",
+        "C": "10¹⁸ s",
+        "D": "10²⁰ s"
+      },
+      "correctAnswer": "C",
+      "explanation": "The age of the universe is approximately 10¹⁸ seconds."
+    },
+    {
+      "id": 42,
+      "question": "Dimensional analysis cannot derive a formula for:",
+      "options": {
+        "A": "Centripetal force",
+        "B": "Simple harmonic motion displacement",
+        "C": "Velocity of a falling object",
+        "D": "Kinetic energy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dimensional analysis cannot derive trigonometric or logarithmic formulas."
+    },
+    {
+      "id": 43,
+      "question": "Which quantity is NOT a base quantity?",
+      "options": {
+        "A": "Temperature",
+        "B": "Electric current",
+        "C": "Weight",
+        "D": "Amount of substance"
+      },
+      "correctAnswer": "C",
+      "explanation": "Weight is derived from mass and gravity, so it is a derived quantity."
+    },
+    {
+      "id": 44,
+      "question": "The percentage uncertainty in a result x = 10.0 ± 0.1 is:",
+      "options": {
+        "A": "0.1%",
+        "B": "1%",
+        "C": "10%",
+        "D": "0.01%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Percentage uncertainty = (0.1 ÷ 10.0) × 100 = 1%."
+    },
+    {
+      "id": 45,
+      "question": "Two lengths L₁ = 5.0 ± 0.1 cm and L₂ = 2.0 ± 0.1 cm are subtracted. The result is:",
+      "options": {
+        "A": "3.0 ± 0.0 cm",
+        "B": "3.0 ± 0.1 cm",
+        "C": "3.0 ± 0.2 cm",
+        "D": "7.0 ± 0.2 cm"
+      },
+      "correctAnswer": "C",
+      "explanation": "In subtraction, absolute uncertainties are added, giving 3.0 ± 0.2 cm."
+    },
+    {
+      "id": 46,
+      "question": "The recorded human history is estimated at:",
+      "options": {
+        "A": "10⁹ s",
+        "B": "10¹¹ s",
+        "C": "10¹³ s",
+        "D": "10¹⁵ s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Human history is approximately 10¹¹ seconds long. 47. Correct Option: B For estimation, complicated shapes are simplified into easier forms like spheres or boxes."
+    },
+    {
+      "id": 47,
+      "question": "To calculate the surface area of a complex object, it is helpful to model it as:",
+      "options": {
+        "A": "A triangle",
+        "B": "A sphere or a box",
+        "C": "An irregular polygon",
+        "D": "A line segment"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 48,
+      "question": "Which of the following has the smallest mass?",
+      "options": {
+        "A": "Mosquito",
+        "B": "Bacterium",
+        "C": "Proton",
+        "D": "Electron"
+      },
+      "correctAnswer": "D",
+      "explanation": "The electron has the smallest mass among the given particles."
+    },
+    {
+      "id": 49,
+      "question": "Accuracy is primarily indicated by:",
+      "options": {
+        "A": "Absolute uncertainty",
+        "B": "Least count",
+        "C": "Percentage uncertainty",
+        "D": "Number of decimal places"
+      },
+      "correctAnswer": "C",
+      "explanation": "Smaller percentage uncertainty means higher accuracy."
+    },
+    {
+      "id": 50,
+      "question": "The dimension of strain is:",
+      "options": {
+        "A": "L",
+        "B": "L⁻¹",
+        "C": "M⁰L⁰T⁰",
+        "D": "ML⁻¹T⁻²"
+      },
+      "correctAnswer": "C",
+      "explanation": "Strain is dimensionless because it is the ratio of change in length to original length."
+    },
+    {
+      "id": 51,
+      "question": "If the diameter of the Earth is 10⁷ m, its radius is of the order:",
+      "options": {
+        "A": "10³ m",
+        "B": "10⁶ m",
+        "C": "10⁷ m",
+        "D": "10⁸ m\n\n52. A student guesses v²/x as a formula for acceleration. Is it dimensionally consistent?"
+      },
+      "correctAnswer": "B",
+      "explanation": "Half of 10⁷ meters is 5 × 10⁶ meters, so the order is 10⁶."
+    },
+    {
+      "id": 53,
+      "question": "The principle of homogeneity of dimensions is used to:",
+      "options": {
+        "A": "Measure physical quantities",
+        "B": "Verify the correctness of an equation",
+        "C": "Determine the units of a constant",
+        "D": "Both 2 and 3"
+      },
+      "correctAnswer": "D",
+      "explanation": "Dimensional analysis is used to check equations and determine dimensions of constants."
+    },
+    {
+      "id": 54,
+      "question": "The number of protons in a bacterium of mass 10⁻¹⁵ kg, given proton mass 10⁻²⁷ kg, is:",
+      "options": {
+        "A": "10¹⁰",
+        "B": "10¹²",
+        "C": "10¹⁵",
+        "D": "10⁴²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dividing the mass of a bacterium by proton mass gives approximately 10¹² protons."
+    },
+    {
+      "id": 55,
+      "question": "In the expression A = XYZ, if percentage errors in X, Y, and Z are 1%, 1%, and 2%, the total error in A is:",
+      "options": {
+        "A": "0%",
+        "B": "2%",
+        "C": "4%",
+        "D": "6%"
+      },
+      "correctAnswer": "C",
+      "explanation": "Total percentage uncertainty equals the sum of individual percentage uncertainties."
+    },
+    {
+      "id": 56,
+      "question": "The dimension of Torque is:",
+      "options": {
+        "A": "MLT⁻²",
+        "B": "ML²T⁻²",
+        "C": "ML⁻¹T⁻²",
+        "D": "M²L²T⁻¹"
+      },
+      "correctAnswer": "B",
+      "explanation": "Torque equals force multiplied by perpendicular distance."
+    },
+    {
+      "id": 57,
+      "question": "A measurement 0.50 ± 0.02 mm has a percentage uncertainty of:",
+      "options": {
+        "A": "2%",
+        "B": "4%",
+        "C": "0.04%",
+        "D": "40%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Percentage uncertainty = (0.02 ÷ 0.50) × 100 = 4%."
+    },
+    {
+      "id": 58,
+      "question": "A dimensional variable that is constant in magnitude is:",
+      "options": {
+        "A": "Plane angle",
+        "B": "Gravitational constant",
+        "C": "Strain",
+        "D": "Velocity"
+      },
+      "correctAnswer": "B",
+      "explanation": "The gravitational constant has dimensions but remains constant throughout the universe."
+    },
+    {
+      "id": 59,
+      "question": "The SI unit of electric charge, Coulomb, is equivalent to:",
+      "options": {
+        "A": "A·s",
+        "B": "A/s",
+        "C": "kg·m·s⁻¹",
+        "D": "J/s"
+      },
+      "correctAnswer": "A",
+      "explanation": "Charge equals current multiplied by time, so 1 Coulomb = 1 Ampere × 1 Second."
+    },
+    {
+      "id": 60,
+      "question": "Which of the following is a qualitative observation?",
+      "options": {
+        "A": "The rod is 5 meters long",
+        "B": "The water level remains constant",
+        "C": "The pressure is 2 Pascals",
+        "D": "The temperature is 30°C\n\nAnswer key\nQ.\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n\nAns\nC\nB\nC\nC\nB\nC\nC\nB\nB\nB\n\nQ.\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n\nAns\nA\nC\nB\nB\nA\nB\nB\nC\nB\nB\n\nQ.\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n\nAns\nB\nB\nA\nC\nC\nC\nC\nB\nB\nB\n\nQ.\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n\nAns\nC\nB\nB\nA\nA\nB\nC\nC\nA\nB\n\nQ.\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n\nAns\nC\nB\nC\nB\nC\nB\nB\nD\nC\nC\n\nQ.\n51\n52\n53\n54\n55\n56\n57\n58\n59\n60\n\nAns\nB\nA\nD\nB\nC\nB\nB\nB\nA\nB\n\nSolutions and Conceptual Explanations"
+      },
+      "correctAnswer": "B",
+      "explanation": "Qualitative observations describe qualities without numerical measurements."
+    }
+  ]
+}

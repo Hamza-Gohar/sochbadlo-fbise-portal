@@ -1,0 +1,535 @@
+{
+  "chapterNumber": 14,
+  "chapterTitle": "Particle Physics",
+  "totalQuestions": 44,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is conserved in every nuclear reaction?",
+      "options": {
+        "A": "Kinetic energy",
+        "B": "Rest mass",
+        "C": "Nucleon number and Charge",
+        "D": "Only the number of protons"
+      },
+      "correctAnswer": "C",
+      "explanation": "In any nuclear reaction, the total number of nucleons (baryon number) and the net electric charge must remain constant."
+    },
+    {
+      "id": 2,
+      "question": "An alpha (α) particle is identical to the nucleus of:",
+      "options": {
+        "A": "Hydrogen",
+        "B": "Helium",
+        "C": "Lithium",
+        "D": "Beryllium"
+      },
+      "correctAnswer": "B",
+      "explanation": "An alpha particle consists of two protons and two neutrons, which is the same as a Helium-4 nucleus."
+    },
+    {
+      "id": 3,
+      "question": "The charge of a beta-minus (β−) particle is:",
+      "options": {
+        "A": "+1e",
+        "B": "−1e",
+        "C": "+2e",
+        "D": "Zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "A beta-minus particle is a high-energy electron, which carries a charge of −1e."
+    },
+    {
+      "id": 4,
+      "question": "Gamma (γ) rays are:",
+      "options": {
+        "A": "High-speed electrons",
+        "B": "Helium nuclei",
+        "C": "Electromagnetic radiation of very short wavelength",
+        "D": "Positively charged particles"
+      },
+      "correctAnswer": "C",
+      "explanation": "Gamma rays are high-frequency electromagnetic waves (photons) emitted during nuclear transitions."
+    },
+    {
+      "id": 5,
+      "question": "The mass of a positron is exactly equal to the mass of:",
+      "options": {
+        "A": "A proton",
+        "B": "A neutron",
+        "C": "An electron",
+        "D": "An alpha particle\n\n6.\nWhich particle is emitted during β+ decay?"
+      },
+      "correctAnswer": "C",
+      "explanation": "A positron is the antiparticle of an electron; they have identical mass but opposite electric charges."
+    },
+    {
+      "id": 7,
+      "question": "In β− decay, the emitted particles are an electron and:",
+      "options": {
+        "A": "A neutrino",
+        "B": "An antineutrino",
+        "C": "A photon",
+        "D": "A graviton"
+      },
+      "correctAnswer": "B",
+      "explanation": "To conserve lepton number, the emission of an electron (lepton number +1) must be accompanied by an antineutrino (lepton number −1)."
+    },
+    {
+      "id": 8,
+      "question": "Alpha particles have a ______ energy spectrum.",
+      "options": {
+        "A": "Continuous",
+        "B": "Discrete",
+        "C": "Random",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alpha particles are emitted during transitions between specific, quantized nuclear energy levels, resulting in discrete energy peaks."
+    },
+    {
+      "id": 9,
+      "question": "The continuous range of energies in beta decay provided evidence for the:",
+      "options": {
+        "A": "Quark",
+        "B": "Neutrino",
+        "C": "Gluon",
+        "D": "Meson"
+      },
+      "correctAnswer": "B",
+      "explanation": "Since the decay energy is shared between the daughter nucleus, the beta particle, and the neutrino, the beta particle can have any value up to a maximum, creating a continuous spectrum."
+    },
+    {
+      "id": 10,
+      "question": "According to the Standard Model, quarks and leptons are:",
+      "options": {
+        "A": "Composite particles",
+        "B": "Fundamental particles",
+        "C": "Hadrons",
+        "D": "Only found in the nucleus"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to the Standard Model, quarks and leptons are fundamental (elementary) particles because they have no known internal structure. 11. Ans: (C) There are six flavors of quarks: up, down, charm, strange, top, and bottom."
+    },
+    {
+      "id": 11,
+      "question": "How many flavors of quarks exist?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 12,
+      "question": "The charge of an “up” (u) quark is:",
+      "options": {
+        "A": "−1/3e",
+        "B": "+1/3e",
+        "C": "+2/3e",
+        "D": "−2/3e"
+      },
+      "correctAnswer": "C",
+      "explanation": "The up-type quarks (up, charm, top) all possess a fractional electric charge of +2/3e."
+    },
+    {
+      "id": 13,
+      "question": "The charge of a “down”",
+      "options": {
+        "D": "quark is:",
+        "A": "−1/3e",
+        "B": "+2/3e",
+        "C": "−2/3e"
+      },
+      "correctAnswer": "A",
+      "explanation": "The down-type quarks (down, strange, bottom) all possess a fractional electric charge of −1/3e."
+    },
+    {
+      "id": 14,
+      "question": "A proton is composed of which quarks?",
+      "options": {
+        "A": "udd",
+        "B": "uud",
+        "C": "uus",
+        "D": "usc"
+      },
+      "correctAnswer": "B",
+      "explanation": "A proton’s charge is +1. Quark composition uud = (+2/3) + (+2/3) + (−1/3) = +1."
+    },
+    {
+      "id": 15,
+      "question": "A neutron is composed of which quarks?",
+      "options": {
+        "A": "uud",
+        "B": "udd",
+        "C": "dds",
+        "D": "uub"
+      },
+      "correctAnswer": "B",
+      "explanation": "A neutron’s charge is 0. Quark composition udd = (+2/3) + (−1/3) + (−1/3) = 0."
+    },
+    {
+      "id": 16,
+      "question": "Hadrons are classified into two groups:",
+      "options": {
+        "A": "Leptons and Photons",
+        "B": "Baryons and Mesons",
+        "C": "Bosons and Fermions",
+        "D": "Quarks and Gluons\n\n17.\nA baryon is made of:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hadrons are particles that feel the strong force. They are divided into baryons (3 quarks) and mesons (quark–antiquark pair)."
+    },
+    {
+      "id": 18,
+      "question": "A meson is made of:",
+      "options": {
+        "A": "Three quarks",
+        "B": "One quark and one anti-quark",
+        "C": "Two leptons",
+        "D": "Three gluons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mesons are composed of one quark and one antiquark (e.g., pions and kaons)."
+    },
+    {
+      "id": 19,
+      "question": "During β− decay, a quark changes into a ______ quark.",
+      "options": {
+        "A": "Up, Down",
+        "B": "Down, Up",
+        "C": "Strange, Charm",
+        "D": "Top, Bottom"
+      },
+      "correctAnswer": "B",
+      "explanation": "In beta-minus decay, a neutron (udd) becomes a proton (uud). This means one down quark transforms into an up quark."
+    },
+    {
+      "id": 20,
+      "question": "During β+ decay, a quark changes into a ______ quark.",
+      "options": {
+        "A": "Down, Up",
+        "B": "Up, Down",
+        "C": "Up, Strange",
+        "D": "Bottom, Top"
+      },
+      "correctAnswer": "C",
+      "explanation": "In beta-plus decay, a proton (uud) becomes a neutron (udd). This means one up quark transforms into a down quark."
+    },
+    {
+      "id": 21,
+      "question": "Electrons and neutrinos belong to a family of particles called:",
+      "options": {
+        "A": "Hadrons",
+        "B": "Leptons",
+        "C": "Baryons",
+        "D": "Mesons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Leptons are a family of fundamental particles that do not experience the strong nuclear force. They include electrons, muons, taus, and their neutrinos."
+    },
+    {
+      "id": 22,
+      "question": "The fundamental particle that carries the electromagnetic force is the:",
+      "options": {
+        "A": "Gluon",
+        "B": "W Boson",
+        "C": "Photon",
+        "D": "Z Boson"
+      },
+      "correctAnswer": "C",
+      "explanation": "The photon is the gauge boson that mediates the electromagnetic force between charged particles."
+    },
+    {
+      "id": 23,
+      "question": "The exchange particle for the strong nuclear force between quarks is the:",
+      "options": {
+        "A": "Photon",
+        "B": "Gluon",
+        "C": "Meson",
+        "D": "Graviton"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gluons are the exchange particles that carry the color force between quarks, keeping them bound inside hadrons. 24. Ans: (C) The Higgs Boson is the quantum excitation of the Higgs field, which gives mass to fundamental particles through the Higgs mechanism."
+    },
+    {
+      "id": 24,
+      "question": "Which particle is responsible for the mass of other elementary particles?",
+      "options": {
+        "A": "Photon",
+        "B": "Gluon",
+        "C": "Higgs Boson",
+        "D": "Neutrino"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 25,
+      "question": "The process in which a particle and its anti-particle convert into energy is:",
+      "options": {
+        "A": "Fission",
+        "B": "Fusion",
+        "C": "Annihilation",
+        "D": "Pair Production"
+      },
+      "correctAnswer": "C",
+      "explanation": "Annihilation occurs when a particle meets its corresponding antiparticle, and their total mass is converted into energy (photons)."
+    },
+    {
+      "id": 26,
+      "question": "The minimum energy of a photon required for pair production of an electron-positron pair is:",
+      "options": {
+        "A": "0.51 MeV",
+        "B": "1.02 MeV",
+        "C": "2.04 MeV",
+        "D": "931 MeV"
+      },
+      "correctAnswer": "B",
+      "explanation": "Since the rest mass of an electron is 0.51 MeV, the pair requires 1.02 MeV to be created."
+    },
+    {
+      "id": 27,
+      "question": "The tracks of alpha particles in a cloud chamber are:",
+      "options": {
+        "A": "Thin and erratic",
+        "B": "Thick, straight, and continuous",
+        "C": "Circular",
+        "D": "Very faint and long\n\n28.\nWhich particle accelerator uses drift tubes of increasing length?"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alpha particles are heavy and highly ionizing, meaning they lose energy quickly in straight, dense tracks of ionized atoms."
+    },
+    {
+      "id": 29,
+      "question": "In a cyclotron, the time taken by a particle to complete a semi-circle is:",
+      "options": {
+        "A": "Dependent on speed",
+        "B": "Independent of speed and radius",
+        "C": "Proportional to radius",
+        "D": "Inversely proportional to magnetic field"
+      },
+      "correctAnswer": "B",
+      "explanation": "The frequency of a cyclotron is independent of the speed or radius of the particle."
+    },
+    {
+      "id": 31,
+      "question": "Which quark flavor is the heaviest?",
+      "options": {
+        "A": "Up",
+        "B": "Strange",
+        "C": "Bottom",
+        "D": "Top"
+      },
+      "correctAnswer": "D",
+      "explanation": "The top quark is the most massive known elementary particle."
+    },
+    {
+      "id": 32,
+      "question": "Particles with half-integer spin (1/2, 3/2, ...) are called:",
+      "options": {
+        "A": "Bosons",
+        "B": "Fermions",
+        "C": "Photons",
+        "D": "Gluons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fermions follow the Pauli Exclusion Principle and have half-integer spins."
+    },
+    {
+      "id": 33,
+      "question": "Particles with integer spin (0, 1, 2, ...) are called:",
+      "options": {
+        "A": "Fermions",
+        "B": "Bosons",
+        "C": "Leptons",
+        "D": "Baryons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bosons are force carriers and have integer spins."
+    },
+    {
+      "id": 34,
+      "question": "The anti-particle of an electron is the:",
+      "options": {
+        "A": "Proton",
+        "B": "Positron",
+        "C": "Antiproton",
+        "D": "Neutrino"
+      },
+      "correctAnswer": "B",
+      "explanation": "The positron is the anti-electron."
+    },
+    {
+      "id": 35,
+      "question": "What is the charge of an anti-up quark?",
+      "options": {
+        "A": "+2/3e",
+        "B": "−2/3e",
+        "C": "−1/3e",
+        "D": "+1/3e"
+      },
+      "correctAnswer": "B",
+      "explanation": "If a quark has charge +2/3e, its antiquark must have the opposite charge: −2/3e."
+    },
+    {
+      "id": 36,
+      "question": "Which force has the shortest range?",
+      "options": {
+        "A": "Gravity",
+        "B": "Electromagnetic",
+        "C": "Strong Nuclear",
+        "D": "Weak Nuclear"
+      },
+      "correctAnswer": "B",
+      "explanation": "The weak nuclear force is extremely short-ranged, even shorter than the strong nuclear force."
+    },
+    {
+      "id": 37,
+      "question": "The charge of a “strange” quark is:",
+      "options": {
+        "A": "+2/3e",
+        "B": "−1/3e",
+        "C": "+1/3e",
+        "D": "−2/3e"
+      },
+      "correctAnswer": "B",
+      "explanation": "Strange, Down, and Bottom quarks all carry a charge of −1/3e. 38. Ans: (C) A proton is composite (made of quarks), while electrons, quarks, and neutrinos are fundamental."
+    },
+    {
+      "id": 38,
+      "question": "Which of the following is NOT a fundamental particle?",
+      "options": {
+        "A": "Electron",
+        "B": "Quark",
+        "C": "Proton",
+        "D": "Neutrino\n\n39.\nThe process of PET (Positron Emission Tomography) is based on:"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 40,
+      "question": "The mediator of the weak nuclear force is/are:",
+      "options": {
+        "A": "Gluons",
+        "B": "Photons",
+        "C": "W+, W− and Z0 bosons",
+        "D": "Gravitons"
+      },
+      "correctAnswer": "B",
+      "explanation": "The weak interaction is mediated by the massive W and Z bosons."
+    },
+    {
+      "id": 41,
+      "question": "An anti-baryon consists of:",
+      "options": {
+        "A": "Three quarks",
+        "B": "Three anti-quarks",
+        "C": "One quark and one anti-quark",
+        "D": "Two anti-quarks"
+      },
+      "correctAnswer": "B",
+      "explanation": "An anti-baryon is made of three antiquarks."
+    },
+    {
+      "id": 42,
+      "question": "In a nuclear reaction X → Y + α, the mass number of Y is:",
+      "options": {
+        "A": "AX − 2",
+        "B": "AX − 4",
+        "C": "AX + 4",
+        "D": "Same as X"
+      },
+      "correctAnswer": "B",
+      "explanation": "An alpha particle carries away 4 nucleons, so the daughter nucleus has a mass number reduced by 4."
+    },
+    {
+      "id": 43,
+      "question": "In β− decay, the atomic number of the daughter nucleus:",
+      "options": {
+        "A": "Increases by 1",
+        "B": "Decreases by 1",
+        "C": "Decreases by 2",
+        "D": "Stays the same"
+      },
+      "correctAnswer": "A",
+      "explanation": "A neutron becomes a proton, increasing the atomic number by 1."
+    },
+    {
+      "id": 44,
+      "question": "Which of the following is a meson?",
+      "options": {
+        "A": "Proton",
+        "B": "Neutron",
+        "C": "Pion",
+        "D": "Sigma particle"
+      },
+      "correctAnswer": "C",
+      "explanation": "Pions are mesons, while protons and neutrons are baryons."
+    },
+    {
+      "id": 45,
+      "question": "Color charge is a property of:",
+      "options": {
+        "A": "Leptons",
+        "B": "Quarks and Gluons",
+        "C": "Photons",
+        "D": "W bosons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Color charge is the property that allows quarks to interact via the strong force."
+    },
+    {
+      "id": 46,
+      "question": "The Standard Model describes the interactions of particles except:",
+      "options": {
+        "A": "Electromagnetic",
+        "B": "Strong",
+        "C": "Weak",
+        "D": "Gravity"
+      },
+      "correctAnswer": "D",
+      "explanation": "Gravity is currently the only fundamental force not included in the Standard Model."
+    },
+    {
+      "id": 47,
+      "question": "A muon (µ) is a member of which family?",
+      "options": {
+        "A": "Quarks",
+        "B": "Leptons",
+        "C": "Baryons",
+        "D": "Mesons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Muons are heavy leptons and unstable relatives of the electron."
+    },
+    {
+      "id": 48,
+      "question": "The rest mass of a photon is:",
+      "options": {
+        "A": "0.51 MeV",
+        "B": "938 MeV",
+        "C": "Zero",
+        "D": "Infinite"
+      },
+      "correctAnswer": "C",
+      "explanation": "Photons move at the speed of light and have no rest mass."
+    },
+    {
+      "id": 49,
+      "question": "How many types of neutrinos are there in the Standard Model?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "6\n\n50.\nThe “charm” quark has a charge of:"
+      },
+      "correctAnswer": "C",
+      "explanation": "There are three generations of neutrinos: electron, muon, and tau neutrinos."
+    }
+  ]
+}

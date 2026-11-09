@@ -1,0 +1,727 @@
+{
+  "chapterNumber": 11,
+  "chapterTitle": "Electrostatics",
+  "totalQuestions": 60,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The number of charge carriers per unit volume in a conductor is denoted by n. The drift velocity vd of these carriers is given by:",
+      "options": {
+        "A": "I/(nAq)",
+        "B": "nAq/I",
+        "C": "In/(Aq)",
+        "D": "IA/(nq)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Based on the relation I = nAvd q. Rearranging gives: vd = I / (nqA)"
+    },
+    {
+      "id": 2,
+      "question": "The SI unit of current density is:",
+      "options": {
+        "A": "A·m²",
+        "B": "A/m",
+        "C": "A/m²",
+        "D": "A·m"
+      },
+      "correctAnswer": "C",
+      "explanation": "Current density: J=I/A SI unit = A/m²"
+    },
+    {
+      "id": 3,
+      "question": "When the temperature of a metallic conductor increases, its resistance increases because:",
+      "options": {
+        "A": "The number of free electrons decreases",
+        "B": "The amplitude of vibration of lattice ions increases",
+        "C": "The drift velocity increases",
+        "D": "The length of the conductor increases significantly"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lattice ions vibrate with greater amplitude, increasing collisions with free electrons."
+    },
+    {
+      "id": 4,
+      "question": "The resistance of a Light Dependent Resistor (LDR) decreases when:",
+      "options": {
+        "A": "Temperature increases",
+        "B": "Light intensity increases",
+        "C": "Voltage increases",
+        "D": "Current decreases"
+      },
+      "correctAnswer": "B",
+      "explanation": "LDRs are made of semiconductor materials where light releases more charge carriers."
+    },
+    {
+      "id": 5,
+      "question": "Electromotive force (e.m.f.) is defined as:",
+      "options": {
+        "A": "The force that moves the electrons",
+        "B": "Energy transferred per unit charge in a complete circuit",
+        "C": "Potential difference across a resistor",
+        "D": "Maximum current a battery can provide"
+      },
+      "correctAnswer": "B",
+      "explanation": "e.m.f. represents the total work done per unit charge including internal resistance."
+    },
+    {
+      "id": 6,
+      "question": "The terminal potential difference V of a cell of e.m.f. E and internal resistance r delivering current I is:",
+      "options": {
+        "A": "V = E + Ir",
+        "B": "V = E − Ir",
+        "C": "V = E/Ir",
+        "D": "V = I(R − r)"
+      },
+      "correctAnswer": "B",
+      "explanation": "V = E − Ir (during discharging) Ir are the “lost volts”."
+    },
+    {
+      "id": 7,
+      "question": "Kirchhoff’s First Law (ΣI = 0) is a consequence of the conservation of:",
+      "options": {
+        "A": "Energy",
+        "B": "Momentum",
+        "C": "Charge",
+        "D": "Mass"
+      },
+      "correctAnswer": "C",
+      "explanation": "Total current entering a junction equals total current leaving."
+    },
+    {
+      "id": 8,
+      "question": "Kirchhoff’s Second Law (ΣΔV = 0) is based on the law of conservation of:",
+      "options": {
+        "A": "Charge",
+        "B": "Energy",
+        "C": "Power",
+        "D": "Voltage"
+      },
+      "correctAnswer": "B",
+      "explanation": "Energy is conserved around a closed loop."
+    },
+    {
+      "id": 9,
+      "question": "If three resistors R1, R2, R3 are connected in parallel, the equivalent resistance Rp is:",
+      "options": {
+        "A": "R1 + R2 + R3",
+        "B": "(R1R2R3)/(R1 + R2 + R3)",
+        "C": "(1/R1 + 1/R2 + 1/R3)⁻¹",
+        "D": "R1² + R2² + R3²"
+      },
+      "correctAnswer": "C",
+      "explanation": "1/Rp = 1/R1 + 1/R2 + 1/R3"
+    },
+    {
+      "id": 10,
+      "question": "The resistivity of a material depends upon:",
+      "options": {
+        "A": "Area of cross-section",
+        "B": "Length of the wire",
+        "C": "Nature of material and temperature",
+        "D": "Shape of the conductor"
+      },
+      "correctAnswer": "C",
+      "explanation": "Resistivity is an intrinsic property independent of dimensions."
+    },
+    {
+      "id": 11,
+      "question": "A wire of resistance R is stretched to double its length. Its new resistance will be:",
+      "options": {
+        "A": "2R",
+        "B": "4R",
+        "C": "R/2",
+        "D": "R/4"
+      },
+      "correctAnswer": "B",
+      "explanation": "L′ = 2L and A′ = A/2 R′ = ρ(2L)/(A/2) = 4ρL/A = 4R"
+    },
+    {
+      "id": 12,
+      "question": "The heating effect of current in a resistor is given by:",
+      "options": {
+        "A": "VIt",
+        "B": "I²Rt",
+        "C": "V²t/R",
+        "D": "All of these"
+      },
+      "correctAnswer": "D",
+      "explanation": "All formulas come from P = VI and Ohm’s law."
+    },
+    {
+      "id": 13,
+      "question": "A 100 W, 220 V bulb is connected to a 110 V supply. The power consumed will be:",
+      "options": {
+        "A": "50 W",
+        "B": "25 W",
+        "C": "100 W",
+        "D": "75 W"
+      },
+      "correctAnswer": "B",
+      "explanation": "R = V²/P = 220²/100 = 484 Ω New power: P = 110²/484 = 25 W"
+    },
+    {
+      "id": 15,
+      "question": "The drift velocity of electrons in a copper wire is typically of the order of:",
+      "options": {
+        "A": "10⁸ m/s",
+        "B": "10⁻⁴ m/s",
+        "C": "3 × 10³ m/s",
+        "D": "10² m/s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Drift velocity is very slow despite rapid electric signal transmission."
+    },
+    {
+      "id": 16,
+      "question": "The internal resistance of an ideal e.m.f. source is:",
+      "options": {
+        "A": "Infinite",
+        "B": "Zero",
+        "C": "1 Ω",
+        "D": "100 Ω"
+      },
+      "correctAnswer": "B",
+      "explanation": "An ideal source has zero internal resistance."
+    },
+    {
+      "id": 17,
+      "question": "In a potentiometer, the balance point is reached when:",
+      "options": {
+        "A": "Current through the galvanometer is maximum",
+        "B": "Potential difference across the wire segment equals the external e.m.f.",
+        "C": "The battery is discharged",
+        "D": "The wire is cut"
+      },
+      "correctAnswer": "B",
+      "explanation": "In null condition, galvanometer current is zero because potentials are equal."
+    },
+    {
+      "id": 18,
+      "question": "A potentiometer is superior to a voltmeter for measuring e.m.f. because:",
+      "options": {
+        "A": "It is cheaper",
+        "B": "It does not draw any current from the source at balance",
+        "C": "It is more portable",
+        "D": "It can measure high currents"
+      },
+      "correctAnswer": "B",
+      "explanation": "Null methods avoid loading effects, giving accurate e.m.f."
+    },
+    {
+      "id": 19,
+      "question": "The unit of resistivity is:",
+      "options": {
+        "A": "Ω·m",
+        "B": "Ω/m",
+        "C": "Ω·m²",
+        "D": "V/A"
+      },
+      "correctAnswer": "A",
+      "explanation": "R = ρL/A Therefore: ρ = RA/L Unit = Ω·m"
+    },
+    {
+      "id": 20,
+      "question": "If n identical resistors each of resistance R are connected in series, the equivalent resistance is:",
+      "options": {
+        "A": "R/n",
+        "B": "n²R",
+        "C": "nR",
+        "D": "R + n"
+      },
+      "correctAnswer": "C",
+      "explanation": "Rs = R + R + ... = nR"
+    },
+    {
+      "id": 21,
+      "question": "In a balanced Wheatstone bridge, the current through the galvanometer is:",
+      "options": {
+        "A": "Maximum",
+        "B": "Zero",
+        "C": "Half of the total current",
+        "D": "Dependent on the battery voltage"
+      },
+      "correctAnswer": "B",
+      "explanation": "Wheatstone bridge balance condition: P/Q = R/S"
+    },
+    {
+      "id": 22,
+      "question": "The temperature coefficient of resistivity α is defined as:",
+      "options": {
+        "A": "Rt/R0t",
+        "B": "(Rt − R0)/(R0ΔT)",
+        "C": "R0/RtΔT",
+        "D": "ΔR/ΔT"
+      },
+      "correctAnswer": "B",
+      "explanation": "Temperature coefficient is fractional resistance change per degree."
+    },
+    {
+      "id": 23,
+      "question": "The resistance of a conductor is 10 Ω. If its length is tripled and area is doubled, the new resistance is:",
+      "options": {
+        "A": "15 Ω",
+        "B": "30 Ω",
+        "C": "6.6 Ω",
+        "D": "60 Ω"
+      },
+      "correctAnswer": "A",
+      "explanation": "R′ = ρ(3L)/(2A) = 1.5(ρL/A) = 1.5 × 10 = 15 Ω"
+    },
+    {
+      "id": 24,
+      "question": "One kilowatt-hour (1 kWh) is equal to:",
+      "options": {
+        "A": "3.6 × 10⁵ J",
+        "B": "3.6 × 10⁶ J",
+        "C": "1000 J",
+        "D": "3600 J"
+      },
+      "correctAnswer": "B",
+      "explanation": "1000 × 3600 = 3.6 × 10⁶ J"
+    },
+    {
+      "id": 25,
+      "question": "The LDR is often used in:",
+      "options": {
+        "A": "Digital thermometers",
+        "B": "Automatic street lights",
+        "C": "Electric heaters",
+        "D": "Transformers"
+      },
+      "correctAnswer": "B",
+      "explanation": "LDR has high resistance in dark and low resistance in light."
+    },
+    {
+      "id": 26,
+      "question": "Current is a ______ quantity and current density is a ______ quantity.",
+      "options": {
+        "A": "Scalar, Scalar",
+        "B": "Vector, Vector",
+        "C": "Scalar, Vector",
+        "D": "Vector, Scalar"
+      },
+      "correctAnswer": "C",
+      "explanation": "Current is scalar while current density is vector."
+    },
+    {
+      "id": 27,
+      "question": "When a cell is in an open circuit, its terminal potential difference is:",
+      "options": {
+        "A": "Zero",
+        "B": "Equal to its e.m.f.",
+        "C": "Less than its e.m.f.",
+        "D": "Greater than its e.m.f."
+      },
+      "correctAnswer": "B",
+      "explanation": "In open circuit: I=0 Therefore: V = E − 0r = E"
+    },
+    {
+      "id": 28,
+      "question": "The sensitivity of a potentiometer can be increased by:",
+      "options": {
+        "A": "Increasing the potential gradient",
+        "B": "Decreasing the length of the wire",
+        "C": "Increasing the length of the wire",
+        "D": "Using a thicker wire"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sensitivity = L/V Longer wire gives smaller potential gradient."
+    },
+    {
+      "id": 29,
+      "question": "Kirchhoff’s loop rule is applied to:",
+      "options": {
+        "A": "Junctions",
+        "B": "Closed paths (loops)",
+        "C": "Resistors only",
+        "D": "Single wires"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kirchhoff’s loop law states that algebraic sum of potentials in a loop is zero."
+    },
+    {
+      "id": 30,
+      "question": "If the diameter of a wire is halved, its resistance becomes:",
+      "options": {
+        "A": "2 times",
+        "B": "4 times",
+        "C": "8 times",
+        "D": "16 times"
+      },
+      "correctAnswer": "B",
+      "explanation": "R ∝ 1/A and A ∝ d² Therefore: R ∝ 1/d² Halving diameter increases resistance by 4 times. 31. (B) Color code: Brown = 1 Black = 0 Red = 10² 10 × 10² = 1000 Ω"
+    },
+    {
+      "id": 31,
+      "question": "A carbon resistor has color bands: Brown, Black, Red. Its resistance is:",
+      "options": {
+        "A": "100 Ω",
+        "B": "1000 Ω",
+        "C": "10 Ω",
+        "D": "1200 Ω"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 32,
+      "question": "The power dissipated in a resistor of resistance R carrying current I is P. If the current is doubled, the power becomes:",
+      "options": {
+        "A": "2P",
+        "B": "4P",
+        "C": "0.5P",
+        "D": "P"
+      },
+      "correctAnswer": "B",
+      "explanation": "P ∝ I² Doubling current makes power 4 times."
+    },
+    {
+      "id": 33,
+      "question": "A potentiometer wire has a length of 10 m. A cell of e.m.f. 1.5 V is balanced at 3 m. The potential gradient is:",
+      "options": {
+        "A": "0.5 V/m",
+        "B": "0.15 V/m",
+        "C": "5 V/m",
+        "D": "0.45 V/m"
+      },
+      "correctAnswer": "A",
+      "explanation": "E = Vw(l/L)"
+    },
+    {
+      "id": 34,
+      "question": "Internal resistance of a cell increases with:",
+      "options": {
+        "A": "Increase in temperature",
+        "B": "Increase in concentration of electrolyte",
+        "C": "Decrease in distance between plates",
+        "D": "Increase in area of plates"
+      },
+      "correctAnswer": "B",
+      "explanation": "High ion concentration hinders ion movement."
+    },
+    {
+      "id": 35,
+      "question": "The slope of a V − I graph for an ohmic conductor represents:",
+      "options": {
+        "A": "Resistivity",
+        "B": "Conductance",
+        "C": "Resistance",
+        "D": "Power"
+      },
+      "correctAnswer": "C",
+      "explanation": "Resistance: R = V/I"
+    },
+    {
+      "id": 36,
+      "question": "For which of the following materials does resistance decrease with temperature?",
+      "options": {
+        "A": "Copper",
+        "B": "Iron",
+        "C": "Silicon (Semiconductor)",
+        "D": "Silver"
+      },
+      "correctAnswer": "C",
+      "explanation": "Semiconductors have negative temperature coefficient."
+    },
+    {
+      "id": 37,
+      "question": "A charge of 60 C flows through a bulb in 1 minute. The current is:",
+      "options": {
+        "A": "60 A",
+        "B": "1 A",
+        "C": "3600 A",
+        "D": "0.5 A"
+      },
+      "correctAnswer": "B",
+      "explanation": "I = Q/t = 60/60 =1A"
+    },
+    {
+      "id": 39,
+      "question": "In Kirchhoff’s First Law, currents entering a junction are taken as ______ and leaving as ______.",
+      "options": {
+        "A": "Negative, Positive",
+        "B": "Positive, Negative",
+        "C": "Zero, Zero",
+        "D": "Positive, Positive\n\n40.\nA potential divider circuit uses two resistors R1 and R2 in series with a source V. The output\nvoltage across R2 is:"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 41,
+      "question": "Potential dividers are used to:",
+      "options": {
+        "A": "Increase the e.m.f. of a battery",
+        "B": "Obtain a desired fraction of the input voltage",
+        "C": "Measure the internal resistance",
+        "D": "Convert AC to DC"
+      },
+      "correctAnswer": "B",
+      "explanation": "Potentiometers act as variable voltage sources."
+    },
+    {
+      "id": 42,
+      "question": "Three 6 Ω resistors are connected in parallel. Their equivalent resistance is:",
+      "options": {
+        "A": "18 Ω",
+        "B": "2 Ω",
+        "C": "3 Ω",
+        "D": "0.5 Ω"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rp = 6/3 =2Ω"
+    },
+    {
+      "id": 43,
+      "question": "The unit of conductance is:",
+      "options": {
+        "A": "Ohm",
+        "B": "Siemens (S or mho)",
+        "C": "Ampere/Volt",
+        "D": "Both B and C\n\n44.\nA galvanometer is used in null methods because:"
+      },
+      "correctAnswer": "D",
+      "explanation": "Conductance is inverse of resistance. Unit = mho or Ω⁻¹"
+    },
+    {
+      "id": 45,
+      "question": "The resistance of a magnum wire is 1 Ω. If a silver wire has 1/3 the length and 1/3 the diameter, its resistance is (given ρAg):",
+      "options": {
+        "A": "3 Ω",
+        "B": "1 Ω",
+        "C": "9 Ω",
+        "D": "Dependent on ρ ratio"
+      },
+      "correctAnswer": "D",
+      "explanation": "R = ρL/A Depends on resistivity ratio."
+    },
+    {
+      "id": 46,
+      "question": "An ammeter should always have ______ resistance.",
+      "options": {
+        "A": "Very high",
+        "B": "Very low",
+        "C": "Infinite",
+        "D": "Negative"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ammeter resistance should be very low."
+    },
+    {
+      "id": 47,
+      "question": "A voltmeter should always have ______ resistance.",
+      "options": {
+        "A": "Very high",
+        "B": "Very low",
+        "C": "Zero",
+        "D": "10 Ω\n\n48.\nIn a metallic wire, the actual flow of charge is due to:"
+      },
+      "correctAnswer": "A",
+      "explanation": "Voltmeter resistance should be very high."
+    },
+    {
+      "id": 49,
+      "question": "The power rating of a resistor is 2 W. If it is 100 Ω, the maximum current it can safely carry is:",
+      "options": {
+        "A": "0.14 A",
+        "B": "200 A",
+        "C": "0.02 A",
+        "D": "1 A"
+      },
+      "correctAnswer": "A",
+      "explanation": "P = I²R 2 = I² × 100 I = √0.02 ≈ 0.14 A"
+    },
+    {
+      "id": 50,
+      "question": "If the resistivity of copper is 1.7 × 10⁻⁸ Ω·m, a 1 m wire with 1 mm² area has resistance:",
+      "options": {
+        "A": "1.7 Ω",
+        "B": "0.017 Ω",
+        "C": "170 Ω",
+        "D": "1.7 × 10⁻⁴ Ω"
+      },
+      "correctAnswer": "B",
+      "explanation": "R = ρL/A = 1.7 × 10⁻⁸ × 1/10⁻⁶ = 0.017 Ω"
+    },
+    {
+      "id": 51,
+      "question": "The direction of drift velocity of electrons is:",
+      "options": {
+        "A": "Same as the direction of electric field",
+        "B": "Opposite to the direction of electric field",
+        "C": "Perpendicular to the electric field",
+        "D": "Random\n\n52.\nThermistors are usually made of:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Electrons move opposite to electric field direction."
+    },
+    {
+      "id": 53,
+      "question": "When two resistors R1 and R2 are in series, the potential difference across R1 is:",
+      "options": {
+        "A": "V",
+        "B": "IR1",
+        "C": "V × (R2/R1)",
+        "D": "I(R1 + R2)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ohm’s law applied locally."
+    },
+    {
+      "id": 54,
+      "question": "To convert a galvanometer into an ammeter, we connect:",
+      "options": {
+        "A": "A high resistance in series",
+        "B": "A low resistance in parallel",
+        "C": "A low resistance in series",
+        "D": "A high resistance in parallel"
+      },
+      "correctAnswer": "B",
+      "explanation": "Shunt resistance bypasses most current. 55. (B) Potential difference is path independent."
+    },
+    {
+      "id": 55,
+      "question": "Kirchhoff’s Second Law follows from the fact that electrostatic field is:",
+      "options": {
+        "A": "Non-conservative",
+        "B": "Conservative",
+        "C": "Magnetic",
+        "D": "Infinite\n\n56.\nThe resistance of a human body (dry) is approximately:"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 57,
+      "question": "The e.m.f. is always ______ than the terminal potential difference when the cell is discharging.",
+      "options": {
+        "A": "Smaller",
+        "B": "Larger",
+        "C": "Equal",
+        "D": "Half"
+      },
+      "correctAnswer": "B",
+      "explanation": "V = E − Ir For a discharging cell, V < E."
+    },
+    {
+      "id": 58,
+      "question": "Potential gradient is expressed in:",
+      "options": {
+        "A": "V·m",
+        "B": "V/m",
+        "C": "J/C",
+        "D": "N/C"
+      },
+      "correctAnswer": "B",
+      "explanation": "Potential gradient = voltage per unit length."
+    },
+    {
+      "id": 59,
+      "question": "A potentiometer can be used to compare:",
+      "options": {
+        "A": "Capacitances",
+        "B": "e.m.f.s of two cells",
+        "C": "Magnetic fields",
+        "D": "Inductances\n\n60.\nIf the current in a circuit is 0.5 A and it flows for 2 hours, the total charge is:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Potentiometer is used to compare unknown e.m.f."
+    },
+    {
+      "id": 61,
+      "question": "Resistance of a superconductor at critical temperature is:",
+      "options": {
+        "A": "Maximum",
+        "B": "Zero",
+        "C": "1 Ω",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Superconductors have ideal conductivity."
+    },
+    {
+      "id": 62,
+      "question": "Manganin is used for standard resistors because it has:",
+      "options": {
+        "A": "High resistivity",
+        "B": "Very low temperature coefficient of resistance",
+        "C": "High melting point",
+        "D": "Low cost"
+      },
+      "correctAnswer": "B",
+      "explanation": "Precision resistors must resist temperature changes."
+    },
+    {
+      "id": 63,
+      "question": "In a circuit, a 12 V battery has internal resistance 1 Ω. If external R = 5 Ω, the terminal voltage is:",
+      "options": {
+        "A": "12 V",
+        "B": "10 V",
+        "C": "2 V",
+        "D": "11 V\n\n64.\nA junction in a circuit is where:"
+      },
+      "correctAnswer": "B",
+      "explanation": "I = 12/(5 + 1) =2A V = E − Ir = 12 − (2 × 1) = 10 V"
+    },
+    {
+      "id": 65,
+      "question": "Power is also defined as the product of:",
+      "options": {
+        "A": "Current and Resistance",
+        "B": "Voltage and Resistance",
+        "C": "Current and Voltage",
+        "D": "Charge and Time"
+      },
+      "correctAnswer": "C",
+      "explanation": "Electric power: P = VI"
+    },
+    {
+      "id": 66,
+      "question": "The resistivity of semiconductors with temperature:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Becomes zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Higher temperature creates more electron-hole pairs."
+    },
+    {
+      "id": 67,
+      "question": "V = IR is a statement of:",
+      "options": {
+        "A": "Faraday’s Law",
+        "B": "Ohm’s Law",
+        "C": "Lenz’s Law",
+        "D": "Coulomb’s Law\n\n68.\nAn ideal voltmeter has ______ resistance."
+      },
+      "correctAnswer": "B",
+      "explanation": "Ohm’s law relates current, voltage, and resistance."
+    },
+    {
+      "id": 69,
+      "question": "The combined resistance of two resistors in series is R1 + R2. This is derived using:",
+      "options": {
+        "A": "Kirchhoff’s First Law",
+        "B": "Kirchhoff’s Second Law",
+        "C": "Newton’s Third Law",
+        "D": "Law of Gravitation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Based on Kirchhoff’s voltage law."
+    },
+    {
+      "id": 70,
+      "question": "A 2 A current flows through a 5 Ω resistor. The potential difference is:",
+      "options": {
+        "A": "10 V",
+        "B": "2.5 V",
+        "C": "0.4 V",
+        "D": "7 V\n\nAnswer key\nQ. No.\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n\nAnswer\nA\nC\nB\nB\nB\nB\nC\nB\nC\nC\nB\nD\nB\nB\nB\nB\nB\nB\nA\nC\nB\nB\nA\nB\n\nQ. No.\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n\nAnswer\nB\nC\nB\nC\nB\nB\nB\nB\nA\nB\nC\nC\nB\nA\nB\nB\nB\nB\nD\nB\nD\nB\nA\nC\n\nQ. No.\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58\n59\n60\n61\n62\n63\n64\n65\n66\n67\n68\n69\n70\n\nAnswer\nA\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nC\nC\nB\nB\nC\nB\nA\n\nDETAILED SOLUTIONS"
+      },
+      "correctAnswer": "A",
+      "explanation": "V = IR =2×5 = 10 V"
+    }
+  ]
+}

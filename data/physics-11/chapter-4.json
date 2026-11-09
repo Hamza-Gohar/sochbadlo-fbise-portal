@@ -1,0 +1,1015 @@
+{
+  "chapterNumber": 4,
+  "chapterTitle": "Rotational & Circular Motion",
+  "totalQuestions": 84,
+  "questions": [
+    {
+      "id": 1,
+      "question": "One radian is approximately equal to:",
+      "options": {
+        "A": "45.3°",
+        "B": "57.3°",
+        "C": "60.0°",
+        "D": "90.0°"
+      },
+      "correctAnswer": "B",
+      "explanation": "One radian equals 180/pi degrees ≈ 57.3 degrees."
+    },
+    {
+      "id": 2,
+      "question": "The angle subtended at the center of a circle by an arc equal to its radius is:",
+      "options": {
+        "A": "1 degree",
+        "B": "1 radian",
+        "C": "π radians",
+        "D": "2π radians"
+      },
+      "correctAnswer": "B",
+      "explanation": "A radian is the angle formed when arc length equals radius. θ = s/r = r/r = 1 radian."
+    },
+    {
+      "id": 3,
+      "question": "The relationship between linear displacement (s) and angular displacement (θ) is:",
+      "options": {
+        "A": "s = rθ",
+        "B": "θ = rs",
+        "C": "s = r/θ",
+        "D": "s = r²θ"
+      },
+      "correctAnswer": "A",
+      "explanation": "Arc length formula: s = rθ (θ must be in radians)."
+    },
+    {
+      "id": 4,
+      "question": "The rate of change of angular displacement is called:",
+      "options": {
+        "A": "Angular acceleration",
+        "B": "Angular velocity",
+        "C": "Centripetal acceleration",
+        "D": "Torque"
+      },
+      "correctAnswer": "B",
+      "explanation": "Angular velocity is change in angular displacement per unit time."
+    },
+    {
+      "id": 5,
+      "question": "The SI unit of angular velocity is:",
+      "options": {
+        "A": "deg/s",
+        "B": "rev/min",
+        "C": "rad/s",
+        "D": "rad/s²"
+      },
+      "correctAnswer": "C",
+      "explanation": "SI unit of angular velocity is radian per second."
+    },
+    {
+      "id": 6,
+      "question": "If a body completes one revolution in 2 seconds, its angular velocity is:",
+      "options": {
+        "A": "π rad/s",
+        "B": "2π rad/s",
+        "C": "0.5π rad/s",
+        "D": "4π rad/s"
+      },
+      "correctAnswer": "A",
+      "explanation": "ω = total angle / time = 2π / 2 = π rad/s."
+    },
+    {
+      "id": 7,
+      "question": "The direction of angular velocity is determined by:",
+      "options": {
+        "A": "Left-hand rule",
+        "B": "Right-hand rule",
+        "C": "Head-to-tail rule",
+        "D": "Fleming’s left-hand rule"
+      },
+      "correctAnswer": "B",
+      "explanation": "Right-hand rule: curled fingers show rotation, thumb shows angular velocity direction."
+    },
+    {
+      "id": 8,
+      "question": "Angular acceleration is defined as the rate of change of:",
+      "options": {
+        "A": "Angular displacement",
+        "B": "Angular velocity",
+        "C": "Linear velocity",
+        "D": "Moment of inertia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Angular acceleration is change in angular velocity per unit time."
+    },
+    {
+      "id": 9,
+      "question": "The relationship between linear velocity (v) and angular velocity (ω) is:",
+      "options": {
+        "A": "v = rω",
+        "B": "ω = rv",
+        "C": "v = r²ω",
+        "D": "v = ω/r"
+      },
+      "correctAnswer": "A",
+      "explanation": "Linear velocity = radius × angular velocity. 10. Correct Option: C Tangential acceleration = r × angular acceleration. If angular velocity is constant, acceleration is zero."
+    },
+    {
+      "id": 10,
+      "question": "A body moving in a circle has constant angular velocity. Its tangential acceleration is:",
+      "options": {
+        "A": "rω²",
+        "B": "v²/r",
+        "C": "Zero",
+        "D": "Constant"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 11,
+      "question": "The acceleration directed towards the center of a circle is:",
+      "options": {
+        "A": "Tangential acceleration",
+        "B": "Centripetal acceleration",
+        "C": "Angular acceleration",
+        "D": "Gravitational acceleration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Centripetal acceleration always points toward the center."
+    },
+    {
+      "id": 12,
+      "question": "Centripetal acceleration is given by:",
+      "options": {
+        "A": "v²/r",
+        "B": "rω",
+        "C": "rω²",
+        "D": "r²ω"
+      },
+      "correctAnswer": "C",
+      "explanation": "Using v = rω gives centripetal acceleration = rω²."
+    },
+    {
+      "id": 13,
+      "question": "The force required to keep a body moving in a circle is:",
+      "options": {
+        "A": "Centrifugal force",
+        "B": "Centripetal force",
+        "C": "Static force",
+        "D": "Magnetic force"
+      },
+      "correctAnswer": "B",
+      "explanation": "Centripetal force is the net inward force keeping circular motion."
+    },
+    {
+      "id": 14,
+      "question": "Centripetal force does no work because:",
+      "options": {
+        "A": "Force is zero",
+        "B": "Displacement is zero",
+        "C": "Force is perpendicular to displacement",
+        "D": "Force is parallel to displacement\n\n15. In circular motion of a stone tied to a string, centripetal force is provided by:"
+      },
+      "correctAnswer": "C",
+      "explanation": "Work done is zero because force is perpendicular to displacement."
+    },
+    {
+      "id": 16,
+      "question": "A car turning on a flat road gets centripetal force from:",
+      "options": {
+        "A": "Normal force",
+        "B": "Friction between tyres and road",
+        "C": "Engine force",
+        "D": "Weight"
+      },
+      "correctAnswer": "B",
+      "explanation": "Static friction prevents car from slipping outward."
+    },
+    {
+      "id": 17,
+      "question": "If speed is doubled, centripetal force becomes:",
+      "options": {
+        "A": "Double",
+        "B": "Half",
+        "C": "Four times",
+        "D": "Eight times"
+      },
+      "correctAnswer": "C",
+      "explanation": "Centripetal force depends on v², so doubling speed makes force four times larger."
+    },
+    {
+      "id": 18,
+      "question": "Resistance to change in rotational motion is called:",
+      "options": {
+        "A": "Inertia",
+        "B": "Moment of inertia",
+        "C": "Torque",
+        "D": "Angular momentum"
+      },
+      "correctAnswer": "B",
+      "explanation": "Moment of inertia is resistance to rotational motion."
+    },
+    {
+      "id": 19,
+      "question": "Moment of inertia of a point mass is:",
+      "options": {
+        "A": "mr",
+        "B": "m/r²",
+        "C": "mr²",
+        "D": "m²r"
+      },
+      "correctAnswer": "C",
+      "explanation": "For a point mass, I = m r²."
+    },
+    {
+      "id": 20,
+      "question": "SI unit of moment of inertia is:",
+      "options": {
+        "A": "kg m",
+        "B": "kg/m²",
+        "C": "kg m²",
+        "D": "N m"
+      },
+      "correctAnswer": "C",
+      "explanation": "Unit of moment of inertia is kg m²."
+    },
+    {
+      "id": 21,
+      "question": "Moment of inertia depends on:",
+      "options": {
+        "A": "Mass",
+        "B": "Distribution of mass",
+        "C": "Axis of rotation",
+        "D": "All of these"
+      },
+      "correctAnswer": "D",
+      "explanation": "Depends on mass, its distribution, and axis of rotation."
+    },
+    {
+      "id": 22,
+      "question": "Rotational analogue of F = ma is:",
+      "options": {
+        "A": "τ = Iα",
+        "B": "L = Iω",
+        "C": "KE = ½Iω²",
+        "D": "τ = rF"
+      },
+      "correctAnswer": "A",
+      "explanation": "Torque causes angular acceleration."
+    },
+    {
+      "id": 23,
+      "question": "The quantity Iω represents:",
+      "options": {
+        "A": "Torque",
+        "B": "Angular momentum",
+        "C": "Energy",
+        "D": "Force"
+      },
+      "correctAnswer": "B",
+      "explanation": "Angular momentum = I × ω."
+    },
+    {
+      "id": 24,
+      "question": "SI unit of angular momentum is:",
+      "options": {
+        "A": "kg m/s",
+        "B": "kg m²/s",
+        "C": "J s",
+        "D": "Both B and C"
+      },
+      "correctAnswer": "D",
+      "explanation": "Unit of angular momentum is kg m²/s. 25. Correct Option: B Angular momentum has both magnitude and direction."
+    },
+    {
+      "id": 25,
+      "question": "Angular momentum is a:",
+      "options": {
+        "A": "Scalar",
+        "B": "Vector (axial vector)",
+        "C": "Scalar only",
+        "D": "Dimensionless"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 26,
+      "question": "Rate of change of angular momentum equals:",
+      "options": {
+        "A": "Force",
+        "B": "Torque",
+        "C": "Power",
+        "D": "Velocity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Torque equals rate of change of angular momentum."
+    },
+    {
+      "id": 27,
+      "question": "Angular momentum is conserved when:",
+      "options": {
+        "A": "No force",
+        "B": "No external torque",
+        "C": "Constant speed",
+        "D": "Constant mass"
+      },
+      "correctAnswer": "B",
+      "explanation": "If no external torque, angular momentum is conserved."
+    },
+    {
+      "id": 28,
+      "question": "Ice skater spins faster when pulling arms in due to:",
+      "options": {
+        "A": "Energy conservation",
+        "B": "Angular momentum conservation",
+        "C": "Torque increase",
+        "D": "Mass increase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pulling arms in reduces inertia, increasing angular speed."
+    },
+    {
+      "id": 29,
+      "question": "When arms are pulled in, moment of inertia:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains same",
+        "D": "Becomes zero\n\n30. Rotational kinetic energy is given by:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reducing radius reduces moment of inertia."
+    },
+    {
+      "id": 31,
+      "question": "Moment of inertia of a hoop is:",
+      "options": {
+        "A": "½MR²",
+        "B": "MR²",
+        "C": "2/5MR²",
+        "D": "1/12MR²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hoop has all mass at same radius: I = MR²."
+    },
+    {
+      "id": 32,
+      "question": "Moment of inertia of a solid disc is:",
+      "options": {
+        "A": "½MR²",
+        "B": "MR²",
+        "C": "2/3MR²",
+        "D": "1/4MR²"
+      },
+      "correctAnswer": "A",
+      "explanation": "Disc has distributed mass: I = 1/2 MR²."
+    },
+    {
+      "id": 33,
+      "question": "A rolling body has:",
+      "options": {
+        "A": "Only translational KE",
+        "B": "Only rotational KE",
+        "C": "Both translational and rotational KE",
+        "D": "No KE"
+      },
+      "correctAnswer": "C",
+      "explanation": "Body shows both rotation and translation."
+    },
+    {
+      "id": 34,
+      "question": "Which reaches first down an incline?",
+      "options": {
+        "A": "Solid sphere",
+        "B": "Solid cylinder",
+        "C": "Hoop",
+        "D": "All same"
+      },
+      "correctAnswer": "A",
+      "explanation": "Solid sphere has least moment of inertia, so it rolls fastest."
+    },
+    {
+      "id": 35,
+      "question": "Satellites appear weightless because:",
+      "options": {
+        "A": "No gravity",
+        "B": "Free fall condition",
+        "C": "No atmosphere",
+        "D": "No mass"
+      },
+      "correctAnswer": "B",
+      "explanation": "Objects in orbit feel weightless due to free fall."
+    },
+    {
+      "id": 36,
+      "question": "Artificial gravity is created by:",
+      "options": {
+        "A": "Increasing mass",
+        "B": "Rotation",
+        "C": "Magnetism",
+        "D": "Speed of light"
+      },
+      "correctAnswer": "B",
+      "explanation": "Centrifugal effect is a pseudo force in rotating frame."
+    },
+    {
+      "id": 37,
+      "question": "Geostationary satellite period is:",
+      "options": {
+        "A": "1 hour",
+        "B": "12 hours",
+        "C": "24 hours",
+        "D": "365 days"
+      },
+      "correctAnswer": "A",
+      "explanation": "Derived relation: frequency depends on radius and gravity."
+    },
+    {
+      "id": 38,
+      "question": "Orbital velocity near Earth is:",
+      "options": {
+        "A": "11.2 km/s",
+        "B": "7.9 km/s",
+        "C": "9.8 m/s",
+        "D": "3×10⁸ m/s"
+      },
+      "correctAnswer": "C",
+      "explanation": "Geostationary satellite rotates once every 24 hours."
+    },
+    {
+      "id": 39,
+      "question": "Dimension of angular momentum is:",
+      "options": {
+        "A": "[ML²T⁻¹]",
+        "B": "[MLT⁻¹]",
+        "C": "[ML²T⁻²]",
+        "D": "[MLT⁻²]"
+      },
+      "correctAnswer": "B",
+      "explanation": "Orbital speed approximately 7.9 km/s. 40. Correct Option: A Angular momentum dimension: mass × length² × time⁻¹."
+    },
+    {
+      "id": 40,
+      "question": "Angular displacement behaves as a vector for:",
+      "options": {
+        "A": "Large values",
+        "B": "Small values",
+        "C": "All cases",
+        "D": "Never"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 41,
+      "question": "1 revolution is equal to:",
+      "options": {
+        "A": "π rad",
+        "B": "2π rad",
+        "C": "360 rad",
+        "D": "57.3 rad"
+      },
+      "correctAnswer": "B",
+      "explanation": "Finite rotations are not commutative."
+    },
+    {
+      "id": 42,
+      "question": "The angular speed of the second hand of a watch is:",
+      "options": {
+        "A": "π/30 rad/s",
+        "B": "π/60 rad/s",
+        "C": "2π rad/s",
+        "D": "π/1800 rad/s"
+      },
+      "correctAnswer": "B",
+      "explanation": "One revolution equals 2π radians."
+    },
+    {
+      "id": 43,
+      "question": "The centripetal force is always to the velocity of the particle:",
+      "options": {
+        "A": "Parallel",
+        "B": "Anti-parallel",
+        "C": "Perpendicular",
+        "D": "At 45°"
+      },
+      "correctAnswer": "A",
+      "explanation": "ω = 2π / 60 = π/30 rad/s."
+    },
+    {
+      "id": 44,
+      "question": "If a person sits on a rotating turntable and stretches his arms, the angular velocity:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains same",
+        "D": "Becomes zero\n\n45. The moment of inertia of a thin rod about its center is:"
+      },
+      "correctAnswer": "C",
+      "explanation": "Force and velocity are perpendicular in circular motion."
+    },
+    {
+      "id": 46,
+      "question": "A flywheel is used in engines to:",
+      "options": {
+        "A": "Increase speed",
+        "B": "Smooth out fluctuations in energy",
+        "C": "Decrease friction",
+        "D": "Decrease weight"
+      },
+      "correctAnswer": "A",
+      "explanation": "Standard result for rod’s moment of inertia."
+    },
+    {
+      "id": 47,
+      "question": "The ratio of angular momentum to linear momentum is:",
+      "options": {
+        "A": "r",
+        "B": "r²",
+        "C": "1/r",
+        "D": "m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Flywheels store rotational energy and stabilize motion."
+    },
+    {
+      "id": 48,
+      "question": "If Earth shrinks to half its radius, the duration of day will:",
+      "options": {
+        "A": "Increase",
+        "B": "Decrease",
+        "C": "Remain same",
+        "D": "Double"
+      },
+      "correctAnswer": "A",
+      "explanation": "Angular momentum = r × linear momentum magnitude ratio equals r."
+    },
+    {
+      "id": 49,
+      "question": "A centrifuge is used to separate particles based on:",
+      "options": {
+        "A": "Charge",
+        "B": "Density",
+        "C": "Color",
+        "D": "Magnetic properties"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reducing radius reduces inertia, increasing rotational speed."
+    },
+    {
+      "id": 50,
+      "question": "In a centrifuge, heavier particles move:",
+      "options": {
+        "A": "Toward center",
+        "B": "Away from center",
+        "C": "Stop",
+        "D": "Upwards"
+      },
+      "correctAnswer": "B",
+      "explanation": "Centrifugation separates particles by density."
+    },
+    {
+      "id": 51,
+      "question": "Angular acceleration for constant angular velocity is:",
+      "options": {
+        "A": "Constant",
+        "B": "Zero",
+        "C": "Variable",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Denser particles move outward in rotation."
+    },
+    {
+      "id": 52,
+      "question": "A fan slows from 600 rpm to rest in 10 s. Angular acceleration is:",
+      "options": {
+        "A": "−2π rad/s²",
+        "B": "−20π rad/s²",
+        "C": "−60 rad/s²",
+        "D": "−10 rad/s²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Constant angular velocity means zero angular acceleration."
+    },
+    {
+      "id": 53,
+      "question": "Velocity of rim of wheel (r = 0.5 m, 120 rpm) is:",
+      "options": {
+        "A": "π m/s",
+        "B": "2π m/s",
+        "C": "60 m/s",
+        "D": "2 m/s"
+      },
+      "correctAnswer": "A",
+      "explanation": "Convert rpm to rad/s, then use angular acceleration formula."
+    },
+    {
+      "id": 54,
+      "question": "Ratio of centripetal accelerations for radii r and 2r (same speed):",
+      "options": {
+        "A": "1:2",
+        "B": "2:1",
+        "C": "1:4",
+        "D": "4:1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Linear speed = radius × angular velocity. 55. Correct Option: B Acceleration is inversely proportional to radius."
+    },
+    {
+      "id": 55,
+      "question": "Work done by torque is:",
+      "options": {
+        "A": "τθ",
+        "B": "½τθ",
+        "C": "Iω",
+        "D": "Fd"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 56,
+      "question": "Power in rotational motion is:",
+      "options": {
+        "A": "τα",
+        "B": "τω",
+        "C": "Lω",
+        "D": "τ/ω"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rotational work = torque × angle."
+    },
+    {
+      "id": 57,
+      "question": "If string of whirling stone breaks, it moves:",
+      "options": {
+        "A": "Toward center",
+        "B": "Radially inward",
+        "C": "Along tangent",
+        "D": "Vertically upward"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rotational power = torque × angular velocity."
+    },
+    {
+      "id": 58,
+      "question": "Angle between centripetal and tangential acceleration is:",
+      "options": {
+        "A": "0°",
+        "B": "45°",
+        "C": "90°",
+        "D": "180°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Object moves tangentially when force is removed."
+    },
+    {
+      "id": 59,
+      "question": "Centripetal force for m = 2 kg, r = 1 m, ω = 2 rad/s is:",
+      "options": {
+        "A": "4 N",
+        "B": "8 N",
+        "C": "2 N",
+        "D": "1 N\n\n60. Torque is zero if:"
+      },
+      "correctAnswer": "C",
+      "explanation": "Centripetal force is inward, velocity is tangential."
+    },
+    {
+      "id": 61,
+      "question": "A hoop and disc (same mass & radius), greater inertia is of:",
+      "options": {
+        "A": "Disc",
+        "B": "Hoop",
+        "C": "Both same",
+        "D": "Depends"
+      },
+      "correctAnswer": "C",
+      "explanation": "If angular acceleration is zero, torque is zero."
+    },
+    {
+      "id": 62,
+      "question": "Mud flying off wheels is due to:",
+      "options": {
+        "A": "Centripetal force",
+        "B": "Inertia",
+        "C": "Friction",
+        "D": "Gravity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hoop has greater moment of inertia than disc."
+    },
+    {
+      "id": 63,
+      "question": "To increase rotational speed without torque:",
+      "options": {
+        "A": "Increase mass",
+        "B": "Decrease moment of inertia",
+        "C": "Increase inertia",
+        "D": "Heat object"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mud leaves tangentially due to inertia."
+    },
+    {
+      "id": 64,
+      "question": "Rotational KE fraction in rolling sphere is:",
+      "options": {
+        "A": "2/7",
+        "B": "5/7",
+        "C": "1/2",
+        "D": "2/5"
+      },
+      "correctAnswer": "B",
+      "explanation": "Decreasing inertia increases angular velocity."
+    },
+    {
+      "id": 65,
+      "question": "In rigid body rotation, all particles have same:",
+      "options": {
+        "A": "Linear velocity",
+        "B": "Angular velocity",
+        "C": "Momentum",
+        "D": "Energy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Total kinetic energy includes rotational + translational parts."
+    },
+    {
+      "id": 66,
+      "question": "If radius doubles and speed halves, centripetal acceleration:",
+      "options": {
+        "A": "Same",
+        "B": "Double",
+        "C": "Half",
+        "D": "1/8"
+      },
+      "correctAnswer": "B",
+      "explanation": "All points rotate through same angle."
+    },
+    {
+      "id": 67,
+      "question": "Earth rotates from:",
+      "options": {
+        "A": "East to West",
+        "B": "West to East",
+        "C": "North to South",
+        "D": "South to North"
+      },
+      "correctAnswer": "D",
+      "explanation": "New acceleration decreases due to change in radius and speed."
+    },
+    {
+      "id": 68,
+      "question": "Satellite in circular orbit has:",
+      "options": {
+        "A": "Constant velocity",
+        "B": "Constant speed",
+        "C": "Constant acceleration",
+        "D": "No acceleration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Earth rotates west to east causing sunrise in east."
+    },
+    {
+      "id": 69,
+      "question": "Moment of inertia is also called:",
+      "options": {
+        "A": "Second moment of mass",
+        "B": "First moment of mass",
+        "C": "Impulse",
+        "D": "Couple"
+      },
+      "correctAnswer": "B",
+      "explanation": "Speed constant, direction changing → acceleration present. 70. Correct Option: A Moment of inertia is integral of r² dm."
+    },
+    {
+      "id": 70,
+      "question": "Torque required for unit angular acceleration equals:",
+      "options": {
+        "A": "Momentum",
+        "B": "Force",
+        "C": "Moment of inertia",
+        "D": "Energy"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 71,
+      "question": "Slowest rolling object down incline:",
+      "options": {
+        "A": "Sphere",
+        "B": "Disc",
+        "C": "Hoop",
+        "D": "All same"
+      },
+      "correctAnswer": "C",
+      "explanation": "Torque equals moment of inertia times angular acceleration."
+    },
+    {
+      "id": 72,
+      "question": "Bohr model shows:",
+      "options": {
+        "A": "Conservation of mass",
+        "B": "Quantization of angular momentum",
+        "C": "Newton’s law",
+        "D": "Energy loss"
+      },
+      "correctAnswer": "C",
+      "explanation": "Higher inertia means lower acceleration."
+    },
+    {
+      "id": 73,
+      "question": "If angular momentum is zero:",
+      "options": {
+        "A": "Body at rest",
+        "B": "No rotation",
+        "C": "No external torque",
+        "D": "No motion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Angular momentum is quantized in Bohr model."
+    },
+    {
+      "id": 74,
+      "question": "Torque on planet due to gravity is:",
+      "options": {
+        "A": "GMm/r²",
+        "B": "Zero",
+        "C": "mr²α",
+        "D": "Constant\n\n75. Conserved quantity in planetary motion is:"
+      },
+      "correctAnswer": "C",
+      "explanation": "Zero angular momentum means no rotation."
+    },
+    {
+      "id": 76,
+      "question": "Wheel reaches 20 rad/s in 5 s, angle rotated is:",
+      "options": {
+        "A": "100 rad",
+        "B": "50 rad",
+        "C": "25 rad",
+        "D": "10 rad"
+      },
+      "correctAnswer": "C",
+      "explanation": "With zero torque, angular momentum stays constant."
+    },
+    {
+      "id": 77,
+      "question": "Ballerina extends arms, angular momentum:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Becomes zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Use average angular velocity formula."
+    },
+    {
+      "id": 78,
+      "question": "SI unit of angular acceleration is:",
+      "options": {
+        "A": "rad/s",
+        "B": "rad/s²",
+        "C": "m/s²",
+        "D": "rev/s²"
+      },
+      "correctAnswer": "C",
+      "explanation": "No external torque → angular momentum conserved."
+    },
+    {
+      "id": 79,
+      "question": "Relation between torque and angular momentum:",
+      "options": {
+        "A": "τ = dL/dt",
+        "B": "L = dτ/dt",
+        "C": "τ = Lω",
+        "D": "τ = L/t"
+      },
+      "correctAnswer": "B",
+      "explanation": "Angular acceleration unit is rad/s²."
+    },
+    {
+      "id": 80,
+      "question": "Center of gravity of hollow sphere is:",
+      "options": {
+        "A": "Surface",
+        "B": "Center",
+        "C": "Outside",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fundamental relation between torque and momentum."
+    },
+    {
+      "id": 81,
+      "question": "Satellite KE in terms of U is:",
+      "options": {
+        "A": "U",
+        "B": "−U/2",
+        "C": "2U",
+        "D": "U/2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Symmetry places center of gravity at geometric center."
+    },
+    {
+      "id": 82,
+      "question": "Total KE of rigid body is sum of KEs of:",
+      "options": {
+        "A": "All particles",
+        "B": "Center only",
+        "C": "Surface only",
+        "D": "None"
+      },
+      "correctAnswer": "B",
+      "explanation": "Orbital energy relations: kinetic and potential energy linked."
+    },
+    {
+      "id": 83,
+      "question": "Point of contact in rolling has velocity:",
+      "options": {
+        "A": "v",
+        "B": "2v",
+        "C": "Zero",
+        "D": "v/2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rigid body energy equals sum of particle energies."
+    },
+    {
+      "id": 84,
+      "question": "Centrifugal force is:",
+      "options": {
+        "A": "Real force",
+        "B": "Pseudo force",
+        "C": "Gravitational force",
+        "D": "Nuclear force"
+      },
+      "correctAnswer": "C",
+      "explanation": "Rolling without slipping: translation equals rotation effect. 85. Correct Option: B Centrifugal force appears only in rotating frame."
+    },
+    {
+      "id": 85,
+      "question": "Banking of roads is done to:",
+      "options": {
+        "A": "Reduce friction",
+        "B": "Provide centripetal force",
+        "C": "Increase speed",
+        "D": "Decoration"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 86,
+      "question": "Lift of airplane is based on:",
+      "options": {
+        "A": "Centripetal force",
+        "B": "Bernoulli principle",
+        "C": "Torque",
+        "D": "Angular momentum"
+      },
+      "correctAnswer": "B",
+      "explanation": "Banked road provides centripetal force via normal reaction."
+    },
+    {
+      "id": 87,
+      "question": "Tension in vertical circle is maximum at:",
+      "options": {
+        "A": "Top",
+        "B": "Bottom",
+        "C": "Side",
+        "D": "Same everywhere"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pressure difference can create upward lift force."
+    },
+    {
+      "id": 88,
+      "question": "Minimum speed at top of vertical circle:",
+      "options": {
+        "A": "gR",
+        "B": "√gR",
+        "C": "√5gR",
+        "D": "2gR"
+      },
+      "correctAnswer": "B",
+      "explanation": "At bottom, tension equals weight plus centripetal force."
+    },
+    {
+      "id": 89,
+      "question": "Rotational motion is also called:",
+      "options": {
+        "A": "Linear motion",
+        "B": "Spin motion",
+        "C": "Random motion",
+        "D": "Translational motion\n\n90. Angular displacement is a vector for:"
+      },
+      "correctAnswer": "B",
+      "explanation": "At top, minimum speed condition gives v = sqrt(gr)."
+    }
+  ]
+}

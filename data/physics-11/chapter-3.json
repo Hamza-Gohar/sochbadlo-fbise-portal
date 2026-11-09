@@ -1,0 +1,943 @@
+{
+  "chapterNumber": 3,
+  "chapterTitle": "Force & Motion",
+  "totalQuestions": 78,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The area under a velocity-time graph represents:",
+      "options": {
+        "A": "Acceleration",
+        "B": "Force",
+        "C": "Displacement",
+        "D": "Momentum"
+      },
+      "correctAnswer": "C",
+      "explanation": "The area under a velocity-time graph represents displacement because it is equal to velocity × time."
+    },
+    {
+      "id": 2,
+      "question": "A body starts from rest and moves with a uniform acceleration of 2 m/s². The displacement in 5 seconds is:",
+      "options": {
+        "A": "10 m",
+        "B": "25 m",
+        "C": "50 m",
+        "D": "5 m"
+      },
+      "correctAnswer": "C",
+      "explanation": "Using equation of motion: s = ut + 1/2 at² Here u = 0, a = 2, t = 5 s = 1/2 × 2 × 25 = 25 m"
+    },
+    {
+      "id": 3,
+      "question": "In projectile motion, the horizontal component of velocity:",
+      "options": {
+        "A": "Increases with time",
+        "B": "Decreases with time",
+        "C": "Remains constant",
+        "D": "Becomes zero at the peak"
+      },
+      "correctAnswer": "C",
+      "explanation": "Horizontal velocity remains constant because there is no acceleration in horizontal direction (ignoring air resistance)."
+    },
+    {
+      "id": 4,
+      "question": "At the maximum height of a projectile, its vertical velocity is:",
+      "options": {
+        "A": "Maximum",
+        "B": "Minimum (non-zero)",
+        "C": "Zero",
+        "D": "Equal to the initial velocity"
+      },
+      "correctAnswer": "C",
+      "explanation": "At maximum height, vertical velocity becomes zero."
+    },
+    {
+      "id": 5,
+      "question": "The trajectory of a projectile is a:",
+      "options": {
+        "A": "Circle",
+        "B": "Straight line",
+        "C": "Parabola",
+        "D": "Hyperbola"
+      },
+      "correctAnswer": "C",
+      "explanation": "Projectile motion follows a parabolic path due to constant gravity and uniform horizontal motion."
+    },
+    {
+      "id": 6,
+      "question": "A ball is thrown horizontally from a height. Its vertical acceleration is:",
+      "options": {
+        "A": "0",
+        "B": "9.8 m/s²",
+        "C": "Variable",
+        "D": "Equal to its horizontal velocity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Only gravity acts vertically, so vertical acceleration is 9.8 m/s² downward."
+    },
+    {
+      "id": 7,
+      "question": "The range of a projectile is maximum when the angle of projection is:",
+      "options": {
+        "A": "30°",
+        "B": "45°",
+        "C": "60°",
+        "D": "90°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Range is maximum at 45° because sin(2θ) becomes 1."
+    },
+    {
+      "id": 8,
+      "question": "Which pair of angles will result in the same range for a projectile launched with the same speed?",
+      "options": {
+        "A": "20° and 50°",
+        "B": "35° and 55°",
+        "C": "40° and 60°",
+        "D": "30° and 45°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Angles 35° and 55° are complementary (sum = 90°), giving same range."
+    },
+    {
+      "id": 9,
+      "question": "The time of flight of a projectile is given by the formula:",
+      "options": {
+        "A": "vi sin θ / g",
+        "B": "2vi sin θ / g",
+        "C": "vi² sin 2θ / g",
+        "D": "vi² sin²θ / 2g"
+      },
+      "correctAnswer": "B",
+      "explanation": "Time of flight = 2u sinθ / g"
+    },
+    {
+      "id": 10,
+      "question": "If a projectile is launched at 90°, its range will be:",
+      "options": {
+        "A": "Maximum",
+        "B": "Zero",
+        "C": "Half of the maximum",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "At 90°, motion is vertical so horizontal range is zero."
+    },
+    {
+      "id": 11,
+      "question": "Newton’s second law of motion is mathematically expressed as:",
+      "options": {
+        "A": "F = m/a",
+        "B": "F = mv",
+        "C": "F = ma",
+        "D": "F = Δp/Δt"
+      },
+      "correctAnswer": "C",
+      "explanation": "Newton’s second law: F = ma"
+    },
+    {
+      "id": 13,
+      "question": "A change in momentum is known as:",
+      "options": {
+        "A": "Force",
+        "B": "Impulse",
+        "C": "Torque",
+        "D": "Acceleration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Impulse is change in momentum."
+    },
+    {
+      "id": 14,
+      "question": "The law of conservation of momentum is valid in:",
+      "options": {
+        "A": "Elastic collisions only",
+        "B": "Inelastic collisions only",
+        "C": "All isolated systems",
+        "D": "Systems with external forces"
+      },
+      "correctAnswer": "C",
+      "explanation": "Momentum is conserved only in isolated systems."
+    },
+    {
+      "id": 15,
+      "question": "In an elastic collision, which quantity is NOT conserved?",
+      "options": {
+        "A": "Total Momentum",
+        "B": "Total Kinetic Energy",
+        "C": "Total Energy",
+        "D": "None of the above (all are conserved)"
+      },
+      "correctAnswer": "D",
+      "explanation": "In elastic collisions, momentum and kinetic energy both are conserved."
+    },
+    {
+      "id": 16,
+      "question": "In a perfectly inelastic collision, the objects:",
+      "options": {
+        "A": "Bounce back with same speed",
+        "B": "Stick together after collision",
+        "C": "Stop immediately",
+        "D": "Gain kinetic energy"
+      },
+      "correctAnswer": "B",
+      "explanation": "In perfectly inelastic collision, objects stick together."
+    },
+    {
+      "id": 17,
+      "question": "The slope of a displacement-time graph gives:",
+      "options": {
+        "A": "Acceleration",
+        "B": "Distance",
+        "C": "Velocity",
+        "D": "Speed"
+      },
+      "correctAnswer": "C",
+      "explanation": "Slope of displacement-time graph gives velocity."
+    },
+    {
+      "id": 18,
+      "question": "If the velocity-time graph is a straight line parallel to the time axis, the acceleration is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Uniformly increasing"
+      },
+      "correctAnswer": "C",
+      "explanation": "Zero slope means zero acceleration (constant velocity). 19. Correct Option: B Momentum = mv = 1 × 10 = 10 kg m/s"
+    },
+    {
+      "id": 19,
+      "question": "A 1 kg mass moving at 10 m/s has a momentum of:",
+      "options": {
+        "A": "5 kg m/s",
+        "B": "10 kg m/s",
+        "C": "20 kg m/s",
+        "D": "100 kg m/s"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "When a bullet is fired from a gun, the gun recoils because of:",
+      "options": {
+        "A": "Conservation of mass",
+        "B": "Conservation of energy",
+        "C": "Conservation of momentum",
+        "D": "Newton’s first law"
+      },
+      "correctAnswer": "C",
+      "explanation": "Gun recoils due to conservation of momentum."
+    },
+    {
+      "id": 21,
+      "question": "For a projectile, the maximum height reached is:",
+      "options": {
+        "A": "vi² sin²θ / g",
+        "B": "vi² sin²θ / 2g",
+        "C": "vi² sin 2θ / g",
+        "D": "vi sin θ / g"
+      },
+      "correctAnswer": "B",
+      "explanation": "Maximum height depends on square of vertical velocity component."
+    },
+    {
+      "id": 22,
+      "question": "If air resistance is considered, the range of a projectile:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains the same",
+        "D": "Becomes zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Air resistance reduces range."
+    },
+    {
+      "id": 23,
+      "question": "An object thrown at 45° has a range R. What is its range if thrown at 135°?",
+      "options": {
+        "A": "R",
+        "B": "2R",
+        "C": "0",
+        "D": "Not possible"
+      },
+      "correctAnswer": "A",
+      "explanation": "Angles 45° and 135° give same range (theoretical symmetry)."
+    },
+    {
+      "id": 24,
+      "question": "The rate of change of momentum is equal to:",
+      "options": {
+        "A": "Work",
+        "B": "Power",
+        "C": "Applied Force",
+        "D": "Kinetic Energy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Rate of change of momentum equals force."
+    },
+    {
+      "id": 25,
+      "question": "A body of mass m is moving with velocity v. If the mass is doubled and velocity is halved, the momentum:",
+      "options": {
+        "A": "Doubles",
+        "B": "Halves",
+        "C": "Remains the same",
+        "D": "Quadruples"
+      },
+      "correctAnswer": "C",
+      "explanation": "Momentum remains same when mass doubles and velocity halves."
+    },
+    {
+      "id": 26,
+      "question": "Friction is a force that always:",
+      "options": {
+        "A": "Supports motion",
+        "B": "Opposes relative motion",
+        "C": "Is perpendicular to the surface",
+        "D": "Depends on area of contact"
+      },
+      "correctAnswer": "B",
+      "explanation": "Friction always opposes relative motion."
+    },
+    {
+      "id": 27,
+      "question": "A ball is dropped from a height h. Its velocity just before hitting the ground is:",
+      "options": {
+        "A": "gh",
+        "B": "√gh",
+        "C": "√2gh",
+        "D": "2gh"
+      },
+      "correctAnswer": "C",
+      "explanation": "v = √(2gh)"
+    },
+    {
+      "id": 28,
+      "question": "Which law of motion explains the “jerk” forward when a bus suddenly stops?",
+      "options": {
+        "A": "Newton’s First Law",
+        "B": "Newton’s Second Law",
+        "C": "Newton’s Third Law",
+        "D": "Law of Gravitation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sudden stopping shows inertia (Newton’s first law)."
+    },
+    {
+      "id": 29,
+      "question": "The product of mass and velocity is:",
+      "options": {
+        "A": "Impulse",
+        "B": "Momentum",
+        "C": "Force",
+        "D": "Inertia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Momentum = mass × velocity."
+    },
+    {
+      "id": 30,
+      "question": "If two bodies of different masses have the same momentum, the lighter body will have:",
+      "options": {
+        "A": "More Kinetic Energy",
+        "B": "Less Kinetic Energy",
+        "C": "Same Kinetic Energy",
+        "D": "Zero Kinetic Energy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lighter body has more kinetic energy when momentum is same."
+    },
+    {
+      "id": 31,
+      "question": "The acceleration of a body moving with constant velocity is:",
+      "options": {
+        "A": "9.8 m/s²",
+        "B": "1 m/s²",
+        "C": "0",
+        "D": "Variable"
+      },
+      "correctAnswer": "C",
+      "explanation": "Constant velocity means zero acceleration."
+    },
+    {
+      "id": 32,
+      "question": "In an elastic collision of two equal masses, where one is initially at rest:",
+      "options": {
+        "A": "They stick together",
+        "B": "They exchange their velocities",
+        "C": "Both come to rest",
+        "D": "The first one continues moving with double speed"
+      },
+      "correctAnswer": "B",
+      "explanation": "Equal masses exchange velocities in elastic collision."
+    },
+    {
+      "id": 33,
+      "question": "The engine of a car provides a constant force. The acceleration:",
+      "options": {
+        "A": "Increases with time",
+        "B": "Decreases with time",
+        "C": "Remains constant",
+        "D": "Depends on velocity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Constant force gives constant acceleration."
+    },
+    {
+      "id": 34,
+      "question": "A projectile’s path is determined by:",
+      "options": {
+        "A": "Gravity only",
+        "B": "Inertia only",
+        "C": "Both Gravity and Inertia",
+        "D": "Air pressure only"
+      },
+      "correctAnswer": "C",
+      "explanation": "Projectile motion depends on gravity and inertia."
+    },
+    {
+      "id": 35,
+      "question": "The dimension of impulse is same as that of:",
+      "options": {
+        "A": "Force",
+        "B": "Momentum",
+        "C": "Energy",
+        "D": "Power"
+      },
+      "correctAnswer": "B",
+      "explanation": "Impulse has same dimension as momentum."
+    },
+    {
+      "id": 36,
+      "question": "The range of a projectile is same as the maximum height when tan θ is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "0.5"
+      },
+      "correctAnswer": "C",
+      "explanation": "Relation shows tanθ = 4 (from simplification)."
+    },
+    {
+      "id": 37,
+      "question": "If the time of flight of a projectile is 4 seconds, the time taken to reach maximum height is:",
+      "options": {
+        "A": "1 s",
+        "B": "2 s",
+        "C": "4 s",
+        "D": "8 s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Time to reach max height is half of total flight time."
+    },
+    {
+      "id": 38,
+      "question": "Which of the following is a vector quantity?",
+      "options": {
+        "A": "Distance",
+        "B": "Speed",
+        "C": "Displacement",
+        "D": "Mass"
+      },
+      "correctAnswer": "C",
+      "explanation": "Displacement is vector quantity."
+    },
+    {
+      "id": 39,
+      "question": "The area under a force-time graph gives:",
+      "options": {
+        "A": "Work done",
+        "B": "Power",
+        "C": "Change in momentum",
+        "D": "Acceleration"
+      },
+      "correctAnswer": "C",
+      "explanation": "Force-time graph area gives change in momentum."
+    },
+    {
+      "id": 40,
+      "question": "Rocket propulsion is based on:",
+      "options": {
+        "A": "First law of motion",
+        "B": "Law of conservation of mass",
+        "C": "Newton’s third law and conservation of momentum",
+        "D": "Pascal’s Law"
+      },
+      "correctAnswer": "C",
+      "explanation": "Rocket works on Newton’s third law and conservation of momentum."
+    },
+    {
+      "id": 41,
+      "question": "A body is moving in a circle with constant speed. Its velocity is:",
+      "options": {
+        "A": "Constant",
+        "B": "Changing",
+        "C": "Zero",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Velocity changes direction in circular motion. 42. Correct Option: C s = 1/2 at²"
+    },
+    {
+      "id": 42,
+      "question": "The distance covered by a body in time t starting from rest with acceleration a is:",
+      "options": {
+        "A": "at",
+        "B": "vt",
+        "C": "1/2 at²",
+        "D": "at²"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 43,
+      "question": "When a force of 1 N acts on a mass of 1 kg, the acceleration is:",
+      "options": {
+        "A": "1 m/s²",
+        "B": "9.8 m/s²",
+        "C": "0.1 m/s²",
+        "D": "10 m/s²"
+      },
+      "correctAnswer": "A",
+      "explanation": "a = F/m = 1/1 = 1 m/s²"
+    },
+    {
+      "id": 44,
+      "question": "In a collision, the total energy is:",
+      "options": {
+        "A": "Always conserved",
+        "B": "Conserved only in elastic collisions",
+        "C": "Never conserved",
+        "D": "Conserved only in inelastic collisions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Total energy is always conserved."
+    },
+    {
+      "id": 45,
+      "question": "A projectile is fired at 30°. If the launch speed is doubled, the range becomes:",
+      "options": {
+        "A": "Double",
+        "B": "Half",
+        "C": "Four times",
+        "D": "Same"
+      },
+      "correctAnswer": "C",
+      "explanation": "Range is proportional to square of velocity."
+    },
+    {
+      "id": 46,
+      "question": "The slope of the velocity-time graph gives:",
+      "options": {
+        "A": "Velocity",
+        "B": "Displacement",
+        "C": "Acceleration",
+        "D": "Force"
+      },
+      "correctAnswer": "C",
+      "explanation": "Slope of v-t graph gives acceleration."
+    },
+    {
+      "id": 47,
+      "question": "An object is moving with constant acceleration. The velocity-time graph is:",
+      "options": {
+        "A": "A curve",
+        "B": "A horizontal line",
+        "C": "An inclined straight line",
+        "D": "A vertical line"
+      },
+      "correctAnswer": "C",
+      "explanation": "Constant acceleration gives straight inclined line."
+    },
+    {
+      "id": 48,
+      "question": "If the net force on a body is zero, it must be:",
+      "options": {
+        "A": "At rest",
+        "B": "Moving with constant velocity",
+        "C": "Either at rest or moving with constant velocity",
+        "D": "Moving with constant acceleration"
+      },
+      "correctAnswer": "C",
+      "explanation": "Net force zero means rest or uniform motion."
+    },
+    {
+      "id": 49,
+      "question": "A passenger in a moving car tosses a coin vertically. The coin falls:",
+      "options": {
+        "A": "Behind him",
+        "B": "In front of him",
+        "C": "Back into his hand",
+        "D": "Outside the car"
+      },
+      "correctAnswer": "C",
+      "explanation": "Coin stays in hand due to inertia."
+    },
+    {
+      "id": 50,
+      "question": "The unit of force “Newton” in terms of base units is:",
+      "options": {
+        "A": "kg m/s",
+        "B": "kg m/s²",
+        "C": "kg m²/s²",
+        "D": "kg m/s³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Newton = kg m/s²"
+    },
+    {
+      "id": 51,
+      "question": "Inertia of a body depends on its:",
+      "options": {
+        "A": "Velocity",
+        "B": "Acceleration",
+        "C": "Mass",
+        "D": "Shape"
+      },
+      "correctAnswer": "C",
+      "explanation": "Inertia depends on mass."
+    },
+    {
+      "id": 52,
+      "question": "During long jump, an athlete runs before jumping to:",
+      "options": {
+        "A": "Gain momentum",
+        "B": "Decrease friction",
+        "C": "Gain potential energy",
+        "D": "Look good"
+      },
+      "correctAnswer": "A",
+      "explanation": "Athlete gains momentum for longer jump."
+    },
+    {
+      "id": 53,
+      "question": "A ball of mass m strikes a wall with velocity v and bounces back with same velocity. The change in momentum is:",
+      "options": {
+        "A": "0",
+        "B": "mv",
+        "C": "2mv",
+        "D": "−mv"
+      },
+      "correctAnswer": "C",
+      "explanation": "Change in momentum = 2mv"
+    },
+    {
+      "id": 54,
+      "question": "A system is “isolated” if:",
+      "options": {
+        "A": "Its temperature is constant",
+        "B": "No external force acts on it",
+        "C": "It is in a vacuum",
+        "D": "Its mass is zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "No external force means isolated system."
+    },
+    {
+      "id": 55,
+      "question": "The ratio of displacement to distance is always:",
+      "options": {
+        "A": "Less than 1",
+        "B": "Greater than 1",
+        "C": "Less than or equal to 1",
+        "D": "Equal to 1"
+      },
+      "correctAnswer": "C",
+      "explanation": "Displacement is always less than or equal to distance."
+    },
+    {
+      "id": 56,
+      "question": "A body thrown vertically upwards reaches a maximum height H. The total distance covered on returning to the starting point is:",
+      "options": {
+        "A": "H",
+        "B": "0",
+        "C": "2H",
+        "D": "H/2"
+      },
+      "correctAnswer": "C",
+      "explanation": "Total distance = 2H"
+    },
+    {
+      "id": 57,
+      "question": "What remains constant for a projectile even in the presence of air resistance?",
+      "options": {
+        "A": "Horizontal velocity",
+        "B": "Vertical acceleration (g)",
+        "C": "Total energy",
+        "D": "None of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "With air resistance nothing remains strictly constant."
+    },
+    {
+      "id": 58,
+      "question": "The range of a projectile at 15° is 50 m. At 45°, the range will be:",
+      "options": {
+        "A": "50 m",
+        "B": "100 m",
+        "C": "150 m",
+        "D": "200 m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Range at 45° is double that at 15° case."
+    },
+    {
+      "id": 59,
+      "question": "For a body falling freely, the distance covered in the 1st, 2nd, and 3rd seconds are in the ratio:",
+      "options": {
+        "A": "1:2:3",
+        "B": "1:4:9",
+        "C": "1:3:5",
+        "D": "1:1:1"
+      },
+      "correctAnswer": "C",
+      "explanation": "Odd number ratio: 1 : 3 : 5"
+    },
+    {
+      "id": 60,
+      "question": "If the mass of a projectile is doubled, its time of flight:",
+      "options": {
+        "A": "Doubles",
+        "B": "Halves",
+        "C": "Remains unchanged",
+        "D": "Becomes four times"
+      },
+      "correctAnswer": "C",
+      "explanation": "Mass does not affect time of flight."
+    },
+    {
+      "id": 61,
+      "question": "A cricketer moves his hands backwards while catching a ball to:",
+      "options": {
+        "A": "Increase the impulse",
+        "B": "Decrease the time of impact",
+        "C": "Decrease the force by increasing the time of impact",
+        "D": "Catch the ball at a higher point"
+      },
+      "correctAnswer": "C",
+      "explanation": "Increasing time reduces force (impulse concept)."
+    },
+    {
+      "id": 62,
+      "question": "The coefficient of restitution for a perfectly elastic collision is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "0.5",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Elastic collision coefficient = 1"
+    },
+    {
+      "id": 63,
+      "question": "When two bodies of equal mass undergo an elastic collision in 1-D, they:",
+      "options": {
+        "A": "Exchange velocities",
+        "B": "Move together",
+        "C": "Come to rest",
+        "D": "Bounce at 90°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equal masses exchange velocities."
+    },
+    {
+      "id": 64,
+      "question": "Maximum range R of a projectile is 100 m. Its maximum height H at this angle (45°) is:",
+      "options": {
+        "A": "100 m",
+        "B": "50 m",
+        "C": "25 m",
+        "D": "75 m"
+      },
+      "correctAnswer": "C",
+      "explanation": "At 45°, maximum height is one-fourth of range. 65. Correct Option: B Horizontal component remains at top."
+    },
+    {
+      "id": 65,
+      "question": "Velocity of a projectile at the maximum height is:",
+      "options": {
+        "A": "vi sin θ",
+        "B": "vi cos θ",
+        "C": "0",
+        "D": "vi"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 66,
+      "question": "If the momentum of a body is increased by 20%, its kinetic energy increases by:",
+      "options": {
+        "A": "20%",
+        "B": "40%",
+        "C": "44%",
+        "D": "10%"
+      },
+      "correctAnswer": "C",
+      "explanation": "Kinetic energy increases by 44%"
+    },
+    {
+      "id": 67,
+      "question": "Which of the following is NOT an example of translatory motion?",
+      "options": {
+        "A": "A car moving on a road",
+        "B": "A ball falling vertically",
+        "C": "A spinning top",
+        "D": "A sliding block"
+      },
+      "correctAnswer": "C",
+      "explanation": "Spinning top is rotational motion."
+    },
+    {
+      "id": 68,
+      "question": "The angle between velocity and acceleration at the peak of a projectile’s path is:",
+      "options": {
+        "A": "0°",
+        "B": "45°",
+        "C": "90°",
+        "D": "180°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Velocity and acceleration are perpendicular at peak."
+    },
+    {
+      "id": 69,
+      "question": "A constant force acts on a 5 kg mass for 2 seconds, changing its velocity from 3 m/s to 7 m/s. The force is:",
+      "options": {
+        "A": "5 N",
+        "B": "10 N",
+        "C": "20 N",
+        "D": "2.5 N"
+      },
+      "correctAnswer": "B",
+      "explanation": "F = ma = 10 N"
+    },
+    {
+      "id": 70,
+      "question": "Displacement is defined as:",
+      "options": {
+        "A": "Total path length",
+        "B": "Shortest distance between two points",
+        "C": "Product of speed and time",
+        "D": "Change in speed"
+      },
+      "correctAnswer": "B",
+      "explanation": "Displacement is shortest straight-line distance."
+    },
+    {
+      "id": 71,
+      "question": "A body moves 3 m North and then 4 m East. The magnitude of displacement is:",
+      "options": {
+        "A": "7 m",
+        "B": "1 m",
+        "C": "5 m",
+        "D": "12 m"
+      },
+      "correctAnswer": "C",
+      "explanation": "Pythagoras gives 5 m."
+    },
+    {
+      "id": 72,
+      "question": "A body is thrown vertically up with velocity u. The time to reach maximum height is:",
+      "options": {
+        "A": "u/g",
+        "B": "2u/g",
+        "C": "u²/2g",
+        "D": "√2u/g"
+      },
+      "correctAnswer": "A",
+      "explanation": "Time to max height = u/g"
+    },
+    {
+      "id": 73,
+      "question": "The unit of momentum is equivalent to:",
+      "options": {
+        "A": "J s",
+        "B": "N s",
+        "C": "N/m",
+        "D": "J/m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Momentum unit = N s"
+    },
+    {
+      "id": 74,
+      "question": "If the collision is perfectly inelastic, the kinetic energy is:",
+      "options": {
+        "A": "Conserved",
+        "B": "Maximally lost",
+        "C": "Partially lost",
+        "D": "Increased"
+      },
+      "correctAnswer": "B",
+      "explanation": "Maximum kinetic energy is lost."
+    },
+    {
+      "id": 75,
+      "question": "The range of a projectile depends on:",
+      "options": {
+        "A": "Initial velocity",
+        "B": "Angle of projection",
+        "C": "Acceleration due to gravity",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Range depends on all listed factors."
+    },
+    {
+      "id": 76,
+      "question": "An athlete can throw a javelin at a maximum distance of 100 m. How high can he throw it vertically?",
+      "options": {
+        "A": "100 m",
+        "B": "50 m",
+        "C": "25 m",
+        "D": "200 m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vertical height = half of max range case"
+    },
+    {
+      "id": 77,
+      "question": "Average velocity is defined as:",
+      "options": {
+        "A": "Distance / Time",
+        "B": "Total Displacement / Total Time",
+        "C": "Change in Velocity / Time",
+        "D": "Initial + Final velocity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Average velocity = displacement / time"
+    },
+    {
+      "id": 78,
+      "question": "A car travels at 60 km/h for 1 hour and 40 km/h for the next hour. The average speed is:",
+      "options": {
+        "A": "40 km/h",
+        "B": "50 km/h",
+        "C": "60 km/h",
+        "D": "100 km/h"
+      },
+      "correctAnswer": "B",
+      "explanation": "Average speed = 50 km/h"
+    },
+    {
+      "id": 80,
+      "question": "Two bodies of mass M and m (M > m) are dropped from the same height. In a vacuum, they will reach the ground:",
+      "options": {
+        "A": "Simultaneously",
+        "B": "M first",
+        "C": "m first",
+        "D": "Depends on their volumes\n\nAnswer key\nQ.No\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n\nAnswer\nC\nB\nC\nC\nC\nB\nB\nB\nB\nB\nC\nC\nB\nC\nD\nB\nC\nC\nB\nC\n\nQ.No\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n\nAnswer\nB\nB\nA\nC\nC\nB\nC\nA\nB\nA\nC\nB\nC\nC\nB\nC\nB\nC\nC\nC\n\nQ.No\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58\n59\n60\n\nAnswer\nB\nC\nA\nA\nC\nC\nC\nC\nC\nB\nC\nA\nC\nB\nC\nC\nD\nB\nC\nC\n\nQ.No\n61\n62\n63\n64\n65\n66\n67\n68\n69\n70\n71\n72\n73\n74\n75\n76\n77\n78\n79\n80\n\nAnswer\nC\nB\nA\nC\nB\nC\nC\nC\nB\nB\nC\nA\nB\nB\nD\nB\nB\nB\nC\nA\n\nHere is your properly written version (no LaTeX, no box format, clean text):"
+      },
+      "correctAnswer": "A",
+      "explanation": "All bodies fall equally in vacuum"
+    }
+  ]
+}

@@ -1,0 +1,943 @@
+{
+  "chapterNumber": 9,
+  "chapterTitle": "Physical Optics",
+  "totalQuestions": 78,
+  "questions": [
+    {
+      "id": 1,
+      "question": "If the amplitude of a progressive wave is tripled, and its frequency is halved, the intensity of the wave changes by a factor of:",
+      "options": {
+        "A": "9/4",
+        "B": "3/2",
+        "C": "9/2",
+        "D": "1/4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Intensity is proportional to amplitude squared and frequency squared. Tripling amplitude increases intensity by 9 times, halving frequency reduces it by 4 times, so net factor = 9/4."
+    },
+    {
+      "id": 2,
+      "question": "Two waves of the same frequency have intensities I and 9I. If they superimpose with a phase difference of π, the resultant intensity will be:",
+      "options": {
+        "A": "10I",
+        "B": "4I",
+        "C": "8I",
+        "D": "16I"
+      },
+      "correctAnswer": "B",
+      "explanation": "Resultant intensity for phase difference π (destructive interference) is (√I1 − √I2)² = (3√I − √I)² = 4I."
+    },
+    {
+      "id": 4,
+      "question": "Distance between 1st node and 4th antinode in stationary wave is:",
+      "options": {
+        "A": "3λ/2",
+        "B": "7λ/4",
+        "C": "5λ/4",
+        "D": "3λ/4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Distance from 1st node to 1st antinode is λ/4, and between antinodes is λ/2, so total = 7λ/4."
+    },
+    {
+      "id": 5,
+      "question": "Distance between adjacent nodes in nth harmonic is:",
+      "options": {
+        "A": "L/n",
+        "B": "2L/n",
+        "C": "L/2n",
+        "D": "L/(n + 1)"
+      },
+      "correctAnswer": "C",
+      "explanation": "In nth harmonic, λ = 2L/n. Distance between adjacent nodes = λ/2 = L/n."
+    },
+    {
+      "id": 6,
+      "question": "If tension increases by 44%, change in wave speed is:",
+      "options": {
+        "A": "44%",
+        "B": "12%",
+        "C": "20%",
+        "D": "22%"
+      },
+      "correctAnswer": "C",
+      "explanation": "Wave speed v ∝ √T. If tension increases by 44%, speed increases by √1.44 = 1.2 → 20% increase."
+    },
+    {
+      "id": 7,
+      "question": "Polarization distinguishes:",
+      "options": {
+        "A": "Light from sound",
+        "B": "Longitudinal from transverse waves",
+        "C": "Stationary from progressive waves",
+        "D": "Reflection from refraction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Only transverse waves can be polarized; sound is longitudinal so it cannot be polarized."
+    },
+    {
+      "id": 8,
+      "question": "Unpolarized light I0 passes through two polarizers at 45°, transmitted intensity is:",
+      "options": {
+        "A": "I0/2",
+        "B": "I0/4",
+        "C": "I0/√2",
+        "D": "I0/8"
+      },
+      "correctAnswer": "B",
+      "explanation": "First polarizer reduces intensity to I0/2. Second gives I = (I0/2) cos²45° = I0/4."
+    },
+    {
+      "id": 9,
+      "question": "Malus’s Law states intensity ∝:",
+      "options": {
+        "A": "cosθ",
+        "B": "sin²θ",
+        "C": "cos²θ",
+        "D": "tanθ"
+      },
+      "correctAnswer": "C",
+      "explanation": "Malus’s Law: intensity ∝ cos²θ."
+    },
+    {
+      "id": 10,
+      "question": "Anti-noise in headphones has:",
+      "options": {
+        "A": "Same frequency, 90° phase shift",
+        "B": "Double frequency, 180° shift",
+        "C": "Same frequency, 180° shift",
+        "D": "Different frequency"
+      },
+      "correctAnswer": "C",
+      "explanation": "Noise cancellation requires same frequency and 180° phase difference for destructive interference."
+    },
+    {
+      "id": 11,
+      "question": "3rd overtone of closed pipe (fundamental f) is:",
+      "options": {
+        "A": "3f",
+        "B": "5f",
+        "C": "7f",
+        "D": "4f\n\n12. Beats: A=256 Hz, B original frequency is:"
+      },
+      "correctAnswer": "C",
+      "explanation": "Closed pipe harmonics are odd multiples: f, 3f, 5f, 7f → 3rd overtone = 7f."
+    },
+    {
+      "id": 13,
+      "question": "Path difference for mth dark fringe:",
+      "options": {
+        "A": "mλ",
+        "B": "(m+1)λ",
+        "C": "(m+1/2)λ",
+        "D": "(2m−1)λ"
+      },
+      "correctAnswer": "C",
+      "explanation": "Dark fringe occurs when path difference = (m + 1/2)λ."
+    },
+    {
+      "id": 14,
+      "question": "Energy in stationary wave:",
+      "options": {
+        "A": "Transferred",
+        "B": "Confined",
+        "C": "Maximum at nodes",
+        "D": "Zero at antinodes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Energy in stationary waves remains confined between nodes; no net transfer occurs."
+    },
+    {
+      "id": 15,
+      "question": "Reflection from rarer medium phase change:",
+      "options": {
+        "A": "180°",
+        "B": "90°",
+        "C": "0°",
+        "D": "360°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Reflection from rarer medium produces no phase change (0°)."
+    },
+    {
+      "id": 16,
+      "question": "A string fixed at both ends vibrates in 3 loops. Frequency is:",
+      "options": {
+        "A": "90 Hz",
+        "B": "40 Hz",
+        "C": "60 Hz",
+        "D": "180 Hz"
+      },
+      "correctAnswer": "A",
+      "explanation": "3 loops mean n = 3. Frequency f = nv/2L = 3×120 / (2×2) = 90 Hz."
+    },
+    {
+      "id": 17,
+      "question": "Wavelength of nth harmonic in open pipe is:",
+      "options": {
+        "A": "2L/n",
+        "B": "4L/n",
+        "C": "L/n",
+        "D": "2L/(2n−1)\n\n18. Does NOT support wave nature of light:"
+      },
+      "correctAnswer": "A",
+      "explanation": "Open pipe: L = nλ/2 so λ = 2L/n."
+    },
+    {
+      "id": 19,
+      "question": "If source distance is doubled, fringe width:",
+      "options": {
+        "A": "Doubles",
+        "B": "Halves",
+        "C": "Same",
+        "D": "Four times"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fringe width β ∝ 1/d, so doubling distance halves fringe width."
+    },
+    {
+      "id": 20,
+      "question": "Beats are due to:",
+      "options": {
+        "A": "Diffraction",
+        "B": "Polarization",
+        "C": "Superposition of slightly different frequencies",
+        "D": "180° phase interference"
+      },
+      "correctAnswer": "C",
+      "explanation": "Beats occur due to superposition of two waves with slightly different frequencies. 21. Correct Answer: (A) Doppler formula gives f′ ≈ 1.11f for vs = v/10."
+    },
+    {
+      "id": 21,
+      "question": "Doppler frequency for source moving v/10 towards observer:",
+      "options": {
+        "A": "1.11f",
+        "B": "0.9f",
+        "C": "1.25f",
+        "D": "f"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 22,
+      "question": "Observer moving away from source:",
+      "options": {
+        "A": "Increases frequency",
+        "B": "Decreases frequency",
+        "C": "No change",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Observer moving away receives fewer wavefronts → frequency decreases."
+    },
+    {
+      "id": 23,
+      "question": "Source + observer moving formula:",
+      "options": {
+        "A": "f(v+vo)/(v−vs)",
+        "B": "f(v−vo)/(v+vs)",
+        "C": "f(v−vo)/(v−vs)",
+        "D": "f(v+vo)/(v+vs)\n\n24. Doppler effect depends on:"
+      },
+      "correctAnswer": "A",
+      "explanation": "Standard Doppler formula for source and observer moving towards each other."
+    },
+    {
+      "id": 25,
+      "question": "Star moving towards Earth shows:",
+      "options": {
+        "A": "Red shift",
+        "B": "Blue shift",
+        "C": "No shift",
+        "D": "Yellow shift"
+      },
+      "correctAnswer": "B",
+      "explanation": "Approaching star shows blue shift (shorter wavelength)."
+    },
+    {
+      "id": 26,
+      "question": "Radar frequency higher reflection means object is:",
+      "options": {
+        "A": "Moving away",
+        "B": "Moving towards",
+        "C": "Stationary",
+        "D": "Perpendicular"
+      },
+      "correctAnswer": "B",
+      "explanation": "Higher frequency reflection indicates object moving towards radar."
+    },
+    {
+      "id": 27,
+      "question": "Medical Doppler application:",
+      "options": {
+        "A": "X-ray",
+        "B": "MRI",
+        "C": "Echocardiography",
+        "D": "CT scan"
+      },
+      "correctAnswer": "C",
+      "explanation": "Echocardiography uses Doppler ultrasound to measure blood flow."
+    },
+    {
+      "id": 28,
+      "question": "Source moving away at speed of sound:",
+      "options": {
+        "A": "2f",
+        "B": "f/2",
+        "C": "0",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "If source moves at speed of sound, frequency becomes half."
+    },
+    {
+      "id": 29,
+      "question": "Police car echo frequency:",
+      "options": {
+        "A": "1125 Hz",
+        "B": "1000 Hz",
+        "C": "1058 Hz",
+        "D": "1111 Hz\n\n30. Red shift shows:"
+      },
+      "correctAnswer": "C",
+      "explanation": "Double Doppler shift gives 1125 Hz."
+    },
+    {
+      "id": 31,
+      "question": "Observer moving towards source changes:",
+      "options": {
+        "A": "Wavelength",
+        "B": "Source frequency",
+        "C": "Relative speed",
+        "D": "Both frequency and wavelength"
+      },
+      "correctAnswer": "C",
+      "explanation": "Wavelength in medium stays same; relative motion changes detection rate."
+    },
+    {
+      "id": 32,
+      "question": "Wavelength in front of moving source:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Same",
+        "D": "Zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Source motion compresses wavelength in front, so wavelength decreases."
+    },
+    {
+      "id": 33,
+      "question": "Light Doppler symmetry because:",
+      "options": {
+        "A": "Longitudinal wave",
+        "B": "Needs medium",
+        "C": "Speed constant for all observers",
+        "D": "Both B and C"
+      },
+      "correctAnswer": "D",
+      "explanation": "Light speed is constant and independent of medium; only relative velocity matters."
+    },
+    {
+      "id": 34,
+      "question": "Bat frequency reflection:",
+      "options": {
+        "A": "41.2 kHz",
+        "B": "38.8 kHz",
+        "C": "40 kHz",
+        "D": "45 kHz"
+      },
+      "correctAnswer": "A",
+      "explanation": "Doppler shift for bat-wall system gives approximately 41.2 kHz."
+    },
+    {
+      "id": 35,
+      "question": "Radar frequency shift proportional to:",
+      "options": {
+        "A": "v²",
+        "B": "√v",
+        "C": "v",
+        "D": "1/v\n\n36. Observer moving away at speed of sound:"
+      },
+      "correctAnswer": "C",
+      "explanation": "Radar frequency shift is directly proportional to speed of object."
+    },
+    {
+      "id": 37,
+      "question": "Doppler NOT observed when:",
+      "options": {
+        "A": "Same velocity direction",
+        "B": "Perpendicular motion",
+        "C": "Circular motion",
+        "D": "All"
+      },
+      "correctAnswer": "D",
+      "explanation": "In all listed cases, no effective change in wavefront interception occurs."
+    },
+    {
+      "id": 38,
+      "question": "Satellite speed measured by:",
+      "options": {
+        "A": "Diffraction",
+        "B": "Beats",
+        "C": "Doppler shift",
+        "D": "Polarization"
+      },
+      "correctAnswer": "C",
+      "explanation": "Doppler effect is used to determine satellite speed."
+    },
+    {
+      "id": 39,
+      "question": "Both moving (opposite directions):",
+      "options": {
+        "A": "500 Hz",
+        "B": "550 Hz",
+        "C": "450 Hz",
+        "D": "600 Hz"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equal speeds cancel Doppler shift → 500 Hz."
+    },
+    {
+      "id": 40,
+      "question": "Source v/2 towards observer:",
+      "options": {
+        "A": "2f",
+        "B": "f/2",
+        "C": "1.5f",
+        "D": "4f"
+      },
+      "correctAnswer": "A",
+      "explanation": "Approaching at v/2 gives frequency doubled → 2f."
+    },
+    {
+      "id": 41,
+      "question": "Touching center of vibrating string:",
+      "options": {
+        "A": "Louder",
+        "B": "Stops",
+        "C": "Second harmonic",
+        "D": "Same\n\n42. Mass per unit length ×4:"
+      },
+      "correctAnswer": "C",
+      "explanation": "Touching midpoint forces second harmonic mode."
+    },
+    {
+      "id": 43,
+      "question": "4th harmonic open pipe:",
+      "options": {
+        "A": "4 nodes 5 antinodes",
+        "B": "5 nodes 4 antinodes",
+        "C": "3 nodes 4 antinodes",
+        "D": "4 nodes 3 antinodes"
+      },
+      "correctAnswer": "A",
+      "explanation": "4th harmonic open pipe has 4 nodes and 5 antinodes. 44. Correct Answer: (B) v = 2Lf = 200 m/s."
+    },
+    {
+      "id": 44,
+      "question": "Wave speed in string:",
+      "options": {
+        "A": "100 m/s",
+        "B": "200 m/s",
+        "C": "50 m/s",
+        "D": "400 m/s"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 45,
+      "question": "Resonance occurs when:",
+      "options": {
+        "A": "f >> natural",
+        "B": "f << natural",
+        "C": "f = natural",
+        "D": "Independent"
+      },
+      "correctAnswer": "C",
+      "explanation": "Resonance occurs when external frequency equals natural frequency."
+    },
+    {
+      "id": 46,
+      "question": "Harmonics of string:",
+      "options": {
+        "A": "f,2f,3f",
+        "B": "f,3f,5f",
+        "C": "f,4f,9f",
+        "D": "f,2f,4f"
+      },
+      "correctAnswer": "A",
+      "explanation": "Strings produce all integer harmonics."
+    },
+    {
+      "id": 47,
+      "question": "Closed pipe ratio:",
+      "options": {
+        "A": "1:2:3",
+        "B": "1:3:5",
+        "C": "1:4:9",
+        "D": "2:4:6\n\n48. Displacement node is:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Closed pipes produce odd harmonics only."
+    },
+    {
+      "id": 49,
+      "question": "Sound quality depends on:",
+      "options": {
+        "A": "Frequency",
+        "B": "Amplitude",
+        "C": "Intensity",
+        "D": "Harmonics"
+      },
+      "correctAnswer": "D",
+      "explanation": "Quality (timbre) depends on harmonics."
+    },
+    {
+      "id": 50,
+      "question": "Stationary wave condition:",
+      "options": {
+        "A": "Different frequency",
+        "B": "Same direction",
+        "C": "Same frequency opposite direction",
+        "D": "Different amplitude"
+      },
+      "correctAnswer": "C",
+      "explanation": "Stationary waves require same frequency and opposite direction."
+    },
+    {
+      "id": 51,
+      "question": "The speed of sound in air is 340 m/s. The length of the shortest closed pipe that resonates with a 170 Hz tuning fork is:",
+      "options": {
+        "A": "1 m",
+        "B": "0.5 m",
+        "C": "0.25 m",
+        "D": "2 m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Closed pipe length = λ/4 → 0.5 m."
+    },
+    {
+      "id": 52,
+      "question": "If the tension in a string is increased by 4 times, the frequency of the fundamental note:",
+      "options": {
+        "A": "Increases by 2 times",
+        "B": "Increases by 4 times",
+        "C": "Decreases by 2 times",
+        "D": "Decreases by 4 times"
+      },
+      "correctAnswer": "A",
+      "explanation": "Frequency ∝ √T, so quadrupling tension doubles frequency."
+    },
+    {
+      "id": 53,
+      "question": "A wave y = 5 sin(0.1x − 2t) is traveling in a medium. Its wave speed is:",
+      "options": {
+        "A": "20 m/s",
+        "B": "0.2 m/s",
+        "C": "5 m/s",
+        "D": "10 m/s"
+      },
+      "correctAnswer": "A",
+      "explanation": "Wave speed = ω/k = 2/0.1 = 20 m/s."
+    },
+    {
+      "id": 54,
+      "question": "Which of the following is a mechanical longitudinal wave?",
+      "options": {
+        "A": "Light wave",
+        "B": "Radio wave",
+        "C": "Sound wave",
+        "D": "X-ray\n\n55. In a stationary wave, the phase difference between particles in two adjacent loops is:"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sound waves are longitudinal mechanical waves."
+    },
+    {
+      "id": 56,
+      "question": "The fundamental frequency of an open pipe is f. If one end is closed, the fundamental frequency becomes:",
+      "options": {
+        "A": "2f",
+        "B": "f/2",
+        "C": "f",
+        "D": "4f"
+      },
+      "correctAnswer": "B",
+      "explanation": "Closed pipe fundamental is half of open pipe."
+    },
+    {
+      "id": 57,
+      "question": "If the diameter of a string is doubled, its fundamental frequency:",
+      "options": {
+        "A": "Becomes half",
+        "B": "Becomes double",
+        "C": "Becomes four times",
+        "D": "Remains same"
+      },
+      "correctAnswer": "A",
+      "explanation": "Frequency ∝ 1/d, so doubling diameter halves frequency."
+    },
+    {
+      "id": 58,
+      "question": "The distance between two consecutive nodes in a stationary wave is 20 cm. The wavelength is:",
+      "options": {
+        "A": "10 cm",
+        "B": "20 cm",
+        "C": "40 cm",
+        "D": "80 cm"
+      },
+      "correctAnswer": "C",
+      "explanation": "λ = 40 cm."
+    },
+    {
+      "id": 59,
+      "question": "Which of the following properties is unique to transverse waves?",
+      "options": {
+        "A": "Interference",
+        "B": "Diffraction",
+        "C": "Refraction",
+        "D": "Polarization"
+      },
+      "correctAnswer": "D",
+      "explanation": "Polarization is unique to transverse waves."
+    },
+    {
+      "id": 60,
+      "question": "Two sound waves of frequencies 400 Hz and 405 Hz are sounded together. The number of beats heard in 2 seconds is:",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "2.5",
+        "D": "0"
+      },
+      "correctAnswer": "B",
+      "explanation": "Beat frequency = 5 Hz → 10 beats in 2 seconds."
+    },
+    {
+      "id": 61,
+      "question": "When light is incident on a polarizer, the transmitted light is:",
+      "options": {
+        "A": "Longitudinal",
+        "B": "Plane polarized",
+        "C": "Unpolarized",
+        "D": "Circularly polarized\n\n62. If two polarizers are placed such that no light passes through them, the angle between\nthem is:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Polarizer produces plane polarized light."
+    },
+    {
+      "id": 63,
+      "question": "The intensity of light becomes 1/8 of its initial unpolarized intensity I₀ after passing through two polarizers. The angle between them is:",
+      "options": {
+        "A": "30°",
+        "B": "45°",
+        "C": "60°",
+        "D": "90°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Intensity becomes I0/8 → angle = 60°."
+    },
+    {
+      "id": 64,
+      "question": "Polarization by reflection was discovered by:",
+      "options": {
+        "A": "Malus",
+        "B": "Brewster",
+        "C": "Huygens",
+        "D": "Newton"
+      },
+      "correctAnswer": "A",
+      "explanation": "Malus discovered polarization by reflection."
+    },
+    {
+      "id": 65,
+      "question": "Liquid Crystal Displays (LCDs) utilize the principle of:",
+      "options": {
+        "A": "Diffraction",
+        "B": "Interference",
+        "C": "Polarization",
+        "D": "Refraction"
+      },
+      "correctAnswer": "C",
+      "explanation": "LCDs use polarization of light."
+    },
+    {
+      "id": 66,
+      "question": "The sky appears blue due to scattering, and this scattered light is:",
+      "options": {
+        "A": "Unpolarized",
+        "B": "Partially polarized",
+        "C": "Completely polarized",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Scattered skylight is partially polarized. 67. Correct Answer: (B) Polaroids reduce glare by blocking polarized reflected light."
+    },
+    {
+      "id": 67,
+      "question": "Sun glasses made of polaroid sheets are better than ordinary colored glasses because:",
+      "options": {
+        "A": "They are cheaper",
+        "B": "They reduce glare by blocking polarized light",
+        "C": "They change the color of objects",
+        "D": "They are more transparent"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 68,
+      "question": "A polarizing filter reduces the intensity of unpolarized light by:",
+      "options": {
+        "A": "25%",
+        "B": "50%",
+        "C": "75%",
+        "D": "100%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Polarizer reduces intensity to half."
+    },
+    {
+      "id": 69,
+      "question": "Longitudinal waves cannot be polarized because:",
+      "options": {
+        "A": "They have low frequency",
+        "B": "Their vibration is parallel to the direction of propagation",
+        "C": "They require a medium",
+        "D": "They are not electromagnetic"
+      },
+      "correctAnswer": "B",
+      "explanation": "Longitudinal waves cannot be polarized."
+    },
+    {
+      "id": 70,
+      "question": "If the intensity of incident polarized light is I, and the analyzer is at 30° to the polarizer, the transmitted intensity is:",
+      "options": {
+        "A": "I/4",
+        "B": "3I/4",
+        "C": "I/2",
+        "D": "√3I/2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Malus’s Law gives 3I/4."
+    },
+    {
+      "id": 71,
+      "question": "To study the internal stress in glass, we use:",
+      "options": {
+        "A": "Interference",
+        "B": "Optical polarimetry",
+        "C": "Doppler effect",
+        "D": "Resonance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Stress causes optical birefringence studied using polarimetry."
+    },
+    {
+      "id": 72,
+      "question": "In a transverse wave, the vibrations are:",
+      "options": {
+        "A": "Along the direction of wave",
+        "B": "Perpendicular to the direction of wave",
+        "C": "Random",
+        "D": "Stationary"
+      },
+      "correctAnswer": "B",
+      "explanation": "Transverse wave vibrations are perpendicular to direction."
+    },
+    {
+      "id": 73,
+      "question": "If an analyzer is rotated through 360°, the intensity of transmitted light:",
+      "options": {
+        "A": "Remains constant",
+        "B": "Becomes zero once",
+        "C": "Becomes maximum twice",
+        "D": "Becomes maximum four times"
+      },
+      "correctAnswer": "C",
+      "explanation": "Intensity shows two maxima in full rotation."
+    },
+    {
+      "id": 74,
+      "question": "Which of the following waves cannot be polarized?",
+      "options": {
+        "A": "Radio waves",
+        "B": "Ultrasound waves",
+        "C": "Microwaves",
+        "D": "Gamma rays"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ultrasound is longitudinal, cannot be polarized."
+    },
+    {
+      "id": 75,
+      "question": "The phenomenon of polarization is used in:",
+      "options": {
+        "A": "3D Movies",
+        "B": "Determining concentration of sugar solutions",
+        "C": "Stress analysis",
+        "D": "All of these"
+      },
+      "correctAnswer": "D",
+      "explanation": "Polarization is used in multiple applications."
+    },
+    {
+      "id": 76,
+      "question": "Gravitational waves were predicted by:",
+      "options": {
+        "A": "Isaac Newton",
+        "B": "Albert Einstein",
+        "C": "Stephen Hawking",
+        "D": "Edwin Hubble\n\n77. The speed of gravitational waves is:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gravitational waves were predicted by Einstein."
+    },
+    {
+      "id": 78,
+      "question": "Laser light is highly coherent. This means:",
+      "options": {
+        "A": "It has a single frequency",
+        "B": "It has a constant phase relationship",
+        "C": "It is very intense",
+        "D": "Both A and B"
+      },
+      "correctAnswer": "D",
+      "explanation": "Laser light is monochromatic and phase coherent."
+    },
+    {
+      "id": 79,
+      "question": "If a source moves with a speed vs = v towards a stationary observer, the apparent frequency is:",
+      "options": {
+        "A": "2f",
+        "B": "f/2",
+        "C": "Zero",
+        "D": "Infinite (Sonic Boom)"
+      },
+      "correctAnswer": "D",
+      "explanation": "At vs = v, frequency tends to infinity (shockwave)."
+    },
+    {
+      "id": 80,
+      "question": "A wave transfers 10 J of energy across 1 m² in 2 s. Its intensity is:",
+      "options": {
+        "A": "20 W/m²",
+        "B": "5 W/m²",
+        "C": "10 W/m²",
+        "D": "2 W/m²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Intensity = Power/Area = 5 W/m²."
+    },
+    {
+      "id": 81,
+      "question": "The frequency of a wave is 500 Hz and its velocity is 350 m/s. The phase difference between two points 0.35 m apart is:",
+      "options": {
+        "A": "π",
+        "B": "π/2",
+        "C": "2π",
+        "D": "π/4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Phase difference = π."
+    },
+    {
+      "id": 82,
+      "question": "A stationary wave is formed in a 120 cm string with 4 loops. The wavelength is:",
+      "options": {
+        "A": "30 cm",
+        "B": "60 cm",
+        "C": "40 cm",
+        "D": "120 cm"
+      },
+      "correctAnswer": "B",
+      "explanation": "λ = 60 cm."
+    },
+    {
+      "id": 83,
+      "question": "When the speed of the source is much smaller than the speed of sound, the Doppler shift Δf is approximately:",
+      "options": {
+        "A": "f(vs/v)",
+        "B": "f(v/vs)",
+        "C": "f(vs²/v²)",
+        "D": "2f\n\n84. If a star is moving away from the earth, the wavelength of the light received:"
+      },
+      "correctAnswer": "A",
+      "explanation": "Small velocity approximation of Doppler formula."
+    },
+    {
+      "id": 85,
+      "question": "The second overtone of a closed pipe is the same as the second overtone of an open pipe. The ratio of their lengths Lc : Lo is:",
+      "options": {
+        "A": "5:6",
+        "B": "2:3",
+        "C": "3:4",
+        "D": "1:2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Length ratio of closed and open pipes = 5:6."
+    },
+    {
+      "id": 86,
+      "question": "The frequency of the kth harmonic of a string fixed at both ends is:",
+      "options": {
+        "A": "kv/(2L)",
+        "B": "kv/(4L)",
+        "C": "v/(2kL)",
+        "D": "(2k − 1)v/(4L)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Harmonic frequency formula for string."
+    },
+    {
+      "id": 87,
+      "question": "When a wave travels from one medium to another, which property does NOT change?",
+      "options": {
+        "A": "Velocity",
+        "B": "Wavelength",
+        "C": "Frequency",
+        "D": "Amplitude"
+      },
+      "correctAnswer": "C",
+      "explanation": "Frequency remains unchanged across media."
+    },
+    {
+      "id": 88,
+      "question": "In an interference pattern, if the two waves are out of phase by 540°, the interference is:",
+      "options": {
+        "A": "Constructive",
+        "B": "Destructive",
+        "C": "Partially constructive",
+        "D": "Super-constructive"
+      },
+      "correctAnswer": "B",
+      "explanation": "540° phase shift gives destructive interference."
+    },
+    {
+      "id": 89,
+      "question": "Which of the following is used to detect the speed of submarines in deep water?",
+      "options": {
+        "A": "RADAR",
+        "B": "SONAR",
+        "C": "Laser",
+        "D": "Infrared"
+      },
+      "correctAnswer": "B",
+      "explanation": "SONAR is used for submarines. 90. Correct Answer: (B) Sound level increase = 10 log(3) ≈ 4.77 dB."
+    },
+    {
+      "id": 90,
+      "question": "The intensity of a sound wave is tripled. The increase in sound level in decibels is:",
+      "options": {
+        "A": "3 dB",
+        "B": "4.77 dB",
+        "C": "9 dB",
+        "D": "10 dB"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    }
+  ]
+}

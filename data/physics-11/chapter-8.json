@@ -1,0 +1,907 @@
+{
+  "chapterNumber": 8,
+  "chapterTitle": "Waves",
+  "totalQuestions": 75,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The branch of physics that deals with the transformation of heat into other forms of energy is:",
+      "options": {
+        "A": "Mechanics",
+        "B": "Thermodynamics",
+        "C": "Electromagnetism",
+        "D": "Optics"
+      },
+      "correctAnswer": "B",
+      "explanation": "Thermodynamics is the branch of physics that studies heat, work, temperature, and their relationship with energy and matter."
+    },
+    {
+      "id": 2,
+      "question": "When two systems are in thermal equilibrium, they must have the same:",
+      "options": {
+        "A": "Pressure",
+        "B": "Volume",
+        "C": "Temperature",
+        "D": "Internal Energy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Two systems are in thermal equilibrium when there is no net heat flow between them, meaning they have the same temperature."
+    },
+    {
+      "id": 3,
+      "question": "The Zeroth Law of Thermodynamics helps define the concept of:",
+      "options": {
+        "A": "Work",
+        "B": "Heat",
+        "C": "Temperature",
+        "D": "Entropy"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Zeroth Law of Thermodynamics defines temperature and states that systems in thermal equilibrium with a third system are in equilibrium with each other."
+    },
+    {
+      "id": 4,
+      "question": "The sum of all microscopic forms of energy of molecules is called:",
+      "options": {
+        "A": "Heat",
+        "B": "External energy",
+        "C": "Internal energy",
+        "D": "Enthalpy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Internal energy is the total microscopic energy of a system, including kinetic and potential energy of molecules."
+    },
+    {
+      "id": 5,
+      "question": "For an ideal gas, internal energy depends only on:",
+      "options": {
+        "A": "Pressure",
+        "B": "Volume",
+        "C": "Temperature",
+        "D": "Nature of gas\n\n6. The equation of state for ideal gas is:"
+      },
+      "correctAnswer": "C",
+      "explanation": "For an ideal gas, internal energy depends only on temperature because there are no intermolecular forces."
+    },
+    {
+      "id": 7,
+      "question": "The value of universal gas constant R is:",
+      "options": {
+        "A": "8.314 J mol⁻¹ K⁻¹",
+        "B": "0.0821 L atm mol⁻¹ K⁻¹",
+        "C": "1.98 cal mol⁻¹ K⁻¹",
+        "D": "8.314 erg mol⁻¹ K⁻¹"
+      },
+      "correctAnswer": "A",
+      "explanation": "The universal gas constant R is 8.314 J mol⁻¹ K⁻¹."
+    },
+    {
+      "id": 8,
+      "question": "Boltzmann constant is defined as:",
+      "options": {
+        "A": "R/NA",
+        "B": "NA/R",
+        "C": "P/T",
+        "D": "V/n"
+      },
+      "correctAnswer": "A",
+      "explanation": "Boltzmann constant is defined as k = R / NA. 9. Correct Option: B Gas pressure is caused by collisions of molecules with the walls of the container."
+    },
+    {
+      "id": 9,
+      "question": "Gas pressure is due to:",
+      "options": {
+        "A": "Intermolecular attraction",
+        "B": "Molecular collisions with walls",
+        "C": "Weight of molecules",
+        "D": "Potential energy"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 10,
+      "question": "Average kinetic energy is proportional to:",
+      "options": {
+        "A": "Pressure",
+        "B": "Absolute temperature",
+        "C": "Volume",
+        "D": "Density"
+      },
+      "correctAnswer": "B",
+      "explanation": "Average kinetic energy of gas molecules is directly proportional to absolute temperature."
+    },
+    {
+      "id": 11,
+      "question": "Absolute zero is temperature at which:",
+      "options": {
+        "A": "Water freezes",
+        "B": "Molecular motion ceases (theoretical)",
+        "C": "Gas liquefies",
+        "D": "Pressure becomes infinite\n\n12. Work done in P-V diagram is:"
+      },
+      "correctAnswer": "B",
+      "explanation": "At absolute zero, molecular motion is theoretically at minimum."
+    },
+    {
+      "id": 13,
+      "question": "First Law of Thermodynamics is conservation of:",
+      "options": {
+        "A": "Mass",
+        "B": "Momentum",
+        "C": "Energy",
+        "D": "Charge"
+      },
+      "correctAnswer": "C",
+      "explanation": "First Law of Thermodynamics is based on conservation of energy."
+    },
+    {
+      "id": 14,
+      "question": "Mathematical form of First Law is:",
+      "options": {
+        "A": "Q = ΔU + W",
+        "B": "Q = ΔU − W",
+        "C": "ΔU = Q + W",
+        "D": "W = Q + ΔU"
+      },
+      "correctAnswer": "A",
+      "explanation": "Q = ΔU + W, meaning heat supplied increases internal energy and does work."
+    },
+    {
+      "id": 15,
+      "question": "Work done by system is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Infinite"
+      },
+      "correctAnswer": "A",
+      "explanation": "Work done by the system is positive when the gas expands."
+    },
+    {
+      "id": 16,
+      "question": "Constant temperature process is:",
+      "options": {
+        "A": "Isobaric",
+        "B": "Isochoric",
+        "C": "Isothermal",
+        "D": "Adiabatic"
+      },
+      "correctAnswer": "C",
+      "explanation": "Isothermal process occurs at constant temperature."
+    },
+    {
+      "id": 17,
+      "question": "In isothermal process ΔU is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Equal to W\n\n18. No heat exchange process is:"
+      },
+      "correctAnswer": "C",
+      "explanation": "For ideal gas in isothermal process, internal energy change is zero."
+    },
+    {
+      "id": 19,
+      "question": "In adiabatic expansion temperature:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Constant",
+        "D": "Zero"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "PV^γ = constant applies to:",
+      "options": {
+        "A": "Isothermal",
+        "B": "Isobaric",
+        "C": "Adiabatic",
+        "D": "Cyclic"
+      },
+      "correctAnswer": "C",
+      "explanation": "PV^γ = constant describes adiabatic process."
+    },
+    {
+      "id": 21,
+      "question": "Cp/Cv is denoted by:",
+      "options": {
+        "A": "α",
+        "B": "β",
+        "C": "γ",
+        "D": "σ"
+      },
+      "correctAnswer": "C",
+      "explanation": "Gamma (γ) is the ratio of Cp to Cv."
+    },
+    {
+      "id": 22,
+      "question": "Relation between Cp and Cv:",
+      "options": {
+        "A": "Cp − Cv = R",
+        "B": "Cv − Cp = R",
+        "C": "Cp/Cv = R",
+        "D": "Cp + Cv = R"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cp − Cv = R (Mayer’s relation)."
+    },
+    {
+      "id": 23,
+      "question": "Cp > Cv because:",
+      "options": {
+        "A": "Internal energy increases more at constant pressure",
+        "B": "Heat used for work + internal energy",
+        "C": "Volume constant",
+        "D": "Pressure increases temperature\n\n24. Cycle returning to initial state is:"
+      },
+      "correctAnswer": "B",
+      "explanation": "At constant pressure, some heat is used for work, so Cp > Cv."
+    },
+    {
+      "id": 25,
+      "question": "In cyclic process ΔU is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Maximum"
+      },
+      "correctAnswer": "C",
+      "explanation": "In a cycle, change in internal energy is zero."
+    },
+    {
+      "id": 26,
+      "question": "Heat engine converts:",
+      "options": {
+        "A": "Work to heat",
+        "B": "Heat to work",
+        "C": "Mechanical to magnetic",
+        "D": "Heat to chemical"
+      },
+      "correctAnswer": "B",
+      "explanation": "Heat engines convert heat into work."
+    },
+    {
+      "id": 27,
+      "question": "Efficiency formula is:",
+      "options": {
+        "A": "W/Qin",
+        "B": "Qin/W",
+        "C": "Qout/Qin",
+        "D": "1 + Qout/Qin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Efficiency = work output / heat input."
+    },
+    {
+      "id": 28,
+      "question": "Second law implies:",
+      "options": {
+        "A": "100% efficiency possible",
+        "B": "No engine is 100% efficient",
+        "C": "Heat flows cold to hot",
+        "D": "Entropy decreases"
+      },
+      "correctAnswer": "B",
+      "explanation": "No engine can convert all heat into work (Second Law). 29. Correct Option: B Carnot efficiency depends only on source and sink temperatures."
+    },
+    {
+      "id": 29,
+      "question": "Carnot efficiency depends on:",
+      "options": {
+        "A": "Substance",
+        "B": "Temperatures",
+        "C": "Pressure",
+        "D": "Volume\n\n30. Carnot efficiency formula:"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 31,
+      "question": "Refrigerator is:",
+      "options": {
+        "A": "Heat engine",
+        "B": "Reverse heat engine",
+        "C": "Heat source",
+        "D": "Adiabatic chamber"
+      },
+      "correctAnswer": "B",
+      "explanation": "Refrigerator works as a reversed heat engine."
+    },
+    {
+      "id": 32,
+      "question": "Measure of disorder is:",
+      "options": {
+        "A": "Enthalpy",
+        "B": "Internal energy",
+        "C": "Entropy",
+        "D": "Temperature"
+      },
+      "correctAnswer": "C",
+      "explanation": "Entropy measures disorder of a system."
+    },
+    {
+      "id": 33,
+      "question": "Entropy of universe in natural processes:",
+      "options": {
+        "A": "Decreases",
+        "B": "Constant",
+        "C": "Increases",
+        "D": "Zero"
+      },
+      "correctAnswer": "C",
+      "explanation": "Entropy of the universe increases in irreversible processes."
+    },
+    {
+      "id": 34,
+      "question": "Heat flows naturally from:",
+      "options": {
+        "A": "Cold to hot",
+        "B": "Hot to cold",
+        "C": "Vacuum",
+        "D": "Equal temperature"
+      },
+      "correctAnswer": "C",
+      "explanation": "Heat flows naturally from hot to cold (Second Law)."
+    },
+    {
+      "id": 35,
+      "question": "Cv for monatomic gas is:",
+      "options": {
+        "A": "3/2 R",
+        "B": "5/2 R",
+        "C": "R",
+        "D": "3R\n\n36. Adiabatic curve is:"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cv for monatomic gas is 3/2 R."
+    },
+    {
+      "id": 37,
+      "question": "Isochoric work done is:",
+      "options": {
+        "A": "PΔV",
+        "B": "Zero",
+        "C": "Maximum",
+        "D": "Q"
+      },
+      "correctAnswer": "B",
+      "explanation": "In isochoric process, work done is zero."
+    },
+    {
+      "id": 38,
+      "question": "If temperature doubles speed increases by:",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "√2",
+        "D": "1/2"
+      },
+      "correctAnswer": "C",
+      "explanation": "Root mean square speed is proportional to square root of temperature. 39. Correct Option: A 1 calorie equals 4.184 joules."
+    },
+    {
+      "id": 39,
+      "question": "1 calorie equals:",
+      "options": {
+        "A": "4.184 J",
+        "B": "8.314 J",
+        "C": "1 J",
+        "D": "0.42 J"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 40,
+      "question": "Heat 500J, work 200J, ΔU is:",
+      "options": {
+        "A": "700 J",
+        "B": "300 J",
+        "C": "-300 J",
+        "D": "500 J"
+      },
+      "correctAnswer": "B",
+      "explanation": "ΔU = 500 − 200 = 300 J."
+    },
+    {
+      "id": 41,
+      "question": "Which of the following is a state function?",
+      "options": {
+        "A": "Heat",
+        "B": "Work",
+        "C": "Internal Energy",
+        "D": "Distance\n\n42. In an isobaric process, which of the following remains constant?"
+      },
+      "correctAnswer": "C",
+      "explanation": "Internal energy is a state function."
+    },
+    {
+      "id": 43,
+      "question": "The Carnot cycle consists of:",
+      "options": {
+        "A": "Two isotherms and two isobars",
+        "B": "Two isotherms and two adiabats",
+        "C": "Two isochores and two adiabats",
+        "D": "Four isotherms"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carnot cycle has two isotherms and two adiabats."
+    },
+    {
+      "id": 44,
+      "question": "The coefficient of performance (COP) of a refrigerator is:",
+      "options": {
+        "A": "Always less than 1",
+        "B": "Heat removed divided by work input",
+        "C": "Work divided by heat removed",
+        "D": "1 minus efficiency"
+      },
+      "correctAnswer": "B",
+      "explanation": "COP = heat removed / work done."
+    },
+    {
+      "id": 45,
+      "question": "The SI unit of entropy is:",
+      "options": {
+        "A": "J/K",
+        "B": "J·K",
+        "C": "J/mol",
+        "D": "Watt"
+      },
+      "correctAnswer": "A",
+      "explanation": "Entropy unit is J/K."
+    },
+    {
+      "id": 46,
+      "question": "If a gas is compressed suddenly, the process is likely:",
+      "options": {
+        "A": "Isothermal",
+        "B": "Adiabatic",
+        "C": "Isobaric",
+        "D": "Isochoric"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sudden compression is approximately adiabatic."
+    },
+    {
+      "id": 47,
+      "question": "A real gas behaves most like an ideal gas at:",
+      "options": {
+        "A": "Low pressure and high temperature",
+        "B": "High pressure and low temperature",
+        "C": "Low pressure and low temperature",
+        "D": "High pressure and high temperature\n\n48. The ratio of R to Boltzmann constant k gives:"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ideal gas behavior occurs at low pressure and high temperature."
+    },
+    {
+      "id": 49,
+      "question": "Which law states that it is impossible to reach absolute zero?",
+      "options": {
+        "A": "First Law",
+        "B": "Second Law",
+        "C": "Third Law",
+        "D": "Zeroth Law"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 50,
+      "question": "The work done in an isochoric process is zero because:",
+      "options": {
+        "A": "Pressure is zero",
+        "B": "Volume change is zero",
+        "C": "Temperature is zero",
+        "D": "Heat is zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Work is zero because volume does not change."
+    },
+    {
+      "id": 51,
+      "question": "If the volume of a gas is halved at constant temperature, the pressure:",
+      "options": {
+        "A": "Halves",
+        "B": "Doubles",
+        "C": "Quadruples",
+        "D": "Remains same"
+      },
+      "correctAnswer": "B",
+      "explanation": "Halving volume doubles pressure."
+    },
+    {
+      "id": 52,
+      "question": "The slope of an adiabatic process is compared to isothermal slope as:",
+      "options": {
+        "A": "1 times",
+        "B": "gamma times",
+        "C": "1/gamma times",
+        "D": "2 times"
+      },
+      "correctAnswer": "B",
+      "explanation": "Adiabatic slope is steeper by factor gamma."
+    },
+    {
+      "id": 53,
+      "question": "Boltzmann constant k has same units as:",
+      "options": {
+        "A": "R",
+        "B": "Entropy",
+        "C": "Heat capacity",
+        "D": "All of these\n\n54. In a refrigerator, heat is rejected to the:"
+      },
+      "correctAnswer": "D",
+      "explanation": "All listed quantities share same energy-related units."
+    },
+    {
+      "id": 55,
+      "question": "A process that can be reversed is:",
+      "options": {
+        "A": "Irreversible",
+        "B": "Reversible",
+        "C": "Natural",
+        "D": "Random"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reversible process can be reversed exactly."
+    },
+    {
+      "id": 56,
+      "question": "Most natural processes are:",
+      "options": {
+        "A": "Reversible",
+        "B": "Irreversible",
+        "C": "Adiabatic",
+        "D": "Isothermal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Natural processes are irreversible."
+    },
+    {
+      "id": 57,
+      "question": "If efficiency is 40% and TH = 500 K, TL is:",
+      "options": {
+        "A": "200 K",
+        "B": "300 K",
+        "C": "400 K",
+        "D": "100 K"
+      },
+      "correctAnswer": "B",
+      "explanation": "TL = 300 K."
+    },
+    {
+      "id": 58,
+      "question": "Internal energy increases during:",
+      "options": {
+        "A": "Adiabatic expansion",
+        "B": "Isothermal expansion",
+        "C": "Adiabatic compression",
+        "D": "Free expansion only"
+      },
+      "correctAnswer": "C",
+      "explanation": "During compression, internal energy increases. 59. Correct Option: C Area of P-V graph represents work done."
+    },
+    {
+      "id": 59,
+      "question": "In a cyclic process, area of P–V graph represents:",
+      "options": {
+        "A": "Internal energy",
+        "B": "Heat absorbed",
+        "C": "Net work done",
+        "D": "Pressure\n\n60. Kinetic theory assumes gas molecules are:"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 61,
+      "question": "Internal energy is a:",
+      "options": {
+        "A": "Path function",
+        "B": "State function",
+        "C": "Vector",
+        "D": "Constant"
+      },
+      "correctAnswer": "B",
+      "explanation": "Internal energy is a state function."
+    },
+    {
+      "id": 62,
+      "question": "Gamma (γ) for diatomic gas is:",
+      "options": {
+        "A": "1.67",
+        "B": "1.40",
+        "C": "1.33",
+        "D": "2.00"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gamma for diatomic gas is 1.40."
+    },
+    {
+      "id": 63,
+      "question": "Work in isobaric process is:",
+      "options": {
+        "A": "P(V2 − V1)",
+        "B": "V(P2 − P1)",
+        "C": "PV ln V",
+        "D": "Zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Work = P(V2 − V1)."
+    },
+    {
+      "id": 64,
+      "question": "RMS speed is:",
+      "options": {
+        "A": "sqrt(3kT/m)",
+        "B": "sqrt(kT/m)",
+        "C": "3kT/m",
+        "D": "sqrt(2kT/m)"
+      },
+      "correctAnswer": "A",
+      "explanation": "RMS speed = sqrt(3kT/m)."
+    },
+    {
+      "id": 65,
+      "question": "PV = constant at constant temperature is:",
+      "options": {
+        "A": "Charles law",
+        "B": "Boyle law",
+        "C": "Avogadro law",
+        "D": "Dalton law\n\n66. Q is positive when:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Boyle’s law: PV = constant."
+    },
+    {
+      "id": 67,
+      "question": "Efficiency of heat engine is:",
+      "options": {
+        "A": "100%",
+        "B": ">100%",
+        "C": "<100%",
+        "D": "0%"
+      },
+      "correctAnswer": "C",
+      "explanation": "Efficiency is always less than 100%."
+    },
+    {
+      "id": 68,
+      "question": "Working substance in Carnot engine:",
+      "options": {
+        "A": "Steam",
+        "B": "Petrol",
+        "C": "Ideal gas",
+        "D": "Water"
+      },
+      "correctAnswer": "C",
+      "explanation": "Carnot engine uses ideal gas. 69. Correct Option: A Heat is energy in transit."
+    },
+    {
+      "id": 69,
+      "question": "Heat is energy in:",
+      "options": {
+        "A": "Transit",
+        "B": "Rest",
+        "C": "Stored form",
+        "D": "Solid state"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 70,
+      "question": "Unit of molar heat capacity:",
+      "options": {
+        "A": "J/kgK",
+        "B": "J/molK",
+        "C": "J/K",
+        "D": "Cal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Unit is J/mol K."
+    },
+    {
+      "id": 71,
+      "question": "Work done when Q=100J and ΔU=60J:",
+      "options": {
+        "A": "160 J",
+        "B": "40 J",
+        "C": "-40 J",
+        "D": "60 J\n\n72. In adiabatic expansion internal energy:"
+      },
+      "correctAnswer": "B",
+      "explanation": "Work = 100 − 60 = 40 J."
+    },
+    {
+      "id": 73,
+      "question": "Carnot efficiency 1 means TL is:",
+      "options": {
+        "A": "0 K",
+        "B": "100 K",
+        "C": "TH",
+        "D": "273 K"
+      },
+      "correctAnswer": "A",
+      "explanation": "Efficiency becomes 1 when TL = 0 K."
+    },
+    {
+      "id": 74,
+      "question": "NOT a thermodynamic variable:",
+      "options": {
+        "A": "Pressure",
+        "B": "Volume",
+        "C": "Color",
+        "D": "Temperature"
+      },
+      "correctAnswer": "C",
+      "explanation": "Color is not a thermodynamic variable."
+    },
+    {
+      "id": 75,
+      "question": "No work when constant:",
+      "options": {
+        "A": "Pressure",
+        "B": "Temperature",
+        "C": "Volume",
+        "D": "Heat"
+      },
+      "correctAnswer": "C",
+      "explanation": "No volume change means no work."
+    },
+    {
+      "id": 76,
+      "question": "Cp for monatomic gas:",
+      "options": {
+        "A": "3/2R",
+        "B": "5/2R",
+        "C": "R",
+        "D": "7/2R"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cp = 5/2 R for monatomic gas."
+    },
+    {
+      "id": 77,
+      "question": "Triple point of water:",
+      "options": {
+        "A": "273.16 K",
+        "B": "273.15 K",
+        "C": "373 K",
+        "D": "0 K\n\n78. Density in kinetic theory equation:"
+      },
+      "correctAnswer": "A",
+      "explanation": "Triple point is 273.16 K."
+    },
+    {
+      "id": 79,
+      "question": "Constant volume process:",
+      "options": {
+        "A": "Isochoric",
+        "B": "Isothermal",
+        "C": "Isobaric",
+        "D": "Adiabatic"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 80,
+      "question": "In isothermal process:",
+      "options": {
+        "A": "Q = ΔU",
+        "B": "Q = W",
+        "C": "W = 0",
+        "D": "Q = 0"
+      },
+      "correctAnswer": "B",
+      "explanation": "At constant temperature, Q = W."
+    },
+    {
+      "id": 81,
+      "question": "In an adiabatic process, the First Law becomes:",
+      "options": {
+        "A": "Q = W",
+        "B": "W = -ΔU",
+        "C": "Q = ΔU",
+        "D": "ΔU = 0"
+      },
+      "correctAnswer": "B",
+      "explanation": "Adiabatic process gives W = −ΔU."
+    },
+    {
+      "id": 82,
+      "question": "Entropy is a measure of the:",
+      "options": {
+        "A": "Energy",
+        "B": "Order",
+        "C": "Degraded energy / disorder",
+        "D": "Velocity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Entropy represents disorder or degraded energy."
+    },
+    {
+      "id": 83,
+      "question": "Temperature scale used in gas laws is:",
+      "options": {
+        "A": "Celsius",
+        "B": "Fahrenheit",
+        "C": "Kelvin",
+        "D": "Rankine\n\n84. Molar volume of ideal gas at STP is:"
+      },
+      "correctAnswer": "C",
+      "explanation": "Kelvin scale is required for gas laws."
+    },
+    {
+      "id": 85,
+      "question": "Gamma (γ) for triatomic gas is approximately:",
+      "options": {
+        "A": "1.67",
+        "B": "1.40",
+        "C": "1.33",
+        "D": "2.00"
+      },
+      "correctAnswer": "C",
+      "explanation": "Triatomic gases have γ ≈ 1.33."
+    },
+    {
+      "id": 86,
+      "question": "For a reversible process, entropy change of universe is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Infinite"
+      },
+      "correctAnswer": "C",
+      "explanation": "Reversible process has zero entropy change of universe."
+    },
+    {
+      "id": 87,
+      "question": "Engine rejecting no heat violates:",
+      "options": {
+        "A": "First Law",
+        "B": "Second Law",
+        "C": "Zeroth Law",
+        "D": "Newton’s Law"
+      },
+      "correctAnswer": "B",
+      "explanation": "Violates Second Law of Thermodynamics."
+    },
+    {
+      "id": 88,
+      "question": "Ideal gas molecules are assumed to have:",
+      "options": {
+        "A": "Perfectly elastic collisions",
+        "B": "Inelastic collisions",
+        "C": "Attractive forces",
+        "D": "No collisions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Gas molecules undergo elastic collisions. 89. Correct Option: B Pressure is inversely proportional to volume."
+    },
+    {
+      "id": 89,
+      "question": "Pressure is inversely proportional to volume at constant temperature:",
+      "options": {
+        "A": "Directly",
+        "B": "Inversely",
+        "C": "Not related",
+        "D": "Exponentially\n\n90. Thermodynamics deals with:"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    }
+  ]
+}

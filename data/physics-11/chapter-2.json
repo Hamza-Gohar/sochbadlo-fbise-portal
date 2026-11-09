@@ -1,0 +1,727 @@
+{
+  "chapterNumber": 2,
+  "chapterTitle": "Vectors & Equilibrium",
+  "totalQuestions": 60,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A vector A lies in a plane. If the coordinate system is rotated by an angle of 30°, then the magnitude of the vector |A|:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains unchanged",
+        "D": "Becomes zero"
+      },
+      "correctAnswer": "C",
+      "explanation": "The magnitude of a vector represents its length, which is a scalar quantity. Rotating the coordinate system changes the components of the vector, but the magnitude remains unchanged."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is the correct representation of a null vector resulting from the cross product of a vector with itself?",
+      "options": {
+        "A": "0",
+        "B": "Ô",
+        "C": "0 vector",
+        "D": "Null vectors cannot be produced by cross products"
+      },
+      "correctAnswer": "B",
+      "explanation": "The cross product of a vector with itself is always a null vector because the angle between the two vectors is 0°, and sin 0° = 0."
+    },
+    {
+      "id": 3,
+      "question": "If the x-component of a vector is positive and the y-component is negative, the vector lies in the:",
+      "options": {
+        "A": "First quadrant",
+        "B": "Second quadrant",
+        "C": "Third quadrant",
+        "D": "Fourth quadrant"
+      },
+      "correctAnswer": "D",
+      "explanation": "A positive x-component and a negative y-component place the vector in the fourth quadrant."
+    },
+    {
+      "id": 4,
+      "question": "The projection of vector A in the direction of vector B is given by:",
+      "options": {
+        "A": "A cos θ",
+        "B": "B cos θ",
+        "C": "A · B",
+        "D": "A × B"
+      },
+      "correctAnswer": "A",
+      "explanation": "The projection of vector A in the direction of vector B is equal to A cos θ."
+    },
+    {
+      "id": 5,
+      "question": "Two vectors act on a point. The magnitude of their resultant is maximum when the angle between them is:",
+      "options": {
+        "A": "0°",
+        "B": "90°",
+        "C": "180°",
+        "D": "45°"
+      },
+      "correctAnswer": "A",
+      "explanation": "The resultant of two vectors is maximum when the angle between them is 0°, meaning both vectors act in the same direction."
+    },
+    {
+      "id": 6,
+      "question": "If |A · B| = |A × B|, the angle between vectors A and B is:",
+      "options": {
+        "A": "0°",
+        "B": "30°",
+        "C": "45°",
+        "D": "90°\n\n7. The magnitude of the cross product of two parallel vectors A and B is:"
+      },
+      "correctAnswer": "C",
+      "explanation": "If |A · B| = |A × B|, then cos θ = sin θ, which gives θ = 45°."
+    },
+    {
+      "id": 8,
+      "question": "Torque is defined as the cross product of position vector r and force F. If F is applied parallel to r, the torque is:",
+      "options": {
+        "A": "Maximum",
+        "B": "rF",
+        "C": "Zero",
+        "D": "Negative"
+      },
+      "correctAnswer": "C",
+      "explanation": "Torque equals rF sin θ. If force acts parallel to the position vector, θ = 0°, so torque becomes zero."
+    },
+    {
+      "id": 9,
+      "question": "The value of i · (j × k) is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "−1",
+        "D": "i"
+      },
+      "correctAnswer": "B",
+      "explanation": "j × k = i and i · i = 1."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is NOT a property of the scalar product?",
+      "options": {
+        "A": "Commutative",
+        "B": "Distributive",
+        "C": "Non-commutative",
+        "D": "A · A = A²"
+      },
+      "correctAnswer": "C",
+      "explanation": "The scalar product is commutative, so saying it is non-commutative is incorrect."
+    },
+    {
+      "id": 11,
+      "question": "If A = 2i + 3j and B = −2i − 3j, the angle between them is:",
+      "options": {
+        "A": "0°",
+        "B": "90°",
+        "C": "180°",
+        "D": "45°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Vector B is the negative of vector A, so the angle between them is 180°."
+    },
+    {
+      "id": 12,
+      "question": "The area of a parallelogram formed by two adjacent vectors A and B is equal to:",
+      "options": {
+        "A": "A · B",
+        "B": "|A × B|²",
+        "C": "AB cos θ",
+        "D": "|A × B|"
+      },
+      "correctAnswer": "B",
+      "explanation": "The magnitude of the cross product gives the area of the parallelogram formed by the two vectors."
+    },
+    {
+      "id": 13,
+      "question": "If a force F of magnitude 10 N acts along the y-axis, its x-component is:",
+      "options": {
+        "A": "10 N",
+        "B": "0 N",
+        "C": "5 N",
+        "D": "7.07 N"
+      },
+      "correctAnswer": "B",
+      "explanation": "A force acting entirely along the y-axis has no x-component."
+    },
+    {
+      "id": 15,
+      "question": "Rectangular components of a vector are:",
+      "options": {
+        "A": "Always equal in magnitude",
+        "B": "Always perpendicular to each other",
+        "C": "Always greater than the vector magnitude",
+        "D": "Independent of the coordinate system"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rectangular components are always perpendicular to each other."
+    },
+    {
+      "id": 16,
+      "question": "If A · B = 0 and A × B = 0, then:",
+      "options": {
+        "A": "A and B are perpendicular",
+        "B": "A and B are parallel",
+        "C": "At least one of the vectors is a null vector",
+        "D": "Angle between them is 45°"
+      },
+      "correctAnswer": "C",
+      "explanation": "A · B = 0 means perpendicular vectors, while A × B = 0 means parallel vectors. This is only possible if one vector is a null vector."
+    },
+    {
+      "id": 17,
+      "question": "For a vector A making an angle θ with the horizontal, if the vertical component is equal to the vector’s magnitude, then θ is:",
+      "options": {
+        "A": "0°",
+        "B": "30°",
+        "C": "45°",
+        "D": "90°"
+      },
+      "correctAnswer": "D",
+      "explanation": "If the vertical component equals the magnitude, then sin θ = 1, giving θ = 90°."
+    },
+    {
+      "id": 18,
+      "question": "The scalar product of two mutually perpendicular vectors is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "AB",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "The dot product of perpendicular vectors is zero. 19. Correct Option: C Electric flux is a scalar quantity obtained from the dot product of electric field and area vectors."
+    },
+    {
+      "id": 19,
+      "question": "Which physical quantity is an example of a scalar product?",
+      "options": {
+        "A": "Torque",
+        "B": "Angular Momentum",
+        "C": "Electric Flux",
+        "D": "Force"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 20,
+      "question": "The magnitude of the vector r = 3i − 4j is:",
+      "options": {
+        "A": "1",
+        "B": "5",
+        "C": "7",
+        "D": "25"
+      },
+      "correctAnswer": "B",
+      "explanation": "Magnitude = √(3² + (−4)²) = √25 = 5."
+    },
+    {
+      "id": 21,
+      "question": "If n̂ is a unit vector perpendicular to both A and B, then A × B is:",
+      "options": {
+        "A": "AB sin θ",
+        "B": "AB cos θ n̂",
+        "C": "AB sin θ n̂",
+        "D": "AB n̂\n\n22. Three vectors satisfy the relation A + B + C = 0. These vectors can form:"
+      },
+      "correctAnswer": "C",
+      "explanation": "The cross product equals AB sin θ multiplied by a unit vector perpendicular to both vectors."
+    },
+    {
+      "id": 23,
+      "question": "The direction of the vector product of two vectors is determined by:",
+      "options": {
+        "A": "Left Hand Rule",
+        "B": "Head to Tail Rule",
+        "C": "Right Hand Rule",
+        "D": "Component Method"
+      },
+      "correctAnswer": "C",
+      "explanation": "The direction of a vector product is determined by the Right Hand Rule."
+    },
+    {
+      "id": 24,
+      "question": "If A × B points along the positive z-axis, and A is along the positive x-axis, then B lies in the:",
+      "options": {
+        "A": "Positive x-direction",
+        "B": "Negative x-direction",
+        "C": "Positive y-direction",
+        "D": "Negative y-direction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Using the Right Hand Rule, B must lie along the positive y-direction."
+    },
+    {
+      "id": 25,
+      "question": "The unit vector along the direction of vector A is given by:",
+      "options": {
+        "A": "A × A",
+        "B": "A/|A|",
+        "C": "|A|/A",
+        "D": "A · A"
+      },
+      "correctAnswer": "B",
+      "explanation": "A unit vector is obtained by dividing the vector by its magnitude."
+    },
+    {
+      "id": 26,
+      "question": "If the angle between two vectors is obtuse (90° < θ < 180°), their dot product is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Imaginary"
+      },
+      "correctAnswer": "B",
+      "explanation": "For an obtuse angle, cos θ is negative, so the dot product is negative."
+    },
+    {
+      "id": 27,
+      "question": "j × k = ?",
+      "options": {
+        "A": "i",
+        "B": "−i",
+        "C": "0",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "j × k = i according to the cyclic order of unit vectors."
+    },
+    {
+      "id": 28,
+      "question": "A vector remains unchanged if:",
+      "options": {
+        "A": "It is rotated through an arbitrary angle",
+        "B": "It is multiplied by a scalar",
+        "C": "It is displaced parallel to itself",
+        "D": "Its cross product is taken with a unit vector"
+      },
+      "correctAnswer": "C",
+      "explanation": "A vector remains unchanged if displaced parallel to itself."
+    },
+    {
+      "id": 29,
+      "question": "The component of vector A along the y-axis is found using:",
+      "options": {
+        "A": "A cos θ (if θ is with x-axis)",
+        "B": "A sin θ (if θ is with x-axis)",
+        "C": "A tan θ",
+        "D": "A/cos θ"
+      },
+      "correctAnswer": "B",
+      "explanation": "The y-component is A sin θ when θ is measured from the x-axis."
+    },
+    {
+      "id": 30,
+      "question": "Which pair of operations is not commutative?",
+      "options": {
+        "A": "Vector addition and Scalar multiplication",
+        "B": "Scalar product and Vector addition",
+        "C": "Vector product and Subtraction",
+        "D": "Vector product and Division"
+      },
+      "correctAnswer": "C",
+      "explanation": "Both subtraction and vector product are non-commutative operations."
+    },
+    {
+      "id": 31,
+      "question": "If A = B, which of the following is correct?",
+      "options": {
+        "A": "A · B = 0",
+        "B": "A × B = 0",
+        "C": "A × B = A²",
+        "D": "A · B = A × B"
+      },
+      "correctAnswer": "B",
+      "explanation": "If A = B, then the angle between them is 0°, so the cross product is zero."
+    },
+    {
+      "id": 32,
+      "question": "The square of the magnitude of a vector A is equal to:",
+      "options": {
+        "A": "A × A",
+        "B": "|A × A|",
+        "C": "A · A",
+        "D": "√(A · A)"
+      },
+      "correctAnswer": "C",
+      "explanation": "The square of the magnitude of a vector equals A · A."
+    },
+    {
+      "id": 33,
+      "question": "Given F = (2, 3) N and d = (4, 1) m, the work done is:",
+      "options": {
+        "A": "5 J",
+        "B": "8 J",
+        "C": "11 J",
+        "D": "14 J"
+      },
+      "correctAnswer": "C",
+      "explanation": "Work done = (2 × 4) + (3 × 1) = 11 J."
+    },
+    {
+      "id": 34,
+      "question": "The scalar product of i and j is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "k",
+        "D": "√2"
+      },
+      "correctAnswer": "A",
+      "explanation": "The dot product of perpendicular unit vectors i and j is zero."
+    },
+    {
+      "id": 35,
+      "question": "If the scalar product of two vectors is equal to the product of their magnitudes, the angle between them is:",
+      "options": {
+        "A": "0°",
+        "B": "60°",
+        "C": "90°",
+        "D": "180°"
+      },
+      "correctAnswer": "A",
+      "explanation": "If A · B = AB, then cos θ = 1 and θ = 0°."
+    },
+    {
+      "id": 36,
+      "question": "Angular momentum L is given by r × p. The direction of L is perpendicular to:",
+      "options": {
+        "A": "Only r",
+        "B": "Only p",
+        "C": "Both r and p",
+        "D": "The axis of rotation\n\n37. What is the angle between i + j and i?"
+      },
+      "correctAnswer": "C",
+      "explanation": "Angular momentum is perpendicular to both position vector and momentum vector."
+    },
+    {
+      "id": 38,
+      "question": "k × i is equal to:",
+      "options": {
+        "A": "j",
+        "B": "−j",
+        "C": "0",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "k × i = j."
+    },
+    {
+      "id": 39,
+      "question": "The magnitude of the resultant of two forces 3 N and 4 N acting at right angles is:",
+      "options": {
+        "A": "1 N",
+        "B": "5 N",
+        "C": "7 N",
+        "D": "12 N"
+      },
+      "correctAnswer": "B",
+      "explanation": "Resultant = √(3² + 4²) = 5 N."
+    },
+    {
+      "id": 41,
+      "question": "If A × B = C, then C · A is:",
+      "options": {
+        "A": "CA",
+        "B": "0",
+        "C": "CA cos θ",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
+    },
+    {
+      "id": 42,
+      "question": "At what angle is the x-component of a vector equal to its y-component?",
+      "options": {
+        "A": "30°",
+        "B": "45°",
+        "C": "60°",
+        "D": "90°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Equal x and y components mean tan θ = 1, therefore θ = 45°."
+    },
+    {
+      "id": 43,
+      "question": "The commutative property holds for:",
+      "options": {
+        "A": "Dot product only",
+        "B": "Cross product only",
+        "C": "Both dot and cross products",
+        "D": "Neither dot nor cross product"
+      },
+      "correctAnswer": "A",
+      "explanation": "The commutative property applies only to the dot product."
+    },
+    {
+      "id": 44,
+      "question": "If the magnitude of the cross product of two vectors is √3 times their dot product, the angle is:",
+      "options": {
+        "A": "30°",
+        "B": "45°",
+        "C": "60°",
+        "D": "90°"
+      },
+      "correctAnswer": "C",
+      "explanation": "If |A × B| = √3(A · B), then tan θ = √3, giving θ = 60°."
+    },
+    {
+      "id": 45,
+      "question": "A vector A has components Ax = −5 and Ay = −5. The direction of the vector is:",
+      "options": {
+        "A": "45°",
+        "B": "135°",
+        "C": "225°",
+        "D": "315°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Negative x and negative y components place the vector in the third quadrant at 225°."
+    },
+    {
+      "id": 46,
+      "question": "i · (i × j) is equal to:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "k",
+        "D": "−1"
+      },
+      "correctAnswer": "A",
+      "explanation": "i × j = k and i · k = 0."
+    },
+    {
+      "id": 47,
+      "question": "Which of the following is a scalar quantity?",
+      "options": {
+        "A": "Displacement",
+        "B": "Electric Field Intensity",
+        "C": "Work",
+        "D": "Momentum"
+      },
+      "correctAnswer": "C",
+      "explanation": "Work is a scalar quantity."
+    },
+    {
+      "id": 48,
+      "question": "The cross product A × A yields:",
+      "options": {
+        "A": "A²",
+        "B": "0 (Null Vector)",
+        "C": "0 (Scalar)",
+        "D": "2A"
+      },
+      "correctAnswer": "B",
+      "explanation": "The cross product of a vector with itself is a null vector."
+    },
+    {
+      "id": 49,
+      "question": "In the expression P = F · v, if the angle between force and velocity is 90°, the power delivered is:",
+      "options": {
+        "A": "Fv",
+        "B": "0",
+        "C": "−Fv",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Power = Fv cos θ. At 90°, cos 90° = 0."
+    },
+    {
+      "id": 50,
+      "question": "Which set of components could belong to a vector of magnitude 5?",
+      "options": {
+        "A": "1, 4",
+        "B": "2, 3",
+        "C": "3, 4",
+        "D": "4, 4"
+      },
+      "correctAnswer": "C",
+      "explanation": "The components 3 and 4 give magnitude 5."
+    },
+    {
+      "id": 51,
+      "question": "The cross product of two vectors is a vector perpendicular to:",
+      "options": {
+        "A": "The first vector only",
+        "B": "The second vector only",
+        "C": "The plane containing both vectors",
+        "D": "The null vector\n\n52. A force of 50 N acts at 30° to the x-axis. The y-component is:"
+      },
+      "correctAnswer": "C",
+      "explanation": "The cross product is perpendicular to the plane containing the two vectors."
+    },
+    {
+      "id": 53,
+      "question": "If A · B = −AB, then the angle between A and B is:",
+      "options": {
+        "A": "0°",
+        "B": "90°",
+        "C": "180°",
+        "D": "270°"
+      },
+      "correctAnswer": "C",
+      "explanation": "If A · B = −AB, then cos θ = −1 and θ = 180°."
+    },
+    {
+      "id": 54,
+      "question": "The value of i × (j × k) is:",
+      "options": {
+        "A": "0",
+        "B": "0 vector",
+        "C": "1",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "j × k = i and i × i = 0."
+    },
+    {
+      "id": 56,
+      "question": "The projection of B on A is given by:",
+      "options": {
+        "A": "(A · B)/A",
+        "B": "(A · B)/B",
+        "C": "(A × B)/A",
+        "D": "A · B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Projection of B on A equals (A · B)/A."
+    },
+    {
+      "id": 57,
+      "question": "Which of the following is correct regarding unit vectors?",
+      "options": {
+        "A": "i² = 0",
+        "B": "i · i = 1",
+        "C": "i × i = 1",
+        "D": "i · j = 1"
+      },
+      "correctAnswer": "B",
+      "explanation": "The dot product of a unit vector with itself equals 1."
+    },
+    {
+      "id": 58,
+      "question": "Two vectors are perpendicular if:",
+      "options": {
+        "A": "Their cross product is zero",
+        "B": "Their dot product is zero",
+        "C": "Their sum is zero",
+        "D": "Their difference is zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Perpendicular vectors have zero dot product."
+    },
+    {
+      "id": 59,
+      "question": "What is the magnitude of the vector product of A = 2i and B = 3j?",
+      "options": {
+        "A": "0",
+        "B": "5",
+        "C": "6",
+        "D": "k"
+      },
+      "correctAnswer": "C",
+      "explanation": "(2i) × (3j) = 6k, whose magnitude is 6."
+    },
+    {
+      "id": 60,
+      "question": "The area of the parallelogram with adjacent sides represented by vectors A and B is given by:",
+      "options": {
+        "A": "A · B",
+        "B": "|A · B|",
+        "C": "A × B",
+        "D": "|A × B|"
+      },
+      "correctAnswer": "D",
+      "explanation": "Area of a parallelogram equals |A × B|."
+    },
+    {
+      "id": 61,
+      "question": "If A = 3i + 4j, then the unit vector Â is:",
+      "options": {
+        "A": "0.6i + 0.8j",
+        "B": "3i + 4j",
+        "C": "0.3i + 0.4j",
+        "D": "5i + 5j"
+      },
+      "correctAnswer": "A",
+      "explanation": "Magnitude of vector = 5, so the unit vector becomes 0.6i + 0.8j."
+    },
+    {
+      "id": 62,
+      "question": "The determinant form is used to calculate:",
+      "options": {
+        "A": "Dot product of 2D vectors",
+        "B": "Cross product of 3D vectors",
+        "C": "Magnitude of a single vector",
+        "D": "Direction cosines"
+      },
+      "correctAnswer": "B",
+      "explanation": "The determinant method is used for calculating cross products in three dimensions."
+    },
+    {
+      "id": 63,
+      "question": "If the direction of A × B is along +k, then the direction of B × A is along:",
+      "options": {
+        "A": "+k",
+        "B": "−k",
+        "C": "+j",
+        "D": "−j"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reversing the order of cross product changes the direction. 64. Correct Option: B A scalar multiplied by a vector gives another vector."
+    },
+    {
+      "id": 65,
+      "question": "i · (j × i) is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "−1",
+        "D": "k"
+      },
+      "correctAnswer": "A",
+      "explanation": "j × i = −k and i · (−k) = 0."
+    },
+    {
+      "id": 66,
+      "question": "If A and B are non-zero vectors and |A + B| = |A − B|, then the angle between them is:",
+      "options": {
+        "A": "0°",
+        "B": "45°",
+        "C": "90°",
+        "D": "180°\n\n67. A vector having zero magnitude and arbitrary direction is called:"
+      },
+      "correctAnswer": "C",
+      "explanation": "If |A + B| = |A − B|, then A · B = 0, meaning vectors are perpendicular."
+    },
+    {
+      "id": 68,
+      "question": "The vector A has magnitude 10 and direction 60° with x-axis. Its y-component is:",
+      "options": {
+        "A": "5",
+        "B": "5√3",
+        "C": "10",
+        "D": "10√3"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ay = 10 sin 60° = 5√3."
+    },
+    {
+      "id": 70,
+      "question": "Which statement is true for the cross product of unit vectors?",
+      "options": {
+        "A": "i × j = k",
+        "B": "i × k = j",
+        "C": "j × i = k",
+        "D": "k × j = i"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to the right-hand rule, i × j = k."
+    }
+  ]
+}
