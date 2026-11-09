@@ -46,19 +46,19 @@ export default function Footer() {
               Class 10th (SSC-II)
             </h4>
             <ul className="text-xs space-y-1.5 text-[var(--color-muted)] font-[family-name:var(--font-display)]">
+              <li className="font-semibold text-emerald-950">Pakistan Studies (6 Units + 10 Simulators)</li>
+              <li className="font-semibold text-amber-900">اردو لازمی (8 Units + 10 Simulators)</li>
+              <li className="font-semibold text-teal-800">ترجمۃ القرآن (8 Units + 10 Simulators)</li>
               <li className="font-semibold text-sky-900">English Compulsory (10 Units + 10 Simulators)</li>
               <li className="font-semibold text-emerald-900">Biology (9 Units + 10 Simulators)</li>
               <li className="font-semibold text-cyan-900">Computer Science (8 Units + 10 Simulators)</li>
               <li className="font-semibold text-amber-900">Chemistry (8 Units + 10 Simulators)</li>
               <li className="font-semibold text-teal-900">Physics (9 Units + 10 Simulators)</li>
               <li className="font-semibold text-blue-900">Mathematics (13 Units + 10 Simulators)</li>
-              <li className="pt-1 text-[11px]">• Narration, Voice, Tenses, Modals & Poetic Devices</li>
-              <li className="text-[11px]">• Genetics, Homeostasis, Reproduction & Biotech</li>
-              <li className="text-[11px]">• Algorithms, Web Design, Data & IoT</li>
-              <li className="text-[11px]">• Equilibrium, Acids/Bases & Organic</li>
-              <li className="text-[11px]">• SHM, Waves, Optics, Electricity & Nuclear</li>
-              <li className="text-[11px]">• Quadratic Equations, Sets & Trigonometry</li>
-              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 60 Board Simulators (2,710 MCQs)</li>
+              <li className="pt-1 text-[11px]">• Foreign Policy, Economy, Urdu Asnaaf, Surahs</li>
+              <li className="text-[11px]">• Narration, Genetics, Algorithms & Organic Chem</li>
+              <li className="text-[11px]">• Waves, Optics, Quadratic Equations & Trig</li>
+              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 90 Board Simulators (3,850 MCQs)</li>
             </ul>
           </div>
 

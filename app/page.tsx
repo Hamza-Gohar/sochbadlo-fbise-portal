@@ -29,6 +29,9 @@ export default function HomePage() {
   const cs10Chapters = getChaptersIndex('cs-10');
   const biology10Chapters = getChaptersIndex('biology-10');
   const english10Chapters = getChaptersIndex('english-10');
+  const pakstudies10Chapters = getChaptersIndex('pakstudies-10');
+  const urdu10Chapters = getChaptersIndex('urdu-10');
+  const tarjuma10Chapters = getChaptersIndex('tarjuma-10');
 
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const biologyTotal = biologyChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -54,6 +57,9 @@ export default function HomePage() {
   const cs10Total = cs10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const biology10Total = biology10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const english10Total = english10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const pakstudies10Total = pakstudies10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const urdu10Total = urdu10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const tarjuma10Total = tarjuma10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
 
   const totalQuestions =
     physicsTotal +
@@ -79,7 +85,10 @@ export default function HomePage() {
     chemistry10Total +
     cs10Total +
     biology10Total +
-    english10Total;
+    english10Total +
+    pakstudies10Total +
+    urdu10Total +
+    tarjuma10Total;
   const totalModules =
     physicsChapters.length +
     biologyChapters.length +
@@ -104,7 +113,10 @@ export default function HomePage() {
     chemistry10Chapters.length +
     cs10Chapters.length +
     biology10Chapters.length +
-    english10Chapters.length;
+    english10Chapters.length +
+    pakstudies10Chapters.length +
+    urdu10Chapters.length +
+    tarjuma10Chapters.length;
 
   return (
     <div className="min-h-screen flex flex-col justify-between">
@@ -124,9 +136,9 @@ export default function HomePage() {
               </h1>
               <p className="text-base sm:text-lg text-[var(--color-ink-2)] max-w-2xl leading-relaxed font-[family-name:var(--font-body)]">
                 Master Federal Board SSC-I (Matric Part 1), SSC-II (Matric Part 2), and HSSC-I (Intermediate Part 1) examinations with authentic chapter-wise test series, instant conceptual explanations,
-                Class 10th English Compulsory (10 units + 10 Section A simulators by Soch Badlo By MAK), Class 10th Biology (9 units + 10 Section A simulators by Lecturer Ma&apos;am Rubina Ashraf & Soch Badlo By MAK), Class 10th Computer Science (8 units + 10 Section A simulators by Lecturer Sabahat Ul Hasan & Soch Badlo By MAK), Class 10th Chemistry (8 units + 10 Section A simulators by Soch Badlo By MAK), Class 10th Physics (9 units + 10 Section A simulators by Soch Badlo By MAK), Class 10th Mathematics (13 units + 10 Section A simulators by Lecturer Jazab & Nimra Abid), Class 9th Biology (10 chapters + 8 Section A simulators by Lecturer Rubina Ashraf), Class 9th Computer Science (7 chapters + 4 Section A simulators by Lecturer Sabahat Ul Hasan & Aryan Ali), Class 9th Chemistry (19 chapters + 4 Section A simulators by Lecturer Ayesha Amjad), Class 9th English Compulsory (7 units + 4 Section A simulators by Lecturer Adeela Naheed), Class 9th Islamiat Compulsory (7 units + 4 Section A simulators by Lecturer Tayabah Rafaqat), Class 9th Urdu Compulsory (7 units + 4 Section A simulators), Class 9th Tarjuma-tul-Quran (9 units + 4 bilingual simulators), Class 9th Mathematics (11 units + 2 Section A simulators), Class 9th Physics (9 units + 2 Section A simulators), Biology (حیاتیات), Chemistry (کیمسٹری with Lecturer Ayesha Amjad rationales),
+                Class 10th Pakistan Studies (6 units + 10 Section A bilingual simulators by Soch Badlo By MAK & Lecturer Tayabah Rafaqat), Class 10th Urdu Compulsory (8 units + 10 Section A simulators by Lecturer Narjis Zaheer & Soch Badlo By MAK), Class 10th Tarjuma-tul-Quran (8 units + 10 Section A bilingual simulators by Lecturer Tayabah Rafaqat & Soch Badlo By MAK), Class 10th English Compulsory (10 units + 10 Section A simulators by Soch Badlo By MAK), Class 10th Biology (9 units + 10 Section A simulators by Lecturer Ma&apos;am Rubina Ashraf & Soch Badlo By MAK), Class 10th Computer Science (8 units + 10 Section A simulators by Lecturer Sabahat Ul Hasan & Soch Badlo By MAK), Class 10th Chemistry (8 units + 10 Section A simulators by Soch Badlo By MAK), Class 10th Physics (9 units + 10 Section A simulators by Soch Badlo By MAK), Class 10th Mathematics (13 units + 10 Section A simulators by Lecturer Jazab & Nimra Abid), Class 9th Biology (10 chapters + 8 Section A simulators by Lecturer Rubina Ashraf), Class 9th Computer Science (7 chapters + 4 Section A simulators by Lecturer Sabahat Ul Hasan & Aryan Ali), Class 9th Chemistry (19 chapters + 4 Section A simulators by Lecturer Ayesha Amjad), Class 9th English Compulsory (7 units + 4 Section A simulators by Lecturer Adeela Naheed), Class 9th Islamiat Compulsory (7 units + 4 Section A simulators by Lecturer Tayabah Rafaqat), Class 9th Urdu Compulsory (7 units + 4 Section A simulators), Class 9th Tarjuma-tul-Quran (9 units + 4 bilingual simulators), Class 9th Mathematics (11 units + 2 Section A simulators), Class 9th Physics (9 units + 2 Section A simulators), Biology (حیاتیات), Chemistry (کیمسٹری with Lecturer Ayesha Amjad rationales),
                 Physics formulas, English syntax & poetic devices, Urdu literature and rhetoric (علمِ بیان و علمِ بدیع), Islamiat Compulsory (اسلامیات لازمی),
-                Tarjuma-tul-Quran (ترجمۃ القرآن المجید), Mathematics step-by-step problem solving, Computer Science logic, and timed board exam simulations.
+                Tarjuma-tul-Quran (ترجمۃ القرآن المجید), Pakistan Studies (مطالعہ پاکستان), Mathematics step-by-step problem solving, Computer Science logic, and timed board exam simulations.
               </p>
             </div>
 
@@ -186,6 +198,9 @@ export default function HomePage() {
           cs10Chapters={cs10Chapters}
           biology10Chapters={biology10Chapters}
           english10Chapters={english10Chapters}
+          pakstudies10Chapters={pakstudies10Chapters}
+          urdu10Chapters={urdu10Chapters}
+          tarjuma10Chapters={tarjuma10Chapters}
         />
 
         {/* Hallmark Editorial Note & Exam Tips */}

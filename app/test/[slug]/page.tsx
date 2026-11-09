@@ -27,6 +27,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   const isGrade10 =
+    chapter.subject === 'pakstudies-10' ||
+    slug.startsWith('pakstudies-10') ||
+    chapter.subject === 'urdu-10' ||
+    slug.startsWith('urdu-10') ||
+    chapter.subject === 'tarjuma-10' ||
+    slug.startsWith('tarjuma-10') ||
     chapter.subject === 'english-10' ||
     slug.startsWith('english-10') ||
     chapter.subject === 'biology-10' ||
@@ -59,7 +65,10 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     chapter.subject === 'biology-9' ||
     slug.startsWith('biology-9');
   let subjectName = 'Physics';
-  if (chapter.subject === 'english-10' || slug.startsWith('english-10')) subjectName = 'English Compulsory (انگریزی لازمی)';
+  if (chapter.subject === 'pakstudies-10' || slug.startsWith('pakstudies-10')) subjectName = 'Pakistan Studies (مطالعہ پاکستان)';
+  else if (chapter.subject === 'urdu-10' || slug.startsWith('urdu-10')) subjectName = 'Urdu Compulsory (اردو لازمی)';
+  else if (chapter.subject === 'tarjuma-10' || slug.startsWith('tarjuma-10')) subjectName = 'Tarjuma-tul-Quran (ترجمۃ القرآن المجید)';
+  else if (chapter.subject === 'english-10' || slug.startsWith('english-10')) subjectName = 'English Compulsory (انگریزی لازمی)';
   else if (chapter.subject === 'biology-10' || slug.startsWith('biology-10')) subjectName = 'Biology (حیاتیات)';
   else if (chapter.subject === 'cs-10' || slug.startsWith('cs-10')) subjectName = 'Computer Science (کمپیوٹر سائنس)';
   else if (chapter.subject === 'chemistry-10' || slug.startsWith('chemistry-10')) subjectName = 'Chemistry (کیمسٹری)';

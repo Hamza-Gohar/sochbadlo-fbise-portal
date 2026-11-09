@@ -3,7 +3,7 @@
 import React, { useState } from 'react';
 import ChapterCard from './ChapterCard';
 import { ChapterMeta } from '../lib/types';
-import { Atom, BookMarked, Calculator, Languages, Cpu, Sparkles, BookOpen, ScrollText, Dna, FlaskConical } from 'lucide-react';
+import { Atom, BookMarked, Calculator, Languages, Cpu, Sparkles, BookOpen, ScrollText, Dna, FlaskConical, Landmark } from 'lucide-react';
 
 interface SubjectTabsProps {
   physicsChapters: ChapterMeta[];
@@ -30,6 +30,9 @@ interface SubjectTabsProps {
   cs10Chapters?: ChapterMeta[];
   biology10Chapters?: ChapterMeta[];
   english10Chapters?: ChapterMeta[];
+  pakstudies10Chapters?: ChapterMeta[];
+  urdu10Chapters?: ChapterMeta[];
+  tarjuma10Chapters?: ChapterMeta[];
 }
 
 export default function SubjectTabs({
@@ -57,9 +60,12 @@ export default function SubjectTabs({
   cs10Chapters = [],
   biology10Chapters = [],
   english10Chapters = [],
+  pakstudies10Chapters = [],
+  urdu10Chapters = [],
+  tarjuma10Chapters = [],
 }: SubjectTabsProps) {
   const [activeGrade, setActiveGrade] = useState<'9' | '10' | '11'>('11');
-  const [activeGrade10Subject, setActiveGrade10Subject] = useState<'math' | 'physics' | 'chemistry' | 'cs' | 'biology' | 'english'>('math');
+  const [activeGrade10Subject, setActiveGrade10Subject] = useState<'math' | 'physics' | 'chemistry' | 'cs' | 'biology' | 'english' | 'pakstudies' | 'urdu' | 'tarjuma'>('math');
   const [activeGrade9Subject, setActiveGrade9Subject] = useState<'urdu' | 'tarjuma' | 'english' | 'islamiat' | 'chemistry' | 'cs' | 'biology' | 'math' | 'physics'>('urdu');
   const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry'>('physics');
 
@@ -90,7 +96,13 @@ export default function SubjectTabs({
         }
       } else if (params.get('grade') === '10') {
         setActiveGrade('10');
-        if (params.get('subject') === 'english') {
+        if (params.get('subject') === 'pakstudies') {
+          setActiveGrade10Subject('pakstudies');
+        } else if (params.get('subject') === 'urdu') {
+          setActiveGrade10Subject('urdu');
+        } else if (params.get('subject') === 'tarjuma') {
+          setActiveGrade10Subject('tarjuma');
+        } else if (params.get('subject') === 'english') {
           setActiveGrade10Subject('english');
         } else if (params.get('subject') === 'biology') {
           setActiveGrade10Subject('biology');
@@ -124,6 +136,9 @@ export default function SubjectTabs({
   const cs10Total = cs10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const biology10Total = biology10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const english10Total = english10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const pakstudies10Total = pakstudies10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const urdu10Total = urdu10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const tarjuma10Total = tarjuma10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -136,7 +151,13 @@ export default function SubjectTabs({
 
   const activeChapters =
     activeGrade === '10'
-      ? activeGrade10Subject === 'english'
+      ? activeGrade10Subject === 'pakstudies'
+        ? pakstudies10Chapters
+        : activeGrade10Subject === 'urdu'
+        ? urdu10Chapters
+        : activeGrade10Subject === 'tarjuma'
+        ? tarjuma10Chapters
+        : activeGrade10Subject === 'english'
         ? english10Chapters
         : activeGrade10Subject === 'biology'
         ? biology10Chapters
@@ -226,7 +247,7 @@ export default function SubjectTabs({
             >
               <Calculator className="w-4 h-4 text-amber-400" />
               <span>Class 10th (SSC-II)</span>
-              <span className="text-[10px] opacity-75 font-mono">6 Subjects</span>
+              <span className="text-[10px] opacity-75 font-mono">9 Subjects</span>
             </button>
             <button
               type="button"
@@ -251,7 +272,13 @@ export default function SubjectTabs({
           <div>
             <h2 className="font-[family-name:var(--font-display)] text-xl sm:text-2xl font-bold tracking-tight text-[var(--color-ink)]">
               {activeGrade === '10'
-                ? activeGrade10Subject === 'english'
+                ? activeGrade10Subject === 'pakstudies'
+                  ? 'Class 10th FBISE Pakistan Studies (مطالعہ پاکستان - SSC-II Bilingual)'
+                  : activeGrade10Subject === 'urdu'
+                  ? 'Class 10th FBISE Urdu Compulsory (اردو لازمی - SSC-II)'
+                  : activeGrade10Subject === 'tarjuma'
+                  ? 'Class 10th FBISE Tarjuma-tul-Quran (ترجمۃ القرآن المجید - SSC-II Bilingual)'
+                  : activeGrade10Subject === 'english'
                   ? 'Class 10th FBISE English Compulsory (انگریزی لازمی - SSC-II)'
                   : activeGrade10Subject === 'biology'
                   ? 'Class 10th FBISE Biology (حیاتیات - SSC-II)'
@@ -284,7 +311,13 @@ export default function SubjectTabs({
             </h2>
             <p className="text-xs text-[var(--color-muted)] mt-1">
               {activeGrade === '10'
-                ? activeGrade10Subject === 'english'
+                ? activeGrade10Subject === 'pakstudies'
+                  ? 'All 6 National Curriculum units (Culture, Sports & Leisure, Constitution & Governance, Citizenship & Rights, Foreign Policy, Economy & Resources) + 10 Annual Federal Board Examination Simulators (Bilingual Urdu + English).'
+                  : activeGrade10Subject === 'urdu'
+                  ? 'حصہ نثر، حصہ نظم، حصہ غزل، علم بیان، علم بدیع، قواعد و ترکیبِ نحوی، محاورات و ضرب الامثال اور اصنافِ سخن و ادب کے 8 یونٹس مع 10 سالانہ وفاقی بورڈ امتحانی سمولیٹرز۔'
+                  : activeGrade10Subject === 'tarjuma'
+                  ? 'All 15 Holy Quran Surahs (Al-An\'am through Ash-Shura) across 8 thematic modules + 10 Annual Federal Board Examination Simulators (Bilingual Urdu + English).'
+                  : activeGrade10Subject === 'english'
                   ? 'All 10 National Curriculum units (Direct/Indirect Speech, Voice, Tenses, Verbals, Clauses, Conditionals & Modals, Parts of Speech, Conjunctions & Syntax, Prepositions & Articles, Poetic Devices) + 10 Annual Federal Board Examination Simulators.'
                   : activeGrade10Subject === 'biology'
                   ? 'All 9 National Curriculum units (Gaseous Exchange, Homeostasis, Coordination & Control, Support & Movement, Reproduction, Inheritance, Man & Environment, Biotechnology, Pharmacology) + 10 Annual Federal Board Examination Simulators.'
@@ -319,6 +352,54 @@ export default function SubjectTabs({
 
           {activeGrade === '10' ? (
             <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs pb-1">
+              <button
+                type="button"
+                onClick={() => setActiveGrade10Subject('pakstudies')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade10Subject === 'pakstudies'
+                    ? 'bg-emerald-950 text-white border-emerald-950 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <Landmark className="w-4 h-4 text-emerald-400" />
+                <span>Pak Studies (مطالعہ پاکستان)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {pakstudies10Chapters.length} Modules · {pakstudies10Total} Qs
+                </span>
+              </button>
+
+              <button
+                type="button"
+                onClick={() => setActiveGrade10Subject('urdu')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade10Subject === 'urdu'
+                    ? 'bg-emerald-900 text-white border-emerald-950 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <BookMarked className="w-4 h-4 text-emerald-400" />
+                <span>اردو لازمی (Urdu)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {urdu10Chapters.length} Modules · {urdu10Total} Qs
+                </span>
+              </button>
+
+              <button
+                type="button"
+                onClick={() => setActiveGrade10Subject('tarjuma')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade10Subject === 'tarjuma'
+                    ? 'bg-teal-900 text-white border-teal-950 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <ScrollText className="w-4 h-4 text-teal-300" />
+                <span>ترجمۃ القرآن (Tarjuma)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {tarjuma10Chapters.length} Modules · {tarjuma10Total} Qs
+                </span>
+              </button>
+
               <button
                 type="button"
                 onClick={() => setActiveGrade10Subject('english')}
@@ -719,7 +800,13 @@ export default function SubjectTabs({
             <div>
               <span className="text-xs font-mono uppercase tracking-widest text-emerald-900 font-bold block">
                 {activeGrade === '10'
-                  ? activeGrade10Subject === 'english'
+                  ? activeGrade10Subject === 'pakstudies'
+                    ? 'Active Subject: Class 10th Pakistan Studies (مطالعہ پاکستان - SSC-II Bilingual)'
+                    : activeGrade10Subject === 'urdu'
+                    ? 'فعال مضمون: وفاقی تعلیمی بورڈ اردو لازمی جماعت دہم (FBISE Urdu Class 10)'
+                    : activeGrade10Subject === 'tarjuma'
+                    ? 'فعال مضمون: ترجمۃ القرآن المجید جماعت دہم (FBISE Tarjuma-tul-Quran Class 10 Bilingual)'
+                    : activeGrade10Subject === 'english'
                     ? 'Active Subject: Class 10th English Compulsory (SSC-II Matric Part 2)'
                     : activeGrade10Subject === 'biology'
                     ? 'Active Subject: Class 10th Biology (SSC-II Matric Part 2)'
@@ -768,7 +855,13 @@ export default function SubjectTabs({
               </span>
               <p className="text-xs text-[var(--color-muted)] mt-0.5">
                 {activeGrade === '10'
-                  ? activeGrade10Subject === 'english'
+                  ? activeGrade10Subject === 'pakstudies'
+                    ? 'All 6 National Curriculum units + 10 official Section A annual board examination simulators (Founder Muhammad Ahmad Khan & Lecturer Tayabah Rafaqat) with bilingual conceptual rationales.'
+                    : activeGrade10Subject === 'urdu'
+                    ? 'حصہ نثر، حصہ نظم، حصہ غزل، علم بیان، علم بدیع، قواعد و ترکیبِ نحوی، محاورات و اصناف کے 8 یونٹس مع 10 سالانہ وفاقی بورڈ امتحانی سمولیٹرز (لیکچرار نرجس ظہیر مع محمد احمد خان)۔'
+                    : activeGrade10Subject === 'tarjuma'
+                    ? 'تمام 15 قرآنی سورتوں (الأنعام تا الشوریٰ) کے 8 موضوعاتی ماڈیولز مع 10 وفاقی بورڈ سالانہ معروضی سمولیٹرز (بزبان اردو و انگریزی از لیکچرار طیبہ رفاقت مع محمد احمد خان)۔'
+                    : activeGrade10Subject === 'english'
                     ? 'All 10 National Curriculum units + 10 official Section A annual board examination simulators (Founder Muhammad Ahmad Khan & Soch Badlo By MAK English Faculty) with comprehensive grammatical rules and literary explanations.'
                     : activeGrade10Subject === 'biology'
                     ? 'All 9 National Curriculum units + 10 official Section A annual board examination simulators (Lecturer Ma&apos;am Rubina Ashraf & Soch Badlo By MAK Academic Board) with biological diagrams and physiological rationales.'
@@ -822,7 +915,13 @@ export default function SubjectTabs({
             <span>·</span>
             <span>
               {activeGrade === '10'
-                ? activeGrade10Subject === 'english'
+                ? activeGrade10Subject === 'pakstudies'
+                  ? pakstudies10Total
+                  : activeGrade10Subject === 'urdu'
+                  ? urdu10Total
+                  : activeGrade10Subject === 'tarjuma'
+                  ? tarjuma10Total
+                  : activeGrade10Subject === 'english'
                   ? english10Total
                   : activeGrade10Subject === 'biology'
                   ? biology10Total
