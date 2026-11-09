@@ -17,6 +17,8 @@ interface SubjectTabsProps {
   chemistryChapters: ChapterMeta[];
   physics9Chapters?: ChapterMeta[];
   math9Chapters?: ChapterMeta[];
+  urdu9Chapters?: ChapterMeta[];
+  tarjuma9Chapters?: ChapterMeta[];
 }
 
 export default function SubjectTabs({
@@ -31,9 +33,11 @@ export default function SubjectTabs({
   chemistryChapters,
   physics9Chapters = [],
   math9Chapters = [],
+  urdu9Chapters = [],
+  tarjuma9Chapters = [],
 }: SubjectTabsProps) {
   const [activeGrade, setActiveGrade] = useState<'9' | '11'>('11');
-  const [activeGrade9Subject, setActiveGrade9Subject] = useState<'physics' | 'math'>('math');
+  const [activeGrade9Subject, setActiveGrade9Subject] = useState<'urdu' | 'tarjuma' | 'math' | 'physics'>('urdu');
   const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry'>('physics');
 
   // Detect grade and subject from URL query on client mount
@@ -46,6 +50,10 @@ export default function SubjectTabs({
           setActiveGrade9Subject('physics');
         } else if (params.get('subject') === 'math') {
           setActiveGrade9Subject('math');
+        } else if (params.get('subject') === 'urdu') {
+          setActiveGrade9Subject('urdu');
+        } else if (params.get('subject') === 'tarjuma') {
+          setActiveGrade9Subject('tarjuma');
         }
       } else if (params.get('grade') === '11') {
         setActiveGrade('11');
@@ -55,6 +63,8 @@ export default function SubjectTabs({
 
   const physics9Total = physics9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const math9Total = math9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const urdu9Total = urdu9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const tarjuma9Total = tarjuma9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -67,7 +77,11 @@ export default function SubjectTabs({
 
   const activeChapters =
     activeGrade === '9'
-      ? activeGrade9Subject === 'math'
+      ? activeGrade9Subject === 'urdu'
+        ? urdu9Chapters
+        : activeGrade9Subject === 'tarjuma'
+        ? tarjuma9Chapters
+        : activeGrade9Subject === 'math'
         ? math9Chapters
         : physics9Chapters
       : activeSubject === 'physics'
@@ -116,9 +130,7 @@ export default function SubjectTabs({
             >
               <Atom className="w-4 h-4 text-emerald-400" />
               <span>Class 9th (SSC-I)</span>
-              <span className="bg-emerald-700 text-white text-[9px] font-mono px-1 py-0.2 rounded font-semibold">
-                NEW
-              </span>
+              <span className="text-[10px] opacity-75 font-mono">4 Subjects</span>
             </button>
             <button
               type="button"
@@ -143,14 +155,22 @@ export default function SubjectTabs({
           <div>
             <h2 className="font-[family-name:var(--font-display)] text-xl sm:text-2xl font-bold tracking-tight text-[var(--color-ink)]">
               {activeGrade === '9'
-                ? activeGrade9Subject === 'math'
+                ? activeGrade9Subject === 'urdu'
+                  ? 'Class 9th FBISE Urdu Compulsory (اردو لازمی)'
+                  : activeGrade9Subject === 'tarjuma'
+                  ? 'Class 9th FBISE Tarjuma-tul-Quran (ترجمۃ القرآن المجید)'
+                  : activeGrade9Subject === 'math'
                   ? 'Class 9th FBISE Mathematics (SSC-I)'
                   : 'Class 9th FBISE Physics (SSC-I)'
                 : 'Class 11 FBISE Subjects (HSSC-I)'}
             </h2>
             <p className="text-xs text-[var(--color-muted)] mt-1">
               {activeGrade === '9'
-                ? activeGrade9Subject === 'math'
+                ? activeGrade9Subject === 'urdu'
+                  ? 'حصہ نثر، حصہ نظم، حصہ غزل، علم بیان، علم بدیع، اصناف ادب اور قواعد و انشا کے 7 یونٹس مع 4 وفاقی بورڈ سیکشن اے سالانہ امتحانی سمولیٹرز۔'
+                  : activeGrade9Subject === 'tarjuma'
+                  ? 'تمام 18 قرآنی سورتوں (مریم تا الاحقاف) کے 9 موضوعاتی ماڈیولز مع 4 وفاقی بورڈ سالانہ معروضی سمولیٹرز (بزبان اردو و انگریزی)۔'
+                  : activeGrade9Subject === 'math'
                   ? 'All 11 National Curriculum chapters (Real Numbers, Logarithms, Sets, Algebra, Geometry, Statistics) + 2 Board Simulators.'
                   : 'Explore all 9 National Curriculum units + 2 official Section A annual board examination simulators.'
                 : 'Select your subject below to explore full chapter-wise practice tests and timed board simulations.'}
@@ -159,6 +179,38 @@ export default function SubjectTabs({
 
           {activeGrade === '9' ? (
             <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs pb-1">
+              <button
+                type="button"
+                onClick={() => setActiveGrade9Subject('urdu')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade9Subject === 'urdu'
+                    ? 'bg-emerald-900 text-white border-emerald-950 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <BookMarked className="w-4 h-4 text-emerald-400" />
+                <span>اردو لازمی (Urdu)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {urdu9Chapters.length} Modules · {urdu9Total} Qs
+                </span>
+              </button>
+
+              <button
+                type="button"
+                onClick={() => setActiveGrade9Subject('tarjuma')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade9Subject === 'tarjuma'
+                    ? 'bg-teal-900 text-white border-teal-950 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <ScrollText className="w-4 h-4 text-teal-300" />
+                <span>ترجمۃ القرآن (Tarjuma)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {tarjuma9Chapters.length} Modules · {tarjuma9Total} Qs
+                </span>
+              </button>
+
               <button
                 type="button"
                 onClick={() => setActiveGrade9Subject('math')}
@@ -171,7 +223,7 @@ export default function SubjectTabs({
                 <Calculator className="w-4 h-4 text-amber-400" />
                 <span>Mathematics (ریاضی)</span>
                 <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  13 Modules · {math9Total} Qs
+                  {math9Chapters.length} Modules · {math9Total} Qs
                 </span>
               </button>
 
@@ -180,14 +232,14 @@ export default function SubjectTabs({
                 onClick={() => setActiveGrade9Subject('physics')}
                 className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
                   activeGrade9Subject === 'physics'
-                    ? 'bg-emerald-900 text-white border-emerald-950 shadow-sm'
+                    ? 'bg-emerald-950 text-white border-emerald-950 shadow-sm'
                     : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
                 }`}
               >
                 <Atom className="w-4 h-4 text-emerald-400" />
                 <span>Physics (فزکس)</span>
                 <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  11 Modules · {physics9Total} Qs
+                  {physics9Chapters.length} Modules · {physics9Total} Qs
                 </span>
               </button>
             </div>
@@ -349,7 +401,11 @@ export default function SubjectTabs({
             <div>
               <span className="text-xs font-mono uppercase tracking-widest text-emerald-900 font-bold block">
                 {activeGrade === '9'
-                  ? activeGrade9Subject === 'math'
+                  ? activeGrade9Subject === 'urdu'
+                    ? 'فعال مضمون: وفاقی تعلیمی بورڈ اردو لازمی جماعت نہم (FBISE Urdu Class 9)'
+                    : activeGrade9Subject === 'tarjuma'
+                    ? 'فعال مضمون: ترجمۃ القرآن المجید جماعت نہم (FBISE Tarjuma-tul-Quran Class 9)'
+                    : activeGrade9Subject === 'math'
                     ? 'Active Subject: Class 9th Mathematics (SSC-I Matric Part 1)'
                     : 'Active Subject: Class 9th Physics (SSC-I Matric Part 1)'
                   : activeSubject === 'physics'
@@ -372,7 +428,11 @@ export default function SubjectTabs({
               </span>
               <p className="text-xs text-[var(--color-muted)] mt-0.5">
                 {activeGrade === '9'
-                  ? activeGrade9Subject === 'math'
+                  ? activeGrade9Subject === 'urdu'
+                    ? 'حصہ نثر، حصہ نظم، حصہ غزل، علم بیان، علم بدیع، اصناف ادب اور قواعد و انشا کے 7 یونٹس مع 4 وفاقی بورڈ سالانہ امتحانی سمولیٹرز (لیکچرار نرجس ظہیر)۔'
+                    : activeGrade9Subject === 'tarjuma'
+                    ? 'تمام 18 قرآنی سورتوں (مریم تا الاحقاف) کے 9 موضوعاتی ماڈیولز مع 4 وفاقی بورڈ سالانہ معروضی سمولیٹرز (بزبان اردو و انگریزی از لیکچرار طیبہ رفاقت)۔'
+                    : activeGrade9Subject === 'math'
                     ? 'All 11 National Curriculum chapters (Real Numbers, Logarithms, Sets, Factorization, Linear Equations, Trigonometry, Coordinate Geometry, Straight Lines, Polygons, Practical Geometry, Statistics) + 2 official Section A annual board examination simulators.'
                     : 'All 9 National Curriculum units (Physical Quantities, Kinematics, Dynamics, Turning Effect, Pressure, Work & Energy, Density, Magnetism, Nature of Science) + 2 official Section A annual board examination simulators.'
                   : activeSubject === 'physics'
@@ -400,7 +460,11 @@ export default function SubjectTabs({
             <span>·</span>
             <span>
               {activeGrade === '9'
-                ? activeGrade9Subject === 'math'
+                ? activeGrade9Subject === 'urdu'
+                  ? urdu9Total
+                  : activeGrade9Subject === 'tarjuma'
+                  ? tarjuma9Total
+                  : activeGrade9Subject === 'math'
                   ? math9Total
                   : physics9Total
                 : activeSubject === 'physics'

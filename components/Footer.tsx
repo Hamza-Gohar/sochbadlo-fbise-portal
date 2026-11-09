@@ -25,20 +25,14 @@ export default function Footer() {
               Class 9th (SSC-I)
             </h4>
             <ul className="text-xs space-y-1.5 text-[var(--color-muted)] font-[family-name:var(--font-display)]">
+              <li className="font-semibold text-emerald-800">اردو لازمی (7 Units + 4 Simulators)</li>
+              <li className="font-semibold text-teal-800">ترجمۃ القرآن (9 Units + 4 Simulators)</li>
               <li className="font-semibold text-blue-900">Mathematics (11 Units + 2 Simulators)</li>
-              <li className="font-semibold text-emerald-800">Physics (9 Units + 2 Simulators)</li>
-              <li>• Unit 1: Real Numbers & Physical Quantities</li>
-              <li>• Unit 2: Logarithms & Kinematics</li>
-              <li>• Unit 3: Sets & Dynamics</li>
-              <li>• Unit 4: Factorization & Turning Effect</li>
-              <li>• Unit 5: Linear Equations & Pressure</li>
-              <li>• Unit 6: Trigonometry & Work-Energy</li>
-              <li>• Unit 7: Coordinate Geometry & Density</li>
-              <li>• Unit 8: Straight Lines & Magnetism</li>
-              <li>• Unit 9: Geometry & Nature of Science</li>
-              <li>• Unit 10: Practical Geometry</li>
-              <li>• Unit 11: Basic Statistics</li>
-              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 4 Section A Board Simulators</li>
+              <li className="font-semibold text-emerald-950">Physics (9 Units + 2 Simulators)</li>
+              <li className="pt-1 text-[11px]">• 18 Surahs & Hissa Nasr, Nazm, Ghazal</li>
+              <li className="text-[11px]">• Ilm-e-Bayan, Ilm-e-Badi, Asnaf-e-Adab</li>
+              <li className="text-[11px]">• Real Numbers, Geometry & Kinematics</li>
+              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 12 Board Examination Simulators</li>
             </ul>
           </div>
 

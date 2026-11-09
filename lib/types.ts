@@ -22,7 +22,9 @@ export type SubjectId =
   | 'biology'
   | 'chemistry'
   | 'physics-9'
-  | 'math-9';
+  | 'math-9'
+  | 'urdu-9'
+  | 'tarjuma-9';
 
 export interface ChapterData {
   chapterNumber: number;

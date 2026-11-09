@@ -25,21 +25,25 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
 
   const isPhysics9 = chapter.subject === 'physics-9' || chapter.slug.startsWith('physics-9');
   const isMath9 = chapter.subject === 'math-9' || chapter.slug.startsWith('math-9');
-  const isUrdu = chapter.subject === 'urdu' || chapter.slug.startsWith('urdu');
+  const isUrdu9 = chapter.subject === 'urdu-9' || chapter.slug.startsWith('urdu-9');
+  const isTarjuma9 = chapter.subject === 'tarjuma-9' || chapter.slug.startsWith('tarjuma-9');
+  const isUrdu = (chapter.subject === 'urdu' || chapter.slug.startsWith('urdu')) && !isUrdu9;
   const isMath = (chapter.subject === 'math' || chapter.slug.startsWith('math-unit-') || chapter.slug.startsWith('math-model-paper-')) && !isMath9;
   const isEnglish = chapter.subject === 'english' || chapter.slug.startsWith('english');
   const isCS = chapter.subject === 'cs' || chapter.slug.startsWith('cs');
   const isIslamiat = chapter.subject === 'islamiat' || chapter.slug.startsWith('islamiat');
-  const isTarjuma = chapter.subject === 'tarjuma' || chapter.slug.startsWith('tarjuma');
+  const isTarjuma = (chapter.subject === 'tarjuma' || chapter.slug.startsWith('tarjuma')) && !isTarjuma9;
   const isBiology = chapter.subject === 'biology' || chapter.slug.startsWith('biology');
   const isChemistry = chapter.subject === 'chemistry' || chapter.slug.startsWith('chemistry');
-  const isRtl = isUrdu || isIslamiat || isTarjuma;
+  const isRtl = isUrdu || isIslamiat || isTarjuma || isUrdu9 || isTarjuma9;
 
   const isPastPapers =
     chapter.slug === 'past-papers' ||
     chapter.slug === 'urdu-model-paper' ||
     chapter.slug.startsWith('physics-9-model-paper-') ||
     chapter.slug.startsWith('math-9-model-paper-') ||
+    chapter.slug.startsWith('urdu-9-model-paper-') ||
+    chapter.slug.startsWith('tarjuma-9-model-paper-') ||
     chapter.slug.startsWith('cs-model-paper-') ||
     chapter.slug.startsWith('islamiat-model-paper-') ||
     chapter.slug.startsWith('tarjuma-model-paper-') ||
@@ -53,6 +57,10 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (chapter.slug === 'math-9-model-paper-1') tagLabel = 'Class 9 Math Simulator 1';
   else if (chapter.slug === 'math-9-model-paper-2') tagLabel = 'Class 9 Math Simulator 2';
   else if (isMath9) tagLabel = `Class 9 · Math Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (chapter.slug.startsWith('urdu-9-model-paper-')) tagLabel = `Class 9 Urdu Simulator ${chapter.slug.split('-').pop()}`;
+  else if (isUrdu9) tagLabel = `Class 9 · Urdu Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (chapter.slug.startsWith('tarjuma-9-model-paper-')) tagLabel = `Class 9 Tarjuma Simulator ${chapter.slug.split('-').pop()}`;
+  else if (isTarjuma9) tagLabel = `Class 9 · Tarjuma Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (chapter.slug === 'past-papers') tagLabel = 'Board Simulator';
   else if (chapter.slug === 'urdu-model-paper') tagLabel = 'Urdu Full Board Simulator';
   else if (chapter.slug === 'urdu-ilm-e-bayan') tagLabel = 'Urdu Rhetoric (علم بیان)';
@@ -74,7 +82,15 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (isUrdu) tagLabel = `Urdu Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
 
   let description = `Comprehensive conceptual questions, dimensional formulas, and numericals for ${chapter.title} aligned with textbook SLOs.`;
-  if (chapter.slug === 'physics-9-model-paper-1') {
+  if (chapter.slug.startsWith('urdu-9-model-paper-')) {
+    description = `وفاقی تعلیمی بورڈ (FBISE) جماعت نہم لازمی اردو سیکشن اے سالانہ ماڈل امتحانی پرچہ نمبر ${chapter.slug.split('-').pop()} (لیکچرار نرجس ظہیر)۔ 15 معروضی سوالات مع تصدیق شدہ حل۔`;
+  } else if (isUrdu9) {
+    description = `وفاقی تعلیمی بورڈ لازمی اردو جماعت نہم (SSC-I): ${chapter.title} کے بنیادی قواعد، معانی و مفاہیم اور امتحانی کثیر الانتخابی سوالات۔`;
+  } else if (chapter.slug.startsWith('tarjuma-9-model-paper-')) {
+    description = `وفاقی بورڈ ترجمۃ القرآن المجید جماعت نہم سیکشن اے سالانہ ماڈل پرچہ نمبر ${chapter.slug.split('-').pop()} (لیکچرار طیبہ رفاقت)۔ 10 معروضی سوالات (بزبان اردو و انگریزی) مع مستند قرآنی حوالہ جات۔`;
+  } else if (isTarjuma9) {
+    description = `وفاقی بورڈ ترجمۃ القرآن المجید جماعت نہم (SSC-I): ${chapter.title} کے اہم نکات، الفاظ و معانی اور امتحانی کثیر الانتخابی سوالات۔`;
+  } else if (chapter.slug === 'physics-9-model-paper-1') {
     description = 'Federal Board Section A SSC-I annual examination paper (Units 1-5). Official 12 MCQs, 15-minute exam simulation with complete step-by-step explanations.';
   } else if (chapter.slug === 'physics-9-model-paper-2') {
     description = 'Federal Board Section A SSC-I annual examination paper (Units 5-9). Official 12 MCQs, 15-minute exam simulation with complete step-by-step explanations.';

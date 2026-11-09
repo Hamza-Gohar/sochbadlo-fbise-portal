@@ -16,6 +16,8 @@ export default function HomePage() {
   const tarjumaChapters = getChaptersIndex('tarjuma');
   const physics9Chapters = getChaptersIndex('physics-9');
   const math9Chapters = getChaptersIndex('math-9');
+  const urdu9Chapters = getChaptersIndex('urdu-9');
+  const tarjuma9Chapters = getChaptersIndex('tarjuma-9');
 
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const biologyTotal = biologyChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -28,6 +30,8 @@ export default function HomePage() {
   const tarjumaTotal = tarjumaChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const physics9Total = physics9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const math9Total = math9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const urdu9Total = urdu9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const tarjuma9Total = tarjuma9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
 
   const totalQuestions =
     physicsTotal +
@@ -40,7 +44,9 @@ export default function HomePage() {
     islamiatTotal +
     tarjumaTotal +
     physics9Total +
-    math9Total;
+    math9Total +
+    urdu9Total +
+    tarjuma9Total;
   const totalModules =
     physicsChapters.length +
     biologyChapters.length +
@@ -52,7 +58,9 @@ export default function HomePage() {
     islamiatChapters.length +
     tarjumaChapters.length +
     physics9Chapters.length +
-    math9Chapters.length;
+    math9Chapters.length +
+    urdu9Chapters.length +
+    tarjuma9Chapters.length;
 
   return (
     <div className="min-h-screen flex flex-col justify-between">
@@ -72,7 +80,7 @@ export default function HomePage() {
               </h1>
               <p className="text-base sm:text-lg text-[var(--color-ink-2)] max-w-2xl leading-relaxed font-[family-name:var(--font-body)]">
                 Master Federal Board SSC-I (Matric Part 1) and HSSC-I (Intermediate Part 1) examinations with authentic chapter-wise test series, instant conceptual explanations,
-                Class 9th Mathematics (11 units + 2 Section A annual simulators), Class 9th Physics (9 units + 2 Section A annual simulators), Biology (حیاتیات), Chemistry (کیمسٹری with Lecturer Ayesha Amjad rationales),
+                Class 9th Urdu Compulsory (7 units + 4 Section A simulators), Class 9th Tarjuma-tul-Quran (9 units + 4 bilingual simulators), Class 9th Mathematics (11 units + 2 Section A simulators), Class 9th Physics (9 units + 2 Section A simulators), Biology (حیاتیات), Chemistry (کیمسٹری with Lecturer Ayesha Amjad rationales),
                 Physics formulas, English syntax & poetic devices, Urdu literature and rhetoric (علمِ بیان و علمِ بدیع), Islamiat Compulsory (اسلامیات لازمی),
                 Tarjuma-tul-Quran (ترجمۃ القرآن المجید), Mathematics step-by-step problem solving, Computer Science logic, and timed board exam simulations.
               </p>
@@ -121,6 +129,8 @@ export default function HomePage() {
           chemistryChapters={chemistryChapters}
           physics9Chapters={physics9Chapters}
           math9Chapters={math9Chapters}
+          urdu9Chapters={urdu9Chapters}
+          tarjuma9Chapters={tarjuma9Chapters}
         />
 
         {/* Hallmark Editorial Note & Exam Tips */}

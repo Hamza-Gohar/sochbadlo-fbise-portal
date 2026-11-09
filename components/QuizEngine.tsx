@@ -30,14 +30,14 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [reviewFilter, setReviewFilter] = useState<'all' | 'incorrect'>('all');
   
-  // Timer for Exam Mode (15 min / 900s for Class 9 simulators; 20 min / 1200s for Class 11)
-  const isClass9Simulator = slug.startsWith('physics-9-model-paper-');
-  const [timeLeft, setTimeLeft] = useState(isClass9Simulator ? 900 : 1200);
+  // Timer for Exam Mode (15 min / 900s for Class 9 Physics/Tarjuma simulators; 20 min / 1200s for Class 11 and Urdu/Math-9)
+  const is15MinExam = slug.startsWith('physics-9-model-paper-') || slug.startsWith('tarjuma-9-model-paper-');
+  const [timeLeft, setTimeLeft] = useState(is15MinExam ? 900 : 1200);
   const [elapsedTime, setElapsedTime] = useState(0);
 
   const questions = chapter.questions;
   const currentQ = questions[currentIndex] || questions[0];
-  const isUrdu = slug.startsWith('urdu') || /[\u0600-\u06FF]/.test(currentQ?.question || '');
+  const isUrdu = slug.startsWith('urdu') || slug.startsWith('tarjuma') || /[\u0600-\u06FF]/.test(currentQ?.question || '');
 
   const urduOptionLabels: Record<'A' | 'B' | 'C' | 'D', string> = {
     A: 'الف (A)',
