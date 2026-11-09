@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 14,
+  "chapterTitle": "FBISE Annual Exam Simulator 06 (Organic & Applied Chemistry Focus)",
+  "slug": "chemistry-10-model-paper-6",
+  "totalQuestions": 12,
+  "fileName": "chemistry-10-model-paper-6.json",
+  "subject": "chemistry-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following organic functional groups contains a nitrogen atom directly bonded to a carbonyl group?",
+      "options": {
+        "A": "Amide ($-CONH_2$)",
+        "B": "Amine ($-NH_2$)",
+        "C": "Nitro ($-NO_2$)",
+        "D": "Cyanide ($-CN$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Amides contain the $-CO-NH_2$ linkage connecting a carbonyl carbon to nitrogen."
+    },
+    {
+      "id": 2,
+      "question": "Ethene reacts with hydrogen in the presence of nickel catalyst at 250°C to form:",
+      "options": {
+        "A": "Ethane",
+        "B": "Ethyne",
+        "C": "Methane",
+        "D": "Ethanol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hydrogenation of ethene ($C_2H_4 + H_2 \\xrightarrow{Ni} C_2H_6$) yields saturated ethane."
+    },
+    {
+      "id": 3,
+      "question": "What is the IUPAC name of the simplest ketone, commonly known as acetone?",
+      "options": {
+        "A": "Propanone",
+        "B": "Ethanone",
+        "C": "Butanone",
+        "D": "Methanone"
+      },
+      "correctAnswer": "A",
+      "explanation": "Acetone has 3 carbon atoms ($CH_3COCH_3$), named propanone in IUPAC nomenclature."
+    },
+    {
+      "id": 4,
+      "question": "Which polymer is formed by the addition polymerization of vinyl chloride?",
+      "options": {
+        "A": "Polyvinyl chloride (PVC)",
+        "B": "Teflon",
+        "C": "Nylon",
+        "D": "Polystyrene"
+      },
+      "correctAnswer": "A",
+      "explanation": "Polymerization of vinyl chloride ($CH_2=CHCl$) produces PVC, widely used in piping."
+    },
+    {
+      "id": 5,
+      "question": "Which carbohydrate is stored in human liver and muscles as an emergency energy reserve?",
+      "options": {
+        "A": "Glycogen",
+        "B": "Cellulose",
+        "C": "Starch",
+        "D": "Sucrose"
+      },
+      "correctAnswer": "A",
+      "explanation": "Glycogen (animal starch) is the glucose storage polysaccharide in animals."
+    },
+    {
+      "id": 6,
+      "question": "What type of chemical reaction converts vegetable oil into solid vegetable ghee?",
+      "options": {
+        "A": "Catalytic hydrogenation",
+        "B": "Saponification",
+        "C": "Fermentation",
+        "D": "Hydrolysis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hydrogenation adds $H_2$ across double bonds of unsaturated oils to form solid saturated fats."
+    },
+    {
+      "id": 7,
+      "question": "In the Solvay process, sodium bicarbonate precipitates out primarily due to:",
+      "options": {
+        "A": "Low solubility at 15°C and common ion effect of $Na^+$",
+        "B": "Its boiling point",
+        "C": "Its gaseous state",
+        "D": "Reaction with lime"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sparingly soluble $NaHCO_3$ precipitates out in chilled ammoniacal brine due to the common ion effect."
+    },
+    {
+      "id": 8,
+      "question": "Which petroleum fraction is refined for use as aviation jet aircraft fuel?",
+      "options": {
+        "A": "Kerosene oil",
+        "B": "Diesel",
+        "C": "Asphalt",
+        "D": "Refinery gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kerosene ($C_{10}-C_{12}$) is refined into aviation turbine fuel."
+    },
+    {
+      "id": 9,
+      "question": "The percentage of nitrogen in urea fertilizer ($NH_2CONH_2$) is:",
+      "options": {
+        "A": "46%",
+        "B": "21%",
+        "C": "33%",
+        "D": "82%"
+      },
+      "correctAnswer": "A",
+      "explanation": "Urea contains ~46.6% nitrogen by mass, the highest among solid nitrogen fertilizers."
+    },
+    {
+      "id": 10,
+      "question": "What is the chemical formula of chloroform?",
+      "options": {
+        "A": "$CHCl_3$",
+        "B": "$CH_2Cl_2$",
+        "C": "$CCl_4$",
+        "D": "$CH_3Cl$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Trichloromethane is commonly called chloroform ($CHCl_3$)."
+    },
+    {
+      "id": 11,
+      "question": "Which functional group is present in carboxylic acids?",
+      "options": {
+        "A": "$-COOH$",
+        "B": "$-CHO$",
+        "C": "$-OH$",
+        "D": "$-COOR$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carboxylic acids contain the carboxyl group ($-COOH$)."
+    },
+    {
+      "id": 12,
+      "question": "Acetylene produces a smoky, luminous flame when burned in air because:",
+      "options": {
+        "A": "It has a high carbon-to-hydrogen ratio (92.3% carbon)",
+        "B": "It contains oxygen",
+        "C": "It does not burn completely",
+        "D": "It forms water only"
+      },
+      "correctAnswer": "A",
+      "explanation": "High carbon percentage causes unburnt incandescent carbon particles, producing a sooty flame."
+    }
+  ]
+}

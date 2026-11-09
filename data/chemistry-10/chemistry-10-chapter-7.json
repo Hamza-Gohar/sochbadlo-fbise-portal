@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 7,
+  "chapterTitle": "Unit 15: Environmental Chemistry II — Water",
+  "slug": "chemistry-10-chapter-7",
+  "totalQuestions": 35,
+  "fileName": "chemistry-10-chapter-7.json",
+  "subject": "chemistry-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following physical properties of water is scientifically accurate? (FBISE 2025 Model)",
+      "options": {
+        "A": "Boils at 100°C at standard 1 atm pressure",
+        "B": "Has low heat of vaporization",
+        "C": "Has low heat of fusion",
+        "D": "Contracts when it freezes into ice"
+      },
+      "correctAnswer": "A",
+      "explanation": "Water has a boiling point of 100°C at 1 atm, high heat of vaporization (40.7 kJ/mol), high heat of fusion (6.01 kJ/mol), and uniquely expands when freezing due to an open cage-like hydrogen-bonded crystal lattice."
+    },
+    {
+      "id": 2,
+      "question": "Why does ice float on the surface of liquid water, thereby insulating aquatic ecosystems in freezing winters? (FBISE 2024-II)",
+      "options": {
+        "A": "Ice has a higher density than liquid water",
+        "B": "Ice has a lower density ($0.917\\text{ g cm}^{-3}$) than liquid water ($1.00\\text{ g cm}^{-3}$) at 0°C",
+        "C": "Ice contains trapped nitrogen bubbles",
+        "D": "Liquid water repels ice molecules"
+      },
+      "correctAnswer": "B",
+      "explanation": "In ice, each water molecule is tetrahedrally hydrogen-bonded in an open hexagonal lattice with empty spaces, giving it a density (~0.917 g/cm³) lower than liquid water (1.00 g/cm³). Therefore, ice floats."
+    },
+    {
+      "id": 3,
+      "question": "At what temperature does liquid water attain its maximum density ($1.00\\text{ g cm}^{-3}$)? (FBISE 2023-II)",
+      "options": {
+        "A": "0°C",
+        "B": "4°C",
+        "C": "10°C",
+        "D": "100°C"
+      },
+      "correctAnswer": "B",
+      "explanation": "Water exhibits anomalous expansion between 0°C and 4°C. As ice melts and reaches 4°C, hydrogen-bonded cage structures collapse, packing molecules most tightly at 4°C where density reaches maximum ($1.000\\text{ g cm}^{-3}$)."
+    },
+    {
+      "id": 4,
+      "question": "Which metal ions dissolved in water are primarily responsible for causing water hardness? (FBISE 2022-I, 2024-I)",
+      "options": {
+        "A": "$Na^+$ and $K^+$",
+        "B": "$Ca^{2+}$ and $Mg^{2+}$",
+        "C": "$Fe^{2+}$ and $Cu^{2+}$",
+        "D": "$Al^{3+}$ and $Zn^{2+}$"
+      },
+      "correctAnswer": "B",
+      "explanation": "Water hardness is caused by dissolved multivalent cations, primarily calcium ($Ca^{2+}$) and magnesium ($Mg^{2+}$) ions, in the form of bicarbonates, sulphates, and chlorides."
+    },
+    {
+      "id": 5,
+      "question": "Temporary hardness of water is caused by the presence of dissolved: (FBISE 2021-I, 2023-I)",
+      "options": {
+        "A": "Calcium and magnesium chlorides ($CaCl_2, MgCl_2$)",
+        "B": "Calcium and magnesium sulphates ($CaSO_4, MgSO_4$)",
+        "C": "Calcium and magnesium bicarbonates ($Ca(HCO_3)_2, Mg(HCO_3)_2$)",
+        "D": "Sodium chloride and sodium sulphate"
+      },
+      "correctAnswer": "C",
+      "explanation": "Temporary hardness is exclusively caused by dissolved calcium hydrogen carbonate ($Ca(HCO_3)_2$) and magnesium hydrogen carbonate ($Mg(HCO_3)_2$), which can be precipitated by simple heating."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following compounds causes permanent hardness in water? (FBISE 2020-II)",
+      "options": {
+        "A": "$Ca(HCO_3)_2$",
+        "B": "$Mg(HCO_3)_2$",
+        "C": "$CaSO_4$ or $CaCl_2$",
+        "D": "$NaHCO_3$"
+      },
+      "correctAnswer": "C",
+      "explanation": "Permanent hardness is caused by dissolved sulphates and chlorides of calcium and magnesium ($CaSO_4, MgSO_4, CaCl_2, MgCl_2$), which cannot be removed by boiling."
+    },
+    {
+      "id": 7,
+      "question": "In Clark's method for removing temporary hardness of water, which chemical reagent is added in calculated quantity? (FBISE 2019-II, 2022-II)",
+      "options": {
+        "A": "Slaked lime / Calcium hydroxide ($Ca(OH)_2$)",
+        "B": "Washing soda ($Na_2CO_3$)",
+        "C": "Hydrochloric acid ($HCl$)",
+        "D": "Caustic soda ($NaOH$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Clark's method removes temporary hardness on a municipal scale by adding a calculated quantity of slaked lime: $Ca(HCO_3)_2 + Ca(OH)_2 \\to 2CaCO_3\\downarrow + 2H_2O$."
+    },
+    {
+      "id": 8,
+      "question": "Which chemical is used to remove both temporary and permanent hardness from water on an industrial scale? (FBISE 2018-I, 2021-II)",
+      "options": {
+        "A": "Washing soda (Sodium carbonate, $Na_2CO_3$)",
+        "B": "Common salt ($NaCl$)",
+        "C": "Baking soda ($NaHCO_3$)",
+        "D": "Potassium permanganate ($KMnO_4$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sodium carbonate ($Na_2CO_3$, washing soda) removes both temporary and permanent hardness by precipitating soluble $Ca^{2+}$ and $Mg^{2+}$ ions as insoluble carbonates ($CaSO_4 + Na_2CO_3 \\to CaCO_3\\downarrow + Na_2SO_4$)."
+    },
+    {
+      "id": 9,
+      "question": "The ion-exchange resin (Zeolite) method removes water hardness by exchanging $Ca^{2+}$ and $Mg^{2+}$ ions for: (FBISE 2017-I, 2020-I)",
+      "options": {
+        "A": "Sodium ions ($Na^+$)",
+        "B": "Hydrogen ions ($H^+$) only",
+        "C": "Lead ions ($Pb^{2+}$)",
+        "D": "Sulphate ions ($SO_4^{2-}$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sodium zeolite (sodium aluminum silicate, $Na_2Z$) exchanges its loosely held $Na^+$ ions for $Ca^{2+}$ and $Mg^{2+}$ ions in hard water: $Na_2Z + Ca^{2+} \\to CaZ + 2Na^+$. The resin is regenerated using concentrated $NaCl$ brine."
+    },
+    {
+      "id": 10,
+      "question": "When soap is used in hard water, an insoluble curdy precipitate (scum) forms because soap reacts with $Ca^{2+}$ or $Mg^{2+}$ to form: (FBISE 2016-II, 2019-I)",
+      "options": {
+        "A": "Insoluble calcium stearate / magnesium stearate",
+        "B": "Soluble sodium stearate",
+        "C": "Glycerol and water",
+        "D": "Pure calcium metal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Soap is soluble sodium stearate ($C_{17}H_{35}COONa$). In hard water, $Ca^{2+}$ replaces $Na^+$, precipitating insoluble greyish calcium stearate scum: $2C_{17}H_{35}COONa + Ca^{2+} \\to (C_{17}H_{35}COO)_2Ca\\downarrow + 2Na^+$."
+    },
+    {
+      "id": 11,
+      "question": "The thick crusty deposit formed inside steam boilers and hot water pipes from hard water is called: (FBISE 2015-I)",
+      "options": {
+        "A": "Boiler scale ($CaCO_3$ and $CaSO_4$)",
+        "B": "Slag",
+        "C": "Gangue",
+        "D": "Froth"
+      },
+      "correctAnswer": "A",
+      "explanation": "Boiler scales are insoluble deposits of $CaCO_3$ and $CaSO_4$. Being poor thermal conductors, they waste fuel and cause localized overheating that can lead to catastrophic boiler explosions."
+    },
+    {
+      "id": 12,
+      "question": "Water is recognized as a 'universal solvent' primarily due to: (FBISE 2014-II, 2018-II)",
+      "options": {
+        "A": "Its high polarity and extensive hydrogen bonding capacity",
+        "B": "Its ability to burn non-metals",
+        "C": "Its low boiling point",
+        "D": "Its non-polar covalent nature"
+      },
+      "correctAnswer": "A",
+      "explanation": "Water possesses a bent polar geometry ($H-O-H$ angle 104.5°) with high electronegativity difference ($O=3.5, H=2.1$) and high dielectric constant (~80), allowing it to hydrate, separate, and dissolve ionic and polar substances."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following acute gastrointestinal bacterial infections is a deadly waterborne disease spread by drinking water contaminated with sewage containing Vibrio cholerae? (FBISE 2021-I)",
+      "options": {
+        "A": "Cholera",
+        "B": "Malaria",
+        "C": "Dengue fever",
+        "D": "Tuberculosis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cholera is caused by the bacterium Vibrio cholerae transmitted through drinking water contaminated with human fecal waste, causing severe watery diarrhea, rapid dehydration, and shock."
+    },
+    {
+      "id": 14,
+      "question": "Excessive agricultural runoff carrying synthetic nitrate and phosphate fertilizers into lakes causes explosive algal growth known as: (FBISE 2017-II)",
+      "options": {
+        "A": "Eutrophication",
+        "B": "Desalination",
+        "C": "Chlorination",
+        "D": "Fermentation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Eutrophication occurs when excess nutrient runoff ($N$ and $P$) stimulates rapid algal blooms. As the algae die, aerobic decomposition by bacteria strips dissolved oxygen from the water, suffocating fish."
+    },
+    {
+      "id": 15,
+      "question": "Prolonged consumption of groundwater containing excessive concentrations of fluoride ions ($>1.5\\text{ mg/L}$) leads to: (FBISE 2016-I, 2023-II)",
+      "options": {
+        "A": "Fluorosis (mottling of teeth and skeletal deformities)",
+        "B": "Typhoid fever",
+        "C": "Pernicious anemia",
+        "D": "Goiter"
+      },
+      "correctAnswer": "A",
+      "explanation": "Excess fluoride damages ameloblasts during tooth development, resulting in dental fluorosis (mottled brown enamel) and skeletal fluorosis (crippling joint and bone calcification)."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following heavy metal contaminants in industrial wastewater causes severe neurological disorders and kidney damage? (FBISE 2019-I)",
+      "options": {
+        "A": "Lead ($Pb$) and Mercury ($Hg$)",
+        "B": "Sodium ($Na$)",
+        "C": "Potassium ($K$)",
+        "D": "Calcium ($Ca$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Heavy metals such as lead ($Pb$), mercury ($Hg$), cadmium ($Cd$), and arsenic ($As$) are bioaccumulative systemic poisons that damage the brain, central nervous system, and kidneys."
+    },
+    {
+      "id": 17,
+      "question": "What chemical disinfectant is universally added to municipal drinking water supplies to kill pathogenic bacteria and microorganisms?",
+      "options": {
+        "A": "Chlorine ($Cl_2$ / Sodium hypochlorite)",
+        "B": "Sodium carbonate",
+        "C": "Sulphuric acid",
+        "D": "Carbon dioxide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chlorination ($Cl_2 + H_2O \\rightleftharpoons HOCl + HCl$) produces hypochlorous acid ($HOCl$), an effective oxidizing bactericide that destroys microbial cell membranes."
+    },
+    {
+      "id": 18,
+      "question": "Typhoid fever is a dangerous waterborne infection caused by which bacterium?",
+      "options": {
+        "A": "Salmonella typhi",
+        "B": "Mycobacterium tuberculosis",
+        "C": "Plasmodium falciparum",
+        "D": "Staphylococcus aureus"
+      },
+      "correctAnswer": "A",
+      "explanation": "Typhoid is caused by the bacterium Salmonella typhi, transmitted via water or food contaminated with human feces, causing prolonged high fever, intestinal ulceration, and delirium."
+    },
+    {
+      "id": 19,
+      "question": "Why cannot temporary hardness of water be removed by adding common salt ($NaCl$)?",
+      "options": {
+        "A": "$NaCl$ does not precipitate calcium or magnesium ions",
+        "B": "$NaCl$ forms toxic gases with water",
+        "C": "$NaCl$ is an insoluble compound",
+        "D": "$NaCl$ evaporates immediately"
+      },
+      "correctAnswer": "A",
+      "explanation": "$NaCl$ contains $Na^+$ and $Cl^-$ ions, neither of which forms an insoluble precipitate with $Ca^{2+}$ or $Mg^{2+}$ ions. It cannot remove hardness."
+    },
+    {
+      "id": 20,
+      "question": "A chemical reaction that occurs during the boiling of temporary hard water containing calcium bicarbonate is:",
+      "options": {
+        "A": "$Ca(HCO_3)_2 \\xrightarrow{\\Delta} CaCO_3\\downarrow + H_2O + CO_2\\uparrow$",
+        "B": "$CaSO_4 \\to Ca + SO_4$",
+        "C": "$CaCl_2 + H_2O \\to CaO + 2HCl$",
+        "D": "$Ca(OH)_2 + CO_2 \\to CaCO_3$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Heating causes the thermal decomposition of soluble calcium bicarbonate into insoluble calcium carbonate precipitate ($CaCO_3$), water, and carbon dioxide gas, softening the water."
+    },
+    {
+      "id": 21,
+      "question": "What is the specific heat capacity of pure liquid water, giving it high thermal buffering capacity?",
+      "options": {
+        "A": "$4.184\\text{ J g}^{-1}\\text{ K}^{-1}$",
+        "B": "$1.00\\text{ J g}^{-1}\\text{ K}^{-1}$",
+        "C": "$0.50\\text{ J g}^{-1}\\text{ K}^{-1}$",
+        "D": "$10.0\\text{ J g}^{-1}\\text{ K}^{-1}$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Water has an unusually high specific heat capacity of $4.184\\text{ J g}^{-1}\\text{ K}^{-1}$ (or $1\\text{ cal g}^{-1\\circ}\\text{C}^{-1}$), allowing it to absorb or release large amounts of heat with minimal temperature change, stabilizing Earth's climate."
+    },
+    {
+      "id": 22,
+      "question": "Which of the following organic pollutants present in untreated sewage causes extensive water pollution and foul odor upon anaerobic decomposition?",
+      "options": {
+        "A": "Human fecal matter, domestic waste food, and synthetic detergents",
+        "B": "Distilled water",
+        "C": "Dissolved oxygen",
+        "D": "Pure silica"
+      },
+      "correctAnswer": "A",
+      "explanation": "Domestic sewage contains organic compounds (proteins, carbohydrates, fats, detergents) that undergo anaerobic decay by microorganisms, generating foul-smelling $H_2S$, $NH_3$, and methane."
+    },
+    {
+      "id": 23,
+      "question": "Amoebic dysentery is caused by which pathogenic waterborne parasite?",
+      "options": {
+        "A": "Entamoeba histolytica",
+        "B": "Escherichia coli",
+        "C": "Vibrio cholerae",
+        "D": "Streptococcus pneumoniae"
+      },
+      "correctAnswer": "A",
+      "explanation": "Amoebic dysentery is caused by the protozoan parasite Entamoeba histolytica, ingested through fecal-contaminated drinking water, leading to severe colon inflammation and bloody stool."
+    },
+    {
+      "id": 24,
+      "question": "What type of intermolecular force accounts for water's unusually high boiling point (100°C) compared to $H_2S$ ($-60^\\circ\\text{C}$)?",
+      "options": {
+        "A": "Hydrogen bonding",
+        "B": "Ionic bonding",
+        "C": "Covalent bonding",
+        "D": "London dispersion forces only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Extensive hydrogen bonds form between the highly electronegative oxygen atom of one water molecule and the electropositive hydrogen atoms of adjacent molecules, requiring significant thermal energy to break."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following synthetic compounds in detergents causes persistent foam pollution in rivers because they resist bacterial biodegradation?",
+      "options": {
+        "A": "Branched-chain alkylbenzene sulphonates (non-biodegradable surfactants)",
+        "B": "Linear fatty acid soaps",
+        "C": "Table salt ($NaCl$)",
+        "D": "Baking soda"
+      },
+      "correctAnswer": "A",
+      "explanation": "Detergents with branched hydrocarbon chains cannot be metabolized by aquatic microorganisms, resulting in long-lasting toxic foam blankets on surface waters that inhibit aeration."
+    },
+    {
+      "id": 26,
+      "question": "In the sodium zeolite water softening process, when the zeolite resin ($Na_2Z$) is completely exhausted, how is it chemically regenerated?",
+      "options": {
+        "A": "By washing with a concentrated aqueous solution of sodium chloride (brine)",
+        "B": "By heating to 1000°C",
+        "C": "By treating with concentrated nitric acid",
+        "D": "By adding chlorine gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "Passing concentrated $NaCl$ (brine) over exhausted $CaZ$ drives the reverse ion-exchange reaction ($CaZ + 2NaCl \\to Na_2Z + CaCl_2$), regenerating active $Na_2Z$ for continued use."
+    },
+    {
+      "id": 27,
+      "question": "Which viral waterborne disease primarily attacks the liver and is spread through drinking fecal-contaminated water?",
+      "options": {
+        "A": "Hepatitis A and Hepatitis E",
+        "B": "Influenza",
+        "C": "Rabies",
+        "D": "Tetanus"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hepatitis A and E viruses are transmitted via the fecal-oral route through contaminated drinking water, causing acute liver inflammation, jaundice, and fatigue."
+    },
+    {
+      "id": 28,
+      "question": "Why is distilled water considered soft water?",
+      "options": {
+        "A": "It is free of dissolved calcium and magnesium mineral ions",
+        "B": "It contains sodium ions only",
+        "C": "It is completely non-polar",
+        "D": "It has a pH of 14"
+      },
+      "correctAnswer": "A",
+      "explanation": "Distillation evaporates water and condenses pure vapor, leaving non-volatile calcium, magnesium, and other mineral salts behind, rendering distilled water free of hardness."
+    },
+    {
+      "id": 29,
+      "question": "What is the biological consequence when dissolved oxygen (DO) levels in a freshwater lake fall below $4\\text{ mg/L}$ due to pollution?",
+      "options": {
+        "A": "Fish and other aerobic aquatic organisms die from suffocation",
+        "B": "Fish grow significantly larger",
+        "C": "Water becomes crystal clear",
+        "D": "Plants produce excessive oxygen"
+      },
+      "correctAnswer": "A",
+      "explanation": "Game fish and diverse aquatic organisms require at least 4–6 mg/L of dissolved oxygen. When DO falls below this threshold, fish suffer hypoxia, suffocate, and die en masse."
+    },
+    {
+      "id": 30,
+      "question": "Cryptosporidiosis is a severe diarrheal waterborne disease caused by Cryptosporidium, which is a:",
+      "options": {
+        "A": "Protozoan parasite forming chlorine-resistant oocysts",
+        "B": "Bacterium",
+        "C": "Fungus",
+        "D": "Heavy metal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cryptosporidium is a microscopic protozoan parasite whose protective thick-walled oocysts survive conventional chlorine disinfection, requiring filtration or UV treatment to remove."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following compounds is an effective coagulant added to municipal water treatment plants to aggregate colloidal clay impurities into settling flocs?",
+      "options": {
+        "A": "Potash alum (Aluminum sulphate)",
+        "B": "Ethanol",
+        "C": "Acetic acid",
+        "D": "Sodium bicarbonate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Alum (aluminum sulphate, $Al_2(SO_4)_3$) hydrolyzes in water to form gelatinous aluminum hydroxide ($Al(OH)_3$) precipitate that traps and settles suspended clay and bacteria."
+    },
+    {
+      "id": 32,
+      "question": "Water has an unusually high surface tension due to:",
+      "options": {
+        "A": "Strong cohesive hydrogen bonds between surface water molecules",
+        "B": "Its low molecular weight",
+        "C": "Dissolved oxygen",
+        "D": "Van der Waals forces between gas molecules"
+      },
+      "correctAnswer": "A",
+      "explanation": "Molecules at the liquid water surface experience net inward attractive hydrogen bonding from neighboring molecules below, creating a high surface tension that supports water striders."
+    },
+    {
+      "id": 33,
+      "question": "Which test can rapidly distinguish between hard water and soft water in a laboratory?",
+      "options": {
+        "A": "Shaking equal volumes of each sample with standard soap solution and observing lather height",
+        "B": "Testing with blue litmus paper",
+        "C": "Measuring boiling point with a clinical thermometer",
+        "D": "Smelling for chlorine odor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Soft water produces a rich, stable lather immediately when shaken with soap solution, whereas hard water forms a cloudy insoluble curd (scum) with minimal or no lather."
+    },
+    {
+      "id": 34,
+      "question": "What is the primary industrial application of soft water in thermal power plants?",
+      "options": {
+        "A": "Boiler feedwater to prevent scale formation and boiler explosion hazards",
+        "B": "To create soap foam in engines",
+        "C": "To dye metal components",
+        "D": "To increase electrical resistance"
+      },
+      "correctAnswer": "A",
+      "explanation": "High-pressure industrial boilers require demineralized soft water to avoid deposits of $CaCO_3$ and $CaSO_4$ scale, which cause localized overheating and tube rupture."
+    },
+    {
+      "id": 35,
+      "question": "Which pesticide group used in agriculture bioaccumulates through aquatic food chains, causing eggshell thinning in predatory birds?",
+      "options": {
+        "A": "Organochlorine pesticides (e.g., DDT)",
+        "B": "Common salt",
+        "C": "Urea",
+        "D": "Limestone"
+      },
+      "correctAnswer": "A",
+      "explanation": "Persistent organochlorine pesticides like DDT are fat-soluble and resist metabolic breakdown, magnifying in concentration at each trophic level (biomagnification) and interfering with calcium deposition."
+    }
+  ]
+}

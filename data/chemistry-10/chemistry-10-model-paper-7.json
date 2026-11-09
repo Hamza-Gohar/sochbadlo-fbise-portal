@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 15,
+  "chapterTitle": "FBISE Annual Exam Simulator 07 (Physical & Environmental Chemistry Focus)",
+  "slug": "chemistry-10-model-paper-7",
+  "totalQuestions": 12,
+  "fileName": "chemistry-10-model-paper-7.json",
+  "subject": "chemistry-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "If $Q_c > K_c$, which statement correctly predicts the reaction's behavior?",
+      "options": {
+        "A": "The reaction proceeds in the reverse direction to form more reactants",
+        "B": "The reaction proceeds forward",
+        "C": "The reaction is at equilibrium",
+        "D": "The reaction permanently ceases"
+      },
+      "correctAnswer": "A",
+      "explanation": "Excess products relative to equilibrium constant cause the reaction to shift left (reverse)."
+    },
+    {
+      "id": 2,
+      "question": "What is the unit of $K_c$ for $PCl_3(g) + Cl_2(g) \\rightleftharpoons PCl_5(g)$?",
+      "options": {
+        "A": "$\\text{mol}^{-1}\\text{dm}^3$",
+        "B": "$\\text{mol dm}^{-3}$",
+        "C": "$\\text{mol}^{-2}\\text{dm}^6$",
+        "D": "Dimensionless"
+      },
+      "correctAnswer": "A",
+      "explanation": "$K_c = [PCl_5]/([PCl_3][Cl_2]) = \\text{mol}^{-1}\\text{dm}^3$."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following compounds is an Arrhenius acid?",
+      "options": {
+        "A": "$HCl$",
+        "B": "$NaOH$",
+        "C": "$NH_3$",
+        "D": "$NaCl$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hydrochloric acid ($HCl$) dissociates in water to yield hydrogen ions ($H^+$)."
+    },
+    {
+      "id": 4,
+      "question": "What is the pOH of a solution with a pH of 3 at $25^\\circ\\text{C}$?",
+      "options": {
+        "A": "11",
+        "B": "3",
+        "C": "7",
+        "D": "14"
+      },
+      "correctAnswer": "A",
+      "explanation": "$pH + pOH = 14 \\implies pOH = 14 - 3 = 11$."
+    },
+    {
+      "id": 5,
+      "question": "Which layer of the atmosphere contains 75% of atmospheric mass and all weather phenomena?",
+      "options": {
+        "A": "Troposphere",
+        "B": "Stratosphere",
+        "C": "Mesosphere",
+        "D": "Thermosphere"
+      },
+      "correctAnswer": "A",
+      "explanation": "The troposphere contains the bulk of atmospheric air mass and water vapor."
+    },
+    {
+      "id": 6,
+      "question": "Which primary pollutant is an odorless, colorless gas that binds with hemoglobin to cause asphyxiation?",
+      "options": {
+        "A": "Carbon monoxide ($CO$)",
+        "B": "$CO_2$",
+        "C": "$SO_2$",
+        "D": "$O_3$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carbon monoxide ($CO$) forms carboxyhemoglobin, cutting off tissue oxygenation."
+    },
+    {
+      "id": 7,
+      "question": "Acid rain typically has a pH below:",
+      "options": {
+        "A": "5.6",
+        "B": "7.0",
+        "C": "8.5",
+        "D": "11.0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Normal rain is pH 5.6 due to carbonic acid; acid rain has $pH < 5.6$."
+    },
+    {
+      "id": 8,
+      "question": "Which metal ions cause hardness in water?",
+      "options": {
+        "A": "$Ca^{2+}$ and $Mg^{2+}$",
+        "B": "$Na^+$ and $K^+$",
+        "C": "$Fe^{2+}$ and $Cu^{2+}$",
+        "D": "$Al^{3+}$ and $Zn^{2+}$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Calcium and magnesium ions precipitate soap stearate as insoluble scum."
+    },
+    {
+      "id": 9,
+      "question": "Boiling removes temporary hardness of water by decomposing:",
+      "options": {
+        "A": "$Ca(HCO_3)_2$ into insoluble $CaCO_3\\downarrow$",
+        "B": "$CaSO_4$ into lime",
+        "C": "$CaCl_2$ into chlorine",
+        "D": "$MgSO_4$ into magnesium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Thermal decomposition precipitates calcium carbonate: $Ca(HCO_3)_2 \\to CaCO_3\\downarrow + H_2O + CO_2$."
+    },
+    {
+      "id": 10,
+      "question": "Clark's method utilizes which reagent to soften temporary hard water?",
+      "options": {
+        "A": "Slaked lime ($Ca(OH)_2$)",
+        "B": "Washing soda",
+        "C": "Common salt",
+        "D": "Potash alum"
+      },
+      "correctAnswer": "A",
+      "explanation": "Slaked lime reacts with soluble bicarbonates to precipitate insoluble carbonates."
+    },
+    {
+      "id": 11,
+      "question": "Which waterborne disease is caused by Salmonella typhi?",
+      "options": {
+        "A": "Typhoid",
+        "B": "Cholera",
+        "C": "Dysentery",
+        "D": "Fluorosis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Salmonella typhi causes typhoid fever through fecal-contaminated water."
+    },
+    {
+      "id": 12,
+      "question": "The anomalous maximum density of water at 4°C is caused by:",
+      "options": {
+        "A": "Collapse of hydrogen-bonded open crystal cage structures",
+        "B": "Thermal expansion",
+        "C": "Evaporation",
+        "D": "Boiling"
+      },
+      "correctAnswer": "A",
+      "explanation": "Between 0°C and 4°C, breaking of ice cages packs molecules more densely, peaking at 4°C."
+    }
+  ]
+}

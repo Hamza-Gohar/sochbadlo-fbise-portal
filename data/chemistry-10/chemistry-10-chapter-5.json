@@ -1,0 +1,551 @@
+{
+  "chapterNumber": 5,
+  "chapterTitle": "Unit 13: Biochemistry",
+  "slug": "chemistry-10-chapter-5",
+  "totalQuestions": 45,
+  "fileName": "chemistry-10-chapter-5.json",
+  "subject": "chemistry-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following is NOT a constituent component of a nucleotide? (FBISE 2024-II, Official Test Series)",
+      "options": {
+        "A": "Phosphate group",
+        "B": "Pentose sugar",
+        "C": "Amino acid",
+        "D": "Nitrogenous base"
+      },
+      "correctAnswer": "C",
+      "explanation": "A nucleotide is composed of three building blocks: a nitrogenous base, a five-carbon pentose sugar, and a phosphate group. Amino acids are the building blocks of proteins, not nucleotides."
+    },
+    {
+      "id": 2,
+      "question": "What nitrogenous base is present in RNA but absent in DNA? (FBISE 2023-II, Official Test Series)",
+      "options": {
+        "A": "Adenine",
+        "B": "Guanine",
+        "C": "Cytosine",
+        "D": "Uracil"
+      },
+      "correctAnswer": "D",
+      "explanation": "RNA contains the pyrimidine base uracil ($U$) instead of thymine ($T$), which is found exclusively in DNA."
+    },
+    {
+      "id": 3,
+      "question": "Which fat-soluble vitamin plays a crucial role in blood clotting? (FBISE 2022-I, Official Test Series)",
+      "options": {
+        "A": "Vitamin C",
+        "B": "Vitamin K",
+        "C": "Vitamin D",
+        "D": "Vitamin B12"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vitamin K is essential for the liver synthesis of prothrombin and other blood clotting factors; its deficiency results in delayed blood coagulation and hemorrhagic disorders."
+    },
+    {
+      "id": 4,
+      "question": "A deficiency of Vitamin D in growing children leads to the bone disease: (FBISE 2021-I, Official Test Series)",
+      "options": {
+        "A": "Scurvy",
+        "B": "Rickets",
+        "C": "Anemia",
+        "D": "Beriberi"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vitamin D promotes intestinal calcium and phosphate absorption. In children, Vitamin D deficiency leads to rickets, characterized by soft, weak, and deformed bones."
+    },
+    {
+      "id": 5,
+      "question": "Which vitamin is essential for maintaining healthy vision and the synthesis of visual purple (rhodopsin)? (FBISE 2020-II, Official Test Series)",
+      "options": {
+        "A": "Vitamin C",
+        "B": "Vitamin A (Retinol)",
+        "C": "Vitamin D",
+        "D": "Vitamin B1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vitamin A (retinol) is an essential component of rhodopsin, the light-sensitive pigment in retinal rod cells. Deficiency causes night blindness (nyctalopia) and xerophthalmia."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is classified as a water-soluble vitamin? (FBISE 2019-I, Official Test Series)",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Vitamin D",
+        "C": "Vitamin C (Ascorbic acid)",
+        "D": "Vitamin K"
+      },
+      "correctAnswer": "C",
+      "explanation": "Vitamins B-complex and C are water-soluble vitamins that are not stored in significant quantities in the human body and must be regularly supplied in the daily diet."
+    },
+    {
+      "id": 7,
+      "question": "Proteins are biopolymers constructed from repeating units of: (FBISE 2018-II, Official Test Series)",
+      "options": {
+        "A": "Glucose molecules",
+        "B": "Amino acids",
+        "C": "Nucleotides",
+        "D": "Fatty acids"
+      },
+      "correctAnswer": "B",
+      "explanation": "Proteins are long macromolecular polymers of $\\alpha$-amino acids linked together in a specific sequence by covalent peptide bonds ($-CO-NH-$)."
+    },
+    {
+      "id": 8,
+      "question": "The covalent linkage formed between the amino group of one amino acid and the carboxyl group of another is called a: (FBISE 2017-I, 2023-I)",
+      "options": {
+        "A": "Glycosidic bond",
+        "B": "Ester bond",
+        "C": "Peptide bond",
+        "D": "Phosphodiester bond"
+      },
+      "correctAnswer": "C",
+      "explanation": "During protein synthesis, a condensation reaction between $-COOH$ of one amino acid and $-NH_2$ of another eliminates a water molecule, creating an amide/peptide linkage ($-CO-NH-$)."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is an example of a monosaccharide (simple sugar)? (FBISE 2016-II, 2022-II)",
+      "options": {
+        "A": "Glucose",
+        "B": "Sucrose",
+        "C": "Starch",
+        "D": "Cellulose"
+      },
+      "correctAnswer": "A",
+      "explanation": "Glucose ($C_6H_{12}O_6$) is an aldohexose monosaccharide that cannot be hydrolyzed into simpler carbohydrate units."
+    },
+    {
+      "id": 10,
+      "question": "Sucrose (cane sugar or table sugar) on hydrolysis yields: (FBISE 2015-I, 2021-II)",
+      "options": {
+        "A": "Two molecules of glucose",
+        "B": "One molecule of glucose and one molecule of fructose",
+        "C": "One molecule of glucose and one molecule of galactose",
+        "D": "Two molecules of fructose"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sucrose is a disaccharide consisting of a glucose unit linked to a fructose unit. Acidic or enzymatic hydrolysis cleaves the glycosidic bond into one D-glucose and one D-fructose."
+    },
+    {
+      "id": 11,
+      "question": "Which polysaccharide serves as the main structural component of plant cell walls and makes up 95% of cotton? (FBISE 2014-I, 2020-I)",
+      "options": {
+        "A": "Starch",
+        "B": "Cellulose",
+        "C": "Glycogen",
+        "D": "Dextrin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cellulose is an unbranched polymer of $\\beta$-D-glucose providing rigidity and tensile strength to plant cell walls. Pure cotton fiber is approximately 95% cellulose."
+    },
+    {
+      "id": 12,
+      "question": "Animal starch, which is stored primarily in the liver and muscles of animals for energy reserve, is: (FBISE 2018-I)",
+      "options": {
+        "A": "Glycogen",
+        "B": "Cellulose",
+        "C": "Amylose",
+        "D": "Maltose"
+      },
+      "correctAnswer": "A",
+      "explanation": "Glycogen is a highly branched polysaccharide of $\\alpha$-D-glucose synthesized in mammals as an internal carbohydrate energy storage reserve, commonly referred to as animal starch."
+    },
+    {
+      "id": 13,
+      "question": "A saturated fatty acid is distinguished by the fact that: (FBISE 2019-II, Official Test Series)",
+      "options": {
+        "A": "It contains carbon-carbon double bonds",
+        "B": "It contains only single bonds between all carbon atoms in its hydrocarbon chain",
+        "C": "It is always a liquid at room temperature",
+        "D": "It dissolves easily in cold water"
+      },
+      "correctAnswer": "B",
+      "explanation": "Saturated fatty acids (like palmitic and stearic acids) have no $C=C$ double bonds, meaning all carbon atoms are saturated with hydrogen atoms, typically resulting in solid fats at room temperature."
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is an example of an unsaturated fatty acid? (FBISE 2017-II)",
+      "options": {
+        "A": "Palmitic acid ($C_{15}H_{31}COOH$)",
+        "B": "Stearic acid ($C_{17}H_{35}COOH$)",
+        "C": "Oleic acid ($C_{17}H_{33}COOH$)",
+        "D": "Acetic acid ($CH_3COOH$)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Oleic acid contains one cis-double bond ($C=C$) in its 18-carbon chain ($C_{17}H_{33}COOH$), classifying it as a monounsaturated fatty acid found in olive and vegetable oils."
+    },
+    {
+      "id": 15,
+      "question": "Fats and oils are chemically classified as: (FBISE 2016-I, Official Test Series)",
+      "options": {
+        "A": "Polymers of nucleotides",
+        "B": "Esters of glycerol and fatty acids (triglycerides)",
+        "C": "Ethers of carbohydrates",
+        "D": "Polypeptides"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fats and oils are triglycerides—triesters formed from one molecule of the trihydric alcohol glycerol and three long-chain fatty acid molecules."
+    },
+    {
+      "id": 16,
+      "question": "What is the primary biological function of deoxyribonucleic acid (DNA)? (FBISE 2021-I, Official Test Series)",
+      "options": {
+        "A": "Short-term energy storage",
+        "B": "Storage and transmission of genetic hereditary information",
+        "C": "Transport of oxygen in red blood cells",
+        "D": "Structural support in hair and nails"
+      },
+      "correctAnswer": "B",
+      "explanation": "DNA contains the master genetic code that instructs cells how to build proteins and transmits hereditary traits from parents to offspring."
+    },
+    {
+      "id": 17,
+      "question": "The primary role of ribonucleic acid (RNA) in cells is: (FBISE 2023-II, Official Test Series)",
+      "options": {
+        "A": "Protein synthesis",
+        "B": "Forming the outer lipid bilayer",
+        "C": "Long-term thermal insulation",
+        "D": "Breaking down glucose"
+      },
+      "correctAnswer": "A",
+      "explanation": "RNA molecules (mRNA, tRNA, rRNA) read the genetic instructions stored in DNA and translate them to assemble amino acids into functional proteins."
+    },
+    {
+      "id": 18,
+      "question": "The double helical structure of DNA was discovered in 1953 by: (FBISE 2020-I)",
+      "options": {
+        "A": "James Watson and Francis Crick",
+        "B": "Robert Hooke and Antonie van Leeuwenhoek",
+        "C": "Gregor Mendel and Louis Pasteur",
+        "D": "Friedrich Wöhler and Berzelius"
+      },
+      "correctAnswer": "A",
+      "explanation": "James Watson and Francis Crick proposed the double helix model of DNA in 1953 based on X-ray diffraction data collected by Rosalind Franklin and Maurice Wilkins."
+    },
+    {
+      "id": 19,
+      "question": "Deficiency of Vitamin C (ascorbic acid) causes: (FBISE 2015-II, Official Test Series)",
+      "options": {
+        "A": "Rickets",
+        "B": "Scurvy (bleeding gums and loose teeth)",
+        "C": "Night blindness",
+        "D": "Pellagra"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vitamin C is required for collagen hydroxylation. Its deficiency weakens connective tissues, resulting in scurvy, characterized by spongy bleeding gums, skin hemorrhages, and delayed wound healing."
+    },
+    {
+      "id": 20,
+      "question": "Which vitamin functions as a powerful lipid-soluble antioxidant protecting cell membranes from free radical oxidation? (Official Test Series)",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Vitamin E (Tocopherol)",
+        "C": "Vitamin K",
+        "D": "Vitamin B6"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vitamin E acts as a biological antioxidant, scavenging reactive free radicals and preventing lipid peroxidation in cellular membranes."
+    },
+    {
+      "id": 21,
+      "question": "How many standard amino acids are utilized by living organisms to construct biological proteins? (FBISE 2019-II)",
+      "options": {
+        "A": "10",
+        "B": "20",
+        "C": "50",
+        "D": "100"
+      },
+      "correctAnswer": "B",
+      "explanation": "There are 20 standard $\\alpha$-amino acids encoded by the universal genetic code that serve as the universal building blocks for all living proteins."
+    },
+    {
+      "id": 22,
+      "question": "Essential amino acids are defined as those that: (FBISE 2018-II)",
+      "options": {
+        "A": "Can be readily synthesized by the human body",
+        "B": "Cannot be synthesized by the human body and must be supplied in food",
+        "C": "Are only required by plants",
+        "D": "Do not contain nitrogen"
+      },
+      "correctAnswer": "B",
+      "explanation": "Out of 20 amino acids, 10 cannot be synthesized by human metabolic pathways at rates required for health and must be obtained directly through diet; these are termed essential amino acids."
+    },
+    {
+      "id": 23,
+      "question": "Cholesterol belongs to which broad biochemical class of organic compounds? (Official Test Series)",
+      "options": {
+        "A": "Carbohydrates",
+        "B": "Proteins",
+        "C": "Lipids (Steroids)",
+        "D": "Nucleic acids"
+      },
+      "correctAnswer": "C",
+      "explanation": "Cholesterol is a sterol (a modified steroid lipid) derived from animal products that serves as an essential membrane component and precursor for bile acids and steroid hormones."
+    },
+    {
+      "id": 24,
+      "question": "The adipose fat tissue layer situated beneath the skin of mammals primarily acts as: (Official Test Series)",
+      "options": {
+        "A": "An electrical conductor",
+        "B": "A thermal insulator preventing heat loss",
+        "C": "An enzyme factory",
+        "D": "A pigment store"
+      },
+      "correctAnswer": "B",
+      "explanation": "Subcutaneous fat has very low thermal conductivity and functions as a biological thermal insulator, conserving body heat in mammals against cold environments."
+    },
+    {
+      "id": 25,
+      "question": "Proteins are essential biological constituents of the living matter of cells known as: (FBISE 2025 Model)",
+      "options": {
+        "A": "Cellulose",
+        "B": "Protoplasm",
+        "C": "Cholesterol",
+        "D": "Dextrin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Protoplasm—the entire living substance of a cell (cytoplasm and nucleus)—consists primarily of water, proteins, nucleic acids, and lipids, where proteins provide structure and enzymatic activity."
+    },
+    {
+      "id": 26,
+      "question": "Which of the following is a pentose sugar found in RNA nucleotides?",
+      "options": {
+        "A": "Deoxyribose",
+        "B": "Ribose",
+        "C": "Glucose",
+        "D": "Fructose"
+      },
+      "correctAnswer": "B",
+      "explanation": "RNA nucleotides contain the five-carbon furanose sugar D-ribose ($C_5H_{10}O_5$), which has a hydroxyl group on carbon-2, unlike 2-deoxyribose in DNA."
+    },
+    {
+      "id": 27,
+      "question": "Which base pairing is complementary in a double-stranded DNA molecule?",
+      "options": {
+        "A": "Adenine with Thymine ($A=T$); Guanine with Cytosine ($G\\equiv C$)",
+        "B": "Adenine with Guanine; Thymine with Cytosine",
+        "C": "Adenine with Uracil; Guanine with Thymine",
+        "D": "Cytosine with Uracil; Adenine with Thymine"
+      },
+      "correctAnswer": "A",
+      "explanation": "In DNA, according to Chargaff's rules, Adenine forms two hydrogen bonds with Thymine ($A=T$), and Guanine forms three hydrogen bonds with Cytosine ($G\\equiv C$)."
+    },
+    {
+      "id": 28,
+      "question": "What type of chemical reaction converts liquid vegetable oils into solid vegetable fats (ghee)?",
+      "options": {
+        "A": "Hydrolysis",
+        "B": "Catalytic hydrogenation of $C=C$ double bonds",
+        "C": "Esterification",
+        "D": "Fermentation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Catalytic hydrogenation adds hydrogen across the unsaturated double bonds of liquid oil triglycerides in the presence of nickel at 250°C, transforming them into saturated solid fats."
+    },
+    {
+      "id": 29,
+      "question": "Which carbohydrate gives a characteristic deep blue-black color when treated with iodine solution?",
+      "options": {
+        "A": "Glucose",
+        "B": "Starch",
+        "C": "Cellulose",
+        "D": "Sucrose"
+      },
+      "correctAnswer": "B",
+      "explanation": "Starch contains helical amylose coils that trap triiodide ($I_3^-$) ions, forming an intensely colored blue-black coordination complex—the classic diagnostic test for starch."
+    },
+    {
+      "id": 30,
+      "question": "Lactose (milk sugar) is a disaccharide composed of which two monosaccharide units?",
+      "options": {
+        "A": "Glucose and Galactose",
+        "B": "Glucose and Fructose",
+        "C": "Glucose and Glucose",
+        "D": "Fructose and Galactose"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lactose consists of one molecule of $\\beta$-D-galactose linked by a $\\beta-(1\\to 4)$ glycosidic bond to one molecule of D-glucose."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is a fibrous, insoluble protein found in human hair, nails, and outer skin layers?",
+      "options": {
+        "A": "Hemoglobin",
+        "B": "Keratin",
+        "C": "Insulin",
+        "D": "Albumin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Keratin is an insoluble, cysteine-rich structural fibrous protein that forms protective outer coverings including hair, fingernails, wool, and feathers."
+    },
+    {
+      "id": 32,
+      "question": "Which globular protein is responsible for transporting oxygen gas in vertebrate red blood cells?",
+      "options": {
+        "A": "Myoglobin",
+        "B": "Hemoglobin",
+        "C": "Collagen",
+        "D": "Actin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hemoglobin is an iron-containing tetrameric globular protein located inside erythrocytes that binds oxygen in the lungs and releases it into body tissues."
+    },
+    {
+      "id": 33,
+      "question": "The primary cause of the neurological condition Beriberi is a severe dietary deficiency of:",
+      "options": {
+        "A": "Vitamin B1 (Thiamine)",
+        "B": "Vitamin C",
+        "C": "Vitamin D",
+        "D": "Vitamin A"
+      },
+      "correctAnswer": "A",
+      "explanation": "Beriberi results from a deficiency of thiamine (Vitamin B1), which is essential for carbohydrate catabolism and nerve function, common in diets reliant on polished white rice."
+    },
+    {
+      "id": 34,
+      "question": "Which of the following carbohydrates is non-reducing sugar?",
+      "options": {
+        "A": "Glucose",
+        "B": "Fructose",
+        "C": "Maltose",
+        "D": "Sucrose"
+      },
+      "correctAnswer": "D",
+      "explanation": "In sucrose, both anomeric carbons of glucose and fructose are bonded together in a $1\\to 2$ glycosidic linkage, leaving no free aldehyde or ketone group to reduce Fehling's or Benedict's reagent."
+    },
+    {
+      "id": 35,
+      "question": "What is the general chemical formula representing carbohydrates?",
+      "options": {
+        "A": "$C_x(H_2O)_y$",
+        "B": "$C_nH_{2n}$",
+        "C": "$C_nH_{2n+2}O$",
+        "D": "$C_xH_yN_z$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carbohydrates were historically considered hydrates of carbon because many have the empirical ratio $C_x(H_2O)_y$ (e.g., glucose is $C_6(H_2O)_6$ or $C_6H_{12}O_6$)."
+    },
+    {
+      "id": 36,
+      "question": "Enzymes are specialized biological catalysts composed of:",
+      "options": {
+        "A": "Globular proteins",
+        "B": "Phospholipids",
+        "C": "Polysaccharides",
+        "D": "Polypeptide steroids"
+      },
+      "correctAnswer": "A",
+      "explanation": "All enzymes are globular proteins that speed up biochemical reactions in cells by lowering activation energy while exhibiting exquisite substrate specificity."
+    },
+    {
+      "id": 37,
+      "question": "Which of the following organic acids is a major saturated fatty acid found in butter, palm oil, and animal tallow?",
+      "options": {
+        "A": "Palmitic acid ($C_{15}H_{31}COOH$)",
+        "B": "Oleic acid",
+        "C": "Linoleic acid",
+        "D": "Oxalic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Palmitic acid is a 16-carbon saturated fatty acid ($CH_3(CH_2)_{14}COOH$) abundantly present in palm oil, dairy fat, and animal adipose tissue."
+    },
+    {
+      "id": 38,
+      "question": "DNA and RNA are composed of alternating chains of:",
+      "options": {
+        "A": "Amino acids and fatty acids",
+        "B": "Sugar molecules and phosphate groups",
+        "C": "Glucose and fructose",
+        "D": "Lipids and proteins"
+      },
+      "correctAnswer": "B",
+      "explanation": "The structural backbone of a nucleic acid strand consists of alternating phosphate groups and pentose sugar residues connected by phosphodiester linkages."
+    },
+    {
+      "id": 39,
+      "question": "Fructose is chemically classified as a(n):",
+      "options": {
+        "A": "Aldohexose",
+        "B": "Ketohexose",
+        "C": "Aldopentose",
+        "D": "Disaccharide"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fructose ($C_6H_{12}O_6$) is a 6-carbon monosaccharide that contains a ketone group at carbon-2, classifying it as a ketohexose (fruit sugar)."
+    },
+    {
+      "id": 40,
+      "question": "Which condition is caused by a deficiency of Vitamin B12 (Cobalamin)?",
+      "options": {
+        "A": "Pernicious anemia",
+        "B": "Night blindness",
+        "C": "Scurvy",
+        "D": "Rickets"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vitamin B12 is essential for red blood cell maturation and myelin synthesis. Its deficiency or failure of intrinsic factor absorption produces pernicious (megaloblastic) anemia."
+    },
+    {
+      "id": 41,
+      "question": "Which of the following foods is the richest natural source of Vitamin C?",
+      "options": {
+        "A": "Citrus fruits (oranges, lemons, amla)",
+        "B": "Fish liver oil",
+        "C": "Egg yolk",
+        "D": "Butter"
+      },
+      "correctAnswer": "A",
+      "explanation": "Citrus fruits such as oranges, lemons, limes, amla (Indian gooseberry), and guavas are exceptionally rich sources of Vitamin C (ascorbic acid)."
+    },
+    {
+      "id": 42,
+      "question": "What type of lipid forms the fundamental lipid bilayer framework of all biological cell membranes?",
+      "options": {
+        "A": "Phospholipids",
+        "B": "Waxes",
+        "C": "Triglycerides",
+        "D": "Paraffin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Phospholipids have amphipathic properties with a hydrophilic phosphate head and two hydrophobic fatty acid tails, naturally assembling into stable bilayers in aqueous media."
+    },
+    {
+      "id": 43,
+      "question": "Which of the following carbohydrates cannot be digested by the human gastrointestinal tract due to lack of cellulase enzyme?",
+      "options": {
+        "A": "Starch",
+        "B": "Cellulose (dietary fiber)",
+        "C": "Glycogen",
+        "D": "Sucrose"
+      },
+      "correctAnswer": "B",
+      "explanation": "Human digestive enzymes can cleave $\\alpha-(1\\to 4)$ glycosidic bonds in starch, but lack cellulase to hydrolyze $\\beta-(1\\to 4)$ linkages in cellulose, which passes as insoluble dietary fiber."
+    },
+    {
+      "id": 44,
+      "question": "How many hydrogen bonds connect Guanine and Cytosine in a DNA double helix?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "C",
+      "explanation": "Between guanine and cytosine, there are three specific hydrogen bonds ($G\\equiv C$), providing higher thermal stability than the two hydrogen bonds between adenine and thymine ($A=T$)."
+    },
+    {
+      "id": 45,
+      "question": "Which vitamin is synthesized in human skin upon exposure to solar ultraviolet (UV) radiation?",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Vitamin D",
+        "C": "Vitamin E",
+        "D": "Vitamin K"
+      },
+      "correctAnswer": "B",
+      "explanation": "Photochemical conversion of 7-dehydrocholesterol in the epidermal layer of skin by solar UV-B rays synthesizes cholecalciferol (Vitamin D3)."
+    }
+  ]
+}

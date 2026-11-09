@@ -1,0 +1,491 @@
+{
+  "chapterNumber": 6,
+  "chapterTitle": "Unit 14: Environmental Chemistry I — Atmosphere",
+  "slug": "chemistry-10-chapter-6",
+  "totalQuestions": 40,
+  "fileName": "chemistry-10-chapter-6.json",
+  "subject": "chemistry-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The gaseous envelope surrounding planet Earth is scientifically known as the: (FBISE 2025 Model)",
+      "options": {
+        "A": "Mesosphere",
+        "B": "Atmosphere",
+        "C": "Troposphere",
+        "D": "Lithosphere"
+      },
+      "correctAnswer": "B",
+      "explanation": "The atmosphere is the complete gaseous envelope held around Earth by gravity, divided into four primary thermal layers: troposphere, stratosphere, mesosphere, and thermosphere."
+    },
+    {
+      "id": 2,
+      "question": "Which atmospheric layer lies closest to the Earth's surface (extending from 0 to approximately 12 km) and contains 75% of atmospheric mass? (FBISE 2024-II)",
+      "options": {
+        "A": "Stratosphere",
+        "B": "Troposphere",
+        "C": "Mesosphere",
+        "D": "Thermosphere"
+      },
+      "correctAnswer": "B",
+      "explanation": "The troposphere is the lowest atmospheric layer extending up to ~12 km above sea level. Almost all weather phenomena (clouds, rainfall, winds) occur here, and temperature decreases with altitude."
+    },
+    {
+      "id": 3,
+      "question": "In the troposphere, the temperature decreases steadily with increasing altitude at an average lapse rate of: (FBISE 2023-I)",
+      "options": {
+        "A": "$-2.5^\\circ\\text{C per km}$",
+        "B": "$-6.5^\\circ\\text{C per km}$",
+        "C": "$-10.0^\\circ\\text{C per km}$",
+        "D": "$-1.0^\\circ\\text{C per km}$"
+      },
+      "correctAnswer": "B",
+      "explanation": "In the troposphere, the temperature drops with height at an average rate of approximately $-6.5^\\circ\\text{C}$ per kilometer, decreasing from ~17°C at ground level to about $-55^\\circ\\text{C}$ at the tropopause."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is a primary air pollutant? (FBISE 2025 Model)",
+      "options": {
+        "A": "Nitrogen dioxide ($NO_2$)",
+        "B": "Neon ($Ne$)",
+        "C": "Oxygen ($O_2$)",
+        "D": "Argon ($Ar$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "$NO_2$ is a major toxic primary pollutant emitted directly from fossil fuel combustion in motor vehicles and thermal power stations, contributing to smog and acid rain."
+    },
+    {
+      "id": 5,
+      "question": "Identify the secondary air pollutant from the following list: (FBISE 2022-II, 2024-I)",
+      "options": {
+        "A": "Carbon monoxide ($CO$)",
+        "B": "Sulphur dioxide ($SO_2$)",
+        "C": "Sulphuric acid ($H_2SO_4$)",
+        "D": "Nitric oxide ($NO$)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Secondary pollutants are not emitted directly into the air but form via chemical reactions among primary pollutants. Sulphuric acid ($H_2SO_4$) is formed when primary $SO_2$ is oxidized in atmospheric moisture."
+    },
+    {
+      "id": 6,
+      "question": "Which gaseous pollutant binds strongly and irreversibly with blood hemoglobin to form carboxyhemoglobin, blocking oxygen transport? (FBISE 2021-I, 2023-II)",
+      "options": {
+        "A": "Carbon dioxide ($CO_2$)",
+        "B": "Carbon monoxide ($CO$)",
+        "C": "Sulphur dioxide ($SO_2$)",
+        "D": "Methane ($CH_4$)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbon monoxide ($CO$) has an affinity for hemoglobin over 200 times higher than oxygen. It forms stable carboxyhemoglobin, causing oxygen starvation, asphyxiation, and death."
+    },
+    {
+      "id": 7,
+      "question": "The ozone layer ($O_3$) that absorbs harmful ultraviolet (UV) radiation from sunlight is primarily located in the: (FBISE 2020-II)",
+      "options": {
+        "A": "Troposphere",
+        "B": "Stratosphere (mid-region, 25 to 30 km)",
+        "C": "Mesosphere",
+        "D": "Thermosphere"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ozone is concentrated in the mid-stratosphere between 25 and 30 km above the Earth's surface, where it absorbs lethal solar UV-B and UV-C rays, shielding life on Earth."
+    },
+    {
+      "id": 8,
+      "question": "What happens to the temperature in the stratosphere with increasing altitude? (FBISE 2019-II, Official Test Series)",
+      "options": {
+        "A": "Decreases steadily down to $-93^\\circ\\text{C}$",
+        "B": "Increases from about $-55^\\circ\\text{C}$ up to $0^\\circ\\text{C}$",
+        "C": "Remains constant at room temperature",
+        "D": "Drops to absolute zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "In the stratosphere (12 to 50 km), ozone continuously absorbs solar ultraviolet radiation and releases thermal energy, causing the temperature to rise from $-55^\\circ\\text{C}$ at the base to ~0°C at the stratopause."
+    },
+    {
+      "id": 9,
+      "question": "Rainwater is classified as 'acid rain' when its measured pH falls below: (FBISE 2018-I, 2022-I)",
+      "options": {
+        "A": "7.0",
+        "B": "6.5",
+        "C": "5.6",
+        "D": "2.0"
+      },
+      "correctAnswer": "C",
+      "explanation": "Unpolluted rainwater naturally has a pH of approximately 5.6 due to dissolved atmospheric $CO_2$ forming weak carbonic acid. Any precipitation with a pH below 5.6 is defined as acid rain."
+    },
+    {
+      "id": 10,
+      "question": "Which two acidic gases are primarily responsible for the formation of acid rain? (FBISE 2017-I, 2021-II)",
+      "options": {
+        "A": "$SO_2$ and $NO_x$",
+        "B": "$CO_2$ and $O_2$",
+        "C": "$N_2$ and $H_2$",
+        "D": "$CH_4$ and $Ar$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sulphur dioxide ($SO_2$, from burning fossil fuels like coal) and nitrogen oxides ($NO$ and $NO_2$, from vehicle engines) dissolve in cloud water droplets to form strong sulphuric ($H_2SO_4$) and nitric ($HNO_3$) acids."
+    },
+    {
+      "id": 11,
+      "question": "Acid rain attacks and erodes historical buildings, monuments, and statues constructed of marble and limestone ($CaCO_3$) by forming: (FBISE 2016-II)",
+      "options": {
+        "A": "Soluble calcium sulphate ($CaSO_4$)",
+        "B": "Insoluble calcium carbide",
+        "C": "Pure calcium metal",
+        "D": "Calcium hydroxide"
+      },
+      "correctAnswer": "A",
+      "explanation": "$CaCO_3 + H_2SO_4 \\to CaSO_4 + H_2O + CO_2\\uparrow$. The insoluble marble turns into slightly soluble calcium sulphate (gypsum), which leaches away, causing crumbling known as 'stone leprosy'."
+    },
+    {
+      "id": 12,
+      "question": "Why does acid rain cause massive mortality among freshwater fish in acidified lakes? (FBISE 2015-II, 2020-I)",
+      "options": {
+        "A": "It removes all nitrogen gas from water",
+        "B": "It leaches toxic aluminum ($Al^{3+}$) ions from soil, clogging fish gills",
+        "C": "It freezes the surface of lakes solid",
+        "D": "It increases the salt concentration to ocean levels"
+      },
+      "correctAnswer": "B",
+      "explanation": "Acid rain leaches heavy metals, particularly aluminum ($Al^{3+}$), from surrounding soils into waterways. In fish, aluminum precipitates as aluminum hydroxide over gill membranes, causing asphyxiation and death."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following compounds is the chief catalyst responsible for the destruction of stratospheric ozone? (FBISE 2014-I, 2019-I)",
+      "options": {
+        "A": "Chlorofluorocarbons (CFCs releasing $Cl^\\bullet$ radicals)",
+        "B": "Carbon dioxide ($CO_2$)",
+        "C": "Water vapor",
+        "D": "Helium gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chlorofluorocarbons (CFCs, Freons) drift up to the stratosphere where UV radiation breaks carbon-chlorine bonds to release reactive chlorine free radicals ($Cl^\\bullet$). Each chlorine radical can catalytically destroy over 100,000 ozone molecules."
+    },
+    {
+      "id": 14,
+      "question": "The prominent greenhouse gases responsible for trapping infrared thermal radiation and causing global warming are: (FBISE 2018-II)",
+      "options": {
+        "A": "$N_2$ and $O_2$",
+        "B": "$CO_2$, $CH_4$, and water vapor ($H_2O$)",
+        "C": "$Ar$ and $He$",
+        "D": "$H_2$ and $Cl_2$"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbon dioxide ($CO_2$), methane ($CH_4$), water vapor ($H_2O$), nitrous oxide ($N_2O$), and CFCs absorb outgoing longwave infrared radiation re-emitted by Earth's surface, trapping thermal energy."
+    },
+    {
+      "id": 15,
+      "question": "A triatomic allotropic molecule of oxygen produced when electrical discharges or UV light pass through atmospheric oxygen is: (FBISE 2019-I)",
+      "options": {
+        "A": "$O_2$",
+        "B": "Ozone ($O_3$)",
+        "C": "$O^{2-}$",
+        "D": "Peroxide ($O_2^{2-}$)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ozone ($O_3$) is a pale blue, pungent gas formed photochemically or by lightning discharges: $O_2 + O \\rightleftharpoons O_3$."
+    },
+    {
+      "id": 16,
+      "question": "What is the coldest thermal region of the Earth's atmosphere, reaching temperatures down to $-93^\\circ\\text{C}$? (FBISE 2017-II)",
+      "options": {
+        "A": "Troposphere",
+        "B": "Stratosphere",
+        "C": "Mesosphere (50 to 85 km)",
+        "D": "Thermosphere"
+      },
+      "correctAnswer": "C",
+      "explanation": "The mesosphere extends from 50 km to 85 km. Because it contains virtually no greenhouse gases or ozone to absorb radiation, temperature drops with altitude, reaching $-93^\\circ\\text{C}$ at the mesopause."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following human health hazards is directly linked to increased ultraviolet radiation reaching the Earth due to stratospheric ozone depletion?",
+      "options": {
+        "A": "Skin cancer (melanoma) and eye cataracts",
+        "B": "Type 1 diabetes",
+        "C": "Iron deficiency anemia",
+        "D": "Kidney stones"
+      },
+      "correctAnswer": "A",
+      "explanation": "Excessive exposure to high-energy solar UV-B rays damages DNA in epidermal skin cells, causing skin cancers (melanomas), and photochemically damages lens proteins in eyes, inducing cataracts."
+    },
+    {
+      "id": 18,
+      "question": "Incineration of municipal domestic solid waste without adequate pollution control releases large amounts of: (FBISE 2016-I)",
+      "options": {
+        "A": "Toxic dioxins, furans, and particulate smoke",
+        "B": "Pure oxygen gas",
+        "C": "Ozone gas",
+        "D": "Helium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Burning chlorinated plastics and municipal waste produces extremely toxic polychlorinated dibenzodioxins and furans, along with heavy smoke and particulate matter."
+    },
+    {
+      "id": 19,
+      "question": "What percentage of clean dry atmospheric air by volume is composed of inert nitrogen ($N_2$) gas?",
+      "options": {
+        "A": "21%",
+        "B": "50%",
+        "C": "78%",
+        "D": "0.04%"
+      },
+      "correctAnswer": "C",
+      "explanation": "Nitrogen ($N_2$) is the most abundant gas in Earth's atmosphere, accounting for approximately 78.08% of clean dry air by volume."
+    },
+    {
+      "id": 20,
+      "question": "What percentage of clean dry atmospheric air by volume is composed of oxygen ($O_2$) gas?",
+      "options": {
+        "A": "78%",
+        "B": "20.95% (~21%)",
+        "C": "0.93%",
+        "D": "0.04%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Oxygen ($O_2$) comprises approximately 20.95% (~21%) of Earth's atmosphere by volume, supporting respiration and combustion."
+    },
+    {
+      "id": 21,
+      "question": "What is the concentration of carbon dioxide ($CO_2$) in normal clean ambient air?",
+      "options": {
+        "A": "0.04% (~400 ppm)",
+        "B": "1.0%",
+        "C": "0.93%",
+        "D": "5.0%"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carbon dioxide makes up approximately 0.04% (400–420 parts per million) of the ambient atmosphere by volume."
+    },
+    {
+      "id": 22,
+      "question": "The 'ozone hole' is a seasonal severe thinning of the ozone layer observed primarily over which geographic region?",
+      "options": {
+        "A": "Equator",
+        "B": "Antarctica (South Pole)",
+        "C": "Sahara Desert",
+        "D": "Indian Ocean"
+      },
+      "correctAnswer": "B",
+      "explanation": "Extremely cold polar stratospheric clouds (PSCs) over Antarctica create optimal heterogeneous surfaces that accelerate chlorine radical reactions, causing dramatic seasonal ozone depletion each austral spring."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following reactions accurately illustrates the formation of acid rain from sulphur trioxide?",
+      "options": {
+        "A": "$SO_3 + H_2O \\to H_2SO_4$",
+        "B": "$SO_2 + H_2O \\to H_2SO_3$",
+        "C": "$CO_2 + H_2O \\to H_2CO_3$",
+        "D": "$2NO_2 + H_2O \\to HNO_3 + HNO_2$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sulphur trioxide ($SO_3$) readily dissolves in atmospheric water droplets to form strong sulphuric acid: $SO_3(g) + H_2O(l) \\to H_2SO_4(aq)$."
+    },
+    {
+      "id": 24,
+      "question": "Which chemical pollutant is responsible for yellowing of paper and damage to historical paintings and leather?",
+      "options": {
+        "A": "Sulphur dioxide ($SO_2$)",
+        "B": "Helium ($He$)",
+        "C": "Nitrogen ($N_2$)",
+        "D": "Methane ($CH_4$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "$SO_2$ reacts with atmospheric moisture to form sulphurous and sulphuric acids that hydrolyze and weaken cellulose fibers in paper and protein bonds in leather."
+    },
+    {
+      "id": 25,
+      "question": "Photochemical smog is formed on warm, sunny days by the interaction of solar UV rays with which combination of pollutants?",
+      "options": {
+        "A": "Nitrogen oxides ($NO_x$) and unburnt volatile organic hydrocarbons",
+        "B": "Carbon dioxide and oxygen",
+        "C": "Helium and argon",
+        "D": "Nitrogen and hydrogen"
+      },
+      "correctAnswer": "A",
+      "explanation": "Photochemical smog is a mixture of secondary oxidants (ozone, PAN, aldehydes) produced when solar UV light photolyzes $NO_2$ in the presence of reactive hydrocarbons."
+    },
+    {
+      "id": 26,
+      "question": "Why is carbon monoxide ($CO$) termed a 'silent killer'?",
+      "options": {
+        "A": "It is completely colorless, odorless, non-irritating, and rapidly fatal",
+        "B": "It has an intensely loud hissing sound",
+        "C": "It turns the victim green",
+        "D": "It smells like rotten eggs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Because $CO$ has no odor, color, or taste, victims cannot detect its presence while inhaling it, causing loss of consciousness without warning."
+    },
+    {
+      "id": 27,
+      "question": "What is the direct consequence of excessive greenhouse gases in the atmosphere?",
+      "options": {
+        "A": "Global warming and climate change",
+        "B": "Depletion of all nitrogen gas",
+        "C": "Complete extinction of photosynthesis",
+        "D": "Permanent freezing of the equator"
+      },
+      "correctAnswer": "A",
+      "explanation": "Accumulation of greenhouse gases traps more thermal infrared radiation in the lower atmosphere, driving rising global mean temperatures, polar ice melting, and sea-level rise."
+    },
+    {
+      "id": 28,
+      "question": "Which of the following oxides of nitrogen is a reddish-brown, pungent gas?",
+      "options": {
+        "A": "Nitrogen dioxide ($NO_2$)",
+        "B": "Nitric oxide ($NO$)",
+        "C": "Nitrous oxide ($N_2O$)",
+        "D": "Dinitrogen pentoxide ($N_2O_5$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "$NO_2$ is a reddish-brown gas with a sharp, biting odor that is a major constituent of brown photochemical smog hanging over urban areas."
+    },
+    {
+      "id": 29,
+      "question": "How does acid rain damage terrestrial plant foliage and trees?",
+      "options": {
+        "A": "It strips protective cuticle wax from leaves and leaches nutrients like calcium and magnesium",
+        "B": "It turns chlorophyll into sugar",
+        "C": "It causes trees to produce excess fruit",
+        "D": "It causes immediate boiling of sap"
+      },
+      "correctAnswer": "A",
+      "explanation": "Acid precipitation dissolves the protective waxy layer on leaf surfaces, allowing water and pathogens to penetrate while leaching essential mineral nutrients from soil."
+    },
+    {
+      "id": 30,
+      "question": "The global international treaty designed to protect the ozone layer by phasing out the production of CFCs is the:",
+      "options": {
+        "A": "Montreal Protocol (1987)",
+        "B": "Kyoto Protocol",
+        "C": "Geneva Convention",
+        "D": "Paris Agreement"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer was adopted in 1987 to phase out production and consumption of chlorofluorocarbons and halons globally."
+    },
+    {
+      "id": 31,
+      "question": "Which catalytic step demonstrates the catalytic destruction of ozone by chlorine radicals ($Cl^\\bullet$)?",
+      "options": {
+        "A": "$Cl^\\bullet + O_3 \\to ClO^\\bullet + O_2$",
+        "B": "$Cl_2 + O_2 \\to 2ClO$",
+        "C": "$C + O_2 \\to CO_2$",
+        "D": "$HCl + O_3 \\to H_2O + Cl_2$"
+      },
+      "correctAnswer": "A",
+      "explanation": "The chlorine free radical attacks ozone to generate chlorine monoxide radical and oxygen: $Cl^\\bullet + O_3 \\to ClO^\\bullet + O_2$. Subsequent reaction with free oxygen atoms regenerates $Cl^\\bullet$."
+    },
+    {
+      "id": 32,
+      "question": "Which gas is released in substantial quantities from flooded rice paddy fields and ruminant livestock digestion (enteric fermentation)?",
+      "options": {
+        "A": "Methane ($CH_4$)",
+        "B": "Sulphur dioxide",
+        "C": "Chlorine",
+        "D": "Helium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Anaerobic methanogenic bacteria in waterlogged paddy fields and ruminant animal digestive tracts decompose organic matter to produce large quantities of methane ($CH_4$), a potent greenhouse gas."
+    },
+    {
+      "id": 33,
+      "question": "The atmospheric layer extending from 85 km up to approximately 500 km where temperature increases dramatically due to solar X-rays is the:",
+      "options": {
+        "A": "Thermosphere",
+        "B": "Troposphere",
+        "C": "Stratosphere",
+        "D": "Mesosphere"
+      },
+      "correctAnswer": "A",
+      "explanation": "In the thermosphere (above 85 km), intense solar X-ray and extreme UV radiation ionizes gas molecules, increasing temperature with altitude up to several hundred degrees Celsius."
+    },
+    {
+      "id": 34,
+      "question": "Which gas is used as an inert shielding gas in welding and filling incandescent electric bulbs?",
+      "options": {
+        "A": "Argon ($Ar$)",
+        "B": "Chlorine ($Cl_2$)",
+        "C": "Oxygen ($O_2$)",
+        "D": "Carbon monoxide ($CO$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Argon ($Ar$) is an unreactive noble gas (0.93% of atmosphere) used as an inert gas shield in arc welding and in light bulbs to prevent tungsten filament oxidation."
+    },
+    {
+      "id": 35,
+      "question": "What is the primary natural source of carbon dioxide in the Earth's atmosphere?",
+      "options": {
+        "A": "Aerobic respiration of living organisms and decay of organic matter",
+        "B": "Photosynthesis",
+        "C": "Nuclear fusion in oceans",
+        "D": "Radioactive decay of helium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Biological cellular respiration by plants, animals, and microorganisms releases carbon dioxide as glucose is oxidized to produce cellular energy ($ATP$)."
+    },
+    {
+      "id": 36,
+      "question": "What happens when catalytic converters are installed in modern automobile exhaust systems?",
+      "options": {
+        "A": "Toxic $CO$ and unburnt hydrocarbons are oxidized to harmless $CO_2$ and $H_2O$, and $NO_x$ is reduced to $N_2$",
+        "B": "They produce pure ozone gas",
+        "C": "They eliminate all fuel consumption completely",
+        "D": "They generate liquefied natural gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "Three-way catalytic converters use platinum, palladium, and rhodium catalysts to convert harmful emissions ($CO$, hydrocarbons, and $NO_x$) into harmless nitrogen ($N_2$), carbon dioxide ($CO_2$), and water vapor."
+    },
+    {
+      "id": 37,
+      "question": "Which layer of the atmosphere contains the ionosphere which reflects radio waves back to Earth for telecommunications?",
+      "options": {
+        "A": "Thermosphere",
+        "B": "Troposphere",
+        "C": "Stratosphere",
+        "D": "Lithosphere"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ionosphere overlaps the thermosphere and contains high concentrations of free ions and electrons that reflect high-frequency radio waves back to Earth."
+    },
+    {
+      "id": 38,
+      "question": "Which particulate air pollutant released from burning low-grade coal causes black lung disease (anthracosis) in coal miners?",
+      "options": {
+        "A": "Coal dust / carbon soot particles",
+        "B": "Pure helium",
+        "C": "Water droplets",
+        "D": "Argon"
+      },
+      "correctAnswer": "A",
+      "explanation": "Inhalation of fine coal dust particles over prolonged periods causes anthracosis (black lung disease), characterized by chronic inflammation and fibrosis of pulmonary lung tissue."
+    },
+    {
+      "id": 39,
+      "question": "What is the effect of global warming on the world's sea levels?",
+      "options": {
+        "A": "Sea levels rise due to thermal expansion of ocean water and melting of continental glaciers and ice sheets",
+        "B": "Sea levels drop drastically as water evaporates into outer space",
+        "C": "Sea levels remain completely static",
+        "D": "Oceans turn into solid ice"
+      },
+      "correctAnswer": "A",
+      "explanation": "Warming atmospheric temperatures cause thermal expansion of ocean water and accelerate the melting of land-based polar ice caps and glaciers, causing sea levels to rise."
+    },
+    {
+      "id": 40,
+      "question": "Which indicator gas is commonly monitored to assess air pollution from diesel exhaust and heavy urban traffic?",
+      "options": {
+        "A": "Nitrogen oxides ($NO_x$) and particulate matter ($PM_{2.5}$)",
+        "B": "Argon",
+        "C": "Oxygen",
+        "D": "Helium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Diesel engines emit significant quantities of nitrogen oxides ($NO_x$) and fine particulate soot ($PM_{2.5}$), making them prime indicators of urban vehicular air pollution."
+    }
+  ]
+}

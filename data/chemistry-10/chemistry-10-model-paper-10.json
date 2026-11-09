@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 18,
+  "chapterTitle": "FBISE Annual Exam Simulator 10 (Full-Book Board Examination Simulator)",
+  "slug": "chemistry-10-model-paper-10",
+  "totalQuestions": 12,
+  "fileName": "chemistry-10-model-paper-10.json",
+  "subject": "chemistry-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "When $Q_c = K_c$, the reaction is in a state of: (FBISE Full-Book Board Simulator)",
+      "options": {
+        "A": "Dynamic equilibrium",
+        "B": "Forward acceleration",
+        "C": "Reverse acceleration",
+        "D": "Complete conversion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equality of $Q_c$ and $K_c$ indicates dynamic equilibrium."
+    },
+    {
+      "id": 2,
+      "question": "What is the pH of pure water at $25^\\circ\\text{C}$? (FBISE Full-Book Board Simulator)",
+      "options": {
+        "A": "7",
+        "B": "0",
+        "C": "14",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "$[H^+] = 10^{-7}\\text{ M} \\implies pH = 7$."
+    },
+    {
+      "id": 3,
+      "question": "A substance that acts as an electron-pair donor is a Lewis: (FBISE Full-Book Board Simulator)",
+      "options": {
+        "A": "Base",
+        "B": "Acid",
+        "C": "Salt",
+        "D": "Indicator"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lewis bases possess lone electron pairs available for coordinate covalent donation."
+    },
+    {
+      "id": 4,
+      "question": "Friedrich Wöhler synthesized urea from which inorganic compound? (FBISE Full-Book Board Simulator)",
+      "options": {
+        "A": "Ammonium cyanate ($NH_4CNO$)",
+        "B": "Ammonium carbonate",
+        "C": "Ammonia",
+        "D": "Uric acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Heating ammonium cyanate converts it into urea."
+    },
+    {
+      "id": 5,
+      "question": "The functional group characteristic of aldehydes is: (FBISE Full-Book Board Simulator)",
+      "options": {
+        "A": "$-CHO$",
+        "B": "$-COOH$",
+        "C": "$-OH$",
+        "D": "$-COOR$"
+      },
+      "correctAnswer": "A",
+      "explanation": "The formyl group ($-CHO$) defines aldehydes."
+    },
+    {
+      "id": 6,
+      "question": "Alkenes are characterized by the general formula: (FBISE Full-Book Board Simulator)",
+      "options": {
+        "A": "$C_nH_{2n}$",
+        "B": "$C_nH_{2n+2}$",
+        "C": "$C_nH_{2n-2}$",
+        "D": "$C_nH_{2n+1}$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Acyclic alkenes contain one double bond, conforming to $C_nH_{2n}$."
+    },
+    {
+      "id": 7,
+      "question": "Which test uses cold alkaline $KMnO_4$ to detect unsaturation? (FBISE Full-Book Board Simulator)",
+      "options": {
+        "A": "Baeyer's test",
+        "B": "Biuret test",
+        "C": "Benedict's test",
+        "D": "Ninhydrin test"
+      },
+      "correctAnswer": "A",
+      "explanation": "Baeyer's test discharges purple $KMnO_4$ to form glycols."
+    },
+    {
+      "id": 8,
+      "question": "In DNA, adenine forms complementary hydrogen bonds with: (FBISE Full-Book Board Simulator)",
+      "options": {
+        "A": "Thymine ($A=T$)",
+        "B": "Guanine",
+        "C": "Cytosine",
+        "D": "Uracil"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adenine pairs with thymine via two hydrogen bonds in DNA."
+    },
+    {
+      "id": 9,
+      "question": "Which vitamin deficiency causes rickets in children? (FBISE Full-Book Board Simulator)",
+      "options": {
+        "A": "Vitamin D",
+        "B": "Vitamin A",
+        "C": "Vitamin C",
+        "D": "Vitamin K"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vitamin D deficiency causes impaired bone mineralization (rickets)."
+    },
+    {
+      "id": 10,
+      "question": "The lapse rate of temperature in the troposphere is approximately: (FBISE Full-Book Board Simulator)",
+      "options": {
+        "A": "$-6.5^\\circ\\text{C per km}$",
+        "B": "$-2.5^\\circ\\text{C per km}$",
+        "C": "$-10^\\circ\\text{C per km}$",
+        "D": "$+6.5^\\circ\\text{C per km}$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Temperature decreases at approximately 6.5°C per kilometer in the troposphere."
+    },
+    {
+      "id": 11,
+      "question": "Clark's method removes temporary water hardness by adding: (FBISE Full-Book Board Simulator)",
+      "options": {
+        "A": "Slaked lime ($Ca(OH)_2$)",
+        "B": "Washing soda",
+        "C": "Common salt",
+        "D": "Boiling"
+      },
+      "correctAnswer": "A",
+      "explanation": "Calculated slaked lime precipitates soluble bicarbonates as $CaCO_3$."
+    },
+    {
+      "id": 12,
+      "question": "In copper metallurgy, blister copper is approximately what percentage pure? (FBISE Full-Book Board Simulator)",
+      "options": {
+        "A": "98%",
+        "B": "50%",
+        "C": "75%",
+        "D": "99.99%"
+      },
+      "correctAnswer": "A",
+      "explanation": "Blister copper from the Bessemer converter is ~98% pure copper."
+    }
+  ]
+}

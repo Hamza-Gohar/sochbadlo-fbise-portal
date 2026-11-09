@@ -46,13 +46,14 @@ export default function Footer() {
               Class 10th (SSC-II)
             </h4>
             <ul className="text-xs space-y-1.5 text-[var(--color-muted)] font-[family-name:var(--font-display)]">
+              <li className="font-semibold text-amber-900">Chemistry (8 Units + 10 Simulators)</li>
               <li className="font-semibold text-teal-900">Physics (9 Units + 10 Simulators)</li>
               <li className="font-semibold text-blue-900">Mathematics (13 Units + 10 Simulators)</li>
-              <li className="pt-1 text-[11px]">• SHM, Sound, Geometrical Optics & Light</li>
-              <li className="text-[11px]">• Electrostatics, Current Electricity & Magnetism</li>
-              <li className="text-[11px]">• Electronics, ICT & Nuclear Physics</li>
+              <li className="pt-1 text-[11px]">• Equilibrium, Acids/Bases & Organic</li>
+              <li className="text-[11px]">• Hydrocarbons, Biochemistry & Atmosphere</li>
+              <li className="text-[11px]">• SHM, Waves, Optics, Electricity & Nuclear</li>
               <li className="text-[11px]">• Quadratic Equations, Sets & Trigonometry</li>
-              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 20 Board Simulators (940 MCQs)</li>
+              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 30 Board Simulators (1,370 MCQs)</li>
             </ul>
           </div>
 

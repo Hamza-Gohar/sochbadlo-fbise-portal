@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 9,
+  "chapterTitle": "FBISE Annual Exam Simulator 01 (Unit 9 & 10: Equilibrium, Acids, Bases & Salts)",
+  "slug": "chemistry-10-model-paper-1",
+  "totalQuestions": 12,
+  "fileName": "chemistry-10-model-paper-1.json",
+  "subject": "chemistry-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "For the reversible reaction $N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)$, what is the unit of $K_c$?",
+      "options": {
+        "A": "$\\text{mol dm}^{-3}$",
+        "B": "$\\text{mol}^{-1}\\text{dm}^3$",
+        "C": "$\\text{mol}^{-2}\\text{dm}^6$",
+        "D": "No unit"
+      },
+      "correctAnswer": "C",
+      "explanation": "$K_c = [NH_3]^2 / ([N_2][H_2]^3) = (\\text{mol dm}^{-3})^2 / (\\text{mol dm}^{-3})^4 = \\text{mol}^{-2}\\text{dm}^6$."
+    },
+    {
+      "id": 2,
+      "question": "At dynamic equilibrium in a closed system:",
+      "options": {
+        "A": "The forward and reverse reaction rates become equal",
+        "B": "The reaction completely ceases",
+        "C": "Reactant concentrations drop to zero",
+        "D": "Color of the reaction mixture changes continuously"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dynamic chemical equilibrium occurs when the forward and reverse reactions proceed at equal rates, keeping macroscopic properties constant."
+    },
+    {
+      "id": 3,
+      "question": "If $Q_c < K_c$, the net chemical reaction will proceed:",
+      "options": {
+        "A": "In the forward direction (left to right)",
+        "B": "In the reverse direction (right to left)",
+        "C": "At equilibrium",
+        "D": "To completion instantly"
+      },
+      "correctAnswer": "A",
+      "explanation": "When the reaction quotient $Q_c$ is less than $K_c$, product concentration is lower than at equilibrium, driving the reaction forward."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following compounds is a Lewis acid that acts as an electron pair acceptor?",
+      "options": {
+        "A": "$NH_3$",
+        "B": "$BF_3$",
+        "C": "$H_2O$",
+        "D": "$OH^-$"
+      },
+      "correctAnswer": "B",
+      "explanation": "Boron trifluoride ($BF_3$) has an incomplete octet (6 valence electrons around boron) and acts as an electron-pair acceptor (Lewis acid)."
+    },
+    {
+      "id": 5,
+      "question": "What is the conjugate acid of the sulphate ion ($SO_4^{2-}$)?",
+      "options": {
+        "A": "$HSO_4^-$",
+        "B": "$H_2SO_4$",
+        "C": "$H_3O^+$",
+        "D": "$SO_3^{2-}$"
+      },
+      "correctAnswer": "A",
+      "explanation": "A conjugate acid is formed when a base accepts one proton ($H^+$). When $SO_4^{2-}$ accepts $H^+$, it forms the hydrogen sulphate ion ($HSO_4^-$)."
+    },
+    {
+      "id": 6,
+      "question": "What is the pH of a $1.0 \\times 10^{-4}\\text{ M } HCl$ solution at $25^\\circ\\text{C}$?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "7",
+        "D": "10"
+      },
+      "correctAnswer": "B",
+      "explanation": "$HCl$ completely dissociates to produce $[H^+] = 10^{-4}\\text{ M}$. Therefore, $pH = -\\log(10^{-4}) = 4$."
+    },
+    {
+      "id": 7,
+      "question": "What color does phenolphthalein indicator exhibit in a solution with a pH of 11?",
+      "options": {
+        "A": "Colorless",
+        "B": "Pink",
+        "C": "Red",
+        "D": "Yellow"
+      },
+      "correctAnswer": "B",
+      "explanation": "Phenolphthalein is colorless in acidic and neutral solutions ($pH < 8.3$) and turns vibrant pink in alkaline solutions ($pH > 8.3$)."
+    },
+    {
+      "id": 8,
+      "question": "Which gas is evolved with vigorous effervescence when dilute nitric acid reacts with sodium bicarbonate ($NaHCO_3$)?",
+      "options": {
+        "A": "$H_2$",
+        "B": "$CO_2$",
+        "C": "$NO_2$",
+        "D": "$O_2$"
+      },
+      "correctAnswer": "B",
+      "explanation": "Acids react with bicarbonates to produce salt, water, and liberate carbon dioxide gas ($NaHCO_3 + HNO_3 \\to NaNO_3 + H_2O + CO_2\\uparrow$)."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following salts is classified as an acidic salt?",
+      "options": {
+        "A": "$NaCl$",
+        "B": "$NaHSO_4$",
+        "C": "$Na_2SO_4$",
+        "D": "$KNO_3$"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sodium bisulphate ($NaHSO_4$) is an acidic salt because it still retains an ionizable, replaceable hydrogen ion from sulphuric acid."
+    },
+    {
+      "id": 10,
+      "question": "Potash alum ($K_2SO_4 \\cdot Al_2(SO_4)_3 \\cdot 24H_2O$) is an authentic example of a:",
+      "options": {
+        "A": "Normal salt",
+        "B": "Double salt",
+        "C": "Mixed salt",
+        "D": "Basic salt"
+      },
+      "correctAnswer": "B",
+      "explanation": "Potash alum is an equimolar crystalline combination of two simple salts ($K_2SO_4$ and $Al_2(SO_4)_3$), classifying it as a double salt."
+    },
+    {
+      "id": 11,
+      "question": "The ionic product of water ($K_w$) at $25^\\circ\\text{C}$ is numerically equal to:",
+      "options": {
+        "A": "$1.0 \\times 10^{-7}$",
+        "B": "$1.0 \\times 10^{-14}$",
+        "C": "$1.0 \\times 10^7$",
+        "D": "14"
+      },
+      "correctAnswer": "B",
+      "explanation": "$K_w = [H^+][OH^-] = (10^{-7})(10^{-7}) = 1.0 \\times 10^{-14}$ at standard $25^\\circ\\text{C}$."
+    },
+    {
+      "id": 12,
+      "question": "What is the unit of $K_c$ for the reaction $H_2(g) + I_2(g) \\rightleftharpoons 2HI(g)$?",
+      "options": {
+        "A": "$\\text{mol dm}^{-3}$",
+        "B": "$\\text{mol}^{-1}\\text{dm}^3$",
+        "C": "No unit (dimensionless)",
+        "D": "$\\text{mol}^2\\text{dm}^{-6}$"
+      },
+      "correctAnswer": "C",
+      "explanation": "Since total moles of reactants ($1+1=2$) equals total moles of products ($2$), $\\Delta n = 0$ and $K_c$ has no units."
+    }
+  ]
+}

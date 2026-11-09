@@ -22,6 +22,7 @@ const CS_9_DIR = path.join(process.cwd(), 'data', 'cs-9');
 const BIOLOGY_9_DIR = path.join(process.cwd(), 'data', 'biology-9');
 const MATH_10_DIR = path.join(process.cwd(), 'data', 'math-10');
 const PHYSICS_10_DIR = path.join(process.cwd(), 'data', 'physics-10');
+const CHEMISTRY_10_DIR = path.join(process.cwd(), 'data', 'chemistry-10');
 
 export function getChaptersIndex(
   subject: SubjectId = 'physics'
@@ -47,13 +48,14 @@ export function getChaptersIndex(
     else if (subject === 'biology-9') dir = BIOLOGY_9_DIR;
     else if (subject === 'math-10') dir = MATH_10_DIR;
     else if (subject === 'physics-10') dir = PHYSICS_10_DIR;
+    else if (subject === 'chemistry-10') dir = CHEMISTRY_10_DIR;
 
     const indexPath = path.join(dir, 'chapters-index.json');
     if (fs.existsSync(indexPath)) {
       const content = fs.readFileSync(indexPath, 'utf-8');
       const list: ChapterMeta[] = JSON.parse(content);
       const grade =
-        subject === 'math-10' || subject === 'physics-10'
+        subject === 'math-10' || subject === 'physics-10' || subject === 'chemistry-10'
           ? '10'
           : subject === 'physics-9' ||
             subject === 'math-9' ||
@@ -96,6 +98,7 @@ export function getAllChapters(): ChapterMeta[] {
     ...getChaptersIndex('biology-9'),
     ...getChaptersIndex('math-10'),
     ...getChaptersIndex('physics-10'),
+    ...getChaptersIndex('chemistry-10'),
   ];
 }
 
@@ -110,7 +113,10 @@ export function getChapterBySlug(
     let targetDir = PHYSICS_DIR;
     let subject: SubjectId = 'physics';
 
-    if (slug.startsWith('physics-10')) {
+    if (slug.startsWith('chemistry-10')) {
+      targetDir = CHEMISTRY_10_DIR;
+      subject = 'chemistry-10';
+    } else if (slug.startsWith('physics-10')) {
       targetDir = PHYSICS_10_DIR;
       subject = 'physics-10';
     } else if (slug.startsWith('physics-9')) {
@@ -184,6 +190,7 @@ export function getChapterBySlug(
 
     // Fallback search across all directories
     const dirMap: Array<[string, SubjectId]> = [
+      [CHEMISTRY_10_DIR, 'chemistry-10'],
       [PHYSICS_10_DIR, 'physics-10'],
       [MATH_10_DIR, 'math-10'],
       [BIOLOGY_9_DIR, 'biology-9'],

@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 16,
+  "chapterTitle": "FBISE Annual Exam Simulator 08 (Board Past Paper Gold Selection)",
+  "slug": "chemistry-10-model-paper-8",
+  "totalQuestions": 12,
+  "fileName": "chemistry-10-model-paper-8.json",
+  "subject": "chemistry-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "At dynamic equilibrium, the forward reaction rate is: (FBISE Past Paper Gold)",
+      "options": {
+        "A": "Equal to the reverse reaction rate",
+        "B": "Zero",
+        "C": "Double the reverse rate",
+        "D": "Constantly fluctuating"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equilibrium requires exact balance of forward and reverse rates."
+    },
+    {
+      "id": 2,
+      "question": "What is the conjugate base of $H_2SO_4$? (FBISE Past Paper Gold)",
+      "options": {
+        "A": "$HSO_4^-$",
+        "B": "$SO_4^{2-}$",
+        "C": "$H_3O^+$",
+        "D": "$OH^-$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Losing one proton ($H^+$) transforms $H_2SO_4$ into $HSO_4^-$."
+    },
+    {
+      "id": 3,
+      "question": "Phenolphthalein indicator is colorless in: (FBISE Past Paper Gold)",
+      "options": {
+        "A": "Acidic and neutral solutions",
+        "B": "Strong alkali",
+        "C": "Ammonia solution",
+        "D": "Washing soda solution"
+      },
+      "correctAnswer": "A",
+      "explanation": "Phenolphthalein turns pink only in alkaline conditions ($pH > 8.3$)."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is a neutral (normal) salt? (FBISE Past Paper Gold)",
+      "options": {
+        "A": "$NaCl$",
+        "B": "$NaHCO_3$",
+        "C": "$NaHSO_4$",
+        "D": "$Al(OH)_2Cl$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sodium chloride contains no replaceable hydrogen or hydroxyl ions."
+    },
+    {
+      "id": 5,
+      "question": "Catenation is the remarkable self-linking ability of which element? (FBISE Past Paper Gold)",
+      "options": {
+        "A": "Carbon",
+        "B": "Nitrogen",
+        "C": "Oxygen",
+        "D": "Hydrogen"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carbon forms strong $C-C$ covalent bonds in chains and rings."
+    },
+    {
+      "id": 6,
+      "question": "Which gas comprises ~85% of natural gas? (FBISE Past Paper Gold)",
+      "options": {
+        "A": "Methane ($CH_4$)",
+        "B": "Ethane",
+        "C": "Propane",
+        "D": "Butane"
+      },
+      "correctAnswer": "A",
+      "explanation": "Natural gas is predominantly composed of methane."
+    },
+    {
+      "id": 7,
+      "question": "Bromine water test produces which visual result with alkenes? (FBISE Past Paper Gold)",
+      "options": {
+        "A": "Reddish-brown color is discharged (decolorized)",
+        "B": "Turns purple",
+        "C": "Forms a green gas",
+        "D": "Explodes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Addition across double bonds decolorizes bromine water."
+    },
+    {
+      "id": 8,
+      "question": "Deficiency of Vitamin A leads to which eye condition? (FBISE Past Paper Gold)",
+      "options": {
+        "A": "Night blindness",
+        "B": "Rickets",
+        "C": "Scurvy",
+        "D": "Beriberi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vitamin A is essential for rhodopsin; deficiency impairs dark adaptation."
+    },
+    {
+      "id": 9,
+      "question": "In the stratosphere, the temperature rises with altitude because: (FBISE Past Paper Gold)",
+      "options": {
+        "A": "Ozone absorbs solar ultraviolet radiation",
+        "B": "It is closest to the Sun",
+        "C": "It contains heavy greenhouse gases",
+        "D": "Volcanoes heat it"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ozone absorption of UV-B and UV-C releases heat, warming the stratosphere."
+    },
+    {
+      "id": 10,
+      "question": "Permanent hardness of water cannot be removed by: (FBISE Past Paper Gold)",
+      "options": {
+        "A": "Boiling",
+        "B": "Washing soda",
+        "C": "Zeolite resin",
+        "D": "Ion exchange"
+      },
+      "correctAnswer": "A",
+      "explanation": "Boiling only precipitates bicarbonates (temporary hardness), not sulphates or chlorides."
+    },
+    {
+      "id": 11,
+      "question": "What is the formula of copper pyrites ore? (FBISE Past Paper Gold)",
+      "options": {
+        "A": "$CuFeS_2$",
+        "B": "$Cu_2O$",
+        "C": "$Cu_2S$",
+        "D": "$Fe_2O_3$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chalcopyrite / copper pyrites is $CuFeS_2$."
+    },
+    {
+      "id": 12,
+      "question": "Urea contains what percentage of nitrogen? (FBISE Past Paper Gold)",
+      "options": {
+        "A": "46%",
+        "B": "28%",
+        "C": "35%",
+        "D": "82%"
+      },
+      "correctAnswer": "A",
+      "explanation": "Urea ($NH_2CONH_2$) has 46.6% nitrogen content."
+    }
+  ]
+}

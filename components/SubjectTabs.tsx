@@ -26,6 +26,7 @@ interface SubjectTabsProps {
   biology9Chapters?: ChapterMeta[];
   math10Chapters?: ChapterMeta[];
   physics10Chapters?: ChapterMeta[];
+  chemistry10Chapters?: ChapterMeta[];
 }
 
 export default function SubjectTabs({
@@ -49,9 +50,10 @@ export default function SubjectTabs({
   biology9Chapters = [],
   math10Chapters = [],
   physics10Chapters = [],
+  chemistry10Chapters = [],
 }: SubjectTabsProps) {
   const [activeGrade, setActiveGrade] = useState<'9' | '10' | '11'>('11');
-  const [activeGrade10Subject, setActiveGrade10Subject] = useState<'math' | 'physics'>('math');
+  const [activeGrade10Subject, setActiveGrade10Subject] = useState<'math' | 'physics' | 'chemistry'>('math');
   const [activeGrade9Subject, setActiveGrade9Subject] = useState<'urdu' | 'tarjuma' | 'english' | 'islamiat' | 'chemistry' | 'cs' | 'biology' | 'math' | 'physics'>('urdu');
   const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry'>('physics');
 
@@ -84,6 +86,8 @@ export default function SubjectTabs({
         setActiveGrade('10');
         if (params.get('subject') === 'physics') {
           setActiveGrade10Subject('physics');
+        } else if (params.get('subject') === 'chemistry') {
+          setActiveGrade10Subject('chemistry');
         } else if (params.get('subject') === 'math') {
           setActiveGrade10Subject('math');
         }
@@ -104,6 +108,7 @@ export default function SubjectTabs({
   const biology9Total = biology9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const math10Total = math10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const physics10Total = physics10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const chemistry10Total = chemistry10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -118,6 +123,8 @@ export default function SubjectTabs({
     activeGrade === '10'
       ? activeGrade10Subject === 'physics'
         ? physics10Chapters
+        : activeGrade10Subject === 'chemistry'
+        ? chemistry10Chapters
         : math10Chapters
       : activeGrade === '9'
       ? activeGrade9Subject === 'urdu'
@@ -198,7 +205,7 @@ export default function SubjectTabs({
             >
               <Calculator className="w-4 h-4 text-amber-400" />
               <span>Class 10th (SSC-II)</span>
-              <span className="text-[10px] opacity-75 font-mono">2 Subjects</span>
+              <span className="text-[10px] opacity-75 font-mono">3 Subjects</span>
             </button>
             <button
               type="button"
@@ -225,6 +232,8 @@ export default function SubjectTabs({
               {activeGrade === '10'
                 ? activeGrade10Subject === 'physics'
                   ? 'Class 10th FBISE Physics (فزکس - SSC-II)'
+                  : activeGrade10Subject === 'chemistry'
+                  ? 'Class 10th FBISE Chemistry (کیمسٹری - SSC-II)'
                   : 'Class 10th FBISE Mathematics (ریاضی - SSC-II)'
                 : activeGrade === '9'
                 ? activeGrade9Subject === 'urdu'
@@ -250,6 +259,8 @@ export default function SubjectTabs({
               {activeGrade === '10'
                 ? activeGrade10Subject === 'physics'
                   ? 'All 9 National Curriculum units (Simple Harmonic Motion, Sound, Geometrical Optics, Electrostatics, Current Electricity, Electromagnetism, Introductory Electronics, ICT, Atomic & Nuclear Physics) + 10 Annual Federal Board Examination Simulators.'
+                  : activeGrade10Subject === 'chemistry'
+                  ? 'All 8 National Curriculum units (Chemical Equilibrium, Acids, Bases & Salts, Organic Chemistry, Hydrocarbons, Biochemistry, Atmosphere, Water, Chemical Industries) + 10 Annual Federal Board Examination Simulators.'
                   : 'All 13 National Curriculum chapters (Quadratic Equations, Variations, Partial Fractions, Sets & Functions, Basic Statistics, Trigonometry, Circle Geometry) + 10 Annual Federal Board Examination Simulators.'
                 : activeGrade === '9'
                 ? activeGrade9Subject === 'urdu'
@@ -277,17 +288,17 @@ export default function SubjectTabs({
             <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs pb-1">
               <button
                 type="button"
-                onClick={() => setActiveGrade10Subject('math')}
+                onClick={() => setActiveGrade10Subject('chemistry')}
                 className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade10Subject === 'math'
-                    ? 'bg-blue-950 text-white border-blue-950 shadow-sm'
+                  activeGrade10Subject === 'chemistry'
+                    ? 'bg-amber-950 text-white border-amber-950 shadow-sm'
                     : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
                 }`}
               >
-                <Calculator className="w-4 h-4 text-amber-400" />
-                <span>Mathematics (ریاضی)</span>
+                <FlaskConical className="w-4 h-4 text-amber-400" />
+                <span>Chemistry (کیمسٹری)</span>
                 <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {math10Chapters.length} Modules · {math10Total} Qs
+                  {chemistry10Chapters.length} Modules · {chemistry10Total} Qs
                 </span>
               </button>
 
@@ -304,6 +315,22 @@ export default function SubjectTabs({
                 <span>Physics (فزکس)</span>
                 <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
                   {physics10Chapters.length} Modules · {physics10Total} Qs
+                </span>
+              </button>
+
+              <button
+                type="button"
+                onClick={() => setActiveGrade10Subject('math')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade10Subject === 'math'
+                    ? 'bg-blue-950 text-white border-blue-950 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <Calculator className="w-4 h-4 text-amber-400" />
+                <span>Mathematics (ریاضی)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {math10Chapters.length} Modules · {math10Total} Qs
                 </span>
               </button>
             </div>

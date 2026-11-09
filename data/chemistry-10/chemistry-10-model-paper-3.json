@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 11,
+  "chapterTitle": "FBISE Annual Exam Simulator 03 (Unit 13: Biochemistry & Macromolecules)",
+  "slug": "chemistry-10-model-paper-3",
+  "totalQuestions": 12,
+  "fileName": "chemistry-10-model-paper-3.json",
+  "subject": "chemistry-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which nitrogenous base is present in DNA but absent in RNA?",
+      "options": {
+        "A": "Uracil",
+        "B": "Thymine",
+        "C": "Adenine",
+        "D": "Cytosine"
+      },
+      "correctAnswer": "B",
+      "explanation": "Thymine ($T$) is exclusive to DNA; in RNA, uracil ($U$) replaces thymine."
+    },
+    {
+      "id": 2,
+      "question": "Proteins are biopolymers formed by amino acids linked together through:",
+      "options": {
+        "A": "Glycosidic linkages",
+        "B": "Peptide bonds ($-CO-NH-$)",
+        "C": "Ester linkages",
+        "D": "Phosphodiester bonds"
+      },
+      "correctAnswer": "B",
+      "explanation": "Amino acids condense via peptide bonds formed between the carboxyl group of one amino acid and the amino group of another."
+    },
+    {
+      "id": 3,
+      "question": "Which fat-soluble vitamin is vital for calcium absorption in bones and prevents rickets?",
+      "options": {
+        "A": "Vitamin A",
+        "B": "Vitamin C",
+        "C": "Vitamin D",
+        "D": "Vitamin K"
+      },
+      "correctAnswer": "C",
+      "explanation": "Vitamin D regulates calcium and phosphate metabolism; deficiency leads to rickets in children and osteomalacia in adults."
+    },
+    {
+      "id": 4,
+      "question": "Deficiency of Vitamin C (ascorbic acid) results in which clinical disease?",
+      "options": {
+        "A": "Night blindness",
+        "B": "Scurvy",
+        "C": "Beriberi",
+        "D": "Rickets"
+      },
+      "correctAnswer": "B",
+      "explanation": "Scurvy is caused by Vitamin C deficiency, leading to impaired collagen synthesis, bleeding gums, and petechiae."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following carbohydrates is classified as a disaccharide?",
+      "options": {
+        "A": "Glucose",
+        "B": "Fructose",
+        "C": "Sucrose (table sugar)",
+        "D": "Cellulose"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sucrose ($C_{12}H_{22}O_{11}$) is a disaccharide composed of one glucose unit and one fructose unit."
+    },
+    {
+      "id": 6,
+      "question": "Which polysaccharide is the primary structural component of plant cell walls and makes up 95% of cotton?",
+      "options": {
+        "A": "Starch",
+        "B": "Cellulose",
+        "C": "Glycogen",
+        "D": "Maltose"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cellulose is an unbranched polymer of glucose providing structural rigidity to plant cell walls."
+    },
+    {
+      "id": 7,
+      "question": "What is the primary biological function of deoxyribonucleic acid (DNA)?",
+      "options": {
+        "A": "Storage and transmission of genetic hereditary information",
+        "B": "Enzymatic catalysis of cellular respiration",
+        "C": "Thermal insulation",
+        "D": "Transport of oxygen"
+      },
+      "correctAnswer": "A",
+      "explanation": "DNA contains the genetic blueprint that directs protein synthesis and passes hereditary instructions across generations."
+    },
+    {
+      "id": 8,
+      "question": "Fats and oils are chemically defined as triglycerides, which are esters of fatty acids with:",
+      "options": {
+        "A": "Methanol",
+        "B": "Glycerol (1,2,3-propanetriol)",
+        "C": "Ethanol",
+        "D": "Glycol"
+      },
+      "correctAnswer": "B",
+      "explanation": "Triglycerides are triesters formed from one molecule of the triol glycerol and three fatty acid chains."
+    },
+    {
+      "id": 9,
+      "question": "How many standard amino acids are utilized by living systems to synthesize proteins?",
+      "options": {
+        "A": "10",
+        "B": "20",
+        "C": "30",
+        "D": "64"
+      },
+      "correctAnswer": "B",
+      "explanation": "There are 20 standard $\\alpha$-amino acids encoded by DNA that assemble into biological proteins."
+    },
+    {
+      "id": 10,
+      "question": "Which carbohydrate gives a characteristic blue-black complex with iodine solution?",
+      "options": {
+        "A": "Glucose",
+        "B": "Starch",
+        "C": "Cellulose",
+        "D": "Sucrose"
+      },
+      "correctAnswer": "B",
+      "explanation": "Helical amylose coils in starch entrap iodine molecules, forming an intense blue-black diagnostic complex."
+    },
+    {
+      "id": 11,
+      "question": "Subcutaneous adipose fat tissue in mammals acts primarily as:",
+      "options": {
+        "A": "A thermal insulator against heat loss",
+        "B": "An electrical conductor",
+        "C": "A site of protein synthesis",
+        "D": "An oxygen reservoir"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fat layers beneath mammalian skin have low thermal conductivity, conserving internal body heat."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is an example of an unsaturated fatty acid found in olive oil?",
+      "options": {
+        "A": "Palmitic acid",
+        "B": "Stearic acid",
+        "C": "Oleic acid ($C_{17}H_{33}COOH$)",
+        "D": "Formic acid"
+      },
+      "correctAnswer": "C",
+      "explanation": "Oleic acid contains a double bond in its 18-carbon chain, making it an unsaturated fatty acid."
+    }
+  ]
+}

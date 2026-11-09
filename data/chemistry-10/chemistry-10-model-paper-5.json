@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 13,
+  "chapterTitle": "FBISE Annual Exam Simulator 05 (Unit 16: Chemical Industries & Metallurgy)",
+  "slug": "chemistry-10-model-paper-5",
+  "totalQuestions": 12,
+  "fileName": "chemistry-10-model-paper-5.json",
+  "subject": "chemistry-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In the Solvay process, which two chemicals are dissolved in water to produce ammoniacal brine?",
+      "options": {
+        "A": "$NH_3$ and $NaCl$",
+        "B": "$NH_3$ and $CaO$",
+        "C": "$NH_3$ and $CO_2$",
+        "D": "$NaCl$ and $CaCO_3$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ammonia ($NH_3$) and common salt ($NaCl$) dissolve in water to produce ammoniacal brine."
+    },
+    {
+      "id": 2,
+      "question": "In the froth flotation process, sulphide ore particles are preferentially wetted by:",
+      "options": {
+        "A": "Pine oil",
+        "B": "Water",
+        "C": "Brine",
+        "D": "Alcohol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pine oil wets sulphide ore particles and floats them to the surface with air bubbles, while gangue is wetted by water and sinks."
+    },
+    {
+      "id": 3,
+      "question": "What is the percentage of nitrogen by mass in pure urea fertilizer ($NH_2CONH_2$)?",
+      "options": {
+        "A": "28%",
+        "B": "35%",
+        "C": "46.6% (~46%)",
+        "D": "82%"
+      },
+      "correctAnswer": "C",
+      "explanation": "Urea ($NH_2CONH_2$) contains two nitrogen atoms in a molar mass of 60 g/mol: $(28/60) \\times 100 = 46.6\\%$."
+    },
+    {
+      "id": 4,
+      "question": "What intermediate chemical compound is formed when liquid ammonia reacts with carbon dioxide under pressure in urea manufacture?",
+      "options": {
+        "A": "Ammonium carbamate ($NH_2COONH_4$)",
+        "B": "Ammonium nitrate",
+        "C": "Ammonium chloride",
+        "D": "Ammonium bicarbonate"
+      },
+      "correctAnswer": "A",
+      "explanation": "$2NH_3 + CO_2 \\rightleftharpoons NH_2COONH_4$ (ammonium carbamate) at 200°C and 200 atm."
+    },
+    {
+      "id": 5,
+      "question": "In copper metallurgy, the molten mixture of $Cu_2S$ and $FeS$ obtained from the blast furnace is called:",
+      "options": {
+        "A": "Matte (~45% Cu)",
+        "B": "Blister copper",
+        "C": "Slag",
+        "D": "Anode mud"
+      },
+      "correctAnswer": "A",
+      "explanation": "Smelting roasted copper pyrites in a blast furnace produces molten copper matte ($Cu_2S + FeS$, ~45% Cu)."
+    },
+    {
+      "id": 6,
+      "question": "What is the approximate purity of blister copper obtained from the Bessemer converter?",
+      "options": {
+        "A": "50%",
+        "B": "75%",
+        "C": "98%",
+        "D": "99.99%"
+      },
+      "correctAnswer": "C",
+      "explanation": "Blister copper is ~98% pure; escaping $SO_2$ gas forms characteristic blisters on its surface upon solidification."
+    },
+    {
+      "id": 7,
+      "question": "During the electrolytic refining of copper, the cathode is made of:",
+      "options": {
+        "A": "Impure blister copper",
+        "B": "A thin sheet of high-purity copper (99.99%)",
+        "C": "Carbon rod",
+        "D": "Platinum"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pure copper deposits onto the cathode sheet ($Cu^{2+} + 2e^- \\to Cu$), yielding 99.99% refined copper."
+    },
+    {
+      "id": 8,
+      "question": "Which unrecoverable chemical byproduct is generated in the ammonia recovery tower of Solvay's process?",
+      "options": {
+        "A": "Calcium chloride ($CaCl_2$)",
+        "B": "Ammonium chloride",
+        "C": "Sodium bicarbonate",
+        "D": "Carbon dioxide"
+      },
+      "correctAnswer": "A",
+      "explanation": "$2NH_4Cl + Ca(OH)_2 \\to 2NH_3\\uparrow + CaCl_2 + 2H_2O$. $CaCl_2$ is the sole unrecyclable byproduct."
+    },
+    {
+      "id": 9,
+      "question": "What reaction takes place in the calcination step of Solvay's process to yield soda ash ($Na_2CO_3$)?",
+      "options": {
+        "A": "$2NaHCO_3 \\xrightarrow{\\Delta} Na_2CO_3 + H_2O + CO_2\\uparrow$",
+        "B": "$CaCO_3 \\to CaO + CO_2$",
+        "C": "$NaCl + NH_3 \\to NaNH_2 + HCl$",
+        "D": "$NH_4HCO_3 \\to NH_3 + H_2O + CO_2$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Heating dry sodium bicarbonate decomposes it into soda ash ($Na_2CO_3$), steam, and $CO_2$ (which is recycled)."
+    },
+    {
+      "id": 10,
+      "question": "Which petroleum refining fraction contains $C_7-C_{10}$ hydrocarbons, boils between 40°C and 200°C, and powers automobile engines?",
+      "options": {
+        "A": "Gasoline (Petrol)",
+        "B": "Kerosene oil",
+        "C": "Diesel fuel",
+        "D": "Refinery gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "Gasoline ($C_7-C_{10}$) boils between 40°C and 200°C, serving as motor fuel."
+    },
+    {
+      "id": 11,
+      "question": "What is the chemical formula of copper pyrites (chalcopyrite)?",
+      "options": {
+        "A": "$CuFeS_2$",
+        "B": "$Cu_2S$",
+        "C": "$Cu_2O$",
+        "D": "$CuCO_3$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Copper pyrites has the formula $CuFeS_2$, the principal commercial ore of copper."
+    },
+    {
+      "id": 12,
+      "question": "What is the residue collected at the very base of a crude petroleum fractionating tower ($C_{30}+$, boiling $>400^\\circ\\text{C}$)?",
+      "options": {
+        "A": "Asphalt / Bitumen (used for road paving)",
+        "B": "Kerosene oil",
+        "C": "Petroleum ether",
+        "D": "Gasoline"
+      },
+      "correctAnswer": "A",
+      "explanation": "Asphalt (bitumen) comprises heavy residue hydrocarbons used for road surfacing and roofing."
+    }
+  ]
+}

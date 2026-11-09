@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 17,
+  "chapterTitle": "FBISE Annual Exam Simulator 09 (Official 2025 Model Examination)",
+  "slug": "chemistry-10-model-paper-9",
+  "totalQuestions": 12,
+  "fileName": "chemistry-10-model-paper-9.json",
+  "subject": "chemistry-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In Solvay's process, ammoniacal brine is formed by dissolving $NH_3$ and: (Official 2025 Model)",
+      "options": {
+        "A": "$NaCl$",
+        "B": "$CaO$",
+        "C": "$HCl$",
+        "D": "$CO_2$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ammonia and sodium chloride dissolved in water form ammoniacal brine."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following can behave as both a Brønsted acid and a Brønsted base? (Official 2025 Model)",
+      "options": {
+        "A": "$H_2O$",
+        "B": "$OH^-$",
+        "C": "$CH_3COO^-$",
+        "D": "$H_3PO_4$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Water is amphoteric: it can donate $H^+$ to become $OH^-$ or accept $H^+$ to become $H_3O^+$."
+    },
+    {
+      "id": 3,
+      "question": "For the reaction $2A + B \\rightleftharpoons 3C$, what is the correct $K_c$ expression? (Official 2025 Model)",
+      "options": {
+        "A": "$[C]^3 / ([A]^2[B])$",
+        "B": "$[2A][B] / [3C]$",
+        "C": "$[3C] / [2A][B]$",
+        "D": "$[A]^2[B] / [C]^3$"
+      },
+      "correctAnswer": "A",
+      "explanation": "$K_c = [\\text{Products}]^{\\text{coeff}} / [\\text{Reactants}]^{\\text{coeff}} = [C]^3 / ([A]^2[B])$."
+    },
+    {
+      "id": 4,
+      "question": "Which gas is used with oxygen in torches for welding and cutting metals? (Official 2025 Model)",
+      "options": {
+        "A": "Acetylene ($C_2H_2$)",
+        "B": "Methane",
+        "C": "Ethane",
+        "D": "Ethylene"
+      },
+      "correctAnswer": "A",
+      "explanation": "Acetylene burns in oxygen to reach 3300°C for oxy-acetylene cutting."
+    },
+    {
+      "id": 5,
+      "question": "Identify the Arrhenius base among the following: (Official 2025 Model)",
+      "options": {
+        "A": "$NaOH$",
+        "B": "$NaF$",
+        "C": "$NH_3$",
+        "D": "$H_2O$"
+      },
+      "correctAnswer": "A",
+      "explanation": "$NaOH$ dissociates in aqueous solution to yield hydroxide ions ($OH^-$)."
+    },
+    {
+      "id": 6,
+      "question": "Halogenation of methane in diffused sunlight does NOT produce: (Official 2025 Model)",
+      "options": {
+        "A": "Carbon black ($C$)",
+        "B": "$CH_3Cl$",
+        "C": "$CHCl_3$",
+        "D": "$CCl_4$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Diffuse halogenation produces chloromethanes; carbon black forms from incomplete combustion or direct explosive sunlight."
+    },
+    {
+      "id": 7,
+      "question": "Proteins are essential for the biological formation of: (Official 2025 Model)",
+      "options": {
+        "A": "Protoplasm",
+        "B": "Cellulose",
+        "C": "Cholesterol",
+        "D": "Dextrin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Proteins are fundamental structural and enzymatic components of cellular protoplasm."
+    },
+    {
+      "id": 8,
+      "question": "Molar concentration in $\\text{mol dm}^{-3}$ of a substance in solution is called: (Official 2025 Model)",
+      "options": {
+        "A": "Active mass",
+        "B": "Molecular mass",
+        "C": "Molar mass",
+        "D": "Atomic mass"
+      },
+      "correctAnswer": "A",
+      "explanation": "Active mass is molar concentration expressed in moles per cubic decimeter ($[\\ ]$)."
+    },
+    {
+      "id": 9,
+      "question": "The gaseous envelope surrounding Earth is named the: (Official 2025 Model)",
+      "options": {
+        "A": "Atmosphere",
+        "B": "Mesosphere",
+        "C": "Troposphere",
+        "D": "Stratosphere"
+      },
+      "correctAnswer": "A",
+      "explanation": "The atmosphere is the entire blanket of gases held around Earth."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following is an air pollutant? (Official 2025 Model)",
+      "options": {
+        "A": "$NO_2$",
+        "B": "$Ne$",
+        "C": "$O_2$",
+        "D": "$N_2$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nitrogen dioxide ($NO_2$) is a toxic pollutant emitted from vehicle exhausts."
+    },
+    {
+      "id": 11,
+      "question": "Which statement about water is correct? (Official 2025 Model)",
+      "options": {
+        "A": "Boils at 100°C at 1 atm",
+        "B": "Low heat of vaporization",
+        "C": "Low heat of fusion",
+        "D": "Contracts when it freezes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Water has a boiling point of 100°C at standard atmospheric pressure."
+    },
+    {
+      "id": 12,
+      "question": "Separation of minerals from gangue by physical methods is called: (Official 2025 Model)",
+      "options": {
+        "A": "Concentration of ore",
+        "B": "Distillation",
+        "C": "Bessemerization",
+        "D": "Extraction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Concentration (dressing) removes gangue through gravity, froth flotation, or magnetic separation."
+    }
+  ]
+}

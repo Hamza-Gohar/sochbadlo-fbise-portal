@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 10,
+  "chapterTitle": "FBISE Annual Exam Simulator 02 (Unit 11 & 12: Organic Chemistry & Hydrocarbons)",
+  "slug": "chemistry-10-model-paper-2",
+  "totalQuestions": 12,
+  "fileName": "chemistry-10-model-paper-2.json",
+  "subject": "chemistry-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which variety of coal contains approximately 80% carbon content? (FBISE 2024-II)",
+      "options": {
+        "A": "Peat",
+        "B": "Lignite",
+        "C": "Bituminous",
+        "D": "Anthracite"
+      },
+      "correctAnswer": "C",
+      "explanation": "Bituminous coal contains approximately 80% carbon and is the most abundant type of coal used in power generation and coke production."
+    },
+    {
+      "id": 2,
+      "question": "In 1828, Friedrich Wöhler successfully synthesized urea ($NH_2CONH_2$) by heating:",
+      "options": {
+        "A": "Ammonium cyanate ($NH_4CNO$)",
+        "B": "Ammonium carbonate",
+        "C": "Ammonium nitrate",
+        "D": "Calcium carbide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Wöhler heated the inorganic mineral salt ammonium cyanate ($NH_4CNO$) and obtained the organic compound urea, overthrowing the Vital Force Theory."
+    },
+    {
+      "id": 3,
+      "question": "The functional group characteristic of organic esters that imparts sweet fruity aromas is:",
+      "options": {
+        "A": "$-COOH$",
+        "B": "$-COOR$",
+        "C": "$-CHO$",
+        "D": "$-O-$"
+      },
+      "correctAnswer": "B",
+      "explanation": "Esters have the functional group $-COOR$ (alkoxycarbonyl group), which gives fruits and flowers their characteristic fragrances."
+    },
+    {
+      "id": 4,
+      "question": "What is the general molecular formula for the alkyne homologous series?",
+      "options": {
+        "A": "$C_nH_{2n+2}$",
+        "B": "$C_nH_{2n}$",
+        "C": "$C_nH_{2n-2}$",
+        "D": "$C_nH_{2n-1}$"
+      },
+      "correctAnswer": "C",
+      "explanation": "Alkynes contain one carbon-carbon triple bond and conform to the general formula $C_nH_{2n-2}$."
+    },
+    {
+      "id": 5,
+      "question": "Which gas is used in oxy-acetylene welding torches to generate temperatures exceeding 3000°C for cutting steel?",
+      "options": {
+        "A": "Methane",
+        "B": "Ethane",
+        "C": "Acetylene (Ethyne)",
+        "D": "Ethene"
+      },
+      "correctAnswer": "C",
+      "explanation": "Acetylene ($C_2H_2$) burns in oxygen with an extremely hot flame reaching 3300°C, making it ideal for oxy-acetylene welding and cutting."
+    },
+    {
+      "id": 6,
+      "question": "Which diagnostic reagent is used to confirm unsaturation (double/triple bonds) by discharging reddish-brown color?",
+      "options": {
+        "A": "Bromine water ($Br_2$ in water / $CCl_4$)",
+        "B": "Litmus solution",
+        "C": "Fehling's solution",
+        "D": "Tollens' reagent"
+      },
+      "correctAnswer": "A",
+      "explanation": "Unsaturated hydrocarbons rapidly add bromine across their multiple bonds, discharging the reddish-brown color of bromine water."
+    },
+    {
+      "id": 7,
+      "question": "What product is obtained when ethene reacts with cold, dilute alkaline $KMnO_4$ in Baeyer's test?",
+      "options": {
+        "A": "Ethylene glycol (1,2-ethanediol)",
+        "B": "Oxalic acid",
+        "C": "Ethanol",
+        "D": "Acetic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Baeyer's test oxidizes ethene into 1,2-ethanediol (ethylene glycol), while the purple color of $KMnO_4$ is discharged with formation of brown $MnO_2$."
+    },
+    {
+      "id": 8,
+      "question": "Ethanol is dehydrated to ethene by heating with concentrated sulphuric acid at:",
+      "options": {
+        "A": "100°C",
+        "B": "140°C",
+        "C": "170°C",
+        "D": "300°C"
+      },
+      "correctAnswer": "C",
+      "explanation": "Excess concentrated $H_2SO_4$ dehydrates ethanol to ethene ($CH_2=CH_2$) at 170°C."
+    },
+    {
+      "id": 9,
+      "question": "How many structural chain isomers exist for butane ($C_4H_{10}$)?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctAnswer": "A",
+      "explanation": "Butane has 2 isomers: unbranched n-butane and branched isobutane (2-methylpropane)."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following compounds is an example of an alicyclic (cycloalkane) hydrocarbon?",
+      "options": {
+        "A": "Benzene",
+        "B": "Cyclohexane ($C_6H_{12}$)",
+        "C": "n-Hexane",
+        "D": "Toluene"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cyclohexane ($C_6H_{12}$) is a saturated ring hydrocarbon (alicyclic), containing only single carbon-carbon bonds."
+    },
+    {
+      "id": 11,
+      "question": "Incomplete combustion of methane in a limited supply of oxygen generates:",
+      "options": {
+        "A": "Carbon monoxide ($CO$), carbon black ($C$), and water",
+        "B": "Carbon dioxide and water only",
+        "C": "Hydrogen gas only",
+        "D": "Methanol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Limited oxygen leads to incomplete oxidation, generating toxic $CO$, particulate carbon black, and $H_2O$."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following organic compounds is a member of the ketone homologous series?",
+      "options": {
+        "A": "$CH_3-CHO$",
+        "B": "$CH_3-CO-CH_3$ (Acetone)",
+        "C": "$CH_3-COOH$",
+        "D": "$CH_3-O-CH_3$"
+      },
+      "correctAnswer": "B",
+      "explanation": "Acetone (propanone, $CH_3-CO-CH_3$) has a carbonyl group bonded between two alkyl groups, characterizing it as a ketone."
+    }
+  ]
+}

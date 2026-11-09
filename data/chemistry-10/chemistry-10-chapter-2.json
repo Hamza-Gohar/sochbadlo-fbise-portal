@@ -1,0 +1,491 @@
+{
+  "chapterNumber": 2,
+  "chapterTitle": "Unit 10: Acids, Bases and Salts",
+  "slug": "chemistry-10-chapter-2",
+  "totalQuestions": 40,
+  "fileName": "chemistry-10-chapter-2.json",
+  "subject": "chemistry-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the chemical formula of nitric acid? (FBISE 2024-II)",
+      "options": {
+        "A": "$NaCl$",
+        "B": "$HCl$",
+        "C": "$HNO_3$",
+        "D": "$H_2SO_4$"
+      },
+      "correctAnswer": "C",
+      "explanation": "Nitric acid has the molecular formula $HNO_3$. It is a strong mineral acid widely used in fertilizer and explosive manufacturing."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following compounds behaves as a Lewis base? (FBISE 2023-II, 2024-I)",
+      "options": {
+        "A": "$BF_3$",
+        "B": "$AlCl_3$",
+        "C": "$NH_3$",
+        "D": "$H^+$"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ammonia ($NH_3$) possesses an unshared lone pair of electrons on its nitrogen atom which it can donate to form a coordinate covalent bond, making it a classic Lewis base."
+    },
+    {
+      "id": 3,
+      "question": "A substance that can donate a proton ($H^+$) to another substance is defined as an acid according to: (FBISE 2023-II)",
+      "options": {
+        "A": "Arrhenius Theory",
+        "B": "Brønsted-Lowry Theory",
+        "C": "Lewis Theory",
+        "D": "Boyle's Theory"
+      },
+      "correctAnswer": "B",
+      "explanation": "In 1923, J.N. Brønsted and T.M. Lowry independently defined an acid as any chemical species capable of donating a proton ($H^+$) to another substance."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following substances is an amphoteric compound capable of acting as both a Brønsted acid and a Brønsted base? (FBISE 2021-I, 2025 Model)",
+      "options": {
+        "A": "$OH^-$",
+        "B": "$CH_3COO^-$",
+        "C": "$H_2O$",
+        "D": "$H_3PO_4$"
+      },
+      "correctAnswer": "C",
+      "explanation": "Water ($H_2O$) is amphoteric: it acts as a Brønsted acid by donating a proton to form hydroxide ($OH^-$), and as a Brønsted base by accepting a proton to form hydronium ($H_3O^+$)."
+    },
+    {
+      "id": 5,
+      "question": "Identify the Arrhenius base among the following choices: (FBISE 2025 Model)",
+      "options": {
+        "A": "$NaF$",
+        "B": "$NH_3$",
+        "C": "$NaOH$",
+        "D": "$H_2O$"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to the Arrhenius concept, a base is a substance that dissociates in aqueous solution to yield hydroxide ions ($OH^-$). Sodium hydroxide ($NaOH \\to Na^+ + OH^-$) is an Arrhenius base."
+    },
+    {
+      "id": 6,
+      "question": "What is the conjugate acid of the bicarbonate ion ($HCO_3^-$)? (FBISE 2022-I)",
+      "options": {
+        "A": "$CO_3^{2-}$",
+        "B": "$H_2CO_3$",
+        "C": "$OH^-$",
+        "D": "$H_3O^+$"
+      },
+      "correctAnswer": "B",
+      "explanation": "A conjugate acid is formed when a base accepts a proton. When $HCO_3^-$ accepts a proton ($H^+$), it forms carbonic acid ($H_2CO_3$)."
+    },
+    {
+      "id": 7,
+      "question": "What is the conjugate base of water ($H_2O$)? (FBISE 2019-I)",
+      "options": {
+        "A": "$H_3O^+$",
+        "B": "$OH^-$",
+        "C": "$O^{2-}$",
+        "D": "$H^+$"
+      },
+      "correctAnswer": "B",
+      "explanation": "When water acts as an acid and donates a proton ($H^+$), the remaining species is the hydroxide ion ($OH^-$), which is its conjugate base."
+    },
+    {
+      "id": 8,
+      "question": "What is the pH of a neutral aqueous solution at $25^\\circ\\text{C}$? (FBISE 2018-I, 2020-II)",
+      "options": {
+        "A": "0",
+        "B": "7",
+        "C": "14",
+        "D": "1"
+      },
+      "correctAnswer": "B",
+      "explanation": "In pure water at $25^\\circ\\text{C}$, $[H^+] = 1.0 \\times 10^{-7}\\text{ M}$. Taking the negative logarithm gives $pH = -\\log(1.0 \\times 10^{-7}) = 7$."
+    },
+    {
+      "id": 9,
+      "question": "If an aqueous solution has a $pOH$ of 4, what is its $pH$ value at $25^\\circ\\text{C}$? (FBISE 2017-II)",
+      "options": {
+        "A": "4",
+        "B": "7",
+        "C": "10",
+        "D": "14"
+      },
+      "correctAnswer": "C",
+      "explanation": "At $25^\\circ\\text{C}$, $pH + pOH = 14$. Therefore, $pH = 14 - pOH = 14 - 4 = 10$, indicating a basic solution."
+    },
+    {
+      "id": 10,
+      "question": "What gas is evolved with effervescence when dilute hydrochloric acid reacts with calcium carbonate ($CaCO_3$)? (FBISE 2016-I, 2023-I)",
+      "options": {
+        "A": "Hydrogen gas ($H_2$)",
+        "B": "Oxygen gas ($O_2$)",
+        "C": "Carbon dioxide gas ($CO_2$)",
+        "D": "Chlorine gas ($Cl_2$)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Acids react with metal carbonates and bicarbonates to form salt, water, and liberate carbon dioxide gas: $CaCO_3 + 2HCl \\to CaCl_2 + H_2O + CO_2\\uparrow$."
+    },
+    {
+      "id": 11,
+      "question": "What gas is liberated when dilute sulphuric acid reacts with active zinc metal? (FBISE 2015-II, 2019-II)",
+      "options": {
+        "A": "$SO_2$",
+        "B": "$H_2$",
+        "C": "$O_2$",
+        "D": "$H_2S$"
+      },
+      "correctAnswer": "B",
+      "explanation": "Metals above hydrogen in the electrochemical series displace hydrogen from dilute non-oxidizing acids: $Zn + H_2SO_4 \\to ZnSO_4 + H_2\\uparrow$."
+    },
+    {
+      "id": 12,
+      "question": "What gas having a characteristic rotten egg odor is produced when an acid reacts with iron(II) sulphide ($FeS$)? (FBISE 2017-I)",
+      "options": {
+        "A": "Sulphur dioxide ($SO_2$)",
+        "B": "Hydrogen sulphide ($H_2S$)",
+        "C": "Carbon monoxide ($CO$)",
+        "D": "Ammonia ($NH_3$)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Acids react with metal sulphides to release toxic hydrogen sulphide gas ($H_2S$), which is well known for its offensive rotten egg smell: $FeS + 2HCl \\to FeCl_2 + H_2S\\uparrow$."
+    },
+    {
+      "id": 13,
+      "question": "When dilute sodium hydroxide solution is added to a copper sulphate solution, what colored precipitate forms? (FBISE 2018-II, 2022-II)",
+      "options": {
+        "A": "Dirty green",
+        "B": "Light blue",
+        "C": "Reddish brown",
+        "D": "White"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bases precipitate insoluble metal hydroxides from their salt solutions. Copper sulphate reacts with sodium hydroxide to precipitate light blue copper(II) hydroxide: $CuSO_4 + 2NaOH \\to Cu(OH)_2\\downarrow + Na_2SO_4$."
+    },
+    {
+      "id": 14,
+      "question": "When phenolphthalein indicator is added to a basic solution ($pH > 9$), what color change occurs? (FBISE 2014-I, 2021-II)",
+      "options": {
+        "A": "Remains colorless",
+        "B": "Turns bright pink / magenta",
+        "C": "Turns deep yellow",
+        "D": "Turns brick red"
+      },
+      "correctAnswer": "B",
+      "explanation": "Phenolphthalein is an organic indicator that is colorless in acidic and neutral solutions ($pH < 8.3$) and turns distinct pink/magenta in alkaline solutions ($pH 8.3 - 10$)."
+    },
+    {
+      "id": 15,
+      "question": "Methyl orange indicator produces what color in a strongly acidic solution? (FBISE 2015-I)",
+      "options": {
+        "A": "Yellow",
+        "B": "Red",
+        "C": "Blue",
+        "D": "Colorless"
+      },
+      "correctAnswer": "B",
+      "explanation": "Methyl orange indicator exhibits a red color in acidic solutions ($pH < 3.1$) and turns yellow in alkaline medium ($pH > 4.4$)."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following salts is classified as an acidic salt? (FBISE 2020-I, 2023-I)",
+      "options": {
+        "A": "$NaCl$",
+        "B": "$Na_2SO_4$",
+        "C": "$NaHSO_4$",
+        "D": "$KNO_3$"
+      },
+      "correctAnswer": "C",
+      "explanation": "An acidic salt is formed by the partial replacement of ionizable hydrogen atoms of a polybasic acid by a metal ion. Sodium bisulphate ($NaHSO_4$) retains an ionizable hydrogen ion."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following salts is a normal (neutral) salt? (FBISE 2019-II)",
+      "options": {
+        "A": "$NaHCO_3$",
+        "B": "$Pb(OH)NO_3$",
+        "C": "$NaCl$",
+        "D": "$NaH_2PO_4$"
+      },
+      "correctAnswer": "C",
+      "explanation": "A normal salt is formed by the total replacement of ionizable hydrogen atoms of an acid by metal ions. Sodium chloride ($NaCl$) contains no replaceable hydrogen or hydroxyl ions."
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is classified as a basic salt? (FBISE 2018-I)",
+      "options": {
+        "A": "$Al(OH)_2Cl$",
+        "B": "$K_2SO_4$",
+        "C": "$Na_2HPO_4$",
+        "D": "$NH_4Cl$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Basic salts are formed by the incomplete neutralization of a polyhydroxy base by an acid, retaining one or more replaceable hydroxide ($OH^-$) groups, such as $Al(OH)_2Cl$ or $Pb(OH)NO_3$."
+    },
+    {
+      "id": 19,
+      "question": "Potash alum ($K_2SO_4 \\cdot Al_2(SO_4)_3 \\cdot 24H_2O$) is an example of a: (FBISE 2016-II, 2022-I)",
+      "options": {
+        "A": "Normal salt",
+        "B": "Double salt",
+        "C": "Complex salt",
+        "D": "Mixed salt"
+      },
+      "correctAnswer": "B",
+      "explanation": "A double salt is formed by the equimolar crystallization of two simple salts and retains the individual identities of all its constituent ions in solution. Potash alum is a classic double salt."
+    },
+    {
+      "id": 20,
+      "question": "Bleaching powder ($CaOCl_2$) is an example of a: (FBISE 2017-II)",
+      "options": {
+        "A": "Double salt",
+        "B": "Mixed salt",
+        "C": "Acidic salt",
+        "D": "Complex salt"
+      },
+      "correctAnswer": "B",
+      "explanation": "A mixed salt contains more than one basic or acidic radical. Bleaching powder consists of one cation ($Ca^{2+}$) combined with two different anions ($Cl^-$ and $OCl^-$)."
+    },
+    {
+      "id": 21,
+      "question": "What is the numerical value of the auto-ionization constant of water ($K_w$) at $25^\\circ\\text{C}$? (FBISE 2021-I)",
+      "options": {
+        "A": "$1.0 \\times 10^{-7}$",
+        "B": "$1.0 \\times 10^{-14}$",
+        "C": "$1.0 \\times 10^7$",
+        "D": "$1.0 \\times 10^{-1}$"
+      },
+      "correctAnswer": "B",
+      "explanation": "At $25^\\circ\\text{C}$, the ionic product of water $K_w = [H^+][OH^-] = (1.0 \\times 10^{-7})(1.0 \\times 10^{-7}) = 1.0 \\times 10^{-14}$."
+    },
+    {
+      "id": 22,
+      "question": "Which method is used to prepare an insoluble salt like barium sulphate ($BaSO_4$)? (FBISE 2019-I, 2023-II)",
+      "options": {
+        "A": "Direct combination of elements",
+        "B": "Reaction of acid with an insoluble base",
+        "C": "Precipitation by mixing two soluble salt solutions (double decomposition)",
+        "D": "Action of acid on pure metal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Insoluble salts are prepared by precipitation (ionic double displacement) when solutions of two soluble salts containing the required ions are mixed: $BaCl_2(aq) + Na_2SO_4(aq) \\to BaSO_4\\downarrow + 2NaCl(aq)$."
+    },
+    {
+      "id": 23,
+      "question": "What is the concentration of hydrogen ions in a solution with a pH of 3?",
+      "options": {
+        "A": "$1.0 \\times 10^{-3}\\text{ mol dm}^{-3}$",
+        "B": "$1.0 \\times 10^3\\text{ mol dm}^{-3}$",
+        "C": "$3.0 \\times 10^{-1}\\text{ mol dm}^{-3}$",
+        "D": "$1.0 \\times 10^{-11}\\text{ mol dm}^{-3}$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since $pH = -\\log[H^+]$, $[H^+] = 10^{-pH} = 10^{-3} = 1.0 \\times 10^{-3}\\text{ mol dm}^{-3}$."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following acids is present in sour milk and yogurt?",
+      "options": {
+        "A": "Lactic acid",
+        "B": "Citric acid",
+        "C": "Acetic acid",
+        "D": "Formic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lactic acid is produced by the fermentation of milk sugar (lactose) by Lactobacillus bacteria, giving sour milk and yogurt their distinctive taste."
+    },
+    {
+      "id": 25,
+      "question": "Which acid is found naturally in sting of bees and ants?",
+      "options": {
+        "A": "Formic acid (Methanoic acid)",
+        "B": "Tartaric acid",
+        "C": "Oxalic acid",
+        "D": "Butyric acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ants and bees inject formic acid ($HCOOH$, methanoic acid) when they sting, causing burning pain and inflammation."
+    },
+    {
+      "id": 26,
+      "question": "Which of the following compounds is an example of an electron-deficient Lewis acid?",
+      "options": {
+        "A": "$BF_3$",
+        "B": "$NH_3$",
+        "C": "$H_2O$",
+        "D": "$OH^-$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Boron trifluoride ($BF_3$) has only 6 valence electrons around its central boron atom. Being two electrons short of an octet, it readily accepts an electron pair, acting as a Lewis acid."
+    },
+    {
+      "id": 27,
+      "question": "In the reaction $NH_3 + BF_3 \\to H_3N \\to BF_3$, what type of chemical bond links the donor and acceptor atoms?",
+      "options": {
+        "A": "Ionic bond",
+        "B": "Coordinate covalent (dative) bond",
+        "C": "Hydrogen bond",
+        "D": "Non-polar covalent bond"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nitrogen donates its lone pair of electrons to the empty orbital of boron, forming a coordinate covalent (dative) bond in the resulting adduct."
+    },
+    {
+      "id": 28,
+      "question": "Which chemical salt is known commercially as baking soda?",
+      "options": {
+        "A": "Sodium carbonate ($Na_2CO_3$)",
+        "B": "Sodium bicarbonate ($NaHCO_3$)",
+        "C": "Calcium carbonate ($CaCO_3$)",
+        "D": "Potassium carbonate ($K_2CO_3$)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sodium hydrogen carbonate ($NaHCO_3$) is widely known as baking soda. Upon heating, it releases $CO_2$ gas which causes dough to rise."
+    },
+    {
+      "id": 29,
+      "question": "Plaster of Paris has which of the following chemical formulas?",
+      "options": {
+        "A": "$CaSO_4 \\cdot 2H_2O$",
+        "B": "$CaSO_4 \\cdot \\frac{1}{2}H_2O$",
+        "C": "$MgSO_4 \\cdot 7H_2O$",
+        "D": "$CuSO_4 \\cdot 5H_2O$"
+      },
+      "correctAnswer": "B",
+      "explanation": "Plaster of Paris is calcium sulphate hemihydrate ($CaSO_4 \\cdot \\frac{1}{2}H_2O$), produced by gently heating gypsum ($CaSO_4 \\cdot 2H_2O$) to 100°C."
+    },
+    {
+      "id": 30,
+      "question": "What is the common chemical name of Epsom salt?",
+      "options": {
+        "A": "$MgSO_4 \\cdot 7H_2O$",
+        "B": "$FeSO_4 \\cdot 7H_2O$",
+        "C": "$CuSO_4 \\cdot 5H_2O$",
+        "D": "$Na_2CO_3 \\cdot 10H_2O$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Magnesium sulphate heptahydrate ($MgSO_4 \\cdot 7H_2O$) is known as Epsom salt, frequently used as a laxative and in soaking baths."
+    },
+    {
+      "id": 31,
+      "question": "What is the pH range of a universal indicator paper from strongly acidic to strongly alkaline?",
+      "options": {
+        "A": "0 to 14",
+        "B": "1 to 7",
+        "C": "7 to 14",
+        "D": "0 to 10"
+      },
+      "correctAnswer": "A",
+      "explanation": "Universal indicator is a mixture of several dyes that shows distinct color changes over the entire pH spectrum from 0 (strong acid, red) to 14 (strong alkali, violet/purple)."
+    },
+    {
+      "id": 32,
+      "question": "Which of the following is a major limitation of the Arrhenius acid-base concept?",
+      "options": {
+        "A": "It is applicable only to non-aqueous solvents like benzene",
+        "B": "It is restricted exclusively to aqueous medium and cannot explain basicity of $NH_3$",
+        "C": "It cannot explain neutralization reactions",
+        "D": "It predicts that all acids are gases"
+      },
+      "correctAnswer": "B",
+      "explanation": "Arrhenius theory applies only to aqueous solutions and fails to explain substances like $NH_3$ (which lacks $OH^-$ but acts as a base) and $CO_2$ or $SO_2$ (which lack $H^+$ but act as acidic)."
+    },
+    {
+      "id": 33,
+      "question": "In the reaction $HCl + H_2O \\rightleftharpoons H_3O^+ + Cl^-$, which species forms a conjugate acid-base pair?",
+      "options": {
+        "A": "$HCl$ and $Cl^-$",
+        "B": "$HCl$ and $H_3O^+$",
+        "C": "$H_2O$ and $Cl^-$",
+        "D": "$Cl^-$ and $H_3O^+$"
+      },
+      "correctAnswer": "A",
+      "explanation": "$HCl$ donates a proton to become $Cl^-$. Therefore, $HCl$ (acid) and $Cl^-$ (conjugate base) constitute a conjugate acid-base pair differing by exactly one proton."
+    },
+    {
+      "id": 34,
+      "question": "When solid ammonium chloride ($NH_4Cl$) is heated with sodium hydroxide ($NaOH$), what pungent gas is evolved?",
+      "options": {
+        "A": "Chlorine ($Cl_2$)",
+        "B": "Ammonia ($NH_3$)",
+        "C": "Nitrogen dioxide ($NO_2$)",
+        "D": "Hydrogen ($H_2$)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Heating an ammonium salt with an alkali liberates ammonia gas: $NH_4Cl + NaOH \\to NaCl + H_2O + NH_3\\uparrow$."
+    },
+    {
+      "id": 35,
+      "question": "Which salt is used in the manufacture of glass, soap, and paper?",
+      "options": {
+        "A": "Sodium carbonate ($Na_2CO_3$)",
+        "B": "Calcium sulphate ($CaSO_4$)",
+        "C": "Copper sulphate ($CuSO_4$)",
+        "D": "Barium sulphate ($BaSO_4$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sodium carbonate (soda ash, $Na_2CO_3$) is a vital industrial chemical used as a flux in glass making, in saponification for soaps, and in wood pulp processing for paper."
+    },
+    {
+      "id": 36,
+      "question": "What is the pH of a $0.001\\text{ M } HCl$ solution?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "11"
+      },
+      "correctAnswer": "C",
+      "explanation": "$HCl$ is a strong monoprotic acid that ionizes completely. $[H^+] = 0.001\\text{ M} = 10^{-3}\\text{ M}$. $pH = -\\log(10^{-3}) = 3$."
+    },
+    {
+      "id": 37,
+      "question": "What is the pH of a $0.01\\text{ M } NaOH$ solution at $25^\\circ\\text{C}$?",
+      "options": {
+        "A": "2",
+        "B": "7",
+        "C": "12",
+        "D": "14"
+      },
+      "correctAnswer": "C",
+      "explanation": "$NaOH$ is a strong base that ionizes completely: $[OH^-] = 0.01\\text{ M} = 10^{-2}\\text{ M}$. $pOH = -\\log(10^{-2}) = 2$. $pH = 14 - pOH = 14 - 2 = 12$."
+    },
+    {
+      "id": 38,
+      "question": "Blue vitriol is the common name for which hydrated salt?",
+      "options": {
+        "A": "$FeSO_4 \\cdot 7H_2O$",
+        "B": "$CuSO_4 \\cdot 5H_2O$",
+        "C": "$ZnSO_4 \\cdot 7H_2O$",
+        "D": "$MgSO_4 \\cdot 7H_2O$"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hydrated copper(II) sulphate ($CuSO_4 \\cdot 5H_2O$) forms bright blue triclinic crystals and is commonly known as blue vitriol."
+    },
+    {
+      "id": 39,
+      "question": "Which of the following oxides is an acidic oxide (acid anhydride)?",
+      "options": {
+        "A": "$Na_2O$",
+        "B": "$CaO$",
+        "C": "$SO_3$",
+        "D": "$MgO$"
+      },
+      "correctAnswer": "C",
+      "explanation": "Non-metal oxides like sulphur trioxide ($SO_3$) dissolve in water to produce acids ($SO_3 + H_2O \\to H_2SO_4$), making them acidic oxides or acid anhydrides."
+    },
+    {
+      "id": 40,
+      "question": "Which of the following compounds is an example of a Lewis acid with an expanded octet or empty d-orbitals?",
+      "options": {
+        "A": "$AlCl_3$",
+        "B": "$NH_3$",
+        "C": "$H_2O$",
+        "D": "$CH_4$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Aluminum trichloride ($AlCl_3$) has an incomplete octet (6 valence electrons around aluminum) and readily accepts an electron pair, acting as a powerful Lewis acid in Friedel-Crafts reactions."
+    }
+  ]
+}

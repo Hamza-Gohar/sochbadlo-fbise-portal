@@ -1,0 +1,491 @@
+{
+  "chapterNumber": 8,
+  "chapterTitle": "Unit 16: Chemical Industries",
+  "slug": "chemistry-10-chapter-8",
+  "totalQuestions": 40,
+  "fileName": "chemistry-10-chapter-8.json",
+  "subject": "chemistry-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In the Solvay process, which two chemicals are dissolved in water to form ammoniacal brine? (FBISE 2025 Model)",
+      "options": {
+        "A": "$NH_3$ and $CaO$",
+        "B": "$NH_3$ and $HCl$",
+        "C": "$NH_3$ and $CO_2$",
+        "D": "$NH_3$ and $NaCl$"
+      },
+      "correctAnswer": "D",
+      "explanation": "In the initial step of the Solvay process, ammonia gas ($NH_3$) is dissolved in concentrated sodium chloride solution (brine) to produce ammoniacal brine, which is then fed into the carbonating tower."
+    },
+    {
+      "id": 2,
+      "question": "Separation of valuable minerals from unwanted rocky gangue by physical methods is scientifically termed: (FBISE 2025 Model)",
+      "options": {
+        "A": "Distillation",
+        "B": "Bessemerization",
+        "C": "Concentration of ore (Beneficiation)",
+        "D": "Extraction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Concentration (dressing or beneficiation) is the physical process of removing rocky impurities (gangue) from mined ore using methods such as gravity separation, froth flotation, or magnetic separation."
+    },
+    {
+      "id": 3,
+      "question": "What is the chemical formula of ammonium carbamate formed as an intermediate in urea manufacture? (FBISE 2019-I, 2024-II)",
+      "options": {
+        "A": "$NH_4NO_3$",
+        "B": "$NH_4HCO_3$",
+        "C": "$NH_2COONH_4$",
+        "D": "$(NH_4)_2CO_3$"
+      },
+      "correctAnswer": "C",
+      "explanation": "In urea manufacture, liquid ammonia reacts with gaseous carbon dioxide under high pressure (200 atm) and 200°C to form ammonium carbamate: $2NH_3 + CO_2 \\rightleftharpoons NH_2COONH_4$."
+    },
+    {
+      "id": 4,
+      "question": "What is the percentage of nitrogen by mass present in pure urea fertilizer ($NH_2CONH_2$)? (FBISE 2018-I, 2023-II)",
+      "options": {
+        "A": "28%",
+        "B": "35%",
+        "C": "46.6% (~46%)",
+        "D": "82%"
+      },
+      "correctAnswer": "C",
+      "explanation": "Molar mass of urea ($NH_2CONH_2$) = $2(14) + 4(1) + 12 + 16 = 60\\text{ g/mol}$. Mass of nitrogen = $28\\text{ g}$. Nitrogen percentage = $(28 / 60) \\times 100 = 46.66\\%$ (~46%)."
+    },
+    {
+      "id": 5,
+      "question": "In the metallurgy of copper from copper pyrites ($CuFeS_2$), the molten mixture of $Cu_2S$ and $FeS$ obtained from the blast furnace is called: (FBISE 2022-II, 2024-I)",
+      "options": {
+        "A": "Blister copper",
+        "B": "Matte (~45% Cu)",
+        "C": "Slag",
+        "D": "Anode mud"
+      },
+      "correctAnswer": "B",
+      "explanation": "Smelting of roasted copper ore in a blast furnace yields a dense molten bottom layer containing cuprous sulphide ($Cu_2S$) and ferrous sulphide ($FeS$) containing ~45% copper, known as copper matte."
+    },
+    {
+      "id": 6,
+      "question": "What is the chemical composition of blister copper obtained from the Bessemer converter? (FBISE 2021-II)",
+      "options": {
+        "A": "50% pure copper",
+        "B": "75% pure copper",
+        "C": "98% pure copper",
+        "D": "99.99% pure copper"
+      },
+      "correctAnswer": "C",
+      "explanation": "Blister copper obtained from Bessemerization is approximately 98% pure copper. As it solidifies, escaping $SO_2$ gas forms blisters on the metal surface."
+    },
+    {
+      "id": 7,
+      "question": "During the electrolytic refining of copper, the anode is made of: (FBISE 2020-I, 2023-I)",
+      "options": {
+        "A": "Pure copper sheet",
+        "B": "Impure blister copper block",
+        "C": "Graphite rod",
+        "D": "Platinum wire"
+      },
+      "correctAnswer": "B",
+      "explanation": "In electrolytic refining, thick blocks of impure blister copper serve as anodes, while thin sheets of high-purity copper serve as cathodes in an acidified $CuSO_4$ electrolyte."
+    },
+    {
+      "id": 8,
+      "question": "In the electrolytic refining of blister copper, which valuable noble metals settle at the bottom of the tank as 'anode mud'? (FBISE 2019-II)",
+      "options": {
+        "A": "Iron and Zinc",
+        "B": "Gold ($Au$), Silver ($Ag$), and Platinum ($Pt$)",
+        "C": "Sodium and Potassium",
+        "D": "Lead and Tin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Precious metals less reactive than copper, such as gold ($Au$), silver ($Ag$), and platinum ($Pt$), do not dissolve in the electrolyte and drop to the bottom as valuable anode mud."
+    },
+    {
+      "id": 9,
+      "question": "In the froth flotation process for concentrating sulphide ores, which substance is added as a foaming agent (collector)? (FBISE 2018-II)",
+      "options": {
+        "A": "Pine oil or eucalyptus oil",
+        "B": "Water only",
+        "C": "Concentrated sulphuric acid",
+        "D": "Common salt"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sulphide ore particles are preferentially wetted by pine oil, while gangue particles are wetted by water. Compressed air creates an oily froth carrying concentrated ore to the surface."
+    },
+    {
+      "id": 10,
+      "question": "The only major chemical byproduct in Solvay's process for soda ash manufacture that cannot be economically recycled is: (FBISE 2017-I, 2022-I)",
+      "options": {
+        "A": "Calcium chloride ($CaCl_2$)",
+        "B": "Ammonium chloride ($NH_4Cl$)",
+        "C": "Carbon dioxide ($CO_2$)",
+        "D": "Ammonia ($NH_3$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "During ammonia recovery ($2NH_4Cl + Ca(OH)_2 \\to 2NH_3\\uparrow + CaCl_2 + 2H_2O$), ammonia is recycled into the process, leaving calcium chloride ($CaCl_2$) as the sole unrecovered byproduct."
+    },
+    {
+      "id": 11,
+      "question": "What is the chemical formula of copper pyrites (chalcopyrite), the primary ore of copper? (FBISE 2016-II)",
+      "options": {
+        "A": "$CuFeS_2$",
+        "B": "$Cu_2O$",
+        "C": "$Cu_2S$",
+        "D": "$CuCO_3 \\cdot Cu(OH)_2$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Copper pyrites (chalcopyrite) is a brass-yellow mineral containing copper, iron, and sulphur with the chemical formula $CuFeS_2$."
+    },
+    {
+      "id": 12,
+      "question": "What reaction occurs in the calcination step of Solvay's process to produce soda ash ($Na_2CO_3$)? (FBISE 2015-I)",
+      "options": {
+        "A": "$2NaHCO_3 \\xrightarrow{\\Delta} Na_2CO_3 + H_2O + CO_2\\uparrow$",
+        "B": "$NaCl + NH_3 \\to NaNH_2 + HCl$",
+        "C": "$CaCO_3 \\to CaO + CO_2$",
+        "D": "$NH_4HCO_3 \\to NH_3 + H_2O + CO_2$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Filtered precipitate of sodium hydrogen carbonate ($NaHCO_3$) is heated strongly (calcined) in a rotary kiln to form sodium carbonate (soda ash), water vapor, and $CO_2$ (which is recycled)."
+    },
+    {
+      "id": 13,
+      "question": "In the metallurgy of copper, what flux is added to the blast furnace during smelting to remove iron oxide as slag? (FBISE 2014-I)",
+      "options": {
+        "A": "Silica / Sand ($SiO_2$)",
+        "B": "Limestone ($CaCO_3$)",
+        "C": "Coke ($C$)",
+        "D": "Alumina ($Al_2O_3$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Iron sulphide oxidizes to basic ferrous oxide ($FeO$). Silica sand ($SiO_2$) acts as an acidic flux, reacting with $FeO$ to form molten iron silicate slag ($FeSiO_3$) that floats on matte."
+    },
+    {
+      "id": 14,
+      "question": "What is the chemical formula of hematite, the major iron ore? (FBISE 2015-II)",
+      "options": {
+        "A": "$Fe_2O_3$",
+        "B": "$Fe_3O_4$",
+        "C": "$FeS_2$",
+        "D": "$FeCO_3$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hematite is the primary iron oxide ore with the formula $Fe_2O_3$, while magnetite is $Fe_3O_4$ and iron pyrites is $FeS_2$."
+    },
+    {
+      "id": 15,
+      "question": "The process of heating an ore below its melting point in a free and continuous supply of excess air is termed: (FBISE 2018-I)",
+      "options": {
+        "A": "Calcination",
+        "B": "Roasting",
+        "C": "Smelting",
+        "D": "Refining"
+      },
+      "correctAnswer": "B",
+      "explanation": "Roasting is the thermal treatment of an ore (especially sulphide ores) in the presence of excess air below the melting point to convert sulphides into oxides and eliminate volatile impurities like $SO_2$."
+    },
+    {
+      "id": 16,
+      "question": "What is the function of the prilling tower in an industrial urea plant? (FBISE 2021-I)",
+      "options": {
+        "A": "To synthesize ammonia from nitrogen and hydrogen",
+        "B": "To spray molten concentrated urea droplets against cooling air to form solid spherical granules (prills)",
+        "C": "To dehydrate ammonium carbamate",
+        "D": "To package urea into bags"
+      },
+      "correctAnswer": "B",
+      "explanation": "In the prilling tower, molten concentrated urea is sprayed from top nozzles. As droplets fall against an upward draft of cold air, they solidify into round, dust-free granules called prills."
+    },
+    {
+      "id": 17,
+      "question": "Which fraction of petroleum distillation boils between 40°C and 200°C and is used as motor fuel for automobiles? (FBISE 2017-II)",
+      "options": {
+        "A": "Kerosene oil",
+        "B": "Gasoline (Petrol)",
+        "C": "Diesel fuel",
+        "D": "Lubricating oil"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gasoline (petrol) contains hydrocarbons from $C_7$ to $C_{10}$, boiling between 40°C and 200°C, and serves as fuel in spark-ignition internal combustion engines."
+    },
+    {
+      "id": 18,
+      "question": "Kerosene oil fraction obtained from petroleum refining ($C_{10}-C_{12}$, boiling range 175°C to 275°C) is primarily used as: (FBISE 2016-I)",
+      "options": {
+        "A": "Jet aircraft fuel and domestic heating",
+        "B": "Road surfacing material",
+        "C": "Candle wax",
+        "D": "Lubricating grease"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kerosene (paraffin oil) is refined into aviation turbine fuel (jet fuel) and used domestically for lighting and space heating."
+    },
+    {
+      "id": 19,
+      "question": "The non-volatile dark residue remaining at the very bottom of the crude oil fractionating tower is: (FBISE 2019-I)",
+      "options": {
+        "A": "Diesel oil",
+        "B": "Asphalt / Bitumen ($C_{30}+$, used for road surfacing and roofing)",
+        "C": "Petroleum ether",
+        "D": "Refinery gas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Asphalt (bitumen) comprises heavy hydrocarbons with more than 30 carbon atoms that do not vaporize at 400°C, collected as residual pitch for paving roads and waterproofing roofs."
+    },
+    {
+      "id": 20,
+      "question": "Which raw materials are required for the industrial manufacture of urea? (FBISE 2020-II)",
+      "options": {
+        "A": "Liquid ammonia ($NH_3$) and carbon dioxide ($CO_2$)",
+        "B": "Nitrogen ($N_2$) and oxygen ($O_2$)",
+        "C": "Sodium nitrate and sulphuric acid",
+        "D": "Methane and chlorine"
+      },
+      "correctAnswer": "A",
+      "explanation": "Urea is manufactured industrially from ammonia gas ($NH_3$) and carbon dioxide ($CO_2$), both of which are readily available from natural gas steam reforming plants."
+    },
+    {
+      "id": 21,
+      "question": "What is the primary commercial advantage of Solvay's process for soda ash manufacture?",
+      "options": {
+        "A": "It utilizes cheap raw materials ($NaCl, CaCO_3$) and recycles ammonia and $CO_2$ continuously with low energy consumption",
+        "B": "It operates at 3000°C",
+        "C": "It produces gold as byproduct",
+        "D": "It uses platinum as reactant"
+      },
+      "correctAnswer": "A",
+      "explanation": "Solvay's process is economical and environmentally sound because common salt brine and limestone are abundant and cheap, while costly ammonia and $CO_2$ are regenerated and recycled continuously."
+    },
+    {
+      "id": 22,
+      "question": "Which petroleum fraction is used for manufacturing candles, wax paper, and waterproofing?",
+      "options": {
+        "A": "Refinery gas",
+        "B": "Paraffin wax ($C_{20}-C_{30}$)",
+        "C": "Gasoline",
+        "D": "Petroleum ether"
+      },
+      "correctAnswer": "B",
+      "explanation": "Paraffin wax is a soft, colorless solid consisting of saturated straight-chain hydrocarbons ($C_{20}-C_{30}$) melting between 50°C and 55°C, ideal for candles and waxed paper."
+    },
+    {
+      "id": 23,
+      "question": "In copper metallurgy, what reaction takes place in the Bessemer converter during the self-reduction stage?",
+      "options": {
+        "A": "$2Cu_2O + Cu_2S \\to 6Cu + SO_2\\uparrow$",
+        "B": "$Cu + HCl \\to CuCl_2 + H_2$",
+        "C": "$CuSO_4 + Fe \\to FeSO_4 + Cu$",
+        "D": "$CuO + C \\to Cu + CO$"
+      },
+      "correctAnswer": "A",
+      "explanation": "In Bessemerization, partial oxidation forms cuprous oxide ($Cu_2O$), which reacts with remaining cuprous sulphide ($Cu_2S$) to reduce copper into metallic copper and sulphur dioxide gas."
+    },
+    {
+      "id": 24,
+      "question": "What is the purity of copper deposited onto the cathode during electrolytic refining?",
+      "options": {
+        "A": "90.0%",
+        "B": "95.5%",
+        "C": "98.0%",
+        "D": "99.99%"
+      },
+      "correctAnswer": "D",
+      "explanation": "Under controlled electrical potential, only copper ions discharge at the pure cathode ($Cu^{2+} + 2e^- \\to Cu$), yielding electrical-grade copper of 99.99% purity."
+    },
+    {
+      "id": 25,
+      "question": "What is the chemical name of the rock impurity associated with minerals in Earth's crust?",
+      "options": {
+        "A": "Ore",
+        "B": "Gangue (Matrix)",
+        "C": "Slag",
+        "D": "Flux"
+      },
+      "correctAnswer": "B",
+      "explanation": "The unwanted, non-metallic, earthy and rocky material (sand, clay, limestone) physically intermixed with a mineral in the ore deposit is called gangue or matrix."
+    },
+    {
+      "id": 26,
+      "question": "What substance is added during smelting to react with gangue and form easily fusible slag?",
+      "options": {
+        "A": "Flux",
+        "B": "Collector",
+        "C": "Frother",
+        "D": "Electrolyte"
+      },
+      "correctAnswer": "A",
+      "explanation": "A flux is a chemical substance added during smelting to combine with infusible gangue impurities and convert them into a fusible, low-density molten layer called slag."
+    },
+    {
+      "id": 27,
+      "question": "Which of the following processes separates components of crude petroleum based on differences in their boiling points?",
+      "options": {
+        "A": "Fractional distillation",
+        "B": "Electrolysis",
+        "C": "Steam stripping",
+        "D": "Filtration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Crude petroleum is separated in a fractionating column where vapors rise and condense at different trays depending on boiling points, termed fractional distillation."
+    },
+    {
+      "id": 28,
+      "question": "The decomposition of ammonium carbamate to form urea and water is a(n):",
+      "options": {
+        "A": "Endothermic reversible reaction",
+        "B": "Exothermic explosion",
+        "C": "Precipitation reaction",
+        "D": "Redox combustion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dehydration of ammonium carbamate ($NH_2COONH_4 \\rightleftharpoons NH_2CONH_2 + H_2O$) is endothermic (requires heat) and reversible, occurring in the stripper column."
+    },
+    {
+      "id": 29,
+      "question": "What is the chemical formula of Galena, the primary ore of lead?",
+      "options": {
+        "A": "$PbS$",
+        "B": "$PbO$",
+        "C": "$PbSO_4$",
+        "D": "$PbCO_3$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Galena is natural lead(II) sulphide ($PbS$), which forms metallic grey cubic crystals and is the primary ore for lead extraction."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following compounds is the principal ingredient of baking powder?",
+      "options": {
+        "A": "Sodium hydrogen carbonate ($NaHCO_3$) mixed with a mild edible acid like tartaric acid",
+        "B": "Sodium carbonate ($Na_2CO_3$)",
+        "C": "Calcium carbonate ($CaCO_3$)",
+        "D": "Sodium hydroxide ($NaOH$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Baking powder is a mixture of baking soda ($NaHCO_3$) and a solid acid salt (like potassium bitartrate). When moistened, it releases $CO_2$ gas uniformly to aerate dough."
+    },
+    {
+      "id": 31,
+      "question": "What role does the recovery tower perform in Solvay's process?",
+      "options": {
+        "A": "Recovers valuable ammonia gas ($NH_3$) by treating ammonium chloride with slaked lime",
+        "B": "Purifies brine",
+        "C": "Precipitates sodium carbonate",
+        "D": "Extracts copper"
+      },
+      "correctAnswer": "A",
+      "explanation": "In the ammonia recovery tower, mother liquor containing $NH_4Cl$ is boiled with milk of lime ($Ca(OH)_2$) to regenerate $NH_3$ gas ($2NH_4Cl + Ca(OH)_2 \\to 2NH_3 + CaCl_2 + 2H_2O$) for re-use."
+    },
+    {
+      "id": 32,
+      "question": "Electromagnetic separation is employed in concentration of ores when:",
+      "options": {
+        "A": "Either the ore or the gangue possesses magnetic properties",
+        "B": "Both ore and gangue are non-magnetic",
+        "C": "The ore dissolves in oil",
+        "D": "The ore is lighter than water"
+      },
+      "correctAnswer": "A",
+      "explanation": "When an ore contains magnetic particles (e.g., magnetite $Fe_3O_4$ or chromite) while gangue is non-magnetic, a magnetic roller belt separates the components based on magnetic attraction."
+    },
+    {
+      "id": 33,
+      "question": "Why is diesel oil ($C_{12}-C_{18}$) preferred over gasoline for heavy trucks, buses, and railway locomotives?",
+      "options": {
+        "A": "It has higher energy density and operates in high-compression, fuel-efficient engines",
+        "B": "It evaporates faster than petrol",
+        "C": "It is lighter than water",
+        "D": "It produces zero carbon dioxide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Diesel fuel contains longer hydrocarbon chains with higher volumetric energy density and burns via compression ignition, delivering greater torque and fuel economy in heavy-duty vehicles."
+    },
+    {
+      "id": 34,
+      "question": "What chemical reaction takes place in the carbonating tower of Solvay's process?",
+      "options": {
+        "A": "$NaCl + NH_3 + CO_2 + H_2O \\to NaHCO_3\\downarrow + NH_4Cl$",
+        "B": "$2NaCl + H_2O \\to 2NaOH + Cl_2$",
+        "C": "$Na_2CO_3 + H_2O \\to 2NaOH + CO_2$",
+        "D": "$NH_3 + HCl \\to NH_4Cl$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carbon dioxide gas bubbling through ammoniacal brine forms ammonium bicarbonate, which undergoes metathesis with $NaCl$ to precipitate sodium hydrogen carbonate: $NaCl + NH_3 + CO_2 + H_2O \\to NaHCO_3\\downarrow + NH_4Cl$."
+    },
+    {
+      "id": 35,
+      "question": "Why does sodium hydrogen carbonate ($NaHCO_3$) precipitate out in the carbonating tower of Solvay's process?",
+      "options": {
+        "A": "It has relatively low solubility at lower temperatures (15°C) in the presence of excess sodium ions (common ion effect)",
+        "B": "It is a gas",
+        "C": "It is an oil",
+        "D": "It decomposes into carbon"
+      },
+      "correctAnswer": "A",
+      "explanation": "At 15°C, $NaHCO_3$ is only sparingly soluble in brine. The high concentration of $Na^+$ ions further depresses its solubility due to the common ion effect, causing it to precipitate out completely."
+    },
+    {
+      "id": 36,
+      "question": "The conversion of higher molecular weight hydrocarbons with high boiling points into lower molecular weight, volatile hydrocarbons is called:",
+      "options": {
+        "A": "Thermal and catalytic cracking",
+        "B": "Polymerization",
+        "C": "Condensation",
+        "D": "Esterification"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cracking breaks long-chain petroleum fractions (like heavy gas oil or kerosene) into smaller gasoline-range hydrocarbons and valuable alkenes by applying heat and catalysts."
+    },
+    {
+      "id": 37,
+      "question": "What is the formula of bauxite, the chief mineral ore of aluminum?",
+      "options": {
+        "A": "$Al_2O_3 \\cdot 2H_2O$",
+        "B": "$Na_3AlF_6$",
+        "C": "$Al_2(SO_4)_3$",
+        "D": "$KAlSi_3O_8$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bauxite is hydrated aluminum oxide ($Al_2O_3 \\cdot 2H_2O$), the primary source of aluminum metal extracted via the Hall-Héroult electrolytic process."
+    },
+    {
+      "id": 38,
+      "question": "Which of the following statements about urea is FALSE?",
+      "options": {
+        "A": "It is an organic compound that dissolves readily in water",
+        "B": "It is a white crystalline solid",
+        "C": "It is an explosive gas that detonates on contact with air",
+        "D": "It is harmlessly applied to crops as a source of nitrogen"
+      },
+      "correctAnswer": "C",
+      "explanation": "Urea ($NH_2CONH_2$) is a safe, non-toxic, non-flammable white crystalline solid that is highly soluble in water; it is definitely not an explosive gas."
+    },
+    {
+      "id": 39,
+      "question": "What is the primary function of lubricating oil ($C_{18}-C_{20}$) in mechanical engines?",
+      "options": {
+        "A": "To reduce friction and wear between moving metal surfaces and dissipate heat",
+        "B": "To act as engine fuel",
+        "C": "To create rust",
+        "D": "To freeze the engine parts"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lubricating oils provide a hydrodynamic fluid barrier between moving metal parts, reducing frictional wear, preventing metal-to-metal seizure, and carrying away frictional heat."
+    },
+    {
+      "id": 40,
+      "question": "Petroleum ether ($C_5-C_7$, boiling range 30°C to 70°C) is primarily used in industries and laboratories as:",
+      "options": {
+        "A": "A non-polar solvent for extracting fats, oils, and organic compounds",
+        "B": "Heavy truck fuel",
+        "C": "Paving asphalt",
+        "D": "An electrical conductor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Petroleum ether is a low-boiling mixture of volatile aliphatic alkanes widely used as a non-polar solvent for liquid-liquid extractions and chromatography in chemical laboratories."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 12,
+  "chapterTitle": "FBISE Annual Exam Simulator 04 (Unit 14 & 15: Atmosphere & Water)",
+  "slug": "chemistry-10-model-paper-4",
+  "totalQuestions": 12,
+  "fileName": "chemistry-10-model-paper-4.json",
+  "subject": "chemistry-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which thermal layer of the atmosphere contains the ozone layer that absorbs solar UV radiation?",
+      "options": {
+        "A": "Troposphere",
+        "B": "Stratosphere (12 to 50 km)",
+        "C": "Mesosphere",
+        "D": "Thermosphere"
+      },
+      "correctAnswer": "B",
+      "explanation": "The ozone layer is concentrated in the stratosphere between 25 and 30 km altitude."
+    },
+    {
+      "id": 2,
+      "question": "In unpolluted air, rainwater has a natural pH of approximately 5.6 because of dissolved:",
+      "options": {
+        "A": "Sulphur dioxide ($SO_2$)",
+        "B": "Carbon dioxide forming carbonic acid ($H_2CO_3$)",
+        "C": "Nitric oxide ($NO$)",
+        "D": "Methane"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dissolved $CO_2$ forms weak carbonic acid ($CO_2 + H_2O \\rightleftharpoons H_2CO_3$), giving natural rainwater a slightly acidic pH of ~5.6."
+    },
+    {
+      "id": 3,
+      "question": "Which two gases emitted from fossil fuel combustion are primarily responsible for producing acid rain?",
+      "options": {
+        "A": "$SO_2$ and $NO_x$",
+        "B": "$CO_2$ and $O_2$",
+        "C": "$N_2$ and $H_2$",
+        "D": "$CH_4$ and $Ar$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Emissions of $SO_2$ and nitrogen oxides ($NO_x$) oxidize in cloud droplets to form sulphuric and nitric acids."
+    },
+    {
+      "id": 4,
+      "question": "Chlorofluorocarbons (CFCs) deplete stratospheric ozone by releasing which reactive free radical upon UV photolysis?",
+      "options": {
+        "A": "Chlorine radical ($Cl^\\bullet$)",
+        "B": "Fluorine radical ($F^\\bullet$)",
+        "C": "Carbon radical",
+        "D": "Hydrogen radical"
+      },
+      "correctAnswer": "A",
+      "explanation": "UV radiation breaks the $C-Cl$ bond in CFCs, liberating chlorine radicals ($Cl^\\bullet$) that catalytically destroy ozone."
+    },
+    {
+      "id": 5,
+      "question": "Carbon monoxide ($CO$) is highly toxic because it binds to blood hemoglobin to form:",
+      "options": {
+        "A": "Oxyhemoglobin",
+        "B": "Carboxyhemoglobin",
+        "C": "Carbaminohemoglobin",
+        "D": "Methemoglobin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbon monoxide binds irreversibly to hemoglobin forming carboxyhemoglobin, blocking oxygen transport."
+    },
+    {
+      "id": 6,
+      "question": "Liquid water achieves its maximum density ($1.00\\text{ g cm}^{-3}$) at:",
+      "options": {
+        "A": "0°C",
+        "B": "4°C",
+        "C": "25°C",
+        "D": "100°C"
+      },
+      "correctAnswer": "B",
+      "explanation": "Water contracts as ice crystals melt from 0°C to 4°C, reaching its maximum density at 4°C."
+    },
+    {
+      "id": 7,
+      "question": "Temporary hardness of water is caused by the presence of dissolved:",
+      "options": {
+        "A": "$CaCl_2$ and $MgCl_2$",
+        "B": "$CaSO_4$ and $MgSO_4$",
+        "C": "$Ca(HCO_3)_2$ and $Mg(HCO_3)_2$",
+        "D": "$NaCl$ and $Na_2SO_4$"
+      },
+      "correctAnswer": "C",
+      "explanation": "Temporary hardness is caused by calcium and magnesium bicarbonates, which decompose upon boiling."
+    },
+    {
+      "id": 8,
+      "question": "In Clark's method, temporary hardness is removed by adding a calculated amount of:",
+      "options": {
+        "A": "Slaked lime / Calcium hydroxide ($Ca(OH)_2$)",
+        "B": "Washing soda ($Na_2CO_3$)",
+        "C": "Hydrochloric acid",
+        "D": "Potassium hydroxide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Slaked lime precipitates calcium bicarbonate as insoluble calcium carbonate: $Ca(HCO_3)_2 + Ca(OH)_2 \\to 2CaCO_3\\downarrow + 2H_2O$."
+    },
+    {
+      "id": 9,
+      "question": "Permanent hardness of water can be removed by adding which chemical reagent?",
+      "options": {
+        "A": "Washing soda ($Na_2CO_3$)",
+        "B": "Common salt ($NaCl$)",
+        "C": "Baking soda ($NaHCO_3$)",
+        "D": "Slaked lime alone"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sodium carbonate ($Na_2CO_3$) precipitates permanent hardness ions as insoluble carbonates ($CaSO_4 + Na_2CO_3 \\to CaCO_3\\downarrow + Na_2SO_4$)."
+    },
+    {
+      "id": 10,
+      "question": "In the zeolite (ion-exchange) water softening method, $Ca^{2+}$ and $Mg^{2+}$ ions are exchanged for:",
+      "options": {
+        "A": "$Na^+$ ions",
+        "B": "$Cl^-$ ions",
+        "C": "$Pb^{2+}$ ions",
+        "D": "$H^+$ ions only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sodium zeolite ($Na_2Z$) exchanges $Na^+$ for $Ca^{2+}$ and $Mg^{2+}$, and is regenerated using concentrated $NaCl$ brine."
+    },
+    {
+      "id": 11,
+      "question": "Which acute waterborne diarrheal disease is caused by the bacterium Vibrio cholerae?",
+      "options": {
+        "A": "Cholera",
+        "B": "Typhoid",
+        "C": "Hepatitis",
+        "D": "Fluorosis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cholera is spread by water contaminated with Vibrio cholerae, causing severe dehydrating diarrhea."
+    },
+    {
+      "id": 12,
+      "question": "Excessive agricultural nutrient runoff causing algal blooms and oxygen depletion in lakes is called:",
+      "options": {
+        "A": "Eutrophication",
+        "B": "Desalination",
+        "C": "Sedimentation",
+        "D": "Chlorination"
+      },
+      "correctAnswer": "A",
+      "explanation": "Eutrophication is nutrient enrichment leading to algal blooms that consume dissolved oxygen, suffocating aquatic life."
+    }
+  ]
+}

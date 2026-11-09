@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 1,
+  "chapterTitle": "Unit 09: Chemical Equilibrium",
+  "slug": "chemistry-10-chapter-1",
+  "totalQuestions": 35,
+  "fileName": "chemistry-10-chapter-1.json",
+  "subject": "chemistry-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "If $Q_c > K_c$, in which direction will the reaction proceed to achieve equilibrium? (FBISE 2024-II)",
+      "options": {
+        "A": "Left to right (forward direction)",
+        "B": "Right to left (reverse direction)",
+        "C": "It remains unchanged at equilibrium",
+        "D": "The reaction completely ceases"
+      },
+      "correctAnswer": "B",
+      "explanation": "When the reaction quotient $Q_c$ is greater than the equilibrium constant $K_c$, there is an excess of products relative to reactants. Therefore, the reaction proceeds in the reverse direction (right to left) to re-establish equilibrium."
+    },
+    {
+      "id": 2,
+      "question": "For the reaction between phosphorus trichloride and chlorine to form phosphorus pentachloride ($PCl_3(g) + Cl_2(g) \\rightleftharpoons PCl_5(g)$), what is the unit of $K_c$? (FBISE 2020-I, 2021-I, 2024-I)",
+      "options": {
+        "A": "$\\text{mol dm}^{-3}$",
+        "B": "$\\text{mol}^{-1}\\text{dm}^3$",
+        "C": "$\\text{mol}^{-2}\\text{dm}^6$",
+        "D": "No unit"
+      },
+      "correctAnswer": "B",
+      "explanation": "For $PCl_3 + Cl_2 \\rightleftharpoons PCl_5$, $K_c = [PCl_5] / ([PCl_3][Cl_2]) = (\\text{mol dm}^{-3}) / ((\\text{mol dm}^{-3})(\\text{mol dm}^{-3})) = \\text{mol}^{-1}\\text{dm}^3$."
+    },
+    {
+      "id": 3,
+      "question": "At dynamic chemical equilibrium, which of the following statements is true? (FBISE 2023-II)",
+      "options": {
+        "A": "The forward and reverse reactions proceed at equal rates",
+        "B": "The reaction stops completely and no molecular exchange occurs",
+        "C": "The concentration of reactants must equal the concentration of products",
+        "D": "The reaction can no longer be reversed"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dynamic chemical equilibrium occurs when the rate of the forward reaction equals the rate of the reverse reaction, while both reactions continue indefinitely in a closed system."
+    },
+    {
+      "id": 4,
+      "question": "What is the characteristic color of iodine ($I_2$) vapor in the reversible synthesis of hydrogen iodide? (FBISE 2014-I, 2023-I)",
+      "options": {
+        "A": "Deep Red",
+        "B": "Dark Blue",
+        "C": "Purple / Violet",
+        "D": "Colorless"
+      },
+      "correctAnswer": "C",
+      "explanation": "Iodine vapor has a distinctive purple/violet color. When it reacts reversibly with colorless hydrogen gas ($H_2$) to form colorless hydrogen iodide ($HI$), the purple intensity decreases until equilibrium is established."
+    },
+    {
+      "id": 5,
+      "question": "The numerical value of the equilibrium constant $K_c$ for a given chemical reaction depends primarily upon: (FBISE 2022-II)",
+      "options": {
+        "A": "Total volume of the reaction container",
+        "B": "Total atmospheric pressure",
+        "C": "Temperature of the system",
+        "D": "Initial concentration of the reactants"
+      },
+      "correctAnswer": "C",
+      "explanation": "The equilibrium constant $K_c$ is temperature-dependent. Changing pressure, volume, or concentrations changes the equilibrium position, but only temperature changes the actual value of $K_c$."
+    },
+    {
+      "id": 6,
+      "question": "Which gases are used as the reactants to manufacture ammonia in the Haber-Bosch process? (FBISE 2021-II)",
+      "options": {
+        "A": "$N_2$ and $H_2$",
+        "B": "$N_2$ and $O_2$",
+        "C": "$H_2$ and $Cl_2$",
+        "D": "$CO$ and $H_2$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ammonia ($NH_3$) is synthesized reversibly from nitrogen gas ($N_2$, from air) and hydrogen gas ($H_2$, from methane/natural gas) via $N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)$."
+    },
+    {
+      "id": 7,
+      "question": "What is the physical appearance/color of pure gaseous hydrogen iodide ($HI$)? (FBISE 2020-II)",
+      "options": {
+        "A": "Pale Green",
+        "B": "Colorless",
+        "C": "Reddish Brown",
+        "D": "Bright Purple"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hydrogen iodide ($HI$) is a colorless gas. When $HI$ decomposes upon heating into hydrogen and iodine, a purple color reappears due to free $I_2$ vapor."
+    },
+    {
+      "id": 8,
+      "question": "If the reaction quotient $Q_c$ is less than $K_c$ ($Q_c < K_c$), what is the net direction of the chemical reaction? (FBISE 2013-I, 2017-I, 2018-II, 2019-I, 2020-II)",
+      "options": {
+        "A": "Forward direction (left to right)",
+        "B": "Reverse direction (right to left)",
+        "C": "The system is already at equilibrium",
+        "D": "Reaction ceases permanently"
+      },
+      "correctAnswer": "A",
+      "explanation": "When $Q_c < K_c$, the ratio of product concentration to reactant concentration is lower than at equilibrium. The reaction shifts from left to right (forward) to produce more products until $Q_c = K_c$."
+    },
+    {
+      "id": 9,
+      "question": "What is the standard SI unit of active mass / molar concentration? (FBISE 2018-II)",
+      "options": {
+        "A": "$\\text{g dm}^{-3}$",
+        "B": "$\\text{mol dm}^{-3}$",
+        "C": "$\\text{mol L}^{-2}$",
+        "D": "$\\text{kg m}^{-3}$"
+      },
+      "correctAnswer": "B",
+      "explanation": "Active mass is defined as the concentration of a substance in moles per cubic decimeter ($\\text{mol dm}^{-3}$), represented by square brackets $[\\ ]$."
+    },
+    {
+      "id": 10,
+      "question": "Reversible chemical reactions that contain comparable amounts of both reactants and products at dynamic equilibrium have: (FBISE 2017-II, 2020-I)",
+      "options": {
+        "A": "A very large $K_c$ value ($>10^3$)",
+        "B": "A very small $K_c$ value ($<10^{-3}$)",
+        "C": "A moderate $K_c$ value",
+        "D": "Zero $K_c$ value"
+      },
+      "correctAnswer": "C",
+      "explanation": "A moderate $K_c$ value indicates that neither forward nor reverse reaction goes to completion, resulting in comparable equilibrium concentrations of both reactants and products."
+    },
+    {
+      "id": 11,
+      "question": "In an open lime kiln, the thermal decomposition of calcium carbonate ($CaCO_3(s) \\rightleftharpoons CaO(s) + CO_2(g)$) goes to completion because: (FBISE 2015-II, 2019-II)",
+      "options": {
+        "A": "$CaO$ is much more stable than $CaCO_3$",
+        "B": "$CO_2$ gas continuously escapes from the open vessel",
+        "C": "The reaction is fundamentally irreversible",
+        "D": "$CaO$ rapidly sublimes away"
+      },
+      "correctAnswer": "B",
+      "explanation": "In an open kiln, the gaseous product $CO_2$ escapes continuously into the atmosphere. The reverse reaction cannot occur, driving the decomposition irreversibly to completion."
+    },
+    {
+      "id": 12,
+      "question": "A reverse reaction is best defined as a reaction in which: (FBISE 2013-II, 2019-I)",
+      "options": {
+        "A": "Reactants react to form products gradually",
+        "B": "Products react together to reform original reactants",
+        "C": "Reaction rate continuously slows down to zero",
+        "D": "Reactants turn completely into gases"
+      },
+      "correctAnswer": "B",
+      "explanation": "In a reversible reaction, the reverse reaction is the process where newly formed products interact to regenerate the initial reactant molecules."
+    },
+    {
+      "id": 13,
+      "question": "At the very beginning of a reversible reaction ($t = 0$), the initial rate of the reverse reaction is: (FBISE 2018-II)",
+      "options": {
+        "A": "Maximum and very fast",
+        "B": "Equal to the forward rate",
+        "C": "Negligible or zero",
+        "D": "Constant"
+      },
+      "correctAnswer": "C",
+      "explanation": "At $t = 0$, only reactant molecules are present and product concentration is zero. Therefore, the rate of the reverse reaction is initially zero/negligible."
+    },
+    {
+      "id": 14,
+      "question": "When the reaction quotient equals the equilibrium constant ($Q_c = K_c$), the chemical system is: (FBISE 2017-II, 2018-I, 2019-II, 2020-I, 2021-I)",
+      "options": {
+        "A": "Shifting toward products",
+        "B": "Shifting toward reactants",
+        "C": "At dynamic equilibrium state",
+        "D": "Completely converted into products"
+      },
+      "correctAnswer": "C",
+      "explanation": "When $Q_c = K_c$, the concentrations of reactants and products satisfy the equilibrium condition; the forward and reverse rates are exactly balanced."
+    },
+    {
+      "id": 15,
+      "question": "What is the equilibrium constant ($K_c$) unit for the synthesis of ammonia: $N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)$? (FBISE 2018-II)",
+      "options": {
+        "A": "$\\text{mol dm}^{-3}$",
+        "B": "$\\text{mol}^{-1}\\text{dm}^3$",
+        "C": "$\\text{mol}^{-2}\\text{dm}^6$",
+        "D": "Dimensionless (No unit)"
+      },
+      "correctAnswer": "C",
+      "explanation": "$K_c = [NH_3]^2 / ([N_2][H_2]^3) = (\\text{mol dm}^{-3})^2 / (\\text{mol dm}^{-3})^4 = (\\text{mol dm}^{-3})^{-2} = \\text{mol}^{-2}\\text{dm}^6$."
+    },
+    {
+      "id": 16,
+      "question": "For the formation of hydrogen iodide ($H_2(g) + I_2(g) \\rightleftharpoons 2HI(g)$), what is the unit of $K_c$? (FBISE 2016-I, 2022-I)",
+      "options": {
+        "A": "$\\text{mol dm}^{-3}$",
+        "B": "$\\text{mol}^{-1}\\text{dm}^3$",
+        "C": "$\\text{mol}^{-2}\\text{dm}^6$",
+        "D": "No unit (dimensionless)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Number of moles of reactants = $1 + 1 = 2$; number of moles of products = $2$. Since $\\Delta n = 2 - 2 = 0$, concentration units cancel completely, making $K_c$ dimensionless."
+    },
+    {
+      "id": 17,
+      "question": "The Law of Mass Action was formulated by C.M. Guldberg and Peter Waage in the year: (FBISE 2015-I, 2023-II)",
+      "options": {
+        "A": "1864",
+        "B": "1884",
+        "C": "1905",
+        "D": "1923"
+      },
+      "correctAnswer": "A",
+      "explanation": "Norwegian scientists Cato Maximilian Guldberg and Peter Waage proposed the Law of Mass Action in 1864, relating reaction rate directly to active masses of reacting substances."
+    },
+    {
+      "id": 18,
+      "question": "According to the Law of Mass Action, the rate of a chemical reaction is directly proportional to the product of: (FBISE 2017-I)",
+      "options": {
+        "A": "Total volumes of all reactants",
+        "B": "Molar masses of all products",
+        "C": "Active masses of the reacting substances",
+        "D": "Atmospheric pressure above the liquid"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Law of Mass Action states that the rate of a chemical reaction is directly proportional to the product of the active masses (molar concentrations) of reacting substances raised to appropriate powers."
+    },
+    {
+      "id": 19,
+      "question": "What is the equilibrium constant expression for the hypothetical reaction $2A + B \\rightleftharpoons 3C$? (FBISE 2025 Model)",
+      "options": {
+        "A": "$K_c = \\frac{[C]^3}{[A]^2[B]}$",
+        "B": "$K_c = \\frac{[2A][B]}{[3C]}$",
+        "C": "$K_c = \\frac{[3C]}{[2A][B]}$",
+        "D": "$K_c = \\frac{[A]^2[B]}{[C]^3}$"
+      },
+      "correctAnswer": "A",
+      "explanation": "In an equilibrium expression, product concentrations appear in the numerator and reactant concentrations appear in the denominator, each raised to a power equal to its stoichiometric coefficient: $K_c = [C]^3 / ([A]^2[B])$."
+    },
+    {
+      "id": 20,
+      "question": "A chemical reaction having a very large equilibrium constant ($K_c \\gg 10^3$) indicates that: (FBISE 2019-II)",
+      "options": {
+        "A": "The reaction proceeds to almost complete conversion into products",
+        "B": "The reaction barely proceeds in the forward direction",
+        "C": "Equilibrium consists almost entirely of original reactants",
+        "D": "The reaction rate is exceedingly slow"
+      },
+      "correctAnswer": "A",
+      "explanation": "A very large value of $K_c$ means that at equilibrium, the concentration of products is far greater than that of reactants, indicating the forward reaction has gone almost to completion."
+    },
+    {
+      "id": 21,
+      "question": "A chemical reaction with an extremely small value of $K_c$ ($K_c \\ll 10^{-3}$) implies that: (FBISE 2021-I)",
+      "options": {
+        "A": "Equilibrium mixture consists predominantly of products",
+        "B": "The reaction has completed successfully",
+        "C": "The forward reaction barely takes place and reactants remain largely intact",
+        "D": "The reaction is explosive"
+      },
+      "correctAnswer": "C",
+      "explanation": "A very small $K_c$ value indicates that only an infinitesimal amount of reactants converts to products before equilibrium is reached; the mixture remains almost entirely reactants."
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is an example of an irreversible reaction? (FBISE 2016-II)",
+      "options": {
+        "A": "$2SO_2(g) + O_2(g) \\rightleftharpoons 2SO_3(g)$",
+        "B": "$2H_2(g) + O_2(g) \\xrightarrow{\\text{spark}} 2H_2O(l)$",
+        "C": "$N_2(g) + 3H_2(g) \\rightleftharpoons 2NH_3(g)$",
+        "D": "$H_2(g) + I_2(g) \\rightleftharpoons 2HI(g)$"
+      },
+      "correctAnswer": "B",
+      "explanation": "Combustion of hydrogen with oxygen to form water is an irreversible reaction that goes to completion; liquid water does not spontaneously dissociate back into hydrogen and oxygen under standard conditions."
+    },
+    {
+      "id": 23,
+      "question": "In a closed vessel containing $N_2O_4(g) \\rightleftharpoons 2NO_2(g)$, dinitrogen tetroxide is colorless while nitrogen dioxide is reddish-brown. If the mixture is compressed, Le Chatelier's principle predicts that the color will initially darken and then: (Conceptual)",
+      "options": {
+        "A": "Turn permanently black",
+        "B": "Fade as the system shifts toward colorless $N_2O_4$",
+        "C": "Turn bright green",
+        "D": "Remain completely unchanged"
+      },
+      "correctAnswer": "B",
+      "explanation": "Compression increases pressure. By Le Chatelier's principle, the system relieves pressure by shifting toward the side with fewer gas molecules (1 mole $N_2O_4$ vs 2 moles $NO_2$), thus fading to lighter color."
+    },
+    {
+      "id": 24,
+      "question": "Which macroscopic property remains constant once dynamic equilibrium is established in a closed container? (FBISE 2022-II)",
+      "options": {
+        "A": "Density, pressure, and color intensity",
+        "B": "Number of molecular collisions only",
+        "C": "Total kinetic energy of individual atoms",
+        "D": "Entropy of the surroundings only"
+      },
+      "correctAnswer": "A",
+      "explanation": "At equilibrium, all measurable macroscopic properties such as concentration, total pressure, temperature, density, and color intensity remain constant because the rates of opposing reactions are equal."
+    },
+    {
+      "id": 25,
+      "question": "What role does a chemical catalyst play in a reversible reaction? (FBISE 2023-I)",
+      "options": {
+        "A": "Increases the numerical value of $K_c$",
+        "B": "Shifts the equilibrium position toward higher yield of product",
+        "C": "Accelerates both forward and reverse rates equally to reach equilibrium faster",
+        "D": "Slows down the reverse reaction selectively"
+      },
+      "correctAnswer": "C",
+      "explanation": "A catalyst lowers the activation energy equally for both forward and reverse reactions. It allows equilibrium to be reached more rapidly without changing the equilibrium composition or the value of $K_c$."
+    },
+    {
+      "id": 26,
+      "question": "For the reaction $CO(g) + 2H_2(g) \\rightleftharpoons CH_3OH(g)$, what is the unit of $K_c$?",
+      "options": {
+        "A": "$\\text{mol}^{-2}\\text{dm}^6$",
+        "B": "$\\text{mol}^2\\text{dm}^{-6}$",
+        "C": "$\\text{mol dm}^{-3}$",
+        "D": "No unit"
+      },
+      "correctAnswer": "A",
+      "explanation": "$K_c = [CH_3OH] / ([CO][H_2]^2) = (\\text{mol dm}^{-3}) / ((\\text{mol dm}^{-3})(\\text{mol dm}^{-3})^2) = (\\text{mol dm}^{-3})^{-2} = \\text{mol}^{-2}\\text{dm}^6$."
+    },
+    {
+      "id": 27,
+      "question": "Static equilibrium is most commonly observed in: (FBISE 2014-II)",
+      "options": {
+        "A": "Physical systems and stationary mechanical structures",
+        "B": "Aqueous reversible solutions",
+        "C": "Reversible industrial gas reactions",
+        "D": "Living biological cell transport"
+      },
+      "correctAnswer": "A",
+      "explanation": "Static equilibrium occurs when a system completely ceases all motion and reactions (e.g., a building standing upright where balanced forces prevent any motion). In contrast, chemical equilibrium is always dynamic."
+    },
+    {
+      "id": 28,
+      "question": "When active mass is represented in chemical equations, it is enclosed in: (FBISE 2015-I)",
+      "options": {
+        "A": "Parentheses $( \\ )$",
+        "B": "Square brackets $[ \\ ]$",
+        "C": "Curly braces $\\{ \\ \\}$",
+        "D": "Angle brackets $\\langle \\ \\rangle$"
+      },
+      "correctAnswer": "B",
+      "explanation": "Molar concentrations (active masses in $\\text{mol dm}^{-3}$) are universally represented by surrounding the chemical formula with square brackets $[ \\ ]$."
+    },
+    {
+      "id": 29,
+      "question": "If a reversible reaction has $K_c = 1.0$ at a specific temperature, what does this indicate about the equilibrium state?",
+      "options": {
+        "A": "Products and reactants exist in equal concentration products",
+        "B": "The reaction has stopped completely",
+        "C": "Only reactants are present",
+        "D": "The reaction is instantaneous"
+      },
+      "correctAnswer": "A",
+      "explanation": "$K_c = [\\text{Products}] / [\\text{Reactants}] = 1.0$, which means that the concentration product in the numerator equals the concentration product in the denominator."
+    },
+    {
+      "id": 30,
+      "question": "For the reaction $2SO_2(g) + O_2(g) \\rightleftharpoons 2SO_3(g)$, what is the unit of $K_c$?",
+      "options": {
+        "A": "$\\text{mol}^{-1}\\text{dm}^3$",
+        "B": "$\\text{mol dm}^{-3}$",
+        "C": "$\\text{mol}^{-2}\\text{dm}^6$",
+        "D": "Dimensionless"
+      },
+      "correctAnswer": "A",
+      "explanation": "$K_c = [SO_3]^2 / ([SO_2]^2[O_2]) = (\\text{mol dm}^{-3})^2 / (\\text{mol dm}^{-3})^3 = \\text{mol}^{-1}\\text{dm}^3$."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following conditions is mandatory to establish dynamic chemical equilibrium?",
+      "options": {
+        "A": "An open container with continuous gas ventilation",
+        "B": "A closed system at constant temperature",
+        "C": "The presence of a platinum catalyst",
+        "D": "Excessive moisture and boiling conditions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dynamic chemical equilibrium can only be achieved in a closed system so that neither reactants nor products can escape, and at a constant temperature."
+    },
+    {
+      "id": 32,
+      "question": "When nitrogen dioxide ($NO_2$) gas is cooled, it dimerizes into dinitrogen tetroxide ($N_2O_4$). This dimerization reaction is exothermic ($2NO_2 \\rightleftharpoons N_2O_4 + \\text{heat}$). Decreasing temperature will:",
+      "options": {
+        "A": "Shift equilibrium toward colorless $N_2O_4$ and increase $K_c$",
+        "B": "Shift equilibrium toward brown $NO_2$ and decrease $K_c$",
+        "C": "Have no effect on the equilibrium position",
+        "D": "Cause both gases to decompose into elements"
+      },
+      "correctAnswer": "A",
+      "explanation": "For an exothermic forward reaction, removing heat by cooling shifts the equilibrium to the right (toward products) according to Le Chatelier's principle, thus increasing $K_c$."
+    },
+    {
+      "id": 33,
+      "question": "In the reaction $H_2 + I_2 \\rightleftharpoons 2HI$, if initial concentrations are $[H_2] = 0.1\\text{ M}$, $[I_2] = 0.1\\text{ M}$, and $[HI] = 0.4\\text{ M}$, and $K_c = 49$, what is $Q_c$ and which way does the reaction move?",
+      "options": {
+        "A": "$Q_c = 16$; reaction moves forward (left to right)",
+        "B": "$Q_c = 40$; reaction moves reverse (right to left)",
+        "C": "$Q_c = 49$; reaction is already at equilibrium",
+        "D": "$Q_c = 160$; reaction moves reverse"
+      },
+      "correctAnswer": "A",
+      "explanation": "$Q_c = [HI]^2 / ([H_2][I_2]) = (0.4)^2 / (0.1 \\times 0.1) = 0.16 / 0.01 = 16$. Since $Q_c (16) < K_c (49)$, the reaction proceeds forward to produce more $HI$."
+    },
+    {
+      "id": 34,
+      "question": "What is the relationship between the equilibrium constant of the forward reaction ($K_c$) and the reverse reaction ($K_c'$)?",
+      "options": {
+        "A": "$K_c' = 1 / K_c$",
+        "B": "$K_c' = -K_c$",
+        "C": "$K_c' = K_c^2$",
+        "D": "$K_c' = \\sqrt{K_c}$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Because the numerator and denominator swap when a chemical equation is written in reverse, the equilibrium constant of the reverse reaction is the mathematical reciprocal of the forward reaction ($K_c' = 1 / K_c$)."
+    },
+    {
+      "id": 35,
+      "question": "Why does the rate of the forward reaction decrease as a reversible reaction proceeds toward equilibrium?",
+      "options": {
+        "A": "Concentration of reactants decreases over time",
+        "B": "The catalyst loses its efficiency",
+        "C": "The activation energy increases automatically",
+        "D": "The temperature of the vessel drops continuously"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to the Law of Mass Action, reaction rate is directly proportional to reactant concentrations. As reactants are consumed to form products, their concentrations decrease, slowing the forward rate."
+    }
+  ]
+}

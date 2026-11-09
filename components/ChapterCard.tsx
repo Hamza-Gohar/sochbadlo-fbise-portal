@@ -32,6 +32,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isEnglish9 = chapter.subject === 'english-9' || chapter.slug.startsWith('english-9');
   const isIslamiat9 = chapter.subject === 'islamiat-9' || chapter.slug.startsWith('islamiat-9');
   const isChemistry9 = chapter.subject === 'chemistry-9' || chapter.slug.startsWith('chemistry-9');
+  const isChemistry10 = chapter.subject === 'chemistry-10' || chapter.slug.startsWith('chemistry-10');
   const isCS9 = chapter.subject === 'cs-9' || chapter.slug.startsWith('cs-9');
   const isBiology9 = chapter.subject === 'biology-9' || chapter.slug.startsWith('biology-9');
   const isUrdu = (chapter.subject === 'urdu' || chapter.slug.startsWith('urdu')) && !isUrdu9;
@@ -41,12 +42,13 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isIslamiat = (chapter.subject === 'islamiat' || chapter.slug.startsWith('islamiat')) && !isIslamiat9;
   const isTarjuma = (chapter.subject === 'tarjuma' || chapter.slug.startsWith('tarjuma')) && !isTarjuma9;
   const isBiology = (chapter.subject === 'biology' || chapter.slug.startsWith('biology')) && !isBiology9;
-  const isChemistry = (chapter.subject === 'chemistry' || chapter.slug.startsWith('chemistry')) && !isChemistry9;
+  const isChemistry = (chapter.subject === 'chemistry' || chapter.slug.startsWith('chemistry')) && !isChemistry9 && !isChemistry10;
   const isRtl = isUrdu || isIslamiat || isTarjuma || isUrdu9 || isTarjuma9 || isIslamiat9;
 
   const isPastPapers =
     chapter.slug === 'past-papers' ||
     chapter.slug === 'urdu-model-paper' ||
+    chapter.slug.startsWith('chemistry-10-model-paper-') ||
     chapter.slug.startsWith('physics-10-model-paper-') ||
     chapter.slug.startsWith('math-10-model-paper-') ||
     chapter.slug.startsWith('physics-9-model-paper-') ||
@@ -65,7 +67,9 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     chapter.slug.startsWith('chemistry-model-paper-');
 
   let tagLabel = `Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
-  if (chapter.slug.startsWith('physics-10-model-paper-')) tagLabel = `Class 10 Physics Simulator ${chapter.slug.split('-').pop()}`;
+  if (chapter.slug.startsWith('chemistry-10-model-paper-')) tagLabel = `Class 10 Chemistry Simulator ${chapter.slug.split('-').pop()}`;
+  else if (isChemistry10) tagLabel = `Class 10 · Chemistry Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (chapter.slug.startsWith('physics-10-model-paper-')) tagLabel = `Class 10 Physics Simulator ${chapter.slug.split('-').pop()}`;
   else if (isPhysics10) tagLabel = `Class 10 · Physics Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (chapter.slug.startsWith('math-10-model-paper-')) tagLabel = `Class 10 Math Simulator ${chapter.slug.split('-').pop()}`;
   else if (isMath10) tagLabel = `Class 10 · Math Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
@@ -110,7 +114,11 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (isUrdu) tagLabel = `Urdu Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
 
   let description = `Comprehensive conceptual questions, dimensional formulas, and numericals for ${chapter.title} aligned with textbook SLOs.`;
-  if (chapter.slug.startsWith('physics-10-model-paper-')) {
+  if (chapter.slug.startsWith('chemistry-10-model-paper-')) {
+    description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation (Soch Badlo By MAK). 12 MCQs, 15-minute timer with complete chemical step-by-step reasoning.`;
+  } else if (isChemistry10) {
+    description = `Official FBISE SSC-II Class 10 Chemistry: ${chapter.title}. Core chemical reactions, equilibrium constants, organic mechanisms, and SLO justifications.`;
+  } else if (chapter.slug.startsWith('physics-10-model-paper-')) {
     description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation (Soch Badlo By MAK). 12 MCQs, 20-minute timer with complete physics step-by-step reasoning.`;
   } else if (isPhysics10) {
     description = `Official FBISE SSC-II Class 10 Physics: ${chapter.title}. Core physical laws, conceptual numericals, formula derivations, and SLO justifications.`;

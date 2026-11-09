@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 3,
+  "chapterTitle": "Unit 11: Organic Chemistry",
+  "slug": "chemistry-10-chapter-3",
+  "totalQuestions": 35,
+  "fileName": "chemistry-10-chapter-3.json",
+  "subject": "chemistry-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A variety of coal containing approximately 70% carbon is known as: (FBISE 2024-II)",
+      "options": {
+        "A": "Peat",
+        "B": "Lignite",
+        "C": "Bituminous",
+        "D": "Anthracite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Coal grades are categorized by carbon content: Peat (~60% C), Lignite (~70% C), Bituminous (~80% C), and Anthracite (~90% C)."
+    },
+    {
+      "id": 2,
+      "question": "Which German chemist synthesized urea in 1828, decisively overthrowing the Vital Force Theory? (FBISE 2020-I, 2023-II)",
+      "options": {
+        "A": "J.J. Berzelius",
+        "B": "Friedrich Wöhler",
+        "C": "Justus von Liebig",
+        "D": "Antoine Lavoisier"
+      },
+      "correctAnswer": "B",
+      "explanation": "Friedrich Wöhler disproved the vital force theory in 1828 by heating inorganic ammonium cyanate ($NH_4CNO$) to produce the organic compound urea ($NH_2CONH_2$) in a laboratory."
+    },
+    {
+      "id": 3,
+      "question": "The self-linking ability of carbon atoms through covalent bonds to form long open chains or rings is known as: (FBISE 2018-I, 2022-II)",
+      "options": {
+        "A": "Isomerism",
+        "B": "Catenation",
+        "C": "Polymerization",
+        "D": "Condensation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Catenation is the remarkable property of carbon atoms to form stable, strong covalent bonds with one another, generating endless varieties of straight, branched, and cyclic molecular skeletons."
+    },
+    {
+      "id": 4,
+      "question": "The functional group characteristic of aldehydes is: (FBISE 2019-II, 2023-I)",
+      "options": {
+        "A": "$-OH$",
+        "B": "$-CHO$",
+        "C": "$-COOH$",
+        "D": "$-COOR$"
+      },
+      "correctAnswer": "B",
+      "explanation": "Aldehydes contain the formyl group ($-CHO$), which consists of a carbonyl carbon atom bonded to at least one hydrogen atom and an alkyl/aryl group."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following functional groups imparts a distinctive pleasant, fruity fragrance to organic compounds? (FBISE 2017-I, 2021-II)",
+      "options": {
+        "A": "Ester group ($-COOR$)",
+        "B": "Carboxylic acid group ($-COOH$)",
+        "C": "Ether group ($-O-$)",
+        "D": "Alcohol group ($-OH$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Esters ($-COOR$) are widely recognized for their sweet, fruity aromas and are commonly used as artificial flavorings and in perfumes."
+    },
+    {
+      "id": 6,
+      "question": "In the destructive distillation of coal, what thick, black, viscous liquid containing over 200 aromatic compounds is collected? (FBISE 2016-II, 2022-I)",
+      "options": {
+        "A": "Coal gas",
+        "B": "Coal tar",
+        "C": "Ammoniacal liquor",
+        "D": "Petroleum ether"
+      },
+      "correctAnswer": "B",
+      "explanation": "Coal tar is the condensed black liquid byproduct of destructive distillation that contains numerous useful aromatic compounds including benzene, toluene, phenol, and naphthalene."
+    },
+    {
+      "id": 7,
+      "question": "What is the primary gaseous hydrocarbon found in natural gas, comprising approximately 85% of its total volume? (FBISE 2015-I, 2020-II)",
+      "options": {
+        "A": "Methane ($CH_4$)",
+        "B": "Ethane ($C_2H_6$)",
+        "C": "Propane ($C_3H_8$)",
+        "D": "Butane ($C_4H_{10}$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Natural gas is composed primarily of methane ($CH_4$, ~85%), along with smaller fractions of ethane, propane, and butane."
+    },
+    {
+      "id": 8,
+      "question": "Successive members in any homologous series differ from each other by a molecular mass of: (FBISE 2014-II, 2021-I)",
+      "options": {
+        "A": "12 amu",
+        "B": "14 amu",
+        "C": "16 amu",
+        "D": "2 amu"
+      },
+      "correctAnswer": "B",
+      "explanation": "Adjacent members of a homologous series differ by one methylene group ($-CH_2-$), which has a formula mass of $12 (C) + 2 (H) = 14\\text{ amu}$."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following pairs of compounds are functional group isomers? (FBISE 2018-II)",
+      "options": {
+        "A": "Ethanol and Dimethyl ether",
+        "B": "n-Butane and Isobutane",
+        "C": "1-Propanol and 2-Propanol",
+        "D": "1-Butene and 2-Butene"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ethanol ($CH_3CH_2OH$, an alcohol) and dimethyl ether ($CH_3OCH_3$, an ether) share the identical molecular formula $C_2H_6O$ but belong to different homologous families due to different functional groups."
+    },
+    {
+      "id": 10,
+      "question": "The superior grade of coal containing 90% or more carbon is: (FBISE 2019-I)",
+      "options": {
+        "A": "Lignite",
+        "B": "Peat",
+        "C": "Anthracite",
+        "D": "Bituminous"
+      },
+      "correctAnswer": "C",
+      "explanation": "Anthracite is the hardest and highest metamorphic grade of coal, containing 90% or more carbon, and burns with a hot, clean, smokeless blue flame."
+    },
+    {
+      "id": 11,
+      "question": "What is the general molecular formula for monohydric aliphatic alcohols? (FBISE 2017-II)",
+      "options": {
+        "A": "$C_nH_{2n+1}OH$",
+        "B": "$C_nH_{2n}OH$",
+        "C": "$C_nH_{2n-1}OH$",
+        "D": "$C_nH_{2n+2}O_2$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Monohydric aliphatic alcohols consist of an alkyl group ($C_nH_{2n+1}-$) attached to a hydroxyl group ($-OH$), giving the general formula $C_nH_{2n+1}OH$ or $C_nH_{2n+2}O$."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following organic compounds has a carbonyl group ($>C=O$) bonded to two alkyl groups? (FBISE 2016-I)",
+      "options": {
+        "A": "Aldehyde",
+        "B": "Ketone",
+        "C": "Carboxylic acid",
+        "D": "Ester"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ketones contain a carbonyl group ($>C=O$) where the carbon atom is directly attached to two carbon-containing alkyl or aryl groups (general formula $R-CO-R'$)."
+    },
+    {
+      "id": 13,
+      "question": "Vital Force Theory stated that organic compounds: (FBISE 2015-II)",
+      "options": {
+        "A": "Can be synthesized from inorganic minerals in test tubes",
+        "B": "Could only be synthesized within living organisms by a mystical vital force",
+        "C": "Consist strictly of non-carbon elements",
+        "D": "Do not burn in air"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Vital Force Theory, proposed by Berzelius, claimed that organic compounds could never be synthesized from inorganic materials in a laboratory because their formation required a vital force present only in living systems."
+    },
+    {
+      "id": 14,
+      "question": "The residue left behind after the destructive distillation (carbonization) of coal is known as: (FBISE 2013-I)",
+      "options": {
+        "A": "Coal tar",
+        "B": "Coke",
+        "C": "Coal gas",
+        "D": "Peat"
+      },
+      "correctAnswer": "B",
+      "explanation": "Coke is the solid, porous, high-carbon residue (~98% pure carbon) remaining after volatile matters have been driven off from coal during carbonization."
+    },
+    {
+      "id": 15,
+      "question": "What is the functional group of an ether? (FBISE 2021-I)",
+      "options": {
+        "A": "$-O-$",
+        "B": "$-OH$",
+        "C": "$-COO-$",
+        "D": "$-CO-$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ethers are characterized by an oxygen atom bonded to two alkyl or aryl groups ($R-O-R'$), known as the alkoxy or ether linkage."
+    },
+    {
+      "id": 16,
+      "question": "Compounds having identical molecular formulas but different arrangements of the carbon skeleton (chain) are called: (FBISE 2023-I)",
+      "options": {
+        "A": "Position isomers",
+        "B": "Chain isomers",
+        "C": "Functional group isomers",
+        "D": "Metamers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chain isomerism arises from differences in the branching or arrangement of the carbon atom framework (e.g., n-pentane, isopentane, and neopentane)."
+    },
+    {
+      "id": 17,
+      "question": "How many structural chain isomers exist for butane ($C_4H_{10}$)?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Butane ($C_4H_{10}$) has exactly two structural isomers: n-butane ($CH_3-CH_2-CH_2-CH_3$) and isobutane ($CH_3-CH(CH_3)-CH_3$ or 2-methylpropane)."
+    },
+    {
+      "id": 18,
+      "question": "How many structural isomers are possible for pentane ($C_5H_{12}$)?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pentane ($C_5H_{12}$) has exactly three structural isomers: n-pentane, isopentane (2-methylbutane), and neopentane (2,2-dimethylpropane)."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is a primary amine functional group?",
+      "options": {
+        "A": "$-NH_2$",
+        "B": "$-NO_2$",
+        "C": "$-CONH_2$",
+        "D": "$-CN$"
+      },
+      "correctAnswer": "A",
+      "explanation": "The amino group ($-NH_2$) attached to a carbon atom characterizes primary aliphatic amines ($R-NH_2$), which are derivatives of ammonia."
+    },
+    {
+      "id": 20,
+      "question": "What is the chemical name of the functional group $-COOH$?",
+      "options": {
+        "A": "Carbonyl group",
+        "B": "Hydroxyl group",
+        "C": "Carboxyl group",
+        "D": "Alkoxy group"
+      },
+      "correctAnswer": "C",
+      "explanation": "The carboxyl group ($-COOH$) is a combination of a carbonyl group ($>C=O$) and a hydroxyl group ($-OH$), characteristic of carboxylic acids like acetic acid."
+    },
+    {
+      "id": 21,
+      "question": "Which property is NOT generally typical of organic compounds?",
+      "options": {
+        "A": "High melting and boiling points",
+        "B": "Covalent bonding",
+        "C": "Combustibility in oxygen",
+        "D": "Solubility in non-polar organic solvents"
+      },
+      "correctAnswer": "A",
+      "explanation": "Most organic compounds are covalent molecules held together by relatively weak intermolecular forces, which gives them low melting and boiling points compared to ionic compounds."
+    },
+    {
+      "id": 22,
+      "question": "Carbon is tetravalent because:",
+      "options": {
+        "A": "It has 4 electrons in its outermost valence shell",
+        "B": "It forms ionic bonds with 4 halogen atoms",
+        "C": "It donates 4 electrons easily",
+        "D": "It has 4 protons in its nucleus"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carbon has an atomic number of 6 with electronic configuration $1s^2 2s^2 2p^2$. With 4 valence electrons, it shares 4 electron pairs to achieve stable noble gas configuration, exhibiting tetravalency."
+    },
+    {
+      "id": 23,
+      "question": "The conversion of wood into coal through biochemical and geological processes over millions of years is termed: (FBISE 2014-I)",
+      "options": {
+        "A": "Carbonization",
+        "B": "Cracking",
+        "C": "Polymerization",
+        "D": "Esterification"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carbonization is the slow, natural transformation of buried plant and wood deposits into coal in the absence of air under high temperature and geological pressure."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following fractions of petroleum distillation has the lowest boiling range?",
+      "options": {
+        "A": "Refinery gas",
+        "B": "Kerosene oil",
+        "C": "Diesel fuel",
+        "D": "Lubricating oil"
+      },
+      "correctAnswer": "A",
+      "explanation": "Refinery gas consists of small hydrocarbons ($C_1-C_4$) with boiling points below 20°C, collected from the very top of the fractionating column."
+    },
+    {
+      "id": 25,
+      "question": "The simplest organic compound belonging to the ketone family is:",
+      "options": {
+        "A": "Acetone (Propanone)",
+        "B": "Formaldehyde",
+        "C": "Acetaldehyde",
+        "D": "Formic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Because a carbonyl carbon in a ketone must be bonded to two other carbon atoms, the smallest possible ketone is acetone ($CH_3-CO-CH_3$), having 3 carbon atoms."
+    },
+    {
+      "id": 26,
+      "question": "The simplest member of the carboxylic acid family is:",
+      "options": {
+        "A": "Formic acid ($HCOOH$)",
+        "B": "Acetic acid ($CH_3COOH$)",
+        "C": "Propanoic acid ($C_2H_5COOH$)",
+        "D": "Oxalic acid ($HOOC-COOH$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Formic acid (methanoic acid, $HCOOH$) is the simplest carboxylic acid, where the carboxyl group is bonded to a single hydrogen atom."
+    },
+    {
+      "id": 27,
+      "question": "A condensed structural formula shows:",
+      "options": {
+        "A": "Only the elemental symbols and total counts of each atom",
+        "B": "The groups of atoms in sequence without showing individual single bonds",
+        "C": "All chemical bonds in three dimensions",
+        "D": "Only the ring structures"
+      },
+      "correctAnswer": "B",
+      "explanation": "A condensed structural formula (such as $CH_3CH_2CH_3$) groups the hydrogen atoms together with their associated carbon atoms in sequence without drawing every individual $C-H$ single bond."
+    },
+    {
+      "id": 28,
+      "question": "1-chloropropane and 2-chloropropane are examples of:",
+      "options": {
+        "A": "Chain isomers",
+        "B": "Position isomers",
+        "C": "Functional group isomers",
+        "D": "Geometric isomers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Position isomerism occurs when compounds have the same carbon skeleton and functional group, but the functional group is located at different positions on the chain."
+    },
+    {
+      "id": 29,
+      "question": "The general formula for an alkyl radical is:",
+      "options": {
+        "A": "$C_nH_{2n+1}$",
+        "B": "$C_nH_{2n+2}$",
+        "C": "$C_nH_{2n}$",
+        "D": "$C_nH_{2n-1}$"
+      },
+      "correctAnswer": "A",
+      "explanation": "An alkyl radical is formed by removing one hydrogen atom from an alkane molecule ($C_nH_{2n+2} - H = C_nH_{2n+1}-$), represented by the symbol $R-$."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following organic compounds is a heterocyclic compound?",
+      "options": {
+        "A": "Benzene",
+        "B": "Pyridine",
+        "C": "Cyclohexane",
+        "D": "Toluene"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pyridine ($C_5H_5N$) is a cyclic organic compound where the ring contains one nitrogen atom in addition to carbon atoms, making it heterocyclic."
+    },
+    {
+      "id": 31,
+      "question": "Ammoniacal liquor obtained during destructive distillation of coal is treated with sulphuric acid to manufacture:",
+      "options": {
+        "A": "Ammonium sulphate fertilizer",
+        "B": "Urea",
+        "C": "Ammonium nitrate",
+        "D": "Baking powder"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ammoniacal liquor is an aqueous solution of ammonia. When neutralized with sulphuric acid, it crystallizes into the synthetic fertilizer ammonium sulphate: $2NH_3 + H_2SO_4 \\to (NH_4)_2SO_4$."
+    },
+    {
+      "id": 32,
+      "question": "Which type of coal has the highest moisture content and lowest carbon percentage?",
+      "options": {
+        "A": "Peat",
+        "B": "Lignite",
+        "C": "Bituminous",
+        "D": "Anthracite"
+      },
+      "correctAnswer": "A",
+      "explanation": "Peat represents the initial stage in coal formation. It has a low carbon content (~60%) and high moisture content, producing substantial smoke when burned."
+    },
+    {
+      "id": 33,
+      "question": "A functional group is best defined as:",
+      "options": {
+        "A": "An atom or group of atoms that imparts characteristic chemical properties to an organic molecule",
+        "B": "The total number of carbon atoms in a chain",
+        "C": "Any non-metal present in an organic compound",
+        "D": "The solvent in which the compound dissolves"
+      },
+      "correctAnswer": "A",
+      "explanation": "A functional group is an atom or group of atoms whose presence dictates the distinctive chemical reactivity and physical behavior of an organic family."
+    },
+    {
+      "id": 34,
+      "question": "Which of the following functional groups contains a nitrogen atom directly bonded to a carbonyl group?",
+      "options": {
+        "A": "Amide group ($-CONH_2$)",
+        "B": "Amine group ($-NH_2$)",
+        "C": "Nitro group ($-NO_2$)",
+        "D": "Cyanide group ($-CN$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The amide functional group consists of a carbonyl carbon atom bonded directly to an amino nitrogen atom ($-CO-NH_2$ or $-CO-NHR$)."
+    },
+    {
+      "id": 35,
+      "question": "The general molecular formula of alkyl halides is:",
+      "options": {
+        "A": "$C_nH_{2n+1}X$",
+        "B": "$C_nH_{2n}X_2$",
+        "C": "$C_nH_{2n-1}X$",
+        "D": "$C_nH_{2n+2}X$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Alkyl halides (haloalkanes) are formed by replacing one hydrogen atom of an alkane with a halogen atom ($X = F, Cl, Br, I$), represented by $C_nH_{2n+1}X$ or $R-X$."
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "chapterNumber": 4,
+  "chapterTitle": "Unit 12: Hydrocarbons",
+  "slug": "chemistry-10-chapter-4",
+  "totalQuestions": 40,
+  "fileName": "chemistry-10-chapter-4.json",
+  "subject": "chemistry-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the general molecular formula for the alkene family of hydrocarbons? (FBISE 2024-II)",
+      "options": {
+        "A": "$C_nH_{2n+2}$",
+        "B": "$C_nH_{2n}$",
+        "C": "$C_nH_{2n-2}$",
+        "D": "$C_nH_{2n-1}$"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alkenes (olefins) are unsaturated hydrocarbons possessing one carbon-carbon double bond, conforming to the general formula $C_nH_{2n}$."
+    },
+    {
+      "id": 2,
+      "question": "Which gas is widely used with oxygen in oxy-acetylene torches to produce temperatures up to 3300°C for welding and cutting metals? (FBISE 2023-I, 2025 Model)",
+      "options": {
+        "A": "Acetylene (Ethyne)",
+        "B": "Methane",
+        "C": "Ethane",
+        "D": "Ethylene (Ethene)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Acetylene ($C_2H_2$) burns in pure oxygen with an intensely hot flame reaching temperatures up to 3300°C, making it indispensable for oxy-acetylene welding and metal cutting."
+    },
+    {
+      "id": 3,
+      "question": "Halogenation of methane in diffused sunlight does NOT produce which of the following compounds? (FBISE 2025 Model)",
+      "options": {
+        "A": "Chloromethane ($CH_3Cl$)",
+        "B": "Carbon tetrachloride ($CCl_4$)",
+        "C": "Chloroform ($CHCl_3$)",
+        "D": "Carbon black ($C$)"
+      },
+      "correctAnswer": "D",
+      "explanation": "In diffused sunlight, methane undergoes stepwise free radical substitution to form $CH_3Cl$, $CH_2Cl_2$, $CHCl_3$, and $CCl_4$. Carbon black is produced by incomplete combustion or direct explosive reaction in bright sunlight, not by diffuse halogenation."
+    },
+    {
+      "id": 4,
+      "question": "The chemical test used to confirm unsaturation (double or triple bonds) in organic molecules by decolorizing reddish-brown color is: (FBISE 2022-II, 2024-I)",
+      "options": {
+        "A": "Fehling's solution test",
+        "B": "Bromine water test",
+        "C": "Tollens' reagent test",
+        "D": "Biuret test"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bromine water ($Br_2$ in water/CCl4) has a reddish-brown color. When shaken with an unsaturated hydrocarbon (alkene or alkyne), bromine adds across the multiple bond, discharging the color."
+    },
+    {
+      "id": 5,
+      "question": "In Baeyer's test, an alkene reacts with cold, dilute alkaline potassium permanganate ($KMnO_4$) solution to produce: (FBISE 2021-II)",
+      "options": {
+        "A": "Carboxylic acid",
+        "B": "Ethylene glycol (1,2-ethanediol)",
+        "C": "Carbon dioxide",
+        "D": "Aldehyde"
+      },
+      "correctAnswer": "B",
+      "explanation": "Baeyer's reagent (cold alkaline $KMnO_4$) oxidizes alkenes by hydroxylating both carbons of the double bond, discharging the purple color and yielding a diol (glycol) and brown $MnO_2$ precipitate."
+    },
+    {
+      "id": 6,
+      "question": "Ethene ($C_2H_4$) is industrially prepared by the dehydration of ethanol in the presence of concentrated sulphuric acid at: (FBISE 2020-I, 2023-II)",
+      "options": {
+        "A": "100°C",
+        "B": "140°C",
+        "C": "170°C",
+        "D": "300°C"
+      },
+      "correctAnswer": "C",
+      "explanation": "Heating ethanol ($C_2H_5OH$) with excess concentrated $H_2SO_4$ at 170°C eliminates a molecule of water to produce ethene ($C_2H_4$). At 140°C, diethyl ether is the main product."
+    },
+    {
+      "id": 7,
+      "question": "What is the general molecular formula for the alkyne homologous series? (FBISE 2019-I)",
+      "options": {
+        "A": "$C_nH_{2n+2}$",
+        "B": "$C_nH_{2n}$",
+        "C": "$C_nH_{2n-2}$",
+        "D": "$C_nH_{2n+1}$"
+      },
+      "correctAnswer": "C",
+      "explanation": "Alkynes are unsaturated acyclic hydrocarbons with one carbon-carbon triple bond ($-C\\equiv C-$) and follow the general formula $C_nH_{2n-2}$."
+    },
+    {
+      "id": 8,
+      "question": "Alkanes are historically known as 'paraffins' because: (FBISE 2018-I, 2022-I)",
+      "options": {
+        "A": "They are highly explosive",
+        "B": "They possess little chemical affinity/reactivity (parum affinis)",
+        "C": "They form oily liquids",
+        "D": "They dissolve readily in water"
+      },
+      "correctAnswer": "B",
+      "explanation": "The word 'paraffin' is derived from Latin (parum = little, affinis = affinity), reflecting the inert nature of saturated hydrocarbons under standard conditions."
+    },
+    {
+      "id": 9,
+      "question": "Dehydrohalogenation of an alkyl halide involves the removal of: (FBISE 2017-II)",
+      "options": {
+        "A": "A water molecule",
+        "B": "A hydrogen halide ($HX$) molecule",
+        "C": "A halogen molecule ($X_2$)",
+        "D": "Carbon dioxide"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dehydrohalogenation is an elimination reaction in which a hydrogen atom and a halogen atom (a hydrogen halide, $HX$) are eliminated from adjacent carbons of an alkyl halide using alcoholic $KOH$."
+    },
+    {
+      "id": 10,
+      "question": "Reduction of an alkyl halide with zinc dust in the presence of dilute aqueous hydrochloric acid yields: (FBISE 2016-II, 2021-I)",
+      "options": {
+        "A": "An alkane",
+        "B": "An alkene",
+        "C": "An alkyne",
+        "D": "An alcohol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Alkyl halides undergo reduction when treated with $Zn$ and dilute $HCl$, replacing the halogen atom with nascent hydrogen to yield the corresponding alkane: $CH_3Cl + 2[H] \\xrightarrow{Zn/HCl} CH_4 + HCl$."
+    },
+    {
+      "id": 11,
+      "question": "Addition of hydrogen (hydrogenation) to ethene in the presence of finely divided nickel catalyst occurs at: (FBISE 2015-I)",
+      "options": {
+        "A": "Room temperature (25°C)",
+        "B": "100°C – 150°C",
+        "C": "250°C – 300°C",
+        "D": "500°C"
+      },
+      "correctAnswer": "C",
+      "explanation": "Catalytic hydrogenation of unsaturated hydrocarbons using nickel requires heating to 250°C–300°C. With platinum or palladium catalysts, the reaction can occur at room temperature."
+    },
+    {
+      "id": 12,
+      "question": "Incomplete combustion of methane in a limited supply of oxygen produces: (FBISE 2014-II, 2020-II)",
+      "options": {
+        "A": "$CO_2$ and $H_2O$",
+        "B": "Carbon monoxide ($CO$), carbon black ($C$), and water ($H_2O$)",
+        "C": "Only hydrogen gas",
+        "D": "Methanol and formic acid"
+      },
+      "correctAnswer": "B",
+      "explanation": "When methane burns in a limited supply of oxygen, incomplete combustion occurs, producing poisonous carbon monoxide ($CO$), finely divided carbon black ($C$), and water: $3CH_4 + 4O_2 \\to 2CO + C + 6H_2O$."
+    },
+    {
+      "id": 13,
+      "question": "What is the physical state of the first four members of the alkane series ($C_1$ to $C_4$) at room temperature? (FBISE 2013-I)",
+      "options": {
+        "A": "Colorless gases",
+        "B": "Volatile liquids",
+        "C": "Crystalline solids",
+        "D": "Viscous waxes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Methane, ethane, propane, and butane are non-polar gases at standard temperature and pressure due to their weak London dispersion forces."
+    },
+    {
+      "id": 14,
+      "question": "Which alkyne is commonly known as acetylene? (FBISE 2019-II)",
+      "options": {
+        "A": "Ethyne ($C_2H_2$)",
+        "B": "Propyne ($C_3H_4$)",
+        "C": "1-Butyne ($C_4H_6$)",
+        "D": "2-Butyne ($C_4H_6$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ethyne ($C_2H_2$, $H-C\\equiv C-H$) is universally known by its common name acetylene, the simplest and most industrially significant alkyne."
+    },
+    {
+      "id": 15,
+      "question": "Vicinal dihalides are organic compounds that contain: (FBISE 2018-II)",
+      "options": {
+        "A": "Two halogen atoms attached to the same carbon atom",
+        "B": "Two halogen atoms attached to adjacent carbon atoms",
+        "C": "Halogen atoms at the two terminal ends of a long chain",
+        "D": "Four halogen atoms attached to one carbon"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vicinal (from Latin vicinus = neighbor) dihalides have halogen atoms bonded to adjacent carbon atoms (e.g., 1,2-dibromoethane: $CH_2Br-CH_2Br$)."
+    },
+    {
+      "id": 16,
+      "question": "When ethyne is treated with cold alkaline $KMnO_4$, the final oxidation product formed is: (FBISE 2017-I)",
+      "options": {
+        "A": "Ethanol",
+        "B": "Oxalic acid ($HOOC-COOH$)",
+        "C": "Formic acid",
+        "D": "Ethylene glycol"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alkaline $KMnO_4$ oxidizes the triple bond of ethyne completely through intermediate glyoxal ($CHO-CHO$) to produce dicarboxylic oxalic acid ($HOOC-COOH$)."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following hydrocarbons burns with a luminous, sooty (smoky) flame due to its high carbon-to-hydrogen ratio?",
+      "options": {
+        "A": "Methane ($CH_4$)",
+        "B": "Ethane ($C_2H_6$)",
+        "C": "Acetylene ($C_2H_2$)",
+        "D": "Propane ($C_3H_8$)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Acetylene has a 1:1 carbon-to-hydrogen atomic ratio (92.3% carbon by mass). In air, unburnt carbon particles become incandescenly hot, causing a bright, smoky, sooty flame."
+    },
+    {
+      "id": 18,
+      "question": "What is the IUPAC name for $CH_3-CH(CH_3)-CH_3$?",
+      "options": {
+        "A": "n-Butane",
+        "B": "2-Methylpropane",
+        "C": "Isobutane",
+        "D": "Dimethylmethane"
+      },
+      "correctAnswer": "B",
+      "explanation": "The longest continuous carbon chain consists of three carbon atoms (propane), with a methyl substituent at carbon-2, giving the IUPAC name 2-methylpropane (isobutane is its common name)."
+    },
+    {
+      "id": 19,
+      "question": "What is the product formed when 1,2-dibromoethane is heated with zinc dust?",
+      "options": {
+        "A": "Ethane",
+        "B": "Ethene",
+        "C": "Ethyne",
+        "D": "Bromoethane"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dehalogenation of a vicinal dihalide with zinc dust removes both halogen atoms to form a double bond: $CH_2Br-CH_2Br + Zn \\to CH_2=CH_2 + ZnBr_2$."
+    },
+    {
+      "id": 20,
+      "question": "Which hydrocarbon is used for the artificial ripening of green agricultural fruits like bananas and mangoes?",
+      "options": {
+        "A": "Ethene (Ethylene)",
+        "B": "Methane",
+        "C": "Propane",
+        "D": "Carbon tetrachloride"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ethene ($C_2H_4$) is a natural plant hormone that triggers fruit ripening, and is used commercially to artificially ripen green fruit under controlled conditions."
+    },
+    {
+      "id": 21,
+      "question": "What is the molecular formula of cyclohexane?",
+      "options": {
+        "A": "$C_6H_{14}$",
+        "B": "$C_6H_{12}$",
+        "C": "$C_6H_6$",
+        "D": "$C_6H_{10}$"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cycloalkanes have a ring structure where two hydrogen atoms are lost to close the ring, conforming to the formula $C_nH_{2n}$. Cyclohexane is $C_6H_{12}$."
+    },
+    {
+      "id": 22,
+      "question": "When ethene gas reacts with bromine dissolved in an inert solvent like $CCl_4$, what product is synthesized?",
+      "options": {
+        "A": "Bromoethane",
+        "B": "1,2-Dibromoethane",
+        "C": "1,1-Dibromoethane",
+        "D": "Tetrabromoethane"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bromine electrophilically adds across the double bond of ethene: $CH_2=CH_2 + Br_2 \\to CH_2Br-CH_2Br$ (1,2-dibromoethane), discharging the reddish-brown color."
+    },
+    {
+      "id": 23,
+      "question": "Chloroform has which of the following chemical formulas?",
+      "options": {
+        "A": "$CH_3Cl$",
+        "B": "$CH_2Cl_2$",
+        "C": "$CHCl_3$",
+        "D": "$CCl_4$"
+      },
+      "correctAnswer": "C",
+      "explanation": "Trichloromethane is commonly known as chloroform ($CHCl_3$). It was historically used as a general anesthetic."
+    },
+    {
+      "id": 24,
+      "question": "Which chemical is utilized as a solvent for fats, oils, and greases, and was formerly used in dry cleaning and fire extinguishers?",
+      "options": {
+        "A": "Methane",
+        "B": "Carbon tetrachloride ($CCl_4$)",
+        "C": "Ethene",
+        "D": "Acetylene"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbon tetrachloride ($CCl_4$, tetrachloromethane) is a heavy non-flammable liquid widely used as an industrial solvent and historically in fire extinguishers under the trade name Pyrene."
+    },
+    {
+      "id": 25,
+      "question": "What happens when methane is exposed to chlorine in direct, bright sunlight?",
+      "options": {
+        "A": "Slow stepwise substitution occurs",
+        "B": "An explosive reaction occurs yielding carbon black and $HCl$",
+        "C": "No reaction takes place",
+        "D": "Methane dimerizes into ethane"
+      },
+      "correctAnswer": "B",
+      "explanation": "In direct, bright sunlight, the reaction between methane and chlorine is instantaneous and explosive: $CH_4 + 2Cl_2 \\xrightarrow{\\text{sunlight}} C(s) + 4HCl(g)$, depositing carbon black."
+    },
+    {
+      "id": 26,
+      "question": "What is the hybridization of carbon atoms in an ethyne ($H-C\\equiv C-H$) molecule?",
+      "options": {
+        "A": "$sp^3$",
+        "B": "$sp^2$",
+        "C": "$sp$",
+        "D": "$dsp^2$"
+      },
+      "correctAnswer": "C",
+      "explanation": "In ethyne, each carbon atom forms one $\\sigma$ bond to hydrogen and one $\\sigma$ bond to the other carbon, utilizing two $sp$ hybrid orbitals arranged in a linear geometry (180°)."
+    },
+    {
+      "id": 27,
+      "question": "How many sigma ($\\sigma$) and pi ($\\pi$) bonds are present in an ethyne ($C_2H_2$) molecule?",
+      "options": {
+        "A": "3 $\\sigma$ bonds and 2 $\\pi$ bonds",
+        "B": "2 $\\sigma$ bonds and 3 $\\pi$ bonds",
+        "C": "4 $\\sigma$ bonds and 1 $\\pi$ bond",
+        "D": "5 $\\sigma$ bonds and 0 $\\pi$ bonds"
+      },
+      "correctAnswer": "A",
+      "explanation": "In $H-C\\equiv C-H$, each $C-H$ bond is a $\\sigma$ bond (2 $\\sigma$) and the triple bond consists of one $\\sigma$ bond and two $\\pi$ bonds. Total = 3 $\\sigma$ and 2 $\\pi$ bonds."
+    },
+    {
+      "id": 28,
+      "question": "What is the shape and bond angle of a methane ($CH_4$) molecule?",
+      "options": {
+        "A": "Planar triangle, 120°",
+        "B": "Linear, 180°",
+        "C": "Tetrahedral, 109.5°",
+        "D": "Octahedral, 90°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Carbon in methane undergoes $sp^3$ hybridization, directing four equivalent bonding orbitals toward the corners of a regular tetrahedron with $H-C-H$ bond angles of 109.5°."
+    },
+    {
+      "id": 29,
+      "question": "Which of the following reagents is used to dehydrate ethanol to ethene?",
+      "options": {
+        "A": "Dilute $HCl$",
+        "B": "Concentrated $H_2SO_4$",
+        "C": "Aqueous $NaOH$",
+        "D": "$KMnO_4$"
+      },
+      "correctAnswer": "B",
+      "explanation": "Concentrated sulphuric acid is an exceptional dehydrating agent. At 170°C, it extracts a molecule of water from ethanol ($C_2H_5OH$) to yield ethene."
+    },
+    {
+      "id": 30,
+      "question": "What type of chemical reaction is characteristic of alkanes?",
+      "options": {
+        "A": "Electrophilic addition reactions",
+        "B": "Free radical substitution reactions",
+        "C": "Polymerization reactions",
+        "D": "Elimination reactions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Because alkanes are saturated with strong $C-C$ and $C-H$ single $\\sigma$ bonds, they do not undergo addition reactions. Instead, they react via free radical substitution (e.g., photochemical halogenation)."
+    },
+    {
+      "id": 31,
+      "question": "What type of chemical reaction is characteristic of alkenes and alkynes?",
+      "options": {
+        "A": "Addition reactions",
+        "B": "Nucleophilic substitution only",
+        "C": "Dehydrogenation only",
+        "D": "Thermal cracking only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Unsaturated hydrocarbons possess relatively weak and exposed $\\pi$ electron clouds that readily open up to add atoms or groups across the multiple bond without loss of carbon atoms."
+    },
+    {
+      "id": 32,
+      "question": "What catalyst and temperature are used to convert vegetable oil into vegetable ghee (solid fat)?",
+      "options": {
+        "A": "Nickel catalyst at 250°C",
+        "B": "Iron catalyst at 450°C",
+        "C": "Platinum at 500°C",
+        "D": "Copper at 100°C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Industrial hydrogenation of polyunsaturated vegetable oils to produce solid vegetable ghee uses finely divided nickel ($Ni$) catalyst at approximately 250°C under moderate hydrogen pressure."
+    },
+    {
+      "id": 33,
+      "question": "When propane undergoes complete combustion in oxygen, what is the stoichiometric coefficient of $O_2$ in the balanced equation: $C_3H_8 + xO_2 \\to 3CO_2 + 4H_2O$?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "7"
+      },
+      "correctAnswer": "C",
+      "explanation": "Balancing oxygen atoms: $3 \\times 2 (\\text{in } CO_2) + 4 \\times 1 (\\text{in } H_2O) = 10$ oxygen atoms. Therefore, $10 / 2 = 5$ moles of $O_2$ are required."
+    },
+    {
+      "id": 34,
+      "question": "Which of the following hydrocarbons has the highest boiling point?",
+      "options": {
+        "A": "Methane ($CH_4$)",
+        "B": "Ethane ($C_2H_6$)",
+        "C": "Propane ($C_3H_8$)",
+        "D": "n-Butane ($C_4H_{10}$)"
+      },
+      "correctAnswer": "D",
+      "explanation": "In a homologous series of unbranched alkanes, as the molecular mass and chain length increase, the surface area increases, strengthening London dispersion forces and raising boiling points."
+    },
+    {
+      "id": 35,
+      "question": "What gas is generated when calcium carbide ($CaC_2$) reacts with water?",
+      "options": {
+        "A": "Methane",
+        "B": "Ethane",
+        "C": "Acetylene (Ethyne)",
+        "D": "Ethene"
+      },
+      "correctAnswer": "C",
+      "explanation": "Reaction of calcium carbide with water is a traditional laboratory and industrial method to generate acetylene: $CaC_2 + 2H_2O \\to C_2H_2\\uparrow + Ca(OH)_2$."
+    },
+    {
+      "id": 36,
+      "question": "Which of the following compounds is an unsaturated hydrocarbon?",
+      "options": {
+        "A": "$C_2H_6$",
+        "B": "$C_3H_8$",
+        "C": "$C_4H_{10}$",
+        "D": "$C_3H_6$"
+      },
+      "correctAnswer": "D",
+      "explanation": "$C_3H_6$ conforms to the formula $C_nH_{2n}$ (propene) and contains a carbon-carbon double bond, classifying it as an unsaturated hydrocarbon."
+    },
+    {
+      "id": 37,
+      "question": "What is the molecular formula of the alkyne containing 5 carbon atoms?",
+      "options": {
+        "A": "$C_5H_{12}$",
+        "B": "$C_5H_{10}$",
+        "C": "$C_5H_8$",
+        "D": "$C_5H_6$"
+      },
+      "correctAnswer": "C",
+      "explanation": "Using the alkyne formula $C_nH_{2n-2}$ with $n = 5$: $C_5H_{2(5)-2} = C_5H_8$ (pentyne)."
+    },
+    {
+      "id": 38,
+      "question": "Marsh gas is a common historical name for which hydrocarbon?",
+      "options": {
+        "A": "Methane ($CH_4$)",
+        "B": "Ethane",
+        "C": "Ethylene",
+        "D": "Propane"
+      },
+      "correctAnswer": "A",
+      "explanation": "Methane is produced by the anaerobic bacterial decomposition of plant matter in swamps and marshes, hence its historical name 'marsh gas'."
+    },
+    {
+      "id": 39,
+      "question": "The conversion of ethene to polyethene (polythene) is an example of:",
+      "options": {
+        "A": "Substitution reaction",
+        "B": "Addition polymerization",
+        "C": "Condensation polymerization",
+        "D": "Oxidation reaction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ethene molecules link together by breaking their double bonds under high pressure and temperature with a catalyst, forming the long-chain polymer polythene via addition polymerization."
+    },
+    {
+      "id": 40,
+      "question": "Which of the following reagents can be used to distinguish between ethane (an alkane) and ethene (an alkene)?",
+      "options": {
+        "A": "Bromine water or alkaline $KMnO_4$",
+        "B": "Litmus paper",
+        "C": "Sodium hydroxide solution",
+        "D": "Phenolphthalein"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ethene quickly decolorizes both reddish-brown bromine water and purple alkaline $KMnO_4$ (Baeyer's test) due to addition across its double bond, whereas saturated ethane does not react under standard conditions."
+    }
+  ]
+}
