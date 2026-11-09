@@ -1,0 +1,824 @@
+{
+  "chapterNumber": 1,
+  "chapterTitle": "Chapter 1: Computer Systems",
+  "totalQuestions": 68,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which number system is used internally by all digital computers?",
+      "options": {
+        "A": "Decimal",
+        "B": "Octal",
+        "C": "Binary",
+        "D": "Hexadecimal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Binary. Digital computers use binary (base-2) because electronic switches have only two states: ON (1) and OFF (0). All data is ultimately stored and processed in binary."
+    },
+    {
+      "id": 2,
+      "question": "ASCII stands for:",
+      "options": {
+        "A": "American Standard Code for Interpreted Information",
+        "B": "American Standard Code for Information Interchange",
+        "C": "Automated Standard Code for Information Input",
+        "D": "Advanced System Code for Integrated Input"
+      },
+      "correctAnswer": "B",
+      "explanation": "American Standard Code for Information Interchange. ASCII (American Standard Code for Information Interchange) is a 7-bit encoding standard that represents 128 characters including letters, digits, and control characters."
+    },
+    {
+      "id": 3,
+      "question": "How many unique characters can be represented using a 7-bit ASCII code?",
+      "options": {
+        "A": "64",
+        "B": "128",
+        "C": "256",
+        "D": "512"
+      },
+      "correctAnswer": "B",
+      "explanation": "128. 7 bits allow 2^7 = 128 unique combinations. Extended ASCII uses 8 bits to represent 256 characters."
+    },
+    {
+      "id": 4,
+      "question": "A NAND gate is called a universal gate because it:",
+      "options": {
+        "A": "Has the fastest switching speed",
+        "B": "Can be used to implement any other logic gate",
+        "C": "Has exactly one input and one output",
+        "D": "Always produces a 1 output"
+      },
+      "correctAnswer": "B",
+      "explanation": "Can be used to implement any other logic gate. NAND (and NOR) gates are universal because any Boolean function — AND, OR, NOT, XOR, etc. — can be constructed using only NAND gates."
+    },
+    {
+      "id": 5,
+      "question": "The output of an AND gate is HIGH only when:",
+      "options": {
+        "A": "At least one input is HIGH",
+        "B": "All inputs are LOW",
+        "C": "All inputs are HIGH",
+        "D": "Exactly one input is HIGH"
+      },
+      "correctAnswer": "C",
+      "explanation": "All inputs are HIGH. An AND gate performs logical multiplication. Its output is 1 (HIGH) ONLY when ALL inputs are 1. If any input is 0, the output is 0."
+    },
+    {
+      "id": 6,
+      "question": "An OR gate output is LOW only when:",
+      "options": {
+        "A": "All inputs are HIGH",
+        "B": "All inputs are LOW",
+        "C": "Exactly one input is LOW",
+        "D": "The power supply fails"
+      },
+      "correctAnswer": "B",
+      "explanation": "All inputs are LOW. An OR gate output is 0 ONLY when ALL inputs are 0. If any single input is 1, the output becomes 1."
+    },
+    {
+      "id": 7,
+      "question": "The NOT gate is also called:",
+      "options": {
+        "A": "Buffer",
+        "B": "Amplifier",
+        "C": "Inverter",
+        "D": "Multiplexer"
+      },
+      "correctAnswer": "C",
+      "explanation": "Inverter. A NOT gate inverts its single input: if input is 1, output is 0 and vice versa. It is called an inverter because it complements the input."
+    },
+    {
+      "id": 8,
+      "question": "An XOR gate output is HIGH when:",
+      "options": {
+        "A": "All inputs are the same",
+        "B": "All inputs are HIGH",
+        "C": "Exactly an odd number of inputs are HIGH",
+        "D": "All inputs are LOW"
+      },
+      "correctAnswer": "C",
+      "explanation": "Exactly an odd number of inputs are HIGH. XOR (exclusive OR) gives HIGH output when an odd number of inputs are HIGH. For two inputs: output is 1 when inputs DIFFER (0,1 or 1,0)."
+    },
+    {
+      "id": 9,
+      "question": "The small circle (bubble) on a logic gate symbol represents:",
+      "options": {
+        "A": "A power connection",
+        "B": "A logical inversion (NOT operation)",
+        "C": "An amplification point",
+        "D": "A high-impedance state"
+      },
+      "correctAnswer": "B",
+      "explanation": "A logical inversion (NOT operation). The bubble at the input or output of a gate symbol indicates logical inversion — a NAND gate is an AND gate with a bubble on the output."
+    },
+    {
+      "id": 10,
+      "question": "Which gate produces an output of 0 when all its inputs are 1?",
+      "options": {
+        "A": "AND",
+        "B": "OR",
+        "C": "NOR",
+        "D": "NAND"
+      },
+      "correctAnswer": "D",
+      "explanation": "NAND. NAND is the complement of AND. When all inputs are 1, AND gives 1, so NAND gives 0. This makes it a universal gate."
+    },
+    {
+      "id": 11,
+      "question": "How many bits are in a single hexadecimal digit?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "8",
+        "D": "16"
+      },
+      "correctAnswer": "B",
+      "explanation": "4. Each hexadecimal digit maps to exactly 4 binary bits (a nibble), since 2^4 = 16 possible values (0–F)."
+    },
+    {
+      "id": 12,
+      "question": "De Morgan's first theorem states that the complement of a sum equals:",
+      "options": {
+        "A": "The sum of the complements",
+        "B": "The product of the complements",
+        "C": "The complement of the product",
+        "D": "The double complement"
+      },
+      "correctAnswer": "B",
+      "explanation": "The product of the complements. De Morgan's first theorem: (A + B)' = A'·B'. The complement of a sum equals the product of the complements."
+    },
+    {
+      "id": 13,
+      "question": "In Boolean algebra, the identity element for AND is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "X",
+        "D": "X'"
+      },
+      "correctAnswer": "B",
+      "explanation": "1. A AND 1 = A for any Boolean variable A. The identity element for AND is 1. Similarly, the identity for OR is 0 (A OR 0 = A)."
+    },
+    {
+      "id": 14,
+      "question": "The Karnaugh Map (K-Map) was introduced by:",
+      "options": {
+        "A": "George Boole in 1847",
+        "B": "Maurice Karnaugh in 1953",
+        "C": "Claude Shannon in 1938",
+        "D": "John Von Neumann in 1945"
+      },
+      "correctAnswer": "B",
+      "explanation": "Maurice Karnaugh in 1953. The Karnaugh Map was introduced by Maurice Karnaugh in 1953 as a graphical method for simplifying Boolean expressions."
+    },
+    {
+      "id": 15,
+      "question": "A two-variable K-Map has how many cells?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "correctAnswer": "B",
+      "explanation": "4. A K-Map has 2^n cells where n is the number of variables. A two-variable K-Map: 2^2 = 4 cells."
+    },
+    {
+      "id": 16,
+      "question": "Which grouping in a K-Map must be a power of 2?",
+      "options": {
+        "A": "Any odd number",
+        "B": "Multiples of 3",
+        "C": "Powers of 2 (1, 2, 4, 8...)",
+        "D": "Only groups of exactly 4"
+      },
+      "correctAnswer": "C",
+      "explanation": "Powers of 2 (1, 2, 4, 8...). K-Map groups must always contain 1, 2, 4, 8, or 16 cells. Larger valid groups eliminate more variables."
+    },
+    {
+      "id": 17,
+      "question": "The Principle of Duality in Boolean algebra states that:",
+      "options": {
+        "A": "Every Boolean function has a unique simplified form",
+        "B": "AND and OR operators can be interchanged while swapping 0s and 1s to form the dual expression",
+        "C": "A variable and its complement always cancel out",
+        "D": "All Boolean identities are false for complex expressions"
+      },
+      "correctAnswer": "B",
+      "explanation": "AND and OR operators can be interchanged while swapping 0s and 1sDuality: swap AND↔OR and 0↔1. Example: A AND 1 = A becomes (dual) A OR 0 = A. Both remain valid."
+    },
+    {
+      "id": 18,
+      "question": "Simplifying Boolean expressions using K-Maps primarily reduces:",
+      "options": {
+        "A": "Number of variables",
+        "B": "Number of logic gates needed in a circuit",
+        "C": "Number of truth table rows",
+        "D": "Voltage requirements of the circuit"
+      },
+      "correctAnswer": "B",
+      "explanation": "Number of logic gates needed in a circuit. K-Map simplification produces a minimized Boolean expression, directly reducing the number of gates in the physical circuit."
+    },
+    {
+      "id": 19,
+      "question": "What is the Boolean expression for a NOR gate with inputs A and B?",
+      "options": {
+        "A": "(A·B)'",
+        "B": "A'·B'",
+        "C": "(A+B)'",
+        "D": "A'+B'"
+      },
+      "correctAnswer": "C",
+      "explanation": "(A+B)'. NOR is the complement of OR. The output of a NOR gate = NOT(A OR B) = (A+B)'."
+    },
+    {
+      "id": 20,
+      "question": "Which Boolean law states that A + A = A?",
+      "options": {
+        "A": "Absorption law",
+        "B": "Complement law",
+        "C": "Idempotent law",
+        "D": "Identity law"
+      },
+      "correctAnswer": "C",
+      "explanation": "Idempotent law. The Idempotent law: A + A = A and A · A = A. ORing or ANDing any variable with itself returns the same variable."
+    },
+    {
+      "id": 21,
+      "question": "In a K-Map, 'Don't Care' conditions are marked as:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "X",
+        "D": "D"
+      },
+      "correctAnswer": "C",
+      "explanation": "X. Don't Care conditions (X) can be treated as 0 or 1 — whichever allows a larger group and produces a simpler expression."
+    },
+    {
+      "id": 22,
+      "question": "De Morgan's second theorem states that (A · B)' equals:",
+      "options": {
+        "A": "A + B",
+        "B": "A' + B'",
+        "C": "A' · B'",
+        "D": "(A + B)'"
+      },
+      "correctAnswer": "B",
+      "explanation": "A' + B'. De Morgan's second theorem: (A·B)' = A' + B'. The complement of a product equals the sum of the complements."
+    },
+    {
+      "id": 23,
+      "question": "Which Boolean law states that A · (A + B) = A?",
+      "options": {
+        "A": "Idempotent",
+        "B": "De Morgan's",
+        "C": "Absorption",
+        "D": "Distribution"
+      },
+      "correctAnswer": "C",
+      "explanation": "Absorption. The Absorption law: A·(A+B) = A and A+(A·B) = A. The redundant term is absorbed, simplifying the expression."
+    },
+    {
+      "id": 24,
+      "question": "A four-variable K-Map has how many cells?",
+      "options": {
+        "A": "8",
+        "B": "12",
+        "C": "16",
+        "D": "32"
+      },
+      "correctAnswer": "C",
+      "explanation": "16. A K-Map with n variables has 2^n cells. Four variables: 2^4 = 16 cells arranged in a 4×4 grid using Gray code."
+    },
+    {
+      "id": 25,
+      "question": "In Sum of Products (SOP) form, a Boolean expression is written as:",
+      "options": {
+        "A": "A product of sum terms",
+        "B": "An addition of AND terms (minterms)",
+        "C": "A subtraction of variables",
+        "D": "A single AND of all variables"
+      },
+      "correctAnswer": "B",
+      "explanation": "An addition of AND terms (minterms). SOP is a standard Boolean form: each minterm is a product (AND) of literals, and all minterms are summed (OR) together."
+    },
+    {
+      "id": 26,
+      "question": "Adjacent cells in a K-Map differ by:",
+      "options": {
+        "A": "All variable values",
+        "B": "No variable values",
+        "C": "Exactly one variable value",
+        "D": "Exactly two variable values"
+      },
+      "correctAnswer": "C",
+      "explanation": "Exactly one variable value. K-Map adjacency uses Gray code — neighbouring cells differ in exactly one variable, enabling cancellation and simplification."
+    },
+    {
+      "id": 27,
+      "question": "The first phase of the Software Development Life Cycle (SDLC) is:",
+      "options": {
+        "A": "Design",
+        "B": "Testing",
+        "C": "Requirement Analysis / Planning",
+        "D": "Implementation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Requirement Analysis / Planning. The SDLC begins with Requirements Analysis — gathering, documenting, and prioritising what the system must do."
+    },
+    {
+      "id": 28,
+      "question": "Which SDLC phase evaluates whether a system is technically, financially, and operationally viable?",
+      "options": {
+        "A": "Design",
+        "B": "Feasibility Study",
+        "C": "Testing",
+        "D": "Maintenance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Feasibility Study. The Feasibility Study assesses technical feasibility (can it be built?), financial (affordable?), and operational feasibility (will users accept it?)."
+    },
+    {
+      "id": 29,
+      "question": "Technical feasibility in SDLC assesses:",
+      "options": {
+        "A": "Whether the system can be built with available technology and expertise",
+        "B": "Whether users will accept the new system",
+        "C": "Whether the project budget is sufficient",
+        "D": "Whether the system meets legal requirements"
+      },
+      "correctAnswer": "A",
+      "explanation": "Whether the system can be built with available technology and expertise. Technical feasibility evaluates available hardware, software, tools, and team skills to determine if the system is buildable."
+    },
+    {
+      "id": 30,
+      "question": "The Waterfall Model is best described as:",
+      "options": {
+        "A": "An iterative, flexible development approach",
+        "B": "A sequential, phase-by-phase model where each phase completes before the next begins",
+        "C": "A rapid prototyping strategy",
+        "D": "An Agile sprint-based methodology"
+      },
+      "correctAnswer": "B",
+      "explanation": "A sequential, phase-by-phase model where each phase completes before the next begins. Waterfall is rigid and linear — no phase can begin until the previous one is fully completed and signed off."
+    },
+    {
+      "id": 31,
+      "question": "The Agile model primarily emphasizes:",
+      "options": {
+        "A": "Completing all documentation before coding",
+        "B": "Strict sequential phases with no iteration",
+        "C": "Continuous delivery and customer collaboration through short iterative sprints",
+        "D": "Hardware-first development"
+      },
+      "correctAnswer": "C",
+      "explanation": "Continuous delivery and customer collaboration through short iterative sprints. Agile delivers working software incrementally in short sprints (1–4 weeks), with constant customer feedback driving each cycle."
+    },
+    {
+      "id": 32,
+      "question": "Which SDLC phase is responsible for writing the actual program code?",
+      "options": {
+        "A": "Analysis",
+        "B": "Design",
+        "C": "Implementation",
+        "D": "Maintenance"
+      },
+      "correctAnswer": "C",
+      "explanation": "Implementation. The Implementation (Coding) phase translates design documents into executable source code using the chosen programming languages."
+    },
+    {
+      "id": 33,
+      "question": "Black Box Testing refers to testing:",
+      "options": {
+        "A": "Internal code logic and structure",
+        "B": "Only the database layer",
+        "C": "System functionality without knowledge of the internal code",
+        "D": "Hardware components only"
+      },
+      "correctAnswer": "C",
+      "explanation": "System functionality without knowledge of the internal code. Black Box Testing focuses solely on inputs and expected outputs — testers have no visibility into internal code structure."
+    },
+    {
+      "id": 34,
+      "question": "The Requirement Engineering phase produces:",
+      "options": {
+        "A": "Executable code",
+        "B": "A Software Requirement Specification (SRS) document",
+        "C": "A tested prototype",
+        "D": "A system maintenance log"
+      },
+      "correctAnswer": "B",
+      "explanation": "A Software Requirement Specification (SRS) document. The SRS formally documents all functional and non-functional requirements gathered from stakeholders."
+    },
+    {
+      "id": 35,
+      "question": "White Box Testing is also known as:",
+      "options": {
+        "A": "Functional testing",
+        "B": "Structural / glass box testing",
+        "C": "Acceptance testing",
+        "D": "Regression testing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Structural / glass box testing. White Box Testing examines internal code paths, loops, and conditions — testers have full knowledge of the source code."
+    },
+    {
+      "id": 36,
+      "question": "The SDLC phase after deployment is:",
+      "options": {
+        "A": "Testing",
+        "B": "Analysis",
+        "C": "Design",
+        "D": "Maintenance"
+      },
+      "correctAnswer": "D",
+      "explanation": "Maintenance. After deployment, the Maintenance phase handles bug fixes, performance improvements, security patches, and feature updates."
+    },
+    {
+      "id": 37,
+      "question": "In the Agile model, a working increment is delivered at the end of each:",
+      "options": {
+        "A": "Year",
+        "B": "Module",
+        "C": "Sprint (1–4 week iteration)",
+        "D": "Feasibility study"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sprint (1–4 week iteration). Each Agile sprint produces a potentially shippable product increment — enabling rapid, feedback-driven development."
+    },
+    {
+      "id": 38,
+      "question": "Which SDLC model is best suited when requirements are well-defined and unlikely to change?",
+      "options": {
+        "A": "Agile",
+        "B": "Spiral",
+        "C": "Waterfall",
+        "D": "Extreme Programming (XP)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Waterfall. Waterfall works best when requirements are fixed upfront — its rigid sequential structure is a liability when requirements evolve.8"
+    },
+    {
+      "id": 39,
+      "question": "Which network topology connects all devices to a single central cable?",
+      "options": {
+        "A": "Star",
+        "B": "Ring",
+        "C": "Bus",
+        "D": "Mesh"
+      },
+      "correctAnswer": "C",
+      "explanation": "Bus. In Bus topology all devices share a single backbone cable. Data travels in both directions along it until it reaches the addressed device."
+    },
+    {
+      "id": 40,
+      "question": "In Bus Topology, data travels:",
+      "options": {
+        "A": "In a circular path",
+        "B": "Through a central switch",
+        "C": "In both directions along the shared backbone cable",
+        "D": "Only from server to client"
+      },
+      "correctAnswer": "C",
+      "explanation": "In both directions along the shared backbone cable. Data is broadcast along the bus in both directions — only the device with the matching address accepts the data."
+    },
+    {
+      "id": 41,
+      "question": "Which network topology provides the highest fault tolerance by connecting every device to every other?",
+      "options": {
+        "A": "Bus",
+        "B": "Star",
+        "C": "Ring",
+        "D": "Mesh"
+      },
+      "correctAnswer": "D",
+      "explanation": "Mesh. Full Mesh topology connects every node to every other node — if one link fails, data routes through alternative paths."
+    },
+    {
+      "id": 42,
+      "question": "Cloud computing delivers services primarily through:",
+      "options": {
+        "A": "Dedicated local servers",
+        "B": "Physical CDs",
+        "C": "The internet",
+        "D": "Bluetooth connections"
+      },
+      "correctAnswer": "C",
+      "explanation": "The internet. Cloud computing provides on-demand access to shared computing resources — servers, storage, software — over the internet."
+    },
+    {
+      "id": 43,
+      "question": "IaaS in cloud computing stands for:",
+      "options": {
+        "A": "Internet as a Software",
+        "B": "Infrastructure as a Service",
+        "C": "Integrated Application Suite",
+        "D": "Internal Access System"
+      },
+      "correctAnswer": "B",
+      "explanation": "Infrastructure as a Service. IaaS provides virtualized computing infrastructure — virtual machines, storage, and networking — over the internet (e.g., AWS EC2)."
+    },
+    {
+      "id": 44,
+      "question": "Which cloud service model delivers complete software applications directly over the internet?",
+      "options": {
+        "A": "IaaS",
+        "B": "PaaS",
+        "C": "SaaS",
+        "D": "DaaS"
+      },
+      "correctAnswer": "C",
+      "explanation": "SaaS. SaaS delivers ready-to-use applications via a browser — users don't manage the underlying infrastructure (e.g., Gmail, Office 365)."
+    },
+    {
+      "id": 45,
+      "question": "Ring topology transmits data:",
+      "options": {
+        "A": "In both directions simultaneously to all devices",
+        "B": "Through a central hub",
+        "C": "Sequentially from device to device around the ring",
+        "D": "Via broadcast packets only"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sequentially from device to device around the ring. Data passes from one node to the next around the ring — each device acts as a repeater — until it reaches its destination."
+    },
+    {
+      "id": 46,
+      "question": "Scalability in network topology refers to:",
+      "options": {
+        "A": "The speed of data transmission",
+        "B": "The ability to easily add more devices without major redesign",
+        "C": "The total number of cables",
+        "D": "The geographic range covered"
+      },
+      "correctAnswer": "B",
+      "explanation": "The ability to easily add more devices without major redesign. A scalable topology can grow gracefully — Star is highly scalable; Bus topology struggles as more devices are added."
+    },
+    {
+      "id": 47,
+      "question": "In which network topology does a single device failure NOT disrupt the rest of the network?",
+      "options": {
+        "A": "Bus",
+        "B": "Ring",
+        "C": "Star",
+        "D": "Daisy-chain"
+      },
+      "correctAnswer": "C",
+      "explanation": "Star. In Star topology each device connects independently to a central switch — one device's failure is isolated and does not affect others."
+    },
+    {
+      "id": 48,
+      "question": "Which cloud deployment model is exclusively used by a single organisation?",
+      "options": {
+        "A": "Public cloud",
+        "B": "Hybrid cloud",
+        "C": "Community cloud",
+        "D": "Private cloud"
+      },
+      "correctAnswer": "D",
+      "explanation": "Private cloud. A Private cloud is dedicated infrastructure for one organisation — not shared with others, offering greater control and security."
+    },
+    {
+      "id": 49,
+      "question": "What is the main disadvantage of Mesh topology?",
+      "options": {
+        "A": "Low fault tolerance",
+        "B": "Slow data transfer",
+        "C": "High cost due to the large number of connections required",
+        "D": "Cannot support wireless devices"
+      },
+      "correctAnswer": "C",
+      "explanation": "High cost due to the large number of connections required. Full Mesh with n devices requires n(n-1)/2 connections — cable and hardware costs escalate rapidly as the network grows."
+    },
+    {
+      "id": 50,
+      "question": "A Hybrid cloud model combines:",
+      "options": {
+        "A": "Two public clouds",
+        "B": "A private cloud with a public cloud",
+        "C": "Ring and Star topologies",
+        "D": "IaaS and SaaS only"
+      },
+      "correctAnswer": "B",
+      "explanation": "A private cloud with a public cloud. Hybrid cloud links private and public cloud environments — sensitive data stays private while scalable public resources handle peak demand."
+    },
+    {
+      "id": 51,
+      "question": "Bandwidth in networking refers to:",
+      "options": {
+        "A": "The physical length of a cable",
+        "B": "The maximum rate at which data can be transmitted over a network connection",
+        "C": "The number of devices connected",
+        "D": "The encryption strength used"
+      },
+      "correctAnswer": "B",
+      "explanation": "The maximum rate at which data can be transmitted over a network connection. Bandwidth is measured in bits per second (Mbps, Gbps) — higher bandwidth means more data can be transmitted per second."
+    },
+    {
+      "id": 52,
+      "question": "Which protocol is used to assign IP addresses automatically to devices on a network?",
+      "options": {
+        "A": "HTTP",
+        "B": "FTP",
+        "C": "DHCP",
+        "D": "SMTP"
+      },
+      "correctAnswer": "C",
+      "explanation": "DHCP. DHCP (Dynamic Host Configuration Protocol) automatically assigns IP addresses, subnet masks, and gateway info to devices when they join a network."
+    },
+    {
+      "id": 53,
+      "question": "PaaS (Platform as a Service) is primarily designed for:",
+      "options": {
+        "A": "End-users accessing applications",
+        "B": "Developers to build and deploy applications without managing infrastructure",
+        "C": "Storing files in the cloud",
+        "D": "Physical server rental"
+      },
+      "correctAnswer": "B",
+      "explanation": "Developers to build and deploy applications without managing infrastructure. PaaS provides runtime environments, databases, and development tools — developers focus on code, not infrastructure management."
+    },
+    {
+      "id": 54,
+      "question": "Which type of malware encrypts a victim's files and demands payment for the decryption key?",
+      "options": {
+        "A": "Spyware",
+        "B": "Adware",
+        "C": "Ransomware",
+        "D": "Worm"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ransomware. Ransomware encrypts files and demands payment (usually cryptocurrency) for the decryption key."
+    },
+    {
+      "id": 55,
+      "question": "Two-Factor Authentication (2FA) improves security by:",
+      "options": {
+        "A": "Using a longer password",
+        "B": "Requiring two separate forms of identity verification",
+        "C": "Encrypting all stored data",
+        "D": "Blocking all incoming traffic"
+      },
+      "correctAnswer": "B",
+      "explanation": "Requiring two separate forms of identity verification. 2FA requires something you know (password) plus something you have (OTP) or are (biometric) — two independent factors."
+    },
+    {
+      "id": 56,
+      "question": "Symmetric encryption uses:",
+      "options": {
+        "A": "Two different keys — one public, one private",
+        "B": "The same key for both encryption and decryption",
+        "C": "No key at all",
+        "D": "A hash function only"
+      },
+      "correctAnswer": "B",
+      "explanation": "The same key for both encryption and decryption. Symmetric encryption uses one shared secret key for both encrypting and decrypting (e.g., AES). The challenge is securely sharing the key."
+    },
+    {
+      "id": 57,
+      "question": "A Trojan Horse in cybersecurity is:",
+      "options": {
+        "A": "A virus that replicates without user action",
+        "B": "Malware disguised as legitimate useful software",
+        "C": "A self-replicating network worm",
+        "D": "An encryption algorithm"
+      },
+      "correctAnswer": "B",
+      "explanation": "Malware disguised as legitimate useful software. A Trojan appears harmless (game, utility) but secretly performs malicious actions when executed."
+    },
+    {
+      "id": 58,
+      "question": "Which cybersecurity measure monitors and filters incoming and outgoing network traffic based on rules?",
+      "options": {
+        "A": "Antivirus",
+        "B": "Encryption",
+        "C": "Firewall",
+        "D": "VPN"
+      },
+      "correctAnswer": "C",
+      "explanation": "Firewall. A firewall enforces security rules on network traffic — blocking unauthorised connections while allowing legitimate ones."
+    },
+    {
+      "id": 59,
+      "question": "Asymmetric encryption uses:",
+      "options": {
+        "A": "One shared secret key",
+        "B": "Two keys — a public key to encrypt, a private key to decrypt",
+        "C": "A password hash only",
+        "D": "XOR cipher only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Two keys — a public key to encrypt, a private key to decrypt. In asymmetric (public-key) cryptography, the public key is shared openly for encryption; only the recipient's private key can decrypt."
+    },
+    {
+      "id": 60,
+      "question": "A DDoS attack works by:",
+      "options": {
+        "A": "Stealing user credentials from a database",
+        "B": "Flooding a target server with traffic from many compromised machines until it becomes unavailable",
+        "C": "Installing hidden keylogging software",
+        "D": "Intercepting encrypted communications"
+      },
+      "correctAnswer": "B",
+      "explanation": "Flooding a target server with traffic from many compromised machines until it becomes unavailable. DDoS (Distributed Denial of Service) uses a botnet to overwhelm server resources, denying service to legitimate users."
+    },
+    {
+      "id": 61,
+      "question": "Phishing attacks primarily work by:",
+      "options": {
+        "A": "Brute-forcing passwords",
+        "B": "Exploiting OS vulnerabilities",
+        "C": "Deceiving users into revealing credentials via fake emails or websites",
+        "D": "Injecting malicious SQL queries"
+      },
+      "correctAnswer": "C",
+      "explanation": "Deceiving users into revealing credentials via fake emails or websites. Phishing impersonates trusted organisations — fake login pages or urgent emails trick users into submitting passwords or financial details."
+    },
+    {
+      "id": 62,
+      "question": "Social engineering attacks primarily target:",
+      "options": {
+        "A": "Router firmware",
+        "B": "Human psychology — manipulating people into revealing sensitive information",
+        "C": "Database encryption",
+        "D": "Hardware components"
+      },
+      "correctAnswer": "B",
+      "explanation": "Human psychology — manipulating people into revealing sensitive information. Social engineering exploits human trust, fear, or urgency rather than technical vulnerabilities — the human is the weakest link."
+    },
+    {
+      "id": 63,
+      "question": "Which of the following BEST describes a VPN?",
+      "options": {
+        "A": "A type of firewall for blocking ads",
+        "B": "A dedicated physical cable connection",
+        "C": "A service that creates an encrypted tunnel for internet traffic, masking the user's IP",
+        "D": "A wireless protocol"
+      },
+      "correctAnswer": "C",
+      "explanation": "A service that creates an encrypted tunnel for internet traffic, masking the user's IP. A VPN encrypts all traffic between your device and the VPN server — protecting privacy and bypassing geographic restrictions."
+    },
+    {
+      "id": 64,
+      "question": "HTTPS differs from HTTP in that it:",
+      "options": {
+        "A": "Loads pages faster",
+        "B": "Uses port 80",
+        "C": "Encrypts data in transit using SSL/TLS",
+        "D": "Only works on mobile browsers"
+      },
+      "correctAnswer": "C",
+      "explanation": "Encrypts data in transit using SSL/TLS. HTTPS adds SSL/TLS encryption to HTTP — all data exchanged between browser and server is encrypted, protecting against eavesdropping."
+    },
+    {
+      "id": 65,
+      "question": "A computer worm differs from a virus in that a worm:",
+      "options": {
+        "A": "Requires a host file to spread",
+        "B": "Deletes files only",
+        "C": "Self-replicates across networks without needing a host file or user action",
+        "D": "Only attacks databases"
+      },
+      "correctAnswer": "C",
+      "explanation": "Self-replicates across networks without needing a host file or user action. Worms exploit network vulnerabilities to spread autonomously — no user interaction or host file required, unlike traditional viruses."
+    },
+    {
+      "id": 66,
+      "question": "SQL Injection is an attack that:",
+      "options": {
+        "A": "Overloads a server with requests",
+        "B": "Inserts malicious SQL code into input fields to manipulate a database",
+        "C": "Encrypts a victim's database for ransom",
+        "D": "Spoofs DNS records"
+      },
+      "correctAnswer": "B",
+      "explanation": "Inserts malicious SQL code into input fields to manipulate a database. SQL Injection exploits poorly validated input fields — attackers inject SQL commands to read, modify, or delete database records."
+    },
+    {
+      "id": 67,
+      "question": "What does SSL/TLS stand for?",
+      "options": {
+        "A": "Secure Server Link / Transport Layer Security",
+        "B": "Secure Sockets Layer / Transport Layer Security",
+        "C": "System Security Layer / Terminal Layer Security",
+        "D": "Shared Socket Link / Trusted Layer Service"
+      },
+      "correctAnswer": "B",
+      "explanation": "Secure Sockets Layer / Transport Layer Security. SSL (now superseded by TLS) provides cryptographic security for internet communications — the foundation of HTTPS."
+    },
+    {
+      "id": 68,
+      "question": "Which of the following BEST describes a digital certificate?",
+      "options": {
+        "A": "A government-issued ID for computer users",
+        "B": "An electronic document that verifies the identity of a website and enables encrypted connections",
+        "C": "A type of antivirus software",
+        "D": "A hardware security module"
+      },
+      "correctAnswer": "B",
+      "explanation": "An electronic document that verifies the identity of a website and enables encrypted connections. Digital certificates are issued by Certificate Authorities (CAs) — they bind a public key to an organisation's verified identity, enabling HTTPS."
+    }
+  ],
+  "subject": "cs"
+}

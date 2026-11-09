@@ -1,0 +1,668 @@
+{
+  "chapterNumber": 2,
+  "chapterTitle": "Chapter 2: Computational Thinking & Algorithms",
+  "totalQuestions": 55,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A computational artifact is best described as:",
+      "options": {
+        "A": "A programming bug",
+        "B": "Any item created using a computer or computational process",
+        "C": "A hardware component",
+        "D": "A network protocol"
+      },
+      "correctAnswer": "B",
+      "explanation": "Any item created using a computer or computational process. Explanation: Computational artifacts include programs, images, audio files, spreadsheets — any digital creation produced through computing."
+    },
+    {
+      "id": 2,
+      "question": "Which is the CORRECT order of steps when designing an algorithm? Prepared By: Aryan Ali | Teacher: Sabahat-Ul-Hasan | Academic Year 2025 – 2026 | Page 1 CLASS 11 COMPUTER SCIENCE | CHAPTER 2: COMPUTATIONAL THINKING & ALGORITHMS | FBISE ALIGNED",
+      "options": {
+        "A": "Code → Test → Design → Analyse",
+        "B": "Analyse → Design → Code → Test",
+        "C": "Test → Code → Analyse → Design",
+        "D": "Design → Analyse → Test → Code"
+      },
+      "correctAnswer": "B",
+      "explanation": "Analyse → Design → Code → Test. Explanation: The problem is first analysed, then a solution is designed, then coded, then tested with various inputs."
+    },
+    {
+      "id": 3,
+      "question": "Pseudocode differs from actual code in that it:",
+      "options": {
+        "A": "Uses only binary instructions",
+        "B": "Is written in natural-language-like steps without strict syntax rules",
+        "C": "Can be compiled directly by a computer",
+        "D": "Requires a specific programming language"
+      },
+      "correctAnswer": "B",
+      "explanation": "Is written in natural-language-like steps without strict syntax rules. Explanation: Pseudocode is an informal, language-independent description of an algorithm — it communicates logic without rigid syntax."
+    },
+    {
+      "id": 4,
+      "question": "Algorithm tracing involves:",
+      "options": {
+        "A": "Drawing flowcharts only",
+        "B": "Manually stepping through an algorithm with sample input to verify its correctness",
+        "C": "Running code on a computer",
+        "D": "Measuring execution speed"
+      },
+      "correctAnswer": "B",
+      "explanation": "Manually stepping through an algorithm with sample input to verify its correctness. Explanation: Tracing manually executes each step on paper, tracking variable values at every step, to confirm the algorithm produces correct output."
+    },
+    {
+      "id": 5,
+      "question": "Which two criteria are primarily used to evaluate algorithm efficiency?",
+      "options": {
+        "A": "Colour scheme and font size",
+        "B": "Time complexity and space complexity",
+        "C": "Number of programmers involved",
+        "D": "Programming language used"
+      },
+      "correctAnswer": "B",
+      "explanation": "Time complexity and space complexity. Explanation: Time complexity measures how execution time grows with input size; space complexity measures memory usage."
+    },
+    {
+      "id": 6,
+      "question": "In a flowchart, the diamond shape represents:",
+      "options": {
+        "A": "A process step",
+        "B": "An input or output operation",
+        "C": "A decision point (Yes/No condition)",
+        "D": "The start or end of the algorithm"
+      },
+      "correctAnswer": "C",
+      "explanation": "A decision point (Yes/No condition). Explanation: The diamond (rhombus) symbol represents a decision — it has two exits labelled Yes/True and No/False."
+    },
+    {
+      "id": 7,
+      "question": "Time complexity O(1) means:",
+      "options": {
+        "A": "The algorithm takes exactly 1 second",
+        "B": "Execution time grows linearly",
+        "C": "Execution time is constant regardless of input size",
+        "D": "The algorithm uses 1 byte of memory"
+      },
+      "correctAnswer": "C",
+      "explanation": "Execution time is constant regardless of input size. Explanation: O(1) — constant time — means the algorithm always takes the same time no matter how large the input is."
+    },
+    {
+      "id": 8,
+      "question": "Abstraction in computational thinking means: Prepared By: Aryan Ali | Teacher: Sabahat-Ul-Hasan | Academic Year 2025 – 2026 | Page 2 CLASS 11 COMPUTER SCIENCE | CHAPTER 2: COMPUTATIONAL THINKING & ALGORITHMS | FBISE ALIGNED",
+      "options": {
+        "A": "Writing detailed low-level code",
+        "B": "Focusing only on the essential details relevant to the problem, ignoring irrelevant complexity",
+        "C": "Dividing a problem into smaller parts",
+        "D": "Testing each module separately"
+      },
+      "correctAnswer": "B",
+      "explanation": "Focusing only on the essential details relevant to the problem, ignoring irrelevant complexity. Explanation: Abstraction hides unnecessary detail — a programmer using a sort() function does not need to know how it works internally."
+    },
+    {
+      "id": 9,
+      "question": "Decomposition in computational thinking means:",
+      "options": {
+        "A": "Removing redundant lines of code",
+        "B": "Breaking a complex problem into smaller, manageable sub-problems",
+        "C": "Sorting data into groups",
+        "D": "Compiling source code"
+      },
+      "correctAnswer": "B",
+      "explanation": "Breaking a complex problem into smaller, manageable sub-problems. Explanation: Decomposition makes large problems manageable — sub-problems can be solved independently and their solutions combined."
+    },
+    {
+      "id": 10,
+      "question": "A good algorithm must be all of the following EXCEPT:",
+      "options": {
+        "A": "Finite — it must eventually terminate",
+        "B": "Unambiguous — each step must be clearly defined",
+        "C": "Infinitely recursive — it must call itself endlessly",
+        "D": "Correct — it must produce the right output for all valid inputs"
+      },
+      "correctAnswer": "C",
+      "explanation": "Infinitely recursive — it must call itself endlessly. Explanation: A good algorithm must terminate, be unambiguous, and produce correct output. Infinite recursion violates the finiteness requirement. Questions 11–25: Expanded Questions ★"
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is NOT an example of a computational artifact? ★",
+      "options": {
+        "A": "A mobile application",
+        "B": "A simulation program",
+        "C": "A physical textbook",
+        "D": "A database system"
+      },
+      "correctAnswer": "C",
+      "explanation": "A physical textbook. Explanation: Computational artifacts are human-made digital objects created using computational thinking — programs, databases, simulations, websites, etc. A physical textbook is not a computational artifact."
+    },
+    {
+      "id": 12,
+      "question": "In the context of software development, what is the PRIMARY purpose of computational artifacts created BEFORE the coding phase? ★",
+      "options": {
+        "A": "To replace the final software product",
+        "B": "To define and communicate the behavior of software without coding complexity",
+        "C": "To test hardware performance",
+        "D": "To install development tools"
+      },
+      "correctAnswer": "B",
+      "explanation": "To define and communicate the behavior of software without coding complexity. Explanation: Pre-coding artifacts such as flowcharts, pseudocode, and algorithms define software behavior through control sequences, helping developers understand the system before writing actual code."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following best defines an algorithm? ★",
+      "options": {
+        "A": "A programming language used to write software Prepared By: Aryan Ali | Teacher: Sabahat-Ul-Hasan | Academic Year 2025 – 2026 | Page 3 CLASS 11 COMPUTER SCIENCE | CHAPTER 2: COMPUTATIONAL THINKING & ALGORITHMS | FBISE ALIGNED",
+        "B": "A step-by-step set of instructions to solve a specific problem",
+        "C": "A diagram showing data flow in a system",
+        "D": "A tool used to debug programs"
+      },
+      "correctAnswer": "B",
+      "explanation": "A step-by-step set of instructions to solve a specific problem. Explanation: An algorithm is a finite, unambiguous, step-by-step set of instructions that defines how a problem should be solved, independent of any specific programming language."
+    },
+    {
+      "id": 14,
+      "question": "Pseudocode uses which of the following to represent structure clearly? ★",
+      "options": {
+        "A": "Binary notation",
+        "B": "Consistent indentation and keyword conventions",
+        "C": "Machine-level instructions",
+        "D": "Hexadecimal codes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Consistent indentation and keyword conventions. Explanation: Pseudocode uses indentation to show nesting and structure, and uppercase keywords like IF, FOR, WHILE to distinguish control structures from variable names."
+    },
+    {
+      "id": 15,
+      "question": "During algorithm tracing, what is meant by 'initialization'? ★",
+      "options": {
+        "A": "Running the algorithm on a computer",
+        "B": "Setting variables and data structures to their starting values before execution begins",
+        "C": "Drawing the flowchart of the algorithm",
+        "D": "Writing the final code"
+      },
+      "correctAnswer": "B",
+      "explanation": "Setting variables and data structures to their starting values before execution begins. Explanation: Initialization sets up the algorithm in its clean starting state — variables are given their initial values so that tracing begins from a known, consistent point."
+    },
+    {
+      "id": 16,
+      "question": "Which flowchart symbol represents the START or END of a process? ★",
+      "options": {
+        "A": "Rectangle",
+        "B": "Diamond",
+        "C": "Parallelogram",
+        "D": "Oval (Rounded rectangle)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Oval (Rounded rectangle). Explanation: The oval or rounded rectangle (also called a terminator) represents the start or end point of a flowchart. Rectangles are process steps, parallelograms are input/output, and diamonds are decisions."
+    },
+    {
+      "id": 17,
+      "question": "A flowchart is most useful for which of the following tasks? ★",
+      "options": {
+        "A": "Writing low-level machine code",
+        "B": "Representing flow of logic and decisions visually, especially for complex loops",
+        "C": "Measuring execution time of algorithms",
+        "D": "Declaring variable data types"
+      },
+      "correctAnswer": "B",
+      "explanation": "Representing flow of logic and decisions visually, especially for complex loops. Explanation: Flowcharts provide a graphical representation of algorithm logic using standard symbols, making complex decision structures and loops easier to understand and communicate."
+    },
+    {
+      "id": 18,
+      "question": "Which evaluation parameter focuses on how easily another developer can read and understand an algorithm? ★",
+      "options": {
+        "A": "Efficiency",
+        "B": "Reliability",
+        "C": "Clarity",
+        "D": "Correctness"
+      },
+      "correctAnswer": "C",
+      "explanation": "Clarity. Prepared By: Aryan Ali | Teacher: Sabahat-Ul-Hasan | Academic Year 2025 – 2026 | Page 4 CLASS 11 COMPUTER SCIENCE | CHAPTER 2: COMPUTATIONAL THINKING & ALGORITHMS | FBISE ALIGNED Explanation: Clarity refers to how easily an algorithm's logic and steps can be understood by humans involved in software development. An algorithm may be correct but still score poorly on clarity if its logic is hard to follow."
+    },
+    {
+      "id": 19,
+      "question": "An algorithm that always produces correct results for every valid input is said to have which property? ★",
+      "options": {
+        "A": "Efficiency",
+        "B": "Reliability",
+        "C": "Clarity",
+        "D": "Correctness"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correctness. Explanation: Correctness is the most fundamental evaluation parameter — an algorithm must produce the desired output for ALL possible valid inputs, not just some of them."
+    },
+    {
+      "id": 20,
+      "question": "Which of the following describes 'space complexity' of an algorithm? ★",
+      "options": {
+        "A": "The number of lines of code written",
+        "B": "The amount of memory required to run the algorithm",
+        "C": "The time taken to compile the source code",
+        "D": "The number of decisions in the algorithm"
+      },
+      "correctAnswer": "B",
+      "explanation": "The amount of memory required to run the algorithm. Explanation: Space complexity measures how much memory an algorithm needs as input size grows. It is evaluated alongside time complexity to assess overall efficiency."
+    },
+    {
+      "id": 21,
+      "question": "In computational thinking, 'pattern recognition' refers to: ★",
+      "options": {
+        "A": "Drawing flowcharts",
+        "B": "Identifying similarities, trends, or regularities across problems",
+        "C": "Writing pseudocode",
+        "D": "Choosing the correct data structure"
+      },
+      "correctAnswer": "B",
+      "explanation": "Identifying similarities, trends, or regularities across problems. Explanation: Pattern recognition is one of the four pillars of computational thinking. Recognizing repeated patterns allows a programmer to reuse solutions and avoid solving the same problem from scratch."
+    },
+    {
+      "id": 22,
+      "question": "Which step in planning a computational artifact involves choosing arrays, stacks, or queues? ★",
+      "options": {
+        "A": "Defining the problem",
+        "B": "Choosing data structures",
+        "C": "Testing the algorithm",
+        "D": "Describing input/output"
+      },
+      "correctAnswer": "B",
+      "explanation": "Choosing data structures. Explanation: During the planning phase, the appropriate data structure is selected based on the requirements of the problem. Arrays, stacks, and queues each have different strengths depending on how data needs to be stored and accessed."
+    },
+    {
+      "id": 23,
+      "question": "Control structures in algorithm design are used to: ★",
+      "options": {
+        "A": "Draw flowcharts automatically",
+        "B": "Determine the order of program execution by skipping or repeating steps",
+        "C": "Convert pseudocode to actual code",
+        "D": "Calculate time complexity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Determine the order of program execution by skipping or repeating steps. Explanation: Control structures alter the sequential flow of execution. Conditional statements skip certain steps, and loops repeat steps — both are essential for building algorithms that respond to different situations."
+    },
+    {
+      "id": 24,
+      "question": "Testing a computational artifact should include checking for: ★ Prepared By: Aryan Ali | Teacher: Sabahat-Ul-Hasan | Academic Year 2025 – 2026 | Page 5 CLASS 11 COMPUTER SCIENCE | CHAPTER 2: COMPUTATIONAL THINKING & ALGORITHMS | FBISE ALIGNED",
+      "options": {
+        "A": "Only valid, expected inputs",
+        "B": "Only invalid or out-of-range inputs",
+        "C": "Both valid inputs and potential edge cases including invalid data",
+        "D": "Only the final output value"
+      },
+      "correctAnswer": "C",
+      "explanation": "Both valid inputs and potential edge cases including invalid data. Explanation: Thorough testing includes valid inputs to verify correct behavior and edge cases or invalid inputs to check robustness. Testing is an iterative process that leads to refinement of the artifact."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is a correct assignment operator commonly used in pseudocode? ★",
+      "options": {
+        "A": "==",
+        "B": "=>",
+        "C": "<- or :=",
+        "D": "&&"
+      },
+      "correctAnswer": "C",
+      "explanation": "<- or :=. Explanation: In pseudocode, the assignment operator is typically written as <- or := to distinguish assignment from equality checking (==). For example: sum <- num1 + num2."
+    },
+    {
+      "id": 26,
+      "question": "In Bubble Sort, after the FIRST complete pass through an array of n elements:",
+      "options": {
+        "A": "The array is fully sorted",
+        "B": "The smallest element is at the beginning",
+        "C": "The largest element is in its correct final position",
+        "D": "All elements are in sorted order"
+      },
+      "correctAnswer": "C",
+      "explanation": "The largest element is in its correct final position. Explanation: Each pass in Bubble Sort 'bubbles' the current largest unsorted element to its correct position at the end."
+    },
+    {
+      "id": 27,
+      "question": "Which sorting algorithm works by selecting the minimum element from the unsorted portion and placing it at the front?",
+      "options": {
+        "A": "Bubble Sort",
+        "B": "Insertion Sort",
+        "C": "Selection Sort",
+        "D": "Merge Sort"
+      },
+      "correctAnswer": "C",
+      "explanation": "Selection Sort. Explanation: Selection Sort repeatedly finds the minimum in the unsorted portion and swaps it to the front of that portion."
+    },
+    {
+      "id": 28,
+      "question": "Binary Search requires the data to be:",
+      "options": {
+        "A": "In random order",
+        "B": "Sorted in ascending or descending order",
+        "C": "Stored in a linked list",
+        "D": "Stored as binary numbers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sorted in ascending or descending order. Explanation: Binary Search works only on sorted data — it compares the target to the middle element and eliminates half the search space each step. Prepared By: Aryan Ali | Teacher: Sabahat-Ul-Hasan | Academic Year 2025 – 2026 | Page 6 CLASS 11 COMPUTER SCIENCE | CHAPTER 2: COMPUTATIONAL THINKING & ALGORITHMS | FBISE ALIGNED"
+    },
+    {
+      "id": 29,
+      "question": "What is the time complexity of Linear Search in the worst case?",
+      "options": {
+        "A": "O(1)",
+        "B": "O(log n)",
+        "C": "O(n)",
+        "D": "O(n²)"
+      },
+      "correctAnswer": "C",
+      "explanation": "O(n). Explanation: In the worst case, Linear Search checks every element — n comparisons for n elements, giving O(n) complexity."
+    },
+    {
+      "id": 30,
+      "question": "Insertion Sort builds the sorted array by:",
+      "options": {
+        "A": "Swapping adjacent elements repeatedly",
+        "B": "Dividing and merging sub-arrays",
+        "C": "Taking each element and inserting it into its correct position in the already-sorted portion",
+        "D": "Selecting the minimum each pass"
+      },
+      "correctAnswer": "C",
+      "explanation": "Taking each element and inserting it into its correct position in the already-sorted portion. Explanation: Insertion Sort maintains a growing sorted section on the left, inserting each element into its correct position — like sorting playing cards."
+    },
+    {
+      "id": 31,
+      "question": "Binary Search has a time complexity of:",
+      "options": {
+        "A": "O(n)",
+        "B": "O(n²)",
+        "C": "O(log n)",
+        "D": "O(1)"
+      },
+      "correctAnswer": "C",
+      "explanation": "O(log n). Explanation: Binary Search halves the search space each step — after k steps, only n/2^k elements remain. This gives O(log n) complexity."
+    },
+    {
+      "id": 32,
+      "question": "Which sorting algorithm is most efficient on a nearly-sorted array?",
+      "options": {
+        "A": "Selection Sort",
+        "B": "Merge Sort",
+        "C": "Insertion Sort",
+        "D": "Bubble Sort"
+      },
+      "correctAnswer": "C",
+      "explanation": "Insertion Sort. Explanation: Insertion Sort makes very few comparisons on nearly-sorted data — it can approach O(n) in the best case."
+    },
+    {
+      "id": 33,
+      "question": "Merge Sort works by:",
+      "options": {
+        "A": "Selecting a pivot and partitioning",
+        "B": "Inserting elements one by one",
+        "C": "Recursively dividing the array in half then merging sorted halves",
+        "D": "Scanning for the minimum element each pass"
+      },
+      "correctAnswer": "C",
+      "explanation": "Recursively dividing the array in half then merging sorted halves. Explanation: Merge Sort is a divide-and-conquer algorithm — it splits until single elements remain, then merges pairs in sorted order, bottom-up."
+    },
+    {
+      "id": 34,
+      "question": "What is the worst-case time complexity of Bubble Sort?",
+      "options": {
+        "A": "O(n log n)",
+        "B": "O(n)",
+        "C": "O(n²)",
+        "D": "O(log n)"
+      },
+      "correctAnswer": "C",
+      "explanation": "O(n²). Explanation: Worst case (reverse-sorted): Bubble Sort makes n(n-1)/2 comparisons, giving O(n²)."
+    },
+    {
+      "id": 35,
+      "question": "Linear Search and Binary Search differ primarily in that Binary Search: Prepared By: Aryan Ali | Teacher: Sabahat-Ul-Hasan | Academic Year 2025 – 2026 | Page 7 CLASS 11 COMPUTER SCIENCE | CHAPTER 2: COMPUTATIONAL THINKING & ALGORITHMS | FBISE ALIGNED",
+      "options": {
+        "A": "Works on unsorted data",
+        "B": "Checks every element one by one",
+        "C": "Requires sorted data and eliminates half the remaining data per step",
+        "D": "Is always slower than Linear Search"
+      },
+      "correctAnswer": "C",
+      "explanation": "Requires sorted data and eliminates half the remaining data per step. Explanation: Binary Search trades the sorting requirement for dramatically better O(log n) efficiency on large datasets."
+    },
+    {
+      "id": 36,
+      "question": "What is the average-case time complexity of Merge Sort?",
+      "options": {
+        "A": "O(n²)",
+        "B": "O(n)",
+        "C": "O(n log n)",
+        "D": "O(log n)"
+      },
+      "correctAnswer": "C",
+      "explanation": "O(n log n). Explanation: Merge Sort always divides log n levels deep and does O(n) work per level — giving O(n log n) in all cases: best, average, and worst."
+    },
+    {
+      "id": 37,
+      "question": "Which sorting algorithm chooses a 'pivot' element and partitions the array around it?",
+      "options": {
+        "A": "Merge Sort",
+        "B": "Insertion Sort",
+        "C": "Quick Sort",
+        "D": "Selection Sort"
+      },
+      "correctAnswer": "C",
+      "explanation": "Quick Sort. Explanation: Quick Sort picks a pivot, places smaller elements to its left and larger elements to its right, then recursively sorts each partition."
+    },
+    {
+      "id": 38,
+      "question": "A sorting algorithm is considered 'stable' if:",
+      "options": {
+        "A": "It always runs in O(n log n) time",
+        "B": "It preserves the relative order of equal elements",
+        "C": "It uses no extra memory",
+        "D": "It requires sorted input"
+      },
+      "correctAnswer": "B",
+      "explanation": "It preserves the relative order of equal elements. Explanation: Stability matters when sorting records by multiple fields — Merge Sort is stable; Quick Sort and Selection Sort are generally not."
+    },
+    {
+      "id": 39,
+      "question": "What is the best-case time complexity of Bubble Sort (with early termination)?",
+      "options": {
+        "A": "O(n²)",
+        "B": "O(n log n)",
+        "C": "O(n)",
+        "D": "O(1)"
+      },
+      "correctAnswer": "C",
+      "explanation": "O(n). Explanation: With early termination: if no swaps occur in a full pass, the array is already sorted and the algorithm stops — giving O(n) for an already-sorted array."
+    },
+    {
+      "id": 40,
+      "question": "For a dataset of 1,000,000 sorted elements, how many comparisons does Binary Search need in the worst case?",
+      "options": {
+        "A": "1,000,000",
+        "B": "500,000",
+        "C": "About 20",
+        "D": "About 1,000"
+      },
+      "correctAnswer": "C",
+      "explanation": "About 20. Explanation: log₂(1,000,000) ≈ 19.9 — Binary Search needs at most ~20 comparisons, compared to up to 1,000,000 for Linear Search. Prepared By: Aryan Ali | Teacher: Sabahat-Ul-Hasan | Academic Year 2025 – 2026 | Page 8 CLASS 11 COMPUTER SCIENCE | CHAPTER 2: COMPUTATIONAL THINKING & ALGORITHMS | FBISE ALIGNED Questions 16–30: Expanded Questions ★"
+    },
+    {
+      "id": 41,
+      "question": "In Insertion Sort, what happens when the current element is already in its correct position? ★",
+      "options": {
+        "A": "It is deleted from the array",
+        "B": "No shifting occurs; the algorithm moves to the next element",
+        "C": "It is swapped with the last element",
+        "D": "The algorithm restarts"
+      },
+      "correctAnswer": "B",
+      "explanation": "No shifting occurs; the algorithm moves to the next element. Explanation: Insertion Sort only shifts elements when the current element is smaller than elements in the sorted portion. If it is already in the correct position, no work is done and the algorithm moves forward — this is why it is efficient on nearly-sorted data."
+    },
+    {
+      "id": 42,
+      "question": "Which searching algorithm is best suited for a small, unsorted list? ★",
+      "options": {
+        "A": "Binary Search",
+        "B": "Jump Search",
+        "C": "Linear Search",
+        "D": "Interpolation Search"
+      },
+      "correctAnswer": "C",
+      "explanation": "Linear Search. Explanation: Linear Search does not require sorted data and works well on small lists. Binary Search requires sorted data, making Linear Search the practical choice for small or unsorted collections."
+    },
+    {
+      "id": 43,
+      "question": "In Bubble Sort, how many passes are required to completely sort an array of n elements in the worst case? ★",
+      "options": {
+        "A": "1",
+        "B": "n",
+        "C": "n - 1",
+        "D": "log n"
+      },
+      "correctAnswer": "C",
+      "explanation": "n - 1. Explanation: Bubble Sort needs at most n - 1 passes to sort n elements. After each pass, the next largest element settles in its correct position, reducing the unsorted portion by one."
+    },
+    {
+      "id": 44,
+      "question": "Which of the following describes the divide-and-conquer strategy used in Binary Search? ★",
+      "options": {
+        "A": "The list is divided into three equal parts",
+        "B": "The search space is halved at each step by comparing with the middle element",
+        "C": "Every element is checked from left to right",
+        "D": "Elements are rearranged before searching"
+      },
+      "correctAnswer": "B",
+      "explanation": "The search space is halved at each step by comparing with the middle element. Explanation: Binary Search applies the divide-and-conquer principle: compare the target with the middle element, then discard the half where the target cannot be found. This halving reduces the problem size logarithmically."
+    },
+    {
+      "id": 45,
+      "question": "If Binary Search is applied to an unsorted array, what will happen? ★",
+      "options": {
+        "A": "It will always find the correct element Prepared By: Aryan Ali | Teacher: Sabahat-Ul-Hasan | Academic Year 2025 – 2026 | Page 9 CLASS 11 COMPUTER SCIENCE | CHAPTER 2: COMPUTATIONAL THINKING & ALGORITHMS | FBISE ALIGNED",
+        "B": "It may return a wrong result or fail to find the element",
+        "C": "It will automatically sort the array first",
+        "D": "It will take O(n) time instead of O(log n)"
+      },
+      "correctAnswer": "B",
+      "explanation": "It may return a wrong result or fail to find the element. Explanation: Binary Search relies on the sorted order of elements to make decisions about which half to discard. Applying it to an unsorted array violates this assumption and produces unreliable results."
+    },
+    {
+      "id": 46,
+      "question": "What does Binary Search return if the target element is NOT found in the array? ★",
+      "options": {
+        "A": "The index 0",
+        "B": "The middle index",
+        "C": "NULL or -1 (indicating not found)",
+        "D": "The last index"
+      },
+      "correctAnswer": "C",
+      "explanation": "NULL or -1 (indicating not found). Explanation: When Binary Search exhausts the search space without finding the target, it returns NULL or -1 to signal that the element is not present in the array."
+    },
+    {
+      "id": 47,
+      "question": "In the context of computational thinking, Bubble Sort can be described as which type of algorithm approach? ★",
+      "options": {
+        "A": "Divide-and-conquer",
+        "B": "Greedy",
+        "C": "Iterative comparison and swap",
+        "D": "Dynamic programming"
+      },
+      "correctAnswer": "C",
+      "explanation": "Iterative comparison and swap. Explanation: Bubble Sort repeatedly compares adjacent pairs and swaps them if out of order. This iterative process continues until no swaps are needed, confirming the array is sorted."
+    },
+    {
+      "id": 48,
+      "question": "Which of the following is an advantage of Insertion Sort over Bubble Sort for real-world use? ★",
+      "options": {
+        "A": "Insertion Sort has a better worst-case complexity",
+        "B": "Insertion Sort is faster on nearly-sorted data and performs fewer writes",
+        "C": "Insertion Sort works on unsorted data only",
+        "D": "Insertion Sort requires no comparisons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Insertion Sort is faster on nearly-sorted data and performs fewer writes. Explanation: Insertion Sort is more efficient in practice for small or nearly-sorted datasets because it minimizes unnecessary writes. It shifts elements only as far as needed, whereas Bubble Sort makes many redundant swaps."
+    },
+    {
+      "id": 49,
+      "question": "An array contains the elements: [10, 25, 38, 47, 59, 72, 81]. Using Binary Search for target 47, which element is compared FIRST? ★",
+      "options": {
+        "A": "10",
+        "B": "47",
+        "C": "38",
+        "D": "59"
+      },
+      "correctAnswer": "C",
+      "explanation": "38. Explanation: The middle element of a 7-element array is at index 3 (0-indexed), which is 38. Since 47 > 38, the search continues in the right half. The middle element is always checked first in Binary Search."
+    },
+    {
+      "id": 50,
+      "question": "What is the primary disadvantage of Linear Search compared to Binary Search? ★",
+      "options": {
+        "A": "Linear Search cannot handle duplicate values",
+        "B": "Linear Search is slower on large sorted datasets because it checks every element",
+        "C": "Linear Search requires sorted input",
+        "D": "Linear Search uses more memory Prepared By: Aryan Ali | Teacher: Sabahat-Ul-Hasan | Academic Year 2025 – 2026 | Page 10 CLASS 11 COMPUTER SCIENCE | CHAPTER 2: COMPUTATIONAL THINKING & ALGORITHMS | FBISE ALIGNED"
+      },
+      "correctAnswer": "B",
+      "explanation": "Linear Search is slower on large sorted datasets because it checks every element. Explanation: Linear Search has O(n) complexity — it may need to check every element. On large sorted datasets, Binary Search's O(log n) complexity is dramatically faster."
+    },
+    {
+      "id": 51,
+      "question": "Which algorithm is most appropriate for sorting a shelf of books one at a time as they are returned to a library? ★",
+      "options": {
+        "A": "Bubble Sort",
+        "B": "Merge Sort",
+        "C": "Insertion Sort",
+        "D": "Binary Search"
+      },
+      "correctAnswer": "C",
+      "explanation": "Insertion Sort. Explanation: Insertion Sort mimics the natural process of placing each item into its correct position within an already-ordered collection. Adding books one by one to a sorted shelf matches this approach perfectly."
+    },
+    {
+      "id": 52,
+      "question": "Selection Sort differs from Insertion Sort in that Selection Sort: ★",
+      "options": {
+        "A": "Builds the sorted portion by inserting each element in the correct place",
+        "B": "Compares adjacent elements and swaps them",
+        "C": "Finds the minimum element from the unsorted portion and places it at the beginning",
+        "D": "Divides the array into two halves recursively"
+      },
+      "correctAnswer": "C",
+      "explanation": "Finds the minimum element from the unsorted portion and places it at the beginning. Explanation: Selection Sort scans the entire unsorted portion to find the minimum, then swaps it into position. Insertion Sort, by contrast, takes the next unsorted element and places it in its correct spot within the sorted portion."
+    },
+    {
+      "id": 53,
+      "question": "Which of the following correctly describes 'time complexity' in algorithm evaluation? ★",
+      "options": {
+        "A": "The actual clock time taken by a program to run",
+        "B": "How the execution time of an algorithm grows relative to the size of its input",
+        "C": "The number of lines of code in the algorithm",
+        "D": "The memory used by the algorithm"
+      },
+      "correctAnswer": "B",
+      "explanation": "How the execution time of an algorithm grows relative to the size of its input. Explanation: Time complexity is not measured in actual seconds — it describes how an algorithm's running time scales as the input size increases, allowing comparison across different hardware and environments."
+    },
+    {
+      "id": 54,
+      "question": "For sorting a very large dataset where performance is critical, which algorithm is generally preferred over Bubble Sort? ★",
+      "options": {
+        "A": "Linear Search",
+        "B": "Insertion Sort",
+        "C": "Merge Sort",
+        "D": "Selection Sort"
+      },
+      "correctAnswer": "C",
+      "explanation": "Merge Sort. Explanation: Merge Sort has O(n log n) complexity in all cases, making it significantly faster than Bubble Sort's O(n²) for large datasets. It is the preferred choice when handling large volumes of data."
+    },
+    {
+      "id": 55,
+      "question": "In Binary Search, what happens when the target value is GREATER than the middle element? ★",
+      "options": {
+        "A": "The search stops immediately Prepared By: Aryan Ali | Teacher: Sabahat-Ul-Hasan | Academic Year 2025 – 2026 | Page 11 CLASS 11 COMPUTER SCIENCE | CHAPTER 2: COMPUTATIONAL THINKING & ALGORITHMS | FBISE ALIGNED",
+        "B": "The left half of the remaining array is searched next",
+        "C": "The right half of the remaining array is searched next",
+        "D": "The entire array is restarted from the beginning"
+      },
+      "correctAnswer": "C",
+      "explanation": "The right half of the remaining array is searched next. Explanation: Since the array is sorted in ascending order, if the target is greater than the middle element, the target must be in the right half. Binary Search discards the left half and focuses only on the right."
+    }
+  ],
+  "subject": "cs"
+}

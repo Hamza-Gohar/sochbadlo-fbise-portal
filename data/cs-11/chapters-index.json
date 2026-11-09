@@ -1,0 +1,90 @@
+[
+  {
+    "slug": "cs-chapter-1",
+    "chapterNumber": 1,
+    "title": "Chapter 1: Computer Systems (Hardware, Logic Gates & Architecture)",
+    "totalQuestions": 68,
+    "fileName": "cs-chapter-1.json",
+    "subject": "cs"
+  },
+  {
+    "slug": "cs-chapter-2",
+    "chapterNumber": 2,
+    "title": "Chapter 2: Computational Thinking, Algorithms & Searching",
+    "totalQuestions": 55,
+    "fileName": "cs-chapter-2.json",
+    "subject": "cs"
+  },
+  {
+    "slug": "cs-chapter-3",
+    "chapterNumber": 3,
+    "title": "Chapter 3: Programming Fundamentals & Python Essentials",
+    "totalQuestions": 60,
+    "fileName": "cs-chapter-3.json",
+    "subject": "cs"
+  },
+  {
+    "slug": "cs-chapter-4",
+    "chapterNumber": 4,
+    "title": "Chapter 4: Data Management, Statistics & Analysis",
+    "totalQuestions": 45,
+    "fileName": "cs-chapter-4.json",
+    "subject": "cs"
+  },
+  {
+    "slug": "cs-chapter-5",
+    "chapterNumber": 5,
+    "title": "Chapter 5: Emerging Technologies (AI, Machine Learning & Cloud)",
+    "totalQuestions": 45,
+    "fileName": "cs-chapter-5.json",
+    "subject": "cs"
+  },
+  {
+    "slug": "cs-chapter-6",
+    "chapterNumber": 6,
+    "title": "Chapter 6: Information Systems, Connectivity & Digital Ethics",
+    "totalQuestions": 52,
+    "fileName": "cs-chapter-6.json",
+    "subject": "cs"
+  },
+  {
+    "slug": "cs-chapter-7",
+    "chapterNumber": 7,
+    "title": "Chapter 7: Data Collection Strategies, Research & Modeling",
+    "totalQuestions": 52,
+    "fileName": "cs-chapter-7.json",
+    "subject": "cs"
+  },
+  {
+    "slug": "cs-chapter-8",
+    "chapterNumber": 8,
+    "title": "Chapter 8: Product Development, SDLC & Entrepreneurship",
+    "totalQuestions": 52,
+    "fileName": "cs-chapter-8.json",
+    "subject": "cs"
+  },
+  {
+    "slug": "cs-model-paper-1",
+    "chapterNumber": 9,
+    "title": "Annual Board Examination Section A Simulator 1 (17 Marks)",
+    "totalQuestions": 17,
+    "fileName": "cs-model-paper-1.json",
+    "subject": "cs"
+  },
+  {
+    "slug": "cs-model-paper-2",
+    "chapterNumber": 10,
+    "title": "Annual Board Examination Section A Simulator 2 (17 Marks)",
+    "totalQuestions": 17,
+    "fileName": "cs-model-paper-2.json",
+    "subject": "cs"
+  },
+  {
+    "slug": "cs-model-paper-3",
+    "chapterNumber": 11,
+    "title": "Annual Board Examination Section A Simulator 3 (17 Marks)",
+    "totalQuestions": 17,
+    "fileName": "cs-model-paper-3.json",
+    "subject": "cs"
+  }
+]

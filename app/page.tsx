@@ -9,15 +9,21 @@ export default function HomePage() {
   const urduChapters = getChaptersIndex('urdu');
   const mathChapters = getChaptersIndex('math');
   const englishChapters = getChaptersIndex('english');
+  const csChapters = getChaptersIndex('cs');
 
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const englishTotal = englishChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const csTotal = csChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
 
-  const totalQuestions = physicsTotal + urduTotal + mathTotal + englishTotal;
+  const totalQuestions = physicsTotal + urduTotal + mathTotal + englishTotal + csTotal;
   const totalModules =
-    physicsChapters.length + urduChapters.length + mathChapters.length + englishChapters.length;
+    physicsChapters.length +
+    urduChapters.length +
+    mathChapters.length +
+    englishChapters.length +
+    csChapters.length;
 
   return (
     <div className="min-h-screen flex flex-col justify-between">
@@ -37,7 +43,8 @@ export default function HomePage() {
               </h1>
               <p className="text-base sm:text-lg text-[var(--color-ink-2)] max-w-2xl leading-relaxed font-[family-name:var(--font-body)]">
                 Master Federal Board Intermediate examinations with authentic chapter-wise test series, instant conceptual explanations,
-                English syntax & poetic devices, Urdu literature and rhetoric (علمِ بیان و علمِ بدیع), Mathematics step-by-step problem solving, and timed board exam simulations.
+                English syntax & poetic devices, Urdu literature and rhetoric (علمِ بیان و علمِ بدیع), Mathematics step-by-step problem solving,
+                Computer Science logic & programming, and timed board exam simulations.
               </p>
             </div>
 
@@ -77,6 +84,7 @@ export default function HomePage() {
           urduChapters={urduChapters}
           mathChapters={mathChapters}
           englishChapters={englishChapters}
+          csChapters={csChapters}
         />
 
         {/* Hallmark Editorial Note & Exam Tips */}

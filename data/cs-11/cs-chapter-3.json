@@ -1,0 +1,728 @@
+{
+  "chapterNumber": 3,
+  "chapterTitle": "Chapter 3: Programming Fundamentals & Python",
+  "totalQuestions": 60,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Python is classified as which type of programming language?",
+      "options": {
+        "A": "Low-level assembly language",
+        "B": "Compiled machine language",
+        "C": "High-level interpreted language",
+        "D": "Markup language"
+      },
+      "correctAnswer": "C",
+      "explanation": "High-level interpreted language. Explanation: Python is high-level (English-like syntax) and interpreted — an interpreter translates and executes code line by line at runtime."
+    },
+    {
+      "id": 2,
+      "question": "In Python, which operator returns the remainder of a division?",
+      "options": {
+        "A": "//",
+        "B": "/",
+        "C": "%",
+        "D": "**"
+      },
+      "correctAnswer": "C",
+      "explanation": "%. Explanation: The modulus operator % returns the integer remainder: 10 % 3 = 1, 15 % 4 = 3."
+    },
+    {
+      "id": 3,
+      "question": "What is the correct Python syntax to accept user input as a string?",
+      "options": {
+        "A": "input = read()",
+        "B": "name = input()",
+        "C": "name = scan()",
+        "D": "name = get()"
+      },
+      "correctAnswer": "B",
+      "explanation": "name = input(). Explanation: input() reads a line from standard input and returns it as a string. To get a number, wrap it: int(input())."
+    },
+    {
+      "id": 4,
+      "question": "Python's 'in' and 'not in' are classified as:",
+      "options": {
+        "A": "Arithmetic operators",
+        "B": "Assignment operators",
+        "C": "Membership operators",
+        "D": "Logical operators"
+      },
+      "correctAnswer": "C",
+      "explanation": "Membership operators. Explanation: 'in' checks if a value exists in a sequence (list, string, tuple); 'not in' checks the opposite."
+    },
+    {
+      "id": 5,
+      "question": "Which Python data type stores an ordered, changeable collection that allows duplicates?",
+      "options": {
+        "A": "Tuple",
+        "B": "Set",
+        "C": "Dictionary",
+        "D": "List"
+      },
+      "correctAnswer": "D",
+      "explanation": "List. Explanation: Lists are ordered (indexed), mutable (changeable), and allow duplicates — defined with square brackets []."
+    },
+    {
+      "id": 6,
+      "question": "Which Python data type is immutable and ordered?",
+      "options": {
+        "A": "List",
+        "B": "Set",
+        "C": "Tuple",
+        "D": "Dictionary"
+      },
+      "correctAnswer": "C",
+      "explanation": "Tuple. Explanation: Tuples are ordered and immutable — once created, elements cannot be added, removed, or changed. Defined with ()."
+    },
+    {
+      "id": 7,
+      "question": "What does the len() function return in Python?",
+      "options": {
+        "A": "The last element",
+        "B": "The data type",
+        "C": "The number of elements in a sequence",
+        "D": "The memory address"
+      },
+      "correctAnswer": "C",
+      "explanation": "The number of elements in a sequence. Explanation: len() returns the count of items in a list, string, tuple, or any other sequence."
+    },
+    {
+      "id": 8,
+      "question": "In Python, what is the result of: 5 ** 2?",
+      "options": {
+        "A": "10",
+        "B": "52",
+        "C": "25",
+        "D": "7"
+      },
+      "correctAnswer": "C",
+      "explanation": "25. Explanation: ** is the exponentiation operator. 5 ** 2 = 5² = 25."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following correctly declares a string variable in Python?",
+      "options": {
+        "A": "x = 25",
+        "B": "x = True",
+        "C": "x = \"Hello\"",
+        "D": "x = [1, 2, 3]"
+      },
+      "correctAnswer": "C",
+      "explanation": "x = \"Hello\". Explanation: Strings are text enclosed in quotes. x=25 is int, x=True is bool, x=[1,2,3] is a list."
+    },
+    {
+      "id": 10,
+      "question": "The // operator in Python performs:",
+      "options": {
+        "A": "Modulus division",
+        "B": "Standard division returning float",
+        "C": "Floor (integer) division — discards the remainder",
+        "D": "Exponentiation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Floor (integer) division — discards the remainder. Explanation: // always returns an integer result: 17 // 5 = 3 (not 3.4)."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is a valid Python variable name?",
+      "options": {
+        "A": "2score",
+        "B": "my-score",
+        "C": "my_score",
+        "D": "class"
+      },
+      "correctAnswer": "C",
+      "explanation": "my_score. Explanation: Variable names cannot start with a digit, contain hyphens, or use reserved keywords like 'class'. Underscores are allowed."
+    },
+    {
+      "id": 12,
+      "question": "What is the output of: print(type(3.14)) in Python?",
+      "options": {
+        "A": "<class 'int'>",
+        "B": "<class 'str'>",
+        "C": "<class 'float'>",
+        "D": "<class 'bool'>"
+      },
+      "correctAnswer": "C",
+      "explanation": "<class 'float'>. Explanation: 3.14 is a floating-point number. type() returns the data type — <class 'float'>."
+    },
+    {
+      "id": 13,
+      "question": "What does the string method .upper() do in Python?",
+      "options": {
+        "A": "Converts string to lowercase",
+        "B": "Removes whitespace",
+        "C": "Converts all characters to uppercase",
+        "D": "Reverses the string"
+      },
+      "correctAnswer": "C",
+      "explanation": "Converts all characters to uppercase. Explanation: 'hello'.upper() returns 'HELLO'. String methods do not modify the original — they return a new string."
+    },
+    {
+      "id": 14,
+      "question": "What is the output of: print(\"Python\"[2:5])?",
+      "options": {
+        "A": "Pyt",
+        "B": "tho",
+        "C": "yth",
+        "D": "hon"
+      },
+      "correctAnswer": "B",
+      "explanation": "tho. Explanation: String slicing [2:5] extracts characters at indices 2, 3, 4 (not 5). P=0, y=1, t=2, h=3, o=4 → 'tho'."
+    },
+    {
+      "id": 15,
+      "question": "Which function converts the string '42' into the integer 42 in Python?",
+      "options": {
+        "A": "str()",
+        "B": "float()",
+        "C": "int()",
+        "D": "bool()"
+      },
+      "correctAnswer": "C",
+      "explanation": "int(). Explanation: int('42') converts a string representation of a number to an actual integer. Needed because input() always returns a string. Questions 16–30: Expanded Questions ★"
+    },
+    {
+      "id": 16,
+      "question": "Which of the following best describes a computer program? ★",
+      "options": {
+        "A": "A hardware component that stores data",
+        "B": "A well-defined set of instructions a computer executes to solve a problem",
+        "C": "A physical device for processing images",
+        "D": "A network communication protocol"
+      },
+      "correctAnswer": "B",
+      "explanation": "A well-defined set of instructions a computer executes to solve a problem. Explanation: A computer program is a set of well-defined instructions stored in memory that a processor fetches and executes one at a time to deliver a result."
+    },
+    {
+      "id": 17,
+      "question": "What is the difference between a batch program and an interactive program? ★",
+      "options": {
+        "A": "Batch programs require user input constantly; interactive programs run automatically",
+        "B": "Interactive programs accept continuous user input; batch programs bundle commands and run without user interaction",
+        "C": "Batch programs are written in Python only; interactive programs use C++",
+        "D": "There is no difference between them"
+      },
+      "correctAnswer": "B",
+      "explanation": "Interactive programs accept continuous user input; batch programs bundle commands and run without user interaction. Explanation: Interactive programs respond to real-time user input at each step. Batch programs group a set of commands together, process them all at once, and then halt — like a print job queue."
+    },
+    {
+      "id": 18,
+      "question": "Python was first introduced in which year? ★",
+      "options": {
+        "A": "1985",
+        "B": "1992",
+        "C": "2000",
+        "D": "2008"
+      },
+      "correctAnswer": "B",
+      "explanation": "1992. Explanation: Python was first introduced in 1992. It was designed to be simple to write and comprehend, making it ideal for rapid development."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is NOT a reason for Python's widespread popularity? ★",
+      "options": {
+        "A": "Its syntax is similar to English",
+        "B": "It is an open-source language",
+        "C": "It can only be used for game development",
+        "D": "It supports machine learning and data analytics"
+      },
+      "correctAnswer": "C",
+      "explanation": "It can only be used for game development. Explanation: Python is a general-purpose language used in data analytics, machine learning, web development, graphic design, education, and game development. Limiting it to games is incorrect."
+    },
+    {
+      "id": 20,
+      "question": "What does the eval() function do in Python? ★",
+      "options": {
+        "A": "Evaluates and executes a string as a Python expression",
+        "B": "Converts a string to uppercase",
+        "C": "Checks whether a variable is defined",
+        "D": "Returns the length of a string"
+      },
+      "correctAnswer": "A",
+      "explanation": "Evaluates and executes a string as a Python expression. Explanation: eval() evaluates expressions given as strings, commonly used with input() to convert user-entered numbers from string to their numeric value for arithmetic operations."
+    },
+    {
+      "id": 21,
+      "question": "In Python, which of the following is used to install external packages? ★",
+      "options": {
+        "A": "import",
+        "B": "compile",
+        "C": "pip",
+        "D": "run"
+      },
+      "correctAnswer": "C",
+      "explanation": "pip. Explanation: pip is Python's package manager. It installs external libraries and automatically handles dependencies. For example: pip install datetime installs the datetime package."
+    },
+    {
+      "id": 22,
+      "question": "A logical bug (bug) in a program is best described as: ★",
+      "options": {
+        "A": "A syntax error caught by the compiler",
+        "B": "An error where the code runs but produces an unintended or wrong result",
+        "C": "A missing import statement",
+        "D": "A hardware failure during execution"
+      },
+      "correctAnswer": "B",
+      "explanation": "An error where the code runs but produces an unintended or wrong result. Explanation: A logical bug causes the program to run without crashing but produce incorrect results. It is hard to detect just by reading the code and is often found through dry-running or debugging."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following Python variable naming rules is CORRECT? ★",
+      "options": {
+        "A": "Variable names can start with a number",
+        "B": "Variable names are case-insensitive",
+        "C": "Variable names can contain underscores and are case-sensitive",
+        "D": "Variable names can contain spaces"
+      },
+      "correctAnswer": "C",
+      "explanation": "Variable names can contain underscores and are case-sensitive. Explanation: Python variable names are case-sensitive ('Num' and 'num' are different), can include underscores, must start with a letter or underscore, and cannot contain spaces."
+    },
+    {
+      "id": 24,
+      "question": "What is the purpose of the Turtle library in Python? ★",
+      "options": {
+        "A": "To manage database connections",
+        "B": "To create and manipulate graphical drawings and 2D shapes",
+        "C": "To handle network requests",
+        "D": "To sort and search data structures"
+      },
+      "correctAnswer": "B",
+      "explanation": "To create and manipulate graphical drawings and 2D shapes. Explanation: The Turtle library provides functions to draw basic 2D shapes and patterns on a canvas. It uses a pen called a 'turtle' that moves across the screen, and is useful for teaching programming concepts visually."
+    },
+    {
+      "id": 25,
+      "question": "Which statement is used to import the Turtle library in Python? ★",
+      "options": {
+        "A": "include turtle",
+        "B": "load turtle",
+        "C": "import turtle",
+        "D": "use turtle"
+      },
+      "correctAnswer": "C",
+      "explanation": "import turtle. Explanation: The import keyword is used to bring external libraries into a program. 'import turtle' loads the turtle graphics library, after which all its functions become available."
+    },
+    {
+      "id": 26,
+      "question": "In Python, what does a library provide? ★",
+      "options": {
+        "A": "A set of pre-written, tested functions for specific tasks",
+        "B": "A list of all variable names used in a program",
+        "C": "A tool for converting Python to machine code",
+        "D": "A graphical interface for writing code"
+      },
+      "correctAnswer": "A",
+      "explanation": "A set of pre-written, tested functions for specific tasks. Explanation: A library is a collection of pre-written and tested code designed for specific tasks. Instead of writing tens of lines from scratch, a programmer imports the library and calls its ready- made functions."
+    },
+    {
+      "id": 27,
+      "question": "What is the result of concatenating two strings in Python using the + operator? ★",
+      "options": {
+        "A": "The two strings are added mathematically",
+        "B": "The two strings are joined together into one string",
+        "C": "An error is raised",
+        "D": "The longer string replaces the shorter one"
+      },
+      "correctAnswer": "B",
+      "explanation": "The two strings are joined together into one string. Explanation: The + operator on strings performs concatenation — joining them end-to-end. For example, 'Hello' + ' World' produces 'Hello World'. This differs from numeric addition."
+    },
+    {
+      "id": 28,
+      "question": "In Python, which of the following correctly represents the operator precedence order (highest to lowest)? ★",
+      "options": {
+        "A": "+, -, *, /, **",
+        "B": "**, *, /, //, %, +, -",
+        "C": "%, //, /, *, +, -",
+        "D": "**, +, -, *, /"
+      },
+      "correctAnswer": "B",
+      "explanation": "**, *, /, //, %, +, -. Explanation: Python evaluates ** (exponentiation) first, then *, /, //, % (left to right), and finally + and - (left to right). Parentheses override all other precedence."
+    },
+    {
+      "id": 29,
+      "question": "Which Python logical operator requires ALL conditions to be true for the overall result to be true? ★",
+      "options": {
+        "A": "or",
+        "B": "not",
+        "C": "and",
+        "D": "in"
+      },
+      "correctAnswer": "C",
+      "explanation": "and. Explanation: The 'and' operator returns True only when every condition it connects is True. If any single condition is False, the result is False."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is a correct way to check if a value x is between 1 and 10 (exclusive) in Python? ★",
+      "options": {
+        "A": "if 1 < x < 10:",
+        "B": "if x > 1 or x < 10:",
+        "C": "if x between 1 and 10:",
+        "D": "if (1 and 10) == x:"
+      },
+      "correctAnswer": "A",
+      "explanation": "if 1 < x < 10:. Explanation: Python supports chained comparison operators. '1 < x < 10' is valid Python and checks both conditions simultaneously. The equivalent form using 'and' is: if x > 1 and x < 10."
+    },
+    {
+      "id": 31,
+      "question": "Which Python loop is best used when the number of iterations is known in advance?",
+      "options": {
+        "A": "while loop",
+        "B": "do-while loop",
+        "C": "for loop",
+        "D": "repeat-until loop"
+      },
+      "correctAnswer": "C",
+      "explanation": "for loop. Explanation: The for loop iterates over a sequence or range a known number of times. while is used when the stopping condition depends on runtime events."
+    },
+    {
+      "id": 32,
+      "question": "In Python, what does the \"def\" keyword do?",
+      "options": {
+        "A": "Defines a variable",
+        "B": "Declares a loop",
+        "C": "Creates (defines) a function",
+        "D": "Imports a module"
+      },
+      "correctAnswer": "C",
+      "explanation": "Creates (defines) a function. Explanation: def function_name(parameters): followed by an indented block defines a reusable function."
+    },
+    {
+      "id": 33,
+      "question": "What is the output of: range(2, 10, 3)?",
+      "options": {
+        "A": "[2, 5, 8, 11]",
+        "B": "[2, 5, 8]",
+        "C": "[3, 6, 9]",
+        "D": "[2, 4, 6, 8, 10]"
+      },
+      "correctAnswer": "B",
+      "explanation": "[2, 5, 8]. Explanation: range(start, stop, step): starts at 2, increments by 3, stops before 10. Values: 2, 5, 8."
+    },
+    {
+      "id": 34,
+      "question": "A local variable in Python:",
+      "options": {
+        "A": "Is accessible throughout the entire program",
+        "B": "Is defined outside all functions",
+        "C": "Is only accessible within the function where it is defined",
+        "D": "Cannot be changed inside a function"
+      },
+      "correctAnswer": "C",
+      "explanation": "Is only accessible within the function where it is defined. Explanation: Local variables exist only during the function's execution — they are created when the function is called and destroyed when it returns."
+    },
+    {
+      "id": 35,
+      "question": "Which Python statement exits a loop immediately?",
+      "options": {
+        "A": "exit",
+        "B": "stop",
+        "C": "break",
+        "D": "end"
+      },
+      "correctAnswer": "C",
+      "explanation": "break. Explanation: break immediately terminates the innermost loop and transfers control to the statement after the loop."
+    },
+    {
+      "id": 36,
+      "question": "What keyword skips the rest of the current loop iteration and continues to the next?",
+      "options": {
+        "A": "skip",
+        "B": "pass",
+        "C": "next",
+        "D": "continue"
+      },
+      "correctAnswer": "D",
+      "explanation": "continue. Explanation: continue skips the remainder of the current loop body and jumps directly to the next iteration's condition check."
+    },
+    {
+      "id": 37,
+      "question": "A function that calls itself is known as:",
+      "options": {
+        "A": "Lambda function",
+        "B": "Recursive function",
+        "C": "Nested function",
+        "D": "Generator function"
+      },
+      "correctAnswer": "B",
+      "explanation": "Recursive function. Explanation: Recursion is when a function calls itself. It must have a base case to prevent infinite recursion."
+    },
+    {
+      "id": 38,
+      "question": "What is the output of: print(2 * 3 + 4 * 2)?",
+      "options": {
+        "A": "20",
+        "B": "14",
+        "C": "10",
+        "D": "16"
+      },
+      "correctAnswer": "B",
+      "explanation": "14. Explanation: Python follows operator precedence: 2×3=6 and 4×2=8 are evaluated first, then 6+8=14."
+    },
+    {
+      "id": 39,
+      "question": "Which is the correct Python syntax for an if-elif-else statement?",
+      "options": {
+        "A": "if x>5: ... elif x>2: ... else: ...",
+        "B": "if (x>5) { } elif (x>2) { } else { }",
+        "C": "if x>5 then ... elif x>2 then ... else ...",
+        "D": "if x>5: ... elseif x>2: ... else: ..."
+      },
+      "correctAnswer": "A",
+      "explanation": "if x>5: ... elif x>2: ... else: .... Explanation: Python uses elif (not 'elseif'), colons after conditions, and indentation — no curly braces or 'then' keywords."
+    },
+    {
+      "id": 40,
+      "question": "What is the purpose of the return statement in a Python function?",
+      "options": {
+        "A": "Print a value to screen",
+        "B": "Exit the entire program",
+        "C": "Send a value back to the caller of the function",
+        "D": "Import a module"
+      },
+      "correctAnswer": "C",
+      "explanation": "Send a value back to the caller of the function. Explanation: return ends function execution and passes the specified value back to where the function was called."
+    },
+    {
+      "id": 41,
+      "question": "What does the list method .append() do in Python?",
+      "options": {
+        "A": "Removes the last element",
+        "B": "Adds an element to the beginning",
+        "C": "Adds an element to the end of the list",
+        "D": "Sorts the list in place"
+      },
+      "correctAnswer": "C",
+      "explanation": "Adds an element to the end of the list. Explanation: list.append(item) adds the item at the end. To add at the beginning, use list.insert(0, item)."
+    },
+    {
+      "id": 42,
+      "question": "What is the output of: print([x**2 for x in range(1,4)])?",
+      "options": {
+        "A": "[1, 2, 3]",
+        "B": "[1, 4, 9]",
+        "C": "[2, 4, 6]",
+        "D": "[1, 8, 27]"
+      },
+      "correctAnswer": "B",
+      "explanation": "[1, 4, 9]. Explanation: List comprehension [x**2 for x in range(1,4)] squares each x in {1,2,3}: 1²=1, 2²=4, 3²=9."
+    },
+    {
+      "id": 43,
+      "question": "In a nested loop, the inner loop:",
+      "options": {
+        "A": "Runs once for the entire program",
+        "B": "Runs once for each iteration of the outer loop",
+        "C": "Runs independently of the outer loop",
+        "D": "Runs before the outer loop starts"
+      },
+      "correctAnswer": "B",
+      "explanation": "Runs once for each iteration of the outer loop. Explanation: Nested loops: the inner loop completes all its iterations for every single iteration of the outer loop."
+    },
+    {
+      "id": 44,
+      "question": "A lambda function in Python is:",
+      "options": {
+        "A": "A function stored in a list",
+        "B": "A built-in Python module",
+        "C": "A small anonymous function defined with the lambda keyword",
+        "D": "A recursive function"
+      },
+      "correctAnswer": "C",
+      "explanation": "A small anonymous function defined with the lambda keyword. Explanation: lambda x: x*2 defines an unnamed function. Useful for short, one-time operations passed as arguments."
+    },
+    {
+      "id": 45,
+      "question": "The pass statement in Python:",
+      "options": {
+        "A": "Exits a loop",
+        "B": "Skips to the next iteration",
+        "C": "Does nothing — acts as a placeholder where a statement is syntactically required",
+        "D": "Returns None from a function"
+      },
+      "correctAnswer": "C",
+      "explanation": "Does nothing — acts as a placeholder where a statement is syntactically required. Explanation: pass is used in empty function bodies, loops, or class definitions to avoid syntax errors while the code is incomplete. Questions 16–30: Expanded Questions ★"
+    },
+    {
+      "id": 46,
+      "question": "In Python, what is the default starting value of the index in a for loop using range(5)? ★",
+      "options": {
+        "A": "1",
+        "B": "5",
+        "C": "-1",
+        "D": "0"
+      },
+      "correctAnswer": "D",
+      "explanation": "0. Explanation: By default, range(n) starts from 0 and goes up to n-1. So range(5) produces 0, 1, 2, 3, 4. This is Python's zero-based indexing convention."
+    },
+    {
+      "id": 47,
+      "question": "What is the role of indentation in Python? ★",
+      "options": {
+        "A": "It is only for visual readability and has no effect on execution",
+        "B": "It defines the structure and blocks of code — incorrect indentation causes errors",
+        "C": "It is optional and can be replaced with curly braces",
+        "D": "It is used only inside functions"
+      },
+      "correctAnswer": "B",
+      "explanation": "It defines the structure and blocks of code — incorrect indentation causes errors. Explanation: Python uses indentation instead of curly braces to define code blocks. Incorrect or inconsistent indentation leads to IndentationError or logical bugs."
+    },
+    {
+      "id": 48,
+      "question": "A while loop in Python continues executing as long as: ★",
+      "options": {
+        "A": "The loop variable reaches zero",
+        "B": "Its condition evaluates to True",
+        "C": "The break keyword is not used",
+        "D": "The return statement is called"
+      },
+      "correctAnswer": "B",
+      "explanation": "Its condition evaluates to True. Explanation: A while loop checks its condition before each iteration. As long as the condition remains True, the loop body executes. When the condition becomes False, the loop stops."
+    },
+    {
+      "id": 49,
+      "question": "What is a global variable in Python? ★",
+      "options": {
+        "A": "A variable defined inside a function",
+        "B": "A variable that is inaccessible outside its module",
+        "C": "A variable defined outside all functions, accessible throughout the program",
+        "D": "A variable that cannot be changed"
+      },
+      "correctAnswer": "C",
+      "explanation": "A variable defined outside all functions, accessible throughout the program. Explanation: Global variables are defined at the top level of a program, outside any function. They can be read anywhere in the program but must be declared with 'global' inside a function to be modified."
+    },
+    {
+      "id": 50,
+      "question": "What will happen if a recursive function in Python has no base case? ★",
+      "options": {
+        "A": "It will run exactly once",
+        "B": "It will return None automatically",
+        "C": "It will cause infinite recursion and eventually a RecursionError",
+        "D": "It will skip the function call"
+      },
+      "correctAnswer": "C",
+      "explanation": "It will cause infinite recursion and eventually a RecursionError. Explanation: Without a base case, a recursive function keeps calling itself indefinitely. Python has a recursion limit (default ~1000 calls) and raises a RecursionError when that limit is exceeded."
+    },
+    {
+      "id": 51,
+      "question": "Which of the following correctly defines a function named 'greet' that takes no arguments? ★",
+      "options": {
+        "A": "function greet():",
+        "B": "def greet():",
+        "C": "define greet():",
+        "D": "func greet():"
+      },
+      "correctAnswer": "B",
+      "explanation": "def greet():. Explanation: Functions in Python are defined using the 'def' keyword, followed by the function name, parentheses, and a colon. The function body is written as an indented block below."
+    },
+    {
+      "id": 52,
+      "question": "In Python, what does the step parameter in range(start, stop, step) control? ★",
+      "options": {
+        "A": "The total number of iterations",
+        "B": "The value by which the loop variable increases or decreases each iteration",
+        "C": "The starting index of the loop",
+        "D": "The condition that stops the loop"
+      },
+      "correctAnswer": "B",
+      "explanation": "The value by which the loop variable increases or decreases each iteration. Explanation: The step parameter determines how the loop counter changes each iteration. A positive step increments, a negative step decrements. For example, range(10, 0, -2) produces 10, 8, 6, 4, 2."
+    },
+    {
+      "id": 53,
+      "question": "What is the output of the following code?for i in range(1, 6): if i == 3: break print(i) ★",
+      "options": {
+        "A": "1 2 3",
+        "B": "1 2",
+        "C": "1 2 3 4 5",
+        "D": "3 4 5"
+      },
+      "correctAnswer": "B",
+      "explanation": "1 2. Explanation: The loop starts at 1. When i equals 3, the break statement immediately exits the loop. So only 1 and 2 are printed before the break occurs."
+    },
+    {
+      "id": 54,
+      "question": "Which of the following is true about function arguments in Python? ★",
+      "options": {
+        "A": "Arguments must always be integers",
+        "B": "A variable defined as a function argument is a local variable — it does not exist outside the function",
+        "C": "Function arguments are global by default",
+        "D": "A function can only accept one argument"
+      },
+      "correctAnswer": "B",
+      "explanation": "A variable defined as a function argument is a local variable — it does not exist outside the function. Explanation: Arguments are local to the function — they are created when the function is called with specific values and destroyed when it returns. They cannot be accessed from outside the function."
+    },
+    {
+      "id": 55,
+      "question": "In the Python IDLE debugger, what does the 'Step' button do? ★",
+      "options": {
+        "A": "Runs the entire program at once",
+        "B": "Skips all function calls",
+        "C": "Executes the code one line at a time",
+        "D": "Jumps directly to a breakpoint"
+      },
+      "correctAnswer": "C",
+      "explanation": "Executes the code one line at a time. Explanation: The Step button in the IDLE debugger executes one instruction per press, allowing the programmer to monitor variable values and logic flow at each step — essential for finding logical bugs."
+    },
+    {
+      "id": 56,
+      "question": "In Python debugging, what is the purpose of the 'Over' button in the Debug Control window? ★",
+      "options": {
+        "A": "Restarts the program from the beginning",
+        "B": "Executes a function call completely without stepping through it line by line",
+        "C": "Exits the debugger",
+        "D": "Moves to the previous line of code"
+      },
+      "correctAnswer": "B",
+      "explanation": "Executes a function call completely without stepping through it line by line. Explanation: The Over button allows the debugger to execute an entire function and return its result without entering and stepping through its internal lines — useful when the function is already trusted and correct."
+    },
+    {
+      "id": 57,
+      "question": "What is the correct output of the following code?x = 10def show(): x=5 print(x)show()print(x) ★",
+      "options": {
+        "A": "5 then 5",
+        "B": "10 then 10",
+        "C": "5 then 10",
+        "D": "10 then 5"
+      },
+      "correctAnswer": "C",
+      "explanation": "5 then 10. Explanation: Inside show(), x = 5 creates a local variable that shadows the global x. So show() prints 5. After the function returns, the global x is still 10, so print(x) outside prints 10."
+    },
+    {
+      "id": 58,
+      "question": "In Python, a function can return: ★",
+      "options": {
+        "A": "Only integers",
+        "B": "Only strings",
+        "C": "Only one value (though that value can be a list or tuple containing multiple items)",
+        "D": "As many separate values as needed using multiple return statements simultaneously"
+      },
+      "correctAnswer": "C",
+      "explanation": "Only one value (though that value can be a list or tuple containing multiple items). Explanation: A function can only return a single object using return. However, that object can be a list or tuple containing multiple values, which effectively allows returning multiple pieces of data."
+    },
+    {
+      "id": 59,
+      "question": "Which of the following statements about the 'elif' keyword in Python is correct? ★",
+      "options": {
+        "A": "elif is used to start a loop",
+        "B": "elif checks an alternative condition only if all previous if/elif conditions were False",
+        "C": "elif always executes regardless of the if condition",
+        "D": "elif is equivalent to a nested if inside an else"
+      },
+      "correctAnswer": "B",
+      "explanation": "elif checks an alternative condition only if all previous if/elif conditions were False. Explanation: elif provides an alternative condition to check when the preceding if (and any previous elif) conditions are False. Once one condition is True, all remaining elif and else blocks are skipped."
+    },
+    {
+      "id": 60,
+      "question": "What will the following code print?for i in range(3): for j in range(2): print(i, j) ★",
+      "options": {
+        "A": "0 0, 1 1, 2 2",
+        "B": "0 0, 0 1, 1 0, 1 1, 2 0, 2 1",
+        "C": "0 1 2, 0 1 2",
+        "D": "0 0, 1 1"
+      },
+      "correctAnswer": "B",
+      "explanation": "0 0, 0 1, 1 0, 1 1, 2 0, 2 1. Explanation: The outer loop runs for i = 0, 1, 2. For each value of i, the inner loop runs for j = 0, 1. This produces 6 pairs: (0,0), (0,1), (1,0), (1,1), (2,0), (2,1)."
+    }
+  ],
+  "subject": "cs"
+}

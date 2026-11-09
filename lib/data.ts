@@ -6,15 +6,17 @@ const PHYSICS_DIR = path.join(process.cwd(), 'data', 'physics-11');
 const URDU_DIR = path.join(process.cwd(), 'data', 'urdu-11');
 const MATH_DIR = path.join(process.cwd(), 'data', 'math-11');
 const ENGLISH_DIR = path.join(process.cwd(), 'data', 'english-11');
+const CS_DIR = path.join(process.cwd(), 'data', 'cs-11');
 
 export function getChaptersIndex(
-  subject: 'physics' | 'urdu' | 'math' | 'english' = 'physics'
+  subject: 'physics' | 'urdu' | 'math' | 'english' | 'cs' = 'physics'
 ): ChapterMeta[] {
   try {
     let dir = PHYSICS_DIR;
     if (subject === 'urdu') dir = URDU_DIR;
     else if (subject === 'math') dir = MATH_DIR;
     else if (subject === 'english') dir = ENGLISH_DIR;
+    else if (subject === 'cs') dir = CS_DIR;
 
     const indexPath = path.join(dir, 'chapters-index.json');
     if (fs.existsSync(indexPath)) {
@@ -34,6 +36,7 @@ export function getAllChapters(): ChapterMeta[] {
     ...getChaptersIndex('urdu'),
     ...getChaptersIndex('math'),
     ...getChaptersIndex('english'),
+    ...getChaptersIndex('cs'),
   ];
 }
 
@@ -43,10 +46,10 @@ export function getAllSlugs(): string[] {
 
 export function getChapterBySlug(
   slug: string
-): (ChapterData & { slug: string; subject: 'physics' | 'urdu' | 'math' | 'english' }) | null {
+): (ChapterData & { slug: string; subject: 'physics' | 'urdu' | 'math' | 'english' | 'cs' }) | null {
   try {
     let targetDir = PHYSICS_DIR;
-    let subject: 'physics' | 'urdu' | 'math' | 'english' = 'physics';
+    let subject: 'physics' | 'urdu' | 'math' | 'english' | 'cs' = 'physics';
 
     if (slug.startsWith('urdu')) {
       targetDir = URDU_DIR;
@@ -57,6 +60,9 @@ export function getChapterBySlug(
     } else if (slug.startsWith('english')) {
       targetDir = ENGLISH_DIR;
       subject = 'english';
+    } else if (slug.startsWith('cs')) {
+      targetDir = CS_DIR;
+      subject = 'cs';
     }
 
     const fileName = slug.endsWith('.json') ? slug : `${slug}.json`;
@@ -72,8 +78,9 @@ export function getChapterBySlug(
       };
     }
 
-    // Fallback search across all four directories
-    const dirMap: Array<[string, 'physics' | 'urdu' | 'math' | 'english']> = [
+    // Fallback search across all five directories
+    const dirMap: Array<[string, 'physics' | 'urdu' | 'math' | 'english' | 'cs']> = [
+      [CS_DIR, 'cs'],
       [ENGLISH_DIR, 'english'],
       [MATH_DIR, 'math'],
       [URDU_DIR, 'urdu'],

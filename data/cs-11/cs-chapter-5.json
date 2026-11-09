@@ -1,0 +1,548 @@
+{
+  "chapterNumber": 5,
+  "chapterTitle": "Chapter 5: Emerging Technologies (AI, Cloud & IoT)",
+  "totalQuestions": 45,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Blockchain technology is best characterized by:",
+      "options": {
+        "A": "Centralised control by a single authority",
+        "B": "A distributed, immutable ledger of transactions shared across a peer-to-peer network",
+        "C": "A type of antivirus software",
+        "D": "An encrypted email protocol"
+      },
+      "correctAnswer": "B",
+      "explanation": "A distributed, immutable ledger of transactions shared across a peer- to-peer network Explanation: Blockchain is decentralised — records are shared across many nodes, and each block is cryptographically linked to the previous one."
+    },
+    {
+      "id": 2,
+      "question": "Which technology underpins Bitcoin and other cryptocurrencies?",
+      "options": {
+        "A": "Machine Learning",
+        "B": "Blockchain",
+        "C": "Virtual Reality",
+        "D": "Edge Computing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Blockchain. Explanation: Bitcoin uses blockchain as its public transaction ledger — every transaction is recorded in a cryptographically chained block."
+    },
+    {
+      "id": 3,
+      "question": "PaaS (Platform as a Service) provides:",
+      "options": {
+        "A": "Complete software applications over the internet",
+        "B": "Raw computing infrastructure only",
+        "C": "A development platform — runtime, tools, databases — so developers can build and deploy apps",
+        "D": "Physical server rental"
+      },
+      "correctAnswer": "C",
+      "explanation": "A development platform — runtime, tools, databases — so developers can build and deploy apps. Explanation: PaaS (e.g., Google App Engine, Heroku) gives developers everything they need to build apps without managing the underlying servers."
+    },
+    {
+      "id": 4,
+      "question": "Which feature of blockchain makes it tamper-resistant?",
+      "options": {
+        "A": "Central database backup",
+        "B": "Each block contains the cryptographic hash of the previous block, chaining them together",
+        "C": "Password protection on each block",
+        "D": "Regular manual audits"
+      },
+      "correctAnswer": "B",
+      "explanation": "Each block contains the cryptographic hash of the previous block, chaining them together. Explanation: Changing any block invalidates all subsequent hashes — making undetected tampering computationally infeasible."
+    },
+    {
+      "id": 5,
+      "question": "What does \"on-demand self-service\" mean in cloud computing?",
+      "options": {
+        "A": "A helpdesk is available 24/7 by phone",
+        "B": "Users can provision computing resources instantly and automatically, without involving the provider's staff",
+        "C": "Services are only available during business hours",
+        "D": "Cloud backups run automatically"
+      },
+      "correctAnswer": "B",
+      "explanation": "Users can provision computing resources instantly and automatically, without involving the provider's staff. Explanation: On-demand self-service allows users to scale resources up or down through a web portal with zero human intervention from the provider."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is an example of SaaS?",
+      "options": {
+        "A": "Amazon EC2",
+        "B": "Google App Engine",
+        "C": "Microsoft Office 365 (online)",
+        "D": "Docker containers"
+      },
+      "correctAnswer": "C",
+      "explanation": "Microsoft Office 365 (online). Explanation: Office 365 is SaaS — software delivered via browser without installation. EC2 is IaaS, App Engine is PaaS."
+    },
+    {
+      "id": 7,
+      "question": "In Artificial Intelligence, machine learning refers to:",
+      "options": {
+        "A": "Programming robots with fixed rules",
+        "B": "Algorithms that learn patterns from data and improve performance without being explicitly reprogrammed",
+        "C": "Storing large datasets",
+        "D": "Designing microchips"
+      },
+      "correctAnswer": "B",
+      "explanation": "Algorithms that learn patterns from data and improve performance without being explicitly reprogrammed. Explanation: Machine learning algorithms identify patterns in training data and generalise to make predictions on new, unseen data."
+    },
+    {
+      "id": 8,
+      "question": "The Internet of Things (IoT) refers to:",
+      "options": {
+        "A": "A private network of office computers",
+        "B": "The collection of internet browsers",
+        "C": "Physical devices with embedded sensors connected to the internet to collect and exchange data",
+        "D": "A type of blockchain"
+      },
+      "correctAnswer": "C",
+      "explanation": "Physical devices with embedded sensors connected to the internet to collect and exchange data. Explanation: IoT connects everyday objects — smartwatches, fridges, industrial sensors — to the internet, enabling automation and data collection."
+    },
+    {
+      "id": 9,
+      "question": "Augmented Reality (AR) differs from Virtual Reality (VR) in that AR:",
+      "options": {
+        "A": "Creates a fully immersive virtual environment replacing reality",
+        "B": "Requires only a smartphone camera",
+        "C": "Overlays digital content onto the real physical world",
+        "D": "Requires a full headset always"
+      },
+      "correctAnswer": "C",
+      "explanation": "Overlays digital content onto the real physical world. Explanation: AR adds digital layers on top of reality (e.g., Pokemon Go, Snapchat filters). VR creates a completely simulated environment."
+    },
+    {
+      "id": 10,
+      "question": "Which is the BEST example of Big Data?",
+      "options": {
+        "A": "A spreadsheet with 50 rows",
+        "B": "A school report card",
+        "C": "Global social media posts, sensor streams, and financial transactions generating petabytes daily",
+        "D": "A single database table"
+      },
+      "correctAnswer": "C",
+      "explanation": "Global social media posts, sensor streams, and financial transactions generating petabytes daily. Explanation: Big Data is defined by 3 Vs — Volume (massive), Velocity (fast-moving), Variety (multiple formats). Traditional tools cannot handle it."
+    },
+    {
+      "id": 11,
+      "question": "A smart thermostat that learns your schedule and adjusts temperature automatically is an example of:",
+      "options": {
+        "A": "Cloud IaaS only",
+        "B": "Blockchain",
+        "C": "IoT combined with machine learning",
+        "D": "Virtual Reality"
+      },
+      "correctAnswer": "C",
+      "explanation": "IoT combined with machine learning. Explanation: Smart thermostats are IoT devices that use machine learning to recognise usage patterns and optimise settings autonomously."
+    },
+    {
+      "id": 12,
+      "question": "Which hashing algorithm is commonly used in blockchain to generate block hashes?",
+      "options": {
+        "A": "MD5",
+        "B": "RSA",
+        "C": "SHA-256",
+        "D": "AES"
+      },
+      "correctAnswer": "C",
+      "explanation": "SHA-256. Explanation: Bitcoin uses SHA-256 (Secure Hash Algorithm 256-bit) — it produces a unique, fixed-length hash for each block's data."
+    },
+    {
+      "id": 13,
+      "question": "Robotics in the context of computing primarily involves:",
+      "options": {
+        "A": "Writing mobile apps",
+        "B": "Designing relational databases",
+        "C": "Programming physical machines to perform tasks autonomously or semi-autonomously",
+        "D": "Building data warehouses"
+      },
+      "correctAnswer": "C",
+      "explanation": "Programming physical machines to perform tasks autonomously or semi-autonomously. Explanation: Robotics combines AI, sensors, and actuators — robots perceive their environment and take actions to achieve defined goals."
+    },
+    {
+      "id": 14,
+      "question": "A 'smart contract' in blockchain is best described as:",
+      "options": {
+        "A": "A government-approved contract document",
+        "B": "A self-executing program stored on the blockchain that runs when predefined conditions are met",
+        "C": "An encrypted PDF file",
+        "D": "A type of cryptocurrency wallet"
+      },
+      "correctAnswer": "B",
+      "explanation": "A self-executing program stored on the blockchain that runs when predefined conditions are met. Explanation: Smart contracts automate transactions without intermediaries — they execute automatically when coded conditions are satisfied."
+    },
+    {
+      "id": 15,
+      "question": "Edge computing differs from traditional cloud computing in that edge computing:",
+      "options": {
+        "A": "Stores all data in a central data centre",
+        "B": "Processes data closer to where it is generated, reducing latency",
+        "C": "Requires no internet connection",
+        "D": "Only works with blockchain"
+      },
+      "correctAnswer": "B",
+      "explanation": "Processes data closer to where it is generated, reducing latency. Explanation: Edge computing moves processing to local devices or nearby servers — critical for IoT and real-time applications where cloud latency is unacceptable. Questions 16–30: Expanded Questions ★"
+    },
+    {
+      "id": 16,
+      "question": "Which wireless technology used in IoT networks is designed for very short- range communication, typically a few centimeters? ★",
+      "options": {
+        "A": "Wi-Fi",
+        "B": "Bluetooth",
+        "C": "Zigbee",
+        "D": "NFC (Near Field Communication)"
+      },
+      "correctAnswer": "D",
+      "explanation": "NFC (Near Field Communication). Explanation: NFC operates over very short distances (a few centimeters) and is used in contactless payments, smart cards, and quick device pairing. Wi-Fi, Bluetooth, and Zigbee operate over longer ranges."
+    },
+    {
+      "id": 17,
+      "question": "What type of sensors are used in IoT to measure temperature, humidity, and air quality? ★",
+      "options": {
+        "A": "Motion detection sensors",
+        "B": "Industrial sensors",
+        "C": "Environmental sensors",
+        "D": "Biometric sensors"
+      },
+      "correctAnswer": "C",
+      "explanation": "Environmental sensors. Explanation: Environmental sensors monitor and measure physical environmental conditions such as temperature, humidity, air quality, air pressure, and wind speed. They are a key category of sensors used in WSNs."
+    },
+    {
+      "id": 18,
+      "question": "Which cloud computing model is dedicated to and operated by a single organisation, offering more control and security? ★",
+      "options": {
+        "A": "Public cloud",
+        "B": "Community cloud",
+        "C": "Hybrid cloud",
+        "D": "Private cloud"
+      },
+      "correctAnswer": "D",
+      "explanation": "Private cloud. Explanation: A private cloud runs on a privately owned IT infrastructure used exclusively by one organisation. It offers greater control, performance, and security compared to public cloud, but requires significant investment."
+    },
+    {
+      "id": 19,
+      "question": "Which cloud model is most suitable for multiple organisations that share common concerns such as security policies and compliance requirements? ★",
+      "options": {
+        "A": "Public cloud",
+        "B": "Private cloud",
+        "C": "Community cloud",
+        "D": "Hybrid cloud"
+      },
+      "correctAnswer": "C",
+      "explanation": "Community cloud. Explanation: A community cloud is shared by multiple organisations with common needs — such as similar compliance requirements, security policies, or missions. It is more cost-effective than a private cloud and more secure than a public cloud."
+    },
+    {
+      "id": 20,
+      "question": "What is the primary advantage of a hybrid cloud model? ★",
+      "options": {
+        "A": "It eliminates the need for any internet connection",
+        "B": "It combines public and private clouds, allowing sensitive data to stay private while using public cloud for other tasks",
+        "C": "It is the cheapest cloud model available",
+        "D": "It requires no management by the organisation"
+      },
+      "correctAnswer": "B",
+      "explanation": "It combines public and private clouds, allowing sensitive data to stay private while using public cloud for other tasks. Explanation: Hybrid cloud gives organisations the flexibility to run general workloads on the less expensive public cloud while keeping sensitive or critical data and applications on the more secure private cloud."
+    },
+    {
+      "id": 21,
+      "question": "Embedded systems are best described as: ★",
+      "options": {
+        "A": "Large mainframe computers used in data centres",
+        "B": "Small electronic devices combining hardware and firmware designed to perform a specific task",
+        "C": "General-purpose computers that run multiple programs",
+        "D": "Cloud servers managed remotely"
+      },
+      "correctAnswer": "B",
+      "explanation": "Small electronic devices combining hardware and firmware designed to perform a specific task. Explanation: Embedded systems are compact electronic devices with a microcontroller or microprocessor running firmware. They are designed for one specific function — examples include traffic management systems, ultrasound machines, and vending machines."
+    },
+    {
+      "id": 22,
+      "question": "What is firmware in the context of embedded systems? ★",
+      "options": {
+        "A": "A type of antivirus software",
+        "B": "Software that is permanently installed in a device or electronic machine",
+        "C": "A wireless communication protocol",
+        "D": "A type of cloud storage"
+      },
+      "correctAnswer": "B",
+      "explanation": "Software that is permanently installed in a device or electronic machine. Explanation: Firmware is software embedded directly into hardware during manufacturing. Unlike regular software, it cannot be easily changed. It controls the fundamental operation of embedded systems such as home appliances and medical equipment."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following best describes a Wireless Sensor Network (WSN)? ★",
+      "options": {
+        "A": "A network of computers connected by optical fibre cables",
+        "B": "A network of physical devices embedded with sensors and software that communicate wirelessly",
+        "C": "A type of private blockchain network",
+        "D": "A cloud computing model for sensor data"
+      },
+      "correctAnswer": "B",
+      "explanation": "A network of physical devices embedded with sensors and software that communicate wirelessly. Explanation: A WSN is a network of sensor-equipped devices that monitor physical or environmental conditions and transmit data wirelessly. WSNs are a core enabling technology for IoT."
+    },
+    {
+      "id": 24,
+      "question": "In blockchain, what is a 'block'? ★",
+      "options": {
+        "A": "A single user account on the network",
+        "B": "A record in the growing ledger containing transaction data",
+        "C": "A type of cryptocurrency wallet",
+        "D": "A security certificate issued by a bank"
+      },
+      "correctAnswer": "B",
+      "explanation": "A record in the growing ledger containing transaction data. Explanation: A block is a single entry in the blockchain ledger. It contains transaction data, a timestamp, and the cryptographic hash of the previous block. Blocks are chained together in chronological order, forming the blockchain."
+    },
+    {
+      "id": 25,
+      "question": "Which type of blockchain network requires permission to join and allows only authorised individuals to perform or view transactions? ★",
+      "options": {
+        "A": "Public blockchain",
+        "B": "Private blockchain",
+        "C": "Permissioned blockchain",
+        "D": "Consortium blockchain"
+      },
+      "correctAnswer": "C",
+      "explanation": "Permissioned blockchain. Explanation: A permissioned blockchain restricts access to authorised participants only. Anyone wishing to join must first obtain permission. It is used for applications requiring secure, transparent record-keeping such as supply chain management and trade finance."
+    },
+    {
+      "id": 26,
+      "question": "What makes blockchain transactions irreversible? ★",
+      "options": {
+        "A": "They are stored in a single secure server",
+        "B": "Once added to the ledger, transactions are permanent and cannot be altered due to cryptographic chaining",
+        "C": "Transactions expire after 24 hours and are locked",
+        "D": "A central authority approves and seals each transaction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Once added to the ledger, transactions are permanent and cannot be altered due to cryptographic chaining. Explanation: Each block contains the hash of the previous block. Altering any transaction would change its block's hash, which would then invalidate every subsequent block — making retroactive tampering computationally impossible across the entire network."
+    },
+    {
+      "id": 27,
+      "question": "Which of the following is a key benefit of integrating IoT with Blockchain technology? ★",
+      "options": {
+        "A": "It eliminates the need for wireless sensors",
+        "B": "It provides secure, tamper-proof recording of IoT data and removes the need for intermediaries in communication",
+        "C": "It replaces cloud computing entirely",
+        "D": "It reduces the processing power needed by IoT devices"
+      },
+      "correctAnswer": "B",
+      "explanation": "It provides secure, tamper-proof recording of IoT data and removes the need for intermediaries in communication. Explanation: IoT devices generate vast amounts of data that is vulnerable to cyberattacks. Blockchain's decentralised, immutable ledger secures this data. Their integration also enables faster direct communication between devices without intermediaries."
+    },
+    {
+      "id": 28,
+      "question": "Big data analytics in the context of IoT is used to: ★",
+      "options": {
+        "A": "Store blockchain transactions permanently",
+        "B": "Transform the massive data collected by IoT devices into actionable insights for better decision-making",
+        "C": "Replace wireless sensor networks",
+        "D": "Encrypt data transferred between IoT devices"
+      },
+      "correctAnswer": "B",
+      "explanation": "Transform the massive data collected by IoT devices into actionable insights for better decision-making. Explanation: IoT devices generate enormous volumes of data continuously. Big data analytics software processes this data to identify market trends, patterns, and insights that support smarter business decisions and improved services."
+    },
+    {
+      "id": 29,
+      "question": "Consortium blockchain networks are most suitable for which of the following scenarios? ★",
+      "options": {
+        "A": "Individual users exchanging cryptocurrency publicly",
+        "B": "Multiple banks collaborating to manage shared financial records securely",
+        "C": "A single company managing its internal records",
+        "D": "Open public transactions requiring no permission"
+      },
+      "correctAnswer": "B",
+      "explanation": "Multiple banks collaborating to manage shared financial records securely. Explanation: Consortium blockchains are managed by multiple organisations jointly. They are ideal for industries like finance and banking, where several entities need to share and verify records securely without giving control to a single party."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following correctly lists areas where the integration of IoT and Blockchain is providing enhanced security and connectivity? ★",
+      "options": {
+        "A": "Gaming, social media, and entertainment",
+        "B": "Supply chain, healthcare, energy grid, agriculture, and water management",
+        "C": "Email, printing, and document storage",
+        "D": "Mobile apps, web browsers, and search engines"
+      },
+      "correctAnswer": "B",
+      "explanation": "Supply chain, healthcare, energy grid, agriculture, and water management. Explanation: The textbook identifies supply chain, energy grid, healthcare, automotive sector, agriculture, and water management as key areas benefiting from IoT and Blockchain integration, due to the need for secure, reliable, real-time data exchange."
+    },
+    {
+      "id": 31,
+      "question": "Artificial Intelligence (AI) is best defined as: ★",
+      "options": {
+        "A": "A programming language used to build websites",
+        "B": "A branch of computer science that enables machines to perform human-like tasks intelligently",
+        "C": "A type of database management system",
+        "D": "A wireless communication protocol"
+      },
+      "correctAnswer": "B",
+      "explanation": "A branch of computer science that enables machines to perform human-like tasks intelligently. Explanation: AI focuses on creating computer-controlled machines capable of decision-making and solving complex problems in ways that simulate human intelligence — going beyond fixed, pre-programmed responses."
+    },
+    {
+      "id": 32,
+      "question": "In the context of AI systems, who is considered a stakeholder? ★",
+      "options": {
+        "A": "Only the software developers who built the system",
+        "B": "Only the end users of the AI application",
+        "C": "Any individual or group affected by or having an interest in the AI system and its social impact",
+        "D": "Only the government regulators"
+      },
+      "correctAnswer": "C",
+      "explanation": "Any individual or group affected by or having an interest in the AI system and its social impact. Explanation: Stakeholders in AI systems include a broad range: end users, developers, customers, suppliers, employees, regulators, funders, owners, policy makers, and the wider community — anyone impacted by the AI or its decisions."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is a positive impact of AI systems? ★",
+      "options": {
+        "A": "Increased unemployment due to automation",
+        "B": "Inability to work in hazardous environments",
+        "C": "Unbiased decision-making based on logic and data rather than emotions",
+        "D": "High implementation costs making it inaccessible"
+      },
+      "correctAnswer": "C",
+      "explanation": "Unbiased decision-making based on logic and data rather than emotions. Explanation: AI systems make decisions based on reason and data — not personal bias, emotions, or demographics. For example, an AI-based recruitment system evaluates candidates purely on skills and qualifications, avoiding ethnic or demographic discrimination."
+    },
+    {
+      "id": 34,
+      "question": "Which statement about AI systems working around the clock is correct? ★",
+      "options": {
+        "A": "AI systems need regular rest periods like human workers",
+        "B": "AI systems can operate 24 hours a day, 7 days a week with high efficiency and no breaks",
+        "C": "AI systems slow down significantly after 8 hours of operation",
+        "D": "AI systems can only work during scheduled maintenance windows"
+      },
+      "correctAnswer": "B",
+      "explanation": "AI systems can operate 24 hours a day, 7 days a week with high efficiency and no breaks. Explanation: Unlike human workers, AI systems do not fatigue, require breaks, or lose accuracy over time. This makes them ideal for tasks like 24/7 customer support chatbots that respond to queries at any hour."
+    },
+    {
+      "id": 35,
+      "question": "The 'Zero Risk' advantage of AI refers to: ★",
+      "options": {
+        "A": "AI systems that never make errors in calculations",
+        "B": "AI robots performing dangerous tasks in hazardous environments, eliminating risk to human workers",
+        "C": "AI systems that are completely free of cost",
+        "D": "AI programs that cannot be hacked"
+      },
+      "correctAnswer": "B",
+      "explanation": "AI robots performing dangerous tasks in hazardous environments, eliminating risk to human workers. Explanation: AI-powered robots can be deployed in dangerous situations — such as bomb disposal, nuclear facilities, or hazardous manufacturing — where human presence would pose unacceptable risk to life."
+    },
+    {
+      "id": 36,
+      "question": "Which of the following is a negative impact of AI on society? ★",
+      "options": {
+        "A": "Reduction in human errors",
+        "B": "Around-the-clock availability",
+        "C": "Potential increase in unemployment as robots replace human workers in various industries",
+        "D": "Unbiased decision making"
+      },
+      "correctAnswer": "C",
+      "explanation": "Potential increase in unemployment as robots replace human workers in various industries. Explanation: Automation driven by AI is replacing human workers in manufacturing, hospitality, and other sectors. Robots are carrying out tasks like cleaning, restocking, and luggage transportation in hotels — reducing the need for human labour."
+    },
+    {
+      "id": 37,
+      "question": "Why is it difficult to incorporate ethics and morality into AI systems? ★",
+      "options": {
+        "A": "AI systems are too expensive to program ethically",
+        "B": "AI relies on algorithms and data patterns, and lacks the ability to understand or apply human ethical judgment",
+        "C": "AI systems refuse to process ethical dilemmas",
+        "D": "Ethics are not relevant to computing systems"
+      },
+      "correctAnswer": "B",
+      "explanation": "AI relies on algorithms and data patterns, and lacks the ability to understand or apply human ethical judgment. Explanation: Human ethical decision-making is shaped by experience, culture, emotions, and social context — factors that cannot be fully captured in algorithms. This creates concern that AI may act in ways that conflict with human moral values."
+    },
+    {
+      "id": 38,
+      "question": "Which of the following is a reason why AI systems are expensive to develop? ★",
+      "options": {
+        "A": "They require very little data to function",
+        "B": "Development requires significant time, resources, and the latest hardware and software",
+        "C": "They are built using simple spreadsheet tools",
+        "D": "They need only basic programming knowledge"
+      },
+      "correctAnswer": "B",
+      "explanation": "Development requires significant time, resources, and the latest hardware and software. Explanation: Developing AI systems requires advanced hardware (e.g., GPUs for training models), massive datasets, specialised expertise, and extensive testing — all of which make AI development a high-cost undertaking."
+    },
+    {
+      "id": 39,
+      "question": "What is meant by 'conflicting requirements' among stakeholders in AI development? ★",
+      "options": {
+        "A": "Different stakeholders want to use different programming languages",
+        "B": "Stakeholders have different, sometimes opposing expectations, desires, or goals regarding the AI system",
+        "C": "Developers and users always agree on all features",
+        "D": "Conflicts only arise between governments and private companies"
+      },
+      "correctAnswer": "B",
+      "explanation": "Stakeholders have different, sometimes opposing expectations, desires, or goals regarding the AI system. Explanation: Different stakeholders — such as customers wanting privacy, businesses wanting data access, and regulators wanting compliance — often have competing demands. Developers must manage and balance these conflicts to avoid project failure."
+    },
+    {
+      "id": 40,
+      "question": "How do AI systems reduce human errors? ★",
+      "options": {
+        "A": "By replacing all human decision-making with random choices",
+        "B": "By using programmed logic and data-driven precision to perform tasks with consistently high accuracy",
+        "C": "By slowing down processes to allow more time for checking",
+        "D": "By requiring human approval for every single action"
+      },
+      "correctAnswer": "B",
+      "explanation": "By using programmed logic and data-driven precision to perform tasks with consistently high accuracy. Explanation: Properly programmed AI systems eliminate the inconsistency and fatigue-related errors that humans are prone to. Robotic surgery systems, for example, perform complex operations with a level of precision and steadiness that exceeds human capability."
+    },
+    {
+      "id": 41,
+      "question": "Which of the following best describes a limitation of AI regarding creativity? ★",
+      "options": {
+        "A": "AI systems produce too many creative ideas",
+        "B": "AI systems cannot process images or text",
+        "C": "AI systems lack the ability to generate genuinely novel ideas, as they rely on existing data patterns rather than experience and emotion",
+        "D": "AI systems are creative but too slow to be useful"
+      },
+      "correctAnswer": "C",
+      "explanation": "AI systems lack the ability to generate genuinely novel ideas, as they rely on existing data patterns rather than experience and emotion. Explanation: Human creativity is driven by imagination, emotion, and lived experience. AI generates outputs based on patterns learned from existing data — it can imitate creativity but cannot experience the spontaneous, emotion-driven innovation that humans produce."
+    },
+    {
+      "id": 42,
+      "question": "A robotic surgery system is an example of which positive impact of AI? ★",
+      "options": {
+        "A": "Around-the-clock availability",
+        "B": "Zero risk in hazardous environments",
+        "C": "Reduction in human error through high-precision operations",
+        "D": "Unbiased hiring decisions"
+      },
+      "correctAnswer": "C",
+      "explanation": "Reduction in human error through high-precision operations. Explanation: Robotic surgery systems perform complex medical procedures with precision that minimises human error. They can make incisions more accurately and consistently than human surgeons, improving patient safety and outcomes."
+    },
+    {
+      "id": 43,
+      "question": "Why should conflicts among stakeholders in AI development be resolved rather than suppressed? ★",
+      "options": {
+        "A": "Suppressing conflicts saves development time",
+        "B": "Unresolved conflicts can lead to software failure, as the resulting system may not meet the diverse needs of all stakeholders",
+        "C": "Conflicts are always caused by technical bugs",
+        "D": "All stakeholders always have identical requirements"
+      },
+      "correctAnswer": "B",
+      "explanation": "Unresolved conflicts can lead to software failure, as the resulting system may not meet the diverse needs of all stakeholders. Explanation: If conflicting stakeholder requirements are ignored or suppressed, the final AI application may satisfy some parties while failing others — resulting in rejection, misuse, or failure of the system. Proper conflict resolution leads to more robust outcomes."
+    },
+    {
+      "id": 44,
+      "question": "AI-based recruitment systems demonstrate which positive impact of AI? ★",
+      "options": {
+        "A": "They introduce more bias by favouring certain demographics",
+        "B": "They make unbiased hiring decisions by evaluating candidates purely on skills and qualifications",
+        "C": "They slow down the hiring process significantly",
+        "D": "They replace human candidates with AI-generated profiles"
+      },
+      "correctAnswer": "B",
+      "explanation": "They make unbiased hiring decisions by evaluating candidates purely on skills and qualifications. Explanation: AI recruitment systems evaluate applicants based on objective criteria — skills, experience, and qualifications — without being influenced by ethnicity, gender, age, or other demographic factors that can introduce human bias."
+    },
+    {
+      "id": 45,
+      "question": "Which of the following statements about AI predictions is most accurate? ★",
+      "options": {
+        "A": "All AI predictions are guaranteed to be 100% correct",
+        "B": "AI predictions are based on data patterns and machine learning, so there is no guarantee of complete accuracy",
+        "C": "AI can only make predictions about the past",
+        "D": "AI predictions are always more accurate than human judgment"
+      },
+      "correctAnswer": "B",
+      "explanation": "AI predictions are based on data patterns and machine learning, so there is no guarantee of complete accuracy. Explanation: AI systems learn from data patterns using machine learning — but data can be incomplete, biased, or unrepresentative. Therefore, AI predictions carry inherent uncertainty and cannot be guaranteed to be completely correct in all cases."
+    }
+  ],
+  "subject": "cs"
+}

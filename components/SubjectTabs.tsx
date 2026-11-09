@@ -3,13 +3,14 @@
 import React, { useState } from 'react';
 import ChapterCard from './ChapterCard';
 import { ChapterMeta } from '../lib/types';
-import { Atom, BookMarked, Calculator, Languages, Sparkles } from 'lucide-react';
+import { Atom, BookMarked, Calculator, Languages, Cpu, Sparkles } from 'lucide-react';
 
 interface SubjectTabsProps {
   physicsChapters: ChapterMeta[];
   urduChapters: ChapterMeta[];
   mathChapters: ChapterMeta[];
   englishChapters: ChapterMeta[];
+  csChapters: ChapterMeta[];
 }
 
 export default function SubjectTabs({
@@ -17,13 +18,15 @@ export default function SubjectTabs({
   urduChapters,
   mathChapters,
   englishChapters,
+  csChapters,
 }: SubjectTabsProps) {
-  const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english'>('physics');
+  const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs'>('physics');
 
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const englishTotal = englishChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const csTotal = csChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
 
   const activeChapters =
     activeSubject === 'physics'
@@ -32,7 +35,9 @@ export default function SubjectTabs({
       ? urduChapters
       : activeSubject === 'math'
       ? mathChapters
-      : englishChapters;
+      : activeSubject === 'english'
+      ? englishChapters
+      : csChapters;
 
   return (
     <div>
@@ -116,6 +121,22 @@ export default function SubjectTabs({
 
             <button
               type="button"
+              onClick={() => setActiveSubject('cs')}
+              className={`px-4 py-2 flex items-center gap-2 transition-all duration-150 border font-bold ${
+                activeSubject === 'cs'
+                  ? 'bg-slate-900 text-cyan-300 border-cyan-700 shadow-sm'
+                  : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+              }`}
+            >
+              <Cpu className="w-4 h-4 text-cyan-400" />
+              <span>Computer Science</span>
+              <span className="font-mono text-[11px] opacity-80 px-1.5 py-0.2 border border-current rounded-sm">
+                {csChapters.length} Units · {csTotal} Qs
+              </span>
+            </button>
+
+            <button
+              type="button"
               disabled
               className="px-3 py-2 border border-[var(--color-rule)] text-[var(--color-muted)] opacity-50 cursor-not-allowed hidden sm:flex items-center gap-1"
             >
@@ -145,7 +166,9 @@ export default function SubjectTabs({
                   ? 'فعال مضمون: وفاقی تعلیمی بورڈ لازمی اردو سال اول (FBISE Urdu)'
                   : activeSubject === 'math'
                   ? 'Active Subject: Class 11th Mathematics (HSSC-I FBISE)'
-                  : 'Active Subject: Class 11th English Compulsory (HSSC-I FBISE)'}
+                  : activeSubject === 'english'
+                  ? 'Active Subject: Class 11th English Compulsory (HSSC-I FBISE)'
+                  : 'Active Subject: Class 11th Computer Science (HSSC-I FBISE)'}
               </span>
               <p className="text-xs text-[var(--color-muted)] mt-0.5">
                 {activeSubject === 'physics'
@@ -154,7 +177,9 @@ export default function SubjectTabs({
                   ? 'حصہ نثر، نظمیں، غزلیات، علم بیان (تشبیہ، استعارہ، مجاز مرسل، کنایہ) اور علم بدیع کے مکمل سوالات مع تفصیلی حل۔'
                   : activeSubject === 'math'
                   ? 'Units 1–5 comprehensive guess papers + 3 official FBISE Board Section A simulators with step-by-step mathematical reasoning.'
-                  : 'Units 1–6 thematic SLO modules (syntax, verbals, clauses, poetic devices) + 4 official FBISE Board Section A exam simulators.'}
+                  : activeSubject === 'english'
+                  ? 'Units 1–6 thematic SLO modules (syntax, verbals, clauses, poetic devices) + 4 official FBISE Board Section A exam simulators.'
+                  : 'Chapters 1–8 topic-wise curriculum units + 3 official FBISE Board Section A simulators with author explanations (Aryan Ali & Sabahat-Ul-Hasan).'}
               </p>
             </div>
           </div>
@@ -168,7 +193,9 @@ export default function SubjectTabs({
                 ? urduTotal
                 : activeSubject === 'math'
                 ? mathTotal
-                : englishTotal}{' '}
+                : activeSubject === 'english'
+                ? englishTotal
+                : csTotal}{' '}
               Authentic MCQs
             </span>
           </div>

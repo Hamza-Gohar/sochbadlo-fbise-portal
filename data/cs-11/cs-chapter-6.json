@@ -1,0 +1,632 @@
+{
+  "chapterNumber": 6,
+  "chapterTitle": "Chapter 6: Information, Connectivity & Digital Ethics",
+  "totalQuestions": 52,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following BEST distinguishes data from information?",
+      "options": {
+        "A": "They are identical terms",
+        "B": "Raw facts become information when processed and given context; information is data in raw form",
+        "C": "Data is always numerical; information is always text",
+        "D": "Information is always more accurate than data"
+      },
+      "correctAnswer": "B",
+      "explanation": "Raw facts become information when processed and given context; information is data in raw form. Explanation: '37' is data; '37 degrees Celsius body temperature indicating fever' is information. Context and processing transform raw data into meaningful information."
+    },
+    {
+      "id": 2,
+      "question": "Structured data is best defined as:",
+      "options": {
+        "A": "Handwritten notes in any format",
+        "B": "Audio and video files",
+        "C": "Data organised in a predefined format with rows and columns, such as database tables",
+        "D": "Unprocessed sensor readings"
+      },
+      "correctAnswer": "C",
+      "explanation": "Data organised in a predefined format with rows and columns, such as database tables. Explanation: Structured data has a defined schema — it fits neatly into relational databases, making it easy to search, query, and analyse."
+    },
+    {
+      "id": 3,
+      "question": "A Database Management System (DBMS) is primarily used to:",
+      "options": {
+        "A": "Design websites",
+        "B": "Create presentations",
+        "C": "Store, retrieve, organise, and manage structured data efficiently",
+        "D": "Write operating systems"
+      },
+      "correctAnswer": "C",
+      "explanation": "Store, retrieve, organise, and manage structured data efficiently. Explanation: A DBMS such as MySQL or Oracle provides tools for defining, querying, updating, and securing structured databases efficiently."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following BEST describes metadata?",
+      "options": {
+        "A": "The main content stored in a database",
+        "B": "Data that describes other data, such as file size, creation date, and author",
+        "C": "Encrypted user passwords",
+        "D": "Raw sensor readings"
+      },
+      "correctAnswer": "B",
+      "explanation": "Data that describes other data, such as file size, creation date, and author. Explanation: Metadata is data about data. A photo's metadata includes its resolution, GPS location, date taken, and camera model — it describes the file without being the photo itself."
+    },
+    {
+      "id": 5,
+      "question": "A relational database stores data in:",
+      "options": {
+        "A": "Flat, unstructured text files",
+        "B": "Linked tables with rows, columns, and defined relationships between tables",
+        "C": "Random-access binary files",
+        "D": "XML documents only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Linked tables with rows, columns, and defined relationships between tables. Explanation: Relational databases use tables connected by primary and foreign keys. SQL is used to query and manipulate the data across these linked tables."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is an example of a PRIMARY information source?",
+      "options": {
+        "A": "An encyclopedia article summarising a historical event",
+        "B": "A textbook chapter on World War II",
+        "C": "A diary written by a soldier during World War II",
+        "D": "A documentary film about World War II"
+      },
+      "correctAnswer": "C",
+      "explanation": "A diary written by a soldier during World War II. Explanation: Primary sources provide firsthand, original accounts — diaries, letters, raw data, photographs, and surveys. Secondary sources analyse or interpret primary sources; tertiary sources compile them."
+    },
+    {
+      "id": 7,
+      "question": "Which type of information source combines and compiles both primary and secondary sources to provide an overview?",
+      "options": {
+        "A": "Primary source",
+        "B": "Secondary source",
+        "C": "Tertiary source",
+        "D": "Digital source"
+      },
+      "correctAnswer": "C",
+      "explanation": "Tertiary source. Explanation: Tertiary sources — encyclopedias, dictionaries, handbooks, and textbooks — gather and organise information from primary and secondary sources to provide quick reference and broad overviews."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is an example of a SECONDARY information source?",
+      "options": {
+        "A": "Raw experimental data collected by a scientist",
+        "B": "A personal diary",
+        "C": "An academic journal article analysing survey results",
+        "D": "A government statistics database"
+      },
+      "correctAnswer": "C",
+      "explanation": "An academic journal article analysing survey results. Explanation: Secondary sources analyse, interpret, or summarise primary sources. Academic articles, books, documentaries, and news reports are secondary — they are created by someone who was not directly involved in the original event or data collection."
+    },
+    {
+      "id": 9,
+      "question": "Digital sources of information require which of the following additional consideration compared to print sources? ★",
+      "options": {
+        "A": "They must always be purchased",
+        "B": "They are always more reliable than print sources",
+        "C": "Critical evaluation for credibility and reliability, as anyone can publish online",
+        "D": "They can only be accessed by professionals"
+      },
+      "correctAnswer": "C",
+      "explanation": "Critical evaluation for credibility and reliability, as anyone can publish online. Explanation: Digital sources provide real-time updates and wide accessibility, but they require careful evaluation. Unlike peer-reviewed journals, online content lacks a mandatory quality filter — misinformation can spread easily."
+    },
+    {
+      "id": 10,
+      "question": "Which domain extension is most commonly associated with educational institutions and typically indicates reliable academic content? ★",
+      "options": {
+        "A": ".com",
+        "B": ".org",
+        "C": ".edu",
+        "D": ".net"
+      },
+      "correctAnswer": "C",
+      "explanation": ".edu. Explanation: Websites with the .edu domain belong to educational institutions like universities and colleges. They are generally reliable sources of academic and research content. Similarly, .gov indicates government websites."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is the BEST example of a human information source? ★",
+      "options": {
+        "A": "A Wikipedia article",
+        "B": "An online database",
+        "C": "Consulting a subject matter expert directly",
+        "D": "A government archive"
+      },
+      "correctAnswer": "C",
+      "explanation": "Consulting a subject matter expert directly. Explanation: Human sources include experts, mentors, colleagues, and community members who provide information through personal communication or expert consultation. This is distinct from documented sources."
+    },
+    {
+      "id": 12,
+      "question": "What is the key difference between print sources and electronic sources of information? ★",
+      "options": {
+        "A": "Print sources are always more accurate",
+        "B": "Electronic sources store and deliver information in digital form through electronic devices, while print sources use physical media",
+        "C": "Print sources are only available in libraries",
+        "D": "Electronic sources cannot be trusted"
+      },
+      "correctAnswer": "B",
+      "explanation": "Electronic sources store and deliver information in digital form through electronic devices, while print sources use physical media. Explanation: Print sources — books, newspapers, magazines — provide tangible, in-depth analysis. Electronic sources — online databases, e-books, digital journals — deliver the same type of content but in digital format accessible through devices."
+    },
+    {
+      "id": 13,
+      "question": "Which principle of safe information use requires giving credit to the original author when using their work?",
+      "options": {
+        "A": "Evaluating credibility",
+        "B": "Reporting misinformation",
+        "C": "Avoiding plagiarism",
+        "D": "Beware of bias"
+      },
+      "correctAnswer": "C",
+      "explanation": "Avoiding plagiarism. Explanation: Plagiarism is using someone else's work without proper attribution. Ethical information use requires always crediting the original author, whether quoting or paraphrasing, using appropriate citation formats such as APA."
+    },
+    {
+      "id": 14,
+      "question": "Data bias is described as:",
+      "options": {
+        "A": "A useful shortcut in data collection",
+        "B": "Errors or unfairness in data that lead to incorrect or unfair conclusions",
+        "C": "A method of encrypting sensitive data",
+        "D": "A technique for sorting large datasets"
+      },
+      "correctAnswer": "B",
+      "explanation": "Errors or unfairness in data that lead to incorrect or unfair conclusions. Explanation: Data bias occurs when errors, unfair sampling, or flawed collection methods distort results. In machine learning, biased data leads to biased decisions — making it a serious concern in AI systems."
+    },
+    {
+      "id": 15,
+      "question": "Selection bias in data collection occurs when: ★",
+      "options": {
+        "A": "The researcher analyses data incorrectly",
+        "B": "Certain individuals or groups are systematically excluded from the data collection process",
+        "C": "The sample size is too large",
+        "D": "Questions in a survey are too complex"
+      },
+      "correctAnswer": "B",
+      "explanation": "Certain individuals or groups are systematically excluded from the data collection process. Explanation: Selection bias happens when the sample does not fairly represent all relevant groups. For example, only interviewing candidates from one university introduces bias in hiring research by excluding graduates of other institutions."
+    },
+    {
+      "id": 16,
+      "question": "Sampling bias occurs when: ★",
+      "options": {
+        "A": "The researcher collects too much data",
+        "B": "The sample used does not accurately represent the entire population being studied",
+        "C": "Data is stored incorrectly in a database",
+        "D": "Survey questions are poorly worded"
+      },
+      "correctAnswer": "B",
+      "explanation": "The sample used does not accurately represent the entire population being studied. Explanation: Sampling bias is one of the most common forms of data bias. For example, conducting a survey only in urban areas excludes rural populations, producing results that cannot be generalised to the entire country."
+    },
+    {
+      "id": 17,
+      "question": "Observer bias (experimenter bias) in data collection refers to: ★",
+      "options": {
+        "A": "The observer correctly recording what they see",
+        "B": "The researcher's beliefs or expectations unconsciously influencing how they interpret or record data",
+        "C": "A computing error in data analysis software",
+        "D": "Participants lying to the researcher"
+      },
+      "correctAnswer": "B",
+      "explanation": "The researcher's beliefs or expectations unconsciously influencing how they interpret or record data. Explanation: Observer bias occurs when a researcher's pre-existing beliefs shape their interpretation of findings. For example, a scientist who expects a drug to work may unconsciously analyse results in a way that supports that expectation."
+    },
+    {
+      "id": 18,
+      "question": "Data interpretation bias refers to: ★",
+      "options": {
+        "A": "Recording data incorrectly in a database",
+        "B": "Interpreting data in a way that aligns with pre-existing beliefs rather than objective analysis",
+        "C": "Collecting data from too many sources",
+        "D": "Using outdated statistical methods"
+      },
+      "correctAnswer": "B",
+      "explanation": "Interpreting data in a way that aligns with pre-existing beliefs rather than objective analysis. Explanation: Data interpretation bias distorts understanding by filtering results through personal assumptions. Even when raw data is accurate, biased interpretation can lead to misleading conclusions and poor decisions."
+    },
+    {
+      "id": 19,
+      "question": "When using the internet for research, which of the following is a safe and responsible practice? ★",
+      "options": {
+        "A": "Using only social media as your primary information source",
+        "B": "Trusting any website that appears in the top search result",
+        "C": "Cross-checking information from multiple reputable sources before accepting it",
+        "D": "Copying content directly from websites without attribution"
+      },
+      "correctAnswer": "C",
+      "explanation": "Cross-checking information from multiple reputable sources before accepting it. Explanation: Responsible information use requires verifying facts across multiple credible sources. If several reputable, independent sources report the same information, it is more likely to be accurate and reliable."
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is a WARNING SIGN that an information source may be unreliable? ★",
+      "options": {
+        "A": "The source is a peer-reviewed academic journal",
+        "B": "The website ends in .gov",
+        "C": "The source is anonymous and lacks transparency about its authors or affiliations",
+        "D": "The source cites multiple verified studies"
+      },
+      "correctAnswer": "C",
+      "explanation": "The source is anonymous and lacks transparency about its authors or affiliations. Explanation: Anonymous sources with no named authors or disclosed affiliations are difficult to verify. Credible sources are transparent about who produces the content and their qualifications in the field."
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is the MOST reliable source of scientific or academic information? ★",
+      "options": {
+        "A": "A personal blog post",
+        "B": "A social media post from a popular account",
+        "C": "A peer-reviewed academic journal article",
+        "D": "A news article shared widely on WhatsApp"
+      },
+      "correctAnswer": "C",
+      "explanation": "A peer-reviewed academic journal article. Explanation: Peer-reviewed journals require expert scrutiny before publication. Articles are reviewed by specialists in the field, making them among the most reliable sources for scientific and academic information."
+    },
+    {
+      "id": 22,
+      "question": "Why should social media NOT be used as a primary source of information? ★",
+      "options": {
+        "A": "Social media is too slow to access",
+        "B": "Information on social media can spread rapidly but is often not fact-checked for accuracy",
+        "C": "Social media only contains personal opinions",
+        "D": "Social media requires a subscription to access"
+      },
+      "correctAnswer": "B",
+      "explanation": "Information on social media can spread rapidly but is often not fact- checked for accuracy Explanation: Social media platforms allow anyone to post and share content without verification. Misinformation, rumours, and unverified claims can go viral quickly, making social media an unreliable primary information source."
+    },
+    {
+      "id": 23,
+      "question": "Library databases such as JSTOR, PubMed, and Google Scholar are considered reliable because: ★",
+      "options": {
+        "A": "They are free to access for all users",
+        "B": "They contain only government data",
+        "C": "They host peer-reviewed, academically vetted research and scholarly publications",
+        "D": "They are updated in real-time"
+      },
+      "correctAnswer": "C",
+      "explanation": "They host peer-reviewed, academically vetted research and scholarly publications. Explanation: Library databases contain curated academic content that has passed rigorous review processes. They are a trusted resource for research because the content is validated by experts before publication."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following is a characteristic of UNRELIABLE information? ★",
+      "options": {
+        "A": "It is published by a government agency",
+        "B": "It has been cross-checked by multiple experts",
+        "C": "It lacks evidence, transparency, or verifiable sources",
+        "D": "It appears in a peer-reviewed journal"
+      },
+      "correctAnswer": "C",
+      "explanation": "It lacks evidence, transparency, or verifiable sources. Explanation: Unreliable information often lacks citations, named authors, or verifiable evidence. It may come from biased outlets, anonymous sources, or unverified user-generated content that has not been fact-checked."
+    },
+    {
+      "id": 25,
+      "question": "Outdated information can be considered unreliable because: ★",
+      "options": {
+        "A": "Older information is always wrong",
+        "B": "The context or facts may have changed, making the information no longer accurate for current situations",
+        "C": "It is only available in printed form",
+        "D": "It was collected using manual methods"
+      },
+      "correctAnswer": "B",
+      "explanation": "The context or facts may have changed, making the information no longer accurate for current situations. Explanation: Information that was accurate in the past may no longer apply if circumstances have changed — for example, outdated medical guidelines or old population statistics. Always check the publication date of a source."
+    },
+    {
+      "id": 26,
+      "question": "What is the primary purpose of a search engine? ★",
+      "options": {
+        "A": "To store data permanently in a database",
+        "B": "To help users find specific information among the vast amount of content available online",
+        "C": "To encrypt internet traffic",
+        "D": "To create websites automatically"
+      },
+      "correctAnswer": "B",
+      "explanation": "To help users find specific information among the vast amount of content available online. Explanation: Search engines like Google index vast amounts of online content and use algorithms to retrieve and rank the most relevant results based on the user's keywords and search query."
+    },
+    {
+      "id": 27,
+      "question": "Which data source verification task is BEST suited for humans rather than computers? ★",
+      "options": {
+        "A": "Sorting a million records alphabetically",
+        "B": "Calculating statistical summaries of a large dataset",
+        "C": "Assessing the credibility and tone of a news article",
+        "D": "Checking data against predefined formatting rules"
+      },
+      "correctAnswer": "C",
+      "explanation": "Assessing the credibility and tone of a news article. Explanation: Evaluating credibility, tone, and journalistic ethics requires subjective human judgment — understanding of social context, cultural norms, and nuance that computers cannot reliably replicate."
+    },
+    {
+      "id": 28,
+      "question": "Which data verification task is BEST handled by a computer rather than a human? ★",
+      "options": {
+        "A": "Judging whether an interview response is emotionally authentic",
+        "B": "Deciding whether a piece of content violates cultural norms",
+        "C": "Sorting and filtering a dataset of one million rows",
+        "D": "Evaluating the ethical implications of a research question"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sorting and filtering a dataset of one million rows. Explanation: Computers excel at fast, accurate, repetitive tasks involving large volumes of data. Sorting and filtering a million records takes seconds for a computer but would take humans an impossibly long time."
+    },
+    {
+      "id": 29,
+      "question": "In data verification, 'pattern recognition' refers to a task that is: ★",
+      "options": {
+        "A": "Best done manually by experienced researchers",
+        "B": "Ideally handled by machine learning algorithms to detect anomalies and trends",
+        "C": "Only relevant in image processing",
+        "D": "Too complex for both humans and computers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ideally handled by machine learning algorithms to detect anomalies and trends. Explanation: Pattern recognition — identifying trends, anomalies, or regularities in data — is a strength of machine learning. Algorithms can process vast datasets and detect patterns that would be invisible or impractical for human reviewers."
+    },
+    {
+      "id": 30,
+      "question": "Computing is best described as: ★",
+      "options": {
+        "A": "Only the act of performing arithmetic calculations",
+        "B": "The process of using computers and computational systems to perform tasks, solve problems, and process information",
+        "C": "Exclusively the hardware components of a computer",
+        "D": "The design of graphical user interfaces"
+      },
+      "correctAnswer": "B",
+      "explanation": "The process of using computers and computational systems to perform tasks, solve problems, and process information. Explanation: Computing encompasses hardware, software, algorithms, and data — it includes any activity involving the use of computers and digital devices to process, store, or communicate information."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is a POSITIVE environmental impact of increased connectivity? ★",
+      "options": {
+        "A": "Increased e-waste generation from discarded devices",
+        "B": "Higher energy consumption from data centres",
+        "C": "Remote work and online meetings reducing carbon emissions from commuting and travel",
+        "D": "Greater extraction of rare earth metals for device production"
+      },
+      "correctAnswer": "C",
+      "explanation": "Remote work and online meetings reducing carbon emissions from commuting and travel. Explanation: Increased connectivity enables remote work and virtual meetings, reducing the need for physical travel. This leads to lower carbon emissions from transportation, which is a positive environmental impact."
+    },
+    {
+      "id": 32,
+      "question": "E-waste is a negative environmental impact of increased connectivity because: ★",
+      "options": {
+        "A": "Electronic devices produce too much noise",
+        "B": "The rapid proliferation of devices leads to more electronic waste, which is harmful if improperly disposed of",
+        "C": "Connectivity causes water pollution directly",
+        "D": "Digital data storage produces physical waste"
+      },
+      "correctAnswer": "B",
+      "explanation": "The rapid proliferation of devices leads to more electronic waste, which is harmful if improperly disposed of. Explanation: As devices become obsolete and are discarded rapidly, e-waste accumulates. Improper disposal of electronic components releases toxic substances such as lead, mercury, and cadmium into the environment."
+    },
+    {
+      "id": 33,
+      "question": "The 'digital divide' refers to: ★",
+      "options": {
+        "A": "The difference in speed between wired and wireless internet",
+        "B": "The gap between people who have access to digital technologies and those who do not",
+        "C": "The difference in screen sizes between devices",
+        "D": "A type of data bias in digital datasets"
+      },
+      "correctAnswer": "B",
+      "explanation": "The gap between people who have access to digital technologies and those who do not. Explanation: The digital divide describes the disparity in access to and use of digital technologies between different groups — based on income, location, age, or education. It intensifies existing social inequalities."
+    },
+    {
+      "id": 34,
+      "question": "Increased connectivity has contributed to creating a 'global village' by: ★",
+      "options": {
+        "A": "Eliminating all cultural differences worldwide",
+        "B": "Making it impossible for local cultures to survive",
+        "C": "Enabling people from different cultures to connect, share ideas, and learn from each other",
+        "D": "Restricting information to a single language"
+      },
+      "correctAnswer": "B",
+      "explanation": "Enabling people from different cultures to connect, share ideas, and learn from each other Explanation: The global village concept describes how connectivity shrinks perceived distances — people worldwide can share cultural practices, customs, and perspectives in real-time, fostering cross-cultural understanding."
+    },
+    {
+      "id": 35,
+      "question": "Which of the following is a NEGATIVE effect of increased connectivity on individuals? ★",
+      "options": {
+        "A": "Easier communication with family and friends",
+        "B": "Access to faster information",
+        "C": "Potential for screen addiction and the spread of misinformation",
+        "D": "More opportunities for online education"
+      },
+      "correctAnswer": "C",
+      "explanation": "Potential for screen addiction and the spread of misinformation. Explanation: While connectivity brings many benefits, excessive use can lead to screen addiction and dependence on social media. Additionally, false information can spread rapidly through connected networks, causing harm."
+    },
+    {
+      "id": 36,
+      "question": "The Internet of Things (IoT) contributes to positive environmental impact through: ★",
+      "options": {
+        "A": "Increasing the number of devices that consume power",
+        "B": "Enabling more efficient use of resources like water and electricity through smart management",
+        "C": "Replacing renewable energy with digital energy",
+        "D": "Generating large amounts of e-waste"
+      },
+      "correctAnswer": "B",
+      "explanation": "Enabling more efficient use of resources like water and electricity through smart management. Explanation: IoT-enabled devices can monitor and optimise resource usage in real-time — for example, smart irrigation systems reduce water waste and smart grids improve electricity distribution efficiency."
+    },
+    {
+      "id": 37,
+      "question": "Assistive technologies are designed primarily to: ★",
+      "options": {
+        "A": "Replace all traditional tools in offices",
+        "B": "Help individuals with disabilities perform tasks they might otherwise have difficulty with",
+        "C": "Speed up data processing in databases",
+        "D": "Provide internet access in rural areas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Help individuals with disabilities perform tasks they might otherwise have difficulty with. Explanation: Assistive technologies enhance independence, functionality, and quality of life for people with disabilities by addressing physical, sensory, or cognitive barriers in daily activities."
+    },
+    {
+      "id": 38,
+      "question": "Which of the following is an example of an assistive technology for visually impaired users? ★",
+      "options": {
+        "A": "A touchscreen keyboard",
+        "B": "A screen reader that reads text aloud",
+        "C": "A wireless mouse",
+        "D": "A high-resolution monitor"
+      },
+      "correctAnswer": "B",
+      "explanation": "A screen reader that reads text aloud. Explanation: Screen readers are software programs that convert text displayed on a screen into synthesised speech or braille output, enabling blind or visually impaired users to navigate and use computers independently."
+    },
+    {
+      "id": 39,
+      "question": "Voice recognition software as an assistive technology is primarily used to help: ★",
+      "options": {
+        "A": "People who struggle with spelling",
+        "B": "People with physical disabilities who cannot easily use traditional input devices like keyboards",
+        "C": "People with hearing impairments",
+        "D": "People who type too slowly"
+      },
+      "correctAnswer": "B",
+      "explanation": "People with physical disabilities who cannot easily use traditional input devices like keyboards. Explanation: Voice recognition software enables users to control computers and input text using spoken commands. This is especially valuable for individuals with physical disabilities that prevent them from using standard keyboards or mice."
+    },
+    {
+      "id": 40,
+      "question": "Which technological innovation uses radio waves to provide high-speed wireless internet access over short to medium distances? ★",
+      "options": {
+        "A": "Bluetooth",
+        "B": "5G cellular network",
+        "C": "Wi-Fi",
+        "D": "NFC"
+      },
+      "correctAnswer": "C",
+      "explanation": "Wi-Fi. Explanation: Wi-Fi (Wireless Fidelity) uses radio waves to provide wireless internet connectivity in homes, offices, and public spaces. It has revolutionised how devices connect to the internet without physical cables."
+    },
+    {
+      "id": 41,
+      "question": "What is the primary advantage of 5G networks over 4G networks? ★",
+      "options": {
+        "A": "5G works only indoors",
+        "B": "5G requires no internet infrastructure",
+        "C": "5G offers faster data speeds, lower latency, and greater capacity",
+        "D": "5G uses satellite signals exclusively"
+      },
+      "correctAnswer": "C",
+      "explanation": "5G offers faster data speeds, lower latency, and greater capacity. Explanation: Fifth-generation (5G) networks significantly improve on 4G by delivering dramatically faster data transfer, near-zero latency, and the ability to connect far more devices simultaneously — enabling advanced IoT and real-time applications."
+    },
+    {
+      "id": 42,
+      "question": "Bluetooth technology is primarily used for: ★",
+      "options": {
+        "A": "Long-distance internet connectivity",
+        "B": "Connecting devices wirelessly over short distances without cables",
+        "C": "Providing cellular network coverage",
+        "D": "Encrypting internet traffic"
+      },
+      "correctAnswer": "B",
+      "explanation": "Connecting devices wirelessly over short distances without cables. Explanation: Bluetooth is a short-range wireless standard used to connect peripherals like headphones, keyboards, and speakers to smartphones, tablets, and computers — eliminating the need for cables over short distances."
+    },
+    {
+      "id": 43,
+      "question": "The digital divide can worsen existing social inequalities because: ★",
+      "options": {
+        "A": "It makes technology more expensive for everyone",
+        "B": "Those without access to digital technologies miss out on education, economic opportunities, and information available to connected communities",
+        "C": "It reduces the speed of internet for wealthy users",
+        "D": "It limits the types of devices available in developed countries"
+      },
+      "correctAnswer": "B",
+      "explanation": "Those without access to digital technologies miss out on education, economic opportunities, and information available to connected communities. Explanation: The digital divide creates a two-tier society. Those on the wrong side lack access to online learning, remote work, e-government services, and digital markets — deepening existing economic and social inequalities."
+    },
+    {
+      "id": 44,
+      "question": "Cloud computing enhances connectivity by enabling: ★",
+      "options": {
+        "A": "Storing data only on local hard drives",
+        "B": "Remote access to data, applications, and services from multiple platforms and locations",
+        "C": "Replacing mobile networks entirely",
+        "D": "Providing offline access without any internet connection"
+      },
+      "correctAnswer": "B",
+      "explanation": "Remote access to data, applications, and services from multiple platforms and locations. Explanation: Cloud computing allows individuals and organisations to access shared resources — storage, applications, collaboration tools — from any device and location with an internet connection, fostering connectivity and cooperation."
+    },
+    {
+      "id": 45,
+      "question": "Social media platforms have changed connectivity by: ★",
+      "options": {
+        "A": "Eliminating the need for email",
+        "B": "Making phone calls obsolete",
+        "C": "Revolutionising how people communicate, share information, and build relationships globally",
+        "D": "Replacing traditional databases"
+      },
+      "correctAnswer": "C",
+      "explanation": "Revolutionising how people communicate, share information, and build relationships globally. Explanation: Platforms like Facebook, Twitter, Instagram, and LinkedIn allow users to maintain relationships, share content, and connect with others who share common interests across geographical boundaries."
+    },
+    {
+      "id": 46,
+      "question": "Privacy issues arising from increased connectivity are a concern because: ★",
+      "options": {
+        "A": "More connectivity means less data is collected",
+        "B": "Connectivity often involves collecting and storing vast amounts of personal data, creating risk of breaches and misuse",
+        "C": "Privacy laws prevent all data collection online",
+        "D": "Connected devices are always encrypted"
+      },
+      "correctAnswer": "B",
+      "explanation": "Connectivity often involves collecting and storing vast amounts of personal data, creating risk of breaches and misuse. Explanation: As devices and platforms collect more personal data, the risk of data breaches, surveillance, and misuse of private information increases. This raises significant ethical, social, and legal concerns."
+    },
+    {
+      "id": 47,
+      "question": "Resource extraction as a harmful environmental impact of connectivity refers to: ★",
+      "options": {
+        "A": "Extracting useful data from large databases",
+        "B": "Mining raw materials such as rare earth metals to produce electronic devices, contributing to habitat destruction",
+        "C": "Using cloud servers to extract and process big data",
+        "D": "Downloading large files from the internet"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mining raw materials such as rare earth metals to produce electronic devices, contributing to habitat destruction. Explanation: The production of smartphones, computers, and other connected devices requires rare earth metals and other materials. Extracting these resources through mining causes habitat destruction and environmental degradation."
+    },
+    {
+      "id": 48,
+      "question": "Enhanced connectivity can help the environment through real-time environmental monitoring by: ★",
+      "options": {
+        "A": "Storing environmental data in blockchain",
+        "B": "Detecting and responding to issues like pollution, deforestation, and natural disasters more quickly and accurately",
+        "C": "Replacing human environmental scientists",
+        "D": "Encrypting satellite data"
+      },
+      "correctAnswer": "B",
+      "explanation": "Detecting and responding to issues like pollution, deforestation, and natural disasters more quickly and accurately. Explanation: Connected sensor networks and satellite systems enable continuous, real-time monitoring of environmental conditions. This allows faster detection of environmental threats and more timely intervention."
+    },
+    {
+      "id": 49,
+      "question": "Collecting personal data without the user's informed consent is an example of:",
+      "options": {
+        "A": "Good data management practice",
+        "B": "An ethical violation in data collection",
+        "C": "Efficient data mining",
+        "D": "Standard market research"
+      },
+      "correctAnswer": "B",
+      "explanation": "An ethical violation in data collection. Explanation: Informed consent is a fundamental data ethics principle — participants must know what data is collected, why, and how it will be used. Collecting data without consent violates individuals' rights and data protection laws."
+    },
+    {
+      "id": 50,
+      "question": "Which of the following BEST describes the positive effect of increased connectivity on people? ★",
+      "options": {
+        "A": "It always leads to improved mental health",
+        "B": "It eliminates the risk of misinformation",
+        "C": "It makes it easier to communicate with others, access information rapidly, and pursue online education and work opportunities",
+        "D": "It removes the need for face-to-face interaction entirely"
+      },
+      "correctAnswer": "B",
+      "explanation": "It makes it easier to communicate with others, access information rapidly, and pursue online education and work opportunities Explanation: Increased connectivity has enabled faster communication, wider access to knowledge, and new opportunities for remote work and online learning — transforming daily life positively for billions of connected individuals."
+    },
+    {
+      "id": 51,
+      "question": "Which of the following adaptive equipment examples is mentioned as assistive technology for people with physical limitations? ★",
+      "options": {
+        "A": "Standard QWERTY keyboards",
+        "B": "Touch-based smartphones",
+        "C": "Modified keyboards, switches, or joystick controllers",
+        "D": "Regular computer mice"
+      },
+      "correctAnswer": "C",
+      "explanation": "Modified keyboards, switches, or joystick controllers. Explanation: Adaptive equipment — including modified keyboards, switches, and joystick controllers — enables people with physical limitations to interact with computers in ways that standard input devices would not accommodate."
+    },
+    {
+      "id": 52,
+      "question": "Big data and analytics improve connectivity between organisations and customers by: ★",
+      "options": {
+        "A": "Replacing all human customer service agents",
+        "B": "Enabling data-driven personalisation and better decision-making based on analysis of large datasets",
+        "C": "Limiting the amount of data that can be stored online",
+        "D": "Making all customer data publicly available"
+      },
+      "correctAnswer": "B",
+      "explanation": "Enabling data-driven personalisation and better decision-making based on analysis of large datasets. Explanation: Computing power enables organisations to process and analyse vast amounts of customer data, improving personalisation, product recommendations, and strategic decision- making — strengthening the organisation-customer relationship."
+    }
+  ],
+  "subject": "cs"
+}

@@ -1,0 +1,212 @@
+{
+  "chapterNumber": 11,
+  "chapterTitle": "وفاقی بورڈ سالانہ امتحان ماڈل سمیلیٹر ۳ (FBISE CS Board Simulator Paper 3)",
+  "totalQuestions": 17,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following Boolean expressions represents the absorption law in Boolean algebra?",
+      "options": {
+        "A": "A + (B · C) = (A + B) · (A + C)",
+        "B": "A · (A + B) = A",
+        "C": "(A + B)' = A' · B'",
+        "D": "A + A' = 1"
+      },
+      "correctAnswer": "B",
+      "explanation": "The absorption law states that A · (A + B) = A and A + (A · B) = A. Expanding A · (A + B) gives A·A + A·B = A + A·B = A·(1 + B) = A·1 = A."
+    },
+    {
+      "id": 2,
+      "question": "Which number system uses the digits 0 to 9 along with letters A through F to represent values?",
+      "options": {
+        "A": "Binary",
+        "B": "Octal",
+        "C": "Decimal",
+        "D": "Hexadecimal"
+      },
+      "correctAnswer": "D",
+      "explanation": "Hexadecimal is a base-16 number system using 16 distinct symbols: 0–9 for numerical values 0 to 9, and A–F for decimal values 10 to 15."
+    },
+    {
+      "id": 3,
+      "question": "In flowchart design, which geometric shape represents a conditional decision point with multiple exit paths?",
+      "options": {
+        "A": "Rectangle",
+        "B": "Parallelogram",
+        "C": "Diamond (Rhombus)",
+        "D": "Oval"
+      },
+      "correctAnswer": "C",
+      "explanation": "A diamond symbol represents a decision operation where an expression is evaluated (e.g. Yes/No, True/False) and control branches along corresponding path lines."
+    },
+    {
+      "id": 4,
+      "question": "How many comparisons will Binary Search make in the worst case to locate a value in a sorted list of 1,024 elements?",
+      "options": {
+        "A": "10",
+        "B": "1024",
+        "C": "512",
+        "D": "11"
+      },
+      "correctAnswer": "A",
+      "explanation": "Binary search divides the remaining items in half on each step. Since 2^10 = 1024, the maximum number of comparisons needed is log₂(1024) = 10."
+    },
+    {
+      "id": 5,
+      "question": "What is the result of evaluating the following Python snippet: [x**2 for x in range(4)]?",
+      "options": {
+        "A": "[1, 4, 9, 16]",
+        "B": "[0, 1, 4, 9]",
+        "C": "[0, 2, 4, 6]",
+        "D": "[1, 2, 3, 4]"
+      },
+      "correctAnswer": "B",
+      "explanation": "The list comprehension iterates over range(4) which generates integers 0, 1, 2, 3. Squaring each yields 0^2=0, 1^2=1, 2^2=4, and 3^2=9 -> [0, 1, 4, 9]."
+    },
+    {
+      "id": 6,
+      "question": "In Python function definitions, what allows a function to accept an arbitrary number of positional arguments?",
+      "options": {
+        "A": "**kwargs",
+        "B": "*args",
+        "C": "&params",
+        "D": "$vars"
+      },
+      "correctAnswer": "B",
+      "explanation": "*args allows a Python function to accept an arbitrary number of positional arguments unpacked into a tuple, while **kwargs handles variable keyword arguments."
+    },
+    {
+      "id": 7,
+      "question": "Which Python keyword terminates the execution of the current loop immediately and transfers control to the statement following the loop?",
+      "options": {
+        "A": "continue",
+        "B": "pass",
+        "C": "break",
+        "D": "return"
+      },
+      "correctAnswer": "C",
+      "explanation": "The 'break' statement terminates the nearest enclosing loop prematurely, skipping any remaining iterations and executing subsequent statements."
+    },
+    {
+      "id": 8,
+      "question": "In statistics and data analysis, what does a correlation coefficient of r = -0.92 indicate?",
+      "options": {
+        "A": "Strong positive linear relationship",
+        "B": "Weak negative relationship",
+        "C": "Strong negative linear relationship",
+        "D": "No relationship between variables"
+      },
+      "correctAnswer": "C",
+      "explanation": "A Pearson correlation coefficient close to -1.0 (such as -0.92) indicates a strong negative linear association: as one variable increases, the other decreases systematically."
+    },
+    {
+      "id": 9,
+      "question": "In database design, which constraint prevents duplicate values from being inserted into a column while permitting NULL values?",
+      "options": {
+        "A": "PRIMARY KEY",
+        "B": "UNIQUE",
+        "C": "FOREIGN KEY",
+        "D": "CHECK"
+      },
+      "correctAnswer": "B",
+      "explanation": "The UNIQUE constraint ensures that all values in a column are distinct across rows. Unlike PRIMARY KEY, UNIQUE columns can typically permit NULL values."
+    },
+    {
+      "id": 10,
+      "question": "What is the primary role of an IoT (Internet of Things) sensor device?",
+      "options": {
+        "A": "To compile application software into machine code",
+        "B": "To detect physical environmental changes and convert them into electrical signals for transmission",
+        "C": "To replace central relational database servers",
+        "D": "To render high-resolution 3D computer graphics"
+      },
+      "correctAnswer": "B",
+      "explanation": "IoT sensors collect physical data from their environment (temperature, light, pressure, motion) and convert physical properties into readable digital signals."
+    },
+    {
+      "id": 11,
+      "question": "Which cryptographic encryption method utilizes a public key for encryption and a distinct private key for decryption?",
+      "options": {
+        "A": "Symmetric Encryption",
+        "B": "Asymmetric Encryption",
+        "C": "Hashing (SHA-256)",
+        "D": "Rotational Cipher"
+      },
+      "correctAnswer": "B",
+      "explanation": "Asymmetric (public-key) cryptography uses a mathematically linked key pair: anyone can encrypt using the recipient's public key, but only the recipient's private key can decrypt."
+    },
+    {
+      "id": 12,
+      "question": "Which network transmission media offers the highest data transmission bandwidth and total immunity to electromagnetic interference (EMI)?",
+      "options": {
+        "A": "Unshielded Twisted Pair (UTP)",
+        "B": "Shielded Twisted Pair (STP)",
+        "C": "Coaxial Cable",
+        "D": "Fiber Optic Cable"
+      },
+      "correctAnswer": "D",
+      "explanation": "Fiber optic cables transmit data as pulses of light through flexible glass or silica strands, providing immense bandwidth and complete immunity to electrical noise and EMI."
+    },
+    {
+      "id": 13,
+      "question": "In operating systems, what is the term for a situation where two or more processes are permanently blocked because each holds a resource the other needs?",
+      "options": {
+        "A": "Starvation",
+        "B": "Deadlock",
+        "C": "Race Condition",
+        "D": "Thrashing"
+      },
+      "correctAnswer": "B",
+      "explanation": "A deadlock is a condition in concurrent programming and OS process management where two or more processes are unable to proceed because each is waiting for resources held by the other."
+    },
+    {
+      "id": 14,
+      "question": "Which component of the Central Processing Unit (CPU) directs the flow of data and manages execution timing throughout the system?",
+      "options": {
+        "A": "Arithmetic Logic Unit (ALU)",
+        "B": "Control Unit (CU)",
+        "C": "Secondary Cache",
+        "D": "Memory Management Unit (MMU)"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Control Unit (CU) coordinates the operations of the processor. It directs the fetch-decode-execute cycle and generates synchronization control signals for all hardware components."
+    },
+    {
+      "id": 15,
+      "question": "Which type of software testing verifies that individual program modules or functions operate correctly in isolation?",
+      "options": {
+        "A": "System Testing",
+        "B": "Integration Testing",
+        "C": "Unit Testing",
+        "D": "Acceptance Testing"
+      },
+      "correctAnswer": "C",
+      "explanation": "Unit testing tests individual software components or modules in isolation to ensure each atomic function performs its intended operations according to specification."
+    },
+    {
+      "id": 16,
+      "question": "In the five-stage Design Thinking methodology, which stage immediately follows the 'Define' stage?",
+      "options": {
+        "A": "Empathize",
+        "B": "Prototype",
+        "C": "Ideate",
+        "D": "Test"
+      },
+      "correctAnswer": "C",
+      "explanation": "The five standard stages of Design Thinking are: 1. Empathize -> 2. Define -> 3. Ideate -> 4. Prototype -> 5. Test. Therefore, Ideate immediately follows Define."
+    },
+    {
+      "id": 17,
+      "question": "What is the primary risk associated with training an AI model on a dataset containing historical human biases?",
+      "options": {
+        "A": "The training time increases exponentially",
+        "B": "The model will amplify and perpetuate algorithmic bias in real-world predictions and classifications",
+        "C": "The model parameters will overflow memory registers",
+        "D": "The network connection will fail"
+      },
+      "correctAnswer": "B",
+      "explanation": "Machine learning models learn patterns present in training data. If training data reflects historical human prejudices, the model will learn, automate, and amplify those discriminatory patterns."
+    }
+  ],
+  "subject": "cs"
+}

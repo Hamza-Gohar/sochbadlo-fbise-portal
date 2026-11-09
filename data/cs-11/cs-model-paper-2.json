@@ -1,0 +1,212 @@
+{
+  "chapterNumber": 10,
+  "chapterTitle": "وفاقی بورڈ سالانہ امتحان ماڈل سمیلیٹر ۲ (FBISE CS Board Simulator Paper 2)",
+  "totalQuestions": 17,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which logic gate corresponds to the boolean expression Y = (A · B)'?",
+      "options": {
+        "A": "NOR Gate",
+        "B": "NAND Gate",
+        "C": "XNOR Gate",
+        "D": "AND Gate"
+      },
+      "correctAnswer": "B",
+      "explanation": "The expression (A · B)' represents the negation of an AND gate, which is the definition of a NAND (Not-AND) universal gate."
+    },
+    {
+      "id": 2,
+      "question": "In Von Neumann architecture, which bus is unidirectional and carries memory addresses from the CPU to RAM?",
+      "options": {
+        "A": "Data Bus",
+        "B": "Address Bus",
+        "C": "Control Bus",
+        "D": "System Expansion Bus"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Address Bus is unidirectional; the CPU sends the physical memory address it wants to read from or write to memory or I/O devices."
+    },
+    {
+      "id": 3,
+      "question": "Which algorithm design technique hides complex implementation details and exposes only essential interfaces to the user?",
+      "options": {
+        "A": "Decomposition",
+        "B": "Abstraction",
+        "C": "Pattern Generalization",
+        "D": "Iteration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Abstraction filters out extraneous details that are not necessary for solving the immediate problem, allowing programmers to focus on higher-level conceptual design."
+    },
+    {
+      "id": 4,
+      "question": "What is the best-case time complexity of Linear Search when searching for an element in an unsorted array of size n?",
+      "options": {
+        "A": "O(1)",
+        "B": "O(log n)",
+        "C": "O(n)",
+        "D": "O(n²)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The best case occurs when the target element happens to be the very first element in the array (at index 0), requiring only a single comparison: O(1)."
+    },
+    {
+      "id": 5,
+      "question": "What will be the output of the Python code: print('FBISE'[::-1])?",
+      "options": {
+        "A": "FBISE",
+        "B": "ESIBF",
+        "C": "Error",
+        "D": "E"
+      },
+      "correctAnswer": "B",
+      "explanation": "Python slice notation [start:stop:step] with step = -1 traverses the string in reverse order from the end to the beginning: 'E', 'S', 'I', 'B', 'F'."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following is an IMMUTABLE data type in Python?",
+      "options": {
+        "A": "List",
+        "B": "Dictionary",
+        "C": "Tuple",
+        "D": "Set"
+      },
+      "correctAnswer": "C",
+      "explanation": "Tuples in Python are immutable; once instantiated, their elements cannot be modified, added, or deleted, providing data integrity and read-only safety."
+    },
+    {
+      "id": 7,
+      "question": "In Python, which keyword is used to handle exceptions caught within a 'try' code block?",
+      "options": {
+        "A": "catch",
+        "B": "except",
+        "C": "error",
+        "D": "finally"
+      },
+      "correctAnswer": "B",
+      "explanation": "Unlike C++ or Java which use 'catch', Python uses the 'except' keyword to intercept and manage exceptions thrown during execution inside a 'try' block."
+    },
+    {
+      "id": 8,
+      "question": "Which chart type is best suited to display the frequency distribution of a continuous numerical variable?",
+      "options": {
+        "A": "Pie Chart",
+        "B": "Scatter Plot",
+        "C": "Histogram",
+        "D": "Line Chart"
+      },
+      "correctAnswer": "C",
+      "explanation": "A histogram groups continuous numerical data into bins and represents the frequency of occurrences in each bin using adjacent rectangular bars."
+    },
+    {
+      "id": 9,
+      "question": "In database normalization, what does a Primary Key uniquely identify?",
+      "options": {
+        "A": "A specific column data type",
+        "B": "Each distinct row (record) in a table",
+        "C": "Foreign relationships only",
+        "D": "The database server IP address"
+      },
+      "correctAnswer": "B",
+      "explanation": "A Primary Key is an attribute or combination of attributes that uniquely identifies every individual row or tuple within a database table and cannot contain null values."
+    },
+    {
+      "id": 10,
+      "question": "In cloud computing, which service model provides on-demand virtualized hardware resources such as virtual machines, storage, and networking?",
+      "options": {
+        "A": "SaaS (Software as a Service)",
+        "B": "PaaS (Platform as a Service)",
+        "C": "IaaS (Infrastructure as a Service)",
+        "D": "DaaS (Data as a Service)"
+      },
+      "correctAnswer": "C",
+      "explanation": "IaaS (e.g. AWS EC2, Google Compute Engine) delivers raw computing infrastructure—virtual servers, networks, and storage—on which users deploy their own operating systems and software."
+    },
+    {
+      "id": 11,
+      "question": "Which artificial intelligence discipline focuses on enabling computer systems to interpret and extract meaningful insights from digital images and video streams?",
+      "options": {
+        "A": "Natural Language Processing",
+        "B": "Computer Vision",
+        "C": "Speech Recognition",
+        "D": "Robotic Process Automation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Computer Vision is the interdisciplinary field dealing with how computers can be made to gain high-level understanding from digital images or video frames."
+    },
+    {
+      "id": 12,
+      "question": "What is the purpose of SSL/TLS digital certificates in HTTPS protocol?",
+      "options": {
+        "A": "To compress web assets for faster loading",
+        "B": "To authenticate website identity and establish encrypted browser communications",
+        "C": "To store client cookie data permanently",
+        "D": "To replace DNS domain resolution"
+      },
+      "correctAnswer": "B",
+      "explanation": "SSL/TLS certificates authenticate the server's identity using public key infrastructure (PKI) and establish an encrypted session between the web browser and the server."
+    },
+    {
+      "id": 13,
+      "question": "Which network device operates at the Network Layer (Layer 3) to forward data packets across disparate computer networks using IP addresses?",
+      "options": {
+        "A": "Hub",
+        "B": "Switch",
+        "C": "Router",
+        "D": "Repeater"
+      },
+      "correctAnswer": "C",
+      "explanation": "A router operates at Layer 3 (Network Layer) of the OSI model. It examines packet header destination IP addresses and determines the optimal path across networks."
+    },
+    {
+      "id": 14,
+      "question": "What is cache memory, and why is it implemented between the CPU registers and main RAM?",
+      "options": {
+        "A": "High-capacity magnetic storage for long-term OS backups",
+        "B": "Small, extremely fast static RAM (SRAM) that reduces CPU memory access latency",
+        "C": "Optical storage used to store BIOS instructions",
+        "D": "Virtual memory allocated on secondary hard disks"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cache memory (L1, L2, L3) is small, ultra-fast SRAM built close to or on the CPU die. It stores frequently used instructions and data to bridge the speed disparity between CPU and DRAM."
+    },
+    {
+      "id": 15,
+      "question": "In the Software Development Life Cycle (SDLC), which phase evaluates whether a proposed project is technically, economically, and operationally viable?",
+      "options": {
+        "A": "Implementation Phase",
+        "B": "Feasibility Study",
+        "C": "Testing Phase",
+        "D": "Deployment Phase"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Feasibility Study assesses the technical, economic, legal, and operational aspects of a project to determine whether it is practical to proceed before committing capital and resources."
+    },
+    {
+      "id": 16,
+      "question": "What is the primary objective of A/B testing in digital product optimization?",
+      "options": {
+        "A": "To run unit tests on backend database servers",
+        "B": "To compare two variants of a feature with live users to measure which achieves higher engagement",
+        "C": "To debug compilation syntax errors in source code",
+        "D": "To calculate financial balance sheets"
+      },
+      "correctAnswer": "B",
+      "explanation": "A/B testing is a user experience research methodology where two variants (A and B) of a page or feature are shown to randomized cohorts to statistically determine the higher-performing variant."
+    },
+    {
+      "id": 17,
+      "question": "Which legal protection grants creators exclusive rights over original artistic, literary, and software code works?",
+      "options": {
+        "A": "Patent",
+        "B": "Trademark",
+        "C": "Copyright",
+        "D": "Trade Secret"
+      },
+      "correctAnswer": "C",
+      "explanation": "Copyright protects original creative and intellectual works, including written software source code, preventing unauthorized reproduction, distribution, and duplication."
+    }
+  ],
+  "subject": "cs"
+}

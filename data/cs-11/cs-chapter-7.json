@@ -1,0 +1,632 @@
+{
+  "chapterNumber": 7,
+  "chapterTitle": "Chapter 7: Data Collection Strategies & Modeling",
+  "totalQuestions": 52,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A simulation in data collection is used to:",
+      "options": {
+        "A": "Interview real participants",
+        "B": "Model real-world scenarios digitally to collect data without physical experiments",
+        "C": "Store data in databases",
+        "D": "Format survey responses"
+      },
+      "correctAnswer": "B",
+      "explanation": "Model real-world scenarios digitally to collect data without physical experiments. Explanation: Simulations replicate complex systems computationally — such as crash tests, epidemics, or climate models — making data collection safe, repeatable, and cost-effective."
+    },
+    {
+      "id": 2,
+      "question": "A survey as a data collection method is most effective when:",
+      "options": {
+        "A": "Data is needed from one expert",
+        "B": "Detailed qualitative responses from one person are needed",
+        "C": "You need standardised information from a large number of people",
+        "D": "Physical measurements must be taken"
+      },
+      "correctAnswer": "C",
+      "explanation": "You need standardised information from a large number of people. Explanation: Surveys efficiently gather comparable responses from many people — ideal for studying attitudes, behaviour, and demographics at scale."
+    },
+    {
+      "id": 3,
+      "question": "Primary data differs from secondary data because primary data:",
+      "options": {
+        "A": "Was collected by someone else previously",
+        "B": "Is always cheaper to obtain",
+        "C": "Is collected firsthand by the researcher specifically for the current study",
+        "D": "Is only available in published books"
+      },
+      "correctAnswer": "C",
+      "explanation": "Is collected firsthand by the researcher specifically for the current study. Explanation: Primary data is original and purpose-specific. Secondary data is pre-existing, collected by others for different purposes."
+    },
+    {
+      "id": 4,
+      "question": "Which data collection method involves directly observing and recording behaviour without intervention?",
+      "options": {
+        "A": "Interview",
+        "B": "Survey",
+        "C": "Observation",
+        "D": "Experiment"
+      },
+      "correctAnswer": "C",
+      "explanation": "Observation. Explanation: Observation records behaviour as it naturally occurs — the researcher does not interfere with or manipulate the environment."
+    },
+    {
+      "id": 5,
+      "question": "An interview as a data collection method is most suitable when:",
+      "options": {
+        "A": "Data from thousands of people is needed",
+        "B": "Anonymous responses are essential",
+        "C": "In-depth, detailed responses from individuals are required",
+        "D": "Physical measurements are being taken"
+      },
+      "correctAnswer": "C",
+      "explanation": "In-depth, detailed responses from individuals are required. Explanation: Interviews enable follow-up questions and deeper exploration — best for qualitative insights that surveys cannot capture."
+    },
+    {
+      "id": 6,
+      "question": "What is the key characteristic of qualitative interviews compared to structured surveys? ★",
+      "options": {
+        "A": "Qualitative interviews use only yes/no questions",
+        "B": "Qualitative interviews use open-ended questions to gain in-depth, participant-centred insights",
+        "C": "Qualitative interviews are always conducted online",
+        "D": "Qualitative interviews only work with large groups of participants"
+      },
+      "correctAnswer": "B",
+      "explanation": "Qualitative interviews use open-ended questions to gain in-depth, participant-centred insights. Explanation: Qualitative interviews are informal or semi-structured research methods using open- ended questions. They focus on understanding the participant's viewpoint in depth, prioritising quality of insight over quantity of data."
+    },
+    {
+      "id": 7,
+      "question": "The first step in conducting a qualitative interview is: ★",
+      "options": {
+        "A": "Setting up recording equipment",
+        "B": "Selecting participants",
+        "C": "Clearly defining the research question or objective",
+        "D": "Transcribing previous interviews"
+      },
+      "correctAnswer": "C",
+      "explanation": "Clearly defining the research question or objective. Explanation: A well-defined research question provides the foundation and direction for the entire interview process. Without a clear objective, the interview lacks focus and may fail to produce meaningful, relevant data."
+    },
+    {
+      "id": 8,
+      "question": "Why is informed consent required before conducting a qualitative interview? ★",
+      "options": {
+        "A": "To ensure the interview is recorded in high quality",
+        "B": "To allow the researcher to use participant data without restriction",
+        "C": "To respect participants' autonomy — they must understand the purpose, procedures, and their right to withdraw",
+        "D": "To guarantee that participants will give positive responses"
+      },
+      "correctAnswer": "C",
+      "explanation": "To respect participants' autonomy — they must understand the purpose, procedures, and their right to withdraw. Explanation: Informed consent is an ethical requirement. Participants must be clearly told what the study involves, how their data will be used, and that participation is voluntary and they may withdraw at any time."
+    },
+    {
+      "id": 9,
+      "question": "What is the purpose of using probing techniques during a qualitative interview? ★",
+      "options": {
+        "A": "To confuse participants into giving longer answers",
+        "B": "To delve deeper into participant responses, seeking clarity, additional information, and underlying meaning",
+        "C": "To speed up the interview process",
+        "D": "To ensure all participants give identical answers"
+      },
+      "correctAnswer": "B",
+      "explanation": "To delve deeper into participant responses, seeking clarity, additional information, and underlying meaning. Explanation: Probing involves asking follow-up questions to explore answers more deeply. It uncovers layers of meaning that initial responses may not reveal, making qualitative interviews richer and more insightful."
+    },
+    {
+      "id": 10,
+      "question": "Why is audio or video recording preferred over written notes during qualitative interviews? ★",
+      "options": {
+        "A": "It makes the interview shorter",
+        "B": "It allows the interviewer to ignore participants during the session",
+        "C": "Recordings can be replayed to capture accurate, original responses without relying on memory",
+        "D": "It is required by law for all interviews"
+      },
+      "correctAnswer": "C",
+      "explanation": "Recordings can be replayed to capture accurate, original responses without relying on memory. Explanation: Audio and video recordings preserve the participant's exact words, tone, and emphasis. Written notes taken in real-time can miss details or reflect the interviewer's interpretation rather than the participant's actual response."
+    },
+    {
+      "id": 11,
+      "question": "In purposeful sampling for qualitative interviews, participants are selected based on: ★",
+      "options": {
+        "A": "Random selection from a phone directory",
+        "B": "Characteristics that align with the research question, ensuring diverse and relevant insights",
+        "C": "Alphabetical order of their names",
+        "D": "Whoever volunteers first"
+      },
+      "correctAnswer": "B",
+      "explanation": "Characteristics that align with the research question, ensuring diverse and relevant insights. Explanation: Purposeful sampling deliberately selects participants who can provide the most valuable, relevant information for the specific research question — rather than random selection, which is more appropriate for quantitative research."
+    },
+    {
+      "id": 12,
+      "question": "What should an interviewer do if a participant's response conflicts with the interviewer's personal opinion? ★",
+      "options": {
+        "A": "Correct the participant and explain the right answer",
+        "B": "Argue with the participant to resolve the disagreement",
+        "C": "Respect the participant's perspective without judgment and continue gathering their authentic view",
+        "D": "Stop the interview immediately"
+      },
+      "correctAnswer": "C",
+      "explanation": "Respect the participant's perspective without judgment and continue gathering their authentic view. Explanation: A qualitative interviewer must maintain neutrality. Imposing personal views compromises the authenticity of responses. The goal is to understand the participant's genuine perspective, regardless of whether it aligns with the researcher's own opinions."
+    },
+    {
+      "id": 13,
+      "question": "What does transcribing interview recordings involve? ★",
+      "options": {
+        "A": "Deleting the recorded audio after the interview",
+        "B": "Uploading recordings to social media",
+        "C": "Accurately converting spoken interview responses into written text for analysis",
+        "D": "Summarising only the most interesting parts of the interview"
+      },
+      "correctAnswer": "C",
+      "explanation": "Accurately converting spoken interview responses into written text for analysis. Explanation: Transcription creates a written record of the entire interview that can be systematically analysed. Accurate transcription is essential — errors at this stage compromise the validity of the entire research analysis."
+    },
+    {
+      "id": 14,
+      "question": "What distinguishes simulation as a data collection method from direct methods like interviews or surveys? ★",
+      "options": {
+        "A": "Simulation collects real responses from participants",
+        "B": "Simulation generates synthetic data that imitates real-world data without directly collecting from real participants",
+        "C": "Simulation is faster than all other methods",
+        "D": "Simulation requires no planning or model design"
+      },
+      "correctAnswer": "B",
+      "explanation": "Simulation generates synthetic data that imitates real-world data without directly collecting from real participants. Explanation: Simulation is an indirect method — instead of collecting real data, it creates synthetic data that replicates real-world patterns. This is useful when direct data collection is dangerous, costly, or impractical."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is a real-world example of data simulation mentioned in the textbook? ★",
+      "options": {
+        "A": "Conducting a face-to-face survey",
+        "B": "A pilot learning to fly in an aircraft simulator",
+        "C": "Publishing results in an academic journal",
+        "D": "Using Google Forms to collect responses"
+      },
+      "correctAnswer": "B",
+      "explanation": "A pilot learning to fly in an aircraft simulator. Explanation: A flight simulator generates synthetic conditions that imitate real flight — allowing pilots to train safely without the risks of actual flying. This is a classic example of simulation used for learning and data generation."
+    },
+    {
+      "id": 16,
+      "question": "Simulated data is particularly useful when: ★",
+      "options": {
+        "A": "Real-world data is readily available and easy to collect",
+        "B": "Direct data collection from the real world is either difficult, dangerous, or unreliable",
+        "C": "The research requires only a small sample size",
+        "D": "Participants are willing to share personal data freely"
+      },
+      "correctAnswer": "B",
+      "explanation": "Direct data collection from the real world is either difficult, dangerous, or unreliable. Explanation: Simulation is most valuable in scenarios where collecting real data is impractical — such as studying nuclear reactions, epidemics, or extreme weather — where direct experimentation would be impossible or unethical."
+    },
+    {
+      "id": 17,
+      "question": "The accuracy of a simulation depends on: ★",
+      "options": {
+        "A": "The number of computers used to run it",
+        "B": "The precision of the underlying mathematical or statistical model",
+        "C": "The speed of the internet connection",
+        "D": "The experience level of the participants"
+      },
+      "correctAnswer": "B",
+      "explanation": "The precision of the underlying mathematical or statistical model. Explanation: A simulation is only as accurate as the model it is built on. If the model correctly reflects real-world relationships and variables, the simulated data will closely approximate real- world behaviour."
+    },
+    {
+      "id": 18,
+      "question": "What is the key advantage of using simulation for data collection over physical experiments? ★",
+      "options": {
+        "A": "Simulation always produces more accurate results than real experiments",
+        "B": "Simulation is completely free of cost",
+        "C": "Simulation allows researchers to explore complex theories in a controlled environment safely and repeatedly",
+        "D": "Simulation eliminates the need for any mathematical modelling"
+      },
+      "correctAnswer": "C",
+      "explanation": "Simulation allows researchers to explore complex theories in a controlled environment safely and repeatedly. Explanation: Simulations can be run multiple times with different parameters at minimal cost and risk. Researchers can modify variables and observe outcomes in ways that would be impossible or dangerous in the physical world."
+    },
+    {
+      "id": 19,
+      "question": "In the context of data collection, a prototype is best described as: ★",
+      "options": {
+        "A": "The final, fully deployed version of a data collection tool",
+        "B": "A preliminary version of a data collection tool used to identify flaws before full implementation",
+        "C": "A backup copy of a completed dataset",
+        "D": "A simulation model for testing AI algorithms"
+      },
+      "correctAnswer": "B",
+      "explanation": "A preliminary version of a data collection tool used to identify flaws before full implementation. Explanation: A prototype is an early-stage, scaled-down version of the final tool. It is tested to identify design flaws, assess usability, and ensure the final product meets its intended objectives before full deployment."
+    },
+    {
+      "id": 20,
+      "question": "What is the primary goal of creating a survey prototype before full distribution? ★",
+      "options": {
+        "A": "To test how fast the survey can be completed",
+        "B": "To identify ambiguities, unclear questions, and potential issues before the survey reaches all participants",
+        "C": "To ensure the survey has the maximum number of questions",
+        "D": "To guarantee that all participants will respond positively"
+      },
+      "correctAnswer": "B",
+      "explanation": "To identify ambiguities, unclear questions, and potential issues before the survey reaches all participants. Explanation: A survey prototype is a small-scale trial run. Testing it early reveals poorly worded questions, technical issues, or gaps in coverage that would undermine the quality of data if left uncorrected in the final version."
+    },
+    {
+      "id": 21,
+      "question": "Interview prototypes (mock interviews) are conducted to: ★",
+      "options": {
+        "A": "Train participants to give better answers",
+        "B": "Check the performance and effectiveness of interview protocols before actual data collection begins",
+        "C": "Replace the actual interview entirely",
+        "D": "Ensure the interviewer memorises all questions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Check the performance and effectiveness of interview protocols before actual data collection begins. Explanation: Mock interviews test whether the interview guide, questions, and process work as intended. They help refine questions, identify issues with flow, and improve the overall interview procedure before real participants are involved."
+    },
+    {
+      "id": 22,
+      "question": "Data visualization prototypes are used to: ★",
+      "options": {
+        "A": "Create the final version of a dashboard for publishing",
+        "B": "Give early glimpses of how data visuals will look, allowing refinement before final implementation",
+        "C": "Store raw data before analysis",
+        "D": "Test the security of a database system"
+      },
+      "correctAnswer": "B",
+      "explanation": "Give early glimpses of how data visuals will look, allowing refinement before final implementation. Explanation: Visualisation prototypes — early versions of charts, graphs, or dashboards — are tested for clarity and effectiveness in conveying information. This allows designers to refine visual representations before committing to the final design."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following BEST describes the overall benefit of using prototypes in data collection? ★",
+      "options": {
+        "A": "They replace the need for actual data collection entirely",
+        "B": "They help identify potential problems early, making the final product more reliable and meaningful",
+        "C": "They guarantee that data collected will be 100% accurate",
+        "D": "They are only useful for digital data collection tools"
+      },
+      "correctAnswer": "B",
+      "explanation": "They help identify potential problems early, making the final product more reliable and meaningful. Explanation: Prototypes reduce risk by catching flaws early in the development cycle — before full deployment. Addressing problems at the prototype stage is far less costly and disruptive than fixing them after the final tool is in use."
+    },
+    {
+      "id": 24,
+      "question": "How does a formal survey differ from a qualitative interview? ★",
+      "options": {
+        "A": "Surveys use only open-ended questions; interviews use only closed questions",
+        "B": "Surveys are more structured and formal, designed for statistical analysis of responses from larger groups",
+        "C": "Surveys are always conducted face-to-face only",
+        "D": "Surveys cannot be conducted online"
+      },
+      "correctAnswer": "B",
+      "explanation": "Surveys are more structured and formal, designed for statistical analysis of responses from larger groups. Explanation: Surveys are systematic, structured tools that collect standardised data from larger populations — enabling statistical analysis. Qualitative interviews are more flexible, participant- centred, and focused on in-depth individual insight."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is NOT a method through which surveys can be conducted? ★",
+      "options": {
+        "A": "Printed questionnaires",
+        "B": "Online Google Forms",
+        "C": "Telephonic surveys",
+        "D": "DNA analysis"
+      },
+      "correctAnswer": "D",
+      "explanation": "DNA analysis. Explanation: Surveys can be conducted via printed questionnaires, online forms, telephone, or face-to-face. DNA analysis is a biological testing method, not a survey data collection method."
+    },
+    {
+      "id": 26,
+      "question": "A closed question in a survey:",
+      "options": {
+        "A": "Allows respondents to write any answer freely",
+        "B": "Provides fixed answer options to choose from, such as Yes/No or multiple choice",
+        "C": "Can only be used in face-to-face interviews",
+        "D": "Cannot be analysed statistically"
+      },
+      "correctAnswer": "B",
+      "explanation": "Provides fixed answer options to choose from, such as Yes/No or multiple choice. Explanation: Closed questions produce consistent, quantifiable responses — easy to analyse statistically and compare across respondents. Open-ended questions allow free-form answers but are harder to analyse at scale."
+    },
+    {
+      "id": 27,
+      "question": "Why must the right data collection method be selected based on the target audience? ★",
+      "options": {
+        "A": "All methods produce identical results regardless of audience",
+        "B": "Different audiences have different levels of access, literacy, and comfort with various methods — choosing the right one ensures higher response quality",
+        "C": "The most expensive method always produces the best data",
+        "D": "Only face-to-face surveys produce valid data"
+      },
+      "correctAnswer": "B",
+      "explanation": "Different audiences have different levels of access, literacy, and comfort with various methods — choosing the right one ensures higher response quality. Explanation: An online survey may be ideal for tech-savvy urban users but ineffective for elderly or rural populations without internet access. Matching the method to the audience improves participation rates and data quality."
+    },
+    {
+      "id": 28,
+      "question": "The information gathered through surveys is most useful for: ★",
+      "options": {
+        "A": "Establishing direct causation between variables",
+        "B": "Statistical analysis to draw meaningful conclusions about a population",
+        "C": "Collecting highly personal, sensitive narratives",
+        "D": "Observing participant behaviour in natural settings"
+      },
+      "correctAnswer": "B",
+      "explanation": "Statistical analysis to draw meaningful conclusions about a population. Explanation: Survey data — especially from closed questions — is numerical and standardised, making it ideal for statistical analysis. Results can be interpreted to draw generalisable conclusions about the broader population being studied."
+    },
+    {
+      "id": 29,
+      "question": "An experiment as a data collection method is most appropriate when:",
+      "options": {
+        "A": "Collecting census data",
+        "B": "Gathering opinions via questionnaire",
+        "C": "Testing cause-and-effect relationships by controlling and manipulating variables",
+        "D": "Interviewing industry experts"
+      },
+      "correctAnswer": "C",
+      "explanation": "Testing cause-and-effect relationships by controlling and manipulating variables. Explanation: Experiments with control groups and variable manipulation are the only data collection method that can establish causation — not just correlation. All other methods can only reveal associations."
+    },
+    {
+      "id": 30,
+      "question": "What distinguishes a DATA COLLECTION STRATEGY from a data collection method? ★",
+      "options": {
+        "A": "They are identical concepts",
+        "B": "A strategy is a goal or plan of action to achieve an aim; a method is the specific process or steps used to achieve that goal",
+        "C": "A strategy is faster than a method",
+        "D": "A method is broader than a strategy"
+      },
+      "correctAnswer": "B",
+      "explanation": "A strategy is a goal or plan of action to achieve an aim; a method is the specific process or steps used to achieve that goal. Explanation: A strategy defines WHAT you want to achieve and HOW to plan for it. A method defines the specific steps taken to implement the strategy. For example, a 'high-end marketing' strategy might use interviews, surveys, and simulations as its methods."
+    },
+    {
+      "id": 31,
+      "question": "Data presentation is best defined as: ★",
+      "options": {
+        "A": "The process of deleting irrelevant data from a dataset",
+        "B": "The process of showing relationships between datasets using visual tools to communicate findings meaningfully",
+        "C": "The act of collecting raw data from participants",
+        "D": "Encrypting data before storing it in a database"
+      },
+      "correctAnswer": "B",
+      "explanation": "The process of showing relationships between datasets using visual tools to communicate findings meaningfully. Explanation: Data presentation follows data analysis — it organises and displays findings in visual formats such as charts, graphs, and infographics, making results accessible, interpretable, and actionable for decision-makers."
+    },
+    {
+      "id": 32,
+      "question": "An infographic is best described as: ★",
+      "options": {
+        "A": "A plain text report of research findings",
+        "B": "A combination of text, images, and design elements that represents complex information visually and accessibly",
+        "C": "A type of database query",
+        "D": "A statistical table showing raw numbers"
+      },
+      "correctAnswer": "B",
+      "explanation": "A combination of text, images, and design elements that represents complex information visually and accessibly. Explanation: Infographics combine information and graphics to simplify complex data. They use charts, icons, illustrations, and concise text to communicate findings quickly and clearly — making them powerful communication tools."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is a characteristic of a GOOD infographic? ★",
+      "options": {
+        "A": "It contains as much raw data as possible without any visuals",
+        "B": "It is accurate, audience-appropriate, visually appealing, and concise without unnecessary details",
+        "C": "It uses only text without any images or design elements",
+        "D": "It reproduces the entire research report verbatim"
+      },
+      "correctAnswer": "B",
+      "explanation": "It is accurate, audience-appropriate, visually appealing, and concise without unnecessary details. Explanation: A good infographic balances accuracy with clarity — it presents the most important findings in a visual format that the target audience can understand quickly, without overwhelming them with unnecessary detail."
+    },
+    {
+      "id": 34,
+      "question": "A presentation in the context of data collection and visualisation refers to: ★",
+      "options": {
+        "A": "A live performance on stage",
+        "B": "A collection of multimedia elements — text, images, audio, video — used to showcase information attractively and meaningfully to an audience",
+        "C": "A type of structured interview",
+        "D": "A database report generated automatically"
+      },
+      "correctAnswer": "B",
+      "explanation": "A collection of multimedia elements — text, images, audio, video — used to showcase information attractively and meaningfully to an audience. Explanation: Presentations are multimedia tools used to communicate research findings, data analysis, and conclusions to an audience. They combine visual, textual, and sometimes audio- visual elements to enhance understanding and engagement."
+    },
+    {
+      "id": 35,
+      "question": "Which of the following correctly lists the enhanced data representation tools mentioned in the textbook? ★",
+      "options": {
+        "A": "Databases, spreadsheets, and plain text files",
+        "B": "Infographics, presentations, and reports",
+        "C": "Interviews, simulations, and prototypes",
+        "D": "Algorithms, flowcharts, and pseudocode"
+      },
+      "correctAnswer": "B",
+      "explanation": "Infographics, presentations, and reports. Explanation: The textbook identifies infographics, presentations, and reports as enhanced data representation tools used to present research findings visually and meaningfully after data collection and analysis."
+    },
+    {
+      "id": 36,
+      "question": "Why is it important to present data in an effective and efficient way after analysis? ★",
+      "options": {
+        "A": "To make the dataset larger",
+        "B": "To impress the audience with complex technical jargon",
+        "C": "To lead towards informed decisions by making findings accessible, understandable, and actionable",
+        "D": "To ensure the data cannot be questioned or challenged"
+      },
+      "correctAnswer": "C",
+      "explanation": "To lead towards informed decisions by making findings accessible, understandable, and actionable. Explanation: Effective data presentation transforms analytical findings into insights that decision- makers — including managers, policy makers, and stakeholders — can understand and act upon. Poor presentation can obscure even the most valuable findings."
+    },
+    {
+      "id": 37,
+      "question": "Infographics are particularly effective for communicating complex data because: ★",
+      "options": {
+        "A": "They eliminate the need for any statistical analysis",
+        "B": "They can only be created by professional designers",
+        "C": "They simplify complex information into visually appealing formats that can be understood quickly",
+        "D": "They are the only legally accepted format for presenting research findings"
+      },
+      "correctAnswer": "C",
+      "explanation": "They simplify complex information into visually appealing formats that can be understood quickly. Explanation: Visual processing is faster than reading text — infographics leverage this by presenting data through charts, icons, and concise text. Complex relationships and trends become immediately visible in a well-designed infographic."
+    },
+    {
+      "id": 38,
+      "question": "Data presentation tools can be in which of the following forms? ★",
+      "options": {
+        "A": "Only digital and electronic formats",
+        "B": "Tabular form or graphical form",
+        "C": "Only bar charts and pie charts",
+        "D": "Only written reports and text files"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tabular form or graphical form. Explanation: Data representation tools include both tabular formats — tables, spreadsheets — and graphical formats — charts, graphs, maps, and infographics. The choice depends on the type of data and the intended audience. Applied & Scenario-Based Questions Questions 39–52"
+    },
+    {
+      "id": 39,
+      "question": "A researcher wants to understand how earthquake survivors emotionally processed the event. Which data collection strategy is MOST appropriate? ★",
+      "options": {
+        "A": "Large-scale online survey with closed questions",
+        "B": "Simulation of earthquake conditions",
+        "C": "Qualitative interviews with open-ended questions",
+        "D": "Automated pattern recognition using machine learning"
+      },
+      "correctAnswer": "C",
+      "explanation": "Qualitative interviews with open-ended questions. Explanation: Understanding emotional responses requires in-depth, personal narratives — which qualitative interviews with open-ended questions are designed to capture. Closed surveys cannot adequately explore emotional depth and personal experience."
+    },
+    {
+      "id": 40,
+      "question": "A company wants to test a new airplane design for safety before building it. Which data collection approach is MOST suitable? ★",
+      "options": {
+        "A": "Conducting surveys with pilots",
+        "B": "Using a simulation to model the aircraft's performance in various conditions",
+        "C": "Observing planes at an airport",
+        "D": "Reviewing secondary sources about aircraft design"
+      },
+      "correctAnswer": "B",
+      "explanation": "Using a simulation to model the aircraft's performance in various conditions. Explanation: Simulation allows engineers to test aircraft performance in dangerous or extreme conditions — such as engine failure or severe turbulence — without physical risk. It generates synthetic data that informs design improvements safely."
+    },
+    {
+      "id": 41,
+      "question": "Before distributing a large-scale survey to 10,000 participants, a researcher tests it with 20 people first. This is an example of: ★",
+      "options": {
+        "A": "Observer bias",
+        "B": "A qualitative interview",
+        "C": "A survey prototype",
+        "D": "Secondary data collection"
+      },
+      "correctAnswer": "C",
+      "explanation": "A survey prototype. Explanation: Testing the survey with a small group first is prototyping — it identifies ambiguous questions, technical issues, and missing items before full deployment. This saves time and improves the quality of data from the final survey."
+    },
+    {
+      "id": 42,
+      "question": "A researcher collects data about smartphone usage from published government statistics. This is an example of: ★",
+      "options": {
+        "A": "Primary data collection",
+        "B": "Simulation-based data collection",
+        "C": "Secondary data collection",
+        "D": "Qualitative interview data"
+      },
+      "correctAnswer": "C",
+      "explanation": "Secondary data collection. Explanation: Government statistics are pre-existing data collected by another organisation for a different purpose. Using this data for a new research question is secondary data collection — faster and cheaper but less tailored to specific needs."
+    },
+    {
+      "id": 43,
+      "question": "A data collection method that involves asking participants to freely share their thoughts, experiences, and opinions without strict fixed options is called: ★",
+      "options": {
+        "A": "A closed-ended survey",
+        "B": "A structured questionnaire",
+        "C": "An open-ended qualitative interview",
+        "D": "A controlled experiment"
+      },
+      "correctAnswer": "C",
+      "explanation": "An open-ended qualitative interview. Explanation: Open-ended qualitative interviews give participants freedom to express themselves fully. Unlike closed surveys with fixed options, they uncover nuanced, personal, and context-rich responses that reveal deeper understanding."
+    },
+    {
+      "id": 44,
+      "question": "A GDPR violation occurs when an organisation: ★",
+      "options": {
+        "A": "Asks users to consent before storing their data",
+        "B": "Stores only anonymised data",
+        "C": "Collects and stores personal data without informing or obtaining consent from the individuals",
+        "D": "Deletes user data upon request"
+      },
+      "correctAnswer": "C",
+      "explanation": "Collects and stores personal data without informing or obtaining consent from the individuals. Explanation: GDPR (EU, 2018) requires organisations to obtain clear, informed consent before collecting personal data. Violations include collecting data without consent, using it for purposes beyond what was disclosed, or failing to protect it adequately."
+    },
+    {
+      "id": 45,
+      "question": "Which data collection method is BEST suited for studying the behaviour of customers in a supermarket without interfering with their shopping? ★",
+      "options": {
+        "A": "Telephonic survey",
+        "B": "Qualitative interview",
+        "C": "Direct observation",
+        "D": "Online questionnaire"
+      },
+      "correctAnswer": "C",
+      "explanation": "Direct observation. Explanation: Observation allows the researcher to study natural behaviour without intervening. In a supermarket setting, observation records what customers actually do — rather than what they say they do in a survey or interview."
+    },
+    {
+      "id": 46,
+      "question": "A research team wants to present complex climate data to a general public audience. Which data presentation tool would be MOST effective? ★",
+      "options": {
+        "A": "A raw data table with thousands of rows",
+        "B": "A technical statistical report with regression equations",
+        "C": "An infographic combining charts, icons, and concise text",
+        "D": "An unformatted plain text document"
+      },
+      "correctAnswer": "C",
+      "explanation": "An infographic combining charts, icons, and concise text. Explanation: Infographics translate complex data into visual formats that general audiences can understand quickly. For climate data, visual representations of temperature trends, pollution levels, and impact areas communicate far more effectively than raw numbers."
+    },
+    {
+      "id": 47,
+      "question": "In qualitative research, the emphasis is on: ★",
+      "options": {
+        "A": "Collecting the largest possible sample size",
+        "B": "The quality of in-depth analysis and understanding of participants' perspectives rather than quantity",
+        "C": "Statistical generalisation to large populations",
+        "D": "Using only closed-ended questions"
+      },
+      "correctAnswer": "B",
+      "explanation": "The quality of in-depth analysis and understanding of participants' perspectives rather than quantity. Explanation: Qualitative research prioritises depth over breadth. Small samples are studied in great detail to understand meanings, experiences, and contexts — unlike quantitative research which seeks statistically representative samples."
+    },
+    {
+      "id": 48,
+      "question": "What does a data collection strategy determine BEFORE selecting specific methods? ★",
+      "options": {
+        "A": "The exact wording of survey questions",
+        "B": "The goal, objective, or set of actions designed to achieve the research aim",
+        "C": "The specific software used to store data",
+        "D": "The number of participants in each focus group"
+      },
+      "correctAnswer": "B",
+      "explanation": "The goal, objective, or set of actions designed to achieve the research aim. Explanation: A strategy defines the overall plan — what you want to achieve and how to approach it. Once the strategy is clear, specific methods (interviews, surveys, simulations, etc.) are selected to implement it effectively."
+    },
+    {
+      "id": 49,
+      "question": "Which of the following correctly distinguishes qualitative from quantitative data collection? ★",
+      "options": {
+        "A": "Qualitative data uses numbers; quantitative uses words",
+        "B": "Qualitative focuses on in-depth understanding of experiences; quantitative focuses on measurable, numerical data",
+        "C": "They are identical in approach and output",
+        "D": "Quantitative interviews produce richer insights than qualitative surveys"
+      },
+      "correctAnswer": "B",
+      "explanation": "Qualitative focuses on in-depth understanding of experiences; quantitative focuses on measurable, numerical data. Explanation: Qualitative methods — interviews, observations, focus groups — produce descriptive, narrative data about meanings and experiences. Quantitative methods — surveys, experiments — produce numerical data that can be statistically analysed."
+    },
+    {
+      "id": 50,
+      "question": "A researcher publishing findings from a qualitative interview study must ensure: ★",
+      "options": {
+        "A": "All participant names are publicly disclosed to verify credibility",
+        "B": "No recordings are ever made during interviews",
+        "C": "Ethical guidelines are followed throughout, including privacy protection and accurate data representation",
+        "D": "Results are always positive to justify the research cost"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ethical guidelines are followed throughout, including privacy protection and accurate data representation. Explanation: Ethical research practice requires protecting participant privacy, obtaining informed consent, accurately representing data, and adhering to ethical guidelines throughout planning, data collection, analysis, and reporting."
+    },
+    {
+      "id": 51,
+      "question": "Which of the following BEST describes the role of an interview guide in qualitative research? ★",
+      "options": {
+        "A": "A script that the interviewer must follow word-for-word without deviation",
+        "B": "A flexible set of open-ended questions that ensures consistency across interviews while allowing adaptability based on participant responses",
+        "C": "A closed questionnaire sent to participants by email",
+        "D": "A checklist for recording participant demographic data"
+      },
+      "correctAnswer": "B",
+      "explanation": "A flexible set of open-ended questions that ensures consistency across interviews while allowing adaptability based on participant responses. Explanation: An interview guide provides structure and consistency — ensuring all key topics are covered — while remaining flexible enough to follow up on unexpected but relevant responses. It guides rather than rigidly scripts the conversation."
+    },
+    {
+      "id": 52,
+      "question": "A data visualization prototype was created for a hospital's patient data dashboard. After testing, the team realised the chart types were confusing. This demonstrates that prototyping: ★",
+      "options": {
+        "A": "Is a waste of time and resources",
+        "B": "Successfully identified a design problem before full implementation, allowing improvement",
+        "C": "Proved the dashboard concept was fundamentally flawed",
+        "D": "Shows that patient data should not be visualised"
+      },
+      "correctAnswer": "B",
+      "explanation": "Successfully identified a design problem before full implementation, allowing improvement. Explanation: This is exactly the purpose of prototyping — catching issues early when they are cheap and easy to fix. Identifying that the chart types are confusing at the prototype stage prevents a flawed design from reaching actual hospital users."
+    }
+  ],
+  "subject": "cs"
+}

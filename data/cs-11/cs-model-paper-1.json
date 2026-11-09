@@ -1,0 +1,212 @@
+{
+  "chapterNumber": 9,
+  "chapterTitle": "وفاقی بورڈ سالانہ امتحان ماڈل سمیلیٹر ۱ (FBISE CS Board Simulator Paper 1)",
+  "totalQuestions": 17,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which logic gate produces a HIGH (1) output ONLY when an odd number of its inputs are HIGH (1)?",
+      "options": {
+        "A": "AND Gate",
+        "B": "OR Gate",
+        "C": "XOR Gate",
+        "D": "NAND Gate"
+      },
+      "correctAnswer": "C",
+      "explanation": "The XOR (Exclusive-OR) gate outputs 1 (HIGH) if and only if the number of 1 inputs is odd. For two inputs, it gives 1 when inputs are different (0,1 or 1,0)."
+    },
+    {
+      "id": 2,
+      "question": "How many distinct characters can be represented using an 8-bit extended ASCII encoding scheme?",
+      "options": {
+        "A": "128",
+        "B": "256",
+        "C": "512",
+        "D": "1024"
+      },
+      "correctAnswer": "B",
+      "explanation": "An 8-bit binary number can represent 2^8 = 256 unique combinations, allowing 256 individual characters (0 to 255) in Extended ASCII."
+    },
+    {
+      "id": 3,
+      "question": "Which computational thinking pillar involves breaking a complex problem down into smaller, manageable sub-problems?",
+      "options": {
+        "A": "Abstraction",
+        "B": "Pattern Recognition",
+        "C": "Decomposition",
+        "D": "Algorithm Design"
+      },
+      "correctAnswer": "C",
+      "explanation": "Decomposition is the process of breaking a complex system or problem into smaller, simpler, and more manageable parts that can be analyzed and solved independently."
+    },
+    {
+      "id": 4,
+      "question": "What is the worst-case time complexity of Binary Search on a sorted array containing n elements?",
+      "options": {
+        "A": "O(1)",
+        "B": "O(n)",
+        "C": "O(log n)",
+        "D": "O(n log n)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Binary search repeatedly divides the search interval in half. Therefore, the maximum number of comparisons required for n items is log₂(n), giving a worst-case time complexity of O(log n)."
+    },
+    {
+      "id": 5,
+      "question": "In Python, which built-in function returns both the length and total count of items in an iterable collection?",
+      "options": {
+        "A": "count()",
+        "B": "len()",
+        "C": "size()",
+        "D": "index()"
+      },
+      "correctAnswer": "B",
+      "explanation": "len() is Python's standard built-in function to evaluate the number of items (elements/characters) in a container such as a list, string, tuple, or dictionary."
+    },
+    {
+      "id": 6,
+      "question": "What will be the output of the following Python expression: print(17 // 4, 17 % 4)?",
+      "options": {
+        "A": "4.25 1",
+        "B": "4 1",
+        "C": "4 4",
+        "D": "4.0 1"
+      },
+      "correctAnswer": "B",
+      "explanation": "The // operator performs floor (integer) division: 17 // 4 = 4. The % operator returns the remainder (modulus): 17 % 4 = 1. Therefore, the output is '4 1'."
+    },
+    {
+      "id": 7,
+      "question": "Which data structure in Python is ordered, mutable, and enclosed within square brackets [ ]?",
+      "options": {
+        "A": "Tuple",
+        "B": "Set",
+        "C": "List",
+        "D": "Dictionary"
+      },
+      "correctAnswer": "C",
+      "explanation": "A Python list is defined with square brackets [ ], maintains insertion order, and is mutable (its elements can be altered, appended, or removed after creation)."
+    },
+    {
+      "id": 8,
+      "question": "Which measure of central tendency represents the single data value that occurs with the highest frequency in a dataset?",
+      "options": {
+        "A": "Mean",
+        "B": "Median",
+        "C": "Mode",
+        "D": "Variance"
+      },
+      "correctAnswer": "C",
+      "explanation": "The mode is the value that appears most often in a set of data. A dataset can have one mode (unimodal), more than one mode (multimodal), or no mode if all values appear equally."
+    },
+    {
+      "id": 9,
+      "question": "In relational databases and SQL, which command is used to retrieve specific columns of records from a table?",
+      "options": {
+        "A": "EXTRACT",
+        "B": "SELECT",
+        "C": "FETCH",
+        "D": "GET"
+      },
+      "correctAnswer": "B",
+      "explanation": "The SELECT statement in SQL is the fundamental query command used to query and fetch attributes/columns and records from one or more database tables."
+    },
+    {
+      "id": 10,
+      "question": "Which machine learning paradigm learns by receiving rewards and penalties through continuous interaction with an environment?",
+      "options": {
+        "A": "Supervised Learning",
+        "B": "Unsupervised Learning",
+        "C": "Reinforcement Learning",
+        "D": "Clustering"
+      },
+      "correctAnswer": "C",
+      "explanation": "Reinforcement Learning is an area of machine learning where an agent learns to make decisions by taking actions in an environment to maximize cumulative reward through trial-and-error."
+    },
+    {
+      "id": 11,
+      "question": "What is the primary cryptographic characteristic of a blockchain ledger?",
+      "options": {
+        "A": "Centralized authority and private decryption",
+        "B": "Immutability and decentralized consensus",
+        "C": "High power consumption and plaintext records",
+        "D": "Single point of failure"
+      },
+      "correctAnswer": "B",
+      "explanation": "Blockchain is fundamentally characterized by being a distributed, immutable ledger where cryptographic hashes link consecutive blocks, ensuring data integrity without relying on a central authority."
+    },
+    {
+      "id": 12,
+      "question": "Which network topology connects every single node directly to a central networking hub or switch?",
+      "options": {
+        "A": "Ring Topology",
+        "B": "Star Topology",
+        "C": "Bus Topology",
+        "D": "Mesh Topology"
+      },
+      "correctAnswer": "B",
+      "explanation": "In a star topology, each network device has a dedicated point-to-point connection to a central device (switch or hub). A cable fault only disables the affected device, not the whole network."
+    },
+    {
+      "id": 13,
+      "question": "What is the main purpose of a firewall in computer network security?",
+      "options": {
+        "A": "To accelerate broadband bandwidth",
+        "B": "To monitor and filter incoming and outgoing network traffic based on security rules",
+        "C": "To store offline database backups",
+        "D": "To assign dynamic IP addresses automatically"
+      },
+      "correctAnswer": "B",
+      "explanation": "A firewall acts as a security barrier between a trusted private network and untrusted external networks (such as the Internet) by inspecting and filtering incoming and outgoing traffic."
+    },
+    {
+      "id": 14,
+      "question": "Which CPU register holds the address of the NEXT instruction waiting to be fetched from memory?",
+      "options": {
+        "A": "Memory Data Register (MDR)",
+        "B": "Accumulator (ACC)",
+        "C": "Program Counter (PC)",
+        "D": "Current Instruction Register (CIR)"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Program Counter (PC) stores the memory address of the next instruction that the CPU needs to fetch and execute in the Von Neumann fetch-decode-execute cycle."
+    },
+    {
+      "id": 15,
+      "question": "Which software development life cycle (SDLC) model emphasizes customer collaboration, rapid iterations, and working software over documentation?",
+      "options": {
+        "A": "Waterfall Model",
+        "B": "Agile Model",
+        "C": "V-Model",
+        "D": "Big Bang Model"
+      },
+      "correctAnswer": "B",
+      "explanation": "Agile software development values individuals and interactions, working software, customer collaboration, and responding to change through short development sprints."
+    },
+    {
+      "id": 16,
+      "question": "In product design and entrepreneurship, what is a Minimum Viable Product (MVP)?",
+      "options": {
+        "A": "A fully polished final version with all anticipated features",
+        "B": "A version with just enough core features to be tested and validated by early customers",
+        "C": "An unfunctional conceptual sketch drawn on paper",
+        "D": "A product sold at minimum retail discount"
+      },
+      "correctAnswer": "B",
+      "explanation": "An MVP is a product version containing only the essential core features needed to deploy to early adopters to gather validated learning and customer feedback with the least development effort."
+    },
+    {
+      "id": 17,
+      "question": "Which cyber threat involves tricking individuals into revealing confidential credentials through deceptive emails or fraudulent websites?",
+      "options": {
+        "A": "Denial of Service (DoS)",
+        "B": "Phishing",
+        "C": "Spyware",
+        "D": "Man-in-the-Middle Attack"
+      },
+      "correctAnswer": "B",
+      "explanation": "Phishing is a social engineering attack where malicious actors impersonate legitimate organizations via email or cloned websites to steal sensitive credentials such as usernames and passwords."
+    }
+  ],
+  "subject": "cs"
+}

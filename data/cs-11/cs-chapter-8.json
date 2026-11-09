@@ -1,0 +1,632 @@
+{
+  "chapterNumber": 8,
+  "chapterTitle": "Chapter 8: Product Development & Entrepreneurship",
+  "totalQuestions": 52,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A prototype in product development serves to:",
+      "options": {
+        "A": "Be the final product delivered to customers",
+        "B": "Test and validate design concepts before full development investment",
+        "C": "Replace all forms of user testing",
+        "D": "Guarantee commercial success"
+      },
+      "correctAnswer": "B",
+      "explanation": "Test and validate design concepts before full development investment. Explanation: Prototypes are early models — paper, wireframe, or digital — used to test ideas cheaply and gather feedback before committing to full development."
+    },
+    {
+      "id": 2,
+      "question": "A Minimum Viable Product (MVP) is:",
+      "options": {
+        "A": "The most feature-rich version of a product",
+        "B": "The final polished version ready for mass market",
+        "C": "The simplest version with just enough features to satisfy early users and validate core assumptions",
+        "D": "A product that requires no testing"
+      },
+      "correctAnswer": "C",
+      "explanation": "The simplest version with just enough features to satisfy early users and validate core assumptions. Explanation: MVP enables rapid market entry — feedback from early users guides future development without over-investing upfront."
+    },
+    {
+      "id": 3,
+      "question": "Iterative design in prototyping means:",
+      "options": {
+        "A": "Designing the product only once with no changes",
+        "B": "Repeatedly refining the design based on testing and user feedback in cycles",
+        "C": "Making the product as complex as possible initially",
+        "D": "Outsourcing all design to external agencies"
+      },
+      "correctAnswer": "B",
+      "explanation": "Repeatedly refining the design based on testing and user feedback in cycles. Explanation: Iterative design cycles through: design, prototype, test, evaluate, and refine — improving the product with each loop."
+    },
+    {
+      "id": 4,
+      "question": "User testing is valuable in product development because:",
+      "options": {
+        "A": "It eliminates the need for prototypes",
+        "B": "It guarantees commercial success",
+        "C": "It reveals real usability problems that developers overlooked before the product is fully built",
+        "D": "It replaces market research"
+      },
+      "correctAnswer": "C",
+      "explanation": "It reveals real usability problems that developers overlooked before the product is fully built. Explanation: User testing uncovers issues with navigation, clarity, and functionality — preventing costly post-launch fixes."
+    },
+    {
+      "id": 5,
+      "question": "Prioritisation when developing an MVP means:",
+      "options": {
+        "A": "Including every possible feature",
+        "B": "Selecting only the essential features that deliver the core value proposition",
+        "C": "Developing the most technically complex features first",
+        "D": "Ignoring user feedback"
+      },
+      "correctAnswer": "B",
+      "explanation": "Selecting only the essential features that deliver the core value proposition. Explanation: MVP prioritisation focuses on the smallest feature set that solves the core problem — everything else is deferred based on feedback."
+    },
+    {
+      "id": 6,
+      "question": "The Build-Measure-Learn cycle is associated with:",
+      "options": {
+        "A": "The Waterfall Model",
+        "B": "Lean Startup methodology",
+        "C": "Six Sigma",
+        "D": "PRINCE2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lean Startup methodology. Explanation: The Lean Startup's Build-Measure-Learn loop: build an MVP, measure real user responses, learn whether to persevere or pivot."
+    },
+    {
+      "id": 7,
+      "question": "A wireframe in product design is:",
+      "options": {
+        "A": "A high-fidelity visual mockup with colours and images",
+        "B": "A basic skeletal layout showing structure and UI elements without visual styling",
+        "C": "The final manufactured product",
+        "D": "A physical clay model"
+      },
+      "correctAnswer": "B",
+      "explanation": "A basic skeletal layout showing structure and UI elements without visual styling. Explanation: Wireframes are low-fidelity blueprints — they define layout and navigation structure without design details like colour or typography."
+    },
+    {
+      "id": 8,
+      "question": "What does 'pivot' mean in entrepreneurship?",
+      "options": {
+        "A": "Improving the current product's marketing only",
+        "B": "Changing the product's fundamental direction based on validated learning from user feedback",
+        "C": "Launching a second product simultaneously",
+        "D": "Hiring a new development team"
+      },
+      "correctAnswer": "B",
+      "explanation": "Changing the product's fundamental direction based on validated learning from user feedback. Explanation: A pivot is a strategic course correction — the team and core technology remain, but the product direction changes based on evidence."
+    },
+    {
+      "id": 9,
+      "question": "Intellectual property (IP) in product development refers to:",
+      "options": {
+        "A": "Physical hardware components",
+        "B": "Competitor products",
+        "C": "Legal rights protecting creative inventions, designs, software, and brand identity",
+        "D": "Server and hosting infrastructure"
+      },
+      "correctAnswer": "C",
+      "explanation": "Legal rights protecting creative inventions, designs, software, and brand identity. Explanation: IP includes patents (inventions), copyrights (creative works), trademarks (brand identity), and trade secrets."
+    },
+    {
+      "id": 10,
+      "question": "Market research in entrepreneurship is conducted primarily to:",
+      "options": {
+        "A": "Design the company logo",
+        "B": "Write the application code",
+        "C": "Understand customer needs, market size, and competition before building a product",
+        "D": "Train the development team"
+      },
+      "correctAnswer": "C",
+      "explanation": "Understand customer needs, market size, and competition before building a product. Explanation: Market research validates whether a business idea solves a real problem and whether sufficient demand exists before investing resources."
+    },
+    {
+      "id": 11,
+      "question": "Design thinking is a problem-solving approach that is primarily:",
+      "options": {
+        "A": "Technology-centred",
+        "B": "Data-centred",
+        "C": "Human-centred — starting with deep empathy for the user's real needs",
+        "D": "Profit-centred"
+      },
+      "correctAnswer": "C",
+      "explanation": "Human-centred — starting with deep empathy for the user's real needs. Explanation: Design thinking begins with Empathise — understanding users deeply — before defining problems and generating solutions."
+    },
+    {
+      "id": 12,
+      "question": "The correct order of Design Thinking's five stages is:",
+      "options": {
+        "A": "Prototype, Test, Ideate, Define, Empathise",
+        "B": "Empathise, Define, Ideate, Prototype, Test",
+        "C": "Define, Empathise, Prototype, Ideate, Test",
+        "D": "Ideate, Empathise, Define, Test, Prototype"
+      },
+      "correctAnswer": "B",
+      "explanation": "Empathise, Define, Ideate, Prototype, Test. Explanation: Design Thinking: (1) Empathise with users, (2) Define the problem, (3) Ideate solutions, (4) Prototype, (5) Test."
+    },
+    {
+      "id": 13,
+      "question": "A SWOT analysis in a business plan identifies:",
+      "options": {
+        "A": "Software, Web, Operations, Technology",
+        "B": "Strengths, Weaknesses, Opportunities, Threats",
+        "C": "Systems, Workflows, Objectives, Tasks",
+        "D": "Skills, Work, Output, Timeline"
+      },
+      "correctAnswer": "B",
+      "explanation": "Strengths, Weaknesses, Opportunities, Threats. Explanation: SWOT analysis evaluates internal factors (Strengths, Weaknesses) and external factors (Opportunities, Threats) facing a business."
+    },
+    {
+      "id": 14,
+      "question": "A Unique Selling Proposition (USP) defines:",
+      "options": {
+        "A": "The technical architecture of the product",
+        "B": "What makes the product distinctly better or different from all competitors",
+        "C": "The total addressable market size",
+        "D": "The number of features in the MVP"
+      },
+      "correctAnswer": "B",
+      "explanation": "What makes the product distinctly better or different from all competitors. Explanation: A clear USP answers 'why should customers choose this over alternatives?' — essential for positioning and marketing."
+    },
+    {
+      "id": 15,
+      "question": "In the MoSCoW prioritisation framework, 'M' stands for:",
+      "options": {
+        "A": "Manageable",
+        "B": "Minimum",
+        "C": "Must Have",
+        "D": "Measurable"
+      },
+      "correctAnswer": "C",
+      "explanation": "Must Have. Explanation: MoSCoW: Must Have (essential features), Should Have, Could Have, Won't Have (this time) — used to prioritise MVP scope."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following BEST describes a product in business? ★",
+      "options": {
+        "A": "An intangible idea that has not yet been developed",
+        "B": "A physical or tangible item created to meet a specific need or want of consumers",
+        "C": "A marketing plan for a business",
+        "D": "A type of business strategy"
+      },
+      "correctAnswer": "B",
+      "explanation": "A physical or tangible item created to meet a specific need or want of consumers. Explanation: Products are typically physical items — smartphones, clothing, automobiles, and consumer electronics — that can be seen, touched, or held. They differ from services, which are intangible offerings."
+    },
+    {
+      "id": 17,
+      "question": "Why is successful product development considered a cornerstone of business sustainability? ★",
+      "options": {
+        "A": "It allows companies to avoid paying taxes",
+        "B": "It brings new products to market effectively and efficiently, generating revenue and maintaining competitive advantage",
+        "C": "It eliminates the need for any marketing effort",
+        "D": "It guarantees that competitors will copy the product"
+      },
+      "correctAnswer": "B",
+      "explanation": "It brings new products to market effectively and efficiently, generating revenue and maintaining competitive advantage. Explanation: Successful product development drives revenue generation, customer satisfaction, innovation, and market expansion — all of which are essential for a business to remain competitive and sustainable long-term."
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is a benefit of product development listed in the textbook? ★",
+      "options": {
+        "A": "It eliminates the need for customer feedback",
+        "B": "It allows companies to enter new markets and expand their customer base",
+        "C": "It reduces the company's need to innovate",
+        "D": "It guarantees that the product will be profitable immediately"
+      },
+      "correctAnswer": "B",
+      "explanation": "It allows companies to enter new markets and expand their customer base. Explanation: Market expansion is one of the key benefits of product development. Developing new products or services allows a company to explore new markets and demographics, further diversifying its business and reducing dependence on a single product."
+    },
+    {
+      "id": 19,
+      "question": "Entrepreneurship requires which of the following key qualities? ★",
+      "options": {
+        "A": "Avoiding all forms of risk and uncertainty",
+        "B": "Skills, qualities, and traits to undertake risks and successfully launch a business",
+        "C": "Following existing business models without any innovation",
+        "D": "Waiting until all risks are eliminated before starting"
+      },
+      "correctAnswer": "B",
+      "explanation": "Skills, qualities, and traits to undertake risks and successfully launch a business. Explanation: Entrepreneurship involves calculated risk-taking combined with skills and drive. Successful entrepreneurs are willing to face uncertainty, learn from failure, and persist in building their vision into a viable business."
+    },
+    {
+      "id": 20,
+      "question": "How does successful product development contribute to customer satisfaction? ★",
+      "options": {
+        "A": "By offering the lowest possible price regardless of quality",
+        "B": "By addressing specific customer needs and wants, making the product the preferred choice",
+        "C": "By copying competitors' products exactly",
+        "D": "By reducing the number of features to simplify the product"
+      },
+      "correctAnswer": "B",
+      "explanation": "By addressing specific customer needs and wants, making the product the preferred choice. Explanation: Products that genuinely solve customer problems and meet their needs create satisfaction and loyalty. A well-developed product that addresses real pain points is more likely to be adopted and recommended by users."
+    },
+    {
+      "id": 21,
+      "question": "Which type of prototype is described as a simple, hand-drawn or digital representation focusing on basic layout and flow? ★",
+      "options": {
+        "A": "High-fidelity digital prototype",
+        "B": "Alpha prototype",
+        "C": "Low-fidelity sketch or wireframe",
+        "D": "Beta prototype"
+      },
+      "correctAnswer": "C",
+      "explanation": "Low-fidelity sketch or wireframe. Explanation: Low-fidelity prototypes — sketches and wireframes — are quick and inexpensive to create. They focus on basic layout, structure, and flow without detailed design, making them ideal for early-stage ideation and concept validation."
+    },
+    {
+      "id": 22,
+      "question": "A paper prototype is classified as which level of fidelity? ★",
+      "options": {
+        "A": "High-fidelity",
+        "B": "Low-fidelity",
+        "C": "Functional prototype",
+        "D": "Beta prototype"
+      },
+      "correctAnswer": "B",
+      "explanation": "Low-fidelity. Explanation: Paper prototypes use physical materials like paper and cardboard to create interactive models. They offer more detail than rough sketches but are still low-fidelity — inexpensive, quick to build, and suitable for early user feedback."
+    },
+    {
+      "id": 23,
+      "question": "A digital prototype that closely resembles the final product's user interface and functionality is classified as: ★",
+      "options": {
+        "A": "A low-fidelity wireframe",
+        "B": "A paper prototype",
+        "C": "A high-fidelity digital prototype",
+        "D": "An alpha prototype"
+      },
+      "correctAnswer": "C",
+      "explanation": "A high-fidelity digital prototype. Explanation: High-fidelity digital prototypes are interactive, computer-generated simulations that closely resemble the final product. They are used for detailed user testing, usability studies, and investor or stakeholder presentations."
+    },
+    {
+      "id": 24,
+      "question": "What is the primary purpose of a proof-of-concept prototype? ★",
+      "options": {
+        "A": "To present a complete, finished product to customers",
+        "B": "To demonstrate the core functionality and technical feasibility of a product concept",
+        "C": "To replace beta testing",
+        "D": "To finalise the product's visual design and branding"
+      },
+      "correctAnswer": "B",
+      "explanation": "To demonstrate the core functionality and technical feasibility of a product concept. Explanation: Proof-of-concept prototypes test whether the core technology or idea actually works — they may lack aesthetic polish but confirm that the fundamental concept is technically achievable before further investment."
+    },
+    {
+      "id": 25,
+      "question": "An alpha prototype is best described as: ★",
+      "options": {
+        "A": "A rough sketch of the product idea",
+        "B": "A near-final version released to a select group of external users",
+        "C": "An advanced, functional version with most features in place, used for internal testing and refinement",
+        "D": "A digital wireframe with no interactive elements"
+      },
+      "correctAnswer": "C",
+      "explanation": "An advanced, functional version with most features in place, used for internal testing and refinement. Explanation: Alpha prototypes are advanced working versions used internally by the development team to test and refine the product before it is shown to any external users or released for wider testing."
+    },
+    {
+      "id": 26,
+      "question": "Beta prototypes differ from alpha prototypes in that beta prototypes: ★",
+      "options": {
+        "A": "Are only hand-drawn sketches",
+        "B": "Are released internally to the development team only",
+        "C": "Are near-final versions made available to a select group of external users to identify remaining issues before official release",
+        "D": "Are the simplest possible version of the product"
+      },
+      "correctAnswer": "C",
+      "explanation": "Are near-final versions made available to a select group of external users to identify remaining issues before official release. Explanation: Beta testing involves real external users who test the near-complete product. Their feedback identifies remaining bugs, usability issues, and edge cases that the internal team may have missed during alpha testing."
+    },
+    {
+      "id": 27,
+      "question": "How does prototyping support investor and stakeholder confidence? ★",
+      "options": {
+        "A": "By replacing the need for financial projections",
+        "B": "By providing a realistic preview of the final product's capabilities through high-fidelity prototypes",
+        "C": "By guaranteeing that the product will generate profit",
+        "D": "By eliminating all technical risks from the project"
+      },
+      "correctAnswer": "B",
+      "explanation": "By providing a realistic preview of the final product's capabilities through high-fidelity prototypes. Explanation: High-fidelity prototypes allow investors and stakeholders to see and interact with a realistic representation of the final product. This tangible demonstration builds confidence in the concept and increases the likelihood of securing funding."
+    },
+    {
+      "id": 28,
+      "question": "Which of the following is NOT a reason why prototyping is important in product development? ★",
+      "options": {
+        "A": "It helps identify design flaws before full production",
+        "B": "It supports user-centred design by gathering early feedback",
+        "C": "It guarantees that the final product will be commercially successful",
+        "D": "It reduces the cost of errors by catching problems early"
+      },
+      "correctAnswer": "C",
+      "explanation": "It guarantees that the final product will be commercially successful. Explanation: Prototyping reduces risk and improves quality, but it cannot guarantee commercial success — that depends on market conditions, pricing, competition, and many other factors beyond design quality."
+    },
+    {
+      "id": 29,
+      "question": "Which software tools are used for creating interactive digital prototypes with realistic user interfaces? ★",
+      "options": {
+        "A": "Microsoft Word and Excel",
+        "B": "Adobe XD, Sketch, Figma, or InVision",
+        "C": "Python and Java",
+        "D": "AutoCAD and MATLAB"
+      },
+      "correctAnswer": "B",
+      "explanation": "Adobe XD, Sketch, Figma, or InVision. Explanation: Design and prototyping tools like Adobe XD, Sketch, Figma, and InVision allow designers to create interactive digital prototypes with realistic layouts, navigation flows, and user interface elements — without writing actual code."
+    },
+    {
+      "id": 30,
+      "question": "Which tools are used for creating 3D digital models of physical products? ★",
+      "options": {
+        "A": "Adobe XD and Figma",
+        "B": "HTML and CSS",
+        "C": "Autodesk Fusion 360 or Blender",
+        "D": "Microsoft PowerPoint and Word"
+      },
+      "correctAnswer": "C",
+      "explanation": "Autodesk Fusion 360 or Blender. Explanation: 3D modelling software like Autodesk Fusion 360 and Blender enable designers and engineers to create detailed three-dimensional digital models of physical products before manufacturing them."
+    },
+    {
+      "id": 31,
+      "question": "What is the purpose of a 3D printer in prototype development? ★",
+      "options": {
+        "A": "To scan existing objects and convert them to digital files",
+        "B": "To transform digital 3D designs into physical, tangible prototype objects",
+        "C": "To run software simulations of product behaviour",
+        "D": "To create interactive digital wireframes"
+      },
+      "correctAnswer": "B",
+      "explanation": "To transform digital 3D designs into physical, tangible prototype objects. Explanation: 3D printers take a digital 3D model and produce a physical object layer by layer. This allows designers and engineers to hold, test, and evaluate a real physical version of their product design quickly and cost-effectively."
+    },
+    {
+      "id": 32,
+      "question": "Which material is commonly used for building LOW-COST, low-fidelity physical prototypes? ★",
+      "options": {
+        "A": "Titanium and carbon fibre",
+        "B": "Cardboard and foam board",
+        "C": "Precious metals",
+        "D": "Hardened steel"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cardboard and foam board. Explanation: Cardboard and foam board are inexpensive, easy to cut, and shape — making them ideal for quickly building rough physical models that communicate size, form, and layout without significant cost or time investment."
+    },
+    {
+      "id": 33,
+      "question": "What is an Arduino kit used for in prototype development? ★",
+      "options": {
+        "A": "Creating digital wireframes and mockups",
+        "B": "Building electronics prototypes with programmable microcontrollers",
+        "C": "Designing 3D models of physical products",
+        "D": "Conducting user surveys and interviews"
+      },
+      "correctAnswer": "B",
+      "explanation": "Building electronics prototypes with programmable microcontrollers. Explanation: Arduino kits are specialised prototyping kits that include programmable microcontrollers, sensors, and electronic components. They are used to prototype IoT devices, robotics, and other electronic products quickly."
+    },
+    {
+      "id": 34,
+      "question": "In the iterative design process, what happens AFTER gathering feedback from users? ★",
+      "options": {
+        "A": "The project is cancelled if any negative feedback is received",
+        "B": "The feedback is ignored and the original design is kept",
+        "C": "The data is analysed, necessary changes are made to the prototype, and testing is repeated",
+        "D": "The product is immediately launched to the market"
+      },
+      "correctAnswer": "C",
+      "explanation": "The data is analysed, necessary changes are made to the prototype, and testing is repeated. Explanation: Iterative design follows a cycle: gather feedback, analyse data, identify improvements, make changes to the prototype, and then test again. This cycle repeats until the design meets the desired goals and user needs."
+    },
+    {
+      "id": 35,
+      "question": "Documentation during iterative prototyping is important because: ★",
+      "options": {
+        "A": "It replaces the need for any user testing",
+        "B": "It records changes, decisions, and rationale made during each iteration for reference and future development",
+        "C": "It is required by law for all product development projects",
+        "D": "It automatically generates the final product code"
+      },
+      "correctAnswer": "B",
+      "explanation": "It records changes, decisions, and rationale made during each iteration for reference and future development. Explanation: Documenting each design iteration creates a record of what was changed, why, and what the outcome was. This historical record is valuable for team alignment, future development phases, and understanding the design evolution."
+    },
+    {
+      "id": 36,
+      "question": "What types of data are collected during prototype user testing? ★",
+      "options": {
+        "A": "Only financial projections and budget data",
+        "B": "Both quantitative data (e.g., task completion rates, time spent) and qualitative data (e.g., user comments, observations)",
+        "C": "Only written survey responses in multiple choice format",
+        "D": "Only technical performance metrics from the server"
+      },
+      "correctAnswer": "B",
+      "explanation": "Both quantitative data (e.g., task completion rates, time spent) and qualitative data (e.g., user comments, observations). Explanation: Comprehensive user testing collects both types of data. Quantitative data provides measurable metrics, while qualitative data captures the nuanced experiences and opinions that numbers alone cannot convey."
+    },
+    {
+      "id": 37,
+      "question": "After identifying issues through user testing, what is the CORRECT next step? ★",
+      "options": {
+        "A": "Immediately launch the product regardless of the issues",
+        "B": "Prioritise issues by severity and impact, then make iterative changes to the prototype",
+        "C": "Discard the prototype and start from scratch",
+        "D": "Only fix issues that users complained about loudly"
+      },
+      "correctAnswer": "B",
+      "explanation": "Prioritise issues by severity and impact, then make iterative changes to the prototype. Explanation: Not all issues have equal importance. Critical usability problems must be addressed first. Changes are then made to the prototype and it is re-tested — continuing the iterative cycle until the product meets quality goals."
+    },
+    {
+      "id": 38,
+      "question": "Validation in user testing refers to: ★",
+      "options": {
+        "A": "Confirming that the product's branding is attractive",
+        "B": "Checking whether the product's design assumptions and concept effectively solve the intended problem",
+        "C": "Ensuring all team members have approved the design",
+        "D": "Verifying that the product code compiles without errors"
+      },
+      "correctAnswer": "B",
+      "explanation": "Checking whether the product's design assumptions and concept effectively solve the intended problem. Explanation: Validation confirms that the product concept actually works as intended for real users. It tests whether design decisions were correct and whether the product genuinely solves the problem it was designed to address."
+    },
+    {
+      "id": 39,
+      "question": "Usability testing specifically focuses on: ★",
+      "options": {
+        "A": "Testing the product's server performance and uptime",
+        "B": "Evaluating the financial viability of the business model",
+        "C": "How users interact with the product — assessing interface clarity, navigation, and overall user experience",
+        "D": "Checking whether the product complies with legal regulations"
+      },
+      "correctAnswer": "C",
+      "explanation": "How users interact with the product — assessing interface clarity, navigation, and overall user experience. Explanation: Usability testing observes real users attempting to complete tasks with the product. It identifies where users struggle, get confused, or make errors — providing actionable insights to improve the interface and experience."
+    },
+    {
+      "id": 40,
+      "question": "Why is re-testing the prototype after making changes an important step? ★",
+      "options": {
+        "A": "To confirm that no new issues were introduced and that previous issues have been resolved",
+        "B": "To meet legal requirements for product launches",
+        "C": "To demonstrate the product to investors",
+        "D": "To generate marketing content for the product launch"
+      },
+      "correctAnswer": "A",
+      "explanation": "To confirm that no new issues were introduced and that previous issues have been resolved. Explanation: Re-testing after changes validates that the fixes worked correctly and checks that the modifications did not accidentally introduce new problems. This verification step is essential in the iterative improvement cycle."
+    },
+    {
+      "id": 41,
+      "question": "Feature creep in MVP development refers to: ★",
+      "options": {
+        "A": "Adding too few features to the minimum viable product",
+        "B": "The gradual, uncontrolled addition of features beyond the core scope, making the product unnecessarily complex",
+        "C": "A bug caused by conflicting product features",
+        "D": "The process of prioritising essential features first"
+      },
+      "correctAnswer": "B",
+      "explanation": "The gradual, uncontrolled addition of features beyond the core scope, making the product unnecessarily complex. Explanation: Feature creep undermines the purpose of an MVP. The goal is to stay lean and focused on the core value. Each added feature increases development time, cost, and complexity — and may distract from solving the core problem."
+    },
+    {
+      "id": 42,
+      "question": "What does scalability mean in the context of MVP development? ★",
+      "options": {
+        "A": "Designing the MVP to be as small as possible with no future growth potential",
+        "B": "Building the MVP's architecture in a way that allows it to handle growth and future enhancements",
+        "C": "Making the MVP available in multiple languages at launch",
+        "D": "Reducing the number of users who can access the MVP"
+      },
+      "correctAnswer": "B",
+      "explanation": "Building the MVP's architecture in a way that allows it to handle growth and future enhancements. Explanation: Even though an MVP is minimal, its technical foundation should be designed with scalability in mind. As the user base grows and new features are added, the system must be able to expand without requiring a complete rebuild."
+    },
+    {
+      "id": 43,
+      "question": "Agile development methodology is used in MVP development because: ★",
+      "options": {
+        "A": "It requires all features to be planned and locked in before development begins",
+        "B": "It allows for flexibility in responding to changing requirements and user feedback through rapid, iterative development",
+        "C": "It eliminates the need for any user testing",
+        "D": "It guarantees that the product will be completed on time and within budget"
+      },
+      "correctAnswer": "B",
+      "explanation": "It allows for flexibility in responding to changing requirements and user feedback through rapid, iterative development. Explanation: Agile methodology breaks development into short sprints, allowing teams to continuously incorporate feedback and adapt to change. This flexibility is essential for MVP development, where learning from early users drives the product's direction."
+    },
+    {
+      "id": 44,
+      "question": "User onboarding in an MVP refers to: ★",
+      "options": {
+        "A": "The process of hiring new team members",
+        "B": "Making it easy for new users to understand and effectively use the product from their first interaction",
+        "C": "The legal process of registering the product",
+        "D": "Collecting user payment information at registration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Making it easy for new users to understand and effectively use the product from their first interaction. Explanation: Good user onboarding guides new users through the product's key features and value. Poor onboarding leads to user confusion and early abandonment — even if the product itself is valuable."
+    },
+    {
+      "id": 45,
+      "question": "Which of the following is the MAIN purpose of launching an MVP? ★",
+      "options": {
+        "A": "To impress investors with a polished, complete product",
+        "B": "To validate core assumptions with real users and gather feedback to guide further development",
+        "C": "To eliminate all competition in the market",
+        "D": "To finalise the product's branding and visual identity"
+      },
+      "correctAnswer": "B",
+      "explanation": "To validate core assumptions with real users and gather feedback to guide further development. Explanation: An MVP is launched to learn — not to be perfect. Real user interactions reveal whether the core assumptions were correct. This feedback determines whether to persevere with the current direction, pivot, or discontinue. Applied & Scenario-Based Questions Questions 46–52: Expanded Questions ★"
+    },
+    {
+      "id": 46,
+      "question": "A startup team sketches their app idea on paper and tests it with five colleagues. This is an example of: ★",
+      "options": {
+        "A": "A beta prototype",
+        "B": "A high-fidelity digital prototype",
+        "C": "A low-fidelity paper prototype",
+        "D": "An alpha prototype"
+      },
+      "correctAnswer": "C",
+      "explanation": "A low-fidelity paper prototype. Explanation: Paper sketches tested with a small group represent the earliest, lowest-fidelity form of prototyping. This approach is fast and cheap — perfect for validating basic layout and flow ideas before investing in digital development."
+    },
+    {
+      "id": 47,
+      "question": "A team discovers during user testing that users cannot find the navigation menu. The CORRECT response is to: ★",
+      "options": {
+        "A": "Launch the product anyway and fix it in the next version",
+        "B": "Ignore the feedback as users will eventually learn",
+        "C": "Treat this as a critical usability issue, redesign the navigation, and re-test",
+        "D": "Remove the navigation menu entirely"
+      },
+      "correctAnswer": "C",
+      "explanation": "Treat this as a critical usability issue, redesign the navigation, and re- test Explanation: Navigation is fundamental to usability. An inability to find the menu is a critical issue that would prevent users from using the product effectively. It must be prioritised, fixed, and re- tested before launch."
+    },
+    {
+      "id": 48,
+      "question": "A company builds an app with only its three most essential features and releases it to 100 early users. This is an example of: ★",
+      "options": {
+        "A": "A high-fidelity prototype",
+        "B": "A SWOT analysis",
+        "C": "A minimum viable product (MVP)",
+        "D": "An alpha prototype"
+      },
+      "correctAnswer": "C",
+      "explanation": "A minimum viable product (MVP). Explanation: Releasing a stripped-down version with only essential features to early users is the definition of an MVP. The goal is to validate the core concept with real users and gather feedback before investing in full development."
+    },
+    {
+      "id": 49,
+      "question": "During SWOT analysis, a company identifies that it has no established brand recognition. This is classified as: ★",
+      "options": {
+        "A": "An opportunity",
+        "B": "A strength",
+        "C": "A threat",
+        "D": "A weakness"
+      },
+      "correctAnswer": "D",
+      "explanation": "A weakness. Explanation: Weaknesses are internal factors that put the company at a disadvantage — things it lacks or does poorly. No brand recognition is an internal weakness because it makes it harder to attract customers compared to established competitors."
+    },
+    {
+      "id": 50,
+      "question": "A food delivery startup realises that their original idea — restaurant bookings — has poor demand, but their logistics platform is valuable for package delivery. Changing direction is called: ★",
+      "options": {
+        "A": "Prototyping",
+        "B": "Pivoting",
+        "C": "Scaling",
+        "D": "Wireframing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pivoting. Explanation: A pivot is a strategic change in direction based on validated learning. The team keeps their core technology (logistics platform) but applies it to a different market (package delivery) where real demand exists."
+    },
+    {
+      "id": 51,
+      "question": "A designer uses Figma to create a fully interactive mockup of a mobile app with realistic colours, icons, and animations. This is classified as: ★",
+      "options": {
+        "A": "A low-fidelity wireframe",
+        "B": "A paper prototype",
+        "C": "A high-fidelity digital prototype",
+        "D": "An alpha prototype"
+      },
+      "correctAnswer": "C",
+      "explanation": "A high-fidelity digital prototype. Explanation: A fully interactive mockup with realistic visual design created in a professional design tool is a high-fidelity digital prototype. It closely resembles the final product and is suitable for investor presentations and detailed user testing."
+    },
+    {
+      "id": 52,
+      "question": "Which stage of Design Thinking involves generating a wide range of creative solutions to the defined problem without immediately judging or filtering ideas? ★",
+      "options": {
+        "A": "Empathise",
+        "B": "Define",
+        "C": "Ideate",
+        "D": "Prototype"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ideate. Explanation: The Ideate stage encourages divergent thinking — generating as many potential solutions as possible without evaluation. Quantity is prioritised over quality at this stage, with filtering and selection coming later."
+    }
+  ],
+  "subject": "cs"
+}

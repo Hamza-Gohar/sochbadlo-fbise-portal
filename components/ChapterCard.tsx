@@ -26,7 +26,11 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isUrdu = chapter.subject === 'urdu' || chapter.slug.startsWith('urdu');
   const isMath = chapter.subject === 'math' || chapter.slug.startsWith('math');
   const isEnglish = chapter.subject === 'english' || chapter.slug.startsWith('english');
-  const isPastPapers = chapter.slug === 'past-papers' || chapter.slug === 'urdu-model-paper';
+  const isCS = chapter.subject === 'cs' || chapter.slug.startsWith('cs');
+  const isPastPapers =
+    chapter.slug === 'past-papers' ||
+    chapter.slug === 'urdu-model-paper' ||
+    chapter.slug.startsWith('cs-model-paper-');
 
   let tagLabel = `Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   if (chapter.slug === 'past-papers') tagLabel = 'Board Simulator';
@@ -35,6 +39,8 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (chapter.slug === 'urdu-ilm-e-badi') tagLabel = 'Urdu Figures (علم بدیع)';
   else if (chapter.slug.startsWith('math-model-paper-')) tagLabel = `Math Board Simulator ${chapter.chapterNumber}`;
   else if (chapter.slug.startsWith('english-model-paper-')) tagLabel = `English Board Simulator ${chapter.chapterNumber - 6}`;
+  else if (chapter.slug.startsWith('cs-model-paper-')) tagLabel = `CS Board Simulator ${chapter.chapterNumber - 8}`;
+  else if (isCS) tagLabel = `CS Chapter ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (isEnglish) tagLabel = `English Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (isMath) tagLabel = `Math Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (isUrdu) tagLabel = `Urdu Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
@@ -80,6 +86,26 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     description = 'Official Federal Board Section A compulsory examination simulation with 20 marks and authentic syllabus SLO rationales.';
   } else if (isEnglish) {
     description = `Curated FBISE Class 11 English SLO questions, grammar rules, and reading comprehension mechanics for ${chapter.title}.`;
+  } else if (chapter.slug === 'cs-chapter-1') {
+    description = 'Data representation (binary, hex, ASCII), Boolean algebra, logic gates (AND, OR, NOT, NAND, NOR, XOR), and Von Neumann system fundamentals.';
+  } else if (chapter.slug === 'cs-chapter-2') {
+    description = 'Computational thinking (decomposition, abstraction, pattern recognition), algorithm tracing, flowcharts, linear search, and binary search analysis.';
+  } else if (chapter.slug === 'cs-chapter-3') {
+    description = 'Python syntax, variables, mutable vs. immutable types, operators, list comprehensions, conditionals, loops, and modular function design.';
+  } else if (chapter.slug === 'cs-chapter-4') {
+    description = 'Data management, relational databases, primary/foreign keys, SQL queries, statistical measures, data visualization, and big data.';
+  } else if (chapter.slug === 'cs-chapter-5') {
+    description = 'Artificial Intelligence, machine learning paradigms (supervised, unsupervised, RL), cloud service models (IaaS, PaaS, SaaS), and IoT architectures.';
+  } else if (chapter.slug === 'cs-chapter-6') {
+    description = 'Network topologies, OSI architecture, IP addressing, cybersecurity threats (phishing, DoS), firewalls, encryption, and cyber ethics.';
+  } else if (chapter.slug === 'cs-chapter-7') {
+    description = 'Data collection methodologies, surveys, interviews, simulation modeling, prototype testing, and statistical bias evaluation.';
+  } else if (chapter.slug === 'cs-chapter-8') {
+    description = 'Software Development Life Cycle (SDLC, Agile, Waterfall), prototyping, MVP design thinking, freelancing, and computing entrepreneurship.';
+  } else if (chapter.slug.startsWith('cs-model-paper-')) {
+    description = 'Official Federal Board Section A examination simulation with 17 marks, 20-minute timer, and authentic curriculum SLO rationales.';
+  } else if (isCS) {
+    description = `Curated FBISE Class 11 Computer Science SLO questions, conceptual problems, and technical justifications for ${chapter.title}.`;
   }
 
   return (

@@ -1,0 +1,548 @@
+{
+  "chapterNumber": 4,
+  "chapterTitle": "Chapter 4: Data, Statistics & Analysis",
+  "totalQuestions": 45,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Statistical modeling involves:",
+      "options": {
+        "A": "Creating physical scale models",
+        "B": "Using mathematical equations and probability to represent real-world data relationships",
+        "C": "Graphical design of spreadsheets",
+        "D": "Writing SQL queries"
+      },
+      "correctAnswer": "B",
+      "explanation": "Using mathematical equations and probability to represent real-world data relationships. Explanation: Statistical models use equations to represent patterns in data, enabling prediction and analysis of real-world phenomena."
+    },
+    {
+      "id": 2,
+      "question": "Correlation between two variables means:",
+      "options": {
+        "A": "One variable directly causes the other to change",
+        "B": "There is a perfect mathematical relationship",
+        "C": "A statistical relationship — they tend to change together",
+        "D": "They have the same mean value"
+      },
+      "correctAnswer": "C",
+      "explanation": "A statistical relationship — they tend to change together. Explanation: Correlation measures the strength and direction of a statistical relationship. It does NOT imply causation."
+    },
+    {
+      "id": 3,
+      "question": "A random sample is important in statistics because:",
+      "options": {
+        "A": "It is the largest possible sample",
+        "B": "It reduces processing time",
+        "C": "It gives every member of the population an equal chance of selection, reducing bias",
+        "D": "It eliminates all errors"
+      },
+      "correctAnswer": "C",
+      "explanation": "It gives every member of the population an equal chance of selection, reducing bias. Explanation: Random sampling is the foundation of representative statistics — it minimises sampling bias and allows generalisation to the population."
+    },
+    {
+      "id": 4,
+      "question": "Summary statistics include all of the following EXCEPT:",
+      "options": {
+        "A": "Mean",
+        "B": "Median",
+        "C": "Standard deviation",
+        "D": "Primary key"
+      },
+      "correctAnswer": "D",
+      "explanation": "Primary key. Explanation: Primary key is a database concept. Summary statistics include measures of central tendency (mean, median, mode) and spread (range, standard deviation)."
+    },
+    {
+      "id": 5,
+      "question": "An outlier in a dataset is:",
+      "options": {
+        "A": "The most common value",
+        "B": "The middle value when sorted",
+        "C": "A data point significantly different from the rest of the data",
+        "D": "The arithmetic average"
+      },
+      "correctAnswer": "C",
+      "explanation": "A data point significantly different from the rest of the data. Explanation: Outliers are extreme values far from the general pattern — they can significantly distort the mean."
+    },
+    {
+      "id": 6,
+      "question": "A positive correlation between two variables means:",
+      "options": {
+        "A": "When one increases, the other decreases",
+        "B": "They are completely unrelated",
+        "C": "When one increases, the other also tends to increase",
+        "D": "Both variables equal zero"
+      },
+      "correctAnswer": "C",
+      "explanation": "When one increases, the other also tends to increase. Explanation: Positive correlation: both variables move in the same direction (e.g., more study hours leads to higher exam scores)."
+    },
+    {
+      "id": 7,
+      "question": "The mean of the dataset {4, 8, 6, 5, 7} is:",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correctAnswer": "B",
+      "explanation": "6. Explanation: Mean = (4+8+6+5+7) / 5 = 30 / 5 = 6."
+    },
+    {
+      "id": 8,
+      "question": "Which measure of central tendency is most affected by extreme outliers?",
+      "options": {
+        "A": "Mode",
+        "B": "Median",
+        "C": "Mean",
+        "D": "Range"
+      },
+      "correctAnswer": "C",
+      "explanation": "Mean. Explanation: The mean uses all values in its calculation — one extreme outlier can pull it far from the centre of the data."
+    },
+    {
+      "id": 9,
+      "question": "Data visualization tools are used in data analysis primarily to:",
+      "options": {
+        "A": "Store data securely",
+        "B": "Encrypt sensitive records",
+        "C": "Present data patterns and trends in a visual, interpretable format",
+        "D": "Speed up data collection"
+      },
+      "correctAnswer": "C",
+      "explanation": "Present data patterns and trends in a visual, interpretable format. Explanation: Charts, graphs, and dashboards reveal patterns invisible in raw numbers, making insights accessible to non-technical audiences."
+    },
+    {
+      "id": 10,
+      "question": "What does standard deviation measure?",
+      "options": {
+        "A": "The middle value",
+        "B": "The most frequent value",
+        "C": "The spread of values around the mean",
+        "D": "The difference between the maximum and minimum"
+      },
+      "correctAnswer": "C",
+      "explanation": "The spread of values around the mean. Explanation: Low standard deviation means values are clustered tightly around the mean. High standard deviation means values are widely dispersed."
+    },
+    {
+      "id": 11,
+      "question": "The median of the dataset {3, 7, 2, 9, 5} when sorted is:",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "9"
+      },
+      "correctAnswer": "B",
+      "explanation": "5. Explanation: Sorted: {2, 3, 5, 7, 9}. The middle value (position 3 of 5) is 5."
+    },
+    {
+      "id": 12,
+      "question": "A negative correlation between two variables means:",
+      "options": {
+        "A": "They are unrelated",
+        "B": "When one increases, the other tends to decrease",
+        "C": "Both decrease simultaneously",
+        "D": "They have the same variance"
+      },
+      "correctAnswer": "B",
+      "explanation": "When one increases, the other tends to decrease. Explanation: Negative correlation: the variables move in opposite directions (e.g., more absences leads to lower grades)."
+    },
+    {
+      "id": 13,
+      "question": "Which Python library provides DataFrame structures for data analysis?",
+      "options": {
+        "A": "NumPy",
+        "B": "Matplotlib",
+        "C": "Pandas",
+        "D": "Seaborn"
+      },
+      "correctAnswer": "C",
+      "explanation": "Pandas. Explanation: Pandas provides the DataFrame — a 2D labelled data structure like a spreadsheet — and powerful tools for data manipulation and analysis."
+    },
+    {
+      "id": 14,
+      "question": "Causation differs from correlation because causation:",
+      "options": {
+        "A": "Is always weaker than correlation",
+        "B": "Means one variable directly and reliably produces a change in the other",
+        "C": "Only applies to negative relationships",
+        "D": "Requires a very large dataset"
+      },
+      "correctAnswer": "B",
+      "explanation": "Means one variable directly and reliably produces a change in the other. Explanation: Correlation is a statistical relationship; causation requires controlled evidence that one variable directly drives the other."
+    },
+    {
+      "id": 15,
+      "question": "Which chart type is best suited for showing how a value changes over time?",
+      "options": {
+        "A": "Pie chart",
+        "B": "Bar chart",
+        "C": "Line graph",
+        "D": "Scatter plot"
+      },
+      "correctAnswer": "C",
+      "explanation": "Line graph. Explanation: Line graphs connect data points chronologically — ideal for visualising trends, growth, and changes over a time period. Questions 16–30: Expanded Questions ★"
+    },
+    {
+      "id": 16,
+      "question": "In a linear regression model y = mx + b, what does 'b' represent? ★",
+      "options": {
+        "A": "The slope of the line",
+        "B": "The dependent variable",
+        "C": "The y-intercept — where the line crosses the y-axis",
+        "D": "The independent variable"
+      },
+      "correctAnswer": "C",
+      "explanation": "The y-intercept — where the line crosses the y-axis. Explanation: In the linear equation y = mx + b, 'm' is the slope (rate of change) and 'b' is the y- intercept, which is the value of y when x equals zero — the point where the line meets the y-axis."
+    },
+    {
+      "id": 17,
+      "question": "In supervised learning, a labeled dataset means: ★",
+      "options": {
+        "A": "The data has no categories or classifications",
+        "B": "Each data point comes with a known correct answer or category",
+        "C": "The algorithm works without any prior data",
+        "D": "Data is sorted alphabetically"
+      },
+      "correctAnswer": "B",
+      "explanation": "Each data point comes with a known correct answer or category. Explanation: Supervised learning trains an algorithm using labeled data — data that already has the correct output attached. The model learns to map inputs to outputs by comparing its predictions to these known labels."
+    },
+    {
+      "id": 18,
+      "question": "Which of the following is an example of unsupervised learning? ★",
+      "options": {
+        "A": "Predicting whether an email is spam or not",
+        "B": "Classifying fruit images as 'Fruit' or 'Not Fruit'",
+        "C": "Grouping customers into clusters based on purchasing behaviour",
+        "D": "Forecasting next month's sales using historical data"
+      },
+      "correctAnswer": "C",
+      "explanation": "Grouping customers into clusters based on purchasing behaviour. Explanation: Unsupervised learning finds patterns in unlabeled data without being told the correct answer. Clustering groups similar data points together — no predefined labels are used."
+    },
+    {
+      "id": 19,
+      "question": "What is the purpose of data wrangling in a data science case study? ★",
+      "options": {
+        "A": "Collecting raw data from the internet",
+        "B": "Presenting final results to stakeholders",
+        "C": "Cleaning, transforming, and preparing raw data into a usable format",
+        "D": "Building the final statistical model"
+      },
+      "correctAnswer": "C",
+      "explanation": "Cleaning, transforming, and preparing raw data into a usable format. Explanation: Data wrangling involves removing duplicates, filling missing values, and transforming raw data into a clean, structured format that is suitable for analysis and modeling."
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is a data science use case approach used for predicting future values? ★",
+      "options": {
+        "A": "Clustering",
+        "B": "Forecasting",
+        "C": "Association",
+        "D": "Image segmentation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Forecasting. Explanation: Forecasting is a common data science approach that uses historical data and statistical models to predict future values — for example, weather prediction, stock prices, or sales trends."
+    },
+    {
+      "id": 21,
+      "question": "The principle of randomization in experimental design ensures: ★",
+      "options": {
+        "A": "All participants receive the same treatment",
+        "B": "Groups are formed without bias by randomly assigning participants",
+        "C": "The experiment is repeated multiple times",
+        "D": "Only one variable is measured"
+      },
+      "correctAnswer": "B",
+      "explanation": "Groups are formed without bias by randomly assigning participants. Explanation: Randomization prevents systematic bias in group formation. By randomly assigning participants to treatment and control groups, any differences in outcomes can be attributed to the treatment rather than pre-existing group differences."
+    },
+    {
+      "id": 22,
+      "question": "What is a control group in experimental design? ★",
+      "options": {
+        "A": "The group that receives the most effective treatment",
+        "B": "The group that is given no treatment, used as a baseline for comparison",
+        "C": "The group with the largest sample size",
+        "D": "The group selected by the researcher personally"
+      },
+      "correctAnswer": "B",
+      "explanation": "The group that is given no treatment, used as a baseline for comparison. Explanation: A control group receives no treatment (or the standard treatment) and serves as a reference point. Comparing the treatment group's results against the control group isolates the effect of the variable being tested."
+    },
+    {
+      "id": 23,
+      "question": "What does the principle of replication in experimental design guarantee? ★",
+      "options": {
+        "A": "All data is encrypted before use",
+        "B": "Results are reproducible and not due to chance or coincidence",
+        "C": "Only one group is used in the experiment",
+        "D": "Data is collected from a single source"
+      },
+      "correctAnswer": "B",
+      "explanation": "Results are reproducible and not due to chance or coincidence. Explanation: Replication requires repeating an experiment multiple times, possibly with different groups. Consistent results across repetitions confirm that findings are reliable and not simply a coincidence or random occurrence."
+    },
+    {
+      "id": 24,
+      "question": "Which statement correctly distinguishes a parameter from a statistic? ★",
+      "options": {
+        "A": "A parameter describes a sample; a statistic describes a population",
+        "B": "A parameter describes an entire population; a statistic describes a sample",
+        "C": "Parameters and statistics are identical concepts",
+        "D": "Statistics are always more accurate than parameters"
+      },
+      "correctAnswer": "B",
+      "explanation": "A parameter describes an entire population; a statistic describes a sample. Explanation: A parameter is a fixed value describing a whole population (usually unknown). A statistic is a calculated value from a sample that estimates the parameter. For example, the average income of all Pakistanis is a parameter; the average income of 1,000 surveyed Pakistanis is a statistic."
+    },
+    {
+      "id": 25,
+      "question": "What is A/B testing, as used by companies like Facebook and YouTube? ★",
+      "options": {
+        "A": "A method to encrypt user data using two algorithms",
+        "B": "Comparing two versions of a feature with different user groups to determine which performs better",
+        "C": "A backup strategy using two separate servers",
+        "D": "A way to compress data using binary encoding"
+      },
+      "correctAnswer": "B",
+      "explanation": "Comparing two versions of a feature with different user groups to determine which performs better. Explanation: A/B testing (split testing) involves showing version A to one randomly assigned group and version B to another, then comparing performance metrics to make data-driven decisions about which version to implement."
+    },
+    {
+      "id": 26,
+      "question": "In the context of K-means clustering, what does 'clustering' mean? ★",
+      "options": {
+        "A": "Sorting data in ascending order",
+        "B": "Labeling each data point with a predefined category",
+        "C": "Grouping data points with maximum similarities together",
+        "D": "Removing outliers from a dataset"
+      },
+      "correctAnswer": "C",
+      "explanation": "Grouping data points with maximum similarities together. Explanation: K-means clustering is an unsupervised learning algorithm that divides data into k groups (clusters) where members within each cluster are as similar to each other as possible and as different from other clusters as possible."
+    },
+    {
+      "id": 27,
+      "question": "Which primary data collection method involves asking a group of people with something in common to share their opinions? ★",
+      "options": {
+        "A": "Observation",
+        "B": "Survey",
+        "C": "Oral history",
+        "D": "Focus group"
+      },
+      "correctAnswer": "D",
+      "explanation": "Focus group. Explanation: A focus group is an in-depth discussion conducted with a selected group of participants who share common characteristics. It provides richer qualitative insight than surveys but has drawbacks like lack of privacy and potential domination by one participant."
+    },
+    {
+      "id": 28,
+      "question": "Secondary data collection differs from primary data collection in that secondary data: ★",
+      "options": {
+        "A": "Is always more accurate",
+        "B": "Has already been collected by someone else for a different purpose",
+        "C": "Is only available from government archives",
+        "D": "Cannot be used for research"
+      },
+      "correctAnswer": "B",
+      "explanation": "Has already been collected by someone else for a different purpose. Explanation: Secondary data is pre-existing data collected by other researchers, organisations, or government bodies. It is faster and cheaper to obtain than primary data but may not perfectly match the current research needs."
+    },
+    {
+      "id": 29,
+      "question": "What is the relationship between correlation and causation? ★",
+      "options": {
+        "A": "Causation always implies correlation, but correlation does not imply causation",
+        "B": "Correlation always implies causation",
+        "C": "They are the same thing",
+        "D": "Causation never implies correlation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Causation always implies correlation, but correlation does not imply causation. Explanation: If X causes Y, then X and Y will always be correlated. However, two variables can be correlated simply by coincidence or because a third variable affects both — this does not mean one causes the other."
+    },
+    {
+      "id": 30,
+      "question": "Which Python command is used to install the Pandas library for data analysis? ★",
+      "options": {
+        "A": "import pandas",
+        "B": "load pandas",
+        "C": "pip install pandas",
+        "D": "download pandas"
+      },
+      "correctAnswer": "C",
+      "explanation": "pip install pandas. Explanation: pip is Python's package manager. 'pip install pandas' downloads and installs the Pandas library along with all its dependencies, making it available for import in Python programs."
+    },
+    {
+      "id": 31,
+      "question": "What is the primary purpose of data visualization? ★",
+      "options": {
+        "A": "To store raw data in a compressed format",
+        "B": "To represent data graphically so trends and patterns can be easily understood",
+        "C": "To encrypt sensitive business data",
+        "D": "To replace statistical analysis entirely"
+      },
+      "correctAnswer": "B",
+      "explanation": "To represent data graphically so trends and patterns can be easily understood. Explanation: Data visualization converts raw numbers into charts, graphs, and maps, making it easier for both technical and non-technical audiences to identify trends, outliers, and patterns in large datasets."
+    },
+    {
+      "id": 32,
+      "question": "Which chart type is most appropriate for comparing proportions of a whole? ★",
+      "options": {
+        "A": "Line graph",
+        "B": "Bar chart",
+        "C": "Pie chart",
+        "D": "Scatter plot"
+      },
+      "correctAnswer": "C",
+      "explanation": "Pie chart. Explanation: A pie chart divides a circle into slices representing each category's proportion of the total. It is best used when comparing parts of a whole, such as market share or budget allocation."
+    },
+    {
+      "id": 33,
+      "question": "What type of chart is best for comparing values across multiple categories? ★",
+      "options": {
+        "A": "Line graph",
+        "B": "Pie chart",
+        "C": "Bar chart",
+        "D": "Histogram"
+      },
+      "correctAnswer": "C",
+      "explanation": "Bar chart. Explanation: Bar charts use rectangular bars of varying lengths to compare values across different categories side by side. They are ideal for discrete comparisons such as sales by product or population by region."
+    },
+    {
+      "id": 34,
+      "question": "In data analysis, what does 'data exploration' involve? ★",
+      "options": {
+        "A": "Deleting irrelevant rows from a database",
+        "B": "Initially examining the dataset to understand its structure, patterns, and anomalies",
+        "C": "Writing final conclusions for a report",
+        "D": "Uploading data to a cloud server"
+      },
+      "correctAnswer": "B",
+      "explanation": "Initially examining the dataset to understand its structure, patterns, and anomalies. Explanation: Data exploration is the first step in analysis — it involves looking at the data's shape, distributions, missing values, and relationships to understand what it contains before applying any formal analysis or modeling."
+    },
+    {
+      "id": 35,
+      "question": "What is a data product? ★",
+      "options": {
+        "A": "A physical storage device containing raw data",
+        "B": "A tool or application that uses data analysis results to deliver value or automate decisions",
+        "C": "A type of spreadsheet formula",
+        "D": "A method of collecting survey responses"
+      },
+      "correctAnswer": "B",
+      "explanation": "A tool or application that uses data analysis results to deliver value or automate decisions. Explanation: A data product leverages the outputs of data analysis to provide real-time recommendations, automate business processes, or deliver data-driven services — for example, a recommendation engine or fraud detection system."
+    },
+    {
+      "id": 36,
+      "question": "Which of the following best describes the mode of a dataset? ★",
+      "options": {
+        "A": "The arithmetic average of all values",
+        "B": "The middle value when data is sorted",
+        "C": "The value that appears most frequently",
+        "D": "The difference between the highest and lowest values"
+      },
+      "correctAnswer": "C",
+      "explanation": "The value that appears most frequently. Explanation: The mode is the value that occurs most often in a dataset. A dataset can have one mode (unimodal), two modes (bimodal), or more. It is the only measure of central tendency applicable to categorical data."
+    },
+    {
+      "id": 37,
+      "question": "In the linear regression equation y = mx + b, which variable represents the independent variable? ★",
+      "options": {
+        "A": "y",
+        "B": "b",
+        "C": "m",
+        "D": "x"
+      },
+      "correctAnswer": "D",
+      "explanation": "x. Explanation: In linear regression, x is the independent (predictor) variable — the one used to make predictions. y is the dependent variable whose value is predicted based on x. 'm' is the slope and 'b' is the y-intercept."
+    },
+    {
+      "id": 38,
+      "question": "What is the purpose of data cleaning in the data analysis process? ★",
+      "options": {
+        "A": "To visualize the final results",
+        "B": "To remove duplicate values, fix errors, and handle missing data to improve data quality",
+        "C": "To select which statistical model to use",
+        "D": "To collect additional data from external sources"
+      },
+      "correctAnswer": "B",
+      "explanation": "To remove duplicate values, fix errors, and handle missing data to improve data quality. Explanation: Data cleaning (also called data wrangling) ensures the dataset is accurate and consistent before analysis. Poor quality data leads to unreliable conclusions — 'garbage in, garbage out.'"
+    },
+    {
+      "id": 39,
+      "question": "Which of the following platforms is commonly used to download publicly available datasets for data analysis? ★",
+      "options": {
+        "A": "Microsoft Word",
+        "B": "Kaggle",
+        "C": "Adobe Photoshop",
+        "D": "Google Maps"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kaggle. Explanation: Kaggle (www.kaggle.com) is a widely used platform that hosts thousands of publicly available datasets for machine learning, data analysis, and competitions. GitHub is also commonly used for dataset sharing."
+    },
+    {
+      "id": 40,
+      "question": "What does the pandas function data.head(10) do in Python? ★",
+      "options": {
+        "A": "Deletes the first 10 rows of the dataset",
+        "B": "Displays the first 10 rows of the dataset",
+        "C": "Sorts the dataset by the first 10 columns",
+        "D": "Counts the number of rows up to 10"
+      },
+      "correctAnswer": "B",
+      "explanation": "Displays the first 10 rows of the dataset. Explanation: The .head(n) function in Pandas returns the first n rows of a DataFrame. It is commonly used at the start of data analysis to quickly inspect the structure and content of the dataset."
+    },
+    {
+      "id": 41,
+      "question": "A scatter plot is most useful for: ★",
+      "options": {
+        "A": "Showing the proportion of categories in a whole",
+        "B": "Displaying frequency distributions of a single variable",
+        "C": "Visualizing the relationship or correlation between two numerical variables",
+        "D": "Comparing categorical data across groups"
+      },
+      "correctAnswer": "C",
+      "explanation": "Visualizing the relationship or correlation between two numerical variables. Explanation: A scatter plot places each data point at coordinates (x, y) representing two variables. The resulting pattern reveals whether the variables are positively correlated, negatively correlated, or unrelated."
+    },
+    {
+      "id": 42,
+      "question": "What does the term 'dispersion' refer to in summary statistics? ★",
+      "options": {
+        "A": "How closely similar the data values are to each other (central tendency)",
+        "B": "How spread out or scattered the data values are from the average",
+        "C": "The most frequently occurring value",
+        "D": "The total number of data points"
+      },
+      "correctAnswer": "B",
+      "explanation": "How spread out or scattered the data values are from the average. Explanation: Dispersion measures describe how spread out data is. Key dispersion measures include range, variance, and standard deviation. High dispersion means data is widely scattered; low dispersion means it is tightly grouped."
+    },
+    {
+      "id": 43,
+      "question": "Which of the following is an example of a real-world data science use case mentioned in the textbook? ★",
+      "options": {
+        "A": "Designing a website layout",
+        "B": "Weather forecasting using predictive analysis",
+        "C": "Writing a Python function",
+        "D": "Installing a printer driver"
+      },
+      "correctAnswer": "B",
+      "explanation": "Weather forecasting using predictive analysis. Explanation: Weather forecasting is a classic real-world data science use case — historical data on temperature, rainfall, wind speed, and pressure is collected, cleaned, and fitted to statistical models to predict future weather conditions."
+    },
+    {
+      "id": 44,
+      "question": "What is the range of the dataset {12, 7, 25, 3, 19}? ★",
+      "options": {
+        "A": "12",
+        "B": "15",
+        "C": "22",
+        "D": "25"
+      },
+      "correctAnswer": "C",
+      "explanation": "22. Explanation: Range = Maximum value - Minimum value = 25 - 3 = 22. The range is the simplest measure of dispersion and shows the total spread of the dataset."
+    },
+    {
+      "id": 45,
+      "question": "In the context of data science, what does KPI stand for and why is it important? ★",
+      "options": {
+        "A": "Key Processing Index — measures CPU speed",
+        "B": "Key Performance Indicator — measures the success of a data science project against defined goals",
+        "C": "Knowledge Processing Intelligence — tracks AI accuracy",
+        "D": "Kernel Python Interface — manages data imports"
+      },
+      "correctAnswer": "B",
+      "explanation": "Key Performance Indicator — measures the success of a data science project against defined goals. Explanation: KPIs are measurable values defined at the start of a data science project to evaluate whether goals are being met. Defining KPIs upfront ensures that the project stays focused and its results can be objectively evaluated."
+    }
+  ],
+  "subject": "cs"
+}
