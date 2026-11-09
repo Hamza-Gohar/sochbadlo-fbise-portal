@@ -257,7 +257,7 @@ This document provides an exhaustive, authoritative registry of **every authenti
 
 ---
 
-## 3. Master Category & Course Hubs on `sochbadlobymak.com`
+## 10. Master Category & Course Hubs on `sochbadlobymak.com`
 
 For full reference, syllabus schedules, video lectures, and author credits, the following main sections of [`sochbadlobymak.com`](https://sochbadlobymak.com) serve as the foundation of the platform:
 
@@ -274,7 +274,7 @@ For full reference, syllabus schedules, video lectures, and author credits, the 
 
 ---
 
-## 4. Deployed Web Platform Verification
+## 11. Deployed Web Platform Verification
 
 - **GitHub Repository**: [`https://github.com/Hamza-Gohar/sochbadlo-fbise-portal`](https://github.com/Hamza-Gohar/sochbadlo-fbise-portal)
 - **Live Production Site**: [`https://sochbadlo-fbise-portal.vercel.app`](https://sochbadlo-fbise-portal.vercel.app)
