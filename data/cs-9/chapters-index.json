@@ -1,0 +1,79 @@
+[
+  {
+    "chapterNumber": 1,
+    "chapterTitle": "Unit 01: Computer Systems & Architecture",
+    "slug": "cs-9-chapter-1",
+    "description": "Evolution of computing, generations, system components, Von Neumann architecture, CPU buses, primary & secondary storage, and I/O devices.",
+    "totalQuestions": 73
+  },
+  {
+    "chapterNumber": 2,
+    "chapterTitle": "Unit 02: Computational Thinking & Algorithms",
+    "slug": "cs-9-chapter-2",
+    "description": "Problem analysis, 4-step problem solving, decomposition, pattern recognition, abstraction, algorithm design, flowcharts, and the IPO model.",
+    "totalQuestions": 50
+  },
+  {
+    "chapterNumber": 3,
+    "chapterTitle": "Unit 03: Programming Fundamentals & Web Development",
+    "slug": "cs-9-chapter-3",
+    "description": "Web fundamentals, HTML structure, tags, hyperlinks, lists, tables, JavaScript syntax, variables, operators, and control structures.",
+    "totalQuestions": 75
+  },
+  {
+    "chapterNumber": 4,
+    "chapterTitle": "Unit 04: Data and Analysis",
+    "slug": "cs-9-chapter-4",
+    "description": "Data collection methodologies, cleaning, quantitative and qualitative data, visualization techniques, Big Data 3Vs, and database concepts.",
+    "totalQuestions": 75
+  },
+  {
+    "chapterNumber": 5,
+    "chapterTitle": "Unit 05: Applications of Computer Science",
+    "slug": "cs-9-chapter-5",
+    "description": "Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), Computer Vision, Robotics, IoT, and Cloud Computing.",
+    "totalQuestions": 65
+  },
+  {
+    "chapterNumber": 6,
+    "chapterTitle": "Unit 06: Impacts of Computing & Cyber Ethics",
+    "slug": "cs-9-chapter-6",
+    "description": "Cybersecurity, cyber threats (malware, phishing, pharming), digital ethics, software licensing, intellectual property, privacy, and societal impacts.",
+    "totalQuestions": 50
+  },
+  {
+    "chapterNumber": 7,
+    "chapterTitle": "Unit 07: Entrepreneurship & Tech Innovation",
+    "slug": "cs-9-chapter-7",
+    "description": "Entrepreneurial mindset, business planning, market survey, design thinking, prototyping, digital marketing, pitching, and freelancing.",
+    "totalQuestions": 47
+  },
+  {
+    "chapterNumber": 8,
+    "chapterTitle": "Federal Board Annual Exam Simulator 01 (Ch 1 & 2)",
+    "slug": "cs-9-model-paper-1",
+    "description": "Authentic 12-mark Section A Federal Board exam simulator covering Computer Systems and Computational Thinking & Algorithms by Lecturer Sabahat Ul Hasan.",
+    "totalQuestions": 12
+  },
+  {
+    "chapterNumber": 9,
+    "chapterTitle": "Federal Board Annual Exam Simulator 02 (Ch 3 & 4)",
+    "slug": "cs-9-model-paper-2",
+    "description": "Authentic 12-mark Section A Federal Board exam simulator covering Programming Fundamentals, HTML/JS, and Data Analysis by Lecturer Sabahat Ul Hasan.",
+    "totalQuestions": 12
+  },
+  {
+    "chapterNumber": 10,
+    "chapterTitle": "Federal Board Annual Exam Simulator 03 (Ch 5)",
+    "slug": "cs-9-model-paper-3",
+    "description": "Authentic 12-mark Section A Federal Board exam simulator covering Applications of Computer Science (AI, ML, Robotics, Cloud) by Lecturer Sabahat Ul Hasan.",
+    "totalQuestions": 12
+  },
+  {
+    "chapterNumber": 11,
+    "chapterTitle": "Federal Board Annual Exam Simulator 04 (Ch 6 & 7)",
+    "slug": "cs-9-model-paper-4",
+    "description": "Authentic 12-mark Section A Federal Board exam simulator covering Impacts of Computing, Cybersecurity, and Entrepreneurship by Lecturer Sabahat Ul Hasan.",
+    "totalQuestions": 12
+  }
+]

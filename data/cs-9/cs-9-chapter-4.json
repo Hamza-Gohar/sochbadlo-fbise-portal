@@ -1,0 +1,910 @@
+{
+  "subject": "cs-9",
+  "chapterNumber": 4,
+  "chapterTitle": "Unit 04: Data and Analysis",
+  "slug": "cs-9-chapter-4",
+  "description": "Data collection methodologies, cleaning, quantitative and qualitative data, visualization techniques, Big Data 3Vs, and database concepts.",
+  "totalQuestions": 75,
+  "questions": [
+    {
+      "id": "cs9-c4-q1",
+      "question": "Data analytics is best defined as:",
+      "options": {
+        "A": "Storing raw data in databases",
+        "B": "The process of examining raw data to draw meaningful conclusions",
+        "C": "Designing algorithms for machine learning",
+        "D": "Converting data into audio/video format"
+      },
+      "correctAnswer": "B",
+      "explanation": "data analytics as the process of examining raw data to draw conclusions about the information it contains — like solving a puzzle from data."
+    },
+    {
+      "id": "cs9-c4-q2",
+      "question": "Which of the following is NOT a technique used in data analytics?",
+      "options": {
+        "A": "Statistical techniques",
+        "B": "Mathematical calculations",
+        "C": "Physical surveying of land",
+        "D": "Charts and graphs"
+      },
+      "correctAnswer": "C",
+      "explanation": "Data analytics uses mathematical calculations, statistical techniques, and charts to find patterns. Physical land surveying is not a data analytics technique."
+    },
+    {
+      "id": "cs9-c4-q3",
+      "question": "Data Science is described in as a/an:",
+      "options": {
+        "A": "Single discipline focused only on statistics",
+        "B": "Interdisciplinary field combining mathematics, statistics, data analysis, and machine learning",
+        "C": "Programming language for web development",
+        "D": "Tool for database management only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Data Science as an interdisciplinary field that uses mathematics, statistics, data analysis, and machine learning to extract knowledge from data."
+    },
+    {
+      "id": "cs9-c4-q4",
+      "question": "Which concept in data science focuses on imitating human learning using data and algorithms?",
+      "options": {
+        "A": "Data Visualization",
+        "B": "Predictive Analysis",
+        "C": "Machine Learning",
+        "D": "Data Mining"
+      },
+      "correctAnswer": "C",
+      "explanation": "Machine Learning is a branch of AI that emphasizes the use of data and algorithms to imitate human learning by computers."
+    },
+    {
+      "id": "cs9-c4-q5",
+      "question": "Deep Learning is a subset of:",
+      "options": {
+        "A": "Data Mining",
+        "B": "Natural Language Processing",
+        "C": "Machine Learning",
+        "D": "Big Data"
+      },
+      "correctAnswer": "C",
+      "explanation": "Deep learning is the subset of Machine learning., with emphasis on simulating brain behaviour using artificial neural networks."
+    },
+    {
+      "id": "cs9-c4-q6",
+      "question": "Natural Language Processing (NLP) enables computers to:",
+      "options": {
+        "A": "Store data in relational tables",
+        "B": "Understand, interpret, and generate human language",
+        "C": "Create visual charts from data",
+        "D": "Mine patterns from structured databases only"
+      },
+      "correctAnswer": "B",
+      "explanation": "NLP as 'the ability of computers to understand, interpret, and generate human language', enabling tasks like translation and sentiment analysis."
+    },
+    {
+      "id": "cs9-c4-q7",
+      "question": "Which of the following is listed as a common example of NLP?",
+      "options": {
+        "A": "Spreadsheets",
+        "B": "Chatbots and language translators",
+        "C": "Flowcharts",
+        "D": "Hard drives"
+      },
+      "correctAnswer": "B",
+      "explanation": "chatbots, language translators, sentiment analysis tools, and conversational AI platforms as common NLP examples."
+    },
+    {
+      "id": "cs9-c4-q8",
+      "question": "Predictive analysis is used to:",
+      "options": {
+        "A": "Store data in the cloud",
+        "B": "Visualize data using charts",
+        "C": "Predict future trends and events based on historical data",
+        "D": "Collect primary data through surveys"
+      },
+      "correctAnswer": "C",
+      "explanation": "predictive analysis as 'the use of data to predict future trends and events based on historical data'."
+    },
+    {
+      "id": "cs9-c4-q9",
+      "question": "Data Mining is described in as a subset of:",
+      "options": {
+        "A": "Machine Learning",
+        "B": "Deep Learning",
+        "C": "Big Data",
+        "D": "Data Science"
+      },
+      "correctAnswer": "D",
+      "explanation": "'Data mining is the subset of data science which primarily focuses on discovering patterns and relationships in existing datasets'."
+    },
+    {
+      "id": "cs9-c4-q10",
+      "question": "The goal of data analytics is to transform raw data into:",
+      "options": {
+        "A": "Larger databases",
+        "B": "Compressed files",
+        "C": "Actionable knowledge for decision-making",
+        "D": "Audio and video formats"
+      },
+      "correctAnswer": "C",
+      "explanation": "the goal of data analytics is 'to transform raw data into actionable knowledge that can inform decision-making, improve processes, and solve problems'. ★ Additional Questions — Topics 4.1 to 4.1.4"
+    },
+    {
+      "id": "cs9-c4-q11",
+      "question": "Data Science is described in as being 'like a pipeline' from:",
+      "options": {
+        "A": "Problems to solutions",
+        "B": "Data to insights",
+        "C": "Input to output",
+        "D": "Surveys to reports"
+      },
+      "correctAnswer": "B",
+      "explanation": "the analogy: Data Science is 'like a pipeline from data to insights', where raw data is processed to extract meaningful knowledge."
+    },
+    {
+      "id": "cs9-c4-q12",
+      "question": "Which of the following is an example of unstructured data?",
+      "options": {
+        "A": "Data in tables",
+        "B": "Spreadsheets",
+        "C": "Tweets, audio files, and PDF files",
+        "D": "Rows and columns in a database"
+      },
+      "correctAnswer": "C",
+      "explanation": "tweets, audio, video, and PDF files as unstructured (unprocessed) data, as opposed to structured (tabular) data."
+    },
+    {
+      "id": "cs9-c4-q13",
+      "question": "Statistics in data science is used to:",
+      "options": {
+        "A": "Create algorithms from scratch",
+        "B": "Analyse the frequency of past events",
+        "C": "Generate visualizations only",
+        "D": "Program machine learning models"
+      },
+      "correctAnswer": "B",
+      "explanation": "Statistics is the analysis of the frequency of past events and probability is to predict the likelihood of future events."
+    },
+    {
+      "id": "cs9-c4-q14",
+      "question": "Big Data refers to:",
+      "options": {
+        "A": "Data stored only on cloud servers",
+        "B": "Large volumes of data that traditional software cannot manage",
+        "C": "Data collected through primary surveys",
+        "D": "Data stored in relational tables only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Big Data as 'larger, more complex datasets' that are 'so voluminous that traditional data processing software cannot manage them'."
+    },
+    {
+      "id": "cs9-c4-q15",
+      "question": "Which of the following BEST represents a 'dataset' ?",
+      "options": {
+        "A": "A single row of data in a table",
+        "B": "A structured collection of related data associated with a unique body of work",
+        "C": "Any random collection of numbers",
+        "D": "A graph or chart"
+      },
+      "correctAnswer": "B",
+      "explanation": "a dataset as 'a structured or processed collection of data usually associated with a unique body of work', e.g. brain CT scans of tumor patients."
+    },
+    {
+      "id": "cs9-c4-q16",
+      "question": "which business problem can be solved using data science?",
+      "options": {
+        "A": "Designing website layouts",
+        "B": "Deciding the best shipping routes for goods",
+        "C": "Writing HTML code",
+        "D": "Installing hardware components"
+      },
+      "correctAnswer": "B",
+      "explanation": "'deciding the best routes for shipping of goods or passenger airplanes' as one of the business problems solved through data science."
+    },
+    {
+      "id": "cs9-c4-q17",
+      "question": "Data Visualization uses which of the following to represent data?",
+      "options": {
+        "A": "Written reports only",
+        "B": "Charts, graphs, maps, and dashboards",
+        "C": "Database tables only",
+        "D": "Programming code"
+      },
+      "correctAnswer": "B",
+      "explanation": "data visualization as 'graphical representation of data' using 'charts, graphs, maps, figures, and dashboard etc.'."
+    },
+    {
+      "id": "cs9-c4-q18",
+      "question": "Which field specifically uses data science to optimize inventory based on demand forecasting?",
+      "options": {
+        "A": "Government",
+        "B": "Healthcare",
+        "C": "Consumer goods",
+        "D": "Logistics"
+      },
+      "correctAnswer": "C",
+      "explanation": "Data science skills can be used to optimize inventory according to the demand forecasting of particular goods in particular social groups.."
+    },
+    {
+      "id": "cs9-c4-q19",
+      "question": "Which of the following is a data science application in e-commerce?",
+      "options": {
+        "A": "Predictive maintenance",
+        "B": "Fraud detection and recommendation systems",
+        "C": "Epidemic outbreak prediction",
+        "D": "Wearable health devices"
+      },
+      "correctAnswer": "B",
+      "explanation": "recommendation systems, customer segmentation, fraud detection, and supply chain optimization as data science applications in e-commerce."
+    },
+    {
+      "id": "cs9-c4-q20",
+      "question": "Data science can help stock market companies with:",
+      "options": {
+        "A": "Physical storage of currency",
+        "B": "Algorithmic trading and market sentiment analysis",
+        "C": "Designing product packaging",
+        "D": "Managing employee attendance"
+      },
+      "correctAnswer": "B",
+      "explanation": "data science helps stock markets with algorithmic trading, market sentiment analysis, volatility predictions, and risk management."
+    },
+    {
+      "id": "cs9-c4-q21",
+      "question": "Mathematics in data science helps to:",
+      "options": {
+        "A": "Only display charts and graphs",
+        "B": "Solve problems, evaluate model performance, and interpret complex data",
+        "C": "Collect primary data through interviews",
+        "D": "Store data in cloud servers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mathematics helps to solve problems, the model performances, and interpret huge complex data into simple and clear results for decision making.."
+    },
+    {
+      "id": "cs9-c4-q22",
+      "question": "Sentiment analysis is described in as:",
+      "options": {
+        "A": "Predicting stock market prices",
+        "B": "Analyzing customer reviews about a product to determine positive, negative, or neutral sentiment",
+        "C": "Converting speech to text",
+        "D": "Finding shortest delivery routes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Do You Know box states: 'Sentiment analysis is the term used to understand customers by analyzing the review about the product. The sentiment can be positive, negative, or neutral.'"
+    },
+    {
+      "id": "cs9-c4-q23",
+      "question": "Which of the following is an example of data science being used in the logistics industry?",
+      "options": {
+        "A": "Sentiment analysis of customer reviews",
+        "B": "Route optimization and demand forecasting",
+        "C": "Training machine learning models",
+        "D": "Publishing research papers"
+      },
+      "correctAnswer": "B",
+      "explanation": "route optimization, demand forecasting, real-time tracking, load balancing, and cost reduction as logistics applications of data science."
+    },
+    {
+      "id": "cs9-c4-q24",
+      "question": "A business problem in the context of data science is defined as:",
+      "options": {
+        "A": "A software bug in a program",
+        "B": "A gap between the existing and desired state of a situation",
+        "C": "A missing dataset in a database",
+        "D": "An incorrect data visualization"
+      },
+      "correctAnswer": "B",
+      "explanation": "a business problem as 'a gap between the existing and desired state of a situation — a desired action or series of actions to achieve an objective'."
+    },
+    {
+      "id": "cs9-c4-q25",
+      "question": "Which of the following is an application of data science in the healthcare industry?",
+      "options": {
+        "A": "Algorithmic trading",
+        "B": "Fraud detection in payments",
+        "C": "Forecasting health risks and predicting epidemic outbreaks",
+        "D": "Optimizing shipping routes"
+      },
+      "correctAnswer": "C",
+      "explanation": "healthcare as a major data science application area including forecasting health risks, predicting epidemic outbreaks, and determining best treatments. Topic 4.2 to 4.2.5 — Data Types, Sources, Collection & Storage"
+    },
+    {
+      "id": "cs9-c4-q26",
+      "question": "Which of the following correctly classifies the two MAIN types of data in data science?",
+      "options": {
+        "A": "Structured and Unstructured",
+        "B": "Primary and Secondary",
+        "C": "Qualitative and Quantitative",
+        "D": "Discrete and Continuous"
+      },
+      "correctAnswer": "C",
+      "explanation": "data is mainly classified into two types: qualitative (categorical) and quantitative (numerical)."
+    },
+    {
+      "id": "cs9-c4-q27",
+      "question": "Ordinal data is different from Nominal data because Ordinal data:",
+      "options": {
+        "A": "Cannot be labeled",
+        "B": "Has no order or ranking",
+        "C": "Follows a specific order or ranking",
+        "D": "Only includes numbers"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ordinal data uses a scale or ranking (e.g. test grades, military rank). Nominal data has no meaningful order — just labels like gender or city."
+    },
+    {
+      "id": "cs9-c4-q28",
+      "question": "Which of the following is an example of NOMINAL data?",
+      "options": {
+        "A": "Military rank",
+        "B": "Test grades",
+        "C": "Gender and city names",
+        "D": "Temperature readings"
+      },
+      "correctAnswer": "C",
+      "explanation": "Nominal data has no meaningful order — categories like gender, city, color, and employment status are labeled but cannot be meaningfully ranked."
+    },
+    {
+      "id": "cs9-c4-q29",
+      "question": "Discrete data is best described as:",
+      "options": {
+        "A": "Data that can take any value between two points",
+        "B": "Data that can only take certain countable values with a finite number",
+        "C": "Data that changes continuously over time",
+        "D": "Data represented only in text form"
+      },
+      "correctAnswer": "B",
+      "explanation": "Discrete data can only take specific values (e.g. number of computers, employees). It can be counted and has a finite number of possible values."
+    },
+    {
+      "id": "cs9-c4-q30",
+      "question": "What distinguishes Interval Scaled data from Ratio Scaled data?",
+      "options": {
+        "A": "Interval data can be multiplied; Ratio cannot",
+        "B": "Interval data has no true zero point; Ratio data has a true zero",
+        "C": "Interval data is qualitative; Ratio is quantitative",
+        "D": "Interval data is discrete; Ratio data is continuous"
+      },
+      "correctAnswer": "B",
+      "explanation": "Interval data has no true zero (e.g. 0°C doesn't mean no temperature), while Ratio data has a true zero (e.g. 0 Kg = no weight)."
+    },
+    {
+      "id": "cs9-c4-q31",
+      "question": "Primary data collection involves:",
+      "options": {
+        "A": "Using data from published books and websites",
+        "B": "Collecting original data directly from the source or respondents",
+        "C": "Downloading data from online databases",
+        "D": "Using government institutional records"
+      },
+      "correctAnswer": "B",
+      "explanation": "Primary data collection involves direct interaction with respondents — through surveys, interviews, observations, experiments, sensors, and IoT devices."
+    },
+    {
+      "id": "cs9-c4-q32",
+      "question": "A database differs from a dataset in that a database is:",
+      "options": {
+        "A": "A single table of related data",
+        "B": "An organized collection of data stored in multiple datasets or tables",
+        "C": "A graph showing trends in data",
+        "D": "A primary data collection method"
+      },
+      "correctAnswer": "B",
+      "explanation": "distinguishes: a dataset is one structured collection, while a database is an organized collection stored in multiple datasets or tables."
+    },
+    {
+      "id": "cs9-c4-q33",
+      "question": "DBMS stands for:",
+      "options": {
+        "A": "Data Base Mining System",
+        "B": "Database Management System",
+        "C": "Digital Binary Memory System",
+        "D": "Data Backup Management Software"
+      },
+      "correctAnswer": "B",
+      "explanation": "DBMS stands for Database Management System — it is the interface between the database and the end user, providing a platform to create and retrieve data."
+    },
+    {
+      "id": "cs9-c4-q34",
+      "question": "Which of the following is listed as a Relational Database Management System (RDBMS)?",
+      "options": {
+        "A": "MongoDB",
+        "B": "Cassandra",
+        "C": "MySQL",
+        "D": "Hadoop"
+      },
+      "correctAnswer": "C",
+      "explanation": "MySQL, Oracle, MS Access, and IBM Db2 as relational DBMS examples. MongoDB and Cassandra are non-relational (NoSQL) DBMS."
+    },
+    {
+      "id": "cs9-c4-q35",
+      "question": "Non-relational databases are also referred to as:",
+      "options": {
+        "A": "RDBMS",
+        "B": "DBMS",
+        "C": "NoSQL DBMS",
+        "D": "SQL-based systems"
+      },
+      "correctAnswer": "C",
+      "explanation": "Non-relational DBMS are also called NOSQL DBMS. They store data in key-value pairs, column families, or graphs. ★ Additional Questions — Topics 4.2 to 4.2.5"
+    },
+    {
+      "id": "cs9-c4-q36",
+      "question": "Qualitative data is described in as data that:",
+      "options": {
+        "A": "Can be measured mathematically",
+        "B": "Describes objects or groups using labels that cannot be represented numerically",
+        "C": "Is always arranged in tables",
+        "D": "Only appears in audio or video format"
+      },
+      "correctAnswer": "B",
+      "explanation": "qualitative/categorical data as data that 'describes an object or group of objects that can be labelled to group them — it cannot be represented in numerical form'."
+    },
+    {
+      "id": "cs9-c4-q37",
+      "question": "Which of the following is an example of CONTINUOUS data?",
+      "options": {
+        "A": "Number of students in a school",
+        "B": "Tickets sold at a cinema",
+        "C": "Daily wind speed and weight of newborn babies",
+        "D": "Number of product reviews"
+      },
+      "correctAnswer": "C",
+      "explanation": "Continuous data refers to measurements between two realistic points. examples include daily wind speed, weight of newborn babies, and freezer temperature."
+    },
+    {
+      "id": "cs9-c4-q38",
+      "question": "Temperature in Celsius (where 0°C does NOT mean absence of temperature) is an example of:",
+      "options": {
+        "A": "Ratio scaled data",
+        "B": "Discrete data",
+        "C": "Interval scaled data",
+        "D": "Nominal data"
+      },
+      "correctAnswer": "C",
+      "explanation": "temperature in Celsius/Fahrenheit as its example of interval scaled data because 0°C does not mean the absence of temperature — no true zero."
+    },
+    {
+      "id": "cs9-c4-q39",
+      "question": "0 Kg meaning 'no weight at all' is a characteristic of which type of data?",
+      "options": {
+        "A": "Interval scaled data",
+        "B": "Discrete data",
+        "C": "Nominal data",
+        "D": "Ratio scaled data"
+      },
+      "correctAnswer": "D",
+      "explanation": "ratio scaled data as having 'a true zero point'. The example given is 0 Kg = absence of weight — a true zero."
+    },
+    {
+      "id": "cs9-c4-q40",
+      "question": "Collecting tweets from a website about a specific topic is an example of:",
+      "options": {
+        "A": "Secondary data collection",
+        "B": "Primary data collection through sensors",
+        "C": "Primary data collection from websites",
+        "D": "An experiment"
+      },
+      "correctAnswer": "C",
+      "explanation": "'Website: Collecting tweets regarding some topic or thread' as one of the sources of data under primary data collection."
+    },
+    {
+      "id": "cs9-c4-q41",
+      "question": "Secondary data collection uses:",
+      "options": {
+        "A": "Surveys and interviews conducted by the researcher",
+        "B": "IoT sensors placed by the investigator",
+        "C": "Existing data collected by someone else, available in published material",
+        "D": "Direct observation of events"
+      },
+      "correctAnswer": "B",
+      "explanation": "Secondary data involves using existing data. it is 'usually available in the form of published material like research papers, books, websites'."
+    },
+    {
+      "id": "cs9-c4-q42",
+      "question": "Which of the following is a PRIMARY data collection method mentioned in ?",
+      "options": {
+        "A": "Online databases",
+        "B": "Past research studies",
+        "C": "Government records",
+        "D": "Focus groups and IoT devices"
+      },
+      "correctAnswer": "D",
+      "explanation": "surveys, interviews, observations, experiments, focus groups, sensors, IoT devices, and biometric devices as primary data collection methods."
+    },
+    {
+      "id": "cs9-c4-q43",
+      "question": "In a relational database, data is stored in the form of:",
+      "options": {
+        "A": "Key-value pairs",
+        "B": "Graphs",
+        "C": "Tables",
+        "D": "Audio files"
+      },
+      "correctAnswer": "C",
+      "explanation": "relational databases, which store data in tables, can be managed by systems like MySQL, Oracle, MS Access and IBM Db2.."
+    },
+    {
+      "id": "cs9-c4-q44",
+      "question": "MongoDB is an example of which type of database management system?",
+      "options": {
+        "A": "Relational DBMS",
+        "B": "SQL-based DBMS",
+        "C": "Non-relational (NoSQL) DBMS",
+        "D": "Distributed file system"
+      },
+      "correctAnswer": "C",
+      "explanation": "MongoDB and Cassandra as examples of non-relational DBMS (also called NoSQL DBMS), which store data in key-value pairs, column families, or graphs."
+    },
+    {
+      "id": "cs9-c4-q45",
+      "question": "In 's online shopping database example, which THREE tables are mentioned?",
+      "options": {
+        "A": "Employee, Manager, Stock",
+        "B": "Product, Customer, Orders",
+        "C": "Sales, Inventory, Accounts",
+        "D": "User, Cart, Wishlist"
+      },
+      "correctAnswer": "B",
+      "explanation": "'s online shopping database example shows three tables: Product Table, Customer Table, and Order Table — to manage products, customers, and their orders."
+    },
+    {
+      "id": "cs9-c4-q46",
+      "question": "A 'respondent' in primary data collection refers to:",
+      "options": {
+        "A": "The person who analyzes the data",
+        "B": "The tool used to collect data",
+        "C": "A person from whom statistical information is collected",
+        "D": "A secondary data source"
+      },
+      "correctAnswer": "C",
+      "explanation": "a respondent as 'a person from whom the statistical information required for the enquiry is collected'."
+    },
+    {
+      "id": "cs9-c4-q47",
+      "question": "Which of the following is a data storage method listed in ?",
+      "options": {
+        "A": "Predictive analysis",
+        "B": "Data mining",
+        "C": "Cloud-based data storage",
+        "D": "Natural language processing"
+      },
+      "correctAnswer": "C",
+      "explanation": "Relational/NoSQL databases, Data warehouse, Distributed file systems, Cloud-based data storage, and Blockchain as data storage methods."
+    },
+    {
+      "id": "cs9-c4-q48",
+      "question": "The first step in a statistical investigation is:",
+      "options": {
+        "A": "Data visualization",
+        "B": "Data analysis",
+        "C": "Data collection",
+        "D": "Data storage"
+      },
+      "correctAnswer": "C",
+      "explanation": "Collection of Data is the first and foremost step in a statistical investigation."
+    },
+    {
+      "id": "cs9-c4-q49",
+      "question": "Seismic data collected through sensors to study earthquakes is an example of:",
+      "options": {
+        "A": "Secondary data collection",
+        "B": "Nominal data collection",
+        "C": "Primary data collection through sensors",
+        "D": "Discrete data"
+      },
+      "correctAnswer": "C",
+      "explanation": "'Sensors: Collecting seismic data regarding changes under the earth which cause earthquakes' as a primary data collection method."
+    },
+    {
+      "id": "cs9-c4-q50",
+      "question": "Summary statistics help a data scientist to understand:",
+      "options": {
+        "A": "Which programming language to use",
+        "B": "Trends, outliers, and distribution of values in a dataset",
+        "C": "How to design a database schema",
+        "D": "How to write HTML code"
+      },
+      "correctAnswer": "B",
+      "explanation": "Summary statistics help to understand the trends, outliers, and distribution of values in a data set.. Topic 4.3 — Big Data: Three Vs, History & Applications"
+    },
+    {
+      "id": "cs9-c4-q51",
+      "question": "The 'Three Vs' of Big Data are:",
+      "options": {
+        "A": "Volume, Value, Validity",
+        "B": "Velocity, Variety, Visibility",
+        "C": "Volume, Velocity, Variety",
+        "D": "Value, Velocity, Verification"
+      },
+      "correctAnswer": "C",
+      "explanation": "the three Vs of Big Data are: Volume (amount of data), Velocity (speed of data), and Variety (types/formats of data)."
+    },
+    {
+      "id": "cs9-c4-q52",
+      "question": "In Big Data, 'Volume' refers to:",
+      "options": {
+        "A": "Speed at which data is received",
+        "B": "Various formats and types of data",
+        "C": "The amount or size of data",
+        "D": "The accuracy of data"
+      },
+      "correctAnswer": "C",
+      "explanation": "Volume refers to the sheer amount of data. this ranges from tens of terabytes to hundreds of petabytes depending on the organization."
+    },
+    {
+      "id": "cs9-c4-q53",
+      "question": "In Big Data, 'Velocity' refers to:",
+      "options": {
+        "A": "The amount of data stored",
+        "B": "The variety of data formats",
+        "C": "The fast rate at which data is received and processed",
+        "D": "The value extracted from data"
+      },
+      "correctAnswer": "C",
+      "explanation": "Velocity as 'the fast rate at which data is received'. Highest velocity data streams directly into memory rather than being written to disk."
+    },
+    {
+      "id": "cs9-c4-q54",
+      "question": "The 'Variety' dimension of Big Data refers to:",
+      "options": {
+        "A": "The speed at which data flows",
+        "B": "The amount of data generated",
+        "C": "The various formats and types of data including structured, unstructured, and semi- structured",
+        "D": "The accuracy and reliability of data"
+      },
+      "correctAnswer": "C",
+      "explanation": "Variety covers the different formats: structured data in relational databases, unstructured (text, images, videos), and semi-structured (JSON, XML)."
+    },
+    {
+      "id": "cs9-c4-q55",
+      "question": "The term 'Big Data' emerged in which decade?",
+      "options": {
+        "A": "1980s",
+        "B": "1990s",
+        "C": "Early 2000s",
+        "D": "2010s"
+      },
+      "correctAnswer": "C",
+      "explanation": "The term big data emerged in the early 2000s as a term to describe exponential growth of data.."
+    },
+    {
+      "id": "cs9-c4-q56",
+      "question": "Around 2005, which tool was developed to store and analyze big datasets?",
+      "options": {
+        "A": "Python",
+        "B": "MongoDB",
+        "C": "Hadoop",
+        "D": "MySQL"
+      },
+      "correctAnswer": "C",
+      "explanation": "In 2005 a tool called Hadoop (an open-source framework created specifically to store and analyze big datasets) was developed.."
+    },
+    {
+      "id": "cs9-c4-q57",
+      "question": "Big Data in healthcare is used to:",
+      "options": {
+        "A": "Design hospital buildings",
+        "B": "Predict epidemic outbreaks and real-time patient alerting",
+        "C": "Replace doctors entirely",
+        "D": "Manage hospital finances only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Healthcare providers are now using big data to predict epidemic outbreaks, real-time alerting, predict and prevent serious medical conditions.."
+    },
+    {
+      "id": "cs9-c4-q58",
+      "question": "In the manufacturing industry, Big Data helps with:",
+      "options": {
+        "A": "Designing logos and advertisements",
+        "B": "Predictive maintenance to avoid unexpected machine breakdowns",
+        "C": "Writing software programs",
+        "D": "Employee recruitment only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Big Data helps in 'predicting when machines might need a break (predictive maintenance), making sure they don't unexpectedly stop working'."
+    },
+    {
+      "id": "cs9-c4-q59",
+      "question": "In the Media and Entertainment industry, Big Data is used to:",
+      "options": {
+        "A": "Build cinema halls",
+        "B": "Predict audience preferences and target advertisements",
+        "C": "Design movie scripts",
+        "D": "Manage actor payrolls"
+      },
+      "correctAnswer": "B",
+      "explanation": "media houses use Big Data 'for predicting what audiences would like to see, how to target the ads, content monetization, and revenue analysis'."
+    },
+    {
+      "id": "cs9-c4-q60",
+      "question": "IoT (Internet of Things) generates data that is used by Big Data systems to:",
+      "options": {
+        "A": "Create websites",
+        "B": "Manage government records",
+        "C": "Provide personalized customer experiences and unlock IoT's full potential",
+        "D": "Design hardware components"
+      },
+      "correctAnswer": "C",
+      "explanation": "Big data is essential for unlocking the full potential of IoT by providing meaningful insight derived from the massive amount of data generated by IoT devices.. ★ Additional Questions — Topic 4.3"
+    },
+    {
+      "id": "cs9-c4-q61",
+      "question": "Big Data emerged because of the growth of which platforms around 2005?",
+      "options": {
+        "A": "Wikipedia and LinkedIn",
+        "B": "Facebook, YouTube, and other online services",
+        "C": "Netflix and Amazon",
+        "D": "Google and Microsoft Office"
+      },
+      "correctAnswer": "B",
+      "explanation": "Around 2005, people began to realize just how much data users generated through Facebook, YouTube, and other services.."
+    },
+    {
+      "id": "cs9-c4-q62",
+      "question": "Which of the following is a characteristic of Big Data that makes it different from traditional data?",
+      "options": {
+        "A": "It can be processed by simple spreadsheet software",
+        "B": "It only comes from one source",
+        "C": "It is so voluminous that traditional data processing software cannot manage it",
+        "D": "It is always structured and organized"
+      },
+      "correctAnswer": "C",
+      "explanation": "Big Data datasets are 'so voluminous that traditional data processing software cannot manage them', requiring specialized tools like Hadoop."
+    },
+    {
+      "id": "cs9-c4-q63",
+      "question": "In Big Data, data that streams directly into memory rather than being written to disk represents high:",
+      "options": {
+        "A": "Volume",
+        "B": "Variety",
+        "C": "Velocity",
+        "D": "Validity"
+      },
+      "correctAnswer": "C",
+      "explanation": "the highest velocity of data streams directly into memory rather than being written to disk., showing extremely fast data arrival."
+    },
+    {
+      "id": "cs9-c4-q64",
+      "question": "Semi-structured data in Big Data includes:",
+      "options": {
+        "A": "Data stored in relational tables",
+        "B": "Text documents and images",
+        "C": "JSON and XML formats",
+        "D": "Audio and video files only"
+      },
+      "correctAnswer": "C",
+      "explanation": "JSON and XML as semi-structured data under the Variety dimension of Big Data, alongside unstructured data like text, images, and videos."
+    },
+    {
+      "id": "cs9-c4-q65",
+      "question": "Big Data applications in government include:",
+      "options": {
+        "A": "Designing election ballots",
+        "B": "Fraud detection, minimizing system errors, and improving citizen services",
+        "C": "Creating advertising campaigns",
+        "D": "Managing school curriculums"
+      },
+      "correctAnswer": "B",
+      "explanation": "governments use Big Data to 'understand the needs of citizens, combat fraud, minimize system errors, and improve operations and services'."
+    },
+    {
+      "id": "cs9-c4-q66",
+      "question": "Which of the following is listed as a Big Data application domain in ?",
+      "options": {
+        "A": "Language translation only",
+        "B": "Cybersecurity and weather forecasting",
+        "C": "Website design",
+        "D": "CPU manufacturing"
+      },
+      "correctAnswer": "B",
+      "explanation": "cybersecurity, weather forecasting, crime prediction, fraud detection, and fake news detection among the domains where Big Data finds applications."
+    },
+    {
+      "id": "cs9-c4-q67",
+      "question": "Predictive maintenance in manufacturing, enabled by Big Data, means:",
+      "options": {
+        "A": "Hiring more maintenance staff",
+        "B": "Predicting when machines might need servicing before they break down",
+        "C": "Designing machines from scratch",
+        "D": "Reducing product prices"
+      },
+      "correctAnswer": "B",
+      "explanation": "Big Data predictive maintenance as 'predicting when machines might need a break, making sure they don't unexpectedly stop working'."
+    },
+    {
+      "id": "cs9-c4-q68",
+      "question": "'s supermarket case study, data science helped supermarkets determine:",
+      "options": {
+        "A": "How to advertise online",
+        "B": "Which months had highest sales and which products needed more stock",
+        "C": "How to design store layouts artistically",
+        "D": "How to train cashiers"
+      },
+      "correctAnswer": "B",
+      "explanation": "'s case study shows supermarkets used data science to identify peak sales months (festivals) and determine which products needed larger quantities."
+    },
+    {
+      "id": "cs9-c4-q69",
+      "question": "The first database management system was developed in:",
+      "options": {
+        "A": "1950s",
+        "B": "1960s",
+        "C": "1980s",
+        "D": "1990s"
+      },
+      "correctAnswer": "B",
+      "explanation": "The first database management system was developed in the 1960s. — though text shows '190s' this is a reference to the 1960s in context."
+    },
+    {
+      "id": "cs9-c4-q70",
+      "question": "Big Data in IoT is important because IoT devices:",
+      "options": {
+        "A": "Generate a small, manageable amount of data",
+        "B": "Generate continuous data that requires big data analytics for meaningful insight",
+        "C": "Work without internet connectivity",
+        "D": "Store all data locally on the device"
+      },
+      "correctAnswer": "B",
+      "explanation": "IoT devices generate continuous data. The analytics based on this huge data helps in personalized customer experience.."
+    },
+    {
+      "id": "cs9-c4-q71",
+      "question": "Which of the following is a manufacturing advantage of Big Data listed in ?",
+      "options": {
+        "A": "Reducing product prices by half",
+        "B": "High product quality and tracking faults",
+        "C": "Eliminating all human workers",
+        "D": "Designing marketing campaigns"
+      },
+      "correctAnswer": "B",
+      "explanation": "high product quality, tracking faults, supply planning, predicting output, increasing energy efficiency, and testing/simulation as Big Data manufacturing advantages."
+    },
+    {
+      "id": "cs9-c4-q72",
+      "question": "Fake news detection is listed in as an application of:",
+      "options": {
+        "A": "Data mining only",
+        "B": "Relational databases",
+        "C": "Big Data",
+        "D": "Summary statistics"
+      },
+      "correctAnswer": "C",
+      "explanation": "fake news detection in the Big Data applications section alongside fraud detection, cybersecurity, and weather forecasting."
+    },
+    {
+      "id": "cs9-c4-q73",
+      "question": "In, 'Variety' in Big Data is significant because:",
+      "options": {
+        "A": "It refers to how fast data arrives",
+        "B": "Traditional systems only handled structured tabular data, but Big Data brings new types requiring preprocessing",
+        "C": "It measures how accurate the data is",
+        "D": "It refers to the geographic spread of data"
+      },
+      "correctAnswer": "B",
+      "explanation": "Traditional data types were structured and fit neatly in relational databases. With Big Data, unstructured and semi-structured types require additional preprocessing.."
+    },
+    {
+      "id": "cs9-c4-q74",
+      "question": "'s supermarket case study demonstrates that data science helps place products on shelves based on:",
+      "options": {
+        "A": "Brand popularity only",
+        "B": "Shelf life — products with less shelf life on most accessible shelves",
+        "C": "Alphabetical product name order",
+        "D": "Weight of the product"
+      },
+      "correctAnswer": "B",
+      "explanation": "information gathered from the database will guide us to place the products with less shelf life in the most easily accessible shelves.."
+    },
+    {
+      "id": "cs9-c4-q75",
+      "question": "Which of the following is NOT listed as an application domain of Big Data in ?",
+      "options": {
+        "A": "Aviation",
+        "B": "Scientific research",
+        "C": "Tax compliance",
+        "D": "Hotel interior design"
+      },
+      "correctAnswer": "D",
+      "explanation": "aviation, cybersecurity, crime prediction, e-commerce, fake news detection, fraud detection, pharmaceutical evaluation, scientific research, weather forecasting, and tax compliance — not hotel interior design."
+    }
+  ]
+}

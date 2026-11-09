@@ -1,0 +1,154 @@
+{
+  "subject": "cs-9",
+  "chapterNumber": 9,
+  "chapterTitle": "Federal Board Annual Exam Simulator 02 (Ch 3 & 4)",
+  "slug": "cs-9-model-paper-2",
+  "description": "Authentic 12-mark Section A Federal Board exam simulator covering Programming Fundamentals, HTML/JS, and Data Analysis by Lecturer Sabahat Ul Hasan.",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "id": "cs9-mp2-q1",
+      "question": "Which of the following keyword is used to declare variables in JavaScript?",
+      "options": {
+        "A": "dim",
+        "B": "var",
+        "C": "let",
+        "D": "const"
+      },
+      "correctAnswer": "B",
+      "explanation": "'var' is the primary variable declaration keyword taught in the FBISE Class 9 Computer Science curriculum."
+    },
+    {
+      "id": "cs9-mp2-q2",
+      "question": "Which HTML tag is used to create a hyperlink?",
+      "options": {
+        "A": "<link>",
+        "B": "<href>",
+        "C": "<hyperlink>",
+        "D": "<a>"
+      },
+      "correctAnswer": "D",
+      "explanation": "The <a> (anchor) tag with the 'href' attribute is used in HTML to define hyperlinks connecting web pages."
+    },
+    {
+      "id": "cs9-mp2-q3",
+      "question": "How do you write 'Hello, World!' in an alert box using JavaScript?",
+      "options": {
+        "A": "msgBox(\"Hello, World!\");",
+        "B": "alertBox(\"Hello, World!\");",
+        "C": "alert(\"Hello, World!\");",
+        "D": "Msg (\"Hello, World!\");"
+      },
+      "correctAnswer": "C",
+      "explanation": "The built-in window method alert() displays a popup dialog box with the specified text message in JavaScript."
+    },
+    {
+      "id": "cs9-mp2-q4",
+      "question": "Which of the following is not a valid JavaScript data type?",
+      "options": {
+        "A": "Long",
+        "B": "String",
+        "C": "Number",
+        "D": "Boolean"
+      },
+      "correctAnswer": "A",
+      "explanation": "JavaScript uses Number for all numeric values (both integer and floating point); 'Long' is not a native primitive data type in JS."
+    },
+    {
+      "id": "cs9-mp2-q5",
+      "question": "What is the correct way to declare a variable in JavaScript?",
+      "options": {
+        "A": "variable n=10;",
+        "B": "variable name=10;",
+        "C": "vary n=10;",
+        "D": "var n = 10;"
+      },
+      "correctAnswer": "D",
+      "explanation": "The proper syntax uses the 'var' keyword followed by the identifier name and assignment operator: 'var n = 10;'."
+    },
+    {
+      "id": "cs9-mp2-q6",
+      "question": "Which of the following data types does JavaScript use to represent a sequence of characters?",
+      "options": {
+        "A": "String",
+        "B": "Number",
+        "C": "List",
+        "D": "Boolean"
+      },
+      "correctAnswer": "A",
+      "explanation": "The String data type in JavaScript represents textual data consisting of a sequence of 16-bit Unicode characters."
+    },
+    {
+      "id": "cs9-mp2-q7",
+      "question": "Which of the following is an example of primary collection of data?",
+      "options": {
+        "A": "Government records",
+        "B": "Online database",
+        "C": "Interviews",
+        "D": "Past research studies"
+      },
+      "correctAnswer": "C",
+      "explanation": "Interviews represent primary data collection because data is gathered directly and first-hand by the researcher from original subjects."
+    },
+    {
+      "id": "cs9-mp2-q8",
+      "question": "In Big Data, “Variety” refers to:",
+      "options": {
+        "A": "The speed of incoming data",
+        "B": "Different types and formats of data",
+        "C": "The quality or trustworthiness of data",
+        "D": "The number of users accessing data"
+      },
+      "correctAnswer": "B",
+      "explanation": "Variety in Big Data describes the diversity of data formats, including structured tables, semi-structured XML/JSON, and unstructured text, video, or audio."
+    },
+    {
+      "id": "cs9-mp2-q9",
+      "question": "Which of the following is a limitation of Big Data?",
+      "options": {
+        "A": "Unlimited Growth of Data",
+        "B": "High accuracy",
+        "C": "Ease of storage",
+        "D": "Low cost of processing"
+      },
+      "correctAnswer": "A",
+      "explanation": "The exponential, unchecked growth of data volume creates severe challenges for physical storage infrastructure, indexing, security, and high computational cost."
+    },
+    {
+      "id": "cs9-mp2-q10",
+      "question": "Which target attribute opens the link in a new tab?",
+      "options": {
+        "A": "_self",
+        "B": "_blank",
+        "C": "_top",
+        "D": "_parent"
+      },
+      "correctAnswer": "B",
+      "explanation": "Setting target=\"_blank\" on an anchor tag instructs the browser to open the linked target document in a new browsing context or tab."
+    },
+    {
+      "id": "cs9-mp2-q11",
+      "question": "Customer feedback like “Satisfied, Neutral, Dissatisfied” is an example of:",
+      "options": {
+        "A": "Continuous data",
+        "B": "Discrete data",
+        "C": "Ordinal data",
+        "D": "Numeric data"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ordinal data is categorical data where the values have a clear, meaningful natural order or ranking but differences between ranks cannot be precisely measured."
+    },
+    {
+      "id": "cs9-mp2-q12",
+      "question": "The first value assigned to a variable after declaration is called:",
+      "options": {
+        "A": "Beginning value",
+        "B": "Starting value",
+        "C": "Substitution",
+        "D": "Initialization"
+      },
+      "correctAnswer": "D",
+      "explanation": "Initialization is the process of assigning an initial value to a variable at or immediately following declaration."
+    }
+  ]
+}

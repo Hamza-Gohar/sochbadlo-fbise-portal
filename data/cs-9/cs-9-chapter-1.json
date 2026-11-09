@@ -1,0 +1,886 @@
+{
+  "subject": "cs-9",
+  "chapterNumber": 1,
+  "chapterTitle": "Unit 01: Computer Systems & Architecture",
+  "slug": "cs-9-chapter-1",
+  "description": "Evolution of computing, generations, system components, Von Neumann architecture, CPU buses, primary & secondary storage, and I/O devices.",
+  "totalQuestions": 73,
+  "questions": [
+    {
+      "id": "cs9-c1-q1",
+      "question": "Which early computing device used beads on rods to perform arithmetic?",
+      "options": {
+        "A": "Pascaline",
+        "B": "Napier’s Bones",
+        "C": "Abacus",
+        "D": "Stepped Reckoner"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Abacus is one of the oldest computing tools, using beads on rods for arithmetic. It was widely used across many ancient cultures long before mechanical calculators."
+    },
+    {
+      "id": "cs9-c1-q2",
+      "question": "Who invented the Difference Engine in the 1820s?",
+      "options": {
+        "A": "John Napier",
+        "B": "Herman Hollerith",
+        "C": "Charles Babbage",
+        "D": "Blaise Pascal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Charles Babbage designed the Difference Engine in the 1820s for mechanical numerical computation. He is often called the “Father of the Computer.”"
+    },
+    {
+      "id": "cs9-c1-q3",
+      "question": "The Tabulating Machine invented by Herman Hollerith laid the foundation for which company?",
+      "options": {
+        "A": "Microsoft",
+        "B": "Apple",
+        "C": "IBM",
+        "D": "Intel"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hollerith’s punch card-based machine was so successful that his company eventually evolved into IBM (International Business Machines Corporation)."
+    },
+    {
+      "id": "cs9-c1-q4",
+      "question": "First Generation computers used which core technology?",
+      "options": {
+        "A": "Transistors",
+        "B": "Integrated Circuits",
+        "C": "Vacuum Tubes",
+        "D": "Microprocessors"
+      },
+      "correctAnswer": "C",
+      "explanation": "First Generation (1940–1956) computers used vacuum tubes — large, fragile glass components that made machines enormous, power-hungry, and unreliable."
+    },
+    {
+      "id": "cs9-c1-q5",
+      "question": "Which high-level programming languages were introduced in the Second Generation?",
+      "options": {
+        "A": "Machine language only",
+        "B": "C++ and Python",
+        "C": "FORTRAN and COBOL",
+        "D": "HTML and JavaScript"
+      },
+      "correctAnswer": "C",
+      "explanation": "Second Generation computers introduced FORTRAN (scientific use) and COBOL (business use) — the first widely used high-level languages replacing assembly code."
+    },
+    {
+      "id": "cs9-c1-q6",
+      "question": "Integrated Circuits (ICs) were the defining technology of which generation?",
+      "options": {
+        "A": "First Generation",
+        "B": "Second Generation",
+        "C": "Third Generation",
+        "D": "Fourth Generation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Third Generation (1963–1971) used ICs — single chips holding multiple transistors — making computers significantly smaller, faster, and more reliable."
+    },
+    {
+      "id": "cs9-c1-q7",
+      "question": "Which generation of computers introduced the microprocessor?",
+      "options": {
+        "A": "Second Generation",
+        "B": "Third Generation",
+        "C": "Fourth Generation",
+        "D": "Fifth Generation"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Fourth Generation (1971–present) saw the development of microprocessors using LSI and VLSI technologies — integrating an entire CPU onto one chip."
+    },
+    {
+      "id": "cs9-c1-q8",
+      "question": "The world’s first microprocessor, the Intel 4004, was introduced in:",
+      "options": {
+        "A": "1965",
+        "B": "1969",
+        "C": "1971",
+        "D": "1975"
+      },
+      "correctAnswer": "C",
+      "explanation": "Intel invented the world’s first microprocessor — the Intel 4004 — in November 1971, marking the beginning of the Fourth Generation of computers."
+    },
+    {
+      "id": "cs9-c1-q9",
+      "question": "Fifth Generation computers focus primarily on:",
+      "options": {
+        "A": "Transistors and magnetic tape storage",
+        "B": "Artificial Intelligence and Natural Language Processing",
+        "C": "Integrated Circuits and keyboard input",
+        "D": "LSI chips and GUI interfaces"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fifth Generation computing centers on AI and NLP — enabling machines to learn, reason, and understand human language autonomously."
+    },
+    {
+      "id": "cs9-c1-q10",
+      "question": "Which of the following is an example of a First Generation computer?",
+      "options": {
+        "A": "IBM ThinkPad",
+        "B": "CDC 6600",
+        "C": "UNIVAC I",
+        "D": "Intel Pentium"
+      },
+      "correctAnswer": "C",
+      "explanation": "UNIVAC I was one of the earliest commercial computers using vacuum tubes — a classic First Generation machine. CDC 6600 is Third Generation; Intel Pentium is Fourth."
+    },
+    {
+      "id": "cs9-c1-q11",
+      "question": "Mark I computer, built in 1944 by Howard Aiken, was capable of:",
+      "options": {
+        "A": "Running Python programs",
+        "B": "Displaying graphical user interfaces",
+        "C": "Adding three 8-digit numbers per second using electric switches",
+        "D": "Processing AI algorithms"
+      },
+      "correctAnswer": "C",
+      "explanation": "Mark I was an electromechanical computer that used electric switches and relays to perform calculations, printing outputs on cards or paper tape."
+    },
+    {
+      "id": "cs9-c1-q12",
+      "question": "Napier’s Bones, invented by John Napier, was primarily used to simplify:",
+      "options": {
+        "A": "Addition and subtraction",
+        "B": "Multiplication and division",
+        "C": "Data storage",
+        "D": "Binary conversion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Napier’s Bones used numbered strips to simplify multiplication and division. Napier also introduced the decimal point system. Topic 1.2 — Natural vs Artificial Systems"
+    },
+    {
+      "id": "cs9-c1-q13",
+      "question": "Which of the following is an example of a NATURAL system?",
+      "options": {
+        "A": "Power grid",
+        "B": "Internet network",
+        "C": "Human body",
+        "D": "Manufacturing robot"
+      },
+      "correctAnswer": "C",
+      "explanation": "The human body is a natural biological system. Power grids, the internet, and robots are all artificial systems designed and built by humans."
+    },
+    {
+      "id": "cs9-c1-q14",
+      "question": "Artificial systems differ from natural systems because they:",
+      "options": {
+        "A": "Regulate themselves automatically",
+        "B": "Are governed by natural laws like physics",
+        "C": "Are designed by humans to fulfill specific needs",
+        "D": "Use solar energy as their power source"
+      },
+      "correctAnswer": "C",
+      "explanation": "Artificial systems are intentionally created by humans with specific purposes. Natural systems occur organically without human design or intervention."
+    },
+    {
+      "id": "cs9-c1-q15",
+      "question": "Which characteristic is TRUE of natural systems but NOT artificial systems?",
+      "options": {
+        "A": "Require electricity to function",
+        "B": "Need regular human maintenance",
+        "C": "Can adapt and evolve autonomously",
+        "D": "Are governed by human-set rules"
+      },
+      "correctAnswer": "C",
+      "explanation": "Natural systems like ecosystems adapt and evolve through natural processes without human involvement. Artificial systems need humans to redesign or update them."
+    },
+    {
+      "id": "cs9-c1-q16",
+      "question": "A computer network is classified as:",
+      "options": {
+        "A": "A natural system",
+        "B": "An artificial system",
+        "C": "Both natural and artificial",
+        "D": "Neither a system"
+      },
+      "correctAnswer": "B",
+      "explanation": "A computer network is intentionally designed and built by humans. It requires maintenance and uses artificial energy — making it a classic artificial system."
+    },
+    {
+      "id": "cs9-c1-q17",
+      "question": "Which energy source do natural systems primarily rely on?",
+      "options": {
+        "A": "Electricity",
+        "B": "Fossil fuels",
+        "C": "Natural sources like sunlight and water",
+        "D": "Nuclear energy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Natural systems use naturally available energy sources such as sunlight, water, and wind — unlike artificial systems that typically require electricity or fuel."
+    },
+    {
+      "id": "cs9-c1-q18",
+      "question": "A forest ecosystem is an example of:",
+      "options": {
+        "A": "An artificial system requiring maintenance",
+        "B": "A natural system with self-regulating components",
+        "C": "A hybrid system designed by humans",
+        "D": "A computational system"
+      },
+      "correctAnswer": "B",
+      "explanation": "Forests are natural ecosystems that self- regulate through natural processes like photosynthesis, predator-prey balance, and seasonal adaptation."
+    },
+    {
+      "id": "cs9-c1-q19",
+      "question": "Which of the following best describes a system?",
+      "options": {
+        "A": "A single component performing one task",
+        "B": "A collection of interconnected components working together to achieve specific goals",
+        "C": "A program stored on a computer",
+        "D": "A hardware device connected to a network"
+      },
+      "correctAnswer": "B",
+      "explanation": "A system is defined as interconnected components that work together to process inputs and produce desired outputs toward a common goal. Topic 1.3.1 & 1.3.2 — Input Devices & System Unit"
+    },
+    {
+      "id": "cs9-c1-q20",
+      "question": "Which input device converts sound into digital signals?",
+      "options": {
+        "A": "Scanner",
+        "B": "Barcode Reader",
+        "C": "Microphone",
+        "D": "Digital Camera"
+      },
+      "correctAnswer": "C",
+      "explanation": "A microphone converts sound (analog) into digital signals for use in voice commands, video calls, and audio recording applications."
+    },
+    {
+      "id": "cs9-c1-q21",
+      "question": "The “brain” of a computer that executes instructions is called:",
+      "options": {
+        "A": "Motherboard",
+        "B": "RAM",
+        "C": "Microprocessor (CPU)",
+        "D": "Hard Disk"
+      },
+      "correctAnswer": "C",
+      "explanation": "The microprocessor (CPU) is considered the brain of the computer. It executes instructions and performs arithmetic and logical operations."
+    },
+    {
+      "id": "cs9-c1-q22",
+      "question": "Which component of the CPU handles mathematical operations and logical comparisons?",
+      "options": {
+        "A": "Control Unit (CU)",
+        "B": "Registers",
+        "C": "Cache Memory",
+        "D": "Arithmetic Logic Unit (ALU)"
+      },
+      "correctAnswer": "D",
+      "explanation": "The ALU handles all mathematical operations (addition, subtraction) and logical comparisons (greater than, equal to) within the CPU."
+    },
+    {
+      "id": "cs9-c1-q23",
+      "question": "The Control Unit (CU) in a CPU is responsible for:",
+      "options": {
+        "A": "Storing data permanently",
+        "B": "Performing arithmetic calculations",
+        "C": "Managing and directing the execution of instructions",
+        "D": "Connecting the CPU to output devices"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Control Unit manages the sequence of operations, directing data flow and coordinating all system activities without performing calculations itself."
+    },
+    {
+      "id": "cs9-c1-q24",
+      "question": "A barcode reader is most commonly used in which setting?",
+      "options": {
+        "A": "Video editing studios",
+        "B": "Medical laboratories",
+        "C": "Retail stores and logistics",
+        "D": "Graphic design firms"
+      },
+      "correctAnswer": "C",
+      "explanation": "Barcode readers scan product barcodes to extract price, inventory, and product details — making them essential in retail checkout and supply chain management."
+    },
+    {
+      "id": "cs9-c1-q25",
+      "question": "The motherboard serves as the:",
+      "options": {
+        "A": "Power source of the computer",
+        "B": "Backbone of the computer ensuring communication between all parts",
+        "C": "Primary output device",
+        "D": "External storage device"
+      },
+      "correctAnswer": "B",
+      "explanation": "The motherboard is the main circuit board that connects and enables communication between the CPU, memory, storage, and all other components."
+    },
+    {
+      "id": "cs9-c1-q26",
+      "question": "What makes a touch screen different from other input devices?",
+      "options": {
+        "A": "It only works with a stylus",
+        "B": "It combines both input and output functionalities",
+        "C": "It requires a wireless connection",
+        "D": "It can only be used on desktops"
+      },
+      "correctAnswer": "B",
+      "explanation": "A touch screen acts as both an input device (detecting touch gestures) and output device (displaying information) simultaneously."
+    },
+    {
+      "id": "cs9-c1-q27",
+      "question": "Registers in the CPU are used to:",
+      "options": {
+        "A": "Store data permanently for long-term use",
+        "B": "Hold data and instructions temporarily during processing",
+        "C": "Connect the CPU to external devices",
+        "D": "Manage input and output operations"
+      },
+      "correctAnswer": "B",
+      "explanation": "Registers are the fastest and smallest storage inside the CPU, holding data and instructions only for the immediate duration of processing. Topic 1.3.3 & 1.3.4 — Storage & Output Devices"
+    },
+    {
+      "id": "cs9-c1-q28",
+      "question": "What makes SSDs faster than traditional Hard Disk Drives (HDDs)?",
+      "options": {
+        "A": "SSDs use larger storage platters",
+        "B": "SSDs use spinning magnetic disks",
+        "C": "SSDs use ICs with no moving parts",
+        "D": "SSDs have larger cache memory"
+      },
+      "correctAnswer": "C",
+      "explanation": "SSDs store data in integrated circuit chips with no mechanical movement. HDDs use spinning magnetic platters and mechanical read/write heads, making them slower."
+    },
+    {
+      "id": "cs9-c1-q29",
+      "question": "Which storage device has a capacity of 700MB and uses optical technology?",
+      "options": {
+        "A": "USB Flash Drive",
+        "B": "DVD",
+        "C": "CD (Compact Disk)",
+        "D": "Memory Card"
+      },
+      "correctAnswer": "C",
+      "explanation": "A CD has a standard capacity of 700MB and uses laser technology to read/write data. DVDs hold more (up to 16GB) and USB drives vary widely."
+    },
+    {
+      "id": "cs9-c1-q30",
+      "question": "Which output device is most suitable for printing large-scale engineering blueprints?",
+      "options": {
+        "A": "Laser Printer",
+        "B": "Inkjet Printer",
+        "C": "Dot Matrix Printer",
+        "D": "Plotter"
+      },
+      "correctAnswer": "D",
+      "explanation": "Plotters are designed specifically for printing large-scale graphics like engineering drawings, maps, and banners on large sheets of paper."
+    },
+    {
+      "id": "cs9-c1-q31",
+      "question": "Dot matrix printers are classified as:",
+      "options": {
+        "A": "Non-impact printers",
+        "B": "Impact printers",
+        "C": "Laser printers",
+        "D": "Thermal printers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dot matrix printers are impact printers — they use mechanical pins to strike an ink ribbon onto paper. Laser and inkjet printers are non-impact."
+    },
+    {
+      "id": "cs9-c1-q32",
+      "question": "A USB Flash Drive connects to a computer via:",
+      "options": {
+        "A": "HDMI port",
+        "B": "Ethernet port",
+        "C": "USB port",
+        "D": "Audio jack"
+      },
+      "correctAnswer": "C",
+      "explanation": "USB Flash Drives are portable storage devices that connect through USB (Universal Serial Bus) ports, offering easy plug-and-play data transfer."
+    },
+    {
+      "id": "cs9-c1-q33",
+      "question": "Which output device converts digital audio signals into sound?",
+      "options": {
+        "A": "Monitor",
+        "B": "Printer",
+        "C": "Plotter",
+        "D": "Speakers"
+      },
+      "correctAnswer": "D",
+      "explanation": "Speakers are output devices that convert digital audio signals from the computer into sound waves for music, video, gaming, and multimedia."
+    },
+    {
+      "id": "cs9-c1-q34",
+      "question": "DVD stands for:",
+      "options": {
+        "A": "Digital Video Drive",
+        "B": "Dynamic Versatile Disk",
+        "C": "Digital Versatile Disk",
+        "D": "Data Video Disk"
+      },
+      "correctAnswer": "C",
+      "explanation": "DVD stands for Digital Versatile Disk. It has a larger storage capacity than a CD (up to 16GB) and is suitable for multimedia content like movies."
+    },
+    {
+      "id": "cs9-c1-q35",
+      "question": "Which storage device is most suitable for a photographer transferring photos from a camera to a laptop?",
+      "options": {
+        "A": "Hard Disk Drive",
+        "B": "DVD",
+        "C": "Memory Card",
+        "D": "SSD"
+      },
+      "correctAnswer": "C",
+      "explanation": "Memory cards are small portable storage devices used in cameras and smartphones. They easily transfer photos to laptops via a card reader. Topic 1.3.5 & 1.4 — Expansion Slots/Cards & Von Neumann Architecture"
+    },
+    {
+      "id": "cs9-c1-q36",
+      "question": "Von Neumann Architecture was first published in:",
+      "options": {
+        "A": "1936",
+        "B": "1945",
+        "C": "1952",
+        "D": "1971"
+      },
+      "correctAnswer": "B",
+      "explanation": "John Von Neumann published his architecture concept in 1945. It introduced the stored- program concept that is still the basis of most modern computers."
+    },
+    {
+      "id": "cs9-c1-q37",
+      "question": "The stored-program concept in Von Neumann Architecture means:",
+      "options": {
+        "A": "Programs are stored on external USB devices only",
+        "B": "Instructions and data are stored in the same memory",
+        "C": "Each program requires its own separate memory chip",
+        "D": "Programs are hardwired into the CPU"
+      },
+      "correctAnswer": "B",
+      "explanation": "Von Neumann’s key innovation was storing both program instructions and data in the same memory, allowing programs to be loaded and changed without hardware modification."
+    },
+    {
+      "id": "cs9-c1-q38",
+      "question": "Which bus carries memory ADDRESSES between the processor and memory?",
+      "options": {
+        "A": "Data Bus",
+        "B": "Control Bus",
+        "C": "Address Bus",
+        "D": "I/O Bus"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Address Bus carries the addresses (locations) of data — not the data itself — between the CPU and memory, telling the system where to read or write."
+    },
+    {
+      "id": "cs9-c1-q39",
+      "question": "The Control Bus in a computer system is responsible for:",
+      "options": {
+        "A": "Carrying data between CPU and memory",
+        "B": "Carrying memory addresses to the processor",
+        "C": "Carrying control signals to coordinate all computer activities",
+        "D": "Connecting input devices to the CPU"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Control Bus carries commands and control signals from the CPU to coordinate and manage all activities within the computer system."
+    },
+    {
+      "id": "cs9-c1-q40",
+      "question": "Expansion slots on a motherboard are used to:",
+      "options": {
+        "A": "Store data permanently",
+        "B": "Install additional hardware cards to expand system functionality",
+        "C": "Connect the computer to the internet",
+        "D": "Control the speed of the CPU"
+      },
+      "correctAnswer": "B",
+      "explanation": "Expansion slots are sockets on the motherboard where circuit boards (like graphics cards, sound cards, network cards) can be inserted to add capabilities."
+    },
+    {
+      "id": "cs9-c1-q41",
+      "question": "The I/O Controller in Von Neumann Architecture manages:",
+      "options": {
+        "A": "CPU clock speed",
+        "B": "Data flow between the CPU and external devices like hard drives and USB",
+        "C": "Power distribution to all components",
+        "D": "Instructions stored in memory"
+      },
+      "correctAnswer": "B",
+      "explanation": "The I/O Controller acts as an interface managing data transfer between the CPU/memory and external peripheral devices."
+    },
+    {
+      "id": "cs9-c1-q42",
+      "question": "A network card installed in an expansion slot is an example of:",
+      "options": {
+        "A": "An input device",
+        "B": "A storage device",
+        "C": "An expansion card",
+        "D": "A system bus"
+      },
+      "correctAnswer": "C",
+      "explanation": "Expansion cards (like network cards, graphics cards, sound cards) are circuit boards inserted into expansion slots to add or enhance computer functionality."
+    },
+    {
+      "id": "cs9-c1-q43",
+      "question": "Why is Von Neumann Architecture still widely used today?",
+      "options": {
+        "A": "It is the cheapest architecture to build",
+        "B": "It supports only machine language programming",
+        "C": "Its stored-program concept is flexible and efficient for general-purpose computing",
+        "D": "It does not require a CPU"
+      },
+      "correctAnswer": "C",
+      "explanation": "The ability to store and change programs in memory without hardware changes makes Von Neumann Architecture highly flexible and practical for all modern computers. Topic 1.1 & 1.6 — System Buses, CPU & Memory"
+    },
+    {
+      "id": "cs9-c1-q44",
+      "question": "Which bus in a computer carries data between the CPU and memory?",
+      "options": {
+        "A": "Address Bus",
+        "B": "Control Bus",
+        "C": "Data Bus",
+        "D": "Power Bus"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Data Bus carries actual data between CPU, memory, and I/O devices. The Address Bus carries memory addresses and the Control Bus manages signals."
+    },
+    {
+      "id": "cs9-c1-q45",
+      "question": "What is the correct order of the fetch-decode-execute cycle?",
+      "options": {
+        "A": "Decode → Fetch → Execute",
+        "B": "Execute → Decode → Fetch",
+        "C": "Fetch → Decode → Execute",
+        "D": "Fetch → Execute → Decode"
+      },
+      "correctAnswer": "C",
+      "explanation": "The CPU always fetches the instruction first, decodes it to understand it, then executes it. This cycle repeats continuously."
+    },
+    {
+      "id": "cs9-c1-q46",
+      "question": "Which type of memory loses its content when the computer is switched off?",
+      "options": {
+        "A": "ROM",
+        "B": "Flash Memory",
+        "C": "Hard Disk",
+        "D": "RAM"
+      },
+      "correctAnswer": "D",
+      "explanation": "RAM (Random Access Memory) is volatile — it requires constant power to retain data. ROM, Flash, and Hard Disk are non-volatile."
+    },
+    {
+      "id": "cs9-c1-q47",
+      "question": "What is the role of cache memory in a computer system?",
+      "options": {
+        "A": "To store data permanently",
+        "B": "To back up files automatically",
+        "C": "To speed up CPU access to frequently used data",
+        "D": "To connect devices to the CPU"
+      },
+      "correctAnswer": "C",
+      "explanation": "Cache memory stores frequently used instructions/data closer to the CPU for faster access, reducing the time the CPU waits."
+    },
+    {
+      "id": "cs9-c1-q48",
+      "question": "A computer's BIOS is stored in which type of memory?",
+      "options": {
+        "A": "RAM",
+        "B": "Cache",
+        "C": "ROM",
+        "D": "Virtual Memory"
+      },
+      "correctAnswer": "C",
+      "explanation": "BIOS is stored in ROM (Read-Only Memory) because it must persist even without power and is not changed during normal use."
+    },
+    {
+      "id": "cs9-c1-q49",
+      "question": "Which secondary memory uses laser beams to read and write data?",
+      "options": {
+        "A": "SSD",
+        "B": "HDD",
+        "C": "USB Flash Drive",
+        "D": "DVD"
+      },
+      "correctAnswer": "D",
+      "explanation": "Optical media like DVDs use laser technology. SSDs and Flash Drives use flash memory, while HDDs use magnetic platters."
+    },
+    {
+      "id": "cs9-c1-q50",
+      "question": "What does pipelining do in a CPU?",
+      "options": {
+        "A": "Stores more data in RAM",
+        "B": "Allows multiple instruction stages to overlap",
+        "C": "Increases the size of cache",
+        "D": "Reduces the number of buses"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pipelining overlaps fetch, decode and execute stages of different instructions to increase throughput and CPU efficiency."
+    },
+    {
+      "id": "cs9-c1-q51",
+      "question": "Which memory type sits at the TOP of the memory hierarchy (closest to CPU)?",
+      "options": {
+        "A": "RAM",
+        "B": "Cache",
+        "C": "Registers",
+        "D": "SSD"
+      },
+      "correctAnswer": "C",
+      "explanation": "Registers are the fastest and smallest memory, directly inside the CPU — they sit at the very top of the hierarchy."
+    },
+    {
+      "id": "cs9-c1-q52",
+      "question": "Interrupts in a CPU are used to:",
+      "options": {
+        "A": "Store data temporarily",
+        "B": "Allow the CPU to respond to external events by pausing current tasks",
+        "C": "Increase CPU clock speed",
+        "D": "Manage the address bus"
+      },
+      "correctAnswer": "B",
+      "explanation": "An interrupt signal causes the CPU to save its current state and handle the interrupt (e.g. keyboard press) before resuming."
+    },
+    {
+      "id": "cs9-c1-q53",
+      "question": "What determines the width of the address bus?",
+      "options": {
+        "A": "Speed of RAM",
+        "B": "Number of input devices",
+        "C": "Maximum addressable memory locations",
+        "D": "Type of operating system"
+      },
+      "correctAnswer": "C",
+      "explanation": "A 32-bit address bus can address 2^32 memory locations. Wider address buses allow more memory to be addressed. Topic 1.6.5 & 1.7 — Secondary Memory, Software & Hardware Engineering"
+    },
+    {
+      "id": "cs9-c1-q54",
+      "question": "Which of the following is an example of chip-based secondary memory?",
+      "options": {
+        "A": "CD-ROM",
+        "B": "Magnetic Tape",
+        "C": "SSD",
+        "D": "HDD"
+      },
+      "correctAnswer": "C",
+      "explanation": "SSDs (Solid State Drives) use flash memory chips with no moving parts. HDDs use magnetic disks and CDs use optical technology."
+    },
+    {
+      "id": "cs9-c1-q55",
+      "question": "Software engineering that focuses on programs built into devices like microwaves is called:",
+      "options": {
+        "A": "System Software Engineering",
+        "B": "Enterprise Software Engineering",
+        "C": "Embedded Software Engineering",
+        "D": "Application Software Engineering"
+      },
+      "correctAnswer": "C",
+      "explanation": "Embedded software is designed specifically for hardware devices with dedicated functions. It is not intended for general use."
+    },
+    {
+      "id": "cs9-c1-q56",
+      "question": "Hardware engineering that deals with designing CPUs and logic circuits is:",
+      "options": {
+        "A": "Analog Hardware Engineering",
+        "B": "Digital Hardware Engineering",
+        "C": "Network Hardware Engineering",
+        "D": "Optical Engineering"
+      },
+      "correctAnswer": "B",
+      "explanation": "Digital hardware engineers work with binary (0s and 1s) and design components like CPUs, GPUs, and logic gates."
+    },
+    {
+      "id": "cs9-c1-q57",
+      "question": "Which of the following is system software?",
+      "options": {
+        "A": "MS Word",
+        "B": "Google Chrome",
+        "C": "Operating System",
+        "D": "Adobe Photoshop"
+      },
+      "correctAnswer": "C",
+      "explanation": "An OS is system software that manages hardware and provides a platform for applications. The others are application software."
+    },
+    {
+      "id": "cs9-c1-q58",
+      "question": "Why does a hard disk have slower access speed than RAM?",
+      "options": {
+        "A": "It has less storage",
+        "B": "It uses moving mechanical parts",
+        "C": "It is non-volatile",
+        "D": "It is connected via USB"
+      },
+      "correctAnswer": "B",
+      "explanation": "HDD uses spinning magnetic platters and a mechanical read/write head, making it inherently slower than electronic RAM."
+    },
+    {
+      "id": "cs9-c1-q59",
+      "question": "What is the purpose of an assembler in programming?",
+      "options": {
+        "A": "To convert high-level code to machine code",
+        "B": "To translate assembly language to machine code",
+        "C": "To debug programs",
+        "D": "To execute programs directly"
+      },
+      "correctAnswer": "B",
+      "explanation": "An assembler converts assembly language (low-level mnemonics) into machine code (binary). A compiler converts high-level languages."
+    },
+    {
+      "id": "cs9-c1-q60",
+      "question": "Which type of programming language is closest to hardware and hardest to read?",
+      "options": {
+        "A": "Python",
+        "B": "Java",
+        "C": "Machine Language",
+        "D": "C++"
+      },
+      "correctAnswer": "C",
+      "explanation": "Machine language consists of binary (0s and 1s) and is directly understood by the CPU, but extremely difficult for humans to read."
+    },
+    {
+      "id": "cs9-c1-q61",
+      "question": "Object-Oriented Programming (OOP) is best suited for:",
+      "options": {
+        "A": "Simple arithmetic calculations",
+        "B": "Managing complex programs using objects and classes",
+        "C": "Writing BIOS code",
+        "D": "Low-level hardware control"
+      },
+      "correctAnswer": "B",
+      "explanation": "OOP organizes code into objects and classes, making it easier to manage large, complex software systems through encapsulation and reuse."
+    },
+    {
+      "id": "cs9-c1-q62",
+      "question": "Device drivers are a type of:",
+      "options": {
+        "A": "Application software",
+        "B": "System software",
+        "C": "Hardware",
+        "D": "Malware"
+      },
+      "correctAnswer": "B",
+      "explanation": "Device drivers are system software that allow the OS to communicate with hardware devices like printers, keyboards, and graphics cards."
+    },
+    {
+      "id": "cs9-c1-q63",
+      "question": "Which is NOT a function of an Operating System?",
+      "options": {
+        "A": "Memory management",
+        "B": "File management",
+        "C": "Designing web pages",
+        "D": "Process management"
+      },
+      "correctAnswer": "C",
+      "explanation": "The OS manages memory, files, and processes. Web page design is done using application-level tools like HTML editors. Topic 1.9 — Data Communication, OSI Model & Protocols"
+    },
+    {
+      "id": "cs9-c1-q64",
+      "question": "Which mode of communication allows data to flow in BOTH directions simultaneously?",
+      "options": {
+        "A": "Simplex",
+        "B": "Half-Duplex",
+        "C": "Full-Duplex",
+        "D": "Uni-Duplex"
+      },
+      "correctAnswer": "C",
+      "explanation": "Full-Duplex allows simultaneous two-way communication (e.g. phone calls). Half- Duplex is turn-based (e.g. walkie-talkies), Simplex is one-way."
+    },
+    {
+      "id": "cs9-c1-q65",
+      "question": "A walkie-talkie uses which mode of data communication?",
+      "options": {
+        "A": "Simplex",
+        "B": "Half-Duplex",
+        "C": "Full-Duplex",
+        "D": "Asynchronous"
+      },
+      "correctAnswer": "B",
+      "explanation": "Walkie-talkies transmit in one direction at a time — one person speaks while the other listens, then they switch. This is Half-Duplex."
+    },
+    {
+      "id": "cs9-c1-q66",
+      "question": "In asynchronous transmission, which bits are used to frame each character?",
+      "options": {
+        "A": "Parity bits",
+        "B": "Start and Stop bits",
+        "C": "Check bits",
+        "D": "Flag bits"
+      },
+      "correctAnswer": "B",
+      "explanation": "Asynchronous transmission uses start bits (to signal beginning) and stop bits (to signal end) for each character sent independently."
+    },
+    {
+      "id": "cs9-c1-q67",
+      "question": "The OSI model has how many layers?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "correctAnswer": "D",
+      "explanation": "The OSI model has 7 layers: Application, Presentation, Session, Transport, Network, Data Link, and Physical."
+    },
+    {
+      "id": "cs9-c1-q68",
+      "question": "Which layer of the OSI model is responsible for routing packets across networks?",
+      "options": {
+        "A": "Transport Layer",
+        "B": "Network Layer",
+        "C": "Data Link Layer",
+        "D": "Application Layer"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Network Layer (Layer 3) handles routing of data packets between different networks. IP addressing operates at this layer."
+    },
+    {
+      "id": "cs9-c1-q69",
+      "question": "HTTP is used for:",
+      "options": {
+        "A": "Sending emails",
+        "B": "Transferring files between FTP servers",
+        "C": "Accessing and displaying web pages",
+        "D": "Establishing network connections"
+      },
+      "correctAnswer": "C",
+      "explanation": "HTTP (HyperText Transfer Protocol) is used by web browsers to request and display web pages. It operates at the Application layer."
+    },
+    {
+      "id": "cs9-c1-q70",
+      "question": "FTP stands for:",
+      "options": {
+        "A": "File Transmission Protocol",
+        "B": "Fast Transfer Protocol",
+        "C": "File Transfer Protocol",
+        "D": "Free Transfer Protocol"
+      },
+      "correctAnswer": "C",
+      "explanation": "FTP (File Transfer Protocol) is used to transfer files between a client and server over a network."
+    },
+    {
+      "id": "cs9-c1-q71",
+      "question": "Which network topology uses a single central cable to connect all devices?",
+      "options": {
+        "A": "Star",
+        "B": "Ring",
+        "C": "Bus",
+        "D": "Mesh"
+      },
+      "correctAnswer": "C",
+      "explanation": "Bus topology uses one main cable (backbone) to which all devices connect. Failure of the backbone affects the whole network."
+    },
+    {
+      "id": "cs9-c1-q72",
+      "question": "What is the main advantage of Packet Switching over Circuit Switching?",
+      "options": {
+        "A": "Faster connection setup",
+        "B": "Dedicated path between sender and receiver",
+        "C": "Efficient use of network bandwidth",
+        "D": "Better for voice calls"
+      },
+      "correctAnswer": "C",
+      "explanation": "Packet Switching breaks data into packets that can take different routes, making better use of available bandwidth than dedicated circuit paths."
+    },
+    {
+      "id": "cs9-c1-q73",
+      "question": "SMTP is primarily used for:",
+      "options": {
+        "A": "Browsing websites",
+        "B": "Sending emails",
+        "C": "Transferring files",
+        "D": "Establishing VPN connections"
+      },
+      "correctAnswer": "B",
+      "explanation": "SMTP (Simple Mail Transfer Protocol) is used to send emails from a client to a mail server and between mail servers."
+    }
+  ]
+}

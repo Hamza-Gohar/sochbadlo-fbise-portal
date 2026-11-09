@@ -1,0 +1,574 @@
+{
+  "subject": "cs-9",
+  "chapterNumber": 7,
+  "chapterTitle": "Unit 07: Entrepreneurship & Tech Innovation",
+  "slug": "cs-9-chapter-7",
+  "description": "Entrepreneurial mindset, business planning, market survey, design thinking, prototyping, digital marketing, pitching, and freelancing.",
+  "totalQuestions": 47,
+  "questions": [
+    {
+      "id": "cs9-c7-q1",
+      "question": "An entrepreneur is best described as:",
+      "options": {
+        "A": "A government employee managing public funds",
+        "B": "A person who starts and manages a business taking financial risks for profit",
+        "C": "A scientist who invents new technologies",
+        "D": "An employee working in a large corporation"
+      },
+      "correctAnswer": "B",
+      "explanation": "an entrepreneur 'starts or owns a business, organizes and manages it taking on financial risks for the sake of profit'."
+    },
+    {
+      "id": "cs9-c7-q2",
+      "question": "Which of the following is a characteristic of a successful entrepreneur?",
+      "options": {
+        "A": "Avoiding all risks completely",
+        "B": "Taking wild, uncalculated risks",
+        "C": "Taking calculated, moderate risks",
+        "D": "Depending entirely on others for decisions"
+      },
+      "correctAnswer": "C",
+      "explanation": "Entrepreneurs are not wild risk takers but are instead calculated risk takers. — listing this as 'Preference for moderate risk'."
+    },
+    {
+      "id": "cs9-c7-q3",
+      "question": "The process of creating an enterprise is called:",
+      "options": {
+        "A": "Management",
+        "B": "Entrepreneurship",
+        "C": "Innovation",
+        "D": "Administration"
+      },
+      "correctAnswer": "B",
+      "explanation": "The process of creating an enterprise is called entrepreneurship.. It involves calculating risks with confidence to achieve predetermined business or industrial objectives."
+    },
+    {
+      "id": "cs9-c7-q4",
+      "question": "An entrepreneur shifts economic resources from areas of lower productivity to:",
+      "options": {
+        "A": "Areas of equal productivity",
+        "B": "Areas of higher productivity and greater yield",
+        "C": "Government-controlled sectors",
+        "D": "Areas with the least competition"
+      },
+      "correctAnswer": "B",
+      "explanation": "the entrepreneur is 'he who shifts economic resources out of an area of lower and into the area of higher productivity and greater yield'."
+    },
+    {
+      "id": "cs9-c7-q5",
+      "question": "'Desire for responsibility' as an entrepreneurial characteristic means:",
+      "options": {
+        "A": "Delegating all important tasks to employees",
+        "B": "Feeling a deep sense of personal responsibility for venture outcomes and preferring control of resources",
+        "C": "Avoiding accountability for business decisions",
+        "D": "Relying on investors to take responsibility"
+      },
+      "correctAnswer": "B",
+      "explanation": "Entrepreneurs feel a deep sense of personal responsibility for the outcome of ventures they start. They prefer to be in control of their resources."
+    },
+    {
+      "id": "cs9-c7-q6",
+      "question": "Self-reliance in entrepreneurship means:",
+      "options": {
+        "A": "Hiring as many employees as possible from the start",
+        "B": "Performing many roles themselves especially in early days, not shying away from responsibility",
+        "C": "Relying on investors to make all decisions",
+        "D": "Avoiding difficult tasks and delegating everything"
+      },
+      "correctAnswer": "B",
+      "explanation": "self-reliant entrepreneurs 'end up performing many jobs themselves, even those they know little about' and 'do not shy away from the responsibility for making their businesses succeed'."
+    },
+    {
+      "id": "cs9-c7-q7",
+      "question": "'Confidence in their ability to succeed' explains why some entrepreneurs:",
+      "options": {
+        "A": "Give up quickly when they face their first failure",
+        "B": "Have failed in business — often more than once — before finally succeeding",
+        "C": "Never take any business risks",
+        "D": "Always choose safe and proven business models"
+      },
+      "correctAnswer": "B",
+      "explanation": "Entrepreneurs. high levels of optimism may explain why some of the most successful entrepreneurs have failed in business — often more than once — before finally succeeding.'"
+    },
+    {
+      "id": "cs9-c7-q8",
+      "question": "The characteristic 'Determination' is also described in as:",
+      "options": {
+        "A": "The ability to manage finances",
+        "B": "Grit — the ability to focus intently on achieving a singular long-term goal",
+        "C": "Being stubborn about refusing to change plans",
+        "D": "Managing employees with a firm hand"
+      },
+      "correctAnswer": "B",
+      "explanation": "The ability to focus intently on achieving a singular, long-term goal. Studies show that grit is a reliable predictor of achievement and success."
+    },
+    {
+      "id": "cs9-c7-q9",
+      "question": "'Future orientation' as an entrepreneurial characteristic means:",
+      "options": {
+        "A": "Planning only for the next week",
+        "B": "Looking ahead and focusing more on what they might do tomorrow than on past achievements",
+        "C": "Focusing on what competitors did in the past",
+        "D": "Managing the current financial situation only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Entrepreneurs have a well-defined sense of searching for opportunities. They look ahead and are less concerned with what they did yesterday than with what they might do tomorrow."
+    },
+    {
+      "id": "cs9-c7-q10",
+      "question": "'Skill at organizing' in entrepreneurship means:",
+      "options": {
+        "A": "Keeping paperwork neat and filing documents properly",
+        "B": "Knowing how to put the right people together to accomplish a task and transform visions into reality",
+        "C": "Organizing office furniture and equipment",
+        "D": "Planning company events and meetings"
+      },
+      "correctAnswer": "B",
+      "explanation": "Entrepreneurs know how to put the right people together to accomplish a task. Effectively combining people and jobs enables entrepreneurs to transform their visions into reality."
+    },
+    {
+      "id": "cs9-c7-q11",
+      "question": "One common misconception about entrepreneurs is that:",
+      "options": {
+        "A": "They work long hours",
+        "B": "They are driven wholly by the desire to make money, when in fact achievement is their primary motivating force",
+        "C": "They take calculated risks",
+        "D": "They have high energy levels"
+      },
+      "correctAnswer": "B",
+      "explanation": "One of the most common misconceptions about entrepreneurs is that they are driven wholly by the desire to make money. To the contrary, achievement seems to be their primary motivating force; money is simply a way of keeping score."
+    },
+    {
+      "id": "cs9-c7-q12",
+      "question": "Which of the following is listed as a BENEFIT of entrepreneurship in ?",
+      "options": {
+        "A": "Guaranteed income from day one",
+        "B": "Job security similar to government work",
+        "C": "Gaining control over your life, becoming self-fulfilled, and reaping unlimited profits",
+        "D": "Reduced working hours"
+      },
+      "correctAnswer": "C",
+      "explanation": "benefits as: 'gain control over their lives, make a difference in the world, become self-fulfilled, reap unlimited profits, contribute to society, and do what they enjoy doing.'"
+    },
+    {
+      "id": "cs9-c7-q13",
+      "question": "Which of the following is listed as a DRAWBACK of entrepreneurship in ?",
+      "options": {
+        "A": "Being your own boss",
+        "B": "Making a difference in the world",
+        "C": "Uncertainty of income, risk of losing investments, long hours, high stress, and complete decision-making responsibility",
+        "D": "Potentially unlimited profits"
+      },
+      "correctAnswer": "C",
+      "explanation": "drawbacks as: 'uncertainty of income, the risk of losing their investments, long hours and hard work, a lower quality of life until the business gets established, high stress levels, and complete decision-making responsibility.'"
+    },
+    {
+      "id": "cs9-c7-q14",
+      "question": "Entrepreneurs 'see potential where most people see only':.",
+      "options": {
+        "A": "Opportunities",
+        "B": "Problems or nothing at all — a characteristic that makes them objects of ridicule until their ideas succeed",
+        "C": "Solutions ready to be implemented",
+        "D": "Easy profit"
+      },
+      "correctAnswer": "B",
+      "explanation": "Entrepreneurs see potential where most people see only problems or nothing at all, a characteristic that often makes them the objects of ridicule (at least until their ideas become huge successes). Topic 7.1.3 — Design Thinking"
+    },
+    {
+      "id": "cs9-c7-q15",
+      "question": "Design Thinking is a problem-solving process that is:",
+      "options": {
+        "A": "Linear and strictly sequential",
+        "B": "Iterative and human-centered",
+        "C": "Based only on technical specifications",
+        "D": "Focused purely on profit margins"
+      },
+      "correctAnswer": "B",
+      "explanation": "Design Thinking is iterative (repeating stages) and human-centered (focused on user needs). Stages can be revisited and repeated as needed."
+    },
+    {
+      "id": "cs9-c7-q16",
+      "question": "The correct order of the Design Thinking phases is:",
+      "options": {
+        "A": "Define → Empathize → Ideate → Prototype → Test",
+        "B": "Empathize → Define → Ideate → Prototype → Test",
+        "C": "Ideate → Empathize → Define → Test → Prototype",
+        "D": "Prototype → Test → Empathize → Define → Ideate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Design Thinking follows: Empathize (understand users), Define (state the problem), Ideate (brainstorm), Prototype (build), Test (evaluate)."
+    },
+    {
+      "id": "cs9-c7-q17",
+      "question": "The 'Ideate' phase of Design Thinking focuses on:",
+      "options": {
+        "A": "Understanding user needs",
+        "B": "Building a physical model",
+        "C": "Brainstorming a wide range of creative solutions",
+        "D": "Testing solutions with users"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ideation involves generating as many creative ideas as possible without judgment — quantity over quality is encouraged at this stage."
+    },
+    {
+      "id": "cs9-c7-q18",
+      "question": "Design Thinking has how many phases?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correctAnswer": "C",
+      "explanation": "Design Thinking 'contains five phases: 1. Empathize, 2. Define, 3. Ideate, 4. Prototype and 5. Test'."
+    },
+    {
+      "id": "cs9-c7-q19",
+      "question": "The 'Empathize' phase of Design Thinking involves:",
+      "options": {
+        "A": "Building a model of the solution",
+        "B": "Brainstorming creative ideas",
+        "C": "Understanding users' needs and challenges through observation and interviews",
+        "D": "Testing prototypes with real users"
+      },
+      "correctAnswer": "C",
+      "explanation": "the Empathize phase involves 'understanding users' needs and challenges through observation and interviews'."
+    },
+    {
+      "id": "cs9-c7-q20",
+      "question": "The 'Define' phase of Design Thinking involves:",
+      "options": {
+        "A": "Generating as many ideas as possible",
+        "B": "Building a prototype for testing",
+        "C": "Defining the problem clearly based on insights gathered from Empathize",
+        "D": "Testing the final product with real users"
+      },
+      "correctAnswer": "C",
+      "explanation": "Define involves 'defining the problem based on the insights gathered' from the Empathize phase."
+    },
+    {
+      "id": "cs9-c7-q21",
+      "question": "The 'Prototype' phase of Design Thinking involves:",
+      "options": {
+        "A": "Interviewing users to understand needs",
+        "B": "Brainstorming solutions without restrictions",
+        "C": "Turning the most promising ideas into simple models for testing",
+        "D": "Testing models with real users for feedback"
+      },
+      "correctAnswer": "C",
+      "explanation": "Prototype — the most promising ideas are turned into simple prototypes for testing.."
+    },
+    {
+      "id": "cs9-c7-q22",
+      "question": "The 'Test' phase of Design Thinking involves:",
+      "options": {
+        "A": "Defining the core problem statement",
+        "B": "Building the first physical model",
+        "C": "Brainstorming many creative solutions",
+        "D": "Testing prototypes with real users to gather feedback and refine the design"
+      },
+      "correctAnswer": "D",
+      "explanation": "Test — these prototypes are tested with real users to gather feedback and refine the design.."
+    },
+    {
+      "id": "cs9-c7-q23",
+      "question": "Design Thinking is described as 'non-linear' because:",
+      "options": {
+        "A": "It does not involve any structured steps",
+        "B": "Stages can be carried out in parallel, repeated, and revisited at any point in the process",
+        "C": "It skips directly to the testing phase",
+        "D": "It can only be applied to design, not business problems"
+      },
+      "correctAnswer": "B",
+      "explanation": "One can carry these stages out in parallel, repeat them and circle back to a previous stage at any point in the process."
+    },
+    {
+      "id": "cs9-c7-q24",
+      "question": "Which global brands are mentioned in as having rapidly adopted Design Thinking?",
+      "options": {
+        "A": "Samsung, Nokia, and BlackBerry",
+        "B": "Apple, Google and Samsung",
+        "C": "Microsoft, IBM and Oracle",
+        "D": "Facebook, Twitter and YouTube"
+      },
+      "correctAnswer": "B",
+      "explanation": "Some of the world.s leading brands, such as Apple, Google and Samsung, rapidly adopted the design thinking approach.'"
+    },
+    {
+      "id": "cs9-c7-q25",
+      "question": "Which Pakistani institutions are mentioned in as implementing Design Thinking?",
+      "options": {
+        "A": "LUMS and FAST only",
+        "B": "Punjab University and Karachi University",
+        "C": "IBA Karachi, NUST, NED, COMSATS and Pak-Austria Fachhochschule",
+        "D": "Only IBA Karachi"
+      },
+      "correctAnswer": "C",
+      "explanation": "Design Thinking is 'also implemented in Pakistan like IBA Karachi, NUST, NED, COMSATS and Pak-Austria Fachhochschule etc.'"
+    },
+    {
+      "id": "cs9-c7-q26",
+      "question": "Which global universities are mentioned in as teaching Design Thinking?",
+      "options": {
+        "A": "Oxford, Cambridge, MIT",
+        "B": "Stanford, Harvard, Imperial College London",
+        "C": "Princeton, Yale, Columbia",
+        "D": "Caltech, Cornell, Duke"
+      },
+      "correctAnswer": "B",
+      "explanation": "leading universities around the world teach the related methodology — including Stanford, Harvard, Imperial College London etc. Topics 7.1.4 to 7.3 — Business Plan, Market Analysis, Pricing & Financial Planning"
+    },
+    {
+      "id": "cs9-c7-q27",
+      "question": "A business plan is MOST important for:",
+      "options": {
+        "A": "Managing day-to-day operations only",
+        "B": "Guiding the entrepreneur and attracting financing for the startup",
+        "C": "Hiring employees after the business launches",
+        "D": "Paying taxes after profits are made"
+      },
+      "correctAnswer": "B",
+      "explanation": "The primary goals of the business plan are to guide entrepreneurs as they launch their businesses and to help them acquire the necessary financing to launch."
+    },
+    {
+      "id": "cs9-c7-q28",
+      "question": "What does the 'M' in SMART goals stand for?",
+      "options": {
+        "A": "Motivated",
+        "B": "Measurable",
+        "C": "Minimal",
+        "D": "Managed"
+      },
+      "correctAnswer": "B",
+      "explanation": "SMART stands for: Specific, Measurable, Achievable, Realistic, and Time-bound. Measurable means goals must be quantifiable and assessable."
+    },
+    {
+      "id": "cs9-c7-q29",
+      "question": "The executive summary in a business plan should be written:",
+      "options": {
+        "A": "First, as an introduction to the plan",
+        "B": "Last, after the entire business plan is completed",
+        "C": "At any point during planning",
+        "D": "Only if investors request it"
+      },
+      "correctAnswer": "B",
+      "explanation": "Once you have developed the whole business plan only then in the end an executive summary is devised; like a cherry on the top."
+    },
+    {
+      "id": "cs9-c7-q30",
+      "question": "SWOT analysis examines:",
+      "options": {
+        "A": "Sales, Workforce, Operations, Technology",
+        "B": "Strengths, Weaknesses, Opportunities, Threats",
+        "C": "Strategy, Work, Outcomes, Targets",
+        "D": "Staff, Wages, Operations, Training"
+      },
+      "correctAnswer": "B",
+      "explanation": "SWOT analyzes internal factors (Strengths, Weaknesses) and external factors (Opportunities, Threats) affecting a business or product."
+    },
+    {
+      "id": "cs9-c7-q31",
+      "question": "The formula for calculating SELLING PRICE is:",
+      "options": {
+        "A": "Cost of Production + Profit",
+        "B": "Cost of Production + Overheads + Profit",
+        "C": "Overheads + Profit only",
+        "D": "Revenue - Tax"
+      },
+      "correctAnswer": "B",
+      "explanation": "formula: Selling Price = Cost of Production + Overheads + Profit. All three components must be calculated accurately."
+    },
+    {
+      "id": "cs9-c7-q32",
+      "question": "If demand for a product is HIGH and supply is LOW, the price should:",
+      "options": {
+        "A": "Stay the same",
+        "B": "Decrease significantly",
+        "C": "Increase",
+        "D": "Be set to zero"
+      },
+      "correctAnswer": "C",
+      "explanation": "If demand is great for the available supply, the price (and thus the profit) may be increased. When supply exceeds demand, prices drop."
+    },
+    {
+      "id": "cs9-c7-q33",
+      "question": "Which of the following is a DRAWBACK of entrepreneurship?",
+      "options": {
+        "A": "Being your own boss",
+        "B": "Potentially unlimited profits",
+        "C": "Uncertainty of income and high stress levels",
+        "D": "Making a difference in your community"
+      },
+      "correctAnswer": "C",
+      "explanation": "Entrepreneurship comes with financial uncertainty, risk of failure, long hours, high stress, and complete decision-making responsibility."
+    },
+    {
+      "id": "cs9-c7-q34",
+      "question": "A business plan is described in as the entrepreneur's:",
+      "options": {
+        "A": "Daily task list",
+        "B": "Road map on the journey toward building a successful business",
+        "C": "Invoice for investors",
+        "D": "Employee handbook"
+      },
+      "correctAnswer": "B",
+      "explanation": "The plan serves as an entrepreneur.s road map on the journey toward building a successful business.'"
+    },
+    {
+      "id": "cs9-c7-q35",
+      "question": "What does SMART stand for in the context of entrepreneurial goals?",
+      "options": {
+        "A": "Strategic, Managed, Actionable, Realistic, Timely",
+        "B": "Specific, Measurable, Achievable, Realistic, Time-Bound",
+        "C": "Simple, Meaningful, Attainable, Reliable, Tracked",
+        "D": "Systematic, Measured, Applicable, Reviewed, Timed"
+      },
+      "correctAnswer": "B",
+      "explanation": "S-Specific (precise and clear), M-Measurable (quantifiable), A-Achievable (attainable), R-Realistic (grounded), T-Time-Bound (with a deadline)."
+    },
+    {
+      "id": "cs9-c7-q36",
+      "question": "Which business plan software is described in as pre-loaded with more than 500 templates?",
+      "options": {
+        "A": "PlanMaker",
+        "B": "PlanWrite",
+        "C": "LivePlan (Business Plan Pro)",
+        "D": "Canva"
+      },
+      "correctAnswer": "C",
+      "explanation": "Business Plan Pro is LivePlan ideal for entrepreneurs writing their first business plan. This software comes pre-loaded with more than 500 business plan templates."
+    },
+    {
+      "id": "cs9-c7-q37",
+      "question": "Canva is described in as:",
+      "options": {
+        "A": "A paid spreadsheet program for budgets",
+        "B": "A free online versatile app for creating graphics, videos and social media content",
+        "C": "A database management system",
+        "D": "A coding environment for websites"
+      },
+      "correctAnswer": "B",
+      "explanation": "Canva is a free to use online versatile app that lets you create stunning graphics, videos and social media content with ease."
+    },
+    {
+      "id": "cs9-c7-q38",
+      "question": "WordPress is described in as:",
+      "options": {
+        "A": "A spreadsheet tool",
+        "B": "The leading website creation tool worldwide, powering over half of web content",
+        "C": "A mobile budgeting app",
+        "D": "A social networking platform"
+      },
+      "correctAnswer": "B",
+      "explanation": "WordPress is the leading website creation tool worldwide, powering over half of the content. This open-source CMS is versatile and easy to use."
+    },
+    {
+      "id": "cs9-c7-q39",
+      "question": "'Profit' is defined in as:",
+      "options": {
+        "A": "Total revenue earned in a year",
+        "B": "The difference between the cost price and the selling price",
+        "C": "The total amount of money invested",
+        "D": "The entrepreneur's own salary"
+      },
+      "correctAnswer": "B",
+      "explanation": "Profit is the difference between the cost price and selling price. Part of this money can be put back into the business."
+    },
+    {
+      "id": "cs9-c7-q40",
+      "question": "When sales increase, what does say an entrepreneur can do with profit margins?",
+      "options": {
+        "A": "Always raise profit margins as sales grow",
+        "B": "Keep profit margins fixed regardless of sales",
+        "C": "Reduce profit margins to lower the selling price and expand the market",
+        "D": "Remove overheads from the price"
+      },
+      "correctAnswer": "C",
+      "explanation": "When sales increase, profit margins may be reduced. This can enable the entrepreneur to lower the selling price, allowing the business to secure and even expand the market."
+    },
+    {
+      "id": "cs9-c7-q41",
+      "question": "'Competitors' are defined in as:",
+      "options": {
+        "A": "Customers who buy in bulk",
+        "B": "Business people who provide similar products or services",
+        "C": "Government agencies that regulate the market",
+        "D": "Suppliers who provide raw materials"
+      },
+      "correctAnswer": "B",
+      "explanation": "Business people who provide similar products or service are competitors."
+    },
+    {
+      "id": "cs9-c7-q42",
+      "question": "The COGS (Cost of Goods Sold) in 's candy-making example includes:",
+      "options": {
+        "A": "Only the sugar and chocolate",
+        "B": "Raw materials, production labor, and packaging",
+        "C": "Only packaging and shipping",
+        "D": "Marketing and advertising costs"
+      },
+      "correctAnswer": "B",
+      "explanation": "COGS 'includes all the direct costs related to producing the candy. It involves raw materials, production labor and packaging.'"
+    },
+    {
+      "id": "cs9-c7-q43",
+      "question": "In the candy example, if 1 kg sugar costs Rs.150, 2 kg chocolate costs Rs.800, and flavoring costs Rs.75, what is the total raw material cost for one batch?",
+      "options": {
+        "A": "Rs. 925",
+        "B": "Rs. 1025",
+        "C": "Rs. 1100",
+        "D": "Rs. 950"
+      },
+      "correctAnswer": "B",
+      "explanation": "calculation: Sugar Rs.150 + Chocolate Rs.800 + Flavoring Rs.75 = Rs.1025 total raw materials for one batch (making 20 units of candy)."
+    },
+    {
+      "id": "cs9-c7-q44",
+      "question": "An entrepreneur identifies business ideas by:",
+      "options": {
+        "A": "Copying successful businesses from other countries",
+        "B": "Considering community needs and determining what product or service could address those needs",
+        "C": "Waiting for investors to suggest ideas",
+        "D": "Only focusing on products they personally enjoy using"
+      },
+      "correctAnswer": "B",
+      "explanation": "An entrepreneur should consider their community and identify its needs for products or services — identifying a difficulty and determining what product or service could overcome it."
+    },
+    {
+      "id": "cs9-c7-q45",
+      "question": "executive summary should be written:",
+      "options": {
+        "A": "On the very first day of planning",
+        "B": "Before the market analysis section",
+        "C": "After the entire business plan is complete — 'like a cherry on the top'",
+        "D": "Simultaneously with all other sections"
+      },
+      "correctAnswer": "C",
+      "explanation": "the phrase 'like a cherry on the top' — the executive summary is the last thing written but appears first in the document, condensing the entire plan."
+    },
+    {
+      "id": "cs9-c7-q46",
+      "question": "The 'Analyze the Market' section of a business plan uses which tool to evaluate advantages, disadvantages, opportunities and risks?",
+      "options": {
+        "A": "IPO Chart",
+        "B": "Flowchart",
+        "C": "SWOT Analysis",
+        "D": "Gantt Chart"
+      },
+      "correctAnswer": "C",
+      "explanation": "SWOT analysis is a good technique to evaluate your product in context of the market. Your advantages, disadvantages, possibilities, and risks are examined in a SWOT analysis."
+    },
+    {
+      "id": "cs9-c7-q47",
+      "question": "A market survey for a business should answer which of the following questions?",
+      "options": {
+        "A": "How many employees do competitors have?",
+        "B": "Who are the customers, why do they like the product, and are they willing to pay a commercial price?",
+        "C": "What is the government tax rate on the product?",
+        "D": "How much profit are similar businesses making?"
+      },
+      "correctAnswer": "B",
+      "explanation": "survey questions including: who are the people interested, why they like/dislike the product, whether they are willing to pay a commercial price, and whether demand is sustainable. This MCQ booklet covers all chapters of the FBISE Class 9 Computer Science curriculum. Practice these questions to sharpen your understanding and prepare confidently for board examinations."
+    }
+  ]
+}

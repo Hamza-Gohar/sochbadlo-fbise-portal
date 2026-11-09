@@ -1,0 +1,910 @@
+{
+  "subject": "cs-9",
+  "chapterNumber": 3,
+  "chapterTitle": "Unit 03: Programming Fundamentals & Web Development",
+  "slug": "cs-9-chapter-3",
+  "description": "Web fundamentals, HTML structure, tags, hyperlinks, lists, tables, JavaScript syntax, variables, operators, and control structures.",
+  "totalQuestions": 75,
+  "questions": [
+    {
+      "id": "cs9-c3-q1",
+      "question": "A set of related webpages linked together is called a:",
+      "options": {
+        "A": "URL",
+        "B": "Web Application",
+        "C": "Website",
+        "D": "Web Browser"
+      },
+      "correctAnswer": "C",
+      "explanation": "A Website is a collection of related webpages accessible via the internet. A single webpage is one document within that website."
+    },
+    {
+      "id": "cs9-c3-q2",
+      "question": "What does URL stand for?",
+      "options": {
+        "A": "Unified Resource Locator",
+        "B": "Universal Resource Locator",
+        "C": "Uniform Record Locator",
+        "D": "Universal Record Link"
+      },
+      "correctAnswer": "B",
+      "explanation": "URL stands for Universal Resource Locator — it is the unique address used to access a webpage on the internet."
+    },
+    {
+      "id": "cs9-c3-q3",
+      "question": "A website where content changes based on user interaction is called:",
+      "options": {
+        "A": "Static website",
+        "B": "Dynamic website",
+        "C": "Web application",
+        "D": "Homepage"
+      },
+      "correctAnswer": "B",
+      "explanation": "A Dynamic website changes its content based on user input or actions. A Static website has fixed content that does not change unless manually updated."
+    },
+    {
+      "id": "cs9-c3-q4",
+      "question": "Which of the following is used to develop the FRONT-END of a website?",
+      "options": {
+        "A": "PHP",
+        "B": "Python",
+        "C": "Node.js",
+        "D": "HTML, CSS, JavaScript"
+      },
+      "correctAnswer": "D",
+      "explanation": "Front-end development uses HTML (structure), CSS (styling), and JavaScript (interactivity) to create what users see in the browser."
+    },
+    {
+      "id": "cs9-c3-q5",
+      "question": "What is the Document Object Model (DOM)?",
+      "options": {
+        "A": "A type of database",
+        "B": "A tree-like representation of an HTML page used by browsers",
+        "C": "A programming language",
+        "D": "A type of web server"
+      },
+      "correctAnswer": "B",
+      "explanation": "The DOM is a tree structure created by the browser from HTML elements, allowing JavaScript to dynamically access and modify page content."
+    },
+    {
+      "id": "cs9-c3-q6",
+      "question": "Which HTML tag pair contains the TITLE of a webpage shown in the browser tab?",
+      "options": {
+        "A": "<body>",
+        "B": "<header>",
+        "C": "<title>",
+        "D": "<h1>"
+      },
+      "correctAnswer": "C",
+      "explanation": "The <title> tag pair defines the name shown in the browser tab. The <h1> tag creates a heading visible on the page itself."
+    },
+    {
+      "id": "cs9-c3-q7",
+      "question": "HTML comments are written using:",
+      "options": {
+        "A": "// comment",
+        "B": "/* comment */",
+        "C": "<!-- comment -->",
+        "D": "# comment"
+      },
+      "correctAnswer": "C",
+      "explanation": "HTML uses <!-- --> for comments. These are not displayed in the browser but help developers annotate their code."
+    },
+    {
+      "id": "cs9-c3-q8",
+      "question": "Which HTML tag is used to insert a line break?",
+      "options": {
+        "A": "<break>",
+        "B": "<lb>",
+        "C": "<br>",
+        "D": "<nl>"
+      },
+      "correctAnswer": "C",
+      "explanation": "The <br> tag inserts a line break in HTML. It is a self-closing tag (no ending tag needed)."
+    },
+    {
+      "id": "cs9-c3-q9",
+      "question": "The largest heading in HTML is:",
+      "options": {
+        "A": "<h6>",
+        "B": "<h3>",
+        "C": "<h1>",
+        "D": "<header>"
+      },
+      "correctAnswer": "C",
+      "explanation": "HTML supports 6 heading levels. <h1> is the largest and most important, while <h6> is the smallest."
+    },
+    {
+      "id": "cs9-c3-q10",
+      "question": "Back-end development requires:",
+      "options": {
+        "A": "Only HTML and CSS",
+        "B": "Knowledge of server-side languages like PHP, JavaScript (Node.js)",
+        "C": "Only graphic design skills",
+        "D": "Knowledge of DNS servers only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Back-end development handles server logic and database management using languages like PHP, Node.js, Python — more technical than front-end. ★ Additional Questions — Topics 3.1 to 3.2"
+    },
+    {
+      "id": "cs9-c3-q11",
+      "question": "A single document accessible through the internet is called a:",
+      "options": {
+        "A": "Website",
+        "B": "Web application",
+        "C": "Webpage",
+        "D": "Web server"
+      },
+      "correctAnswer": "C",
+      "explanation": "A webpage is a single document accessible through the internet. A website is a collection of such related webpages linked together."
+    },
+    {
+      "id": "cs9-c3-q12",
+      "question": "Which service helps users find websites when they do not know the exact URL?",
+      "options": {
+        "A": "Web browser",
+        "B": "Web server",
+        "C": "Search engine",
+        "D": "Homepage"
+      },
+      "correctAnswer": "C",
+      "explanation": "A search engine lets users find websites by entering keywords. It searches and displays matching website addresses and brief content summaries."
+    },
+    {
+      "id": "cs9-c3-q13",
+      "question": "Every website must be uploaded to a __________ so visitors can access it at any time.",
+      "options": {
+        "A": "Search engine",
+        "B": "Web hosting service",
+        "C": "Local hard drive",
+        "D": "Web browser"
+      },
+      "correctAnswer": "B",
+      "explanation": "Web hosting services provide web servers that are available round the clock, allowing clients and visitors to access the website on their devices."
+    },
+    {
+      "id": "cs9-c3-q14",
+      "question": "The first page that appears when a website is opened is called the:",
+      "options": {
+        "A": "Index page",
+        "B": "Search page",
+        "C": "Homepage",
+        "D": "Portal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Every website has a homepage — the first page that loads when a visitor accesses the website's URL, from where they can navigate further."
+    },
+    {
+      "id": "cs9-c3-q15",
+      "question": "HTML stands for:",
+      "options": {
+        "A": "High Text Markup Language",
+        "B": "Hypertext Markup Language",
+        "C": "Hyper Transfer Markup Language",
+        "D": "Hypertext Making Language"
+      },
+      "correctAnswer": "B",
+      "explanation": "HTML stands for Hypertext Markup Language. It is the primary language used to define and display content in the form of a webpage."
+    },
+    {
+      "id": "cs9-c3-q16",
+      "question": "In the DOM tree, which node sits at the very TOP as the root?",
+      "options": {
+        "A": "<html>",
+        "B": "<head>",
+        "C": "<body>",
+        "D": "Document"
+      },
+      "correctAnswer": "D",
+      "explanation": "In the DOM tree, 'Document' is the root node at the top. Below it comes the <html> node, which then branches into <head> and <body>."
+    },
+    {
+      "id": "cs9-c3-q17",
+      "question": "The standard file extension for an HTML document is:",
+      "options": {
+        "A": ".htm only",
+        "B": ".web",
+        "C": ".html",
+        "D": ".txt"
+      },
+      "correctAnswer": "C",
+      "explanation": "HTML files are saved with the.html extension. this is the standard extension for HTML documents."
+    },
+    {
+      "id": "cs9-c3-q18",
+      "question": "Which IDE is specifically mentioned in the FBISE Class 9 textbook for Chapter 3 activities?",
+      "options": {
+        "A": "Eclipse",
+        "B": "NetBeans",
+        "C": "Visual Studio 2022",
+        "D": "Sublime Text"
+      },
+      "correctAnswer": "C",
+      "explanation": "specifically states that Visual Studio 2022 is used for this chapter, noting that codes apply to any other environment as well."
+    },
+    {
+      "id": "cs9-c3-q19",
+      "question": "A web application differs from a website because it:",
+      "options": {
+        "A": "Only displays static information",
+        "B": "Executes tasks and provides services via a browser and internet",
+        "C": "Uses only HTML for development",
+        "D": "Cannot be accessed from a mobile device"
+      },
+      "correctAnswer": "B",
+      "explanation": "A web application remotely accesses a server to execute tasks (like a CRM system), unlike a website which only shares information."
+    },
+    {
+      "id": "cs9-c3-q20",
+      "question": "In the DOM tree, the <body> node holds:",
+      "options": {
+        "A": "Only the page title",
+        "B": "The main visible content like headings and paragraphs",
+        "C": "Only CSS styles",
+        "D": "JavaScript code only"
+      },
+      "correctAnswer": "B",
+      "explanation": "The body node is where content of HTML is placed — headings, paragraphs, unordered lists, etc.."
+    },
+    {
+      "id": "cs9-c3-q21",
+      "question": "HTML is described in as a:",
+      "options": {
+        "A": "Procedural programming language",
+        "B": "Tag-based markup language",
+        "C": "Database query language",
+        "D": "Machine language"
+      },
+      "correctAnswer": "B",
+      "explanation": "HTML is a 'tag based programming language' where characters between angle brackets define and display content."
+    },
+    {
+      "id": "cs9-c3-q22",
+      "question": "Which part of a website is referred to as the Graphical User Interface (GUI)?",
+      "options": {
+        "A": "The web server",
+        "B": "The database",
+        "C": "The back-end",
+        "D": "The front-end"
+      },
+      "correctAnswer": "D",
+      "explanation": "the front-end as providing the GUI — the graphical interface that visitors view and interact with in their browser."
+    },
+    {
+      "id": "cs9-c3-q23",
+      "question": "Which of the following is NOT mentioned in as a scripting language for dynamic websites?",
+      "options": {
+        "A": "JavaScript",
+        "B": "PHP",
+        "C": "ASP.Net",
+        "D": "Assembly language"
+      },
+      "correctAnswer": "D",
+      "explanation": "JavaScript, Python, PHP, and ASP.Net for dynamic websites. Assembly language is low-level system code, not used for web scripting."
+    },
+    {
+      "id": "cs9-c3-q24",
+      "question": "In HTML, the <html> tag-pair:",
+      "options": {
+        "A": "Only holds the page title",
+        "B": "Wraps and identifies the entire HTML document",
+        "C": "Defines the visible body content only",
+        "D": "Links external CSS files"
+      },
+      "correctAnswer": "B",
+      "explanation": "Anything written between the <html> tag-pair is recognized as an HTML document.."
+    },
+    {
+      "id": "cs9-c3-q25",
+      "question": "Once a static webpage loads on a user's device, the connection to the web server is:",
+      "options": {
+        "A": "Maintained continuously for updates",
+        "B": "Required only for loading images",
+        "C": "No longer required",
+        "D": "Used for running CSS"
+      },
+      "correctAnswer": "C",
+      "explanation": "After a static website loads on the client's computer, the link to the server is no longer required — it runs independently.. Topic 3.2.3 to 3.3 — HTML Tags, Images, Tables, Links & CSS"
+    },
+    {
+      "id": "cs9-c3-q26",
+      "question": "Which HTML attribute specifies the path to an image file?",
+      "options": {
+        "A": "alt",
+        "B": "href",
+        "C": "src",
+        "D": "link"
+      },
+      "correctAnswer": "C",
+      "explanation": "The src (source) attribute specifies where the image file is located. The alt attribute provides alternative text if the image fails to load."
+    },
+    {
+      "id": "cs9-c3-q27",
+      "question": "Which tag pair defines a ROW in an HTML table?",
+      "options": {
+        "A": "<td>",
+        "B": "<th>",
+        "C": "<table>",
+        "D": "<tr>"
+      },
+      "correctAnswer": "D",
+      "explanation": "The <tr> (table row) tag defines a row in a table. <td> defines a data cell and <th> defines a header cell within that row."
+    },
+    {
+      "id": "cs9-c3-q28",
+      "question": "Which CSS type has the HIGHEST priority when all three types are present?",
+      "options": {
+        "A": "External CSS",
+        "B": "Embedded CSS",
+        "C": "Inline CSS",
+        "D": "All have equal priority"
+      },
+      "correctAnswer": "C",
+      "explanation": "Priority order: Inline > Embedded > External. Inline CSS applied directly to an element always overrides other types."
+    },
+    {
+      "id": "cs9-c3-q29",
+      "question": "To open a hyperlink in a new browser tab, which target value is used?",
+      "options": {
+        "A": "_self",
+        "B": "_new",
+        "C": "_blank",
+        "D": "_parent"
+      },
+      "correctAnswer": "C",
+      "explanation": "_blank opens the link in a new tab/window. _self (default) opens it in the same tab."
+    },
+    {
+      "id": "cs9-c3-q30",
+      "question": "CSS stands for:",
+      "options": {
+        "A": "Computer Style Sheets",
+        "B": "Cascading Style Sheets",
+        "C": "Creative Style System",
+        "D": "Coding Style Standard"
+      },
+      "correctAnswer": "B",
+      "explanation": "CSS (Cascading Style Sheets) is a stylesheet language used to control the presentation, layout, and design of HTML documents."
+    },
+    {
+      "id": "cs9-c3-q31",
+      "question": "Embedded CSS is placed:",
+      "options": {
+        "A": "In an external.css file",
+        "B": "Directly on each HTML element",
+        "C": "In the <head> section using <style> tags",
+        "D": "In the <body> section only"
+      },
+      "correctAnswer": "C",
+      "explanation": "Embedded CSS uses a <style> tag pair in the <head> section. External CSS is in a separate file, while Inline CSS is on each element."
+    },
+    {
+      "id": "cs9-c3-q32",
+      "question": "What does the <strong> tag do in HTML?",
+      "options": {
+        "A": "Makes text italic",
+        "B": "Makes text bold and semantically important",
+        "C": "Adds underline to text",
+        "D": "Changes text color"
+      },
+      "correctAnswer": "B",
+      "explanation": "<strong> makes text bold AND signals semantic importance. <b> makes text bold visually only. <em> adds italic emphasis."
+    },
+    {
+      "id": "cs9-c3-q33",
+      "question": "Which HTML tag is used to add a video to a webpage?",
+      "options": {
+        "A": "<media>",
+        "B": "<clip>",
+        "C": "<video>",
+        "D": "<embed>"
+      },
+      "correctAnswer": "C",
+      "explanation": "The <video> tag is used to embed video content in HTML. The controls attribute adds play/pause/volume controls."
+    },
+    {
+      "id": "cs9-c3-q34",
+      "question": "The 'href' attribute in a hyperlink specifies:",
+      "options": {
+        "A": "The color of the link text",
+        "B": "The destination URL or path",
+        "C": "The size of the linked page",
+        "D": "Whether to open in a new tab"
+      },
+      "correctAnswer": "B",
+      "explanation": "href (Hypertext Reference) specifies the URL that the hyperlink points to. target specifies how it opens."
+    },
+    {
+      "id": "cs9-c3-q35",
+      "question": "What is the advantage of External CSS over Inline CSS for a large website?",
+      "options": {
+        "A": "It loads faster",
+        "B": "Changes in one file apply to all linked pages",
+        "C": "It has higher priority",
+        "D": "It can only be used with JavaScript"
+      },
+      "correctAnswer": "B",
+      "explanation": "External CSS allows site-wide style changes in one.css file rather than modifying every element individually — essential for large projects. ★ Additional Questions — Topics 3.2.3 to 3.3"
+    },
+    {
+      "id": "cs9-c3-q36",
+      "question": "Which HTML tag-pair defines a TABLE HEADER cell?",
+      "options": {
+        "A": "<td>",
+        "B": "<tr>",
+        "C": "<th>",
+        "D": "<tc>"
+      },
+      "correctAnswer": "C",
+      "explanation": "The <th> tag defines a header cell in a table. It is typically bold and centered by default, used in the first row for column labels."
+    },
+    {
+      "id": "cs9-c3-q37",
+      "question": "Which HTML tag-pair defines a DATA cell inside a table row?",
+      "options": {
+        "A": "<th>",
+        "B": "<tr>",
+        "C": "<table>",
+        "D": "<td>"
+      },
+      "correctAnswer": "D",
+      "explanation": "The <td> (table data) tag defines individual data cells inside a table row. <td> used on lines 14-16 and 19-21 in its table example."
+    },
+    {
+      "id": "cs9-c3-q38",
+      "question": "The 'alt' attribute in the <img> tag is used to:",
+      "options": {
+        "A": "Specify the image file path",
+        "B": "Define image size on screen",
+        "C": "Provide alternative text if the image fails to load",
+        "D": "Link the image to a URL"
+      },
+      "correctAnswer": "C",
+      "explanation": "The alt parameter 'provides description of the image' — it shows if the image cannot load and aids accessibility.."
+    },
+    {
+      "id": "cs9-c3-q39",
+      "question": "Hyperlinks in HTML are created using which tag?",
+      "options": {
+        "A": "<link>",
+        "B": "<a>",
+        "C": "<href>",
+        "D": "<url>"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hyperlinks in HTML use the <a> (anchor) tag-pair. The href attribute inside it specifies the destination URL or path."
+    },
+    {
+      "id": "cs9-c3-q40",
+      "question": "Which parameter in the <video> tag enables on-screen play, pause, and volume controls?",
+      "options": {
+        "A": "autoplay",
+        "B": "muted",
+        "C": "controls",
+        "D": "loop"
+      },
+      "correctAnswer": "C",
+      "explanation": "The 'controls' parameter in the <video> tag enables the on-screen play/pause and volume controls for the user,."
+    },
+    {
+      "id": "cs9-c3-q41",
+      "question": "The 'autoplay' parameter in a <video> tag causes the video to:",
+      "options": {
+        "A": "Load only when clicked",
+        "B": "Automatically play when the webpage loads",
+        "C": "Loop indefinitely",
+        "D": "Display with full controls"
+      },
+      "correctAnswer": "B",
+      "explanation": "Autoplay automatically starts the video when the webpage loads but does not provide play/pause or volume controls unless specified separately."
+    },
+    {
+      "id": "cs9-c3-q42",
+      "question": "What file extension is used for an External CSS file?",
+      "options": {
+        "A": ".html",
+        "B": ".js",
+        "C": ".css",
+        "D": ".style"
+      },
+      "correctAnswer": "C",
+      "explanation": "External CSS is saved in a separate file with the.css extension, then linked to HTML via a <link> tag in the <head> section."
+    },
+    {
+      "id": "cs9-c3-q43",
+      "question": "Inline CSS is written:",
+      "options": {
+        "A": "In the <head> section using <style>",
+        "B": "In a separate.css file",
+        "C": "Directly inside an HTML element using the style attribute",
+        "D": "Anywhere in the <body> using <style>"
+      },
+      "correctAnswer": "C",
+      "explanation": "Inline CSS is applied directly on an HTML element. Example: <h1 style='color:red;'>. It has the highest priority of all three CSS types."
+    },
+    {
+      "id": "cs9-c3-q44",
+      "question": "If both Embedded CSS and External CSS are applied to the same element, which one takes priority?",
+      "options": {
+        "A": "External CSS",
+        "B": "Embedded CSS",
+        "C": "Both apply equally",
+        "D": "Whichever is written first"
+      },
+      "correctAnswer": "B",
+      "explanation": "priority order: Inline > Embedded > External. Embedded CSS overrides External CSS for the same element."
+    },
+    {
+      "id": "cs9-c3-q45",
+      "question": "To adjust the display size of an image differently from its actual file size, which attributes are used?",
+      "options": {
+        "A": "alt and src",
+        "B": "href and target",
+        "C": "width and height",
+        "D": "size and scale"
+      },
+      "correctAnswer": "C",
+      "explanation": "the dimensions of the image can also be mentioned in terms of width and height, otherwise it will load the image in its actual size.."
+    },
+    {
+      "id": "cs9-c3-q46",
+      "question": "The <table> tag-pair in HTML is used to:",
+      "options": {
+        "A": "Define a single table row",
+        "B": "Define a table header cell",
+        "C": "Wrap the entire table structure",
+        "D": "Define a data cell"
+      },
+      "correctAnswer": "C",
+      "explanation": "The <table> tag-pair wraps the entire table. Inside it, <tr> defines rows, <th> defines header cells, and <td> defines data cells."
+    },
+    {
+      "id": "cs9-c3-q47",
+      "question": "When 'muted' is combined with 'autoplay' in a <video> tag, the video:",
+      "options": {
+        "A": "Does not play at all",
+        "B": "Plays with full volume",
+        "C": "Plays automatically but with sound turned off",
+        "D": "Loops continuously"
+      },
+      "correctAnswer": "C",
+      "explanation": "When 'muted' is used, 'the clip loads but volume is muted and needs to be unmuted manually'.."
+    },
+    {
+      "id": "cs9-c3-q48",
+      "question": "External CSS is described in as best suited for:",
+      "options": {
+        "A": "Single-page personal websites",
+        "B": "Small student projects",
+        "C": "Large commercial websites",
+        "D": "Webpages without images"
+      },
+      "correctAnswer": "C",
+      "explanation": "External CSS are used with large projects, like in commercial purposes. — one file manages styles for all linked pages."
+    },
+    {
+      "id": "cs9-c3-q49",
+      "question": "Hyperlinks in HTML can be associated with:",
+      "options": {
+        "A": "Only text",
+        "B": "Only images",
+        "C": "Both text and images",
+        "D": "Only buttons"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hyperlinks can be associated not only to text, but to images as well. This is done using the <a> tag wrapping the element."
+    },
+    {
+      "id": "cs9-c3-q50",
+      "question": "Which HTML tag-pair is used to define the entire table in 's table example?",
+      "options": {
+        "A": "<tr>",
+        "B": "<td>",
+        "C": "<th>",
+        "D": "<table>"
+      },
+      "correctAnswer": "D",
+      "explanation": "the table starting with the <table> tag-pair. <tr> defines rows inside it, and <th> or <td> define cells within each row. Topic 3.4 to 3.6 — JavaScript, Loops, Functions & Debugging"
+    },
+    {
+      "id": "cs9-c3-q51",
+      "question": "JavaScript is primarily used for:",
+      "options": {
+        "A": "Database management",
+        "B": "Making web pages dynamic and interactive",
+        "C": "Server hardware management",
+        "D": "Writing operating systems"
+      },
+      "correctAnswer": "B",
+      "explanation": "JavaScript is a client-side scripting language used to add interactivity, handle events, and create dynamic content on web pages."
+    },
+    {
+      "id": "cs9-c3-q52",
+      "question": "Which JavaScript data type stores true or false values?",
+      "options": {
+        "A": "String",
+        "B": "Number",
+        "C": "Boolean",
+        "D": "Integer"
+      },
+      "correctAnswer": "C",
+      "explanation": "Boolean variables store only true or false values. Strings store text, Numbers store numeric values."
+    },
+    {
+      "id": "cs9-c3-q53",
+      "question": "In JavaScript, 'score' and 'Score' are:",
+      "options": {
+        "A": "The same variable because JS ignores case",
+        "B": "Two different variables because JS is case-sensitive",
+        "C": "Both invalid variable names",
+        "D": "Identical because numeric prefixes are not allowed"
+      },
+      "correctAnswer": "B",
+      "explanation": "JavaScript is case-sensitive. 'score' and 'Score' are treated as completely different variables by the JavaScript engine."
+    },
+    {
+      "id": "cs9-c3-q54",
+      "question": "Which operator gives the REMAINDER of a division in JavaScript?",
+      "options": {
+        "A": "+",
+        "B": "-",
+        "C": "*",
+        "D": "%"
+      },
+      "correctAnswer": "D",
+      "explanation": "The modulus operator (%) returns the remainder of division. Example: 10 % 3 = 1."
+    },
+    {
+      "id": "cs9-c3-q55",
+      "question": "The 'alert()' function in JavaScript:",
+      "options": {
+        "A": "Adds a new HTML element",
+        "B": "Displays a pop-up message box to the user",
+        "C": "Creates a variable",
+        "D": "Loops through code"
+      },
+      "correctAnswer": "B",
+      "explanation": "alert() displays a dialog box with a message and an OK button — commonly used to notify users of events or results."
+    },
+    {
+      "id": "cs9-c3-q56",
+      "question": "Which of the following correctly defines a 'for loop' in JavaScript?",
+      "options": {
+        "A": "for(start; step; condition)",
+        "B": "for(condition; step; start)",
+        "C": "for(initialization; condition; update)",
+        "D": "for(condition; initialization; step)"
+      },
+      "correctAnswer": "C",
+      "explanation": "A for loop has three parts: initialization (starting value), condition (when to stop), and update (how to increment/change index)."
+    },
+    {
+      "id": "cs9-c3-q57",
+      "question": "In a nested loop, the inner loop:",
+      "options": {
+        "A": "Runs only once",
+        "B": "Runs completely for each iteration of the outer loop",
+        "C": "Runs after the outer loop finishes",
+        "D": "Runs simultaneously with the outer loop"
+      },
+      "correctAnswer": "B",
+      "explanation": "In nested loops, every time the outer loop completes one iteration, the inner loop runs through ALL its iterations from start to finish."
+    },
+    {
+      "id": "cs9-c3-q58",
+      "question": "Which variable type in JavaScript can be accessed from anywhere in the program?",
+      "options": {
+        "A": "Local variable",
+        "B": "Parameter variable",
+        "C": "Global variable",
+        "D": "Loop variable"
+      },
+      "correctAnswer": "C",
+      "explanation": "Global variables are declared outside functions and can be accessed anywhere. Local variables exist only within the function they are declared in."
+    },
+    {
+      "id": "cs9-c3-q59",
+      "question": "What is debugging in programming?",
+      "options": {
+        "A": "Writing the first version of a program",
+        "B": "Translating code to machine language",
+        "C": "Locating and fixing errors in code",
+        "D": "Adding comments to code"
+      },
+      "correctAnswer": "C",
+      "explanation": "Debugging is the systematic process of finding and fixing bugs (errors) in a program's code."
+    },
+    {
+      "id": "cs9-c3-q60",
+      "question": "A 'breakpoint' in debugging allows a programmer to:",
+      "options": {
+        "A": "Delete a line of code",
+        "B": "Pause program execution at a specific line to inspect variable values",
+        "C": "Skip to the end of the program",
+        "D": "Speed up program execution"
+      },
+      "correctAnswer": "B",
+      "explanation": "Breakpoints pause execution at marked lines, letting developers inspect the program state and variable values at that exact moment. ★ Additional Questions — Topics 3.4 to 3.6"
+    },
+    {
+      "id": "cs9-c3-q61",
+      "question": "In JavaScript, a variable is declared using which keyword?",
+      "options": {
+        "A": "let",
+        "B": "def",
+        "C": "dim",
+        "D": "var"
+      },
+      "correctAnswer": "D",
+      "explanation": "A variable in JavaScript is declared with the 'var' keyword.. Multiple variables can also be declared in the same line."
+    },
+    {
+      "id": "cs9-c3-q62",
+      "question": "Which of the following is a VALID JavaScript variable name?",
+      "options": {
+        "A": "1score",
+        "B": "my score",
+        "C": "_totalMarks",
+        "D": "class"
+      },
+      "correctAnswer": "C",
+      "explanation": "JavaScript variable names cannot start with a number, contain spaces, or use reserved words. _totalMarks follows all naming rules correctly."
+    },
+    {
+      "id": "cs9-c3-q63",
+      "question": "The first ever assignment of a value to a variable is called:",
+      "options": {
+        "A": "Declaration",
+        "B": "Assignment",
+        "C": "Initialization",
+        "D": "Definition"
+      },
+      "correctAnswer": "C",
+      "explanation": "initialization as 'the first ever assignment of a value to a variable in the life span of a program'."
+    },
+    {
+      "id": "cs9-c3-q64",
+      "question": "An array in JavaScript is best described as:",
+      "options": {
+        "A": "A single variable that stores only one value",
+        "B": "A loop that runs a fixed number of times",
+        "C": "A data type that holds multiple homogenous elements",
+        "D": "A function that returns true or false"
+      },
+      "correctAnswer": "C",
+      "explanation": "an array as 'a datatype which can hold a number of homogenous set of elements', avoiding the need for many separate variables."
+    },
+    {
+      "id": "cs9-c3-q65",
+      "question": "Array indexing in JavaScript starts at:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "2"
+      },
+      "correctAnswer": "B",
+      "explanation": "it is trivial to note that array-index starts with 0.. So the first element of an array is accessed at index 0."
+    },
+    {
+      "id": "cs9-c3-q66",
+      "question": "What is the main purpose of a function in JavaScript?",
+      "options": {
+        "A": "To declare variables only",
+        "B": "To store a single value",
+        "C": "To group reusable lines of code that can be called repeatedly",
+        "D": "To connect the webpage to a database"
+      },
+      "correctAnswer": "C",
+      "explanation": "a function as 'a set of lines which occurs in the code quite often that can be segmented once, and called again and again'."
+    },
+    {
+      "id": "cs9-c3-q67",
+      "question": "Variables declared INSIDE a function in JavaScript are:",
+      "options": {
+        "A": "Global and accessible anywhere in the program",
+        "B": "Local and limited to that function only",
+        "C": "Permanent for the entire program run",
+        "D": "Stored in an external array"
+      },
+      "correctAnswer": "B",
+      "explanation": "Function arguments are 'variables local to that function and their life span is limited to the said function'.."
+    },
+    {
+      "id": "cs9-c3-q68",
+      "question": "The JavaScript 'if-else' statement is used for:",
+      "options": {
+        "A": "Repeating a task multiple times",
+        "B": "Declaring arrays",
+        "C": "Making decisions based on a condition",
+        "D": "Defining a new function"
+      },
+      "correctAnswer": "C",
+      "explanation": "The if-else (conditional/selection) statement executes a block if a condition is true, and another block if the condition is false."
+    },
+    {
+      "id": "cs9-c3-q69",
+      "question": "In a 'for loop', the UPDATE part (third section) controls:",
+      "options": {
+        "A": "The starting value of the index",
+        "B": "The condition at which the loop stops",
+        "C": "How the index value changes after each iteration",
+        "D": "The output of the loop body"
+      },
+      "correctAnswer": "C",
+      "explanation": "the step-size defines 'how many steps the index will take after each iteration, till the terminating condition is met'."
+    },
+    {
+      "id": "cs9-c3-q70",
+      "question": "Which JavaScript comparison operator checks if two values are NOT equal?",
+      "options": {
+        "A": "==",
+        "B": ">=",
+        "C": "!=",
+        "D": "<="
+      },
+      "correctAnswer": "C",
+      "explanation": "The != operator means 'is not equal to'. 's Table 3-4 lists it as one of the comparison operators used in conditional statements."
+    },
+    {
+      "id": "cs9-c3-q71",
+      "question": "In Visual Studio.Net, a breakpoint is displayed as:",
+      "options": {
+        "A": "A yellow arrow at the line",
+        "B": "A green dot at the start of the line",
+        "C": "A blue star next to the line",
+        "D": "A red dot at the start of the line"
+      },
+      "correctAnswer": "D",
+      "explanation": "In Visual Studio.Net, a breakpoint is shown as a red dot at the start of line., as illustrated in Fig-41."
+    },
+    {
+      "id": "cs9-c3-q72",
+      "question": "The 'Step Into' debugging option allows a programmer to:",
+      "options": {
+        "A": "Skip directly to the last line",
+        "B": "Run the full program without pausing",
+        "C": "Trace code execution line by line",
+        "D": "Delete all assigned breakpoints"
+      },
+      "correctAnswer": "C",
+      "explanation": "'Step Into' as going through 'the code line by line, as the program will normally execute, so that you have a thorough tracing capability'."
+    },
+    {
+      "id": "cs9-c3-q73",
+      "question": "JavaScript code is embedded inside an HTML file using:",
+      "options": {
+        "A": "<js> tag",
+        "B": "<code> tag",
+        "C": "<script> tag",
+        "D": "<java> tag"
+      },
+      "correctAnswer": "C",
+      "explanation": "JavaScript code is embedded in HTML using the <script> tag-pair. it used in the body with type='text/javascript'."
+    },
+    {
+      "id": "cs9-c3-q74",
+      "question": "JavaScript 'does not consume much memory' because it is used:.",
+      "options": {
+        "A": "On the web server side",
+        "B": "At the client-end for making pages dynamic",
+        "C": "For database management only",
+        "D": "For writing operating system code"
+      },
+      "correctAnswer": "B",
+      "explanation": "JavaScript is used 'at the client-end in developing websites, for making pages dynamic' — running in the browser, not on the server."
+    },
+    {
+      "id": "cs9-c3-q75",
+      "question": "Which of the following built-in JavaScript functions is explicitly mentioned in ?",
+      "options": {
+        "A": "calculate()",
+        "B": "display()",
+        "C": "prompt()",
+        "D": "render()"
+      },
+      "correctAnswer": "C",
+      "explanation": "prompt() and input() as examples of built-in JavaScript functions that programmers can call without writing their own code."
+    }
+  ]
+}

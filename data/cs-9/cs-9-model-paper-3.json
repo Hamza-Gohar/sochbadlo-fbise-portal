@@ -1,0 +1,154 @@
+{
+  "subject": "cs-9",
+  "chapterNumber": 10,
+  "chapterTitle": "Federal Board Annual Exam Simulator 03 (Ch 5)",
+  "slug": "cs-9-model-paper-3",
+  "description": "Authentic 12-mark Section A Federal Board exam simulator covering Applications of Computer Science (AI, ML, Robotics, Cloud) by Lecturer Sabahat Ul Hasan.",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "id": "cs9-mp3-q1",
+      "question": "The process of taking an unknown or unlabeled data set as input to train the algorithm to discover hidden patterns is known as:",
+      "options": {
+        "A": "Natural Language Processing",
+        "B": "Expert system",
+        "C": "Supervised Machine Learning",
+        "D": "Unsupervised Machine Learning"
+      },
+      "correctAnswer": "D",
+      "explanation": "Unsupervised machine learning algorithms analyze and cluster untagged, unclassified data to discover underlying patterns without pre-existing labels."
+    },
+    {
+      "id": "cs9-mp3-q2",
+      "question": "Which of the following is an example of AI used in everyday life?",
+      "options": {
+        "A": "Microwave oven",
+        "B": "Refrigerator",
+        "C": "Self-driving car",
+        "D": "Bicycle"
+      },
+      "correctAnswer": "C",
+      "explanation": "Autonomous self-driving vehicles utilize advanced AI computer vision and deep learning models to perceive surroundings and navigate roads."
+    },
+    {
+      "id": "cs9-mp3-q3",
+      "question": "The technology concerned with performing specific tasks with little or no human intervention using computer-controlled machines is called:",
+      "options": {
+        "A": "Computer Vision",
+        "B": "Computer Intelligence",
+        "C": "Virtual Technology",
+        "D": "Robotics"
+      },
+      "correctAnswer": "D",
+      "explanation": "Robotics integrates engineering and computer science to build programmable, automated physical agents that carry out actions autonomously."
+    },
+    {
+      "id": "cs9-mp3-q4",
+      "question": "A cloud computing model in which resources are owned and operated by a third-party cloud service provider is called:",
+      "options": {
+        "A": "Private Cloud",
+        "B": "Public Cloud",
+        "C": "Hybrid Cloud",
+        "D": "Remote Cloud"
+      },
+      "correctAnswer": "B",
+      "explanation": "In a Public Cloud (e.g. AWS, Google Cloud, Azure), infrastructure is owned, hosted, and operated by external cloud providers and offered over the internet."
+    },
+    {
+      "id": "cs9-mp3-q5",
+      "question": "Machine learning is a sub-field of AI that focuses on:",
+      "options": {
+        "A": "Manually programming each rule for a computer",
+        "B": "Using past data and experience to make predictions and decisions",
+        "C": "Developing new computer hardware",
+        "D": "Sending data over internet"
+      },
+      "correctAnswer": "B",
+      "explanation": "Machine learning trains computational models on empirical datasets so systems improve performance and make accurate future predictions without explicit rule programming."
+    },
+    {
+      "id": "cs9-mp3-q6",
+      "question": "Which term refers to using labelled data for training machine learning algorithms?",
+      "options": {
+        "A": "Supervised Learning",
+        "B": "Unsupervised Learning",
+        "C": "Reinforcement Learning",
+        "D": "Data Mining"
+      },
+      "correctAnswer": "A",
+      "explanation": "Supervised Learning pairs input data with corresponding target labels so algorithms learn the mapping function between inputs and correct outputs."
+    },
+    {
+      "id": "cs9-mp3-q7",
+      "question": "Speech recognition is a prominent application of:",
+      "options": {
+        "A": "Computer Vision",
+        "B": "Natural Language Processing",
+        "C": "Machine Learning",
+        "D": "Data Mining"
+      },
+      "correctAnswer": "B",
+      "explanation": "Speech recognition converts spoken voice audio into text, which is a foundational sub-discipline of Natural Language Processing (NLP)."
+    },
+    {
+      "id": "cs9-mp3-q8",
+      "question": "The AI technology that enables computer systems to obtain meaningful information from digital images and videos is called:",
+      "options": {
+        "A": "Image Recognition",
+        "B": "Speech Recognition",
+        "C": "Computer Vision",
+        "D": "Scanner"
+      },
+      "correctAnswer": "C",
+      "explanation": "Computer Vision empowers computers to interpret, process, and understand visual data from digital images and real-time camera video streams."
+    },
+    {
+      "id": "cs9-mp3-q9",
+      "question": "Which of these is an example of AI applied in modern business?",
+      "options": {
+        "A": "Automated recommendation systems in e-commerce",
+        "B": "Handwritten letters sent by companies",
+        "C": "Filing taxes physically",
+        "D": "Human accountants calculating salaries manually"
+      },
+      "correctAnswer": "A",
+      "explanation": "E-commerce platforms like Amazon use AI recommendation engines analyzing user browsing history to predict and recommend products."
+    },
+    {
+      "id": "cs9-mp3-q10",
+      "question": "GitHub Copilot is an AI tool primarily used for:",
+      "options": {
+        "A": "Detecting errors in spoken language",
+        "B": "Building chatbots only",
+        "C": "Automatically generating code suggestions",
+        "D": "Designing 3D models"
+      },
+      "correctAnswer": "C",
+      "explanation": "GitHub Copilot is an AI pair programmer powered by large language models that synthesizes code completions and suggestions within code editors."
+    },
+    {
+      "id": "cs9-mp3-q11",
+      "question": "The main purpose of cloud computing is:",
+      "options": {
+        "A": "To reduce cybersecurity measures",
+        "B": "To provide on-demand services like storage, databases, and software via the internet",
+        "C": "To store data only on a single user’s device",
+        "D": "To make computers faster without internet"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cloud computing delivers on-demand computing services—including servers, storage, databases, networking, and software—over the cloud with pay-as-you-go pricing."
+    },
+    {
+      "id": "cs9-mp3-q12",
+      "question": "A chatbot is best defined as:",
+      "options": {
+        "A": "A program that combines AI with natural language to interact with users",
+        "B": "A physical robot that talks",
+        "C": "A cloud storage service",
+        "D": "A hardware device for storing chat history"
+      },
+      "correctAnswer": "A",
+      "explanation": "A chatbot is conversational software powered by NLP and AI designed to simulate human conversation via text or voice interactions."
+    }
+  ]
+}

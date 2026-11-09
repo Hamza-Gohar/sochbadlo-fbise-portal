@@ -1,0 +1,790 @@
+{
+  "subject": "cs-9",
+  "chapterNumber": 5,
+  "chapterTitle": "Unit 05: Applications of Computer Science",
+  "slug": "cs-9-chapter-5",
+  "description": "Artificial Intelligence (AI), Machine Learning (ML), Natural Language Processing (NLP), Computer Vision, Robotics, IoT, and Cloud Computing.",
+  "totalQuestions": 65,
+  "questions": [
+    {
+      "id": "cs9-c5-q1",
+      "question": "Artificial Intelligence is a branch of computer science that focuses on:",
+      "options": {
+        "A": "Designing computer hardware",
+        "B": "Making machines perform human-like tasks intelligently",
+        "C": "Managing computer networks",
+        "D": "Storing large volumes of data"
+      },
+      "correctAnswer": "B",
+      "explanation": "AI aims to create machines capable of intelligent behavior — simulating human reasoning, learning, and decision-making capabilities."
+    },
+    {
+      "id": "cs9-c5-q2",
+      "question": "In supervised machine learning, the training data is:",
+      "options": {
+        "A": "Unlabeled and unorganized",
+        "B": "Labeled with known inputs and correct output responses",
+        "C": "Randomly generated",
+        "D": "Only numerical"
+      },
+      "correctAnswer": "B",
+      "explanation": "Supervised learning trains a model using labeled examples — input-output pairs — so the model learns to map inputs to correct outputs."
+    },
+    {
+      "id": "cs9-c5-q3",
+      "question": "Unsupervised machine learning uses which technique to group similar data?",
+      "options": {
+        "A": "Classification",
+        "B": "Regression",
+        "C": "Clustering",
+        "D": "Labeling"
+      },
+      "correctAnswer": "C",
+      "explanation": "Unsupervised learning finds hidden patterns in unlabeled data through clustering — grouping data points with similar characteristics together."
+    },
+    {
+      "id": "cs9-c5-q4",
+      "question": "ChatGPT was developed by:",
+      "options": {
+        "A": "Google",
+        "B": "Microsoft",
+        "C": "OpenAI",
+        "D": "Apple"
+      },
+      "correctAnswer": "C",
+      "explanation": "ChatGPT (Chat Generative Pre-trained Transformer) was developed by OpenAI, an American AI research laboratory."
+    },
+    {
+      "id": "cs9-c5-q5",
+      "question": "Which of the following is a genuine ethical concern with ChatGPT?",
+      "options": {
+        "A": "It is too slow",
+        "B": "It requires a paid subscription",
+        "C": "It can enable plagiarism and spread misinformation",
+        "D": "It cannot write code"
+      },
+      "correctAnswer": "C",
+      "explanation": "ChatGPT raises ethical concerns including academic dishonesty (plagiarism), potential misinformation, data privacy issues, and bias."
+    },
+    {
+      "id": "cs9-c5-q6",
+      "question": "Grammarly is an AI tool primarily used for:",
+      "options": {
+        "A": "Converting text to speech",
+        "B": "Correcting spelling and grammar in documents",
+        "C": "Creating images from text",
+        "D": "Managing databases"
+      },
+      "correctAnswer": "B",
+      "explanation": "Grammarly automatically checks and suggests corrections for grammar, spelling, and writing style. However, it is not 100% accurate."
+    },
+    {
+      "id": "cs9-c5-q7",
+      "question": "Which is a DISADVANTAGE of AI algorithms?",
+      "options": {
+        "A": "They improve decision-making",
+        "B": "They help diagnose diseases early",
+        "C": "They can introduce bias leading to discriminatory outcomes",
+        "D": "They suggest shortest routes for drivers"
+      },
+      "correctAnswer": "C",
+      "explanation": "AI algorithms trained on biased data can produce discriminatory results — affecting hiring, lending, healthcare and legal decisions unfairly."
+    },
+    {
+      "id": "cs9-c5-q8",
+      "question": "What does the machine learning process begin with?",
+      "options": {
+        "A": "Creating the training model",
+        "B": "Learning process",
+        "C": "Collection of training data",
+        "D": "Predicting results"
+      },
+      "correctAnswer": "C",
+      "explanation": "The ML process starts with collecting training data, followed by creating the algorithm, learning, building the model, and predicting results."
+    },
+    {
+      "id": "cs9-c5-q9",
+      "question": "Lovo AI is best described as a:",
+      "options": {
+        "A": "Chatbot for customer service",
+        "B": "Text-to-speech AI tool",
+        "C": "Image recognition software",
+        "D": "Data visualization tool"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lovo AI is an award-winning text-to-speech tool that uses AI to generate realistic voices in 100+ languages for various audio/video content."
+    },
+    {
+      "id": "cs9-c5-q10",
+      "question": "Which AI application converts spoken words to text?",
+      "options": {
+        "A": "Computer Vision",
+        "B": "NLP Chatbot",
+        "C": "Speech Recognition",
+        "D": "Expert System"
+      },
+      "correctAnswer": "C",
+      "explanation": "Speech recognition converts spoken language into text. It is used by virtual assistants (Siri, Alexa) and accessibility tools. ★ Additional Questions — Topics 5.1 to 5.1.4"
+    },
+    {
+      "id": "cs9-c5-q11",
+      "question": "Machine learning algorithms improve their capabilities over time because:",
+      "options": {
+        "A": "They are reprogrammed daily by developers",
+        "B": "They improve as more sample data is input into the computers",
+        "C": "They use faster processors",
+        "D": "They connect to the internet automatically"
+      },
+      "correctAnswer": "B",
+      "explanation": "Machine learning algorithms improve their capabilities over time as more sample data is input in the computers.."
+    },
+    {
+      "id": "cs9-c5-q12",
+      "question": "In supervised machine learning, the car price prediction example uses which type of data as INPUT?",
+      "options": {
+        "A": "Only the car price",
+        "B": "Engine type, transmission, seats, safety features, etc.",
+        "C": "The country where the car will be sold",
+        "D": "The name of the car manufacturer only"
+      },
+      "correctAnswer": "B",
+      "explanation": "engine type, transmission, seats, drive type, keyless entry, push start, safety features, and country of manufacturing as inputs for car price prediction."
+    },
+    {
+      "id": "cs9-c5-q13",
+      "question": "In unsupervised machine learning, the loan risk example eliminates age, mobile number, and gender because:",
+      "options": {
+        "A": "They are too difficult to collect",
+        "B": "They are not important for determining loan risk",
+        "C": "They violate data privacy",
+        "D": "They are already stored in the bank's database"
+      },
+      "correctAnswer": "B",
+      "explanation": "'information about age, mobile number and gender are not important for determining the loan risk, therefore they can be eliminated'.."
+    },
+    {
+      "id": "cs9-c5-q14",
+      "question": "The machine learning process has how many stages ?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correctAnswer": "C",
+      "explanation": "5 stages: (a) Collection of training data, (b) Creating algorithm, (c) Learning process, (d) Creating training model, (e) Predicting results."
+    },
+    {
+      "id": "cs9-c5-q15",
+      "question": "Why is it difficult to find errors in AI algorithms ?",
+      "options": {
+        "A": "Because AI algorithms run too fast",
+        "B": "Because there is no proper breakdown of how the AI algorithm makes decisions",
+        "C": "Because AI systems are kept secret",
+        "D": "Because only AI engineers can access the code"
+      },
+      "correctAnswer": "B",
+      "explanation": "It is difficult to find out what went wrong in AI algorithms as there is no proper breakdown on how the AI algorithm is making decisions.."
+    },
+    {
+      "id": "cs9-c5-q16",
+      "question": "Which of the following is listed as a BENEFIT of using AI systems in ?",
+      "options": {
+        "A": "AI systems can replace all human workers",
+        "B": "AI systems in hospitals provide better diagnosis and treatment of diseases at early stage",
+        "C": "AI eliminates the need for education",
+        "D": "AI systems never make errors"
+      },
+      "correctAnswer": "B",
+      "explanation": "hospital diagnosis (e.g. cancer) as an important benefit of AI — providing better diagnosis and treatment at an early stage."
+    },
+    {
+      "id": "cs9-c5-q17",
+      "question": "ChatGPT stands for:",
+      "options": {
+        "A": "Chat Generated Pre-tested Tool",
+        "B": "Chat Generative Pre-trained Transformer",
+        "C": "Computer Generated Processing Tool",
+        "D": "Chat General Purpose Translator"
+      },
+      "correctAnswer": "B",
+      "explanation": "ChatGPT stands for Chat Generative Pre-trained Transformer developed by OpenAI.."
+    },
+    {
+      "id": "cs9-c5-q18",
+      "question": "Lovo AI supports how many languages for text-to-speech generation?",
+      "options": {
+        "A": "More than 10",
+        "B": "More than 50",
+        "C": "More than 100",
+        "D": "More than 500"
+      },
+      "correctAnswer": "C",
+      "explanation": "Lovo AI 'supports 500 high quality voices and more than 100 languages' for creating audio and video content."
+    },
+    {
+      "id": "cs9-c5-q19",
+      "question": "Which of the following is an ethical issue related to AI tools that create audio, video, music, and images?",
+      "options": {
+        "A": "High electricity usage",
+        "B": "Copyright infringement and harmful content",
+        "C": "Slow processing speed",
+        "D": "Limited storage capacity"
+      },
+      "correctAnswer": "B",
+      "explanation": "AI tools that create new contents such as audio, video, music, text and images can raise the issue of copyright infringements and harmful contents.."
+    },
+    {
+      "id": "cs9-c5-q20",
+      "question": "Virtual assistants like Apple Siri and Amazon Alexa are described as:",
+      "options": {
+        "A": "Database management tools",
+        "B": "Expert systems for medical diagnosis",
+        "C": "Interactive AI-based application programs that understand natural language",
+        "D": "Cloud computing platforms"
+      },
+      "correctAnswer": "C",
+      "explanation": "a virtual assistant as 'an interactive AI based application program that can understand natural language'."
+    },
+    {
+      "id": "cs9-c5-q21",
+      "question": "Which of the following is a task that virtual assistants can perform, ?",
+      "options": {
+        "A": "Designing websites and creating databases",
+        "B": "Sending text messages, making phone calls, playing music, and making purchases",
+        "C": "Performing surgery and diagnosing diseases",
+        "D": "Programming new AI algorithms"
+      },
+      "correctAnswer": "B",
+      "explanation": "sending text messages, making phone calls, playing music, making purchases, making search queries, and creating emails. as tasks virtual assistants perform."
+    },
+    {
+      "id": "cs9-c5-q22",
+      "question": "AI-based automation, can cause:",
+      "options": {
+        "A": "Increase in all types of jobs",
+        "B": "Better work-life balance for all workers",
+        "C": "Job losses in areas such as manufacturing, education, and healthcare",
+        "D": "Improved human creativity"
+      },
+      "correctAnswer": "C",
+      "explanation": "'AI-based automation can lead to job losses in many areas such as automobile manufacturing, business, education, healthcare, agriculture' as a harm of AI."
+    },
+    {
+      "id": "cs9-c5-q23",
+      "question": "A driverless self-driving car having an accident is given in as an example of:",
+      "options": {
+        "A": "A benefit of AI in transportation",
+        "B": "How AI can cause harm or death",
+        "C": "A successful AI application",
+        "D": "A machine learning training example"
+      },
+      "correctAnswer": "B",
+      "explanation": "the self-driving car accident as an example under harms of AI algorithms: 'Driverless self-driving car can have an accident. This shows how AI algorithms can cause death'."
+    },
+    {
+      "id": "cs9-c5-q24",
+      "question": "what must designers of AI algorithms focus on?",
+      "options": {
+        "A": "Making AI as fast as possible",
+        "B": "Instilling moral and ethical values in AI systems and focusing on benefiting people",
+        "C": "Ensuring AI systems replace human workers efficiently",
+        "D": "Making AI algorithms secret and transparent only to experts"
+      },
+      "correctAnswer": "B",
+      "explanation": "Designers of AI algorithm must instill moral and ethical values in AI systems and focus on benefiting people.."
+    },
+    {
+      "id": "cs9-c5-q25",
+      "question": "Which of the following popular virtual assistants is mentioned in ?",
+      "options": {
+        "A": "Cortana, Alexa, and IBM Watson",
+        "B": "Apple Siri, Amazon Alexa, Google Assistant, ChatGPT, and Microsoft Cortana",
+        "C": "Bard, Claude, and Gemini",
+        "D": "Windows Defender and Norton"
+      },
+      "correctAnswer": "B",
+      "explanation": "Apple.s Siri, Amazon Alexa, Google Assistant, ChatGPT and Microsoft Cortana' as popular virtual assistants. Topic 5.2 to 5.2.5 — AI Applications: Speech Recognition, Computer Vision, NLP & Expert Systems"
+    },
+    {
+      "id": "cs9-c5-q26",
+      "question": "Computer Vision gives computers the ability to:",
+      "options": {
+        "A": "Write programming code",
+        "B": "Extract meaningful information from digital images and videos",
+        "C": "Understand human speech",
+        "D": "Manage databases"
+      },
+      "correctAnswer": "B",
+      "explanation": "Computer Vision uses cameras, data, and algorithms to enable computers to interpret visual information from the real world."
+    },
+    {
+      "id": "cs9-c5-q27",
+      "question": "Which of the following is NOT an application of NLP?",
+      "options": {
+        "A": "Language translation",
+        "B": "Sentiment analysis",
+        "C": "Traffic flow monitoring",
+        "D": "Spam email filtering"
+      },
+      "correctAnswer": "C",
+      "explanation": "Traffic flow monitoring uses Computer Vision. NLP applications include translation, sentiment analysis, chatbots, and spam detection."
+    },
+    {
+      "id": "cs9-c5-q28",
+      "question": "An Expert System is different from regular software because it:",
+      "options": {
+        "A": "Runs faster",
+        "B": "Has decision-making ability like a human expert in a specific domain",
+        "C": "Requires no training data",
+        "D": "Can only be used in hospitals"
+      },
+      "correctAnswer": "B",
+      "explanation": "Expert systems use a knowledge base and reasoning rules to make decisions like a domain expert — they go beyond standard programmed logic."
+    },
+    {
+      "id": "cs9-c5-q29",
+      "question": "In an expert system, the 'knowledge database' is created by:",
+      "options": {
+        "A": "The end user of the system",
+        "B": "Feeding knowledge from many domain experts into the system",
+        "C": "Automatically scanning the internet",
+        "D": "Random data generation"
+      },
+      "correctAnswer": "B",
+      "explanation": "The knowledge database is built by systematically collecting knowledge from multiple domain experts and encoding it into the system."
+    },
+    {
+      "id": "cs9-c5-q30",
+      "question": "Cloud computing delivers computing services through:",
+      "options": {
+        "A": "Local area networks only",
+        "B": "Personal USB devices",
+        "C": "The Internet, accessed remotely",
+        "D": "Bluetooth connections"
+      },
+      "correctAnswer": "C",
+      "explanation": "Cloud computing delivers services (servers, storage, databases, software) over the Internet, allowing access from anywhere with connectivity."
+    },
+    {
+      "id": "cs9-c5-q31",
+      "question": "Which cloud model gives a single organization FULL control over its resources?",
+      "options": {
+        "A": "Public Cloud",
+        "B": "Hybrid Cloud",
+        "C": "Community Cloud",
+        "D": "Private Cloud"
+      },
+      "correctAnswer": "D",
+      "explanation": "A Private Cloud is dedicated to a single organization, giving it full control over infrastructure, data, and security settings."
+    },
+    {
+      "id": "cs9-c5-q32",
+      "question": "A company that uses both on-premises servers and cloud services together is using:",
+      "options": {
+        "A": "Public Cloud",
+        "B": "Private Cloud",
+        "C": "Hybrid Cloud",
+        "D": "Community Cloud"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hybrid Cloud combines public and private cloud environments, sharing data and applications between them for maximum flexibility."
+    },
+    {
+      "id": "cs9-c5-q33",
+      "question": "Which type of cloud is most suitable for a startup that wants low initial costs and scalability?",
+      "options": {
+        "A": "Private Cloud",
+        "B": "Hybrid Cloud",
+        "C": "Public Cloud",
+        "D": "On-premise servers"
+      },
+      "correctAnswer": "C",
+      "explanation": "Public Cloud resources are owned by cloud providers and offered over the internet — ideal for startups needing scalability without high capital investment."
+    },
+    {
+      "id": "cs9-c5-q34",
+      "question": "Which AI application can automatically adjust traffic signals based on vehicle count?",
+      "options": {
+        "A": "NLP",
+        "B": "Expert System",
+        "C": "Computer Vision",
+        "D": "Cloud Computing"
+      },
+      "correctAnswer": "C",
+      "explanation": "Computer Vision can analyze camera feeds at intersections to count vehicles and automatically adjust traffic signal timing accordingly."
+    },
+    {
+      "id": "cs9-c5-q35",
+      "question": "Virtual assistants like Siri and Alexa primarily use which AI technology?",
+      "options": {
+        "A": "Computer Vision only",
+        "B": "Expert Systems only",
+        "C": "NLP and Speech Recognition combined",
+        "D": "Deep Learning only"
+      },
+      "correctAnswer": "C",
+      "explanation": "Virtual assistants use Speech Recognition to understand voice input and NLP to process and respond to natural language commands. ★ Additional Questions — Topics 5.2 to 5.2.5"
+    },
+    {
+      "id": "cs9-c5-q36",
+      "question": "Speech recognition is particularly helpful for people who:",
+      "options": {
+        "A": "Want to learn programming",
+        "B": "Have physical disabilities that make typing on a keyboard difficult",
+        "C": "Prefer not to use computers",
+        "D": "Are learning a new language"
+      },
+      "correctAnswer": "B",
+      "explanation": "speech recognition 'is also very helpful for people who have physical disabilities in typing on the keyboard'."
+    },
+    {
+      "id": "cs9-c5-q37",
+      "question": "A disadvantage of speech recognition mentioned in is:",
+      "options": {
+        "A": "It uses too much battery",
+        "B": "People have different pronunciations making it difficult for the system to understand all words",
+        "C": "It can only recognize one language",
+        "D": "It requires an internet connection at all times"
+      },
+      "correctAnswer": "B",
+      "explanation": "People have different pronunciation and this may make it difficult for the speech recognition system to understand all the words.."
+    },
+    {
+      "id": "cs9-c5-q38",
+      "question": "Computer Vision repeatedly performs data analysis on images/videos until it:",
+      "options": {
+        "A": "Runs out of storage",
+        "B": "Recognizes and distinguishes images to carry out automated actions",
+        "C": "Generates a written report",
+        "D": "Connects to cloud storage"
+      },
+      "correctAnswer": "B",
+      "explanation": "Computer vision applications repeatedly perform data analysis until it recognizes and distinguishes images. After deep understanding, it carries out automated actions.."
+    },
+    {
+      "id": "cs9-c5-q39",
+      "question": "Which of the following is a Computer Vision application listed in ?",
+      "options": {
+        "A": "Spam email detection",
+        "B": "Language translation",
+        "C": "Facial recognition and self-driving cars",
+        "D": "Chatbot customer service"
+      },
+      "correctAnswer": "C",
+      "explanation": "computer vision applications including healthcare, security, facial recognition, self-driving cars, parking detection, traffic flow analysis, and manufacturing."
+    },
+    {
+      "id": "cs9-c5-q40",
+      "question": "The purpose of NLP is to:",
+      "options": {
+        "A": "Build relational databases",
+        "B": "Provide easy communication between computers and humans using natural language",
+        "C": "Increase the speed of computer processors",
+        "D": "Design computer hardware"
+      },
+      "correctAnswer": "B",
+      "explanation": "The purpose of NLP is to provide easy communication between computers and humans by using natural language.."
+    },
+    {
+      "id": "cs9-c5-q41",
+      "question": "Which of the following is listed as an NLP application in ?",
+      "options": {
+        "A": "Facial recognition",
+        "B": "Parking detection",
+        "C": "Bias and fake news detection",
+        "D": "Self-driving cars"
+      },
+      "correctAnswer": "C",
+      "explanation": "bias and fake news detection under NLP applications alongside language translation, spam detection, chatbots, sentiment analysis, and spell-check."
+    },
+    {
+      "id": "cs9-c5-q42",
+      "question": "Expert systems use which two things to find solutions to domain-specific problems?",
+      "options": {
+        "A": "Big data and cloud storage",
+        "B": "Knowledge and reasoning",
+        "C": "Hardware and sensors",
+        "D": "Databases and SQL queries"
+      },
+      "correctAnswer": "B",
+      "explanation": "expert systems as using 'knowledge and reasoning to find solutions of problems related to a specific area'."
+    },
+    {
+      "id": "cs9-c5-q43",
+      "question": "Which of the following is a listed application of Expert Systems in ?",
+      "options": {
+        "A": "Text-to-speech conversion",
+        "B": "Social media feed management",
+        "C": "Loan analysis and fraud detection in finance",
+        "D": "Image editing and design"
+      },
+      "correctAnswer": "C",
+      "explanation": "expert system applications including: hospital diagnosis, loan analysis, fraud detection, cybersecurity, product design, project scheduling, and plant monitoring."
+    },
+    {
+      "id": "cs9-c5-q44",
+      "question": "When a user makes a query in an expert system, the system responds by:",
+      "options": {
+        "A": "Searching the internet for the answer",
+        "B": "Asking the user to fill a questionnaire to enter required information",
+        "C": "Running a machine learning model",
+        "D": "Connecting to a cloud server"
+      },
+      "correctAnswer": "B",
+      "explanation": "When an end user makes a query, the expert system asks the user to enter required information about it by filling a questionnaire.."
+    },
+    {
+      "id": "cs9-c5-q45",
+      "question": "NLP is described in as a difficult task because:",
+      "options": {
+        "A": "Natural language changes every year",
+        "B": "Very complex algorithms are needed to analyze, understand, and translate natural language",
+        "C": "Computers cannot store text data",
+        "D": "It requires special hardware to function"
+      },
+      "correctAnswer": "B",
+      "explanation": "NLP is a difficult task to achieve. Very complex algorithms are used to analyze, understand and translate the natural language in both spoken and written forms.."
+    },
+    {
+      "id": "cs9-c5-q46",
+      "question": "Computer Vision gives a computer the ability to 'see' in the same way AI gives it the ability to:",
+      "options": {
+        "A": "Speak",
+        "B": "Store data",
+        "C": "Think",
+        "D": "Connect to the internet"
+      },
+      "correctAnswer": "C",
+      "explanation": "AI computer vision gives ability to computer to see just like it gives ability to think. — drawing a direct parallel between vision and intelligence."
+    },
+    {
+      "id": "cs9-c5-q47",
+      "question": "Which of the following is listed in as an area where AI is applied?",
+      "options": {
+        "A": "Interior decoration",
+        "B": "Fashion design only",
+        "C": "Wildlife conservation and agriculture",
+        "D": "Architecture and civil engineering"
+      },
+      "correctAnswer": "C",
+      "explanation": "AI application areas including healthcare, education, transportation, research, biometrics, advertising, helping wildlife, cybersecurity, agriculture, business, and defense."
+    },
+    {
+      "id": "cs9-c5-q48",
+      "question": "In the development of an expert system, the first step is to:",
+      "options": {
+        "A": "Ask the user to fill a questionnaire",
+        "B": "Build a machine learning model",
+        "C": "Collect sufficient knowledge from many domain experts and create a knowledge database",
+        "D": "Connect the system to the cloud"
+      },
+      "correctAnswer": "C",
+      "explanation": "the first step is: 'Sufficient amount of knowledge about a specific area is obtained from many experts and fed in the expert system. A knowledge database is created'."
+    },
+    {
+      "id": "cs9-c5-q49",
+      "question": "Which of the following is NOT listed as an NLP application in ?",
+      "options": {
+        "A": "Web search",
+        "B": "Personal assistants like Siri",
+        "C": "Parking detection",
+        "D": "Sentiment analysis"
+      },
+      "correctAnswer": "C",
+      "explanation": "Parking detection is a Computer Vision application. 's NLP list includes: translation, spam detection, voice recognition, web search, chatbots, personal assistants, spell-check, and sentiment analysis."
+    },
+    {
+      "id": "cs9-c5-q50",
+      "question": "AI algorithms used in healthcare can be harmful if inaccurate because:",
+      "options": {
+        "A": "They slow down the hospital's computer systems",
+        "B": "They can recommend wrong medicines which can be harmful or even cause death",
+        "C": "They generate too much data",
+        "D": "They are too expensive to maintain"
+      },
+      "correctAnswer": "B",
+      "explanation": "the AI system can recommend a wrong medicine for a patient which can be very harmful and can even cause death. as a harm of AI in healthcare. Topic 5.4 — Cloud Computing: Public, Private & Hybrid Cloud ★ Newly Added"
+    },
+    {
+      "id": "cs9-c5-q51",
+      "question": "Cloud Computing refers to:",
+      "options": {
+        "A": "Storing files only on local hard drives",
+        "B": "Delivery of computing services over the Internet by cloud computing vendors",
+        "C": "A type of physical server installed in offices",
+        "D": "A wireless networking technology"
+      },
+      "correctAnswer": "B",
+      "explanation": "cloud computing as 'delivery of computing services over the Internet by cloud computing vendors' including servers, storage, databases, networking, and software."
+    },
+    {
+      "id": "cs9-c5-q52",
+      "question": "In cloud computing, 'the Internet becomes the cloud' means:",
+      "options": {
+        "A": "Data is stored inside internet cables",
+        "B": "Users can access and process data with any internet-connected device from anywhere in the world",
+        "C": "The internet controls all computer hardware",
+        "D": "Cloud services only work through Wi-Fi"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Internet becomes the cloud and users can access and process the data with any device that can connect to the Internet anywhere in the world.."
+    },
+    {
+      "id": "cs9-c5-q53",
+      "question": "In a Public Cloud, resources are owned and operated by:",
+      "options": {
+        "A": "The user organization itself",
+        "B": "A cloud service provider, managed and maintained by them",
+        "C": "A government agency",
+        "D": "A group of private companies jointly"
+      },
+      "correctAnswer": "B",
+      "explanation": "In public cloud, resources are owned and operated by a cloud service provider instead of being installed in-house. Resources are managed and maintained by the cloud service provider.."
+    },
+    {
+      "id": "cs9-c5-q54",
+      "question": "Which cloud model is described as being dedicated to a SINGLE organization?",
+      "options": {
+        "A": "Public Cloud",
+        "B": "Hybrid Cloud",
+        "C": "Community Cloud",
+        "D": "Private Cloud"
+      },
+      "correctAnswer": "D",
+      "explanation": "In private cloud, cloud computing is dedicated to a single organization. The user organization is responsible for the operation and maintenance of infrastructure.."
+    },
+    {
+      "id": "cs9-c5-q55",
+      "question": "Private Cloud gives an organization more control over:",
+      "options": {
+        "A": "Public internet traffic",
+        "B": "Servers and computer network",
+        "C": "Other organizations' data",
+        "D": "Cloud service providers' pricing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Private cloud solution provides more control over servers and computer network. — making it suitable for organizations requiring high security and control."
+    },
+    {
+      "id": "cs9-c5-q56",
+      "question": "Hybrid Cloud is described in as:",
+      "options": {
+        "A": "A cloud model used only by government organizations",
+        "B": "A combination of public and private cloud that allows data and applications to be shared between them",
+        "C": "A cloud service that only stores images and videos",
+        "D": "A model where multiple public clouds are combined"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hybrid Cloud as 'a combination of public and private cloud. This cloud computing model uses technology that allows data and applications to be shared between them'."
+    },
+    {
+      "id": "cs9-c5-q57",
+      "question": "Public Cloud provides high speed connectivity to ensure:",
+      "options": {
+        "A": "Better security over private networks",
+        "B": "Rapid access to applications and data",
+        "C": "Cheaper hardware for organizations",
+        "D": "Physical access to server rooms"
+      },
+      "correctAnswer": "B",
+      "explanation": "Public cloud provides high speed connectivity to ensure rapid access to application and data.."
+    },
+    {
+      "id": "cs9-c5-q58",
+      "question": "Cloud computing is described as an alternative to:",
+      "options": {
+        "A": "Using mobile devices",
+        "B": "In-house data processing",
+        "C": "Traditional GPS systems",
+        "D": "Local area networks"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cloud computing enables businesses and organizations to access databases and cloud applications over the Internet from remote physical servers. It is an alternative to in-house data processing.."
+    },
+    {
+      "id": "cs9-c5-q59",
+      "question": "In a Private Cloud, the user organization is responsible for:",
+      "options": {
+        "A": "Only paying the monthly subscription",
+        "B": "Operation and maintenance of infrastructure including hardware, software, and network",
+        "C": "Managing public internet traffic",
+        "D": "Providing cloud services to other companies"
+      },
+      "correctAnswer": "B",
+      "explanation": "The user organization is responsible for the operation and maintenance of infrastructure (hardware, software, network, etc.).."
+    },
+    {
+      "id": "cs9-c5-q60",
+      "question": "Which of the following services is listed in as part of cloud computing?",
+      "options": {
+        "A": "Physical printer maintenance",
+        "B": "Servers, storage, databases, networking, and software",
+        "C": "Satellite signal management",
+        "D": "On-site IT support only"
+      },
+      "correctAnswer": "B",
+      "explanation": "cloud computing services as: 'servers, storage, databases, networking, software etc.' — delivered over the internet by cloud vendors."
+    },
+    {
+      "id": "cs9-c5-q61",
+      "question": "Which cloud type would BEST suit an organization that needs both security/control and scalability?",
+      "options": {
+        "A": "Public Cloud only",
+        "B": "Private Cloud only",
+        "C": "Hybrid Cloud",
+        "D": "Community Cloud"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hybrid Cloud combines private cloud (for control and security) with public cloud (for scalability and cost-efficiency), making it ideal when both are needed."
+    },
+    {
+      "id": "cs9-c5-q62",
+      "question": "Cloud computing in is described as beneficial to:",
+      "options": {
+        "A": "Only large multinational companies",
+        "B": "Businesses and organizations of all sizes that need to access databases and cloud applications",
+        "C": "Only government institutions",
+        "D": "Only schools and universities"
+      },
+      "correctAnswer": "B",
+      "explanation": "cloud computing 'enables businesses and organizations to access databases and cloud applications over the Internet from remote physical servers'."
+    },
+    {
+      "id": "cs9-c5-q63",
+      "question": "A key advantage of Public Cloud over Private Cloud is that it does NOT require:",
+      "options": {
+        "A": "An internet connection",
+        "B": "In-house installation and management of resources",
+        "C": "High speed data transfer",
+        "D": "Security measures"
+      },
+      "correctAnswer": "B",
+      "explanation": "public cloud resources are 'owned and operated by a cloud service provider instead of being installed in-house on local devices'."
+    },
+    {
+      "id": "cs9-c5-q64",
+      "question": "The three cloud computing models described in are:",
+      "options": {
+        "A": "Local, National, and International Cloud",
+        "B": "Public, Private, and Hybrid Cloud",
+        "C": "Static, Dynamic, and Hybrid Cloud",
+        "D": "Shared, Dedicated, and Distributed Cloud"
+      },
+      "correctAnswer": "B",
+      "explanation": "exactly three cloud models: Public Cloud, Private Cloud, and Hybrid Cloud — each with different ownership, control, and access characteristics."
+    },
+    {
+      "id": "cs9-c5-q65",
+      "question": "Hackers developing powerful AI algorithms to bypass cybersecurity is listed as:",
+      "options": {
+        "A": "A benefit of AI",
+        "B": "A cloud computing risk",
+        "C": "A harm or disadvantage of AI algorithms",
+        "D": "A machine learning application"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hackers can develop powerful AI algorithms to bypass cybersecurity and cause malicious cyberattacks. under the harms/disadvantages of AI algorithms."
+    }
+  ]
+}

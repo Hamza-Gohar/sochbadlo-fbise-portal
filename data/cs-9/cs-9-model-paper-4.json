@@ -1,0 +1,154 @@
+{
+  "subject": "cs-9",
+  "chapterNumber": 11,
+  "chapterTitle": "Federal Board Annual Exam Simulator 04 (Ch 6 & 7)",
+  "slug": "cs-9-model-paper-4",
+  "description": "Authentic 12-mark Section A Federal Board exam simulator covering Impacts of Computing, Cybersecurity, and Entrepreneurship by Lecturer Sabahat Ul Hasan.",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "id": "cs9-mp4-q1",
+      "question": "Which of the following is an example of unethical behavior online?",
+      "options": {
+        "A": "Sharing positive messages on social media",
+        "B": "Cyberbullying",
+        "C": "Helping a friend with home task",
+        "D": "Respecting others' privacy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cyberbullying—using digital communication to harass, threaten, or humiliate individuals—violates fundamental cyber ethics and legal frameworks."
+    },
+    {
+      "id": "cs9-mp4-q2",
+      "question": "What does privacy mean in the context of computer ethics?",
+      "options": {
+        "A": "Sharing personal information freely online",
+        "B": "Hacking into others' accounts",
+        "C": "Ignoring security measures",
+        "D": "Keeping personal information confidential and secure"
+      },
+      "correctAnswer": "D",
+      "explanation": "Information privacy protects individuals' rights to control how their personal data is collected, stored, shared, and kept strictly confidential."
+    },
+    {
+      "id": "cs9-mp4-q3",
+      "question": "What does innovation mean in entrepreneurship?",
+      "options": {
+        "A": "Copying existing ideas",
+        "B": "Following others’ ideas",
+        "C": "Creating something new or improving existing products or services",
+        "D": "Investing money in the stock market"
+      },
+      "correctAnswer": "C",
+      "explanation": "Innovation is the development of novel solutions, unique business models, or substantial improvements to existing products and services to satisfy market needs."
+    },
+    {
+      "id": "cs9-mp4-q4",
+      "question": "Malicious actors use phishing primarily for:",
+      "options": {
+        "A": "Network tracking",
+        "B": "Data backup",
+        "C": "Stealing sensitive data",
+        "D": "Data encryption"
+      },
+      "correctAnswer": "C",
+      "explanation": "Phishing deceives targets into clicking malicious links or submitting sensitive information (such as passwords, credit card numbers, and banking details)."
+    },
+    {
+      "id": "cs9-mp4-q5",
+      "question": "Which of the following describes the nature of spyware?",
+      "options": {
+        "A": "Malware that secretly monitors user activities",
+        "B": "Legitimate security management tool",
+        "C": "Antivirus protection software",
+        "D": "Hardware cooling component"
+      },
+      "correctAnswer": "A",
+      "explanation": "Spyware is malicious software (malware) installed stealthily on a computer to monitor keystrokes, track browsing activity, and harvest sensitive credentials."
+    },
+    {
+      "id": "cs9-mp4-q6",
+      "question": "What is the primary destructive purpose of malware?",
+      "options": {
+        "A": "Improve system performance",
+        "B": "Harm or compromise computers",
+        "C": "Provide free system optimization tools",
+        "D": "Perform data backups"
+      },
+      "correctAnswer": "B",
+      "explanation": "Malware (malicious software) is specifically created to disrupt computer systems, steal data, damage operating systems, or gain illicit access."
+    },
+    {
+      "id": "cs9-mp4-q7",
+      "question": "Which of the following is an example of appropriate and legal use of software?",
+      "options": {
+        "A": "Downloading and using cracked software",
+        "B": "Sharing single software licenses with multiple users",
+        "C": "Regularly updating software versions with legitimate licenses",
+        "D": "Bypassing activation mechanisms"
+      },
+      "correctAnswer": "C",
+      "explanation": "Keeping legitimate licensed software updated protects against vulnerabilities and respects intellectual property rights and End User License Agreements."
+    },
+    {
+      "id": "cs9-mp4-q8",
+      "question": "How does computing contribute to modern economic practices?",
+      "options": {
+        "A": "It increases manual labor jobs",
+        "B": "It has no impact on job markets",
+        "C": "It primarily benefits large corporations, neglecting small businesses",
+        "D": "It automates tasks, displacing repetitive roles while creating new high-skilled opportunities"
+      },
+      "correctAnswer": "D",
+      "explanation": "Computing drives economic transformation through productivity automation, simultaneously transforming labor demands and sparking high-value tech industries."
+    },
+    {
+      "id": "cs9-mp4-q9",
+      "question": "An entrepreneur who enters business to introduce improved products through novel inventions and discoveries is classified as a/an:",
+      "options": {
+        "A": "Technical entrepreneur",
+        "B": "Innovative entrepreneur",
+        "C": "Novice entrepreneur",
+        "D": "Replication entrepreneur"
+      },
+      "correctAnswer": "B",
+      "explanation": "An innovative entrepreneur introduces breakthrough inventions, novel production methodologies, or revolutionary product features to market."
+    },
+    {
+      "id": "cs9-mp4-q10",
+      "question": "Which of the following statements is true about a business plan?",
+      "options": {
+        "A": "A document outlining the goals, strategies, and operational plans of a business",
+        "B": "A simple list of potential customers",
+        "C": "An end-of-year tax filing statement",
+        "D": "A promotional marketing brochure"
+      },
+      "correctAnswer": "A",
+      "explanation": "A business plan is a comprehensive formal document specifying commercial objectives, target market, operational strategies, and financial forecasts."
+    },
+    {
+      "id": "cs9-mp4-q11",
+      "question": "Successful tech entrepreneurship tends to ______ the Gross National Product (GNP):",
+      "options": {
+        "A": "Increase",
+        "B": "Decrease",
+        "C": "Neither increase nor decrease",
+        "D": "Stagnate"
+      },
+      "correctAnswer": "A",
+      "explanation": "By launching high-value enterprises, generating export revenue, and producing goods and services, entrepreneurship significantly elevates national GNP."
+    },
+    {
+      "id": "cs9-mp4-q12",
+      "question": "Which of the following are recognized core functions of an entrepreneur?",
+      "options": {
+        "A": "Risk bearing",
+        "B": "Organizing and managing resources",
+        "C": "Innovation",
+        "D": "All of the above (Risk bearing, organizing & innovation)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Economist Joseph Schumpeter and classic management theory define the entrepreneur's triple mandate as risk assumption, resource organization, and innovation."
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "subject": "cs-9",
+  "chapterNumber": 8,
+  "chapterTitle": "Federal Board Annual Exam Simulator 01 (Ch 1 & 2)",
+  "slug": "cs-9-model-paper-1",
+  "description": "Authentic 12-mark Section A Federal Board exam simulator covering Computer Systems and Computational Thinking & Algorithms by Lecturer Sabahat Ul Hasan.",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "id": "cs9-mp1-q1",
+      "question": "Which of the following memory type is considered as volatile?",
+      "options": {
+        "A": "DVD",
+        "B": "RAM",
+        "C": "ROM",
+        "D": "Memory card"
+      },
+      "correctAnswer": "B",
+      "explanation": "RAM (Random Access Memory) is volatile memory that requires continuous electric power to retain data; turning off power wipes its contents."
+    },
+    {
+      "id": "cs9-mp1-q2",
+      "question": "Which of the following is system software?",
+      "options": {
+        "A": "MS Word",
+        "B": "Google Chrome",
+        "C": "Windows 10",
+        "D": "VLC Player"
+      },
+      "correctAnswer": "C",
+      "explanation": "Windows 10 is an Operating System (System Software) that directly manages computer hardware and system resources."
+    },
+    {
+      "id": "cs9-mp1-q3",
+      "question": "What is the correct order of the instruction cycle?",
+      "options": {
+        "A": "Decode → Fetch → Execute",
+        "B": "Fetch → Decode → Execute",
+        "C": "Decode → Execute → Fetch",
+        "D": "Execute → Decode → Fetch"
+      },
+      "correctAnswer": "B",
+      "explanation": "The fundamental CPU instruction cycle consists of Fetching the instruction from RAM, Decoding it in the Control Unit, and Executing it via ALU/registers."
+    },
+    {
+      "id": "cs9-mp1-q4",
+      "question": "Counting principle problems could be easily understood using:",
+      "options": {
+        "A": "Graph representation",
+        "B": "Tree representation",
+        "C": "Clock representation",
+        "D": "Map representation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tree diagrams (tree representations) systematically branch out combinations, making the multiplication counting principle intuitive to visualize."
+    },
+    {
+      "id": "cs9-mp1-q5",
+      "question": "What is the primary function of a router?",
+      "options": {
+        "A": "Connect different networks",
+        "B": "Display output",
+        "C": "Store programs",
+        "D": "Translate protocols"
+      },
+      "correctAnswer": "A",
+      "explanation": "A router operates at the network layer to route data packets between disparate computer networks (such as connecting a LAN to the Internet)."
+    },
+    {
+      "id": "cs9-mp1-q6",
+      "question": "In packet switching, data is:",
+      "options": {
+        "A": "Sent over a dedicated path",
+        "B": "Sent as a single large file",
+        "C": "Not delivered reliably",
+        "D": "Broken into packets and sent independently"
+      },
+      "correctAnswer": "D",
+      "explanation": "Packet switching breaks data into discrete, addressed packets transmitted independently across optimal network paths before reassembly at destination."
+    },
+    {
+      "id": "cs9-mp1-q7",
+      "question": "Circuit switching is commonly used in:",
+      "options": {
+        "A": "Telephone networks",
+        "B": "Emails",
+        "C": "Web browsing",
+        "D": "Streaming videos"
+      },
+      "correctAnswer": "A",
+      "explanation": "Traditional landline telephone networks (PSTN) establish a dedicated, continuous physical circuit for the entire conversation duration."
+    },
+    {
+      "id": "cs9-mp1-q8",
+      "question": "What computing machine could take input from punch cards and sort data in memory?",
+      "options": {
+        "A": "Abacus",
+        "B": "Analytical engine",
+        "C": "Tabulating machine",
+        "D": "Differential analyzer"
+      },
+      "correctAnswer": "C",
+      "explanation": "Herman Hollerith invented the electromechanical Tabulating Machine in 1890 using punch cards to process census data, founding the predecessor of IBM."
+    },
+    {
+      "id": "cs9-mp1-q9",
+      "question": "Which component of data communication converts electrical signal into suitable form of transmission?",
+      "options": {
+        "A": "Sender",
+        "B": "Message",
+        "C": "Protocol",
+        "D": "Medium"
+      },
+      "correctAnswer": "A",
+      "explanation": "The sender (transmitter/modem) encodes information and converts electrical signals into appropriate analog or digital signals for physical transmission."
+    },
+    {
+      "id": "cs9-mp1-q10",
+      "question": "Which of the following problems is an example of a complex problem?",
+      "options": {
+        "A": "Finding the sum of two numbers",
+        "B": "Memorizing multiplication table",
+        "C": "Identifying prime numbers between 1 and 100",
+        "D": "Figuring out how to organize a fundraising event"
+      },
+      "correctAnswer": "D",
+      "explanation": "Organizing a fundraising event involves numerous interdependent variables, dynamic human behavior, logistics, and constraints, qualifying as a complex problem."
+    },
+    {
+      "id": "cs9-mp1-q11",
+      "question": "Which shapes are used to represent concepts in a concept map?",
+      "options": {
+        "A": "Squares & Triangles",
+        "B": "Stars & Polygons",
+        "C": "Rectangles & Hexagons",
+        "D": "Boxes & Circles"
+      },
+      "correctAnswer": "D",
+      "explanation": "In standard concept mapping conventions, core concepts are enclosed inside boxes, ovals, or circles connected by labeled linking propositions."
+    },
+    {
+      "id": "cs9-mp1-q12",
+      "question": "You have 5 different shirts and 4 different pants. How many different outfits can you make by choosing one shirt and one pair of pants?",
+      "options": {
+        "A": "9",
+        "B": "20",
+        "C": "15",
+        "D": "18"
+      },
+      "correctAnswer": "B",
+      "explanation": "Applying the multiplication principle of counting: 5 shirt options × 4 pant options = 20 distinct possible outfit combinations."
+    }
+  ]
+}

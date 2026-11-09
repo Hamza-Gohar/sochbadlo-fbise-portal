@@ -1,0 +1,610 @@
+{
+  "subject": "cs-9",
+  "chapterNumber": 6,
+  "chapterTitle": "Unit 06: Impacts of Computing & Cyber Ethics",
+  "slug": "cs-9-chapter-6",
+  "description": "Cybersecurity, cyber threats (malware, phishing, pharming), digital ethics, software licensing, intellectual property, privacy, and societal impacts.",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": "cs9-c6-q1",
+      "question": "A phishing attack is best defined as:",
+      "options": {
+        "A": "A computer virus that deletes files",
+        "B": "Tricking users into revealing sensitive information via fake emails/websites",
+        "C": "Unauthorized access to a network",
+        "D": "Software that slows down a computer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Phishing involves deceptive emails or websites that impersonate legitimate entities to steal usernames, passwords, and financial information."
+    },
+    {
+      "id": "cs9-c6-q2",
+      "question": "Which of the following makes a password STRONG?",
+      "options": {
+        "A": "Using your birth date",
+        "B": "Using only lowercase letters",
+        "C": "A mix of uppercase, lowercase, numbers, and special characters",
+        "D": "Using your name"
+      },
+      "correctAnswer": "C",
+      "explanation": "Strong passwords combine uppercase/lowercase letters, numbers, and symbols, making them difficult to guess or crack by brute force."
+    },
+    {
+      "id": "cs9-c6-q3",
+      "question": "To encrypt a public Wi-Fi connection, a user should use:",
+      "options": {
+        "A": "A firewall",
+        "B": "VPN (Virtual Private Network)",
+        "C": "Two-factor authentication",
+        "D": "Antivirus software"
+      },
+      "correctAnswer": "B",
+      "explanation": "A VPN encrypts your internet connection even on unsecured public Wi-Fi, protecting your data from interception by hackers."
+    },
+    {
+      "id": "cs9-c6-q4",
+      "question": "Which is an example of irresponsible software use?",
+      "options": {
+        "A": "Using licensed antivirus software",
+        "B": "Using a program to hack into someone's computer",
+        "C": "Updating software regularly",
+        "D": "Reading software license terms"
+      },
+      "correctAnswer": "B",
+      "explanation": "Using software to gain unauthorized access to another computer is illegal, unethical, and a serious irresponsible use of technology."
+    },
+    {
+      "id": "cs9-c6-q5",
+      "question": "Sensible hardware upgrading means:",
+      "options": {
+        "A": "Always buying the newest version as soon as it is released",
+        "B": "Upgrading only when it provides real improvement or security benefits",
+        "C": "Never upgrading hardware",
+        "D": "Upgrading all hardware simultaneously"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sensible upgrading avoids unnecessary waste. Upgrade when there is a genuine functional benefit — not just because a new version exists."
+    },
+    {
+      "id": "cs9-c6-q6",
+      "question": "Which URL prefix indicates a SECURE website for online shopping?",
+      "options": {
+        "A": "http://",
+        "B": "ftp://",
+        "C": "https://",
+        "D": "www://"
+      },
+      "correctAnswer": "C",
+      "explanation": "HTTPS indicates a secure, encrypted connection. The 's' stands for secure — always check for https:// and a padlock symbol when shopping online."
+    },
+    {
+      "id": "cs9-c6-q7",
+      "question": "Intellectual Property includes:",
+      "options": {
+        "A": "Physical computer hardware",
+        "B": "Inventions, designs, and creative works of the mind",
+        "C": "Computer memory chips",
+        "D": "Network cables"
+      },
+      "correctAnswer": "B",
+      "explanation": "Intellectual Property refers to creations of the mind — inventions (patents), artistic works (copyright), and brand identifiers (trademarks)."
+    },
+    {
+      "id": "cs9-c6-q8",
+      "question": "Which of the following best describes software piracy?",
+      "options": {
+        "A": "Testing software before purchasing",
+        "B": "Using free open-source software",
+        "C": "Unauthorized copying or use of software without proper licensing",
+        "D": "Updating software without permission"
+      },
+      "correctAnswer": "C",
+      "explanation": "Software piracy includes downloading cracked versions, copying without licenses, and distributing software illegally — all violating copyright."
+    },
+    {
+      "id": "cs9-c6-q9",
+      "question": "Two-factor authentication improves security by:",
+      "options": {
+        "A": "Making passwords longer automatically",
+        "B": "Requiring a second verification step beyond just a password",
+        "C": "Encrypting all emails",
+        "D": "Blocking all foreign IP addresses"
+      },
+      "correctAnswer": "B",
+      "explanation": "2FA requires something you know (password) + something you have (OTP/device) — making unauthorized access much harder even if password is stolen."
+    },
+    {
+      "id": "cs9-c6-q10",
+      "question": "Cookies on websites are used to:",
+      "options": {
+        "A": "Track user browsing habits and store preferences for personalized experience",
+        "B": "Delete user data after each session",
+        "C": "Block advertisements",
+        "D": "Encrypt user passwords"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cookies are small text files stored on user devices that save login info, preferences, and browsing data to personalize the user experience. ★ Additional Questions — Topics 6.1 to 6.4"
+    },
+    {
+      "id": "cs9-c6-q11",
+      "question": "The main focus of computer safety is safeguarding a computer system's:",
+      "options": {
+        "A": "Internet speed and bandwidth",
+        "B": "Hardware and software components from loss and cybersecurity risks",
+        "C": "Screen resolution and display settings",
+        "D": "User interface design"
+      },
+      "correctAnswer": "B",
+      "explanation": "The main focus of computer safety is safeguarding a computer system.s hardware and software components. It entails providing protection from material loss, data loss, and cybersecurity risks.'"
+    },
+    {
+      "id": "cs9-c6-q12",
+      "question": "Which of the following is a recommended action for keeping your system updated?",
+      "options": {
+        "A": "Only update when the computer is running slowly",
+        "B": "Consistently update the operating system, software, and antivirus software",
+        "C": "Avoid updates as they change how the computer works",
+        "D": "Update only the antivirus, not the operating system"
+      },
+      "correctAnswer": "B",
+      "explanation": "Consistently update the computer operating system, software, and antivirus software. Important security areas that protect the computer system from flaws are frequently included in updates."
+    },
+    {
+      "id": "cs9-c6-q13",
+      "question": "A good password should NOT use:",
+      "options": {
+        "A": "Special characters like @, #, $",
+        "B": "Numbers and uppercase letters",
+        "C": "Names or birthdays that can be easily guessed",
+        "D": "A mix of letters and symbols"
+      },
+      "correctAnswer": "C",
+      "explanation": "Do not use data that can be easily guessed, such as names or birthdays. Strong passwords use a mix of uppercase, lowercase, numbers, and special characters."
+    },
+    {
+      "id": "cs9-c6-q14",
+      "question": "When using public Wi-Fi, you should AVOID:",
+      "options": {
+        "A": "Using a VPN for encryption",
+        "B": "Browsing general news websites",
+        "C": "Accessing private data or doing online banking",
+        "D": "Updating your antivirus software"
+      },
+      "correctAnswer": "C",
+      "explanation": "When using public Wi-Fi, avoid accessing private data or doing financial activities online. Public Wi- Fi is more susceptible to hackers."
+    },
+    {
+      "id": "cs9-c6-q15",
+      "question": "Files should be downloaded only from:",
+      "options": {
+        "A": "Any website that appears in search results",
+        "B": "Peer-to-peer sharing networks",
+        "C": "Reliable and trusted websites",
+        "D": "Email attachments from unknown senders"
+      },
+      "correctAnswer": "C",
+      "explanation": "Download apps, programs, and files only from reliable websites. Downloading files from untrusted websites should be avoided as they can include viruses or malware."
+    },
+    {
+      "id": "cs9-c6-q16",
+      "question": "Backing up data means:",
+      "options": {
+        "A": "Deleting old files to free up space",
+        "B": "Saving copies of important files in a safe place like an external hard drive or cloud",
+        "C": "Encrypting files on the main hard drive",
+        "D": "Moving files from one folder to another"
+      },
+      "correctAnswer": "B",
+      "explanation": "backups ensure that 'even if your computer stops working or something unexpected happens, you would not lose your important data.'"
+    },
+    {
+      "id": "cs9-c6-q17",
+      "question": "Extending the lifespan of hardware is described in as an ethical way to:",
+      "options": {
+        "A": "Increase processing speed",
+        "B": "Reduce the cost of software licenses",
+        "C": "Lessen technological waste",
+        "D": "Improve internet connectivity"
+      },
+      "correctAnswer": "C",
+      "explanation": "An ethical way to lessen technological waste is to extend the life of devices. This can be achieved by giving gadgets the correct care, preventing physical harm, and keeping them free of dust."
+    },
+    {
+      "id": "cs9-c6-q18",
+      "question": "Which of the following is listed as an irresponsible use of software in ?",
+      "options": {
+        "A": "Using antivirus software to scan files",
+        "B": "Using licensed operating systems",
+        "C": "Using a program to disseminate malware",
+        "D": "Reading software license agreements"
+      },
+      "correctAnswer": "C",
+      "explanation": "explicitly lists 'using a program to disseminate malware' as an irresponsible use of software, alongside hacking and cyberbullying."
+    },
+    {
+      "id": "cs9-c6-q19",
+      "question": "The safe use of digital platforms is defined in as:",
+      "options": {
+        "A": "Using platforms to download free software",
+        "B": "The practice of using platforms in a way that protects your privacy, security, and well- being",
+        "C": "Accessing all social media without restriction",
+        "D": "Sharing all personal information publicly"
+      },
+      "correctAnswer": "B",
+      "explanation": "it as: 'The safe use of digital platforms is the practice of using them in a way that protects your privacy, security, and well-being.'"
+    },
+    {
+      "id": "cs9-c6-q20",
+      "question": "When conducting data searches online, you should avoid entering:",
+      "options": {
+        "A": "General keywords about topics of interest",
+        "B": "Names of books or authors",
+        "C": "Sensitive personal information like Social Security numbers or credit card details",
+        "D": "Queries about news or current events"
+      },
+      "correctAnswer": "C",
+      "explanation": "Avoid entering sensitive personal information (e.g., Social Security numbers, credit card details) into search engines."
+    },
+    {
+      "id": "cs9-c6-q21",
+      "question": "The IT authority mentioned in that restricts certain websites in Pakistan is:",
+      "options": {
+        "A": "PEMRA",
+        "B": "FBR",
+        "C": "PTA (Pakistan Telecommunication Authority)",
+        "D": "NADRA"
+      },
+      "correctAnswer": "C",
+      "explanation": "specifically mentions: 'Do not use hardware to visit websites that have been restricted by the IT authorities, such as PTA in Pakistan.'"
+    },
+    {
+      "id": "cs9-c6-q22",
+      "question": "Information privacy refers to:",
+      "options": {
+        "A": "Using firewalls to block hackers",
+        "B": "Keeping personal information safe and not letting unauthorized people access it",
+        "C": "Encrypting all files on a computer",
+        "D": "Installing antivirus software on all devices"
+      },
+      "correctAnswer": "B",
+      "explanation": "information privacy as: 'Keeping personal information safe and not letting unauthorized people access it.'"
+    },
+    {
+      "id": "cs9-c6-q23",
+      "question": "System security's primary goal is to ensure which THREE things?",
+      "options": {
+        "A": "Speed, storage, and performance",
+        "B": "Confidentiality, integrity, and availability of information and resources",
+        "C": "Backup, recovery, and redundancy",
+        "D": "Accessibility, usability, and affordability"
+      },
+      "correctAnswer": "B",
+      "explanation": "The primary goal of system security is to ensure the confidentiality, integrity, and availability of information and resources."
+    },
+    {
+      "id": "cs9-c6-q24",
+      "question": "Which of the following is given as an example of system security in ?",
+      "options": {
+        "A": "Cookies and shareware",
+        "B": "Spam filters and pharming",
+        "C": "Firewall, encryption, antivirus software, and access control",
+        "D": "Freeware and open-source software"
+      },
+      "correctAnswer": "C",
+      "explanation": "'firewall, encryption, antivirus software and access control' as examples of system security measures."
+    },
+    {
+      "id": "cs9-c6-q25",
+      "question": "Protection of individual rights means:",
+      "options": {
+        "A": "Giving everyone equal access to all websites",
+        "B": "Safeguarding a person's personal information, freedom, and privacy from misuse without consent",
+        "C": "Allowing government agencies to access all personal data",
+        "D": "Sharing personal information publicly for transparency"
+      },
+      "correctAnswer": "B",
+      "explanation": "protection of individual rights as 'safeguarding a person's personal information, freedom, and privacy. It ensures that no one can misuse or share their data without permission.' Topic 6.5 to 6.11 — Computing Innovation, Malware, Fake News & IP Protection"
+    },
+    {
+      "id": "cs9-c6-q26",
+      "question": "Ransomware is a type of malware that:",
+      "options": {
+        "A": "Tracks user activity secretly",
+        "B": "Locks/encrypts victim's files and demands payment for release",
+        "C": "Redirects websites to fake pages",
+        "D": "Sends spam emails"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ransomware encrypts a victim's files making them inaccessible, then demands a ransom payment (usually cryptocurrency) to restore access."
+    },
+    {
+      "id": "cs9-c6-q27",
+      "question": "Pharming differs from phishing in that:",
+      "options": {
+        "A": "Pharming requires users to click fake links in emails",
+        "B": "Pharming redirects users to fake websites without them clicking a link",
+        "C": "Pharming only targets mobile devices",
+        "D": "Pharming steals passwords through phone calls"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pharming automatically redirects web traffic to fraudulent sites by corrupting DNS records — no deceptive email/link click needed."
+    },
+    {
+      "id": "cs9-c6-q28",
+      "question": "Disinformation is DIFFERENT from fake news because:",
+      "options": {
+        "A": "Disinformation is spread accidentally",
+        "B": "Disinformation is deliberately spread with intent to deceive",
+        "C": "Fake news is always political",
+        "D": "They are exactly the same thing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Disinformation is intentionally false content meant to deceive. Fake news may be misleading but not necessarily created with deliberate harmful intent."
+    },
+    {
+      "id": "cs9-c6-q29",
+      "question": "Spyware is software that:",
+      "options": {
+        "A": "Protects your computer from viruses",
+        "B": "Secretly collects and sends user information to third parties",
+        "C": "Blocks spam emails",
+        "D": "Manages file backups"
+      },
+      "correctAnswer": "B",
+      "explanation": "Spyware secretly monitors user activity, collects personal data, and transmits it to advertisers or malicious actors without user consent."
+    },
+    {
+      "id": "cs9-c6-q30",
+      "question": "A patent provides its holder with:",
+      "options": {
+        "A": "Lifetime rights over creative works",
+        "B": "Exclusive rights to make/sell an invention for about 20 years",
+        "C": "Rights to use others' brand logos",
+        "D": "Protection for artistic works only"
+      },
+      "correctAnswer": "B",
+      "explanation": "A patent grants exclusive rights to an inventor for approximately 20 years, preventing others from making, using, or selling the invention without permission."
+    },
+    {
+      "id": "cs9-c6-q31",
+      "question": "A trademark is best exemplified by:",
+      "options": {
+        "A": "A novel written by an author",
+        "B": "A new software algorithm",
+        "C": "The Apple logo identifying Apple products",
+        "D": "A medical patent"
+      },
+      "correctAnswer": "C",
+      "explanation": "A trademark is a recognizable sign/symbol that distinguishes a company's products/services. The Apple logo is a globally recognized trademark."
+    },
+    {
+      "id": "cs9-c6-q32",
+      "question": "Copyright automatically protects:",
+      "options": {
+        "A": "An inventor's gadget design",
+        "B": "An author's original book or creative work upon creation",
+        "C": "A company's brand name",
+        "D": "A software patent"
+      },
+      "correctAnswer": "B",
+      "explanation": "Copyright automatically applies to original creative works (books, music, art, code) as soon as they are created — no registration required."
+    },
+    {
+      "id": "cs9-c6-q33",
+      "question": "Which emerging technology enables virtual reality experiences?",
+      "options": {
+        "A": "Cloud Computing",
+        "B": "VR (Virtual Reality)",
+        "C": "Blockchain",
+        "D": "NLP"
+      },
+      "correctAnswer": "B",
+      "explanation": "VR is an emerging computing technology that creates immersive simulated environments used in gaming, training, therapy, and education."
+    },
+    {
+      "id": "cs9-c6-q34",
+      "question": "The economic impact of computing includes:",
+      "options": {
+        "A": "Reduction in all types of jobs",
+        "B": "Creation of new industries like software development and e-commerce",
+        "C": "Elimination of global trade",
+        "D": "Reduction in efficiency"
+      },
+      "correctAnswer": "B",
+      "explanation": "Computing has created massive new industries (tech, software, e-commerce) and improved efficiency — though it has also transformed some traditional jobs."
+    },
+    {
+      "id": "cs9-c6-q35",
+      "question": "Cyberbullying on social media platforms refers to:",
+      "options": {
+        "A": "Hacking into social media accounts",
+        "B": "Harassing, threatening, or humiliating individuals online",
+        "C": "Spreading fake news only",
+        "D": "Unauthorized data collection"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cyberbullying involves using digital platforms to repeatedly harass, threaten, or humiliate individuals — with serious psychological consequences for victims. ★ Additional Questions — Topics 6.5 to 6.11"
+    },
+    {
+      "id": "cs9-c6-q36",
+      "question": "Malware is defined in as:",
+      "options": {
+        "A": "Software that speeds up computer performance",
+        "B": "Malicious software designed to harm or exploit computers or networks",
+        "C": "A type of antivirus program",
+        "D": "Software used for data backup"
+      },
+      "correctAnswer": "B",
+      "explanation": "malware as 'malicious software designed to harm or exploit computers or networks.' Examples include computer virus, ransomware, and trojan horse."
+    },
+    {
+      "id": "cs9-c6-q37",
+      "question": "Hacking is defined in as:",
+      "options": {
+        "A": "Writing code to build new software",
+        "B": "Unauthorized access or manipulation of computer systems or networks",
+        "C": "Creating phishing emails",
+        "D": "Installing malware through downloads"
+      },
+      "correctAnswer": "B",
+      "explanation": "hacking as 'unauthorized access or manipulation of computer systems or networks.' Example: a person gaining unauthorized access to a company's database."
+    },
+    {
+      "id": "cs9-c6-q38",
+      "question": "Spam is best described as:",
+      "options": {
+        "A": "Malware that encrypts files",
+        "B": "Software that tracks user activity",
+        "C": "Unsolicited and often irrelevant messages sent over the internet, typically via email",
+        "D": "A type of phishing website"
+      },
+      "correctAnswer": "C",
+      "explanation": "spam as 'unsolicited and often irrelevant or inappropriate messages sent over the internet, typically via email.' Example: unwanted promotional emails."
+    },
+    {
+      "id": "cs9-c6-q39",
+      "question": "'s example of pharming is:",
+      "options": {
+        "A": "A fake email from a bank asking for login credentials",
+        "B": "A virus that deletes files from your hard drive",
+        "C": "Users intending to visit a legitimate banking site being redirected to a fraudulent site",
+        "D": "Spam messages in an email inbox"
+      },
+      "correctAnswer": "C",
+      "explanation": "this exact example of pharming: 'Users intending to visit a legitimate banking site are redirected to a fraudulent site' without clicking any suspicious link."
+    },
+    {
+      "id": "cs9-c6-q40",
+      "question": "Freeware is described in as:",
+      "options": {
+        "A": "Software distributed on a trial basis",
+        "B": "Software with publicly accessible source code",
+        "C": "Software that is free to use without any payment",
+        "D": "Software requiring a commercial license"
+      },
+      "correctAnswer": "C",
+      "explanation": "freeware as 'software that is free to use without any payment.' The example given is Mozilla Firefox, a free web browser."
+    },
+    {
+      "id": "cs9-c6-q41",
+      "question": "Shareware differs from freeware in that shareware is:",
+      "options": {
+        "A": "Completely free with no restrictions",
+        "B": "Open-source software",
+        "C": "Distributed on a trial basis with the option to purchase for full functionality",
+        "D": "Software that requires a government license"
+      },
+      "correctAnswer": "C",
+      "explanation": "shareware as 'software distributed on a trial basis with the option to purchase for full functionality.' The example given is WinRAR."
+    },
+    {
+      "id": "cs9-c6-q42",
+      "question": "Open source software is software that:",
+      "options": {
+        "A": "Can only be used by the developer who created it",
+        "B": "Must be purchased before use",
+        "C": "Has publicly accessible source code that anyone can view, modify, and distribute",
+        "D": "Is only available for Linux users"
+      },
+      "correctAnswer": "C",
+      "explanation": "open source as 'software with a publicly accessible source code that anyone can view, modify, and distribute.' Example: Linux operating system."
+    },
+    {
+      "id": "cs9-c6-q43",
+      "question": "Computing innovation in improvements to:",
+      "options": {
+        "A": "Only hardware components",
+        "B": "Only software applications",
+        "C": "Computer hardware, software, networking, and applying technology in daily life and industries",
+        "D": "Only the internet and cloud services"
+      },
+      "correctAnswer": "C",
+      "explanation": "computing innovation includes 'improvements to computer hardware, software, networking, and using computer technology in different parts of our daily lives and industries.'"
+    },
+    {
+      "id": "cs9-c6-q44",
+      "question": "Human-Computer Interaction (HCI) innovations focus on:",
+      "options": {
+        "A": "Building faster processors",
+        "B": "Improving ways humans interact with computers, including user interfaces and accessibility",
+        "C": "Reducing the cost of computer hardware",
+        "D": "Developing new programming languages"
+      },
+      "correctAnswer": "B",
+      "explanation": "Innovations in HCI focus on improving the ways humans interact with computers and digital systems, including user interfaces, accessibility features, and integration of NLP and gesture recognition."
+    },
+    {
+      "id": "cs9-c6-q45",
+      "question": "Which of the following is listed as an emerging technology in ?",
+      "options": {
+        "A": "HTML and CSS",
+        "B": "Spreadsheets and word processors",
+        "C": "Blockchain, quantum computing, VR, and IoT",
+        "D": "Antivirus software and firewalls"
+      },
+      "correctAnswer": "C",
+      "explanation": "'artificial intelligence, blockchain, quantum computing, virtual reality (VR), and the Internet of Things (IoT)' as emerging technologies pushing computing boundaries."
+    },
+    {
+      "id": "cs9-c6-q46",
+      "question": "Digital addiction is listed in as a harmful effect of:",
+      "options": {
+        "A": "Using antivirus software",
+        "B": "Computing innovation, especially smartphones and social media",
+        "C": "Installing system updates",
+        "D": "Using open-source software"
+      },
+      "correctAnswer": "B",
+      "explanation": "The widespread use of smartphones, social media, and online entertainment has led to concerns about digital addiction and its impact on mental health."
+    },
+    {
+      "id": "cs9-c6-q47",
+      "question": "The environmental impact of computing devices includes:",
+      "options": {
+        "A": "Reducing greenhouse gas emissions",
+        "B": "Eliminating electronic waste",
+        "C": "Emission of greenhouse gases and production of electronic waste",
+        "D": "Improving air quality through automation"
+      },
+      "correctAnswer": "C",
+      "explanation": "The production and use of computing devices has a significant environmental impact, including the emission of greenhouse gases and the production of electronic waste."
+    },
+    {
+      "id": "cs9-c6-q48",
+      "question": "The cultural impact of computing includes:",
+      "options": {
+        "A": "Reducing global communication",
+        "B": "Social media platforms connecting cultures globally and promoting diversity",
+        "C": "Eliminating local traditions",
+        "D": "Making all cultures identical worldwide"
+      },
+      "correctAnswer": "B",
+      "explanation": "The cultural impact of computing has changed how people interact, share ideas, and express themselves. Social media platforms connect cultures globally, promoting diversity and understanding."
+    },
+    {
+      "id": "cs9-c6-q49",
+      "question": "The globalization impact of computing means:",
+      "options": {
+        "A": "Isolating countries from international trade",
+        "B": "Enabling instant communication and supporting international trade through e-commerce",
+        "C": "Reducing the use of the internet globally",
+        "D": "Making businesses operate only locally"
+      },
+      "correctAnswer": "B",
+      "explanation": "The globalization impact of computing connects people and businesses worldwide. It enables instant communication, making global collaboration easier and supports international trade through e-commerce."
+    },
+    {
+      "id": "cs9-c6-q50",
+      "question": "Prevention of unauthorized use protects:",
+      "options": {
+        "A": "Only government databases",
+        "B": "Both privacy and intellectual property by stopping use of ideas or information without permission",
+        "C": "Only physical hardware from theft",
+        "D": "Only software from being deleted"
+      },
+      "correctAnswer": "B",
+      "explanation": "prevention of unauthorized use as 'stopping people from using something like ideas, inventions, or personal information without the permission of the rightful owner. This protects both privacy and intellectual property.'"
+    }
+  ]
+}

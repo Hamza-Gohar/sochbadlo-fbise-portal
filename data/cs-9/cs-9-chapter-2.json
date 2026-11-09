@@ -1,0 +1,610 @@
+{
+  "subject": "cs-9",
+  "chapterNumber": 2,
+  "chapterTitle": "Unit 02: Computational Thinking & Algorithms",
+  "slug": "cs-9-chapter-2",
+  "description": "Problem analysis, 4-step problem solving, decomposition, pattern recognition, abstraction, algorithm design, flowcharts, and the IPO model.",
+  "totalQuestions": 50,
+  "questions": [
+    {
+      "id": "cs9-c2-q1",
+      "question": "A problem that requires a Yes/No answer is called a:",
+      "options": {
+        "A": "Search Problem",
+        "B": "Counting Problem",
+        "C": "Decision Problem",
+        "D": "Sorting Problem"
+      },
+      "correctAnswer": "C",
+      "explanation": "Decision Problems require binary responses (Yes/No, True/False). Example: Is a number prime?"
+    },
+    {
+      "id": "cs9-c2-q2",
+      "question": "Finding the shortest route between two cities on a map represents which type of computing problem?",
+      "options": {
+        "A": "Counting Problem",
+        "B": "Decision Problem",
+        "C": "Optimization Problem",
+        "D": "Search Problem"
+      },
+      "correctAnswer": "D",
+      "explanation": "Search Problems involve finding a solution among a set of possible options, such as finding a path between nodes in a graph."
+    },
+    {
+      "id": "cs9-c2-q3",
+      "question": "In a counting problem, if there are 3 shirt choices and 4 pant choices, how many unique outfits can be made?",
+      "options": {
+        "A": "7",
+        "B": "10",
+        "C": "12",
+        "D": "16"
+      },
+      "correctAnswer": "C",
+      "explanation": "Counting Problems use the multiplication principle: 3 × 4 = 12 unique combinations."
+    },
+    {
+      "id": "cs9-c2-q4",
+      "question": "Which step comes FIRST in the 4-step problem-solving process?",
+      "options": {
+        "A": "Implement the plan",
+        "B": "Design a plan",
+        "C": "Evaluate",
+        "D": "Define and analyze the problem"
+      },
+      "correctAnswer": "D",
+      "explanation": "The first step is always to clearly understand and define the problem before designing any solution."
+    },
+    {
+      "id": "cs9-c2-q5",
+      "question": "The IPO model stands for:",
+      "options": {
+        "A": "Input-Process-Output",
+        "B": "Instruction-Program-Operation",
+        "C": "Integrate-Process-Optimize",
+        "D": "Input-Program-Output"
+      },
+      "correctAnswer": "A",
+      "explanation": "IPO stands for Input-Process-Output. It models how a computer system takes input, processes it, and produces output."
+    },
+    {
+      "id": "cs9-c2-q6",
+      "question": "Which column of an IPO chart contains the formula or calculation?",
+      "options": {
+        "A": "Input",
+        "B": "Process",
+        "C": "Output",
+        "D": "Result"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Process column contains the operations/formulas to be performed on the input to generate the output."
+    },
+    {
+      "id": "cs9-c2-q7",
+      "question": "For a complex problem, the 6-step process adds which extra step compared to the 4-step?",
+      "options": {
+        "A": "Evaluate",
+        "B": "Implement",
+        "C": "Decompose the problem into sub-problems",
+        "D": "Design a plan"
+      },
+      "correctAnswer": "C",
+      "explanation": "The 6-step process adds decomposition — breaking the problem into smaller, manageable sub- problems before solving each one."
+    },
+    {
+      "id": "cs9-c2-q8",
+      "question": "To calculate the area of a rectangle, what is the correct IPO process?",
+      "options": {
+        "A": "Area = Length + Width",
+        "B": "Area = Length - Width",
+        "C": "Area = Length × Width",
+        "D": "Area = Length / Width"
+      },
+      "correctAnswer": "C",
+      "explanation": "The formula for rectangle area is Length × Width. This would be placed in the Process column of an IPO chart."
+    },
+    {
+      "id": "cs9-c2-q9",
+      "question": "An IPO chart is primarily used by:",
+      "options": {
+        "A": "Database administrators",
+        "B": "Network engineers",
+        "C": "Software designers to plan solutions",
+        "D": "Hardware engineers"
+      },
+      "correctAnswer": "C",
+      "explanation": "IPO charts are design tools used by software designers to organize and visualize the input, processing, and output of a problem."
+    },
+    {
+      "id": "cs9-c2-q10",
+      "question": "In the IPO model, 'output' refers to:",
+      "options": {
+        "A": "The data entered by the user",
+        "B": "The formula applied to data",
+        "C": "The result or information presented to the user",
+        "D": "The memory used by the system"
+      },
+      "correctAnswer": "C",
+      "explanation": "Output is the final result or information that the system presents after processing the input. ★ Additional Questions — Topics 2.1 to 2.5"
+    },
+    {
+      "id": "cs9-c2-q11",
+      "question": "A computer shop offers 4 monitors, 2 keyboards, 4 computers, and 3 printers. How many unique computer systems can be assembled?",
+      "options": {
+        "A": "48",
+        "B": "64",
+        "C": "96",
+        "D": "128"
+      },
+      "correctAnswer": "C",
+      "explanation": "Using the counting principle: 4 × 2 × 4 × 3 = 96. All choices multiply together."
+    },
+    {
+      "id": "cs9-c2-q12",
+      "question": "Which of the following is the BEST example of a decision problem?",
+      "options": {
+        "A": "Finding the cheapest flight between two cities",
+        "B": "Listing all students in a class",
+        "C": "Checking whether a number is even or odd",
+        "D": "Counting how many times 'a' appears in a word"
+      },
+      "correctAnswer": "C",
+      "explanation": "A decision problem gives a binary Yes/No answer. Even or odd check returns true or false — a classic decision problem."
+    },
+    {
+      "id": "cs9-c2-q13",
+      "question": "In a search problem, the 'initial state' refers to:",
+      "options": {
+        "A": "The desired result of the search",
+        "B": "The starting node or position in the search space",
+        "C": "The rules governing movement between nodes",
+        "D": "The total number of nodes in a graph"
+      },
+      "correctAnswer": "B",
+      "explanation": "The initial state is where the search begins — the starting point in the problem space, like the source city in a route-finding problem."
+    },
+    {
+      "id": "cs9-c2-q14",
+      "question": "Which type of computing problem uses graphs with nodes and links to represent its structure?",
+      "options": {
+        "A": "Decision Problem",
+        "B": "Counting Problem",
+        "C": "Search Problem",
+        "D": "Sorting Problem"
+      },
+      "correctAnswer": "C",
+      "explanation": "Search problems are commonly represented using graphs where nodes represent states and links represent transitions or routes between them."
+    },
+    {
+      "id": "cs9-c2-q15",
+      "question": "In the IPO model, 'process' refers to:",
+      "options": {
+        "A": "The raw data given to the system",
+        "B": "Operations the system performs on input",
+        "C": "The final result shown to the user",
+        "D": "The storage of data in memory"
+      },
+      "correctAnswer": "B",
+      "explanation": "The process component is the computation or operations applied to the input in order to produce the desired output."
+    },
+    {
+      "id": "cs9-c2-q16",
+      "question": "A student wants to calculate his average marks. Which of the following correctly identifies the INPUT for this IPO problem?",
+      "options": {
+        "A": "The average mark",
+        "B": "Sum divided by number of subjects",
+        "C": "The marks in each subject",
+        "D": "The grading scale"
+      },
+      "correctAnswer": "C",
+      "explanation": "Input is the raw data given to the system. The individual subject marks are the input, while division/sum are the process, and average is the output."
+    },
+    {
+      "id": "cs9-c2-q17",
+      "question": "Which step of the 4-step problem-solving process involves writing a program in a programming language?",
+      "options": {
+        "A": "Define and analyze the problem",
+        "B": "Design a plan",
+        "C": "Implement the plan",
+        "D": "Evaluate"
+      },
+      "correctAnswer": "C",
+      "explanation": "Implementing the plan means coding the solution using a programming language — turning the designed algorithm into actual working code."
+    },
+    {
+      "id": "cs9-c2-q18",
+      "question": "A problem where you need to find all possible arrangements of objects belongs to which category?",
+      "options": {
+        "A": "Decision Problem",
+        "B": "Counting Problem",
+        "C": "Search Problem",
+        "D": "Sorting Problem"
+      },
+      "correctAnswer": "B",
+      "explanation": "Counting problems deal with determining the total number of ways something can occur using combinations or permutations — a counting principle task."
+    },
+    {
+      "id": "cs9-c2-q19",
+      "question": "In the 6-step complex problem-solving process, which step comes AFTER decomposing the problem?",
+      "options": {
+        "A": "Evaluate",
+        "B": "Implement the plan",
+        "C": "Identify potential plans for each sub-problem",
+        "D": "Define the problem"
+      },
+      "correctAnswer": "C",
+      "explanation": "After breaking the problem into sub-problems (step b), you then identify potential plans (Plan A, B, C) for each sub-problem (step c)."
+    },
+    {
+      "id": "cs9-c2-q20",
+      "question": "Which of the following is NOT a component of the IPO model?",
+      "options": {
+        "A": "Input",
+        "B": "Process",
+        "C": "Output",
+        "D": "Storage"
+      },
+      "correctAnswer": "D",
+      "explanation": "The IPO model has exactly three components: Input, Process, and Output. Storage is part of computer architecture but not part of the IPO model itself."
+    },
+    {
+      "id": "cs9-c2-q21",
+      "question": "The 'Evaluate' step in the problem-solving process is used to:",
+      "options": {
+        "A": "Translate the algorithm into code",
+        "B": "Check if the designed solution actually works",
+        "C": "Break the problem into sub-problems",
+        "D": "Identify the input and output"
+      },
+      "correctAnswer": "B",
+      "explanation": "Evaluation tests whether the implemented plan solved the problem correctly. It is the last step and acts as a quality check."
+    },
+    {
+      "id": "cs9-c2-q22",
+      "question": "If a problem requires checking 'Is X greater than Y?', it is a:",
+      "options": {
+        "A": "Search Problem",
+        "B": "Counting Problem",
+        "C": "Decision Problem",
+        "D": "Pattern Problem"
+      },
+      "correctAnswer": "C",
+      "explanation": "Any problem with a Yes/No or True/False response structure is a decision problem. 'Is X > Y?' yields true or false — binary output."
+    },
+    {
+      "id": "cs9-c2-q23",
+      "question": "An IPO chart for computing a student's grade would have 'Sum of grades / Number of subjects' in which column?",
+      "options": {
+        "A": "Input",
+        "B": "Process",
+        "C": "Output",
+        "D": "All columns"
+      },
+      "correctAnswer": "B",
+      "explanation": "The mathematical operation (Sum / Number of subjects) is a computation, so it belongs in the Process column of the IPO chart."
+    },
+    {
+      "id": "cs9-c2-q24",
+      "question": "Why must a problem be 'defined and analyzed' before any solution is designed?",
+      "options": {
+        "A": "To skip the implementation phase",
+        "B": "To ensure clarity and correctly specify the objectives",
+        "C": "To avoid testing the solution",
+        "D": "To select a programming language first"
+      },
+      "correctAnswer": "B",
+      "explanation": "Defining a problem captures all relevant aspects and ensures the solution addresses the right objectives — jumping to solutions without understanding wastes time."
+    },
+    {
+      "id": "cs9-c2-q25",
+      "question": "In a search problem, 'Goal' refers to:",
+      "options": {
+        "A": "The total number of nodes in a graph",
+        "B": "The starting position of the search",
+        "C": "The rules for moving between nodes",
+        "D": "The target end condition of the search"
+      },
+      "correctAnswer": "D",
+      "explanation": "The Goal defines what we are searching for — the desired end state or condition that marks a successful solution to the search problem. Topic 2.6 to 2.8 — Computational Thinking & Flowcharts"
+    },
+    {
+      "id": "cs9-c2-q26",
+      "question": "Which property of computational thinking involves breaking a large problem into smaller parts?",
+      "options": {
+        "A": "Abstraction",
+        "B": "Pattern Recognition",
+        "C": "Decomposition",
+        "D": "Algorithm Design"
+      },
+      "correctAnswer": "C",
+      "explanation": "Decomposition breaks complex problems into smaller, manageable sub-problems that can be solved individually."
+    },
+    {
+      "id": "cs9-c2-q27",
+      "question": "Removing unnecessary details from a problem to focus on essential information is called:",
+      "options": {
+        "A": "Decomposition",
+        "B": "Abstraction",
+        "C": "Pattern Recognition",
+        "D": "Algorithm Design"
+      },
+      "correctAnswer": "B",
+      "explanation": "Abstraction filters out irrelevant details so that the essential aspects of a problem can be identified and addressed."
+    },
+    {
+      "id": "cs9-c2-q28",
+      "question": "What shape represents a DECISION in a flowchart?",
+      "options": {
+        "A": "Rectangle",
+        "B": "Oval",
+        "C": "Parallelogram",
+        "D": "Diamond"
+      },
+      "correctAnswer": "D",
+      "explanation": "A Diamond shape represents a decision or conditional check in a flowchart. It has Yes/No or True/False branches."
+    },
+    {
+      "id": "cs9-c2-q29",
+      "question": "The START and END of a flowchart are represented by:",
+      "options": {
+        "A": "Rectangle",
+        "B": "Diamond",
+        "C": "Oval",
+        "D": "Parallelogram"
+      },
+      "correctAnswer": "C",
+      "explanation": "An Oval (or rounded rectangle/terminal shape) represents the Start and End of a flowchart."
+    },
+    {
+      "id": "cs9-c2-q30",
+      "question": "Which flowchart shape is used for INPUT and OUTPUT?",
+      "options": {
+        "A": "Rectangle",
+        "B": "Parallelogram",
+        "C": "Diamond",
+        "D": "Oval"
+      },
+      "correctAnswer": "B",
+      "explanation": "A Parallelogram represents both input and output operations in a flowchart."
+    },
+    {
+      "id": "cs9-c2-q31",
+      "question": "Algorithmic thinking focuses on:",
+      "options": {
+        "A": "Breaking problems into patterns",
+        "B": "Creating step-by-step plans to solve problems",
+        "C": "Removing unnecessary details",
+        "D": "Organizing data into tables"
+      },
+      "correctAnswer": "B",
+      "explanation": "Algorithmic thinking involves identifying the steps needed and implementing them logically and efficiently to reach a solution."
+    },
+    {
+      "id": "cs9-c2-q32",
+      "question": "Looking for similarities between the current problem and previously solved problems is called:",
+      "options": {
+        "A": "Decomposition",
+        "B": "Abstraction",
+        "C": "Pattern Recognition",
+        "D": "Logical Thinking"
+      },
+      "correctAnswer": "C",
+      "explanation": "Pattern recognition involves examining a problem for recurring patterns or similarities with problems already solved."
+    },
+    {
+      "id": "cs9-c2-q33",
+      "question": "Why do programmers draw flowcharts BEFORE writing code?",
+      "options": {
+        "A": "To make the program run faster",
+        "B": "To visually plan the logic and identify errors early",
+        "C": "To replace the need for a compiler",
+        "D": "To skip the testing phase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Flowcharts help programmers plan program logic visually, making it easier to spot logical errors before writing actual code."
+    },
+    {
+      "id": "cs9-c2-q34",
+      "question": "In a flowchart, a rectangle represents:",
+      "options": {
+        "A": "Start/End",
+        "B": "Decision",
+        "C": "Processing/Calculation",
+        "D": "Input/Output"
+      },
+      "correctAnswer": "C",
+      "explanation": "A Rectangle represents a processing step — any computation, assignment, or operation being performed."
+    },
+    {
+      "id": "cs9-c2-q35",
+      "question": "Computational thinking is best described as:",
+      "options": {
+        "A": "A programming language",
+        "B": "A way of thinking that uses computation to solve all types of problems",
+        "C": "A type of hardware",
+        "D": "A networking protocol"
+      },
+      "correctAnswer": "B",
+      "explanation": "Computational thinking is a thought process for solving problems systematically in a way that a computer could execute — not a language. ★ Additional Questions — Topics 2.6 to 2.8"
+    },
+    {
+      "id": "cs9-c2-q36",
+      "question": "Computational thinking is best thought of as an extension of:",
+      "options": {
+        "A": "Algorithmic thinking",
+        "B": "Logical thinking",
+        "C": "Pattern recognition",
+        "D": "Decomposition"
+      },
+      "correctAnswer": "B",
+      "explanation": "computational thinking can be thought of as an extension of logical thinking — reasoning through problems systematically."
+    },
+    {
+      "id": "cs9-c2-q37",
+      "question": "Which of the following is the CORRECT order of properties of computational thinking?",
+      "options": {
+        "A": "Algorithm Design → Decomposition → Abstraction → Pattern Recognition",
+        "B": "Decomposition → Abstraction → Pattern Recognition → Algorithm Design",
+        "C": "Abstraction → Decomposition → Algorithm Design → Pattern Recognition",
+        "D": "Pattern Recognition → Algorithm Design → Decomposition → Abstraction"
+      },
+      "correctAnswer": "B",
+      "explanation": "the four properties in this order: Decomposition, Abstraction, Pattern Recognition, and Algorithm Design."
+    },
+    {
+      "id": "cs9-c2-q38",
+      "question": "In flowchart design, the 'processing' shape is used when:",
+      "options": {
+        "A": "Data is being entered by the user",
+        "B": "A Yes/No condition is being checked",
+        "C": "A calculation or computation is being performed",
+        "D": "The flowchart reaches its end"
+      },
+      "correctAnswer": "C",
+      "explanation": "The rectangle represents any processing step — a formula, assignment, or operation. Example: Area = Base × Height uses a rectangle."
+    },
+    {
+      "id": "cs9-c2-q39",
+      "question": "Which of the following is NOT one of the four properties of computational thinking?",
+      "options": {
+        "A": "Decomposition",
+        "B": "Abstraction",
+        "C": "Compilation",
+        "D": "Pattern Recognition"
+      },
+      "correctAnswer": "C",
+      "explanation": "The four properties are: Decomposition, Abstraction, Pattern Recognition, and Algorithm Design. Compilation is a programming process, not a CT property."
+    },
+    {
+      "id": "cs9-c2-q40",
+      "question": "Logical thinking in computational terms requires:",
+      "options": {
+        "A": "Random guessing for fast results",
+        "B": "Gathering relevant facts and deciding the best action based on reasoning",
+        "C": "Memorizing all possible solutions in advance",
+        "D": "Writing code without planning"
+      },
+      "correctAnswer": "B",
+      "explanation": "Logical thinking means analyzing a situation using reason and evidence, then reaching a sensible decision. It is a fundamental part of computational thinking."
+    },
+    {
+      "id": "cs9-c2-q41",
+      "question": "A flowchart that has multiple decision points may have:",
+      "options": {
+        "A": "Only one start and no end",
+        "B": "One start and multiple end points",
+        "C": "No start symbol",
+        "D": "Multiple start symbols"
+      },
+      "correctAnswer": "B",
+      "explanation": "Because of multiple decision branches, a flowchart can have multiple possible end points — one at the end of each decision path."
+    },
+    {
+      "id": "cs9-c2-q42",
+      "question": "Which of the following BEST describes algorithmic thinking?",
+      "options": {
+        "A": "Memorizing computer hardware specifications",
+        "B": "Breaking complex problems into manageable steps and solving them logically",
+        "C": "Drawing concept maps of computer networks",
+        "D": "Listing all possible inputs to a system"
+      },
+      "correctAnswer": "B",
+      "explanation": "Algorithmic thinking involves breaking problems into steps, then implementing those steps in a logical and efficient manner — the core of problem solving."
+    },
+    {
+      "id": "cs9-c2-q43",
+      "question": "In an algorithm to find the largest of three numbers (A, B, C), which step checks the second number after A is found not to be largest?",
+      "options": {
+        "A": "Check if C > A and C > B",
+        "B": "Stop the process",
+        "C": "Check if B > A and B > C",
+        "D": "Restart the algorithm from Step 1"
+      },
+      "correctAnswer": "C",
+      "explanation": "The algorithm checks A first, and if A is not largest, it checks B > A AND B > C before concluding B is largest. If not, C must be."
+    },
+    {
+      "id": "cs9-c2-q44",
+      "question": "A concept map and a flowchart are both methods used to:",
+      "options": {
+        "A": "Write programs in Python",
+        "B": "Design a solution to a problem",
+        "C": "Store data in memory",
+        "D": "Connect computers in a network"
+      },
+      "correctAnswer": "B",
+      "explanation": "Flowcharts and concept maps are both solution design tools used to plan and visualize a solution before implementation."
+    },
+    {
+      "id": "cs9-c2-q45",
+      "question": "The temperature conversion problem (Fahrenheit to Celsius) would have its conversion formula placed in which flowchart shape?",
+      "options": {
+        "A": "Diamond",
+        "B": "Parallelogram",
+        "C": "Oval",
+        "D": "Rectangle"
+      },
+      "correctAnswer": "D",
+      "explanation": "Any formula or calculation goes in a rectangle (process). The Fahrenheit-to-Celsius formula is a computation, so it uses a rectangle."
+    },
+    {
+      "id": "cs9-c2-q46",
+      "question": "Which property of computational thinking would you use if you recognize that sorting a list of names is similar to sorting a list of numbers?",
+      "options": {
+        "A": "Decomposition",
+        "B": "Algorithm Design",
+        "C": "Pattern Recognition",
+        "D": "Abstraction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Pattern recognition identifies similarities between a current problem and previously solved ones — recognizing that both name and number sorting follow the same logic."
+    },
+    {
+      "id": "cs9-c2-q47",
+      "question": "Abstraction in computational thinking is most useful because it:",
+      "options": {
+        "A": "Adds more detail to the problem",
+        "B": "Helps focus on only the essential information needed to solve the problem",
+        "C": "Breaks the problem into sub-problems",
+        "D": "Creates a step-by-step solution"
+      },
+      "correctAnswer": "B",
+      "explanation": "Abstraction filters out unnecessary complexity so that the solver can focus on what actually matters for the solution."
+    },
+    {
+      "id": "cs9-c2-q48",
+      "question": "The flowchart step that comes AFTER 'Input' is typically:",
+      "options": {
+        "A": "End",
+        "B": "Output",
+        "C": "Process",
+        "D": "Decision"
+      },
+      "correctAnswer": "C",
+      "explanation": "In a standard IPO flowchart sequence, after reading input (parallelogram), the system performs processing (rectangle) before producing output."
+    },
+    {
+      "id": "cs9-c2-q49",
+      "question": "Computational thinking is described as encouraging which of the following?",
+      "options": {
+        "A": "Solving only one specific instance of a problem",
+        "B": "Defining a repeatable solution that works for all similar instances",
+        "C": "Avoiding the use of algorithms",
+        "D": "Relying on hardware to solve problems automatically"
+      },
+      "correctAnswer": "B",
+      "explanation": "Computational thinking aims for automated, repeatable solutions — not just one-off answers. The goal is a system that handles all instances of a problem type."
+    },
+    {
+      "id": "cs9-c2-q50",
+      "question": "If a flowchart symbol has exactly two exits (Yes and No), what shape is it?",
+      "options": {
+        "A": "Rectangle",
+        "B": "Oval",
+        "C": "Parallelogram",
+        "D": "Diamond"
+      },
+      "correctAnswer": "D",
+      "explanation": "The diamond shape is the decision symbol. It always has two exits corresponding to the two outcomes of a condition: Yes or No (True or False)."
+    }
+  ]
+}
