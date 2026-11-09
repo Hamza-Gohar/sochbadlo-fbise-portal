@@ -1,0 +1,154 @@
+{
+  "subject": "biology-9",
+  "chapterNumber": 14,
+  "chapterTitle": "Federal Board Annual Exam Simulator 04 (Ch 7 & 8)",
+  "slug": "biology-9-model-paper-4",
+  "description": "Official 12-mark Section A Federal Board exam simulator covering Enzymes, Metabolism, and Plant Physiology by Lecturer Rubina Ashraf.",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "id": "bio9-mp4-q1",
+      "question": "What chemical class do biological catalysts (enzymes) primarily belong to?",
+      "options": {
+        "A": "Fibrous lipids",
+        "B": "Complex carbohydrates",
+        "C": "Globular proteins",
+        "D": "Nucleic acids"
+      },
+      "correctAnswer": "C",
+      "explanation": "Enzymes are three-dimensional globular proteins folded into precise tertiary conformations with specific substrate active sites."
+    },
+    {
+      "id": "bio9-mp4-q2",
+      "question": "Which of the following organic cofactors is tightly and permanently bound as a prosthetic group?",
+      "options": {
+        "A": "Coenzyme A",
+        "B": "FAD / Heme group",
+        "C": "NAD+",
+        "D": "Salivary amylase"
+      },
+      "correctAnswer": "B",
+      "explanation": "A prosthetic group is a non-protein cofactor (e.g., FAD or heme in hemoglobin) tightly integrated into the enzyme structure."
+    },
+    {
+      "id": "bio9-mp4-q3",
+      "question": "Adenosine triphosphate (ATP) is universally recognized in living organisms as the:",
+      "options": {
+        "A": "Energy currency of the cell",
+        "B": "Genetic blueprint",
+        "C": "Enzyme activator only",
+        "D": "Oxygen carrier"
+      },
+      "correctAnswer": "A",
+      "explanation": "ATP stores readily releasable chemical energy within high-energy phosphoanhydride bonds to drive endergonic cellular reactions."
+    },
+    {
+      "id": "bio9-mp4-q4",
+      "question": "What high-energy chemical products are generated during light-dependent reactions of photosynthesis?",
+      "options": {
+        "A": "ATP and NADPH",
+        "B": "Glucose and starch",
+        "C": "Carbon dioxide",
+        "D": "Proteins"
+      },
+      "correctAnswer": "A",
+      "explanation": "Photophosphorylation and NADP+ reduction in thylakoid membranes produce chemical energy carriers (ATP and NADPH) for the Calvin cycle."
+    },
+    {
+      "id": "bio9-mp4-q5",
+      "question": "What enzyme complex catalyzes the photolysis (splitting) of water in the chloroplast?",
+      "options": {
+        "A": "Photosystem II (P680)",
+        "B": "Photosystem I (P700)",
+        "C": "RuBisCO",
+        "D": "ATP synthase"
+      },
+      "correctAnswer": "A",
+      "explanation": "Photosystem II contains an oxygen-evolving manganese complex that splits water molecules into protons, electrons, and oxygen gas."
+    },
+    {
+      "id": "bio9-mp4-q6",
+      "question": "Where on an enzyme does a non-competitive inhibitor bind to decrease catalytic efficiency?",
+      "options": {
+        "A": "Allosteric site",
+        "B": "Active site",
+        "C": "Substrate cleft",
+        "D": "Coenzyme pocket"
+      },
+      "correctAnswer": "A",
+      "explanation": "Non-competitive inhibitors bind to an allosteric regulatory site outside the active site, altering the 3D protein conformation."
+    },
+    {
+      "id": "bio9-mp4-q7",
+      "question": "In which compartment of the chloroplast do light-independent reactions (Calvin cycle) occur?",
+      "options": {
+        "A": "Stroma",
+        "B": "Grana",
+        "C": "Thylakoid lumen",
+        "D": "Outer membrane"
+      },
+      "correctAnswer": "A",
+      "explanation": "The stroma contains soluble Calvin cycle enzymes (including RuBisCO) that fix carbon dioxide into carbohydrates."
+    },
+    {
+      "id": "bio9-mp4-q8",
+      "question": "Which mineral uptake process in plant root cells requires metabolic ATP energy?",
+      "options": {
+        "A": "Active transport",
+        "B": "Simple diffusion",
+        "C": "Osmosis",
+        "D": "Exosmosis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Active transport pumps ions (e.g., K+, NO3-) into root cells against steep concentration gradients using ATP energy."
+    },
+    {
+      "id": "bio9-mp4-q9",
+      "question": "Which vascular plant tissue is responsible for conducting water and dissolved minerals from roots to leaves?",
+      "options": {
+        "A": "Xylem",
+        "B": "Phloem",
+        "C": "Cortex",
+        "D": "Epidermis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Xylem vessels and tracheids form continuous hollow conducting tubes that transport sap upward under negative transpirational tension."
+    },
+    {
+      "id": "bio9-mp4-q10",
+      "question": "Which environmental condition substantially increases the rate of transpiration in terrestrial plants?",
+      "options": {
+        "A": "Low ambient humidity (dry air)",
+        "B": "High relative humidity",
+        "C": "Complete darkness",
+        "D": "Soil saturation with cold water"
+      },
+      "correctAnswer": "A",
+      "explanation": "Low air humidity steepens the water vapor concentration gradient between the substomatal cavity and atmosphere, accelerating transpiration."
+    },
+    {
+      "id": "bio9-mp4-q11",
+      "question": "Which specialized dead, lignified cells form continuous water-conducting conduits in xylem?",
+      "options": {
+        "A": "Vessel elements & tracheids",
+        "B": "Guard cells",
+        "C": "Collenchyma cells",
+        "D": "Sieve tube elements"
+      },
+      "correctAnswer": "A",
+      "explanation": "Xylem vessels consist of aligned elongated vessel elements with perforated end-plates reinforced by secondary lignified walls."
+    },
+    {
+      "id": "bio9-mp4-q12",
+      "question": "The suberized Casparian strip that blocks apoplastic water transport is located in the root:",
+      "options": {
+        "A": "Endodermis",
+        "B": "Cortex",
+        "C": "Epidermis",
+        "D": "Pericycle"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Casparian strip in endodermal radial cell walls forces water and minerals to cross selectively permeable plasma membranes into the stele."
+    }
+  ]
+}

@@ -19,6 +19,7 @@ const ENGLISH_9_DIR = path.join(process.cwd(), 'data', 'english-9');
 const ISLAMIAT_9_DIR = path.join(process.cwd(), 'data', 'islamiat-9');
 const CHEMISTRY_9_DIR = path.join(process.cwd(), 'data', 'chemistry-9');
 const CS_9_DIR = path.join(process.cwd(), 'data', 'cs-9');
+const BIOLOGY_9_DIR = path.join(process.cwd(), 'data', 'biology-9');
 
 export function getChaptersIndex(
   subject: SubjectId = 'physics'
@@ -41,6 +42,7 @@ export function getChaptersIndex(
     else if (subject === 'islamiat-9') dir = ISLAMIAT_9_DIR;
     else if (subject === 'chemistry-9') dir = CHEMISTRY_9_DIR;
     else if (subject === 'cs-9') dir = CS_9_DIR;
+    else if (subject === 'biology-9') dir = BIOLOGY_9_DIR;
 
     const indexPath = path.join(dir, 'chapters-index.json');
     if (fs.existsSync(indexPath)) {
@@ -54,7 +56,8 @@ export function getChaptersIndex(
         subject === 'english-9' ||
         subject === 'islamiat-9' ||
         subject === 'chemistry-9' ||
-        subject === 'cs-9'
+        subject === 'cs-9' ||
+        subject === 'biology-9'
           ? '9'
           : '11';
       return list.map((item) => ({ ...item, subject, grade: item.grade || grade }));
@@ -84,6 +87,7 @@ export function getAllChapters(): ChapterMeta[] {
     ...getChaptersIndex('islamiat-9'),
     ...getChaptersIndex('chemistry-9'),
     ...getChaptersIndex('cs-9'),
+    ...getChaptersIndex('biology-9'),
   ];
 }
 
@@ -122,6 +126,9 @@ export function getChapterBySlug(
     } else if (slug.startsWith('cs-9')) {
       targetDir = CS_9_DIR;
       subject = 'cs-9';
+    } else if (slug.startsWith('biology-9')) {
+      targetDir = BIOLOGY_9_DIR;
+      subject = 'biology-9';
     } else if (slug.startsWith('urdu')) {
       targetDir = URDU_DIR;
       subject = 'urdu';
@@ -163,6 +170,7 @@ export function getChapterBySlug(
 
     // Fallback search across all directories
     const dirMap: Array<[string, SubjectId]> = [
+      [BIOLOGY_9_DIR, 'biology-9'],
       [CS_9_DIR, 'cs-9'],
       [CHEMISTRY_9_DIR, 'chemistry-9'],
       [ISLAMIAT_9_DIR, 'islamiat-9'],

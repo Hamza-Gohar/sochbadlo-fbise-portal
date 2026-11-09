@@ -1,0 +1,550 @@
+{
+  "subject": "biology-9",
+  "chapterNumber": 8,
+  "chapterTitle": "Unit 08: Plant Physiology: Nutrition & Transport",
+  "slug": "biology-9-chapter-8",
+  "description": "Plant mineral nutrition (macronutrients, micronutrients), photosynthesis (light & dark reactions), respiration, water uptake, osmosis, and transpiration.",
+  "totalQuestions": 45,
+  "questions": [
+    {
+      "id": "bio9-c8-q1",
+      "question": "Nitrogen is essential for synthesizing",
+      "options": {
+        "A": "DNA",
+        "B": "Chlorophyll",
+        "C": "Proteins",
+        "D": "Soil organic humus"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Proteins') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q2",
+      "question": "Magnesium is a central atom in",
+      "options": {
+        "A": "Enzymes",
+        "B": "ATP",
+        "C": "Chlorophyll",
+        "D": "Atmospheric nitrogen gas"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Chlorophyll') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q3",
+      "question": "Micronutrients are required in",
+      "options": {
+        "A": "Large amounts",
+        "B": "Trace amounts",
+        "C": "Moderate amounts",
+        "D": "Root parenchyma"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Trace amounts') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q4",
+      "question": "Nitrogen deficiency leads to",
+      "options": {
+        "A": "Chlorosis",
+        "B": "Wilting",
+        "C": "Necrosis",
+        "D": "Cuticular layer"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Chlorosis') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q5",
+      "question": "Macronutrients include",
+      "options": {
+        "A": "Iron",
+        "B": "Phosphorus",
+        "C": "Zinc",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "TRANSPORT IN PLANTS"
+    },
+    {
+      "id": "bio9-c8-q6",
+      "question": "Root hairs increase",
+      "options": {
+        "A": "Light absorption",
+        "B": "Surface area",
+        "C": "Leaf size",
+        "D": "Soil organic humus"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Surface area') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q7",
+      "question": "Root cap protects the",
+      "options": {
+        "A": "Root hairs",
+        "B": "Growing tip",
+        "C": "Vascular bundle",
+        "D": "Atmospheric nitrogen gas"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Growing tip') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q8",
+      "question": "Epidermis of root lacks",
+      "options": {
+        "A": "Stomata",
+        "B": "Root hairs",
+        "C": "Xylem",
+        "D": "Root parenchyma"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Stomata') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q9",
+      "question": "The main need for transport in plants is",
+      "options": {
+        "A": "Photosynthesis",
+        "B": "Movement of water and minerals",
+        "C": "Flowering",
+        "D": "Cuticular layer"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Movement of water and minerals') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q10",
+      "question": "Root hairs are",
+      "options": {
+        "A": "Modified xylem",
+        "B": "Extensions of epidermal cells",
+        "C": "Vascular tissue",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "UPTAKE OF MINERAL SALTS & WATER"
+    },
+    {
+      "id": "bio9-c8-q11",
+      "question": "Passive transport does not require",
+      "options": {
+        "A": "ATP",
+        "B": "Proteins",
+        "C": "Water",
+        "D": "Soil organic humus"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('ATP') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q12",
+      "question": "Active transport moves ions",
+      "options": {
+        "A": "Along the gradient",
+        "B": "Against the gradient",
+        "C": "Randomly",
+        "D": "Atmospheric nitrogen gas"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Against the gradient') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q13",
+      "question": "Osmosis is a type of",
+      "options": {
+        "A": "Active transport",
+        "B": "Passive transport",
+        "C": "Bulk flow",
+        "D": "Root parenchyma"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Passive transport') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q14",
+      "question": "Water enters root by",
+      "options": {
+        "A": "Diffusion",
+        "B": "Pinocytosis",
+        "C": "Osmosis",
+        "D": "Cuticular layer"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Osmosis') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q15",
+      "question": "Root pressure occurs due to",
+      "options": {
+        "A": "Transpiration",
+        "B": "Active ion uptake",
+        "C": "Guttation",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "TRANSPIRATION"
+    },
+    {
+      "id": "bio9-c8-q16",
+      "question": "Transpiration is highest when stomata are",
+      "options": {
+        "A": "Closed",
+        "B": "Half open",
+        "C": "Fully open",
+        "D": "Soil organic humus"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Fully open') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q17",
+      "question": "Rate of transpiration increases with",
+      "options": {
+        "A": "Humidity",
+        "B": "Wind",
+        "C": "Cloud cover",
+        "D": "Atmospheric nitrogen gas"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Wind') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q18",
+      "question": "Leaf surface area correlates with",
+      "options": {
+        "A": "Root length",
+        "B": "Transpiration rate",
+        "C": "Phloem loading",
+        "D": "Root parenchyma"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Transpiration rate') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q19",
+      "question": "Closing of stomata occurs in",
+      "options": {
+        "A": "Day",
+        "B": "Drought",
+        "C": "High humidity",
+        "D": "Cuticular layer"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Drought') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q20",
+      "question": "Transpiration is mainly through",
+      "options": {
+        "A": "Cuticle",
+        "B": "Stomata",
+        "C": "Lenticels",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "FACTORS AFFECTING TRANSPIRATION"
+    },
+    {
+      "id": "bio9-c8-q21",
+      "question": "Transpiration rate increases in",
+      "options": {
+        "A": "Low wind",
+        "B": "High humidity",
+        "C": "High temperature",
+        "D": "Soil organic humus"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('High temperature') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q22",
+      "question": "High humidity causes",
+      "options": {
+        "A": "More transpiration",
+        "B": "Less transpiration",
+        "C": "No change",
+        "D": "Atmospheric nitrogen gas"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Less transpiration') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q23",
+      "question": "Wind helps by",
+      "options": {
+        "A": "Blocking stomata",
+        "B": "Carrying water vapor",
+        "C": "Decreasing gradient",
+        "D": "Root parenchyma"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Carrying water vapor') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q24",
+      "question": "Transpiration slows down in",
+      "options": {
+        "A": "Heat",
+        "B": "Dry air",
+        "C": "Moist air",
+        "D": "Cuticular layer"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Moist air') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q25",
+      "question": "Excessive transpiration can lead to",
+      "options": {
+        "A": "Wilting",
+        "B": "Flowering",
+        "C": "Root elongation",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "TRANSPORT OF WATER & SALTS"
+    },
+    {
+      "id": "bio9-c8-q26",
+      "question": "Cohesion helps in",
+      "options": {
+        "A": "Breaking water column",
+        "B": "Root absorption",
+        "C": "Maintaining water column",
+        "D": "Soil organic humus"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Maintaining water column') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q27",
+      "question": "Ascent of sap occurs in",
+      "options": {
+        "A": "Phloem",
+        "B": "Xylem",
+        "C": "Parenchyma",
+        "D": "Atmospheric nitrogen gas"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Xylem') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q28",
+      "question": "TACT theory includes",
+      "options": {
+        "A": "Active transport",
+        "B": "Root pressure",
+        "C": "Transpiration pull",
+        "D": "Root parenchyma"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Transpiration pull') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q29",
+      "question": "Adhesion means attraction between",
+      "options": {
+        "A": "Water and water",
+        "B": "Xylem walls and water",
+        "C": "Air and water",
+        "D": "Cuticular layer"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Xylem walls and water') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q30",
+      "question": "Main force for upward water transport",
+      "options": {
+        "A": "Root pressure",
+        "B": "Guttation",
+        "C": "Transpiration pull",
+        "D": "None of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "TRANSPORT OF ORGANIC SOLUTES"
+    },
+    {
+      "id": "bio9-c8-q31",
+      "question": "Translocation occurs in",
+      "options": {
+        "A": "Xylem",
+        "B": "Phloem",
+        "C": "Cortex",
+        "D": "Soil organic humus"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Phloem') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q32",
+      "question": "Translocating fluid contains",
+      "options": {
+        "A": "Proteins and minerals",
+        "B": "Glucose and starch",
+        "C": "Sucrose and amino acids",
+        "D": "Atmospheric nitrogen gas"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Sucrose and amino acids') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q33",
+      "question": "Translocation is",
+      "options": {
+        "A": "Unidirectional",
+        "B": "Bidirectional",
+        "C": "Downward only",
+        "D": "Root parenchyma"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Bidirectional') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q34",
+      "question": "Mass flow theory explains",
+      "options": {
+        "A": "Ascent of sap",
+        "B": "Sugar transport",
+        "C": "Root absorption",
+        "D": "Cuticular layer"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Sugar transport') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q35",
+      "question": "Source in translocation refers to",
+      "options": {
+        "A": "Sink tissues",
+        "B": "Storage organs",
+        "C": "Site of production",
+        "D": "None of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "GAS EXCHANGE IN PLANTS"
+    },
+    {
+      "id": "bio9-c8-q36",
+      "question": "During day, leaves absorb",
+      "options": {
+        "A": "CO₂",
+        "B": "O₂",
+        "C": "N₂",
+        "D": "Soil organic humus"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('CO₂') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q37",
+      "question": "At night, leaves release",
+      "options": {
+        "A": "CO₂",
+        "B": "O₂",
+        "C": "H₂O",
+        "D": "Atmospheric nitrogen gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('CO₂') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q38",
+      "question": "Root cells exchange gases via",
+      "options": {
+        "A": "Cuticle",
+        "B": "Lenticels",
+        "C": "Diffusion",
+        "D": "Root parenchyma"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Diffusion') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q39",
+      "question": "Aeration in roots is slower due to",
+      "options": {
+        "A": "Lack of stomata",
+        "B": "Photosynthesis",
+        "C": "High transpiration",
+        "D": "Cuticular layer"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Lack of stomata') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q40",
+      "question": "CO₂ enters leaves through",
+      "options": {
+        "A": "Stomata",
+        "B": "Xylem",
+        "C": "Phloem",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "HOMEOSTASIS IN PLANTS"
+    },
+    {
+      "id": "bio9-c8-q41",
+      "question": "CO₂ is excreted through",
+      "options": {
+        "A": "Stomata",
+        "B": "Phloem",
+        "C": "Cuticle",
+        "D": "Soil organic humus"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Stomata') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q42",
+      "question": "Excess water is excreted by",
+      "options": {
+        "A": "Diffusion",
+        "B": "Guttation",
+        "C": "Respiration",
+        "D": "Atmospheric nitrogen gas"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Guttation') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q43",
+      "question": "Homeostasis maintains",
+      "options": {
+        "A": "Size",
+        "B": "Internal balance",
+        "C": "External temperature",
+        "D": "Root parenchyma"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Internal balance') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q44",
+      "question": "Leaf fall helps in",
+      "options": {
+        "A": "Respiration",
+        "B": "Mineral uptake",
+        "C": "Excretion",
+        "D": "Cuticular layer"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Excretion') is the correct biological fact for Plant Physiology."
+    },
+    {
+      "id": "bio9-c8-q45",
+      "question": "Stem excretes waste through",
+      "options": {
+        "A": "Xylem",
+        "B": "Lenticels",
+        "C": "Phloem",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Lenticels') is the correct biological fact for Plant Physiology."
+    }
+  ]
+}

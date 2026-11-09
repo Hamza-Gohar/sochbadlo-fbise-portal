@@ -1,0 +1,154 @@
+{
+  "subject": "biology-9",
+  "chapterNumber": 12,
+  "chapterTitle": "Federal Board Annual Exam Simulator 02 (Ch 3 & 4)",
+  "slug": "biology-9-model-paper-2",
+  "description": "Official 12-mark Section A Federal Board exam simulator covering Cell Structure, Organelles, and Cell Cycle by Lecturer Rubina Ashraf.",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "id": "bio9-mp2-q1",
+      "question": "How do mitotic spindle fibers physically attach to condensed chromosomes?",
+      "options": {
+        "A": "Centrosomes",
+        "B": "Kinetochores",
+        "C": "Telomeres",
+        "D": "Nuclear pores"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kinetochores are specialized protein complexes assembled at chromosome centromeres that anchor spindle microtubules during cell division."
+    },
+    {
+      "id": "bio9-mp2-q2",
+      "question": "What happens if a dividing cell completes mitosis but cytokinesis fails?",
+      "options": {
+        "A": "A single cell with two nuclei (multinucleated)",
+        "B": "Chromosome degradation",
+        "C": "Immediate cell lysis",
+        "D": "Spindle disintegration error"
+      },
+      "correctAnswer": "A",
+      "explanation": "Failure of cytokinesis after nuclear division results in a binucleate or coenocytic cell containing two identical daughter nuclei."
+    },
+    {
+      "id": "bio9-mp2-q3",
+      "question": "What kind of tumors remain localized at their origin and are non-cancerous?",
+      "options": {
+        "A": "Malignant",
+        "B": "Benign",
+        "C": "Invasive",
+        "D": "Metastatic"
+      },
+      "correctAnswer": "B",
+      "explanation": "Benign tumors do not invade surrounding healthy tissues or metastasize to distant body parts, remaining non-cancerous."
+    },
+    {
+      "id": "bio9-mp2-q4",
+      "question": "How many sister chromatids are present at metaphase in a human cell with 46 chromosomes in G1?",
+      "options": {
+        "A": "23",
+        "B": "46",
+        "C": "92",
+        "D": "184"
+      },
+      "correctAnswer": "C",
+      "explanation": "During S phase, each of the 46 chromosomes replicates into two sister chromatids joined at the centromere, totaling 92 chromatids."
+    },
+    {
+      "id": "bio9-mp2-q5",
+      "question": "Which phase of interphase is specifically responsible for synthesizing proteins required for spindle fibers?",
+      "options": {
+        "A": "G1 phase",
+        "B": "S phase",
+        "C": "G2 phase",
+        "D": "M phase"
+      },
+      "correctAnswer": "C",
+      "explanation": "In G2 phase, the cell synthesizes tubulin and other essential spindle-forming proteins while finalizing organelle duplication."
+    },
+    {
+      "id": "bio9-mp2-q6",
+      "question": "A cell with 12 chromosomes divides twice by mitosis. How many chromosomes does each resulting cell contain?",
+      "options": {
+        "A": "6",
+        "B": "24",
+        "C": "12",
+        "D": "3"
+      },
+      "correctAnswer": "C",
+      "explanation": "Mitosis is equational division; each daughter cell maintains the exact original chromosome number (12 chromosomes)."
+    },
+    {
+      "id": "bio9-mp2-q7",
+      "question": "What structural component provides rigidity, defines shape, and protects plant cells from osmotic bursting?",
+      "options": {
+        "A": "Plasma membrane",
+        "B": "Cell wall",
+        "C": "Central vacuole",
+        "D": "Cytoplasm"
+      },
+      "correctAnswer": "B",
+      "explanation": "The cellulose cell wall is a tough, semi-rigid outer layer providing mechanical support and protecting plant cells from osmotic lysis."
+    },
+    {
+      "id": "bio9-mp2-q8",
+      "question": "Which component of the fluid mosaic model acts as the primary hydrophobic barrier preventing uncontrolled ion leakage?",
+      "options": {
+        "A": "Channel proteins",
+        "B": "Cholesterol",
+        "C": "Phospholipid bilayer",
+        "D": "Glycoproteins"
+      },
+      "correctAnswer": "C",
+      "explanation": "The hydrophobic interior fatty acid tails of the phospholipid bilayer restrict the passive movement of charged ions and water-soluble molecules."
+    },
+    {
+      "id": "bio9-mp2-q9",
+      "question": "Which non-pigmented plastids specialize in storing nutrient reserves like starch, proteins, and lipids?",
+      "options": {
+        "A": "Chloroplasts",
+        "B": "Chromoplasts",
+        "C": "Leucoplasts",
+        "D": "Peroxisomes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Leucoplasts are colorless plastids located in non-photosynthetic roots, seeds, and tubers that store starches (amyloplasts) and oils."
+    },
+    {
+      "id": "bio9-mp2-q10",
+      "question": "What process is carried out by lysosomes to digest and recycle worn-out cellular organelles?",
+      "options": {
+        "A": "Glycolysis",
+        "B": "Autophagy",
+        "C": "Photosynthesis",
+        "D": "Apoptosis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Autophagy ('self-eating') is the regulated catabolic mechanism whereby lysosomes engulf and degrade dysfunctional cellular organelles."
+    },
+    {
+      "id": "bio9-mp2-q11",
+      "question": "Which chlorophyll-containing organelles are densely packed inside leaf mesophyll cells?",
+      "options": {
+        "A": "Ribosomes",
+        "B": "Lysosomes",
+        "C": "Chloroplasts",
+        "D": "Nuclei"
+      },
+      "correctAnswer": "C",
+      "explanation": "Chloroplasts contain chlorophyll pigments organized in thylakoids and perform light absorption and carbon fixation in mesophyll cells."
+    },
+    {
+      "id": "bio9-mp2-q12",
+      "question": "What is the dense, enzyme-rich fluid contained inside the inner mitochondrial membrane called?",
+      "options": {
+        "A": "Mitochondrial matrix",
+        "B": "Cristae",
+        "C": "Lumen",
+        "D": "Cytosol"
+      },
+      "correctAnswer": "A",
+      "explanation": "The mitochondrial matrix contains enzymes for the Krebs cycle, mitochondrial DNA, and 70S ribosomes enclosed by cristae folds."
+    }
+  ]
+}

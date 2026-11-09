@@ -1,0 +1,154 @@
+{
+  "subject": "biology-9",
+  "chapterNumber": 11,
+  "chapterTitle": "Federal Board Annual Exam Simulator 01 (Ch 1 & 2)",
+  "slug": "biology-9-model-paper-1",
+  "description": "Official 12-mark Section A Federal Board exam simulator covering The Science of Biology and Biodiversity by Lecturer Rubina Ashraf.",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "id": "bio9-mp1-q1",
+      "question": "What is the primary vector for transmitting malaria in humans?",
+      "options": {
+        "A": "Aedes mosquito",
+        "B": "Anopheles mosquito",
+        "C": "Culex mosquito",
+        "D": "Ticks"
+      },
+      "correctAnswer": "B",
+      "explanation": "Female Anopheles mosquitoes transmit Plasmodium to humans, causing malaria. Aedes transmits dengue, while Culex transmits filariasis."
+    },
+    {
+      "id": "bio9-mp1-q2",
+      "question": "Which of the following observations linked Plasmodium directly to malaria in medical history?",
+      "options": {
+        "A": "Marshes linked to malaria",
+        "B": "Plasmodium found in patient blood",
+        "C": "Outdoor sleepers affected more",
+        "D": "Stagnant water causes bad air"
+      },
+      "correctAnswer": "B",
+      "explanation": "In 1878, French physician Alphonse Laveran examined the blood of malaria patients and observed microscopic living microorganisms (Plasmodium)."
+    },
+    {
+      "id": "bio9-mp1-q3",
+      "question": "What is the decisive key step in the biological method to validate a hypothesis?",
+      "options": {
+        "A": "Deduction",
+        "B": "Hypothesis",
+        "C": "Observation",
+        "D": "Experimentation"
+      },
+      "correctAnswer": "D",
+      "explanation": "Experimentation is the critical test in the biological method where hypotheses are rigorously accepted or disproved under controlled conditions."
+    },
+    {
+      "id": "bio9-mp1-q4",
+      "question": "Which common characteristic is shared by viruses, prions, and viroids?",
+      "options": {
+        "A": "Cellular respiration",
+        "B": "Locomotion",
+        "C": "Infectious acellular nature",
+        "D": "Excretion"
+      },
+      "correctAnswer": "C",
+      "explanation": "Viruses, prions, and viroids are acellular, non-living infectious agents that lack metabolic machinery and reproduce only inside living hosts."
+    },
+    {
+      "id": "bio9-mp1-q5",
+      "question": "If humans and cats belong to the same class (Mammalia), they must also belong to the same:",
+      "options": {
+        "A": "Phylum",
+        "B": "Order",
+        "C": "Species",
+        "D": "Family"
+      },
+      "correctAnswer": "A",
+      "explanation": "In taxonomic hierarchy, organisms belonging to the same lower rank (Class Mammalia) must share all higher taxonomic ranks (Phylum Chordata & Kingdom Animalia)."
+    },
+    {
+      "id": "bio9-mp1-q6",
+      "question": "Colonial cellular organization (e.g., Volvox) is a key characteristic of kingdom:",
+      "options": {
+        "A": "Animalia",
+        "B": "Protista",
+        "C": "Fungi",
+        "D": "Plantae"
+      },
+      "correctAnswer": "B",
+      "explanation": "Colonial green algae such as Volvox consist of hundreds of coordinated flagellated cells and belong to the Kingdom Protista."
+    },
+    {
+      "id": "bio9-mp1-q7",
+      "question": "Who formulated the explicit hypothesis that 'Plasmodium is the cause of Malaria'?",
+      "options": {
+        "A": "A.F.A. King",
+        "B": "Ronald Ross",
+        "C": "Alphonse Laveran",
+        "D": "Gregor Mendel"
+      },
+      "correctAnswer": "A",
+      "explanation": "Physician A.F.A. King compiled 20 key epidemiological observations linking mosquitoes to malaria and formalized the hypothesis."
+    },
+    {
+      "id": "bio9-mp1-q8",
+      "question": "Cell walls containing peptidoglycan (murein) are exclusively found in domain:",
+      "options": {
+        "A": "Bacteria",
+        "B": "Archaea",
+        "C": "Eukarya",
+        "D": "Fungi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Eubacteria possess cell walls synthesized from peptidoglycan, distinguishing them from Archaea (pseudopeptidoglycan) and plant/fungal eukaryotes."
+    },
+    {
+      "id": "bio9-mp1-q9",
+      "question": "The basic, fundamental unit of biological classification is the:",
+      "options": {
+        "A": "Kingdom",
+        "B": "Phylum",
+        "C": "Genus",
+        "D": "Species"
+      },
+      "correctAnswer": "D",
+      "explanation": "A species is the basic taxonomic unit consisting of individuals capable of interbreeding and producing fertile offspring."
+    },
+    {
+      "id": "bio9-mp1-q10",
+      "question": "In modern biology, viruses are classified as:",
+      "options": {
+        "A": "Living organisms",
+        "B": "Non-living chemicals",
+        "C": "Borderline between living and non-living",
+        "D": "Primitive fungi"
+      },
+      "correctAnswer": "C",
+      "explanation": "Viruses exist at the threshold of life; they possess genetic material and mutate, but lack cellular structure and metabolic autonomy."
+    },
+    {
+      "id": "bio9-mp1-q11",
+      "question": "Which kingdom encompasses unicellular and simple colonial eukaryotes?",
+      "options": {
+        "A": "Protista",
+        "B": "Monera",
+        "C": "Fungi",
+        "D": "Plantae"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kingdom Protista includes diverse unicellular and simple colonial eukaryotic organisms like Amoeba, Paramecium, Euglena, and Volvox."
+    },
+    {
+      "id": "bio9-mp1-q12",
+      "question": "What primary molecular feature distinguishes domain Archaea from domain Bacteria?",
+      "options": {
+        "A": "Absence of nucleus",
+        "B": "Unique rRNA sequences & cell wall composition",
+        "C": "Presence of mitochondria",
+        "D": "Antibiotic production"
+      },
+      "correctAnswer": "B",
+      "explanation": "Archaea possess distinctive branched-chain ether lipids in membranes, lack peptidoglycan in cell walls, and have eukaryotic-like rRNA sequences."
+    }
+  ]
+}

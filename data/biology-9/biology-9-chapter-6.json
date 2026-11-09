@@ -1,0 +1,490 @@
+{
+  "subject": "biology-9",
+  "chapterNumber": 6,
+  "chapterTitle": "Unit 06: Biomolecules & Cellular Chemistry",
+  "slug": "biology-9-chapter-6",
+  "description": "Major organic compounds: carbohydrates (monosaccharides, disaccharides, polysaccharides), proteins, lipids, nucleic acids (DNA double helix, RNA), and ATP.",
+  "totalQuestions": 40,
+  "questions": [
+    {
+      "id": "bio9-c6-q1",
+      "question": "What is the basic unit of proteins?",
+      "options": {
+        "A": "Nucleotide",
+        "B": "Amino acid",
+        "C": "Fatty acid",
+        "D": "Inorganic salts"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Amino acid') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q2",
+      "question": "Which lipids are primarily involved in cell membrane structure?",
+      "options": {
+        "A": "Triglycerides",
+        "B": "Phospholipids",
+        "C": "Steroids",
+        "D": "Water molecules"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Phospholipids') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q3",
+      "question": "What type of bond links amino acids in proteins?",
+      "options": {
+        "A": "Ionic bond",
+        "B": "Hydrogen bond",
+        "C": "Peptide bond",
+        "D": "Hydrogen ions"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Peptide bond') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q4",
+      "question": "Which monosaccharide is found in both RNA and ATP?",
+      "options": {
+        "A": "Glucose",
+        "B": "Ribose",
+        "C": "Fructose",
+        "D": "Steroid lipids"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Ribose') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q5",
+      "question": "Which structure in DNA stores genetic information?",
+      "options": {
+        "A": "Phosphate group",
+        "B": "Nitrogenous bases",
+        "C": "Sugar backbone",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Nitrogenous bases') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q6",
+      "question": "What is the function of RNA polymerase?",
+      "options": {
+        "A": "Synthesize proteins",
+        "B": "Copy DNA into RNA",
+        "C": "Attach amino acids to tRNA",
+        "D": "Inorganic salts"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Copy DNA into RNA') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q7",
+      "question": "Which of the following is NOT a type of carbohydrate?",
+      "options": {
+        "A": "Glycogen",
+        "B": "Cellulose",
+        "C": "Cholesterol",
+        "D": "Water molecules"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Cholesterol') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q8",
+      "question": "Where does translation occur in a cell?",
+      "options": {
+        "A": "Mitochondrion",
+        "B": "Ribosome",
+        "C": "Nucleus",
+        "D": "Hydrogen ions"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Ribosome') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q9",
+      "question": "What type of molecule is ATP?",
+      "options": {
+        "A": "Protein",
+        "B": "Nucleic acid",
+        "C": "Carbohydrate",
+        "D": "Steroid lipids"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Nucleic acid') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q10",
+      "question": "Which structure in RNA allows it to form secondary structures?",
+      "options": {
+        "A": "Ribose",
+        "B": "Phosphate group",
+        "C": "Nitrogenous bases",
+        "D": "None of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Nitrogenous bases') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q11",
+      "question": "What does the sequence of nitrogenous bases in DNA determine?",
+      "options": {
+        "A": "Cell function",
+        "B": "Protein sequence",
+        "C": "Lipid composition",
+        "D": "Inorganic salts"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Protein sequence') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q12",
+      "question": "Which class of lipids is most abundant in the body?",
+      "options": {
+        "A": "Steroids",
+        "B": "Phospholipids",
+        "C": "Triglycerides",
+        "D": "Water molecules"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Triglycerides') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q13",
+      "question": "What is the function of ribosomal RNA (rRNA)?",
+      "options": {
+        "A": "Carry genetic instructions",
+        "B": "Catalyze protein synthesis",
+        "C": "Form ribosome structure",
+        "D": "Hydrogen ions"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Form ribosome structure') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q14",
+      "question": "Which type of RNA carries genetic instructions from DNA?",
+      "options": {
+        "A": "rRNA",
+        "B": "mRNA",
+        "C": "tRNA",
+        "D": "Steroid lipids"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('mRNA') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q15",
+      "question": "Which polysaccharide is found in plant cell walls?",
+      "options": {
+        "A": "Glycogen",
+        "B": "Cellulose",
+        "C": "Sucrose",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Cellulose') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q16",
+      "question": "Which component of a nucleotide varies between DNA and RNA?",
+      "options": {
+        "A": "Phosphate group",
+        "B": "Sugar molecule",
+        "C": "Nitrogenous base",
+        "D": "Inorganic salts"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Sugar molecule') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q17",
+      "question": "Where is genetic information stored in eukaryotic cells?",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Cytoplasm",
+        "C": "Nucleus",
+        "D": "Water molecules"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Nucleus') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q18",
+      "question": "What is the function of tRNA in translation?",
+      "options": {
+        "A": "Carry genetic information",
+        "B": "Bring amino acids to the ribosome",
+        "C": "Form ribosomal subunits",
+        "D": "Hydrogen ions"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Bring amino acids to the ribosome') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q19",
+      "question": "What type of carbohydrate is used by animals for shortterm energy storage?",
+      "options": {
+        "A": "Starch",
+        "B": "Glycogen",
+        "C": "Cellulose",
+        "D": "Steroid lipids"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Glycogen') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q20",
+      "question": "Which bond forms between complementary nitrogenous bases in DNA?",
+      "options": {
+        "A": "Covalent bond",
+        "B": "Hydrogen bond",
+        "C": "Ionic bond",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Hydrogen bond') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q21",
+      "question": "Which molecule is responsible for the transport of amino acids during protein synthesis?",
+      "options": {
+        "A": "mRNA",
+        "B": "tRNA",
+        "C": "rRNA",
+        "D": "Inorganic salts"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('tRNA') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q22",
+      "question": "Which of the following is a function of phospholipids?",
+      "options": {
+        "A": "Store genetic information",
+        "B": "Form cell membranes",
+        "C": "Catalyze chemical reactions",
+        "D": "Water molecules"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Form cell membranes') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q23",
+      "question": "What is the primary function of proteins in cells?",
+      "options": {
+        "A": "Energy storage",
+        "B": "Catalyze reactions",
+        "C": "Store information",
+        "D": "Hydrogen ions"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Catalyze reactions') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q24",
+      "question": "Which carbohydrate is a disaccharide made of glucose and fructose?",
+      "options": {
+        "A": "Lactose",
+        "B": "Sucrose",
+        "C": "Maltose",
+        "D": "Steroid lipids"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Sucrose') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q25",
+      "question": "Which molecule is the primary carrier of genetic information?",
+      "options": {
+        "A": "RNA",
+        "B": "DNA",
+        "C": "Protein",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('DNA') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q26",
+      "question": "Which process converts mRNA into a protein?",
+      "options": {
+        "A": "Replication",
+        "B": "Transcription",
+        "C": "Translation",
+        "D": "Inorganic salts"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Translation') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q27",
+      "question": "Which type of lipid acts as a precursor for steroid hormones?",
+      "options": {
+        "A": "Phospholipids",
+        "B": "Triglycerides",
+        "C": "Cholesterol",
+        "D": "Water molecules"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Cholesterol') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q28",
+      "question": "Which type of RNA carries the information needed to assemble proteins?",
+      "options": {
+        "A": "rRNA",
+        "B": "mRNA",
+        "C": "tRNA",
+        "D": "Hydrogen ions"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('mRNA') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q29",
+      "question": "Which of the following is the structural component of the nucleosome?",
+      "options": {
+        "A": "Lipids",
+        "B": "RNA",
+        "C": "Histones",
+        "D": "Steroid lipids"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Histones') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q30",
+      "question": "What is the role of the ribosome in protein synthesis?",
+      "options": {
+        "A": "Synthesize mRNA",
+        "B": "Form peptide bonds between amino acids",
+        "C": "Attach amino acids to tRNA",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Form peptide bonds between amino acids') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q31",
+      "question": "Which process ensures the accuracy of protein synthesis?",
+      "options": {
+        "A": "Replication",
+        "B": "Transcription",
+        "C": "Translation",
+        "D": "Inorganic salts"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Translation') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q32",
+      "question": "Which of the following is a feature of RNA that differs from DNA?",
+      "options": {
+        "A": "Double-stranded",
+        "B": "Contains ribose",
+        "C": "Contains thymine",
+        "D": "Water molecules"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Contains ribose') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q33",
+      "question": "Which molecule is NOT involved in protein synthesis?",
+      "options": {
+        "A": "DNA",
+        "B": "RNA",
+        "C": "Glucose",
+        "D": "Hydrogen ions"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Glucose') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q34",
+      "question": "What is the function of glycogen in the liver?",
+      "options": {
+        "A": "Store fats",
+        "B": "Store genetic material",
+        "C": "Store glucose for energy",
+        "D": "Steroid lipids"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Store glucose for energy') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q35",
+      "question": "Which process involves the conversion of DNA into RNA?",
+      "options": {
+        "A": "Translation",
+        "B": "Replication",
+        "C": "Transcription",
+        "D": "None of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Transcription') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q36",
+      "question": "What type of bond links the sugar and phosphate groups in the DNA backbone?",
+      "options": {
+        "A": "Ionic bond",
+        "B": "Hydrogen bond",
+        "C": "Covalent bond",
+        "D": "Inorganic salts"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Covalent bond') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q37",
+      "question": "Which of the following is a function of carbohydrates in cells?",
+      "options": {
+        "A": "Store genetic information",
+        "B": "Provide energy",
+        "C": "Synthesize proteins",
+        "D": "Water molecules"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Provide energy') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q38",
+      "question": "What is the structure of a nucleotide in DNA?",
+      "options": {
+        "A": "Sugar, base, and phosphate",
+        "B": "Sugar, amino acid, and protein",
+        "C": "Base, amino acid, and phosphate",
+        "D": "Hydrogen ions"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Sugar, base, and phosphate') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q39",
+      "question": "What is the function of phospholipids in a membrane?",
+      "options": {
+        "A": "Provide energy",
+        "B": "Form the membrane structure",
+        "C": "Act as enzymes",
+        "D": "Steroid lipids"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Form the membrane structure') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    },
+    {
+      "id": "bio9-c6-q40",
+      "question": "Which type of RNA is involved in carrying amino acids during translation?",
+      "options": {
+        "A": "mRNA",
+        "B": "tRNA",
+        "C": "rRNA",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('tRNA') is the correct biological fact for Biomolecules & Cellular Chemistry."
+    }
+  ]
+}

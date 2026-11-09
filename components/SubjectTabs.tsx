@@ -23,6 +23,7 @@ interface SubjectTabsProps {
   islamiat9Chapters?: ChapterMeta[];
   chemistry9Chapters?: ChapterMeta[];
   cs9Chapters?: ChapterMeta[];
+  biology9Chapters?: ChapterMeta[];
 }
 
 export default function SubjectTabs({
@@ -43,9 +44,10 @@ export default function SubjectTabs({
   islamiat9Chapters = [],
   chemistry9Chapters = [],
   cs9Chapters = [],
+  biology9Chapters = [],
 }: SubjectTabsProps) {
   const [activeGrade, setActiveGrade] = useState<'9' | '11'>('11');
-  const [activeGrade9Subject, setActiveGrade9Subject] = useState<'urdu' | 'tarjuma' | 'english' | 'islamiat' | 'chemistry' | 'cs' | 'math' | 'physics'>('urdu');
+  const [activeGrade9Subject, setActiveGrade9Subject] = useState<'urdu' | 'tarjuma' | 'english' | 'islamiat' | 'chemistry' | 'cs' | 'biology' | 'math' | 'physics'>('urdu');
   const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry'>('physics');
 
   // Detect grade and subject from URL query on client mount
@@ -70,6 +72,8 @@ export default function SubjectTabs({
           setActiveGrade9Subject('chemistry');
         } else if (params.get('subject') === 'cs') {
           setActiveGrade9Subject('cs');
+        } else if (params.get('subject') === 'biology') {
+          setActiveGrade9Subject('biology');
         }
       } else if (params.get('grade') === '11') {
         setActiveGrade('11');
@@ -85,6 +89,7 @@ export default function SubjectTabs({
   const islamiat9Total = islamiat9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const chemistry9Total = chemistry9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const cs9Total = cs9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const biology9Total = biology9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -109,6 +114,8 @@ export default function SubjectTabs({
         ? chemistry9Chapters
         : activeGrade9Subject === 'cs'
         ? cs9Chapters
+        : activeGrade9Subject === 'biology'
+        ? biology9Chapters
         : activeGrade9Subject === 'math'
         ? math9Chapters
         : physics9Chapters
@@ -158,7 +165,7 @@ export default function SubjectTabs({
             >
               <Atom className="w-4 h-4 text-emerald-400" />
               <span>Class 9th (SSC-I)</span>
-              <span className="text-[10px] opacity-75 font-mono">8 Subjects</span>
+              <span className="text-[10px] opacity-75 font-mono">9 Subjects</span>
             </button>
             <button
               type="button"
@@ -195,6 +202,8 @@ export default function SubjectTabs({
                   ? 'Class 9th FBISE Chemistry (کیمسٹری)'
                   : activeGrade9Subject === 'cs'
                   ? 'Class 9th FBISE Computer Science (SSC-I)'
+                  : activeGrade9Subject === 'biology'
+                  ? 'Class 9th FBISE Biology (حیاتیات)'
                   : activeGrade9Subject === 'math'
                   ? 'Class 9th FBISE Mathematics (SSC-I)'
                   : 'Class 9th FBISE Physics (SSC-I)'
@@ -214,6 +223,8 @@ export default function SubjectTabs({
                   ? 'All 19 National Curriculum chapters (Nature of Science, Matter, Atomic Structure, Periodic Table, Bonding, Stoichiometry, Redox, Energetics, Equilibrium, Acids/Bases, Air & Water, Organic, Hydrocarbons, Biomolecules, Measurements, Separation, Industrial, Chromatography) + 4 Board Simulators.'
                   : activeGrade9Subject === 'cs'
                   ? 'Computer Systems, Computational Thinking, Programming Fundamentals, Data Analysis, AI Applications, Impacts & Entrepreneurship + 4 Board Simulators.'
+                  : activeGrade9Subject === 'biology'
+                  ? 'All 10 National Curriculum chapters (The Science of Biology, Biodiversity, The Cell, Cell Cycle, Tissues/Organs, Biomolecules, Enzymes, Plant Physiology, Floral Reproduction, Evolution) + 8 Board Simulators by Lecturer Rubina Ashraf.'
                   : activeGrade9Subject === 'math'
                   ? 'All 11 National Curriculum chapters (Real Numbers, Logarithms, Sets, Algebra, Geometry, Statistics) + 2 Board Simulators.'
                   : 'Explore all 9 National Curriculum units + 2 official Section A annual board examination simulators.'
@@ -316,6 +327,22 @@ export default function SubjectTabs({
                 <span>Computer Science</span>
                 <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
                   {cs9Chapters.length} Modules · {cs9Total} Qs
+                </span>
+              </button>
+
+              <button
+                type="button"
+                onClick={() => setActiveGrade9Subject('biology')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade9Subject === 'biology'
+                    ? 'bg-emerald-950 text-emerald-200 border-emerald-800 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <Dna className="w-4 h-4 text-emerald-400" />
+                <span>Biology (حیاتیات)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {biology9Chapters.length} Modules · {biology9Total} Qs
                 </span>
               </button>
 
@@ -521,6 +548,8 @@ export default function SubjectTabs({
                     ? 'Active Subject: Class 9th Chemistry (SSC-I Matric Part 1)'
                     : activeGrade9Subject === 'cs'
                     ? 'Active Subject: Class 9th Computer Science (SSC-I Matric Part 1)'
+                    : activeGrade9Subject === 'biology'
+                    ? 'Active Subject: Class 9th Biology (SSC-I Matric Part 1)'
                     : activeGrade9Subject === 'math'
                     ? 'Active Subject: Class 9th Mathematics (SSC-I Matric Part 1)'
                     : 'Active Subject: Class 9th Physics (SSC-I Matric Part 1)'
@@ -556,6 +585,8 @@ export default function SubjectTabs({
                     ? 'All 19 National Curriculum chapters (Nature of Science, Matter, Atomic Structure, Periodic Table, Bonding, Stoichiometry, Redox, Energetics, Equilibrium, Acids/Bases, Air & Water, Organic, Hydrocarbons, Biomolecules, Measurements, Separation, Industrial, Chromatography) + 4 official Section A simulators (Lecturer Ayesha Amjad).'
                     : activeGrade9Subject === 'cs'
                     ? 'All 7 National Curriculum chapters (Computer Systems, Algorithms, Web/JS, Data, AI, Impacts, Entrepreneurship) + 4 official Section A simulators by Lecturer Sabahat Ul Hasan & Aryan Ali.'
+                    : activeGrade9Subject === 'biology'
+                    ? 'All 10 National Curriculum chapters (The Science of Biology, Biodiversity, The Cell, Cell Cycle, Tissues/Organs, Biomolecules, Enzymes, Plant Physiology, Floral Reproduction, Evolution) + 8 official Section A simulators by Lecturer Rubina Ashraf.'
                     : activeGrade9Subject === 'math'
                     ? 'All 11 National Curriculum chapters (Real Numbers, Logarithms, Sets, Factorization, Linear Equations, Trigonometry, Coordinate Geometry, Straight Lines, Polygons, Practical Geometry, Statistics) + 2 official Section A annual board examination simulators.'
                     : 'All 9 National Curriculum units (Physical Quantities, Kinematics, Dynamics, Turning Effect, Pressure, Work & Energy, Density, Magnetism, Nature of Science) + 2 official Section A annual board examination simulators.'
@@ -596,6 +627,8 @@ export default function SubjectTabs({
                   ? chemistry9Total
                   : activeGrade9Subject === 'cs'
                   ? cs9Total
+                  : activeGrade9Subject === 'biology'
+                  ? biology9Total
                   : activeGrade9Subject === 'math'
                   ? math9Total
                   : physics9Total

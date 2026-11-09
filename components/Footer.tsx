@@ -25,6 +25,7 @@ export default function Footer() {
               Class 9th (SSC-I)
             </h4>
             <ul className="text-xs space-y-1.5 text-[var(--color-muted)] font-[family-name:var(--font-display)]">
+              <li className="font-semibold text-emerald-900">Biology (10 Units + 8 Simulators)</li>
               <li className="font-semibold text-cyan-900">Computer Science (7 Units + 4 Simulators)</li>
               <li className="font-semibold text-amber-800">Chemistry (19 Units + 4 Simulators)</li>
               <li className="font-semibold text-sky-900">English Compulsory (7 Units + 4 Simulators)</li>
@@ -33,9 +34,9 @@ export default function Footer() {
               <li className="font-semibold text-teal-800">ترجمۃ القرآن (9 Units + 4 Simulators)</li>
               <li className="font-semibold text-blue-900">Mathematics (11 Units + 2 Simulators)</li>
               <li className="font-semibold text-emerald-950">Physics (9 Units + 2 Simulators)</li>
-              <li className="pt-1 text-[11px]">• Algorithms, Web, AI, Bonding & Organic</li>
+              <li className="pt-1 text-[11px]">• Cytology, Genetics, Algorithms, AI & Bonding</li>
               <li className="text-[11px]">• Prepositions, Modals, Quran, Seerat & Math</li>
-              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 28 Board Examination Simulators</li>
+              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 36 Board Examination Simulators</li>
             </ul>
           </div>
 

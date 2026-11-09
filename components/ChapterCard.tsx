@@ -31,13 +31,14 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isIslamiat9 = chapter.subject === 'islamiat-9' || chapter.slug.startsWith('islamiat-9');
   const isChemistry9 = chapter.subject === 'chemistry-9' || chapter.slug.startsWith('chemistry-9');
   const isCS9 = chapter.subject === 'cs-9' || chapter.slug.startsWith('cs-9');
+  const isBiology9 = chapter.subject === 'biology-9' || chapter.slug.startsWith('biology-9');
   const isUrdu = (chapter.subject === 'urdu' || chapter.slug.startsWith('urdu')) && !isUrdu9;
   const isMath = (chapter.subject === 'math' || chapter.slug.startsWith('math-unit-') || chapter.slug.startsWith('math-model-paper-')) && !isMath9;
   const isEnglish = (chapter.subject === 'english' || chapter.slug.startsWith('english')) && !isEnglish9;
   const isCS = (chapter.subject === 'cs' || chapter.slug.startsWith('cs')) && !isCS9;
   const isIslamiat = (chapter.subject === 'islamiat' || chapter.slug.startsWith('islamiat')) && !isIslamiat9;
   const isTarjuma = (chapter.subject === 'tarjuma' || chapter.slug.startsWith('tarjuma')) && !isTarjuma9;
-  const isBiology = chapter.subject === 'biology' || chapter.slug.startsWith('biology');
+  const isBiology = (chapter.subject === 'biology' || chapter.slug.startsWith('biology')) && !isBiology9;
   const isChemistry = (chapter.subject === 'chemistry' || chapter.slug.startsWith('chemistry')) && !isChemistry9;
   const isRtl = isUrdu || isIslamiat || isTarjuma || isUrdu9 || isTarjuma9 || isIslamiat9;
 
@@ -52,6 +53,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     chapter.slug.startsWith('islamiat-9-model-paper-') ||
     chapter.slug.startsWith('chemistry-9-model-paper-') ||
     chapter.slug.startsWith('cs-9-model-paper-') ||
+    chapter.slug.startsWith('biology-9-model-paper-') ||
     chapter.slug.startsWith('cs-model-paper-') ||
     chapter.slug.startsWith('islamiat-model-paper-') ||
     chapter.slug.startsWith('tarjuma-model-paper-') ||
@@ -77,6 +79,8 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (isChemistry9) tagLabel = `Class 9 · Chemistry Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (chapter.slug.startsWith('cs-9-model-paper-')) tagLabel = `Class 9 CS Simulator ${chapter.slug.split('-').pop()}`;
   else if (isCS9) tagLabel = `Class 9 · CS Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (chapter.slug.startsWith('biology-9-model-paper-')) tagLabel = `Class 9 Biology Simulator ${chapter.slug.split('-').pop()}`;
+  else if (isBiology9) tagLabel = `Class 9 · Bio Chapter ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (chapter.slug === 'past-papers') tagLabel = 'Board Simulator';
   else if (chapter.slug === 'urdu-model-paper') tagLabel = 'Urdu Full Board Simulator';
   else if (chapter.slug === 'urdu-ilm-e-bayan') tagLabel = 'Urdu Rhetoric (علم بیان)';
@@ -98,7 +102,11 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (isUrdu) tagLabel = `Urdu Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
 
   let description = `Comprehensive conceptual questions, dimensional formulas, and numericals for ${chapter.title} aligned with textbook SLOs.`;
-  if (chapter.slug.startsWith('cs-9-model-paper-')) {
+  if (chapter.slug.startsWith('biology-9-model-paper-')) {
+    description = `Official Federal Board Section A SSC-I annual examination simulation (Lecturer Rubina Ashraf). 12 MCQs, 20-minute timer with complete biological justifications.`;
+  } else if (isBiology9) {
+    description = `Official FBISE SSC-I Class 9 Biology: ${chapter.title}. Core conceptual questions, cellular processes, organ systems, and SLO justifications.`;
+  } else if (chapter.slug.startsWith('cs-9-model-paper-')) {
     description = `Official Federal Board Section A SSC-I annual examination simulation (Lecturer Sabahat Ul Hasan). 12 MCQs, 20-minute timer with complete computer science justifications.`;
   } else if (isCS9) {
     description = `Official FBISE SSC-I Class 9 Computer Science: ${chapter.title}. Core conceptual questions, system architectures, algorithmic thinking, and SLO justifications.`;

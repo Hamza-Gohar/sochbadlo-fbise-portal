@@ -1,0 +1,430 @@
+{
+  "subject": "biology-9",
+  "chapterNumber": 7,
+  "chapterTitle": "Unit 07: Enzymes & Cellular Metabolism",
+  "slug": "biology-9-chapter-7",
+  "description": "Characteristics of enzymes, activation energy, lock-and-key model, induced-fit model, factors affecting enzyme action (pH, temperature), and metabolic pathways.",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": "bio9-c7-q1",
+      "question": "Metabolism is defined as:",
+      "options": {
+        "A": "All processes of digestion",
+        "B": "All reactions in the cell",
+        "C": "Only anabolic reactions",
+        "D": "Only catabolic reactions"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('All reactions in the cell') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q2",
+      "question": "The two main types of metabolic reactions are:",
+      "options": {
+        "A": "Photosynthesis and respiration",
+        "B": "Digestion and absorption",
+        "C": "Anabolism and catabolism",
+        "D": "Hydrolysis and dehydration"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Anabolism and catabolism') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q3",
+      "question": "Anabolism refers to:",
+      "options": {
+        "A": "Breaking down of substances",
+        "B": "Formation of large molecules from small ones",
+        "C": "Energy release",
+        "D": "Digestion of food"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Formation of large molecules from small ones') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q4",
+      "question": "Catabolism is a process in which:",
+      "options": {
+        "A": "Energy is stored",
+        "B": "Molecules are built",
+        "C": "Molecules are broken down",
+        "D": "Glucose is formed"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Molecules are broken down') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q5",
+      "question": "Photosynthesis is an example of:",
+      "options": {
+        "A": "Catabolism",
+        "B": "Hydrolysis",
+        "C": "Anabolism",
+        "D": "Diffusion"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Anabolism') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q6",
+      "question": "Respiration is an example of:",
+      "options": {
+        "A": "Anabolism",
+        "B": "Catabolism",
+        "C": "Osmosis",
+        "D": "Filtration"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Catabolism') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q7",
+      "question": "The sum of all chemical reactions in the body is called:",
+      "options": {
+        "A": "Respiration",
+        "B": "Digestion",
+        "C": "Metabolism",
+        "D": "Homeostasis"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Metabolism') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q8",
+      "question": "Which of the following stores energy?",
+      "options": {
+        "A": "Catabolic reactions",
+        "B": "Anaerobic respiration",
+        "C": "Anabolic reactions",
+        "D": "All of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Anabolic reactions') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q9",
+      "question": "Which one releases energy?",
+      "options": {
+        "A": "Anabolic process",
+        "B": "Catabolic process",
+        "C": "Homeostasis",
+        "D": "Ingestion"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Catabolic process') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q10",
+      "question": "Protein synthesis is an example of:",
+      "options": {
+        "A": "Digestion",
+        "B": "Anabolism",
+        "C": "Catabolism",
+        "D": "Oxidation"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Anabolism') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q11",
+      "question": "The breakdown of glucose in respiration is a:",
+      "options": {
+        "A": "Catabolic process",
+        "B": "Metabolic block",
+        "C": "Genetic process",
+        "D": "Homeostatic reaction"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Catabolic process') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q12",
+      "question": "The organelle involved in respiration is:",
+      "options": {
+        "A": "Ribosome",
+        "B": "Golgi body",
+        "C": "Mitochondria",
+        "D": "Nucleus"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Mitochondria') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q13",
+      "question": "The organelle for protein synthesis is:",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Ribosome",
+        "C": "Lysosome",
+        "D": "Vacuole"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Ribosome') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q14",
+      "question": "Which molecule is known as the energy currency of the cell?",
+      "options": {
+        "A": "DNA",
+        "B": "ATP",
+        "C": "RNA",
+        "D": "Enzyme"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('ATP') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q15",
+      "question": "ATP is produced during:",
+      "options": {
+        "A": "Anabolic reactions",
+        "B": "Catabolic reactions",
+        "C": "Passive transport",
+        "D": "Endocytosis"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Catabolic reactions') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q16",
+      "question": "Hydrolysis is an example of:",
+      "options": {
+        "A": "Anabolism",
+        "B": "Catabolism",
+        "C": "Polymerization",
+        "D": "None"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Catabolism') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q17",
+      "question": "The raw material of anabolic reactions is:",
+      "options": {
+        "A": "Large molecules",
+        "B": "Small molecules",
+        "C": "ATP",
+        "D": "Enzymes"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Small molecules') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q18",
+      "question": "Enzymes are:",
+      "options": {
+        "A": "Proteins",
+        "B": "Carbohydrates",
+        "C": "Lipids",
+        "D": "Sugars"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Proteins') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q19",
+      "question": "The site of metabolism in a cell is mainly the:",
+      "options": {
+        "A": "Cell wall",
+        "B": "Cytoplasm",
+        "C": "Vacuole",
+        "D": "Plasma membrane"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Cytoplasm') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q20",
+      "question": "Which of these is not a part of metabolism?",
+      "options": {
+        "A": "Anabolism",
+        "B": "Catabolism",
+        "C": "Diffusion",
+        "D": "All are part"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Diffusion') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q21",
+      "question": "The process of converting glucose to pyruvate is:",
+      "options": {
+        "A": "Glycolysis",
+        "B": "Photosynthesis",
+        "C": "Anabolism",
+        "D": "Transcription"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Glycolysis') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q22",
+      "question": "Liver plays an important role in:",
+      "options": {
+        "A": "Photosynthesis",
+        "B": "Metabolism",
+        "C": "Filtration",
+        "D": "Excretion"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Metabolism') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q23",
+      "question": "Which reaction uses ATP?",
+      "options": {
+        "A": "Anabolic",
+        "B": "Catabolic",
+        "C": "Both",
+        "D": "None"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Anabolic') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q24",
+      "question": "Which is NOT true about catabolism?",
+      "options": {
+        "A": "Releases energy",
+        "B": "Includes respiration",
+        "C": "Breaks down molecules",
+        "D": "Forms proteins"
+      },
+      "correctAnswer": "D",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option D ('Forms proteins') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q25",
+      "question": "Glycogen formation from glucose is:",
+      "options": {
+        "A": "Catabolic",
+        "B": "Anabolic",
+        "C": "Hydrolytic",
+        "D": "None"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Anabolic') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q26",
+      "question": "The energy released by catabolism is used for:",
+      "options": {
+        "A": "Breaking food",
+        "B": "Building molecules",
+        "C": "Diffusion",
+        "D": "Maintaining shape"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Building molecules') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q27",
+      "question": "Which enzyme is used in protein digestion?",
+      "options": {
+        "A": "Lipase",
+        "B": "Amylase",
+        "C": "Protease",
+        "D": "Maltase"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Protease') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q28",
+      "question": "Lactic acid fermentation is a:",
+      "options": {
+        "A": "Catabolic process",
+        "B": "Anabolic process",
+        "C": "Neutral process",
+        "D": "None"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Catabolic process') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q29",
+      "question": "The term metabolism was introduced by:",
+      "options": {
+        "A": "Robert Hooke",
+        "B": "Claude Bernard",
+        "C": "Rudolf Virchow",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Claude Bernard') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q30",
+      "question": "Which of these processes occurs faster?",
+      "options": {
+        "A": "Anabolism",
+        "B": "Catabolism",
+        "C": "Both equal",
+        "D": "None"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Catabolism') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q31",
+      "question": "What is the function of enzymes in metabolism?",
+      "options": {
+        "A": "Slow down reactions",
+        "B": "Act as substrates",
+        "C": "Speed up reactions",
+        "D": "Inhibit energy production"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Speed up reactions') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q32",
+      "question": "Which of these is a catabolic pathway?",
+      "options": {
+        "A": "Protein synthesis",
+        "B": "DNA replication",
+        "C": "Glycolysis",
+        "D": "Lipid formation"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Glycolysis') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q33",
+      "question": "Which process converts ADP to ATP?",
+      "options": {
+        "A": "Hydrolysis",
+        "B": "Phosphorylation",
+        "C": "Glycolysis",
+        "D": "Dehydration"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Phosphorylation') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q34",
+      "question": "Nutrients are converted into energy through:",
+      "options": {
+        "A": "Anabolic pathways",
+        "B": "Metabolism",
+        "C": "Reproduction",
+        "D": "Circulation"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Metabolism') is the correct biological fact for Enzymes & Cellular Metabolism."
+    },
+    {
+      "id": "bio9-c7-q35",
+      "question": "The study of metabolism helps in understanding:",
+      "options": {
+        "A": "Cell division",
+        "B": "Growth",
+        "C": "Energy transformation",
+        "D": "Nerve signals"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Energy transformation') is the correct biological fact for Enzymes & Cellular Metabolism."
+    }
+  ]
+}

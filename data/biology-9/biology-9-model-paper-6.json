@@ -1,0 +1,154 @@
+{
+  "subject": "biology-9",
+  "chapterNumber": 16,
+  "chapterTitle": "Federal Board Half-Book Exam Simulator 01 (Ch 1–5)",
+  "slug": "biology-9-model-paper-6",
+  "description": "Official 12-mark Section A Federal Board half-book exam simulator covering Units 1 to 5 by Lecturer Rubina Ashraf.",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "id": "bio9-mp6-q1",
+      "question": "Which phase of interphase is specifically responsible for the synthesis of spindle apparatus tubulin proteins?",
+      "options": {
+        "A": "G1 phase",
+        "B": "S phase",
+        "C": "G2 phase",
+        "D": "M phase"
+      },
+      "correctAnswer": "C",
+      "explanation": "During G2, cells synthesize tubulin subunits and ATP required for assembly of mitotic spindle fibers."
+    },
+    {
+      "id": "bio9-mp6-q2",
+      "question": "When animals walk by pushing against the earth and moving forward according to Newtonian laws, this interdisciplinary study belongs to:",
+      "options": {
+        "A": "Physiology",
+        "B": "Biophysics",
+        "C": "Ecology",
+        "D": "Immunology"
+      },
+      "correctAnswer": "B",
+      "explanation": "Biophysics applies the physical principles of mechanics, forces, and thermodynamics to biological systems and locomotion."
+    },
+    {
+      "id": "bio9-mp6-q3",
+      "question": "In the hierarchy of biological organization, if the tissue level fails to develop, which subsequent level cannot form?",
+      "options": {
+        "A": "Molecular level",
+        "B": "Atomic level",
+        "C": "Organ level",
+        "D": "Organelle level"
+      },
+      "correctAnswer": "C",
+      "explanation": "Organs are constructed from cooperatively organized groups of different tissues; without tissues, organs cannot exist."
+    },
+    {
+      "id": "bio9-mp6-q4",
+      "question": "Colonial cellular organization (e.g., Volvox) is predominantly exhibited by members of kingdom:",
+      "options": {
+        "A": "Animalia",
+        "B": "Protista",
+        "C": "Fungi",
+        "D": "Plantae"
+      },
+      "correctAnswer": "B",
+      "explanation": "Volvox colonies represent aggregates of photosynthetic eukaryotic cells classified within Kingdom Protista."
+    },
+    {
+      "id": "bio9-mp6-q5",
+      "question": "Which fundamental diagnostic property is shared among viruses, prions, and viroids?",
+      "options": {
+        "A": "Aerobic respiration",
+        "B": "Amoeboid movement",
+        "C": "Obligate infectious acellular nature",
+        "D": "Cellular excretion"
+      },
+      "correctAnswer": "C",
+      "explanation": "All three are sub-cellular infectious agents that reproduce exclusively by parasitizing cellular host machinery."
+    },
+    {
+      "id": "bio9-mp6-q6",
+      "question": "Which specialized plastids store non-pigmented food reserves such as starch granules?",
+      "options": {
+        "A": "Chloroplasts",
+        "B": "Chromoplasts",
+        "C": "Leucoplasts",
+        "D": "Elaioplasts only"
+      },
+      "correctAnswer": "C",
+      "explanation": "Leucoplasts are non-pigmented plastids that store starch, proteins, and lipids in seeds and storage roots."
+    },
+    {
+      "id": "bio9-mp6-q7",
+      "question": "Which anatomical layer of the leaf is primarily specialized for light capture and carbon fixation?",
+      "options": {
+        "A": "Palisade mesophyll",
+        "B": "Upper cuticle",
+        "C": "Xylem vessels",
+        "D": "Lower epidermis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Columnar palisade mesophyll cells absorb maximum incident sunlight and contain the highest density of chloroplasts."
+    },
+    {
+      "id": "bio9-mp6-q8",
+      "question": "How do mitotic spindle fibers establish attachment to duplicated chromosomes?",
+      "options": {
+        "A": "Centrosome matrix",
+        "B": "Kinetochore protein complexes",
+        "C": "Direct DNA telomeres",
+        "D": "Nuclear lamins"
+      },
+      "correctAnswer": "B",
+      "explanation": "Kinetochores assembled on centromeric chromatin capture microtubule plus-ends during prometaphase."
+    },
+    {
+      "id": "bio9-mp6-q9",
+      "question": "In a cross-section of a green leaf, which vascular cells are responsible for translocating water?",
+      "options": {
+        "A": "Phloem sieve tubes",
+        "B": "Companion cells",
+        "C": "Xylem vessels & tracheids",
+        "D": "Bundle sheath parenchyma"
+      },
+      "correctAnswer": "C",
+      "explanation": "Xylem vessels carry water and mineral nutrients from root systems through the petiole and veins to leaf mesophyll."
+    },
+    {
+      "id": "bio9-mp6-q10",
+      "question": "Which organelle, present in animal cells to organize centrosomes, is absent in higher plant cells?",
+      "options": {
+        "A": "Centriole",
+        "B": "Golgi body",
+        "C": "Mitochondrion",
+        "D": "Ribosome"
+      },
+      "correctAnswer": "A",
+      "explanation": "Higher plant cells lack centrioles but assemble functional mitotic spindles through alternative microtubule organizing centers."
+    },
+    {
+      "id": "bio9-mp6-q11",
+      "question": "A tentative, testable proposition formulated on the basis of biological observations is a:",
+      "options": {
+        "A": "Hypothesis",
+        "B": "Deduction",
+        "C": "Scientific law",
+        "D": "Established theory"
+      },
+      "correctAnswer": "A",
+      "explanation": "A hypothesis is an educated, testable explanation for an observed biological phenomenon."
+    },
+    {
+      "id": "bio9-mp6-q12",
+      "question": "The comprehensive scientific study of organismal diversity and phylogenetic evolutionary relationships is:",
+      "options": {
+        "A": "Artificial classification",
+        "B": "Descriptive morphology",
+        "C": "Systematics",
+        "D": "Binomial nomenclature"
+      },
+      "correctAnswer": "C",
+      "explanation": "Systematics classifies biodiversity while interpreting evolutionary relationships and reconstructing phylogenies."
+    }
+  ]
+}

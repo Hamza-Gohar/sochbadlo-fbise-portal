@@ -1,0 +1,550 @@
+{
+  "subject": "biology-9",
+  "chapterNumber": 3,
+  "chapterTitle": "Unit 03: The Cell: Structure, Functions & Organelles",
+  "slug": "biology-9-chapter-3",
+  "description": "Cell theory, microscopy, cellular ultrastructure (nucleus, mitochondria, ribosomes, plastids, ER, Golgi, lysosomes), cytoskeleton, and plant vs animal cells.",
+  "totalQuestions": 45,
+  "questions": [
+    {
+      "id": "bio9-c3-q1",
+      "question": "The basic structural and functional unit of life is the:",
+      "options": {
+        "A": "Organ",
+        "B": "Tissue",
+        "C": "Cell",
+        "D": "Organism"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Cell') is the correct biological fact for The Cell."
+    },
+    {
+      "id": "bio9-c3-q2",
+      "question": "Which organelle is known as the \"powerhouse of the cell\"?",
+      "options": {
+        "A": "Nucleus",
+        "B": "Lysosome",
+        "C": "Mitochondrion",
+        "D": "Ribosome"
+      },
+      "correctAnswer": "C",
+      "explanation": "Mitochondrion"
+    },
+    {
+      "id": "bio9-c3-q3",
+      "question": "The cell wall is found in:",
+      "options": {
+        "A": "Animal cells only",
+        "B": "Plant cells only",
+        "C": "Both plant and animal cells",
+        "D": "Bacteria only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Plant cells only"
+    },
+    {
+      "id": "bio9-c3-q4",
+      "question": "The cell membrane is also called the:",
+      "options": {
+        "A": "Nuclear envelope",
+        "B": "Plasma membrane",
+        "C": "Cell wall",
+        "D": "Cytoplasm"
+      },
+      "correctAnswer": "B",
+      "explanation": "Plasma membrane"
+    },
+    {
+      "id": "bio9-c3-q5",
+      "question": "The jelly-like fluid inside the cell is called:",
+      "options": {
+        "A": "Nucleus",
+        "B": "Cytoplasm",
+        "C": "Mitochondria",
+        "D": "Golgi apparatus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cytoplasm"
+    },
+    {
+      "id": "bio9-c3-q6",
+      "question": "Which organelle is responsible for protein synthesis?",
+      "options": {
+        "A": "Golgi bodies",
+        "B": "Lysosomes",
+        "C": "Ribosomes",
+        "D": "Nucleus"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ribosomes"
+    },
+    {
+      "id": "bio9-c3-q7",
+      "question": "The Golgi apparatus modifies and packages:",
+      "options": {
+        "A": "Proteins",
+        "B": "Lipids",
+        "C": "DNA",
+        "D": "RNA"
+      },
+      "correctAnswer": "A",
+      "explanation": "Proteins"
+    },
+    {
+      "id": "bio9-c3-q8",
+      "question": "Lysosomes are also called:",
+      "options": {
+        "A": "Protein factories",
+        "B": "Digestive bags",
+        "C": "Powerhouses",
+        "D": "Control centers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Digestive bags"
+    },
+    {
+      "id": "bio9-c3-q9",
+      "question": "Which organelle stores water, waste, and nutrients?",
+      "options": {
+        "A": "Ribosomes",
+        "B": "Nucleus",
+        "C": "Vacuole",
+        "D": "Mitochondria"
+      },
+      "correctAnswer": "C",
+      "explanation": "Vacuole"
+    },
+    {
+      "id": "bio9-c3-q10",
+      "question": "Which plastid stores starch?",
+      "options": {
+        "A": "Chromoplast",
+        "B": "Leucoplast",
+        "C": "Chloroplast",
+        "D": "Golgi bodies"
+      },
+      "correctAnswer": "B",
+      "explanation": "Leucoplast"
+    },
+    {
+      "id": "bio9-c3-q11",
+      "question": "Which cytoskeletal structure helps in cell division?",
+      "options": {
+        "A": "Microtubules",
+        "B": "Cilia",
+        "C": "Flagella",
+        "D": "Centrioles"
+      },
+      "correctAnswer": "D",
+      "explanation": "Centrioles"
+    },
+    {
+      "id": "bio9-c3-q12",
+      "question": "Cilia and flagella help in:",
+      "options": {
+        "A": "Respiration",
+        "B": "Protein synthesis",
+        "C": "Movement",
+        "D": "Digestion"
+      },
+      "correctAnswer": "C",
+      "explanation": "Movement"
+    },
+    {
+      "id": "bio9-c3-q13",
+      "question": "The nucleus controls:",
+      "options": {
+        "A": "Digestion",
+        "B": "Cellular activities",
+        "C": "Movement",
+        "D": "Photosynthesis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cellular activities"
+    },
+    {
+      "id": "bio9-c3-q14",
+      "question": "What is the function of chromoplasts?",
+      "options": {
+        "A": "Store pigments",
+        "B": "Store starch",
+        "C": "Produce ATP",
+        "D": "Transport proteins"
+      },
+      "correctAnswer": "A",
+      "explanation": "Store pigments"
+    },
+    {
+      "id": "bio9-c3-q15",
+      "question": "The smooth endoplasmic reticulum (SER) synthesizes:",
+      "options": {
+        "A": "Proteins",
+        "B": "Lipids",
+        "C": "Carbohydrates",
+        "D": "DNA"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lipids"
+    },
+    {
+      "id": "bio9-c3-q16",
+      "question": "Division of labor in multicellular organisms means:",
+      "options": {
+        "A": "Every cell performs all functions",
+        "B": "Different cells perform specialized functions",
+        "C": "Cells work independently",
+        "D": "Only one organ functions at a time"
+      },
+      "correctAnswer": "B",
+      "explanation": "Different cells perform specialized functions"
+    },
+    {
+      "id": "bio9-c3-q17",
+      "question": "Which organelle contains digestive enzymes?",
+      "options": {
+        "A": "Lysosomes",
+        "B": "Ribosomes",
+        "C": "Nucleus",
+        "D": "Centrioles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lysosomes"
+    },
+    {
+      "id": "bio9-c3-q18",
+      "question": "The endoplasmic reticulum is responsible for:",
+      "options": {
+        "A": "DNA replication",
+        "B": "Transporting materials",
+        "C": "Cell division",
+        "D": "Photosynthesis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Transporting materials"
+    },
+    {
+      "id": "bio9-c3-q19",
+      "question": "What makes plant and animal cells structurally different?",
+      "options": {
+        "A": "Plant cells lack vacuoles",
+        "B": "Animal cells lack mitochondria",
+        "C": "Plant cells have cell walls",
+        "D": "Animal cells have chloroplasts"
+      },
+      "correctAnswer": "C",
+      "explanation": "Plant cells have cell walls"
+    },
+    {
+      "id": "bio9-c3-q20",
+      "question": "Stem cells are unique because they:",
+      "options": {
+        "A": "Perform a single function",
+        "B": "Are specialized from birth",
+        "C": "Can develop into different cell types",
+        "D": "Do not divide"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Can develop into different cell types') is the correct biological fact for The Cell."
+    },
+    {
+      "id": "bio9-c3-q21",
+      "question": "Which organelle contains genetic material?",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Nucleus",
+        "C": "Ribosomes",
+        "D": "Golgi bodies"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nucleus"
+    },
+    {
+      "id": "bio9-c3-q22",
+      "question": "The cytoskeleton is made of:",
+      "options": {
+        "A": "Lipids",
+        "B": "Proteins",
+        "C": "Nucleic acids",
+        "D": "Carbohydrates"
+      },
+      "correctAnswer": "B",
+      "explanation": "Proteins"
+    },
+    {
+      "id": "bio9-c3-q23",
+      "question": "In animal cells, centrioles help in:",
+      "options": {
+        "A": "Photosynthesis",
+        "B": "Protein synthesis",
+        "C": "Cell division",
+        "D": "Lipid production"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Cell division') is the correct biological fact for The Cell."
+    },
+    {
+      "id": "bio9-c3-q24",
+      "question": "Which organelle is absent in animal cells?",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Chloroplast",
+        "C": "Ribosomes",
+        "D": "Nucleus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chloroplast"
+    },
+    {
+      "id": "bio9-c3-q25",
+      "question": "The flagella in bacteria help in:",
+      "options": {
+        "A": "ATP production",
+        "B": "Photosynthesis",
+        "C": "Locomotion",
+        "D": "DNA replication"
+      },
+      "correctAnswer": "C",
+      "explanation": "Locomotion"
+    },
+    {
+      "id": "bio9-c3-q26",
+      "question": "Cell specialization means:",
+      "options": {
+        "A": "Cells perform different functions",
+        "B": "All cells are identical",
+        "C": "Cells lose their nucleus",
+        "D": "Cells stop growing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cells perform different functions"
+    },
+    {
+      "id": "bio9-c3-q27",
+      "question": "Which organelle converts glucose into energy?",
+      "options": {
+        "A": "Ribosomes",
+        "B": "Lysosomes",
+        "C": "Mitochondria",
+        "D": "Nucleus"
+      },
+      "correctAnswer": "C",
+      "explanation": "Mitochondria"
+    },
+    {
+      "id": "bio9-c3-q28",
+      "question": "Which cell part is semipermeable?",
+      "options": {
+        "A": "Cell wall",
+        "B": "Cytoplasm",
+        "C": "Cell membrane",
+        "D": "Nucleus"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Cell membrane') is the correct biological fact for The Cell."
+    },
+    {
+      "id": "bio9-c3-q29",
+      "question": "What are stem cells used for in medicine?",
+      "options": {
+        "A": "Treating genetic disorders",
+        "B": "Producing oxygen",
+        "C": "Making proteins",
+        "D": "Storing energy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Treating genetic disorders"
+    },
+    {
+      "id": "bio9-c3-q30",
+      "question": "The Golgi apparatus is responsible for:",
+      "options": {
+        "A": "Transporting proteins",
+        "B": "Producing ATP",
+        "C": "Cell division",
+        "D": "DNA replication"
+      },
+      "correctAnswer": "A",
+      "explanation": "Transporting proteins"
+    },
+    {
+      "id": "bio9-c3-q31",
+      "question": "The rough ER appears rough due to the presence of:",
+      "options": {
+        "A": "Mitochondria",
+        "B": "Ribosomes",
+        "C": "Lysosomes",
+        "D": "Golgi bodies"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ribosomes"
+    },
+    {
+      "id": "bio9-c3-q32",
+      "question": "What is the function of vacuoles in plant cells?",
+      "options": {
+        "A": "ATP production",
+        "B": "Protein synthesis",
+        "C": "Storage of water and nutrients",
+        "D": "Cell division"
+      },
+      "correctAnswer": "C",
+      "explanation": "Storage of water and nutrients"
+    },
+    {
+      "id": "bio9-c3-q33",
+      "question": "Cilia and flagella are made up of:",
+      "options": {
+        "A": "Proteins",
+        "B": "Carbohydrates",
+        "C": "Microtubules",
+        "D": "Lipids"
+      },
+      "correctAnswer": "C",
+      "explanation": "Microtubules"
+    },
+    {
+      "id": "bio9-c3-q34",
+      "question": "Mitochondria are present in:",
+      "options": {
+        "A": "Plant cells only",
+        "B": "Animal cells only",
+        "C": "Both plant and animal cells",
+        "D": "Prokaryotic cells"
+      },
+      "correctAnswer": "C",
+      "explanation": "Both plant and animal cells"
+    },
+    {
+      "id": "bio9-c3-q35",
+      "question": "The leucoplast is responsible for storing:",
+      "options": {
+        "A": "Pigments",
+        "B": "Starch",
+        "C": "Proteins",
+        "D": "Lipids"
+      },
+      "correctAnswer": "B",
+      "explanation": "Starch"
+    },
+    {
+      "id": "bio9-c3-q36",
+      "question": "Chromoplasts are found in:",
+      "options": {
+        "A": "Roots",
+        "B": "Stems",
+        "C": "Colored plant parts",
+        "D": "Animal cells"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Colored plant parts') is the correct biological fact for The Cell."
+    },
+    {
+      "id": "bio9-c3-q37",
+      "question": "The nucleolus is found inside:",
+      "options": {
+        "A": "Vacuole",
+        "B": "Nucleus",
+        "C": "Mitochondria",
+        "D": "Golgi apparatus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nucleus"
+    },
+    {
+      "id": "bio9-c3-q38",
+      "question": "Which organelle contains its own DNA and ribosomes?",
+      "options": {
+        "A": "Lysosome",
+        "B": "Mitochondria",
+        "C": "Ribosome",
+        "D": "Golgi apparatus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mitochondria"
+    },
+    {
+      "id": "bio9-c3-q39",
+      "question": "The primary function of ribosomes is:",
+      "options": {
+        "A": "DNA synthesis",
+        "B": "Lipid formation",
+        "C": "Protein synthesis",
+        "D": "ATP production"
+      },
+      "correctAnswer": "C",
+      "explanation": "Protein synthesis"
+    },
+    {
+      "id": "bio9-c3-q40",
+      "question": "Which organelle is involved in detoxification of drugs?",
+      "options": {
+        "A": "Golgi apparatus",
+        "B": "Rough ER",
+        "C": "Smooth ER",
+        "D": "Lysosome"
+      },
+      "correctAnswer": "C",
+      "explanation": "Smooth ER"
+    },
+    {
+      "id": "bio9-c3-q41",
+      "question": "Lysosomes are abundant in:",
+      "options": {
+        "A": "Nerve cells",
+        "B": "Muscle cells",
+        "C": "White blood cells",
+        "D": "Plant cells"
+      },
+      "correctAnswer": "C",
+      "explanation": "White blood cells"
+    },
+    {
+      "id": "bio9-c3-q42",
+      "question": "Which part of the cytoskeleton gives shape and support to the cell?",
+      "options": {
+        "A": "Microtubules",
+        "B": "Lysosomes",
+        "C": "Ribosomes",
+        "D": "Chromoplasts"
+      },
+      "correctAnswer": "A",
+      "explanation": "Microtubules"
+    },
+    {
+      "id": "bio9-c3-q43",
+      "question": "Which organelle is missing in prokaryotic cells?",
+      "options": {
+        "A": "Ribosome",
+        "B": "Nucleus",
+        "C": "Plasma membrane",
+        "D": "Cytoplasm"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nucleus"
+    },
+    {
+      "id": "bio9-c3-q44",
+      "question": "Centrioles are absent in:",
+      "options": {
+        "A": "Animal cells",
+        "B": "Prokaryotic cells",
+        "C": "Plant cells",
+        "D": "Fungal cells"
+      },
+      "correctAnswer": "C",
+      "explanation": "Plant cells"
+    },
+    {
+      "id": "bio9-c3-q45",
+      "question": "The Golgi apparatus forms:",
+      "options": {
+        "A": "ATP",
+        "B": "Vesicles",
+        "C": "Ribosomes",
+        "D": "DNA"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vesicles"
+    }
+  ]
+}

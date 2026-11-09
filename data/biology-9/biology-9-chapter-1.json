@@ -1,0 +1,730 @@
+{
+  "subject": "biology-9",
+  "chapterNumber": 1,
+  "chapterTitle": "Unit 01: The Science of Biology & Scientific Method",
+  "slug": "biology-9-chapter-1",
+  "description": "Introduction to biological science, major branches (morphology, physiology, histology, genetics), Quranic references, scientific problem-solving, and levels of biological organization.",
+  "totalQuestions": 60,
+  "questions": [
+    {
+      "id": "bio9-c1-q1",
+      "question": "Biology is the study of:",
+      "options": {
+        "A": "Earth",
+        "B": "Life",
+        "C": "Universe",
+        "D": "Machines"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Life') is the correct biological fact for The Science of Biology & Scientific Method."
+    },
+    {
+      "id": "bio9-c1-q2",
+      "question": "The scientific method begins with:",
+      "options": {
+        "A": "Experimentation",
+        "B": "Observation",
+        "C": "Conclusion",
+        "D": "Theory formation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Observation"
+    },
+    {
+      "id": "bio9-c1-q3",
+      "question": "The study of heredity and variation is called:",
+      "options": {
+        "A": "Evolution",
+        "B": "Genetics",
+        "C": "Ecology",
+        "D": "Microbiology"
+      },
+      "correctAnswer": "B",
+      "explanation": "Genetics"
+    },
+    {
+      "id": "bio9-c1-q4",
+      "question": "Malaria is caused by:",
+      "options": {
+        "A": "Bacteria",
+        "B": "Protozoa",
+        "C": "Virus",
+        "D": "Fungus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Protozoa"
+    },
+    {
+      "id": "bio9-c1-q5",
+      "question": "A well-tested explanation of natural events is called a:",
+      "options": {
+        "A": "Hypothesis",
+        "B": "Theory",
+        "C": "Scientific law",
+        "D": "Prediction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Theory"
+    },
+    {
+      "id": "bio9-c1-q6",
+      "question": "The first step in problem-solving using the biological method is:",
+      "options": {
+        "A": "Experimentation",
+        "B": "Hypothesis formation",
+        "C": "Observation",
+        "D": "Conclusion"
+      },
+      "correctAnswer": "C",
+      "explanation": "Observation"
+    },
+    {
+      "id": "bio9-c1-q7",
+      "question": "The scientist who linked mosquitoes to malaria was:",
+      "options": {
+        "A": "Louis Pasteur",
+        "B": "Robert Koch",
+        "C": "Ronald Ross",
+        "D": "Alexander Fleming"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ronald Ross"
+    },
+    {
+      "id": "bio9-c1-q8",
+      "question": "A hypothesis that withstands repeated testing may become a:",
+      "options": {
+        "A": "Scientific law",
+        "B": "Conclusion",
+        "C": "Theory",
+        "D": "Fact"
+      },
+      "correctAnswer": "C",
+      "explanation": "Theory"
+    },
+    {
+      "id": "bio9-c1-q9",
+      "question": "The branch of biology dealing with classification is:",
+      "options": {
+        "A": "Anatomy",
+        "B": "Taxonomy",
+        "C": "Ecology",
+        "D": "Genetics"
+      },
+      "correctAnswer": "B",
+      "explanation": "Taxonomy"
+    },
+    {
+      "id": "bio9-c1-q10",
+      "question": "Which of the following is NOT a branch of biology?",
+      "options": {
+        "A": "Chemistry",
+        "B": "Botany",
+        "C": "Zoology",
+        "D": "Microbiology"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chemistry"
+    },
+    {
+      "id": "bio9-c1-q11",
+      "question": "The term ‘Survival of the Fittest’ is associated with:",
+      "options": {
+        "A": "Mendel",
+        "B": "Darwin",
+        "C": "Pasteur",
+        "D": "Linnaeus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Darwin"
+    },
+    {
+      "id": "bio9-c1-q12",
+      "question": "The difference between a theory and a law is:",
+      "options": {
+        "A": "Laws explain facts, theories explain why",
+        "B": "Theories are stronger than laws",
+        "C": "Laws change over time",
+        "D": "Theories become laws after experiments"
+      },
+      "correctAnswer": "A",
+      "explanation": "Laws explain facts, theories explain why"
+    },
+    {
+      "id": "bio9-c1-q13",
+      "question": "The study of human diseases falls under:",
+      "options": {
+        "A": "Pathology",
+        "B": "Zoology",
+        "C": "Botany",
+        "D": "Genetics"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pathology"
+    },
+    {
+      "id": "bio9-c1-q14",
+      "question": "The scientific name of the malaria parasite is:",
+      "options": {
+        "A": "Plasmodium",
+        "B": "Trypanosoma",
+        "C": "Amoeba",
+        "D": "Paramecium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Plasmodium"
+    },
+    {
+      "id": "bio9-c1-q15",
+      "question": "The application of biology in farming is called:",
+      "options": {
+        "A": "Biotechnology",
+        "B": "Agronomy",
+        "C": "Bioinformatics",
+        "D": "Pathology"
+      },
+      "correctAnswer": "B",
+      "explanation": "Agronomy"
+    },
+    {
+      "id": "bio9-c1-q16",
+      "question": "The main function of DNA is to:",
+      "options": {
+        "A": "Provide energy",
+        "B": "Store genetic information",
+        "C": "Transport oxygen",
+        "D": "Digest food"
+      },
+      "correctAnswer": "B",
+      "explanation": "Store genetic information"
+    },
+    {
+      "id": "bio9-c1-q17",
+      "question": "A well-designed scientific experiment includes:",
+      "options": {
+        "A": "Only one variable",
+        "B": "Multiple uncontrolled variables",
+        "C": "Random guesses",
+        "D": "Unrecorded data"
+      },
+      "correctAnswer": "A",
+      "explanation": "Only one variable"
+    },
+    {
+      "id": "bio9-c1-q18",
+      "question": "Malaria affects which organ the most?",
+      "options": {
+        "A": "Brain",
+        "B": "Liver",
+        "C": "Lungs",
+        "D": "Heart"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Liver') is the correct biological fact for The Science of Biology & Scientific Method."
+    },
+    {
+      "id": "bio9-c1-q19",
+      "question": "Which career requires a background in biology?",
+      "options": {
+        "A": "Economist",
+        "B": "Pharmacist",
+        "C": "Pilot",
+        "D": "Engineer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pharmacist"
+    },
+    {
+      "id": "bio9-c1-q20",
+      "question": "The biological method was used in malaria research to:",
+      "options": {
+        "A": "Discover the mosquito vector",
+        "B": "Study human evolution",
+        "C": "Classify new species",
+        "D": "Create new laws of physics"
+      },
+      "correctAnswer": "A",
+      "explanation": "Discover the mosquito vector"
+    },
+    {
+      "id": "bio9-c1-q21",
+      "question": "Which of the following is a testable scientific statement?",
+      "options": {
+        "A": "Life exists on Mars",
+        "B": "Plants grow faster in sunlight",
+        "C": "Humans have emotions",
+        "D": "The universe is infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Plants grow faster in sunlight"
+    },
+    {
+      "id": "bio9-c1-q22",
+      "question": "The term \"peer review\" in science refers to:",
+      "options": {
+        "A": "Sharing work with friends",
+        "B": "Scientists evaluating each other’s work",
+        "C": "Getting public approval",
+        "D": "Government certification"
+      },
+      "correctAnswer": "B",
+      "explanation": "Scientists evaluating each other’s work"
+    },
+    {
+      "id": "bio9-c1-q23",
+      "question": "The first vaccine was developed for:",
+      "options": {
+        "A": "Polio",
+        "B": "Smallpox",
+        "C": "Rabies",
+        "D": "Malaria"
+      },
+      "correctAnswer": "B",
+      "explanation": "Smallpox"
+    },
+    {
+      "id": "bio9-c1-q24",
+      "question": "The branch of biology that studies environmental interactions is:",
+      "options": {
+        "A": "Genetics",
+        "B": "Ecology",
+        "C": "Physiology",
+        "D": "Anatomy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ecology"
+    },
+    {
+      "id": "bio9-c1-q25",
+      "question": "The independent variable in an experiment is:",
+      "options": {
+        "A": "The one that is changed",
+        "B": "The one being measured",
+        "C": "The controlled factor",
+        "D": "The outcome"
+      },
+      "correctAnswer": "A",
+      "explanation": "The one that is changed"
+    },
+    {
+      "id": "bio9-c1-q26",
+      "question": "Which of the following best defines a control group in an experiment?",
+      "options": {
+        "A": "The one being tested",
+        "B": "The unchanged group for comparison",
+        "C": "The group with the most variables",
+        "D": "The one with unexpected results"
+      },
+      "correctAnswer": "B",
+      "explanation": "The unchanged group for comparison"
+    },
+    {
+      "id": "bio9-c1-q27",
+      "question": "The best way to prevent malaria is to:",
+      "options": {
+        "A": "Use mosquito nets",
+        "B": "Take antibiotics",
+        "C": "Avoid spicy food",
+        "D": "Drink more water"
+      },
+      "correctAnswer": "A",
+      "explanation": "Use mosquito nets"
+    },
+    {
+      "id": "bio9-c1-q28",
+      "question": "The purpose of scientific classification is to:",
+      "options": {
+        "A": "Arrange species randomly",
+        "B": "Understand relationships among organisms",
+        "C": "Ignore evolutionary history",
+        "D": "Only name organisms"
+      },
+      "correctAnswer": "B",
+      "explanation": "Understand relationships among organisms"
+    },
+    {
+      "id": "bio9-c1-q29",
+      "question": "Which of the following is NOT a scientific characteristic?",
+      "options": {
+        "A": "Testability",
+        "B": "Observability",
+        "C": "Bias",
+        "D": "Reproducibility"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Bias') is the correct biological fact for The Science of Biology & Scientific Method."
+    },
+    {
+      "id": "bio9-c1-q30",
+      "question": "What happens if a hypothesis fails repeated experimental tests?",
+      "options": {
+        "A": "It becomes a law",
+        "B": "It is modified or rejected",
+        "C": "It is ignored",
+        "D": "It is accepted as true"
+      },
+      "correctAnswer": "B",
+      "explanation": "It is modified or rejected"
+    },
+    {
+      "id": "bio9-c1-q31",
+      "question": "A scientific law is:",
+      "options": {
+        "A": "A proven fact",
+        "B": "A universal principle based on repeated observations",
+        "C": "A random hypothesis",
+        "D": "A changing concept"
+      },
+      "correctAnswer": "B",
+      "explanation": "A universal principle based on repeated observations"
+    },
+    {
+      "id": "bio9-c1-q32",
+      "question": "Which type of mosquito transmits malaria?",
+      "options": {
+        "A": "Aedes",
+        "B": "Anopheles",
+        "C": "Culex",
+        "D": "Housefly"
+      },
+      "correctAnswer": "B",
+      "explanation": "Anopheles"
+    },
+    {
+      "id": "bio9-c1-q33",
+      "question": "The organ where malaria parasites multiply first is:",
+      "options": {
+        "A": "Stomach",
+        "B": "Brain",
+        "C": "Liver",
+        "D": "Lungs"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Liver') is the correct biological fact for The Science of Biology & Scientific Method."
+    },
+    {
+      "id": "bio9-c1-q34",
+      "question": "The final step of the biological method is:",
+      "options": {
+        "A": "Hypothesis formation",
+        "B": "Experimentation",
+        "C": "Conclusion",
+        "D": "Observation"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Conclusion') is the correct biological fact for The Science of Biology & Scientific Method."
+    },
+    {
+      "id": "bio9-c1-q35",
+      "question": "Which branch of biology deals with genetic modification?",
+      "options": {
+        "A": "Botany",
+        "B": "Biotechnology",
+        "C": "Taxonomy",
+        "D": "Zoology"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Biotechnology') is the correct biological fact for The Science of Biology & Scientific Method."
+    },
+    {
+      "id": "bio9-c1-q36",
+      "question": "A well-designed experiment should:",
+      "options": {
+        "A": "Have multiple uncontrolled variables",
+        "B": "Be based on a testable hypothesis",
+        "C": "Ignore previous research",
+        "D": "Rely on random assumptions"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Be based on a testable hypothesis') is the correct biological fact for The Science of Biology & Scientific Method."
+    },
+    {
+      "id": "bio9-c1-q37",
+      "question": "Who discovered penicillin?",
+      "options": {
+        "A": "Louis Pasteur",
+        "B": "Alexander Fleming",
+        "C": "Edward Jenner",
+        "D": "Robert Koch"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alexander Fleming"
+    },
+    {
+      "id": "bio9-c1-q38",
+      "question": "A testable statement based on observation is a:",
+      "options": {
+        "A": "Theory",
+        "B": "Hypothesis",
+        "C": "Law",
+        "D": "Conclusion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hypothesis"
+    },
+    {
+      "id": "bio9-c1-q39",
+      "question": "The scientist who proposed the germ theory of disease was:",
+      "options": {
+        "A": "Darwin",
+        "B": "Pasteur",
+        "C": "Linnaeus",
+        "D": "Mendel"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pasteur"
+    },
+    {
+      "id": "bio9-c1-q40",
+      "question": "A biologist studying malaria is likely to work in:",
+      "options": {
+        "A": "Astronomy",
+        "B": "Ecology",
+        "C": "Pathology",
+        "D": "Geology"
+      },
+      "correctAnswer": "C",
+      "explanation": "Pathology"
+    },
+    {
+      "id": "bio9-c1-q41",
+      "question": "What is the function of red blood cells in malaria infection?",
+      "options": {
+        "A": "Destroy parasites",
+        "B": "Carry the malaria parasite",
+        "C": "Produce antibodies",
+        "D": "Prevent infection"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carry the malaria parasite"
+    },
+    {
+      "id": "bio9-c1-q42",
+      "question": "A scientific theory is different from a hypothesis because it is:",
+      "options": {
+        "A": "An untested idea",
+        "B": "A well-supported explanation",
+        "C": "The same as a law",
+        "D": "Always correct"
+      },
+      "correctAnswer": "B",
+      "explanation": "A well-supported explanation"
+    },
+    {
+      "id": "bio9-c1-q43",
+      "question": "The mosquito transmits malaria by:",
+      "options": {
+        "A": "Biting humans",
+        "B": "Contaminating food",
+        "C": "Airborne droplets",
+        "D": "Touching infected surfaces"
+      },
+      "correctAnswer": "A",
+      "explanation": "Biting humans"
+    },
+    {
+      "id": "bio9-c1-q44",
+      "question": "The scientific method is important because it:",
+      "options": {
+        "A": "Avoids experiments",
+        "B": "Provides a logical way to answer questions",
+        "C": "Guarantees correct results",
+        "D": "Prevents all errors"
+      },
+      "correctAnswer": "B",
+      "explanation": "Provides a logical way to answer questions"
+    },
+    {
+      "id": "bio9-c1-q45",
+      "question": "The role of biostatistics in biology is to:",
+      "options": {
+        "A": "Classify organisms",
+        "B": "Analyze data",
+        "C": "Develop vaccines",
+        "D": "Study fossils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Analyze data"
+    },
+    {
+      "id": "bio9-c1-q46",
+      "question": "Which of the following is NOT part of the biological method?",
+      "options": {
+        "A": "Data collection",
+        "B": "Superstition",
+        "C": "Experimentation",
+        "D": "Hypothesis formation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Superstition"
+    },
+    {
+      "id": "bio9-c1-q47",
+      "question": "A controlled experiment ensures that:",
+      "options": {
+        "A": "Multiple variables are changed",
+        "B": "Only one variable is tested at a time",
+        "C": "The experiment is random",
+        "D": "The results are unpredictable"
+      },
+      "correctAnswer": "B",
+      "explanation": "Only one variable is tested at a time"
+    },
+    {
+      "id": "bio9-c1-q48",
+      "question": "Malaria control programs focus on:",
+      "options": {
+        "A": "Treating infected animals",
+        "B": "Eliminating mosquito breeding sites",
+        "C": "Increasing air pollution",
+        "D": "Stopping DNA replication"
+      },
+      "correctAnswer": "B",
+      "explanation": "Eliminating mosquito breeding sites"
+    },
+    {
+      "id": "bio9-c1-q49",
+      "question": "What happens if a scientific hypothesis is repeatedly disproved?",
+      "options": {
+        "A": "It becomes a theory",
+        "B": "It is rejected or modified",
+        "C": "It is published as a law",
+        "D": "It remains unchanged"
+      },
+      "correctAnswer": "B",
+      "explanation": "It is rejected or modified"
+    },
+    {
+      "id": "bio9-c1-q50",
+      "question": "Which of the following best describes a scientific law?",
+      "options": {
+        "A": "A strong opinion",
+        "B": "A hypothesis confirmed by a single experiment",
+        "C": "A universal statement based on repeated observations",
+        "D": "A random idea"
+      },
+      "correctAnswer": "C",
+      "explanation": "A universal statement based on repeated observations"
+    },
+    {
+      "id": "bio9-c1-q51",
+      "question": "Which career requires biological knowledge?",
+      "options": {
+        "A": "Astronaut",
+        "B": "Pharmacist",
+        "C": "Economist",
+        "D": "Lawyer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pharmacist"
+    },
+    {
+      "id": "bio9-c1-q52",
+      "question": "An organism’s ability to maintain stable internal conditions is called:",
+      "options": {
+        "A": "Evolution",
+        "B": "Metabolism",
+        "C": "Homeostasis",
+        "D": "Respiration"
+      },
+      "correctAnswer": "C",
+      "explanation": "Homeostasis"
+    },
+    {
+      "id": "bio9-c1-q53",
+      "question": "Which of the following is NOT a characteristic of living organisms?",
+      "options": {
+        "A": "Growth",
+        "B": "Reproduction",
+        "C": "Homeostasis",
+        "D": "Inability to adapt"
+      },
+      "correctAnswer": "D",
+      "explanation": "Inability to adapt"
+    },
+    {
+      "id": "bio9-c1-q54",
+      "question": "The process of grouping organisms based on similarities is called:",
+      "options": {
+        "A": "Classification",
+        "B": "Mutation",
+        "C": "Homeostasis",
+        "D": "Evolution"
+      },
+      "correctAnswer": "A",
+      "explanation": "Classification"
+    },
+    {
+      "id": "bio9-c1-q55",
+      "question": "Which of the following is a scientific question?",
+      "options": {
+        "A": "What is the meaning of life?",
+        "B": "Do bacteria grow faster in warm temperatures?",
+        "C": "Should humans be kind to animals?",
+        "D": "Is blue a better color than red?"
+      },
+      "correctAnswer": "B",
+      "explanation": "Do bacteria grow faster in warm temperatures?"
+    },
+    {
+      "id": "bio9-c1-q56",
+      "question": "The primary goal of science is to:",
+      "options": {
+        "A": "Prove personal beliefs",
+        "B": "Understand natural phenomena",
+        "C": "Follow traditions",
+        "D": "Guess outcomes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Understand natural phenomena"
+    },
+    {
+      "id": "bio9-c1-q57",
+      "question": "If a scientist finds contradictory data, they should:",
+      "options": {
+        "A": "Ignore it",
+        "B": "Modify or reject the hypothesis",
+        "C": "Publish false results",
+        "D": "Stop research"
+      },
+      "correctAnswer": "B",
+      "explanation": "Modify or reject the hypothesis"
+    },
+    {
+      "id": "bio9-c1-q58",
+      "question": "What is the dependent variable in an experiment?",
+      "options": {
+        "A": "The one that is changed",
+        "B": "The measured outcome",
+        "C": "The control group",
+        "D": "The constant factor"
+      },
+      "correctAnswer": "B",
+      "explanation": "The measured outcome"
+    },
+    {
+      "id": "bio9-c1-q59",
+      "question": "Which scientist developed the binomial nomenclature system?",
+      "options": {
+        "A": "Darwin",
+        "B": "Linnaeus",
+        "C": "Mendel",
+        "D": "Pasteur"
+      },
+      "correctAnswer": "B",
+      "explanation": "Linnaeus"
+    },
+    {
+      "id": "bio9-c1-q60",
+      "question": "The best way to prevent malaria is:",
+      "options": {
+        "A": "Drinking boiled water",
+        "B": "Taking antibiotics",
+        "C": "Avoiding mosquito bites",
+        "D": "Eating vitamins"
+      },
+      "correctAnswer": "C",
+      "explanation": "Avoiding mosquito bites"
+    }
+  ]
+}

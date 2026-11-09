@@ -1,0 +1,154 @@
+{
+  "subject": "biology-9",
+  "chapterNumber": 17,
+  "chapterTitle": "Federal Board Half-Book Exam Simulator 02 (Ch 6–10)",
+  "slug": "biology-9-model-paper-7",
+  "description": "Official 12-mark Section A Federal Board half-book exam simulator covering Units 6 to 10 by Lecturer Rubina Ashraf.",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "id": "bio9-mp7-q1",
+      "question": "Which of the following biological proteins performs an insoluble, protective structural role in hair and nails?",
+      "options": {
+        "A": "Actin",
+        "B": "Hemoglobin",
+        "C": "Keratin",
+        "D": "Myosin"
+      },
+      "correctAnswer": "C",
+      "explanation": "Keratin is an insoluble fibrous structural protein rich in disulfide bridges forming hair, nails, claws, and epidermal skin."
+    },
+    {
+      "id": "bio9-mp7-q2",
+      "question": "Applying Newtonian reaction laws to animal mechanics and gait belongs to which interdisciplinary science?",
+      "options": {
+        "A": "Physiology",
+        "B": "Biophysics",
+        "C": "Bio-economics",
+        "D": "Pharmacology"
+      },
+      "correctAnswer": "B",
+      "explanation": "Biophysics explores biomechanical forces, torque, pressure, and energy exchange governing locomotion."
+    },
+    {
+      "id": "bio9-mp7-q3",
+      "question": "What primary macromolecular chemical class do all biological enzymes belong to?",
+      "options": {
+        "A": "Structural lipids",
+        "B": "Complex polysaccharides",
+        "C": "Globular proteins",
+        "D": "Nucleic acid polymers"
+      },
+      "correctAnswer": "C",
+      "explanation": "Enzymes are specialized catalytic globular proteins with precise 3D conformations."
+    },
+    {
+      "id": "bio9-mp7-q4",
+      "question": "During aerobic cellular respiration, which metabolic stage produces carbon dioxide gas?",
+      "options": {
+        "A": "Glycolysis",
+        "B": "Krebs cycle & Pyruvate oxidation",
+        "C": "Electron transport chain",
+        "D": "Chemiosmotic phosphorylation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Decarboxylation occurs during the transition reaction and citric acid (Krebs) cycle within the mitochondrial matrix."
+    },
+    {
+      "id": "bio9-mp7-q5",
+      "question": "Which anatomical structure represents a classic rudimentary vestigial organ in humans?",
+      "options": {
+        "A": "Eye cornea",
+        "B": "Heart valve",
+        "C": "Biceps muscle",
+        "D": "Vermiform appendix"
+      },
+      "correctAnswer": "D",
+      "explanation": "The human vermiform appendix is a reduced cecal remnant inherited from herbivorous ancestors with reduced digestive function."
+    },
+    {
+      "id": "bio9-mp7-q6",
+      "question": "What non-covalent bond holds complementary nitrogenous base pairs together across the DNA double helix?",
+      "options": {
+        "A": "Ionic bonds",
+        "B": "Hydrogen bonds",
+        "C": "Phosphodiester bonds",
+        "D": "Peptide bonds"
+      },
+      "correctAnswer": "B",
+      "explanation": "Two hydrogen bonds link adenine to thymine (A=T), and three hydrogen bonds link guanine to cytosine (G≡C)."
+    },
+    {
+      "id": "bio9-mp7-q7",
+      "question": "Which of the following seed components is a nutritive tissue rather than a part of the embryo itself?",
+      "options": {
+        "A": "Radicle",
+        "B": "Plumule",
+        "C": "Endosperm",
+        "D": "Cotyledon"
+      },
+      "correctAnswer": "C",
+      "explanation": "The plant embryo consists of the radicle, plumule, and cotyledon(s); the endosperm is separate triploid nutritive tissue."
+    },
+    {
+      "id": "bio9-mp7-q8",
+      "question": "How do non-competitive inhibitors decrease enzyme activity without competing for the active site?",
+      "options": {
+        "A": "Denature the primary polypeptide chain",
+        "B": "Bind to allosteric sites and alter the active site conformation",
+        "C": "Mimic substrate shape directly",
+        "D": "Precipitate coenzymes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Non-competitive inhibitors bind allosterically, inducing conformational changes that prevent substrate conversion."
+    },
+    {
+      "id": "bio9-mp7-q9",
+      "question": "Which vascular plant tissue conducts water and dissolved mineral ions upward under tension?",
+      "options": {
+        "A": "Xylem",
+        "B": "Phloem",
+        "C": "Mesophyll",
+        "D": "Cork cambium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Xylem tracheary elements transport sap via cohesive-transpirational pull from roots to aerial organs."
+    },
+    {
+      "id": "bio9-mp7-q10",
+      "question": "What is the primary role of the microscopic micropyle pore in a mature angiosperm seed?",
+      "options": {
+        "A": "Imbibing water and admitting oxygen during germination",
+        "B": "Nutrient photosynthesis",
+        "C": "Protecting the embryo from insects",
+        "D": "Lipid nutrient production"
+      },
+      "correctAnswer": "A",
+      "explanation": "The micropyle facilitates water uptake and aeration needed to reactivate embryonic metabolism during germination."
+    },
+    {
+      "id": "bio9-mp7-q11",
+      "question": "At which hierarchical level of biological organization do DNA, RNA, and proteins function?",
+      "options": {
+        "A": "Molecular level",
+        "B": "Cellular level",
+        "C": "Tissue level",
+        "D": "Atomic level"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nucleic acids, proteins, and polysaccharides operate at the molecular level of biological organization."
+    },
+    {
+      "id": "bio9-mp7-q12",
+      "question": "In flowering plants (angiosperms), double fertilization uniquely results in the formation of:",
+      "options": {
+        "A": "Two diploid embryos",
+        "B": "A haploid seed coat",
+        "C": "A sterile ovule",
+        "D": "A diploid zygote and a triploid endosperm"
+      },
+      "correctAnswer": "D",
+      "explanation": "Double fertilization generates a 2n diploid zygote (future plant) and a 3n triploid endosperm nucleus (nutritive reserve)."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "chapterNumber": 1,
+    "chapterTitle": "Unit 01: The Science of Biology & Scientific Method",
+    "slug": "biology-9-chapter-1",
+    "description": "Introduction to biological science, major branches (morphology, physiology, histology, genetics), Quranic references, scientific problem-solving, and levels of biological organization.",
+    "totalQuestions": 60
+  },
+  {
+    "chapterNumber": 2,
+    "chapterTitle": "Unit 02: Biodiversity & Biological Classification",
+    "slug": "biology-9-chapter-2",
+    "description": "Need for classification, two-to-five kingdom systems, three domains of life, taxonomic hierarchy, binomial nomenclature, viral nature, and biodiversity conservation.",
+    "totalQuestions": 30
+  },
+  {
+    "chapterNumber": 3,
+    "chapterTitle": "Unit 03: The Cell: Structure, Functions & Organelles",
+    "slug": "biology-9-chapter-3",
+    "description": "Cell theory, microscopy, cellular ultrastructure (nucleus, mitochondria, ribosomes, plastids, ER, Golgi, lysosomes), cytoskeleton, and plant vs animal cells.",
+    "totalQuestions": 45
+  },
+  {
+    "chapterNumber": 4,
+    "chapterTitle": "Unit 04: Cell Cycle: Mitosis, Meiosis & Cell Division",
+    "slug": "biology-9-chapter-4",
+    "description": "Phases of the cell cycle (Interphase G1, S, G2), mitosis (karyokinesis & cytokinesis), meiosis I and II, crossing over, significance of division, and apoptosis.",
+    "totalQuestions": 35
+  },
+  {
+    "chapterNumber": 5,
+    "chapterTitle": "Unit 05: Tissues, Organs & Organ Systems",
+    "slug": "biology-9-chapter-5",
+    "description": "Plant tissues (meristematic, permanent, xylem, phloem) and animal tissues (epithelial, connective, muscular, nervous), organ architecture, and system integration.",
+    "totalQuestions": 32
+  },
+  {
+    "chapterNumber": 6,
+    "chapterTitle": "Unit 06: Biomolecules & Cellular Chemistry",
+    "slug": "biology-9-chapter-6",
+    "description": "Major organic compounds: carbohydrates (monosaccharides, disaccharides, polysaccharides), proteins, lipids, nucleic acids (DNA double helix, RNA), and ATP.",
+    "totalQuestions": 40
+  },
+  {
+    "chapterNumber": 7,
+    "chapterTitle": "Unit 07: Enzymes & Cellular Metabolism",
+    "slug": "biology-9-chapter-7",
+    "description": "Characteristics of enzymes, activation energy, lock-and-key model, induced-fit model, factors affecting enzyme action (pH, temperature), and metabolic pathways.",
+    "totalQuestions": 35
+  },
+  {
+    "chapterNumber": 8,
+    "chapterTitle": "Unit 08: Plant Physiology: Nutrition & Transport",
+    "slug": "biology-9-chapter-8",
+    "description": "Plant mineral nutrition (macronutrients, micronutrients), photosynthesis (light & dark reactions), respiration, water uptake, osmosis, and transpiration.",
+    "totalQuestions": 45
+  },
+  {
+    "chapterNumber": 9,
+    "chapterTitle": "Unit 09: Plant Reproduction & Development",
+    "slug": "biology-9-chapter-9",
+    "description": "Asexual reproduction (vegetative propagation), sexual reproduction in flowering plants, structure of flower, pollination, double fertilization, and seed germination.",
+    "totalQuestions": 35
+  },
+  {
+    "chapterNumber": 10,
+    "chapterTitle": "Unit 10: Variation, Natural Selection & Evolution",
+    "slug": "biology-9-chapter-10",
+    "description": "Sources of genetic variation, gene mutations, Darwin's theory of natural selection, homologous and analogous structures, speciation, and evolutionary evidence.",
+    "totalQuestions": 30
+  },
+  {
+    "chapterNumber": 11,
+    "chapterTitle": "Federal Board Annual Exam Simulator 01 (Ch 1 & 2)",
+    "slug": "biology-9-model-paper-1",
+    "description": "Official 12-mark Section A Federal Board exam simulator covering The Science of Biology and Biodiversity by Lecturer Rubina Ashraf.",
+    "totalQuestions": 12
+  },
+  {
+    "chapterNumber": 12,
+    "chapterTitle": "Federal Board Annual Exam Simulator 02 (Ch 3 & 4)",
+    "slug": "biology-9-model-paper-2",
+    "description": "Official 12-mark Section A Federal Board exam simulator covering Cell Structure, Organelles, and Cell Cycle by Lecturer Rubina Ashraf.",
+    "totalQuestions": 12
+  },
+  {
+    "chapterNumber": 13,
+    "chapterTitle": "Federal Board Annual Exam Simulator 03 (Ch 5 & 6)",
+    "slug": "biology-9-model-paper-3",
+    "description": "Official 12-mark Section A Federal Board exam simulator covering Plant/Animal Tissues and Biomolecules by Lecturer Rubina Ashraf.",
+    "totalQuestions": 12
+  },
+  {
+    "chapterNumber": 14,
+    "chapterTitle": "Federal Board Annual Exam Simulator 04 (Ch 7 & 8)",
+    "slug": "biology-9-model-paper-4",
+    "description": "Official 12-mark Section A Federal Board exam simulator covering Enzymes, Metabolism, and Plant Physiology by Lecturer Rubina Ashraf.",
+    "totalQuestions": 12
+  },
+  {
+    "chapterNumber": 15,
+    "chapterTitle": "Federal Board Annual Exam Simulator 05 (Ch 9 & 10)",
+    "slug": "biology-9-model-paper-5",
+    "description": "Official 12-mark Section A Federal Board exam simulator covering Plant Reproduction and Variation & Evolution by Lecturer Rubina Ashraf.",
+    "totalQuestions": 12
+  },
+  {
+    "chapterNumber": 16,
+    "chapterTitle": "Federal Board Half-Book Exam Simulator 01 (Ch 1–5)",
+    "slug": "biology-9-model-paper-6",
+    "description": "Official 12-mark Section A Federal Board half-book exam simulator covering Units 1 to 5 by Lecturer Rubina Ashraf.",
+    "totalQuestions": 12
+  },
+  {
+    "chapterNumber": 17,
+    "chapterTitle": "Federal Board Half-Book Exam Simulator 02 (Ch 6–10)",
+    "slug": "biology-9-model-paper-7",
+    "description": "Official 12-mark Section A Federal Board half-book exam simulator covering Units 6 to 10 by Lecturer Rubina Ashraf.",
+    "totalQuestions": 12
+  },
+  {
+    "chapterNumber": 18,
+    "chapterTitle": "Federal Board Full-Book Grand Exam Simulator (Ch 1–10)",
+    "slug": "biology-9-model-paper-8",
+    "description": "Comprehensive 12-mark Section A Federal Board full-book examination simulator covering all 10 curriculum chapters by Lecturer Rubina Ashraf.",
+    "totalQuestions": 12
+  }
+]

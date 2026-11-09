@@ -1,0 +1,154 @@
+{
+  "subject": "biology-9",
+  "chapterNumber": 13,
+  "chapterTitle": "Federal Board Annual Exam Simulator 03 (Ch 5 & 6)",
+  "slug": "biology-9-model-paper-3",
+  "description": "Official 12-mark Section A Federal Board exam simulator covering Plant/Animal Tissues and Biomolecules by Lecturer Rubina Ashraf.",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "id": "bio9-mp3-q1",
+      "question": "What structural category of nitrogenous base is cytosine classified under?",
+      "options": {
+        "A": "Pyrimidine (single-ring)",
+        "B": "Purine (double-ring)",
+        "C": "Ketone",
+        "D": "Carboxyl"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cytosine, thymine, and uracil are pyrimidines possessing a single six-membered heterocyclic ring, whereas adenine and guanine are purines."
+    },
+    {
+      "id": "bio9-mp3-q2",
+      "question": "Which of the following carbohydrates is classified as a disaccharide?",
+      "options": {
+        "A": "Sucrose",
+        "B": "Glucose",
+        "C": "Starch",
+        "D": "Cellulose"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sucrose (table sugar) is a disaccharide composed of one glucose unit and one fructose unit linked by a glycosidic bond."
+    },
+    {
+      "id": "bio9-mp3-q3",
+      "question": "Which covalent chemical bond connects monosaccharide monomers together into polysaccharides?",
+      "options": {
+        "A": "Glycosidic bond",
+        "B": "Peptide bond",
+        "C": "Ionic bond",
+        "D": "Phosphodiester bond"
+      },
+      "correctAnswer": "A",
+      "explanation": "Glycosidic linkages form via dehydration condensation reactions connecting adjacent sugar rings in oligosaccharides and polysaccharides."
+    },
+    {
+      "id": "bio9-mp3-q4",
+      "question": "Which nitrogenous pyrimidine base is present in RNA but absent in DNA?",
+      "options": {
+        "A": "Uracil",
+        "B": "Adenine",
+        "C": "Cytosine",
+        "D": "Thymine"
+      },
+      "correctAnswer": "A",
+      "explanation": "In RNA, uracil (U) substitutes for thymine (T) and forms complementary base pairs with adenine."
+    },
+    {
+      "id": "bio9-mp3-q5",
+      "question": "Which specialized amphipathic lipid class forms the structural basis of cellular membranes?",
+      "options": {
+        "A": "Phospholipids",
+        "B": "Triglycerides",
+        "C": "Steroids",
+        "D": "Waxes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Phospholipids possess hydrophilic phosphate heads and hydrophobic hydrocarbon tails, spontaneously forming stable bilayers in aqueous environments."
+    },
+    {
+      "id": "bio9-mp3-q6",
+      "question": "What constitutes the fundamental monomeric building block of DNA and RNA?",
+      "options": {
+        "A": "Nucleotide",
+        "B": "Amino acid",
+        "C": "Monosaccharide",
+        "D": "Fatty acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Each nucleic acid nucleotide consists of a pentose sugar (ribose or deoxyribose), a nitrogenous base, and a phosphate group."
+    },
+    {
+      "id": "bio9-mp3-q7",
+      "question": "What is the primary physiological function of epithelial tissues in animals?",
+      "options": {
+        "A": "Protection, absorption, and secretion",
+        "B": "Active locomotion",
+        "C": "Oxygen gas transport",
+        "D": "Calcium mineral storage"
+      },
+      "correctAnswer": "A",
+      "explanation": "Epithelial tissue forms continuous cellular sheets lining external surfaces and internal cavities, providing physical protection and selective absorption."
+    },
+    {
+      "id": "bio9-mp3-q8",
+      "question": "Which specialized region of the leaf carries out the highest rate of photosynthesis?",
+      "options": {
+        "A": "Palisade mesophyll",
+        "B": "Waxy cuticle",
+        "C": "Xylem vessel",
+        "D": "Intercellular air space"
+      },
+      "correctAnswer": "A",
+      "explanation": "Palisade mesophyll cells are vertically arranged beneath the upper epidermis and contain the highest density of chloroplasts for light harvesting."
+    },
+    {
+      "id": "bio9-mp3-q9",
+      "question": "What tissue type lines the luminal surface of the human stomach and intestines?",
+      "options": {
+        "A": "Epithelial tissue (columnar epithelium)",
+        "B": "Dense connective tissue",
+        "C": "Skeletal muscle tissue",
+        "D": "Nervous tissue"
+      },
+      "correctAnswer": "A",
+      "explanation": "Simple columnar epithelial tissue lines the gastrointestinal tract, equipped with microvilli to maximize nutrient absorption and mucus secretion."
+    },
+    {
+      "id": "bio9-mp3-q10",
+      "question": "Which body system maintains chemical homeostasis via blood-borne hormones?",
+      "options": {
+        "A": "Endocrine system",
+        "B": "Integumentary system",
+        "C": "Lymphatic system",
+        "D": "Skeletal system"
+      },
+      "correctAnswer": "A",
+      "explanation": "The endocrine system produces and secretes regulatory chemical messengers (hormones) directly into blood circulation."
+    },
+    {
+      "id": "bio9-mp3-q11",
+      "question": "Which plant vegetative organ anchors the plant body and absorbs soil water and minerals?",
+      "options": {
+        "A": "Shoots",
+        "B": "Roots",
+        "C": "Pollen tubes",
+        "D": "Bark"
+      },
+      "correctAnswer": "B",
+      "explanation": "Roots provide subterranean anchorage and actively absorb moisture and essential mineral ions through extensive root hair zones."
+    },
+    {
+      "id": "bio9-mp3-q12",
+      "question": "At which level of biological organization are DNA, hemoglobin, and glucose classified?",
+      "options": {
+        "A": "Molecular level",
+        "B": "Cellular level",
+        "C": "Atomic level",
+        "D": "Tissue level"
+      },
+      "correctAnswer": "A",
+      "explanation": "Biomolecules like DNA, proteins, and sugars represent organized macromolecules functioning at the molecular level of life."
+    }
+  ]
+}

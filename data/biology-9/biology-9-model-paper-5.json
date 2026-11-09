@@ -1,0 +1,154 @@
+{
+  "subject": "biology-9",
+  "chapterNumber": 15,
+  "chapterTitle": "Federal Board Annual Exam Simulator 05 (Ch 9 & 10)",
+  "slug": "biology-9-model-paper-5",
+  "description": "Official 12-mark Section A Federal Board exam simulator covering Plant Reproduction and Variation & Evolution by Lecturer Rubina Ashraf.",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "id": "bio9-mp5-q1",
+      "question": "What distinct structures are formed as a result of double fertilization in angiosperms?",
+      "options": {
+        "A": "Two diploid zygotes",
+        "B": "Haploid spore and seed",
+        "C": "Diploid zygote and triploid endosperm nucleus",
+        "D": "Polyploid fruit tissue"
+      },
+      "correctAnswer": "C",
+      "explanation": "One sperm nucleus fertilizes the egg (forming a 2n zygote), while the second sperm fuses with the diploid central cell (forming a 3n endosperm nucleus)."
+    },
+    {
+      "id": "bio9-mp5-q2",
+      "question": "In monocotyledonous seeds (e.g., maize), the primary food storage tissue is the:",
+      "options": {
+        "A": "Cotyledon (scutellum)",
+        "B": "Endosperm",
+        "C": "Embryonic axis",
+        "D": "Hypocotyl"
+      },
+      "correctAnswer": "B",
+      "explanation": "Monocots retain a massive persistent triploid endosperm that stores starch and nutrients utilized during seed germination."
+    },
+    {
+      "id": "bio9-mp5-q3",
+      "question": "Why are potato tubers biologically classified as modified underground stems rather than roots?",
+      "options": {
+        "A": "They lack vascular tissue",
+        "B": "They possess nodes, internodes, and scale bud 'eyes'",
+        "C": "They produce root hairs",
+        "D": "They develop entirely above ground"
+      },
+      "correctAnswer": "B",
+      "explanation": "Potato tubers exhibit diagnostic stem features including nodes, buds (eyes), and internodes capable of developing shoots."
+    },
+    {
+      "id": "bio9-mp5-q4",
+      "question": "What is the swollen, expanded apical base of a floral pedicel called?",
+      "options": {
+        "A": "Ovule",
+        "B": "Style",
+        "C": "Thalamus (receptacle)",
+        "D": "Sepal"
+      },
+      "correctAnswer": "C",
+      "explanation": "The thalamus (receptacle) is the thickened floral axis from which sepals, petals, stamens, and carpels arise."
+    },
+    {
+      "id": "bio9-mp5-q5",
+      "question": "What is the critical physiological role of the micropyle pore in a mature seed?",
+      "options": {
+        "A": "Rapid absorption of water and oxygen during imbibition",
+        "B": "Photosynthetic gas exchange",
+        "C": "Physical protection of coat",
+        "D": "Lipid food storage"
+      },
+      "correctAnswer": "A",
+      "explanation": "The micropyle is the tiny opening in the seed coat that admits water and dissolved oxygen to trigger metabolic germination."
+    },
+    {
+      "id": "bio9-mp5-q6",
+      "question": "What is the ploidy level of the plant zygote formed by the union of sperm and egg gametes?",
+      "options": {
+        "A": "1N (haploid)",
+        "B": "2N (diploid)",
+        "C": "3N (triploid)",
+        "D": "4N (tetraploid)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Syngamy unites two haploid (1N) gametes, restoring the diploid (2N) chromosome complement in the zygote."
+    },
+    {
+      "id": "bio9-mp5-q7",
+      "question": "Heritable genetic variation within sexually reproducing populations arises primarily through:",
+      "options": {
+        "A": "Environmental acclimation",
+        "B": "Gene mutation and meiotic genetic recombination",
+        "C": "Mitotic cloning",
+        "D": "Somatic cell growth"
+      },
+      "correctAnswer": "B",
+      "explanation": "Meiotic crossing-over, independent assortment of chromosomes, and novel DNA mutations generate genetic diversity in populations."
+    },
+    {
+      "id": "bio9-mp5-q8",
+      "question": "In the process of natural selection, selective pressure systematically reduces the frequency of:",
+      "options": {
+        "A": "Adaptive traits",
+        "B": "Beneficial variations",
+        "C": "Deleterious (harmful) alleles",
+        "D": "Neutral phenotypes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Individuals bearing maladaptive or deleterious traits suffer lower survival and reproductive success, reducing allele frequency."
+    },
+    {
+      "id": "bio9-mp5-q9",
+      "question": "Homologous structures (e.g., flipper of whale and arm of man) provide evolutionary evidence of:",
+      "options": {
+        "A": "Convergent evolution",
+        "B": "Common ancestral origin with divergent functions",
+        "C": "Identical functions with different anatomy",
+        "D": "Independent spontaneous mutations"
+      },
+      "correctAnswer": "B",
+      "explanation": "Homologous organs share fundamental skeletal anatomy inherited from a common ancestor, adapted to diverse ecological roles."
+    },
+    {
+      "id": "bio9-mp5-q10",
+      "question": "What is the smallest biological unit capable of evolving over successive generations?",
+      "options": {
+        "A": "A single individual organism",
+        "B": "A single cell",
+        "C": "An ecosystem",
+        "D": "A breeding population"
+      },
+      "correctAnswer": "D",
+      "explanation": "Evolution represents shifts in population gene pool allele frequencies over time; individual organisms do not evolve."
+    },
+    {
+      "id": "bio9-mp5-q11",
+      "question": "A biological mutation is fundamentally defined as a:",
+      "options": {
+        "A": "Temporary change in physical appearance",
+        "B": "Permanent change in nucleotide DNA sequence",
+        "C": "Change in learned behavior",
+        "D": "Seasonal environmental fluctuation"
+      },
+      "correctAnswer": "B",
+      "explanation": "A mutation is a permanent, heritable alteration in genomic DNA sequence caused by replication errors or mutagens."
+    },
+    {
+      "id": "bio9-mp5-q12",
+      "question": "The cumulative outcome of differential survival, natural selection, and adaptation over time is:",
+      "options": {
+        "A": "Artificial selection",
+        "B": "Organic biological evolution",
+        "C": "Asexual cloning",
+        "D": "Immediate phenotypic reversion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Natural selection acting on genetic variation across generations leads to adaptive divergence, speciation, and organic evolution."
+    }
+  ]
+}

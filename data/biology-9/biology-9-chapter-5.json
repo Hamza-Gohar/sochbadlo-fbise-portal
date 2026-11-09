@@ -1,0 +1,394 @@
+{
+  "subject": "biology-9",
+  "chapterNumber": 5,
+  "chapterTitle": "Unit 05: Tissues, Organs & Organ Systems",
+  "slug": "biology-9-chapter-5",
+  "description": "Plant tissues (meristematic, permanent, xylem, phloem) and animal tissues (epithelial, connective, muscular, nervous), organ architecture, and system integration.",
+  "totalQuestions": 32,
+  "questions": [
+    {
+      "id": "bio9-c5-q1",
+      "question": "The smallest functional unit of life is:",
+      "options": {
+        "A": "Organ",
+        "B": "Cell",
+        "C": "Tissue",
+        "D": "Organ system"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Cell') is the correct biological fact for Tissues, Organs & Organ Systems."
+    },
+    {
+      "id": "bio9-c5-q2",
+      "question": "A group of similar cells performing a specific function is called:",
+      "options": {
+        "A": "Organ",
+        "B": "Organ system",
+        "C": "Tissue",
+        "D": "Organism"
+      },
+      "correctAnswer": "C",
+      "explanation": "Tissue"
+    },
+    {
+      "id": "bio9-c5-q3",
+      "question": "The digestive system is responsible for:",
+      "options": {
+        "A": "Producing energy",
+        "B": "Breaking down food",
+        "C": "Pumping blood",
+        "D": "Controlling movement"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Breaking down food') is the correct biological fact for Tissues, Organs & Organ Systems."
+    },
+    {
+      "id": "bio9-c5-q4",
+      "question": "The heart is an example of:",
+      "options": {
+        "A": "Organ",
+        "B": "Organ system",
+        "C": "Tissue",
+        "D": "Cell"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Organ') is the correct biological fact for Tissues, Organs & Organ Systems."
+    },
+    {
+      "id": "bio9-c5-q5",
+      "question": "The lungs are part of:",
+      "options": {
+        "A": "Circulatory system",
+        "B": "Digestive system",
+        "C": "Nervous system",
+        "D": "Respiratory system"
+      },
+      "correctAnswer": "D",
+      "explanation": "Respiratory system"
+    },
+    {
+      "id": "bio9-c5-q6",
+      "question": "Which organ system regulates body temperature?",
+      "options": {
+        "A": "Circulatory",
+        "B": "Nervous",
+        "C": "Skeletal",
+        "D": "Digestive"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nervous"
+    },
+    {
+      "id": "bio9-c5-q7",
+      "question": "The kidneys help maintain:",
+      "options": {
+        "A": "Blood flow",
+        "B": "Water balance",
+        "C": "Oxygen levels",
+        "D": "Movement"
+      },
+      "correctAnswer": "B",
+      "explanation": "Water balance"
+    },
+    {
+      "id": "bio9-c5-q8",
+      "question": "Homeostasis is the:",
+      "options": {
+        "A": "Division of cells",
+        "B": "Maintenance of internal balance",
+        "C": "Breakdown of food",
+        "D": "Movement of water"
+      },
+      "correctAnswer": "B",
+      "explanation": "Maintenance of internal balance"
+    },
+    {
+      "id": "bio9-c5-q9",
+      "question": "Sweating is an example of:",
+      "options": {
+        "A": "Homeostasis",
+        "B": "Digestion",
+        "C": "Blood circulation",
+        "D": "Excretion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Homeostasis"
+    },
+    {
+      "id": "bio9-c5-q10",
+      "question": "Shivering occurs when:",
+      "options": {
+        "A": "Body temperature rises",
+        "B": "Body temperature drops",
+        "C": "Oxygen is low",
+        "D": "Blood pressure is high"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Body temperature drops') is the correct biological fact for Tissues, Organs & Organ Systems."
+    },
+    {
+      "id": "bio9-c5-q11",
+      "question": "The hormone that regulates blood sugar is:",
+      "options": {
+        "A": "Insulin",
+        "B": "Adrenaline",
+        "C": "Hemoglobin",
+        "D": "Estrogen"
+      },
+      "correctAnswer": "A",
+      "explanation": "Insulin"
+    },
+    {
+      "id": "bio9-c5-q12",
+      "question": "Dehydration occurs when:",
+      "options": {
+        "A": "Oxygen is low",
+        "B": "The body lacks water",
+        "C": "Blood pressure increases",
+        "D": "The kidneys fail"
+      },
+      "correctAnswer": "B",
+      "explanation": "The body lacks water"
+    },
+    {
+      "id": "bio9-c5-q13",
+      "question": "The xylem transports:",
+      "options": {
+        "A": "Oxygen",
+        "B": "Glucose",
+        "C": "Water",
+        "D": "Hormones"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Water') is the correct biological fact for Tissues, Organs & Organ Systems."
+    },
+    {
+      "id": "bio9-c5-q14",
+      "question": "Phloem transports:",
+      "options": {
+        "A": "Water",
+        "B": "Minerals",
+        "C": "Sugars",
+        "D": "Proteins"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sugars"
+    },
+    {
+      "id": "bio9-c5-q15",
+      "question": "Stomata are found in:",
+      "options": {
+        "A": "Roots",
+        "B": "Stem",
+        "C": "Leaves",
+        "D": "Flowers"
+      },
+      "correctAnswer": "C",
+      "explanation": "Leaves"
+    },
+    {
+      "id": "bio9-c5-q16",
+      "question": "The epidermis in plants functions as:",
+      "options": {
+        "A": "Protection",
+        "B": "Photosynthesis",
+        "C": "Water transport",
+        "D": "Nutrient storage"
+      },
+      "correctAnswer": "A",
+      "explanation": "Protection"
+    },
+    {
+      "id": "bio9-c5-q17",
+      "question": "The cuticle of a leaf helps in:",
+      "options": {
+        "A": "Water retention",
+        "B": "Photosynthesis",
+        "C": "Nutrient transport",
+        "D": "Respiration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Water retention"
+    },
+    {
+      "id": "bio9-c5-q18",
+      "question": "The mesophyll of a leaf contains:",
+      "options": {
+        "A": "Chloroplasts",
+        "B": "Xylem",
+        "C": "Phloem",
+        "D": "Epidermis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chloroplasts"
+    },
+    {
+      "id": "bio9-c5-q19",
+      "question": "Root hairs increase:",
+      "options": {
+        "A": "Water absorption",
+        "B": "Gas exchange",
+        "C": "Photosynthesis",
+        "D": "Seed dispersal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Water absorption"
+    },
+    {
+      "id": "bio9-c5-q20",
+      "question": "Transpiration helps in:",
+      "options": {
+        "A": "Food transport",
+        "B": "Water loss and cooling",
+        "C": "Photosynthesis",
+        "D": "Seed dispersal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Water loss and cooling"
+    },
+    {
+      "id": "bio9-c5-q21",
+      "question": "The leaf is a:",
+      "options": {
+        "A": "Plant organ",
+        "B": "Tissue",
+        "C": "Cell",
+        "D": "Organ system"
+      },
+      "correctAnswer": "A",
+      "explanation": "Plant organ"
+    },
+    {
+      "id": "bio9-c5-q22",
+      "question": "The root is responsible for:",
+      "options": {
+        "A": "Photosynthesis",
+        "B": "Transport of food",
+        "C": "Water absorption",
+        "D": "Producing oxygen"
+      },
+      "correctAnswer": "C",
+      "explanation": "Water absorption"
+    },
+    {
+      "id": "bio9-c5-q23",
+      "question": "Photosynthesis takes place in:",
+      "options": {
+        "A": "Root",
+        "B": "Stem",
+        "C": "Leaves",
+        "D": "Flowers"
+      },
+      "correctAnswer": "C",
+      "explanation": "Leaves"
+    },
+    {
+      "id": "bio9-c5-q24",
+      "question": "Which plant organ is involved in reproduction?",
+      "options": {
+        "A": "Root",
+        "B": "Stem",
+        "C": "Flower",
+        "D": "Leaf"
+      },
+      "correctAnswer": "C",
+      "explanation": "Flower"
+    },
+    {
+      "id": "bio9-c5-q25",
+      "question": "The stem supports the plant and transports:",
+      "options": {
+        "A": "Only water",
+        "B": "Only food",
+        "C": "Water and nutrients",
+        "D": "Hormones only"
+      },
+      "correctAnswer": "C",
+      "explanation": "Water and nutrients"
+    },
+    {
+      "id": "bio9-c5-q26",
+      "question": "The nervous system controls:",
+      "options": {
+        "A": "Blood circulation",
+        "B": "Breathing",
+        "C": "Body coordination",
+        "D": "Food digestion"
+      },
+      "correctAnswer": "C",
+      "explanation": "Body coordination"
+    },
+    {
+      "id": "bio9-c5-q27",
+      "question": "Which system works closely with the muscular system?",
+      "options": {
+        "A": "Circulatory",
+        "B": "Endocrine",
+        "C": "Nervous",
+        "D": "Digestive"
+      },
+      "correctAnswer": "C",
+      "explanation": "Nervous"
+    },
+    {
+      "id": "bio9-c5-q28",
+      "question": "The heart pumps:",
+      "options": {
+        "A": "Oxygen",
+        "B": "Nutrients",
+        "C": "Blood",
+        "D": "Hormones"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Blood') is the correct biological fact for Tissues, Organs & Organ Systems."
+    },
+    {
+      "id": "bio9-c5-q29",
+      "question": "The lungs help in:",
+      "options": {
+        "A": "Digestion",
+        "B": "Respiration",
+        "C": "Circulation",
+        "D": "Excretion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Respiration"
+    },
+    {
+      "id": "bio9-c5-q30",
+      "question": "The skeletal system provides:",
+      "options": {
+        "A": "Energy",
+        "B": "Support and protection",
+        "C": "Digestion",
+        "D": "Circulation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Support and protection"
+    },
+    {
+      "id": "bio9-c5-q31",
+      "question": "The cuticle of a leaf helps in:",
+      "options": {
+        "A": "Water retention",
+        "B": "Photosynthesis",
+        "C": "Nutrient transport",
+        "D": "Respiration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Water retention"
+    },
+    {
+      "id": "bio9-c5-q32",
+      "question": "The primary function of guard cells is to:",
+      "options": {
+        "A": "Transport nutrients",
+        "B": "Control stomatal opening",
+        "C": "Absorb minerals",
+        "D": "Produce energy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Control stomatal opening"
+    }
+  ]
+}

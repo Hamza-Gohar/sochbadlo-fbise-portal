@@ -1,0 +1,370 @@
+{
+  "subject": "biology-9",
+  "chapterNumber": 10,
+  "chapterTitle": "Unit 10: Variation, Natural Selection & Evolution",
+  "slug": "biology-9-chapter-10",
+  "description": "Sources of genetic variation, gene mutations, Darwin's theory of natural selection, homologous and analogous structures, speciation, and evolutionary evidence.",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": "bio9-c10-q1",
+      "question": "In a population, genetic variation is critical because it",
+      "options": {
+        "A": "Causes individuals to grow faster regardless of conditions",
+        "B": "Provides different traits that can be favored by natural selection",
+        "C": "Always leads to harmful mutations",
+        "D": "Immediate extinction"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Provides different traits that can be favored by natural selection') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q2",
+      "question": "Evolution can best be described as",
+      "options": {
+        "A": "A temporary shift in the structure of DNA during an organism's life",
+        "B": "The gradual development of new species over generations through inherited changes",
+        "C": "The sudden appearance of entirely new species without common ancestors",
+        "D": "Instant genetic replication"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('The gradual development of new species over generations through inherited changes') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q3",
+      "question": "Discontinuous variation is observed in traits such as",
+      "options": {
+        "A": "Height and skin color, which vary continuously",
+        "B": "Blood groups and tongue-rolling ability, with distinct categories",
+        "C": "Traits that result only from environmental changes",
+        "D": "Spontaneous generation"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Blood groups and tongue-rolling ability, with distinct categories') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q4",
+      "question": "Mutation contributes to evolution because",
+      "options": {
+        "A": "It always leads to the extinction of a species",
+        "B": "It introduces new alleles into a population's gene pool",
+        "C": "It prevents any further variation from occurring",
+        "D": "Uniform trait stability"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('It introduces new alleles into a population's gene pool') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q5",
+      "question": "Variations that occur due to genetic changes",
+      "options": {
+        "A": "Can be inherited and may influence evolution",
+        "B": "Are always harmful and short-lived",
+        "C": "Never affect reproductive success",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Can be inherited and may influence evolution') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q6",
+      "question": "Continuous variation is typically seen in traits such as",
+      "options": {
+        "A": "Eye color, which has clear categories",
+        "B": "Fingerprint patterns that are uniform across populations",
+        "C": "Height and weight, which show a range of values",
+        "D": "Immediate extinction"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Height and weight, which show a range of values') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q7",
+      "question": "Natural selection operates by",
+      "options": {
+        "A": "Randomly eliminating all traits in a population",
+        "B": "Favoring individuals with characteristics that improve survival and reproduction",
+        "C": "Ensuring that all organisms evolve at the same rate",
+        "D": "Instant genetic replication"
+      },
+      "correctAnswer": "B",
+      "explanation": "THEORY OF NATURAL SELECTION"
+    },
+    {
+      "id": "bio9-c10-q8",
+      "question": "Darwin’s theory of natural selection emphasizes that",
+      "options": {
+        "A": "Offspring inherit all acquired characteristics",
+        "B": "Only the strongest individuals survive regardless of adaptation",
+        "C": "Organisms with beneficial traits are more likely to survive and reproduce",
+        "D": "Spontaneous generation"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Organisms with beneficial traits are more likely to survive and reproduce') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q9",
+      "question": "A major concept of natural selection is that",
+      "options": {
+        "A": "Overproduction leads to competition, which determines survival",
+        "B": "All individuals in a population have an equal chance of survival",
+        "C": "Traits acquired during an organism’s life are passed on",
+        "D": "Uniform trait stability"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Overproduction leads to competition, which determines survival') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q10",
+      "question": "Natural selection may lead to evolution when",
+      "options": {
+        "A": "Certain inherited traits become more common over generations",
+        "B": "All individuals are cloned to maintain genetic uniformity",
+        "C": "Environmental changes no longer influence survival",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "EVIDENCES OF EVOLUTION"
+    },
+    {
+      "id": "bio9-c10-q11",
+      "question": "The fossil record supports the theory of evolution by",
+      "options": {
+        "A": "Showing that all species appeared simultaneously",
+        "B": "Providing a chronological sequence of organisms through geological layers",
+        "C": "Proving that ancient organisms were always more complex",
+        "D": "Immediate extinction"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Providing a chronological sequence of organisms through geological layers') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q12",
+      "question": "Homologous structures in different species indicate that",
+      "options": {
+        "A": "These species evolved similar traits independently",
+        "B": "They may have evolved from a common ancestor",
+        "C": "They are unrelated but live in similar environments",
+        "D": "Instant genetic replication"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('They may have evolved from a common ancestor') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q13",
+      "question": "Comparative anatomy supports evolution because",
+      "options": {
+        "A": "Similar internal structures can be found in organisms with different functions",
+        "B": "Different species always have identical external appearances",
+        "C": "All organisms have unique body plans without any similarity",
+        "D": "Spontaneous generation"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Similar internal structures can be found in organisms with different functions') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q14",
+      "question": "Selective breeding in agriculture shows that",
+      "options": {
+        "A": "Evolution can be directed by human selection of traits over generations",
+        "B": "Traits in plants and animals arise randomly without influence",
+        "C": "All offspring will have the same traits as their parents",
+        "D": "Uniform trait stability"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Evolution can be directed by human selection of traits over generations') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q15",
+      "question": "Fossil evidence is particularly useful because it",
+      "options": {
+        "A": "Shows extinct organisms and transitional forms between species",
+        "B": "Confirms that species never changed over time",
+        "C": "Can only be used to study living species",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Shows extinct organisms and transitional forms between species') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q16",
+      "question": "Analogous structures, such as wings of insects and birds, provide evidence that",
+      "options": {
+        "A": "Similar environmental pressures can result in similar functions through different structures",
+        "B": "All organisms have a shared evolutionary origin",
+        "C": "Evolution only occurs in animals with wings",
+        "D": "Immediate extinction"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Similar environmental pressures can result in similar functions through different structures') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q17",
+      "question": "Artificial selection differs from natural selection in that",
+      "options": {
+        "A": "It is random and does not rely on inherited traits",
+        "B": "It involves human intervention to promote desirable traits",
+        "C": "It prevents organisms from adapting to the environment",
+        "D": "Instant genetic replication"
+      },
+      "correctAnswer": "B",
+      "explanation": "NATURAL SELECTION VS ARTIFICIAL SELECTION"
+    },
+    {
+      "id": "bio9-c10-q18",
+      "question": "In natural selection, the traits that increase survival are",
+      "options": {
+        "A": "Often passed on because individuals with them reproduce more",
+        "B": "Always determined by human needs",
+        "C": "Not influenced by the environment at all",
+        "D": "Spontaneous generation"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Often passed on because individuals with them reproduce more') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q19",
+      "question": "A major difference between artificial and natural selection is that",
+      "options": {
+        "A": "Artificial selection occurs naturally over long periods",
+        "B": "Natural selection is purposeful and directed by humans",
+        "C": "Artificial selection is controlled by humans to obtain specific characteristics",
+        "D": "Uniform trait stability"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Artificial selection is controlled by humans to obtain specific characteristics') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q20",
+      "question": "Artificial selection has allowed humans to",
+      "options": {
+        "A": "Change species by choosing specific traits for reproduction",
+        "B": "Eliminate genetic variation in populations completely",
+        "C": "Make organisms immune to all environmental changes",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "SPECIATION"
+    },
+    {
+      "id": "bio9-c10-q21",
+      "question": "Speciation is a process that results in",
+      "options": {
+        "A": "The formation of new species through reproductive isolation and genetic divergence",
+        "B": "The merging of all populations into one species",
+        "C": "The elimination of mutations from a gene pool",
+        "D": "Immediate extinction"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('The formation of new species through reproductive isolation and genetic divergence') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q22",
+      "question": "Geographic isolation may lead to speciation when",
+      "options": {
+        "A": "Populations adapt differently due to environmental differences and cannot interbreed",
+        "B": "All individuals move to a single area",
+        "C": "The gene pool of both populations becomes identical",
+        "D": "Instant genetic replication"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Populations adapt differently due to environmental differences and cannot interbreed') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q23",
+      "question": "Reproductive isolation occurs when",
+      "options": {
+        "A": "Members of different populations can no longer produce fertile offspring",
+        "B": "All organisms breed with one another without restriction",
+        "C": "Breeding occurs at the same time of year across all populations",
+        "D": "Spontaneous generation"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Members of different populations can no longer produce fertile offspring') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q24",
+      "question": "Behavioral isolation can result in speciation when",
+      "options": {
+        "A": "Differences in mating behavior prevent interbreeding between populations",
+        "B": "Physical barriers disappear",
+        "C": "All species share identical mating rituals",
+        "D": "Uniform trait stability"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Differences in mating behavior prevent interbreeding between populations') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q25",
+      "question": "Speciation is unlikely to happen if",
+      "options": {
+        "A": "Populations frequently interbreed and exchange genes",
+        "B": "Different environmental pressures act on isolated populations",
+        "C": "Genetic drift occurs in small populations",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Populations frequently interbreed and exchange genes') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q26",
+      "question": "Over time, genetic divergence between isolated populations",
+      "options": {
+        "A": "May lead to the evolution of new species if reproductive isolation is maintained",
+        "B": "Causes all traits to become uniform",
+        "C": "Prevents evolution from occurring",
+        "D": "Immediate extinction"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('May lead to the evolution of new species if reproductive isolation is maintained') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q27",
+      "question": "Temporal isolation contributes to speciation by",
+      "options": {
+        "A": "Preventing reproduction due to different mating times among populations",
+        "B": "Making all organisms breed at the same time",
+        "C": "Eliminating behavioral differences between populations",
+        "D": "Instant genetic replication"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Preventing reproduction due to different mating times among populations') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q28",
+      "question": "In sympatric speciation, new species arise",
+      "options": {
+        "A": "Within the same geographical area due to genetic changes and reproductive barriers",
+        "B": "Only after a physical barrier separates populations",
+        "C": "When individuals migrate to different continents",
+        "D": "Spontaneous generation"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Within the same geographical area due to genetic changes and reproductive barriers') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q29",
+      "question": "Speciation due to genetic drift is more common in",
+      "options": {
+        "A": "Small, isolated populations where chance events affect allele frequencies",
+        "B": "Large populations with stable gene pools",
+        "C": "Populations with identical genetic structures",
+        "D": "Uniform trait stability"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Small, isolated populations where chance events affect allele frequencies') is the correct biological fact for Variation, Natural Selection & Evolution."
+    },
+    {
+      "id": "bio9-c10-q30",
+      "question": "Speciation is complete when",
+      "options": {
+        "A": "Populations are reproductively isolated and cannot produce fertile offspring",
+        "B": "All individuals in both groups continue interbreeding",
+        "C": "Both populations have identical physical traits",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Populations are reproductively isolated and cannot produce fertile offspring') is the correct biological fact for Variation, Natural Selection & Evolution."
+    }
+  ]
+}

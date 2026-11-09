@@ -1,0 +1,430 @@
+{
+  "subject": "biology-9",
+  "chapterNumber": 4,
+  "chapterTitle": "Unit 04: Cell Cycle: Mitosis, Meiosis & Cell Division",
+  "slug": "biology-9-chapter-4",
+  "description": "Phases of the cell cycle (Interphase G1, S, G2), mitosis (karyokinesis & cytokinesis), meiosis I and II, crossing over, significance of division, and apoptosis.",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": "bio9-c4-q1",
+      "question": "During which phase does a cell grow and prepare for DNA replication?",
+      "options": {
+        "A": "G1 phase",
+        "B": "S phase",
+        "C": "G2 phase",
+        "D": "G0 resting phase"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('G1 phase') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q2",
+      "question": "If a cell skips the S phase, what will happen in mitosis?",
+      "options": {
+        "A": "It will divide normally",
+        "B": "It will have half the required DNA",
+        "C": "It will not enter mitosis",
+        "D": "Metaphase plate"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('It will have half the required DNA') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q3",
+      "question": "Which phase of the cell cycle is the shortest?",
+      "options": {
+        "A": "G1",
+        "B": "M phase",
+        "C": "S phase",
+        "D": "Telophase elongation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Spindle Apparatus"
+    },
+    {
+      "id": "bio9-c4-q4",
+      "question": "The spindle fibers attach to chromosomes at the:",
+      "options": {
+        "A": "Centrosome",
+        "B": "Kinetochore",
+        "C": "Chromatid",
+        "D": "Anaphase separation"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Kinetochore') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q5",
+      "question": "If spindle fibers do not form, what will happen?",
+      "options": {
+        "A": "Chromosomes will not duplicate",
+        "B": "Chromosomes will not separate properly",
+        "C": "The nuclear membrane will not break",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Chromosomes will not separate properly') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q6",
+      "question": "In animal cells, spindle fibers originate from:",
+      "options": {
+        "A": "Ribosomes",
+        "B": "Centrosomes",
+        "C": "Mitochondria",
+        "D": "G0 resting phase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mitosis"
+    },
+    {
+      "id": "bio9-c4-q7",
+      "question": "At which stage do chromosomes align at the center of the cell?",
+      "options": {
+        "A": "Prophase",
+        "B": "Metaphase",
+        "C": "Anaphase",
+        "D": "Metaphase plate"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Metaphase') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q8",
+      "question": "If a cell completes mitosis but not cytokinesis, what will be the result?",
+      "options": {
+        "A": "A single cell with two nuclei",
+        "B": "Two identical daughter cells",
+        "C": "A cell with half the chromosomes",
+        "D": "Telophase elongation"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('A single cell with two nuclei') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q9",
+      "question": "What disappears during prophase?",
+      "options": {
+        "A": "Cell membrane",
+        "B": "Nuclear envelope",
+        "C": "Ribosomes",
+        "D": "Anaphase separation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Significance of Mitosis"
+    },
+    {
+      "id": "bio9-c4-q10",
+      "question": "Mitosis ensures:",
+      "options": {
+        "A": "Genetic variation",
+        "B": "Exact copy of the parent cell",
+        "C": "Formation of gametes",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Exact copy of the parent cell') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q11",
+      "question": "The replacement of old and damaged cells happens due to:",
+      "options": {
+        "A": "Mitosis",
+        "B": "Meiosis",
+        "C": "Budding",
+        "D": "G0 resting phase"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Mitosis') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q12",
+      "question": "Which of the following is an example of mitosis?",
+      "options": {
+        "A": "Healing of a cut",
+        "B": "Production of sperm",
+        "C": "Formation of a zygote",
+        "D": "Metaphase plate"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Healing of a cut') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q13",
+      "question": "Which body part shows the highest rate of mitosis?",
+      "options": {
+        "A": "Nerve cells",
+        "B": "Skin cells",
+        "C": "Liver cells",
+        "D": "Telophase elongation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Asexual Reproduction"
+    },
+    {
+      "id": "bio9-c4-q14",
+      "question": "Which type of asexual reproduction occurs in yeast?",
+      "options": {
+        "A": "Binary fission",
+        "B": "Budding",
+        "C": "Fragmentation",
+        "D": "Anaphase separation"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Budding') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q15",
+      "question": "Why does asexual reproduction produce identical offspring?",
+      "options": {
+        "A": "No genetic material is inherited",
+        "B": "No DNA mixing occurs",
+        "C": "Offspring develop from two parents",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('No DNA mixing occurs') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q16",
+      "question": "Tissue culture is used to:",
+      "options": {
+        "A": "Grow plants from a few cells",
+        "B": "Produce animals from eggs",
+        "C": "Increase genetic variation",
+        "D": "G0 resting phase"
+      },
+      "correctAnswer": "A",
+      "explanation": "Meiosis"
+    },
+    {
+      "id": "bio9-c4-q17",
+      "question": "How many cells are produced at the end of meiosis?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "8",
+        "D": "Metaphase plate"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('4') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q18",
+      "question": "What happens in Anaphase I of meiosis?",
+      "options": {
+        "A": "Sister chromatids separate",
+        "B": "Homologous chromosomes separate",
+        "C": "Nuclear membrane reforms",
+        "D": "Telophase elongation"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Homologous chromosomes separate') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q19",
+      "question": "If a cell has 10 chromosomes before meiosis, how many will each daughter cell have after meiosis?",
+      "options": {
+        "A": "10",
+        "B": "5",
+        "C": "20",
+        "D": "Anaphase separation"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('5') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q20",
+      "question": "When does crossing over occur?",
+      "options": {
+        "A": "Prophase I",
+        "B": "Metaphase I",
+        "C": "Anaphase II",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Prophase I') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q21",
+      "question": "Why is the second division in meiosis necessary?",
+      "options": {
+        "A": "To separate homologous chromosomes",
+        "B": "To reduce chromosome number",
+        "C": "To separate sister chromatids",
+        "D": "G0 resting phase"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('To separate sister chromatids') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q22",
+      "question": "If an error occurs in meiosis and chromosomes do not separate, what could happen?",
+      "options": {
+        "A": "A genetic disorder",
+        "B": "Faster cell division",
+        "C": "Production of extra cells",
+        "D": "Metaphase plate"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('A genetic disorder') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q23",
+      "question": "Which phase of meiosis is most similar to mitosis?",
+      "options": {
+        "A": "Meiosis I",
+        "B": "Meiosis II",
+        "C": "Neither",
+        "D": "Telophase elongation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Significance of Meiosis"
+    },
+    {
+      "id": "bio9-c4-q24",
+      "question": "Why is meiosis important for sexual reproduction?",
+      "options": {
+        "A": "It maintains chromosome number in offspring",
+        "B": "It produces identical cells",
+        "C": "It speeds up cell division",
+        "D": "Anaphase separation"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('It maintains chromosome number in offspring') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q25",
+      "question": "What is the main outcome of meiosis?",
+      "options": {
+        "A": "Growth of tissues",
+        "B": "Formation of identical cells",
+        "C": "Genetic diversity",
+        "D": "None of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option C ('Genetic diversity') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q26",
+      "question": "The main difference between mitosis and meiosis is:",
+      "options": {
+        "A": "Mitosis occurs in reproductive cells",
+        "B": "Meiosis produces identical cells",
+        "C": "Meiosis reduces chromosome number",
+        "D": "G0 resting phase"
+      },
+      "correctAnswer": "C",
+      "explanation": "Genetic Variation"
+    },
+    {
+      "id": "bio9-c4-q27",
+      "question": "What process in meiosis increases genetic variation?",
+      "options": {
+        "A": "Spindle formation",
+        "B": "Crossing over",
+        "C": "Cytokinesis",
+        "D": "Metaphase plate"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Crossing over') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q28",
+      "question": "If independent assortment did not happen, what would be the result?",
+      "options": {
+        "A": "All offspring would be genetically identical",
+        "B": "Cells would have twice the DNA",
+        "C": "Cells would not divide",
+        "D": "Telophase elongation"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('All offspring would be genetically identical') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q29",
+      "question": "How does meiosis create variation in a species?",
+      "options": {
+        "A": "By ensuring all offspring are identical",
+        "B": "By allowing genes to shuffle",
+        "C": "By increasing cell division",
+        "D": "Anaphase separation"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('By allowing genes to shuffle') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q30",
+      "question": "Why does sexual reproduction result in more variation than asexual reproduction?",
+      "options": {
+        "A": "It allows DNA from two parents",
+        "B": "It produces clones",
+        "C": "It speeds up cell division",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('It allows DNA from two parents') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q31",
+      "question": "If a mistake occurs during meiosis, what might be affected?",
+      "options": {
+        "A": "DNA replication",
+        "B": "Chromosome number in offspring",
+        "C": "Mitosis",
+        "D": "G0 resting phase"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Chromosome number in offspring') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q32",
+      "question": "Which event in meiosis leads to different combinations of traits?",
+      "options": {
+        "A": "DNA replication",
+        "B": "Independent assortment",
+        "C": "Cytokinesis",
+        "D": "Metaphase plate"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('Independent assortment') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q33",
+      "question": "Why are siblings not identical?",
+      "options": {
+        "A": "Meiosis and fertilization shuffle genes",
+        "B": "All cells divide at different rates",
+        "C": "Mitosis creates variation",
+        "D": "Telophase elongation"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Meiosis and fertilization shuffle genes') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q34",
+      "question": "Which of these would decrease genetic variation?",
+      "options": {
+        "A": "Asexual reproduction",
+        "B": "Crossing over",
+        "C": "Meiosis",
+        "D": "Anaphase separation"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option A ('Asexual reproduction') is the correct biological fact for Cell Cycle."
+    },
+    {
+      "id": "bio9-c4-q35",
+      "question": "What best describes the role of random fertilization?",
+      "options": {
+        "A": "It ensures only the strongest sperm fertilizes the egg",
+        "B": "It increases variation by combining different gametes",
+        "C": "It prevents mutations",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "According to FBISE Class 9 Biology curriculum standards, Option B ('It increases variation by combining different gametes') is the correct biological fact for Cell Cycle."
+    }
+  ]
+}

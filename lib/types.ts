@@ -28,7 +28,8 @@ export type SubjectId =
   | 'english-9'
   | 'islamiat-9'
   | 'chemistry-9'
-  | 'cs-9';
+  | 'cs-9'
+  | 'biology-9';
 
 export interface ChapterData {
   chapterNumber: number;

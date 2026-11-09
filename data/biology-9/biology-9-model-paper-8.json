@@ -1,0 +1,154 @@
+{
+  "subject": "biology-9",
+  "chapterNumber": 18,
+  "chapterTitle": "Federal Board Full-Book Grand Exam Simulator (Ch 1–10)",
+  "slug": "biology-9-model-paper-8",
+  "description": "Comprehensive 12-mark Section A Federal Board full-book examination simulator covering all 10 curriculum chapters by Lecturer Rubina Ashraf.",
+  "totalQuestions": 12,
+  "questions": [
+    {
+      "id": "bio9-mp8-q1",
+      "question": "Which of the following is classified as an insoluble structural fibrous protein?",
+      "options": {
+        "A": "Actin",
+        "B": "Hemoglobin",
+        "C": "Keratin",
+        "D": "Myosin"
+      },
+      "correctAnswer": "C",
+      "explanation": "Keratin provides structural integrity and water impermeability to hair, nails, feathers, and horns."
+    },
+    {
+      "id": "bio9-mp8-q2",
+      "question": "Studying the biomechanics of animal locomotion using physical principles belongs to:",
+      "options": {
+        "A": "Physiology",
+        "B": "Biophysics",
+        "C": "Biochemistry",
+        "D": "Immunology"
+      },
+      "correctAnswer": "B",
+      "explanation": "Biophysics applies principles of physics (levers, pressure, electricity) to biological structures and movements."
+    },
+    {
+      "id": "bio9-mp8-q3",
+      "question": "If the tissue level of organization fails to form, which subsequent level cannot develop?",
+      "options": {
+        "A": "Molecular level",
+        "B": "Atomic level",
+        "C": "Organ level",
+        "D": "Organelle level"
+      },
+      "correctAnswer": "C",
+      "explanation": "Organs represent higher-order assemblies of tissues; without tissues, organs and organ systems cannot form."
+    },
+    {
+      "id": "bio9-mp8-q4",
+      "question": "During aerobic respiration, in which stage is carbon dioxide primarily liberated?",
+      "options": {
+        "A": "Glycolysis",
+        "B": "Krebs cycle & link reaction",
+        "C": "Electron transport chain",
+        "D": "Oxidative phosphorylation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Oxidative decarboxylation of pyruvate and the Krebs cycle release carbon atoms as carbon dioxide."
+    },
+    {
+      "id": "bio9-mp8-q5",
+      "question": "The human vermiform appendix is a textbook anatomical example of a/an:",
+      "options": {
+        "A": "Homologous organ",
+        "B": "Analogous organ",
+        "C": "Endocrine gland",
+        "D": "Vestigial organ"
+      },
+      "correctAnswer": "D",
+      "explanation": "Vestigial organs are evolutionary remnants that have lost their ancestral digestive function."
+    },
+    {
+      "id": "bio9-mp8-q6",
+      "question": "What chemical bonds stabilize complementary base pairs across antiparallel DNA strands?",
+      "options": {
+        "A": "Ionic bonds",
+        "B": "Hydrogen bonds",
+        "C": "Covalent peptide bonds",
+        "D": "Disulfide bridges"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hydrogen bonds between purines and pyrimidines hold the double helix together while allowing replication unzipping."
+    },
+    {
+      "id": "bio9-mp8-q7",
+      "question": "Which of the following structures in an angiosperm seed is NOT part of the diploid embryo?",
+      "options": {
+        "A": "Radicle",
+        "B": "Plumule",
+        "C": "Endosperm",
+        "D": "Cotyledon"
+      },
+      "correctAnswer": "C",
+      "explanation": "The endosperm is triploid nutritive tissue formed separately by triple fusion, distinct from the diploid embryo."
+    },
+    {
+      "id": "bio9-mp8-q8",
+      "question": "Non-competitive enzyme inhibitors bind to the:",
+      "options": {
+        "A": "Substrate active site",
+        "B": "Allosteric regulatory site",
+        "C": "Coenzyme pocket",
+        "D": "Peptide terminus"
+      },
+      "correctAnswer": "B",
+      "explanation": "Non-competitive inhibitors bind to allosteric sites, changing the tertiary enzyme shape and inactivating catalysis."
+    },
+    {
+      "id": "bio9-mp8-q9",
+      "question": "Which specialized conducting cells in the leaf vein are responsible for water transport?",
+      "options": {
+        "A": "Sieve tubes",
+        "B": "Companion cells",
+        "C": "Xylem vessels",
+        "D": "Collenchyma"
+      },
+      "correctAnswer": "C",
+      "explanation": "Xylem vessels transport water and dissolved inorganic ions from roots to photosynthetic leaf tissues."
+    },
+    {
+      "id": "bio9-mp8-q10",
+      "question": "Which of the following organelles is normally absent in higher plant cells?",
+      "options": {
+        "A": "Centriole",
+        "B": "Golgi apparatus",
+        "C": "Mitochondrion",
+        "D": "Ribosome"
+      },
+      "correctAnswer": "A",
+      "explanation": "Centrioles are absent in flowering plants, which organize mitotic spindles without centrosomal centrioles."
+    },
+    {
+      "id": "bio9-mp8-q11",
+      "question": "A tentative explanation formulated on the basis of biological observations is called a:",
+      "options": {
+        "A": "Hypothesis",
+        "B": "Deduction",
+        "C": "Theory",
+        "D": "Scientific Law"
+      },
+      "correctAnswer": "A",
+      "explanation": "A hypothesis is an initial testable proposition formulated to explain biological observations."
+    },
+    {
+      "id": "bio9-mp8-q12",
+      "question": "The scientific discipline dealing with the classification and evolutionary relationships of organisms is:",
+      "options": {
+        "A": "Simple taxonomy",
+        "B": "Morphology",
+        "C": "Systematics",
+        "D": "Binomial nomenclature"
+      },
+      "correctAnswer": "C",
+      "explanation": "Systematics combines taxonomic classification with evolutionary history and phylogenetic trees."
+    }
+  ]
+}
