@@ -29,6 +29,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   let subjectName = 'Physics';
   if (chapter.subject === 'urdu') subjectName = 'Urdu';
   else if (chapter.subject === 'math') subjectName = 'Mathematics';
+  else if (chapter.subject === 'english') subjectName = 'English';
 
   return {
     title: `${chapter.chapterTitle} | Class 11 ${subjectName} MCQs | SochBadlo Prep`,

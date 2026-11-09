@@ -1,0 +1,248 @@
+{
+  "chapterNumber": 10,
+  "chapterTitle": "FBISE Annual Board Examination Section A Simulator 4",
+  "subject": "english",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "A song or poem of sorrow, mourning, and lamentation for one who has passed away is called a/an:",
+      "options": {
+        "A": "Tragedy",
+        "B": "Epic",
+        "C": "Sonnet",
+        "D": "Elegy"
+      },
+      "correctAnswer": "D",
+      "explanation": "An elegy is a formal poetic meditation on mortality and personal grief written in remembrance of the dead."
+    },
+    {
+      "id": 2,
+      "question": "Choose the correctly structured conditional sentence:",
+      "options": {
+        "A": "If you rest, you will feel better.",
+        "B": "If you will rest, you will feel better.",
+        "C": "If you had rest, you feel better.",
+        "D": "If you rest, you would feel better."
+      },
+      "correctAnswer": "A",
+      "explanation": "First conditional structures require simple present in the condition clause ('If you rest') and 'will + base verb' in the main clause ('you will feel better')."
+    },
+    {
+      "id": 3,
+      "question": "'___ of everything is bad.' Choose the correct word:",
+      "options": {
+        "A": "Excess",
+        "B": "Access",
+        "C": "Excessive",
+        "D": "Excuses"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Excess' is the noun meaning a quantity beyond bounds, as in the famous English proverb 'Excess of everything is bad'."
+    },
+    {
+      "id": 4,
+      "question": "'The pen is mightier than the sword.' The sentence exemplifies the use of:",
+      "options": {
+        "A": "Metaphor",
+        "B": "Metonymy",
+        "C": "Simile",
+        "D": "Irony"
+      },
+      "correctAnswer": "B",
+      "explanation": "Metonymy substitutes associated entities: 'pen' stands for intellectual communication/writing, and 'sword' represents military warfare."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following sentences contains advice?",
+      "options": {
+        "A": "Work sincerely.",
+        "B": "Why are you weeping?",
+        "C": "The train has arrived.",
+        "D": "Hurrah! We won."
+      },
+      "correctAnswer": "A",
+      "explanation": "'Work sincerely' is an imperative sentence delivering counsel and moral instruction."
+    },
+    {
+      "id": 6,
+      "question": "The exact antonym of 'Unemployed' is:",
+      "options": {
+        "A": "Employed",
+        "B": "Prosperous",
+        "C": "Proud",
+        "D": "Idle"
+      },
+      "correctAnswer": "A",
+      "explanation": "'Employed' directly counters 'unemployed' in vocational semantics."
+    },
+    {
+      "id": 7,
+      "question": "Which sentence has the use of a transitional device of addition?",
+      "options": {
+        "A": "The team was having a great season and, furthermore, all the players were getting along.",
+        "B": "The network has crashed; next, the power will go off.",
+        "C": "It's really cold today; however, it's been mild overall.",
+        "D": "First finish your lunch; then, do your work."
+      },
+      "correctAnswer": "A",
+      "explanation": "'Furthermore' is a formal transitional adverb used to append affirmative supplementary details."
+    },
+    {
+      "id": 8,
+      "question": "Which sentence has the correct tense structure with time adverbials?",
+      "options": {
+        "A": "He has been living in this house since 1990.",
+        "B": "He has been living in this house for 1990.",
+        "C": "He is living in this house for 1990.",
+        "D": "He has have been living in this house since 1990."
+      },
+      "correctAnswer": "A",
+      "explanation": "Present perfect continuous requires 'since' with a specific point in past time ('1990')."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following sentences contains an opinion?",
+      "options": {
+        "A": "Pakistan came into existence on the 14th of August, 1947.",
+        "B": "Pakistan is a beautiful land to visit.",
+        "C": "Pakistan has fought many wars against its neighbouring country.",
+        "D": "Pakistan is an atomic power."
+      },
+      "correctAnswer": "B",
+      "explanation": "'A beautiful land to visit' represents subjective personal perception rather than empirically documented data."
+    },
+    {
+      "id": 10,
+      "question": "'We won the game, but my uniform was muddy because it rained the entire time.' This sentence is a/an:",
+      "options": {
+        "A": "Simple sentence",
+        "B": "Compound sentence",
+        "C": "Complex sentence",
+        "D": "Compound-Complex sentence"
+      },
+      "correctAnswer": "D",
+      "explanation": "Has at least two independent clauses joined by 'but' ('We won the game', 'my uniform was muddy') plus one subordinate clause ('because it rained the entire time')."
+    },
+    {
+      "id": 11,
+      "question": "'She walked past me, her head down; she was looking at her report card.' What can we deduce?",
+      "options": {
+        "A": "She was very obedient.",
+        "B": "She was worried that she didn't get good grades.",
+        "C": "Her eyesight was weak.",
+        "D": "She was tired."
+      },
+      "correctAnswer": "B",
+      "explanation": "Depressed posture and fixated gaze on an academic record communicate dismay and distress over poor performance."
+    },
+    {
+      "id": 12,
+      "question": "'Nothing could save the king from the humiliation that came his way.' The synonym of 'humiliation' is:",
+      "options": {
+        "A": "Grief",
+        "B": "Disgrace",
+        "C": "Hatred",
+        "D": "Anger"
+      },
+      "correctAnswer": "B",
+      "explanation": "Both 'humiliation' and 'disgrace' signify severe degradation of pride, respect, or honor."
+    },
+    {
+      "id": 13,
+      "question": "'He has been living in this house since 1980.' The underlined phrase 'since 1980' is a/an:",
+      "options": {
+        "A": "Noun phrase",
+        "B": "Appositive phrase",
+        "C": "Verb phrase",
+        "D": "Adverb phrase"
+      },
+      "correctAnswer": "D",
+      "explanation": "'Since 1980' functions adverbially to specify the temporal boundary of the verb 'has been living'."
+    },
+    {
+      "id": 14,
+      "question": "'The man who was standing outside the car was my friend.' The underlined clause is a/an:",
+      "options": {
+        "A": "Noun phrase",
+        "B": "Adverb clause",
+        "C": "Adjective clause",
+        "D": "Noun clause"
+      },
+      "correctAnswer": "C",
+      "explanation": "'Who was standing outside the car' is a relative/adjective clause defining 'The man'."
+    },
+    {
+      "id": 15,
+      "question": "'Once a rooster laid eggs and those were stolen by a rat. What did the rooster do?' Infer the statement:",
+      "options": {
+        "A": "The rooster ran after the rat and caught him.",
+        "B": "The rooster laid eggs again.",
+        "C": "The rooster got nostalgic.",
+        "D": "None (Roosters do not lay eggs)."
+      },
+      "correctAnswer": "D",
+      "explanation": "In terms of scientific logic and biology, roosters are male chickens and are biologically incapable of laying eggs."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following sentences has the use of a transitive verb?",
+      "options": {
+        "A": "The girls carry water to their villages.",
+        "B": "A light was shining.",
+        "C": "He walks daily in the morning.",
+        "D": "The children laughed heartily."
+      },
+      "correctAnswer": "A",
+      "explanation": "'Carry' takes the direct object 'water', making it transitive."
+    },
+    {
+      "id": 17,
+      "question": "'___ the time I got there he had gone.' Choose the correct preposition:",
+      "options": {
+        "A": "At",
+        "B": "On",
+        "C": "By",
+        "D": "In"
+      },
+      "correctAnswer": "C",
+      "explanation": "'By the time' is an idiomatic temporal connective indicating action completion prior to an event."
+    },
+    {
+      "id": 18,
+      "question": "'Lady Gaga, a pop singer, is launching her new album this month.' The phrase 'a pop singer' is a/an:",
+      "options": {
+        "A": "Noun phrase",
+        "B": "Appositive phrase",
+        "C": "Verb phrase",
+        "D": "Adverb phrase"
+      },
+      "correctAnswer": "B",
+      "explanation": "An appositive phrase re-identifies the neighboring proper noun 'Lady Gaga' within comma boundaries."
+    },
+    {
+      "id": 19,
+      "question": "'No time to turn at Beauty's glance, and watch her feet, how they can dance.' The poetic device used is:",
+      "options": {
+        "A": "Personification",
+        "B": "Simile",
+        "C": "Metaphor",
+        "D": "Metonymy"
+      },
+      "correctAnswer": "A",
+      "explanation": "W.H. Davies endows the abstract concept of Nature/Beauty with human biological attributes (a woman glancing and dancing)."
+    },
+    {
+      "id": 20,
+      "question": "Which of the following sentences contains an example of a gerund?",
+      "options": {
+        "A": "The creaking door woke the baby.",
+        "B": "They were talking too much and got detention.",
+        "C": "I like singing songs with my friends.",
+        "D": "They climbed the mountain with great difficulty."
+      },
+      "correctAnswer": "C",
+      "explanation": "'Singing' is an -ing verbal noun functioning as the direct object of the verb 'like'."
+    }
+  ]
+}

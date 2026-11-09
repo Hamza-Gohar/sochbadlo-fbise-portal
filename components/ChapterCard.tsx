@@ -25,6 +25,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
 
   const isUrdu = chapter.subject === 'urdu' || chapter.slug.startsWith('urdu');
   const isMath = chapter.subject === 'math' || chapter.slug.startsWith('math');
+  const isEnglish = chapter.subject === 'english' || chapter.slug.startsWith('english');
   const isPastPapers = chapter.slug === 'past-papers' || chapter.slug === 'urdu-model-paper';
 
   let tagLabel = `Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
@@ -33,6 +34,8 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (chapter.slug === 'urdu-ilm-e-bayan') tagLabel = 'Urdu Rhetoric (علم بیان)';
   else if (chapter.slug === 'urdu-ilm-e-badi') tagLabel = 'Urdu Figures (علم بدیع)';
   else if (chapter.slug.startsWith('math-model-paper-')) tagLabel = `Math Board Simulator ${chapter.chapterNumber}`;
+  else if (chapter.slug.startsWith('english-model-paper-')) tagLabel = `English Board Simulator ${chapter.chapterNumber - 6}`;
+  else if (isEnglish) tagLabel = `English Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (isMath) tagLabel = `Math Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (isUrdu) tagLabel = `Urdu Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
 
@@ -61,6 +64,22 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     description = 'Official FBISE Class 11 Mathematics Section A annual board simulator with 20 MCQs and complete step-by-step mathematical reasoning.';
   } else if (isMath) {
     description = `Curated FBISE Class 11 Mathematics conceptual problems, formula applications, and computational shortcuts for ${chapter.title}.`;
+  } else if (chapter.slug === 'english-unit-1') {
+    description = 'Simple, compound, complex, and compound-complex sentence structure, optative mood, and conditional if-clauses (Types 0–3).';
+  } else if (chapter.slug === 'english-unit-2') {
+    description = 'Master noun phrases, appositive phrases, prepositional phrases, and subordinate clauses (noun, adjective, adverbial).';
+  } else if (chapter.slug === 'english-unit-3') {
+    description = 'Subject-verb agreement (concord), finite vs. non-finite verbs, gerunds, participles, infinitives, and tense sequence.';
+  } else if (chapter.slug === 'english-unit-4') {
+    description = 'Literary devices, poetic meter, imagery (tactile, olfactory, gustatory), metaphors, personification, irony, and synecdoche.';
+  } else if (chapter.slug === 'english-unit-5') {
+    description = 'Order of adjectives, emphatic vs. reflexive pronouns, subject complements, and punctuation mechanics (semicolon, hyphen).';
+  } else if (chapter.slug === 'english-unit-6') {
+    description = 'Transitional devices of contrast, addition, and result, idiomatic phrasal verbs, and contextual vocabulary analysis.';
+  } else if (chapter.slug.startsWith('english-model-paper-')) {
+    description = 'Official Federal Board Section A compulsory examination simulation with 20 marks and authentic syllabus SLO rationales.';
+  } else if (isEnglish) {
+    description = `Curated FBISE Class 11 English SLO questions, grammar rules, and reading comprehension mechanics for ${chapter.title}.`;
   }
 
   return (
