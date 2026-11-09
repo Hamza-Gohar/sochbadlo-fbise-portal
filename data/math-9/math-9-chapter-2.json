@@ -1,0 +1,609 @@
+{
+  "chapterNumber": 2,
+  "chapterTitle": "Unit 2: Logarithms",
+  "totalQuestions": 50,
+  "subject": "math-9",
+  "grade": "9",
+  "questions": [
+    {
+      "question": "What is the value of logₐ 1?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "a",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 1
+    },
+    {
+      "question": "If logₐ x = y, then x = ?",
+      "options": {
+        "A": "a × y",
+        "B": "a^y",
+        "C": "y^a",
+        "D": "a / y"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'a^y'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 2
+    },
+    {
+      "question": "What is logₐ 0?",
+      "options": {
+        "A": "0",
+        "B": "Undefined",
+        "C": "1",
+        "D": "-1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Undefined'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 3
+    },
+    {
+      "question": "Which of the following is a logarithmic function?",
+      "options": {
+        "A": "y = 2^x",
+        "B": "y = log₂ x",
+        "C": "y = x²",
+        "D": "y = x^3"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'y = log₂ x'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 4
+    },
+    {
+      "question": "If log₃ 81 = x, then x = ?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '4'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 5
+    },
+    {
+      "question": "logₐ (m × n) = ?",
+      "options": {
+        "A": "logₐ m + logₐ n",
+        "B": "logₐ m - logₐ n",
+        "C": "logₐ m × logₐ n",
+        "D": "logₐ m / logₐ n"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'logₐ m + logₐ n'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 6
+    },
+    {
+      "question": "logₐ (m / n) = ?",
+      "options": {
+        "A": "logₐ m + logₐ n",
+        "B": "logₐ m - logₐ n",
+        "C": "logₐ m × logₐ n",
+        "D": "logₐ n - logₐ m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'logₐ m - logₐ n'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 7
+    },
+    {
+      "question": "logₐ (m^n) = ?",
+      "options": {
+        "A": "n logₐ m",
+        "B": "logₐ m^n",
+        "C": "logₐ n^m",
+        "D": "logₐ m / n"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'n logₐ m'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 8
+    },
+    {
+      "question": "logₐ a = ?",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "a",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '1'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 9
+    },
+    {
+      "question": "logₐ (1/m) = ?",
+      "options": {
+        "A": "logₐ m",
+        "B": "-logₐ m",
+        "C": "1 / logₐ m",
+        "D": "m logₐ a"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '-logₐ m'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 10
+    },
+    {
+      "question": "If log₅ x = 3, then x = ?",
+      "options": {
+        "A": "5",
+        "B": "25",
+        "C": "125",
+        "D": "625"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '125'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 11
+    },
+    {
+      "question": "If log₂ (x + 3) = 4, then x = ?",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "13"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '11'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 12
+    },
+    {
+      "question": "If log₁₀ (5x - 2) = 2, then x = ?",
+      "options": {
+        "A": "10",
+        "B": "20",
+        "C": "100",
+        "D": "50"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '10'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 13
+    },
+    {
+      "question": "If log₇ (x - 1) = 2, then x = ?",
+      "options": {
+        "A": "48",
+        "B": "49",
+        "C": "50",
+        "D": "51"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '49'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 14
+    },
+    {
+      "question": "Solve: log₈ x = 3/2",
+      "options": {
+        "A": "16",
+        "B": "32",
+        "C": "64",
+        "D": "128"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '32'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 15
+    },
+    {
+      "question": "The graph of y = logₐ x always passes through which point?",
+      "options": {
+        "A": "(0,1)",
+        "B": "(1,0)",
+        "C": "(0,0)",
+        "D": "(1,1)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '(1,0)'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 16
+    },
+    {
+      "question": "The logarithmic function y = log₂ x is the inverse of which function?",
+      "options": {
+        "A": "y = 2^x",
+        "B": "y = x²",
+        "C": "y = e^x",
+        "D": "y = 10^x"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'y = 2^x'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 17
+    },
+    {
+      "question": "What happens to the graph of y = logₐ (x - 2)?",
+      "options": {
+        "A": "Shifts 2 units left",
+        "B": "Shifts 2 units right",
+        "C": "Shifts 2 units up",
+        "D": "Shifts 2 units down"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Shifts 2 units right'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 18
+    },
+    {
+      "question": "If logₐ x > logₐ y and a > 1, then:",
+      "options": {
+        "A": "x > y",
+        "B": "x < y",
+        "C": "x = y",
+        "D": "x ≤ y"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x > y'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 19
+    },
+    {
+      "question": "If logₐ x < logₐ y and 0 < a < 1, then:",
+      "options": {
+        "A": "x > y",
+        "B": "x < y",
+        "C": "x = y",
+        "D": "x ≤ y"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x > y'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 20
+    },
+    {
+      "question": "The pH of a solution is given by pH = -log [H⁺]. If [H⁺] = 10⁻⁶, what is the pH?",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "7"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '6'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 21
+    },
+    {
+      "question": "The intensity of an earthquake is given by R = log₁₀ (E / E₀). If E = 10,000E₀, then R = ?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '4'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 22
+    },
+    {
+      "question": "The population of a bacteria culture grows exponentially. If the population at time t is given by P = 1000 × 2^t, what is log₂ P?",
+      "options": {
+        "A": "log₂ 1000 + t",
+        "B": "log₂ 1000 - t",
+        "C": "log₂ 1000 × t",
+        "D": "log₂ (1000 + t)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'log₂ 1000 + t'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 23
+    },
+    {
+      "question": "If log₃ 5 = x, then log₃ 25 = ?",
+      "options": {
+        "A": "x²",
+        "B": "2x",
+        "C": "5x",
+        "D": "x/2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '2x'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 24
+    },
+    {
+      "question": "Change of base formula states that logₐ b = ?",
+      "options": {
+        "A": "log_b a",
+        "B": "log₁₀ b / log₁₀ a",
+        "C": "logₐ b / log_b a",
+        "D": "log_b a / log₁₀ a"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'log₁₀ b / log₁₀ a'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 25
+    },
+    {
+      "question": "If log₃ x = 4, then log₉ x = ?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "8"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '2'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 26
+    },
+    {
+      "question": "What is log₁₀ 100000?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '5'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 27
+    },
+    {
+      "question": "If log₂ a = x and log₂ b = y, then log₂ (a × b) = ?",
+      "options": {
+        "A": "x + y",
+        "B": "x - y",
+        "C": "x × y",
+        "D": "x / y"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x + y'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 28
+    },
+    {
+      "question": "If logₐ 2 = 0.301 and logₐ 3 = 0.477, then logₐ 6 = ?",
+      "options": {
+        "A": "0.778",
+        "B": "0.901",
+        "C": "1.002",
+        "D": "1.208"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0.778'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 29
+    },
+    {
+      "question": "If logₐ x = 5 and logₐ y = 2, then logₐ (x/y) = ?",
+      "options": {
+        "A": "2.5",
+        "B": "3",
+        "C": "5",
+        "D": "7"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '3'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 30
+    },
+    {
+      "question": "Which transformation occurs when y = logₐ (x - 3)?",
+      "options": {
+        "A": "Shift left 3 units",
+        "B": "Shift right 3 units",
+        "C": "Shift up 3 units",
+        "D": "Shift down 3 units"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Shift right 3 units'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 31
+    },
+    {
+      "question": "The domain of y = logₐ x is:",
+      "options": {
+        "A": "x > 0",
+        "B": "x < 0",
+        "C": "x ≠ 0",
+        "D": "x ∈ ℝ"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x > 0'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 32
+    },
+    {
+      "question": "The range of a logarithmic function y = logₐ x is:",
+      "options": {
+        "A": "y > 0",
+        "B": "y < 0",
+        "C": "y ∈ ℝ",
+        "D": "y ≠ 0"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'y ∈ ℝ'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 33
+    },
+    {
+      "question": "The logarithmic function y = logₐ x is always:",
+      "options": {
+        "A": "Increasing",
+        "B": "Decreasing",
+        "C": "Constant",
+        "D": "Undefined for x > 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Increasing'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 34
+    },
+    {
+      "question": "The inverse of y = log₃ x is:",
+      "options": {
+        "A": "y = x³",
+        "B": "y = 3^x",
+        "C": "y = x²",
+        "D": "y = 1/x"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'y = 3^x'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 35
+    },
+    {
+      "question": "If log₅ (x + 3) = log₅ 7, then x = ?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '2'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 36
+    },
+    {
+      "question": "Solve for x: log₄ (x - 1) = 2",
+      "options": {
+        "A": "8",
+        "B": "16",
+        "C": "10",
+        "D": "9"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '16'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 37
+    },
+    {
+      "question": "If log₁₀ x > log₁₀ 5, then:",
+      "options": {
+        "A": "x > 5",
+        "B": "x < 5",
+        "C": "x = 5",
+        "D": "x ≤ 5"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x > 5'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 38
+    },
+    {
+      "question": "If log₈ x < log₈ 10, then:",
+      "options": {
+        "A": "x < 10",
+        "B": "x > 10",
+        "C": "x = 10",
+        "D": "x ≥ 10"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x < 10'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 39
+    },
+    {
+      "question": "If log₃ (x + 4) = log₃ (2x - 1), then x = ?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '3'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 40
+    },
+    {
+      "question": "What is log₂ 16 in binary system?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '4'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 41
+    },
+    {
+      "question": "In which number system are logarithms commonly used for sound intensity calculations?",
+      "options": {
+        "A": "Binary",
+        "B": "Decimal",
+        "C": "Octal",
+        "D": "Hexadecimal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Decimal'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 42
+    },
+    {
+      "question": "The Richter scale measures earthquake intensity using:",
+      "options": {
+        "A": "Linear functions",
+        "B": "Logarithmic functions",
+        "C": "Quadratic functions",
+        "D": "Exponential functions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Logarithmic functions'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 43
+    },
+    {
+      "question": "The pH scale is based on:",
+      "options": {
+        "A": "Linear functions",
+        "B": "Logarithmic functions",
+        "C": "Quadratic functions",
+        "D": "Rational functions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Logarithmic functions'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 44
+    },
+    {
+      "question": "If a sound has an intensity of 10⁶ times the threshold, its decibel level is:",
+      "options": {
+        "A": "30 dB",
+        "B": "40 dB",
+        "C": "50 dB",
+        "D": "60 dB"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '60 dB'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 45
+    },
+    {
+      "question": "Logarithms are used in computing for:",
+      "options": {
+        "A": "Encryption algorithms",
+        "B": "Storing data in RAM",
+        "C": "Increasing processing speed",
+        "D": "Power supply management"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Encryption algorithms'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 46
+    },
+    {
+      "question": "Logarithmic functions help in:",
+      "options": {
+        "A": "Measuring sound intensity",
+        "B": "Population growth modeling",
+        "C": "Earthquake magnitude calculation",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'All of the above'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 47
+    },
+    {
+      "question": "The equation log₃ 9 = 2 can be rewritten as:",
+      "options": {
+        "A": "3^2 = 9",
+        "B": "9^3 = 2",
+        "C": "2^3 = 9",
+        "D": "9^2 = 3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '3^2 = 9'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 48
+    },
+    {
+      "question": "If logₐ b = c, then a = ?",
+      "options": {
+        "A": "c^b",
+        "B": "b^c",
+        "C": "b^(1/c)",
+        "D": "b^(1/a)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'b^(1/c)'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 49
+    },
+    {
+      "question": "log₄ 2 is equal to:",
+      "options": {
+        "A": "0.5",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0.5'. In FBISE Grade 9 Mathematics Unit 2 (Logarithms), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 50
+    }
+  ]
+}

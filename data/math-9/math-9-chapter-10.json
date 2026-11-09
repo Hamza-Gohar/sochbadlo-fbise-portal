@@ -1,0 +1,969 @@
+{
+  "chapterNumber": 10,
+  "chapterTitle": "Unit 10: Practical Geometry",
+  "totalQuestions": 80,
+  "subject": "math-9",
+  "grade": "9",
+  "questions": [
+    {
+      "question": "Which instrument is used to draw arcs and circles in practical geometry?",
+      "options": {
+        "A": "Ruler",
+        "B": "Compass",
+        "C": "Protractor",
+        "D": "Divider"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Compass'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 1
+    },
+    {
+      "question": "Which tool is used to measure and draw angles accurately?",
+      "options": {
+        "A": "Ruler",
+        "B": "Protractor",
+        "C": "Compass",
+        "D": "Divider"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Protractor'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 2
+    },
+    {
+      "question": "A perpendicular bisector of a line segment:",
+      "options": {
+        "A": "Divides it into three equal parts",
+        "B": "Passes through one of its endpoints",
+        "C": "Passes through its midpoint at 90°",
+        "D": "Is parallel to the segment"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Passes through its midpoint at 90°'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 3
+    },
+    {
+      "question": "The sum of the angles in a triangle is always:",
+      "options": {
+        "A": "90°",
+        "B": "120°",
+        "C": "180°",
+        "D": "360°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '180°'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 4
+    },
+    {
+      "question": "A triangle with all three angles less than 90° is called:",
+      "options": {
+        "A": "Obtuse-angled triangle",
+        "B": "Right-angled triangle",
+        "C": "Acute-angled triangle",
+        "D": "Scalene triangle"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Acute-angled triangle'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 5
+    },
+    {
+      "question": "To construct a right-angled triangle, which method is most commonly used?",
+      "options": {
+        "A": "Protractor method",
+        "B": "Compass method",
+        "C": "Pythagoras theorem",
+        "D": "All of these"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'All of these'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 6
+    },
+    {
+      "question": "A triangle can be constructed if:",
+      "options": {
+        "A": "Three sides are given",
+        "B": "Two sides and one angle are given",
+        "C": "Two angles and one side are given",
+        "D": "All of these"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'All of these'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 7
+    },
+    {
+      "question": "To construct a perpendicular line from a point outside a line, we use a:",
+      "options": {
+        "A": "Compass",
+        "B": "Ruler",
+        "C": "Protractor",
+        "D": "Divider"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Compass'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 8
+    },
+    {
+      "question": "To construct an angle bisector, we use a:",
+      "options": {
+        "A": "Protractor",
+        "B": "Compass and ruler",
+        "C": "Ruler only",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Compass and ruler'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 9
+    },
+    {
+      "question": "The shortest distance from a point to a line is:",
+      "options": {
+        "A": "A perpendicular line",
+        "B": "A parallel line",
+        "C": "A diagonal line",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'A perpendicular line'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 10
+    },
+    {
+      "question": "Two lines are perpendicular if they intersect at:",
+      "options": {
+        "A": "45°",
+        "B": "60°",
+        "C": "90°",
+        "D": "120°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '90°'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 11
+    },
+    {
+      "question": "If two parallel lines are cut by a transversal, which angles are equal?",
+      "options": {
+        "A": "Corresponding angles",
+        "B": "Alternate interior angles",
+        "C": "Vertically opposite angles",
+        "D": "Both (a) and (b)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Both (a) and (b)'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 12
+    },
+    {
+      "question": "If two lines do not intersect and are always the same distance apart, they are:",
+      "options": {
+        "A": "Perpendicular",
+        "B": "Parallel",
+        "C": "Intersecting",
+        "D": "Skew"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Parallel'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 13
+    },
+    {
+      "question": "The sum of interior angles on the same side of a transversal intersecting two parallel lines is:",
+      "options": {
+        "A": "90°",
+        "B": "120°",
+        "C": "180°",
+        "D": "360°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '180°'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 14
+    },
+    {
+      "question": "If two lines are perpendicular, their slopes are:",
+      "options": {
+        "A": "Equal",
+        "B": "Negative reciprocals",
+        "C": "Both positive",
+        "D": "Zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Negative reciprocals'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 15
+    },
+    {
+      "question": "A quadrilateral can be constructed if we know:",
+      "options": {
+        "A": "Three sides and one diagonal",
+        "B": "Four sides and one diagonal",
+        "C": "Two adjacent sides and three angles",
+        "D": "All of these"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'All of these'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 16
+    },
+    {
+      "question": "To construct a square using a compass and ruler, we must:",
+      "options": {
+        "A": "Draw one side and construct 90° angles",
+        "B": "Draw diagonals and mark the four points",
+        "C": "Use only a ruler",
+        "D": "Use only a compass"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Draw one side and construct 90° angles'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 17
+    },
+    {
+      "question": "The circumcenter of a triangle is the point where:",
+      "options": {
+        "A": "Medians intersect",
+        "B": "Perpendicular bisectors intersect",
+        "C": "Angle bisectors intersect",
+        "D": "Altitudes intersect"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Perpendicular bisectors intersect'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 18
+    },
+    {
+      "question": "The incenter of a triangle is found by constructing:",
+      "options": {
+        "A": "Perpendicular bisectors",
+        "B": "Medians",
+        "C": "Angle bisectors",
+        "D": "Altitudes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Angle bisectors'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 19
+    },
+    {
+      "question": "A regular hexagon can be constructed using:",
+      "options": {
+        "A": "Protractor only",
+        "B": "Compass only",
+        "C": "Compass and ruler",
+        "D": "Ruler only"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Compass and ruler'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 20
+    },
+    {
+      "question": "The instrument used to draw and measure straight lines is:",
+      "options": {
+        "A": "Protractor",
+        "B": "Compass",
+        "C": "Ruler",
+        "D": "Set square"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Ruler'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 21
+    },
+    {
+      "question": "To construct a 60° angle without a protractor, we use:",
+      "options": {
+        "A": "A compass",
+        "B": "A ruler",
+        "C": "A set square",
+        "D": "A divider"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'A compass'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 22
+    },
+    {
+      "question": "Which of the following angles cannot be constructed using only a compass and straightedge?",
+      "options": {
+        "A": "45°",
+        "B": "60°",
+        "C": "75°",
+        "D": "37°"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '37°'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 23
+    },
+    {
+      "question": "The perpendicular bisector of a segment is a line that:",
+      "options": {
+        "A": "Passes through the midpoint of the segment",
+        "B": "Makes a 45° angle with the segment",
+        "C": "Divides the segment into three equal parts",
+        "D": "Is parallel to the segment"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Passes through the midpoint of the segment'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 24
+    },
+    {
+      "question": "The method of constructing an angle of 90° using a compass involves:",
+      "options": {
+        "A": "Drawing a semicircle and marking intersections",
+        "B": "Using a protractor",
+        "C": "Drawing a square first",
+        "D": "Measuring with a ruler"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Drawing a semicircle and marking intersections'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 25
+    },
+    {
+      "question": "A triangle can always be constructed when given:",
+      "options": {
+        "A": "Any three angles",
+        "B": "Any two sides and an included angle",
+        "C": "Any two angles and one side",
+        "D": "(b) and (c)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '(b) and (c)'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 26
+    },
+    {
+      "question": "A right-angled triangle is best constructed using:",
+      "options": {
+        "A": "A compass",
+        "B": "A protractor",
+        "C": "A set square",
+        "D": "A straightedge"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'A set square'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 27
+    },
+    {
+      "question": "The point where the altitudes of a triangle meet is called the:",
+      "options": {
+        "A": "Centroid",
+        "B": "Circumcenter",
+        "C": "Incenter",
+        "D": "Orthocenter"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Orthocenter'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 28
+    },
+    {
+      "question": "The perpendicular bisectors of a triangle always meet at the:",
+      "options": {
+        "A": "Incenter",
+        "B": "Circumcenter",
+        "C": "Centroid",
+        "D": "Orthocenter"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Circumcenter'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 29
+    },
+    {
+      "question": "If the three sides of a triangle are known, which construction method is used?",
+      "options": {
+        "A": "Side-Angle-Side (SAS)",
+        "B": "Angle-Side-Angle (ASA)",
+        "C": "Side-Side-Side (SSS)",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Side-Side-Side (SSS)'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 30
+    },
+    {
+      "question": "A quadrilateral can be constructed if we know:",
+      "options": {
+        "A": "Four sides",
+        "B": "Three sides and a diagonal",
+        "C": "Two diagonals and three angles",
+        "D": "All of these"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'All of these'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 31
+    },
+    {
+      "question": "Which of the following quadrilaterals cannot be constructed without additional information?",
+      "options": {
+        "A": "Square",
+        "B": "Parallelogram",
+        "C": "Trapezium",
+        "D": "General quadrilateral"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'General quadrilateral'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 32
+    },
+    {
+      "question": "The diagonals of a rhombus always:",
+      "options": {
+        "A": "Bisect each other at right angles",
+        "B": "Are equal in length",
+        "C": "Are parallel",
+        "D": "Are perpendicular but not bisecting"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Bisect each other at right angles'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 33
+    },
+    {
+      "question": "The centroid of a triangle divides each median in the ratio:",
+      "options": {
+        "A": "1:1",
+        "B": "1:2",
+        "C": "2:1",
+        "D": "3:2"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '2:1'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 34
+    },
+    {
+      "question": "The sum of the interior angles of a quadrilateral is always:",
+      "options": {
+        "A": "90°",
+        "B": "180°",
+        "C": "270°",
+        "D": "360°"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '360°'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 35
+    },
+    {
+      "question": "The circumcircle of a triangle is the circle that:",
+      "options": {
+        "A": "Passes through the midpoints of the sides",
+        "B": "Passes through all three vertices of the triangle",
+        "C": "Touches the sides at one point each",
+        "D": "Has the incenter as its center"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Passes through all three vertices of the triangle'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 36
+    },
+    {
+      "question": "The point where the three angle bisectors of a triangle meet is called:",
+      "options": {
+        "A": "Centroid",
+        "B": "Incenter",
+        "C": "Orthocenter",
+        "D": "Circumcenter"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Incenter'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 37
+    },
+    {
+      "question": "The perpendicular bisector of a chord of a circle always:",
+      "options": {
+        "A": "Passes through the center of the circle",
+        "B": "Passes through another point on the circle",
+        "C": "Lies outside the circle",
+        "D": "Is parallel to the chord"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Passes through the center of the circle'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 38
+    },
+    {
+      "question": "The largest possible circle inside a triangle is called the:",
+      "options": {
+        "A": "Circumcircle",
+        "B": "Incircle",
+        "C": "Excircle",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Incircle'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 39
+    },
+    {
+      "question": "If a triangle is equilateral, then its centroid, incenter, circumcenter, and orthocenter:",
+      "options": {
+        "A": "Are at different locations",
+        "B": "Coincide at a single point",
+        "C": "Form a rectangle inside the triangle",
+        "D": "Form a perpendicular bisector"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Coincide at a single point'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 40
+    },
+    {
+      "question": "A compass is mainly used to:",
+      "options": {
+        "A": "Draw angles",
+        "B": "Measure distances",
+        "C": "Draw arcs and circles",
+        "D": "Construct perpendicular lines"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Draw arcs and circles'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 41
+    },
+    {
+      "question": "A set square is commonly used to construct angles of:",
+      "options": {
+        "A": "30° and 45°",
+        "B": "60° and 90°",
+        "C": "30°, 45°, 60°, and 90°",
+        "D": "120° and 150°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '30°, 45°, 60°, and 90°'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 42
+    },
+    {
+      "question": "The best method to construct a 45° angle without a protractor is by:",
+      "options": {
+        "A": "Using a compass to construct a 60° angle first",
+        "B": "Bisecting a 90° angle",
+        "C": "Measuring with a ruler",
+        "D": "Using a set square"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Bisecting a 90° angle'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 43
+    },
+    {
+      "question": "The line that divides an angle into two equal parts is called:",
+      "options": {
+        "A": "Perpendicular bisector",
+        "B": "Median",
+        "C": "Angle bisector",
+        "D": "Altitude"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Angle bisector'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 44
+    },
+    {
+      "question": "A triangle can be uniquely constructed when:",
+      "options": {
+        "A": "Two sides and one angle are given",
+        "B": "Three sides are given",
+        "C": "Two angles and one side are given",
+        "D": "All of these"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'All of these'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 45
+    },
+    {
+      "question": "If the three angles of a triangle are given, can the triangle be constructed?",
+      "options": {
+        "A": "Always",
+        "B": "Never",
+        "C": "Sometimes, if at least one side is known",
+        "D": "Only if one angle is 90°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Sometimes, if at least one side is known'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 46
+    },
+    {
+      "question": "The medians of a triangle intersect at a point called the:",
+      "options": {
+        "A": "Circumcenter",
+        "B": "Incenter",
+        "C": "Centroid",
+        "D": "Orthocenter"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Centroid'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 47
+    },
+    {
+      "question": "The perpendicular distance from a vertex to the opposite side in a triangle is called:",
+      "options": {
+        "A": "Median",
+        "B": "Angle bisector",
+        "C": "Perpendicular bisector",
+        "D": "Altitude"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Altitude'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 48
+    },
+    {
+      "question": "A triangle in which all angles are equal is called:",
+      "options": {
+        "A": "Isosceles triangle",
+        "B": "Scalene triangle",
+        "C": "Equilateral triangle",
+        "D": "Right-angled triangle"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Equilateral triangle'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 49
+    },
+    {
+      "question": "The circumcenter of a triangle is the point where:",
+      "options": {
+        "A": "The three angle bisectors meet",
+        "B": "The three perpendicular bisectors meet",
+        "C": "The three medians meet",
+        "D": "The three altitudes meet"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'The three perpendicular bisectors meet'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 50
+    },
+    {
+      "question": "To construct a parallelogram, we need to know:",
+      "options": {
+        "A": "Two adjacent sides and one diagonal",
+        "B": "Two opposite angles and one diagonal",
+        "C": "Two adjacent sides and one angle",
+        "D": "Any two sides and one diagonal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Two adjacent sides and one angle'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 51
+    },
+    {
+      "question": "The sum of interior angles of any polygon with \"n\" sides is:",
+      "options": {
+        "A": "(n - 2) × 180°",
+        "B": "(n - 2) × 90°",
+        "C": "n × 180°",
+        "D": "(n + 2) × 90°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '(n - 2) × 180°'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 52
+    },
+    {
+      "question": "In a rhombus, all angles are:",
+      "options": {
+        "A": "Equal",
+        "B": "Right angles",
+        "C": "Equal but not necessarily right angles",
+        "D": "None of these"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'None of these'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 53
+    },
+    {
+      "question": "A square can be constructed if we know:",
+      "options": {
+        "A": "One diagonal",
+        "B": "One side",
+        "C": "One angle and one diagonal",
+        "D": "Any one of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'One side'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 54
+    },
+    {
+      "question": "If a transversal cuts two parallel lines, then the corresponding angles are:",
+      "options": {
+        "A": "Supplementary",
+        "B": "Complementary",
+        "C": "Equal",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Equal'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 55
+    },
+    {
+      "question": "The center of a circle is located using:",
+      "options": {
+        "A": "Two perpendicular diameters",
+        "B": "One diameter only",
+        "C": "Any two non-parallel chords",
+        "D": "A ruler"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Any two non-parallel chords'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 56
+    },
+    {
+      "question": "The longest chord of a circle is:",
+      "options": {
+        "A": "A radius",
+        "B": "A secant",
+        "C": "A diameter",
+        "D": "A tangent"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'A diameter'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 57
+    },
+    {
+      "question": "A line that touches a circle at only one point is called:",
+      "options": {
+        "A": "A secant",
+        "B": "A chord",
+        "C": "A radius",
+        "D": "A tangent"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'A tangent'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 58
+    },
+    {
+      "question": "If a circle has radius r, its diameter is:",
+      "options": {
+        "A": "r/2",
+        "B": "2r",
+        "C": "3r",
+        "D": "πr"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '2r'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 59
+    },
+    {
+      "question": "A triangle inscribed inside a circle where one side is the diameter is always:",
+      "options": {
+        "A": "Isosceles",
+        "B": "Right-angled",
+        "C": "Scalene",
+        "D": "Equilateral"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Right-angled'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 60
+    },
+    {
+      "question": "The correct method to construct a 90° angle is:",
+      "options": {
+        "A": "Using a ruler and compass",
+        "B": "Measuring directly with a protractor",
+        "C": "Bisecting a 180° angle",
+        "D": "Drawing a semicircle and marking intersections"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Drawing a semicircle and marking intersections'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 61
+    },
+    {
+      "question": "A perpendicular line to a given line can be constructed using:",
+      "options": {
+        "A": "A ruler only",
+        "B": "A compass only",
+        "C": "A set square",
+        "D": "Both b and c"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Both b and c'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 62
+    },
+    {
+      "question": "If a point is equidistant from the endpoints of a segment, it must lie on:",
+      "options": {
+        "A": "The perpendicular bisector of the segment",
+        "B": "The angle bisector of the segment",
+        "C": "The median of the segment",
+        "D": "The altitude of the segment"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'The perpendicular bisector of the segment'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 63
+    },
+    {
+      "question": "The correct construction to bisect a line segment is:",
+      "options": {
+        "A": "Draw a circle with the segment as a radius",
+        "B": "Measure half of the segment and mark a point",
+        "C": "Use a compass to draw arcs from both ends",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Use a compass to draw arcs from both ends'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 64
+    },
+    {
+      "question": "The locus of points equidistant from two parallel lines is:",
+      "options": {
+        "A": "A circle",
+        "B": "A straight line in between",
+        "C": "A perpendicular bisector",
+        "D": "A triangle"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'A straight line in between'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 65
+    },
+    {
+      "question": "A triangle can be constructed using SAS rule when:",
+      "options": {
+        "A": "Two angles and a side are known",
+        "B": "Two sides and an included angle are known",
+        "C": "Three angles are known",
+        "D": "One side and two non-included angles are known"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Two sides and an included angle are known'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 66
+    },
+    {
+      "question": "If we are given two angles and one side, we use which rule?",
+      "options": {
+        "A": "SSS",
+        "B": "SAS",
+        "C": "ASA",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'ASA'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 67
+    },
+    {
+      "question": "The centroid of a triangle divides each median in the ratio:",
+      "options": {
+        "A": "1:2",
+        "B": "2:1",
+        "C": "3:1",
+        "D": "1:1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '2:1'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 68
+    },
+    {
+      "question": "The altitudes of a triangle always meet at the:",
+      "options": {
+        "A": "Incenter",
+        "B": "Circumcenter",
+        "C": "Centroid",
+        "D": "Orthocenter"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Orthocenter'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 69
+    },
+    {
+      "question": "If a triangle is right-angled, its circumcenter lies:",
+      "options": {
+        "A": "Inside the triangle",
+        "B": "Outside the triangle",
+        "C": "On the hypotenuse",
+        "D": "At the centroid"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'On the hypotenuse'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 70
+    },
+    {
+      "question": "A parallelogram can be constructed if we know:",
+      "options": {
+        "A": "Two adjacent sides and one diagonal",
+        "B": "Two opposite angles and one diagonal",
+        "C": "Two adjacent sides and one angle",
+        "D": "Any two sides and one diagonal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Two adjacent sides and one angle'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 71
+    },
+    {
+      "question": "A square is best constructed by:",
+      "options": {
+        "A": "Constructing four equal sides",
+        "B": "Constructing a rectangle first",
+        "C": "Using a protractor and a ruler",
+        "D": "Measuring diagonals only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Constructing four equal sides'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 72
+    },
+    {
+      "question": "The diagonals of a rhombus:",
+      "options": {
+        "A": "Are equal",
+        "B": "Bisect each other perpendicularly",
+        "C": "Are parallel",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Bisect each other perpendicularly'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 73
+    },
+    {
+      "question": "The sum of interior angles of a quadrilateral is:",
+      "options": {
+        "A": "180°",
+        "B": "270°",
+        "C": "360°",
+        "D": "540°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '360°'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 74
+    },
+    {
+      "question": "The diagonals of a rectangle:",
+      "options": {
+        "A": "Are perpendicular to each other",
+        "B": "Are equal and bisect each other",
+        "C": "Are unequal and bisect each other",
+        "D": "Do not bisect each other"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Are equal and bisect each other'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 75
+    },
+    {
+      "question": "A circle can be constructed if we know:",
+      "options": {
+        "A": "Only the radius",
+        "B": "Only the diameter",
+        "C": "Only one chord",
+        "D": "Either (a) or (b)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Either (a) or (b)'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 76
+    },
+    {
+      "question": "If a circle is tangent to two given lines, its center lies on:",
+      "options": {
+        "A": "Their bisector",
+        "B": "Their perpendicular bisector",
+        "C": "Their common chord",
+        "D": "Their circumcircle"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Their bisector'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 77
+    },
+    {
+      "question": "A chord passing through the center of a circle is called:",
+      "options": {
+        "A": "Radius",
+        "B": "Diameter",
+        "C": "Tangent",
+        "D": "Secant"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Diameter'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 78
+    },
+    {
+      "question": "The perpendicular bisector of any chord in a circle always passes through:",
+      "options": {
+        "A": "The center",
+        "B": "Another chord",
+        "C": "A tangent",
+        "D": "The arc"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'The center'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 79
+    },
+    {
+      "question": "A tangent to a circle always makes what angle with the radius at the point of contact?",
+      "options": {
+        "A": "30°",
+        "B": "60°",
+        "C": "90°",
+        "D": "120°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '90°'. In FBISE Grade 9 Mathematics Unit 10 (Practical Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 80
+    }
+  ]
+}

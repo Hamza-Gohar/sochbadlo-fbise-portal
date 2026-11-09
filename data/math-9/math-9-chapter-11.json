@@ -1,0 +1,729 @@
+{
+  "chapterNumber": 11,
+  "chapterTitle": "Unit 11: Basic Statistics",
+  "totalQuestions": 60,
+  "subject": "math-9",
+  "grade": "9",
+  "questions": [
+    {
+      "question": "Statistics is the branch of mathematics that deals with:",
+      "options": {
+        "A": "Geometry",
+        "B": "Data collection, organization, and analysis",
+        "C": "Algebra",
+        "D": "Trigonometry"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Data collection, organization, and analysis'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 1
+    },
+    {
+      "question": "The average of a data set is called:",
+      "options": {
+        "A": "Mode",
+        "B": "Median",
+        "C": "Mean",
+        "D": "Range"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Mean'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 2
+    },
+    {
+      "question": "The most frequently occurring value in a data set is called:",
+      "options": {
+        "A": "Mean",
+        "B": "Median",
+        "C": "Mode",
+        "D": "Range"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Mode'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 3
+    },
+    {
+      "question": "The middle value when data is arranged in ascending or descending order is:",
+      "options": {
+        "A": "Mean",
+        "B": "Median",
+        "C": "Mode",
+        "D": "Standard deviation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Median'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 4
+    },
+    {
+      "question": "The difference between the highest and lowest values in a data set is called:",
+      "options": {
+        "A": "Mean",
+        "B": "Mode",
+        "C": "Range",
+        "D": "Variance"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Range'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 5
+    },
+    {
+      "question": "Data collected in numerical form is called:",
+      "options": {
+        "A": "Qualitative data",
+        "B": "Categorical data",
+        "C": "Quantitative data",
+        "D": "Discrete data"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Quantitative data'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 6
+    },
+    {
+      "question": "Categorical data represents:",
+      "options": {
+        "A": "Numbers only",
+        "B": "Labels or categories",
+        "C": "Both numbers and labels",
+        "D": "Only whole numbers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Labels or categories'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 7
+    },
+    {
+      "question": "Data that can only take specific values (such as whole numbers) is called:",
+      "options": {
+        "A": "Continuous data",
+        "B": "Discrete data",
+        "C": "Categorical data",
+        "D": "Unorganized data"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Discrete data'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 8
+    },
+    {
+      "question": "Data that can take any value within a range is called:",
+      "options": {
+        "A": "Discrete data",
+        "B": "Ordinal data",
+        "C": "Continuous data",
+        "D": "Nominal data"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Continuous data'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 9
+    },
+    {
+      "question": "The number of siblings a student has is an example of:",
+      "options": {
+        "A": "Discrete data",
+        "B": "Continuous data",
+        "C": "Categorical data",
+        "D": "Ordinal data"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Discrete data'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 10
+    },
+    {
+      "question": "A bar graph is used to represent:",
+      "options": {
+        "A": "Continuous data",
+        "B": "Discrete data",
+        "C": "Both a and b",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Both a and b'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 11
+    },
+    {
+      "question": "A histogram is different from a bar graph because:",
+      "options": {
+        "A": "It has gaps between bars",
+        "B": "The bars are connected",
+        "C": "It only represents categorical data",
+        "D": "It is 3D"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'The bars are connected'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 12
+    },
+    {
+      "question": "A pie chart is best used to show:",
+      "options": {
+        "A": "Trends over time",
+        "B": "Proportions of a whole",
+        "C": "Frequency distribution",
+        "D": "Individual numbers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Proportions of a whole'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 13
+    },
+    {
+      "question": "A line graph is mainly used for:",
+      "options": {
+        "A": "Showing data over time",
+        "B": "Comparing categories",
+        "C": "Displaying individual numbers",
+        "D": "Finding averages"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Showing data over time'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 14
+    },
+    {
+      "question": "A pictogram represents data using:",
+      "options": {
+        "A": "Lines",
+        "B": "Bars",
+        "C": "Pictures or symbols",
+        "D": "Dots"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Pictures or symbols'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 15
+    },
+    {
+      "question": "The measure of how spread out the data is called:",
+      "options": {
+        "A": "Mean",
+        "B": "Mode",
+        "C": "Range",
+        "D": "Variance"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Variance'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 16
+    },
+    {
+      "question": "A low standard deviation means the data values are:",
+      "options": {
+        "A": "Spread out",
+        "B": "Close to the mean",
+        "C": "Randomly distributed",
+        "D": "Very large"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Close to the mean'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 17
+    },
+    {
+      "question": "A high range indicates:",
+      "options": {
+        "A": "Less variation in data",
+        "B": "More variation in data",
+        "C": "No variation in data",
+        "D": "A lower mean"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'More variation in data'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 18
+    },
+    {
+      "question": "If the mode of a dataset is not unique, the dataset is called:",
+      "options": {
+        "A": "Bimodal or multimodal",
+        "B": "Unimodal",
+        "C": "Continuous",
+        "D": "Normal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Bimodal or multimodal'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 19
+    },
+    {
+      "question": "If a dataset has no repeating values, the mode is:",
+      "options": {
+        "A": "The highest value",
+        "B": "The lowest value",
+        "C": "Not defined",
+        "D": "The median"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Not defined'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 20
+    },
+    {
+      "question": "The first step in a statistical study is:",
+      "options": {
+        "A": "Analyzing data",
+        "B": "Collecting data",
+        "C": "Organizing data",
+        "D": "Drawing conclusions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Collecting data'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 21
+    },
+    {
+      "question": "The term population in statistics refers to:",
+      "options": {
+        "A": "A small selected group",
+        "B": "The entire group under study",
+        "C": "Only the numerical data",
+        "D": "Only a sample"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'The entire group under study'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 22
+    },
+    {
+      "question": "A subset of a population selected for analysis is called:",
+      "options": {
+        "A": "Sample",
+        "B": "Data",
+        "C": "Population",
+        "D": "Parameter"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Sample'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 23
+    },
+    {
+      "question": "A study that collects data from every member of a population is called:",
+      "options": {
+        "A": "Survey",
+        "B": "Census",
+        "C": "Sample study",
+        "D": "Data analysis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Census'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 24
+    },
+    {
+      "question": "The process of arranging data in a meaningful order is called:",
+      "options": {
+        "A": "Data collection",
+        "B": "Data sorting",
+        "C": "Data organization",
+        "D": "Data summarization"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Data organization'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 25
+    },
+    {
+      "question": "If the mean of three numbers 5, x, and 9 is 7, the value of x is:",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "9"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '7'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 26
+    },
+    {
+      "question": "If all values in a dataset are the same, the mean and median are:",
+      "options": {
+        "A": "Different",
+        "B": "Equal",
+        "C": "Cannot be determined",
+        "D": "Zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Equal'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 27
+    },
+    {
+      "question": "The mean of 6, 8, 10, 12, 14 is:",
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "12"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '10'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 28
+    },
+    {
+      "question": "If the mode of a dataset is 15, it means:",
+      "options": {
+        "A": "The mean is also 15",
+        "B": "15 is the most frequently occurring value",
+        "C": "15 is the middle value",
+        "D": "The range is 15"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '15 is the most frequently occurring value'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 29
+    },
+    {
+      "question": "If a dataset has an even number of observations, the median is:",
+      "options": {
+        "A": "The middle number",
+        "B": "The highest value",
+        "C": "The average of the two middle numbers",
+        "D": "The lowest value"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'The average of the two middle numbers'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 30
+    },
+    {
+      "question": "A frequency table is used to:",
+      "options": {
+        "A": "Organize data into groups",
+        "B": "Show trends over time",
+        "C": "Compare two datasets",
+        "D": "Display data pictorially"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Organize data into groups'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 31
+    },
+    {
+      "question": "The sum of all frequencies in a frequency distribution equals:",
+      "options": {
+        "A": "The mean",
+        "B": "The total number of observations",
+        "C": "The median",
+        "D": "The range"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'The total number of observations'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 32
+    },
+    {
+      "question": "A cumulative frequency is:",
+      "options": {
+        "A": "The sum of all data points",
+        "B": "The total of all previous frequencies up to a certain point",
+        "C": "The highest frequency in a table",
+        "D": "The mode of a dataset"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'The total of all previous frequencies up to a certain point'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 33
+    },
+    {
+      "question": "The best graph to show how a quantity changes over time is:",
+      "options": {
+        "A": "Bar graph",
+        "B": "Pie chart",
+        "C": "Line graph",
+        "D": "Histogram"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Line graph'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 34
+    },
+    {
+      "question": "A stem-and-leaf plot is a way to:",
+      "options": {
+        "A": "Display data using digits",
+        "B": "Compare two bar graphs",
+        "C": "Find the mean",
+        "D": "Calculate the standard deviation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Display data using digits'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 35
+    },
+    {
+      "question": "The probability of an impossible event is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "0.5",
+        "D": "2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '0'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 36
+    },
+    {
+      "question": "The probability of an event always lies between:",
+      "options": {
+        "A": "-1 and 1",
+        "B": "0 and 1",
+        "C": "0 and 100",
+        "D": "1 and 2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '0 and 1'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 37
+    },
+    {
+      "question": "If a coin is tossed, the probability of getting heads is:",
+      "options": {
+        "A": "1",
+        "B": "0.5",
+        "C": "0",
+        "D": "2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '0.5'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 38
+    },
+    {
+      "question": "If a die is rolled, the probability of getting an even number is:",
+      "options": {
+        "A": "1/6",
+        "B": "1/2",
+        "C": "1/3",
+        "D": "2/3"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '1/2'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 39
+    },
+    {
+      "question": "If a deck has 52 playing cards, what is the probability of drawing a heart?",
+      "options": {
+        "A": "1/4",
+        "B": "1/3",
+        "C": "1/2",
+        "D": "1/5"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '1/4'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 40
+    },
+    {
+      "question": "The method of collecting data by personally visiting people and asking questions is called:",
+      "options": {
+        "A": "Questionnaire method",
+        "B": "Direct observation",
+        "C": "Interview method",
+        "D": "Experimentation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Interview method'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 41
+    },
+    {
+      "question": "The method where data is collected without direct interaction is called:",
+      "options": {
+        "A": "Survey",
+        "B": "Direct observation",
+        "C": "Secondary data collection",
+        "D": "Census"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Direct observation'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 42
+    },
+    {
+      "question": "A random sample is one in which:",
+      "options": {
+        "A": "Every member has an equal chance of selection",
+        "B": "Only selected groups are included",
+        "C": "The researcher selects the sample manually",
+        "D": "Data is collected from the entire population"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Every member has an equal chance of selection'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 43
+    },
+    {
+      "question": "When a population is divided into groups and a sample is taken from each, it is called:",
+      "options": {
+        "A": "Simple random sampling",
+        "B": "Systematic sampling",
+        "C": "Stratified sampling",
+        "D": "Cluster sampling"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Stratified sampling'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 44
+    },
+    {
+      "question": "The process of collecting data from already published sources is called:",
+      "options": {
+        "A": "Primary data collection",
+        "B": "Secondary data collection",
+        "C": "Census",
+        "D": "Direct sampling"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Secondary data collection'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 45
+    },
+    {
+      "question": "Which of the following is a measure of dispersion?",
+      "options": {
+        "A": "Mean",
+        "B": "Median",
+        "C": "Mode",
+        "D": "Standard deviation"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Standard deviation'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 46
+    },
+    {
+      "question": "The larger the standard deviation, the:",
+      "options": {
+        "A": "More spread out the data",
+        "B": "Less spread out the data",
+        "C": "Closer all values are to the mean",
+        "D": "Data becomes constant"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'More spread out the data'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 47
+    },
+    {
+      "question": "The range of the data set 5, 8, 12, 15, 20 is:",
+      "options": {
+        "A": "5",
+        "B": "8",
+        "C": "15",
+        "D": "20"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '15'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), according to standard curriculum principles: 15 (20 - 5).",
+      "id": 48
+    },
+    {
+      "question": "If all values in a dataset are identical, the standard deviation is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "Negative",
+        "D": "Infinity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 49
+    },
+    {
+      "question": "The difference between a data value and the mean is called:",
+      "options": {
+        "A": "Range",
+        "B": "Deviation",
+        "C": "Median",
+        "D": "Mode"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Deviation'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 50
+    },
+    {
+      "question": "A box plot is used to display:",
+      "options": {
+        "A": "Measures of central tendency",
+        "B": "Measures of dispersion",
+        "C": "The distribution of a dataset",
+        "D": "Only the mean and median"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'The distribution of a dataset'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 51
+    },
+    {
+      "question": "A frequency polygon is a type of:",
+      "options": {
+        "A": "Bar graph",
+        "B": "Line graph",
+        "C": "Histogram",
+        "D": "Pie chart"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Line graph'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 52
+    },
+    {
+      "question": "In a histogram, bars are placed:",
+      "options": {
+        "A": "Close together without gaps",
+        "B": "With gaps",
+        "C": "Randomly",
+        "D": "In descending order"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Close together without gaps'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 53
+    },
+    {
+      "question": "Which graph is best for comparing parts of a whole?",
+      "options": {
+        "A": "Line graph",
+        "B": "Pie chart",
+        "C": "Histogram",
+        "D": "Box plot"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Pie chart'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 54
+    },
+    {
+      "question": "A scatter plot is used to show:",
+      "options": {
+        "A": "Trends over time",
+        "B": "The relationship between two variables",
+        "C": "Frequency of data",
+        "D": "Categorical data"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'The relationship between two variables'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 55
+    },
+    {
+      "question": "If a probability is 1, it means:",
+      "options": {
+        "A": "The event is impossible",
+        "B": "The event is certain",
+        "C": "The event cannot happen",
+        "D": "The event is rare"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'The event is certain'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 56
+    },
+    {
+      "question": "The probability of an event that will never happen is:",
+      "options": {
+        "A": "0",
+        "B": "0.5",
+        "C": "1",
+        "D": "2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 57
+    },
+    {
+      "question": "If a dice is rolled, what is the probability of getting a number greater than 4?",
+      "options": {
+        "A": "1/3",
+        "B": "1/2",
+        "C": "2/3",
+        "D": "5/6"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '1/3'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), according to standard curriculum principles: 1/3 (Only 5 and 6 are greater than 4, so 2/6 = 1/3).",
+      "id": 58
+    },
+    {
+      "question": "A box contains 4 red, 3 blue, and 2 green balls. If a ball is picked at random, what is the probability of getting a blue ball?",
+      "options": {
+        "A": "1/3",
+        "B": "3/9",
+        "C": "2/3",
+        "D": "3/10"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '3/9'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), according to standard curriculum principles: 3/9 (or 1/3).",
+      "id": 59
+    },
+    {
+      "question": "If a fair coin is flipped twice, what is the probability of getting two heads?",
+      "options": {
+        "A": "1/2",
+        "B": "1/4",
+        "C": "1/3",
+        "D": "2/3"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '1/4'. In FBISE Grade 9 Mathematics Unit 11 (Basic Statistics), according to standard curriculum principles: 1/4 (Probability of heads = 1/2, so (1/2) × (1/2) = 1/4).",
+      "id": 60
+    }
+  ]
+}

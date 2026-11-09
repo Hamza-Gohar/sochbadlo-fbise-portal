@@ -1,0 +1,969 @@
+{
+  "chapterNumber": 9,
+  "chapterTitle": "Unit 9: Geometry & Polygons",
+  "totalQuestions": 80,
+  "subject": "math-9",
+  "grade": "9",
+  "questions": [
+    {
+      "question": "A polygon with all sides and angles equal is called:",
+      "options": {
+        "A": "Regular polygon",
+        "B": "Irregular polygon",
+        "C": "Concave polygon",
+        "D": "Open polygon"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Regular polygon'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 1
+    },
+    {
+      "question": "The sum of interior angles of a quadrilateral is:",
+      "options": {
+        "A": "180°",
+        "B": "270°",
+        "C": "360°",
+        "D": "540°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '360°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 2
+    },
+    {
+      "question": "The sum of exterior angles of any polygon is always:",
+      "options": {
+        "A": "90°",
+        "B": "180°",
+        "C": "270°",
+        "D": "360°"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '360°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 3
+    },
+    {
+      "question": "A polygon with 8 sides is called a:",
+      "options": {
+        "A": "Heptagon",
+        "B": "Octagon",
+        "C": "Nonagon",
+        "D": "Decagon"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Octagon'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 4
+    },
+    {
+      "question": "A triangle with one angle greater than 90° is called:",
+      "options": {
+        "A": "Right triangle",
+        "B": "Acute triangle",
+        "C": "Obtuse triangle",
+        "D": "Equilateral triangle"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Obtuse triangle'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 5
+    },
+    {
+      "question": "The formula for the sum of interior angles of an n-sided polygon is:",
+      "options": {
+        "A": "(n - 2) × 180°",
+        "B": "(n - 1) × 180°",
+        "C": "n × 180°",
+        "D": "n × 360°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '(n - 2) × 180°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 6
+    },
+    {
+      "question": "The measure of each exterior angle of a regular hexagon is:",
+      "options": {
+        "A": "60°",
+        "B": "90°",
+        "C": "120°",
+        "D": "72°"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '72°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 7
+    },
+    {
+      "question": "If each interior angle of a regular polygon is 108°, the polygon is a:",
+      "options": {
+        "A": "Triangle",
+        "B": "Square",
+        "C": "Pentagon",
+        "D": "Hexagon"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Pentagon'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 8
+    },
+    {
+      "question": "If a polygon has 10 sides, the sum of its interior angles is:",
+      "options": {
+        "A": "1080°",
+        "B": "1440°",
+        "C": "1260°",
+        "D": "1620°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '1080°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), according to standard curriculum principles: 1440°.",
+      "id": 9
+    },
+    {
+      "question": "The measure of each interior angle of a regular quadrilateral (square) is:",
+      "options": {
+        "A": "60°",
+        "B": "90°",
+        "C": "120°",
+        "D": "180°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '90°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 10
+    },
+    {
+      "question": "A polygon with at least one angle greater than 180° is called:",
+      "options": {
+        "A": "Convex polygon",
+        "B": "Concave polygon",
+        "C": "Regular polygon",
+        "D": "Equilateral polygon"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Concave polygon'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 11
+    },
+    {
+      "question": "A parallelogram with four right angles and unequal sides is called:",
+      "options": {
+        "A": "Square",
+        "B": "Rhombus",
+        "C": "Rectangle",
+        "D": "Trapezium"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Rectangle'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 12
+    },
+    {
+      "question": "The diagonal of a square divides it into:",
+      "options": {
+        "A": "Two congruent triangles",
+        "B": "Two trapeziums",
+        "C": "Two rhombuses",
+        "D": "Two pentagons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Two congruent triangles'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 13
+    },
+    {
+      "question": "A quadrilateral with only one pair of parallel sides is called:",
+      "options": {
+        "A": "Parallelogram",
+        "B": "Rhombus",
+        "C": "Trapezium",
+        "D": "Kite"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Trapezium'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 14
+    },
+    {
+      "question": "In a rhombus, the diagonals:",
+      "options": {
+        "A": "Are equal",
+        "B": "Are perpendicular to each other",
+        "C": "Bisect angles unequally",
+        "D": "Are parallel"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Are perpendicular to each other'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 15
+    },
+    {
+      "question": "The number of diagonals in a hexagon is given by the formula:",
+      "options": {
+        "A": "n(n - 3)/2",
+        "B": "n(n - 2)/2",
+        "C": "(n - 2) × 180°",
+        "D": "n × 360°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'n(n - 3)/2'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 16
+    },
+    {
+      "question": "A quadrilateral in which diagonals are equal and bisect each other is:",
+      "options": {
+        "A": "Square",
+        "B": "Rectangle",
+        "C": "Rhombus",
+        "D": "Parallelogram"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Rectangle'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 17
+    },
+    {
+      "question": "The sum of interior angles of a decagon is:",
+      "options": {
+        "A": "1080°",
+        "B": "1440°",
+        "C": "1620°",
+        "D": "1800°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '1440°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 18
+    },
+    {
+      "question": "In a regular hexagon, the number of diagonals is:",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "9",
+        "D": "15"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '15'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 19
+    },
+    {
+      "question": "A regular polygon has each exterior angle of 30°. The number of sides of the polygon is:",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "15",
+        "D": "8"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '12'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 20
+    },
+    {
+      "question": "The sum of interior angles of a pentagon is:",
+      "options": {
+        "A": "540°",
+        "B": "720°",
+        "C": "360°",
+        "D": "180°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '540°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 21
+    },
+    {
+      "question": "The measure of each interior angle of a regular octagon is:",
+      "options": {
+        "A": "120°",
+        "B": "135°",
+        "C": "140°",
+        "D": "150°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '135°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 22
+    },
+    {
+      "question": "If an exterior angle of a regular polygon is 45°, the number of sides in the polygon is:",
+      "options": {
+        "A": "6",
+        "B": "8",
+        "C": "10",
+        "D": "12"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '8'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 23
+    },
+    {
+      "question": "If a polygon has 12 sides, the sum of its interior angles is:",
+      "options": {
+        "A": "1800°",
+        "B": "1440°",
+        "C": "2160°",
+        "D": "1260°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '2160°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), according to standard curriculum principles: 1800°.",
+      "id": 24
+    },
+    {
+      "question": "The measure of each interior angle of a regular 15-sided polygon is:",
+      "options": {
+        "A": "140°",
+        "B": "144°",
+        "C": "156°",
+        "D": "160°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '156°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 25
+    },
+    {
+      "question": "The number of diagonals in a pentagon is:",
+      "options": {
+        "A": "2",
+        "B": "5",
+        "C": "7",
+        "D": "10"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '5'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 26
+    },
+    {
+      "question": "The number of sides in a polygon with 27 diagonals is:",
+      "options": {
+        "A": "7",
+        "B": "8",
+        "C": "9",
+        "D": "10"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '9'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 27
+    },
+    {
+      "question": "A regular polygon with each interior angle of 120° is a:",
+      "options": {
+        "A": "Pentagon",
+        "B": "Hexagon",
+        "C": "Heptagon",
+        "D": "Octagon"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Hexagon'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 28
+    },
+    {
+      "question": "A quadrilateral with opposite sides parallel and equal diagonals is a:",
+      "options": {
+        "A": "Parallelogram",
+        "B": "Trapezium",
+        "C": "Rectangle",
+        "D": "Rhombus"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Rectangle'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 29
+    },
+    {
+      "question": "In a kite, the diagonals:",
+      "options": {
+        "A": "Are equal",
+        "B": "Are perpendicular to each other",
+        "C": "Bisect each other",
+        "D": "Are parallel"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Are perpendicular to each other'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 30
+    },
+    {
+      "question": "The number of diagonals in a hexagon is:",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "9",
+        "D": "15"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '9'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 31
+    },
+    {
+      "question": "The sum of one interior angle and its corresponding exterior angle in any polygon is:",
+      "options": {
+        "A": "90°",
+        "B": "120°",
+        "C": "180°",
+        "D": "360°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '180°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 32
+    },
+    {
+      "question": "A regular polygon with each exterior angle of 24° has how many sides?",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "15",
+        "D": "18"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '18'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 33
+    },
+    {
+      "question": "In a regular quadrilateral, the measure of each exterior angle is:",
+      "options": {
+        "A": "60°",
+        "B": "72°",
+        "C": "90°",
+        "D": "120°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '90°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 34
+    },
+    {
+      "question": "The measure of each interior angle of a regular 20-sided polygon is:",
+      "options": {
+        "A": "160°",
+        "B": "162°",
+        "C": "165°",
+        "D": "170°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '162°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 35
+    },
+    {
+      "question": "The sum of all exterior angles of a 15-sided polygon is:",
+      "options": {
+        "A": "270°",
+        "B": "360°",
+        "C": "540°",
+        "D": "180°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '360°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 36
+    },
+    {
+      "question": "The total number of diagonals in a heptagon is:",
+      "options": {
+        "A": "7",
+        "B": "9",
+        "C": "14",
+        "D": "21"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '14'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 37
+    },
+    {
+      "question": "A regular polygon with 18 sides has each exterior angle of:",
+      "options": {
+        "A": "15°",
+        "B": "20°",
+        "C": "25°",
+        "D": "30°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '20°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 38
+    },
+    {
+      "question": "If a polygon has 9 sides, how many triangles can be formed by drawing diagonals from one vertex?",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '7'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 39
+    },
+    {
+      "question": "The largest possible exterior angle of a regular polygon is:",
+      "options": {
+        "A": "45°",
+        "B": "60°",
+        "C": "90°",
+        "D": "120°"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '120°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 40
+    },
+    {
+      "question": "A polygon with 20 sides is called a:",
+      "options": {
+        "A": "Hexadecagon",
+        "B": "Icosagon",
+        "C": "Heptadecagon",
+        "D": "Dodecagon"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Icosagon'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 41
+    },
+    {
+      "question": "The number of diagonals in a decagon is:",
+      "options": {
+        "A": "25",
+        "B": "35",
+        "C": "45",
+        "D": "55"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '35'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 42
+    },
+    {
+      "question": "A regular polygon has each interior angle equal to 150°. How many sides does it have?",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "15",
+        "D": "24"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '15'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 43
+    },
+    {
+      "question": "A polygon with all angles less than 180° is called a:",
+      "options": {
+        "A": "Convex polygon",
+        "B": "Concave polygon",
+        "C": "Irregular polygon",
+        "D": "Open polygon"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Convex polygon'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 44
+    },
+    {
+      "question": "A triangle in which two sides are equal is called:",
+      "options": {
+        "A": "Scalene triangle",
+        "B": "Isosceles triangle",
+        "C": "Equilateral triangle",
+        "D": "Right triangle"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Isosceles triangle'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 45
+    },
+    {
+      "question": "If a regular polygon has 18 sides, the measure of each exterior angle is:",
+      "options": {
+        "A": "10°",
+        "B": "15°",
+        "C": "20°",
+        "D": "25°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '20°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 46
+    },
+    {
+      "question": "The measure of each interior angle of a 24-sided polygon is:",
+      "options": {
+        "A": "160°",
+        "B": "162°",
+        "C": "165°",
+        "D": "172.5°"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '172.5°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 47
+    },
+    {
+      "question": "The number of sides of a regular polygon whose each exterior angle is 40° is:",
+      "options": {
+        "A": "6",
+        "B": "8",
+        "C": "9",
+        "D": "12"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '9'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 48
+    },
+    {
+      "question": "The measure of each exterior angle of a regular decagon is:",
+      "options": {
+        "A": "36°",
+        "B": "40°",
+        "C": "45°",
+        "D": "50°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '40°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 49
+    },
+    {
+      "question": "If a polygon has 50 sides, the sum of its interior angles is:",
+      "options": {
+        "A": "8640°",
+        "B": "9000°",
+        "C": "8640°",
+        "D": "7200°"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '7200°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), according to standard curriculum principles: 8640°.",
+      "id": 50
+    },
+    {
+      "question": "A quadrilateral with opposite sides equal and diagonals bisecting each other at right angles is a:",
+      "options": {
+        "A": "Rhombus",
+        "B": "Rectangle",
+        "C": "Trapezium",
+        "D": "Kite"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Rhombus'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 51
+    },
+    {
+      "question": "A trapezium has how many pairs of parallel sides?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '1'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 52
+    },
+    {
+      "question": "A quadrilateral with one pair of parallel sides and non-parallel sides equal is a:",
+      "options": {
+        "A": "Square",
+        "B": "Rhombus",
+        "C": "Kite",
+        "D": "Isosceles trapezium"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Isosceles trapezium'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 53
+    },
+    {
+      "question": "In a parallelogram, the opposite angles are:",
+      "options": {
+        "A": "Equal",
+        "B": "Complementary",
+        "C": "Supplementary",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Equal'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 54
+    },
+    {
+      "question": "A square is always a:",
+      "options": {
+        "A": "Rectangle",
+        "B": "Rhombus",
+        "C": "Parallelogram",
+        "D": "All of these"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'All of these'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 55
+    },
+    {
+      "question": "A regular polygon has 120° as each interior angle. How many sides does it have?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '6'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 56
+    },
+    {
+      "question": "A regular polygon with 16 sides has each exterior angle equal to:",
+      "options": {
+        "A": "15°",
+        "B": "18°",
+        "C": "22.5°",
+        "D": "30°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '22.5°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 57
+    },
+    {
+      "question": "The number of diagonals in an octagon is:",
+      "options": {
+        "A": "20",
+        "B": "21",
+        "C": "25",
+        "D": "28"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '20'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 58
+    },
+    {
+      "question": "The total number of triangles formed by drawing diagonals from one vertex in a hexagon is:",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "6"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '4'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 59
+    },
+    {
+      "question": "The number of sides in a polygon where the sum of interior angles is 900° is:",
+      "options": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '7'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 60
+    },
+    {
+      "question": "A polygon with 15 sides is called a:",
+      "options": {
+        "A": "Decagon",
+        "B": "Hexadecagon",
+        "C": "Pentadecagon",
+        "D": "Heptadecagon"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Pentadecagon'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 61
+    },
+    {
+      "question": "The sum of the exterior angles of any polygon is always:",
+      "options": {
+        "A": "180°",
+        "B": "270°",
+        "C": "360°",
+        "D": "540°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '360°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 62
+    },
+    {
+      "question": "The sum of interior angles of a nonagon is:",
+      "options": {
+        "A": "900°",
+        "B": "1080°",
+        "C": "1260°",
+        "D": "1440°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '900°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), according to standard curriculum principles: 1260°.",
+      "id": 63
+    },
+    {
+      "question": "The number of diagonals in a 20-sided polygon is:",
+      "options": {
+        "A": "150",
+        "B": "170",
+        "C": "180",
+        "D": "190"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '150'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 64
+    },
+    {
+      "question": "A regular polygon with an exterior angle of 30° has how many sides?",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "15",
+        "D": "18"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '12'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 65
+    },
+    {
+      "question": "A parallelogram with equal diagonals is a:",
+      "options": {
+        "A": "Rhombus",
+        "B": "Rectangle",
+        "C": "Trapezium",
+        "D": "Kite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Rectangle'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 66
+    },
+    {
+      "question": "A trapezium is a quadrilateral with:",
+      "options": {
+        "A": "One pair of opposite sides parallel",
+        "B": "Two pairs of opposite sides parallel",
+        "C": "All sides equal",
+        "D": "All angles equal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'One pair of opposite sides parallel'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 67
+    },
+    {
+      "question": "A quadrilateral with all sides equal but angles not equal to 90° is called a:",
+      "options": {
+        "A": "Square",
+        "B": "Rectangle",
+        "C": "Rhombus",
+        "D": "Trapezium"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Rhombus'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 68
+    },
+    {
+      "question": "The sum of the interior angles of a quadrilateral is always:",
+      "options": {
+        "A": "180°",
+        "B": "270°",
+        "C": "360°",
+        "D": "450°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '360°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 69
+    },
+    {
+      "question": "In a kite, which of the following is always true?",
+      "options": {
+        "A": "Opposite sides are parallel",
+        "B": "Diagonals bisect each other",
+        "C": "One diagonal bisects the other at right angles",
+        "D": "All angles are equal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'One diagonal bisects the other at right angles'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 70
+    },
+    {
+      "question": "The sum of the interior angles of a polygon with n sides is given by the formula:",
+      "options": {
+        "A": "(n - 2) × 90°",
+        "B": "(n - 2) × 180°",
+        "C": "(n + 2) × 180°",
+        "D": "(n + 2) × 90°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '(n - 2) × 180°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 71
+    },
+    {
+      "question": "The sum of the exterior angles of a dodecagon is:",
+      "options": {
+        "A": "180°",
+        "B": "270°",
+        "C": "360°",
+        "D": "540°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '360°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 72
+    },
+    {
+      "question": "The number of triangles formed by diagonals from one vertex in a heptagon is:",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "7"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '5'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 73
+    },
+    {
+      "question": "A polygon has each exterior angle equal to 20°. The number of sides in the polygon is:",
+      "options": {
+        "A": "12",
+        "B": "15",
+        "C": "18",
+        "D": "24"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '24'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 74
+    },
+    {
+      "question": "The measure of each interior angle in a regular hexagon is:",
+      "options": {
+        "A": "108°",
+        "B": "120°",
+        "C": "135°",
+        "D": "150°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '120°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 75
+    },
+    {
+      "question": "A regular polygon with an interior angle of 144° has how many sides?",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "15",
+        "D": "18"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '10'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 76
+    },
+    {
+      "question": "In a parallelogram, which statement is always true?",
+      "options": {
+        "A": "Diagonals are equal",
+        "B": "Adjacent angles are equal",
+        "C": "Opposite angles are equal",
+        "D": "All sides are equal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Opposite angles are equal'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 77
+    },
+    {
+      "question": "A polygon with an interior angle sum of 1980° has how many sides?",
+      "options": {
+        "A": "10",
+        "B": "11",
+        "C": "12",
+        "D": "13"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '13'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 78
+    },
+    {
+      "question": "The number of sides in a polygon where each exterior angle is 72° is:",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '5'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 79
+    },
+    {
+      "question": "The sum of opposite angles in a cyclic quadrilateral is always:",
+      "options": {
+        "A": "90°",
+        "B": "120°",
+        "C": "180°",
+        "D": "360°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '180°'. In FBISE Grade 9 Mathematics Unit 9 (Geometry & Polygons), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 80
+    }
+  ]
+}

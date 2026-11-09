@@ -1,0 +1,729 @@
+{
+  "chapterNumber": 5,
+  "chapterTitle": "Unit 5: Linear Equations & Inequalities",
+  "totalQuestions": 60,
+  "subject": "math-9",
+  "grade": "9",
+  "questions": [
+    {
+      "question": "A linear equation in one variable has the form:",
+      "options": {
+        "A": "ax² + bx + c = 0",
+        "B": "ax + b = 0",
+        "C": "ax³ + bx² + c = 0",
+        "D": "ax² + by + c = 0"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'ax + b = 0'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 1
+    },
+    {
+      "question": "The equation 3x - 7 = 2x + 5 has how many solutions?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Infinite",
+        "D": "No solution"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'One'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 2
+    },
+    {
+      "question": "The value of x in the equation 5x - 10 = 20 is:",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "5",
+        "D": "8"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '6'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 3
+    },
+    {
+      "question": "The equation 2x + 3 = 2(x + 1) + 1 is:",
+      "options": {
+        "A": "Always true",
+        "B": "Always false",
+        "C": "True for one value of x",
+        "D": "Has no solution"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Always true'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 4
+    },
+    {
+      "question": "Which of the following is not a linear equation?",
+      "options": {
+        "A": "3x + 5 = 0",
+        "B": "x² - 4 = 0",
+        "C": "2x - 7 = 3",
+        "D": "4x + 2y = 8"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'x² - 4 = 0'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 5
+    },
+    {
+      "question": "If x - 3 = 7, then x = ?",
+      "options": {
+        "A": "10",
+        "B": "4",
+        "C": "-4",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '10'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 6
+    },
+    {
+      "question": "The solution of 2(x - 5) = 4 is:",
+      "options": {
+        "A": "6",
+        "B": "8",
+        "C": "4",
+        "D": "5"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '4'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 7
+    },
+    {
+      "question": "If 3x - 2 = 2x + 5, then x = ?",
+      "options": {
+        "A": "3",
+        "B": "5",
+        "C": "7",
+        "D": "2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '3'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 8
+    },
+    {
+      "question": "If 4x + 3 = 2x + 11, then x = ?",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "4",
+        "D": "3"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '3'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 9
+    },
+    {
+      "question": "The equation x/2 + 3 = 7 simplifies to:",
+      "options": {
+        "A": "x = 8",
+        "B": "x = 6",
+        "C": "x = 10",
+        "D": "x = 5"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'x = 6'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), according to standard curriculum principles: x = 8.",
+      "id": 10
+    },
+    {
+      "question": "If x + 3 > 7, then x is:",
+      "options": {
+        "A": "Greater than 4",
+        "B": "Less than 4",
+        "C": "Equal to 4",
+        "D": "Less than or equal to 4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Greater than 4'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 11
+    },
+    {
+      "question": "If 2x - 5 ≤ 9, then x is:",
+      "options": {
+        "A": "x ≤ 7",
+        "B": "x ≥ 7",
+        "C": "x ≤ 5",
+        "D": "x ≥ 5"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x ≤ 7'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 12
+    },
+    {
+      "question": "The inequality x - 2 < 5 is equivalent to:",
+      "options": {
+        "A": "x < 7",
+        "B": "x > 7",
+        "C": "x ≤ 7",
+        "D": "x ≥ 7"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x < 7'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 13
+    },
+    {
+      "question": "If -3x > 9, then x is:",
+      "options": {
+        "A": "x < -3",
+        "B": "x > -3",
+        "C": "x < 3",
+        "D": "x > 3"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'x < 3'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), according to standard curriculum principles: x < -3.",
+      "id": 14
+    },
+    {
+      "question": "The inequality x/4 > 3 simplifies to:",
+      "options": {
+        "A": "x > 12",
+        "B": "x > -12",
+        "C": "x < 12",
+        "D": "x < -12"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x > 12'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 15
+    },
+    {
+      "question": "A number is 5 more than twice another number. If their sum is 29, what is the smaller number?",
+      "options": {
+        "A": "8",
+        "B": "6",
+        "C": "7",
+        "D": "5"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '7'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 16
+    },
+    {
+      "question": "The sum of two consecutive integers is 45. The smaller integer is:",
+      "options": {
+        "A": "21",
+        "B": "22",
+        "C": "23",
+        "D": "24"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '22'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 17
+    },
+    {
+      "question": "If the perimeter of a rectangle is 30 and the length is 4 more than the width, then the width is:",
+      "options": {
+        "A": "5",
+        "B": "6",
+        "C": "7",
+        "D": "8"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '5'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 18
+    },
+    {
+      "question": "A number is 3 less than 4 times another number. If their sum is 27, the larger number is:",
+      "options": {
+        "A": "20",
+        "B": "19",
+        "C": "18",
+        "D": "15"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '15'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 19
+    },
+    {
+      "question": "If a student needs at least 40 marks to pass and he scores 3x + 10 marks, which inequality represents this situation?",
+      "options": {
+        "A": "3x + 10 ≥ 40",
+        "B": "3x + 10 ≤ 40",
+        "C": "3x + 10 > 40",
+        "D": "3x + 10 < 40"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '3x + 10 ≥ 40'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 20
+    },
+    {
+      "question": "The equation 7x - 4 = 3x + 8 simplifies to:",
+      "options": {
+        "A": "x = 3",
+        "B": "x = 2",
+        "C": "x = 4",
+        "D": "x = 6"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'x = 4'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), according to standard curriculum principles: x = 3.",
+      "id": 21
+    },
+    {
+      "question": "If 4(x - 2) = 2(2x - 3), then x = ?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '1'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 22
+    },
+    {
+      "question": "The equation 5(x + 1) - 3(x - 2) = 4x + 6 is:",
+      "options": {
+        "A": "x = 5",
+        "B": "x = 4",
+        "C": "x = 3",
+        "D": "x = 2"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'x = 2'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 23
+    },
+    {
+      "question": "If 2x + 3 = 7x - 2, then x = ?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '1'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 24
+    },
+    {
+      "question": "Which of the following is NOT a solution of the equation 2x - 5 = 3x - 8?",
+      "options": {
+        "A": "x = 1",
+        "B": "x = -3",
+        "C": "x = 0",
+        "D": "x = -5"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'x = -5'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 25
+    },
+    {
+      "question": "The graph of a linear equation is always a:",
+      "options": {
+        "A": "Circle",
+        "B": "Parabola",
+        "C": "Straight Line",
+        "D": "Curve"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Straight Line'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 26
+    },
+    {
+      "question": "The slope of the equation y = 3x - 7 is:",
+      "options": {
+        "A": "-7",
+        "B": "3",
+        "C": "-3",
+        "D": "7"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '3'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 27
+    },
+    {
+      "question": "If a line passes through points (2, 3) and (4, 7), its slope is:",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "1",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '2'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 28
+    },
+    {
+      "question": "The x-intercept of y = 4x - 8 is:",
+      "options": {
+        "A": "4",
+        "B": "2",
+        "C": "-2",
+        "D": "-4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '2'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 29
+    },
+    {
+      "question": "The equation y = 5x + 2 represents a line that:",
+      "options": {
+        "A": "Passes through the origin",
+        "B": "Has a y-intercept of 2",
+        "C": "Has a slope of -5",
+        "D": "Is parallel to the x-axis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Has a y-intercept of 2'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 30
+    },
+    {
+      "question": "The solution set of 3x - 5 > 4 is:",
+      "options": {
+        "A": "x > 3",
+        "B": "x > 9",
+        "C": "x < 3",
+        "D": "x < 9"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x > 3'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 31
+    },
+    {
+      "question": "If 5 - 2x ≤ 1, then x is:",
+      "options": {
+        "A": "x ≥ 2",
+        "B": "x ≤ 2",
+        "C": "x ≥ -2",
+        "D": "x ≤ -2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x ≥ 2'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 32
+    },
+    {
+      "question": "If -3x > 6, then x is:",
+      "options": {
+        "A": "x < -2",
+        "B": "x > -2",
+        "C": "x < 2",
+        "D": "x > 2"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'x < 2'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), according to standard curriculum principles: x < -2.",
+      "id": 33
+    },
+    {
+      "question": "The solution to 4x + 1 ≤ 9 is:",
+      "options": {
+        "A": "x ≤ 2",
+        "B": "x ≥ 2",
+        "C": "x ≤ -2",
+        "D": "x ≥ -2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x ≤ 2'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 34
+    },
+    {
+      "question": "If x + 4 > 9, then x is:",
+      "options": {
+        "A": "x > 5",
+        "B": "x < 5",
+        "C": "x ≥ 5",
+        "D": "x ≤ 5"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x > 5'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 35
+    },
+    {
+      "question": "The sum of two numbers is 32. One number is 4 times the other. The smaller number is:",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "5"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '8'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 36
+    },
+    {
+      "question": "The perimeter of a rectangle is 40 cm. If the length is 2 cm more than twice the width, what is the width?",
+      "options": {
+        "A": "6 cm",
+        "B": "7 cm",
+        "C": "8 cm",
+        "D": "9 cm"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '6 cm'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 37
+    },
+    {
+      "question": "A number is 5 more than three times another number. Their sum is 45. The smaller number is:",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "15",
+        "D": "18"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '12'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 38
+    },
+    {
+      "question": "If a student needs at least 50 marks to pass and they score 4x + 10, which inequality represents this?",
+      "options": {
+        "A": "4x + 10 ≥ 50",
+        "B": "4x + 10 ≤ 50",
+        "C": "4x + 10 > 50",
+        "D": "4x + 10 < 50"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '4x + 10 ≥ 50'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 39
+    },
+    {
+      "question": "A shopkeeper earns at least $5000 per month. If he earns $200 per day, which inequality represents this?",
+      "options": {
+        "A": "200d ≥ 5000",
+        "B": "200d ≤ 5000",
+        "C": "200d > 5000",
+        "D": "200d < 5000"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '200d ≥ 5000'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 40
+    },
+    {
+      "question": "If 3(x - 2) = 2(x + 1), then x = ?",
+      "options": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '3'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 41
+    },
+    {
+      "question": "The solution to 5x - 4 = 3x + 8 is:",
+      "options": {
+        "A": "x = 2",
+        "B": "x = 6",
+        "C": "x = 3",
+        "D": "x = 5"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'x = 6'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 42
+    },
+    {
+      "question": "If 2x + 5 = 9 - x, then x = ?",
+      "options": {
+        "A": "4",
+        "B": "3",
+        "C": "2",
+        "D": "1"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '2'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 43
+    },
+    {
+      "question": "The equation 7x - 2 = 3x + 10 has:",
+      "options": {
+        "A": "One solution",
+        "B": "No solution",
+        "C": "Infinite solutions",
+        "D": "Cannot be solved"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'One solution'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 44
+    },
+    {
+      "question": "If 4(x - 3) = 2(2x - 1), then the equation is:",
+      "options": {
+        "A": "Always true",
+        "B": "Always false",
+        "C": "Has no solution",
+        "D": "True for one value of x"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Always false'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 45
+    },
+    {
+      "question": "The equation y = -2x + 5 represents a line that:",
+      "options": {
+        "A": "Has a slope of -2",
+        "B": "Passes through (0,5)",
+        "C": "Decreases as x increases",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'All of the above'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 46
+    },
+    {
+      "question": "The slope of y = 5x - 3 is:",
+      "options": {
+        "A": "5",
+        "B": "-3",
+        "C": "3",
+        "D": "-5"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '5'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 47
+    },
+    {
+      "question": "The equation 3x + 2y = 6 is written in slope-intercept form as:",
+      "options": {
+        "A": "y = -3/2x + 3",
+        "B": "y = -3x + 2",
+        "C": "y = -3/2x + 6",
+        "D": "y = 3/2x - 3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'y = -3/2x + 3'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 48
+    },
+    {
+      "question": "The x-intercept of 2x - 4y = 8 is:",
+      "options": {
+        "A": "4",
+        "B": "-4",
+        "C": "2",
+        "D": "-2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '4'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 49
+    },
+    {
+      "question": "The graph of y = x + 4 passes through which of the following points?",
+      "options": {
+        "A": "(0,4)",
+        "B": "(-4,0)",
+        "C": "(2,6)",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'All of the above'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 50
+    },
+    {
+      "question": "The solution of 3x - 4 > 8 is:",
+      "options": {
+        "A": "x > 4",
+        "B": "x < 4",
+        "C": "x > 5",
+        "D": "x < 5"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'x > 5'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), according to standard curriculum principles: x > 4.",
+      "id": 51
+    },
+    {
+      "question": "If -5x ≤ 15, then x is:",
+      "options": {
+        "A": "x ≥ -3",
+        "B": "x ≤ -3",
+        "C": "x ≥ 3",
+        "D": "x ≤ 3"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'x ≤ -3'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 52
+    },
+    {
+      "question": "The inequality x - 3 ≤ 10 simplifies to:",
+      "options": {
+        "A": "x ≤ 13",
+        "B": "x ≥ 13",
+        "C": "x < 13",
+        "D": "x > 13"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x ≤ 13'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 53
+    },
+    {
+      "question": "The inequality 4x - 2 > 10 is equivalent to:",
+      "options": {
+        "A": "x > 3",
+        "B": "x < 3",
+        "C": "x ≥ 3",
+        "D": "x ≤ 3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x > 3'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 54
+    },
+    {
+      "question": "If 2x + 3 ≤ 9, then x is:",
+      "options": {
+        "A": "x ≤ 3",
+        "B": "x ≥ 3",
+        "C": "x ≤ 6",
+        "D": "x ≥ 6"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x ≤ 3'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 55
+    },
+    {
+      "question": "A number is twice another number. Their sum is 30. The smaller number is:",
+      "options": {
+        "A": "10",
+        "B": "12",
+        "C": "14",
+        "D": "15"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '10'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 56
+    },
+    {
+      "question": "A car rental company charges $50 plus $10 per hour. If a customer can spend at most $120, what is the maximum number of hours they can rent the car?",
+      "options": {
+        "A": "5 hours",
+        "B": "6 hours",
+        "C": "7 hours",
+        "D": "8 hours"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '5 hours'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), according to standard curriculum principles: 7 hours.",
+      "id": 57
+    },
+    {
+      "question": "The sum of three consecutive odd numbers is 27. The smallest number is:",
+      "options": {
+        "A": "7",
+        "B": "9",
+        "C": "11",
+        "D": "13"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '7'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 58
+    },
+    {
+      "question": "A person needs at least 70 marks to pass. If they scored 4x + 10 marks, which inequality represents this situation?",
+      "options": {
+        "A": "4x + 10 ≥ 70",
+        "B": "4x + 10 ≤ 70",
+        "C": "4x + 10 > 70",
+        "D": "4x + 10 < 70"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '4x + 10 ≥ 70'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 59
+    },
+    {
+      "question": "A farmer wants to fence a rectangular field. The perimeter should not exceed 100 meters. If the length is twice the width, what is the maximum width possible?",
+      "options": {
+        "A": "20 meters",
+        "B": "25 meters",
+        "C": "30 meters",
+        "D": "35 meters"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '20 meters'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 60
+    }
+  ]
+}

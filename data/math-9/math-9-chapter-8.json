@@ -1,0 +1,1209 @@
+{
+  "chapterNumber": 8,
+  "chapterTitle": "Unit 8: Geometry of Straight Lines",
+  "totalQuestions": 100,
+  "subject": "math-9",
+  "grade": "9",
+  "questions": [
+    {
+      "question": "A straight line has how many dimensions?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '1'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 1
+    },
+    {
+      "question": "How many points are needed to determine a unique straight line?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '2'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 2
+    },
+    {
+      "question": "Two lines that never intersect are called:",
+      "options": {
+        "A": "Parallel lines",
+        "B": "Perpendicular lines",
+        "C": "Intersecting lines",
+        "D": "Collinear lines"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Parallel lines'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 3
+    },
+    {
+      "question": "If two lines intersect, the number of common points they have is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '1'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 4
+    },
+    {
+      "question": "The angle between two perpendicular lines is:",
+      "options": {
+        "A": "0°",
+        "B": "45°",
+        "C": "90°",
+        "D": "180°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '90°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 5
+    },
+    {
+      "question": "If two lines are parallel, their corresponding angles are:",
+      "options": {
+        "A": "Equal",
+        "B": "Supplementary",
+        "C": "Complementary",
+        "D": "Unequal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Equal'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 6
+    },
+    {
+      "question": "When two parallel lines are cut by a transversal, alternate interior angles are:",
+      "options": {
+        "A": "Complementary",
+        "B": "Equal",
+        "C": "Supplementary",
+        "D": "Zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Equal'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 7
+    },
+    {
+      "question": "If a transversal cuts two parallel lines, then the sum of co-interior angles is:",
+      "options": {
+        "A": "90°",
+        "B": "180°",
+        "C": "270°",
+        "D": "360°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '180°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 8
+    },
+    {
+      "question": "The vertically opposite angles formed when two lines intersect are:",
+      "options": {
+        "A": "Equal",
+        "B": "Supplementary",
+        "C": "Complementary",
+        "D": "360°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Equal'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 9
+    },
+    {
+      "question": "If one angle of a linear pair is 110°, the other angle is:",
+      "options": {
+        "A": "110°",
+        "B": "90°",
+        "C": "70°",
+        "D": "180°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '70°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 10
+    },
+    {
+      "question": "A line that cuts two or more lines at different points is called a:",
+      "options": {
+        "A": "Transversal",
+        "B": "Perpendicular line",
+        "C": "Parallel line",
+        "D": "Tangent"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Transversal'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 11
+    },
+    {
+      "question": "If two lines are perpendicular, the product of their slopes is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "Infinity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '-1'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 12
+    },
+    {
+      "question": "A line that makes a 45° angle with the x-axis has a slope of:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "Undefined"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '1'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 13
+    },
+    {
+      "question": "If a straight line is vertical, its slope is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "Undefined",
+        "D": "Infinity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Undefined'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 14
+    },
+    {
+      "question": "If two lines are perpendicular, then their slopes are:",
+      "options": {
+        "A": "Equal",
+        "B": "Negative reciprocals",
+        "C": "Positive reciprocals",
+        "D": "Complementary"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Negative reciprocals'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 15
+    },
+    {
+      "question": "The equation of a vertical line passing through (3,2) is:",
+      "options": {
+        "A": "x = 3",
+        "B": "y = 3",
+        "C": "x + y = 3",
+        "D": "y - x = 3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x = 3'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 16
+    },
+    {
+      "question": "The equation of a horizontal line passing through (5,7) is:",
+      "options": {
+        "A": "y = 5",
+        "B": "x = 7",
+        "C": "y = 7",
+        "D": "x + y = 7"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'y = 7'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 17
+    },
+    {
+      "question": "If two lines have the same equation, they are:",
+      "options": {
+        "A": "Parallel",
+        "B": "Perpendicular",
+        "C": "Coincident",
+        "D": "Intersecting"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Coincident'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 18
+    },
+    {
+      "question": "The condition for two lines to be parallel is that their slopes must be:",
+      "options": {
+        "A": "Equal",
+        "B": "Negative reciprocals",
+        "C": "Zero",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Equal'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 19
+    },
+    {
+      "question": "If the slopes of two lines are m₁ and m₂, and they are perpendicular, then:",
+      "options": {
+        "A": "m₁ × m₂ = 1",
+        "B": "m₁ × m₂ = 0",
+        "C": "m₁ × m₂ = -1",
+        "D": "m₁ × m₂ = 2"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'm₁ × m₂ = -1'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 20
+    },
+    {
+      "question": "If two parallel lines are cut by a transversal, the sum of consecutive interior angles is:",
+      "options": {
+        "A": "90°",
+        "B": "180°",
+        "C": "270°",
+        "D": "360°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '180°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 21
+    },
+    {
+      "question": "If two parallel lines are cut by a transversal, alternate exterior angles are:",
+      "options": {
+        "A": "Complementary",
+        "B": "Supplementary",
+        "C": "Equal",
+        "D": "Unequal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Equal'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 22
+    },
+    {
+      "question": "The sum of all angles formed at a point is:",
+      "options": {
+        "A": "90°",
+        "B": "180°",
+        "C": "270°",
+        "D": "360°"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '360°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 23
+    },
+    {
+      "question": "If two parallel lines are cut by a transversal and one of the alternate interior angles is 50°, then the other alternate interior angle is:",
+      "options": {
+        "A": "30°",
+        "B": "50°",
+        "C": "130°",
+        "D": "90°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '50°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 24
+    },
+    {
+      "question": "If two intersecting lines form one angle of 75°, then its vertically opposite angle is:",
+      "options": {
+        "A": "105°",
+        "B": "90°",
+        "C": "75°",
+        "D": "180°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '75°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 25
+    },
+    {
+      "question": "Two lines that lie in the same plane and do not intersect are called:",
+      "options": {
+        "A": "Perpendicular",
+        "B": "Parallel",
+        "C": "Coincident",
+        "D": "Intersecting"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Parallel'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 26
+    },
+    {
+      "question": "If two lines are perpendicular, their slopes are:",
+      "options": {
+        "A": "Equal",
+        "B": "Negative reciprocals",
+        "C": "Positive reciprocals",
+        "D": "Complementary"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Negative reciprocals'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 27
+    },
+    {
+      "question": "The equation of a line parallel to y = 3x + 4 is:",
+      "options": {
+        "A": "y = 3x + 2",
+        "B": "y = -3x + 4",
+        "C": "y = x + 4",
+        "D": "y = 4x + 3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'y = 3x + 2'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 28
+    },
+    {
+      "question": "The slope of a line that is perpendicular to y = -2x + 3 is:",
+      "options": {
+        "A": "-2",
+        "B": "1/2",
+        "C": "2",
+        "D": "-1/2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '1/2'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 29
+    },
+    {
+      "question": "If the slopes of two lines are equal, then the lines are:",
+      "options": {
+        "A": "Perpendicular",
+        "B": "Parallel",
+        "C": "Intersecting",
+        "D": "Coincident"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Parallel'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 30
+    },
+    {
+      "question": "The equation of a horizontal line passing through (6, -2) is:",
+      "options": {
+        "A": "y = -2",
+        "B": "x = 6",
+        "C": "y = 6",
+        "D": "x = -2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'y = -2'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 31
+    },
+    {
+      "question": "The equation of a vertical line passing through (-4, 3) is:",
+      "options": {
+        "A": "y = -4",
+        "B": "x = 3",
+        "C": "x = -4",
+        "D": "y = 3"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'x = -4'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 32
+    },
+    {
+      "question": "The slope-intercept form of a line equation is:",
+      "options": {
+        "A": "x = my + c",
+        "B": "y = mx + c",
+        "C": "y = c + mx²",
+        "D": "y - x = m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'y = mx + c'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 33
+    },
+    {
+      "question": "If the equation of a line is 2x - 3y = 6, its slope is:",
+      "options": {
+        "A": "2/3",
+        "B": "-2/3",
+        "C": "3/2",
+        "D": "-3/2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '2/3'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 34
+    },
+    {
+      "question": "If a line passes through (2,3) and has a slope of 4, its equation is:",
+      "options": {
+        "A": "y - 3 = 4(x - 2)",
+        "B": "y + 3 = 4(x + 2)",
+        "C": "y - 2 = 4(x - 3)",
+        "D": "y = 4x - 3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'y - 3 = 4(x - 2)'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 35
+    },
+    {
+      "question": "Two lines intersect if their slopes are:",
+      "options": {
+        "A": "Equal",
+        "B": "Different",
+        "C": "Negative reciprocals",
+        "D": "Both b and c"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Both b and c'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 36
+    },
+    {
+      "question": "The number of points at which two distinct parallel lines intersect is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "Infinite"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 37
+    },
+    {
+      "question": "If two lines have the same equation, they are:",
+      "options": {
+        "A": "Parallel",
+        "B": "Perpendicular",
+        "C": "Coincident",
+        "D": "Intersecting at one point"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Coincident'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 38
+    },
+    {
+      "question": "If two non-parallel lines in the same plane do not intersect, they are called:",
+      "options": {
+        "A": "Coincident lines",
+        "B": "Perpendicular lines",
+        "C": "Skew lines",
+        "D": "Parallel lines"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Skew lines'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 39
+    },
+    {
+      "question": "If a transversal intersects two parallel lines, then the number of angles formed is:",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "6",
+        "D": "8"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '8'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 40
+    },
+    {
+      "question": "A straight line extends in how many directions?",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Three",
+        "D": "Four"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Two'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 41
+    },
+    {
+      "question": "The sum of the interior angles of a straight line is:",
+      "options": {
+        "A": "90°",
+        "B": "180°",
+        "C": "270°",
+        "D": "360°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '180°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 42
+    },
+    {
+      "question": "The distance between two parallel lines is:",
+      "options": {
+        "A": "Always the same",
+        "B": "Varies",
+        "C": "Zero",
+        "D": "Infinite"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Always the same'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 43
+    },
+    {
+      "question": "If two lines are perpendicular to the same line, then they are:",
+      "options": {
+        "A": "Parallel",
+        "B": "Perpendicular",
+        "C": "Coincident",
+        "D": "Skew"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Parallel'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 44
+    },
+    {
+      "question": "If a line has a negative slope, it moves:",
+      "options": {
+        "A": "Upward from left to right",
+        "B": "Downward from left to right",
+        "C": "Horizontally",
+        "D": "Vertically"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Downward from left to right'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 45
+    },
+    {
+      "question": "If two parallel lines are cut by a transversal, then each pair of alternate interior angles is:",
+      "options": {
+        "A": "Complementary",
+        "B": "Supplementary",
+        "C": "Equal",
+        "D": "90°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Equal'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 46
+    },
+    {
+      "question": "If a transversal intersects two parallel lines and one angle is 120°, its corresponding angle is:",
+      "options": {
+        "A": "60°",
+        "B": "120°",
+        "C": "180°",
+        "D": "90°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '120°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 47
+    },
+    {
+      "question": "The sum of the interior angles on the same side of a transversal is:",
+      "options": {
+        "A": "90°",
+        "B": "180°",
+        "C": "270°",
+        "D": "360°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '180°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 48
+    },
+    {
+      "question": "Two angles whose sum is 180° are called:",
+      "options": {
+        "A": "Complementary",
+        "B": "Supplementary",
+        "C": "Vertical",
+        "D": "Reflex"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Supplementary'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 49
+    },
+    {
+      "question": "When a transversal cuts two lines and alternate exterior angles are equal, the lines are:",
+      "options": {
+        "A": "Perpendicular",
+        "B": "Parallel",
+        "C": "Skew",
+        "D": "Coincident"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Parallel'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 50
+    },
+    {
+      "question": "The slope of a line passing through (4,5) and (6,9) is:",
+      "options": {
+        "A": "2",
+        "B": "-2",
+        "C": "4",
+        "D": "-4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '2'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 51
+    },
+    {
+      "question": "The equation of a line in slope-intercept form is:",
+      "options": {
+        "A": "y = mx + c",
+        "B": "x = my + c",
+        "C": "y = mx² + c",
+        "D": "y - x = m"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'y = mx + c'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 52
+    },
+    {
+      "question": "The slope of the x-axis is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 53
+    },
+    {
+      "question": "The slope of the y-axis is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "Undefined",
+        "D": "-1"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Undefined'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 54
+    },
+    {
+      "question": "If the slope of a line is 3 and it passes through (2,4), its equation is:",
+      "options": {
+        "A": "y - 4 = 3(x - 2)",
+        "B": "y + 4 = 3(x + 2)",
+        "C": "y - 2 = 3(x - 4)",
+        "D": "y = 3x - 4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'y - 4 = 3(x - 2)'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 55
+    },
+    {
+      "question": "If the slopes of two lines are equal, the lines are:",
+      "options": {
+        "A": "Parallel",
+        "B": "Perpendicular",
+        "C": "Intersecting",
+        "D": "Coincident"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Parallel'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 56
+    },
+    {
+      "question": "If the slopes of two lines are negative reciprocals, the lines are:",
+      "options": {
+        "A": "Parallel",
+        "B": "Perpendicular",
+        "C": "Coincident",
+        "D": "Intersecting at any angle"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Perpendicular'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 57
+    },
+    {
+      "question": "A line perpendicular to y = 5x - 7 will have a slope of:",
+      "options": {
+        "A": "5",
+        "B": "-5",
+        "C": "1/5",
+        "D": "-1/5"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '-1/5'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 58
+    },
+    {
+      "question": "The equation of a vertical line passing through (-3,7) is:",
+      "options": {
+        "A": "x = -3",
+        "B": "y = -3",
+        "C": "x = 7",
+        "D": "y = 7"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x = -3'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 59
+    },
+    {
+      "question": "The point where two lines meet is called:",
+      "options": {
+        "A": "Vertex",
+        "B": "Intersection point",
+        "C": "Midpoint",
+        "D": "Slope point"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Intersection point'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 60
+    },
+    {
+      "question": "Two distinct lines in a plane that do not intersect are called:",
+      "options": {
+        "A": "Perpendicular lines",
+        "B": "Parallel lines",
+        "C": "Coincident lines",
+        "D": "Intersecting lines"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Parallel lines'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 61
+    },
+    {
+      "question": "If two lines are coincident, then they:",
+      "options": {
+        "A": "Have the same slope but different y-intercepts",
+        "B": "Have different slopes",
+        "C": "Have the same equation",
+        "D": "Are perpendicular"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Have the same equation'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 62
+    },
+    {
+      "question": "The measure of a straight angle is:",
+      "options": {
+        "A": "90°",
+        "B": "180°",
+        "C": "270°",
+        "D": "360°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '180°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 63
+    },
+    {
+      "question": "The number of lines that can pass through two distinct points is:",
+      "options": {
+        "A": "One",
+        "B": "Two",
+        "C": "Infinite",
+        "D": "Zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'One'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 64
+    },
+    {
+      "question": "If two angles are complementary, their sum is:",
+      "options": {
+        "A": "90°",
+        "B": "180°",
+        "C": "270°",
+        "D": "360°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '90°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 65
+    },
+    {
+      "question": "If a transversal intersects two parallel lines, corresponding angles are:",
+      "options": {
+        "A": "Equal",
+        "B": "Supplementary",
+        "C": "Complementary",
+        "D": "Reflex angles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Equal'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 66
+    },
+    {
+      "question": "If two parallel lines are cut by a transversal, each pair of interior angles on the same side of the transversal is:",
+      "options": {
+        "A": "Equal",
+        "B": "Supplementary",
+        "C": "Complementary",
+        "D": "Acute"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Supplementary'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 67
+    },
+    {
+      "question": "If two alternate interior angles are equal, the two lines:",
+      "options": {
+        "A": "Are perpendicular",
+        "B": "Are parallel",
+        "C": "Intersect at a right angle",
+        "D": "Are skew"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Are parallel'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 68
+    },
+    {
+      "question": "If a transversal makes one angle 120° with one of two parallel lines, then the corresponding angle is:",
+      "options": {
+        "A": "60°",
+        "B": "90°",
+        "C": "120°",
+        "D": "180°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '120°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 69
+    },
+    {
+      "question": "If a transversal makes an angle of 75° with one parallel line, then the alternate interior angle is:",
+      "options": {
+        "A": "75°",
+        "B": "90°",
+        "C": "105°",
+        "D": "180°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '75°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 70
+    },
+    {
+      "question": "The slope of a line perpendicular to a line with slope 2 is:",
+      "options": {
+        "A": "-2",
+        "B": "1/2",
+        "C": "-1/2",
+        "D": "-1/2"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '-1/2'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 71
+    },
+    {
+      "question": "The equation of a line with slope 4 passing through (1,2) is:",
+      "options": {
+        "A": "y - 2 = 4(x - 1)",
+        "B": "y + 2 = 4(x + 1)",
+        "C": "y = 4x + 1",
+        "D": "y - 1 = 4(x - 2)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'y - 2 = 4(x - 1)'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 72
+    },
+    {
+      "question": "The slope of the line y = -3x + 7 is:",
+      "options": {
+        "A": "-3",
+        "B": "3",
+        "C": "-7",
+        "D": "7"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '-3'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 73
+    },
+    {
+      "question": "The y-intercept of the line 2x - 5y = 10 is:",
+      "options": {
+        "A": "-2",
+        "B": "2",
+        "C": "-5",
+        "D": "5"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '2'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 74
+    },
+    {
+      "question": "The equation of a line parallel to y = -2x + 5 is:",
+      "options": {
+        "A": "y = -2x - 3",
+        "B": "y = 2x + 5",
+        "C": "y = -x + 3",
+        "D": "y = x - 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'y = -2x - 3'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 75
+    },
+    {
+      "question": "If two lines intersect at a right angle, then their slopes are:",
+      "options": {
+        "A": "Negative reciprocals",
+        "B": "Equal",
+        "C": "The same",
+        "D": "Complementary"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Negative reciprocals'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 76
+    },
+    {
+      "question": "The equation of a horizontal line passing through (7,-3) is:",
+      "options": {
+        "A": "x = -3",
+        "B": "x = 7",
+        "C": "y = -3",
+        "D": "y = 7"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'y = -3'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 77
+    },
+    {
+      "question": "The equation of a vertical line passing through (-5,4) is:",
+      "options": {
+        "A": "x = -5",
+        "B": "x = 4",
+        "C": "y = -5",
+        "D": "y = 4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x = -5'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 78
+    },
+    {
+      "question": "The slope of a line parallel to the x-axis is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "Undefined",
+        "D": "-1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 79
+    },
+    {
+      "question": "The slope of a line perpendicular to the y-axis is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "Undefined",
+        "D": "-1"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Undefined'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 80
+    },
+    {
+      "question": "Two lines in the same plane that never intersect are called:",
+      "options": {
+        "A": "Perpendicular lines",
+        "B": "Parallel lines",
+        "C": "Skew lines",
+        "D": "Coincident lines"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Parallel lines'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 81
+    },
+    {
+      "question": "The equation of a straight line passing through the origin is always in the form:",
+      "options": {
+        "A": "y = mx + c",
+        "B": "y = mx",
+        "C": "y = c",
+        "D": "x = m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'y = mx'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 82
+    },
+    {
+      "question": "If two lines have the same slope but different y-intercepts, they are:",
+      "options": {
+        "A": "Coincident",
+        "B": "Parallel",
+        "C": "Perpendicular",
+        "D": "Intersecting"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Parallel'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 83
+    },
+    {
+      "question": "If two lines intersect at exactly one point, they are called:",
+      "options": {
+        "A": "Parallel",
+        "B": "Perpendicular",
+        "C": "Coincident",
+        "D": "Intersecting"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Intersecting'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 84
+    },
+    {
+      "question": "A line that forms equal angles with the x-axis and y-axis has a slope of:",
+      "options": {
+        "A": "1",
+        "B": "-1",
+        "C": "0",
+        "D": "Both (a) and (b)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Both (a) and (b)'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 85
+    },
+    {
+      "question": "If two lines are perpendicular, the product of their slopes is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "Undefined"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '-1'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 86
+    },
+    {
+      "question": "If a transversal makes one angle of 110° with a parallel line, then the corresponding angle is:",
+      "options": {
+        "A": "110°",
+        "B": "70°",
+        "C": "180°",
+        "D": "90°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '110°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 87
+    },
+    {
+      "question": "If two parallel lines are cut by a transversal, the sum of co-interior angles is:",
+      "options": {
+        "A": "90°",
+        "B": "180°",
+        "C": "270°",
+        "D": "360°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '180°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 88
+    },
+    {
+      "question": "When a transversal cuts two parallel lines, alternate exterior angles are:",
+      "options": {
+        "A": "Complementary",
+        "B": "Supplementary",
+        "C": "Equal",
+        "D": "180°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Equal'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 89
+    },
+    {
+      "question": "If a transversal cuts two parallel lines and forms a 130° angle, the vertically opposite angle is:",
+      "options": {
+        "A": "50°",
+        "B": "130°",
+        "C": "90°",
+        "D": "180°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '130°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 90
+    },
+    {
+      "question": "The slope of the line passing through (-3,4) and (5,2) is:",
+      "options": {
+        "A": "-1/4",
+        "B": "1/4",
+        "C": "-1/2",
+        "D": "1/2"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '-1/2'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 91
+    },
+    {
+      "question": "The equation of a line with slope -2 passing through (0,5) is:",
+      "options": {
+        "A": "y = -2x + 5",
+        "B": "y = 2x - 5",
+        "C": "y = -2x - 5",
+        "D": "y = -x + 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'y = -2x + 5'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 92
+    },
+    {
+      "question": "The slope of a line perpendicular to y = (3/2)x - 7 is:",
+      "options": {
+        "A": "3/2",
+        "B": "-2/3",
+        "C": "2/3",
+        "D": "-3/2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '-2/3'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 93
+    },
+    {
+      "question": "The equation of a line passing through (-2,3) and having slope 4 is:",
+      "options": {
+        "A": "y - 3 = 4(x + 2)",
+        "B": "y + 2 = 4(x - 3)",
+        "C": "y - 2 = 4(x - 3)",
+        "D": "y = 4x + 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'y - 3 = 4(x + 2)'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 94
+    },
+    {
+      "question": "The slope of a line making an angle of 60° with the positive x-axis is:",
+      "options": {
+        "A": "√3",
+        "B": "1/√3",
+        "C": "-√3",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '√3'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 95
+    },
+    {
+      "question": "If two lines have slopes 5 and -1/5, the lines are:",
+      "options": {
+        "A": "Parallel",
+        "B": "Perpendicular",
+        "C": "Coincident",
+        "D": "Intersecting but not perpendicular"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Perpendicular'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 96
+    },
+    {
+      "question": "A line perpendicular to the x-axis has an equation of the form:",
+      "options": {
+        "A": "y = c",
+        "B": "x = c",
+        "C": "y = mx + c",
+        "D": "x + y = c"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'x = c'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 97
+    },
+    {
+      "question": "If two lines have the same slope and the same y-intercept, they are:",
+      "options": {
+        "A": "Parallel",
+        "B": "Perpendicular",
+        "C": "Coincident",
+        "D": "Skew"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Coincident'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 98
+    },
+    {
+      "question": "The y-intercept of the line 3x - 4y = 12 is:",
+      "options": {
+        "A": "-3",
+        "B": "3",
+        "C": "-4",
+        "D": "4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '3'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 99
+    },
+    {
+      "question": "The point where a line crosses the y-axis is called the:",
+      "options": {
+        "A": "Slope",
+        "B": "Intercept",
+        "C": "Origin",
+        "D": "Intersection point"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Intercept'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 100
+    }
+  ]
+}

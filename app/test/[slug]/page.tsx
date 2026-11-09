@@ -26,17 +26,22 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     };
   }
 
-  const isGrade9 = chapter.subject === 'physics-9' || slug.startsWith('physics-9');
+  const isGrade9 =
+    chapter.subject === 'physics-9' ||
+    slug.startsWith('physics-9') ||
+    chapter.subject === 'math-9' ||
+    slug.startsWith('math-9');
   let subjectName = 'Physics';
   if (chapter.subject === 'urdu') subjectName = 'Urdu';
   else if (chapter.subject === 'math') subjectName = 'Mathematics';
+  else if (chapter.subject === 'math-9' || slug.startsWith('math-9')) subjectName = 'Mathematics';
   else if (chapter.subject === 'english') subjectName = 'English';
   else if (chapter.subject === 'cs') subjectName = 'Computer Science';
   else if (chapter.subject === 'islamiat') subjectName = 'Islamiat Compulsory (اسلامیات لازمی)';
   else if (chapter.subject === 'tarjuma') subjectName = 'Tarjuma-tul-Quran (ترجمۃ القرآن المجید)';
   else if (chapter.subject === 'biology') subjectName = 'Biology (حیاتیات)';
   else if (chapter.subject === 'chemistry') subjectName = 'Chemistry (کیمسٹری)';
-  else if (isGrade9) subjectName = 'Physics';
+  else if (chapter.subject === 'physics-9' || slug.startsWith('physics-9')) subjectName = 'Physics';
 
   const classLabel = isGrade9 ? 'Class 9 (SSC-I)' : 'Class 11 (HSSC-I)';
 

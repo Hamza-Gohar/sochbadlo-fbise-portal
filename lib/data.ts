@@ -12,6 +12,7 @@ const TARJUMA_DIR = path.join(process.cwd(), 'data', 'tarjuma-11');
 const BIOLOGY_DIR = path.join(process.cwd(), 'data', 'biology-11');
 const CHEMISTRY_DIR = path.join(process.cwd(), 'data', 'chemistry-11');
 const PHYSICS_9_DIR = path.join(process.cwd(), 'data', 'physics-9');
+const MATH_9_DIR = path.join(process.cwd(), 'data', 'math-9');
 
 export function getChaptersIndex(
   subject: SubjectId = 'physics'
@@ -27,12 +28,13 @@ export function getChaptersIndex(
     else if (subject === 'biology') dir = BIOLOGY_DIR;
     else if (subject === 'chemistry') dir = CHEMISTRY_DIR;
     else if (subject === 'physics-9') dir = PHYSICS_9_DIR;
+    else if (subject === 'math-9') dir = MATH_9_DIR;
 
     const indexPath = path.join(dir, 'chapters-index.json');
     if (fs.existsSync(indexPath)) {
       const content = fs.readFileSync(indexPath, 'utf-8');
       const list: ChapterMeta[] = JSON.parse(content);
-      const grade = subject === 'physics-9' ? '9' : '11';
+      const grade = subject === 'physics-9' || subject === 'math-9' ? '9' : '11';
       return list.map((item) => ({ ...item, subject, grade: item.grade || grade }));
     }
   } catch (err) {
@@ -53,6 +55,7 @@ export function getAllChapters(): ChapterMeta[] {
     ...getChaptersIndex('biology'),
     ...getChaptersIndex('chemistry'),
     ...getChaptersIndex('physics-9'),
+    ...getChaptersIndex('math-9'),
   ];
 }
 
@@ -70,6 +73,9 @@ export function getChapterBySlug(
     if (slug.startsWith('physics-9')) {
       targetDir = PHYSICS_9_DIR;
       subject = 'physics-9';
+    } else if (slug.startsWith('math-9')) {
+      targetDir = MATH_9_DIR;
+      subject = 'math-9';
     } else if (slug.startsWith('urdu')) {
       targetDir = URDU_DIR;
       subject = 'urdu';
@@ -111,6 +117,7 @@ export function getChapterBySlug(
 
     // Fallback search across all directories
     const dirMap: Array<[string, SubjectId]> = [
+      [MATH_9_DIR, 'math-9'],
       [PHYSICS_9_DIR, 'physics-9'],
       [BIOLOGY_DIR, 'biology'],
       [CHEMISTRY_DIR, 'chemistry'],

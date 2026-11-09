@@ -42,7 +42,7 @@ export default function Navbar() {
           <Link
             href="/?grade=9"
             className="px-3 py-1.5 border border-emerald-700 bg-emerald-50 text-emerald-900 hover:bg-emerald-100 font-bold text-xs flex items-center gap-1.5 transition-colors"
-            title="FBISE Class 9th (SSC-I) Physics Test Series"
+            title="FBISE Class 9th (SSC-I) Mathematics & Physics Test Series"
           >
             <BookOpen className="w-3.5 h-3.5 text-emerald-700" />
             <span>Class 9th (SSC-I)</span>

@@ -25,17 +25,20 @@ export default function Footer() {
               Class 9th (SSC-I)
             </h4>
             <ul className="text-xs space-y-1.5 text-[var(--color-muted)] font-[family-name:var(--font-display)]">
-              <li className="font-semibold text-emerald-800">Physics (9 Units)</li>
-              <li>• Unit 1: Physical Quantities</li>
-              <li>• Unit 2: Kinematics</li>
-              <li>• Unit 3: Dynamics</li>
-              <li>• Unit 4: Turning Effect</li>
-              <li>• Unit 5: Pressure & Solids</li>
-              <li>• Unit 6: Work & Energy</li>
-              <li>• Unit 7: Properties of Matter</li>
-              <li>• Unit 8: Thermal Physics</li>
-              <li>• Unit 9: Nature of Science</li>
-              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 2 Section A Simulators</li>
+              <li className="font-semibold text-blue-900">Mathematics (11 Units + 2 Simulators)</li>
+              <li className="font-semibold text-emerald-800">Physics (9 Units + 2 Simulators)</li>
+              <li>• Unit 1: Real Numbers & Physical Quantities</li>
+              <li>• Unit 2: Logarithms & Kinematics</li>
+              <li>• Unit 3: Sets & Dynamics</li>
+              <li>• Unit 4: Factorization & Turning Effect</li>
+              <li>• Unit 5: Linear Equations & Pressure</li>
+              <li>• Unit 6: Trigonometry & Work-Energy</li>
+              <li>• Unit 7: Coordinate Geometry & Density</li>
+              <li>• Unit 8: Straight Lines & Magnetism</li>
+              <li>• Unit 9: Geometry & Nature of Science</li>
+              <li>• Unit 10: Practical Geometry</li>
+              <li>• Unit 11: Basic Statistics</li>
+              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 4 Section A Board Simulators</li>
             </ul>
           </div>
 

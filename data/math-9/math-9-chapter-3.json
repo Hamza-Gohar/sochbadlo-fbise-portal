@@ -1,0 +1,609 @@
+{
+  "chapterNumber": 3,
+  "chapterTitle": "Unit 3: Sets & Relations",
+  "totalQuestions": 50,
+  "subject": "math-9",
+  "grade": "9",
+  "questions": [
+    {
+      "question": "A set is a:",
+      "options": {
+        "A": "Collection of well-defined objects",
+        "B": "Group of numbers only",
+        "C": "List of elements in order",
+        "D": "Random collection of things"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Collection of well-defined objects'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 1
+    },
+    {
+      "question": "Which of the following is a well-defined set?",
+      "options": {
+        "A": "The set of all good students",
+        "B": "The set of all even prime numbers",
+        "C": "The set of all beautiful paintings",
+        "D": "The set of all interesting books"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'The set of all even prime numbers'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 2
+    },
+    {
+      "question": "The symbol ∅ represents:",
+      "options": {
+        "A": "Universal set",
+        "B": "Power set",
+        "C": "Empty set",
+        "D": "Infinite set"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Empty set'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 3
+    },
+    {
+      "question": "The number of elements in a finite set is called its:",
+      "options": {
+        "A": "Order",
+        "B": "Cardinality",
+        "C": "Power",
+        "D": "Subset"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Cardinality'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 4
+    },
+    {
+      "question": "The set of natural numbers is denoted by:",
+      "options": {
+        "A": "ℕ",
+        "B": "ℤ",
+        "C": "ℚ",
+        "D": "ℝ"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'ℕ'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 5
+    },
+    {
+      "question": "A set with only one element is called:",
+      "options": {
+        "A": "Singleton set",
+        "B": "Null set",
+        "C": "Finite set",
+        "D": "Infinite set"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Singleton set'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 6
+    },
+    {
+      "question": "A set containing all possible elements under consideration is called:",
+      "options": {
+        "A": "Power set",
+        "B": "Universal set",
+        "C": "Empty set",
+        "D": "Finite set"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Universal set'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 7
+    },
+    {
+      "question": "The set of whole numbers is denoted by:",
+      "options": {
+        "A": "ℕ",
+        "B": "ℤ",
+        "C": "ℝ",
+        "D": "ℕ₀"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'ℕ₀'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 8
+    },
+    {
+      "question": "If A = {a, b, c} and B = {a, b, c, d, e}, then A is:",
+      "options": {
+        "A": "Proper subset of B",
+        "B": "Superset of B",
+        "C": "Universal set",
+        "D": "Null set"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Proper subset of B'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 9
+    },
+    {
+      "question": "A set with infinitely many elements is called:",
+      "options": {
+        "A": "Finite set",
+        "B": "Infinite set",
+        "C": "Singleton set",
+        "D": "Null set"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Infinite set'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 10
+    },
+    {
+      "question": "A ∪ B represents:",
+      "options": {
+        "A": "Elements in A and B",
+        "B": "Elements common in A and B",
+        "C": "Elements in either A or B or both",
+        "D": "Elements in A but not in B"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Elements in either A or B or both'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 11
+    },
+    {
+      "question": "A ∩ B represents:",
+      "options": {
+        "A": "Elements in A only",
+        "B": "Elements in B only",
+        "C": "Elements in both A and B",
+        "D": "Elements in A or B but not both"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Elements in both A and B'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 12
+    },
+    {
+      "question": "The complement of a set A is denoted by:",
+      "options": {
+        "A": "A'",
+        "B": "A ∪ B",
+        "C": "A ∩ B",
+        "D": "A – B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'A''. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 13
+    },
+    {
+      "question": "If A = {1, 2, 3} and B = {3, 4, 5}, then A ∩ B is:",
+      "options": {
+        "A": "{1, 2, 3, 4, 5}",
+        "B": "{3}",
+        "C": "{1, 2}",
+        "D": "{4, 5}"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '{3}'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 14
+    },
+    {
+      "question": "If A and B are disjoint sets, then:",
+      "options": {
+        "A": "A ∩ B = ∅",
+        "B": "A ∪ B = ∅",
+        "C": "A ∩ B = A",
+        "D": "A ∩ B = B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'A ∩ B = ∅'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 15
+    },
+    {
+      "question": "Venn diagrams represent:",
+      "options": {
+        "A": "Numbers only",
+        "B": "Graphs only",
+        "C": "Relations between sets",
+        "D": "Probability values"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Relations between sets'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 16
+    },
+    {
+      "question": "The region outside all sets in a Venn diagram represents:",
+      "options": {
+        "A": "Universal set",
+        "B": "Empty set",
+        "C": "Finite set",
+        "D": "Singleton set"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Empty set'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 17
+    },
+    {
+      "question": "If two sets have no elements in common, they are called:",
+      "options": {
+        "A": "Equivalent sets",
+        "B": "Equal sets",
+        "C": "Disjoint sets",
+        "D": "Infinite sets"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Disjoint sets'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 18
+    },
+    {
+      "question": "The shaded region in A ∪ B ∪ C in a Venn diagram represents:",
+      "options": {
+        "A": "A ∩ B ∩ C",
+        "B": "A ∪ B ∪ C",
+        "C": "A only",
+        "D": "B only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'A ∪ B ∪ C'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 19
+    },
+    {
+      "question": "A Venn diagram with three overlapping circles represents:",
+      "options": {
+        "A": "Two sets",
+        "B": "Three sets",
+        "C": "A singleton set",
+        "D": "A null set"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Three sets'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 20
+    },
+    {
+      "question": "A relation is a:",
+      "options": {
+        "A": "Connection between two sets",
+        "B": "Subset of Cartesian product",
+        "C": "Function",
+        "D": "Random collection of numbers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Subset of Cartesian product'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 21
+    },
+    {
+      "question": "The Cartesian product of A = {1, 2} and B = {a, b} is:",
+      "options": {
+        "A": "{(1, a), (1, b), (2, a), (2, b)}",
+        "B": "{(a, b), (1, 2)}",
+        "C": "{1, 2, a, b}",
+        "D": "{(1, 2, a, b)}"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '{(1, a), (1, b), (2, a), (2, b)}'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 22
+    },
+    {
+      "question": "If A = {x | x is an even number}, then A is:",
+      "options": {
+        "A": "Infinite set",
+        "B": "Finite set",
+        "C": "Singleton set",
+        "D": "Null set"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Infinite set'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 23
+    },
+    {
+      "question": "If f(x) = x², then f is a:",
+      "options": {
+        "A": "One-one function",
+        "B": "Many-one function",
+        "C": "Onto function",
+        "D": "Bijection"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Many-one function'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 24
+    },
+    {
+      "question": "A relation R is a function if:",
+      "options": {
+        "A": "Every element of domain has one unique image",
+        "B": "Elements of domain have multiple images",
+        "C": "Elements of range have multiple pre-images",
+        "D": "The set is finite"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Every element of domain has one unique image'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 25
+    },
+    {
+      "question": "The set of all students in a class is an example of:",
+      "options": {
+        "A": "Finite set",
+        "B": "Infinite set",
+        "C": "Singleton set",
+        "D": "Empty set"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Finite set'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 26
+    },
+    {
+      "question": "The relation \"is the mother of\" is:",
+      "options": {
+        "A": "One-one",
+        "B": "Many-one",
+        "C": "Reflexive",
+        "D": "Symmetric"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Many-one'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 27
+    },
+    {
+      "question": "The relation \"is parallel to\" between two lines is:",
+      "options": {
+        "A": "Reflexive",
+        "B": "Symmetric",
+        "C": "Transitive",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'All of the above'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 28
+    },
+    {
+      "question": "The power set of {1,2} is:",
+      "options": {
+        "A": "{∅, {1}, {2}, {1,2}}",
+        "B": "{{1,2}}",
+        "C": "{1,2}",
+        "D": "{{1}, {2}}"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '{∅, {1}, {2}, {1,2}}'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 29
+    },
+    {
+      "question": "If A and B are equal sets, then:",
+      "options": {
+        "A": "A ⊆ B and B ⊆ A",
+        "B": "A ∪ B = ∅",
+        "C": "A ∩ B = ∅",
+        "D": "A - B = B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'A ⊆ B and B ⊆ A'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 30
+    },
+    {
+      "question": "If A = {2, 4, 6, 8} and B = {4, 8, 12}, then A – B is:",
+      "options": {
+        "A": "{2, 6}",
+        "B": "{4, 8}",
+        "C": "{12}",
+        "D": "{2, 6, 12}"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '{2, 6}'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 31
+    },
+    {
+      "question": "If A and B are two sets such that A ⊆ B, then A ∩ B is:",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "A ∪ B",
+        "D": "∅"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'A'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 32
+    },
+    {
+      "question": "If A ∪ B = A ∩ B, then:",
+      "options": {
+        "A": "A = B",
+        "B": "A ⊆ B",
+        "C": "A ∩ B = ∅",
+        "D": "A = ∅"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'A = B'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 33
+    },
+    {
+      "question": "If A = {1, 2, 3} and B = {a, b}, then the number of elements in A × B is:",
+      "options": {
+        "A": "3",
+        "B": "6",
+        "C": "2",
+        "D": "5"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '6'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 34
+    },
+    {
+      "question": "If n(A) = 5 and n(B) = 3, then n(A × B) = ?",
+      "options": {
+        "A": "5",
+        "B": "8",
+        "C": "15",
+        "D": "20"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '15'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 35
+    },
+    {
+      "question": "Which of the following is an idempotent law?",
+      "options": {
+        "A": "A ∪ A = A",
+        "B": "A ∩ A = A",
+        "C": "Both a and b",
+        "D": "A ∩ B = ∅"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Both a and b'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 36
+    },
+    {
+      "question": "The associative property of union states:",
+      "options": {
+        "A": "A ∪ (B ∪ C) = (A ∪ B) ∪ C",
+        "B": "A ∪ (B ∩ C) = (A ∪ B) ∩ C",
+        "C": "A ∪ B = A",
+        "D": "A ∩ (B ∪ C) = (A ∩ B) ∪ C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'A ∪ (B ∪ C) = (A ∪ B) ∪ C'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 37
+    },
+    {
+      "question": "Which of the following is the distributive property of sets?",
+      "options": {
+        "A": "A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C)",
+        "B": "A ∩ (B ∩ C) = (A ∩ B) ∪ C",
+        "C": "A ∪ (B ∪ C) = A ∩ (B ∩ C)",
+        "D": "A ∪ (B ∩ C) = (A ∪ B) ∩ (A ∪ C)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'A ∩ (B ∪ C) = (A ∩ B) ∪ (A ∩ C)'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 38
+    },
+    {
+      "question": "In a class of 50 students, 30 like Mathematics, 20 like Science, and 10 like both. The number of students who like only Mathematics is:",
+      "options": {
+        "A": "10",
+        "B": "20",
+        "C": "30",
+        "D": "40"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '20'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 39
+    },
+    {
+      "question": "If in a group of 100 people, 60 like coffee, 40 like tea, and 20 like both, how many like only coffee?",
+      "options": {
+        "A": "20",
+        "B": "40",
+        "C": "60",
+        "D": "80"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '40'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 40
+    },
+    {
+      "question": "The shaded region in a Venn diagram of A - B represents:",
+      "options": {
+        "A": "Only A",
+        "B": "Only B",
+        "C": "A but not B",
+        "D": "B but not A"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'A but not B'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 41
+    },
+    {
+      "question": "If the universal set has 100 elements and A has 60 elements, then A' (complement of A) has:",
+      "options": {
+        "A": "40 elements",
+        "B": "60 elements",
+        "C": "100 elements",
+        "D": "0 elements"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '40 elements'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 42
+    },
+    {
+      "question": "A relation R on a set A is called reflexive if:",
+      "options": {
+        "A": "(a, a) ∈ R for all a ∈ A",
+        "B": "(a, b) ∈ R implies (b, a) ∈ R",
+        "C": "(a, b) ∈ R and (b, c) ∈ R imply (a, c) ∈ R",
+        "D": "(a, b) ∉ R for all a, b"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '(a, a) ∈ R for all a ∈ A'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 43
+    },
+    {
+      "question": "A relation is symmetric if:",
+      "options": {
+        "A": "(a, b) ∈ R implies (b, a) ∈ R",
+        "B": "(a, b) ∈ R and (b, c) ∈ R imply (a, c) ∈ R",
+        "C": "(a, a) ∈ R for all a ∈ A",
+        "D": "(a, b) ∉ R for all a, b"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '(a, b) ∈ R implies (b, a) ∈ R'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 44
+    },
+    {
+      "question": "A transitive relation satisfies:",
+      "options": {
+        "A": "If (a, b) ∈ R and (b, c) ∈ R, then (a, c) ∈ R",
+        "B": "If (a, b) ∈ R, then (b, a) ∈ R",
+        "C": "(a, a) ∈ R for all a ∈ A",
+        "D": "(a, b) ∉ R for all a, b"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'If (a, b) ∈ R and (b, c) ∈ R, then (a, c) ∈ R'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 45
+    },
+    {
+      "question": "A relation that is reflexive, symmetric, and transitive is called:",
+      "options": {
+        "A": "An equivalence relation",
+        "B": "A one-to-one relation",
+        "C": "A function",
+        "D": "A universal relation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'An equivalence relation'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 46
+    },
+    {
+      "question": "If P(A) represents the power set of A, then n(P(A)) for A = {1, 2, 3} is:",
+      "options": {
+        "A": "6",
+        "B": "8",
+        "C": "9",
+        "D": "16"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '8'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 47
+    },
+    {
+      "question": "The number of subsets of a set with n elements is given by:",
+      "options": {
+        "A": "2ⁿ",
+        "B": "n²",
+        "C": "2n",
+        "D": "n!"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '2ⁿ'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 48
+    },
+    {
+      "question": "If A and B are sets such that A ⊆ B, then A ∪ B is:",
+      "options": {
+        "A": "A",
+        "B": "B",
+        "C": "A ∩ B",
+        "D": "∅"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'B'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 49
+    },
+    {
+      "question": "If A and B are finite sets with |A| = 3 and |B| = 4, then the number of relations from A to B is:",
+      "options": {
+        "A": "64",
+        "B": "128",
+        "C": "12",
+        "D": "81"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '64'. In FBISE Grade 9 Mathematics Unit 3 (Sets & Relations), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 50
+    }
+  ]
+}

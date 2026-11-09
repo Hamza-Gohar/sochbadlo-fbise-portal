@@ -21,7 +21,8 @@ export type SubjectId =
   | 'tarjuma'
   | 'biology'
   | 'chemistry'
-  | 'physics-9';
+  | 'physics-9'
+  | 'math-9';
 
 export interface ChapterData {
   chapterNumber: number;

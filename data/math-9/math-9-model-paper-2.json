@@ -1,0 +1,189 @@
+{
+  "chapterNumber": 13,
+  "chapterTitle": "FBISE Model Paper 2 (Section A Simulator - Units 6-11)",
+  "totalQuestions": 15,
+  "subject": "math-9",
+  "grade": "9",
+  "questions": [
+    {
+      "question": "The slope of a line perpendicular to a line with slope 3 is:",
+      "options": {
+        "A": "3",
+        "B": "-3",
+        "C": "1/3",
+        "D": "-1/3"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '-1/3'. In FBISE Grade 9 Mathematics Unit 7 (Coordinate Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 1
+    },
+    {
+      "question": "The equation of a vertical line passing through (-4, 7) is:",
+      "options": {
+        "A": "x = -4",
+        "B": "y = -4",
+        "C": "y = 7",
+        "D": "x = 7"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x = -4'. In FBISE Grade 9 Mathematics Unit 7 (Coordinate Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 2
+    },
+    {
+      "question": "The point (-7, 0) lies on which axis?",
+      "options": {
+        "A": "x-axis",
+        "B": "y-axis",
+        "C": "Both axes",
+        "D": "Neither axis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x-axis'. In FBISE Grade 9 Mathematics Unit 7 (Coordinate Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 3
+    },
+    {
+      "question": "are:",
+      "options": {
+        "A": "(4, 5)",
+        "B": "(3, 6)",
+        "C": "(2, 7)",
+        "D": "(5, 4)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '(4, 5)'. In FBISE Grade 9 Mathematics Unit 7 (Coordinate Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 4
+    },
+    {
+      "question": "If a line segment has endpoints (x, 2) and (4, 6) and its length is 5, find x.",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "2",
+        "D": "3"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '3'. In FBISE Grade 9 Mathematics Unit 7 (Coordinate Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 5
+    },
+    {
+      "question": "The equation of a line parallel to y = 4x - 2 passing through (1,1) is:",
+      "options": {
+        "A": "y = 4x + 3",
+        "B": "y = 4x - 3",
+        "C": "y = -4x + 3",
+        "D": "y = -4x - 3"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'y = 4x - 3'. In FBISE Grade 9 Mathematics Unit 7 (Coordinate Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 6
+    },
+    {
+      "question": "If three points (1,2), (3,4), and (5,6) are collinear, what is their slope?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '1'. In FBISE Grade 9 Mathematics Unit 7 (Coordinate Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 7
+    },
+    {
+      "question": "How many points are needed to determine a unique straight line?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '2'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 8
+    },
+    {
+      "question": "The angle between two perpendicular lines is:",
+      "options": {
+        "A": "0°",
+        "B": "45°",
+        "C": "90°",
+        "D": "180°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '90°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 9
+    },
+    {
+      "question": "The vertically opposite angles formed when two lines intersect are:",
+      "options": {
+        "A": "Equal",
+        "B": "Supplementary",
+        "C": "Complementary",
+        "D": "360°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Equal'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 10
+    },
+    {
+      "question": "A line that makes a 45° angle with the x-axis has a slope of:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "Undefined"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '1'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 11
+    },
+    {
+      "question": "The equation of a horizontal line passing through (5,7) is:",
+      "options": {
+        "A": "y = 5",
+        "B": "x = 7",
+        "C": "y = 7",
+        "D": "x + y = 7"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'y = 7'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 12
+    },
+    {
+      "question": "If two parallel lines are cut by a transversal, the sum of consecutive interior angles is:",
+      "options": {
+        "A": "90°",
+        "B": "180°",
+        "C": "270°",
+        "D": "360°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '180°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 13
+    },
+    {
+      "question": "If two intersecting lines form one angle of 75°, then its vertically opposite angle is:",
+      "options": {
+        "A": "105°",
+        "B": "90°",
+        "C": "75°",
+        "D": "180°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '75°'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 14
+    },
+    {
+      "question": "The slope of a line that is perpendicular to y = -2x + 3 is:",
+      "options": {
+        "A": "-2",
+        "B": "1/2",
+        "C": "2",
+        "D": "-1/2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '1/2'. In FBISE Grade 9 Mathematics Unit 8 (Geometry of Straight Lines), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 15
+    }
+  ]
+}

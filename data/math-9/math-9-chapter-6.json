@@ -1,0 +1,729 @@
+{
+  "chapterNumber": 6,
+  "chapterTitle": "Unit 6: Trigonometry & Bearing",
+  "totalQuestions": 60,
+  "subject": "math-9",
+  "grade": "9",
+  "questions": [
+    {
+      "question": "Which of the following is the correct definition of sine in a right-angled triangle?",
+      "options": {
+        "A": "Opposite / Hypotenuse",
+        "B": "Adjacent / Hypotenuse",
+        "C": "Opposite / Adjacent",
+        "D": "Hypotenuse / Opposite"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Opposite / Hypotenuse'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 1
+    },
+    {
+      "question": "In a right-angled triangle, cosine of an angle is the ratio of:",
+      "options": {
+        "A": "Opposite / Hypotenuse",
+        "B": "Adjacent / Hypotenuse",
+        "C": "Opposite / Adjacent",
+        "D": "Hypotenuse / Opposite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Adjacent / Hypotenuse'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 2
+    },
+    {
+      "question": "What is the tangent of an angle in a right-angled triangle?",
+      "options": {
+        "A": "Opposite / Hypotenuse",
+        "B": "Adjacent / Hypotenuse",
+        "C": "Opposite / Adjacent",
+        "D": "Hypotenuse / Opposite"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Opposite / Adjacent'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 3
+    },
+    {
+      "question": "Which of the following is equal to cot(θ)?",
+      "options": {
+        "A": "1 / tan(θ)",
+        "B": "1 / sin(θ)",
+        "C": "1 / cos(θ)",
+        "D": "tan(θ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '1 / tan(θ)'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 4
+    },
+    {
+      "question": "If sin(30°) = 1/2, what is cos(30°)?",
+      "options": {
+        "A": "√3 / 2",
+        "B": "1",
+        "C": "1/2",
+        "D": "√2 / 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '√3 / 2'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 5
+    },
+    {
+      "question": "If a right-angled triangle has hypotenuse = 10 cm and opposite side = 6 cm, what is sin(θ)?",
+      "options": {
+        "A": "0.4",
+        "B": "0.6",
+        "C": "0.8",
+        "D": "1.0"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '0.6'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 6
+    },
+    {
+      "question": "If cos(θ) = 0.8, what is sin(θ)?",
+      "options": {
+        "A": "0.6",
+        "B": "0.8",
+        "C": "0.4",
+        "D": "0.2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0.6'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 7
+    },
+    {
+      "question": "In a right-angled triangle, if tan(θ) = 3/4, what is sin(θ)?",
+      "options": {
+        "A": "3/5",
+        "B": "4/5",
+        "C": "3/4",
+        "D": "5/4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '3/5'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 8
+    },
+    {
+      "question": "The hypotenuse of a right-angled triangle is 13 cm, and one leg is 5 cm. What is the other leg?",
+      "options": {
+        "A": "10 cm",
+        "B": "12 cm",
+        "C": "8 cm",
+        "D": "6 cm"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '12 cm'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 9
+    },
+    {
+      "question": "If sin(θ) = 0.5, what is the angle θ?",
+      "options": {
+        "A": "30°",
+        "B": "45°",
+        "C": "60°",
+        "D": "90°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '30°'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 10
+    },
+    {
+      "question": "Bearings are measured in which direction?",
+      "options": {
+        "A": "Clockwise from North",
+        "B": "Counterclockwise from South",
+        "C": "Clockwise from East",
+        "D": "Counterclockwise from West"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Clockwise from North'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 11
+    },
+    {
+      "question": "A ship sails 30° East of North. What is its bearing?",
+      "options": {
+        "A": "30°",
+        "B": "60°",
+        "C": "120°",
+        "D": "210°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '30°'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 12
+    },
+    {
+      "question": "If an airplane is flying 135° from North, in which direction is it traveling?",
+      "options": {
+        "A": "Northeast",
+        "B": "Southeast",
+        "C": "Southwest",
+        "D": "Northwest"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Southeast'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 13
+    },
+    {
+      "question": "A person walks 40° West of North. What is their bearing?",
+      "options": {
+        "A": "40°",
+        "B": "50°",
+        "C": "320°",
+        "D": "140°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '320°'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 14
+    },
+    {
+      "question": "If a car moves at a bearing of 270°, in which direction is it traveling?",
+      "options": {
+        "A": "North",
+        "B": "East",
+        "C": "West",
+        "D": "South"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'West'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 15
+    },
+    {
+      "question": "A ladder is leaning against a wall making a 60° angle with the ground. If the ladder is 10 meters long, how high does it reach on the wall?",
+      "options": {
+        "A": "5 m",
+        "B": "8.66 m",
+        "C": "10 m",
+        "D": "6 m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '8.66 m'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 16
+    },
+    {
+      "question": "The angle of elevation of the top of a tree is 45°. If the observer is 10 meters away from the base, what is the height of the tree?",
+      "options": {
+        "A": "5 m",
+        "B": "10 m",
+        "C": "15 m",
+        "D": "20 m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '10 m'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 17
+    },
+    {
+      "question": "A 15-meter ladder makes an angle of 30° with the ground. How far is the base of the ladder from the wall?",
+      "options": {
+        "A": "7.5 m",
+        "B": "12.99 m",
+        "C": "14.5 m",
+        "D": "8.66 m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '12.99 m'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 18
+    },
+    {
+      "question": "If the angle of depression from a lighthouse to a ship is 20° and the lighthouse is 50 meters high, how far is the ship from the base of the lighthouse?",
+      "options": {
+        "A": "137.5 m",
+        "B": "50 m",
+        "C": "145 m",
+        "D": "75 m"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '137.5 m'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 19
+    },
+    {
+      "question": "A kite is flying at a height of 30 meters and the string makes an angle of 60° with the ground. What is the length of the string?",
+      "options": {
+        "A": "30 m",
+        "B": "34.6 m",
+        "C": "60 m",
+        "D": "50 m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '34.6 m'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 20
+    },
+    {
+      "question": "The value of tan 45° is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "√2",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '1'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 21
+    },
+    {
+      "question": "Which of the following is a Pythagorean identity?",
+      "options": {
+        "A": "sin²θ + cos²θ = 1",
+        "B": "tan²θ + 1 = cos²θ",
+        "C": "sin²θ - cos²θ = 1",
+        "D": "sin²θ + tan²θ = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'sin²θ + cos²θ = 1'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 22
+    },
+    {
+      "question": "The value of cos 90° is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 23
+    },
+    {
+      "question": "If sin(θ) = 4/5, what is cos(θ)?",
+      "options": {
+        "A": "3/5",
+        "B": "4/5",
+        "C": "5/4",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '3/5'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 24
+    },
+    {
+      "question": "What is the reciprocal of sin(θ)?",
+      "options": {
+        "A": "cos(θ)",
+        "B": "tan(θ)",
+        "C": "sec(θ)",
+        "D": "csc(θ)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'csc(θ)'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 25
+    },
+    {
+      "question": "If the opposite side is 7 cm and the hypotenuse is 25 cm, what is cos(θ)?",
+      "options": {
+        "A": "24/25",
+        "B": "7/25",
+        "C": "25/7",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '24/25'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 26
+    },
+    {
+      "question": "If tan(θ) = 5/12, then sin(θ) = ?",
+      "options": {
+        "A": "5/13",
+        "B": "12/13",
+        "C": "5/12",
+        "D": "1/2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '5/13'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 27
+    },
+    {
+      "question": "In a right-angled triangle, the adjacent side is 9 cm, and the hypotenuse is 15 cm. What is sin(θ)?",
+      "options": {
+        "A": "3/5",
+        "B": "4/5",
+        "C": "9/15",
+        "D": "5/9"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '4/5'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 28
+    },
+    {
+      "question": "If tan(θ) = 0, what is the value of θ?",
+      "options": {
+        "A": "0°",
+        "B": "45°",
+        "C": "60°",
+        "D": "90°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0°'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 29
+    },
+    {
+      "question": "Which of the following is true for a 30°-60°-90° triangle?",
+      "options": {
+        "A": "Hypotenuse = 2 × Shorter Leg",
+        "B": "Longer Leg = √3 × Shorter Leg",
+        "C": "Both a and b",
+        "D": "None of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Both a and b'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 30
+    },
+    {
+      "question": "What is the bearing of due East?",
+      "options": {
+        "A": "0°",
+        "B": "90°",
+        "C": "180°",
+        "D": "270°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '90°'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 31
+    },
+    {
+      "question": "A boat sails 50° East of North. What is its bearing?",
+      "options": {
+        "A": "50°",
+        "B": "140°",
+        "C": "310°",
+        "D": "230°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '50°'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 32
+    },
+    {
+      "question": "A plane is flying at a bearing of 225°. In which direction is it moving?",
+      "options": {
+        "A": "Northeast",
+        "B": "Southwest",
+        "C": "Northwest",
+        "D": "Southeast"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Southwest'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 33
+    },
+    {
+      "question": "A person walks 30° West of South. What is their bearing?",
+      "options": {
+        "A": "60°",
+        "B": "120°",
+        "C": "210°",
+        "D": "330°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '210°'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 34
+    },
+    {
+      "question": "If a ship travels 180°, in which direction is it going?",
+      "options": {
+        "A": "East",
+        "B": "West",
+        "C": "South",
+        "D": "North"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'South'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 35
+    },
+    {
+      "question": "The angle of elevation of a tower from a point 20 meters away is 30°. What is the height of the tower?",
+      "options": {
+        "A": "10 m",
+        "B": "11.5 m",
+        "C": "15 m",
+        "D": "20 m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '11.5 m'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 36
+    },
+    {
+      "question": "A tree casts a shadow 8 meters long when the angle of elevation of the sun is 45°. What is the height of the tree?",
+      "options": {
+        "A": "4 m",
+        "B": "8 m",
+        "C": "12 m",
+        "D": "16 m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '8 m'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 37
+    },
+    {
+      "question": "A building is 50 meters tall. The angle of depression from the top to a car is 30°. How far is the car from the base of the building?",
+      "options": {
+        "A": "50 m",
+        "B": "86.6 m",
+        "C": "100 m",
+        "D": "25 m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '86.6 m'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 38
+    },
+    {
+      "question": "A kite is flying at a height of 40 meters. The string makes an angle of 60° with the ground. What is the length of the string?",
+      "options": {
+        "A": "40 m",
+        "B": "50 m",
+        "C": "60 m",
+        "D": "80 m"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '60 m'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 39
+    },
+    {
+      "question": "A flagpole casts a 12-meter shadow. If the angle of elevation of the sun is 60°, what is the height of the flagpole?",
+      "options": {
+        "A": "12 m",
+        "B": "20.8 m",
+        "C": "15 m",
+        "D": "30 m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '20.8 m'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 40
+    },
+    {
+      "question": "The value of sin 0° is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "Undefined",
+        "D": "-1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '0'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 41
+    },
+    {
+      "question": "The value of tan 90° is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "Undefined",
+        "D": "-1"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Undefined'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 42
+    },
+    {
+      "question": "Which of the following is equal to sec(θ)?",
+      "options": {
+        "A": "1 / sin(θ)",
+        "B": "1 / cos(θ)",
+        "C": "1 / tan(θ)",
+        "D": "sin(θ) / cos(θ)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '1 / cos(θ)'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 43
+    },
+    {
+      "question": "What is the reciprocal of tan(θ)?",
+      "options": {
+        "A": "cos(θ)",
+        "B": "sin(θ)",
+        "C": "cot(θ)",
+        "D": "sec(θ)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'cot(θ)'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 44
+    },
+    {
+      "question": "Which of the following is a correct trigonometric identity?",
+      "options": {
+        "A": "sin²θ - cos²θ = 1",
+        "B": "sin²θ + cos²θ = 1",
+        "C": "tan²θ - sec²θ = 1",
+        "D": "sinθ / cosθ = cosθ / sinθ"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'sin²θ + cos²θ = 1'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 45
+    },
+    {
+      "question": "If tan(θ) = 4/3, what is sin(θ)?",
+      "options": {
+        "A": "4/5",
+        "B": "3/5",
+        "C": "4/3",
+        "D": "5/4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '4/5'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 46
+    },
+    {
+      "question": "In a right-angled triangle, if sin(θ) = 0.6, what is cos(θ)?",
+      "options": {
+        "A": "0.4",
+        "B": "0.8",
+        "C": "0.5",
+        "D": "1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '0.8'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 47
+    },
+    {
+      "question": "A right-angled triangle has a hypotenuse of 10 cm and a base of 8 cm. What is the height?",
+      "options": {
+        "A": "5 cm",
+        "B": "6 cm",
+        "C": "8 cm",
+        "D": "4 cm"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '6 cm'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 48
+    },
+    {
+      "question": "If sin(θ) = 3/5, what is tan(θ)?",
+      "options": {
+        "A": "3/4",
+        "B": "4/3",
+        "C": "5/3",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '3/4'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 49
+    },
+    {
+      "question": "In a right-angled triangle, if the adjacent side is 5 cm and the opposite side is 12 cm, what is the hypotenuse?",
+      "options": {
+        "A": "10 cm",
+        "B": "12 cm",
+        "C": "13 cm",
+        "D": "15 cm"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '13 cm'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 50
+    },
+    {
+      "question": "A ship is sailing 20° West of North. What is its bearing?",
+      "options": {
+        "A": "20°",
+        "B": "340°",
+        "C": "160°",
+        "D": "200°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '340°'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 51
+    },
+    {
+      "question": "If a car is traveling at 90°, in which direction is it moving?",
+      "options": {
+        "A": "North",
+        "B": "South",
+        "C": "East",
+        "D": "West"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'East'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 52
+    },
+    {
+      "question": "A plane is flying at a bearing of 315°. In which direction is it traveling?",
+      "options": {
+        "A": "Northeast",
+        "B": "Northwest",
+        "C": "Southeast",
+        "D": "Southwest"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Northwest'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 53
+    },
+    {
+      "question": "A person walks 60° East of South. What is their bearing?",
+      "options": {
+        "A": "60°",
+        "B": "120°",
+        "C": "150°",
+        "D": "240°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '150°'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 54
+    },
+    {
+      "question": "If a ship travels 270°, in which direction is it going?",
+      "options": {
+        "A": "North",
+        "B": "South",
+        "C": "West",
+        "D": "East"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'West'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 55
+    },
+    {
+      "question": "A ladder of 10 meters leans against a wall, making an angle of 45° with the ground. How high does it reach?",
+      "options": {
+        "A": "5 m",
+        "B": "7.07 m",
+        "C": "10 m",
+        "D": "8 m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '7.07 m'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 56
+    },
+    {
+      "question": "The angle of elevation of the top of a tree is 60°. If the observer is 15 meters away, what is the height of the tree?",
+      "options": {
+        "A": "10 m",
+        "B": "15√3 m",
+        "C": "15 m",
+        "D": "20 m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '15√3 m'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 57
+    },
+    {
+      "question": "A flagpole is 25 meters high. The angle of depression from the top to a car is 40°. How far is the car from the base?",
+      "options": {
+        "A": "25 m",
+        "B": "30 m",
+        "C": "35 m",
+        "D": "20 m"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '35 m'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 58
+    },
+    {
+      "question": "A man standing 50 meters away from a tower observes the top at an angle of elevation of 30°. What is the height of the tower?",
+      "options": {
+        "A": "28.87 m",
+        "B": "25 m",
+        "C": "40 m",
+        "D": "50 m"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '28.87 m'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 59
+    },
+    {
+      "question": "A kite is flying at a height of 50 meters, and the string makes an angle of 45° with the ground. What is the length of the string?",
+      "options": {
+        "A": "50 m",
+        "B": "70.7 m",
+        "C": "80 m",
+        "D": "100 m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '70.7 m'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 60
+    }
+  ]
+}

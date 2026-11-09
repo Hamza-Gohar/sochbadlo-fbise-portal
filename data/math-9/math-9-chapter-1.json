@@ -1,0 +1,717 @@
+{
+  "chapterNumber": 1,
+  "chapterTitle": "Unit 1: Real Numbers",
+  "totalQuestions": 59,
+  "subject": "math-9",
+  "grade": "9",
+  "questions": [
+    {
+      "question": "Which of the following is a real number?",
+      "options": {
+        "A": "√-4",
+        "B": "5/2",
+        "C": "0/1",
+        "D": "Both (b) and (c)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Both (b) and (c)'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), according to standard curriculum principles: Both (b) and (c ).",
+      "id": 1
+    },
+    {
+      "question": "The set of real numbers includes:",
+      "options": {
+        "A": "Rational numbers",
+        "B": "Irrational numbers",
+        "C": "Integers",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'All of the above'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 2
+    },
+    {
+      "question": "Which of the following numbers is irrational?",
+      "options": {
+        "A": "√16",
+        "B": "3.1416",
+        "C": "22/7",
+        "D": "π"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'π'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 3
+    },
+    {
+      "question": "The sum of two rational numbers is always:",
+      "options": {
+        "A": "Rational",
+        "B": "Irrational",
+        "C": "Whole number",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Rational'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 4
+    },
+    {
+      "question": "The product of a rational and an irrational number is:",
+      "options": {
+        "A": "Always rational",
+        "B": "Always irrational",
+        "C": "Always an integer",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Always irrational'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 5
+    },
+    {
+      "question": "The square root of a non-perfect square is:",
+      "options": {
+        "A": "Rational",
+        "B": "Irrational",
+        "C": "Integer",
+        "D": "Whole number"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Irrational'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 6
+    },
+    {
+      "question": "What is the decimal expansion of an irrational number?",
+      "options": {
+        "A": "Terminating",
+        "B": "Non-terminating and repeating",
+        "C": "Non-terminating and non-repeating",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Non-terminating and non-repeating'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 7
+    },
+    {
+      "question": "The reciprocal of a rational number is always:",
+      "options": {
+        "A": "Rational",
+        "B": "Irrational",
+        "C": "Whole number",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Rational'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 8
+    },
+    {
+      "question": "The product of two irrational numbers is:",
+      "options": {
+        "A": "Always irrational",
+        "B": "Always rational",
+        "C": "Sometimes rational, sometimes irrational",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Sometimes rational, sometimes irrational'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 9
+    },
+    {
+      "question": "The sum of a rational and an irrational number is:",
+      "options": {
+        "A": "Always rational",
+        "B": "Always irrational",
+        "C": "Always an integer",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Always irrational'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 10
+    },
+    {
+      "question": "√100 is equal to:",
+      "options": {
+        "A": "10",
+        "B": "-10",
+        "C": "±10",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '±10'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 11
+    },
+    {
+      "question": "The value of √2 × √8 is:",
+      "options": {
+        "A": "4",
+        "B": "2",
+        "C": "8",
+        "D": "6"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '4'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 12
+    },
+    {
+      "question": "The value of √49 + √25 is:",
+      "options": {
+        "A": "14",
+        "B": "12",
+        "C": "9",
+        "D": "10"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '10'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 13
+    },
+    {
+      "question": "If x² = 121, then x is:",
+      "options": {
+        "A": "11",
+        "B": "-11",
+        "C": "±11",
+        "D": "22"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '±11'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 14
+    },
+    {
+      "question": "The value of 5⁰ is:",
+      "options": {
+        "A": "0",
+        "B": "5",
+        "C": "1",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '1'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 15
+    },
+    {
+      "question": "Which of the following is NOT a rational number?",
+      "options": {
+        "A": "0.5",
+        "B": "7/3",
+        "C": "√2",
+        "D": "-4"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '√2'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 16
+    },
+    {
+      "question": "The number 0.333... (repeating) is:",
+      "options": {
+        "A": "Rational",
+        "B": "Irrational",
+        "C": "Integer",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Rational'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 17
+    },
+    {
+      "question": "The number √81 is:",
+      "options": {
+        "A": "Rational",
+        "B": "Irrational",
+        "C": "Integer",
+        "D": "Both (a) and (c)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Both (a) and (c)'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 18
+    },
+    {
+      "question": "Which of the following is an example of a terminating decimal?",
+      "options": {
+        "A": "3.14",
+        "B": "2/5",
+        "C": "1.414213…",
+        "D": "π"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '2/5'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 19
+    },
+    {
+      "question": "The set of real numbers is:",
+      "options": {
+        "A": "Closed under addition",
+        "B": "Closed under multiplication",
+        "C": "Closed under subtraction",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'All of the above'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 20
+    },
+    {
+      "question": "The square root of a perfect square is always:",
+      "options": {
+        "A": "Rational",
+        "B": "Irrational",
+        "C": "Whole number",
+        "D": "Both (a) and (c)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Both (a) and (c)'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 21
+    },
+    {
+      "question": "The sum of two irrational numbers is always:",
+      "options": {
+        "A": "Rational",
+        "B": "Irrational",
+        "C": "Sometimes rational, sometimes irrational",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Sometimes rational, sometimes irrational'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 22
+    },
+    {
+      "question": "The reciprocal of an irrational number is:",
+      "options": {
+        "A": "Always rational",
+        "B": "Always irrational",
+        "C": "Sometimes rational, sometimes irrational",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Sometimes rational, sometimes irrational'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 23
+    },
+    {
+      "question": "Which of the following is always irrational?",
+      "options": {
+        "A": "√4",
+        "B": "π × 0",
+        "C": "√2 + √3",
+        "D": "0.25"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '√2 + √3'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 24
+    },
+    {
+      "question": "The product of √5 and √5 is:",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "25",
+        "D": "√25"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '5'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 25
+    },
+    {
+      "question": "The decimal expansion of 1/3 is:",
+      "options": {
+        "A": "0.333...",
+        "B": "0.3",
+        "C": "0.3333 (stops after 4 places)",
+        "D": "0.35"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0.333...'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 26
+    },
+    {
+      "question": "If x = 3.141592653589..., then x is:",
+      "options": {
+        "A": "Rational",
+        "B": "Irrational",
+        "C": "Whole number",
+        "D": "Integer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Irrational'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 27
+    },
+    {
+      "question": "The sum of √2 and 2 is:",
+      "options": {
+        "A": "Rational",
+        "B": "Irrational",
+        "C": "Integer",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Irrational'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 28
+    },
+    {
+      "question": "The product of any nonzero rational number with an irrational number is:",
+      "options": {
+        "A": "Always rational",
+        "B": "Always irrational",
+        "C": "Sometimes rational, sometimes irrational",
+        "D": "Zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Always irrational'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 29
+    },
+    {
+      "question": "What is the value of √36?",
+      "options": {
+        "A": "6",
+        "B": "-6",
+        "C": "±6",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '±6'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 30
+    },
+    {
+      "question": "What is the value of 2√25?",
+      "options": {
+        "A": "5",
+        "B": "10",
+        "C": "25",
+        "D": "50"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '10'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 31
+    },
+    {
+      "question": "The square root of 0 is:",
+      "options": {
+        "A": "0",
+        "B": "Undefined",
+        "C": "1",
+        "D": "Not a real number"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 32
+    },
+    {
+      "question": "The cube root of 27 is:",
+      "options": {
+        "A": "3",
+        "B": "-3",
+        "C": "±3",
+        "D": "9"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '3'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 33
+    },
+    {
+      "question": "If a number is squared, its result is always:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Positive'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 34
+    },
+    {
+      "question": "The value of (-1)² is:",
+      "options": {
+        "A": "1",
+        "B": "-1",
+        "C": "0",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '1'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 35
+    },
+    {
+      "question": "The cube root of -8 is:",
+      "options": {
+        "A": "-2",
+        "B": "2",
+        "C": "±2",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '-2'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 36
+    },
+    {
+      "question": "The decimal expansion of √3 is:",
+      "options": {
+        "A": "Terminating",
+        "B": "Repeating",
+        "C": "Non-terminating, non-repeating",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Non-terminating, non-repeating'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 37
+    },
+    {
+      "question": "The sum of -2 and √4 is:",
+      "options": {
+        "A": "0",
+        "B": "2",
+        "C": "-4",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 38
+    },
+    {
+      "question": "If x² = 49, then x is:",
+      "options": {
+        "A": "±7",
+        "B": "7",
+        "C": "-7",
+        "D": "14"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '±7'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 39
+    },
+    {
+      "question": "The product of two negative real numbers is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Positive'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 40
+    },
+    {
+      "question": "The sum of 2√3 and -√3 is:",
+      "options": {
+        "A": "3√3",
+        "B": "-√3",
+        "C": "√3",
+        "D": "0"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '√3'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 41
+    },
+    {
+      "question": "The smallest real number is:",
+      "options": {
+        "A": "0",
+        "B": "-1",
+        "C": "-∞",
+        "D": "No smallest real number exists"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'No smallest real number exists'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 42
+    },
+    {
+      "question": "The decimal expansion of 5/2 is:",
+      "options": {
+        "A": "2.5",
+        "B": "0.5",
+        "C": "5.2",
+        "D": "2.25"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '2.5'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 43
+    },
+    {
+      "question": "If x = 4 and y = -2, then x/y is:",
+      "options": {
+        "A": "2",
+        "B": "-2",
+        "C": "0",
+        "D": "-4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '-2'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 44
+    },
+    {
+      "question": "Which of the following is an example of a rational number?",
+      "options": {
+        "A": "0.666...",
+        "B": "√5",
+        "C": "π",
+        "D": "e"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0.666...'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 45
+    },
+    {
+      "question": "If x is a nonzero real number, then x⁰ is always:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "x",
+        "D": "Undefined"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '1'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 46
+    },
+    {
+      "question": "The sum of 3 and -3 is:",
+      "options": {
+        "A": "0",
+        "B": "-6",
+        "C": "6",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 47
+    },
+    {
+      "question": "Which of the following is NOT a real number?",
+      "options": {
+        "A": "-5",
+        "B": "0",
+        "C": "√-9",
+        "D": "4.5"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '√-9'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 48
+    },
+    {
+      "question": "The cube root of 125 is:",
+      "options": {
+        "A": "5",
+        "B": "-5",
+        "C": "25",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '5'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 49
+    },
+    {
+      "question": "The value of (-5)² is:",
+      "options": {
+        "A": "25",
+        "B": "-25",
+        "C": "5",
+        "D": "-5"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '25'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 50
+    },
+    {
+      "question": "Which number is not a perfect square?",
+      "options": {
+        "A": "49",
+        "B": "64",
+        "C": "81",
+        "D": "50"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '50'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 51
+    },
+    {
+      "question": "If x > 0, then √x² is:",
+      "options": {
+        "A": "x",
+        "B": "-x",
+        "C": "±x",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'x'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 52
+    },
+    {
+      "question": "The value of √16 + √9 is:",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "10",
+        "D": "25"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '10'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 53
+    },
+    {
+      "question": "The sum of √2 and √2 is:",
+      "options": {
+        "A": "2√2",
+        "B": "4",
+        "C": "1",
+        "D": "√4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '2√2'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 54
+    },
+    {
+      "question": "The cube of -3 is:",
+      "options": {
+        "A": "9",
+        "B": "-27",
+        "C": "27",
+        "D": "-9"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '-27'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 55
+    },
+    {
+      "question": "If x = 1 and y = -1, then x + y is:",
+      "options": {
+        "A": "0",
+        "B": "-1",
+        "C": "1",
+        "D": "-2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 56
+    },
+    {
+      "question": "The product of any real number with 0 is always:",
+      "options": {
+        "A": "0",
+        "B": "The number itself",
+        "C": "Undefined",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 57
+    },
+    {
+      "question": "If x = 2, then x⁴ is:",
+      "options": {
+        "A": "8",
+        "B": "16",
+        "C": "32",
+        "D": "4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '16'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 58
+    },
+    {
+      "question": "The square of 0.5 is:",
+      "options": {
+        "A": "0.25",
+        "B": "0.5",
+        "C": "1",
+        "D": "2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '0.25'. In FBISE Grade 9 Mathematics Unit 1 (Real Numbers), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "id": 59
+    }
+  ]
+}

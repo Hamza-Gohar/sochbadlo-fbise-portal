@@ -16,6 +16,7 @@ interface SubjectTabsProps {
   biologyChapters: ChapterMeta[];
   chemistryChapters: ChapterMeta[];
   physics9Chapters?: ChapterMeta[];
+  math9Chapters?: ChapterMeta[];
 }
 
 export default function SubjectTabs({
@@ -29,16 +30,23 @@ export default function SubjectTabs({
   biologyChapters,
   chemistryChapters,
   physics9Chapters = [],
+  math9Chapters = [],
 }: SubjectTabsProps) {
   const [activeGrade, setActiveGrade] = useState<'9' | '11'>('11');
+  const [activeGrade9Subject, setActiveGrade9Subject] = useState<'physics' | 'math'>('math');
   const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry'>('physics');
 
-  // Detect grade from URL query on client mount
+  // Detect grade and subject from URL query on client mount
   React.useEffect(() => {
     if (typeof window !== 'undefined') {
       const params = new URLSearchParams(window.location.search);
       if (params.get('grade') === '9') {
         setActiveGrade('9');
+        if (params.get('subject') === 'physics') {
+          setActiveGrade9Subject('physics');
+        } else if (params.get('subject') === 'math') {
+          setActiveGrade9Subject('math');
+        }
       } else if (params.get('grade') === '11') {
         setActiveGrade('11');
       }
@@ -46,6 +54,7 @@ export default function SubjectTabs({
   }, []);
 
   const physics9Total = physics9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const math9Total = math9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -58,7 +67,9 @@ export default function SubjectTabs({
 
   const activeChapters =
     activeGrade === '9'
-      ? physics9Chapters
+      ? activeGrade9Subject === 'math'
+        ? math9Chapters
+        : physics9Chapters
       : activeSubject === 'physics'
       ? physicsChapters
       : activeSubject === 'urdu'
@@ -132,25 +143,53 @@ export default function SubjectTabs({
           <div>
             <h2 className="font-[family-name:var(--font-display)] text-xl sm:text-2xl font-bold tracking-tight text-[var(--color-ink)]">
               {activeGrade === '9'
-                ? 'Class 9th FBISE Physics (SSC-I)'
+                ? activeGrade9Subject === 'math'
+                  ? 'Class 9th FBISE Mathematics (SSC-I)'
+                  : 'Class 9th FBISE Physics (SSC-I)'
                 : 'Class 11 FBISE Subjects (HSSC-I)'}
             </h2>
             <p className="text-xs text-[var(--color-muted)] mt-1">
               {activeGrade === '9'
-                ? 'Explore all 9 National Curriculum units + 2 official Section A annual board examination simulators.'
+                ? activeGrade9Subject === 'math'
+                  ? 'All 11 National Curriculum chapters (Real Numbers, Logarithms, Sets, Algebra, Geometry, Statistics) + 2 Board Simulators.'
+                  : 'Explore all 9 National Curriculum units + 2 official Section A annual board examination simulators.'
                 : 'Select your subject below to explore full chapter-wise practice tests and timed board simulations.'}
             </p>
           </div>
 
           {activeGrade === '9' ? (
-            <div className="flex items-center gap-2 font-[family-name:var(--font-display)] text-xs">
-              <div className="px-4 py-2 bg-emerald-900 text-white border border-emerald-950 font-bold flex items-center gap-2 shadow-sm">
+            <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs pb-1">
+              <button
+                type="button"
+                onClick={() => setActiveGrade9Subject('math')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade9Subject === 'math'
+                    ? 'bg-blue-950 text-white border-blue-950 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <Calculator className="w-4 h-4 text-amber-400" />
+                <span>Mathematics (ریاضی)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  13 Modules · {math9Total} Qs
+                </span>
+              </button>
+
+              <button
+                type="button"
+                onClick={() => setActiveGrade9Subject('physics')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade9Subject === 'physics'
+                    ? 'bg-emerald-900 text-white border-emerald-950 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
                 <Atom className="w-4 h-4 text-emerald-400" />
                 <span>Physics (فزکس)</span>
                 <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
                   11 Modules · {physics9Total} Qs
                 </span>
-              </div>
+              </button>
             </div>
           ) : (
             <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs pb-1">
@@ -310,7 +349,9 @@ export default function SubjectTabs({
             <div>
               <span className="text-xs font-mono uppercase tracking-widest text-emerald-900 font-bold block">
                 {activeGrade === '9'
-                  ? 'Active Subject: Class 9th Physics (SSC-I Matric Part 1)'
+                  ? activeGrade9Subject === 'math'
+                    ? 'Active Subject: Class 9th Mathematics (SSC-I Matric Part 1)'
+                    : 'Active Subject: Class 9th Physics (SSC-I Matric Part 1)'
                   : activeSubject === 'physics'
                   ? 'Active Subject: Class 11th Physics (SLO Based)'
                   : activeSubject === 'biology'
@@ -331,7 +372,9 @@ export default function SubjectTabs({
               </span>
               <p className="text-xs text-[var(--color-muted)] mt-0.5">
                 {activeGrade === '9'
-                  ? 'All 9 National Curriculum units (Physical Quantities, Kinematics, Dynamics, Turning Effect, Pressure, Work & Energy, Density, Magnetism, Nature of Science) + 2 official Section A annual board examination simulators.'
+                  ? activeGrade9Subject === 'math'
+                    ? 'All 11 National Curriculum chapters (Real Numbers, Logarithms, Sets, Factorization, Linear Equations, Trigonometry, Coordinate Geometry, Straight Lines, Polygons, Practical Geometry, Statistics) + 2 official Section A annual board examination simulators.'
+                    : 'All 9 National Curriculum units (Physical Quantities, Kinematics, Dynamics, Turning Effect, Pressure, Work & Energy, Density, Magnetism, Nature of Science) + 2 official Section A annual board examination simulators.'
                   : activeSubject === 'physics'
                   ? 'All 14 textbook units + 13-year past board exams compiled with instant formula explanations.'
                   : activeSubject === 'biology'
@@ -357,7 +400,9 @@ export default function SubjectTabs({
             <span>·</span>
             <span>
               {activeGrade === '9'
-                ? physics9Total
+                ? activeGrade9Subject === 'math'
+                  ? math9Total
+                  : physics9Total
                 : activeSubject === 'physics'
                 ? physicsTotal
                 : activeSubject === 'biology'
