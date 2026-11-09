@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 21,
+  "chapterTitle": "FBISE Annual Exam Simulator 08 (Unit 18: Atomic & Nuclear Physics)",
+  "slug": "physics-10-model-paper-8",
+  "fileName": "physics-10-model-paper-8.json",
+  "totalQuestions": 12,
+  "subject": "physics-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The primary stellar energy source powering the sun and stars is:",
+      "options": {
+        "A": "Natural radioactivity",
+        "B": "Carbon-14 combustion",
+        "C": "Nuclear fusion of hydrogen into helium",
+        "D": "Uranium fission"
+      },
+      "correctAnswer": "C",
+      "explanation": "At high core temperatures and pressures, hydrogen nuclei fuse into helium (proton-proton chain), releasing colossal fusion energy according to E = Δmc²."
+    },
+    {
+      "id": 2,
+      "question": "Which nuclear decay process causes the greatest loss in both atomic mass and atomic number?",
+      "options": {
+        "A": "Alpha (α) decay",
+        "B": "Beta (β) decay",
+        "C": "Gamma (γ) emission",
+        "D": "Electron capture"
+      },
+      "correctAnswer": "A",
+      "explanation": "An alpha particle is a helium nucleus (⁴₂He); emission reduces nuclear mass number A by 4 and atomic number Z by 2."
+    },
+    {
+      "id": 3,
+      "question": "When Radium-226 (²²⁶₈₈Ra) emits an alpha particle, the daughter nucleus produced is:",
+      "options": {
+        "A": "Radon-222 (²²²₈₆Rn)",
+        "B": "Bismuth-214",
+        "C": "Lead-206",
+        "D": "Polonium-218"
+      },
+      "correctAnswer": "A",
+      "explanation": "²²⁶₈₈Ra → ²²²₈₆Rn + ⁴₂He. 226 - 4 = 222 (mass number) and 88 - 2 = 86 (element Radon)."
+    },
+    {
+      "id": 4,
+      "question": "A sample contains 1,000 radioactive nuclei initially. How many half-lives have elapsed when 750 nuclei have decayed?",
+      "options": {
+        "A": "0.5 half-lives",
+        "B": "1.0 half-life",
+        "C": "2.0 half-lives",
+        "D": "3.0 half-lives"
+      },
+      "correctAnswer": "C",
+      "explanation": "Number of remaining undecayed nuclei N = 1000 - 750 = 250. Since 250 / 1000 = 1/4 = (1/2)², exactly 2 half-lives have passed."
+    },
+    {
+      "id": 5,
+      "question": "Which radioactive isotope is commonly used in medical radiotherapy for curing cancerous tumors?",
+      "options": {
+        "A": "Cobalt-60",
+        "B": "Carbon-14",
+        "C": "Argon-40",
+        "D": "Phosphorus-32"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cobalt-60 emits high-energy penetrating gamma rays focused on deep-seated malignant tumor cells."
+    },
+    {
+      "id": 6,
+      "question": "When a heavy unstable nucleus (such as U-235) absorbs a thermal neutron and splits into lighter nuclei, the process:",
+      "options": {
+        "A": "Releases nuclear energy (fission)",
+        "B": "Absorbs thermal energy",
+        "C": "Produces chemical combustion",
+        "D": "Conserves nucleon mass identically"
+      },
+      "correctAnswer": "A",
+      "explanation": "In nuclear fission, the total mass of fission fragments is less than initial mass; the mass defect is released as kinetic energy of fragments and neutrons (~200 MeV)."
+    },
+    {
+      "id": 7,
+      "question": "Among natural nuclear radiations, which has the greatest penetrating ability through matter?",
+      "options": {
+        "A": "Alpha particles",
+        "B": "Gamma rays",
+        "C": "Beta particles",
+        "D": "Protons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gamma rays are uncharged electromagnetic photons with no mass, penetrating several centimeters of dense lead or meters of concrete."
+    },
+    {
+      "id": 8,
+      "question": "The half-life of a radioactive isotope is 1 day. What fraction of original activity remains after 2 days?",
+      "options": {
+        "A": "One-half (1/2)",
+        "B": "One-quarter (1/4)",
+        "C": "One-eighth (1/8)",
+        "D": "Zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "n = t / T_half = 2 / 1 = 2 half-lives. Fraction remaining = (1/2)² = 1/4 (25%)."
+    },
+    {
+      "id": 9,
+      "question": "When a nucleus emits an alpha particle, its atomic number (Z):",
+      "options": {
+        "A": "Increases by 1",
+        "B": "Decreases by 2",
+        "C": "Remains the same",
+        "D": "Decreases by 4"
+      },
+      "correctAnswer": "B",
+      "explanation": "An alpha particle carries charge +2e (two protons), reducing atomic number Z of the parent nucleus by 2."
+    },
+    {
+      "id": 10,
+      "question": "The radioactivity of 1.0 g of pure Radium-226 is defined as one Curie (1 Ci), equivalent in SI units to approximately:",
+      "options": {
+        "A": "3.7 × 10⁴ MBq (3.7 × 10¹⁰ Bq)",
+        "B": "3.7 × 10² MBq",
+        "C": "1.0 × 10⁶ Bq",
+        "D": "3.7 × 10⁵ MBq"
+      },
+      "correctAnswer": "A",
+      "explanation": "1 Curie = 3.7 × 10¹⁰ disintegrations per second (Bq) = 3.7 × 10⁴ MBq."
+    },
+    {
+      "id": 11,
+      "question": "Approximately how much energy is released during each single fission event of Uranium-235?",
+      "options": {
+        "A": "20 MeV",
+        "B": "100 MeV",
+        "C": "200 MeV",
+        "D": "1,000 MeV"
+      },
+      "correctAnswer": "C",
+      "explanation": "Each U-235 fission event releases approximately 200 MeV of energy, mostly as kinetic energy of fission fragments."
+    },
+    {
+      "id": 12,
+      "question": "Which radioisotope is used as a medical tracer and therapeutic agent for thyroid gland disorders?",
+      "options": {
+        "A": "Cobalt-60",
+        "B": "Iodine-131",
+        "C": "Carbon-14",
+        "D": "Sodium-24"
+      },
+      "correctAnswer": "B",
+      "explanation": "Iodine concentrates naturally in the thyroid gland; radioactive Iodine-131 is used to image and treat hyperthyroidism and thyroid cancer."
+    }
+  ]
+}

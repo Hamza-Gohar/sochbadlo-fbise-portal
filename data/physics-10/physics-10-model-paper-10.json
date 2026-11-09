@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 23,
+  "chapterTitle": "FBISE Annual Exam Simulator 10 (Full Book Model Paper 2)",
+  "slug": "physics-10-model-paper-10",
+  "fileName": "physics-10-model-paper-10.json",
+  "totalQuestions": 12,
+  "subject": "physics-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In simple harmonic motion of a mass-spring system, the acceleration of the mass is proportional to:",
+      "options": {
+        "A": "Velocity",
+        "B": "Displacement from mean position",
+        "C": "Time period",
+        "D": "Mass squared"
+      },
+      "correctAnswer": "B",
+      "explanation": "In SHM, acceleration a = -(k/m)x is directly proportional to displacement x and always directed toward equilibrium."
+    },
+    {
+      "id": 2,
+      "question": "Human audible frequency range lies between:",
+      "options": {
+        "A": "2 Hz to 2,000 Hz",
+        "B": "20 Hz to 20,000 Hz (20 kHz)",
+        "C": "200 Hz to 200 kHz",
+        "D": "1 Hz to 10 kHz"
+      },
+      "correctAnswer": "B",
+      "explanation": "Normal human ears can detect sound waves with frequencies ranging from 20 Hz (lower threshold) to 20,000 Hz (upper limit)."
+    },
+    {
+      "id": 3,
+      "question": "Total internal reflection occurs only when light travels from a/an:",
+      "options": {
+        "A": "Denser to rarer medium with angle of incidence greater than critical angle",
+        "B": "Rarer to denser medium",
+        "C": "Vacuum into glass",
+        "D": "Air into water"
+      },
+      "correctAnswer": "A",
+      "explanation": "Total internal reflection requires light to travel from an optically denser medium to a rarer medium at an angle of incidence exceeding the critical angle (i > c)."
+    },
+    {
+      "id": 4,
+      "question": "According to Coulomb's Law, if the distance between two stationary point charges is tripled, the electrostatic force between them is:",
+      "options": {
+        "A": "Multiplied by 3",
+        "B": "Multiplied by 9",
+        "C": "Reduced to 1/3",
+        "D": "Reduced to 1/9"
+      },
+      "correctAnswer": "D",
+      "explanation": "F ∝ 1/r². When r' = 3r, F' = F / (3)² = F / 9."
+    },
+    {
+      "id": 5,
+      "question": "Three identical resistors of 6 Ω each are connected in parallel. Their combined resistance is:",
+      "options": {
+        "A": "18 Ω",
+        "B": "6 Ω",
+        "C": "2 Ω",
+        "D": "3 Ω"
+      },
+      "correctAnswer": "C",
+      "explanation": "1/Req = 1/6 + 1/6 + 1/6 = 3/6 = 1/2, so Req = 2 Ω."
+    },
+    {
+      "id": 6,
+      "question": "How many Joules are equivalent to one commercial unit of electricity (1 kWh)?",
+      "options": {
+        "A": "3.6 × 10³ J",
+        "B": "3.6 × 10⁵ J",
+        "C": "3.6 × 10⁶ J (3.6 MJ)",
+        "D": "1000 J"
+      },
+      "correctAnswer": "C",
+      "explanation": "1 kWh = 1000 W × 3600 s = 3,600,000 J = 3.6 × 10⁶ Joules."
+    },
+    {
+      "id": 7,
+      "question": "A device that converts mechanical rotational energy into electrical energy using electromagnetic induction is a/an:",
+      "options": {
+        "A": "DC electric motor",
+        "B": "AC generator (alternator)",
+        "C": "Step-down transformer",
+        "D": "Galvanometer"
+      },
+      "correctAnswer": "B",
+      "explanation": "An electric generator rotates a coil in a magnetic field to induce an alternating EMF, converting mechanical work into electrical energy."
+    },
+    {
+      "id": 8,
+      "question": "A NOR gate produces an active HIGH output (1) only when its inputs (A, B) are:",
+      "options": {
+        "A": "A = 0, B = 0",
+        "B": "A = 1, B = 0",
+        "C": "A = 0, B = 1",
+        "D": "A = 1, B = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "A NOR gate is an inverted OR: Y = NOT(A OR B). Output is 1 only when neither input is 1 (i.e. A = 0 and B = 0)."
+    },
+    {
+      "id": 9,
+      "question": "When a beam of cathode ray electrons enters an electric field between two oppositely charged plates, the electrons deflect toward the:",
+      "options": {
+        "A": "Negative plate",
+        "B": "Positive plate",
+        "C": "Along magnetic north",
+        "D": "Unchanged direction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Electrons carry negative charge (-e) and are electrostatic ally attracted toward the positively charged electrode."
+    },
+    {
+      "id": 10,
+      "question": "Which type of nuclear radiation has the highest specific ionization power in air?",
+      "options": {
+        "A": "Alpha (α) particles",
+        "B": "Beta (β) particles",
+        "C": "Gamma (γ) photons",
+        "D": "X-rays"
+      },
+      "correctAnswer": "A",
+      "explanation": "Alpha particles possess large mass and +2e charge, knocking electrons off gas atoms rapidly and creating intense ionization along short tracks."
+    },
+    {
+      "id": 11,
+      "question": "The time required for half of the radioactive nuclei in any given sample to disintegrate is termed its:",
+      "options": {
+        "A": "Mean life",
+        "B": "Decay constant",
+        "C": "Half-life (T₁/₂)",
+        "D": "Period"
+      },
+      "correctAnswer": "C",
+      "explanation": "Half-life T₁/₂ = ln 2 / λ is the characteristic duration during which 50% of the active parent nuclei decay."
+    },
+    {
+      "id": 12,
+      "question": "In a nuclear reactor, the rate of nuclear chain reaction is controlled by inserting control rods made of:",
+      "options": {
+        "A": "Uranium",
+        "B": "Boron or Cadmium",
+        "C": "Heavy water",
+        "D": "Graphite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Boron and cadmium are strong neutron absorbers; inserting them into the reactor core absorbs excess thermal neutrons to regulate the fission rate."
+    }
+  ]
+}

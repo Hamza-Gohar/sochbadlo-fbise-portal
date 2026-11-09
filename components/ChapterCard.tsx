@@ -24,6 +24,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   }, [chapter.slug]);
 
   const isPhysics9 = chapter.subject === 'physics-9' || chapter.slug.startsWith('physics-9');
+  const isPhysics10 = chapter.subject === 'physics-10' || chapter.slug.startsWith('physics-10');
   const isMath9 = chapter.subject === 'math-9' || chapter.slug.startsWith('math-9');
   const isMath10 = chapter.subject === 'math-10' || chapter.slug.startsWith('math-10');
   const isUrdu9 = chapter.subject === 'urdu-9' || chapter.slug.startsWith('urdu-9');
@@ -46,6 +47,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isPastPapers =
     chapter.slug === 'past-papers' ||
     chapter.slug === 'urdu-model-paper' ||
+    chapter.slug.startsWith('physics-10-model-paper-') ||
     chapter.slug.startsWith('math-10-model-paper-') ||
     chapter.slug.startsWith('physics-9-model-paper-') ||
     chapter.slug.startsWith('math-9-model-paper-') ||
@@ -63,7 +65,9 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     chapter.slug.startsWith('chemistry-model-paper-');
 
   let tagLabel = `Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
-  if (chapter.slug.startsWith('math-10-model-paper-')) tagLabel = `Class 10 Math Simulator ${chapter.slug.split('-').pop()}`;
+  if (chapter.slug.startsWith('physics-10-model-paper-')) tagLabel = `Class 10 Physics Simulator ${chapter.slug.split('-').pop()}`;
+  else if (isPhysics10) tagLabel = `Class 10 · Physics Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (chapter.slug.startsWith('math-10-model-paper-')) tagLabel = `Class 10 Math Simulator ${chapter.slug.split('-').pop()}`;
   else if (isMath10) tagLabel = `Class 10 · Math Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   if (chapter.slug === 'physics-9-model-paper-1') tagLabel = 'Class 9 Board Simulator 1';
   else if (chapter.slug === 'physics-9-model-paper-2') tagLabel = 'Class 9 Board Simulator 2';
@@ -106,7 +110,11 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (isUrdu) tagLabel = `Urdu Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
 
   let description = `Comprehensive conceptual questions, dimensional formulas, and numericals for ${chapter.title} aligned with textbook SLOs.`;
-  if (chapter.slug.startsWith('math-10-model-paper-')) {
+  if (chapter.slug.startsWith('physics-10-model-paper-')) {
+    description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation (Soch Badlo By MAK). 12 MCQs, 20-minute timer with complete physics step-by-step reasoning.`;
+  } else if (isPhysics10) {
+    description = `Official FBISE SSC-II Class 10 Physics: ${chapter.title}. Core physical laws, conceptual numericals, formula derivations, and SLO justifications.`;
+  } else if (chapter.slug.startsWith('math-10-model-paper-')) {
     description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation (Lecturer Jazab / Nimra Abid / MAK). 15 MCQs, 20-minute timer with complete mathematical reasoning.`;
   } else if (isMath10) {
     description = `Official FBISE SSC-II Class 10 Mathematics: ${chapter.title}. Core theorems, algebraic manipulations, coordinate formulas, and problem-solving rationales.`;

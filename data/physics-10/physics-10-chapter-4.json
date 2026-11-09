@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 4,
+  "chapterTitle": "Unit 13: Electrostatics",
+  "slug": "physics-10-chapter-4",
+  "fileName": "physics-10-chapter-4.json",
+  "totalQuestions": 35,
+  "subject": "physics-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Coulomb's law gives the force between:",
+      "options": {
+        "A": "Two masses",
+        "B": "Two charges",
+        "C": "A charge and a mass",
+        "D": "Two neutral objects"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Two charges. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 2,
+      "question": "The force between two charges is inversely proportional to the:",
+      "options": {
+        "A": "Square of the distance between them",
+        "B": "Square root of the distance between them",
+        "C": "Distance between them",
+        "D": "Distance between their centers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Square of the distance between them. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 3,
+      "question": "What is the unit of electric charge?",
+      "options": {
+        "A": "Ampere",
+        "B": "Coulomb",
+        "C": "Volt",
+        "D": "Ohm"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Coulomb. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 4,
+      "question": "The force between two charges is directly proportional to:",
+      "options": {
+        "A": "The square of the distance between them",
+        "B": "The distance between them",
+        "C": "The product of their magnitudes",
+        "D": "The sum of their charges"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) The product of their magnitudes. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 5,
+      "question": "What happens to the electrostatic force between two charges if the distance between\nthem is doubled?",
+      "options": {
+        "A": "The force becomes four times weaker",
+        "B": "The force becomes half as weak",
+        "C": "The force becomes twice as strong",
+        "D": "The force becomes four times stronger"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) The force becomes four times weaker. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 6,
+      "question": "If the distance between two charges is halved, the electrostatic force between them:",
+      "options": {
+        "A": "Remains the same",
+        "B": "Becomes four times greater",
+        "C": "Becomes half as strong",
+        "D": "Becomes twice as strong"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Becomes four times greater. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 7,
+      "question": "The electric field intensity at a point is defined as:",
+      "options": {
+        "A": "Force per unit charge",
+        "B": "Charge per unit force",
+        "C": "Force per unit mass",
+        "D": "Charge per unit area"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Force per unit charge. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 8,
+      "question": "The SI unit of electric field intensity is:",
+      "options": {
+        "A": "Volt",
+        "B": "Newton per Coulomb (N/C)",
+        "C": "Coulomb",
+        "D": "Ampere"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Newton per Coulomb (N/C). In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 9,
+      "question": "The direction of the electric field is always:",
+      "options": {
+        "A": "From positive charge to negative charge",
+        "B": "From negative charge to positive charge",
+        "C": "From the center of the charge outward",
+        "D": "From the center of the charge inward"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) From positive charge to negative charge. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 10,
+      "question": "The electric potential energy of a system of charges is:",
+      "options": {
+        "A": "Always positive",
+        "B": "Always negative",
+        "C": "Positive or negative depending on the charges",
+        "D": "Zero"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Positive or negative depending on the charges. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 11,
+      "question": "A positive test charge placed in an electric field will move:",
+      "options": {
+        "A": "In the direction of the field",
+        "B": "Opposite to the direction of the field",
+        "C": "Perpendicular to the direction of the field",
+        "D": "In a random direction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) In the direction of the field. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 12,
+      "question": "The electric potential at a point is defined as:",
+      "options": {
+        "A": "Energy per unit charge",
+        "B": "Force per unit charge",
+        "C": "Charge per unit area",
+        "D": "Energy per unit area"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Energy per unit charge. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 13,
+      "question": "The potential difference between two points is 1 volt when:",
+      "options": {
+        "A": "1 joule of energy is used to move 1 coulomb of charge",
+        "B": "1 joule of energy is used to move 1 ampere of current",
+        "C": "1 watt of energy is used to move 1 coulomb of charge",
+        "D": "1 coulomb of charge moves through a 1 ohm resistor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 1 joule of energy is used to move 1 coulomb of charge. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is true for conductors?",
+      "options": {
+        "A": "Electrons cannot move freely in a conductor",
+        "B": "Conductors have high resistance to current flow",
+        "C": "Conductors allow electric charges to move freely",
+        "D": "Conductors do not allow any flow of current"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Conductors allow electric charges to move freely. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 15,
+      "question": "A capacitor stores electrical energy in the form of:",
+      "options": {
+        "A": "Electric charge",
+        "B": "Electric potential",
+        "C": "Electric field",
+        "D": "Electric current"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Electric field. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 16,
+      "question": "The capacitance of a capacitor depends on:",
+      "options": {
+        "A": "The material of the plates",
+        "B": "The distance between the plates",
+        "C": "The surface area of the plates",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) All of the above. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 17,
+      "question": "The electric field inside a conductor is:",
+      "options": {
+        "A": "Zero",
+        "B": "Maximum at the surface",
+        "C": "Equal to the electric field outside",
+        "D": "Non-zero and uniform"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Zero. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 18,
+      "question": "A charge is placed at the center of a spherical shell. The electric field outside the\nshell is:",
+      "options": {
+        "A": "Zero",
+        "B": "Directly proportional to the charge",
+        "C": "Inversely proportional to the distance from the center",
+        "D": "A constant"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Directly proportional to the charge. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 19,
+      "question": "The electric flux through a surface is proportional to:",
+      "options": {
+        "A": "The charge enclosed within the surface",
+        "B": "The area of the surface",
+        "C": "The distance between the charges",
+        "D": "The surface area and the electric field strength"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) The charge enclosed within the surface. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 20,
+      "question": "In electrostatics, the work done in moving a charge between two points depends on:",
+      "options": {
+        "A": "The path taken",
+        "B": "The initial and final potentials",
+        "C": "The distance traveled",
+        "D": "The amount of charge moved"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) The initial and final potentials. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 21,
+      "question": "The potential due to a point charge is:",
+      "options": {
+        "A": "Directly proportional to the distance",
+        "B": "Inversely proportional to the distance",
+        "C": "Constant throughout the space",
+        "D": "Inversely proportional to the square of the distance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Inversely proportional to the distance. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 22,
+      "question": "The electric field due to a point charge at a distance r is:",
+      "options": {
+        "A": "Inversely proportional to r",
+        "B": "Inversely proportional to r^2",
+        "C": "Directly proportional to r",
+        "D": "Constant for all distances"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Inversely proportional to r^2. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 23,
+      "question": "If two charges have opposite signs, the force between them will be:",
+      "options": {
+        "A": "Attractive",
+        "B": "Repulsive",
+        "C": "Zero",
+        "D": "Unpredictable"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Attractive. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 24,
+      "question": "The electric field lines due to a positive charge are:",
+      "options": {
+        "A": "Radially outward",
+        "B": "Radially inward",
+        "C": "Circular",
+        "D": "Elliptical"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Radially outward. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 25,
+      "question": "If the electric field intensity at a point is 5 N/C, the force experienced by a charge of 2\nC at that point is:",
+      "options": {
+        "A": "10 N",
+        "B": "2.5 N",
+        "C": "7 N",
+        "D": "5 N"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 10 N. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 26,
+      "question": "The potential difference between two points is 1 volt when 1 joule of work is done in\nmoving 1 coulomb of charge. This statement is:",
+      "options": {
+        "A": "Correct",
+        "B": "Incorrect",
+        "C": "True for a parallel plate capacitor only",
+        "D": "True for a battery only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Correct. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 27,
+      "question": "In electrostatics, a charge of +q placed at the center of a spherical shell produces:",
+      "options": {
+        "A": "No electric field",
+        "B": "An electric field outside the shell",
+        "C": "An electric field inside the shell",
+        "D": "An electric field inside and outside the shell"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) An electric field outside the shell. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 28,
+      "question": "A charge of -2 C experiences a force of 8 N in an electric field. What is the field\nintensity?",
+      "options": {
+        "A": "4 N/C",
+        "B": "-4 N/C",
+        "C": "2 N/C",
+        "D": "-2 N/C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 4 N/C. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 29,
+      "question": "The potential energy of a charge in an electric field is:",
+      "options": {
+        "A": "Always positive",
+        "B": "Always negative",
+        "C": "Depends on the type of charge",
+        "D": "Depends on the position of the charge"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) Depends on the position of the charge. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 30,
+      "question": "What is the energy stored in a capacitor called?",
+      "options": {
+        "A": "Electric potential",
+        "B": "Electrostatic potential energy",
+        "C": "Electric field energy",
+        "D": "Current energy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Electrostatic potential energy. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 31,
+      "question": "The capacitance of a parallel plate capacitor depends on the:",
+      "options": {
+        "A": "Area of the plates and the distance between them",
+        "B": "Charge on the plates",
+        "C": "Electric field between the plates",
+        "D": "All of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Area of the plates and the distance between them. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 32,
+      "question": "In a capacitor, the energy stored is:",
+      "options": {
+        "A": "Directly proportional to the charge",
+        "B": "Inversely proportional to the voltage",
+        "C": "Directly proportional to the square of the voltage",
+        "D": "Inversely proportional to the capacitance"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Directly proportional to the square of the voltage. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 33,
+      "question": "The electric field intensity at the surface of a conductor is:",
+      "options": {
+        "A": "Zero",
+        "B": "Maximum",
+        "C": "Zero at one point",
+        "D": "Uniform"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Maximum. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 34,
+      "question": "The potential difference between two points is 10 V. If the work done in moving a\ncharge of 2 C is:",
+      "options": {
+        "A": "5 J",
+        "B": "10 J",
+        "C": "20 J",
+        "D": "50 J"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) 20 J. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    },
+    {
+      "id": 35,
+      "question": "What is the relationship between potential and electric field?",
+      "options": {
+        "A": "The electric field is the gradient of potential",
+        "B": "The potential is the gradient of the electric field",
+        "C": "Electric field and potential are independent",
+        "D": "Electric field and potential are directly proportional"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) The electric field is the gradient of potential. In electrostatics, Coulomb's law F = k(q1 q2)/r² determines electric force, and capacitance is governed by C = Q/V."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 14,
+  "chapterTitle": "FBISE Annual Exam Simulator 01 (Unit 10: SHM & Waves)",
+  "slug": "physics-10-model-paper-1",
+  "fileName": "physics-10-model-paper-1.json",
+  "totalQuestions": 12,
+  "subject": "physics-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In a simple pendulum, which component of weight is responsible for the restoring force?",
+      "options": {
+        "A": "mg cosθ",
+        "B": "mg sinθ",
+        "C": "T sinθ",
+        "D": "T cosθ"
+      },
+      "correctAnswer": "B",
+      "explanation": "The tangential component of gravity mg sinθ acts perpendicular to the string towards the mean position, providing the restoring force."
+    },
+    {
+      "id": 2,
+      "question": "A person claims that there are different time periods for different amplitudes of a simple pendulum. What is your opinion about this claim?",
+      "options": {
+        "A": "His claim is true",
+        "B": "His claim is false",
+        "C": "Both are possible",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "For small angular displacements (θ ≤ 10°), time period T = 2π√(l/g) is independent of amplitude (isochronism of pendulum)."
+    },
+    {
+      "id": 3,
+      "question": "When water waves move from shallow to deep region in a ripple tank, their wavelength:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains the same",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Water wave speed increases in deeper water. Because frequency is determined solely by the vibrator and remains constant, λ = v/f increases."
+    },
+    {
+      "id": 4,
+      "question": "When the mass attached to a spring is at its mean position (x = 0), its acceleration is:",
+      "options": {
+        "A": "Maximum",
+        "B": "Greater than zero",
+        "C": "Zero",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to Hooke's Law in SHM, a = -(k/m)x. At the mean equilibrium position x = 0, acceleration is zero."
+    },
+    {
+      "id": 5,
+      "question": "During refraction of water waves across a boundary, which property remains unchanged?",
+      "options": {
+        "A": "Wavelength",
+        "B": "Speed",
+        "C": "Frequency",
+        "D": "Direction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Frequency is determined exclusively by the source generating the waves and does not change when passing into another medium."
+    },
+    {
+      "id": 6,
+      "question": "A simple pendulum completes one vibration in two seconds (seconds pendulum). Its length on Earth will be approximately:",
+      "options": {
+        "A": "1.02 m",
+        "B": "2.04 m",
+        "C": "3.06 m",
+        "D": "4.08 m"
+      },
+      "correctAnswer": "A",
+      "explanation": "Using l = g(T/2π)² with T = 2 s and g = 9.8 m/s²: l = 9.8 × (2/6.283)² ≈ 0.993 m to 1.02 m."
+    },
+    {
+      "id": 7,
+      "question": "The SI unit of spring constant (k) is:",
+      "options": {
+        "A": "N m²",
+        "B": "N m⁻²",
+        "C": "N m⁻¹",
+        "D": "N m"
+      },
+      "correctAnswer": "C",
+      "explanation": "From Hooke's Law F = kx, k = F/x, so the SI unit is Newtons per meter (N/m or N m⁻¹)."
+    },
+    {
+      "id": 8,
+      "question": "A ripple tank vibrator working at 30 Hz produces 25 complete waves in 50 cm. The velocity of the wave is:",
+      "options": {
+        "A": "53 cm s⁻¹",
+        "B": "60 cm s⁻¹",
+        "C": "750 cm s⁻¹",
+        "D": "1500 cm s⁻¹"
+      },
+      "correctAnswer": "B",
+      "explanation": "Wavelength λ = 50 cm / 25 = 2 cm. Wave speed v = fλ = 30 Hz × 2 cm = 60 cm s⁻¹."
+    },
+    {
+      "id": 9,
+      "question": "An object of mass m oscillates on a spring. To double the time period, the mass should be replaced by:",
+      "options": {
+        "A": "2m",
+        "B": "m/2",
+        "C": "4m",
+        "D": "m/4"
+      },
+      "correctAnswer": "C",
+      "explanation": "Since T = 2π√(m/k), T is proportional to √m. To make T' = 2T, the mass must be quadrupled (4m)."
+    },
+    {
+      "id": 10,
+      "question": "The wavelength of radio waves transmitted by an FM station at 90 MHz (c = 3 × 10⁸ m/s) will be:",
+      "options": {
+        "A": "1.33 m",
+        "B": "2.33 m",
+        "C": "3.33 m",
+        "D": "4.33 m"
+      },
+      "correctAnswer": "C",
+      "explanation": "λ = c/f = (3 × 10⁸ m/s) / (90 × 10⁶ s⁻¹) = 300 / 90 = 3.33 m."
+    },
+    {
+      "id": 11,
+      "question": "The angle between restoring force and the external applied force in a vibrating spring-mass system is:",
+      "options": {
+        "A": "0°",
+        "B": "90°",
+        "C": "180°",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Restoring force always opposes the external displacement force (Newton's third law / Hooke's restoring action), so the angle between them is 180°."
+    },
+    {
+      "id": 12,
+      "question": "When a mass attached to a spring passes through its mean position, its speed is:",
+      "options": {
+        "A": "Maximum",
+        "B": "Greater than zero but not maximum",
+        "C": "Zero",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "At the mean position x = 0, elastic potential energy is zero and all energy is converted to kinetic energy, making speed maximum (v_max = ωx₀)."
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "chapterNumber": 9,
+  "chapterTitle": "Unit 18: Atomic & Nuclear Physics",
+  "slug": "physics-10-chapter-9",
+  "fileName": "physics-10-chapter-9.json",
+  "totalQuestions": 40,
+  "subject": "physics-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The number of protons in an atom is known as its:",
+      "options": {
+        "A": "Atomic number",
+        "B": "Mass number",
+        "C": "Neutron number",
+        "D": "Electron number"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Atomic number. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 2,
+      "question": "The mass number of an atom is the sum of the number of:",
+      "options": {
+        "A": "Protons and neutrons",
+        "B": "Electrons and protons",
+        "C": "Neutrons and electrons",
+        "D": "Protons, neutrons, and electrons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Protons and neutrons. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following particles is found in the nucleus of an atom?",
+      "options": {
+        "A": "Electron",
+        "B": "Proton",
+        "C": "Neutron",
+        "D": "Both b and c"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) Both b and c. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 4,
+      "question": "The electrons in an atom are arranged in:",
+      "options": {
+        "A": "Shells",
+        "B": "Orbits",
+        "C": "Energy levels",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) All of the above. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 5,
+      "question": "The discovery of the atomic nucleus was made by:",
+      "options": {
+        "A": "J.J. Thomson",
+        "B": "Ernest Rutherford",
+        "C": "Niels Bohr",
+        "D": "Albert Einstein"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Ernest Rutherford. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 6,
+      "question": "In an atom, the electrons revolve around the nucleus in:",
+      "options": {
+        "A": "Circular orbits",
+        "B": "Elliptical orbits",
+        "C": "Straight lines",
+        "D": "Random motion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Circular orbits. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 7,
+      "question": "What is the charge of a neutron?",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Neutral",
+        "D": "None"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Neutral. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is a characteristic of isotopes?",
+      "options": {
+        "A": "Same number of protons but different number of neutrons",
+        "B": "Different number of protons but same number of neutrons",
+        "C": "Same number of electrons but different number of protons",
+        "D": "Same number of protons and neutrons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Same number of protons but different number of neutrons. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following is the lightest particle in an atom?",
+      "options": {
+        "A": "Neutron",
+        "B": "Proton",
+        "C": "Electron",
+        "D": "Photon"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Electron. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 10,
+      "question": "The atomic number of an element is equal to the number of:",
+      "options": {
+        "A": "Protons",
+        "B": "Neutrons",
+        "C": "Electrons",
+        "D": "Protons and neutrons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Protons. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 11,
+      "question": "In a nuclear reaction, the total mass before and after the reaction is:",
+      "options": {
+        "A": "Always the same",
+        "B": "Always different",
+        "C": "A little bit more after the reaction",
+        "D": "A little bit less after the reaction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Always the same. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 12,
+      "question": "The process of a nucleus emitting an alpha particle is called:",
+      "options": {
+        "A": "Fission",
+        "B": "Fusion",
+        "C": "Alpha decay",
+        "D": "Beta decay"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Alpha decay. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 13,
+      "question": "Which radiation has the highest penetrating power?",
+      "options": {
+        "A": "Alpha radiation",
+        "B": "Beta radiation",
+        "C": "Gamma radiation",
+        "D": "Neutron radiation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Gamma radiation. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is true for alpha particles?",
+      "options": {
+        "A": "They have no charge",
+        "B": "They are negatively charged",
+        "C": "They are positively charged",
+        "D": "They have high penetration power"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) They are positively charged. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following is true for beta particles?",
+      "options": {
+        "A": "They are emitted from the nucleus of an atom",
+        "B": "They have no mass",
+        "C": "They are positively charged",
+        "D": "They are positively charged and have a high penetration power"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) They are emitted from the nucleus of an atom. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 16,
+      "question": "The emission of an electron from the nucleus of an atom is called:",
+      "options": {
+        "A": "Alpha decay",
+        "B": "Beta decay",
+        "C": "Gamma decay",
+        "D": "Electron capture"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Beta decay. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 17,
+      "question": "A substance that undergoes spontaneous emission of radiation is called a:",
+      "options": {
+        "A": "Radioactive substance",
+        "B": "Stable substance",
+        "C": "Magnetic substance",
+        "D": "Conductor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Radioactive substance. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 18,
+      "question": "The half-life of a radioactive substance is defined as:",
+      "options": {
+        "A": "The time it takes for half of the substance to undergo decay",
+        "B": "The time it takes for the entire substance to decay",
+        "C": "The time it takes for a full cycle of radiation",
+        "D": "The time required for the substance to become stable"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) The time it takes for half of the substance to undergo decay. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 19,
+      "question": "Which type of radiation is used in nuclear power plants to produce energy?",
+      "options": {
+        "A": "Alpha radiation",
+        "B": "Beta radiation",
+        "C": "Gamma radiation",
+        "D": "Nuclear fission"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) Nuclear fission. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 20,
+      "question": "Which of the following particles is emitted in beta decay?",
+      "options": {
+        "A": "Proton",
+        "B": "Neutron",
+        "C": "Electron",
+        "D": "Alpha particle"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Electron. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 21,
+      "question": "In nuclear fusion, the nuclei of light atoms combine to form:",
+      "options": {
+        "A": "Lighter atoms",
+        "B": "Heavier atoms",
+        "C": "Stable atoms",
+        "D": "Unstable isotopes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Heavier atoms. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 22,
+      "question": "The energy released in nuclear reactions is due to the conversion of:",
+      "options": {
+        "A": "Kinetic energy",
+        "B": "Potential energy",
+        "C": "Mass into energy",
+        "D": "Energy into matter"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Mass into energy. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 23,
+      "question": "In fission, the nucleus of an atom splits into:",
+      "options": {
+        "A": "Two smaller nuclei and energy",
+        "B": "One large nucleus and energy",
+        "C": "Three nuclei and energy",
+        "D": "Electrons and neutrons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Two smaller nuclei and energy. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 24,
+      "question": "The atomic mass unit (amu) is based on the mass of:",
+      "options": {
+        "A": "Hydrogen atom",
+        "B": "Oxygen atom",
+        "C": "Carbon-12 isotope",
+        "D": "Neutron"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Carbon-12 isotope. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following elements is commonly used as fuel in nuclear reactors?",
+      "options": {
+        "A": "Uranium-235",
+        "B": "Carbon-14",
+        "C": "Helium-3",
+        "D": "Hydrogen-1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Uranium-235. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 26,
+      "question": "The mass defect in nuclear reactions is the difference between the:",
+      "options": {
+        "A": "Mass of the nucleus and the sum of its constituent nucleons",
+        "B": "Mass of the atom and the mass of the nucleus",
+        "C": "Mass of the proton and neutron",
+        "D": "Mass of the electron and proton"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Mass of the nucleus and the sum of its constituent nucleons. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 27,
+      "question": "The force that holds the nucleus of an atom together is known as:",
+      "options": {
+        "A": "Gravitational force",
+        "B": "Electromagnetic force",
+        "C": "Strong nuclear force",
+        "D": "Weak nuclear force"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Strong nuclear force. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 28,
+      "question": "Which of the following is the product of the fission of Uranium-235?",
+      "options": {
+        "A": "Alpha particles",
+        "B": "Energy and smaller nuclei",
+        "C": "Neutrons and electrons",
+        "D": "Gamma rays only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Energy and smaller nuclei. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 29,
+      "question": "Gamma rays are:",
+      "options": {
+        "A": "High energy electromagnetic waves",
+        "B": "Particles with mass",
+        "C": "Electrons emitted from the nucleus",
+        "D": "Heavy nuclei"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) High energy electromagnetic waves. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is used to detect radiation?",
+      "options": {
+        "A": "Geiger counter",
+        "B": "Barometer",
+        "C": "Thermometer",
+        "D": "Manometer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Geiger counter. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 31,
+      "question": "The main principle behind the operation of a nuclear reactor is:",
+      "options": {
+        "A": "Nuclear fission",
+        "B": "Nuclear fusion",
+        "C": "Radioactive decay",
+        "D": "Thermal conduction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Nuclear fission. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 32,
+      "question": "In a chain reaction, each fission event:",
+      "options": {
+        "A": "Results in one new fission",
+        "B": "Results in two new fissions",
+        "C": "Causes an uncontrolled release of energy",
+        "D": "Results in the decay of the radioactive substance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Results in two new fissions. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 33,
+      "question": "The energy released by the fission of one kilogram of Uranium-235 is approximately:",
+      "options": {
+        "A": "1000 kilojoules",
+        "B": "10,000 kilojoules",
+        "C": "1 million kilojoules",
+        "D": "100 million kilojoules"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) 100 million kilojoules. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 34,
+      "question": "What is the principle behind the functioning of a nuclear power plant?",
+      "options": {
+        "A": "Fission",
+        "B": "Fusion",
+        "C": "Radioactive decay",
+        "D": "Conduction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Fission. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 35,
+      "question": "Which of the following radiation types is least harmful to living tissues?",
+      "options": {
+        "A": "Alpha radiation",
+        "B": "Beta radiation",
+        "C": "Gamma radiation",
+        "D": "Neutron radiation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Alpha radiation. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 36,
+      "question": "The energy released in a nuclear reaction is much higher than in a chemical reaction\ndue to the conversion of:",
+      "options": {
+        "A": "Electrons to energy",
+        "B": "Mass into energy",
+        "C": "Heat into work",
+        "D": "Chemical bonds to energy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Mass into energy. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 37,
+      "question": "Which of the following statements about nuclear reactions is correct?",
+      "options": {
+        "A": "The total mass before and after the reaction remains constant",
+        "B": "Energy is conserved in nuclear reactions",
+        "C": "Mass is always destroyed in nuclear reactions",
+        "D": "Nuclear reactions cannot produce energy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Energy is conserved in nuclear reactions. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 38,
+      "question": "Which of the following particles is the most massive?",
+      "options": {
+        "A": "Electron",
+        "B": "Proton",
+        "C": "Neutron",
+        "D": "Photon"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Proton. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 39,
+      "question": "What happens when a radioactive substance undergoes beta decay?",
+      "options": {
+        "A": "The mass number decreases by one",
+        "B": "The atomic number decreases by one",
+        "C": "The atomic number increases by one",
+        "D": "The mass number remains the same"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) The atomic number increases by one. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    },
+    {
+      "id": 40,
+      "question": "What type of radiation is used in cancer treatment?",
+      "options": {
+        "A": "Alpha radiation",
+        "B": "Beta radiation",
+        "C": "Gamma radiation",
+        "D": "Neutron radiation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Gamma radiation. Atomic and Nuclear Physics deals with atomic structure, nuclear decay (α, β, γ emissions), half-life equations, and nuclear energy (fission/fusion)."
+    }
+  ]
+}

@@ -1,0 +1,551 @@
+{
+  "chapterNumber": 5,
+  "chapterTitle": "Unit 14: Current Electricity",
+  "slug": "physics-10-chapter-5",
+  "fileName": "physics-10-chapter-5.json",
+  "totalQuestions": 45,
+  "subject": "physics-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The SI unit of electric current is:",
+      "options": {
+        "A": "Volt",
+        "B": "Ampere",
+        "C": "Coulomb",
+        "D": "Ohm"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Ampere. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 2,
+      "question": "The flow of electric charge is known as:",
+      "options": {
+        "A": "Voltage",
+        "B": "Current",
+        "C": "Power",
+        "D": "Resistance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Current. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 3,
+      "question": "The current in a conductor depends on:",
+      "options": {
+        "A": "The potential difference",
+        "B": "The resistance",
+        "C": "The material of the conductor",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) All of the above. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 4,
+      "question": "The relationship between current, voltage, and resistance is given by:",
+      "options": {
+        "A": "Joule’s law",
+        "B": "Faraday’s law",
+        "C": "Ohm’s law",
+        "D": "Coulomb’s law"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Ohm’s law. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 5,
+      "question": "What is the unit of electric resistance?",
+      "options": {
+        "A": "Ampere",
+        "B": "Ohm",
+        "C": "Volt",
+        "D": "Watt"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Ohm. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 6,
+      "question": "The resistance of a conductor is directly proportional to its:",
+      "options": {
+        "A": "Length",
+        "B": "Cross-sectional area",
+        "C": "Both length and cross-sectional area",
+        "D": "Temperature"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Length. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 7,
+      "question": "The resistance of a conductor is inversely proportional to its:",
+      "options": {
+        "A": "Length",
+        "B": "Cross-sectional area",
+        "C": "Both length and cross-sectional area",
+        "D": "Temperature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Cross-sectional area. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 8,
+      "question": "The total resistance in a series combination of resistors is:",
+      "options": {
+        "A": "Equal to the sum of individual resistances",
+        "B": "Less than the smallest resistance",
+        "C": "Equal to the reciprocal of the sum of reciprocals of individual resistances",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Equal to the sum of individual resistances. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 9,
+      "question": "In a parallel combination of resistors, the total resistance is:",
+      "options": {
+        "A": "Equal to the sum of the individual resistances",
+        "B": "Less than the smallest resistance",
+        "C": "Equal to the reciprocal of the sum of reciprocals of individual resistances",
+        "D": "None of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Equal to the reciprocal of the sum of reciprocals of individual resistances. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 10,
+      "question": "If the voltage across a conductor is doubled, the current will:",
+      "options": {
+        "A": "Remain the same",
+        "B": "Double",
+        "C": "Quadruple",
+        "D": "Half"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Double. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 11,
+      "question": "If the resistance of a conductor is doubled, the current will:",
+      "options": {
+        "A": "Double",
+        "B": "Remain the same",
+        "C": "Be halved",
+        "D": "Quadruple"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Be halved. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 12,
+      "question": "The power dissipated in a resistor is given by:",
+      "options": {
+        "A": "P = I^2R",
+        "B": "P = V^2 / R",
+        "C": "P = IV",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) All of the above. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 13,
+      "question": "In an electric circuit, the current remains constant in a:",
+      "options": {
+        "A": "Series combination",
+        "B": "Parallel combination",
+        "C": "Both",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Series combination. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 14,
+      "question": "The potential difference between two points is 1 volt when:",
+      "options": {
+        "A": "1 joule of energy is used to move 1 coulomb of charge",
+        "B": "1 joule of energy is used to move 1 ampere of current",
+        "C": "1 watt of power is used to move 1 coulomb of charge",
+        "D": "1 coulomb of charge moves through a 1-ohm resistor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 1 joule of energy is used to move 1 coulomb of charge. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 15,
+      "question": "The current through a conductor is directly proportional to the:",
+      "options": {
+        "A": "Voltage across the conductor",
+        "B": "Resistance of the conductor",
+        "C": "Length of the conductor",
+        "D": "Cross-sectional area of the conductor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Voltage across the conductor. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 16,
+      "question": "The electric current in a conductor is due to the movement of:",
+      "options": {
+        "A": "Electrons",
+        "B": "Protons",
+        "C": "Neutrons",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Electrons. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 17,
+      "question": "A material with zero resistance at low temperatures is called a:",
+      "options": {
+        "A": "Insulator",
+        "B": "Conductor",
+        "C": "Superconductor",
+        "D": "Semiconductor"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Superconductor. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 18,
+      "question": "If the resistance of a conductor is reduced by half, the current will:",
+      "options": {
+        "A": "Remain the same",
+        "B": "Be halved",
+        "C": "Double",
+        "D": "Quadruple"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Double. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 19,
+      "question": "What is the total resistance in a parallel combination of 3 resistors with values 4Ω,\nΩ, and 12Ω?",
+      "options": {
+        "A": "22Ω",
+        "B": "2.4Ω",
+        "C": "12Ω",
+        "D": "4Ω"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 2.4Ω. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 20,
+      "question": "In a series circuit, the total voltage is:",
+      "options": {
+        "A": "Equal to the sum of the individual voltages",
+        "B": "Equal to the highest voltage",
+        "C": "Equal to the lowest voltage",
+        "D": "Zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Equal to the sum of the individual voltages. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 21,
+      "question": "The total resistance in a series circuit is:",
+      "options": {
+        "A": "The sum of individual resistances",
+        "B": "The product of individual resistances",
+        "C": "The average of individual resistances",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) The sum of individual resistances. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 22,
+      "question": "The total resistance in a parallel circuit is:",
+      "options": {
+        "A": "Greater than the smallest resistance",
+        "B": "Smaller than the smallest resistance",
+        "C": "Equal to the sum of individual resistances",
+        "D": "Equal to the average of individual resistances"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Smaller than the smallest resistance. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 23,
+      "question": "What happens to the current if the resistance in a circuit is increased while keeping\nthe voltage constant?",
+      "options": {
+        "A": "It decreases",
+        "B": "It increases",
+        "C": "It remains the same",
+        "D": "It fluctuates"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) It decreases. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 24,
+      "question": "What is the energy dissipated in a resistor when a current of 2 A flows through a 5Ω\nresistor for 10 seconds?",
+      "options": {
+        "A": "100 J",
+        "B": "200 J",
+        "C": "50 J",
+        "D": "20 J"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 100 J. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 25,
+      "question": "The resistance of a conductor increases with an increase in:",
+      "options": {
+        "A": "Temperature",
+        "B": "Length",
+        "C": "Cross-sectional area",
+        "D": "Both a and b"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) Both a and b. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 26,
+      "question": "A circuit with a 6V battery and a 3Ω resistor will have a current of:",
+      "options": {
+        "A": "0.5 A",
+        "B": "2 A",
+        "C": "6 A",
+        "D": "18 A"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 2 A. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 27,
+      "question": "The potential difference across a 2Ω resistor carrying 3A of current is:",
+      "options": {
+        "A": "3V",
+        "B": "6V",
+        "C": "9V",
+        "D": "12V"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 6V. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 28,
+      "question": "The power consumed by a resistor in a circuit is given by:",
+      "options": {
+        "A": "P = V/I",
+        "B": "P = I^2 R",
+        "C": "P = V/I^2",
+        "D": "P = V^2 R"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) P = I^2 R. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 29,
+      "question": "The energy used by a 100W light bulb in 2 hours is:",
+      "options": {
+        "A": "200 J",
+        "B": "100 J",
+        "C": "200 Wh",
+        "D": "100 Wh"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) 200 Wh. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 30,
+      "question": "In a series circuit, the total resistance of the circuit is:",
+      "options": {
+        "A": "Less than the smallest resistance",
+        "B": "Equal to the smallest resistance",
+        "C": "Greater than the sum of individual resistances",
+        "D": "The sum of the individual resistances"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) The sum of the individual resistances. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 31,
+      "question": "The current in a conductor depends on:",
+      "options": {
+        "A": "The length of the conductor",
+        "B": "The area of cross-section of the conductor",
+        "C": "The potential difference across the conductor",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) All of the above. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 32,
+      "question": "In a parallel circuit, the total current is:",
+      "options": {
+        "A": "Equal to the sum of the currents through the individual branches",
+        "B": "The same as the current through one branch",
+        "C": "The same as the current through the resistor",
+        "D": "Equal to the highest current"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Equal to the sum of the currents through the individual branches. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 33,
+      "question": "The resistance of a conductor is affected by all of the following except:",
+      "options": {
+        "A": "Material",
+        "B": "Length",
+        "C": "Temperature",
+        "D": "Voltage"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) Voltage. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 34,
+      "question": "If the power dissipated by a resistor is 100W, and the current through it is 2A, the\nvoltage across it is:",
+      "options": {
+        "A": "50V",
+        "B": "25V",
+        "C": "200V",
+        "D": "100V"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 50V. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 35,
+      "question": "A 12V battery is connected to a 4Ω resistor. What is the current through the resistor?",
+      "options": {
+        "A": "3A",
+        "B": "0.33A",
+        "C": "12A",
+        "D": "48A"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 3A. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 36,
+      "question": "A wire has a resistance of 4Ω. If the current passing through it is 2A, the voltage\nacross the wire is:",
+      "options": {
+        "A": "8V",
+        "B": "2V",
+        "C": "4V",
+        "D": "6V"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 8V. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 37,
+      "question": "The power dissipated by a 10Ω resistor carrying a current of 5A is:",
+      "options": {
+        "A": "250W",
+        "B": "50W",
+        "C": "25W",
+        "D": "10W"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 250W. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 38,
+      "question": "What is the current through a 10Ω resistor when connected to a 20V battery?",
+      "options": {
+        "A": "2A",
+        "B": "0.5A",
+        "C": "10A",
+        "D": "20A"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 2A. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 39,
+      "question": "In a circuit, if the resistance is 10Ω and the voltage is 20V, the current is:",
+      "options": {
+        "A": "2A",
+        "B": "5A",
+        "C": "10A",
+        "D": "0.5A"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 5A. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 40,
+      "question": "The electric power is the product of:",
+      "options": {
+        "A": "Current and resistance",
+        "B": "Voltage and resistance",
+        "C": "Voltage and current",
+        "D": "Voltage and charge"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Voltage and current. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 41,
+      "question": "What is the primary function of a resistor in an\nelectric circuit?",
+      "options": {
+        "A": "To increase voltage",
+        "B": "To decrease current",
+        "C": "To limit current flow",
+        "D": "To store energy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) To limit current flow. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 42,
+      "question": "Which of the following is a characteristic of a\nseries circuit?",
+      "options": {
+        "A": "Voltage is the same across all components",
+        "B": "Current is the same through all components",
+        "C": "Components are connected in parallel",
+        "D": "Total resistance is the sum of individual"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Current is the same through all components. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 43,
+      "question": "What type of resistor changes its resistance with\ntemperature?",
+      "options": {
+        "A": "Thermistor",
+        "B": "Potentiometer",
+        "C": "Fixed resistor",
+        "D": "Variable resistor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Thermistor. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 44,
+      "question": "In a parallel circuit, the voltage across each\ncomponent is ______.",
+      "options": {
+        "A": "Different",
+        "B": "Same",
+        "C": "Zero",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Same. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    },
+    {
+      "id": 45,
+      "question": "What is the purpose of a fuse in an electric circuit?",
+      "options": {
+        "A": "To increase current",
+        "B": "To decrease voltage",
+        "C": "To protect against excessive current",
+        "D": "To store energy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) To protect against excessive current. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+    }
+  ]
+}

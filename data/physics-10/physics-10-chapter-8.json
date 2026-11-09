@@ -1,0 +1,347 @@
+{
+  "chapterNumber": 8,
+  "chapterTitle": "Unit 17: Information & Communication Technology",
+  "slug": "physics-10-chapter-8",
+  "fileName": "physics-10-chapter-8.json",
+  "totalQuestions": 28,
+  "subject": "physics-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The basic unit of information in a computer is called:",
+      "options": {
+        "A": "Bit",
+        "B": "Byte",
+        "C": "Word",
+        "D": "Pixel"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Bit. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is used for storing data in a computer?",
+      "options": {
+        "A": "CPU",
+        "B": "RAM",
+        "C": "Monitor",
+        "D": "Keyboard"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) RAM. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 3,
+      "question": "The number system used by computers is:",
+      "options": {
+        "A": "Decimal",
+        "B": "Binary",
+        "C": "Octal",
+        "D": "Hexadecimal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Binary. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 4,
+      "question": "A device that converts an analog signal to a digital signal is called:",
+      "options": {
+        "A": "DAC",
+        "B": "ADC",
+        "C": "Amplifier",
+        "D": "Modulator"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) ADC. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 5,
+      "question": "The smallest unit of storage in a computer is:",
+      "options": {
+        "A": "Bit",
+        "B": "Byte",
+        "C": "Kilobyte",
+        "D": "Megabyte"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Bit. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 6,
+      "question": "A group of eight bits is known as a:",
+      "options": {
+        "A": "Byte",
+        "B": "Word",
+        "C": "Nibble",
+        "D": "Block"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Byte. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 7,
+      "question": "The basic building block of a digital circuit is:",
+      "options": {
+        "A": "Transistor",
+        "B": "Resistor",
+        "C": "Capacitor",
+        "D": "Logic gate"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) Logic gate. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 8,
+      "question": "Which component is used to store data temporarily in a computer?",
+      "options": {
+        "A": "Hard drive",
+        "B": "RAM",
+        "C": "ROM",
+        "D": "CPU"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) RAM. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 9,
+      "question": "Which device is used to connect a computer to the internet?",
+      "options": {
+        "A": "Monitor",
+        "B": "Keyboard",
+        "C": "Modem",
+        "D": "Speaker"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Modem. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 10,
+      "question": "The process of converting digital data into an analog signal is called:",
+      "options": {
+        "A": "Modulation",
+        "B": "Demodulation",
+        "C": "Amplification",
+        "D": "Digitalization"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Modulation. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 11,
+      "question": "A device that performs binary operations like addition and subtraction in a computer\nis called the:",
+      "options": {
+        "A": "ALU",
+        "B": "CPU",
+        "C": "RAM",
+        "D": "GPU"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) ALU. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is a permanent storage device?",
+      "options": {
+        "A": "RAM",
+        "B": "ROM",
+        "C": "Cache memory",
+        "D": "CPU"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) ROM. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 13,
+      "question": "A computer’s central processing unit (CPU) is responsible for:",
+      "options": {
+        "A": "Input/output operations",
+        "B": "Storing data",
+        "C": "Performing arithmetic and logical operations",
+        "D": "Displaying data on the screen"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Performing arithmetic and logical operations. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is not a type of memory?",
+      "options": {
+        "A": "RAM",
+        "B": "ROM",
+        "C": "CPU",
+        "D": "Cache"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) CPU. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 15,
+      "question": "A device that allows multiple computers to share a single Internet connection is\ncalled:",
+      "options": {
+        "A": "Modem",
+        "B": "Router",
+        "C": "Switch",
+        "D": "Hub"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Router. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is an example of a secondary storage device?",
+      "options": {
+        "A": "CPU",
+        "B": "ROM",
+        "C": "Hard disk",
+        "D": "RAM"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Hard disk. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 17,
+      "question": "A system of interconnected computers that can share resources and information is\ncalled:",
+      "options": {
+        "A": "Database",
+        "B": "Network",
+        "C": "Mainframe",
+        "D": "Server"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Network. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 18,
+      "question": "The number system used by computers to process data is:",
+      "options": {
+        "A": "Decimal",
+        "B": "Binary",
+        "C": "Octal",
+        "D": "Hexadecimal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Binary. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 19,
+      "question": "In electronics, a microprocessor is:",
+      "options": {
+        "A": "A memory device",
+        "B": "A storage device",
+        "C": "A microcontroller",
+        "D": "A CPU on a chip"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) A CPU on a chip. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 20,
+      "question": "Which of the following is a feature of an integrated circuit (IC)?",
+      "options": {
+        "A": "It consists of multiple transistors, resistors, and capacitors",
+        "B": "It is a single transistor",
+        "C": "It can only store data",
+        "D": "It works as a memory module"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) It consists of multiple transistors, resistors, and capacitors. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 21,
+      "question": "The instruction set of a microprocessor defines:",
+      "options": {
+        "A": "The tasks it can perform",
+        "B": "The types of memory it can access",
+        "C": "The speed of operation",
+        "D": "The input-output devices it can connect with"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) The tasks it can perform. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is the largest unit of data?",
+      "options": {
+        "A": "Byte",
+        "B": "Kilobyte",
+        "C": "Megabyte",
+        "D": "Gigabyte"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) Gigabyte. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following is a key component of a computer network?",
+      "options": {
+        "A": "Transistor",
+        "B": "Router",
+        "C": "Resistor",
+        "D": "Microphone"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Router. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 24,
+      "question": "The hardware component of a computer that processes instructions and data is\ncalled the:",
+      "options": {
+        "A": "Hard drive",
+        "B": "CPU",
+        "C": "RAM",
+        "D": "Monitor"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) CPU. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is the primary function of an operating system in a computer?",
+      "options": {
+        "A": "To execute programs",
+        "B": "To perform calculations",
+        "C": "To manage hardware and software resources",
+        "D": "To store data"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) To manage hardware and software resources. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 26,
+      "question": "In digital electronics, the device used to store binary data is a:",
+      "options": {
+        "A": "Flip-flop",
+        "B": "Diode",
+        "C": "Capacitor",
+        "D": "Transistor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Flip-flop. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 27,
+      "question": "The process of transferring data from a computer to a storage device is called:",
+      "options": {
+        "A": "Uploading",
+        "B": "Downloading",
+        "C": "Writing",
+        "D": "Fetching"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Writing. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    },
+    {
+      "id": 28,
+      "question": "The use of electronic devices to convert sound into digital data is an example of:",
+      "options": {
+        "A": "Amplification",
+        "B": "Modulation",
+        "C": "Analog-to-digital conversion",
+        "D": "Digital-to-analog conversion"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Analog-to-digital conversion. In Information and Communication Technology (ICT), information transmission, storage media (bits/bytes/RAM), and computer processing systems are fundamental."
+    }
+  ]
+}

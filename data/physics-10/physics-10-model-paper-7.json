@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 20,
+  "chapterTitle": "FBISE Annual Exam Simulator 07 (Units 16 & 17: Electronics & ICT)",
+  "slug": "physics-10-model-paper-7",
+  "fileName": "physics-10-model-paper-7.json",
+  "totalQuestions": 12,
+  "subject": "physics-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The output of a two-input NAND gate is binary '0' only when:",
+      "options": {
+        "A": "Both inputs are 0",
+        "B": "Both inputs are 1",
+        "C": "Any input is 0",
+        "D": "Inputs are unequal"
+      },
+      "correctAnswer": "B",
+      "explanation": "A NAND gate is an inverted AND gate: Y = NOT(A AND B). When A=1 and B=1, A·B = 1, giving output Y = 0."
+    },
+    {
+      "id": 2,
+      "question": "The emission of electrons from the heated surface of a metal cathode is known as:",
+      "options": {
+        "A": "Boiling",
+        "B": "Photoelectric effect",
+        "C": "Electrochemical discharge",
+        "D": "Thermionic emission"
+      },
+      "correctAnswer": "D",
+      "explanation": "Thermal energy supplies conduction electrons with energy exceeding the metal work function, releasing them into vacuum."
+    },
+    {
+      "id": 3,
+      "question": "The process of converting continuous analog signals into discrete binary numbers (0s and 1s) is called:",
+      "options": {
+        "A": "Modulation",
+        "B": "Amplification",
+        "C": "Digitization (ADC)",
+        "D": "Demodulation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Digitization samples continuous analog voltages and quantizes them into binary code."
+    },
+    {
+      "id": 4,
+      "question": "An AND gate operation can be constructed by combining two NAND gates followed by an inverter, or inverted inputs with a:",
+      "options": {
+        "A": "NOT gate and NAND gate",
+        "B": "Two OR gates",
+        "C": "Capacitor",
+        "D": "Relay switch"
+      },
+      "correctAnswer": "A",
+      "explanation": "Passing the output of a NAND gate through a NOT gate (or another NAND with tied inputs) restores the AND function."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following activities in an information system is NOT considered data processing?",
+      "options": {
+        "A": "Arranging data",
+        "B": "Calculating statistical values",
+        "C": "Gathering raw data",
+        "D": "Manipulating records"
+      },
+      "correctAnswer": "C",
+      "explanation": "Gathering is the data collection stage; processing involves computation, sorting, filtering, and converting gathered data into information."
+    },
+    {
+      "id": 6,
+      "question": "What does the telecommunications acronym 'e-mail' stand for?",
+      "options": {
+        "A": "Emergency mail",
+        "B": "Electronic mail",
+        "C": "Extra mail",
+        "D": "External mail"
+      },
+      "correctAnswer": "B",
+      "explanation": "Electronic mail (e-mail) is the digital exchange of computer-stored messages by telecommunication networks."
+    },
+    {
+      "id": 7,
+      "question": "If a uniform magnetic field is directed parallel to the path of an electron beam, the electrons will:",
+      "options": {
+        "A": "Speed up",
+        "B": "Slow down",
+        "C": "Deflect sideways",
+        "D": "Experience zero magnetic force and continue unchanged"
+      },
+      "correctAnswer": "D",
+      "explanation": "F = q v B sin θ. Since velocity v and field B are parallel, θ = 0° and sin 0° = 0, producing zero magnetic force."
+    },
+    {
+      "id": 8,
+      "question": "Cathode rays observed in a Crookes or discharge tube are fast-moving streams of:",
+      "options": {
+        "A": "Protons",
+        "B": "Electrons",
+        "C": "Positive ions",
+        "D": "Neutrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "J.J. Thomson proved cathode rays are negatively charged elementary particles, subsequently named electrons."
+    },
+    {
+      "id": 9,
+      "question": "System software that manages computer hardware and coordinates user programs is called the:",
+      "options": {
+        "A": "Hardware driver",
+        "B": "Application program",
+        "C": "Operating system (OS)",
+        "D": "Firmware rom"
+      },
+      "correctAnswer": "C",
+      "explanation": "The OS (e.g. Windows, Linux) manages hardware resources, memory allocation, and file systems."
+    },
+    {
+      "id": 10,
+      "question": "Modern long-distance telecommunications utilize total internal reflection inside:",
+      "options": {
+        "A": "Copper telephone cables",
+        "B": "Optical fiber glass strands",
+        "C": "Shielded coaxial wires",
+        "D": "Twisted pair lines"
+      },
+      "correctAnswer": "B",
+      "explanation": "Optical fibers transmit digital light signals over thousands of kilometers with negligible signal loss and immunity to electromagnetic interference."
+    },
+    {
+      "id": 11,
+      "question": "An electrical or electromagnetic representation of data used for transmission through a medium is termed a/an:",
+      "options": {
+        "A": "Storage byte",
+        "B": "Signal",
+        "C": "Bus line",
+        "D": "Algorithm"
+      },
+      "correctAnswer": "B",
+      "explanation": "A signal is time-varying voltage, current, or electromagnetic wave encoding information."
+    },
+    {
+      "id": 12,
+      "question": "A NOT gate is also universally known as a/an:",
+      "options": {
+        "A": "Amplifier",
+        "B": "Inverter",
+        "C": "Rectifier",
+        "D": "Oscillator"
+      },
+      "correctAnswer": "B",
+      "explanation": "A NOT gate has one input and one output, inverting logic state 1 to 0 and 0 to 1."
+    }
+  ]
+}

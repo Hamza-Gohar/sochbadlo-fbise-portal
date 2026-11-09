@@ -1,0 +1,491 @@
+{
+  "chapterNumber": 7,
+  "chapterTitle": "Unit 16: Introductory Electronics",
+  "slug": "physics-10-chapter-7",
+  "fileName": "physics-10-chapter-7.json",
+  "totalQuestions": 40,
+  "subject": "physics-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary function of a diode?",
+      "options": {
+        "A": "Amplification",
+        "B": "Rectification",
+        "C": "Oscillation",
+        "D": "Modulation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Rectification. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 2,
+      "question": "What is the output of an AND gate when inputs are A=1 and\nB=0?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "Both 0 and 1",
+        "D": "Neither 0 nor 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 0. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 3,
+      "question": "What is the advantage of digital signals over analog signals?",
+      "options": {
+        "A": "More prone to noise",
+        "B": "Less accurate",
+        "C": "More secure",
+        "D": "Greater noise immunity"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) Greater noise immunity. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 4,
+      "question": "Which logic gate is equivalent to a NOT gate followed by an\nAND gate?",
+      "options": {
+        "A": "NAND",
+        "B": "NOR",
+        "C": "XOR",
+        "D": "XNOR"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) NAND. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 5,
+      "question": "What is the function of a LED?",
+      "options": {
+        "A": "Emit light when forward biased",
+        "B": "Emit light when reverse biased",
+        "C": "Conduct current in both directions",
+        "D": "Block current in both directions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Emit light when forward biased. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 6,
+      "question": "What is the difference between a transistor and a diode?",
+      "options": {
+        "A": "Transistor has three terminals, diode has two",
+        "B": "Transistor is used for amplification, diode for rectification",
+        "C": "Both A and B",
+        "D": "Neither A nor B"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Both A and B. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a universal gate?",
+      "options": {
+        "A": "AND",
+        "B": "OR",
+        "C": "NAND",
+        "D": "XOR"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) NAND. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 8,
+      "question": "What is the binary equivalent of decimal 5?",
+      "options": {
+        "A": "101",
+        "B": "110",
+        "C": "111",
+        "D": "100"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 101. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 9,
+      "question": "What happens when a PN junction diode is forward biased?",
+      "options": {
+        "A": "Current flows easily",
+        "B": "Current is blocked",
+        "C": "No current flows",
+        "D": "Voltage increases"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Current flows easily. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 10,
+      "question": "Which logic gate produces an output of 1 only when all\ninputs are 1?",
+      "options": {
+        "A": "OR",
+        "B": "AND",
+        "C": "NAND",
+        "D": "NOR"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) AND. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 11,
+      "question": "What is a key advantage of digital electronics over analog\nelectronics?",
+      "options": {
+        "A": "Higher power consumption",
+        "B": "Greater noise immunity",
+        "C": "Lower speed",
+        "D": "Analog signals are more accurate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Greater noise immunity. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 12,
+      "question": "The depletion layer in a PN junction is formed due to?",
+      "options": {
+        "A": "Majority carriers",
+        "B": "Minority carriers",
+        "C": "Diffusion of charge carriers",
+        "D": "Applied voltage"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Diffusion of charge carriers. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following gates is called a universal gate?",
+      "options": {
+        "A": "AND",
+        "B": "OR",
+        "C": "NOT",
+        "D": "NAND"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) NAND. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 14,
+      "question": "LEDs are commonly used for?",
+      "options": {
+        "A": "Rectification",
+        "B": "Amplification",
+        "C": "Indication and display",
+        "D": "Filtering"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Indication and display. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 15,
+      "question": "What is the main difference between analog and digital\nsignals?",
+      "options": {
+        "A": "Analog is discrete, digital is continuous",
+        "B": "Analog is continuous, digital is discrete",
+        "C": "Both are continuous",
+        "D": "Both are discrete"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Analog is continuous, digital is discrete. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 16,
+      "question": "What is the purpose of a resistor in an LED circuit?",
+      "options": {
+        "A": "To increase brightness",
+        "B": "To decrease voltage",
+        "C": "To limit current",
+        "D": "To amplify signal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) To limit current. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 17,
+      "question": "In digital electronics, what does a flip-flop do?",
+      "options": {
+        "A": "Amplifies signal",
+        "B": "Stores binary data",
+        "C": "Converts analog to digital",
+        "D": "Filters noise"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Stores binary data. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 18,
+      "question": "The truth table of a logic gate shows?",
+      "options": {
+        "A": "Input-output relationships",
+        "B": "Power consumption",
+        "C": "Physical layout",
+        "D": "Manufacturing process"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Input-output relationships. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 19,
+      "question": "What is the role of a capacitor in a power supply circuit?",
+      "options": {
+        "A": "To increase voltage",
+        "B": "To filter AC components",
+        "C": "To amplify signal",
+        "D": "To reduce resistance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) To filter AC components. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 20,
+      "question": "What does CMOS stand for in digital electronics?",
+      "options": {
+        "A": "Complementary Metal-Oxide Semiconductor",
+        "B": "Common Mode Operation System",
+        "C": "Current Mode Output Switch",
+        "D": "Centralized Management Operating System"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Complementary Metal-Oxide Semiconductor. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 21,
+      "question": "In a PN junction, what is the effect of reverse bias?",
+      "options": {
+        "A": "Increases depletion region",
+        "B": "Decreases depletion region",
+        "C": "Allows current flow easily",
+        "D": "No effect on depletion region"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Increases depletion region. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 22,
+      "question": "Transistors are used in?",
+      "options": {
+        "A": "Amplification only",
+        "B": "Switching only",
+        "C": "Both amplification and switching",
+        "D": "Neither amplification nor switching"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Both amplification and switching. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 23,
+      "question": "Digital signals are represented by?",
+      "options": {
+        "A": "Continuous voltage levels",
+        "B": "Discrete voltage levels (0 and 1)",
+        "C": "Analog waveforms",
+        "D": "Random noise"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Discrete voltage levels (0 and 1). Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 24,
+      "question": "What is the function of a NOT gate (Inverter)?",
+      "options": {
+        "A": "Amplifies input",
+        "B": "Inverts the input signal",
+        "C": "Adds two inputs",
+        "D": "Multiplies two inputs"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Inverts the input signal. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is an application of diodes?",
+      "options": {
+        "A": "Amplification",
+        "B": "Rectification",
+        "C": "Oscillation",
+        "D": "Modulation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Rectification. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 26,
+      "question": "The output of an OR gate is 1 if?\n\nELECTRONICS",
+      "options": {
+        "A": "All inputs are 0",
+        "B": "At least one input is 1",
+        "C": "All inputs are 1",
+        "D": "None of the inputs are 1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) At least one input is 1. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 27,
+      "question": "What is the advantage of using LEDs over traditional bulbs?",
+      "options": {
+        "A": "Higher power consumption",
+        "B": "Lower efficiency",
+        "C": "Longer lifespan and low power",
+        "D": "Larger size"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Longer lifespan and low power. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 28,
+      "question": "A NAND gate is equivalent to?",
+      "options": {
+        "A": "AND gate followed by NOT gate",
+        "B": "OR gate followed by NOT gate",
+        "C": "NOT gate followed by AND gate",
+        "D": "AND gate only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) AND gate followed by NOT gate. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 29,
+      "question": "What is the binary number system based on?",
+      "options": {
+        "A": "Base 10",
+        "B": "Base 2",
+        "C": "Base 8",
+        "D": "Base 16"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Base 2. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 30,
+      "question": "What is the purpose of feedback in an amplifier?",
+      "options": {
+        "A": "To reduce gain",
+        "B": "To increase bandwidth",
+        "C": "To stabilize operation",
+        "D": "To decrease input impedance"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) To stabilize operation. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 31,
+      "question": "The logic gate that produces output 1 when inputs are\ndifferent is?",
+      "options": {
+        "A": "AND",
+        "B": "OR",
+        "C": "XOR",
+        "D": "NAND"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) XOR. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 32,
+      "question": "What does a decoder do in digital electronics?",
+      "options": {
+        "A": "Encodes data",
+        "B": "Decodes data",
+        "C": "Amplifies signal",
+        "D": "Filters noise"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Decodes data. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 33,
+      "question": "What is the purpose of a capacitor in a filter circuit?",
+      "options": {
+        "A": "To increase voltage",
+        "B": "To reduce ripple",
+        "C": "To amplify signal",
+        "D": "To block DC"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) To reduce ripple. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 34,
+      "question": "Which logic gate has output 1 only when all inputs are 0?",
+      "options": {
+        "A": "NOR",
+        "B": "NAND",
+        "C": "XOR",
+        "D": "AND"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) NOR. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 35,
+      "question": "In digital electronics, what is a multiplexer used for?",
+      "options": {
+        "A": "To encode data",
+        "B": "To decode data",
+        "C": "To select one of many inputs",
+        "D": "To amplify signals"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) To select one of many inputs. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 36,
+      "question": "What does a diode do in a rectifier circuit?",
+      "options": {
+        "A": "Amplifies AC signal",
+        "B": "Converts AC to DC",
+        "C": "Filters DC output",
+        "D": "Regulates voltage"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Converts AC to DC. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 37,
+      "question": "In logic gates, what is the output of A AND A?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "A",
+        "D": "A'"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) A. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 38,
+      "question": "What is the purpose of a pull-up resistor in a digital circuit?",
+      "options": {
+        "A": "To increase voltage",
+        "B": "To reduce current",
+        "C": "To ensure logic high",
+        "D": "To filter noise"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) To ensure logic high. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 39,
+      "question": "The binary number 1101 is equivalent to decimal?",
+      "options": {
+        "A": "11",
+        "B": "12",
+        "C": "13",
+        "D": "14"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) 13. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    },
+    {
+      "id": 40,
+      "question": "What is the function of an encoder in digital circuits?",
+      "options": {
+        "A": "Converts multiple inputs to single output",
+        "B": "Converts single input to multiple outputs",
+        "C": "Amplifies signal",
+        "D": "Filters noise"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Converts multiple inputs to single output. Introductory electronics covers thermionic emission, electron deflection in CROs, and boolean logic gates (AND, OR, NOT, NAND, NOR)."
+    }
+  ]
+}

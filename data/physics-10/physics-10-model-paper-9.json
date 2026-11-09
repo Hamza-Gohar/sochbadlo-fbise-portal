@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 22,
+  "chapterTitle": "FBISE Annual Exam Simulator 09 (Full Book Model Paper 1)",
+  "slug": "physics-10-model-paper-9",
+  "fileName": "physics-10-model-paper-9.json",
+  "totalQuestions": 12,
+  "subject": "physics-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The loudness of sound heard by a human ear is directly proportional to the square of its:",
+      "options": {
+        "A": "Timber",
+        "B": "Wavelength",
+        "C": "Frequency",
+        "D": "Amplitude"
+      },
+      "correctAnswer": "D",
+      "explanation": "Sound intensity and perceptual loudness scale with the square of the vibrational amplitude (I ∝ A²)."
+    },
+    {
+      "id": 2,
+      "question": "The most heavily doped region of a bipolar junction transistor (BJT) is the:",
+      "options": {
+        "A": "Emitter",
+        "B": "Base",
+        "C": "Collector",
+        "D": "Depletion zone"
+      },
+      "correctAnswer": "A",
+      "explanation": "The emitter is heavily doped to inject large numbers of charge carriers into the thin, lightly doped base."
+    },
+    {
+      "id": 3,
+      "question": "The heat transfer mechanism that occurs due to density differences and macroscopic movement in fluids is:",
+      "options": {
+        "A": "Conduction",
+        "B": "Convection",
+        "C": "Radiation",
+        "D": "Insulation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Convection occurs in liquids and gases where heated less dense fluid rises and cooler denser fluid sinks (convection currents)."
+    },
+    {
+      "id": 4,
+      "question": "The half-life of completely stable atomic isotopes is theoretically:",
+      "options": {
+        "A": "Infinite (∞)",
+        "B": "1 second",
+        "C": "Zero",
+        "D": "100 years"
+      },
+      "correctAnswer": "A",
+      "explanation": "Stable nuclei do not undergo spontaneous radioactive decay; their decay constant λ = 0, so half-life T = ln 2 / λ = ∞."
+    },
+    {
+      "id": 5,
+      "question": "If a simple pendulum completes 22 full vibrations in 11 seconds, its frequency is:",
+      "options": {
+        "A": "0.5 Hz",
+        "B": "1.0 Hz",
+        "C": "2.0 Hz",
+        "D": "4.0 Hz"
+      },
+      "correctAnswer": "C",
+      "explanation": "Frequency f = vibrations / time = 22 / 11 s = 2.0 Hz."
+    },
+    {
+      "id": 6,
+      "question": "A step-up transformer has a turn ratio (Ns:Np) of 3:2. If the primary voltage is 30 V, the secondary voltage is:",
+      "options": {
+        "A": "15 V",
+        "B": "45 V",
+        "C": "90 V",
+        "D": "300 V"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vs = (Ns / Np) × Vp = (3 / 2) × 30 V = 1.5 × 30 = 45 V."
+    },
+    {
+      "id": 7,
+      "question": "The radius of curvature of a spherical mirror is 20 cm. What is its focal length?",
+      "options": {
+        "A": "5 cm",
+        "B": "10 cm",
+        "C": "15 cm",
+        "D": "20 cm"
+      },
+      "correctAnswer": "B",
+      "explanation": "For any spherical mirror, focal length equals half the radius of curvature: f = R/2 = 20/2 = 10 cm."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following environmental factors increases the rate of liquid evaporation?",
+      "options": {
+        "A": "Increasing temperature",
+        "B": "Increasing air humidity",
+        "C": "Reducing surface area",
+        "D": "Keeping surrounding air still"
+      },
+      "correctAnswer": "A",
+      "explanation": "Increasing temperature gives surface liquid molecules higher kinetic energy to escape intermolecular attractive forces."
+    },
+    {
+      "id": 9,
+      "question": "The electrical resistance of a uniform metallic wire does NOT depend on its:",
+      "options": {
+        "A": "Length",
+        "B": "Material density",
+        "C": "Cross-sectional area",
+        "D": "Resistivity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Resistance R = ρL/A depends on length L, cross-sectional area A, and resistivity ρ (and temperature), but not directly on mass density."
+    },
+    {
+      "id": 10,
+      "question": "The majority charge carriers in the emitter region of an NPN transistor are:",
+      "options": {
+        "A": "Pentavalent ions",
+        "B": "Free electrons",
+        "C": "Holes",
+        "D": "Positrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "N-type semiconductor material is doped with pentavalent donor atoms, producing free electrons as majority carriers."
+    },
+    {
+      "id": 11,
+      "question": "The work done in moving a unit positive test charge along any closed path in an electrostatic field is:",
+      "options": {
+        "A": "Always positive",
+        "B": "Infinite",
+        "C": "Zero",
+        "D": "Negative"
+      },
+      "correctAnswer": "C",
+      "explanation": "Electrostatic fields are conservative fields; the line integral of electric field around any closed loop is zero (∮ E · dl = 0)."
+    },
+    {
+      "id": 12,
+      "question": "A radioactive element has a half-life of 2 years. What percentage of the initial sample remains undecayed after 6 years?",
+      "options": {
+        "A": "75%",
+        "B": "50%",
+        "C": "25%",
+        "D": "12.5%"
+      },
+      "correctAnswer": "D",
+      "explanation": "Number of half-lives n = 6 / 2 = 3. Remaining fraction = (1/2)³ = 1/8 = 0.125 = 12.5%."
+    }
+  ]
+}

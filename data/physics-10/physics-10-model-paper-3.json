@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 16,
+  "chapterTitle": "FBISE Annual Exam Simulator 03 (Unit 12: Geometrical Optics)",
+  "slug": "physics-10-model-paper-3",
+  "fileName": "physics-10-model-paper-3.json",
+  "totalQuestions": 12,
+  "subject": "physics-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following optical phenomena occurs in the transmission of light through an optical fiber?",
+      "options": {
+        "A": "Refraction",
+        "B": "Diffraction",
+        "C": "Interference",
+        "D": "Total internal reflection"
+      },
+      "correctAnswer": "D",
+      "explanation": "Optical fibers guide light pulses via successive total internal reflections occurring whenever the angle of incidence exceeds the critical angle."
+    },
+    {
+      "id": 2,
+      "question": "An object is placed at 12 cm in front of a mirror, forming a virtual image 6 cm behind the mirror. The focal length of the mirror is:",
+      "options": {
+        "A": "4 cm",
+        "B": "6 cm",
+        "C": "-12 cm",
+        "D": "18 cm"
+      },
+      "correctAnswer": "C",
+      "explanation": "Using 1/f = 1/p + 1/q with p = +12 cm and virtual image q = -6 cm: 1/f = 1/12 - 1/6 = -1/12, giving f = -12 cm (a convex mirror)."
+    },
+    {
+      "id": 3,
+      "question": "The SI unit of the optical power of a lens is:",
+      "options": {
+        "A": "Watt",
+        "B": "J s⁻²",
+        "C": "Doppler",
+        "D": "Dioptre (D)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Optical power P = 1/f (with focal length f in meters) is measured in dioptres (D), where 1 D = 1 m⁻¹."
+    },
+    {
+      "id": 4,
+      "question": "A natural rainbow formed in the sky after rain is primarily due to:",
+      "options": {
+        "A": "Reflection only",
+        "B": "Total internal reflection only",
+        "C": "Dispersion of sunlight by raindrops",
+        "D": "Diffraction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sunlight entering spherical raindrops undergoes refraction, dispersion into component colors, internal reflection, and final refraction."
+    },
+    {
+      "id": 5,
+      "question": "The focal length of a convex mirror with a radius of curvature of 10 cm is:",
+      "options": {
+        "A": "+10 cm",
+        "B": "+5 cm",
+        "C": "-10 cm",
+        "D": "-5 cm"
+      },
+      "correctAnswer": "D",
+      "explanation": "For a convex mirror, focal length is negative and equals half the radius of curvature: f = -R/2 = -10/2 = -5 cm."
+    },
+    {
+      "id": 6,
+      "question": "The refractive index of ordinary crown glass is approximately:",
+      "options": {
+        "A": "1.00",
+        "B": "1.33",
+        "C": "1.52",
+        "D": "2.42"
+      },
+      "correctAnswer": "C",
+      "explanation": "Crown glass has a refractive index n ≈ 1.50–1.52, while water is 1.33, vacuum is 1.00, and diamond is 2.42."
+    },
+    {
+      "id": 7,
+      "question": "In the human eye, light rays converge to form a real, inverted image on the:",
+      "options": {
+        "A": "Iris",
+        "B": "Retina",
+        "C": "Pupil",
+        "D": "Cornea"
+      },
+      "correctAnswer": "B",
+      "explanation": "The cornea and crystalline lens focus incident light onto the light-sensitive retina lining the back of the eye."
+    },
+    {
+      "id": 8,
+      "question": "An endoscopic instrument specifically designed to view inside the stomach is called a/an:",
+      "options": {
+        "A": "Gastroscope",
+        "B": "Bronchoscope",
+        "C": "Cystoscope",
+        "D": "Arthroscope"
+      },
+      "correctAnswer": "A",
+      "explanation": "A gastroscope is a specialized optical fiber endoscope inserted through the mouth to examine the esophagus, stomach, and duodenum."
+    },
+    {
+      "id": 9,
+      "question": "The inner high-refractive-index cylinder of an optical fiber is called the:",
+      "options": {
+        "A": "Metal jacket",
+        "B": "Cladding",
+        "C": "Boundary",
+        "D": "Core"
+      },
+      "correctAnswer": "D",
+      "explanation": "An optical fiber consists of an inner core (higher refractive index n₁) surrounded by an outer cladding (lower refractive index n₂)."
+    },
+    {
+      "id": 10,
+      "question": "A convex lens with a focal length of 8 cm has an optical power of:",
+      "options": {
+        "A": "2.05 D",
+        "B": "4.00 D",
+        "C": "12.5 D",
+        "D": "6.00 D"
+      },
+      "correctAnswer": "C",
+      "explanation": "P = 100 / f(cm) = 100 / 8 = +12.5 D."
+    },
+    {
+      "id": 11,
+      "question": "An object is placed exactly at the centre of curvature (2F) of a concave mirror. The image produced is located:",
+      "options": {
+        "A": "Beyond centre of curvature",
+        "B": "At the centre of curvature",
+        "C": "At the focal point",
+        "D": "Between F and 2F"
+      },
+      "correctAnswer": "B",
+      "explanation": "When an object is placed at the centre of curvature (C = 2F), the reflected rays form a real, inverted image of the same size at C."
+    },
+    {
+      "id": 12,
+      "question": "According to the first law of reflection, if the angle of incidence is 30°, the angle of reflection will be:",
+      "options": {
+        "A": "30°",
+        "B": "45°",
+        "C": "60°",
+        "D": "90°"
+      },
+      "correctAnswer": "A",
+      "explanation": "The law of reflection states that angle of incidence equals angle of reflection (∠i = ∠r = 30°)."
+    }
+  ]
+}

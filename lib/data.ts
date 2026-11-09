@@ -21,6 +21,7 @@ const CHEMISTRY_9_DIR = path.join(process.cwd(), 'data', 'chemistry-9');
 const CS_9_DIR = path.join(process.cwd(), 'data', 'cs-9');
 const BIOLOGY_9_DIR = path.join(process.cwd(), 'data', 'biology-9');
 const MATH_10_DIR = path.join(process.cwd(), 'data', 'math-10');
+const PHYSICS_10_DIR = path.join(process.cwd(), 'data', 'physics-10');
 
 export function getChaptersIndex(
   subject: SubjectId = 'physics'
@@ -45,13 +46,14 @@ export function getChaptersIndex(
     else if (subject === 'cs-9') dir = CS_9_DIR;
     else if (subject === 'biology-9') dir = BIOLOGY_9_DIR;
     else if (subject === 'math-10') dir = MATH_10_DIR;
+    else if (subject === 'physics-10') dir = PHYSICS_10_DIR;
 
     const indexPath = path.join(dir, 'chapters-index.json');
     if (fs.existsSync(indexPath)) {
       const content = fs.readFileSync(indexPath, 'utf-8');
       const list: ChapterMeta[] = JSON.parse(content);
       const grade =
-        subject === 'math-10'
+        subject === 'math-10' || subject === 'physics-10'
           ? '10'
           : subject === 'physics-9' ||
             subject === 'math-9' ||
@@ -93,6 +95,7 @@ export function getAllChapters(): ChapterMeta[] {
     ...getChaptersIndex('cs-9'),
     ...getChaptersIndex('biology-9'),
     ...getChaptersIndex('math-10'),
+    ...getChaptersIndex('physics-10'),
   ];
 }
 
@@ -107,7 +110,10 @@ export function getChapterBySlug(
     let targetDir = PHYSICS_DIR;
     let subject: SubjectId = 'physics';
 
-    if (slug.startsWith('physics-9')) {
+    if (slug.startsWith('physics-10')) {
+      targetDir = PHYSICS_10_DIR;
+      subject = 'physics-10';
+    } else if (slug.startsWith('physics-9')) {
       targetDir = PHYSICS_9_DIR;
       subject = 'physics-9';
     } else if (slug.startsWith('math-9')) {
@@ -178,6 +184,7 @@ export function getChapterBySlug(
 
     // Fallback search across all directories
     const dirMap: Array<[string, SubjectId]> = [
+      [PHYSICS_10_DIR, 'physics-10'],
       [MATH_10_DIR, 'math-10'],
       [BIOLOGY_9_DIR, 'biology-9'],
       [CS_9_DIR, 'cs-9'],

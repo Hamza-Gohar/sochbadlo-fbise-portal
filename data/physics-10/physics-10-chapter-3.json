@@ -1,0 +1,491 @@
+{
+  "chapterNumber": 3,
+  "chapterTitle": "Unit 12: Geometrical Optics",
+  "slug": "physics-10-chapter-3",
+  "fileName": "physics-10-chapter-3.json",
+  "totalQuestions": 40,
+  "subject": "physics-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the speed of light in vacuum?",
+      "options": {
+        "A": "3 × 10^8 m/s",
+        "B": "3 × 10^10 m/s",
+        "C": "3 × 10^6 m/s",
+        "D": "2 × 10^8 m/s"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 3 × 10^8 m/s. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is the primary medium for the propagation of light?",
+      "options": {
+        "A": "Air",
+        "B": "Water",
+        "C": "Vacuum",
+        "D": "Glass"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Vacuum. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 3,
+      "question": "The reflection of light occurs at the interface of:",
+      "options": {
+        "A": "Two transparent media",
+        "B": "A transparent and an opaque medium",
+        "C": "Two opaque media",
+        "D": "A surface"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) A surface. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 4,
+      "question": "The angle of incidence is:",
+      "options": {
+        "A": "The angle between the incident ray and the normal",
+        "B": "The angle between the reflected ray and the normal",
+        "C": "The angle between the incident ray and the reflected ray",
+        "D": "The angle between the reflected ray and the surface"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) The angle between the incident ray and the normal. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following laws governs reflection?",
+      "options": {
+        "A": "Snell's Law",
+        "B": "Laws of Reflection",
+        "C": "Huygens' Principle",
+        "D": "Ohm’s Law"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Laws of Reflection. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 6,
+      "question": "What is the focal length of a concave mirror?",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Positive. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following describes a convex mirror?",
+      "options": {
+        "A": "It converges light rays",
+        "B": "It diverges light rays",
+        "C": "It focuses light at a point",
+        "D": "It magnifies objects"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) It diverges light rays. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 8,
+      "question": "What happens when light passes from a denser medium to a rarer medium?",
+      "options": {
+        "A": "The light bends away from the normal",
+        "B": "The light bends towards the normal",
+        "C": "The light does not bend",
+        "D": "The light reflects back"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) The light bends away from the normal. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 9,
+      "question": "The focal length of a convex lens is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Positive. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 10,
+      "question": "A real image is formed by a:",
+      "options": {
+        "A": "Convex mirror",
+        "B": "Concave lens",
+        "C": "Convex lens",
+        "D": "Concave mirror"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) Concave mirror. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 11,
+      "question": "The image formed by a concave lens is always:",
+      "options": {
+        "A": "Real and inverted",
+        "B": "Virtual and upright",
+        "C": "Virtual and inverted",
+        "D": "Real and upright"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Virtual and upright. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 12,
+      "question": "The image formed by a convex lens when the object is beyond 2F is:",
+      "options": {
+        "A": "Real, inverted, and diminished",
+        "B": "Virtual, upright, and diminished",
+        "C": "Real, inverted, and magnified",
+        "D": "Virtual, upright, and magnified"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Real, inverted, and diminished. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 13,
+      "question": "A ray parallel to the principal axis after passing through a convex lens:",
+      "options": {
+        "A": "Passes through the focal point",
+        "B": "Diverges from the focal point",
+        "C": "Continues straight",
+        "D": "Becomes parallel to the axis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Passes through the focal point. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 14,
+      "question": "A diverging lens is another name for:",
+      "options": {
+        "A": "Convex lens",
+        "B": "Concave mirror",
+        "C": "Concave lens",
+        "D": "Plane mirror"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Concave lens. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 15,
+      "question": "The focal length of a lens is:",
+      "options": {
+        "A": "The distance between the lens and the object",
+        "B": "The distance between the lens and the image",
+        "C": "The distance between the lens and the focal point",
+        "D": "The distance from the object to the image"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) The distance between the lens and the focal point. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 16,
+      "question": "The critical angle is:",
+      "options": {
+        "A": "The angle at which total internal reflection occurs",
+        "B": "The angle at which the light exits the medium",
+        "C": "The angle of incidence for refraction",
+        "D": "The angle at which refraction does not occur"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) The angle at which total internal reflection occurs. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 17,
+      "question": "In total internal reflection, the angle of incidence is greater than the:",
+      "options": {
+        "A": "Angle of refraction",
+        "B": "Critical angle",
+        "C": "Angle of reflection",
+        "D": "Refractive index"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Critical angle. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 18,
+      "question": "The magnification of a mirror is given by:",
+      "options": {
+        "A": "Image height / Object height",
+        "B": "Object height / Image height",
+        "C": "Distance of object / Distance of image",
+        "D": "Distance of image / Distance of object"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Image height / Object height. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 19,
+      "question": "In a convex mirror, the image formed is:",
+      "options": {
+        "A": "Real and diminished",
+        "B": "Virtual and diminished",
+        "C": "Real and magnified",
+        "D": "Virtual and magnified"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Virtual and diminished. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 20,
+      "question": "The refraction of light occurs when:",
+      "options": {
+        "A": "Light bounces back from a surface",
+        "B": "Light passes from one medium to another",
+        "C": "Light passes through a prism",
+        "D": "Light focuses at a point"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Light passes from one medium to another. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 21,
+      "question": "The refractive index of a medium is the ratio of:",
+      "options": {
+        "A": "Speed of light in vacuum to the speed of light in the medium",
+        "B": "Speed of light in the medium to the speed of light in air",
+        "C": "Angle of incidence to the angle of refraction",
+        "D": "Angle of refraction to the angle of incidence"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Speed of light in vacuum to the speed of light in the medium. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 22,
+      "question": "The image formed by a plane mirror is:",
+      "options": {
+        "A": "Real and upright",
+        "B": "Virtual and inverted",
+        "C": "Virtual and upright",
+        "D": "Real and inverted"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Virtual and upright. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 23,
+      "question": "In refraction, the light ray bends towards the normal when it passes into:",
+      "options": {
+        "A": "A denser medium",
+        "B": "A rarer medium",
+        "C": "A medium of equal density",
+        "D": "None of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) A denser medium. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 24,
+      "question": "A concave lens is used in:",
+      "options": {
+        "A": "Glasses for nearsightedness",
+        "B": "Glasses for farsightedness",
+        "C": "Magnifying glasses",
+        "D": "Rear-view mirrors"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Glasses for nearsightedness. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 25,
+      "question": "The power of a lens is the inverse of its focal length in meters. What is the unit of power?",
+      "options": {
+        "A": "Meter",
+        "B": "Meter^-1",
+        "C": "Diopter",
+        "D": "Watt"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Diopter. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 26,
+      "question": "The principal focus of a concave mirror is:",
+      "options": {
+        "A": "Behind the mirror",
+        "B": "In front of the mirror",
+        "C": "At the center of curvature",
+        "D": "At the focal point"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) In front of the mirror. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 27,
+      "question": "The total internal reflection can only occur when the angle of incidence is:",
+      "options": {
+        "A": "Less than the critical angle",
+        "B": "Equal to the critical angle",
+        "C": "Greater than the critical angle",
+        "D": "Zero"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Greater than the critical angle. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 28,
+      "question": "A concave lens produces:",
+      "options": {
+        "A": "Real and diminished image",
+        "B": "Real and magnified image",
+        "C": "Virtual and diminished image",
+        "D": "Virtual and magnified image"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Virtual and diminished image. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 29,
+      "question": "The lens formula is:",
+      "options": {
+        "A": "1/f = 1/v + 1/u",
+        "B": "1/f = v + u",
+        "C": "f = v + u",
+        "D": "1/f = v - u"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 1/f = 1/v + 1/u. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 30,
+      "question": "The image formed by a convex lens when the object is between F and 2F is:",
+      "options": {
+        "A": "Real, inverted, and magnified",
+        "B": "Virtual, upright, and magnified",
+        "C": "Real, upright, and diminished",
+        "D": "Virtual, inverted, and diminished"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Real, inverted, and magnified. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 31,
+      "question": "The image formed by a concave lens is always:",
+      "options": {
+        "A": "Real and inverted",
+        "B": "Virtual and upright",
+        "C": "Real and upright",
+        "D": "Virtual and inverted"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Virtual and upright. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 32,
+      "question": "A concave mirror can form:",
+      "options": {
+        "A": "Only virtual images",
+        "B": "Only real images",
+        "C": "Both real and virtual images",
+        "D": "No images"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Both real and virtual images. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 33,
+      "question": "The refractive index of water is approximately:",
+      "options": {
+        "A": "1",
+        "B": "1.33",
+        "C": "1.5",
+        "D": "2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 1.33. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 34,
+      "question": "The image formed by a concave mirror is real when the object is:",
+      "options": {
+        "A": "Beyond the focal point",
+        "B": "At the focal point",
+        "C": "Between the mirror and the focal point",
+        "D": "At infinity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Beyond the focal point. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 35,
+      "question": "The focal length of a lens is defined as:",
+      "options": {
+        "A": "The distance from the lens to the object",
+        "B": "The distance from the lens to the image",
+        "C": "The distance from the center of the lens to the principal focus",
+        "D": "The distance from the lens to the optical center"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) The distance from the center of the lens to the principal focus. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 36,
+      "question": "If the focal length of a lens is 20 cm, what is its power?",
+      "options": {
+        "A": "2 D",
+        "B": "5 D",
+        "C": "0.5 D",
+        "D": "1 D"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 5 D. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 37,
+      "question": "What is the effect of increasing the curvature of a lens?",
+      "options": {
+        "A": "It increases the focal length",
+        "B": "It decreases the focal length",
+        "C": "It has no effect on the focal length",
+        "D": "It increases the magnification"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) It decreases the focal length. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 38,
+      "question": "A ray of light passes through the center of curvature of a concave mirror. What happens to\nthe ray?",
+      "options": {
+        "A": "It gets reflected along its path",
+        "B": "It passes through the focal point",
+        "C": "It reflects at an angle of 90°",
+        "D": "It gets absorbed by the mirror"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) It gets reflected along its path. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 39,
+      "question": "Which of the following is true for all images formed by a concave lens?",
+      "options": {
+        "A": "Real and inverted",
+        "B": "Virtual and upright",
+        "C": "Real and upright",
+        "D": "Virtual and inverted"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Virtual and upright. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    },
+    {
+      "id": 40,
+      "question": "The power of a concave lens is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Undefined"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Negative. Geometrical optics governs image formation in mirrors and lenses through laws of reflection, Snell's law (n = sin i / sin r), and total internal reflection."
+    }
+  ]
+}

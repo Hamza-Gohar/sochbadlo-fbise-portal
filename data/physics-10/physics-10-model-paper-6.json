@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 19,
+  "chapterTitle": "FBISE Annual Exam Simulator 06 (Unit 15: Electromagnetism)",
+  "slug": "physics-10-model-paper-6",
+  "fileName": "physics-10-model-paper-6.json",
+  "totalQuestions": 12,
+  "subject": "physics-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Tiny magnetic fields generated in the human body along nerves are primarily produced by the flow of:",
+      "options": {
+        "A": "Free electronic current",
+        "B": "Conventional thermal current",
+        "C": "Ionic current",
+        "D": "Neutron displacement"
+      },
+      "correctAnswer": "C",
+      "explanation": "Nerve impulses consist of transmembrane movements of sodium and potassium ions (ionic current), producing small biomagnetic fields detected in MEG."
+    },
+    {
+      "id": 2,
+      "question": "A transformer changes which physical quantity while conserving total electrical power (in an ideal case)?",
+      "options": {
+        "A": "Frequency",
+        "B": "Voltage and Current",
+        "C": "Waveform",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Transformers step up or step down AC voltage and current such that input power equals output power (Vp Ip = Vs Is) at constant frequency."
+    },
+    {
+      "id": 3,
+      "question": "Which component of a DC electric motor reverses the direction of current in the armature coil every half-rotation?",
+      "options": {
+        "A": "Armature core",
+        "B": "Split-ring commutator",
+        "C": "Carbon brushes",
+        "D": "Slip rings"
+      },
+      "correctAnswer": "B",
+      "explanation": "The split-ring commutator switches connections every 180° so the torque continues in the same rotational direction."
+    },
+    {
+      "id": 4,
+      "question": "If the current in a straight wire placed perpendicular to a magnetic field is doubled, the magnetic deflecting force on it will:",
+      "options": {
+        "A": "Double",
+        "B": "Halve",
+        "C": "Quadruple",
+        "D": "Remain zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "F = I L B sin θ. Force is directly proportional to current I; doubling current doubles the magnetic force."
+    },
+    {
+      "id": 5,
+      "question": "Lenz's Law, which determines the direction of induced EMF and current, is an expression of the law of conservation of:",
+      "options": {
+        "A": "Mass",
+        "B": "Charge",
+        "C": "Energy",
+        "D": "Momentum"
+      },
+      "correctAnswer": "C",
+      "explanation": "Mechanical work done against the opposing induced magnetic field is converted directly into electrical energy, satisfying conservation of energy."
+    },
+    {
+      "id": 6,
+      "question": "If a transformer has a turn ratio (Ns/Np) of 5, the secondary voltage compared to primary voltage is:",
+      "options": {
+        "A": "0.2 times",
+        "B": "2.5 times",
+        "C": "5 times greater",
+        "D": "Unchanged"
+      },
+      "correctAnswer": "C",
+      "explanation": "From Vs/Vp = Ns/Np, Vs = 5 Vp."
+    },
+    {
+      "id": 7,
+      "question": "The total number of magnetic field lines passing perpendicular through a given surface area is called:",
+      "options": {
+        "A": "Electric flux",
+        "B": "Magnetic flux",
+        "C": "Magnetic field strength",
+        "D": "Magnetic intensity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Magnetic flux Φ = B · A = B A cos θ represents the total magnetic lines passing through area A."
+    },
+    {
+      "id": 8,
+      "question": "A temporary magnet created by wrapping an insulated wire around an iron core and passing an electric current is called a/an:",
+      "options": {
+        "A": "Permanent bar magnet",
+        "B": "Lodestone",
+        "C": "Electromagnet",
+        "D": "Ferrite ring"
+      },
+      "correctAnswer": "C",
+      "explanation": "Electromagnets produce controllable magnetic fields only while electric current flows through the coil."
+    },
+    {
+      "id": 9,
+      "question": "A step-down transformer is designed to:",
+      "options": {
+        "A": "Increase secondary voltage",
+        "B": "Decrease secondary voltage (Ns < Np)",
+        "C": "Convert DC to AC",
+        "D": "Store magnetic charge"
+      },
+      "correctAnswer": "B",
+      "explanation": "A step-down transformer has fewer turns on the secondary coil than the primary (Ns < Np), stepping down the voltage (Vs < Vp)."
+    },
+    {
+      "id": 10,
+      "question": "Bank ATM cards and credit cards store encoded account data using a magnetic:",
+      "options": {
+        "A": "Electric chip only",
+        "B": "Optical layer",
+        "C": "Magnetic strip",
+        "D": "Piezo crystal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Magnetic stripe cards contain microscopic iron-based magnetic particles oriented to represent binary numbers."
+    },
+    {
+      "id": 11,
+      "question": "In Fleming's Left-Hand Rule for electric motors, the middle finger points in the direction of the:",
+      "options": {
+        "A": "Magnetic field",
+        "B": "Deflecting force / Motion",
+        "C": "Electric current",
+        "D": "Induced EMF"
+      },
+      "correctAnswer": "C",
+      "explanation": "Thumb = Force/Motion, Forefinger = Magnetic Field, Middle finger = Current (F-B-I mnemonic)."
+    },
+    {
+      "id": 12,
+      "question": "The direction of magnetic field lines around a straight current-carrying conductor can be found using the:",
+      "options": {
+        "A": "Right-hand grip rule",
+        "B": "Left-hand motor rule",
+        "C": "Snell's law",
+        "D": "Hooke's law"
+      },
+      "correctAnswer": "A",
+      "explanation": "Grasping the wire with the right hand with the thumb pointing in conventional current direction, curled fingers show the concentric magnetic lines."
+    }
+  ]
+}

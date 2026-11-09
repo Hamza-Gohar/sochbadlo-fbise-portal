@@ -1,0 +1,173 @@
+[
+  {
+    "chapterNumber": 1,
+    "title": "Unit 10: Simple Harmonic Motion & Waves",
+    "slug": "physics-10-chapter-1",
+    "totalQuestions": 45,
+    "fileName": "physics-10-chapter-1.json",
+    "subject": "physics-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 2,
+    "title": "Unit 11: Sound",
+    "slug": "physics-10-chapter-2",
+    "totalQuestions": 45,
+    "fileName": "physics-10-chapter-2.json",
+    "subject": "physics-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 3,
+    "title": "Unit 12: Geometrical Optics",
+    "slug": "physics-10-chapter-3",
+    "totalQuestions": 40,
+    "fileName": "physics-10-chapter-3.json",
+    "subject": "physics-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 4,
+    "title": "Unit 13: Electrostatics",
+    "slug": "physics-10-chapter-4",
+    "totalQuestions": 35,
+    "fileName": "physics-10-chapter-4.json",
+    "subject": "physics-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 5,
+    "title": "Unit 14: Current Electricity",
+    "slug": "physics-10-chapter-5",
+    "totalQuestions": 45,
+    "fileName": "physics-10-chapter-5.json",
+    "subject": "physics-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 6,
+    "title": "Unit 15: Electromagnetism",
+    "slug": "physics-10-chapter-6",
+    "totalQuestions": 37,
+    "fileName": "physics-10-chapter-6.json",
+    "subject": "physics-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 7,
+    "title": "Unit 16: Introductory Electronics",
+    "slug": "physics-10-chapter-7",
+    "totalQuestions": 40,
+    "fileName": "physics-10-chapter-7.json",
+    "subject": "physics-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 8,
+    "title": "Unit 17: Information & Communication Technology",
+    "slug": "physics-10-chapter-8",
+    "totalQuestions": 28,
+    "fileName": "physics-10-chapter-8.json",
+    "subject": "physics-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 9,
+    "title": "Unit 18: Atomic & Nuclear Physics",
+    "slug": "physics-10-chapter-9",
+    "totalQuestions": 40,
+    "fileName": "physics-10-chapter-9.json",
+    "subject": "physics-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 14,
+    "title": "FBISE Annual Exam Simulator 01 (Unit 10: SHM & Waves)",
+    "slug": "physics-10-model-paper-1",
+    "totalQuestions": 12,
+    "fileName": "physics-10-model-paper-1.json",
+    "subject": "physics-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 15,
+    "title": "FBISE Annual Exam Simulator 02 (Unit 11: Sound)",
+    "slug": "physics-10-model-paper-2",
+    "totalQuestions": 12,
+    "fileName": "physics-10-model-paper-2.json",
+    "subject": "physics-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 16,
+    "title": "FBISE Annual Exam Simulator 03 (Unit 12: Geometrical Optics)",
+    "slug": "physics-10-model-paper-3",
+    "totalQuestions": 12,
+    "fileName": "physics-10-model-paper-3.json",
+    "subject": "physics-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 17,
+    "title": "FBISE Annual Exam Simulator 04 (Unit 13: Electrostatics)",
+    "slug": "physics-10-model-paper-4",
+    "totalQuestions": 12,
+    "fileName": "physics-10-model-paper-4.json",
+    "subject": "physics-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 18,
+    "title": "FBISE Annual Exam Simulator 05 (Unit 14: Current Electricity)",
+    "slug": "physics-10-model-paper-5",
+    "totalQuestions": 12,
+    "fileName": "physics-10-model-paper-5.json",
+    "subject": "physics-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 19,
+    "title": "FBISE Annual Exam Simulator 06 (Unit 15: Electromagnetism)",
+    "slug": "physics-10-model-paper-6",
+    "totalQuestions": 12,
+    "fileName": "physics-10-model-paper-6.json",
+    "subject": "physics-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 20,
+    "title": "FBISE Annual Exam Simulator 07 (Units 16 & 17: Electronics & ICT)",
+    "slug": "physics-10-model-paper-7",
+    "totalQuestions": 12,
+    "fileName": "physics-10-model-paper-7.json",
+    "subject": "physics-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 21,
+    "title": "FBISE Annual Exam Simulator 08 (Unit 18: Atomic & Nuclear Physics)",
+    "slug": "physics-10-model-paper-8",
+    "totalQuestions": 12,
+    "fileName": "physics-10-model-paper-8.json",
+    "subject": "physics-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 22,
+    "title": "FBISE Annual Exam Simulator 09 (Full Book Model Paper 1)",
+    "slug": "physics-10-model-paper-9",
+    "totalQuestions": 12,
+    "fileName": "physics-10-model-paper-9.json",
+    "subject": "physics-10",
+    "grade": "10"
+  },
+  {
+    "chapterNumber": 23,
+    "title": "FBISE Annual Exam Simulator 10 (Full Book Model Paper 2)",
+    "slug": "physics-10-model-paper-10",
+    "totalQuestions": 12,
+    "fileName": "physics-10-model-paper-10.json",
+    "subject": "physics-10",
+    "grade": "10"
+  }
+]

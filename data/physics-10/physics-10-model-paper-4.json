@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 17,
+  "chapterTitle": "FBISE Annual Exam Simulator 04 (Unit 13: Electrostatics)",
+  "slug": "physics-10-model-paper-4",
+  "fileName": "physics-10-model-paper-4.json",
+  "totalQuestions": 12,
+  "subject": "physics-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Farad (F) is the SI unit of which physical quantity?",
+      "options": {
+        "A": "Potential difference",
+        "B": "Electric force",
+        "C": "Capacitance",
+        "D": "Electric potential"
+      },
+      "correctAnswer": "C",
+      "explanation": "Capacitance C = Q/V is measured in Farads (F), where 1 Farad = 1 Coulomb per Volt."
+    },
+    {
+      "id": 2,
+      "question": "The total charge of how many electrons equals 100 µC?",
+      "options": {
+        "A": "6.25 × 10¹²",
+        "B": "6.25 × 10¹³",
+        "C": "6.25 × 10¹⁴",
+        "D": "6.25 × 10¹⁶"
+      },
+      "correctAnswer": "C",
+      "explanation": "n = Q/e = (100 × 10⁻⁶ C) / (1.6 × 10⁻¹⁹ C) = 6.25 × 10¹⁴ electrons."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following pairs of charges will produce the greatest attractive electrostatic force at a fixed distance r?",
+      "options": {
+        "A": "+q and +4q",
+        "B": "-q and +4q",
+        "C": "-2q and +2q",
+        "D": "+2q and +2q"
+      },
+      "correctAnswer": "B",
+      "explanation": "Attractive force requires opposite charges. Between -q & +4q, |q₁q₂| = 4q². Between -2q & +2q, |q₁q₂| = 4q². Opposite signs make both attractive with magnitude 4kq²/r²."
+    },
+    {
+      "id": 4,
+      "question": "In a series combination of capacitors, which quantity remains the same across each capacitor?",
+      "options": {
+        "A": "Charge (Q)",
+        "B": "Voltage (V)",
+        "C": "Energy stored",
+        "D": "Capacitance"
+      },
+      "correctAnswer": "A",
+      "explanation": "In series, current flows equally into each plate, so every capacitor stores identical charge Q (Q₁ = Q₂ = Q₃ = Q)."
+    },
+    {
+      "id": 5,
+      "question": "Four identical 1 µF capacitors are connected electrically. What is the least possible equivalent capacitance?",
+      "options": {
+        "A": "4 µF",
+        "B": "1 µF",
+        "C": "1/2 µF",
+        "D": "1/4 µF"
+      },
+      "correctAnswer": "D",
+      "explanation": "Least capacitance is obtained in series: 1/Ceq = 1/1 + 1/1 + 1/1 + 1/1 = 4, so Ceq = 1/4 µF = 0.25 µF."
+    },
+    {
+      "id": 6,
+      "question": "If the charge on the plates of a fixed capacitor is doubled, the potential difference across its plates will:",
+      "options": {
+        "A": "Become half",
+        "B": "Become double",
+        "C": "Remain same",
+        "D": "Become quadruple"
+      },
+      "correctAnswer": "B",
+      "explanation": "From V = Q/C, for constant capacitance C, potential difference V is directly proportional to charge Q."
+    },
+    {
+      "id": 7,
+      "question": "The value of Coulomb's constant k = 1 / (4πε) depends primarily on:",
+      "options": {
+        "A": "Magnitude of charges",
+        "B": "Medium between charges and system of units",
+        "C": "Distance between charges",
+        "D": "Shape of charges"
+      },
+      "correctAnswer": "B",
+      "explanation": "Coulomb's constant k depends on the permittivity of the surrounding medium (ε) and the choice of units (in SI vacuum, k ≈ 9 × 10⁹ N m²/C²)."
+    },
+    {
+      "id": 8,
+      "question": "If a test charge of 4 µC is placed in a uniform electric field of strength 2 N/C, what force will it experience?",
+      "options": {
+        "A": "4 × 10⁻⁶ N",
+        "B": "8 × 10⁻⁶ N",
+        "C": "0.5 × 10⁻⁶ N",
+        "D": "2 × 10⁻⁶ N"
+      },
+      "correctAnswer": "B",
+      "explanation": "F = qE = (4 × 10⁻⁶ C) × (2 N/C) = 8 × 10⁻⁶ N."
+    },
+    {
+      "id": 9,
+      "question": "The SI unit of electric potential (Volt) is equivalent to:",
+      "options": {
+        "A": "J C",
+        "B": "J C⁻¹",
+        "C": "N C⁻¹",
+        "D": "C V⁻¹"
+      },
+      "correctAnswer": "B",
+      "explanation": "Electric potential V = W/q (work done per unit charge), so 1 Volt = 1 Joule per Coulomb (J C⁻¹)."
+    },
+    {
+      "id": 10,
+      "question": "Two charges are initially 4 cm apart. When moved closer to 1 cm apart, the electrostatic force between them becomes:",
+      "options": {
+        "A": "4 times larger",
+        "B": "8 times larger",
+        "C": "16 times larger",
+        "D": "4 times smaller"
+      },
+      "correctAnswer": "C",
+      "explanation": "Coulomb's force F ∝ 1/r². Since distance decreases by a factor of 4 (from 4 cm to 1 cm), force increases by 4² = 16 times."
+    },
+    {
+      "id": 11,
+      "question": "Five joules of work is needed to shift 10 C of charge between two points. The potential difference between the points is:",
+      "options": {
+        "A": "0.5 V",
+        "B": "2.0 V",
+        "C": "5.0 V",
+        "D": "50 V"
+      },
+      "correctAnswer": "A",
+      "explanation": "V = W / q = 5 J / 10 C = 0.5 V."
+    },
+    {
+      "id": 12,
+      "question": "If the distance between two charged particles is halved, the electrostatic force between them becomes:",
+      "options": {
+        "A": "One quarter",
+        "B": "Double",
+        "C": "Four times",
+        "D": "Half"
+      },
+      "correctAnswer": "C",
+      "explanation": "F' = k q₁q₂ / (r/2)² = 4 × (k q₁q₂ / r²) = 4F."
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "chapterNumber": 18,
+  "chapterTitle": "FBISE Annual Exam Simulator 05 (Unit 14: Current Electricity)",
+  "slug": "physics-10-model-paper-5",
+  "fileName": "physics-10-model-paper-5.json",
+  "totalQuestions": 12,
+  "subject": "physics-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Batteries are rated in 'Ampere-hours' (Ah). Ampere-hour is a commercial unit of:",
+      "options": {
+        "A": "Current",
+        "B": "Electric charge",
+        "C": "Power",
+        "D": "Voltage"
+      },
+      "correctAnswer": "B",
+      "explanation": "Current × Time = (Coulombs/second) × seconds = Coulombs (electric charge). 1 Ah = 3600 C."
+    },
+    {
+      "id": 2,
+      "question": "When connected to a battery, a filament bulb glows brightly. If battery polarity is reversed, the bulb will glow:",
+      "options": {
+        "A": "Brighter",
+        "B": "Dimmer",
+        "C": "With the same brightness",
+        "D": "Not at all"
+      },
+      "correctAnswer": "C",
+      "explanation": "A tungsten filament bulb produces heat via Joule heating (P = I²R), which is independent of current direction."
+    },
+    {
+      "id": 3,
+      "question": "Electric current that periodically reverses its direction and magnitude over regular intervals of time is known as:",
+      "options": {
+        "A": "Alternating Current (AC)",
+        "B": "Direct Current (DC)",
+        "C": "Static current",
+        "D": "Conventional current"
+      },
+      "correctAnswer": "A",
+      "explanation": "AC reverses polarity cyclically (50 Hz in Pakistan) unlike steady DC from chemical batteries."
+    },
+    {
+      "id": 4,
+      "question": "Two resistors of resistance 1 Ω each are connected in parallel. Their equivalent resistance is:",
+      "options": {
+        "A": "2 Ω",
+        "B": "1.5 Ω",
+        "C": "1 Ω",
+        "D": "0.5 Ω"
+      },
+      "correctAnswer": "D",
+      "explanation": "1/Req = 1/1 + 1/1 = 2, so Req = 1/2 = 0.5 Ω."
+    },
+    {
+      "id": 5,
+      "question": "Electricity main supply meters measure consumer electrical consumption in units of kilowatt-hours (kWh). Kilowatt-hour is a unit of:",
+      "options": {
+        "A": "Electrical charge",
+        "B": "Electric current",
+        "C": "Electrical power",
+        "D": "Electrical energy"
+      },
+      "correctAnswer": "D",
+      "explanation": "Power × Time = Energy. 1 kWh = 1000 W × 3600 s = 3.6 × 10⁶ Joules (3.6 MJ)."
+    },
+    {
+      "id": 6,
+      "question": "One thousand joules (1000 J) of electrical energy is equivalent to approximately:",
+      "options": {
+        "A": "0.278 watt-hours",
+        "B": "1000 watt-hours",
+        "C": "3.6 × 10⁴ watt-hours",
+        "D": "3600 watt-hours"
+      },
+      "correctAnswer": "A",
+      "explanation": "1 Wh = 3600 J. Therefore, 1000 J = 1000 / 3600 Wh ≈ 0.2778 Wh."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following circuit components demonstrates purely Ohmic behavior (constant resistance)?",
+      "options": {
+        "A": "Thermistor",
+        "B": "Filament lamp",
+        "C": "Fixed metallic resistor at constant temperature",
+        "D": "Semiconductor diode"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ohm's law holds for metallic conductors maintained at constant temperature, producing a linear V-I graph."
+    },
+    {
+      "id": 8,
+      "question": "An ideal voltmeter should possess an internal resistance that is:",
+      "options": {
+        "A": "Zero",
+        "B": "Extremely small",
+        "C": "Infinitely high",
+        "D": "Equal to load resistance"
+      },
+      "correctAnswer": "C",
+      "explanation": "An ideal voltmeter is connected in parallel and must draw zero current to avoid altering circuit conditions, requiring infinite internal resistance."
+    },
+    {
+      "id": 9,
+      "question": "The electromotive force (EMF) unit Volt is mathematically equivalent to:",
+      "options": {
+        "A": "J m⁻¹",
+        "B": "J s⁻¹",
+        "C": "J C⁻¹",
+        "D": "N C⁻¹"
+      },
+      "correctAnswer": "C",
+      "explanation": "EMF = Energy supplied / Charge = E/Q, measured in Joules per Coulomb (J C⁻¹)."
+    },
+    {
+      "id": 10,
+      "question": "In domestic electrical wiring, a fuse or circuit breaker is always connected in series with the:",
+      "options": {
+        "A": "Neutral wire",
+        "B": "Live wire",
+        "C": "Earth wire",
+        "D": "Return cable"
+      },
+      "correctAnswer": "B",
+      "explanation": "Connecting the fuse in the live wire ensures that when it blows during an overload, the high-voltage potential is disconnected from the appliance."
+    },
+    {
+      "id": 11,
+      "question": "Human skin in dry conditions exhibits an electrical resistance of approximately:",
+      "options": {
+        "A": "100 Ω",
+        "B": "1,000 Ω",
+        "C": "100,000 Ω (100 kΩ)",
+        "D": "10 Ω"
+      },
+      "correctAnswer": "C",
+      "explanation": "Dry human skin has a high resistance around 100,000 Ω (10⁵ Ω), which drops dramatically to around 1,000 Ω when wet."
+    },
+    {
+      "id": 12,
+      "question": "If a current of 2 A flows through a 50 Ω resistor for 10 seconds, the heat energy produced is:",
+      "options": {
+        "A": "100 J",
+        "B": "500 J",
+        "C": "1,000 J",
+        "D": "2,000 J"
+      },
+      "correctAnswer": "D",
+      "explanation": "H = I²Rt = (2)² × 50 × 10 = 4 × 50 × 10 = 2,000 Joules."
+    }
+  ]
+}

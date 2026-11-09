@@ -1,0 +1,551 @@
+{
+  "chapterNumber": 1,
+  "chapterTitle": "Unit 10: Simple Harmonic Motion & Waves",
+  "slug": "physics-10-chapter-1",
+  "fileName": "physics-10-chapter-1.json",
+  "totalQuestions": 45,
+  "subject": "physics-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The restoring force in SHM is always directed:",
+      "options": {
+        "A": "Away from mean position",
+        "B": "Towards mean position",
+        "C": "Perpendicular to displacement",
+        "D": "Along the path of motion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Towards mean position. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is a condition for SHM?",
+      "options": {
+        "A": "Constant velocity",
+        "B": "Acceleration directly proportional to displacement",
+        "C": "Force is zero",
+        "D": "Displacement is zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Acceleration directly proportional to displacement. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 3,
+      "question": "The phase difference between displacement and acceleration in SHM is:",
+      "options": {
+        "A": "90°",
+        "B": "0°",
+        "C": "180°",
+        "D": "270°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) 180°. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 4,
+      "question": "A pendulum has maximum acceleration at:",
+      "options": {
+        "A": "Mean position",
+        "B": "Halfway position",
+        "C": "Extreme position",
+        "D": "At all positions equally"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Extreme position. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 5,
+      "question": "The energy in SHM is alternately:",
+      "options": {
+        "A": "Lost and gained",
+        "B": "Potential and thermal",
+        "C": "Kinetic and Potential",
+        "D": "Stored and radiated"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Kinetic and Potential. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 6,
+      "question": "If the length of a simple pendulum is doubled, its period becomes:",
+      "options": {
+        "A": "Half",
+        "B": "Double",
+        "C": "√2 times",
+        "D": "√(2) times"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) √(2) times. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 7,
+      "question": "What is the frequency of a pendulum that completes 30 oscillations in 60 seconds?",
+      "options": {
+        "A": "2 Hz",
+        "B": "1 Hz",
+        "C": "0.5 Hz",
+        "D": "60 Hz"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 1 Hz. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 8,
+      "question": "The motion of a child on a swing is an example of:",
+      "options": {
+        "A": "Uniform motion",
+        "B": "Random motion",
+        "C": "SHM",
+        "D": "Circular motion"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) SHM. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 9,
+      "question": "The spring constant has unit:",
+      "options": {
+        "A": "Nm",
+        "B": "N/m",
+        "C": "m/N",
+        "D": "Nm²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) N/m. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 10,
+      "question": "When mass on spring is at equilibrium, the net force is:",
+      "options": {
+        "A": "Maximum",
+        "B": "Zero",
+        "C": "Equal to mg",
+        "D": "Equal to kx"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Zero. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 11,
+      "question": "The speed of wave is the product of:",
+      "options": {
+        "A": "Wavelength and frequency",
+        "B": "Frequency and period",
+        "C": "Wavelength and time",
+        "D": "None"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Wavelength and frequency. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 12,
+      "question": "Transverse waves cannot travel through:",
+      "options": {
+        "A": "Solids",
+        "B": "Liquids",
+        "C": "Gases",
+        "D": "Vacuum"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) Vacuum. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 13,
+      "question": "In refraction of waves from shallow to deep water, speed:",
+      "options": {
+        "A": "Decreases",
+        "B": "Remains same",
+        "C": "Increases",
+        "D": "Becomes zero"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Increases. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 14,
+      "question": "Which property of waves is responsible for sound bending around corners?",
+      "options": {
+        "A": "Reflection",
+        "B": "Refraction",
+        "C": "Interference",
+        "D": "Diffraction"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) Diffraction. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 15,
+      "question": "Electromagnetic waves do not require:",
+      "options": {
+        "A": "Air",
+        "B": "Medium",
+        "C": "Vacuum",
+        "D": "Wavelength"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Medium. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 16,
+      "question": "The frequency of oscillation of a spring depends on:",
+      "options": {
+        "A": "Length of spring",
+        "B": "Amplitude of motion",
+        "C": "Mass attached and spring constant",
+        "D": "Temperature"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Mass attached and spring constant. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 17,
+      "question": "If the mass of a pendulum bob increases, the time period will:",
+      "options": {
+        "A": "Increase",
+        "B": "Decrease",
+        "C": "Remain same",
+        "D": "Become zero"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Remain same. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 18,
+      "question": "Displacement in SHM is maximum at:",
+      "options": {
+        "A": "Mean position",
+        "B": "Quarter way",
+        "C": "Halfway",
+        "D": "Extreme position"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) Extreme position. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 19,
+      "question": "In SHM, kinetic energy is zero when:",
+      "options": {
+        "A": "Acceleration is zero",
+        "B": "Displacement is zero",
+        "C": "At extreme position",
+        "D": "Speed is maximum"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) At extreme position. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 20,
+      "question": "The restoring force in a pendulum is given by:",
+      "options": {
+        "A": "T",
+        "B": "mg",
+        "C": "mg sinθ",
+        "D": "mg cosθ"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) mg sinθ. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 21,
+      "question": "Time period of SHM is independent of:",
+      "options": {
+        "A": "Displacement",
+        "B": "Mass",
+        "C": "Spring constant",
+        "D": "Gravity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Displacement. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 22,
+      "question": "Which motion is not SHM?",
+      "options": {
+        "A": "Swinging pendulum",
+        "B": "Oscillating spring",
+        "C": "Moving car",
+        "D": "Vibrating string"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Moving car. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 23,
+      "question": "What happens to frequency if time period is doubled?",
+      "options": {
+        "A": "Doubled",
+        "B": "Halved",
+        "C": "Becomes 1/4",
+        "D": "Becomes 2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Halved. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 24,
+      "question": "When a pendulum swings, at mean position:",
+      "options": {
+        "A": "Kinetic energy is maximum",
+        "B": "Potential energy is maximum",
+        "C": "Both are zero",
+        "D": "Acceleration is maximum"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Kinetic energy is maximum. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 25,
+      "question": "Which factor affects the time period of a simple pendulum?",
+      "options": {
+        "A": "Mass of bob",
+        "B": "Length of string",
+        "C": "Material of bob",
+        "D": "Amplitude"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Length of string. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 26,
+      "question": "The acceleration in SHM is always directed:",
+      "options": {
+        "A": "Away from mean position",
+        "B": "Opposite to displacement",
+        "C": "Along the path of motion",
+        "D": "In the direction of velocity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Opposite to displacement. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 27,
+      "question": "The maximum restoring force in SHM acts at:",
+      "options": {
+        "A": "Mean position",
+        "B": "Extreme position",
+        "C": "Half displacement",
+        "D": "Quarter displacement"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Extreme position. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 28,
+      "question": "In a spring-mass system, the force is proportional to:",
+      "options": {
+        "A": "Velocity",
+        "B": "Acceleration",
+        "C": "Displacement from mean position",
+        "D": "Mass of spring"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Displacement from mean position. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 29,
+      "question": "The velocity of a body in SHM is zero at:",
+      "options": {
+        "A": "Mean position",
+        "B": "Halfway from mean",
+        "C": "Extreme position",
+        "D": "Nowhere"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Extreme position. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 30,
+      "question": "When does the body in SHM have maximum kinetic energy?",
+      "options": {
+        "A": "At mean position",
+        "B": "At maximum displacement",
+        "C": "Midway",
+        "D": "At rest"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) At mean position. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 31,
+      "question": "Which one is a characteristic of SHM?",
+      "options": {
+        "A": "Constant speed",
+        "B": "Acceleration proportional to velocity",
+        "C": "Constant amplitude",
+        "D": "Force proportional to displacement"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) Force proportional to displacement. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 32,
+      "question": "The unit of angular frequency is:",
+      "options": {
+        "A": "rad/s",
+        "B": "Hz",
+        "C": "m/s²",
+        "D": "N"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) rad/s. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 33,
+      "question": "A graph of displacement vs time in SHM gives:",
+      "options": {
+        "A": "Straight line",
+        "B": "Circular arc",
+        "C": "Sine or cosine wave",
+        "D": "Exponential curve"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Sine or cosine wave. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 34,
+      "question": "The time period of a mass-spring system is independent of:",
+      "options": {
+        "A": "Mass of body",
+        "B": "Spring constant",
+        "C": "Amplitude",
+        "D": "Length of spring"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Amplitude. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 35,
+      "question": "In SHM, total energy remains:",
+      "options": {
+        "A": "Zero",
+        "B": "Constant",
+        "C": "Increasing",
+        "D": "Decreasing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Constant. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 36,
+      "question": "When is potential energy maximum in SHM?",
+      "options": {
+        "A": "Mean position",
+        "B": "Zero displacement",
+        "C": "Extreme position",
+        "D": "Halfway"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Extreme position. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 37,
+      "question": "Time period of SHM is the time to complete:",
+      "options": {
+        "A": "Half oscillation",
+        "B": "One oscillation",
+        "C": "Two oscillations",
+        "D": "One second"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) One oscillation. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 38,
+      "question": "Which formula represents time period of simple pendulum?",
+      "options": {
+        "A": "T = 2π√(l/g)",
+        "B": "T = √(g/l)",
+        "C": "T = 2π√(g/l)",
+        "D": "T = 2π√(l)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) T = 2π√(l/g). In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 39,
+      "question": "If the spring constant is increased, the time period:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains same",
+        "D": "Becomes infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Decreases. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 40,
+      "question": "The restoring force for a pendulum is given by:",
+      "options": {
+        "A": "T",
+        "B": "mg sinθ",
+        "C": "kx",
+        "D": "mv²/r"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) mg sinθ. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 41,
+      "question": "Which wave property changes when light enters a different medium?",
+      "options": {
+        "A": "Frequency",
+        "B": "Wavelength",
+        "C": "Amplitude",
+        "D": "Phase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Wavelength. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 42,
+      "question": "Speed of wave =",
+      "options": {
+        "A": "Time × Frequency",
+        "B": "Wavelength × Frequency",
+        "C": "Frequency / Wavelength",
+        "D": "Wavelength / Time"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Wavelength × Frequency. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 43,
+      "question": "Diffraction increases when:",
+      "options": {
+        "A": "Opening is wide",
+        "B": "Wavelength is small",
+        "C": "Opening is small",
+        "D": "None"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Opening is small. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 44,
+      "question": "In transverse waves, particles move:",
+      "options": {
+        "A": "Parallel to wave direction",
+        "B": "Perpendicular to wave direction",
+        "C": "Randomly",
+        "D": "Circular"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Perpendicular to wave direction. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    },
+    {
+      "id": 45,
+      "question": "The energy carried by a wave depends on:",
+      "options": {
+        "A": "Speed",
+        "B": "Frequency",
+        "C": "Amplitude",
+        "D": "Wavelength"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Amplitude. In SHM and wave motion, restoring force is directed towards mean position (F = -kx) and wave parameters satisfy v = fλ."
+    }
+  ]
+}

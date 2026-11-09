@@ -1,0 +1,455 @@
+{
+  "chapterNumber": 6,
+  "chapterTitle": "Unit 15: Electromagnetism",
+  "slug": "physics-10-chapter-6",
+  "fileName": "physics-10-chapter-6.json",
+  "totalQuestions": 37,
+  "subject": "physics-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The magnetic field is produced by:",
+      "options": {
+        "A": "Stationary charges",
+        "B": "Moving charges",
+        "C": "Both stationary and moving charges",
+        "D": "Only electric charges"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Moving charges. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 2,
+      "question": "The SI unit of magnetic field is:",
+      "options": {
+        "A": "Weber",
+        "B": "Tesla",
+        "C": "Coulomb",
+        "D": "Ampere"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Tesla. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 3,
+      "question": "The direction of magnetic field around a straight current-carrying conductor can be\ndetermined using:",
+      "options": {
+        "A": "Right-hand rule",
+        "B": "Left-hand rule",
+        "C": "Fleming’s left-hand rule",
+        "D": "Fleming’s right-hand rule"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Right-hand rule. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 4,
+      "question": "The force on a current-carrying conductor placed in a magnetic field depends on:",
+      "options": {
+        "A": "The strength of the magnetic field",
+        "B": "The length of the conductor",
+        "C": "The current passing through the conductor",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) All of the above. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 5,
+      "question": "The magnetic field produced by a current-carrying conductor is:",
+      "options": {
+        "A": "Always radial",
+        "B": "Circular",
+        "C": "Uniform",
+        "D": "Linear"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Circular. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 6,
+      "question": "The force on a current-carrying conductor in a magnetic field is maximum when the\nangle between the magnetic field and the current is:",
+      "options": {
+        "A": "0°",
+        "B": "45°",
+        "C": "90°",
+        "D": "180°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) 90°. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 7,
+      "question": "The magnetic field produced by a current in a solenoid is similar to that of:",
+      "options": {
+        "A": "A bar magnet",
+        "B": "A straight conductor",
+        "C": "An electric field",
+        "D": "A dipole"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) A bar magnet. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 8,
+      "question": "The direction of the magnetic field around a current-carrying solenoid can be\ndetermined using:",
+      "options": {
+        "A": "Right-hand thumb rule",
+        "B": "Left-hand thumb rule",
+        "C": "Ampere’s law",
+        "D": "Gauss’s law"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Right-hand thumb rule. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 9,
+      "question": "The force between two parallel current-carrying conductors depends on:",
+      "options": {
+        "A": "The magnitude of the currents",
+        "B": "The distance between the conductors",
+        "C": "The length of the conductors",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) All of the above. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 10,
+      "question": "The magnetic field inside a solenoid is:",
+      "options": {
+        "A": "Zero",
+        "B": "Uniform",
+        "C": "Variable",
+        "D": "Radial"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Uniform. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 11,
+      "question": "In an electric motor, the force on the current-carrying conductor is maximum when:",
+      "options": {
+        "A": "The angle between the conductor and the magnetic field is 0°",
+        "B": "The angle between the conductor and the magnetic field is 90°",
+        "C": "The angle between the conductor and the magnetic field is 45°",
+        "D": "The current is zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) The angle between the conductor and the magnetic field is 90°. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is used to detect a magnetic field?",
+      "options": {
+        "A": "Galvanometer",
+        "B": "Compass needle",
+        "C": "Ammeter",
+        "D": "Voltmeter"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Compass needle. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 13,
+      "question": "The magnetic field at the center of a current-carrying circular loop is:",
+      "options": {
+        "A": "Zero",
+        "B": "Maximum",
+        "C": "Minimum",
+        "D": "Uniform"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Maximum. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 14,
+      "question": "The magnetic force between two parallel current-carrying wires is attractive if the\ncurrents are in:",
+      "options": {
+        "A": "The same direction",
+        "B": "Opposite directions",
+        "C": "Perpendicular directions",
+        "D": "Parallel directions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) The same direction. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 15,
+      "question": "The phenomenon of electromagnetism was first discovered by:",
+      "options": {
+        "A": "Ampère",
+        "B": "Faraday",
+        "C": "Oersted",
+        "D": "Maxwell"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Oersted. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 16,
+      "question": "The magnetic field around a current-carrying wire is:",
+      "options": {
+        "A": "Radial",
+        "B": "Circular",
+        "C": "Conical",
+        "D": "Linear"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Circular. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 17,
+      "question": "The right-hand rule for a solenoid states that:",
+      "options": {
+        "A": "The thumb points in the direction of the magnetic field",
+        "B": "The thumb points in the direction of the current",
+        "C": "The fingers point in the direction of the magnetic field",
+        "D": "The thumb points in the direction of the current, and the fingers curl in the direction of the"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) The thumb points in the direction of the current, and the fingers curl in the direction of the. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 18,
+      "question": "The magnetic force on a charged particle moving in a magnetic field depends on:",
+      "options": {
+        "A": "The charge of the particle",
+        "B": "The velocity of the particle",
+        "C": "The angle between the velocity and magnetic field",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) All of the above. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 19,
+      "question": "The magnetic field produced by a current-carrying conductor decreases with an\nincrease in:",
+      "options": {
+        "A": "Distance from the conductor",
+        "B": "Current",
+        "C": "Length of the conductor",
+        "D": "Strength of the magnetic field"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Distance from the conductor. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 20,
+      "question": "When a current-carrying conductor is placed in a magnetic field, the force acting on it\nis known as:",
+      "options": {
+        "A": "Electric force",
+        "B": "Magnetic force",
+        "C": "Gravitational force",
+        "D": "Electromotive force"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Magnetic force. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 21,
+      "question": "The phenomenon of electromagnetic induction was discovered by:",
+      "options": {
+        "A": "Ampère",
+        "B": "Faraday",
+        "C": "Oersted",
+        "D": "Lenz"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Faraday. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 22,
+      "question": "In a transformer, the number of turns in the primary coil and secondary coil\ndetermines:",
+      "options": {
+        "A": "The efficiency",
+        "B": "The power",
+        "C": "The voltage",
+        "D": "The current"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) The voltage. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 23,
+      "question": "The direction of induced current can be found using:",
+      "options": {
+        "A": "Faraday’s law",
+        "B": "Lenz’s law",
+        "C": "Ampere’s law",
+        "D": "Gauss’s law"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Lenz’s law. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 24,
+      "question": "The efficiency of a transformer is maximized when:",
+      "options": {
+        "A": "The current in both coils is the same",
+        "B": "The voltage in both coils is the same",
+        "C": "The resistance is minimized",
+        "D": "Both coils are short-circuited"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) The resistance is minimized. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 25,
+      "question": "The force on a moving charge in a magnetic field is zero if the velocity of the charge\nis:",
+      "options": {
+        "A": "Perpendicular to the magnetic field",
+        "B": "Parallel to the magnetic field",
+        "C": "Random",
+        "D": "Zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Parallel to the magnetic field. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 26,
+      "question": "The magnetic field produced by a current-carrying solenoid is:",
+      "options": {
+        "A": "Uniform and strong",
+        "B": "Non-uniform",
+        "C": "Radial",
+        "D": "Zero at the center"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Uniform and strong. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 27,
+      "question": "An electromagnet is made stronger by:",
+      "options": {
+        "A": "Decreasing the number of turns of wire",
+        "B": "Decreasing the current",
+        "C": "Increasing the number of turns of wire",
+        "D": "Using a non-ferromagnetic core"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Increasing the number of turns of wire. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 28,
+      "question": "The magnetic field due to a current-carrying wire is strongest:",
+      "options": {
+        "A": "At the wire",
+        "B": "At a point far away from the wire",
+        "C": "At a point close to the wire",
+        "D": "At the center of the wire"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) At the wire. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 29,
+      "question": "A galvanometer can be converted into an ammeter by:",
+      "options": {
+        "A": "Adding a series resistance",
+        "B": "Adding a parallel resistance",
+        "C": "Increasing the number of turns in the coil",
+        "D": "None of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Adding a parallel resistance. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 30,
+      "question": "The magnetic field strength is highest near a:",
+      "options": {
+        "A": "Solenoid",
+        "B": "Straight wire",
+        "C": "Loop of current",
+        "D": "Magnetic dipole"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Solenoid. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 31,
+      "question": "The direction of the induced current in a closed loop due to a changing magnetic field\nis given by:",
+      "options": {
+        "A": "Faraday’s law",
+        "B": "Lenz’s law",
+        "C": "Ampere’s law",
+        "D": "Gauss’s law"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Lenz’s law. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 32,
+      "question": "Which of the following is a device that uses electromagnetic induction?",
+      "options": {
+        "A": "Transformer",
+        "B": "Electric motor",
+        "C": "Galvanometer",
+        "D": "Voltmeter"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Transformer. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 33,
+      "question": "In an electric motor, the force on the coil is caused by the interaction between:",
+      "options": {
+        "A": "Electric and magnetic fields",
+        "B": "Two electric fields",
+        "C": "Two magnetic fields",
+        "D": "Electric and gravitational fields"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Electric and magnetic fields. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 34,
+      "question": "In a moving coil galvanometer, the coil is suspended in a magnetic field to detect:",
+      "options": {
+        "A": "Electric current",
+        "B": "Voltage",
+        "C": "Resistance",
+        "D": "Power"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Electric current. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 35,
+      "question": "The power in an electric circuit can be increased by:",
+      "options": {
+        "A": "Increasing the current",
+        "B": "Increasing the voltage",
+        "C": "Both a and b",
+        "D": "Decreasing the resistance"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Both a and b. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 36,
+      "question": "The magnetic field of a solenoid is similar to the field of a:",
+      "options": {
+        "A": "Bar magnet",
+        "B": "Electric dipole",
+        "C": "Charged conductor",
+        "D": "Current-carrying wire"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Bar magnet. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    },
+    {
+      "id": 37,
+      "question": "In electromagnetic induction, the induced EMF is proportional to:",
+      "options": {
+        "A": "The rate of change of magnetic flux",
+        "B": "The rate of current",
+        "C": "The strength of the magnetic field",
+        "D": "The length of the conductor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) The rate of change of magnetic flux. Electromagnetism encompasses magnetic fields of steady currents, Fleming's left-hand rule for motors, and Faraday/Lenz induction for generators and transformers."
+    }
+  ]
+}

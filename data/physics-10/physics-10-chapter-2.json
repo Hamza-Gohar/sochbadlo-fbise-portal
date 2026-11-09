@@ -1,0 +1,551 @@
+{
+  "chapterNumber": 2,
+  "chapterTitle": "Unit 11: Sound",
+  "slug": "physics-10-chapter-2",
+  "fileName": "physics-10-chapter-2.json",
+  "totalQuestions": 45,
+  "subject": "physics-10",
+  "grade": "10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the speed of sound in air at 20°C?",
+      "options": {
+        "A": "1500 m/s",
+        "B": "340 m/s",
+        "C": "330 m/s",
+        "D": "500 m/s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 340 m/s. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following is NOT a characteristic of sound waves?",
+      "options": {
+        "A": "Sound waves require a medium to travel.",
+        "B": "Sound waves can travel through a vacuum.",
+        "C": "Sound waves are longitudinal waves.",
+        "D": "Sound waves transfer energy through vibrations."
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Sound waves can travel through a vacuum.. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 3,
+      "question": "The frequency of a sound wave is measured in:",
+      "options": {
+        "A": "Decibels (dB)",
+        "B": "Hertz (Hz)",
+        "C": "Metres (m)",
+        "D": "Seconds (s)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Hertz (Hz). Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 4,
+      "question": "The pitch of a sound is determined by:",
+      "options": {
+        "A": "Amplitude",
+        "B": "Frequency",
+        "C": "Wavelength",
+        "D": "Speed of sound"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Frequency. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 5,
+      "question": "What is the relationship between frequency and wavelength of sound?",
+      "options": {
+        "A": "Frequency is directly proportional to wavelength.",
+        "B": "Frequency is inversely proportional to wavelength.",
+        "C": "Frequency and wavelength are unrelated.",
+        "D": "Wavelength is constant regardless of frequency."
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Frequency is inversely proportional to wavelength.. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 6,
+      "question": "Which medium allows the fastest speed of sound?",
+      "options": {
+        "A": "Water",
+        "B": "Air",
+        "C": "Steel",
+        "D": "Wood"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Steel. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 7,
+      "question": "What is the frequency range of the human ear?",
+      "options": {
+        "A": "0-100 Hz",
+        "B": "20-20,000 Hz",
+        "C": "100-10,000 Hz",
+        "D": "20-100,000 Hz"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 20-20,000 Hz. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 8,
+      "question": "What is the unit of amplitude?",
+      "options": {
+        "A": "Decibels (dB)",
+        "B": "Meters (m)",
+        "C": "Hertz (Hz)",
+        "D": "Newton (N)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Meters (m). Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 9,
+      "question": "The phenomenon where sound waves are reflected back is called:",
+      "options": {
+        "A": "Refraction",
+        "B": "Reflection",
+        "C": "Diffraction",
+        "D": "Absorption"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Reflection. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following increases the loudness of a sound?",
+      "options": {
+        "A": "Increase in amplitude",
+        "B": "Increase in frequency",
+        "C": "Decrease in amplitude",
+        "D": "Decrease in frequency"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Increase in amplitude. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 11,
+      "question": "Which of these waves is an example of a longitudinal wave?",
+      "options": {
+        "A": "Light waves",
+        "B": "Water waves",
+        "C": "Sound waves",
+        "D": "Radio waves"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Sound waves. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 12,
+      "question": "What happens when the frequency of sound waves increases?",
+      "options": {
+        "A": "The sound becomes softer.",
+        "B": "The sound becomes higher pitched.",
+        "C": "The sound becomes lower pitched.",
+        "D": "The sound becomes louder."
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) The sound becomes higher pitched.. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 13,
+      "question": "What is the speed of sound in water?",
+      "options": {
+        "A": "1500 m/s",
+        "B": "330 m/s",
+        "C": "1450 m/s",
+        "D": "500 m/s"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 1500 m/s. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 14,
+      "question": "The speed of sound depends on which of the following?",
+      "options": {
+        "A": "Frequency",
+        "B": "Wavelength",
+        "C": "Temperature and medium",
+        "D": "Amplitude"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Temperature and medium. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 15,
+      "question": "What do we call the range of frequencies below 20 Hz?",
+      "options": {
+        "A": "Audible range",
+        "B": "Ultrasonic",
+        "C": "Infrasonic",
+        "D": "Supersonic"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Infrasonic. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following best describes sound?",
+      "options": {
+        "A": "Transverse wave",
+        "B": "Longitudinal wave",
+        "C": "Electromagnetic wave",
+        "D": "Matter wave"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Longitudinal wave. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following factors does NOT affect the speed of sound?",
+      "options": {
+        "A": "Temperature",
+        "B": "Pressure",
+        "C": "Medium density",
+        "D": "Wavelength"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) Wavelength. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 18,
+      "question": "The threshold of hearing is considered to be:",
+      "options": {
+        "A": "0 dB",
+        "B": "20 dB",
+        "C": "40 dB",
+        "D": "100 dB"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 0 dB. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 19,
+      "question": "What type of wave is sound in the air?",
+      "options": {
+        "A": "Longitudinal wave",
+        "B": "Transverse wave",
+        "C": "Mechanical wave",
+        "D": "Electromagnetic wave"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Longitudinal wave. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 20,
+      "question": "Which phenomenon is used in the working of an echo?",
+      "options": {
+        "A": "Reflection of sound",
+        "B": "Refraction of sound",
+        "C": "Diffraction of sound",
+        "D": "Interference of sound"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Reflection of sound. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 21,
+      "question": "The loudness of a sound depends on:",
+      "options": {
+        "A": "Amplitude",
+        "B": "Frequency",
+        "C": "Wavelength",
+        "D": "Medium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Amplitude. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 22,
+      "question": "Which is the most accurate statement regarding sound in a vacuum?",
+      "options": {
+        "A": "Sound travels at a higher speed.",
+        "B": "Sound does not travel at all.",
+        "C": "Sound travels at a lower speed.",
+        "D": "Sound travels, but with lower frequency."
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Sound does not travel at all.. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 23,
+      "question": "An increase in the frequency of sound results in:",
+      "options": {
+        "A": "A decrease in amplitude",
+        "B": "A decrease in pitch",
+        "C": "A decrease in loudness",
+        "D": "A higher-pitched sound"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) A higher-pitched sound. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 24,
+      "question": "What is the human hearing range for frequency?",
+      "options": {
+        "A": "20 Hz to 20,000 Hz",
+        "B": "10 Hz to 30,000 Hz",
+        "C": "30 Hz to 50,000 Hz",
+        "D": "15 Hz to 10,000 Hz"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 20 Hz to 20,000 Hz. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 25,
+      "question": "The phenomenon where sound waves bend around obstacles is known as:",
+      "options": {
+        "A": "Diffraction",
+        "B": "Reflection",
+        "C": "Absorption",
+        "D": "Refraction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Diffraction. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 26,
+      "question": "When a sound wave travels from air to water, which property remains unchanged?",
+      "options": {
+        "A": "Speed",
+        "B": "Frequency",
+        "C": "Wavelength",
+        "D": "Amplitude"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Frequency. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 27,
+      "question": "What is the SI unit of sound intensity?",
+      "options": {
+        "A": "Watt (W)",
+        "B": "Decibel (dB)",
+        "C": "Hertz (Hz)",
+        "D": "Newton (N)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Decibel (dB). Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 28,
+      "question": "Which of the following is used to measure sound levels?",
+      "options": {
+        "A": "Thermometer",
+        "B": "Barometer",
+        "C": "Audiometer",
+        "D": "Oscilloscope"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Audiometer. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 29,
+      "question": "Which phenomenon is used in musical instruments to produce sound?",
+      "options": {
+        "A": "Compression and rarefaction",
+        "B": "Reflection",
+        "C": "Diffraction",
+        "D": "Electromagnetic waves"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Compression and rarefaction. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 30,
+      "question": "The term \"Doppler effect\" refers to:",
+      "options": {
+        "A": "Change in frequency due to the motion of the source or observer",
+        "B": "Change in amplitude due to distance",
+        "C": "Change in speed due to medium",
+        "D": "Change in wavelength due to temperature"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Change in frequency due to the motion of the source or observer. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 31,
+      "question": "The wavelength of a sound wave is inversely proportional to:",
+      "options": {
+        "A": "Amplitude",
+        "B": "Frequency",
+        "C": "Speed",
+        "D": "Temperature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Frequency. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 32,
+      "question": "The term used to describe the bending of sound waves as they pass from one\nmedium to another is:",
+      "options": {
+        "A": "Diffraction",
+        "B": "Reflection",
+        "C": "Refraction",
+        "D": "Dispersion"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Refraction. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 33,
+      "question": "The unit of measurement for the intensity of sound is:",
+      "options": {
+        "A": "Hertz (Hz)",
+        "B": "Decibels (dB)",
+        "C": "Meters (m)",
+        "D": "Newtons (N)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Decibels (dB). Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 34,
+      "question": "What happens to the speed of sound when the temperature increases?",
+      "options": {
+        "A": "The speed of sound decreases.",
+        "B": "The speed of sound increases.",
+        "C": "The speed of sound remains unchanged.",
+        "D": "The speed of sound becomes zero."
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) The speed of sound increases.. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 35,
+      "question": "Which of the following is used to increase the volume of sound in musical\ninstruments like a guitar?",
+      "options": {
+        "A": "Resonance",
+        "B": "Diffraction",
+        "C": "Interference",
+        "D": "Refraction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Resonance. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 36,
+      "question": "What type of sound wave is produced by musical instruments?",
+      "options": {
+        "A": "Transverse waves",
+        "B": "Longitudinal waves",
+        "C": "Electromagnetic waves",
+        "D": "Surface waves"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Longitudinal waves. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 37,
+      "question": "The Doppler effect can be heard when:",
+      "options": {
+        "A": "A train passes by at high speed.",
+        "B": "A car horn blows in front of you.",
+        "C": "A bird flies overhead.",
+        "D": "Both A and B"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) Both A and B. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 38,
+      "question": "Which of the following factors does NOT affect the pitch of sound?",
+      "options": {
+        "A": "Frequency",
+        "B": "Amplitude",
+        "C": "Speed of sound",
+        "D": "Wavelength"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Amplitude. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 39,
+      "question": "Which material is the best conductor of sound?",
+      "options": {
+        "A": "Wood",
+        "B": "Air",
+        "C": "Steel",
+        "D": "Water"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Steel. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 40,
+      "question": "The energy carried by a sound wave is related to its:",
+      "options": {
+        "A": "Frequency",
+        "B": "Amplitude",
+        "C": "Wavelength",
+        "D": "Speed"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Amplitude. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 41,
+      "question": "Which part of the ear detects sound vibrations?",
+      "options": {
+        "A": "Eardrum",
+        "B": "Cochlea",
+        "C": "Ear canal",
+        "D": "Auditory nerve"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Cochlea. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 42,
+      "question": "The speed of sound in a gas increases as:",
+      "options": {
+        "A": "The gas becomes denser",
+        "B": "The temperature decreases",
+        "C": "The gas becomes lighter",
+        "D": "The gas becomes colder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) The gas becomes lighter. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 43,
+      "question": "When sound waves travel through a medium, they cause particles to move:",
+      "options": {
+        "A": "Transversely",
+        "B": "Perpendicular to the direction of the wave",
+        "C": "In a circular motion",
+        "D": "Parallel to the direction of the wave"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Answer: (D) Parallel to the direction of the wave. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 44,
+      "question": "Which of the following frequencies is considered ultrasonic?",
+      "options": {
+        "A": "19,000 Hz",
+        "B": "20,000 Hz",
+        "C": "30,000 Hz",
+        "D": "10,000 Hz"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) 30,000 Hz. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    },
+    {
+      "id": 45,
+      "question": "In which medium does sound travel the fastest?",
+      "options": {
+        "A": "Air",
+        "B": "Water",
+        "C": "Steel",
+        "D": "Wood"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Steel. Sound waves are longitudinal mechanical waves requiring a medium; pitch is determined by frequency and loudness by amplitude."
+    }
+  ]
+}

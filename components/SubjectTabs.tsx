@@ -25,6 +25,7 @@ interface SubjectTabsProps {
   cs9Chapters?: ChapterMeta[];
   biology9Chapters?: ChapterMeta[];
   math10Chapters?: ChapterMeta[];
+  physics10Chapters?: ChapterMeta[];
 }
 
 export default function SubjectTabs({
@@ -47,8 +48,10 @@ export default function SubjectTabs({
   cs9Chapters = [],
   biology9Chapters = [],
   math10Chapters = [],
+  physics10Chapters = [],
 }: SubjectTabsProps) {
   const [activeGrade, setActiveGrade] = useState<'9' | '10' | '11'>('11');
+  const [activeGrade10Subject, setActiveGrade10Subject] = useState<'math' | 'physics'>('math');
   const [activeGrade9Subject, setActiveGrade9Subject] = useState<'urdu' | 'tarjuma' | 'english' | 'islamiat' | 'chemistry' | 'cs' | 'biology' | 'math' | 'physics'>('urdu');
   const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry'>('physics');
 
@@ -79,6 +82,11 @@ export default function SubjectTabs({
         }
       } else if (params.get('grade') === '10') {
         setActiveGrade('10');
+        if (params.get('subject') === 'physics') {
+          setActiveGrade10Subject('physics');
+        } else if (params.get('subject') === 'math') {
+          setActiveGrade10Subject('math');
+        }
       } else if (params.get('grade') === '11') {
         setActiveGrade('11');
       }
@@ -95,6 +103,7 @@ export default function SubjectTabs({
   const cs9Total = cs9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const biology9Total = biology9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const math10Total = math10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const physics10Total = physics10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -107,7 +116,9 @@ export default function SubjectTabs({
 
   const activeChapters =
     activeGrade === '10'
-      ? math10Chapters
+      ? activeGrade10Subject === 'physics'
+        ? physics10Chapters
+        : math10Chapters
       : activeGrade === '9'
       ? activeGrade9Subject === 'urdu'
         ? urdu9Chapters
@@ -187,7 +198,7 @@ export default function SubjectTabs({
             >
               <Calculator className="w-4 h-4 text-amber-400" />
               <span>Class 10th (SSC-II)</span>
-              <span className="text-[10px] opacity-75 font-mono">Mathematics Ready</span>
+              <span className="text-[10px] opacity-75 font-mono">2 Subjects</span>
             </button>
             <button
               type="button"
@@ -212,7 +223,9 @@ export default function SubjectTabs({
           <div>
             <h2 className="font-[family-name:var(--font-display)] text-xl sm:text-2xl font-bold tracking-tight text-[var(--color-ink)]">
               {activeGrade === '10'
-                ? 'Class 10th FBISE Mathematics (ریاضی - SSC-II)'
+                ? activeGrade10Subject === 'physics'
+                  ? 'Class 10th FBISE Physics (فزکس - SSC-II)'
+                  : 'Class 10th FBISE Mathematics (ریاضی - SSC-II)'
                 : activeGrade === '9'
                 ? activeGrade9Subject === 'urdu'
                   ? 'Class 9th FBISE Urdu Compulsory (اردو لازمی)'
@@ -235,7 +248,9 @@ export default function SubjectTabs({
             </h2>
             <p className="text-xs text-[var(--color-muted)] mt-1">
               {activeGrade === '10'
-                ? 'All 13 National Curriculum chapters (Quadratic Equations, Variations, Partial Fractions, Sets & Functions, Basic Statistics, Trigonometry, Circle Geometry) + 10 Annual Federal Board Examination Simulators.'
+                ? activeGrade10Subject === 'physics'
+                  ? 'All 9 National Curriculum units (Simple Harmonic Motion, Sound, Geometrical Optics, Electrostatics, Current Electricity, Electromagnetism, Introductory Electronics, ICT, Atomic & Nuclear Physics) + 10 Annual Federal Board Examination Simulators.'
+                  : 'All 13 National Curriculum chapters (Quadratic Equations, Variations, Partial Fractions, Sets & Functions, Basic Statistics, Trigonometry, Circle Geometry) + 10 Annual Federal Board Examination Simulators.'
                 : activeGrade === '9'
                 ? activeGrade9Subject === 'urdu'
                   ? 'حصہ نثر، حصہ نظم، حصہ غزل، علم بیان، علم بدیع، اصناف ادب اور قواعد و انشا کے 7 یونٹس مع 4 وفاقی بورڈ سیکشن اے سالانہ امتحانی سمولیٹرز۔'
@@ -262,12 +277,33 @@ export default function SubjectTabs({
             <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs pb-1">
               <button
                 type="button"
-                className="px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap bg-blue-950 text-white border-blue-950 shadow-sm"
+                onClick={() => setActiveGrade10Subject('math')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade10Subject === 'math'
+                    ? 'bg-blue-950 text-white border-blue-950 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
               >
                 <Calculator className="w-4 h-4 text-amber-400" />
                 <span>Mathematics (ریاضی)</span>
                 <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
                   {math10Chapters.length} Modules · {math10Total} Qs
+                </span>
+              </button>
+
+              <button
+                type="button"
+                onClick={() => setActiveGrade10Subject('physics')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade10Subject === 'physics'
+                    ? 'bg-sky-950 text-white border-sky-950 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <Atom className="w-4 h-4 text-sky-400" />
+                <span>Physics (فزکس)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {physics10Chapters.length} Modules · {physics10Total} Qs
                 </span>
               </button>
             </div>
@@ -575,7 +611,9 @@ export default function SubjectTabs({
             <div>
               <span className="text-xs font-mono uppercase tracking-widest text-emerald-900 font-bold block">
                 {activeGrade === '10'
-                  ? 'Active Subject: Class 10th Mathematics (SSC-II Matric Part 2)'
+                  ? activeGrade10Subject === 'physics'
+                    ? 'Active Subject: Class 10th Physics (SSC-II Matric Part 2)'
+                    : 'Active Subject: Class 10th Mathematics (SSC-II Matric Part 2)'
                   : activeGrade === '9'
                   ? activeGrade9Subject === 'urdu'
                     ? 'فعال مضمون: وفاقی تعلیمی بورڈ اردو لازمی جماعت نہم (FBISE Urdu Class 9)'
@@ -614,7 +652,9 @@ export default function SubjectTabs({
               </span>
               <p className="text-xs text-[var(--color-muted)] mt-0.5">
                 {activeGrade === '10'
-                  ? 'All 13 National Curriculum chapters + 10 official Section A annual board examination simulators (Lecturer Jazab, Lecturer Nimra Abid & Soch Badlo By MAK) with full mathematical reasoning.'
+                  ? activeGrade10Subject === 'physics'
+                    ? 'All 9 National Curriculum units + 10 official Section A annual board examination simulators (Soch Badlo By MAK Academic Board) with step-by-step physical principles and formula explanations.'
+                    : 'All 13 National Curriculum chapters + 10 official Section A annual board examination simulators (Lecturer Jazab, Lecturer Nimra Abid & Soch Badlo By MAK) with full mathematical reasoning.'
                   : activeGrade === '9'
                   ? activeGrade9Subject === 'urdu'
                     ? 'حصہ نثر، حصہ نظم، حصہ غزل، علم بیان، علم بدیع، اصناف ادب اور قواعد و انشا کے 7 یونٹس مع 4 وفاقی بورڈ سالانہ امتحانی سمولیٹرز (لیکچرار نرجس ظہیر)۔'
@@ -658,7 +698,9 @@ export default function SubjectTabs({
             <span>·</span>
             <span>
               {activeGrade === '10'
-                ? math10Total
+                ? activeGrade10Subject === 'physics'
+                  ? physics10Total
+                  : math10Total
                 : activeGrade === '9'
                 ? activeGrade9Subject === 'urdu'
                   ? urdu9Total
