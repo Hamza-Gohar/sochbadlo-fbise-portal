@@ -1,0 +1,367 @@
+{
+  "chapterNumber": 3,
+  "chapterTitle": "ریاضی حصہ سوم: تراتیب و توالیف، استقراء اور دو رقمی مسئلہ (Permutations, Induction & Binomial)",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The value of 0! (zero factorial) is defined to be:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "Undefined",
+        "D": "-1"
+      },
+      "correctAnswer": "A",
+      "explanation": "By definition in combinatorics and gamma function, 0! = 1, ensuring n! = n(n-1)! holds for n = 1."
+    },
+    {
+      "id": 2,
+      "question": "The value of 4! · 0! · 1! is equal to:",
+      "options": {
+        "A": "24",
+        "B": "0",
+        "C": "4",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "4! = 4 × 3 × 2 × 1 = 24. 0! = 1 and 1! = 1. Therefore, 24 × 1 × 1 = 24."
+    },
+    {
+      "id": 3,
+      "question": "The value of 9! / (6! · 3!) is:",
+      "options": {
+        "A": "84",
+        "B": "48",
+        "C": "24",
+        "D": "42"
+      },
+      "correctAnswer": "A",
+      "explanation": "9! / (6! · 3!) = (9 × 8 × 7)/(3 × 2 × 1) = 504 / 6 = 84."
+    },
+    {
+      "id": 4,
+      "question": "The factorial expression for n(n - 1)(n - 2) is:",
+      "options": {
+        "A": "n! / (n - 3)!",
+        "B": "n! / (n - 2)!",
+        "C": "n! / 3!",
+        "D": "(n - 3)!"
+      },
+      "correctAnswer": "A",
+      "explanation": "n! / (n - 3)! = [n(n - 1)(n - 2)(n - 3)!] / (n - 3)! = n(n - 1)(n - 2)."
+    },
+    {
+      "id": 5,
+      "question": "The total number of permutations of all letters in the word 'GARDEN' is:",
+      "options": {
+        "A": "720",
+        "B": "600",
+        "C": "480",
+        "D": "120"
+      },
+      "correctAnswer": "A",
+      "explanation": "The word 'GARDEN' has 6 distinct letters. Number of arrangements = 6! = 6 × 5 × 4 × 3 × 2 × 1 = 720."
+    },
+    {
+      "id": 6,
+      "question": "If ^n P_2 = 30, then the value of n is:",
+      "options": {
+        "A": "6",
+        "B": "5",
+        "C": "7",
+        "D": "8"
+      },
+      "correctAnswer": "A",
+      "explanation": "^n P_2 = n(n - 1) = 30. Since 6 × 5 = 30, n = 6."
+    },
+    {
+      "id": 7,
+      "question": "For any integer n ≥ r ≥ 0, the relationship between permutation and combination is:",
+      "options": {
+        "A": "^n P_r = r! · (^n C_r)",
+        "B": "^n C_r = r! · (^n P_r)",
+        "C": "^n P_r = ^n C_r",
+        "D": "^n P_r + ^n C_r = n!"
+      },
+      "correctAnswer": "A",
+      "explanation": "^n P_r = n! / (n - r)! and ^n C_r = n! / [r!(n - r)!]. Thus ^n P_r = r! · (^n C_r)."
+    },
+    {
+      "id": 8,
+      "question": "The complementary combination identity states that ^n C_r equals:",
+      "options": {
+        "A": "^n C_(n-r)",
+        "B": "^n C_(r-1)",
+        "C": "^(n-1) C_r",
+        "D": "^n P_r"
+      },
+      "correctAnswer": "A",
+      "explanation": "Choosing r objects from n is equivalent to leaving behind (n - r) objects, so ^n C_r = ^n C_(n - r)."
+    },
+    {
+      "id": 9,
+      "question": "If ^n C_8 = ^n C_12, then the value of n is:",
+      "options": {
+        "A": "20",
+        "B": "12",
+        "C": "8",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "If ^n C_x = ^n C_y with x ≠ y, then n = x + y. Here n = 8 + 12 = 20."
+    },
+    {
+      "id": 10,
+      "question": "The Pascal identity for combinations states that ^n C_r + ^n C_(r-1) equals:",
+      "options": {
+        "A": "^(n+1) C_r",
+        "B": "^(n+1) C_(r+1)",
+        "C": "^n C_(r+1)",
+        "D": "^(n-1) C_r"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pascal's addition formula: ^n C_r + ^n C_(r-1) = ^(n+1) C_r."
+    },
+    {
+      "id": 11,
+      "question": "Mathematical induction is used to prove propositions for all n where n is a/an:",
+      "options": {
+        "A": "Positive integer (natural number)",
+        "B": "Irrational number",
+        "C": "Real number",
+        "D": "Negative fraction"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Principle of Mathematical Induction is designed to establish statements for all positive integers n ∈ N."
+    },
+    {
+      "id": 12,
+      "question": "The total number of terms in the binomial expansion of (a + b)^n for positive integer n is:",
+      "options": {
+        "A": "n + 1",
+        "B": "n",
+        "C": "n - 1",
+        "D": "2n"
+      },
+      "correctAnswer": "A",
+      "explanation": "The expansion has terms starting from r = 0 up to r = n, giving exactly (n + 1) terms."
+    },
+    {
+      "id": 13,
+      "question": "The general term T_(r+1) in the binomial expansion of (a + b)^n is given by:",
+      "options": {
+        "A": "(^n C_r) · a^(n-r) · b^r",
+        "B": "(^n C_r) · a^r · b^(n-r)",
+        "C": "(^n P_r) · a^(n-r) · b^r",
+        "D": "n · a^(n-1) · b"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the binomial theorem, the (r+1)-th term is T_(r+1) = (^n C_r) a^(n-r) b^r."
+    },
+    {
+      "id": 14,
+      "question": "The sum of all binomial coefficients in the expansion of (1 + x)^n, i.e., ^n C_0 + ^n C_1 + ... + ^n C_n, equals:",
+      "options": {
+        "A": "2^n",
+        "B": "2^(n-1)",
+        "C": "n^2",
+        "D": "2n"
+      },
+      "correctAnswer": "A",
+      "explanation": "Putting x = 1 in (1 + x)^n gives (1 + 1)^n = 2^n = Σ (^n C_r)."
+    },
+    {
+      "id": 15,
+      "question": "The sum of the even binomial coefficients (14 C 0) + (14 C 2) + (14 C 4) + ... + (14 C 14) is:",
+      "options": {
+        "A": "2^13",
+        "B": "2^14",
+        "C": "2^15",
+        "D": "14^2"
+      },
+      "correctAnswer": "A",
+      "explanation": "The sum of the even-indexed binomial coefficients is 2^(n-1). For n = 14, the sum is 2^(14-1) = 2^13."
+    },
+    {
+      "id": 16,
+      "question": "The middle term in the expansion of (a + b)^n when n is an even integer is:",
+      "options": {
+        "A": "The (n/2 + 1)-th term",
+        "B": "The (n/2)-th term",
+        "C": "The ((n+1)/2)-th term",
+        "D": "There are two middle terms"
+      },
+      "correctAnswer": "A",
+      "explanation": "When n is even, there are (n + 1) terms (an odd number of terms), so there is a unique middle term at position (n/2 + 1)."
+    },
+    {
+      "id": 17,
+      "question": "The number of ways to arrange n distinct objects around a circular table is:",
+      "options": {
+        "A": "(n - 1)!",
+        "B": "n!",
+        "C": "n! / 2",
+        "D": "(n + 1)!"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fixing one position to eliminate rotational symmetry, the remaining (n - 1) objects can be arranged in (n - 1)! ways."
+    },
+    {
+      "id": 18,
+      "question": "The number of diagonals that can be drawn in a polygon of n sides is:",
+      "options": {
+        "A": "n(n - 3) / 2",
+        "B": "n(n - 1) / 2",
+        "C": "n(n - 2) / 2",
+        "D": "^n C_2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Total lines connecting n vertices is ^n C_2 = n(n - 1)/2. Subtracting the n sides of the polygon gives n(n - 1)/2 - n = n(n - 3)/2."
+    },
+    {
+      "id": 19,
+      "question": "In how many ways can a committee of 3 men and 2 women be selected from 5 men and 4 women?",
+      "options": {
+        "A": "60",
+        "B": "120",
+        "C": "20",
+        "D": "10"
+      },
+      "correctAnswer": "A",
+      "explanation": "(^5 C_3) · (^4 C_2) = (10) · (6) = 60 ways."
+    },
+    {
+      "id": 20,
+      "question": "The term independent of x in the binomial expansion of (x + 1/x)^10 is:",
+      "options": {
+        "A": "^10 C_5 = 252",
+        "B": "^10 C_4 = 210",
+        "C": "^10 C_6",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "T_(r+1) = (^10 C_r) x^(10-r) (x^-1)^r = (^10 C_r) x^(10-2r). For x^0: 10 - 2r = 0 => r = 5. T_6 = ^10 C_5 = 252."
+    },
+    {
+      "id": 21,
+      "question": "The probability of getting a sum of 7 when two fair six-sided dice are rolled is:",
+      "options": {
+        "A": "6/36 = 1/6",
+        "B": "7/36",
+        "C": "1/12",
+        "D": "1/36"
+      },
+      "correctAnswer": "A",
+      "explanation": "Favorable pairs are (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) — 6 outcomes out of 36 total: 6/36 = 1/6."
+    },
+    {
+      "id": 22,
+      "question": "If A and B are two mutually exclusive events, then P(A ∩ B) equals:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "P(A) · P(B)",
+        "D": "P(A) + P(B)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mutually exclusive events cannot occur simultaneously, so their intersection is the empty set and P(A ∩ B) = 0."
+    },
+    {
+      "id": 23,
+      "question": "If P(E) is the probability of an event E, then for any event E:",
+      "options": {
+        "A": "0 ≤ P(E) ≤ 1",
+        "B": "P(E) > 1",
+        "C": "P(E) < 0",
+        "D": "-1 ≤ P(E) ≤ 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the axioms of probability, the probability of any event must be a real number in the closed interval [0, 1]."
+    },
+    {
+      "id": 24,
+      "question": "The expansion of (1 + x)^(-1) for |x| < 1 is given by:",
+      "options": {
+        "A": "1 - x + x^2 - x^3 + ...",
+        "B": "1 + x + x^2 + x^3 + ...",
+        "C": "1 - x - x^2 - x^3 - ...",
+        "D": "x - x^2 + x^3 - ..."
+      },
+      "correctAnswer": "A",
+      "explanation": "(1 + x)^(-1) is the binomial series for negative integer: 1 + (-1)x + [(-1)(-2)/2!]x^2 + ... = 1 - x + x^2 - x^3 + ..."
+    },
+    {
+      "id": 25,
+      "question": "The expansion of (1 - x)^(-1) for |x| < 1 is:",
+      "options": {
+        "A": "1 + x + x^2 + x^3 + ...",
+        "B": "1 - x + x^2 - x^3 + ...",
+        "C": "-1 - x - x^2 - ...",
+        "D": "1 - 2x + 3x^2 - ..."
+      },
+      "correctAnswer": "A",
+      "explanation": "Replacing x by -x in (1 + x)^(-1) yields 1 + x + x^2 + x^3 + ... (all signs positive)."
+    },
+    {
+      "id": 26,
+      "question": "The coefficient of the 3rd last term in the expansion of (1 + x)^30 is:",
+      "options": {
+        "A": "^30 C_28 = 435",
+        "B": "^30 C_29 = 30",
+        "C": "^30 C_2 = 435",
+        "D": "Both A and C"
+      },
+      "correctAnswer": "D",
+      "explanation": "The expansion has 31 terms. The last is 31st (r=30), 2nd last is 30th (r=29), and 3rd last is 29th term (r=28). The coefficient is ^30 C_28 = ^30 C_2 = (30 × 29)/2 = 435."
+    },
+    {
+      "id": 27,
+      "question": "The value of ^n C_0 is always:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "n",
+        "D": "n!"
+      },
+      "correctAnswer": "A",
+      "explanation": "^n C_0 = n! / [0!(n - 0)!] = n! / n! = 1."
+    },
+    {
+      "id": 28,
+      "question": "If a card is drawn at random from a standard pack of 52 cards, the probability of drawing an Ace is:",
+      "options": {
+        "A": "4/52 = 1/13",
+        "B": "1/52",
+        "C": "1/4",
+        "D": "2/13"
+      },
+      "correctAnswer": "A",
+      "explanation": "There are 4 Aces in a deck of 52 cards. P(Ace) = 4/52 = 1/13."
+    },
+    {
+      "id": 29,
+      "question": "The number of subsets of a set with n elements is:",
+      "options": {
+        "A": "2^n",
+        "B": "2n",
+        "C": "n^2",
+        "D": "n!"
+      },
+      "correctAnswer": "A",
+      "explanation": "The power set of a set with n elements has 2^n elements (equal to the sum of combinations Σ ^n C_r = 2^n)."
+    },
+    {
+      "id": 30,
+      "question": "The value of 8! / 6! is:",
+      "options": {
+        "A": "56",
+        "B": "8",
+        "C": "48",
+        "D": "64"
+      },
+      "correctAnswer": "A",
+      "explanation": "8! / 6! = (8 × 7 × 6!) / 6! = 8 × 7 = 56."
+    }
+  ]
+}

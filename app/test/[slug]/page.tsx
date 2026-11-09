@@ -26,7 +26,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     };
   }
 
-  const subjectName = chapter.subject === 'urdu' ? 'Urdu' : 'Physics';
+  let subjectName = 'Physics';
+  if (chapter.subject === 'urdu') subjectName = 'Urdu';
+  else if (chapter.subject === 'math') subjectName = 'Mathematics';
 
   return {
     title: `${chapter.chapterTitle} | Class 11 ${subjectName} MCQs | SochBadlo Prep`,

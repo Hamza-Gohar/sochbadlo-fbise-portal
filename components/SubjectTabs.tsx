@@ -3,20 +3,27 @@
 import React, { useState } from 'react';
 import ChapterCard from './ChapterCard';
 import { ChapterMeta } from '../lib/types';
-import { Atom, BookMarked, Sparkles } from 'lucide-react';
+import { Atom, BookMarked, Calculator, Sparkles } from 'lucide-react';
 
 interface SubjectTabsProps {
   physicsChapters: ChapterMeta[];
   urduChapters: ChapterMeta[];
+  mathChapters: ChapterMeta[];
 }
 
-export default function SubjectTabs({ physicsChapters, urduChapters }: SubjectTabsProps) {
-  const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu'>('physics');
+export default function SubjectTabs({ physicsChapters, urduChapters, mathChapters }: SubjectTabsProps) {
+  const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math'>('physics');
 
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
 
-  const activeChapters = activeSubject === 'physics' ? physicsChapters : urduChapters;
+  const activeChapters =
+    activeSubject === 'physics'
+      ? physicsChapters
+      : activeSubject === 'urdu'
+      ? urduChapters
+      : mathChapters;
 
   return (
     <div>
@@ -68,6 +75,22 @@ export default function SubjectTabs({ physicsChapters, urduChapters }: SubjectTa
 
             <button
               type="button"
+              onClick={() => setActiveSubject('math')}
+              className={`px-4 py-2 flex items-center gap-2 transition-all duration-150 border font-bold ${
+                activeSubject === 'math'
+                  ? 'bg-blue-950 text-white border-blue-950 shadow-sm'
+                  : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+              }`}
+            >
+              <Calculator className="w-4 h-4 text-amber-400" />
+              <span>Mathematics</span>
+              <span className="font-mono text-[11px] opacity-80 px-1.5 py-0.2 border border-current rounded-sm">
+                {mathChapters.length} Units · {mathTotal} Qs
+              </span>
+            </button>
+
+            <button
+              type="button"
               disabled
               className="px-3 py-2 border border-[var(--color-rule)] text-[var(--color-muted)] opacity-50 cursor-not-allowed hidden sm:flex items-center gap-1"
             >
@@ -79,13 +102,6 @@ export default function SubjectTabs({ physicsChapters, urduChapters }: SubjectTa
               className="px-3 py-2 border border-[var(--color-rule)] text-[var(--color-muted)] opacity-50 cursor-not-allowed hidden sm:flex items-center gap-1"
             >
               <span>Biology (Soon)</span>
-            </button>
-            <button
-              type="button"
-              disabled
-              className="px-3 py-2 border border-[var(--color-rule)] text-[var(--color-muted)] opacity-50 cursor-not-allowed hidden sm:flex items-center gap-1"
-            >
-              <span>Computer (Soon)</span>
             </button>
           </div>
         </div>
@@ -100,19 +116,30 @@ export default function SubjectTabs({ physicsChapters, urduChapters }: SubjectTa
               <span className="text-xs font-mono uppercase tracking-widest text-emerald-900 font-bold block">
                 {activeSubject === 'physics'
                   ? 'Active Subject: Class 11th Physics (SLO Based)'
-                  : 'فعال مضمون: وفاقی تعلیمی بورڈ لازمی اردو سال اول (FBISE Urdu)'}
+                  : activeSubject === 'urdu'
+                  ? 'فعال مضمون: وفاقی تعلیمی بورڈ لازمی اردو سال اول (FBISE Urdu)'
+                  : 'Active Subject: Class 11th Mathematics (HSSC-I FBISE)'}
               </span>
               <p className="text-xs text-[var(--color-muted)] mt-0.5">
                 {activeSubject === 'physics'
                   ? 'All 14 textbook units + 13-year past board exams compiled with instant formula explanations.'
-                  : 'حصہ نثر، نظمیں، غزلیات، علم بیان (تشبیہ، استعارہ، مجاز مرسل، کنایہ) اور علم بدیع کے مکمل سوالات مع تفصیلی حل۔'}
+                  : activeSubject === 'urdu'
+                  ? 'حصہ نثر، نظمیں، غزلیات، علم بیان (تشبیہ، استعارہ، مجاز مرسل، کنایہ) اور علم بدیع کے مکمل سوالات مع تفصیلی حل۔'
+                  : 'Units 1–5 comprehensive guess papers + 3 official FBISE Board Section A simulators with step-by-step mathematical reasoning.'}
               </p>
             </div>
           </div>
           <div className="flex items-center gap-3 text-xs font-mono text-[var(--color-muted)]">
             <span>{activeChapters.length} Modules Available</span>
             <span>·</span>
-            <span>{activeSubject === 'physics' ? physicsTotal : urduTotal} Authentic MCQs</span>
+            <span>
+              {activeSubject === 'physics'
+                ? physicsTotal
+                : activeSubject === 'urdu'
+                ? urduTotal
+                : mathTotal}{' '}
+              Authentic MCQs
+            </span>
           </div>
         </div>
       </section>

@@ -1,0 +1,367 @@
+{
+  "chapterNumber": 4,
+  "chapterTitle": "ریاضی حصہ چہارم: تفاعل، گراف اور مثلثیات کے بنیادی اصول (Functions, Graphs & Trigonometry)",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The graph of the equation x^2 + y^2 = r^2 represents a:",
+      "options": {
+        "A": "Circle centered at the origin",
+        "B": "Parabola",
+        "C": "Straight line",
+        "D": "Hyperbola"
+      },
+      "correctAnswer": "A",
+      "explanation": "x^2 + y^2 = r^2 is the standard equation of a circle with center (0, 0) and radius r."
+    },
+    {
+      "id": 2,
+      "question": "A vertical line test is used on a graph to determine whether:",
+      "options": {
+        "A": "The graph represents a function",
+        "B": "The graph is continuous",
+        "C": "The graph has a minimum",
+        "D": "The slope is positive"
+      },
+      "correctAnswer": "A",
+      "explanation": "If every vertical line intersects a graph at most once, each x corresponds to a single y value, verifying that it is a function."
+    },
+    {
+      "id": 3,
+      "question": "The function f(x) = x^3 + sin(x) is an example of an:",
+      "options": {
+        "A": "Odd function",
+        "B": "Even function",
+        "C": "Neither even nor odd",
+        "D": "Exponential function"
+      },
+      "correctAnswer": "A",
+      "explanation": "f(-x) = (-x)^3 + sin(-x) = -x^3 - sin(x) = -(x^3 + sin(x)) = -f(x). Hence f is an odd function."
+    },
+    {
+      "id": 4,
+      "question": "The function f(x) = cos(x) + x^2 is an:",
+      "options": {
+        "A": "Even function",
+        "B": "Odd function",
+        "C": "Linear function",
+        "D": "Inverse function"
+      },
+      "correctAnswer": "A",
+      "explanation": "f(-x) = cos(-x) + (-x)^2 = cos(x) + x^2 = f(x). Hence f is an even function."
+    },
+    {
+      "id": 5,
+      "question": "One radian is equal to how many degrees (approximately)?",
+      "options": {
+        "A": "57.3°",
+        "B": "60°",
+        "C": "45°",
+        "D": "90°"
+      },
+      "correctAnswer": "A",
+      "explanation": "1 rad = 180° / π ≈ 180 / 3.14159 ≈ 57.2958° ≈ 57.3° (or 57° 17' 45\")."
+    },
+    {
+      "id": 6,
+      "question": "The formula relating arc length l, radius r, and central angle θ (in radians) is:",
+      "options": {
+        "A": "l = r · θ",
+        "B": "θ = l · r",
+        "C": "l = r / θ",
+        "D": "l = 2πrθ"
+      },
+      "correctAnswer": "A",
+      "explanation": "By definition of radian angle measurement, arc length l = rθ, where θ must be in radians."
+    },
+    {
+      "id": 7,
+      "question": "The area of a circular sector of radius r and central angle θ (in radians) is:",
+      "options": {
+        "A": "(1/2) r^2 θ",
+        "B": "r^2 θ",
+        "C": "(1/2) r θ^2",
+        "D": "π r^2 θ"
+      },
+      "correctAnswer": "A",
+      "explanation": "Area of sector = (θ / 2π) · (πr^2) = (1/2) r^2 θ."
+    },
+    {
+      "id": 8,
+      "question": "The exact value of tan(-15π) is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "tan(-15π) = -tan(15π). Since tan(kπ) = 0 for any integer k, tan(-15π) = 0."
+    },
+    {
+      "id": 9,
+      "question": "The fundamental period of the function f(x) = cos(x/5) is:",
+      "options": {
+        "A": "10π",
+        "B": "5π",
+        "C": "2π/5",
+        "D": "π/5"
+      },
+      "correctAnswer": "A",
+      "explanation": "The period of cos(kx) is 2π / k. Here k = 1/5, so Period = 2π / (1/5) = 10π."
+    },
+    {
+      "id": 10,
+      "question": "The fundamental period of the tangent function tan(x) is:",
+      "options": {
+        "A": "π",
+        "B": "2π",
+        "C": "π/2",
+        "D": "4π"
+      },
+      "correctAnswer": "A",
+      "explanation": "The fundamental period of tan(x) and cot(x) is π, whereas the period of sin(x) and cos(x) is 2π."
+    },
+    {
+      "id": 11,
+      "question": "If r cos(x) = 3 and r sin(x) = 4, then the value of r is:",
+      "options": {
+        "A": "5",
+        "B": "25",
+        "C": "-5",
+        "D": "7"
+      },
+      "correctAnswer": "A",
+      "explanation": "Squaring and adding: (r cos x)^2 + (r sin x)^2 = 3^2 + 4^2 => r^2 (cos^2 x + sin^2 x) = 9 + 16 = 25 => r^2 = 25 => r = 5 (r > 0)."
+    },
+    {
+      "id": 12,
+      "question": "The expression sin(π + z) simplifies to:",
+      "options": {
+        "A": "-sin(z)",
+        "B": "sin(z)",
+        "C": "cos(z)",
+        "D": "-cos(z)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Angle (π + z) is in the 3rd quadrant where sine is negative. Thus sin(π + z) = -sin(z)."
+    },
+    {
+      "id": 13,
+      "question": "The expression cos(π - θ) simplifies to:",
+      "options": {
+        "A": "-cos(θ)",
+        "B": "cos(θ)",
+        "C": "sin(θ)",
+        "D": "-sin(θ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "In quadrant II, cosine is negative, so cos(π - θ) = -cos(θ)."
+    },
+    {
+      "id": 14,
+      "question": "The expression csc(π - θ) is equal to:",
+      "options": {
+        "A": "csc(θ)",
+        "B": "-csc(θ)",
+        "C": "sec(θ)",
+        "D": "-sec(θ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "csc(π - θ) = 1 / sin(π - θ) = 1 / sin(θ) = csc(θ) (positive in the second quadrant)."
+    },
+    {
+      "id": 15,
+      "question": "The angle (3π/2 + y) where 0 < y < π/2 lies in which quadrant?",
+      "options": {
+        "A": "4th Quadrant",
+        "B": "3rd Quadrant",
+        "C": "2nd Quadrant",
+        "D": "1st Quadrant"
+      },
+      "correctAnswer": "A",
+      "explanation": "3π/2 corresponds to 270°. Adding an acute angle y rotates into the fourth quadrant (270° to 360°)."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is an identity valid for all real angles θ where defined?",
+      "options": {
+        "A": "1 + tan^2(θ) = sec^2(θ)",
+        "B": "1 + cos^2(θ) = sin^2(θ)",
+        "C": "sin^2(θ) - cos^2(θ) = 1",
+        "D": "tan^2(θ) - sec^2(θ) = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dividing sin^2 θ + cos^2 θ = 1 by cos^2 θ gives the fundamental Pythagorean identity: tan^2 θ + 1 = sec^2 θ."
+    },
+    {
+      "id": 17,
+      "question": "If sin(θ) < 0 and cos(θ) > 0, then the terminal arm of angle θ lies in:",
+      "options": {
+        "A": "Quadrant IV",
+        "B": "Quadrant III",
+        "C": "Quadrant II",
+        "D": "Quadrant I"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cosine is positive while sine is negative exclusively in the fourth quadrant (Quadrant IV)."
+    },
+    {
+      "id": 18,
+      "question": "The value of sin(196°) in terms of reference angle is:",
+      "options": {
+        "A": "-sin(16°)",
+        "B": "sin(16°)",
+        "C": "cos(16°)",
+        "D": "-cos(16°)"
+      },
+      "correctAnswer": "A",
+      "explanation": "196° = 180° + 16° (Quadrant III). sin(180° + 16°) = -sin(16°)."
+    },
+    {
+      "id": 19,
+      "question": "If tan(θ) = -1 and cos(θ) > 0, then the angle θ in radians is:",
+      "options": {
+        "A": "7π/4 (or -π/4)",
+        "B": "3π/4",
+        "C": "5π/4",
+        "D": "π/4"
+      },
+      "correctAnswer": "A",
+      "explanation": "tan θ is negative and cos θ is positive in quadrant IV. The angle is 2π - π/4 = 7π/4."
+    },
+    {
+      "id": 20,
+      "question": "The domain of the sine function f(x) = sin(x) is:",
+      "options": {
+        "A": "(-∞, +∞) (All real numbers R)",
+        "B": "[-1, 1]",
+        "C": "[0, 2π]",
+        "D": "R - {kπ}"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sine is defined for all real numbers x ∈ (-∞, ∞). Its range is [-1, 1]."
+    },
+    {
+      "id": 21,
+      "question": "The range of the cosine function f(x) = cos(x) is:",
+      "options": {
+        "A": "[-1, 1]",
+        "B": "(-∞, +∞)",
+        "C": "[0, 1]",
+        "D": "(-1, 1)"
+      },
+      "correctAnswer": "A",
+      "explanation": "For any real angle x, -1 ≤ cos(x) ≤ 1, so the range is the closed interval [-1, 1]."
+    },
+    {
+      "id": 22,
+      "question": "The value of sin^2(45°) + cos^2(45°) is:",
+      "options": {
+        "A": "1",
+        "B": "1/2",
+        "C": "√2",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the Pythagorean identity, sin^2(θ) + cos^2(θ) = 1 for any angle θ."
+    },
+    {
+      "id": 23,
+      "question": "The product 2 sin(3x) sin(7x) is equivalent to:",
+      "options": {
+        "A": "cos(4x) - cos(10x)",
+        "B": "cos(4x) + cos(10x)",
+        "C": "cos(10x) - cos(4x)",
+        "D": "sin(10x) - sin(4x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Using 2 sin A sin B = cos(A - B) - cos(A + B): 2 sin(7x) sin(3x) = cos(7x - 3x) - cos(7x + 3x) = cos(4x) - cos(10x)."
+    },
+    {
+      "id": 24,
+      "question": "The product 2 cos(5x) sin(3x) can be expressed as the difference:",
+      "options": {
+        "A": "sin(8x) - sin(2x)",
+        "B": "sin(8x) + sin(2x)",
+        "C": "cos(8x) - cos(2x)",
+        "D": "sin(2x) - sin(8x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "2 cos A sin B = sin(A + B) - sin(A - B). For A = 5x and B = 3x: sin(5x + 3x) - sin(5x - 3x) = sin(8x) - sin(2x)."
+    },
+    {
+      "id": 25,
+      "question": "The value of cos(270° - θ) is:",
+      "options": {
+        "A": "-sin(θ)",
+        "B": "sin(θ)",
+        "C": "cos(θ)",
+        "D": "-cos(θ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "270° is an odd multiple of 90°, so cosine changes to sine. In quadrant III, cosine is negative, so cos(270° - θ) = -sin(θ)."
+    },
+    {
+      "id": 26,
+      "question": "The value of sin(270° + θ) is:",
+      "options": {
+        "A": "-cos(θ)",
+        "B": "cos(θ)",
+        "C": "sin(θ)",
+        "D": "-sin(θ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "270° + θ is in quadrant IV where sine is negative. Since 270° is an odd multiple of 90°, sin changes to cos: sin(270° + θ) = -cos(θ)."
+    },
+    {
+      "id": 27,
+      "question": "If arc length l = 10 cm and radius r = 5 cm, the central angle θ in radians is:",
+      "options": {
+        "A": "2 rad",
+        "B": "0.5 rad",
+        "C": "50 rad",
+        "D": "π rad"
+      },
+      "correctAnswer": "A",
+      "explanation": "θ = l / r = 10 / 5 = 2 radians."
+    },
+    {
+      "id": 28,
+      "question": "The period of the trigonometric function f(x) = tan(3x) is:",
+      "options": {
+        "A": "π/3",
+        "B": "2π/3",
+        "C": "3π",
+        "D": "π"
+      },
+      "correctAnswer": "A",
+      "explanation": "Period of tan(kx) is π / k. Here k = 3, so Period = π/3."
+    },
+    {
+      "id": 29,
+      "question": "The value of sec(-60°) is:",
+      "options": {
+        "A": "2",
+        "B": "-2",
+        "C": "1/2",
+        "D": "√3/2"
+      },
+      "correctAnswer": "A",
+      "explanation": "sec(-θ) = sec(θ). Thus sec(-60°) = sec(60°) = 1 / cos(60°) = 1 / (1/2) = 2."
+    },
+    {
+      "id": 30,
+      "question": "The value of tan(45°) + cot(45°) is:",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "0",
+        "D": "√2"
+      },
+      "correctAnswer": "A",
+      "explanation": "tan(45°) = 1 and cot(45°) = 1. 1 + 1 = 2."
+    }
+  ]
+}

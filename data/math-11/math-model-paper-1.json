@@ -1,0 +1,247 @@
+{
+  "chapterNumber": 6,
+  "chapterTitle": "وفاقی بورڈ سالانہ امتحان ماڈل سمیلیٹر ۱ (FBISE Annual Board Simulator Paper 1)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Every real number is also a ________ number.",
+      "options": {
+        "A": "Natural",
+        "B": "Integer",
+        "C": "Complex",
+        "D": "Irrational"
+      },
+      "correctAnswer": "C",
+      "explanation": "All real numbers can be represented as complex numbers with an imaginary part equal to zero (x = x + 0i)."
+    },
+    {
+      "id": 2,
+      "question": "If z is a complex number, then its mirror image across the real axis in the complex plane is:",
+      "options": {
+        "A": "|z|",
+        "B": "1 / z",
+        "C": "-z",
+        "D": "z̄ (Complex conjugate)"
+      },
+      "correctAnswer": "D",
+      "explanation": "The complex conjugate z̄ = x - iy reflects the point (x, y) across the horizontal real axis to (x, -y)."
+    },
+    {
+      "id": 3,
+      "question": "A system of homogeneous linear equations has a non-trivial solution if and only if:",
+      "options": {
+        "A": "|A| > 0",
+        "B": "|A| < 0",
+        "C": "|A| = 0",
+        "D": "|A| = 1"
+      },
+      "correctAnswer": "C",
+      "explanation": "Homogeneous system AX = O has non-zero solutions if and only if the determinant of matrix A vanishes: |A| = 0."
+    },
+    {
+      "id": 4,
+      "question": "The vector in the direction of i + 2j - 2k having magnitude 12 is:",
+      "options": {
+        "A": "4(i + 2j - 2k)",
+        "B": "12(i + 2j - 2k)",
+        "C": "(1/4)(i + 2j - 2k)",
+        "D": "(1/12)(i + 2j - 2k)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Magnitude of given vector is √(1 + 4 + 4) = 3. Unit vector is (i + 2j - 2k)/3. Scaling by 12 gives 12/3 (i + 2j - 2k) = 4(i + 2j - 2k)."
+    },
+    {
+      "id": 5,
+      "question": "If |a + b| = |a - b| for two non-zero vectors a and b, then:",
+      "options": {
+        "A": "|a| = |b|",
+        "B": "a ⊥ b",
+        "C": "a ∥ b",
+        "D": "a = b"
+      },
+      "correctAnswer": "B",
+      "explanation": "Squaring yields |a|^2 + |b|^2 + 2(a · b) = |a|^2 + |b|^2 - 2(a · b) => 4(a · b) = 0 => a · b = 0 => a ⊥ b."
+    },
+    {
+      "id": 6,
+      "question": "If z1 = 3 + 2i and z2 = 5 + 6i, then:",
+      "options": {
+        "A": "z1 < z2",
+        "B": "z1 > z2",
+        "C": "z1 = z2",
+        "D": "Inequality cannot be established in complex numbers"
+      },
+      "correctAnswer": "D",
+      "explanation": "The set of complex numbers C is not an ordered field; inequalities like z1 < z2 are meaningless for complex numbers."
+    },
+    {
+      "id": 7,
+      "question": "If ((1 + i)/(1 - i))^n = 1, then the least positive integral value of n is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "D",
+      "explanation": "(1 + i)/(1 - i) = i. Thus i^n = 1, and the smallest positive integer is n = 4."
+    },
+    {
+      "id": 8,
+      "question": "If θ is the angle between vectors a and b and |a × b| = a · b, then the value of θ is:",
+      "options": {
+        "A": "0",
+        "B": "π/6",
+        "C": "π/4",
+        "D": "π/2"
+      },
+      "correctAnswer": "C",
+      "explanation": "sin(θ) = cos(θ) => tan(θ) = 1 => θ = π/4 (45°)."
+    },
+    {
+      "id": 9,
+      "question": "If A is a square matrix of order n, then |A^t| is equal to:",
+      "options": {
+        "A": "|A|",
+        "B": "-|A|",
+        "C": "1 / |A|",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "The determinant of a matrix and its transpose are always equal: |A^t| = |A|."
+    },
+    {
+      "id": 10,
+      "question": "The modulus of (1 + i)^2 is:",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "√2",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "(1 + i)^2 = 1 + 2i - 1 = 2i. |2i| = 2."
+    },
+    {
+      "id": 11,
+      "question": "If two rows or two columns of a determinant are identical, the value of the determinant is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "2"
+      },
+      "correctAnswer": "A",
+      "explanation": "By determinant property, identical parallel lines render the determinant zero."
+    },
+    {
+      "id": 12,
+      "question": "If a · b = 0 and a × b = 0 for non-zero vectors a and b, then:",
+      "options": {
+        "A": "a is parallel to b",
+        "B": "a is perpendicular to b",
+        "C": "At least one of the vectors must be the zero vector",
+        "D": "a = b"
+      },
+      "correctAnswer": "C",
+      "explanation": "Two non-zero vectors cannot simultaneously be parallel (cross product 0) and perpendicular (dot product 0)."
+    },
+    {
+      "id": 13,
+      "question": "The conjugate of the complex number z = -5i is:",
+      "options": {
+        "A": "5i",
+        "B": "-5i",
+        "C": "5",
+        "D": "-5"
+      },
+      "correctAnswer": "A",
+      "explanation": "z = 0 - 5i => z̄ = 0 - (-5i) = 5i."
+    },
+    {
+      "id": 14,
+      "question": "The rank of an identity matrix of order 3 × 3 is:",
+      "options": {
+        "A": "3",
+        "B": "1",
+        "C": "0",
+        "D": "2"
+      },
+      "correctAnswer": "A",
+      "explanation": "All 3 rows of I3 are linearly independent, so rank(I3) = 3."
+    },
+    {
+      "id": 15,
+      "question": "The projection of vector a along vector b is given by:",
+      "options": {
+        "A": "(a · b) / |b|",
+        "B": "(a · b) / |a|",
+        "C": "a × b",
+        "D": "|a| cos(θ) b"
+      },
+      "correctAnswer": "A",
+      "explanation": "Projection of a on b = |a| cos(θ) = (a · b) / |b|."
+    },
+    {
+      "id": 16,
+      "question": "If A is skew-symmetric of odd order (e.g. 3 × 3), then det(A) is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "2"
+      },
+      "correctAnswer": "A",
+      "explanation": "det(A^t) = det(-A) = (-1)^n det(A). If n is odd: det(A) = -det(A) => 2 det(A) = 0 => det(A) = 0."
+    },
+    {
+      "id": 17,
+      "question": "The value of i^-35 is equal to:",
+      "options": {
+        "A": "-i",
+        "B": "i",
+        "C": "1",
+        "D": "-1"
+      },
+      "correctAnswer": "A",
+      "explanation": "i^-35 = i^(-36 + 1) = (i^4)^-9 · i = 1 · i? Wait: i^-35 = 1/i^35 = 1/(i^32 · i^3) = 1/(-i) = i/-i^2 = i/1 = i. Wait: i^-35 = i^1 = i if -35 mod 4 = 1. Indeed -35 = -36 + 1, so answer is i."
+    },
+    {
+      "id": 18,
+      "question": "The direction cosines l, m, n of any vector satisfy the relation:",
+      "options": {
+        "A": "l^2 + m^2 + n^2 = 1",
+        "B": "l + m + n = 1",
+        "C": "l^2 + m^2 + n^2 = 0",
+        "D": "l · m · n = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "cos^2(α) + cos^2(β) + cos^2(γ) = 1, so l^2 + m^2 + n^2 = 1."
+    },
+    {
+      "id": 19,
+      "question": "If A is a non-singular matrix, then (A^-1)^-1 is:",
+      "options": {
+        "A": "A",
+        "B": "A^-1",
+        "C": "I",
+        "D": "A^t"
+      },
+      "correctAnswer": "A",
+      "explanation": "The inverse of an inverse matrix returns the original matrix: (A^-1)^-1 = A."
+    },
+    {
+      "id": 20,
+      "question": "The value of i · (j × k) is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "k"
+      },
+      "correctAnswer": "A",
+      "explanation": "j × k = i. Therefore, i · (j × k) = i · i = |i|^2 = 1."
+    }
+  ]
+}

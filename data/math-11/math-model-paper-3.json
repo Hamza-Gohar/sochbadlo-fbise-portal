@@ -1,0 +1,247 @@
+{
+  "chapterNumber": 8,
+  "chapterTitle": "وفاقی بورڈ سالانہ امتحان ماڈل سمیلیٹر ۳ (FBISE Annual Board Simulator Paper 3)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Mathematical induction is used to check a proposition for all n where n is a/an:",
+      "options": {
+        "A": "Positive integer",
+        "B": "Real number",
+        "C": "Rational number",
+        "D": "Integer"
+      },
+      "correctAnswer": "A",
+      "explanation": "The standard induction principle verifies mathematical assertions across the positive integers N."
+    },
+    {
+      "id": 2,
+      "question": "The expression csc(π - θ) is equal to:",
+      "options": {
+        "A": "csc(θ)",
+        "B": "-csc(θ)",
+        "C": "sin(θ)",
+        "D": "-sin(θ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "csc(π - θ) = 1/sin(π - θ) = 1/sin(θ) = csc(θ)."
+    },
+    {
+      "id": 3,
+      "question": "If sin(270° + θ) = x and terminal side of θ is in quadrant IV, then x equals:",
+      "options": {
+        "A": "-cos(θ)",
+        "B": "cos(θ)",
+        "C": "sin(θ)",
+        "D": "-sin(θ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "sin(270° + θ) = -cos(θ)."
+    },
+    {
+      "id": 4,
+      "question": "The coefficient of the 3rd last term in the expansion of (1 + x)^30 is:",
+      "options": {
+        "A": "435",
+        "B": "277",
+        "C": "44850",
+        "D": "30"
+      },
+      "correctAnswer": "A",
+      "explanation": "Total terms = 31. 3rd last term is T_29 (r = 28). Coefficient is ^30 C_28 = ^30 C_2 = (30 × 29)/2 = 435."
+    },
+    {
+      "id": 5,
+      "question": "The expression 2 sin(α) cos(α) is identical to:",
+      "options": {
+        "A": "sin(π - 2α)",
+        "B": "sin(π + 2α)",
+        "C": "sin(-2α)",
+        "D": "cos(2α)"
+      },
+      "correctAnswer": "A",
+      "explanation": "2 sin(α) cos(α) = sin(2α). Since sin(π - x) = sin(x), sin(2α) = sin(π - 2α)."
+    },
+    {
+      "id": 6,
+      "question": "If tan(α) = 1/7 and tan(β) = 1/3, then tan(α + β) is equal to:",
+      "options": {
+        "A": "1/2",
+        "B": "1",
+        "C": "2",
+        "D": "1/4"
+      },
+      "correctAnswer": "A",
+      "explanation": "tan(α + β) = (1/7 + 1/3)/(1 - 1/21) = (10/21)/(20/21) = 1/2."
+    },
+    {
+      "id": 7,
+      "question": "The sum of the binomial coefficients (14 C 0) + (14 C 2) + (14 C 4) + ... + (14 C 14) is equal to:",
+      "options": {
+        "A": "2^13",
+        "B": "2^14",
+        "C": "2^15",
+        "D": "14^2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sum of even binomial coefficients = 2^(n-1) = 2^(14-1) = 2^13."
+    },
+    {
+      "id": 8,
+      "question": "The value of cos(2α) in terms of sin(α) only is:",
+      "options": {
+        "A": "1 - 2 sin^2(α)",
+        "B": "2 sin^2(α) - 1",
+        "C": "1 - sin^2(α)",
+        "D": "2 sin(α) - 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "cos(2α) = cos^2 α - sin^2 α = (1 - sin^2 α) - sin^2 α = 1 - 2 sin^2 α."
+    },
+    {
+      "id": 9,
+      "question": "The circumradius R of a triangle with sides a, b, c and area Δ is given by:",
+      "options": {
+        "A": "abc / (4Δ)",
+        "B": "Δ / s",
+        "C": "4Δ / abc",
+        "D": "s / Δ"
+      },
+      "correctAnswer": "A",
+      "explanation": "R = abc / (4Δ)."
+    },
+    {
+      "id": 10,
+      "question": "The inradius r of a triangle with area Δ and semi-perimeter s is:",
+      "options": {
+        "A": "Δ / s",
+        "B": "s / Δ",
+        "C": "abc / (4Δ)",
+        "D": "Δ · s"
+      },
+      "correctAnswer": "A",
+      "explanation": "r = Δ / s."
+    },
+    {
+      "id": 11,
+      "question": "The period of the trigonometric function tan(x) is:",
+      "options": {
+        "A": "π",
+        "B": "2π",
+        "C": "π/2",
+        "D": "4π"
+      },
+      "correctAnswer": "A",
+      "explanation": "The fundamental period of tangent is π radians."
+    },
+    {
+      "id": 12,
+      "question": "The value of arcsin(1) is:",
+      "options": {
+        "A": "π/2",
+        "B": "0",
+        "C": "π",
+        "D": "-π/2"
+      },
+      "correctAnswer": "A",
+      "explanation": "sin(π/2) = 1, so arcsin(1) = π/2."
+    },
+    {
+      "id": 13,
+      "question": "The value of arccos(1) is:",
+      "options": {
+        "A": "0",
+        "B": "π/2",
+        "C": "π",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "cos(0) = 1, so arccos(1) = 0."
+    },
+    {
+      "id": 14,
+      "question": "The expansion (1 + x)^n is valid for any real index n provided:",
+      "options": {
+        "A": "|x| < 1",
+        "B": "|x| > 1",
+        "C": "x > 1",
+        "D": "x < -1"
+      },
+      "correctAnswer": "A",
+      "explanation": "When n is a rational or negative number, the binomial series converges if and only if |x| < 1."
+    },
+    {
+      "id": 15,
+      "question": "The value of sin^2(θ) expressed in terms of cos(2θ) is:",
+      "options": {
+        "A": "(1 - cos 2θ) / 2",
+        "B": "(1 + cos 2θ) / 2",
+        "C": "(1 - sin 2θ) / 2",
+        "D": "1 - cos(2θ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "From cos(2θ) = 1 - 2 sin^2(θ), we obtain sin^2(θ) = (1 - cos 2θ) / 2."
+    },
+    {
+      "id": 16,
+      "question": "The value of cos^2(θ) expressed in terms of cos(2θ) is:",
+      "options": {
+        "A": "(1 + cos 2θ) / 2",
+        "B": "(1 - cos 2θ) / 2",
+        "C": "(1 + sin 2θ) / 2",
+        "D": "1 + cos(2θ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "From cos(2θ) = 2 cos^2(θ) - 1, we obtain cos^2(θ) = (1 + cos 2θ) / 2."
+    },
+    {
+      "id": 17,
+      "question": "If a = 3, b = 4, and c = 5 in triangle ABC, then the angle C is:",
+      "options": {
+        "A": "90° (π/2 rad)",
+        "B": "60°",
+        "C": "45°",
+        "D": "30°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since 3^2 + 4^2 = 9 + 16 = 25 = 5^2, by converse of Pythagoras Theorem, C = 90°."
+    },
+    {
+      "id": 18,
+      "question": "The solution of the equation tan(x) = 1 in the interval [0, 2π) is:",
+      "options": {
+        "A": "π/4 and 5π/4",
+        "B": "π/4 only",
+        "C": "3π/4 and 7π/4",
+        "D": "π/4 and 3π/4"
+      },
+      "correctAnswer": "A",
+      "explanation": "tan(x) is positive in Quadrants I and III. x = π/4 and x = π + π/4 = 5π/4."
+    },
+    {
+      "id": 19,
+      "question": "The value of cos(75°) is equal to:",
+      "options": {
+        "A": "(√6 - √2) / 4",
+        "B": "(√6 + √2) / 4",
+        "C": "(√3 - 1) / 2",
+        "D": "1/4"
+      },
+      "correctAnswer": "A",
+      "explanation": "cos(75°) = cos(45° + 30°) = cos 45° cos 30° - sin 45° sin 30° = (1/√2)(√3/2) - (1/√2)(1/2) = (√6 - √2)/4."
+    },
+    {
+      "id": 20,
+      "question": "The ex-radius r2 (opposite to vertex B) of a triangle is:",
+      "options": {
+        "A": "Δ / (s - b)",
+        "B": "Δ / (s - a)",
+        "C": "Δ / (s - c)",
+        "D": "s / (s - b)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The radius of the excircle opposite to angle B is r2 = Δ / (s - b)."
+    }
+  ]
+}

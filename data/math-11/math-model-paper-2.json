@@ -1,0 +1,247 @@
+{
+  "chapterNumber": 7,
+  "chapterTitle": "وفاقی بورڈ سالانہ امتحان ماڈل سمیلیٹر ۲ (FBISE Annual Board Simulator Paper 2)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "How many terms of the sequence 18, 15, 12, ... are needed to give a sum of 45?",
+      "options": {
+        "A": "Up to 3rd or 10th term",
+        "B": "Up to 5th term",
+        "C": "Up to 6th term",
+        "D": "Up to 7th term"
+      },
+      "correctAnswer": "A",
+      "explanation": "S_n = (n/2)[36 + (n-1)(-3)] = 45 gives quadratic equation n^2 - 13n + 30 = 0 => (n - 3)(n - 10) = 0."
+    },
+    {
+      "id": 2,
+      "question": "If (x - b) is a factor of polynomial q(x), then by the Factor Theorem q(b) is:",
+      "options": {
+        "A": "Zero (0)",
+        "B": "Divisor",
+        "C": "Remainder",
+        "D": "Dividend"
+      },
+      "correctAnswer": "A",
+      "explanation": "When (x - b) is a factor, the remainder q(b) is zero."
+    },
+    {
+      "id": 3,
+      "question": "The number of ways of arrangement of the letters of the word 'GARDEN' is:",
+      "options": {
+        "A": "720",
+        "B": "600",
+        "C": "480",
+        "D": "840"
+      },
+      "correctAnswer": "A",
+      "explanation": "6 distinct letters can be permuted in 6! = 720 distinct ways."
+    },
+    {
+      "id": 4,
+      "question": "In the sequence 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, ... where integer n appears n consecutive times, the 22nd term is:",
+      "options": {
+        "A": "7",
+        "B": "6",
+        "C": "8",
+        "D": "9"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cumulative count of terms up to number 6 is 1+2+3+4+5+6 = 21. Thus the 22nd term is 7."
+    },
+    {
+      "id": 5,
+      "question": "If f(x) is divided by (x - 2), the remainder is 12. What is the value of f(2)?",
+      "options": {
+        "A": "12",
+        "B": "-12",
+        "C": "0",
+        "D": "f(-2)"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the Remainder Theorem, dividing f(x) by (x - c) leaves remainder f(c). Hence f(2) = 12."
+    },
+    {
+      "id": 6,
+      "question": "From A = {1, 3, 5, 7, 9} and B = {2, 4, 6, 8}, in how many ordered pairs (a, b) ∈ A × B is a + b = 9?",
+      "options": {
+        "A": "4",
+        "B": "3",
+        "C": "2",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pairs adding to 9 are: (1, 8), (3, 6), (5, 4), (7, 2). There are exactly 4 pairs."
+    },
+    {
+      "id": 7,
+      "question": "The sum of the series 1 + 3 + 5 + 7 + 9 + 11 + ... up to n terms is:",
+      "options": {
+        "A": "n^2",
+        "B": "n(n + 1)",
+        "C": "n(n + 1)/2",
+        "D": "2n - 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sum of the first n odd positive integers is n^2."
+    },
+    {
+      "id": 8,
+      "question": "If expression 2x^3 + 3kx^2 - 4x + 1 has a factor (x - 1), then the value of k is:",
+      "options": {
+        "A": "1/3",
+        "B": "-1",
+        "C": "-2",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Substituting x = 1: 2(1) + 3k(1) - 4(1) + 1 = 0 => 3k - 1 = 0 => k = 1/3."
+    },
+    {
+      "id": 9,
+      "question": "The harmonic mean between 2 and 8 is:",
+      "options": {
+        "A": "3.2 (16/5)",
+        "B": "5",
+        "C": "4",
+        "D": "6"
+      },
+      "correctAnswer": "A",
+      "explanation": "H = 2ab / (a + b) = 2(2)(8)/(2 + 8) = 32/10 = 3.2 = 16/5."
+    },
+    {
+      "id": 10,
+      "question": "The 7th term of the harmonic progression 1/2, 1/5, 1/8, 1/11, ... is:",
+      "options": {
+        "A": "1/20",
+        "B": "1/23",
+        "C": "1/17",
+        "D": "20"
+      },
+      "correctAnswer": "A",
+      "explanation": "Reciprocal AP: 2, 5, 8, 11, ... with a = 2, d = 3. 7th term = 2 + 6(3) = 20. Hence H.P. term is 1/20."
+    },
+    {
+      "id": 11,
+      "question": "How many 3-digit numbers can be formed from digits 1, 2, 3, 4, 5 without repetition?",
+      "options": {
+        "A": "60",
+        "B": "125",
+        "C": "20",
+        "D": "120"
+      },
+      "correctAnswer": "A",
+      "explanation": "^5 P_3 = 5 × 4 × 3 = 60."
+    },
+    {
+      "id": 12,
+      "question": "The value of ^10 C_3 is equal to:",
+      "options": {
+        "A": "120",
+        "B": "720",
+        "C": "210",
+        "D": "30"
+      },
+      "correctAnswer": "A",
+      "explanation": "^10 C_3 = (10 × 9 × 8)/(3 × 2 × 1) = 720 / 6 = 120."
+    },
+    {
+      "id": 13,
+      "question": "If roots of the quadratic equation x^2 - 6x + k = 0 are equal, then k is:",
+      "options": {
+        "A": "9",
+        "B": "-9",
+        "C": "36",
+        "D": "6"
+      },
+      "correctAnswer": "A",
+      "explanation": "For equal roots, discriminant b^2 - 4ac = 0 => (-6)^2 - 4(1)(k) = 0 => 36 - 4k = 0 => k = 9."
+    },
+    {
+      "id": 14,
+      "question": "The synthetic division of P(x) = x^3 - 2x^2 + x - 5 by (x - 2) gives remainder:",
+      "options": {
+        "A": "-3",
+        "B": "-5",
+        "C": "3",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "P(2) = (2)^3 - 2(2)^2 + 2 - 5 = 8 - 8 + 2 - 5 = -3."
+    },
+    {
+      "id": 15,
+      "question": "The arithmetic mean between (x - 3) and (x + 3) is:",
+      "options": {
+        "A": "x",
+        "B": "2x",
+        "C": "3",
+        "D": "x^2 - 9"
+      },
+      "correctAnswer": "A",
+      "explanation": "A = [(x - 3) + (x + 3)]/2 = 2x/2 = x."
+    },
+    {
+      "id": 16,
+      "question": "A coin is tossed 3 times. The probability of getting exactly two heads is:",
+      "options": {
+        "A": "3/8",
+        "B": "1/8",
+        "C": "1/2",
+        "D": "5/8"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sample space has 2^3 = 8 outcomes. Outcomes with 2 heads: {HHT, HTH, THH} (3 outcomes). P = 3/8."
+    },
+    {
+      "id": 17,
+      "question": "The sum of the infinite series 3 + 1 + 1/3 + 1/9 + ... is:",
+      "options": {
+        "A": "4.5 (9/2)",
+        "B": "4",
+        "C": "6",
+        "D": "3.5"
+      },
+      "correctAnswer": "A",
+      "explanation": "a = 3, r = 1/3. S_∞ = a / (1 - r) = 3 / (1 - 1/3) = 3 / (2/3) = 9/2 = 4.5."
+    },
+    {
+      "id": 18,
+      "question": "If n! = 120, then the value of (n - 1)! is:",
+      "options": {
+        "A": "24",
+        "B": "6",
+        "C": "120",
+        "D": "5"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since 5! = 120, n = 5. Therefore (n - 1)! = (5 - 1)! = 4! = 24."
+    },
+    {
+      "id": 19,
+      "question": "The geometric mean of -2 and -8 is:",
+      "options": {
+        "A": "-4",
+        "B": "4",
+        "C": "±4",
+        "D": "-16"
+      },
+      "correctAnswer": "A",
+      "explanation": "For negative numbers a and b, the geometric mean has the same negative sign: G = -√((-2)(-8)) = -√16 = -4."
+    },
+    {
+      "id": 20,
+      "question": "If ^n C_4, ^n C_5, ^n C_6 are in A.P., then n equals:",
+      "options": {
+        "A": "14 or 7",
+        "B": "12",
+        "C": "10",
+        "D": "15"
+      },
+      "correctAnswer": "A",
+      "explanation": "Using 2(^n C_5) = ^n C_4 + ^n C_6, this reduces to n^2 - 21n + 98 = 0 => (n - 14)(n - 7) = 0."
+    }
+  ]
+}

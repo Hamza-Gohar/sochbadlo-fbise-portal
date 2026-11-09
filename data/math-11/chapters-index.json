@@ -1,0 +1,66 @@
+[
+  {
+    "chapterNumber": 1,
+    "title": "ریاضی حصہ اول: اعدادِ مرکب، قالب و مقطعات اور ویکٹرز (Complex Numbers, Matrices & Vectors)",
+    "slug": "math-unit-1",
+    "totalQuestions": 30,
+    "fileName": "math-unit-1.json",
+    "subject": "math"
+  },
+  {
+    "chapterNumber": 2,
+    "title": "ریاضی حصہ دوم: تسلسل و سلسلے اور دو درجی مساواتیں (Sequences, Series & Quadratic Equations)",
+    "slug": "math-unit-2",
+    "totalQuestions": 30,
+    "fileName": "math-unit-2.json",
+    "subject": "math"
+  },
+  {
+    "chapterNumber": 3,
+    "title": "ریاضی حصہ سوم: تراتیب و توالیف، استقراء اور دو رقمی مسئلہ (Permutations, Induction & Binomial)",
+    "slug": "math-unit-3",
+    "totalQuestions": 30,
+    "fileName": "math-unit-3.json",
+    "subject": "math"
+  },
+  {
+    "chapterNumber": 4,
+    "title": "ریاضی حصہ چہارم: تفاعل، گراف اور مثلثیات کے بنیادی اصول (Functions, Graphs & Trigonometry)",
+    "slug": "math-unit-4",
+    "totalQuestions": 30,
+    "fileName": "math-unit-4.json",
+    "subject": "math"
+  },
+  {
+    "chapterNumber": 5,
+    "title": "ریاضی حصہ پنجم: متماثلات، الٹ تفاعلات اور مثلثات کے حل (Identities, Inverse Trig & Triangles)",
+    "slug": "math-unit-5",
+    "totalQuestions": 30,
+    "fileName": "math-unit-5.json",
+    "subject": "math"
+  },
+  {
+    "chapterNumber": 6,
+    "title": "وفاقی بورڈ سالانہ امتحان ماڈل سمیلیٹر ۱ (FBISE Annual Board Simulator Paper 1)",
+    "slug": "math-model-paper-1",
+    "totalQuestions": 20,
+    "fileName": "math-model-paper-1.json",
+    "subject": "math"
+  },
+  {
+    "chapterNumber": 7,
+    "title": "وفاقی بورڈ سالانہ امتحان ماڈل سمیلیٹر ۲ (FBISE Annual Board Simulator Paper 2)",
+    "slug": "math-model-paper-2",
+    "totalQuestions": 20,
+    "fileName": "math-model-paper-2.json",
+    "subject": "math"
+  },
+  {
+    "chapterNumber": 8,
+    "title": "وفاقی بورڈ سالانہ امتحان ماڈل سمیلیٹر ۳ (FBISE Annual Board Simulator Paper 3)",
+    "slug": "math-model-paper-3",
+    "totalQuestions": 20,
+    "fileName": "math-model-paper-3.json",
+    "subject": "math"
+  }
+]

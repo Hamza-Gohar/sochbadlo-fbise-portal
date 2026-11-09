@@ -1,0 +1,367 @@
+{
+  "chapterNumber": 2,
+  "chapterTitle": "ریاضی حصہ دوم: تسلسل و سلسلے اور دو درجی مساواتیں (Sequences, Series & Quadratic Equations)",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The 5th term of the arithmetic sequence an = 2n + 1 is:",
+      "options": {
+        "A": "7",
+        "B": "9",
+        "C": "11",
+        "D": "13"
+      },
+      "correctAnswer": "C",
+      "explanation": "Substitute n = 5: a5 = 2(5) + 1 = 10 + 1 = 11."
+    },
+    {
+      "id": 2,
+      "question": "If the general term of a sequence is an = (-1)^(n+1), then the 26th term is:",
+      "options": {
+        "A": "1",
+        "B": "-1",
+        "C": "26",
+        "D": "-26"
+      },
+      "correctAnswer": "B",
+      "explanation": "Substitute n = 26: a26 = (-1)^(26 + 1) = (-1)^27 = -1 (since 27 is odd)."
+    },
+    {
+      "id": 3,
+      "question": "The common difference d of the arithmetic progression 3, 5, 7, 9, ... is:",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "-2",
+        "D": "5"
+      },
+      "correctAnswer": "A",
+      "explanation": "d = a2 - a1 = 5 - 3 = 2."
+    },
+    {
+      "id": 4,
+      "question": "The next two terms of the sequence 2, 4, 6, 8, ... are:",
+      "options": {
+        "A": "10, 12",
+        "B": "10, 14",
+        "C": "12, 14",
+        "D": "16, 32"
+      },
+      "correctAnswer": "A",
+      "explanation": "This is an arithmetic progression with first term a = 2 and common difference d = 2. The next terms are 8 + 2 = 10 and 10 + 2 = 12."
+    },
+    {
+      "id": 5,
+      "question": "The arithmetic mean (A) between two numbers a and b is given by:",
+      "options": {
+        "A": "(a + b) / 2",
+        "B": "2 / (a + b)",
+        "C": "√(ab)",
+        "D": "2ab / (a + b)"
+      },
+      "correctAnswer": "A",
+      "explanation": "By definition, the arithmetic mean between a and b is their average: A = (a + b) / 2."
+    },
+    {
+      "id": 6,
+      "question": "The geometric mean (G) between two real numbers a and b is:",
+      "options": {
+        "A": "±√(ab)",
+        "B": "(a + b)/2",
+        "C": "2ab/(a + b)",
+        "D": "a^2 + b^2"
+      },
+      "correctAnswer": "A",
+      "explanation": "The geometric mean between numbers a and b is given by G = ±√(ab)."
+    },
+    {
+      "id": 7,
+      "question": "The harmonic mean (H) between two numbers a and b is:",
+      "options": {
+        "A": "2ab / (a + b)",
+        "B": "(a + b) / 2ab",
+        "C": "±√(ab)",
+        "D": "(a - b) / 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since harmonic progression terms are the reciprocals of arithmetic terms, H = 2ab / (a + b)."
+    },
+    {
+      "id": 8,
+      "question": "For any two distinct positive real numbers a and b, the relationship between A, G, and H is:",
+      "options": {
+        "A": "A > G > H",
+        "B": "H > G > A",
+        "C": "G > A > H",
+        "D": "A = G = H"
+      },
+      "correctAnswer": "A",
+      "explanation": "For any distinct positive real numbers, the arithmetic mean is strictly greater than the geometric mean, which is strictly greater than the harmonic mean: A > G > H, and G^2 = A · H."
+    },
+    {
+      "id": 9,
+      "question": "The sum of an infinite geometric series S_∞ = a / (1 - r) converges if and only if:",
+      "options": {
+        "A": "|r| < 1",
+        "B": "|r| > 1",
+        "C": "r = 1",
+        "D": "r ≥ 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "An infinite geometric series converges to a finite sum if and only if the absolute value of the common ratio is strictly less than 1, i.e., -1 < r < 1 (|r| < 1)."
+    },
+    {
+      "id": 10,
+      "question": "The sum of the infinite geometric series 1 + 1/2 + 1/4 + 1/8 + ... is:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "∞"
+      },
+      "correctAnswer": "B",
+      "explanation": "Here a = 1 and r = 1/2 (|r| < 1). S_∞ = a / (1 - r) = 1 / (1 - 1/2) = 1 / (1/2) = 2."
+    },
+    {
+      "id": 11,
+      "question": "How many terms of the arithmetic progression 18, 15, 12, ... are needed to give a sum of 45?",
+      "options": {
+        "A": "3 or 10 terms",
+        "B": "5 terms only",
+        "C": "6 terms only",
+        "D": "7 terms only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Here a = 18, d = -3. S_n = (n/2)[2(18) + (n-1)(-3)] = (n/2)[36 - 3n + 3] = (n/2)[39 - 3n] = 45 => n(39 - 3n) = 90 => 3n^2 - 39n + 90 = 0 => n^2 - 13n + 30 = 0 => (n - 3)(n - 10) = 0. So n = 3 or n = 10."
+    },
+    {
+      "id": 12,
+      "question": "The sum of the first n odd natural numbers (1 + 3 + 5 + ... + (2n - 1)) is:",
+      "options": {
+        "A": "n^2",
+        "B": "n(n + 1)/2",
+        "C": "2n^2",
+        "D": "n(n - 1)"
+      },
+      "correctAnswer": "A",
+      "explanation": "S_n = (n/2)[2(1) + (n - 1)2] = (n/2)[2 + 2n - 2] = (n/2)[2n] = n^2."
+    },
+    {
+      "id": 13,
+      "question": "If x - b is a factor of the polynomial q(x), then by Factor Theorem q(b) must equal:",
+      "options": {
+        "A": "0",
+        "B": "b",
+        "C": "1",
+        "D": "q(-b)"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to the Factor Theorem, a linear polynomial (x - b) is a factor of polynomial q(x) if and only if the remainder q(b) = 0."
+    },
+    {
+      "id": 14,
+      "question": "When polynomial f(x) is divided by (x - 2), the remainder is 12. What is the value of f(2)?",
+      "options": {
+        "A": "12",
+        "B": "-12",
+        "C": "0",
+        "D": "24"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the Remainder Theorem, dividing any polynomial f(x) by (x - c) yields a remainder equal to f(c). Hence f(2) = 12."
+    },
+    {
+      "id": 15,
+      "question": "The roots of the quadratic equation ax^2 + bx + c = 0 are complex/imaginary if the discriminant (b^2 - 4ac) is:",
+      "options": {
+        "A": "b^2 - 4ac < 0",
+        "B": "b^2 - 4ac > 0",
+        "C": "b^2 - 4ac = 0",
+        "D": "A perfect square"
+      },
+      "correctAnswer": "A",
+      "explanation": "When Δ = b^2 - 4ac < 0, the term √(b^2 - 4ac) yields an imaginary quantity (√negative = i√positive), so the roots are conjugate complex numbers."
+    },
+    {
+      "id": 16,
+      "question": "The roots of the quadratic equation ax^2 + bx + c = 0 are real and equal if:",
+      "options": {
+        "A": "b^2 - 4ac = 0",
+        "B": "b^2 - 4ac > 0",
+        "C": "b^2 - 4ac < 0",
+        "D": "b = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "When discriminant b^2 - 4ac = 0, both roots equal -b / (2a) (coincident/repeated real roots)."
+    },
+    {
+      "id": 17,
+      "question": "The sum of the roots (S) and product of the roots (P) of the quadratic equation 2x^2 - 4x + 6 = 0 are:",
+      "options": {
+        "A": "S = 2, P = 3",
+        "B": "S = -2, P = 3",
+        "C": "S = 4, P = 6",
+        "D": "S = -4, P = 3"
+      },
+      "correctAnswer": "A",
+      "explanation": "For ax^2 + bx + c = 0, S = -b/a = -(-4)/2 = 2, and P = c/a = 6/2 = 3."
+    },
+    {
+      "id": 18,
+      "question": "The cube roots of unity are 1, ω, and ω^2. The sum of the cube roots of unity (1 + ω + ω^2) equals:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "A fundamental algebraic property of the cube roots of unity is 1 + ω + ω^2 = 0."
+    },
+    {
+      "id": 19,
+      "question": "The product of the complex cube roots of unity (ω · ω^2 = ω^3) is equal to:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "i"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since ω is a cube root of unity (x^3 = 1), ω^3 = 1."
+    },
+    {
+      "id": 20,
+      "question": "The value of ω^28 + ω^29 + 1 is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "ω"
+      },
+      "correctAnswer": "A",
+      "explanation": "ω^28 = (ω^3)^9 · ω = ω, and ω^29 = (ω^3)^9 · ω^2 = ω^2. Thus ω^28 + ω^29 + 1 = ω + ω^2 + 1 = 0."
+    },
+    {
+      "id": 21,
+      "question": "The degree (highest power of the variable) in a cubic equation is:",
+      "options": {
+        "A": "3",
+        "B": "2",
+        "C": "1",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "A cubic polynomial or equation has maximum degree 3 (ax^3 + bx^2 + cx + d = 0)."
+    },
+    {
+      "id": 22,
+      "question": "In the sequence 1, 2, 2, 3, 3, 3, 4, 4, 4, 4, ... where each integer n appears n consecutive times, the 22nd term is:",
+      "options": {
+        "A": "7",
+        "B": "6",
+        "C": "8",
+        "D": "9"
+      },
+      "correctAnswer": "A",
+      "explanation": "Total terms up to integer k is k(k+1)/2. For k = 6: 6(7)/2 = 21 terms (1 to 6). The 22nd term is the first occurrence of 7."
+    },
+    {
+      "id": 23,
+      "question": "If 1/a, 1/b, 1/c are in Arithmetic Progression, then a, b, c are in:",
+      "options": {
+        "A": "Harmonic Progression (H.P.)",
+        "B": "Geometric Progression (G.P.)",
+        "C": "Arithmetic Progression (A.P.)",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "By definition, a sequence of numbers is in Harmonic Progression if the reciprocals of its terms form an Arithmetic Progression."
+    },
+    {
+      "id": 24,
+      "question": "The 10th term of the Geometric Progression 2, 6, 18, 54, ... is:",
+      "options": {
+        "A": "2 · 3^9 = 39,366",
+        "B": "2 · 3^10",
+        "C": "6^10",
+        "D": "19,683"
+      },
+      "correctAnswer": "A",
+      "explanation": "a = 2, r = 6/2 = 3. a10 = a · r^(10-1) = 2 · 3^9 = 2 · 19,683 = 39,366."
+    },
+    {
+      "id": 25,
+      "question": "The sum of the first n natural numbers 1 + 2 + 3 + ... + n is:",
+      "options": {
+        "A": "n(n + 1)/2",
+        "B": "n^2",
+        "C": "n(n + 1)(2n + 1)/6",
+        "D": "[n(n + 1)/2]^2"
+      },
+      "correctAnswer": "A",
+      "explanation": "The standard Gaussian sum of the first n positive integers is Σk = n(n + 1) / 2."
+    },
+    {
+      "id": 26,
+      "question": "The sum of the squares of the first n natural numbers (1^2 + 2^2 + 3^2 + ... + n^2) is:",
+      "options": {
+        "A": "n(n + 1)(2n + 1)/6",
+        "B": "n(n + 1)/2",
+        "C": "[n(n + 1)/2]^2",
+        "D": "n^3/3"
+      },
+      "correctAnswer": "A",
+      "explanation": "The sum of squares Σk^2 = n(n + 1)(2n + 1) / 6."
+    },
+    {
+      "id": 27,
+      "question": "The sum of the cubes of the first n natural numbers (1^3 + 2^3 + 3^3 + ... + n^3) is:",
+      "options": {
+        "A": "[n(n + 1)/2]^2",
+        "B": "n(n + 1)(2n + 1)/6",
+        "C": "n^4/4",
+        "D": "n^2(n + 1)/2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nicomachus's theorem states that Σk^3 = [n(n + 1) / 2]^2 = (Σk)^2."
+    },
+    {
+      "id": 28,
+      "question": "If the expression 2x^3 + 3kx^2 - 4x + 1 has a factor (x - 1), then the value of k is:",
+      "options": {
+        "A": "1/3",
+        "B": "-1/3",
+        "C": "1",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "By Factor Theorem, substitute x = 1: 2(1)^3 + 3k(1)^2 - 4(1) + 1 = 0 => 2 + 3k - 4 + 1 = 0 => 3k - 1 = 0 => k = 1/3."
+    },
+    {
+      "id": 29,
+      "question": "The geometric mean between 4 and 16 is:",
+      "options": {
+        "A": "±8",
+        "B": "10",
+        "C": "64",
+        "D": "±4"
+      },
+      "correctAnswer": "A",
+      "explanation": "G = ±√(4 · 16) = ±√64 = ±8."
+    },
+    {
+      "id": 30,
+      "question": "If the roots of the equation x^2 - px + q = 0 differ by unity (difference is 1), then:",
+      "options": {
+        "A": "p^2 = 4q + 1",
+        "B": "p^2 = 4q - 1",
+        "C": "q^2 = 4p + 1",
+        "D": "p = q + 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Let roots be α and β. α + β = p, αβ = q. Given |α - β| = 1 => (α - β)^2 = 1 => (α + β)^2 - 4αβ = 1 => p^2 - 4q = 1 => p^2 = 4q + 1."
+    }
+  ]
+}

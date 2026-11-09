@@ -1,0 +1,367 @@
+{
+  "chapterNumber": 5,
+  "chapterTitle": "ریاضی حصہ پنجم: متماثلات، الٹ تفاعلات اور مثلثات کے حل (Identities, Inverse Trig & Triangles)",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The double angle formula 2 sin(α) cos(α) is identical to:",
+      "options": {
+        "A": "sin(2α)",
+        "B": "cos(2α)",
+        "C": "sin(α/2)",
+        "D": "tan(2α)"
+      },
+      "correctAnswer": "A",
+      "explanation": "sin(2α) = 2 sin(α) cos(α) is the fundamental sine double-angle formula."
+    },
+    {
+      "id": 2,
+      "question": "The cosine double angle formula cos(2α) can be expressed as:",
+      "options": {
+        "A": "cos^2(α) - sin^2(α)",
+        "B": "2 cos^2(α) - 1",
+        "C": "1 - 2 sin^2(α)",
+        "D": "All of the above"
+      },
+      "correctAnswer": "D",
+      "explanation": "All three forms are mathematically equivalent: cos(2α) = cos^2 α - sin^2 α = 2 cos^2 α - 1 = 1 - 2 sin^2 α."
+    },
+    {
+      "id": 3,
+      "question": "If tan(α) = 1/7 and tan(β) = 1/3, then tan(α + β) is equal to:",
+      "options": {
+        "A": "1/2",
+        "B": "1",
+        "C": "2",
+        "D": "1/4"
+      },
+      "correctAnswer": "A",
+      "explanation": "tan(α + β) = (tan α + tan β)/(1 - tan α tan β) = (1/7 + 1/3)/(1 - 1/21) = (10/21)/(20/21) = 10/20 = 1/2."
+    },
+    {
+      "id": 4,
+      "question": "The Law of Sines for any triangle ABC with circumradius R states that:",
+      "options": {
+        "A": "a / sin(A) = b / sin(B) = c / sin(C) = 2R",
+        "B": "a / cos(A) = b / cos(B) = c / cos(C)",
+        "C": "a · sin(A) = b · sin(B) = c · sin(C)",
+        "D": "a^2 + b^2 = c^2"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Law of Sines relates the sides of any triangle to the sines of its angles and its circumcircle diameter (2R)."
+    },
+    {
+      "id": 5,
+      "question": "According to the Law of Cosines, side a is given by:",
+      "options": {
+        "A": "a^2 = b^2 + c^2 - 2bc cos(A)",
+        "B": "a^2 = b^2 + c^2 + 2bc cos(A)",
+        "C": "a^2 = b^2 - c^2 + 2bc cos(A)",
+        "D": "a = b cos(C) + c cos(B)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Law of Cosines is a^2 = b^2 + c^2 - 2bc cos(A)."
+    },
+    {
+      "id": 6,
+      "question": "The inradius r of a triangle with area Δ and semi-perimeter s is given by:",
+      "options": {
+        "A": "r = Δ / s",
+        "B": "r = s / Δ",
+        "C": "r = abc / (4Δ)",
+        "D": "r = Δ · s"
+      },
+      "correctAnswer": "A",
+      "explanation": "The radius r of the inscribed circle (incircle) is r = Δ / s."
+    },
+    {
+      "id": 7,
+      "question": "The circumradius R of a triangle with sides a, b, c and area Δ is given by:",
+      "options": {
+        "A": "R = abc / (4Δ)",
+        "B": "R = Δ / s",
+        "C": "R = 4Δ / abc",
+        "D": "R = abc / Δ"
+      },
+      "correctAnswer": "A",
+      "explanation": "The radius of the circumscribed circle is R = abc / (4Δ)."
+    },
+    {
+      "id": 8,
+      "question": "The ex-radius r1 (opposite to vertex A) of a triangle is given by:",
+      "options": {
+        "A": "r1 = Δ / (s - a)",
+        "B": "r1 = Δ / (s - b)",
+        "C": "r1 = Δ / (s - c)",
+        "D": "r1 = s / (s - a)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The radius of the excircle touching side a is r1 = Δ / (s - a)."
+    },
+    {
+      "id": 9,
+      "question": "Hero's formula for the area of a triangle Δ in terms of sides a, b, c and semi-perimeter s is:",
+      "options": {
+        "A": "√[s(s - a)(s - b)(s - c)]",
+        "B": "s(s - a)(s - b)(s - c)",
+        "C": "(1/2) ab sin(C)",
+        "D": "√[(s - a)(s - b)(s - c)]"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hero's formula computes area without heights: Δ = √[s(s - a)(s - b)(s - c)]."
+    },
+    {
+      "id": 10,
+      "question": "The principal value branch (range) of y = arcsin(x) is:",
+      "options": {
+        "A": "[-π/2, π/2]",
+        "B": "[0, π]",
+        "C": "(-π/2, π/2)",
+        "D": "[0, 2π]"
+      },
+      "correctAnswer": "A",
+      "explanation": "The principal range for the inverse sine function is [-π/2, π/2]."
+    },
+    {
+      "id": 11,
+      "question": "The principal value branch (range) of y = arccos(x) is:",
+      "options": {
+        "A": "[0, π]",
+        "B": "[-π/2, π/2]",
+        "C": "(0, π)",
+        "D": "[-1, 1]"
+      },
+      "correctAnswer": "A",
+      "explanation": "The principal range for the inverse cosine function is [0, π]."
+    },
+    {
+      "id": 12,
+      "question": "The value of arcsin(x) + arccos(x) for all x ∈ [-1, 1] is constantly equal to:",
+      "options": {
+        "A": "π/2",
+        "B": "π",
+        "C": "0",
+        "D": "2π"
+      },
+      "correctAnswer": "A",
+      "explanation": "For any x in [-1, 1], arcsin(x) + arccos(x) = π/2."
+    },
+    {
+      "id": 13,
+      "question": "The value of arctan(1) + arctan(2) + arctan(3) is equal to:",
+      "options": {
+        "A": "π",
+        "B": "π/2",
+        "C": "2π",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "arctan(1) = π/4, and arctan(2) + arctan(3) = π + arctan((2+3)/(1-6)) = π + arctan(-1) = π - π/4 = 3π/4. Sum = π/4 + 3π/4 = π."
+    },
+    {
+      "id": 14,
+      "question": "The identity cos(α - β) - cos(α + β) is equal to:",
+      "options": {
+        "A": "2 sin(α) sin(β)",
+        "B": "2 cos(α) cos(β)",
+        "C": "2 sin(α) cos(β)",
+        "D": "-2 sin(α) sin(β)"
+      },
+      "correctAnswer": "A",
+      "explanation": "cos(α - β) - cos(α + β) = (cos α cos β + sin α sin β) - (cos α cos β - sin α sin β) = 2 sin α sin β."
+    },
+    {
+      "id": 15,
+      "question": "The value of sin(75°) is exactly:",
+      "options": {
+        "A": "(√6 + √2) / 4",
+        "B": "(√6 - √2) / 4",
+        "C": "(√3 + 1) / 2",
+        "D": "√3 / 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "sin(75°) = sin(45° + 30°) = sin 45° cos 30° + cos 45° sin 30° = (1/√2)(√3/2) + (1/√2)(1/2) = (√3 + 1)/(2√2) = (√6 + √2)/4."
+    },
+    {
+      "id": 16,
+      "question": "The value of cos(15°) is equal to:",
+      "options": {
+        "A": "(√6 + √2) / 4",
+        "B": "(√6 - √2) / 4",
+        "C": "1/2",
+        "D": "√3/2"
+      },
+      "correctAnswer": "A",
+      "explanation": "cos(15°) = cos(90° - 75°) = sin(75°) = (√6 + √2)/4."
+    },
+    {
+      "id": 17,
+      "question": "The general solution of the trigonometric equation sin(x) = 0 is:",
+      "options": {
+        "A": "x = nπ, n ∈ Z",
+        "B": "x = (2n + 1)π/2, n ∈ Z",
+        "C": "x = 2nπ, n ∈ Z",
+        "D": "x = nπ/2, n ∈ Z"
+      },
+      "correctAnswer": "A",
+      "explanation": "The sine function vanishes at all integral multiples of π, so x = nπ for any integer n."
+    },
+    {
+      "id": 18,
+      "question": "The general solution of the equation cos(x) = 0 is:",
+      "options": {
+        "A": "x = (2n + 1)π/2, n ∈ Z",
+        "B": "x = nπ, n ∈ Z",
+        "C": "x = 2nπ, n ∈ Z",
+        "D": "x = 0 only"
+      },
+      "correctAnswer": "A",
+      "explanation": "The cosine function vanishes at all odd multiples of π/2: x = (2n + 1)π/2."
+    },
+    {
+      "id": 19,
+      "question": "In any right-angled triangle ABC with hypotenuse c and right angle at C, the circumradius R is:",
+      "options": {
+        "A": "c / 2",
+        "B": "c",
+        "C": "(a + b) / 2",
+        "D": "ab / c"
+      },
+      "correctAnswer": "A",
+      "explanation": "The hypotenuse of a right triangle is the diameter of its circumcircle, so R = c / 2."
+    },
+    {
+      "id": 20,
+      "question": "The value of arctan(1/2) + arctan(1/3) is:",
+      "options": {
+        "A": "π/4",
+        "B": "π/2",
+        "C": "π/6",
+        "D": "π/3"
+      },
+      "correctAnswer": "A",
+      "explanation": "arctan(x) + arctan(y) = arctan((x+y)/(1-xy)). Here ((1/2 + 1/3)/(1 - 1/6)) = (5/6)/(5/6) = 1. arctan(1) = π/4."
+    },
+    {
+      "id": 21,
+      "question": "The half-angle formula sin(α/2) in terms of cos(α) is:",
+      "options": {
+        "A": "±√[(1 - cos α) / 2]",
+        "B": "±√[(1 + cos α) / 2]",
+        "C": "±√[(1 - sin α) / 2]",
+        "D": "(1 - cos α) / 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "From cos(α) = 1 - 2 sin^2(α/2), we get sin(α/2) = ±√[(1 - cos α) / 2]."
+    },
+    {
+      "id": 22,
+      "question": "The half-angle formula cos(α/2) in terms of cos(α) is:",
+      "options": {
+        "A": "±√[(1 + cos α) / 2]",
+        "B": "±√[(1 - cos α) / 2]",
+        "C": "±√[(1 + sin α) / 2]",
+        "D": "(1 + cos α) / 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "From cos(α) = 2 cos^2(α/2) - 1, we get cos(α/2) = ±√[(1 + cos α) / 2]."
+    },
+    {
+      "id": 23,
+      "question": "The area of a triangle with two sides a = 4, b = 6 and included angle C = 30° is:",
+      "options": {
+        "A": "6 sq units",
+        "B": "12 sq units",
+        "C": "6√3 sq units",
+        "D": "3 sq units"
+      },
+      "correctAnswer": "A",
+      "explanation": "Δ = (1/2) a b sin(C) = (1/2) · (4) · (6) · sin(30°) = 12 · (1/2) = 6."
+    },
+    {
+      "id": 24,
+      "question": "The expression (sin 2x) / (1 + cos 2x) simplifies to:",
+      "options": {
+        "A": "tan(x)",
+        "B": "cot(x)",
+        "C": "sin(x)",
+        "D": "cos(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "(2 sin x cos x) / (2 cos^2 x) = sin x / cos x = tan x."
+    },
+    {
+      "id": 25,
+      "question": "The expression (1 - cos 2x) / (sin 2x) simplifies to:",
+      "options": {
+        "A": "tan(x)",
+        "B": "cot(x)",
+        "C": "sec(x)",
+        "D": "csc(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "(2 sin^2 x) / (2 sin x cos x) = sin x / cos x = tan x."
+    },
+    {
+      "id": 26,
+      "question": "The relation between inradius r and ex-radii r1, r2, r3 is given by:",
+      "options": {
+        "A": "1/r = 1/r1 + 1/r2 + 1/r3",
+        "B": "r = r1 + r2 + r3",
+        "C": "r^2 = r1 · r2 · r3",
+        "D": "1/r = 1/r1 · 1/r2 · 1/r3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since r = Δ/s and ri = Δ/(s - a_i), 1/r1 + 1/r2 + 1/r3 = (s - a + s - b + s - c)/Δ = (3s - 2s)/Δ = s/Δ = 1/r."
+    },
+    {
+      "id": 27,
+      "question": "The value of arcsin(1/2) in radians is:",
+      "options": {
+        "A": "π/6 (30°)",
+        "B": "π/3 (60°)",
+        "C": "π/4 (45°)",
+        "D": "π/2 (90°)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since sin(π/6) = 1/2 and π/6 is within the principal range [-π/2, π/2], arcsin(1/2) = π/6."
+    },
+    {
+      "id": 28,
+      "question": "The value of arccos(-1/2) in radians is:",
+      "options": {
+        "A": "2π/3 (120°)",
+        "B": "-π/3",
+        "C": "π/3",
+        "D": "5π/6"
+      },
+      "correctAnswer": "A",
+      "explanation": "arccos(-x) = π - arccos(x). Here π - arccos(1/2) = π - π/3 = 2π/3."
+    },
+    {
+      "id": 29,
+      "question": "The sum of the three angles of any plane triangle in radians is:",
+      "options": {
+        "A": "π rad",
+        "B": "2π rad",
+        "C": "π/2 rad",
+        "D": "3π/2 rad"
+      },
+      "correctAnswer": "A",
+      "explanation": "A + B + C = 180° = π radians."
+    },
+    {
+      "id": 30,
+      "question": "The triple angle formula for sin(3α) is:",
+      "options": {
+        "A": "3 sin(α) - 4 sin^3(α)",
+        "B": "4 sin^3(α) - 3 sin(α)",
+        "C": "3 cos(α) - 4 cos^3(α)",
+        "D": "3 sin(α) + 4 sin^3(α)"
+      },
+      "correctAnswer": "A",
+      "explanation": "sin(3α) = 3 sin(α) - 4 sin^3(α)."
+    }
+  ]
+}

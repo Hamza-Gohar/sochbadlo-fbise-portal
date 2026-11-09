@@ -24,6 +24,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   }, [chapter.slug]);
 
   const isUrdu = chapter.subject === 'urdu' || chapter.slug.startsWith('urdu');
+  const isMath = chapter.subject === 'math' || chapter.slug.startsWith('math');
   const isPastPapers = chapter.slug === 'past-papers' || chapter.slug === 'urdu-model-paper';
 
   let tagLabel = `Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
@@ -31,6 +32,8 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (chapter.slug === 'urdu-model-paper') tagLabel = 'Urdu Full Board Simulator';
   else if (chapter.slug === 'urdu-ilm-e-bayan') tagLabel = 'Urdu Rhetoric (علم بیان)';
   else if (chapter.slug === 'urdu-ilm-e-badi') tagLabel = 'Urdu Figures (علم بدیع)';
+  else if (chapter.slug.startsWith('math-model-paper-')) tagLabel = `Math Board Simulator ${chapter.chapterNumber}`;
+  else if (isMath) tagLabel = `Math Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (isUrdu) tagLabel = `Urdu Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
 
   let description = `Comprehensive conceptual questions, dimensional formulas, and numericals for ${chapter.title} aligned with textbook SLOs.`;
@@ -44,6 +47,20 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     description = 'صنائعِ لفظی و معنوی: تضاد، تلمیح، حسنِ تعلیل، لف و نشر اور مراعاۃ النظیر کے 50 حل شدہ مشقی سوالات مع تفصیلی وضاحت۔';
   } else if (isUrdu) {
     description = `وفاقی بورڈ لازمی اردو سال اول: ${chapter.title} کے اہم سوالات، معانی، تراکیب اور شعری اصطلاحات کا ٹیسٹ۔`;
+  } else if (chapter.slug === 'math-unit-1') {
+    description = 'Complex numbers algebra, modulus, polar forms, matrix determinant shortcuts, and vector dot/cross product properties.';
+  } else if (chapter.slug === 'math-unit-2') {
+    description = 'Arithmetic & geometric sequences, sum to infinity, harmonic progressions, and quadratic equation roots & disc properties.';
+  } else if (chapter.slug === 'math-unit-3') {
+    description = 'Permutations (nPr), combinations (nCr), binomial theorem expansions, middle terms, and mathematical induction steps.';
+  } else if (chapter.slug === 'math-unit-4') {
+    description = 'Function domain/range, inverse functions, circular measure, radian/degree relations, and standard trigonometric identities.';
+  } else if (chapter.slug === 'math-unit-5') {
+    description = 'Addition/subtraction angle formulas, half/double angle identities, inverse trigonometric functions, and solution of triangles.';
+  } else if (chapter.slug.startsWith('math-model-paper-')) {
+    description = 'Official FBISE Class 11 Mathematics Section A annual board simulator with 20 MCQs and complete step-by-step mathematical reasoning.';
+  } else if (isMath) {
+    description = `Curated FBISE Class 11 Mathematics conceptual problems, formula applications, and computational shortcuts for ${chapter.title}.`;
   }
 
   return (
