@@ -1,0 +1,101 @@
+[
+  {
+    "chapterNumber": 1,
+    "title": "Unit 1: Physical Quantities & Measurement",
+    "slug": "physics-9-chapter-1",
+    "totalQuestions": 93,
+    "fileName": "physics-9-chapter-1.json",
+    "subject": "physics-9",
+    "grade": "9"
+  },
+  {
+    "chapterNumber": 2,
+    "title": "Unit 2: Kinematics",
+    "slug": "physics-9-chapter-2",
+    "totalQuestions": 82,
+    "fileName": "physics-9-chapter-2.json",
+    "subject": "physics-9",
+    "grade": "9"
+  },
+  {
+    "chapterNumber": 3,
+    "title": "Unit 3: Dynamics",
+    "slug": "physics-9-chapter-3",
+    "totalQuestions": 140,
+    "fileName": "physics-9-chapter-3.json",
+    "subject": "physics-9",
+    "grade": "9"
+  },
+  {
+    "chapterNumber": 4,
+    "title": "Unit 4: Turning Effect of Forces",
+    "slug": "physics-9-chapter-4",
+    "totalQuestions": 115,
+    "fileName": "physics-9-chapter-4.json",
+    "subject": "physics-9",
+    "grade": "9"
+  },
+  {
+    "chapterNumber": 5,
+    "title": "Unit 5: Pressure & Deformation in Solids",
+    "slug": "physics-9-chapter-5",
+    "totalQuestions": 103,
+    "fileName": "physics-9-chapter-5.json",
+    "subject": "physics-9",
+    "grade": "9"
+  },
+  {
+    "chapterNumber": 6,
+    "title": "Unit 6: Work & Energy",
+    "slug": "physics-9-chapter-6",
+    "totalQuestions": 91,
+    "fileName": "physics-9-chapter-6.json",
+    "subject": "physics-9",
+    "grade": "9"
+  },
+  {
+    "chapterNumber": 7,
+    "title": "Unit 7: Properties of Matter & Density",
+    "slug": "physics-9-chapter-7",
+    "totalQuestions": 96,
+    "fileName": "physics-9-chapter-7.json",
+    "subject": "physics-9",
+    "grade": "9"
+  },
+  {
+    "chapterNumber": 8,
+    "title": "Unit 8: Magnetism & Thermal Physics",
+    "slug": "physics-9-chapter-8",
+    "totalQuestions": 78,
+    "fileName": "physics-9-chapter-8.json",
+    "subject": "physics-9",
+    "grade": "9"
+  },
+  {
+    "chapterNumber": 9,
+    "title": "Unit 9: Nature of Science & Fundamental Physics",
+    "slug": "physics-9-chapter-9",
+    "totalQuestions": 49,
+    "fileName": "physics-9-chapter-9.json",
+    "subject": "physics-9",
+    "grade": "9"
+  },
+  {
+    "chapterNumber": 10,
+    "title": "FBISE Model Paper 1 (Section A Simulator - Units 1-5)",
+    "slug": "physics-9-model-paper-1",
+    "totalQuestions": 12,
+    "fileName": "physics-9-model-paper-1.json",
+    "subject": "physics-9",
+    "grade": "9"
+  },
+  {
+    "chapterNumber": 11,
+    "title": "FBISE Model Paper 2 (Section A Simulator - Units 5-9)",
+    "slug": "physics-9-model-paper-2",
+    "totalQuestions": 12,
+    "fileName": "physics-9-model-paper-2.json",
+    "subject": "physics-9",
+    "grade": "9"
+  }
+]

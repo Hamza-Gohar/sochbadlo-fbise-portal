@@ -30,8 +30,9 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [reviewFilter, setReviewFilter] = useState<'all' | 'incorrect'>('all');
   
-  // Timer for Exam Mode (20 minutes default = 1200 seconds)
-  const [timeLeft, setTimeLeft] = useState(1200);
+  // Timer for Exam Mode (15 min / 900s for Class 9 simulators; 20 min / 1200s for Class 11)
+  const isClass9Simulator = slug.startsWith('physics-9-model-paper-');
+  const [timeLeft, setTimeLeft] = useState(isClass9Simulator ? 900 : 1200);
   const [elapsedTime, setElapsedTime] = useState(0);
 
   const questions = chapter.questions;

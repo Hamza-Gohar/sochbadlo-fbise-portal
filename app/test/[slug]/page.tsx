@@ -26,6 +26,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     };
   }
 
+  const isGrade9 = chapter.subject === 'physics-9' || slug.startsWith('physics-9');
   let subjectName = 'Physics';
   if (chapter.subject === 'urdu') subjectName = 'Urdu';
   else if (chapter.subject === 'math') subjectName = 'Mathematics';
@@ -35,10 +36,13 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   else if (chapter.subject === 'tarjuma') subjectName = 'Tarjuma-tul-Quran (ترجمۃ القرآن المجید)';
   else if (chapter.subject === 'biology') subjectName = 'Biology (حیاتیات)';
   else if (chapter.subject === 'chemistry') subjectName = 'Chemistry (کیمسٹری)';
+  else if (isGrade9) subjectName = 'Physics';
+
+  const classLabel = isGrade9 ? 'Class 9 (SSC-I)' : 'Class 11 (HSSC-I)';
 
   return {
-    title: `${chapter.chapterTitle} | Class 11 ${subjectName} MCQs | SochBadlo Prep`,
-    description: `Practice and timed test for FBISE Class 11th ${subjectName} ${chapter.chapterTitle} with ${chapter.totalQuestions} verified MCQs.`,
+    title: `${chapter.chapterTitle} | ${classLabel} ${subjectName} MCQs | SochBadlo Prep`,
+    description: `Practice and timed test for FBISE ${classLabel} ${subjectName} ${chapter.chapterTitle} with ${chapter.totalQuestions} verified MCQs.`,
   };
 }
 

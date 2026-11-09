@@ -6,15 +6,15 @@ export default function Footer() {
       <div className="max-w-[var(--container)] mx-auto px-4 sm:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 pb-12 border-b border-[var(--color-rule)]">
           {/* Col 1 */}
-          <div className="md:col-span-2">
+          <div className="md:col-span-1">
             <h3 className="font-[family-name:var(--font-display)] text-xl font-bold tracking-tight text-[var(--color-ink)] mb-3">
               SochBadlo<span className="text-emerald-700 font-normal">Prep</span>
             </h3>
-            <p className="text-sm text-[var(--color-muted)] max-w-md leading-relaxed font-[family-name:var(--font-body)]">
-              An authentic FBISE exam practice platform engineered for intermediate students.
-              Compiles verified multiple choice questions, numericals, and board standard solutions directly from curriculum syllabus notes.
+            <p className="text-xs text-[var(--color-muted)] leading-relaxed font-[family-name:var(--font-body)]">
+              Authentic FBISE exam practice platform engineered for secondary and intermediate students (Matric SSC-I & HSSC-I).
+              Compiles verified multiple choice questions, numericals, and board standard solutions directly from official syllabus notes.
             </p>
-            <div className="mt-4 text-xs font-mono text-[var(--color-muted)]">
+            <div className="mt-4 text-[11px] font-mono text-[var(--color-muted)]">
               Curriculum: Federal Board of Intermediate & Secondary Education (FBISE) Islamabad.
             </div>
           </div>
@@ -22,7 +22,27 @@ export default function Footer() {
           {/* Col 2 */}
           <div>
             <h4 className="font-[family-name:var(--font-display)] text-xs font-bold uppercase tracking-wider text-[var(--color-ink)] mb-3">
-              Class 11 Subjects (HSSC-I)
+              Class 9th (SSC-I)
+            </h4>
+            <ul className="text-xs space-y-1.5 text-[var(--color-muted)] font-[family-name:var(--font-display)]">
+              <li className="font-semibold text-emerald-800">Physics (9 Units)</li>
+              <li>• Unit 1: Physical Quantities</li>
+              <li>• Unit 2: Kinematics</li>
+              <li>• Unit 3: Dynamics</li>
+              <li>• Unit 4: Turning Effect</li>
+              <li>• Unit 5: Pressure & Solids</li>
+              <li>• Unit 6: Work & Energy</li>
+              <li>• Unit 7: Properties of Matter</li>
+              <li>• Unit 8: Thermal Physics</li>
+              <li>• Unit 9: Nature of Science</li>
+              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 2 Section A Simulators</li>
+            </ul>
+          </div>
+
+          {/* Col 3 */}
+          <div>
+            <h4 className="font-[family-name:var(--font-display)] text-xs font-bold uppercase tracking-wider text-[var(--color-ink)] mb-3">
+              Class 11th (HSSC-I)
             </h4>
             <ul className="text-xs space-y-1.5 text-[var(--color-muted)] font-[family-name:var(--font-display)]">
               <li>Physics (14 Units + Past Papers)</li>

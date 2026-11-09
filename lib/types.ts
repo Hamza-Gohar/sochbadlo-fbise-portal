@@ -11,12 +11,25 @@ export interface Question {
   explanation?: string;
 }
 
+export type SubjectId =
+  | 'physics'
+  | 'urdu'
+  | 'math'
+  | 'english'
+  | 'cs'
+  | 'islamiat'
+  | 'tarjuma'
+  | 'biology'
+  | 'chemistry'
+  | 'physics-9';
+
 export interface ChapterData {
   chapterNumber: number;
   chapterTitle: string;
   totalQuestions: number;
   questions: Question[];
-  subject?: 'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry';
+  subject?: SubjectId;
+  grade?: '9' | '11';
 }
 
 export interface ChapterMeta {
@@ -25,7 +38,8 @@ export interface ChapterMeta {
   slug: string;
   totalQuestions: number;
   fileName: string;
-  subject?: 'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry';
+  subject?: SubjectId;
+  grade?: '9' | '11';
 }
 
 export interface QuizResult {

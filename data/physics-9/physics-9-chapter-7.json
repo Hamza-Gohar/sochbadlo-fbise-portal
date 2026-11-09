@@ -1,0 +1,1161 @@
+{
+  "chapterNumber": 7,
+  "chapterTitle": "Unit 7: Properties of Matter & Density",
+  "totalQuestions": 96,
+  "subject": "physics-9",
+  "grade": "9",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which best describes the particle arrangement in a liquid?",
+      "options": {
+        "A": "Particles are closely packed in a fixed, orderly arrangement",
+        "B": "Particles are far apart and have no specific arrangement",
+        "C": "Particles are close together but not in a fixed arrangement and can move past each other",
+        "D": "Particles are ionized and move freely as ions and electrons"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Particles are close together but not in a fixed arrangement and can move past each other. Liquids have definite volume but no fixed shape; particles can move past each other."
+    },
+    {
+      "id": 2,
+      "question": "At absolute zero, the particles of a substance:",
+      "options": {
+        "A": "Move at the speed of light",
+        "B": "Have a maximum kinetic energy",
+        "C": "Have least kinetic energy",
+        "D": "Are in a plasma state"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Have a maximum kinetic energy. Absolute zero (0 K) is the theoretical temperature where particles have minimum possible energy and motion nearly stops."
+    },
+    {
+      "id": 3,
+      "question": "Which statement accurately distinguishes between heat and internal energy?",
+      "options": {
+        "A": "Heat is the energy contained within an object while internal energy is the energy transferred",
+        "B": "Internal energy is the energy contained within an object while heat is the energy transferred between objects due to a temperature difference",
+        "C": "Both refer to energy transferred between objects",
+        "D": "Both refer to energy contained within an object"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Internal energy is the energy contained within an object while heat is the energy transferred between objects due to a temperature difference. Internal energy is total energy (kinetic + potential) inside a substance; heat is energy in transit due to temperature difference."
+    },
+    {
+      "id": 4,
+      "question": "Which physical property is commonly used to measure temperature?",
+      "options": {
+        "A": "Density",
+        "B": "Volume",
+        "C": "Electrical resistance",
+        "D": "Mass"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Electrical resistance. Electrical resistance of some metals changes with temperature; this property is used in thermometers like resistance temperature detectors (RTDs)."
+    },
+    {
+      "id": 5,
+      "question": "The ice point on a thermometer refers to the temperature at which:",
+      "options": {
+        "A": "Water boils",
+        "B": "Water freezes",
+        "C": "Ice melts",
+        "D": "Ice forms"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Water boils. Ice point is the freezing point of water, i.e., 0°C or 32°F."
+    },
+    {
+      "id": 6,
+      "question": "Water freezes at:",
+      "options": {
+        "A": "0°F",
+        "B": "32°F",
+        "C": "–273 K",
+        "D": "0 K"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 32°F. Water freezes at 32°F or 0°C."
+    },
+    {
+      "id": 7,
+      "question": "Normal human body temperature is:",
+      "options": {
+        "A": "15°C",
+        "B": "37°C",
+        "C": "37°F",
+        "D": "0 K"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 37°C. Average human body temperature is 37°C."
+    },
+    {
+      "id": 8,
+      "question": "Mercury is used as a thermometric material because it has:",
+      "options": {
+        "A": "Uniform thermal expansion",
+        "B": "Low freezing point",
+        "C": "Smaller heat capacity",
+        "D": "All the above properties"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Low freezing point. Mercury is ideal for thermometers because of uniform expansion, low freezing point, and small heat capacity."
+    },
+    {
+      "id": 9,
+      "question": "The sensitivity of a thermometer refers to its ability to:",
+      "options": {
+        "A": "Measure a high temperature",
+        "B": "Measure a wide range of temperature",
+        "C": "Detect small changes in temperature",
+        "D": "Maintain accuracy over time"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Detect small changes in temperature. Sensitivity measures how small a change the thermometer can detect."
+    },
+    {
+      "id": 10,
+      "question": "The sensitivity of a liquid-in-glass thermometer can be increased by:",
+      "options": {
+        "A": "Using a larger bulb",
+        "B": "Using a narrower capillary tube",
+        "C": "Increasing the volume of liquid",
+        "D": "Using thicker glass"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Increasing the volume of liquid. Narrow capillaries make small changes in liquid height more noticeable, increasing sensitivity."
+    },
+    {
+      "id": 11,
+      "question": "If a substance has a mass of 150 g and a volume of 50 cm³, its density is:",
+      "options": {
+        "A": "3 g/cm³",
+        "B": "2 g/cm³",
+        "C": "300 g/cm³",
+        "D": "0.3 g/cm³"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 3 g/cm³. Density = mass ÷ volume = 150 ÷ 50 = 3 g/cm³."
+    },
+    {
+      "id": 12,
+      "question": "When measuring the density of an oil sample, why is it inappropriate to use water displacement?",
+      "options": {
+        "A": "Oil is less dense than water",
+        "B": "Oil will mix with water",
+        "C": "Oil evaporates quickly",
+        "D": "Oil is transparent"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Oil will mix with water. Oil floats on water due to lower density, making displacement measurement inaccurate."
+    },
+    {
+      "id": 13,
+      "question": "What distinguishes plasma from other states of matter?",
+      "options": {
+        "A": "Presence of free electrons",
+        "B": "Fixed volume and shape",
+        "C": "Absence of atomic nuclei",
+        "D": "Uniform electric charge"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Presence of free electrons. Plasma is an ionized gas containing free electrons and ions, making it highly conductive."
+    },
+    {
+      "id": 14,
+      "question": "How does the kinetic theory of gases relate to absolute zero?",
+      "options": {
+        "A": "At absolute zero, gases condense into liquids",
+        "B": "At absolute zero, gas particles have maximum kinetic energy",
+        "C": "At absolute zero, gas particles have minimum kinetic energy",
+        "D": "At absolute zero, gases turn into plasma"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): At absolute zero, gases condense into liquids. At 0 K, particle motion is minimal, confirming kinetic theory."
+    },
+    {
+      "id": 15,
+      "question": "Which scenario illustrates the concept of density most effectively?",
+      "options": {
+        "A": "A balloon rising in the air",
+        "B": "An iron nail sinking in water",
+        "C": "Wood floating on water",
+        "D": "All of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): An iron nail sinking in water. Density determines whether an object sinks or floats; iron is denser than water, so it sinks."
+    },
+    {
+      "id": 16,
+      "question": "Plasma is commonly found in:",
+      "options": {
+        "A": "Refrigerators",
+        "B": "Incandescent light bulbs",
+        "C": "The earth’s crust",
+        "D": "The sun"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): The sun. The sun’s matter is in plasma state, ionized and highly conductive."
+    },
+    {
+      "id": 17,
+      "question": "A liquid-in-glass thermometer’s linearity is affected by:",
+      "options": {
+        "A": "The thermal conductivity of the liquid",
+        "B": "The color of the liquid",
+        "C": "The expansion coefficient of the liquid",
+        "D": "The material of the glass tube"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): The color of the liquid. Linearity depends on how uniformly the liquid expands with temperature."
+    },
+    {
+      "id": 18,
+      "question": "Water exists in the form of:",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gas",
+        "D": "all of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Liquid. Water can exist as solid (ice), liquid (water), gas (steam)."
+    },
+    {
+      "id": 19,
+      "question": "Molecules are closely packed in:",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gas",
+        "D": "Plasma"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Solid. Solids have tightly packed molecules in fixed positions, giving them a definite shape and volume."
+    },
+    {
+      "id": 20,
+      "question": "Force acting on unit area of an object is called:",
+      "options": {
+        "A": "Strain",
+        "B": "Young modulus",
+        "C": "Pressure",
+        "D": "Elasticity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Pressure. Pressure = Force ÷ Area; it measures how much force is applied per unit area."
+    },
+    {
+      "id": 21,
+      "question": "Principle of floatation helps us to find:",
+      "options": {
+        "A": "Density",
+        "B": "Velocity",
+        "C": "Area",
+        "D": "Pressure"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Density. Floatation principle allows us to measure the density of an object by comparing its weight in air and fluid."
+    },
+    {
+      "id": 22,
+      "question": "Pressure at depth in fluids:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Stay same",
+        "D": "None"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Increases. Pressure increases with depth because of the weight of the liquid above."
+    },
+    {
+      "id": 23,
+      "question": "The density of water is:",
+      "options": {
+        "A": "1000 kg/m³",
+        "B": "1000 kgm³",
+        "C": "800 kg/m³",
+        "D": "900 kg/m³"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 1000 kg/m³. Standard water density at 4°C is 1000 kg/m³."
+    },
+    {
+      "id": 24,
+      "question": "The ratio of mass to that of volume is called:",
+      "options": {
+        "A": "Pressure",
+        "B": "Upthrust",
+        "C": "Density",
+        "D": "Atmospheric pressure"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Density. Density = Mass ÷ Volume; it measures how compact matter is."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following material is more elastic:",
+      "options": {
+        "A": "Iron",
+        "B": "Rubber",
+        "C": "Steel",
+        "D": "Woods"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Steel. Steel has a high Young’s modulus, meaning it returns to original shape better under stress."
+    },
+    {
+      "id": 26,
+      "question": "A brittle material has:",
+      "options": {
+        "A": "No elastic zone",
+        "B": "No plastic zone",
+        "C": "Large plastic zone",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): No plastic zone. Brittle materials fracture without significant plastic deformation."
+    },
+    {
+      "id": 27,
+      "question": "Limit of proportionality depends upon:",
+      "options": {
+        "A": "Area of cross section",
+        "B": "Type of loading",
+        "C": "Type of material",
+        "D": "All of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Type of material. It is an Intrinsic Property: Just like density or boiling point, the limit of proportionality is a characteristic of the material’s internal atomic structure and bonding. Stress vs. Force: It is measured in terms of stress (F/A). Because stress accounts for the area, the limit remains the same whether the object is thick or thin. Material Specific: Steel will always have a much higher limit of proportionality than lead or copper, regardless of the size or shape of the sample"
+    },
+    {
+      "id": 28,
+      "question": "If stress produces a change in the length of an object, then the strain is called:",
+      "options": {
+        "A": "Elasticity",
+        "B": "Young modulus",
+        "C": "Elastic limit",
+        "D": "Tensile strain"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Tensile strain. Tensile strain is deformation per unit length due to tensile stress."
+    },
+    {
+      "id": 29,
+      "question": "Plasma exists in:",
+      "options": {
+        "A": "Energy savers",
+        "B": "Neon tubes",
+        "C": "Fluorescent tubes",
+        "D": "Both (b) and (c)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Fluorescent tubes. Gas inside neon and fluorescent tubes is ionized to form plasma."
+    },
+    {
+      "id": 30,
+      "question": "The fourth state of matter is:",
+      "options": {
+        "A": "Conductors",
+        "B": "Insulators",
+        "C": "Plasma",
+        "D": "Both B and C"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Plasma. Plasma is recognized as the fourth state of matter after solid, liquid, and gas."
+    },
+    {
+      "id": 31,
+      "question": "The highly conducting state of matter is called:",
+      "options": {
+        "A": "Conductors",
+        "B": "Insulators",
+        "C": "Liquid",
+        "D": "Plasma"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Plasma. Plasma conducts electricity due to free-moving electrons and ions."
+    },
+    {
+      "id": 32,
+      "question": "In which, gases exist in their ionic state?",
+      "options": {
+        "A": "Sun",
+        "B": "Stone",
+        "C": "Moon",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Sun. Sun’s gases are ionized by extreme heat, forming plasma."
+    },
+    {
+      "id": 33,
+      "question": "Which state of matter is much lighter?",
+      "options": {
+        "A": "Liquid",
+        "B": "Solid",
+        "C": "Gas",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Liquid. Gas has lower density compared to solids and liquids."
+    },
+    {
+      "id": 34,
+      "question": "Which of the solid does not possess fixed shape and volume?",
+      "options": {
+        "A": "Stone",
+        "B": "Metal spoon",
+        "C": "Pencil",
+        "D": "Amorphous solid"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Amorphous solid. Amorphous solids lack definite shape and have no regular arrangement of particles."
+    },
+    {
+      "id": 35,
+      "question": "1000 kg/m³ is equal to:",
+      "options": {
+        "A": "1 kg/cm³",
+        "B": "1 kg/cm⁻³",
+        "C": "1 g/cm³",
+        "D": "1 g/cm³"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 1 g/cm³. Conversion: 1 g/cm³ = 1000 kg/m³."
+    },
+    {
+      "id": 36,
+      "question": "One liter (1 L) is equal to:",
+      "options": {
+        "A": "1 m³",
+        "B": "10⁻³ m⁻³",
+        "C": "10⁻³ m³",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 1 m³. 1 liter = 0.001 m³."
+    },
+    {
+      "id": 37,
+      "question": "To know that iron is heavier than wood, we compare:",
+      "options": {
+        "A": "Density",
+        "B": "Volume",
+        "C": "Pressure",
+        "D": "All above"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Volume. Denser objects weigh more for the same volume."
+    },
+    {
+      "id": 38,
+      "question": "Specific volume is the inverse of:",
+      "options": {
+        "A": "Volume",
+        "B": "Pressure",
+        "C": "Density",
+        "D": "Flow rate"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Density. Specific volume = 1 ÷ density."
+    },
+    {
+      "id": 39,
+      "question": "Mass that a cube contains is 40 g and having side length of 1 cm. The density of the material inside the cube is:",
+      "options": {
+        "A": "40 g/cm³",
+        "B": "20 g/cm³",
+        "C": "10 g/cm³",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 40 g/cm³. Density = Mass ÷ Volume = 40 ÷ 1³ = 40 g/cm³."
+    },
+    {
+      "id": 40,
+      "question": "When the gas molecules collide with each other and with the walls of the container, they develop:",
+      "options": {
+        "A": "Vacuum",
+        "B": "Pressure",
+        "C": "Force",
+        "D": "Density"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Pressure. Pressure in a gas arises due to collisions of molecules with container walls."
+    },
+    {
+      "id": 41,
+      "question": "The quantity that depends upon the force and decreases with increase in area on which force is acting is called:",
+      "options": {
+        "A": "Pressure",
+        "B": "Density",
+        "C": "Volume",
+        "D": "All of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Pressure. Pressure is inversely proportional to the area."
+    },
+    {
+      "id": 42,
+      "question": "With increase in the weight of an object, the pressure will be:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remain unchanged",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Increases. More force applied over the same area increases pressure."
+    },
+    {
+      "id": 43,
+      "question": "Pressure is a:",
+      "options": {
+        "A": "Scalar",
+        "B": "Vector",
+        "C": "Base",
+        "D": "All above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Scalar. Pressure has magnitude only; direction is not considered, hence scalar."
+    },
+    {
+      "id": 44,
+      "question": "A body applies a force of 75 N having area 1.5 cm². What will be the pressure on the body?",
+      "options": {
+        "A": "5 x 10⁵ N/m²",
+        "B": "5 N/m²",
+        "C": "500 N/m²",
+        "D": "15 N/m²"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 5 x 10⁵ N/m². Pressure = Force ÷ Area = 75 ÷ (1.5 x 10⁻⁴ m²) = 5 x 10⁵ N/m²."
+    },
+    {
+      "id": 45,
+      "question": "If a balloon is inflated more than its capacity, it will burst because of:",
+      "options": {
+        "A": "Increase in temperature",
+        "B": "Increase in volume",
+        "C": "Increase in density",
+        "D": "Increase in pressure"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Increase in pressure. Pressure inside exceeds elastic limit of balloon."
+    },
+    {
+      "id": 46,
+      "question": "At a height of 30 km, atmospheric pressure becomes equal to:",
+      "options": {
+        "A": "101325 Pa",
+        "B": "101300 Pa",
+        "C": "1000 Pa",
+        "D": "10000 Pa"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 1000 Pa. Atmospheric pressure decreases with altitude; at 30 km it is ~1000 Pa."
+    },
+    {
+      "id": 47,
+      "question": "Pressure of 76 cm of mercury column is:",
+      "options": {
+        "A": "10,300 Pa",
+        "B": "13,100 Pa",
+        "C": "101,100 Pa",
+        "D": "101,300 Pa"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 101,300 Pa. Standard atmospheric pressure = 76 cm Hg ≈ 101,300 Pa."
+    },
+    {
+      "id": 48,
+      "question": "At sea level, the atmospheric pressure is equal to:",
+      "options": {
+        "A": "11,300 Pa",
+        "B": "101,300 N/m²",
+        "C": "Zero",
+        "D": "Both a and b"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 101,300 N/m². Standard atmospheric pressure at sea level is 101,300 N/m²."
+    },
+    {
+      "id": 49,
+      "question": "The instrument that is used to measure atmospheric pressure is called:",
+      "options": {
+        "A": "Barometer",
+        "B": "Thermometer",
+        "C": "Indicators",
+        "D": "Lactometer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Barometer. Barometers measure atmospheric pressure."
+    },
+    {
+      "id": 50,
+      "question": "One of the simplest barometers is:",
+      "options": {
+        "A": "Hydrogen barometer",
+        "B": "Mercury barometer",
+        "C": "Alcohol barometer",
+        "D": "Water barometer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Mercury barometer. Mercury barometer is simple and widely used."
+    },
+    {
+      "id": 51,
+      "question": "The length of glass tube required to make a water barometer is:",
+      "options": {
+        "A": "10 m",
+        "B": "Less than 10 m",
+        "C": "More than 10",
+        "D": "13.6"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 10 m. To find the length of a water barometer, we calculate the height (h) of water that standard atmospheric pressure can support. The Derivation The pressure exerted by a liquid column is given by the formula: P=pgh Where: P (Atmospheric Pressure) ≈ 1.013x10⁵Pa p= (Density of water) ≈1000kg/m³ g= (Gravity) ≈9.8m/s² Rearranging the formula to solve for height (h): h=P/pg h=P/pg h=1.013x10⁵Pa/1000kg/m³ x 9.8m/s² h≈10.34m Conclusion Since the atmosphere supports a water column of approximately 10.34 meters, a glass tube must be longer than this height to accommodate the water and maintain a vacuum at the top."
+    },
+    {
+      "id": 52,
+      "question": "Mercury is _____ times denser than water:",
+      "options": {
+        "A": "6.3",
+        "B": "7.3",
+        "C": "13.6",
+        "D": "15.6"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 13.6. Density of mercury = 13.6 × density of water."
+    },
+    {
+      "id": 53,
+      "question": "Atmospheric pressure becomes zero at an altitude of:",
+      "options": {
+        "A": "500 km",
+        "B": "1000 km",
+        "C": "1500 km",
+        "D": "Where there is no air"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Where there is no air. Pressure = 0 where there are no air molecules to exert force."
+    },
+    {
+      "id": 54,
+      "question": "Atmospheric pressure may indicate a change in the:",
+      "options": {
+        "A": "Mass",
+        "B": "Weight",
+        "C": "Density",
+        "D": "Weather"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Weather. Falling or rising atmospheric pressure indicates weather changes."
+    },
+    {
+      "id": 55,
+      "question": "Pressure applied at any point of liquid enclosed in a container, is transmitted without any loss to all other parts of liquid is _____ law:",
+      "options": {
+        "A": "Archimedes",
+        "B": "Pascal's",
+        "C": "Hooke's",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Pascal's. Pascal’s law: pressure applied is transmitted undiminished."
+    },
+    {
+      "id": 56,
+      "question": "Hydraulic press is a machine which works on _____ law:",
+      "options": {
+        "A": "Archimedes",
+        "B": "Pascal's",
+        "C": "Hooke's",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Pascal's. Uses Pascal’s law to multiply force."
+    },
+    {
+      "id": 57,
+      "question": "Acid meter is used to measure:",
+      "options": {
+        "A": "Concentration of acid",
+        "B": "Concentration of base",
+        "C": "Both a & b",
+        "D": "None"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Concentration of acid. Acid meter measures acidity or pH of solution."
+    },
+    {
+      "id": 58,
+      "question": "Pascal’s law holds good for:",
+      "options": {
+        "A": "Solids",
+        "B": "Liquids",
+        "C": "Gases",
+        "D": "Fluids"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Liquids. A fluid refers to both liquids and gases. Pascal's law applies to these because their particles are free to move, allowing any applied pressure to be transmitted equally and undiminished in all directions. • Liquids: Used in hydraulic systems (like car lifts) because they are nearly incompressible. • Gases: Used in pneumatic systems (like bicycle tires), though they compress before fully transmitting pressure. • Solids: Do not follow this law because they are rigid and transmit force primarily in the direction of the application."
+    },
+    {
+      "id": 59,
+      "question": "Density is defined as:",
+      "options": {
+        "A": "Mass per unit volume",
+        "B": "Volume per unit mass",
+        "C": "Weight per unit area",
+        "D": "Force per unit volume"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Mass per unit volume'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 60,
+      "question": "SI unit of density is:",
+      "options": {
+        "A": "g/cm³",
+        "B": "kg/m³",
+        "C": "N/m²",
+        "D": "m/s²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'kg/m³'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 61,
+      "question": "Formula of density is:",
+      "options": {
+        "A": "m × v",
+        "B": "m / v",
+        "C": "v / m",
+        "D": "m + v"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'm / v'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 62,
+      "question": "An object has a mass of 100 g and volume 50 cm³. Its density is:",
+      "options": {
+        "A": "1.0 g/cm³",
+        "B": "2.0 g/cm³",
+        "C": "0.5 g/cm³",
+        "D": "5.0 g/cm³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '2.0 g/cm³'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 63,
+      "question": "A substance will float in water if its density is:",
+      "options": {
+        "A": "Less than 1 g/cm³",
+        "B": "More than 1 g/cm³",
+        "C": "Equal to 1 kg/m³",
+        "D": "Zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Less than 1 g/cm³'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 64,
+      "question": "Relative density is also called:",
+      "options": {
+        "A": "Specific gravity",
+        "B": "Mass density",
+        "C": "Apparent density",
+        "D": "Thermal density"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Specific gravity'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 65,
+      "question": "Relative density has:",
+      "options": {
+        "A": "SI unit",
+        "B": "No unit",
+        "C": "Unit of kg/m³",
+        "D": "Unit of m³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'No unit'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 66,
+      "question": "The instrument used to measure density of liquids is:",
+      "options": {
+        "A": "Thermometer",
+        "B": "Manometer",
+        "C": "Hydrometer",
+        "D": "Barometer"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Hydrometer'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 67,
+      "question": "Ice floats on water because:",
+      "options": {
+        "A": "It is colder",
+        "B": "Its density is less than water",
+        "C": "It is a solid",
+        "D": "It is transparent"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Its density is less than water'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 68,
+      "question": "If volume of a body increases but mass remains constant, its density:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains the same",
+        "D": "Becomes zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Decreases'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 69,
+      "question": "Temperature is the measure of:",
+      "options": {
+        "A": "Mass",
+        "B": "Degree of hotness",
+        "C": "Density",
+        "D": "Pressure"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Degree of hotness'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 70,
+      "question": "SI unit of temperature is:",
+      "options": {
+        "A": "°C",
+        "B": "°F",
+        "C": "Kelvin",
+        "D": "Rankine"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Kelvin'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 71,
+      "question": "0°C is equal to:",
+      "options": {
+        "A": "100 K",
+        "B": "–100 K",
+        "C": "273 K",
+        "D": "373 K"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '273 K'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 72,
+      "question": "Boiling point of water in Kelvin is:",
+      "options": {
+        "A": "273 K",
+        "B": "373 K",
+        "C": "100 K",
+        "D": "273°C"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '373 K'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 73,
+      "question": "Celsius and Fahrenheit scales are related by:",
+      "options": {
+        "A": "°F = 9/5(°C) + 32",
+        "B": "°C = °F + 273",
+        "C": "°F = °C + 32",
+        "D": "°C = 9/5(°F) + 32"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '°F = 9/5(°C) + 32'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 74,
+      "question": "Absolute zero is:",
+      "options": {
+        "A": "273°C",
+        "B": "–273°C",
+        "C": "0°C",
+        "D": "0°F"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '–273°C'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 75,
+      "question": "The instrument used to measure temperature is:",
+      "options": {
+        "A": "Hydrometer",
+        "B": "Thermometer",
+        "C": "Barometer",
+        "D": "Manometer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Thermometer'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 76,
+      "question": "On Kelvin scale, freezing point of water is:",
+      "options": {
+        "A": "0 K",
+        "B": "273 K",
+        "C": "100 K",
+        "D": "373 K"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '273 K'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 77,
+      "question": "Which liquid is used in the thermometer?",
+      "options": {
+        "A": "Expansion on heating",
+        "B": "Compression",
+        "C": "Conductivity",
+        "D": "Viscosity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Expansion on heating'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 78,
+      "question": "Which substance has the highest density?",
+      "options": {
+        "A": "Water",
+        "B": "Oil",
+        "C": "Ice",
+        "D": "Mercury"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Mercury'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 79,
+      "question": "Which of the following expands the most on heating?",
+      "options": {
+        "A": "Solid",
+        "B": "Gas",
+        "C": "Liquid",
+        "D": "Metal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Gas'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 80,
+      "question": "The Kelvin scale starts from:",
+      "options": {
+        "A": "Absolute zero",
+        "B": "Freezing point",
+        "C": "Boiling point",
+        "D": "0°C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Absolute zero'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 81,
+      "question": "What happens to the density of water when it freezes?",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains same",
+        "D": "Becomes zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Decreases'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 82,
+      "question": "Temperature affects the:",
+      "options": {
+        "A": "Volume of substances",
+        "B": "Mass of substances",
+        "C": "Weight only",
+        "D": "Area only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Volume of substances'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 83,
+      "question": "Ice has a density of:",
+      "options": {
+        "A": "1 g/cm³",
+        "B": "0.92 g/cm³",
+        "C": "0.82 g/cm³",
+        "D": "1.1 g/cm³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '0.92 g/cm³'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 84,
+      "question": "Which is the correct relation?",
+      "options": {
+        "A": "1 cm³ = 1 mL",
+        "B": "1 m³ = 100 cm³",
+        "C": "1 L = 10 cm³",
+        "D": "1 cm³ = 10 mL"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '1 cm³ = 1 mL'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 85,
+      "question": "An object of volume 2 m³ and mass 1000 kg has density:",
+      "options": {
+        "A": "2000 kg/m³",
+        "B": "500 kg/m³",
+        "C": "2 kg/m³",
+        "D": "100 kg/m³"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '500 kg/m³'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 86,
+      "question": "The formula to convert °C to K is:",
+      "options": {
+        "A": "K = °C + 273",
+        "B": "K = °C – 273",
+        "C": "K = °C + 100",
+        "D": "K = °C / 273"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'K = °C + 273'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 87,
+      "question": "In which state of matter is density maximum?",
+      "options": {
+        "A": "Solid",
+        "B": "Liquid",
+        "C": "Gas",
+        "D": "Plasma"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Solid'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 88,
+      "question": "When temperature increases, the density of a substance:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains same",
+        "D": "Becomes zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Decreases'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 89,
+      "question": "Which of the following has the lowest density?",
+      "options": {
+        "A": "Water",
+        "B": "Air",
+        "C": "Iron",
+        "D": "Mercury"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Air'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 90,
+      "question": "At constant temperature, increasing volume:",
+      "options": {
+        "A": "Increases density",
+        "B": "Decreases density",
+        "C": "Has no effect",
+        "D": "Doubles mass"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Decreases density'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 91,
+      "question": "The thermal expansion of liquids is measured by:",
+      "options": {
+        "A": "Scale",
+        "B": "Spring balance",
+        "C": "Thermometer",
+        "D": "Manometer"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Thermometer'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 92,
+      "question": "Which unit is commonly used for liquid density?",
+      "options": {
+        "A": "kg/m³",
+        "B": "g/cm³",
+        "C": "N/m²",
+        "D": "m/s²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'g/cm³'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 93,
+      "question": "Temperature in science is always measured in:",
+      "options": {
+        "A": "Celsius",
+        "B": "Fahrenheit",
+        "C": "Kelvin",
+        "D": "Rankine"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Kelvin'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 94,
+      "question": "A body has density equal to water. It will:",
+      "options": {
+        "A": "Float",
+        "B": "Sink",
+        "C": "Remain suspended",
+        "D": "Evaporate"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Remain suspended'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 95,
+      "question": "The temperature at which all molecular motion stops is:",
+      "options": {
+        "A": "0°C",
+        "B": "–100°C",
+        "C": "–273°C",
+        "D": "273°C"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '–273°C'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 96,
+      "question": "Expansion of mercury is used in:",
+      "options": {
+        "A": "Barometer",
+        "B": "Hydrometer",
+        "C": "Clinical thermometer",
+        "D": "Spring balance"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Clinical thermometer'. In FBISE Grade 9 Physics Unit 7 (Properties of Matter & Density), this is a standard curriculum property and board-examined definition."
+    }
+  ]
+}

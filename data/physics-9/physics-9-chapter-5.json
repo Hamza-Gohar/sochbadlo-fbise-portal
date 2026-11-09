@@ -1,0 +1,1245 @@
+{
+  "chapterNumber": 5,
+  "chapterTitle": "Unit 5: Pressure & Deformation in Solids",
+  "totalQuestions": 103,
+  "subject": "physics-9",
+  "grade": "9",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following best describes the effect of forces on an object?",
+      "options": {
+        "A": "They can only change the object's position.",
+        "B": "They can only change the object's speed.",
+        "C": "They can change the object's size and shape.",
+        "D": "They have no effect on the object's size or shape."
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): They can change the object's size and shape.. A force can change the motion, direction, speed, size, or shape of an object. When force is applied, deformation may occur. Objects like rubber bands stretch under force. Therefore, force can change size and shape."
+    },
+    {
+      "id": 2,
+      "question": "The balance wheel in a mechanical clock uses Hooke's law to:",
+      "options": {
+        "A": "Measure time precisely",
+        "B": "Produce sound",
+        "C": "Illuminate the clock face",
+        "D": "Change the clock's settings"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Measure time precisely. Hooke’s Law relates force and extension in springs. The balance wheel oscillates due to spring restoring force. These regular oscillations measure equal time intervals. Hence it helps in precise time measurement."
+    },
+    {
+      "id": 3,
+      "question": "The elastic limit indicates:",
+      "options": {
+        "A": "The maximum load a material can handle",
+        "B": "The point beyond which Hooke's law no longer applies",
+        "C": "The point where the material returns to its original shape",
+        "D": "The elastic limit of the material"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): The elastic limit of the material. Elastic limit is the maximum limit of elastic behavior. Beyond this point, the material does not return to original shape. Hooke’s Law is valid only within elastic limit. After crossing it, permanent deformation occurs."
+    },
+    {
+      "id": 4,
+      "question": "If the load-extension graph of an elastic solid starts to curve and deviate from linearity, it indicates:",
+      "options": {
+        "A": "The material has crossed its elastic limit",
+        "B": "The material is still in its purely elastic region",
+        "C": "The material has broken",
+        "D": "The material has not been deformed"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): The material has crossed its elastic limit. A straight line graph shows Hooke’s Law is obeyed. When the graph curves, proportionality ends. This means elastic limit is exceeded. Material enters plastic region."
+    },
+    {
+      "id": 5,
+      "question": "If the force is constant, what happens to pressure as area increases?",
+      "options": {
+        "A": "Pressure remains unchanged",
+        "B": "Pressure increases",
+        "C": "Pressure decreases",
+        "D": "Pressure doubles"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Pressure decreases. Pressure = Force / Area. If force remains constant and area increases, the value of pressure decreases. Hence pressure and area are inversely proportional."
+    },
+    {
+      "id": 6,
+      "question": "If you push down on the top of a sealed syringe filled with water, in which direction is the force exerted by the water on the syringe's sides?",
+      "options": {
+        "A": "Upwards",
+        "B": "Downwards",
+        "C": "Sideways, at right angles to the surface",
+        "D": "In the direction of the push"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): In the direction of the push. According to Pascal’s Law, pressure acts equally in all directions. It acts perpendicular to surfaces. The push is transmitted throughout the fluid. Thus force is exerted in the direction of push and all sides."
+    },
+    {
+      "id": 7,
+      "question": "A balloon expands uniformly in all directions when pressed. This demonstrates that the force due to pressure in a fluid is:",
+      "options": {
+        "A": "Directed towards the bottom of the balloon only",
+        "B": "Greatest at the sides of the balloon",
+        "C": "Exerted equally in all directions at right angles to the surface",
+        "D": "Non-existent as air cannot exert force"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Exerted equally in all directions at right angles to the surface. Fluid pressure acts equally in all directions. It always acts perpendicular to surfaces. This is why balloon expands uniformly. It proves Pascal’s principle of pressure transmission."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following phenomena justifies that the atmosphere exerts pressure?",
+      "options": {
+        "A": "A balloon deflating when taken to a higher altitude",
+        "B": "A balloon inflating more at higher altitudes",
+        "C": "A vacuum not affecting the shape of a balloon",
+        "D": "Air not having weight"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Air not having weight. Atmospheric pressure decreases at high altitude. Less external pressure causes balloon to expand or deflate. This shows air exerts pressure. Hence atmosphere has weight and pressure."
+    },
+    {
+      "id": 9,
+      "question": "What happens to atmospheric pressure as an airplane ascends to cruising altitude?",
+      "options": {
+        "A": "Remains constant",
+        "B": "It increases",
+        "C": "It decreases",
+        "D": "It fluctuates unpredictably"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): It decreases. Atmospheric pressure decreases with height. Air density becomes lower at higher altitudes. Less air above means less pressure. Therefore pressure decreases as plane ascends."
+    },
+    {
+      "id": 10,
+      "question": "How might a change in atmospheric pressure be indicative of approaching weather?",
+      "options": {
+        "A": "A significant drop in pressure suggests clear skies",
+        "B": "An increase in pressure indicates a storm",
+        "C": "A sudden increase in pressure signals rain",
+        "D": "A drop in pressure often precedes the arrival of a storm"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): An increase in pressure indicates a storm. Low pressure systems are linked with storms. When pressure drops rapidly, bad weather approaches. High pressure usually indicates clear weather. Thus falling pressure signals a storm."
+    },
+    {
+      "id": 11,
+      "question": "What happens to the liquid level in a barometer when atmospheric pressure increases?",
+      "options": {
+        "A": "The liquid level rises",
+        "B": "The liquid level falls",
+        "C": "The liquid level does not change",
+        "D": "The liquid level fluctuates rapidly"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): The liquid level rises. Barometer liquid rises when pressure increases. More atmospheric force pushes down on the liquid reservoir. This pushes liquid up the tube. Hence liquid level indicates pressure change."
+    },
+    {
+      "id": 12,
+      "question": "How does the pressure of water at 10 m compare to that at 5 m depth?",
+      "options": {
+        "A": "It is the same",
+        "B": "It is twice as much",
+        "C": "It is half as much",
+        "D": "It is four times as much"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): It is twice as much. Pressure in a liquid = ρgh If depth doubles, pressure doubles. So at 10 m, pressure is twice the 5 m depth. Pressure increases linearly with depth."
+    },
+    {
+      "id": 13,
+      "question": "If the density of a liquid is increased but depth remains the same, what happens to pressure?",
+      "options": {
+        "A": "The pressure decreases",
+        "B": "The pressure remains unchanged",
+        "C": "The pressure increases",
+        "D": "The pressure becomes zero"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): The pressure increases. Pressure in liquid = ρgh If ρ (density) increases while h and g are constant, pressure increases proportionally. Denser liquids exert more pressure at the same depth."
+    },
+    {
+      "id": 14,
+      "question": "What is the primary purpose of a manometer?",
+      "options": {
+        "A": "To measure volume",
+        "B": "To measure pressure of a fluid",
+        "C": "To measure temperature",
+        "D": "To measure density"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): To measure pressure of a fluid. A manometer measures fluid pressure. It shows difference between atmospheric and fluid pressure. Used in labs, industries, and HVAC systems. Pressure reading is indicated by liquid height difference."
+    },
+    {
+      "id": 15,
+      "question": "In hydraulic brakes, force is transmitted:",
+      "options": {
+        "A": "Through mechanical linkages",
+        "B": "By electrical signals",
+        "C": "As increased pressure through brake fluid",
+        "D": "Directly to the nearest brake"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): As increased pressure through brake fluid. Hydraulic brakes use Pascal’s law. Small pedal force creates pressure in brake fluid. This pressure is transmitted to all brakes equally. Hence brakes amplify force effectively."
+    },
+    {
+      "id": 16,
+      "question": "Pressure is determined as:",
+      "options": {
+        "A": "Product of force and area",
+        "B": "Force divided by area",
+        "C": "Area divided by force",
+        "D": "Sum of force and area"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Product of force and area. Pressure = Force / Area It indicates how much force acts on a unit area. Larger area reduces pressure for the same force. This is used in designing tires, shoes, and machinery."
+    },
+    {
+      "id": 17,
+      "question": "Which unit is pressure measured in?",
+      "options": {
+        "A": "Newton",
+        "B": "Pascal",
+        "C": "Kilogram",
+        "D": "Meter²"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Newton. 1 Pascal = 1 N/m² Pressure is force per unit area. Newton measures force, not pressure. Hence Pascal is the SI unit of pressure."
+    },
+    {
+      "id": 18,
+      "question": "If a force of 50 N is applied on an area of 0.005 m², the pressure is:",
+      "options": {
+        "A": "10,000 Pa",
+        "B": "1,000 Pa",
+        "C": "100 Pa",
+        "D": "10 Pa"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 10,000 Pa. Pressure = Force / Area = 50 / 0.005 = 10,000 Pa Pressure depends inversely on area. Smaller area → higher pressure. Hence correct pressure = 10,000 Pa."
+    },
+    {
+      "id": 19,
+      "question": "When you blow up a balloon, pressure acts:",
+      "options": {
+        "A": "Outwards in all directions",
+        "B": "Downwards",
+        "C": "Upwards",
+        "D": "Only towards the opening"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Outwards in all directions. Air inside the balloon exerts pressure equally in all directions. This is due to fluid (gas) pressure acting perpendicular to the surface. Hence balloon expands uniformly. Shows Pascal’s principle in gases."
+    },
+    {
+      "id": 20,
+      "question": "A sudden fall in barometer reading indicates:",
+      "options": {
+        "A": "Sunny weather",
+        "B": "A storm is likely",
+        "C": "Stable weather",
+        "D": "Snowfall"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Sunny weather. Rapid drop in atmospheric pressure signals approaching low-pressure system. Low pressure is linked to storms and rain. Barometer detects this change. Hence falling reading warns of bad weather."
+    },
+    {
+      "id": 21,
+      "question": "If atmospheric pressure increases, mercury level in a barometer:",
+      "options": {
+        "A": "Rises",
+        "B": "Falls",
+        "C": "Does not change",
+        "D": "Fluctuates"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Rises. More atmospheric pressure pushes mercury higher in the tube. Barometer measures air pressure. Higher air weight → higher mercury column. Hence liquid level rises with increased pressure."
+    },
+    {
+      "id": 22,
+      "question": "If depth in water is doubled, pressure:",
+      "options": {
+        "A": "Remains the same",
+        "B": "Doubles",
+        "C": "Halves",
+        "D": "Quadruples"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Doubles. Pressure in liquid = ρgh Doubling depth doubles pressure. Pressure depends linearly on depth. Hence deeper water → more pressure."
+    },
+    {
+      "id": 23,
+      "question": "A manometer measures:",
+      "options": {
+        "A": "Volume",
+        "B": "Pressure",
+        "C": "Temperature",
+        "D": "Mass"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Temperature. Manometer shows pressure difference between fluid and atmosphere. Commonly U-tube filled with liquid. Height difference indicates pressure. It does not measure temperature, volume, or mass."
+    },
+    {
+      "id": 24,
+      "question": "Which industry heavily uses manometers?",
+      "options": {
+        "A": "IT",
+        "B": "Textile",
+        "C": "Chemical processing",
+        "D": "Agriculture"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Chemical processing. Chemical plants require precise pressure measurement. Manometers monitor gases and liquids in pipelines. Safety and efficiency depend on accurate pressure readings. Hence chemical industry uses them widely."
+    },
+    {
+      "id": 25,
+      "question": "Practical use of Pascal’s Law in vehicles:",
+      "options": {
+        "A": "Steering",
+        "B": "Hydraulic brakes",
+        "C": "Gear shifting",
+        "D": "Tire rotation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Hydraulic brakes. Hydraulic brakes amplify pedal force using brake fluid. Pressure is transmitted undiminished to all brakes. Allows small effort to stop vehicle effectively. This is a direct application of Pascal’s Law."
+    },
+    {
+      "id": 26,
+      "question": "If density of mercury = 13600 kg/m³ and height = 0.05 m, pressure difference is:",
+      "options": {
+        "A": "6800 Pa",
+        "B": "680 Pa",
+        "C": "68 Pa",
+        "D": "6.8 Pa"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 6800 Pa. Pressure = ρgh = 13600 × 9.8 × 0.05 ≈ 6800 Pa Shows direct relationship between density, gravity, and height. This formula is used in barometers and manometers. Hence pressure difference = 6800 Pa."
+    },
+    {
+      "id": 27,
+      "question": "Rapid increase in atmospheric pressure is linked with:",
+      "options": {
+        "A": "Thunderstorms",
+        "B": "Clear skies",
+        "C": "Snow",
+        "D": "Heat waves"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Clear skies. High-pressure systems are associated with calm, clear weather. Rapid rise indicates incoming stable air. Low-pressure system causes storms. Hence increasing pressure → clear skies."
+    },
+    {
+      "id": 28,
+      "question": "Liquid pressure depends on:",
+      "options": {
+        "A": "Temperature",
+        "B": "Depth of liquid",
+        "C": "Color",
+        "D": "Salinity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Temperature. Pressure in a liquid = ρgh Depth (h) directly affects pressure at a point. Deeper points experience more pressure. Other factors like temperature or color are not directly responsible."
+    },
+    {
+      "id": 29,
+      "question": "Rising of liquid in a barometer tube indicates:",
+      "options": {
+        "A": "Decreasing pressure",
+        "B": "Increasing atmospheric pressure",
+        "C": "Constant pressure",
+        "D": "Broken barometer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Increasing atmospheric pressure. Barometer liquid rises when atmospheric pressure increases. More air weight pushes the liquid higher. It measures pressure variations accurately. Hence rising liquid = higher pressure."
+    },
+    {
+      "id": 30,
+      "question": "Greatest water pressure is experienced when:",
+      "options": {
+        "A": "Swimming at surface",
+        "B": "Diving to bottom of deep pool",
+        "C": "Floating on raft",
+        "D": "Standing near pool"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Swimming at surface. Pressure increases with depth in water. At the bottom, water column is tallest → highest pressure. Surface experiences minimal pressure. Thus maximum pressure is at greatest depth."
+    },
+    {
+      "id": 31,
+      "question": "Main feature of elastic deformation:",
+      "options": {
+        "A": "Changes color",
+        "B": "Emits heat",
+        "C": "Returns to original shape after force is removed",
+        "D": "Permanent deformation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Returns to original shape after force is removed. Elastic deformation is temporary. Once applied force is removed, material returns to original shape. Hooke’s Law applies in elastic region. Permanent changes occur only after elastic limit is exceeded."
+    },
+    {
+      "id": 32,
+      "question": "According to Hooke’s Law, spring constant (k):",
+      "options": {
+        "A": "Maximum length",
+        "B": "Force required to extend spring by 1 m",
+        "C": "Weight of spring",
+        "D": "Number of coils"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Force required to extend spring by 1 m. Spring constant (k) = F / x It shows how stiff the spring is. Higher k → more force needed to stretch. Units: N/m."
+    },
+    {
+      "id": 33,
+      "question": "When deformation exceeds elastic limit:",
+      "options": {
+        "A": "Returns quickly",
+        "B": "Permanent deformation occurs",
+        "C": "Length doubles",
+        "D": "Spring constant increases"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Permanent deformation occurs. Elastic limit = maximum reversible deformation. Exceeding it causes permanent shape change. Hooke’s Law no longer applies. Material does not return to original shape."
+    },
+    {
+      "id": 34,
+      "question": "Area under load-extension graph represents:",
+      "options": {
+        "A": "Energy absorbed",
+        "B": "Work done",
+        "C": "Both (a) and (b)",
+        "D": "None"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Energy absorbed. Work done = force × extension In physics, the area under a graph represents the product of the two axes. For a load-extension graph (Force vs. Distance): Work Done: When you apply a force to stretch a material, you are doing “work” on it. Energy Absorbed: That work doesn’t disappear; it is stored in the material as Elastic Potential Energy. Because the work done by the external force is equal to the energy absorbed by the object, both terms are technically correct."
+    },
+    {
+      "id": 35,
+      "question": "Stretching experiment tests:",
+      "options": {
+        "A": "Color change",
+        "B": "Conductivity",
+        "C": "Elastic limit and spring constant",
+        "D": "Melting point"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Conductivity. Load-extension experiment measures how spring/material deforms. Slope gives spring constant (k). Max reversible extension gives elastic limit. No effect on color or conductivity."
+    },
+    {
+      "id": 36,
+      "question": "A galvanometer works by:",
+      "options": {
+        "A": "Magnetic effect turning a needle",
+        "B": "Hooke’s Law",
+        "C": "Temperature",
+        "D": "None"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Hooke’s Law. Current in coil creates magnetic field. Interaction with permanent magnet deflects needle. Deflection proportional to current. Hooke’s Law helps restore needle to zero."
+    },
+    {
+      "id": 37,
+      "question": "Elastic and plastic deformation differ because:",
+      "options": {
+        "A": "Elastic is noisy",
+        "B": "Elastic is temporary, plastic is permanent",
+        "C": "Elastic changes color",
+        "D": "Elastic only in metals"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Elastic is temporary, plastic is permanent. Elastic deformation disappears after removing force. Plastic deformation remains permanent. Materials may show both types under different forces. Key in engineering and material design."
+    },
+    {
+      "id": 38,
+      "question": "The first man who came up with the idea of gravity was:",
+      "options": {
+        "A": "Einstein",
+        "B": "Galileo",
+        "C": "Issac Newton",
+        "D": "Archimedes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Issac Newton. Isaac Newton formulated the universal law of gravitation. He explained that every body attracts every other body. He also related this force to the motion of planets. Newton’s laws of motion and gravitation laid the foundation of classical mechanics."
+    },
+    {
+      "id": 39,
+      "question": "A force due to which every body of the universe attracts every other body is called:",
+      "options": {
+        "A": "Magnetic force",
+        "B": "Gravitational force",
+        "C": "Electric force",
+        "D": "Coulomb force"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Gravitational force. Gravitational force acts between any two masses. It is always attractive and acts along the line joining their centers. It is universal and applies to all objects. Other forces like magnetic or electric are not universal for all masses."
+    },
+    {
+      "id": 40,
+      "question": "Force of gravitation is inversely proportional to:",
+      "options": {
+        "A": "Square of distance",
+        "B": "Gravitational constant",
+        "C": "Mass",
+        "D": "Distance"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Distance. Force decreases as distance increases. Doubling distance reduces force by factor of 4. Inverse-square law is fundamental in gravitation. Applies to planets, satellites, and objects on Earth."
+    },
+    {
+      "id": 41,
+      "question": "Gravitational force is directly proportional to:",
+      "options": {
+        "A": "Mass",
+        "B": "Product of masses",
+        "C": "Product of distance",
+        "D": "Distance"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Mass. Larger masses attract each other more strongly. F = G (m₁ m₂)/r² shows direct proportionality to m₁ and m₂. If either mass doubles, force doubles. This explains why Earth’s gravity is strong due to its large mass."
+    },
+    {
+      "id": 42,
+      "question": "If the distance between two masses is halved then the force of gravitation becomes:",
+      "options": {
+        "A": "Doubled",
+        "B": "One fourth",
+        "C": "Four times",
+        "D": "Half"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Four times. Force ∝ 1/r² Halving r → force increases by (1/½)² = 4 times. Smaller distance → stronger attraction. This principle applies to satellites and planets."
+    },
+    {
+      "id": 43,
+      "question": "Law of gravitation is consistent with:",
+      "options": {
+        "A": "Law of conservation of momentum",
+        "B": "Law of conservation of energy",
+        "C": "Newton’s 3rd law of motion",
+        "D": "Law of electromagnetism"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Law of conservation of momentum. Every action has an equal and opposite reaction. Gravitational force between two bodies satisfies Newton’s 3rd law. Each mass experiences equal force in opposite directions. Momentum and energy conservation also hold but the law is directly linked to 3rd law."
+    },
+    {
+      "id": 44,
+      "question": "Gravitational force of attraction between two objects is not felt by us because of:",
+      "options": {
+        "A": "Large masses",
+        "B": "Large value of G",
+        "C": "Small masses",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Large value of G. Gravitational force is weak for small everyday objects. Value of G is very small (10⁻¹¹). Hence we do not notice attraction between books, pens, or humans. Only massive objects like planets exert noticeable force."
+    },
+    {
+      "id": 45,
+      "question": "Gravitational force per unit mass is known as:",
+      "options": {
+        "A": "Gravitational field",
+        "B": "Field force",
+        "C": "Gravitational field strength",
+        "D": "Gravitational potential energy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Gravitational field strength. Gravitational field strength = force per unit mass. Symbol: g, unit N/kg It indicates how much force a mass experiences at a point. It is different from potential energy."
+    },
+    {
+      "id": 46,
+      "question": "The acceleration due to gravity on the surface of moon is 1.62 m/s². The radius of moon is 1740 km. Mass of moon is:",
+      "options": {
+        "A": "7.35 × 10²² kg",
+        "B": "9.35 × 10²² kg",
+        "C": "9.35 × 10⁻²² kg",
+        "D": "7.35 × 10⁻²² kg"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 7.35 × 10²² kg. g = G M / R² → M = g R² / G Substitute g = 1.62 m/s², R = 1.74 × 10⁶ m, G = 6.673 × 10⁻¹¹ Calculation gives 7.35 × 10²² kg Mass depends on acceleration and radius."
+    },
+    {
+      "id": 47,
+      "question": "SI unit of gravitational field strength is:",
+      "options": {
+        "A": "N/kg",
+        "B": "m/s²",
+        "C": "Same as unit of acceleration",
+        "D": "All of them"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): N/kg. Gravitational field strength g = F/m Unit: N/kg = m/s² Thus all given units are valid It shows force per unit mass or acceleration."
+    },
+    {
+      "id": 48,
+      "question": "If mass of a body on the surface of earth is m, then its weight on the surface of moon is:",
+      "options": {
+        "A": "1.62 m",
+        "B": "160 m",
+        "C": "1600 m",
+        "D": "0.16 m"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 1.62 m. Weight on Moon = m × gₘ gₘ = 1.62 m/s², gₑ = 9.81 m/s² Weight ratio = gₘ / gₑ ≈ 0.165 Hence weight on Moon ≈ 0.16 m Body weighs less on Moon due to smaller g."
+    },
+    {
+      "id": 49,
+      "question": "If weight of a body on the surface of earth is B, its weight on the moon will be:",
+      "options": {
+        "A": "4 B",
+        "B": "6 B",
+        "C": "1/4 B",
+        "D": "1/6 B"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 6 B. gₘ ≈ 1/6 gₑ Weight = mass × g Thus weight on Moon = 1/6 of Earth weight Explains why astronauts feel lighter on the Moon."
+    },
+    {
+      "id": 50,
+      "question": "An object is placed at height three Earth radii. The value of g at that height will be:",
+      "options": {
+        "A": "16 g",
+        "B": "1/16 g",
+        "C": "1/4 g",
+        "D": "1/9 g"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 16 g. g_h = g / (1 + h/R)² Here h = 3R → g_h = g / (4²) = g / 16 Gravity decreases with square of distance from center of Earth. Hence g is 1/16th at 3R above surface."
+    },
+    {
+      "id": 51,
+      "question": "If mass of two bodies is 2 kg and distance between their centers is 1 m, then the gravitational force between them is:",
+      "options": {
+        "A": "G",
+        "B": "4G",
+        "C": "2 G",
+        "D": "8 G"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 2 G. Gravitational force F = G (m₁ m₂) / r² Here F = G × 2 × 2 / 1² = 4G Force increases with product of masses. Direct calculation gives 4G."
+    },
+    {
+      "id": 52,
+      "question": "GPS consists of ___ earth satellites:",
+      "options": {
+        "A": "30",
+        "B": "25",
+        "C": "27",
+        "D": "24"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 24. Global Positioning System uses 24 satellites. Orbits ensure at least 4 satellites visible from any location. Allows accurate position and time determination. Additional satellites improve precision and coverage."
+    },
+    {
+      "id": 53,
+      "question": "GPS satellites revolve around the earth ___ in a day:",
+      "options": {
+        "A": "2 times",
+        "B": "3 times",
+        "C": "4 times",
+        "D": "One time"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): One time. GPS satellites are not geostationary. They are in “Medium Earth Orbit” (MEO) and complete two full orbits every 24 hours. Orbital Period: GPS satellites complete one orbit every 12 hours. Daily Count: In a 24-hour day, they revolve around the Earth exactly twice."
+    },
+    {
+      "id": 54,
+      "question": "The speed of GPS satellite is:",
+      "options": {
+        "A": "3.78 km/s",
+        "B": "3.87 km/s",
+        "C": "3.78 km/s²",
+        "D": "3.87 km/s²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 3.87 km/s. Orbital speed v = √(GM / r) For GPS orbit (~20,200 km above Earth), v ≈ 3.87 km/s This ensures stable circular orbit. Higher or lower speed disrupts orbit."
+    },
+    {
+      "id": 55,
+      "question": "Moon is nearly ___ away from the earth:",
+      "options": {
+        "A": "3,8000 km",
+        "B": "380 Mm",
+        "C": "3800 km",
+        "D": "380,000 km"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 380,000 km. Average distance Earth–Moon ≈ 384,000 km Used in calculating gravitational effects, tides, and satellite motion. Expressed in km or megameters (Mm). Distance allows Moon to orbit Earth steadily."
+    },
+    {
+      "id": 56,
+      "question": "Moon completes its one revolution around the earth in:",
+      "options": {
+        "A": "655.2 hours",
+        "B": "3.93 × 10⁴ min",
+        "C": "2.35 × 10⁶ s",
+        "D": "All of them"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): All of them. All units correspond to same period: ~27.3 days Moon’s revolution period is sidereal month. Used for calendar and tidal calculations. Hence all units are valid."
+    },
+    {
+      "id": 57,
+      "question": "Relative velocity of geostationary satellite with respect to earth is:",
+      "options": {
+        "A": "8 km/s",
+        "B": "9.8 km/s",
+        "C": "Zero",
+        "D": "29 km/s"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Zero. Geostationary satellites orbit with Earth’s rotation. From surface, satellite appears stationary. Hence relative velocity = 0 km/s. Used for TV, weather, and communication."
+    },
+    {
+      "id": 58,
+      "question": "The orbital speed of a low orbit satellite is:",
+      "options": {
+        "A": "8 km/s²",
+        "B": "8 km/s",
+        "C": "8000 km/s",
+        "D": "29,000 km/h"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 8 km/s. Low Earth orbit satellites move ~8 km/s. High enough to balance gravity and centrifugal force. Maintains circular orbit close to Earth. Speed ensures satellite doesn’t fall or escape."
+    },
+    {
+      "id": 59,
+      "question": "Mass of the earth is measured by:",
+      "options": {
+        "A": "R g² / G",
+        "B": "R² G / g",
+        "C": "R² g / G",
+        "D": "R G² / g"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): R² G / g. Gravitational acceleration g = G M / R² → M = R² g / G Mass depends on radius, gravity, and G. Formula used in geophysics and astronomy. Other options are dimensionally incorrect."
+    },
+    {
+      "id": 60,
+      "question": "Mass of Earth is:",
+      "options": {
+        "A": "6 × 10²⁴ kg",
+        "B": "6 × 10⁶ kg",
+        "C": "6.4 × 10²⁴ kg",
+        "D": "6 × 10¹⁴ kg"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 6 × 10²⁴ kg. To calculate the Earth’s mass (M), we use the formula for the acceleration of gravity (g) at the surface: g=GxM/R2 By rearranging it to solve for M: M = gR²/G The Values: * g (Gravity): 9.8 m/s² * R (Earth’s Radius): 6,400,000 meters (6.4 × 10⁶ m) * G (Gravitational Constant): 6.67 × 10-11 The Result: When you plug these numbers in: M = (9.8) x (6.4x10⁶)²/6.67x10-11 This gives approximately 6 × 1024kg."
+    },
+    {
+      "id": 61,
+      "question": "The value of gravitational field strength on the surface of the Moon is:",
+      "options": {
+        "A": "10 N/kg²",
+        "B": "10 N/kg",
+        "C": "Infinity",
+        "D": "1.62 N/kg"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 1.62 N/kg. Moon’s g ≈ 1.62 m/s² = 1.62 N/kg Gravitational field strength = force per unit mass Much smaller than Earth’s g (9.81 N/kg) Causes objects to weigh less on Moon."
+    },
+    {
+      "id": 62,
+      "question": "The orbital speed of a satellite revolving very close to the Earth is:",
+      "options": {
+        "A": "√(gh(R+h))",
+        "B": "√(g R)",
+        "C": "√(gh(Rh))",
+        "D": "√(ghR)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): √(g R). Orbital speed v = √(G M / R) = √(g R) for near-Earth orbit Depends on Earth’s gravity and radius Ensures satellite remains in circular orbit Higher speed → satellite escapes, lower speed → it falls."
+    },
+    {
+      "id": 63,
+      "question": "A satellite revolves around the Earth due to:",
+      "options": {
+        "A": "Centrifugal force",
+        "B": "Electrostatic force",
+        "C": "Coulomb force",
+        "D": "Gravitational force"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Centrifugal force. Gravity provides centripetal force for orbital motion Pulls satellite toward Earth continuously Centrifugal force is apparent in rotating frame Electrostatic and Coulomb forces are irrelevant for satellites."
+    },
+    {
+      "id": 64,
+      "question": "Gravitational force on Earth’s surface is equal to:",
+      "options": {
+        "A": "9.81 m/s²",
+        "B": "32.2 ft/s²",
+        "C": "980.665 cm/s²",
+        "D": "All of them"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): All of them. Earth’s surface gravity can be expressed in various units All values represent the same force per unit mass Depends on measurement unit used N/kg, m/s², or cm/s² are equivalent."
+    },
+    {
+      "id": 65,
+      "question": "Pressure is defined as:",
+      "options": {
+        "A": "Force × Area",
+        "B": "Force / Area",
+        "C": "Area / Force",
+        "D": "Mass / Volume"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Force / Area'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 66,
+      "question": "SI unit of pressure is:",
+      "options": {
+        "A": "N·m",
+        "B": "Pascal",
+        "C": "kg/m²",
+        "D": "Joule"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Pascal'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 67,
+      "question": "1 Pascal is equal to:",
+      "options": {
+        "A": "1 N/m²",
+        "B": "1 kg/m",
+        "C": "1 N/cm²",
+        "D": "1 N/m"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '1 N/m²'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 68,
+      "question": "Pressure is directly proportional to:",
+      "options": {
+        "A": "Force",
+        "B": "Area",
+        "C": "Density",
+        "D": "Volume"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Force'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 69,
+      "question": "If area increases and force remains constant, pressure:",
+      "options": {
+        "A": "Decreases",
+        "B": "Increases",
+        "C": "Remains same",
+        "D": "Becomes zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Decreases'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 70,
+      "question": "Hydraulic brakes work on:",
+      "options": {
+        "A": "Newton’s law",
+        "B": "Pascal’s law",
+        "C": "Boyle’s law",
+        "D": "Archimedes’ principle"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Pascal’s law'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 71,
+      "question": "Pascal’s Law states:",
+      "options": {
+        "A": "Pressure is transmitted equally in all directions",
+        "B": "Force remains constant",
+        "C": "Volume is conserved",
+        "D": "Liquid flows upwards"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Pressure is transmitted equally in all directions'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 72,
+      "question": "The unit of force is:",
+      "options": {
+        "A": "Newton",
+        "B": "Pascal",
+        "C": "Joule",
+        "D": "Watt"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Newton'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 73,
+      "question": "Pressure in solids depends on:",
+      "options": {
+        "A": "Weight only",
+        "B": "Area only",
+        "C": "Force and area",
+        "D": "Volume and mass"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Force and area'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 74,
+      "question": "A sharp knife cuts better because:",
+      "options": {
+        "A": "Force is less",
+        "B": "Area is less, so pressure is more",
+        "C": "Weight is more",
+        "D": "Material is hard"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Area is less, so pressure is more'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 75,
+      "question": "Pressure in liquids acts:",
+      "options": {
+        "A": "Upward only",
+        "B": "Downward only",
+        "C": "In all directions",
+        "D": "Along the flow"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'In all directions'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 76,
+      "question": "The SI unit of stress is same as:",
+      "options": {
+        "A": "Energy",
+        "B": "Pressure",
+        "C": "Density",
+        "D": "Force"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Pressure'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 77,
+      "question": "Stress is defined as:",
+      "options": {
+        "A": "Force × Area",
+        "B": "Force / Area",
+        "C": "Mass / Area",
+        "D": "Area / Force"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Force / Area'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 78,
+      "question": "Strain is defined as:",
+      "options": {
+        "A": "Change in length / Original length",
+        "B": "Force / Area",
+        "C": "Area / Volume",
+        "D": "Mass × Acceleration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Change in length / Original length'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 79,
+      "question": "Young’s Modulus is the ratio of:",
+      "options": {
+        "A": "Stress to Strain",
+        "B": "Force to area",
+        "C": "Pressure to volume",
+        "D": "Mass to length"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Stress to Strain'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 80,
+      "question": "The greater the Young’s Modulus:",
+      "options": {
+        "A": "More it stretches",
+        "B": "More rigid the material is",
+        "C": "Less pressure it exerts",
+        "D": "Less dense the material"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'More rigid the material is'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 81,
+      "question": "A rubber band has:",
+      "options": {
+        "A": "High strain, low stress",
+        "B": "High stress, low strain",
+        "C": "No elasticity",
+        "D": "No force"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'High strain, low stress'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 82,
+      "question": "Compressive stress:",
+      "options": {
+        "A": "Decreases the length",
+        "B": "Increases the length",
+        "C": "Increases volume",
+        "D": "Has no effect"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Decreases the length'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 83,
+      "question": "Tensile stress:",
+      "options": {
+        "A": "Reduces length",
+        "B": "Increases length",
+        "C": "Compresses",
+        "D": "Breaks force"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Increases length'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 84,
+      "question": "Which of the following materials is most elastic?",
+      "options": {
+        "A": "Rubber",
+        "B": "Steel",
+        "C": "Glass",
+        "D": "Plastic"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Steel'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 85,
+      "question": "The ability of a material to return to its original shape is called:",
+      "options": {
+        "A": "Elasticity",
+        "B": "Stress",
+        "C": "Strain",
+        "D": "Hardness"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Elasticity'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 86,
+      "question": "Stress and strain are both caused by:",
+      "options": {
+        "A": "Temperature",
+        "B": "Applied force",
+        "C": "Pressure difference",
+        "D": "Motion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Applied force'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 87,
+      "question": "The force that tends to deform a body is called:",
+      "options": {
+        "A": "Resistance",
+        "B": "Stress",
+        "C": "Pressure",
+        "D": "Weight"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Stress'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 88,
+      "question": "Hooke's law is valid only within:",
+      "options": {
+        "A": "Elastic limit",
+        "B": "Plastic range",
+        "C": "Yield point",
+        "D": "Breaking point"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Elastic limit'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 89,
+      "question": "Breaking point is the point where:",
+      "options": {
+        "A": "Stress is zero",
+        "B": "Material fails completely",
+        "C": "Strain becomes infinite",
+        "D": "No deformation occurs"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Material fails completely'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 90,
+      "question": "Which of the following has the highest pressure on the ground?",
+      "options": {
+        "A": "Elephant's foot",
+        "B": "Needle's tip",
+        "C": "Shoe sole",
+        "D": "Wide tire"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Needle's tip'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 91,
+      "question": "The shape of a dam is wider at the base because:",
+      "options": {
+        "A": "It looks better",
+        "B": "Water pressure is higher at the bottom",
+        "C": "Gravity acts more",
+        "D": "Top is weaker"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Water pressure is higher at the bottom'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 92,
+      "question": "When stress exceeds elastic limit:",
+      "options": {
+        "A": "Body regains shape",
+        "B": "Permanent deformation occurs",
+        "C": "No strain occurs",
+        "D": "Body disappears"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Permanent deformation occurs'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 93,
+      "question": "The dimensional formula of pressure is:",
+      "options": {
+        "A": "[M⁰L⁰T⁰]",
+        "B": "[ML⁻¹T⁻²]",
+        "C": "[MLT⁻¹]",
+        "D": "[M²L⁻²T⁻²]"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '[ML⁻¹T⁻²]'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 94,
+      "question": "A small area increases pressure because:",
+      "options": {
+        "A": "Force is concentrated",
+        "B": "Force is reduced",
+        "C": "Area attracts pressure",
+        "D": "None"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Force is concentrated'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 95,
+      "question": "The change in shape of a body under stress is called:",
+      "options": {
+        "A": "Deformation",
+        "B": "Vibration",
+        "C": "Compression",
+        "D": "Pressure"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Deformation'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 96,
+      "question": "If a force of 200 N is applied on an area of 2 m², pressure will be:",
+      "options": {
+        "A": "50 Pa",
+        "B": "100 Pa",
+        "C": "400 Pa",
+        "D": "100 N"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '100 Pa'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 97,
+      "question": "A body with high elasticity has:",
+      "options": {
+        "A": "Low Young's modulus",
+        "B": "High Young's modulus",
+        "C": "High strain",
+        "D": "Low stress"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'High Young's modulus'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 98,
+      "question": "Which is a scalar quantity?",
+      "options": {
+        "A": "Pressure",
+        "B": "Force",
+        "C": "Acceleration",
+        "D": "Displacement"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Pressure'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 99,
+      "question": "The change in volume per unit volume is called:",
+      "options": {
+        "A": "Stress",
+        "B": "Strain",
+        "C": "Volume strain",
+        "D": "Density"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Volume strain'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 100,
+      "question": "When force is applied parallel to surface, it produces:",
+      "options": {
+        "A": "Normal stress",
+        "B": "Shear stress",
+        "C": "Compressive strain",
+        "D": "Volume strain"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Shear stress'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 101,
+      "question": "Tensile and compressive stress are types of:",
+      "options": {
+        "A": "Normal stress",
+        "B": "Shear stress",
+        "C": "Pressure",
+        "D": "Volume force"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Normal stress'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 102,
+      "question": "Which of the following is not a factor affecting pressure in solids?",
+      "options": {
+        "A": "Force",
+        "B": "Volume",
+        "C": "Area",
+        "D": "Weight"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Volume'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 103,
+      "question": "SI unit of Young’s modulus is:",
+      "options": {
+        "A": "m²",
+        "B": "N/m² (Pascal)",
+        "C": "kg·m/s²",
+        "D": "N"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'N/m² (Pascal)'. In FBISE Grade 9 Physics Unit 5 (Pressure & Deformation in Solids), this is a standard curriculum property and board-examined definition."
+    }
+  ]
+}

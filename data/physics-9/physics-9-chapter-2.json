@@ -1,0 +1,993 @@
+{
+  "chapterNumber": 2,
+  "chapterTitle": "Unit 2: Kinematics",
+  "totalQuestions": 82,
+  "subject": "physics-9",
+  "grade": "9",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following describes the speed of an object at a particular moment?",
+      "options": {
+        "A": "Average speed",
+        "B": "Instantaneous speed",
+        "C": "Total speed",
+        "D": "Constant speed"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Instantaneous speed. Instantaneous speed is the speed of an object at a specific point in time or at a particular instant."
+    },
+    {
+      "id": 2,
+      "question": "The gradient of a distance–time graph is calculated by:",
+      "options": {
+        "A": "Dividing the change in distance by the change in time",
+        "B": "Multiplying the change in distance by the change in time",
+        "C": "Taking the square root of the sum of the squares of distance and time",
+        "D": "Dividing the change in time by the change in distance"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Dividing the change in distance by the change in time. Slope or gradient is \"rise over run.\" In a distance-time graph, the rise is the change in distance and the run is the change in time, representing speed."
+    },
+    {
+      "id": 3,
+      "question": "The slope of a velocity–time graph represents:",
+      "options": {
+        "A": "Velocity",
+        "B": "Acceleration",
+        "C": "Displacement",
+        "D": "Distance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Acceleration. Acceleration is the rate of change of velocity (a = \\Delta v / \\Delta t), which corresponds to the slope of a velocity-time graph."
+    },
+    {
+      "id": 4,
+      "question": "The area under a velocity–time graph gives:",
+      "options": {
+        "A": "Acceleration",
+        "B": "Distance",
+        "C": "Displacement",
+        "D": "Speed"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Displacement. The product of velocity and time represents the change in position, which is displacement."
+    },
+    {
+      "id": 5,
+      "question": "If the velocity–time graph of a body is a horizontal straight line, the motion is:",
+      "options": {
+        "A": "Uniformly accelerated",
+        "B": "Uniform velocity",
+        "C": "Retardation",
+        "D": "Non-uniform acceleration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Uniform velocity. A horizontal line means the velocity value is constant and not changing over time."
+    },
+    {
+      "id": 6,
+      "question": "A velocity–time graph is a straight line inclined to the time axis. This indicates:",
+      "options": {
+        "A": "Uniform acceleration",
+        "B": "Variable acceleration",
+        "C": "Constant velocity",
+        "D": "Rest"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Uniform acceleration. A straight inclined line shows that velocity changes by equal amounts in equal intervals of time, which is uniform acceleration."
+    },
+    {
+      "id": 7,
+      "question": "If a body moves with negative acceleration, the velocity–time graph will:",
+      "options": {
+        "A": "Be parallel to the time axis",
+        "B": "Incline upward",
+        "C": "Incline downward",
+        "D": "Coincide with the time axis"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Incline downward. Negative acceleration (deceleration) means velocity is decreasing over time, causing the graph to slope downwards."
+    },
+    {
+      "id": 8,
+      "question": "Terminal velocity is attained when:",
+      "options": {
+        "A": "Net force on the body is zero",
+        "B": "Acceleration is maximum",
+        "C": "Drag force is negligible",
+        "D": "Weight of the body becomes zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Net force on the body is zero. Terminal velocity occurs when the upward drag force equals the downward weight, making the net force zero."
+    },
+    {
+      "id": 9,
+      "question": "When a raindrop falls through air, it attains terminal velocity because:",
+      "options": {
+        "A": "Its mass decreases",
+        "B": "Its weight becomes zero",
+        "C": "Air resistance balances its weight",
+        "D": "No gravity acts on it"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Air resistance balances its weight. As speed increases, air resistance increases until it equals the weight of the drop, preventing further acceleration."
+    },
+    {
+      "id": 10,
+      "question": "At terminal velocity, the acceleration of a falling object is:",
+      "options": {
+        "A": "Maximum",
+        "B": "Minimum",
+        "C": "Zero",
+        "D": "Infinite"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Zero. Since velocity becomes constant at terminal velocity, the change in velocity (acceleration) is zero."
+    },
+    {
+      "id": 11,
+      "question": "Terminal velocity depends upon:",
+      "options": {
+        "A": "Mass of the object",
+        "B": "Shape and size of the object",
+        "C": "Density of the medium",
+        "D": "All of the above"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Density of the medium. Mass affects weight, while shape, size, and medium density affect the drag force; all determine the speed at which balance is reached."
+    },
+    {
+      "id": 12,
+      "question": "If the velocity–time graph is below the time axis, the body is:",
+      "options": {
+        "A": "At rest",
+        "B": "Moving backward (negative velocity)",
+        "C": "Accelerating",
+        "D": "Cannot be determined"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Moving backward (negative velocity). The region below the time axis represents negative velocity values, indicating motion in the opposite direction."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following quantities cannot be obtained directly from a velocity–time graph?",
+      "options": {
+        "A": "Displacement",
+        "B": "Distance",
+        "C": "Acceleration",
+        "D": "Initial velocity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Displacement. While displacement is the net area, distance requires calculating the absolute area of all segments regardless of direction."
+    },
+    {
+      "id": 14,
+      "question": "For a skydiver after jumping from a plane, terminal velocity occurs when:",
+      "options": {
+        "A": "Weight > Air resistance",
+        "B": "Weight < Air resistance",
+        "C": "Weight = Air resistance",
+        "D": "No forces act"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Weight > Air resistance. Equilibrium between the downward pull of gravity and upward air resistance leads to terminal velocity."
+    },
+    {
+      "id": 15,
+      "question": "A body moving with terminal velocity has:",
+      "options": {
+        "A": "Zero acceleration but finite velocity",
+        "B": "Zero velocity but finite acceleration",
+        "C": "Infinite acceleration",
+        "D": "Constant acceleration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Zero acceleration but finite velocity. It moves at a constant, non-zero speed (finite velocity) with no change in that speed (zero acceleration)."
+    },
+    {
+      "id": 16,
+      "question": "If an object moves in a straight line and returns to its starting point, its:",
+      "options": {
+        "A": "Speed is zero but velocity is not",
+        "B": "Velocity is zero but speed is not",
+        "C": "Both speed and velocity are zero",
+        "D": "Neither speed nor velocity is zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Speed is zero but velocity is not. Displacement is zero (resulting in zero velocity), but the actual distance covered is non-zero (resulting in non-zero speed)."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is NOT true regarding average acceleration?",
+      "options": {
+        "A": "It is the total change in velocity divided by the total time",
+        "B": "It gives an average rate of velocity change over a period",
+        "C": "It represents the acceleration at a specific point in time",
+        "D": "It can be zero even if instantaneous accelerations are non-zero"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): It represents the acceleration at a specific point in time. Acceleration at a specific point in time is called \"instantaneous acceleration,\" not average."
+    },
+    {
+      "id": 18,
+      "question": "Distance covered by an object in a distance–time graph is represented by:",
+      "options": {
+        "A": "The gradient of the graph",
+        "B": "The height of the graph",
+        "C": "The area under the graph",
+        "D": "The x-intercept of the graph"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): The height of the graph. The y-coordinate (height) on a distance-time graph directly tells you the distance covered up to that time."
+    },
+    {
+      "id": 19,
+      "question": "is the study of motion of an object.",
+      "options": {
+        "A": "Nuclear physics",
+        "B": "Light",
+        "C": "Mechanics",
+        "D": "Thermodynamics"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Mechanics. Mechanics is the branch of physics that deals with the motion of physical objects and the forces that affect them."
+    },
+    {
+      "id": 20,
+      "question": "If a body does not change its position with respect to its surrounding, then it will be in the state of .",
+      "options": {
+        "A": "motion",
+        "B": "rest",
+        "C": "relative motion",
+        "D": "uniform motion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): rest. Rest is defined as the lack of change in position relative to a chosen reference point or surroundings."
+    },
+    {
+      "id": 21,
+      "question": "If a body changes its position with respect to its surrounding, then it will be in the state of .",
+      "options": {
+        "A": "motion",
+        "B": "rest",
+        "C": "relative motion",
+        "D": "uniform motion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): motion. Motion is the continuous change of position of an object compared to its surroundings."
+    },
+    {
+      "id": 22,
+      "question": "Rest and motion of a body is .",
+      "options": {
+        "A": "absolute",
+        "B": "constant",
+        "C": "variable",
+        "D": "relative"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): relative. An object may be at rest for one observer (like a passenger in a car) but in motion for another (someone on the sidewalk)."
+    },
+    {
+      "id": 23,
+      "question": "The motion of a body about an axis is called. .",
+      "options": {
+        "A": "Circular",
+        "B": "Vibratory",
+        "C": "Rotational",
+        "D": "Random"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Rotational. When every point of a body moves in a circle around a fixed line (axis), it is rotatory or rotational motion."
+    },
+    {
+      "id": 24,
+      "question": "A body has translator motion if it moves along :",
+      "options": {
+        "A": "Circle",
+        "B": "straight line",
+        "C": "Curved path",
+        "D": "line without rotation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): straight line. In translatory motion, the object moves as a whole such that all its particles move the same distance. This can be straight or curved."
+    },
+    {
+      "id": 25,
+      "question": "The motion of aeroplanes flying straight in the air is:",
+      "options": {
+        "A": "Rotatory motion",
+        "B": "Vibratory motion",
+        "C": "Linear motion",
+        "D": "none of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Linear motion. Movement along a straight line is specifically called linear (or rectilinear) motion."
+    },
+    {
+      "id": 26,
+      "question": "The motion of a gas or liquid molecules along a zig-zag path is called.",
+      "options": {
+        "A": "Circular motion",
+        "B": "Translatory motion",
+        "C": "Rotatory motion",
+        "D": "Brownian motion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Circular motion. Named after Robert Brown, it describes the random, zig-zag motion of particles suspended in a fluid."
+    },
+    {
+      "id": 27,
+      "question": "is the motion of a cradle and string of guitar.",
+      "options": {
+        "A": "Translatory motion",
+        "B": "Rotatory motion",
+        "C": "Vibratory motion",
+        "D": "none of these"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): none of these. Both the cradle swinging and the guitar string plucked involve moving back and forth through a center point. 38.A. quantity is described completely by its magnitude and direction. (a) Scalar (b) Vector (c)Both (a) and (b) (d) none of these Explanation: Scalars only have magnitude (size); vectors require a direction (e.g., 50 km/h North)."
+    },
+    {
+      "id": 28,
+      "question": "Mass is a quantity.",
+      "options": {
+        "A": "Scalar",
+        "B": "Vector",
+        "C": "Both (a) and (b)",
+        "D": "none of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Scalar. Mass has no direction; you don’t say “5kg to the left.”"
+    },
+    {
+      "id": 29,
+      "question": "Force is a _______ quantity.",
+      "options": {
+        "A": "Scalar",
+        "B": "Vector",
+        "C": "Both (a) and (b)",
+        "D": "none of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Vector. Force always acts in a specific direction, which significantly changes the outcome of the physical action."
+    },
+    {
+      "id": 30,
+      "question": "A vector quantity is represented by______",
+      "options": {
+        "A": "line segment",
+        "B": "bold letter",
+        "C": "bar or arrow over their symbol",
+        "D": "All of them"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): All of them. These are all standard notation styles used in physics to distinguish vectors from scalars."
+    },
+    {
+      "id": 31,
+      "question": "Shortest distance between two points is known as",
+      "options": {
+        "A": "distance",
+        "B": "displacement",
+        "C": "length",
+        "D": "acceleration ."
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): displacement. Displacement is a vector that points from the starting position to the ending position."
+    },
+    {
+      "id": 32,
+      "question": "Displacement is a quantity.",
+      "options": {
+        "A": "scalar",
+        "B": "vector",
+        "C": "Both (a) and (b)",
+        "D": "none of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): vector. Because it specifies a change in position in a specific direction."
+    },
+    {
+      "id": 33,
+      "question": "By dividing the displacement of moving body with time we get",
+      "options": {
+        "A": "speed",
+        "B": "velocity",
+        "C": "acceleration",
+        "D": "displacement"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): displacement. Velocity = Displacement / Time. 50.A car is moving at a speed of 20 ms⁻¹. Its speed in kmh⁻¹ is : (a) 27 (b) 72 (c)5.55 (d) 50 Explanation: To convert m/s to km/h, multiply by 3.6 (20 x 3.6 = 72). 51.SI unit of velocity is (a) kms⁻¹ (b) ms⁻² (c)kmh⁻² . . (d) ms⁻¹ Explanation: Standard unit for velocity is meters per second."
+    },
+    {
+      "id": 34,
+      "question": "Acceleration of a body is",
+      "options": {
+        "A": "negative",
+        "B": "positive",
+        "C": "uniform",
+        "D": "variable if its velocity decreases."
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): negative. Also known as retardation or deceleration. 56.Acceleration of a body is if its velocity increases. (a) negative (b) positive (c) uniform (d) variable Explanation: Acceleration is in the direction of motion."
+    },
+    {
+      "id": 35,
+      "question": "If velocity of a body changes equally in equal interval of time then its acceleration is .",
+      "options": {
+        "A": "uniform",
+        "B": "constant",
+        "C": "variable",
+        "D": "all of them"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): constant. This describes a linear change in velocity. 59.If a body is moving in a circular path with uniform speed its velocity and acceleration will be . (a) in the same direction (b) in the opposite direction (c) equal (d) mutually perpendicular Explanation: In uniform circular motion, velocity is tangential while acceleration (centripetal) is directed toward the center. 59.If a car is moving with uniform speed in circle then the magnitude of its velocity will be . (a) uniform (b) constant (c)variable (d) zero Explanation: Magnitude of velocity is speed. If speed is uniform, magnitude is constant."
+    },
+    {
+      "id": 36,
+      "question": "If the direction of motion of a body and direction of acceleration of body is same then acceleration will be .",
+      "options": {
+        "A": "Positive",
+        "B": "negative",
+        "C": "uniform",
+        "D": "zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Positive. Velocity increases, resulting in positive acceleration."
+    },
+    {
+      "id": 37,
+      "question": "If motion of body is in a interchangeable.",
+      "options": {
+        "A": "circle",
+        "B": "curved path then distance and displacement, speed and velocity are",
+        "C": "random motion",
+        "D": "straight line"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): straight line. In a one-way straight line, magnitude of distance equals displacement. 63.Slope of a line represents: (a) speed (b) velocity (c) acceleration (d) displacement Explanation: On a V-T graph, the slope is acceleration. (Note: On a Distance-Time graph, it is speed)."
+    },
+    {
+      "id": 38,
+      "question": "is the value of g at sea level.",
+      "options": {
+        "A": "32 fts⁻²",
+        "B": "980 cms⁻²",
+        "C": "9.8 ms⁻²",
+        "D": "all of them"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 32 fts⁻². They are the same measurement, just using different \"rulers\": • • • (a) 32 ft/s² is the value in Feet (Imperial system). (b) 980 cm/s² is the value in Centimeters (Metric CGS system). (c) 9.8 m/s² is the value in Meters (Standard SI system)."
+    },
+    {
+      "id": 39,
+      "question": "If a body is falling under the gravity its initial velocity will be ______.",
+      "options": {
+        "A": "positive",
+        "B": "negative",
+        "C": "uniform",
+        "D": "zero"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): zero. An object dropped from rest starts at speed 0."
+    },
+    {
+      "id": 40,
+      "question": "If a ball is dropped from the top of the tower, the distance covered by it in the first two second is. .",
+      "options": {
+        "A": "5 m",
+        "B": "10 m",
+        "C": "20m",
+        "D": "40m"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 5 m. S = (1/2) gt² S = 0.5 x 10 x 2² S = 0.5 x10 x 4 S = 20 m"
+    },
+    {
+      "id": 41,
+      "question": "Uniform velocity with which a paratrooper coming down is also called ______.",
+      "options": {
+        "A": "horizontal",
+        "B": "terminal",
+        "C": "variable",
+        "D": "orbital"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): terminal. The constant speed reached when air resistance equals weight."
+    },
+    {
+      "id": 42,
+      "question": "Motion of a wheel is .",
+      "options": {
+        "A": "translatory",
+        "B": "circular",
+        "C": "vibratory",
+        "D": "rotatory"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): rotatory. It spins around a central axis."
+    },
+    {
+      "id": 43,
+      "question": "Which one is a scalar quantity?",
+      "options": {
+        "A": "Displacement",
+        "B": "Velocity",
+        "C": "Speed",
+        "D": "Acceleration"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Speed'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 44,
+      "question": "Displacement is a:",
+      "options": {
+        "A": "Scalar quantity",
+        "B": "Vector quantity",
+        "C": "Constant quantity",
+        "D": "Non-measurable quantity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Vector quantity'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 45,
+      "question": "Which of the following quantities need both magnitude and direction to describe it?",
+      "options": {
+        "A": "Time",
+        "B": "Distance",
+        "C": "Speed",
+        "D": "Velocity"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Velocity'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 46,
+      "question": "If a body returns to its starting point, its displacement is:",
+      "options": {
+        "A": "Maximum",
+        "B": "Zero",
+        "C": "Negative",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Zero'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 47,
+      "question": "SI unit of speed is:",
+      "options": {
+        "A": "m",
+        "B": "m/s",
+        "C": "m/s²",
+        "D": "km/h"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'm/s'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 48,
+      "question": "The slope of distance-time graph gives:",
+      "options": {
+        "A": "Acceleration",
+        "B": "Velocity",
+        "C": "Displacement",
+        "D": "Time"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Velocity'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 49,
+      "question": "If a car travels 60 km in 2 hours, its average speed is:",
+      "options": {
+        "A": "30 km/h",
+        "B": "60 km/h",
+        "C": "120 km/h",
+        "D": "10 km/h"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '30 km/h'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 50,
+      "question": "Velocity changes when:",
+      "options": {
+        "A": "Speed remains constant",
+        "B": "Direction remains constant",
+        "C": "Speed or direction changes",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Speed or direction changes'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 51,
+      "question": "Which of the following is a vector quantity?",
+      "options": {
+        "A": "Time",
+        "B": "Distance",
+        "C": "Displacement",
+        "D": "Speed"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Displacement'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 52,
+      "question": "A body moving with uniform velocity has:",
+      "options": {
+        "A": "Zero acceleration",
+        "B": "Increasing speed",
+        "C": "Decreasing velocity",
+        "D": "Constant acceleration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Zero acceleration'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 53,
+      "question": "Area under velocity-time graph gives:",
+      "options": {
+        "A": "Velocity",
+        "B": "Displacement",
+        "C": "Acceleration",
+        "D": "Time"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Displacement'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 54,
+      "question": "Acceleration is defined as the rate of change of:",
+      "options": {
+        "A": "Speed",
+        "B": "Velocity",
+        "C": "Displacement",
+        "D": "Distance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Velocity'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 55,
+      "question": "Which of the following has both magnitude and direction?",
+      "options": {
+        "A": "Speed",
+        "B": "Velocity",
+        "C": "Time",
+        "D": "Distance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Velocity'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 56,
+      "question": "SI unit of acceleration is:",
+      "options": {
+        "A": "m/s",
+        "B": "m/s²",
+        "C": "m",
+        "D": "km/h²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'm/s²'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 57,
+      "question": "A straight line parallel to time-axis in velocity-time graph represents:",
+      "options": {
+        "A": "Constant velocity",
+        "B": "Zero velocity",
+        "C": "Acceleration",
+        "D": "Increasing velocity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Constant velocity'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 58,
+      "question": "If a body covers equal distances in equal intervals of time, it is said to be moving with:",
+      "options": {
+        "A": "Uniform speed",
+        "B": "Accelerated motion",
+        "C": "Non-uniform speed",
+        "D": "Rest"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Uniform speed'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 59,
+      "question": "If a car moves with 20 m/s for 5 seconds, how much distance it covers?",
+      "options": {
+        "A": "50 m",
+        "B": "100 m",
+        "C": "200 m",
+        "D": "20 m"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '200 m'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition. Reference key: (20 m/s × 5s = 100m)."
+    },
+    {
+      "id": 60,
+      "question": "A body at rest has:",
+      "options": {
+        "A": "Zero velocity",
+        "B": "Maximum speed",
+        "C": "Uniform acceleration",
+        "D": "Constant motion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Zero velocity'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 61,
+      "question": "Displacement is a shortest distance between:",
+      "options": {
+        "A": "Any two points",
+        "B": "Initial and final positions",
+        "C": "Every point",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Initial and final positions'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 62,
+      "question": "What does negative acceleration indicate?",
+      "options": {
+        "A": "Increasing speed",
+        "B": "Decreasing speed",
+        "C": "Constant speed",
+        "D": "No motion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Decreasing speed'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 63,
+      "question": "A car accelerates from rest to 30 m/s in 10 seconds. Its acceleration is:",
+      "options": {
+        "A": "3 m/s²",
+        "B": "3.0 m/s²",
+        "C": "0.3 m/s²",
+        "D": "30 m/s²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '3.0 m/s²'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 64,
+      "question": "A body moving with 5 m/s² acceleration for 4 seconds has a final velocity of:",
+      "options": {
+        "A": "10 m/s",
+        "B": "15 m/s",
+        "C": "20 m/s",
+        "D": "25 m/s"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '20 m/s'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition. Reference key: (v = at = 5×4)."
+    },
+    {
+      "id": 65,
+      "question": "A distance-time graph is a straight line inclined to the time axis. This shows:",
+      "options": {
+        "A": "Uniform speed",
+        "B": "Acceleration",
+        "C": "Retardation",
+        "D": "Non-uniform speed"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Uniform speed'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 66,
+      "question": "The quantity which is always positive is:",
+      "options": {
+        "A": "Displacement",
+        "B": "Distance",
+        "C": "Velocity",
+        "D": "Acceleration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Distance'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 67,
+      "question": "If a body moves in a circle and returns to starting point, then:",
+      "options": {
+        "A": "Distance = Displacement",
+        "B": "Displacement = 0",
+        "C": "Distance = 0",
+        "D": "Both are zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Displacement = 0'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 68,
+      "question": "When velocity decreases, acceleration is:",
+      "options": {
+        "A": "Positive",
+        "B": "Zero",
+        "C": "Negative",
+        "D": "Constant"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Negative'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 69,
+      "question": "The speed of a body is always:",
+      "options": {
+        "A": "Zero",
+        "B": "Negative",
+        "C": "Positive",
+        "D": "Changing"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Positive'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 70,
+      "question": "Which is not a vector quantity?",
+      "options": {
+        "A": "Velocity",
+        "B": "Speed",
+        "C": "Acceleration",
+        "D": "Displacement"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Speed'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 71,
+      "question": "If distance and time are known, we can calculate:",
+      "options": {
+        "A": "Velocity",
+        "B": "Speed",
+        "C": "Acceleration",
+        "D": "Displacement"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Speed'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 72,
+      "question": "The motion of a freely falling body is an example of:",
+      "options": {
+        "A": "Uniform speed",
+        "B": "Uniform acceleration",
+        "C": "Constant velocity",
+        "D": "Zero acceleration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Uniform acceleration'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 73,
+      "question": "If an object is thrown upward, its velocity at the highest point is:",
+      "options": {
+        "A": "Zero",
+        "B": "Maximum",
+        "C": "Constant",
+        "D": "Uniform"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Zero'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 74,
+      "question": "The path length travelled by an object is known as:",
+      "options": {
+        "A": "Distance",
+        "B": "Displacement",
+        "C": "Velocity",
+        "D": "Acceleration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Distance'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 75,
+      "question": "Retardation is also called:",
+      "options": {
+        "A": "Constant speed",
+        "B": "Negative acceleration",
+        "C": "Variable motion",
+        "D": "Zero velocity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Negative acceleration'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 76,
+      "question": "In uniform motion, acceleration is:",
+      "options": {
+        "A": "Zero",
+        "B": "Maximum",
+        "C": "Constant",
+        "D": "Negative"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Zero'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 77,
+      "question": "Which one is a correct unit of displacement?",
+      "options": {
+        "A": "m/s",
+        "B": "m/s²",
+        "C": "m",
+        "D": "kg"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'm'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 78,
+      "question": "The formula s = vt is used when:",
+      "options": {
+        "A": "Acceleration is zero",
+        "B": "Acceleration is constant",
+        "C": "Speed is zero",
+        "D": "Speed is increasing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Acceleration is zero'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 79,
+      "question": "Which graph shows uniform acceleration?",
+      "options": {
+        "A": "Horizontal line in v–t graph",
+        "B": "Straight sloped line in v–t graph",
+        "C": "Curve in s–t graph",
+        "D": "Horizontal line in s–t graph"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Straight sloped line in v–t graph'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 80,
+      "question": "A body thrown vertically upward comes back due to:",
+      "options": {
+        "A": "Gravity",
+        "B": "Inertia",
+        "C": "Acceleration",
+        "D": "Speed"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Gravity'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 81,
+      "question": "When the speed of a body remains the same, it is said to be in:",
+      "options": {
+        "A": "Non-uniform motion",
+        "B": "Uniform motion",
+        "C": "Accelerated motion",
+        "D": "Rest"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Uniform motion'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 82,
+      "question": "The total length of the path travelled by a body is known as:",
+      "options": {
+        "A": "Velocity",
+        "B": "Distance",
+        "C": "Acceleration",
+        "D": "Displacement"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Distance'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition."
+    }
+  ]
+}

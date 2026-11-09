@@ -39,14 +39,15 @@ export default function Navbar() {
 
         {/* Class Selector Bar */}
         <div className="flex items-center gap-1 sm:gap-2 overflow-x-auto pb-1 md:pb-0 text-sm font-[family-name:var(--font-display)]">
-          <button
-            type="button"
-            disabled
-            className="px-3 py-1.5 border border-[var(--color-rule)] text-[var(--color-muted)] cursor-not-allowed opacity-60 text-xs"
-            title="Class 9th tests coming soon"
+          <Link
+            href="/?grade=9"
+            className="px-3 py-1.5 border border-emerald-700 bg-emerald-50 text-emerald-900 hover:bg-emerald-100 font-bold text-xs flex items-center gap-1.5 transition-colors"
+            title="FBISE Class 9th (SSC-I) Physics Test Series"
           >
-            Class 9th <span className="text-[10px] opacity-75">(Soon)</span>
-          </button>
+            <BookOpen className="w-3.5 h-3.5 text-emerald-700" />
+            <span>Class 9th (SSC-I)</span>
+            <span className="bg-emerald-800 text-white text-[9px] font-mono px-1 py-0.2 font-semibold">NEW</span>
+          </Link>
           <button
             type="button"
             disabled
@@ -55,10 +56,13 @@ export default function Navbar() {
           >
             Class 10th <span className="text-[10px] opacity-75">(Soon)</span>
           </button>
-          <div className="px-3.5 py-1.5 bg-[var(--color-ink)] text-[var(--color-paper)] font-medium text-xs flex items-center gap-1.5 shadow-sm">
+          <Link
+            href="/?grade=11"
+            className="px-3.5 py-1.5 bg-[var(--color-ink)] text-[var(--color-paper)] hover:bg-neutral-800 font-medium text-xs flex items-center gap-1.5 shadow-sm transition-colors"
+          >
             <BookOpen className="w-3.5 h-3.5" />
             <span>Class 11th (HSSC-I)</span>
-          </div>
+          </Link>
           <button
             type="button"
             disabled

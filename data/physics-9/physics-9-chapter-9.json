@@ -1,0 +1,597 @@
+{
+  "chapterNumber": 9,
+  "chapterTitle": "Unit 9: Nature of Science & Fundamental Physics",
+  "totalQuestions": 49,
+  "subject": "physics-9",
+  "grade": "9",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Optics is a branch of physics that investigates:",
+      "options": {
+        "A": "The behavior of animals",
+        "B": "The properties of light",
+        "C": "The composition of minerals",
+        "D": "Cultural traditions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): The properties of light. Optics is the study of light, its properties, reflection, refraction, and behavior in different media."
+    },
+    {
+      "id": 2,
+      "question": "Physics is considered a natural science because it:",
+      "options": {
+        "A": "Deals with the natural world and its phenomena",
+        "B": "Focuses on artistic expressions",
+        "C": "Studies social interactions",
+        "D": "Analyzes historical events"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Deals with the natural world and its phenomena. Physics studies natural phenomena like motion, energy, and forces, making it a natural science."
+    },
+    {
+      "id": 3,
+      "question": "As a physical science, physics primarily involves:",
+      "options": {
+        "A": "Understanding societal norms",
+        "B": "Researching biological organisms",
+        "C": "Studying matter and energy",
+        "D": "Examining economic principles"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Studying matter and energy. Physics focuses on the fundamental properties of matter and energy and how they interact."
+    },
+    {
+      "id": 4,
+      "question": "Which term correctly identifies professionals dedicated to the study and research of physics?",
+      "options": {
+        "A": "Mathematicians",
+        "B": "Biologists",
+        "C": "Physicists",
+        "D": "Geographers"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Physicists. Scientists who specialize in studying matter, energy, and physical laws are called physicists."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following best describes the progression from hypothesis to theory to law in physics?",
+      "options": {
+        "A": "Hypothesis → Law → Theory",
+        "B": "Theory → Hypothesis → Law",
+        "C": "Hypothesis → Theory → Law",
+        "D": "Law → Theory → Hypothesis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Hypothesis → Law → Theory. Observations lead to a hypothesis, which is tested and may develop into a theory, and repeated confirmations can establish a law."
+    },
+    {
+      "id": 6,
+      "question": "______ is transferred from a hot body to a cold body in the form of heat.",
+      "options": {
+        "A": "Heat capacity",
+        "B": "Temperature",
+        "C": "Specific heat",
+        "D": "Thermal energy"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Thermal energy. Thermal energy is energy in transit due to temperature difference."
+    },
+    {
+      "id": 7,
+      "question": "The mode of transfer of heat from hot to cold parts of a body by vibrating atoms and free electrons is known as:",
+      "options": {
+        "A": "Conduction",
+        "B": "Convection",
+        "C": "Radiation",
+        "D": "All of them"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Conduction. Conduction occurs in solids when heat is transmitted by particle vibration and free electron movement."
+    },
+    {
+      "id": 8,
+      "question": "The amount of heat that flows in a unit ______ is called rate of flow of heat.",
+      "options": {
+        "A": "Mass",
+        "B": "Time",
+        "C": "Length",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Time. Rate of heat flow is the heat transferred per unit time."
+    },
+    {
+      "id": 9,
+      "question": "Rate of flow of heat depends upon:",
+      "options": {
+        "A": "Cross-sectional area of solid",
+        "B": "Length of solid",
+        "C": "Temperature difference between ends of solid",
+        "D": "All of them"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Length of solid. Heat flow increases with area and temperature difference, decreases with length."
+    },
+    {
+      "id": 10,
+      "question": "SI unit of heat is:",
+      "options": {
+        "A": "Kilogram",
+        "B": "Candela",
+        "C": "Joule",
+        "D": "Kelvin"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Joule. Heat is a form of energy, measured in joules (J) in SI."
+    },
+    {
+      "id": 11,
+      "question": "The amount of heat that flows per unit time through a unit area with a temperature gradient of one degree per unit distance is called:",
+      "options": {
+        "A": "Heat capacity",
+        "B": "Specific heat",
+        "C": "Thermal conductivity",
+        "D": "Thermal energy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Thermal conductivity. Thermal conductivity measures a material’s ability to conduct heat."
+    },
+    {
+      "id": 12,
+      "question": "Water is ______ of heat.",
+      "options": {
+        "A": "Poor conductor",
+        "B": "Good conductor",
+        "C": "Perfect conductor",
+        "D": "Super conductor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Poor conductor. Water conducts heat poorly compared to metals."
+    },
+    {
+      "id": 13,
+      "question": "Mode of transfer of heat by actual movement of molecules from hot to cold place is called:",
+      "options": {
+        "A": "Conduction",
+        "B": "Convection",
+        "C": "Radiation",
+        "D": "All of them"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Convection. Convection involves bulk movement of fluids carrying heat from one place to another."
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is bad conductor of heat?",
+      "options": {
+        "A": "Refrigerator",
+        "B": "Boiler",
+        "C": "Condenser",
+        "D": "Feather of birds"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Feather of birds. Feathers are insulating and prevent heat flow, making them poor conductors."
+    },
+    {
+      "id": 15,
+      "question": "A process in which heated fluid expands, rises up and becomes less dense is called:",
+      "options": {
+        "A": "Convection current",
+        "B": "Conduction",
+        "C": "Radiation",
+        "D": "Thermals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Convection current. Convection currents occur due to density differences in heated fluids."
+    },
+    {
+      "id": 16,
+      "question": "Land and sea breezes are result of:",
+      "options": {
+        "A": "Conduction",
+        "B": "Convection",
+        "C": "Radiation",
+        "D": "Both (b) and (c)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Convection. Land and sea breezes are classic examples of natural convection currents. They are driven by the differential heating and cooling of land and water surfaces, which creates density and pressure differences in the air, leading to a circulation cycle."
+    },
+    {
+      "id": 17,
+      "question": "Movement of water on heating is known as:",
+      "options": {
+        "A": "Potassium permanganate",
+        "B": "Sodium chloride",
+        "C": "Calcium carbonate",
+        "D": "Potassium chloride"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Potassium permanganate. Potassium permanganate crystals are frequently used in science experiments to visualize the movement of water (convection currents) during heating. As the crystals dissolve, they release a purple color that traces the path of the rising warm water and sinking cool water."
+    },
+    {
+      "id": 18,
+      "question": "Rising currents of hot air are called:",
+      "options": {
+        "A": "Convection current",
+        "B": "Conduction",
+        "C": "Radiation",
+        "D": "Thermals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Convection current. The rising currents of hot air (and sinking of cool air) are known as convection currents. This occurs because hot air is less dense than the surrounding cooler air, causing it to rise upward"
+    },
+    {
+      "id": 19,
+      "question": "Mode of transfer of heat from one place to another in the form of waves is known as:",
+      "options": {
+        "A": "Conduction",
+        "B": "Convection",
+        "C": "Radiation",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Radiation. Radiation transfers energy via electromagnetic waves without requiring a medium."
+    },
+    {
+      "id": 20,
+      "question": "Heat from fireplace directly reaches us by:",
+      "options": {
+        "A": "Conduction",
+        "B": "Convection",
+        "C": "Radiation",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Radiation. Radiation allows heat to travel through air or vacuum directly to objects."
+    },
+    {
+      "id": 21,
+      "question": "Rate of emission of radiations depends upon:",
+      "options": {
+        "A": "Surface temperature",
+        "B": "Colour and texture of the surface",
+        "C": "Surface area",
+        "D": "All of them"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Surface temperature. Hotter, darker, rougher, and larger surfaces emit more thermal radiation."
+    },
+    {
+      "id": 22,
+      "question": "Large number of slots is made in radiators to:",
+      "options": {
+        "A": "Increase their surface area",
+        "B": "To minimize their surface area",
+        "C": "Decrease their volume",
+        "D": "None of them"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Increase their surface area. Greater surface area increases heat transfer efficiency of radiators."
+    },
+    {
+      "id": 23,
+      "question": "Dull black surfaces are ______ emitter.",
+      "options": {
+        "A": "Good",
+        "B": "Bad",
+        "C": "Worst",
+        "D": "Best"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Best. Dull black surfaces are the best emitters of thermal radiation. This is because dark, matte materials have a high emissivity, allowing them to release heat more efficiently than any other surface."
+    },
+    {
+      "id": 24,
+      "question": "Shining silvered surface is ______ absorber.",
+      "options": {
+        "A": "Good",
+        "B": "Bad",
+        "C": "Worst",
+        "D": "Best"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Bad. A shining silvered surface is a bad (poor) absorber of heat. Such surfaces reflect most of the incident radiation rather than absorbing it, which is why they are often used in vacuum flasks to prevent heat transfer."
+    },
+    {
+      "id": 25,
+      "question": "The gases in the earth’s atmosphere, which causes the greenhouse effect:",
+      "options": {
+        "A": "Water vapors",
+        "B": "Carbon dioxide",
+        "C": "Nitrogen",
+        "D": "Both (a) & (b)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Water vapors. Water vapor and CO₂ trap infrared radiation, warming the atmosphere."
+    },
+    {
+      "id": 26,
+      "question": "Global warming is due to:",
+      "options": {
+        "A": "Greenhouse effect",
+        "B": "Radiation",
+        "C": "Land and sea breezes",
+        "D": "Both (a) and (b)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Greenhouse effect. Greenhouse gases trap heat, raising Earth’s average temperature."
+    },
+    {
+      "id": 27,
+      "question": "On hot day, the temperature of land increases more quickly than sea, its because of:",
+      "options": {
+        "A": "Heat capacity",
+        "B": "Less specific heat of water",
+        "C": "Less specific heat of sand",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Less specific heat of water. Land heats faster because it has lower specific heat than water, absorbing less energy to rise in temperature."
+    },
+    {
+      "id": 28,
+      "question": "______ used upward movement of hot air current due to convection of heat.",
+      "options": {
+        "A": "Hot air balloon",
+        "B": "Gliders",
+        "C": "Land and sea breeze",
+        "D": "All of them"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Land and sea breeze. All the listed phenomena utilize the upward movement of hot air currents caused by convection. Hot air balloons rise because the air inside is heated, becomes less dense, and moves upward. Gliders use “thermals,” which are rising columns of warm air, to stay aloft without an engine. Land and sea breezes are localized convection currents formed by the temperature difference between land and water."
+    },
+    {
+      "id": 29,
+      "question": "Ventilation in our houses is only possible due to:",
+      "options": {
+        "A": "Conduction",
+        "B": "Convection",
+        "C": "Radiation",
+        "D": "All of them"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Convection. Warm air rises and cold air enters, creating convection currents that ventilate rooms efficiently."
+    },
+    {
+      "id": 30,
+      "question": "Physics deals with:",
+      "options": {
+        "A": "Human body",
+        "B": "Matter, energy and their relationship",
+        "C": "Plants and animals",
+        "D": "Chemical reactions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Matter, energy and their relationship'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is a branch of physics?",
+      "options": {
+        "A": "Botany",
+        "B": "Zoology",
+        "C": "Thermodynamics",
+        "D": "Anatomy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Thermodynamics'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 32,
+      "question": "Scientific knowledge is based on:",
+      "options": {
+        "A": "Guesswork",
+        "B": "Observations and experiments",
+        "C": "Opinions",
+        "D": "Feelings"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Observations and experiments'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 33,
+      "question": "Which step comes first in the scientific method?",
+      "options": {
+        "A": "Hypothesis",
+        "B": "Observation",
+        "C": "Experiment",
+        "D": "Conclusion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Observation'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 34,
+      "question": "A testable statement in scientific method is called:",
+      "options": {
+        "A": "Law",
+        "B": "Hypothesis",
+        "C": "Theory",
+        "D": "Conclusion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Hypothesis'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 35,
+      "question": "Physics helps us understand:",
+      "options": {
+        "A": "Feelings",
+        "B": "Art",
+        "C": "Natural phenomena",
+        "D": "History"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Natural phenomena'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 36,
+      "question": "A physical quantity with both magnitude and direction is called:",
+      "options": {
+        "A": "Scalar",
+        "B": "Vector",
+        "C": "Quantity",
+        "D": "Constant"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Vector'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 37,
+      "question": "SI unit of time is:",
+      "options": {
+        "A": "Minute",
+        "B": "Hour",
+        "C": "Second",
+        "D": "Day"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Second'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 38,
+      "question": "Which is not a branch of physics?",
+      "options": {
+        "A": "Mechanics",
+        "B": "Biology",
+        "C": "Optics",
+        "D": "Electromagnetism"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Biology'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 39,
+      "question": "The standard unit system used worldwide is:",
+      "options": {
+        "A": "British system",
+        "B": "SI system",
+        "C": "Imperial system",
+        "D": "Local system"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'SI system'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 40,
+      "question": "Who is known as the father of modern physics?",
+      "options": {
+        "A": "Newton",
+        "B": "Albert Einstein",
+        "C": "Galileo",
+        "D": "Edison"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Albert Einstein'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 41,
+      "question": "A scientific law is:",
+      "options": {
+        "A": "A guess",
+        "B": "A well-proven statement of nature",
+        "C": "A temporary idea",
+        "D": "A mathematical formula"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'A well-proven statement of nature'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 42,
+      "question": "Measurement is necessary for:",
+      "options": {
+        "A": "Drawing",
+        "B": "Accurate results in experiments",
+        "C": "Speaking",
+        "D": "Writing"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Accurate results in experiments'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 43,
+      "question": "Which quantity is a scalar?",
+      "options": {
+        "A": "Speed",
+        "B": "Force",
+        "C": "Velocity",
+        "D": "Displacement"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Speed'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 44,
+      "question": "Hypothesis must be:",
+      "options": {
+        "A": "Complex",
+        "B": "Testable",
+        "C": "Imaginary",
+        "D": "Fixed"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Testable'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 45,
+      "question": "A set of rules that summarize experimental results is called:",
+      "options": {
+        "A": "Theory",
+        "B": "Scientific law",
+        "C": "Observation",
+        "D": "Conclusion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Scientific law'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 46,
+      "question": "One nanosecond equals:",
+      "options": {
+        "A": "10⁻³ s",
+        "B": "10⁻⁹ s",
+        "C": "10⁻⁶ s",
+        "D": "10⁻¹² s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '10⁻⁹ s'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 47,
+      "question": "Physics helps in the development of:",
+      "options": {
+        "A": "Literature",
+        "B": "Technology",
+        "C": "History",
+        "D": "Geography"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Technology'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 48,
+      "question": "The first step in solving a scientific problem is:",
+      "options": {
+        "A": "Collecting data",
+        "B": "Recognizing the problem",
+        "C": "Testing a hypothesis",
+        "D": "Repeating the experiment"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Recognizing the problem'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 49,
+      "question": "An instrument used to measure time accurately is:",
+      "options": {
+        "A": "Thermometer",
+        "B": "Stopwatch",
+        "C": "Barometer",
+        "D": "Meter rod"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Stopwatch'. In FBISE Grade 9 Physics Unit 9 (Nature of Science & Fundamental Physics), this is a standard curriculum property and board-examined definition."
+    }
+  ]
+}

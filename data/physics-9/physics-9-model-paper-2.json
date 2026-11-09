@@ -1,0 +1,153 @@
+{
+  "chapterNumber": 11,
+  "chapterTitle": "FBISE Model Paper 2 (Section A Simulator - Units 5-9)",
+  "totalQuestions": 12,
+  "subject": "physics-9",
+  "grade": "9",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Study of motion of an object with the causes of its motion is called:",
+      "options": {
+        "A": "Kinematics",
+        "B": "Dynamics",
+        "C": "Heat",
+        "D": "Plasma physics"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Dynamics. Dynamics is the branch of physics that studies motion of objects along with the forces that cause the motion."
+    },
+    {
+      "id": 2,
+      "question": "______ can change the state of rest or motion and direction of motion of a body.",
+      "options": {
+        "A": "Length",
+        "B": "Momentum",
+        "C": "Force",
+        "D": "Mass"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Force. Force can change speed, direction, or state (rest/motion) of an object."
+    },
+    {
+      "id": 3,
+      "question": "______ of a body is its property due to which it resists any change in its state of rest or motion.",
+      "options": {
+        "A": "Torque",
+        "B": "Momentum",
+        "C": "Force",
+        "D": "Inertia"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Inertia. Inertia is the resistance to change in motion."
+    },
+    {
+      "id": 4,
+      "question": "Momentum is ______ quantity.",
+      "options": {
+        "A": "Scalar",
+        "B": "Vector",
+        "C": "Both",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Vector. Momentum has magnitude and direction → vector."
+    },
+    {
+      "id": 5,
+      "question": "Which property of a body cannot change if a force is applied to it?",
+      "options": {
+        "A": "Mass",
+        "B": "Shape",
+        "C": "Size",
+        "D": "Velocity"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Velocity. Force can change velocity, shape, size but not mass."
+    },
+    {
+      "id": 6,
+      "question": "A body produces ______ when a force acts on it.",
+      "options": {
+        "A": "Energy",
+        "B": "Mass",
+        "C": "Weight",
+        "D": "Acceleration"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Acceleration. Force causes acceleration (F = ma)."
+    },
+    {
+      "id": 7,
+      "question": "One Newton is the force that produces acceleration of ______ in a body of mass 1 kg.",
+      "options": {
+        "A": "2 m/s²",
+        "B": "1 m/s²",
+        "C": "2 m/s",
+        "D": "1 m/s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 1 m/s². 1 N = force needed to produce 1 m/s² in 1 kg mass."
+    },
+    {
+      "id": 8,
+      "question": "The force of gravity acting on a body is known as:",
+      "options": {
+        "A": "Mass",
+        "B": "Weight",
+        "C": "Volume",
+        "D": "Density"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Weight. Weight = gravitational force on body."
+    },
+    {
+      "id": 9,
+      "question": "Weight is measured by:",
+      "options": {
+        "A": "Beam balance",
+        "B": "Spring balance",
+        "C": "Electronic balance",
+        "D": "Both (b) & (c)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Spring balance. Weight is measured using spring or digital balance."
+    },
+    {
+      "id": 10,
+      "question": "Mass is a ______ quantity.",
+      "options": {
+        "A": "Derive",
+        "B": "Vector",
+        "C": "Scalar",
+        "D": "Negative"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Scalar. Mass has only magnitude, no direction → scalar quantity."
+    },
+    {
+      "id": 11,
+      "question": "If a block is hanged with the help of a string, the weight of block is balanced by:",
+      "options": {
+        "A": "Mass",
+        "B": "Tension",
+        "C": "Momentum",
+        "D": "Acceleration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Tension. In equilibrium, upward tension equals downward weight."
+    },
+    {
+      "id": 12,
+      "question": "______ is used to find acceleration due to gravity.",
+      "options": {
+        "A": "Atwood machine",
+        "B": "Physical balance",
+        "C": "Beam balance",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Atwood machine. Atwood machine helps calculate acceleration and gravitational acceleration."
+    }
+  ]
+}

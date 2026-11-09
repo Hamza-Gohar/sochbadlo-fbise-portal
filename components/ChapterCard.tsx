@@ -23,6 +23,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     }
   }, [chapter.slug]);
 
+  const isPhysics9 = chapter.subject === 'physics-9' || chapter.slug.startsWith('physics-9');
   const isUrdu = chapter.subject === 'urdu' || chapter.slug.startsWith('urdu');
   const isMath = chapter.subject === 'math' || chapter.slug.startsWith('math');
   const isEnglish = chapter.subject === 'english' || chapter.slug.startsWith('english');
@@ -36,6 +37,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isPastPapers =
     chapter.slug === 'past-papers' ||
     chapter.slug === 'urdu-model-paper' ||
+    chapter.slug.startsWith('physics-9-model-paper-') ||
     chapter.slug.startsWith('cs-model-paper-') ||
     chapter.slug.startsWith('islamiat-model-paper-') ||
     chapter.slug.startsWith('tarjuma-model-paper-') ||
@@ -43,7 +45,10 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     chapter.slug.startsWith('chemistry-model-paper-');
 
   let tagLabel = `Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
-  if (chapter.slug === 'past-papers') tagLabel = 'Board Simulator';
+  if (chapter.slug === 'physics-9-model-paper-1') tagLabel = 'Class 9 Board Simulator 1';
+  else if (chapter.slug === 'physics-9-model-paper-2') tagLabel = 'Class 9 Board Simulator 2';
+  else if (isPhysics9) tagLabel = `Class 9 · Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (chapter.slug === 'past-papers') tagLabel = 'Board Simulator';
   else if (chapter.slug === 'urdu-model-paper') tagLabel = 'Urdu Full Board Simulator';
   else if (chapter.slug === 'urdu-ilm-e-bayan') tagLabel = 'Urdu Rhetoric (علم بیان)';
   else if (chapter.slug === 'urdu-ilm-e-badi') tagLabel = 'Urdu Figures (علم بدیع)';
@@ -64,7 +69,13 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (isUrdu) tagLabel = `Urdu Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
 
   let description = `Comprehensive conceptual questions, dimensional formulas, and numericals for ${chapter.title} aligned with textbook SLOs.`;
-  if (chapter.slug === 'past-papers') {
+  if (chapter.slug === 'physics-9-model-paper-1') {
+    description = 'Federal Board Section A SSC-I annual examination paper (Units 1-5). Official 12 MCQs, 15-minute exam simulation with complete step-by-step explanations.';
+  } else if (chapter.slug === 'physics-9-model-paper-2') {
+    description = 'Federal Board Section A SSC-I annual examination paper (Units 5-9). Official 12 MCQs, 15-minute exam simulation with complete step-by-step explanations.';
+  } else if (isPhysics9) {
+    description = `Official FBISE SSC-I Class 9 Physics: ${chapter.title}. Core conceptual questions, SI base/derived units, laws of motion, and problem-solving rationales.`;
+  } else if (chapter.slug === 'past-papers') {
     description = 'Official past board exam papers (FBISE 2010–2022). Comprehensive simulation matching the exact 17-mark section A pattern.';
   } else if (chapter.slug === 'urdu-model-paper') {
     description = 'مکمل نصاب پر مشتمل وفاقی بورڈ سالانہ ماڈل پیپر سمیلیٹر۔ 20 نمبروں پر مبنی جامع پرچہ مع مستند تشریحات۔';

@@ -1,0 +1,1125 @@
+{
+  "chapterNumber": 1,
+  "chapterTitle": "Unit 1: Physical Quantities & Measurement",
+  "totalQuestions": 93,
+  "subject": "physics-9",
+  "grade": "9",
+  "questions": [
+    {
+      "id": 1,
+      "question": "___________ is one of the billions of galaxies of known universe.",
+      "options": {
+        "A": "Cygnus A",
+        "B": "Virgo A",
+        "C": "Andromeda",
+        "D": "Milky Way"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Andromeda. Andromeda is a galaxy outside our own milky way.It is one of the billions of galaxies in the known universe."
+    },
+    {
+      "id": 2,
+      "question": "The word science is derived from _______word scientia.",
+      "options": {
+        "A": "Greek",
+        "B": "Latin",
+        "C": "Egyptian",
+        "D": "French"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Latin. The word “science” comes from the Latin word scientia. It means knowledge or understanding."
+    },
+    {
+      "id": 3,
+      "question": "Physical science deals with the study of ________.",
+      "options": {
+        "A": "Living",
+        "B": "non- living",
+        "C": "nature",
+        "D": "none of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Living. Physical sciences studies non-living things like matter and energy. It does not deals with living organisms."
+    },
+    {
+      "id": 4,
+      "question": "A car is made on the principle of ________.",
+      "options": {
+        "A": "mechanics",
+        "B": "thermodynamics",
+        "C": "electricity",
+        "D": "Magnetism"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): mechanics. A car works on the laws of motion and forces. These principles belong to the branch of mechanics."
+    },
+    {
+      "id": 5,
+      "question": "_________ is the study of matter, energy and their interaction.",
+      "options": {
+        "A": "Geography",
+        "B": "chemsitry",
+        "C": "biology",
+        "D": "physics"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): physics. Physics studies matter, energy and how they interact.It explains natural physical phenomenon."
+    },
+    {
+      "id": 6,
+      "question": "Much of the universe is made up of ________.",
+      "options": {
+        "A": "Plasma",
+        "B": "Solid",
+        "C": "liquid",
+        "D": "Gases"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Plasma. Most stars and galaxies are made of plasma. That is why plasma forms most of the universe."
+    },
+    {
+      "id": 7,
+      "question": "______ is a base quantity.",
+      "options": {
+        "A": "mass",
+        "B": "torque",
+        "C": "momentum",
+        "D": "speed"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): mass. Mass is a base quantity. It is not derived from other quantities."
+    },
+    {
+      "id": 8,
+      "question": "Least count of vernier caliper is _________.",
+      "options": {
+        "A": "0.001 cm",
+        "B": "0.01 mm",
+        "C": "0.01 cm",
+        "D": "0.0001 cm"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 0.01 cm. Least count is the smallest value a vernier caliper can measure. For a standard vernier caliper, it is 0.01 cm."
+    },
+    {
+      "id": 9,
+      "question": "Which one of the following is not a derived unit?",
+      "options": {
+        "A": "Electric current",
+        "B": "force",
+        "C": "pressure",
+        "D": "density"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Electric current. Electric current is a base quantity. Force, pressure and density are derived quantities."
+    },
+    {
+      "id": 10,
+      "question": "The volume of one liter cube is _______.",
+      "options": {
+        "A": "10 cm3",
+        "B": "1000 cm3",
+        "C": "1 cm3",
+        "D": "100 cm3"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 1000 cm3. One liter is equal to 1000cubic centimeters. This is the standard volume conversion."
+    },
+    {
+      "id": 11,
+      "question": "The term used internationally for multiples and submultiples is called _______.",
+      "options": {
+        "A": "Scientific notation",
+        "B": "Prefixes",
+        "C": "Standard form",
+        "D": "All of them"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Prefixes. Prefixes like kilo, milli and micro show multiples or submultiples. They help express very large or very small values."
+    },
+    {
+      "id": 12,
+      "question": "One tera is equal to ______.",
+      "options": {
+        "A": "10-12",
+        "B": "10-15",
+        "C": "1012",
+        "D": "1015"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 10-12. The prefix “tera” represents 10 to the power of 12.It means one trillion."
+    },
+    {
+      "id": 13,
+      "question": "_________is the standard form of 170500 m.",
+      "options": {
+        "A": "1.7 × 10^5 m",
+        "B": "170.5 × 103 m",
+        "C": "17.05 × 104 m",
+        "D": "17050.0 × 101 m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 170.5 × 103 m. Standard form expresses numbers using powers of 10. 1705000 m becomes 1.7 x 105 m"
+    },
+    {
+      "id": 14,
+      "question": "________is the total length of vernier scale.",
+      "options": {
+        "A": "15 mm",
+        "B": "10 mm",
+        "C": "5 mm",
+        "D": "9 mm"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 10 mm. Standard form expresses numbers using powers of 10. 1705000 m becomes 1.7 x 105 m. 20 Total number of divisions on vernier scale are _______. (a) 100 (b) 10 (c) 9 (d) 1 EXPLANATION: The vernier scale has 10 divisions. Thee divisions help measure smaller lengths accurately."
+    },
+    {
+      "id": 15,
+      "question": "________telescope orbits around the earth and provide information about stars.",
+      "options": {
+        "A": "COROT",
+        "B": "Swift Gamma ray",
+        "C": "Hubble Space",
+        "D": "MOST"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Hubble Space. The Hubble Space Telescope orbits Earth. It provides detailed Information about stars and galaxies."
+    },
+    {
+      "id": 16,
+      "question": "Zero error is _______of zero correction.",
+      "options": {
+        "A": "negative",
+        "B": "positive",
+        "C": "same",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): negative. Zero error is negative if the instrument reads more than the actual value; zero correction is applied in the opposite direction."
+    },
+    {
+      "id": 17,
+      "question": "One mili litre is equal to ______.",
+      "options": {
+        "A": "1 cm3",
+        "B": "10 dm3",
+        "C": "1 dm3",
+        "D": "10 cm3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 1 cm3. 1 ml equals 1 cubic"
+    },
+    {
+      "id": 18,
+      "question": "If zero line of Vernier scale is on the left side of the zero of the main scale then zero error is __________.",
+      "options": {
+        "A": "positive",
+        "B": "negative",
+        "C": "zero",
+        "D": "none of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): positive. Left shift causes positive zero error."
+    },
+    {
+      "id": 19,
+      "question": "If zero line of Vernier scale is on the right side of the zero of the main scale then zero error is _________.",
+      "options": {
+        "A": "positive",
+        "B": "negative",
+        "C": "zero",
+        "D": "none of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): positive. Right shift causes positive zero error."
+    },
+    {
+      "id": 20,
+      "question": "Least count of micro meter screw gauge is ________.",
+      "options": {
+        "A": "0.001 mm",
+        "B": "0.1 cm",
+        "C": "0.001 cm",
+        "D": "0.01 mm"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 0.01 mm. Micrometer reads 0.01 mm accurately"
+    },
+    {
+      "id": 21,
+      "question": "_________ is the distance between consective thread on the spindle of screw gauge.",
+      "options": {
+        "A": "1 cm",
+        "B": "1 m",
+        "C": "0.01mm",
+        "D": "1 mm"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 1 mm. Pitch is 1 mm in most screw guages. 32.Total number of divisions on circular scale of screw gauge is ____. (a) 50 ✓ (b) 100 (c) 10 (d) 20 EXPLANATION: Circular scale often has 50 divisions. 33.If zero of circular scale coincides with index line, then zero error will be ___. (a) positive (b) negative (c) zero ✓ (d) none of these EXPLANATION: Zero alignment means no error. 34.If zero of circular scale is behind the index line, then zero error will be ____. (a) positive (b) negative ✓ (c) zero (d) none of these EXPLANATION: Behind means negative zero error."
+    },
+    {
+      "id": 22,
+      "question": "If zero of circular scale has crossed the index line, then zero error will be ___.",
+      "options": {
+        "A": "positive ✓",
+        "B": "negative",
+        "C": "zero",
+        "D": "none of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): zero. Crossed index means positive zero error. 36.Least count of digital balance is ____. (a) 0.01 mg (b) 0.001 mg (c) 1 mg ✓ (d) 0.1 mg EXPLANATION:Digital balance usually reads 1 mg. 37.If zero of circular scale is above the index line, then the zero error is to be ___. (a) added ✓ (b) subtracted (c) divided (d) multiplied EXPLANATION:: Above line, add error to reading."
+    },
+    {
+      "id": 23,
+      "question": "____ is the least count of mechanical stopwatch.",
+      "options": {
+        "A": "0.01s",
+        "B": "1 s",
+        "C": "0.1s ✓",
+        "D": "0.001 s"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 0.001 s. Mechanical stopwatch reads 0.1 s. 41.____ is the least count of digital stopwatch. (a) 0.01s ✓ (b) 1 s (c) 0.1 s (d) 0.001 s EXPLANATION: Digital stopwatch is more precise, 0.01 s. 42.Measuring cylinder is used to measure ___. (a) mass (b) weight (c) length (d) volume ✓ EXPLANATION: Cylinder measures liquid volume. 43.Least count of measuring cylinder is __. (a) 0.1 mL ✓ (b) 1 L (c) 0.01 mL (d) 1 mL EXPLANATION: Smallest measurable volume is 0.1 mL."
+    },
+    {
+      "id": 24,
+      "question": "2.0098 has ___significant figures.",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "4",
+        "D": "5 ✓"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 1. All non-zero and middle zeros are significant. 48.Final or ending zeros on the right in the decimal fraction are ____. (a) significant ✓ (b) insignificant (c) constant (d) none of these EXPLANATION: Trailing zeros after decimal are counted as significant. 49.The number of significant numbers in 2.6 × 10^5 is ___. (a) 1 (b) 2 ✓ (c) 3 (d) 4 EXPLANATION: 2.6 has 2 significant figures. 50.Zeros between significant digits are considered as: _____. (a) significant ✓ (b) insignificant (c) constant (d) none of these EXPLANATION: Zeros between digits count as significant."
+    },
+    {
+      "id": 25,
+      "question": "0.00078 has ____significant figures.",
+      "options": {
+        "A": "4",
+        "B": "5",
+        "C": "6",
+        "D": "2 ✓"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 4. Leading zeros are not significant; 7 and 8 count. 52.The diameter of thin wire can be measured by ____. (a) Vernier callipers (b) screw gauge ✓ (c) meter rule (d) measuring tape EXPLANATION: Screw gauge measures very small diameters accurately. 53.___ is the largest quantity from the following. (a) 0.01 g (b) 2 cm ✓ (c) 200 µg (d) 500 ng EXPLANATION: 2 cm is larger than the other small units. 54.A screw gauge has 80 divisions on its circular scale. The pitch of screw gauge is 0.5 mm. ___is the least count of screw gauge. (a) 0.001 mm (b) 0.06 mm (c) 0.01 mm ✓ (d) 0.006 mm EXPLANATION: Least count = Pitch / divisions = 0.5/50 = 0.01 mm. 55.Least count of vernier caliper is also known as (a) Proportionality constant (b) vernier constant ✓ (c) pitch (d) vernier value (e) all of them EXPLANATION: Vernier constant is the same as least count. ADDITIONAL QUESTIONS CHAPTER: 01 MULTIPLE CHOICE QUESTIONS Q1. Which of the following sets include only base quantities? (a) Speed, force, energy (b) Time, mass, temperature ✓ (c)Velocity, acceleration, power (d)Work, momentum, torque Explanation: Time, mass, and temperature are base quantities. Q2. If density is a derived quantity, what could be the base quantities used to express it? (a)Mass and length ✓ (b)Time and length (c)Force and speed (d)Energy and work Explanation: Density depends on mass and volume. Q3. Which of the following is a base quantity? (a)Area (b)Power ( c)Length ✓ (d)Volume Explanation: Length is a fundamental base quantity. Q4. If you’re measuring the force exerted by a moving car, which base quantity are you considering? (a)Time (b)Mass ✓ ( c)Acceleration (d)Velocity Explanation: Force depends on mass and acceleration. Q5. Which of the following is a derived quantity? Time (a) Density ✓ (b) Temperature ( c) Length Explanation: Density is calculated from mass and volume. Q6. When measuring the work done by lifting a box, which base quantity are you assessing? (a) Force ✓ (b) Energy ( c) Power (d)Speed Explanation: Work depends on force and distance. Q7. If you’re calculating the speed of a runner, which base quantity are you utilizing? (a) Force (b) Mass ( c)Distance ✓ (d)Time ✓ Explanation: Speed uses distance and time. Q8. Which of the following is a derived quantity related to motion? (a) Mass (b) Velocity ✓ ( c)Temperature (d) Pressure Explanation: Velocity depends on distance and time. Q9. If you’re measuring the temperature of a substance, which base quantity are you evaluating? (a) Length (b)Time ( c)Mass (d)Temperature ✓ Explanation: Temperature is a base quantity. Q10. When determining the pressure inside a balloon, which base quantity are you considering? (a)Force ✓ (b)Length ( c)Temperature (d)Time Explanation: Pressure depends on force and area. Q11. Which of the following is a derived quantity associated with electricity? (a)Voltage ✓ (b)Mass ( c) Length (d)Temperature Explanation: Voltage is a derived electrical quantity. Q12. If you’re calculating the momentum of an object, which base quantity are you using? (a)Mass ✓ (b)Time ( c)Force (d)Length Explanation: Momentum depends on mass and velocity. Q13. Which of the following is a derived quantity in mechanics? (a)Energy ✓ (b)Length ( c)Time (d)Speed Explanation: Energy is calculated using force and distance. Q14. When measuring the energy consumption of a device, which base quantity are you examining? (a)Time ✓ (b)Mass ( c)Energy (d)Length Explanation: Energy consumption depends on time. Q15. If you’re determining the acceleration of a car, which base quantity are you finding? (a)Velocity (b)Time ✓ ( c)Force (d)Mass Explanation: Acceleration is change in velocity per unit time. Q16. Which of the following is NOT a derived unit in the SI system? (a)Newton (b)Pascal ( c)Ampere ✓ (d)Joule Explanation: Ampere is a base SI unit. Q17. A scientist is measuring the amount of substance in a chemical reaction. Which SI base unit will be appropriate? (a)Kelvin (b)Mole ✓ ( c)Candela (d)Ampere Explanation: Mole is the SI unit for amount of substance. Q18. Which of the following is a base unit for measuring time? (a)Meter (b)Second ✓ ( c)Kelvin (d)Ampere Explanation: Second is the SI base unit of time. Q19. What is the SI unit for measuring temperature? (a)Kelvin ✓ (b)Newton ( c)Pascal (d)Joule Explanation: Kelvin is the SI unit of temperature. Q20. Which SI unit is used to measure electric current? (a)Kelvin (b)Ampere ✓ ( c)Meter (d)Mole Explanation: Ampere is the SI unit of electric current. Q21. What is the SI unit for measuring luminous intensity? (a)Candela ✓ (b)Ampere ( c)Kilogram (d)Meter Explanation: Candela measures light intensity. Q22. Which SI unit measures the amount of substance? (a)Kelvin (b)Candela ( c)Mole ✓ (d)Newton Explanation: Mole measures the amount of substance. Q23. What is the SI unit for measuring mass? (a)Kilogram ✓ (b)Newton ( c)Meter (d)Ampere Explanation: Kilogram is the SI unit of mass. Q24. Which SI unit is used to measure distance? (a)Second (b)Meter ✓ ( c)Kilogram (d)Candela Explanation: Meter is the SI unit of length. Q25. What is the SI unit for measuring force? (a)Newton ✓ (b)Meter ( c)Ampere (d)Pascal Explanation: Newton is the SI unit of force. Q26. Which SI unit measures the brightness of light? ( a)Kelvin (b)Mole ( c)Candela ✓ (d)Ampere Explanation: Candela measures brightness of light. Q27. What is the SI unit for measuring energy? (a)Joule ✓ (b)Pascal ( c)Newton (d)Second Explanation: Joule is the SI unit of energy. Q28. Which SI unit is used to measure pressure? (a)Pascal ✓ (b)Kelvin ( c)Ampere (d)Candela Explanation: Pascal is the SI unit of pressure. Q29. What is the SI unit for measuring power? (a)Watt ✓ (b)Joule ( c)Newton (d)Meter Explanation: Watt is the SI unit of power. Q30. Which physical quantity has both magnitude and direction? (a)Mass (b)Time ( c)Force ✓ (d)Energy Explanation: Force is a vector quantity. Q31. If you push a box with a force of 10 N to the left, which represents the vector quantity? 10 N (a)Left (b)10 ( c)10 N towards the left ✓ Explanation: A vector includes both magnitude and direction. Q32. A vector of 7 units upward and another of 24 units to the right will have a resultant of: (a)17 units (b)25 units ✓ (c )31 units (d)20 units Explanation: Resultant = √(7² + 24²) = 25 units. Q33. When two vectors at right angles have the same magnitude, the resultant: (a)Equals one vector (b)Is twice one vector ( c)Is half one vector (d)Is √2 times one vector ✓ Explanation: Resultant of equal perpendicular vectors is √2 times one vector. Q34. Which tool is most suitable for measuring the length of a football field? (a)Micrometer (b)Vernier caliper ( c)Ruler (d)Measuring tape ✓ Explanation: Measuring tape is best for long distances. Q35. The main advantage of using a vernier caliper is: (a)Measures very large objects (b)Measures internal and external dimensions ✓ ( c)Always digital (d)Most basic tool Explanation: Vernier calipers measure both internal and external sizes. Q36. A micrometer is best used to measure: (a)Thickness of a book (b)Diameter of a hair ✓ ( c)Width of a table (d)Length of a rope Explanation: A micrometer measures very small thicknesses accurately. Q37. Which instrument provides the most precision for short time intervals? (a)Wall clock (b)Sundial ( c)Hourglass (d)Digital timer ✓ Explanation: Digital timers give very precise time readings. (Q38. To measure the time of 10 oscillations of a pendulum, the best tool is: (a)Grandfather clock (b)Digital stopwatch ✓ ( c)Hourglass ( d)Calendar Explanation: A digital stopwatch measures short time intervals accurately. Q39. A timer displaying 12.34 s shows precision up to: (a)1 s (b)1/10 s ( c)1/100 s ✓ (d)1/1000 s Explanation: Two decimal places mean precision of 1/100 s. Q40. What causes random error? (a)Bent ruler (b)Estimation ✓ ( c)Zero error (d)Slow stopwatch Explanation: Random error comes from estimation and unpredictable variation. Q41. Least count of an instrument means: (a)Maximum value (b)Average value ( c)Smallest measurable value ✓ (d)Estimated value Explanation: Least count is the smallest value an instrument can measure. Q42. Why are readings taken multiple times? (a)To complicate experiment (b)To get accurate average ✓ ( c)To waste time (d)To introduce error Explanation: Repeating readings reduces random error. Q43. Which indicates higher precision? (a)Large random error (b)Large systematic error ( c)Small random error ✓ (d)Zero error Explanation: Smaller random error means higher precision. Q44. Which statement is FALSE? (a)Precision means consistency (b)Accuracy means closeness to true value ( c)Precision always guarantees accuracy ✓ (d)Precise but inaccurate is possible Explanation: Precision does not always guarantee accuracy. Q45. A value that deviates greatly from others is called: (a)Consistent value (b)Systematic error ( c)Random error (d)Anomaly ✓ Explanation: A very different reading is called an anomaly. Q46. How many decimal places should 45.678 − 12.34 be rounded to? (a)1 (b)2 ( c)3 (d)4 ✓ Explanation: Result is rounded to the least decimal places used. Q47. Which is NOT a rule of significant figures? (a)Non-zero digits are significant (b)Zeros between digits are significant ( c)Leading zeros are significant ✓ (d)Trailing zeros in decimals are significant Explanation: Leading zeros are not significant. Q48. Which number has three significant figures? (a)1000 (b)0.00105 ✓ ( c)100.5 (d)1050 Explanation: 0.00105 has three significant figures. ADDITIONAL SHORT QUESTIONS"
+    },
+    {
+      "id": 26,
+      "question": "Which of the following sets includes only base quantities?",
+      "options": {
+        "A": "Time, mass, temperature",
+        "B": "Speed, force, energy",
+        "C": "Velocity, acceleration, power",
+        "D": "Work, momentum, torque"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Time, mass, temperature'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 27,
+      "question": "If the density is a derived quantity, what could be the base quantities used to express it?",
+      "options": {
+        "A": "Mass and length",
+        "B": "Time and length",
+        "C": "Force and speed",
+        "D": "Energy and work"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Mass and length'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 28,
+      "question": "Which of the following is a base quantity?",
+      "options": {
+        "A": "Area",
+        "B": "Power",
+        "C": "Length",
+        "D": "Volume"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Length'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 29,
+      "question": "If you're measuring the force exerted by a moving car, which base quantity are you considering?",
+      "options": {
+        "A": "Time",
+        "B": "Mass",
+        "C": "Acceleration",
+        "D": "Velocity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Mass'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is a derived quantity?",
+      "options": {
+        "A": "Length",
+        "B": "Density",
+        "C": "Velocity",
+        "D": "Speed"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Density'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 31,
+      "question": "When measuring the work done by lifting a box, which base quantity are you assessing?",
+      "options": {
+        "A": "Time",
+        "B": "Force",
+        "C": "Temperature",
+        "D": "Power"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Force'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 32,
+      "question": "If you're calculating the speed of a runner, which base quantity are you utilizing?",
+      "options": {
+        "A": "Force",
+        "B": "Mass",
+        "C": "Distance",
+        "D": "Time"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Time'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is a derived quantity related to motion?",
+      "options": {
+        "A": "Mass",
+        "B": "Velocity",
+        "C": "Temperature",
+        "D": "Pressure"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Velocity'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 34,
+      "question": "If you're measuring the temperature of a substance, which base quantity are you evaluating?",
+      "options": {
+        "A": "Length",
+        "B": "Time",
+        "C": "Mass",
+        "D": "Temperature"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Temperature'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 35,
+      "question": "When determining the pressure inside a balloon, which base quantity are you considering?",
+      "options": {
+        "A": "Force",
+        "B": "Length",
+        "C": "Temperature",
+        "D": "Time"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Force'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 36,
+      "question": "Which of the following is a derived quantity associated with electricity?",
+      "options": {
+        "A": "Voltage",
+        "B": "Mass",
+        "C": "Length",
+        "D": "Temperature"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Voltage'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 37,
+      "question": "If you're calculating the momentum of an object, which base quantity are you using?",
+      "options": {
+        "A": "Mass",
+        "B": "Time",
+        "C": "Force",
+        "D": "Speed"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Mass'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 38,
+      "question": "Which of the following is a derived quantity in mechanics?",
+      "options": {
+        "A": "Energy",
+        "B": "Time",
+        "C": "Length",
+        "D": "Speed"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Energy'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 39,
+      "question": "When measuring the energy consumption of a device, which base quantity are you examining?",
+      "options": {
+        "A": "Time",
+        "B": "Mass",
+        "C": "Energy",
+        "D": "Length"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Time'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 40,
+      "question": "If you're determining the acceleration of a car, which base quantity are you finding?",
+      "options": {
+        "A": "Velocity",
+        "B": "Time",
+        "C": "Force",
+        "D": "Mass"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Time'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 41,
+      "question": "Which of the following is NOT a derived unit in the SI system?",
+      "options": {
+        "A": "Newton",
+        "B": "Pascal",
+        "C": "Ampere",
+        "D": "Joule"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Ampere'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 42,
+      "question": "A scientist is measuring the amount of substance in a chemical reaction. Which SI base unit will be appropriate for this measurement?",
+      "options": {
+        "A": "Kelvin",
+        "B": "Mole",
+        "C": "Candela",
+        "D": "Ampere"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Mole'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 43,
+      "question": "Which of the following options correctly matches the SI base unit with its symbol?",
+      "options": {
+        "A": "Ampere-A, Candela-C, Mole-M",
+        "B": "Meter-m, Kilogram-kg, Second-s",
+        "C": "Kelvin-K, Ampere-A, Second-s",
+        "D": "Both b and c"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Both b and c'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 44,
+      "question": "Which of the following is a base unit for measuring time?",
+      "options": {
+        "A": "Meter",
+        "B": "Second",
+        "C": "Kelvin",
+        "D": "Ampere"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Second'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 45,
+      "question": "What is the SI unit for measuring temperature?",
+      "options": {
+        "A": "Kelvin",
+        "B": "Newton",
+        "C": "Pascal",
+        "D": "Joule"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Kelvin'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 46,
+      "question": "Which SI unit is used to measure electric current?",
+      "options": {
+        "A": "Kelvin",
+        "B": "Ampere",
+        "C": "Meter",
+        "D": "Mole"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Ampere'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 47,
+      "question": "What is the SI unit for measuring luminous intensity?",
+      "options": {
+        "A": "Candela",
+        "B": "Ampere",
+        "C": "Newton",
+        "D": "Joule"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Candela'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 48,
+      "question": "Which SI unit measures the amount of substance?",
+      "options": {
+        "A": "Kelvin",
+        "B": "Candela",
+        "C": "Mole",
+        "D": "Newton"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Mole'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 49,
+      "question": "What is the SI unit for measuring mass?",
+      "options": {
+        "A": "Kelvin",
+        "B": "Newton",
+        "C": "Kilogram",
+        "D": "Ampere"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Kilogram'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 50,
+      "question": "Which SI unit is used to measure distance?",
+      "options": {
+        "A": "Second",
+        "B": "Meter",
+        "C": "Kilogram",
+        "D": "Joule"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Meter'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 51,
+      "question": "What is the SI unit for measuring force?",
+      "options": {
+        "A": "Newton",
+        "B": "Meter",
+        "C": "Ampere",
+        "D": "Candela"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Newton'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 52,
+      "question": "Which SI unit measures the brightness of light?",
+      "options": {
+        "A": "Kelvin",
+        "B": "Mole",
+        "C": "Candela",
+        "D": "Pascal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Candela'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 53,
+      "question": "What is the SI unit for measuring energy?",
+      "options": {
+        "A": "Joule",
+        "B": "Pascal",
+        "C": "Newton",
+        "D": "Second"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Joule'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 54,
+      "question": "Which SI unit is used to measure pressure?",
+      "options": {
+        "A": "Pascal",
+        "B": "Joule",
+        "C": "Ampere",
+        "D": "Meter"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Pascal'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 55,
+      "question": "What is the SI unit for measuring power?",
+      "options": {
+        "A": "Watt",
+        "B": "Joule",
+        "C": "Newton",
+        "D": "Candela"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Watt'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 56,
+      "question": "Which one of the following is NOT a base quantity in the International System of Units (SI)?",
+      "options": {
+        "A": "Length",
+        "B": "Mass",
+        "C": "Time",
+        "D": "velocity"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'velocity'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 57,
+      "question": "What is the SI unit of time?",
+      "options": {
+        "A": "Meter (m)",
+        "B": "Second (s)",
+        "C": "Kilogram (kg)",
+        "D": "Kelvin (K)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Second (s)'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 58,
+      "question": "Which of the following is a vector quantity?",
+      "options": {
+        "A": "Mass",
+        "B": "Speed",
+        "C": "Distance",
+        "D": "Velocity"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Velocity'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 59,
+      "question": "Which one of the following is a derived quantity?",
+      "options": {
+        "A": "Length",
+        "B": "Mass",
+        "C": "Area",
+        "D": "Time"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Area'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 60,
+      "question": "What is the derived unit of speed in the SI system?",
+      "options": {
+        "A": "Meter per second (m/s)",
+        "B": "Meter squared (m²)",
+        "C": "Kilogram per cubic meter (kg/m³)",
+        "D": "Second per meter (s/m)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Meter per second (m/s)'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 61,
+      "question": "Which of the following is NOT one of the seven base quantities in the International System of Units (SI)?",
+      "options": {
+        "A": "Time",
+        "B": "Force",
+        "C": "Length",
+        "D": "Mass"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Force'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 62,
+      "question": "What is the SI unit of electric current?",
+      "options": {
+        "A": "Kelvin (K)",
+        "B": "Ampere (A)",
+        "C": "Second (s)",
+        "D": "Candela (cd)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Ampere (A)'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition. Reference key: Ampere."
+    },
+    {
+      "id": 63,
+      "question": "The SI unit for luminous intensity is:",
+      "options": {
+        "A": "Kelvin (K)",
+        "B": "Ampere (A)",
+        "C": "Candela (cd)",
+        "D": "Mole (mol)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Candela (cd)'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition. Reference key: Candela."
+    },
+    {
+      "id": 64,
+      "question": "What is the SI unit for the amount of substance (the number of entities, such as atoms or molecules)?",
+      "options": {
+        "A": "Mole (mol)",
+        "B": "Kilogram (kg)",
+        "C": "Meter (m)",
+        "D": "Second (s)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Mole (mol)'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition. Reference key: Mole."
+    },
+    {
+      "id": 65,
+      "question": "Which of the following is the SI unit for luminous intensity, and is defined by a specific number of vibrations of a cesium atom?",
+      "options": {
+        "A": "Kelvin (K)",
+        "B": "Ampere (A)",
+        "C": "Candela (cd)",
+        "D": "Mole (mol)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Candela (cd)'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition. Reference key: Candela."
+    },
+    {
+      "id": 66,
+      "question": "The SI unit for luminous intensity, the candela (cd), is often used to measure the brightness of:",
+      "options": {
+        "A": "Electric current",
+        "B": "Light sources",
+        "C": "Temperature",
+        "D": "Sound waves"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Light sources'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 67,
+      "question": "Which base quantity represents the measure of a physical system's resistance to changes in motion and is measured in kilograms?",
+      "options": {
+        "A": "Time",
+        "B": "Temperature",
+        "C": "Mass",
+        "D": "Electric current"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Mass'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 68,
+      "question": "The Kelvin (K) is the SI unit of temperature and is based on the properties of:",
+      "options": {
+        "A": "Water",
+        "B": "Hydrogen",
+        "C": "Cesium",
+        "D": "Neon"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Water'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 69,
+      "question": "Which of the following unit is not a derived unit?",
+      "options": {
+        "A": "Pascal",
+        "B": "kilogram",
+        "C": "newton",
+        "D": "watt"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'kilogram'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 70,
+      "question": "Amount of a substance in terms of numbers is measured in:",
+      "options": {
+        "A": "gram",
+        "B": "kilogram",
+        "C": "newton",
+        "D": "mole"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'mole'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 71,
+      "question": "The number of significant figures in 0.00650 s are:",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "6"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '3'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 72,
+      "question": "Which of the following numbers show 4 significant digits?",
+      "options": {
+        "A": "9000.8",
+        "B": "4",
+        "C": "5174.00",
+        "D": "0.001248"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '0.001248'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 73,
+      "question": "Which of the following prefix represents a largest value?",
+      "options": {
+        "A": "mega",
+        "B": "pico",
+        "C": "peta",
+        "D": "kilo"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'peta'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 74,
+      "question": "Micrometer can be used to measure:",
+      "options": {
+        "A": "current",
+        "B": "force",
+        "C": "length",
+        "D": "mass"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'length'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 75,
+      "question": "The instrument best measures the internal diameter of a pipe is:",
+      "options": {
+        "A": "screw gauge",
+        "B": "vernier calipers",
+        "C": "meter rule",
+        "D": "measuring tape"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'vernier calipers'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 76,
+      "question": "Least count of screw gauge is 0.01 mm. If main scale reading is zero and third line of circular scale coincides with datum line, then the measurement is:",
+      "options": {
+        "A": "0 mm",
+        "B": "3 mm",
+        "C": "0.03 mm",
+        "D": "0.3 mm"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '0.03 mm'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 77,
+      "question": "9.483 × 10³ is the standard form of:",
+      "options": {
+        "A": "94.83 m",
+        "B": "9.483 m",
+        "C": "948.3 m",
+        "D": "9483 m"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '9483 m'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 78,
+      "question": "Which of the following is a base unit?",
+      "options": {
+        "A": "pascal",
+        "B": "coulomb",
+        "C": "meter per second",
+        "D": "mole"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'mole'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 79,
+      "question": "The number having one significant digit is:",
+      "options": {
+        "A": "1.1",
+        "B": "6.0",
+        "C": "7.1",
+        "D": "6 × 10²"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): '6 × 10²'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 80,
+      "question": "Ratio of millimeter to micrometer is:",
+      "options": {
+        "A": "1000 metre",
+        "B": "0.001 metre",
+        "C": "1000",
+        "D": "0.001"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '1000'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 81,
+      "question": "0.2 mm in units of meters is:",
+      "options": {
+        "A": "0.0002 m",
+        "B": "2 × 10⁻⁴ m",
+        "C": "both A and B",
+        "D": "none"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'both A and B'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 82,
+      "question": "Identify the base quantity in the following:",
+      "options": {
+        "A": "volume",
+        "B": "density",
+        "C": "force",
+        "D": "current"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'current'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 83,
+      "question": "When expressing 5000 in scientific notation, it becomes:",
+      "options": {
+        "A": "5 × 10²",
+        "B": "5 × 10⁴",
+        "C": "5 × 10³",
+        "D": "0.5 × 10⁴"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '5 × 10³'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 84,
+      "question": "What is the prefix for 10⁶?",
+      "options": {
+        "A": "milli",
+        "B": "kilo",
+        "C": "mega",
+        "D": "giga"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'giga'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 85,
+      "question": "Which is a systematic error?",
+      "options": {
+        "A": "A misread scale",
+        "B": "An unpredictable fluctuation in readings",
+        "C": "Random disturbances in the lab",
+        "D": "Different readings due to human reaction times"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'A misread scale'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 86,
+      "question": "When estimating the size of a large crowd, you are working with:",
+      "options": {
+        "A": "Scientific notation",
+        "B": "Precision",
+        "C": "Order of magnitude",
+        "D": "SI units"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Order of magnitude'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 87,
+      "question": "To ensure accuracy in an experiment, one should:",
+      "options": {
+        "A": "Take multiple readings and find the average",
+        "B": "Only use multiple instruments",
+        "C": "Use the largest instrument available",
+        "D": "Always measure at night"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Take multiple readings and find the average'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 88,
+      "question": "After performing a calculation, rounding off numbers is important for:",
+      "options": {
+        "A": "Accuracy",
+        "B": "Precision",
+        "C": "Clarity in presentation",
+        "D": "Making calculations harder"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Clarity in presentation'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 89,
+      "question": "If an error leads to unpredictable fluctuations in readings, this error can best be categorized as:",
+      "options": {
+        "A": "Human error",
+        "B": "Instrumental error",
+        "C": "Systematic error",
+        "D": "Random error"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Random error'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 90,
+      "question": "Which of the following numbers has three significant figures?",
+      "options": {
+        "A": "100.5",
+        "B": "1000",
+        "C": "0.00105",
+        "D": "1050"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '100.5'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 91,
+      "question": "What is measured using a micrometer?",
+      "options": {
+        "A": "Area",
+        "B": "Current",
+        "C": "Length",
+        "D": "Mass"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Length'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 92,
+      "question": "A student determines the circumference of a football. Which instrument gives a reading that is the circumference of the football?",
+      "options": {
+        "A": "Caliper",
+        "B": "Micrometer",
+        "C": "Ruler",
+        "D": "Tape"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 'Tape'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 93,
+      "question": "In an experiment, a ball is rolled down a curved track that is about half a meter long. Which measuring device is used to measure the length accurately?",
+      "options": {
+        "A": "Meter rule",
+        "B": "Micrometer",
+        "C": "Stop-watch",
+        "D": "Tape measure"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Meter rule'. In FBISE Grade 9 Physics Unit 1 (Physical Quantities & Measurement), this is a standard curriculum property and board-examined definition."
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { ChapterData, ChapterMeta } from './types';
+import { ChapterData, ChapterMeta, SubjectId } from './types';
 
 const PHYSICS_DIR = path.join(process.cwd(), 'data', 'physics-11');
 const URDU_DIR = path.join(process.cwd(), 'data', 'urdu-11');
@@ -11,9 +11,10 @@ const ISLAMIAT_DIR = path.join(process.cwd(), 'data', 'islamiat-11');
 const TARJUMA_DIR = path.join(process.cwd(), 'data', 'tarjuma-11');
 const BIOLOGY_DIR = path.join(process.cwd(), 'data', 'biology-11');
 const CHEMISTRY_DIR = path.join(process.cwd(), 'data', 'chemistry-11');
+const PHYSICS_9_DIR = path.join(process.cwd(), 'data', 'physics-9');
 
 export function getChaptersIndex(
-  subject: 'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry' = 'physics'
+  subject: SubjectId = 'physics'
 ): ChapterMeta[] {
   try {
     let dir = PHYSICS_DIR;
@@ -25,12 +26,14 @@ export function getChaptersIndex(
     else if (subject === 'tarjuma') dir = TARJUMA_DIR;
     else if (subject === 'biology') dir = BIOLOGY_DIR;
     else if (subject === 'chemistry') dir = CHEMISTRY_DIR;
+    else if (subject === 'physics-9') dir = PHYSICS_9_DIR;
 
     const indexPath = path.join(dir, 'chapters-index.json');
     if (fs.existsSync(indexPath)) {
       const content = fs.readFileSync(indexPath, 'utf-8');
       const list: ChapterMeta[] = JSON.parse(content);
-      return list.map((item) => ({ ...item, subject }));
+      const grade = subject === 'physics-9' ? '9' : '11';
+      return list.map((item) => ({ ...item, subject, grade: item.grade || grade }));
     }
   } catch (err) {
     console.error(`Error reading ${subject} chapters-index.json:`, err);
@@ -49,6 +52,7 @@ export function getAllChapters(): ChapterMeta[] {
     ...getChaptersIndex('tarjuma'),
     ...getChaptersIndex('biology'),
     ...getChaptersIndex('chemistry'),
+    ...getChaptersIndex('physics-9'),
   ];
 }
 
@@ -58,12 +62,15 @@ export function getAllSlugs(): string[] {
 
 export function getChapterBySlug(
   slug: string
-): (ChapterData & { slug: string; subject: 'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry' }) | null {
+): (ChapterData & { slug: string; subject: SubjectId }) | null {
   try {
     let targetDir = PHYSICS_DIR;
-    let subject: 'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry' = 'physics';
+    let subject: SubjectId = 'physics';
 
-    if (slug.startsWith('urdu')) {
+    if (slug.startsWith('physics-9')) {
+      targetDir = PHYSICS_9_DIR;
+      subject = 'physics-9';
+    } else if (slug.startsWith('urdu')) {
       targetDir = URDU_DIR;
       subject = 'urdu';
     } else if (slug.startsWith('math')) {
@@ -102,8 +109,9 @@ export function getChapterBySlug(
       };
     }
 
-    // Fallback search across all nine directories
-    const dirMap: Array<[string, 'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry']> = [
+    // Fallback search across all directories
+    const dirMap: Array<[string, SubjectId]> = [
+      [PHYSICS_9_DIR, 'physics-9'],
       [BIOLOGY_DIR, 'biology'],
       [CHEMISTRY_DIR, 'chemistry'],
       [ISLAMIAT_DIR, 'islamiat'],

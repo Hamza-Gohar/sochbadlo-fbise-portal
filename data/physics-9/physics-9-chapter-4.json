@@ -1,0 +1,1389 @@
+{
+  "chapterNumber": 4,
+  "chapterTitle": "Unit 4: Turning Effect of Forces",
+  "totalQuestions": 115,
+  "subject": "physics-9",
+  "grade": "9",
+  "questions": [
+    {
+      "id": 1,
+      "question": "If you have two unlike parallel forces, both with magnitude of 25 N, acting in opposite directions, what is the net force?",
+      "options": {
+        "A": "30 N",
+        "B": "15 N",
+        "C": "0 N",
+        "D": "7.5 N"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 0 N. Unlike parallel forces act in opposite directions. Since both forces are equal (25 N each), they cancel each other. Net force = 25 – 25 = 0 N."
+    },
+    {
+      "id": 2,
+      "question": "If you increase the distance from a pivot point while keeping the applied force constant, what happens to the moment (torque) of force?",
+      "options": {
+        "A": "It increases",
+        "B": "It decreases",
+        "C": "It remains the same",
+        "D": "It depends on the type of force"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): It increases. Torque = Force × perpendicular distance. If distance increases and force remains constant, torque increases."
+    },
+    {
+      "id": 3,
+      "question": "Why can the centre of gravity (COG) be different from the centre of mass (COM) in some cases?",
+      "options": {
+        "A": "Because COG is always at geometric centre",
+        "B": "Because COM depends on mass distribution, while COG depends on mass and gravitational field",
+        "C": "Because COG is used in rotation only",
+        "D": "Because they are always same"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Because COM depends on mass distribution, while COG depends on mass and gravitational field. COM depends only on mass distribution. COG depends on both mass distribution and gravitational field. In non-uniform gravity, they may differ."
+    },
+    {
+      "id": 4,
+      "question": "How is the centre of gravity of a plane lamina found using a plumb line?",
+      "options": {
+        "A": "By measuring distance",
+        "B": "By observing angle",
+        "C": "By marking plumb line direction twice and finding intersection",
+        "D": "By weighing lamina"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): By weighing lamina. Suspend the lamina from two different points and draw vertical lines using a plumb line. Their intersection gives COG."
+    },
+    {
+      "id": 5,
+      "question": "In which situation is object most likely in rotational equilibrium?",
+      "options": {
+        "A": "A seesaw with equal weights on both ends",
+        "B": "Different weights",
+        "C": "No one",
+        "D": "One person at centre"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Different weights. Equal weights at equal distances produce equal and opposite moments → balanced."
+    },
+    {
+      "id": 6,
+      "question": "Primary objective of experiment to verify principle of moments?",
+      "options": {
+        "A": "Measure weight",
+        "B": "Observe motion",
+        "C": "Confirm clockwise moment = anticlockwise moment in equilibrium",
+        "D": "Calculate velocity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Confirm clockwise moment = anticlockwise moment in equilibrium. Principle of moments states: In equilibrium, sum of clockwise moments = sum of anticlockwise moments."
+    },
+    {
+      "id": 7,
+      "question": "A book lying flat on table represents:",
+      "options": {
+        "A": "Stable equilibrium",
+        "B": "Unstable",
+        "C": "Neutral",
+        "D": "Dynamic"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Stable equilibrium. If slightly disturbed, it returns to original position → stable equilibrium."
+    },
+    {
+      "id": 8,
+      "question": "How can the stability of an object be improved?",
+      "options": {
+        "A": "By increasing the height of centre of mass",
+        "B": "By decreasing the base area",
+        "C": "By lowering the centre of mass and increasing the base area",
+        "D": "By adding more weight on top"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): By adding more weight on top. An object is more stable when its centre of gravity is low and its base is wide. This prevents it from toppling easily."
+    },
+    {
+      "id": 9,
+      "question": "What happens to stability if centre of gravity is outside its base of support?",
+      "options": {
+        "A": "Stability increases",
+        "B": "Stability decreases",
+        "C": "Stability remains same",
+        "D": "Object becomes weightless"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Stability decreases. If the line of action of weight falls outside the base, the object topples. Hence stability decreases."
+    },
+    {
+      "id": 10,
+      "question": "When stacking objects, how does stability change as you add more objects (assuming COG remains constant)?",
+      "options": {
+        "A": "Stability increases",
+        "B": "Stability decreases",
+        "C": "Stability remains constant",
+        "D": "Depends on shape"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Stability decreases. As height increases, object becomes easier to topple. Therefore stability decreases."
+    },
+    {
+      "id": 11,
+      "question": "How does stability physics help in racing cars?",
+      "options": {
+        "A": "Making cars heavier",
+        "B": "Designing high centre of mass",
+        "C": "Optimizing weight distribution and lowering centre of gravity for better cornering stability",
+        "D": "Increasing base area to improve speed"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Designing high centre of mass. Racing cars are designed with low centre of gravity and wide base to prevent overturning at high speeds."
+    },
+    {
+      "id": 12,
+      "question": "Which statement is true?",
+      "options": {
+        "A": "Rolling friction > sliding friction",
+        "B": "Sliding friction independent of materials",
+        "C": "Rolling friction occurs due to deformation of object rolling",
+        "D": "Sliding friction occurs only in liquids"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Rolling friction > sliding friction. Rolling friction is mainly due to deformation of surfaces. Sliding friction depends on materials and is usually greater than rolling friction."
+    },
+    {
+      "id": 13,
+      "question": "When brakes are applied to moving bicycle, wheels:",
+      "options": {
+        "A": "Experience increased rolling friction",
+        "B": "Experience sliding friction if they skid",
+        "C": "Only experience air resistance",
+        "D": "No friction"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): No friction. If wheels lock and skid, sliding friction acts instead of rolling friction."
+    },
+    {
+      "id": 14,
+      "question": "Brake pads wear out because of:",
+      "options": {
+        "A": "Weight of vehicle",
+        "B": "Dissipative effect of friction",
+        "C": "Quality of material",
+        "D": "Air and water"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Dissipative effect of friction. Friction converts kinetic energy into heat. This dissipative effect causes wear and tear."
+    },
+    {
+      "id": 15,
+      "question": "Dissipative effect of friction most beneficial in:",
+      "options": {
+        "A": "Sliding on icy road",
+        "B": "Lighting a matchstick",
+        "C": "Pendulum motion",
+        "D": "Planets orbiting"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Lighting a matchstick. Friction produces heat to ignite matchstick — useful energy conversion."
+    },
+    {
+      "id": 16,
+      "question": "As object falls freely under gravity, its speed:",
+      "options": {
+        "A": "Continuously increases",
+        "B": "Decreases due to air resistance",
+        "C": "Remains constant after reaching terminal velocity",
+        "D": "Fluctuates randomly"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Remains constant after reaching terminal velocity. When air resistance equals weight, acceleration becomes zero and speed becomes constant (terminal velocity)."
+    },
+    {
+      "id": 17,
+      "question": "Direction of centripetal force in circular motion:",
+      "options": {
+        "A": "Opposite to motion",
+        "B": "Tangential",
+        "C": "Perpendicular to motion toward centre",
+        "D": "Parallel to motion"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Perpendicular to motion toward centre. Centripetal force always acts towards centre of circle."
+    },
+    {
+      "id": 18,
+      "question": "Maximum load crane can bear if counterweight is 9000 N at 10 m and load is at 30 m?",
+      "options": {
+        "A": "300 N",
+        "B": "2700 N",
+        "C": "3000 N",
+        "D": "27000 N"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 3000 N. Given Data: Counterweight Force(F1): 9000 N Counterweight Distance(d1): 10 m Load Distance(d2): 30 m To find: Maximum Load or F2=? Formula Using Principle of Moments: Counterweight × counterweight distance= Maximum load × Load distance Or F1 x d1 = F2 x d2 Calculation Find the total moment: 9000 x 10 = 90,000 Nm Divide by the load distance: 90,000 / 30 = 3000 N Hence Maximum load or F2 is 3000N Short Explanation Because the load is 3 times further away from the pivot (30m) compared to the counterweight (10m), the maximum weight the crane can hold is 3 times smaller than the counterweight."
+    },
+    {
+      "id": 19,
+      "question": "A uniform rod 40 cm long pivoted at centre O. What is x if balanced?",
+      "options": {
+        "A": "0.5 cm",
+        "B": "10 cm",
+        "C": "5 cm",
+        "D": "15 cm"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 5 cm. Since pivot is at centre, clockwise moment must equal anticlockwise moment. Solving using F × d gives x = 5 cm."
+    },
+    {
+      "id": 20,
+      "question": "A uniform beam pivoted at midpoint. 40 N placed 20 cm left. Which balances it?",
+      "options": {
+        "A": "20 N upward 40 cm right",
+        "B": "20 N downward 40 cm right",
+        "C": "50 N downward 10 cm left",
+        "D": "50 N upward 10 cm left"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 20 N upward 40 cm right. Moment left = 40 × 20 = 800 Nm To balance: F × 40 = 800 F = 20 N downward (opposite moment direction)"
+    },
+    {
+      "id": 21,
+      "question": "To keep object in translational equilibrium:",
+      "options": {
+        "A": "Sum of all forces must be zero",
+        "B": "Positive",
+        "C": "Negative",
+        "D": "Large"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Sum of all forces must be zero. First condition of equilibrium: Net force = 0."
+    },
+    {
+      "id": 22,
+      "question": "Increase in speed in circular motion affects centripetal force how?",
+      "options": {
+        "A": "Decreases",
+        "B": "No effect",
+        "C": "Increases required centripetal force",
+        "D": "Depends on mass"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Increases required centripetal force. Centripetal force = m v² / r If velocity increases, force increases."
+    },
+    {
+      "id": 23,
+      "question": "Kinetic energy when stopped by friction:",
+      "options": {
+        "A": "Converted into potential",
+        "B": "Conserved",
+        "C": "Converted into thermal energy",
+        "D": "Disappears"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Converted into thermal energy. Friction converts kinetic energy into heat."
+    },
+    {
+      "id": 24,
+      "question": "At terminal velocity, acceleration is:",
+      "options": {
+        "A": "Constant maximum",
+        "B": "Increasing",
+        "C": "Zero",
+        "D": "Decreasing"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Zero. Air resistance equals weight → net force = 0 → acceleration = 0."
+    },
+    {
+      "id": 25,
+      "question": "Forces balanced at terminal velocity:",
+      "options": {
+        "A": "Applied and normal",
+        "B": "Gravitational and air resistance",
+        "C": "Magnetic and electrical",
+        "D": "Centripetal and centrifugal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Gravitational and air resistance. Weight downward = air resistance upward."
+    },
+    {
+      "id": 26,
+      "question": "Rolling friction occurs when:",
+      "options": {
+        "A": "Object slides",
+        "B": "Rotates at point only",
+        "C": "Rotates while moving over surface",
+        "D": "No contact"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Object slides. Rolling friction occurs when object both rotates and moves forward."
+    },
+    {
+      "id": 27,
+      "question": "The forces which are parallel to each other and have the same direction are called:",
+      "options": {
+        "A": "same",
+        "B": "like",
+        "C": "unlike",
+        "D": "all of them"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): same. Parallel forces acting in the same direction are called like parallel forces."
+    },
+    {
+      "id": 28,
+      "question": "The forces which are parallel to each other and have opposite directions are called:",
+      "options": {
+        "A": "same",
+        "B": "like",
+        "C": "unlike",
+        "D": "all of them"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): unlike. Parallel forces acting in opposite directions are called unlike parallel forces."
+    },
+    {
+      "id": 29,
+      "question": "Vector quantities are added by:",
+      "options": {
+        "A": "Left hand rule",
+        "B": "Right hand rule",
+        "C": "Head to tail rule",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Head to tail rule. Vectors are added using the head-to-tail rule or parallelogram law."
+    },
+    {
+      "id": 30,
+      "question": "______ forces can turn an object if not acting in line.",
+      "options": {
+        "A": "same",
+        "B": "like",
+        "C": "unlike",
+        "D": "all of them"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): unlike. Any force (like or unlike) can produce turning effect if its line of action does not pass through pivot."
+    },
+    {
+      "id": 31,
+      "question": "Splitting vectors into perpendicular components is known as:",
+      "options": {
+        "A": "multiplication",
+        "B": "addition",
+        "C": "division",
+        "D": "resolution of vectors"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): resolution of vectors. Breaking a vector into horizontal and vertical components is called resolution."
+    },
+    {
+      "id": 32,
+      "question": "X-component of a vector is called:",
+      "options": {
+        "A": "horizontal component",
+        "B": "vertical component",
+        "C": "y-component",
+        "D": "none"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): horizontal component. X-axis is horizontal direction."
+    },
+    {
+      "id": 33,
+      "question": "Y-component of a force is called:",
+      "options": {
+        "A": "horizontal",
+        "B": "vertical",
+        "C": "y-component",
+        "D": "both b and c"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): y-component. Y-component is vertical component."
+    },
+    {
+      "id": 34,
+      "question": "At what angle are x and y components equal?",
+      "options": {
+        "A": "180°",
+        "B": "45°",
+        "C": "35°",
+        "D": "90°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 45°. At 45°, sin45° = cos45°, so components are equal."
+    },
+    {
+      "id": 35,
+      "question": "Direction of force F with x-axis is:",
+      "options": {
+        "A": "tan⁻¹(Fy / Fx)",
+        "B": "sin⁻¹(Fy / Fx)",
+        "C": "cos⁻¹(Fy / Fx)",
+        "D": "tan⁻¹(Fx / Fy)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): tan⁻¹(Fy / Fx). tanθ = Fy / Fx θ = tan⁻¹(Fy/Fx)"
+    },
+    {
+      "id": 36,
+      "question": "Door opens or closes due to:",
+      "options": {
+        "A": "couple",
+        "B": "torque",
+        "C": "acceleration",
+        "D": "velocity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): torque. Turning effect of force is called torque."
+    },
+    {
+      "id": 37,
+      "question": "Clockwise torque is considered:",
+      "options": {
+        "A": "positive",
+        "B": "negative",
+        "C": "opposite",
+        "D": "perpendicular"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): negative. By sign convention in physics, clockwise torque is negative."
+    },
+    {
+      "id": 38,
+      "question": "Anticlockwise torque is considered:",
+      "options": {
+        "A": "positive",
+        "B": "negative",
+        "C": "opposite",
+        "D": "perpendicular"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): positive. Anticlockwise torque is taken as positive by convention."
+    },
+    {
+      "id": 39,
+      "question": "SI unit of torque:",
+      "options": {
+        "A": "Newton",
+        "B": "Nm⁻¹",
+        "C": "Nm⁻²",
+        "D": "Nm"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Newton. Torque = Force × distance Unit = Newton × metre = Nm"
+    },
+    {
+      "id": 40,
+      "question": "Turning effect depends upon:",
+      "options": {
+        "A": "force",
+        "B": "moment arm",
+        "C": "both (a) and (b)",
+        "D": "none"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): force. Torque = Force × perpendicular distance."
+    },
+    {
+      "id": 41,
+      "question": "A spanner having long arm helps to do work with:",
+      "options": {
+        "A": "greater",
+        "B": "little",
+        "C": "less",
+        "D": "smaller force"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): less. Longer arm increases moment arm, so less force is needed."
+    },
+    {
+      "id": 42,
+      "question": "Perpendicular distance between line of action and axis is called:",
+      "options": {
+        "A": "moment of force",
+        "B": "force",
+        "C": "moment arm",
+        "D": "torque"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): moment arm. Moment arm is perpendicular distance from pivot to force."
+    },
+    {
+      "id": 43,
+      "question": "A force of 150 N loosens a nut when applied at end of 10 cm spanner. What should be length of spanner to loosen same nut with 60 N force?",
+      "options": {
+        "A": "2.5 m",
+        "B": "25 cm",
+        "C": "0.25 cm",
+        "D": "25 m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 25 cm. Torque = Force × distance 150 × 10 = 60 × L 1500 = 60L L = 25 cm"
+    },
+    {
+      "id": 44,
+      "question": "A force of 150 N loosens a nut with 10 cm spanner. What force is needed if spanner is 6 cm long?",
+      "options": {
+        "A": "2.5 N",
+        "B": "255 N",
+        "C": "250 N",
+        "D": "255N"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 250 N. 150 × 10 = F × 6 1500 = 6F F = 250 N"
+    },
+    {
+      "id": 45,
+      "question": "Two children sitting on seesaw cannot swing. Turning effect produced is:",
+      "options": {
+        "A": "zero",
+        "B": "negative",
+        "C": "positive",
+        "D": "maximum"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): zero. If they cannot swing, net torque = 0."
+    },
+    {
+      "id": 46,
+      "question": "A point where applied force causes system to move without rotation is called:",
+      "options": {
+        "A": "centre of parallelogram",
+        "B": "centre of gravity",
+        "C": "centre point of axis",
+        "D": "centre of mass"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): centre of mass. If force passes through centre of mass, object translates without rotation."
+    },
+    {
+      "id": 47,
+      "question": "A system moves without rotation if force acts:",
+      "options": {
+        "A": "near centre of mass",
+        "B": "far from centre",
+        "C": "at centre of mass",
+        "D": "none"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): at centre of mass. Force through centre of mass produces no torque."
+    },
+    {
+      "id": 48,
+      "question": "A point where whole weight appears to act is:",
+      "options": {
+        "A": "couple",
+        "B": "centre of mass",
+        "C": "centre of gravity",
+        "D": "centre point"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): centre of gravity. Centre of gravity is point where total weight acts."
+    },
+    {
+      "id": 49,
+      "question": "Position of centre of gravity depends upon:",
+      "options": {
+        "A": "shape",
+        "B": "size",
+        "C": "mass",
+        "D": "weight"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): shape. COG location mainly depends on shape and mass distribution."
+    },
+    {
+      "id": 50,
+      "question": "Two unlike parallel forces of same magnitude not along same line form a:",
+      "options": {
+        "A": "torque",
+        "B": "moment of force",
+        "C": "moment arm",
+        "D": "couple"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): couple. A couple consists of two equal and opposite forces separated by distance."
+    },
+    {
+      "id": 51,
+      "question": "Double arm spanner is example of:",
+      "options": {
+        "A": "torque",
+        "B": "couple",
+        "C": "moment of force",
+        "D": "moment arm"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): couple. Two equal opposite forces applied form a couple."
+    },
+    {
+      "id": 52,
+      "question": "Centre of gravity of uniform square, rectangle, parallelogram is:",
+      "options": {
+        "A": "centre point of axis",
+        "B": "intersection of diagonals",
+        "C": "intersection of medians",
+        "D": "centre of parallelogram"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): intersection of diagonals. For uniform shapes, COG lies at intersection of diagonals."
+    },
+    {
+      "id": 53,
+      "question": "Centre of gravity of uniform triangular sheet is:",
+      "options": {
+        "A": "centre point of axis",
+        "B": "intersection of diagonals",
+        "C": "intersection of medians",
+        "D": "centre of parallelogram"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): intersection of medians. In triangle, COG lies at centroid (intersection of medians)."
+    },
+    {
+      "id": 54,
+      "question": "Centre of gravity of uniform solid or hollow cylinder is:",
+      "options": {
+        "A": "centre point of axis",
+        "B": "intersection diagonals",
+        "C": "intersection medians",
+        "D": "centre parallelogram"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): centre parallelogram. For symmetric cylinder, COG is at geometric centre."
+    },
+    {
+      "id": 55,
+      "question": "Centre of gravity of regular objects is always at:",
+      "options": {
+        "A": "centre",
+        "B": "symmetry",
+        "C": "axis",
+        "D": "medians"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): symmetry. COG lies along axis of symmetry."
+    },
+    {
+      "id": 56,
+      "question": "Centre of gravity of uniform ring and disc is:",
+      "options": {
+        "A": "centre point of axis",
+        "B": "intersection diagonals",
+        "C": "intersection medians",
+        "D": "at centre"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): at centre. For circular objects, COG is at centre."
+    },
+    {
+      "id": 57,
+      "question": "Example of couple:",
+      "options": {
+        "A": "turning door knob",
+        "B": "opening bottle cap",
+        "C": "rotation of pencil",
+        "D": "steering wheel of car"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): steering wheel of car. Steering wheel is rotated by applying two opposite forces forming a couple."
+    },
+    {
+      "id": 58,
+      "question": "A body continues rest or uniform motion if:",
+      "options": {
+        "A": "net force",
+        "B": "net torque",
+        "C": "no net force",
+        "D": "no net torque"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): net force. Newton’s first law: if net force is zero, motion remains uniform."
+    },
+    {
+      "id": 59,
+      "question": "A body is said to be in ___ if no net force acts:",
+      "options": {
+        "A": "equilibrium",
+        "B": "rest",
+        "C": "motion",
+        "D": "none"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): equilibrium. First condition of equilibrium: net force zero."
+    },
+    {
+      "id": 60,
+      "question": "A body in equilibrium remains at rest or moves:",
+      "options": {
+        "A": "with constant speed",
+        "B": "with uniform velocity",
+        "C": "with zero acceleration",
+        "D": "both (b) and (c)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): with uniform velocity. In equilibrium, net force = 0 → acceleration = 0. So body either remains at rest or moves with uniform velocity."
+    },
+    {
+      "id": 61,
+      "question": "A force of 20 N makes an angle of 30° with horizontal. Its vertical component is:",
+      "options": {
+        "A": "19.7 N",
+        "B": "3.08 N",
+        "C": "10 N",
+        "D": "0.01 N"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 10 N. Vertical component = F sinθ = 20 × sin30° = 20 × 0.5 = 10 N"
+    },
+    {
+      "id": 62,
+      "question": "According to first condition of equilibrium, net force acting on body is:",
+      "options": {
+        "A": "positive",
+        "B": "negative",
+        "C": "zero",
+        "D": "all"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): zero. First condition: ∑F = 0."
+    },
+    {
+      "id": 63,
+      "question": "First condition of equilibrium is represented by:",
+      "options": {
+        "A": "∑Fx = 0",
+        "B": "∑Fy = 0",
+        "C": "∑F = 0",
+        "D": "all of them"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): ∑Fx = 0. For equilibrium: Sum of forces in x-direction = 0 Sum in y-direction = 0 Therefore total force = 0."
+    },
+    {
+      "id": 64,
+      "question": "A body satisfies second condition of equilibrium when net ___ is zero.",
+      "options": {
+        "A": "torque",
+        "B": "force",
+        "C": "moment",
+        "D": "velocity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): torque. Second condition: ∑Torque = 0."
+    },
+    {
+      "id": 65,
+      "question": "A body returns to its previous position after slight tilt. It is in:",
+      "options": {
+        "A": "neutral",
+        "B": "stable equilibrium",
+        "C": "unstable",
+        "D": "none"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): stable equilibrium. In stable equilibrium, COG rises when disturbed and returns back."
+    },
+    {
+      "id": 66,
+      "question": "A body does not return to previous position after slight tilt. It is in:",
+      "options": {
+        "A": "neutral",
+        "B": "stable",
+        "C": "unstable equilibrium",
+        "D": "none"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): unstable equilibrium. In unstable equilibrium, slight disturbance makes it fall away."
+    },
+    {
+      "id": 67,
+      "question": "If a body remains in new position when disturbed, it is in:",
+      "options": {
+        "A": "neutral equilibrium",
+        "B": "stable",
+        "C": "unstable",
+        "D": "none"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): neutral equilibrium. In neutral equilibrium, COG remains at same height after disturbance."
+    },
+    {
+      "id": 68,
+      "question": "In stable equilibrium, centre of gravity is at:",
+      "options": {
+        "A": "lowest position",
+        "B": "highest position",
+        "C": "centre",
+        "D": "same"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): lowest position. Stable equilibrium occurs when COG is lowest."
+    },
+    {
+      "id": 69,
+      "question": "In unstable equilibrium, centre of gravity is at:",
+      "options": {
+        "A": "lowest",
+        "B": "highest position",
+        "C": "centre",
+        "D": "same"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): highest position. Unstable equilibrium occurs when COG is at highest point."
+    },
+    {
+      "id": 70,
+      "question": "Motion of a ball on ground is example of:",
+      "options": {
+        "A": "stable",
+        "B": "unstable",
+        "C": "neutral",
+        "D": "none"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): neutral. When ball rolls, height of COG remains same → neutral equilibrium."
+    },
+    {
+      "id": 71,
+      "question": "Height of racing car is kept low to:",
+      "options": {
+        "A": "increase weight",
+        "B": "increase COG",
+        "C": "lower centre of gravity",
+        "D": "decrease width"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): increase COG. Lower COG increases stability at high speeds."
+    },
+    {
+      "id": 72,
+      "question": "Steering wheel radius 20 cm, couple of 60 N produces torque:",
+      "options": {
+        "A": "12 Nm",
+        "B": "1200 Nm",
+        "C": "24 Nm",
+        "D": "240 Nm"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 24 Nm. Torque of couple = Force × diameter Diameter = 2 × 0.2 m = 0.4 m Torque = 60 × 0.4 = 24 Nm"
+    },
+    {
+      "id": 73,
+      "question": "A force of 10 N makes angle 90° with x-axis. Its horizontal component:",
+      "options": {
+        "A": "10 N",
+        "B": "5 N",
+        "C": "0 N",
+        "D": "90 N"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 10 N. Horizontal component = F cos90° = 10 × 0 = 0."
+    },
+    {
+      "id": 74,
+      "question": "Right angled triangle base 4 cm, perpendicular 3 cm. Hypotenuse is:",
+      "options": {
+        "A": "5 m",
+        "B": "25 m",
+        "C": "5 cm",
+        "D": "25 cm"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 5 cm. Using Pythagoras: √(4² + 3²) = √(16 + 9) = √25 = 5 cm."
+    },
+    {
+      "id": 75,
+      "question": "Ceiling fan rotating at constant speed is in equilibrium as net ___ is zero.",
+      "options": {
+        "A": "speed",
+        "B": "displacement",
+        "C": "torque",
+        "D": "couple"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): torque. Constant speed means no angular acceleration → net torque = 0."
+    },
+    {
+      "id": 76,
+      "question": "Momentum is the product of:",
+      "options": {
+        "A": "Mass and velocity",
+        "B": "Force and time",
+        "C": "Acceleration and time",
+        "D": "Weight and speed"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Mass and velocity'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 77,
+      "question": "SI unit of momentum is:",
+      "options": {
+        "A": "kg·s",
+        "B": "kg·m/s",
+        "C": "m/s²",
+        "D": "N·s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'kg·m/s'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 78,
+      "question": "The formula of momentum is:",
+      "options": {
+        "A": "p = m/a",
+        "B": "p = F × t",
+        "C": "p = m × v",
+        "D": "p = v/m"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'p = m × v'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 79,
+      "question": "Newton’s second law in terms of momentum is:",
+      "options": {
+        "A": "F = ma",
+        "B": "F = Δp/Δt",
+        "C": "F = mv",
+        "D": "F = m/v"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'F = Δp/Δt'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 80,
+      "question": "The change in momentum is also known as:",
+      "options": {
+        "A": "Force",
+        "B": "Inertia",
+        "C": "Impulse",
+        "D": "Weight"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Impulse'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 81,
+      "question": "The product of force and time is called:",
+      "options": {
+        "A": "Work",
+        "B": "Energy",
+        "C": "Impulse",
+        "D": "Power"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Impulse'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 82,
+      "question": "SI unit of impulse is:",
+      "options": {
+        "A": "N·s",
+        "B": "J/s",
+        "C": "kg·m",
+        "D": "kg/s"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'N·s'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 83,
+      "question": "Impulse is equal to:",
+      "options": {
+        "A": "Force × distance",
+        "B": "Force × time",
+        "C": "Force ÷ time",
+        "D": "Force + time"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Force × time'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 84,
+      "question": "If force = 10 N and time = 2 s, impulse = ?",
+      "options": {
+        "A": "5 N·s",
+        "B": "20 N·s",
+        "C": "12 N·s",
+        "D": "8 N·s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '20 N·s'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 85,
+      "question": "The law of conservation of momentum states that momentum remains conserved when:",
+      "options": {
+        "A": "No external force acts on the system",
+        "B": "Gravity acts",
+        "C": "Force is applied",
+        "D": "Acceleration is zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'No external force acts on the system'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 86,
+      "question": "A light body and a heavy body have the same momentum. Which has more velocity?",
+      "options": {
+        "A": "Light body",
+        "B": "Heavy body",
+        "C": "Both equal",
+        "D": "Cannot say"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Light body'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 87,
+      "question": "A truck and a bicycle moving with the same velocity. Which has more momentum?",
+      "options": {
+        "A": "Truck",
+        "B": "Bicycle",
+        "C": "Both same",
+        "D": "Depends on acceleration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Truck'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 88,
+      "question": "The momentum of a stationary body is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "Maximum",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '0'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 89,
+      "question": "Unit of force in terms of momentum is:",
+      "options": {
+        "A": "N = kg·m/s²",
+        "B": "N = kg·m",
+        "C": "N = m/s",
+        "D": "N = kg·m²"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'N = kg·m/s²'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 90,
+      "question": "Momentum is a:",
+      "options": {
+        "A": "Scalar quantity",
+        "B": "Vector quantity",
+        "C": "Constant quantity",
+        "D": "Unitless"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Vector quantity'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 91,
+      "question": "What increases momentum?",
+      "options": {
+        "A": "Increase in velocity",
+        "B": "Decrease in mass",
+        "C": "Zero force",
+        "D": "Rest"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Increase in velocity'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 92,
+      "question": "When time of impact increases, force:",
+      "options": {
+        "A": "Decreases",
+        "B": "Increases",
+        "C": "Remains same",
+        "D": "Becomes zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Decreases'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 93,
+      "question": "Airbags in vehicles reduce injuries by:",
+      "options": {
+        "A": "Increasing momentum",
+        "B": "Increasing time of impact",
+        "C": "Decreasing force applied",
+        "D": "Reducing mass"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Increasing time of impact'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 94,
+      "question": "A force of 5 N acts for 3 seconds. The impulse is:",
+      "options": {
+        "A": "2 N·s",
+        "B": "15 N·s",
+        "C": "8 N·s",
+        "D": "5 N·s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '15 N·s'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 95,
+      "question": "Impulse has the same unit as:",
+      "options": {
+        "A": "Momentum",
+        "B": "Work",
+        "C": "Energy",
+        "D": "Power"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Momentum'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 96,
+      "question": "The greater the time of impact, the smaller the:",
+      "options": {
+        "A": "Force experienced",
+        "B": "Velocity",
+        "C": "Momentum",
+        "D": "Distance"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Force experienced'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 97,
+      "question": "A body of mass 4 kg moves with velocity 5 m/s. Its momentum is:",
+      "options": {
+        "A": "9 kg·m/s",
+        "B": "10 N",
+        "C": "20 kg·m/s",
+        "D": "2 N"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '20 kg·m/s'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 98,
+      "question": "A cricket player lowers his hands while catching the ball to:",
+      "options": {
+        "A": "Increase force",
+        "B": "Change direction",
+        "C": "Reduce impact force",
+        "D": "Throw faster"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Reduce impact force'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 99,
+      "question": "When two objects collide, their total momentum:",
+      "options": {
+        "A": "Becomes zero",
+        "B": "Remains conserved",
+        "C": "Becomes negative",
+        "D": "Doubles"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Remains conserved'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 100,
+      "question": "Which law explains rocket propulsion?",
+      "options": {
+        "A": "Newton’s first law",
+        "B": "Newton’s third law",
+        "C": "Conservation of mass",
+        "D": "Coulomb's law"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Newton’s third law'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 101,
+      "question": "Which one is NOT a unit of momentum?",
+      "options": {
+        "A": "kg·m/s",
+        "B": "N/m",
+        "C": "Ns",
+        "D": "All are correct"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'N/m'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 102,
+      "question": "The momentum of a 1 kg ball moving at 10 m/s is:",
+      "options": {
+        "A": "100 N",
+        "B": "10 kg·m/s",
+        "C": "9.8 kg·m/s",
+        "D": "0"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '10 kg·m/s'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 103,
+      "question": "Force can be defined as:",
+      "options": {
+        "A": "Rate of change of velocity",
+        "B": "Rate of change of momentum",
+        "C": "Rate of change of energy",
+        "D": "Rate of change of impulse"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Rate of change of momentum'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 104,
+      "question": "Action and reaction forces are:",
+      "options": {
+        "A": "Unequal in magnitude",
+        "B": "Equal and opposite",
+        "C": "Same direction",
+        "D": "Acting on same body"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Equal and opposite'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 105,
+      "question": "Momentum is conserved only when:",
+      "options": {
+        "A": "Air resistance acts",
+        "B": "Gravity changes",
+        "C": "No external force acts",
+        "D": "The mass remains constant"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'No external force acts'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 106,
+      "question": "A moving object comes to rest, its final momentum is:",
+      "options": {
+        "A": "Zero",
+        "B": "Equal to initial",
+        "C": "Doubled",
+        "D": "Same"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Zero'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 107,
+      "question": "Which quantity can be both positive and negative?",
+      "options": {
+        "A": "Mass",
+        "B": "Momentum",
+        "C": "Speed",
+        "D": "Time"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Momentum'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 108,
+      "question": "Recoil of a gun is an example of:",
+      "options": {
+        "A": "Acceleration",
+        "B": "Conservation of momentum",
+        "C": "Change in mass",
+        "D": "Impulse"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Conservation of momentum'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 109,
+      "question": "The SI unit of mass is:",
+      "options": {
+        "A": "Kilogram",
+        "B": "Newton",
+        "C": "m/s",
+        "D": "g·cm/s"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Kilogram'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 110,
+      "question": "The SI unit of velocity is:",
+      "options": {
+        "A": "m/s²",
+        "B": "m/s",
+        "C": "N",
+        "D": "kg·m/s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'm/s'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 111,
+      "question": "A football of mass 0.5 kg moves at 8 m/s. What is its momentum?",
+      "options": {
+        "A": "8 kg·m/s",
+        "B": "2 kg·m/s",
+        "C": "4 kg·m/s",
+        "D": "16 kg·m/s"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '4 kg·m/s'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 112,
+      "question": "The impulse experienced by an object is equal to:",
+      "options": {
+        "A": "Change in momentum",
+        "B": "Product of distance and force",
+        "C": "Force squared",
+        "D": "Mass × gravity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Change in momentum'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 113,
+      "question": "The greater the force, the greater the:",
+      "options": {
+        "A": "Change in momentum",
+        "B": "Time of motion",
+        "C": "Direction of friction",
+        "D": "Mass of object"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Change in momentum'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 114,
+      "question": "A body moving with uniform velocity has:",
+      "options": {
+        "A": "Increasing momentum",
+        "B": "Constant momentum",
+        "C": "Decreasing momentum",
+        "D": "Zero impulse"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Constant momentum'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 115,
+      "question": "The principle of conservation of momentum is derived from:",
+      "options": {
+        "A": "First law",
+        "B": "Second and third laws",
+        "C": "Law of inertia",
+        "D": "Friction law"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Second and third laws'. In FBISE Grade 9 Physics Unit 4 (Turning Effect of Forces), this is a standard curriculum property and board-examined definition."
+    }
+  ]
+}

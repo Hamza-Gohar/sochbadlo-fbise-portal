@@ -14,6 +14,7 @@ export default function HomePage() {
   const csChapters = getChaptersIndex('cs');
   const islamiatChapters = getChaptersIndex('islamiat');
   const tarjumaChapters = getChaptersIndex('tarjuma');
+  const physics9Chapters = getChaptersIndex('physics-9');
 
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const biologyTotal = biologyChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -24,6 +25,7 @@ export default function HomePage() {
   const csTotal = csChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const islamiatTotal = islamiatChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const tarjumaTotal = tarjumaChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const physics9Total = physics9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
 
   const totalQuestions =
     physicsTotal +
@@ -34,7 +36,8 @@ export default function HomePage() {
     englishTotal +
     csTotal +
     islamiatTotal +
-    tarjumaTotal;
+    tarjumaTotal +
+    physics9Total;
   const totalModules =
     physicsChapters.length +
     biologyChapters.length +
@@ -44,7 +47,8 @@ export default function HomePage() {
     englishChapters.length +
     csChapters.length +
     islamiatChapters.length +
-    tarjumaChapters.length;
+    tarjumaChapters.length +
+    physics9Chapters.length;
 
   return (
     <div className="min-h-screen flex flex-col justify-between">
@@ -57,15 +61,15 @@ export default function HomePage() {
             <div className="max-w-3xl">
               <div className="inline-flex items-center gap-2 px-2.5 py-1 border border-[var(--color-rule-2)] text-xs font-mono uppercase tracking-widest text-[var(--color-muted)] mb-4 bg-[var(--color-paper-2)]">
                 <span className="w-1.5 h-1.5 rounded-full bg-emerald-600"></span>
-                Official FBISE Curriculum Preparation Portal
+                Official FBISE Curriculum Preparation Portal · Class 9th & 11th
               </div>
               <h1 className="font-[family-name:var(--font-display)] text-3xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-[var(--color-ink)] leading-[1.05] mb-5">
-                FBISE Class 11th Examination Testing & Preparation Platform
+                FBISE Examination Testing & Preparation Platform
               </h1>
               <p className="text-base sm:text-lg text-[var(--color-ink-2)] max-w-2xl leading-relaxed font-[family-name:var(--font-body)]">
-                Master Federal Board Intermediate examinations across all 9 subjects with authentic chapter-wise test series, instant conceptual explanations,
-                Biology (حیاتیات), Chemistry (کیمسٹری with Lecturer Ayesha Amjad rationales), Physics formulas,
-                English syntax & poetic devices, Urdu literature and rhetoric (علمِ بیان و علمِ بدیع), Islamiat Compulsory (اسلامیات لازمی),
+                Master Federal Board SSC-I (Matric Part 1) and HSSC-I (Intermediate Part 1) examinations with authentic chapter-wise test series, instant conceptual explanations,
+                Class 9th Physics (9 units + 2 Section A annual simulators), Biology (حیاتیات), Chemistry (کیمسٹری with Lecturer Ayesha Amjad rationales),
+                Physics formulas, English syntax & poetic devices, Urdu literature and rhetoric (علمِ بیان و علمِ بدیع), Islamiat Compulsory (اسلامیات لازمی),
                 Tarjuma-tul-Quran (ترجمۃ القرآن المجید), Mathematics step-by-step problem solving, Computer Science logic, and timed board exam simulations.
               </p>
             </div>
@@ -111,6 +115,7 @@ export default function HomePage() {
           tarjumaChapters={tarjumaChapters}
           biologyChapters={biologyChapters}
           chemistryChapters={chemistryChapters}
+          physics9Chapters={physics9Chapters}
         />
 
         {/* Hallmark Editorial Note & Exam Tips */}

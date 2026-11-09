@@ -1,0 +1,1689 @@
+{
+  "chapterNumber": 3,
+  "chapterTitle": "Unit 3: Dynamics",
+  "totalQuestions": 140,
+  "subject": "physics-9",
+  "grade": "9",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Study of motion of an object with the causes of its motion is called:",
+      "options": {
+        "A": "Kinematics",
+        "B": "Dynamics",
+        "C": "Heat",
+        "D": "Plasma physics"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Dynamics. Dynamics is the branch of physics that studies motion of objects along with the forces that cause the motion."
+    },
+    {
+      "id": 2,
+      "question": "Laws of motion are presented by:",
+      "options": {
+        "A": "Einstein",
+        "B": "Galileo",
+        "C": "Isaac Newton",
+        "D": "Archimedes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Isaac Newton. The three laws of motion were formulated by Sir Isaac Newton."
+    },
+    {
+      "id": 3,
+      "question": "Laws of motion are described in the famous book of Isaac Newton:",
+      "options": {
+        "A": "Al-Manazir",
+        "B": "Kitab-ul-Astrabal",
+        "C": "Principia Mathematica",
+        "D": "Qanoon-ul-Masoodi"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Principia Mathematica. Newton published his laws in the book \"Philosophiæ Naturalis Principia Mathematica\" in 1687."
+    },
+    {
+      "id": 4,
+      "question": "______ can change the state of rest or motion and direction of motion of a body.",
+      "options": {
+        "A": "Length",
+        "B": "Momentum",
+        "C": "Force",
+        "D": "Mass"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Force. Force can change speed, direction, or state (rest/motion) of an object."
+    },
+    {
+      "id": 5,
+      "question": "Who observed that it is easy to move or stop light objects than heavier ones?",
+      "options": {
+        "A": "Einstein",
+        "B": "Galileo",
+        "C": "Isaac Newton",
+        "D": "Archimedes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Galileo. Galileo observed that heavier objects resist motion more than lighter ones."
+    },
+    {
+      "id": 6,
+      "question": "Newton’s first law of motion is also known as law of:",
+      "options": {
+        "A": "Inertia",
+        "B": "Mass",
+        "C": "Momentum",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Inertia. First law explains inertia — resistance to change in motion."
+    },
+    {
+      "id": 7,
+      "question": "______ of a body is its property due to which it resists any change in its state of rest or motion.",
+      "options": {
+        "A": "Torque",
+        "B": "Momentum",
+        "C": "Force",
+        "D": "Inertia"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Inertia. Inertia is the resistance to change in motion."
+    },
+    {
+      "id": 8,
+      "question": "Inertia of a body depends on:",
+      "options": {
+        "A": "Length",
+        "B": "Momentum",
+        "C": "Force",
+        "D": "Mass"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Mass. Greater mass means greater inertia."
+    },
+    {
+      "id": 9,
+      "question": "______ is the quantity of motion of body possesses due to its mass and velocity.",
+      "options": {
+        "A": "Moment arm",
+        "B": "Torque",
+        "C": "Momentum",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Momentum. Momentum = mass × velocity."
+    },
+    {
+      "id": 10,
+      "question": "Momentum is ______ quantity.",
+      "options": {
+        "A": "Scalar",
+        "B": "Vector",
+        "C": "Both",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Vector. Momentum has magnitude and direction → vector."
+    },
+    {
+      "id": 11,
+      "question": "Laws of motion describe the relationship between force and ______ of a body.",
+      "options": {
+        "A": "Motion",
+        "B": "Weight",
+        "C": "Inertia",
+        "D": "Mass"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Motion. Newton’s laws relate force to motion (especially acceleration)."
+    },
+    {
+      "id": 12,
+      "question": "The impact of bullet is so strong when it is fired from the gun due to its:",
+      "options": {
+        "A": "Less momentum",
+        "B": "Small inertia",
+        "C": "Greater momentum",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Less momentum. Bullet has high velocity → large momentum → strong impact."
+    },
+    {
+      "id": 13,
+      "question": "Which property of a body cannot change if a force is applied to it?",
+      "options": {
+        "A": "Mass",
+        "B": "Shape",
+        "C": "Size",
+        "D": "Velocity"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Velocity. Force can change velocity, shape, size but not mass."
+    },
+    {
+      "id": 14,
+      "question": "When a bus takes a sharp turn, passengers fall outward due to:",
+      "options": {
+        "A": "Torque",
+        "B": "Inertia",
+        "C": "Force",
+        "D": "Momentum"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Inertia. Body wants to continue straight due to inertia."
+    },
+    {
+      "id": 15,
+      "question": "Newton’s first law is applicable in the:",
+      "options": {
+        "A": "Presence of net force",
+        "B": "Absence of net force",
+        "C": "Presence of momentum",
+        "D": "Absence of momentum"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Presence of net force. First law applies when net force = 0."
+    },
+    {
+      "id": 16,
+      "question": "A body produces ______ when a force acts on it.",
+      "options": {
+        "A": "Energy",
+        "B": "Mass",
+        "C": "Weight",
+        "D": "Acceleration"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Acceleration. Force causes acceleration (F = ma)."
+    },
+    {
+      "id": 17,
+      "question": "Acceleration produced in a moving body is always in direction of:",
+      "options": {
+        "A": "Momentum",
+        "B": "Force",
+        "C": "Torque",
+        "D": "Speed"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Force. Acceleration direction is same as net force direction."
+    },
+    {
+      "id": 18,
+      "question": "Newton’s second law is applicable in the:",
+      "options": {
+        "A": "Presence of net force",
+        "B": "Absence of net force",
+        "C": "Presence of momentum",
+        "D": "Absence of momentum"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Presence of net force. Second law applies when net force ≠ 0."
+    },
+    {
+      "id": 19,
+      "question": "One Newton is the force that produces acceleration of ______ in a body of mass 1 kg.",
+      "options": {
+        "A": "2 m/s²",
+        "B": "1 m/s²",
+        "C": "2 m/s",
+        "D": "1 m/s"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 1 m/s². 1 N = force needed to produce 1 m/s² in 1 kg mass."
+    },
+    {
+      "id": 20,
+      "question": "If force = 70 N and mass = 10 kg, acceleration is:",
+      "options": {
+        "A": "14 m/s²",
+        "B": "0.14 m/s²",
+        "C": "7 m/s²",
+        "D": "7 m/s"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 7 m/s². a = F/m = 70/10 = 7 m/s²"
+    },
+    {
+      "id": 21,
+      "question": "If force is halved and mass constant, acceleration will be:",
+      "options": {
+        "A": "One half",
+        "B": "One fourth",
+        "C": "Doubled",
+        "D": "Four times"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): One half. a ∝ F → half force → half acceleration."
+    },
+    {
+      "id": 22,
+      "question": "The quantity of motion possessed by a body is called:",
+      "options": {
+        "A": "Mass",
+        "B": "Weight",
+        "C": "Volume",
+        "D": "Momentum"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Momentum. Quantity of motion = momentum."
+    },
+    {
+      "id": 23,
+      "question": "The force of gravity acting on a body is known as:",
+      "options": {
+        "A": "Mass",
+        "B": "Weight",
+        "C": "Volume",
+        "D": "Density"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Weight. Weight = gravitational force on body."
+    },
+    {
+      "id": 24,
+      "question": "SI unit of mass is:",
+      "options": {
+        "A": "Candela",
+        "B": "Pascal",
+        "C": "Newton",
+        "D": "Kilogram"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Kilogram. Mass SI unit = kilogram."
+    },
+    {
+      "id": 25,
+      "question": "SI unit of weight is:",
+      "options": {
+        "A": "Candela",
+        "B": "Pascal",
+        "C": "Newton",
+        "D": "Kilogram"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Newton. Weight is force → unit Newton."
+    },
+    {
+      "id": 26,
+      "question": "Mass of body is measured by:",
+      "options": {
+        "A": "Beam balance",
+        "B": "Spring balance",
+        "C": "Electronic balance",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Beam balance. Beam balance compares mass."
+    },
+    {
+      "id": 27,
+      "question": "Weight is measured by:",
+      "options": {
+        "A": "Beam balance",
+        "B": "Spring balance",
+        "C": "Electronic balance",
+        "D": "Both (b) & (c)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Spring balance. Weight is measured using spring or digital balance."
+    },
+    {
+      "id": 28,
+      "question": "______ of a body remains same everywhere.",
+      "options": {
+        "A": "Weight",
+        "B": "Mass",
+        "C": "Speed",
+        "D": "Acceleration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Weight. Mass does not change with location. Weight changes with gravity."
+    },
+    {
+      "id": 29,
+      "question": "Weight of a body depends on:",
+      "options": {
+        "A": "Force",
+        "B": "Gravitational acceleration",
+        "C": "Momentum",
+        "D": "Inertia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Gravitational acceleration. Weight = m × g It depends on gravitational acceleration (g)."
+    },
+    {
+      "id": 30,
+      "question": "Mass is a ______ quantity.",
+      "options": {
+        "A": "Derive",
+        "B": "Vector",
+        "C": "Scalar",
+        "D": "Negative"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Scalar. Mass has only magnitude, no direction → scalar quantity."
+    },
+    {
+      "id": 31,
+      "question": "Weight is a ______ quantity.",
+      "options": {
+        "A": "Base",
+        "B": "Vector",
+        "C": "Scalar",
+        "D": "Negative"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Vector. Weight is a force. Force has direction → vector quantity."
+    },
+    {
+      "id": 32,
+      "question": "To every action there is always an equal but opposite ______.",
+      "options": {
+        "A": "Force",
+        "B": "Acceleration",
+        "C": "Reaction",
+        "D": "Speed"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Reaction. Newton’s third law: Every action has equal and opposite reaction."
+    },
+    {
+      "id": 33,
+      "question": "If a block is hanged with the help of a string, the weight of block is balanced by:",
+      "options": {
+        "A": "Mass",
+        "B": "Tension",
+        "C": "Momentum",
+        "D": "Acceleration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Tension. In equilibrium, upward tension equals downward weight."
+    },
+    {
+      "id": 34,
+      "question": "Spider web remains intact with roof owing to:",
+      "options": {
+        "A": "Mass",
+        "B": "Tension",
+        "C": "Momentum",
+        "D": "Weight"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Tension. Tension force in the web keeps it attached."
+    },
+    {
+      "id": 35,
+      "question": "There are ______ cases of motion of a body hanging with the help of string.",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "5"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 1. In standard physics textbooks (specifically regarding Atwood machines or tension), there are typically two primary cases studied: Case 1: Both bodies move vertically (one up, one down). Case 2: One body moves vertically while the other moves horizontally on a smooth surface."
+    },
+    {
+      "id": 36,
+      "question": "______ is used to find acceleration due to gravity.",
+      "options": {
+        "A": "Atwood machine",
+        "B": "Physical balance",
+        "C": "Beam balance",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Atwood machine. Atwood machine helps calculate acceleration and gravitational acceleration."
+    },
+    {
+      "id": 37,
+      "question": "The momentum of an isolated system remains:",
+      "options": {
+        "A": "Change",
+        "B": "Uniform",
+        "C": "Constant",
+        "D": "All of them"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Constant. Law of conservation of momentum → total momentum remains constant."
+    },
+    {
+      "id": 38,
+      "question": "Jet engines work on the principle of:",
+      "options": {
+        "A": "Thermodynamics",
+        "B": "Law of conservation of energy",
+        "C": "Law of inertia",
+        "D": "Law of conservation of momentum"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Law of conservation of momentum. Backward momentum of gases → forward thrust (Newton’s 3rd law)."
+    },
+    {
+      "id": 39,
+      "question": "Rate of change of momentum is equal to:",
+      "options": {
+        "A": "Torque",
+        "B": "Force",
+        "C": "Momentum",
+        "D": "Displacement"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Momentum. Newton’s second law: Force = rate of change of momentum."
+    },
+    {
+      "id": 40,
+      "question": "The force that retards motion of one body on another is known as:",
+      "options": {
+        "A": "Friction",
+        "B": "Weight",
+        "C": "Torque",
+        "D": "Momentum"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Friction. Friction opposes motion."
+    },
+    {
+      "id": 41,
+      "question": "Maximum value of friction is called:",
+      "options": {
+        "A": "Dynamic",
+        "B": "Static",
+        "C": "Limiting",
+        "D": "Kinetic"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Limiting. Limiting friction is maximum static friction before motion starts."
+    },
+    {
+      "id": 42,
+      "question": "Kinetic friction is always less than ______ friction.",
+      "options": {
+        "A": "Dynamic",
+        "B": "Static",
+        "C": "Fluid",
+        "D": "Sliding"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Static. Static friction > kinetic friction."
+    },
+    {
+      "id": 43,
+      "question": "Ratio of limiting friction to normal reaction is called:",
+      "options": {
+        "A": "Torque",
+        "B": "Force",
+        "C": "Momentum",
+        "D": "Coefficient of friction"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Coefficient of friction. μ = Limiting friction / Normal reaction."
+    },
+    {
+      "id": 44,
+      "question": "SI unit of coefficient of friction is:",
+      "options": {
+        "A": "Newton",
+        "B": "Pascal",
+        "C": "Meter cube",
+        "D": "No unit"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): No unit. It is a ratio → unitless quantity."
+    },
+    {
+      "id": 45,
+      "question": "Rolling friction is almost ______ times less than sliding friction.",
+      "options": {
+        "A": "20",
+        "B": "30",
+        "C": "40",
+        "D": "50"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 50. Rolling friction is approximately 50 times smaller than sliding friction."
+    },
+    {
+      "id": 46,
+      "question": "Coefficient of friction depends upon:",
+      "options": {
+        "A": "Area of contact",
+        "B": "Force",
+        "C": "Nature of surfaces",
+        "D": "All of them"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Nature of surfaces. It depends on the nature/material of surfaces in contact."
+    },
+    {
+      "id": 47,
+      "question": "Fast-moving objects are shaped streamline to:",
+      "options": {
+        "A": "Increase air friction",
+        "B": "Increase force",
+        "C": "Reduce air friction",
+        "D": "None of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Reduce air friction. Streamlining reduces air resistance."
+    },
+    {
+      "id": 48,
+      "question": "Motion of moon around earth is:",
+      "options": {
+        "A": "Rotatory",
+        "B": "Circular",
+        "C": "Linear",
+        "D": "Brownian"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Circular. Moon revolves in nearly circular orbit."
+    },
+    {
+      "id": 49,
+      "question": "Banking of road means outer edge is:",
+      "options": {
+        "A": "Lowered",
+        "B": "Raised",
+        "C": "Leveled",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Raised. Outer edge is raised to provide centripetal force."
+    },
+    {
+      "id": 50,
+      "question": "Water from wet clothes is forced out due to lack of:",
+      "options": {
+        "A": "Centrifugal force",
+        "B": "Friction",
+        "C": "Centripetal force",
+        "D": "All of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Centripetal force. Water cannot get centripetal force → moves outward."
+    },
+    {
+      "id": 51,
+      "question": "Separation of cream from milk is based on:",
+      "options": {
+        "A": "Thermodynamics",
+        "B": "Conservation of momentum",
+        "C": "Centripetal force",
+        "D": "Centrifugal force"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Centrifugal force. Centrifugal force pushes heavier particles outward."
+    },
+    {
+      "id": 52,
+      "question": "Friction of liquid is ______ than solid.",
+      "options": {
+        "A": "Less",
+        "B": "Greater",
+        "C": "Equal",
+        "D": "Doubled"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Less. Liquid friction (viscosity) is less than solid friction."
+    },
+    {
+      "id": 53,
+      "question": "When horse pulls cart, reaction is on the:",
+      "options": {
+        "A": "Earth",
+        "B": "Horse",
+        "C": "Cart",
+        "D": "Earth and cart"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Horse. According to Newton’s Third Law, for every action, there is an equal and opposite reaction. When the horse pushes against the ground (action), the ground pushes the horse forward (reaction). Similarly, if the horse pulls the cart forward, the cart pulls back on the horse."
+    },
+    {
+      "id": 54,
+      "question": "______ of body does not remain same everywhere.",
+      "options": {
+        "A": "Mass",
+        "B": "Inertia",
+        "C": "Weight",
+        "D": "All of these"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Weight. Weight depends on gravitational acceleration."
+    },
+    {
+      "id": 55,
+      "question": "A body has weight 30 N. Force required to move it upward with acceleration 4 m/s² is:",
+      "options": {
+        "A": "42 N",
+        "B": "34 N",
+        "C": "43 N",
+        "D": "24 N"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 42 N. Weight = mg = 30 N m = 30/10 = 3 kg (approx g=10) F = m(g + a) = 3(10 + 4) = 42 N"
+    },
+    {
+      "id": 56,
+      "question": "If speed is doubled, centripetal force becomes:",
+      "options": {
+        "A": "2 Fc",
+        "B": "4 Fc",
+        "C": "1/2 Fc",
+        "D": "1/4 Fc"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 4 Fc. F ∝ v² If v doubles → force becomes 4 times."
+    },
+    {
+      "id": 57,
+      "question": "Which of the following is a non-contact force?",
+      "options": {
+        "A": "Friction",
+        "B": "Tension",
+        "C": "Gravitational force",
+        "D": "Normal force"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Gravitational force. Gravitational force acts without physical contact."
+    },
+    {
+      "id": 58,
+      "question": "Describe a situation where you experience both contact and non-contact forces simultaneously.",
+      "options": {
+        "A": "Electrostatic force",
+        "B": "Weight",
+        "C": "Magnetic force",
+        "D": "All of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Electrostatic force. In daily life, we experience contact forces (friction, tension) and non-contact forces (gravity, magnetism) together."
+    },
+    {
+      "id": 59,
+      "question": "Which force opposes the relative motion of two surfaces in contact?",
+      "options": {
+        "A": "Tension",
+        "B": "Electrostatic force",
+        "C": "Friction",
+        "D": "Weight"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Friction. Friction resists motion between surfaces."
+    },
+    {
+      "id": 60,
+      "question": "An object hanging from a spring experiences an upward force known as:",
+      "options": {
+        "A": "Drag",
+        "B": "Tension",
+        "C": "Air resistance",
+        "D": "Thrust"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Tension. The string or spring provides tension force upward."
+    },
+    {
+      "id": 61,
+      "question": "Which of the following is the weakest fundamental force?",
+      "options": {
+        "A": "Electroweak force",
+        "B": "Strong force",
+        "C": "Gravitational force",
+        "D": "Frictional force"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Electroweak force. Among fundamental forces, gravity is the weakest."
+    },
+    {
+      "id": 62,
+      "question": "Which force holds quarks together inside protons and neutrons?",
+      "options": {
+        "A": "Electromagnetic force",
+        "B": "Strong force",
+        "C": "Weak force",
+        "D": "Gravitational force"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Strong force. Strong nuclear force binds quarks."
+    },
+    {
+      "id": 63,
+      "question": "Which force attracts electrons and protons in an atom?",
+      "options": {
+        "A": "Electromagnetic force",
+        "B": "Strong force",
+        "C": "Weak force",
+        "D": "Gravitational force"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Electromagnetic force. Opposite electric charges attract due to electromagnetic force."
+    },
+    {
+      "id": 64,
+      "question": "Which force is responsible for certain radioactive decay?",
+      "options": {
+        "A": "Electromagnetic force",
+        "B": "Strong force",
+        "C": "Weak force",
+        "D": "Gravitational force"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Weak force. Weak nuclear force causes beta decay."
+    },
+    {
+      "id": 65,
+      "question": "Which is the strongest fundamental force?",
+      "options": {
+        "A": "Electromagnetic force",
+        "B": "Strong force",
+        "C": "Weak force",
+        "D": "Gravitational force"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Strong force. Strong nuclear force is strongest."
+    },
+    {
+      "id": 66,
+      "question": "Which force holds atoms together in a molecule?",
+      "options": {
+        "A": "Electromagnetic force",
+        "B": "Strong force",
+        "C": "Weak force",
+        "D": "Gravitational force"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Electromagnetic force. Chemical bonds are due to electromagnetic force."
+    },
+    {
+      "id": 67,
+      "question": "In free-body diagram of book on table, upward force is:",
+      "options": {
+        "A": "Weight",
+        "B": "Friction",
+        "C": "Normal force",
+        "D": "Air resistance"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Normal force. Table pushes book upward with normal force."
+    },
+    {
+      "id": 68,
+      "question": "In free fall near Earth, which force acts?",
+      "options": {
+        "A": "Air resistance",
+        "B": "Tension",
+        "C": "Electromagnetic force",
+        "D": "Weight (gravitational force)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Air resistance. Only gravitational force acts (ignoring air resistance)."
+    },
+    {
+      "id": 69,
+      "question": "If 8 N right and 6 N left act on object, resultant is:",
+      "options": {
+        "A": "14 N right",
+        "B": "2 N right",
+        "C": "2 N left",
+        "D": "14 N left"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 2 N right. 8 − 6 = 2 N toward right."
+    },
+    {
+      "id": 70,
+      "question": "If car moves with constant velocity, then:",
+      "options": {
+        "A": "No forces act",
+        "B": "Net force is zero",
+        "C": "Car accelerating",
+        "D": "Engine off"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Net force is zero. Constant velocity → acceleration = 0 → net force = 0."
+    },
+    {
+      "id": 71,
+      "question": "Inertia depends on:",
+      "options": {
+        "A": "Velocity",
+        "B": "Displacement",
+        "C": "Position",
+        "D": "Mass"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Mass. Inertia ∝ mass."
+    },
+    {
+      "id": 72,
+      "question": "Force can change velocity by:",
+      "options": {
+        "A": "Only direction",
+        "B": "Only speed",
+        "C": "Both direction and speed",
+        "D": "Neither"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Only direction. Velocity has magnitude and direction."
+    },
+    {
+      "id": 73,
+      "question": "Action and reaction do not cancel because:",
+      "options": {
+        "A": "Same direction",
+        "B": "Same object",
+        "C": "Different magnitudes",
+        "D": "Act on different objects"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Act on different objects. They act on two different bodies."
+    },
+    {
+      "id": 74,
+      "question": "Relativistic mechanics applies at:",
+      "options": {
+        "A": "Snail speed",
+        "B": "Bullet train",
+        "C": "Speed of sound",
+        "D": "Near speed of light"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Near speed of light. At very high speeds near light speed."
+    },
+    {
+      "id": 75,
+      "question": "Which is NOT affected by gravitational field?",
+      "options": {
+        "A": "Weight",
+        "B": "Volume",
+        "C": "Mass",
+        "D": "Pressure"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Pressure. Mass is the actual amount of “stuff” or matter inside an object. It stays the same no matter where you are in the universe because it doesn’t depend on gravity. Weight: Changes directly with the gravitational field (W = mg). Pressure: In fluids, pressure depends on gravity (P = ρ gh). Volume: While volume is usually constant, in large-scale physics (like stars or planets), gravity can compress objects and change their volume. Key Difference If you take a 10kg bowling ball to the Moon, its mass is still 10kg, but its weight will feel much lighter because the Moon’s gravitational field is weaker."
+    },
+    {
+      "id": 76,
+      "question": "Weight of 10 kg object (g = 9.8 m/s²):",
+      "options": {
+        "A": "10 N",
+        "B": "98.1 N",
+        "C": "0.981 N",
+        "D": "981 N"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 98.1 N. W = mg = 10 × 9.81 = 98.1 N"
+    },
+    {
+      "id": 77,
+      "question": "Which remains constant everywhere?",
+      "options": {
+        "A": "Weight",
+        "B": "Mass",
+        "C": "Gravitational acceleration",
+        "D": "Volume"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Mass. Mass is constant."
+    },
+    {
+      "id": 78,
+      "question": "If weight = 98 N and mass = 10 kg, g is:",
+      "options": {
+        "A": "9.8 m/s²",
+        "B": "10",
+        "C": "980",
+        "D": "0.1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 9.8 m/s². g = 98/10 = 9.8 m/s²"
+    },
+    {
+      "id": 79,
+      "question": "Which has greatest momentum?",
+      "options": {
+        "A": "1000 kg × 1 m/s",
+        "B": "1 kg × 1000 m/s",
+        "C": "500 kg × 2 m/s",
+        "D": "All same"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 1000 kg × 1 m/s. All equal to 1000 kg·m/s."
+    },
+    {
+      "id": 80,
+      "question": "If an object is stationary, what is its momentum?",
+      "options": {
+        "A": "Equal to mass",
+        "B": "Zero",
+        "C": "Infinite",
+        "D": "Equal to weight"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Zero. Momentum = m × v If velocity = 0 → momentum = 0."
+    },
+    {
+      "id": 81,
+      "question": "Which factor affects impulse?",
+      "options": {
+        "A": "Mass",
+        "B": "Velocity",
+        "C": "Force applied",
+        "D": "All of the above"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Velocity. Impulse depends on force and time and results in change in momentum (mass and velocity)."
+    },
+    {
+      "id": 82,
+      "question": "If time of impact increases, the force required to change momentum:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains same",
+        "D": "Becomes zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Increases. Impulse = F × t If time increases → force decreases for same impulse."
+    },
+    {
+      "id": 83,
+      "question": "What does mass measure?",
+      "options": {
+        "A": "Quantity of matter",
+        "B": "Weight",
+        "C": "Volume",
+        "D": "Inertia"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Quantity of matter. Mass measures amount of matter."
+    },
+    {
+      "id": 84,
+      "question": "Define weight:",
+      "options": {
+        "A": "Force due to gravity",
+        "B": "Weight",
+        "C": "Volume occupied",
+        "D": "Acceleration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Weight. Weight = gravitational force acting on a body."
+    },
+    {
+      "id": 85,
+      "question": "Purpose of a force meter is to measure:",
+      "options": {
+        "A": "Weight",
+        "B": "Force",
+        "C": "Volume",
+        "D": "Acceleration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Force. Force meter measures force in Newton."
+    },
+    {
+      "id": 86,
+      "question": "Weight of object on Earth = 25 N. g = 9.8 N/kg. What is mass?",
+      "options": {
+        "A": "1.9 kg",
+        "B": "2.6 kg",
+        "C": "4.1 kg",
+        "D": "6.8 kg"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 2.6 kg. m = W/g = 25 / 9.8 ≈ 2.55 kg ≈ 2.6 kg."
+    },
+    {
+      "id": 87,
+      "question": "When a force is applied, which effect cannot occur?",
+      "options": {
+        "A": "Mass decreases",
+        "B": "Object remains still",
+        "C": "Object slows down",
+        "D": "Object speeds up"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Object remains still. In classical physics, mass is a constant property of an object. Applying a force can change how an object moves or how it is shaped, but it cannot make the actual matter inside the object disappear. (b) Object remains still: This happens if the force is balanced by friction or another opposing force. (c) & (d) Slows down / Speeds up: These are standard effects of force (acceleration/deceleration) as described by Newton’s Second Law. Key takeaway: Force affects motion and shape, but it does not affect mass."
+    },
+    {
+      "id": 88,
+      "question": "An object is in complete equilibrium when:",
+      "options": {
+        "A": "Only linear motion zero",
+        "B": "Only rotational motion zero",
+        "C": "No translational or rotational effects",
+        "D": "Moving with uniform velocity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Only linear motion zero. For an object to be in complete equilibrium, it must satisfy two conditions: First Condition (Translational): The sum of all forces must be zero (Σ F = 0). This means the object has no linear acceleration. Second Condition (Rotational): The sum of all torques must be zero (Σ τ = 0). This means the object has no angular (turning) acceleration. If only one condition is met, the object is in “partial equilibrium,” but for it to be complete, both linear and rotational effects must be absent."
+    },
+    {
+      "id": 89,
+      "question": "Example of non-contact force:",
+      "options": {
+        "A": "Friction",
+        "B": "Tension",
+        "C": "Gravity",
+        "D": "Push"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Gravity. Gravity acts without contact."
+    },
+    {
+      "id": 90,
+      "question": "Force responsible for stretching elastic band:",
+      "options": {
+        "A": "Gravitational force",
+        "B": "Electrostatic force",
+        "C": "Tension",
+        "D": "Friction"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Tension. Stretching creates tension force."
+    },
+    {
+      "id": 91,
+      "question": "Free body diagrams show:",
+      "options": {
+        "A": "Shape",
+        "B": "Forces acting on object",
+        "C": "Speed",
+        "D": "Color"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Forces acting on object. They show all forces on an object."
+    },
+    {
+      "id": 92,
+      "question": "According to Newton’s first law, object remains at rest unless acted upon by:",
+      "options": {
+        "A": "Balanced force",
+        "B": "Unbalanced force",
+        "C": "Friction",
+        "D": "Gravity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Balanced force. Only net (unbalanced) force changes motion."
+    },
+    {
+      "id": 93,
+      "question": "Newton’s laws do not accurately describe motion:",
+      "options": {
+        "A": "At very high speeds",
+        "B": "Large masses",
+        "C": "Low temperatures",
+        "D": "Vacuum"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): At very high speeds. Relativity needed at high speeds."
+    },
+    {
+      "id": 94,
+      "question": "Force holding nucleus together:",
+      "options": {
+        "A": "Electroweak",
+        "B": "Gravitational",
+        "C": "Strong force",
+        "D": "Weak force"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Strong force. Strong nuclear force binds nucleons."
+    },
+    {
+      "id": 95,
+      "question": "Nobel Prize discovery related to:",
+      "options": {
+        "A": "Unification of gravitational & strong",
+        "B": "Distinction EM & weak",
+        "C": "Unification of weak & electromagnetic",
+        "D": "Separation strong & weak"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Unification of weak & electromagnetic. Electroweak theory unified weak and electromagnetic forces."
+    },
+    {
+      "id": 96,
+      "question": "Force governing charged particles:",
+      "options": {
+        "A": "Gravitational",
+        "B": "Electroweak",
+        "C": "Strong",
+        "D": "Electromagnetic force"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Electromagnetic force. Charged particles interact via electromagnetic force."
+    },
+    {
+      "id": 97,
+      "question": "If impulse is zero, momentum:",
+      "options": {
+        "A": "Remains constant",
+        "B": "Decreases",
+        "C": "Increases",
+        "D": "Becomes zero"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Becomes zero. Impulse = change in momentum. Zero impulse → no change."
+    },
+    {
+      "id": 98,
+      "question": "Car mass 1000 kg, velocity 20 m/s. Momentum?",
+      "options": {
+        "A": "2000",
+        "B": "1000",
+        "C": "20000",
+        "D": "5000"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 20000. p = 1000 × 20 = 20000 kg·m/s."
+    },
+    {
+      "id": 99,
+      "question": "If time of collision doubles, impulse:",
+      "options": {
+        "A": "Same",
+        "B": "Doubles",
+        "C": "Halves",
+        "D": "Same (for same force change)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Same. Impulse depends on change in momentum, not time directly. If momentum change same → impulse same."
+    },
+    {
+      "id": 100,
+      "question": "Which violates conservation of momentum?",
+      "options": {
+        "A": "Two balls colliding",
+        "B": "Rocket launching",
+        "C": "Car braking",
+        "D": "Car braking on a road"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Car braking on a road. When a moving car suddenly brakes: Friction between tires and road acts as external force.Car’s momentum decreases.Momentum is transferred to the Earth.So for the car alone, momentum is not conserved."
+    },
+    {
+      "id": 101,
+      "question": "In closed system, if one object gains momentum, another:",
+      "options": {
+        "A": "Decreases",
+        "B": "Remains same",
+        "C": "Increases",
+        "D": "Gains equal and opposite momentum"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Gains equal and opposite momentum. Total momentum constant → equal and opposite change."
+    },
+    {
+      "id": 102,
+      "question": "Dynamics is the branch of physics which deals with:",
+      "options": {
+        "A": "Motion without force",
+        "B": "Motion and its causes",
+        "C": "Rest and motion",
+        "D": "Types of forces"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Motion and its causes'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 103,
+      "question": "The SI unit of force is:",
+      "options": {
+        "A": "Dyne",
+        "B": "kg",
+        "C": "Newton",
+        "D": "Joule"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Newton'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 104,
+      "question": "One Newton is equal to:",
+      "options": {
+        "A": "1 kg/s²",
+        "B": "1 kg·m/s²",
+        "C": "1 kg·m²/s",
+        "D": "1 m/s²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '1 kg·m/s²'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 105,
+      "question": "Which of the following is a contact force?",
+      "options": {
+        "A": "Magnetic force",
+        "B": "Friction",
+        "C": "Gravitational force",
+        "D": "Electrostatic force"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Friction'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 106,
+      "question": "The force which opposes motion is:",
+      "options": {
+        "A": "Tension",
+        "B": "Friction",
+        "C": "Magnetic force",
+        "D": "Gravity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Friction'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 107,
+      "question": "The property of a body to resist any change in its state is called:",
+      "options": {
+        "A": "Inertia",
+        "B": "Acceleration",
+        "C": "Mass",
+        "D": "Momentum"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Inertia'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 108,
+      "question": "The inertia of a body depends on:",
+      "options": {
+        "A": "Volume",
+        "B": "Mass",
+        "C": "Area",
+        "D": "Speed"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Mass'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 109,
+      "question": "Newton’s first law is also known as the law of:",
+      "options": {
+        "A": "Acceleration",
+        "B": "Inertia",
+        "C": "Reaction",
+        "D": "Friction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Inertia'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 110,
+      "question": "A body continues in its state of rest or uniform motion unless:",
+      "options": {
+        "A": "A net external force acts on it",
+        "B": "It becomes heavy",
+        "C": "It stops on its own",
+        "D": "It gains energy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'A net external force acts on it'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 111,
+      "question": "Acceleration produced in a body is directly proportional to:",
+      "options": {
+        "A": "Velocity",
+        "B": "Displacement",
+        "C": "Applied force",
+        "D": "Inertia"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Applied force'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 112,
+      "question": "Newton’s second law gives the definition of:",
+      "options": {
+        "A": "Velocity",
+        "B": "Inertia",
+        "C": "Force",
+        "D": "Momentum"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Force'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 113,
+      "question": "If mass = 2 kg and acceleration = 3 m/s², then force = ?",
+      "options": {
+        "A": "5 N",
+        "B": "1.5 N",
+        "C": "6 N",
+        "D": "12 N"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): '6 N'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 114,
+      "question": "A man applies a force but the object doesn’t move. The work done is:",
+      "options": {
+        "A": "Zero",
+        "B": "Maximum",
+        "C": "Minimum",
+        "D": "Infinite"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Zero'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 115,
+      "question": "The force acting on a falling object is:",
+      "options": {
+        "A": "Friction",
+        "B": "Gravity",
+        "C": "Inertia",
+        "D": "Tension"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Gravity'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 116,
+      "question": "A spring balances measures:",
+      "options": {
+        "A": "Speed",
+        "B": "Mass",
+        "C": "Weight",
+        "D": "Pressure"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Weight'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 117,
+      "question": "Which force is responsible for wearing of shoe soles?",
+      "options": {
+        "A": "Gravity",
+        "B": "Inertia",
+        "C": "Friction",
+        "D": "Air resistance"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Friction'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 118,
+      "question": "1 kg-weight is equal to:",
+      "options": {
+        "A": "98 N",
+        "B": "9.8 N",
+        "C": "1 N",
+        "D": "10 N"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '9.8 N'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 119,
+      "question": "Newton’s third law states:",
+      "options": {
+        "A": "Every action has an equal and opposite reaction",
+        "B": "Force = mass × acceleration",
+        "C": "Body continues in uniform motion",
+        "D": "Friction opposes motion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Every action has an equal and opposite reaction'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 120,
+      "question": "Recoil of gun is an example of:",
+      "options": {
+        "A": "Newton’s 1st law",
+        "B": "Newton’s 2nd law",
+        "C": "Newton’s 3rd law",
+        "D": "Conservation of energy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Newton’s 3rd law'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 121,
+      "question": "The action and reaction forces act on:",
+      "options": {
+        "A": "Different bodies",
+        "B": "Same body",
+        "C": "One direction",
+        "D": "One point only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Different bodies'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 122,
+      "question": "The acceleration due to gravity on Earth is:",
+      "options": {
+        "A": "10 m/s²",
+        "B": "9.8 m/s²",
+        "C": "8.9 m/s²",
+        "D": "6.67 m/s²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '9.8 m/s²'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 123,
+      "question": "Mass of a body is:",
+      "options": {
+        "A": "Constant everywhere",
+        "B": "Variable",
+        "C": "More on moon",
+        "D": "Equal to weight"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Constant everywhere'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 124,
+      "question": "Weight is defined as:",
+      "options": {
+        "A": "Force due to motion",
+        "B": "Force due to gravity",
+        "C": "Force due to friction",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Force due to gravity'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 125,
+      "question": "Weight of an object on the moon is:",
+      "options": {
+        "A": "Equal to Earth",
+        "B": "Zero",
+        "C": "One-sixth of Earth",
+        "D": "Double of Earth"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'One-sixth of Earth'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 126,
+      "question": "The SI unit of weight is:",
+      "options": {
+        "A": "kg",
+        "B": "gram",
+        "C": "Newton",
+        "D": "m/s²"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Newton'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 127,
+      "question": "If mass is 50 kg, then weight on Earth is:",
+      "options": {
+        "A": "500 N",
+        "B": "490 N",
+        "C": "50 N",
+        "D": "98 N"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): '490 N'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition. Reference key: (W = mg = 50 × 9.8)."
+    },
+    {
+      "id": 128,
+      "question": "When a body is at rest, the net force acting on it is:",
+      "options": {
+        "A": "Zero",
+        "B": "Maximum",
+        "C": "Infinite",
+        "D": "Variable"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Zero'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 129,
+      "question": "The force responsible for holding planets in orbit is:",
+      "options": {
+        "A": "Friction",
+        "B": "Gravitational force",
+        "C": "Magnetic force",
+        "D": "Electrostatic force"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Gravitational force'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 130,
+      "question": "The mass of a body is measured by:",
+      "options": {
+        "A": "Spring balance",
+        "B": "Beam balance",
+        "C": "Barometer",
+        "D": "Thermometer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Beam balance'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 131,
+      "question": "Friction always acts in:",
+      "options": {
+        "A": "Opposite direction of motion",
+        "B": "Same direction",
+        "C": "Upward direction",
+        "D": "Direction of force"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Opposite direction of motion'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 132,
+      "question": "Which of the following is a field force?",
+      "options": {
+        "A": "Friction",
+        "B": "Gravitational force",
+        "C": "Tension",
+        "D": "Contact force"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Gravitational force'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 133,
+      "question": "The inertia of rest means:",
+      "options": {
+        "A": "Body remains at rest until forced",
+        "B": "Body always moves",
+        "C": "Body accelerates itself",
+        "D": "Body changes motion on its own"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Body remains at rest until forced'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 134,
+      "question": "When force is doubled and mass remains constant, acceleration:",
+      "options": {
+        "A": "Halves",
+        "B": "Doubles",
+        "C": "Triples",
+        "D": "No change"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Doubles'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 135,
+      "question": "The relationship between mass, force, and acceleration is:",
+      "options": {
+        "A": "f = m/v",
+        "B": "f = v/m",
+        "C": "f = ma",
+        "D": "f = m + a"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'f = ma'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 136,
+      "question": "Unit of frictional force is:",
+      "options": {
+        "A": "kg",
+        "B": "Joule",
+        "C": "Newton",
+        "D": "Dyne"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Newton'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 137,
+      "question": "The gravitational field of Earth is:",
+      "options": {
+        "A": "9.8 N/kg",
+        "B": "10 N/kg",
+        "C": "1 N/kg",
+        "D": "6.67 N/kg"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): '9.8 N/kg'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 138,
+      "question": "The third law pair forces always:",
+      "options": {
+        "A": "Cancel each other",
+        "B": "Act on different bodies",
+        "C": "Act on same body",
+        "D": "Have different magnitudes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Act on different bodies'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 139,
+      "question": "Gravitational force is always:",
+      "options": {
+        "A": "Repulsive",
+        "B": "Attractive",
+        "C": "Neutral",
+        "D": "Zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Attractive'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 140,
+      "question": "The tendency of a body to stay at rest or continue motion is due to:",
+      "options": {
+        "A": "Inertia",
+        "B": "Force",
+        "C": "Acceleration",
+        "D": "Friction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Inertia'. In FBISE Grade 9 Physics Unit 3 (Dynamics), this is a standard curriculum property and board-examined definition."
+    }
+  ]
+}

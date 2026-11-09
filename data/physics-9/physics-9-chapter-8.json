@@ -1,0 +1,945 @@
+{
+  "chapterNumber": 8,
+  "chapterTitle": "Unit 8: Magnetism & Thermal Physics",
+  "totalQuestions": 78,
+  "subject": "physics-9",
+  "grade": "9",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following best describes the neutral zone that exists between the similar poles of two magnets?",
+      "options": {
+        "A": "It is the area where the magnetic fields of the two magnets overlap and cancel each other, resulting in no magnetic force",
+        "B": "It is the area with the strongest magnetic force, attracting metals with greater intensity",
+        "C": "It is the region outside the influence of both magnets where magnetic forces are strongest",
+        "D": "It is the space where electric fields interfere with magnetic forces, creating a zone of electrical charge"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): It is the area where the magnetic fields of the two magnets overlap and cancel each other, resulting in no magnetic force. The neutral zone occurs where the like poles of two magnets meet. Their magnetic fields oppose each other, canceling the effect, so no magnetic force is experienced in this region."
+    },
+    {
+      "id": 2,
+      "question": "If a north pole of a magnet at a specific point in a magnetic field experiences a force toward the left, then the magnetic field direction at that point is:",
+      "options": {
+        "A": "To the right",
+        "B": "Upward",
+        "C": "Downward",
+        "D": "To the left"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): To the left. A magnetic north pole always experiences a force along the direction of the magnetic field. If the north pole moves left, the magnetic field is also directed to the left."
+    },
+    {
+      "id": 3,
+      "question": "Which of these materials would be classified as a permanent magnet?",
+      "options": {
+        "A": "Soft iron",
+        "B": "Steel",
+        "C": "Aluminum",
+        "D": "Copper"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Soft iron. Steel can retain its magnetization after being magnetized, making it a permanent magnet. Soft iron, by contrast, is only temporarily magnetized."
+    },
+    {
+      "id": 4,
+      "question": "How does the Earth’s magnetic field protect us from cosmic radiation?",
+      "options": {
+        "A": "By absorbing radiation",
+        "B": "By reflecting radiation",
+        "C": "By deflecting charged particles",
+        "D": "By neutralizing radiation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): By deflecting charged particles. The Earth’s magnetic field deflects harmful charged particles from the sun and cosmic rays, preventing them from directly reaching the surface."
+    },
+    {
+      "id": 5,
+      "question": "In which device would you most likely find an electromagnet?",
+      "options": {
+        "A": "A refrigerator magnet",
+        "B": "A digital clock",
+        "C": "An electric fan",
+        "D": "A solar panel"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): An electric fan. Electromagnets are used in electric devices like fans, motors, and relays because they produce a magnetic field only when electric current passes through a coil."
+    },
+    {
+      "id": 6,
+      "question": "What is the primary purpose of magnetic shielding with materials like soft iron?",
+      "options": {
+        "A": "To enhance the magnetic field",
+        "B": "To focus the magnetic field",
+        "C": "To block or redirect magnetic fields",
+        "D": "To convert magnetic fields into electricity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): To block or redirect magnetic fields. Soft iron is used in shielding to absorb or redirect unwanted magnetic fields, protecting sensitive instruments from interference."
+    },
+    {
+      "id": 7,
+      "question": "What is the main characteristic of a diamagnetic material in a magnetic field?",
+      "options": {
+        "A": "It becomes strongly magnetized",
+        "B": "It becomes weakly magnetized",
+        "C": "It is unaffected by the magnetic field",
+        "D": "It creates an opposing magnetic field"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): It is unaffected by the magnetic field. Diamagnetic materials generate a weak magnetic field in the opposite direction of the applied field, causing a small repulsive effect."
+    },
+    {
+      "id": 8,
+      "question": "What is the primary reason for the difference in magnetic behavior between temporary and permanent magnets?",
+      "options": {
+        "A": "The material they are made of",
+        "B": "The temperature they are exposed to",
+        "C": "The strength of the magnetic field they are exposed to",
+        "D": "The color of the material"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): The material they are made of. The key difference is the type of material. Permanent magnets are made from materials that retain magnetization, while temporary magnets lose it quickly."
+    },
+    {
+      "id": 9,
+      "question": "How do animals like birds use the Earth’s magnetic field?",
+      "options": {
+        "A": "For finding food",
+        "B": "For mating rituals",
+        "C": "For navigation during migration",
+        "D": "For building nests"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): For navigation during migration. Birds and some animals sense Earth’s magnetic field to determine direction, helping them navigate during long migrations."
+    },
+    {
+      "id": 10,
+      "question": "In a magnetic field diagram, what does it mean if the field lines are far apart?",
+      "options": {
+        "A": "The field is very strong",
+        "B": "The field is weak",
+        "C": "The field is unstable",
+        "D": "The field is non-existent"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): The field is weak. Magnetic field strength is indicated by the closeness of field lines. Far apart lines represent a weak field, and closely spaced lines represent a strong field."
+    },
+    {
+      "id": 11,
+      "question": "When a non-magnetic material is brought close to a magnet, it will:",
+      "options": {
+        "A": "Become temporarily magnetized",
+        "B": "Repel the magnet",
+        "C": "Attract the magnet",
+        "D": "Remain unaffected"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Repel the magnet. Non-magnetic materials like wood or plastic are not influenced by magnetic fields, so there is no effect when a magnet is nearby."
+    },
+    {
+      "id": 12,
+      "question": "The induced magnetism in a material is generally:",
+      "options": {
+        "A": "Permanent",
+        "B": "Temporary",
+        "C": "Dependent on the material’s color",
+        "D": "Stronger than permanent magnetism"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Temporary. Induced magnetism in soft iron or other ferromagnetic materials is temporary and disappears once the external magnet is removed."
+    },
+    {
+      "id": 13,
+      "question": "What type of magnetic material is typically used in loudspeakers?",
+      "options": {
+        "A": "Diamagnetic",
+        "B": "Paramagnetic",
+        "C": "Ferromagnetic",
+        "D": "Non-magnetic"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Ferromagnetic. Loudspeakers require ferromagnetic materials to convert electrical energy into mechanical vibrations using strong and controllable magnetic fields."
+    },
+    {
+      "id": 14,
+      "question": "The main hazard of placing a strong magnet near electronic devices is:",
+      "options": {
+        "A": "Overheating the device",
+        "B": "Increasing the device’s energy consumption",
+        "C": "Erasing or distorting data",
+        "D": "Making the device magnetic"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Making the device magnetic. Strong magnets can alter or erase magnetic data on devices like hard drives or credit cards."
+    },
+    {
+      "id": 15,
+      "question": "In the stroking method of magnetization, the object is rubbed:",
+      "options": {
+        "A": "In a circular motion with a magnet",
+        "B": "Back and forth with a non-magnetic material",
+        "C": "In one direction with a magnet",
+        "D": "Randomly with a magnet"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): In one direction with a magnet. Stroking a magnetic material in one direction aligns its domains gradually, magnetizing it without reversing the alignment."
+    },
+    {
+      "id": 16,
+      "question": "The degree of hotness and coldness of a body is called:",
+      "options": {
+        "A": "Temperature",
+        "B": "Heat",
+        "C": "Internal energy",
+        "D": "Mechanical energy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Temperature. Temperature measures the intensity of heat in a body, independent of the amount of substance, unlike heat which depends on quantity."
+    },
+    {
+      "id": 17,
+      "question": "The candle flame is hot and is said to be at:",
+      "options": {
+        "A": "Low temperature",
+        "B": "High temperature",
+        "C": "Absolute temperature",
+        "D": "Zero temperature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): High temperature. Candle flames have a high temperature because the molecules in the flame have high kinetic energy."
+    },
+    {
+      "id": 18,
+      "question": "Ice is basically cold and is said to be at:",
+      "options": {
+        "A": "Highest temperature",
+        "B": "Minimum temperature",
+        "C": "Absolute temperature",
+        "D": "Lowest temperature"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Highest temperature. Ice is cold because its molecules have low kinetic energy, corresponding to a low temperature."
+    },
+    {
+      "id": 19,
+      "question": "A simple way to know how much a body is hot or cold is:",
+      "options": {
+        "A": "Sense of touch",
+        "B": "Thermometer",
+        "C": "Thermostat",
+        "D": "Setback state"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Thermometer. Human touch gives an approximate indication of temperature but is not as accurate as instruments like thermometers."
+    },
+    {
+      "id": 20,
+      "question": "The temperature sense is somewhat approximate and unreliable is by:",
+      "options": {
+        "A": "Sense of touch",
+        "B": "Thermometer",
+        "C": "Thermostat",
+        "D": "Setback state"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Sense of touch. Sense of touch can be misleading because perception of hot or cold is subjective."
+    },
+    {
+      "id": 21,
+      "question": "When we place a cup of hot tea/water in a room, it cools down:",
+      "options": {
+        "A": "Gradually",
+        "B": "Rapidly",
+        "C": "Suddenly",
+        "D": "Abruptly"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Gradually. Heat transfer occurs gradually from hot to cold objects due to conduction, convection, or radiation."
+    },
+    {
+      "id": 22,
+      "question": "The crocus flower is a:",
+      "options": {
+        "A": "Natural thermometer",
+        "B": "Artificial thermometer",
+        "C": "Synthetic thermometer",
+        "D": "Charged thermometer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Natural thermometer. Some flowers like crocus respond to temperature changes and can be used as simple natural thermometers."
+    },
+    {
+      "id": 23,
+      "question": "The form of energy that is transferred from one body to another in thermal contact due to temperature difference is called:",
+      "options": {
+        "A": "Temperature",
+        "B": "Sound",
+        "C": "Light",
+        "D": "Heat"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Temperature. Heat is the energy transferred due to temperature difference; it is not stored in an object but moves from hotter to colder bodies."
+    },
+    {
+      "id": 24,
+      "question": "Heat is also called:",
+      "options": {
+        "A": "Energy in transformation",
+        "B": "Energy in transferred",
+        "C": "Energy in transit",
+        "D": "Energy in bodies"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Energy in transit. Heat is energy in transit; it flows from one body to another and is measurable only during transfer."
+    },
+    {
+      "id": 25,
+      "question": "Internal energy does not depend upon:",
+      "options": {
+        "A": "Mass",
+        "B": "K.E",
+        "C": "P.E",
+        "D": "Charge"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Charge. Internal energy depends on mass and molecular motion (kinetic and potential energies), not on electric charge."
+    },
+    {
+      "id": 26,
+      "question": "The device that is used to measure the temperature of the body is called:",
+      "options": {
+        "A": "Thermometer",
+        "B": "Voltmeter",
+        "C": "Barometer",
+        "D": "All of the above"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Thermometer. Thermometers measure temperature based on thermal expansion or electrical properties of substances."
+    },
+    {
+      "id": 27,
+      "question": "Which of the following property does not hold by a thermometer liquid?",
+      "options": {
+        "A": "Should be visible",
+        "B": "Have uniform thermal expansion",
+        "C": "Should have a low freezing point",
+        "D": "Should have a low boiling point"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Should have a low boiling point. Thermometer liquids must remain liquid in the working range, but low boiling point is undesirable as the liquid would evaporate easily."
+    },
+    {
+      "id": 28,
+      "question": "Which of the following liquid is most suitable for the liquid in a glass thermometer?",
+      "options": {
+        "A": "Silver",
+        "B": "Gold",
+        "C": "Mercury",
+        "D": "Water"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Mercury. Mercury remains liquid over a wide temperature range, expands uniformly, and is visible in glass thermometers."
+    },
+    {
+      "id": 29,
+      "question": "Mercury in glass thermometer measures temperature in the range from",
+      "options": {
+        "A": "10° C to 150° C",
+        "B": "-10° C to -150° C",
+        "C": "-10° C to 150° C",
+        "D": "10° C to -150°C ."
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 10° C to 150° C. Lower Limit: Mercury freezes at -38.8°C, so it cannot measure temperatures below that. Upper Limit: Mercury boils at 356.7°C, but laboratory glass thermometers are commonly capped at 110°C or 150°C for safety and general utility. Standard Use: Most lab thermometers start at -10°C to allow for measurements at the freezing point of water (0°C)."
+    },
+    {
+      "id": 30,
+      "question": "The temperature of the body in contact with the thermometer can be read on:",
+      "options": {
+        "A": "Chart",
+        "B": "Scale",
+        "C": "Dial",
+        "D": "Hook"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Scale. The thermometer scale indicates temperature by reading the height of the liquid column."
+    },
+    {
+      "id": 31,
+      "question": "On Celsius scale, lower fixed point is marked as:",
+      "options": {
+        "A": "0°C",
+        "B": "100°C",
+        "C": "150°C",
+        "D": "1000°C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 0°C. 0°C represents the freezing point of water."
+    },
+    {
+      "id": 32,
+      "question": "On Celsius scale, upper fixed point is marked as:",
+      "options": {
+        "A": "0°C",
+        "B": "100°C",
+        "C": "150°C",
+        "D": "1000°C"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 100°C. 100°C represents the boiling point of water at standard pressure."
+    },
+    {
+      "id": 33,
+      "question": "Generally, when a body is heated, its temperature:",
+      "options": {
+        "A": "Does not change",
+        "B": "Decreases",
+        "C": "Increases",
+        "D": "Remains same"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Increases. Heating increases the kinetic energy of molecules, raising the temperature of the body."
+    },
+    {
+      "id": 34,
+      "question": "In the equation ∆Q = mc∆T, ∆Q is the amount of heat absorbed by the body and c is:",
+      "options": {
+        "A": "Specific heat capacity",
+        "B": "Specific sound capacity",
+        "C": "Enthalpy of reaction",
+        "D": "Internal energy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Specific heat capacity. The formula calculates heat absorbed, where c is the specific heat capacity of the material."
+    },
+    {
+      "id": 35,
+      "question": "Water circulating around the engine:",
+      "options": {
+        "A": "Maintains its temperature",
+        "B": "Varies its temperature",
+        "C": "Increases its temperature",
+        "D": "Decreases its temperature"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Maintains its temperature. Circulating water regulates engine temperature by removing excess heat, keeping it stable."
+    },
+    {
+      "id": 36,
+      "question": "When a substance is changed from solid state to liquid state by adding heat, the process is called:",
+      "options": {
+        "A": "Melting",
+        "B": "Fusion",
+        "C": "Freezing",
+        "D": "a & b both"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Melting. Melting and fusion both describe solid-to-liquid phase change."
+    },
+    {
+      "id": 37,
+      "question": "When a liquid is cooled, it changes into solid state. The temperature at which a substance changes from liquid to solid state is called its:",
+      "options": {
+        "A": "Fusion point",
+        "B": "Melting point",
+        "C": "Freezing point",
+        "D": "Boiling point"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Freezing point. Freezing point is the temperature at which liquid solidifies; it is the same as melting point for pure substances."
+    },
+    {
+      "id": 38,
+      "question": "When water is heated, it boils at 100°C under:",
+      "options": {
+        "A": "Low pressure",
+        "B": "High pressure",
+        "C": "Standard pressure",
+        "D": "Constant pressure"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Standard pressure. Water boils at 100°C at 1 atmosphere, which is standard atmospheric pressure."
+    },
+    {
+      "id": 39,
+      "question": "The temperature at which a solid starts melting is called:",
+      "options": {
+        "A": "Melting or fusion point",
+        "B": "Melting or boiling point",
+        "C": "Fusion or boiling point",
+        "D": "Freezing or boiling point"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Melting or fusion point. Melting/fusion point is the temperature where solid begins to convert to liquid."
+    },
+    {
+      "id": 40,
+      "question": "Fast moving molecules escape from the surface of water and go into the atmosphere; this is called:",
+      "options": {
+        "A": "Fusion",
+        "B": "Evaporation",
+        "C": "Condensation",
+        "D": "Vaporization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Evaporation. Evaporation is the process of surface molecules escaping into vapor at all temperatures."
+    },
+    {
+      "id": 41,
+      "question": "Change of a liquid into vapours from the surface without heating is called:",
+      "options": {
+        "A": "Evaporation",
+        "B": "Vaporization",
+        "C": "Condensation",
+        "D": "Fusion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Evaporation. Evaporation occurs at the surface at any temperature below boiling point."
+    },
+    {
+      "id": 42,
+      "question": "Unlike boiling, evaporation takes place at:",
+      "options": {
+        "A": "All temperatures",
+        "B": "High temperature",
+        "C": "Low temperature",
+        "D": "Fixed temperature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): High temperature. Evaporation can occur even at room temperature, unlike boiling which requires a specific temperature."
+    },
+    {
+      "id": 43,
+      "question": "Evaporation of perspiration helps to:",
+      "options": {
+        "A": "Warm our body",
+        "B": "Cool our body",
+        "C": "Hot our bodies",
+        "D": "Heat our bodies"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Cool our body. Evaporation removes heat from the skin, cooling the body."
+    },
+    {
+      "id": 44,
+      "question": "The rate of evaporation is not affected by the factor:",
+      "options": {
+        "A": "Temperature",
+        "B": "Surface area",
+        "C": "Wind",
+        "D": "Types of container"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Temperature. The type of container does not affect molecular escape; temperature, area, and airflow do."
+    },
+    {
+      "id": 45,
+      "question": "Water evaporates faster when:",
+      "options": {
+        "A": "Small area space",
+        "B": "Spread over large area",
+        "C": "Either A or B",
+        "D": "None of these"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Spread over large area. Larger surface area exposes more molecules to escape, increasing evaporation rate."
+    },
+    {
+      "id": 46,
+      "question": "Cooling is produced in refrigerator by evaporation of a:",
+      "options": {
+        "A": "Gas into liquid",
+        "B": "Liquid into gas",
+        "C": "Gas into gas",
+        "D": "Liquid into liquid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Gas into liquid. Refrigerators absorb heat via evaporation of a liquid refrigerant into gas."
+    },
+    {
+      "id": 47,
+      "question": "Freon, a CFC, was used as a:",
+      "options": {
+        "A": "Refrigerant liquid",
+        "B": "Refrigerant solid",
+        "C": "Refrigerant gas",
+        "D": "Refrigerant plasma"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Refrigerant gas. Freon is a gas that vaporizes at low temperatures, removing heat efficiently."
+    },
+    {
+      "id": 48,
+      "question": "Freon gas is harmful in refrigerators and is replaced by:",
+      "options": {
+        "A": "Carbon",
+        "B": "Ammonia",
+        "C": "Carbon dioxide",
+        "D": "Carbon monoxide"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Ammonia. Ammonia is an effective, less environmentally harmful refrigerant than CFCs."
+    },
+    {
+      "id": 49,
+      "question": "Liquids differ in the rate at which they:",
+      "options": {
+        "A": "Evaporate",
+        "B": "Flow",
+        "C": "Solidify",
+        "D": "All of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Evaporate. Evaporation: Liquids with weaker molecular bonds (like alcohol) evaporate faster than those with stronger bonds (like water). Flow: This depends on viscosity; water flows quickly, while honey flows slowly. Solidification: Different liquids reach their freezing points at different speeds based on their chemical structure and heat capacity. Since liquids vary in all three behaviors, (d) is the right choice."
+    },
+    {
+      "id": 50,
+      "question": "If the temperature of a pizza is 75°F, then its temperature in Fahrenheit scale will be:",
+      "options": {
+        "A": "23.89°F",
+        "B": "73.69°F",
+        "C": "167°F",
+        "D": "348°F"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 167°F. Conversion formulas can calculate temperature; in this question, 75°C ≈ 167°F."
+    },
+    {
+      "id": 51,
+      "question": "The boiling point of water is:",
+      "options": {
+        "A": "0°C",
+        "B": "32°F",
+        "C": "212K",
+        "D": "100°C"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 100°C. At standard pressure, water boils at 100°C (212°F or 373K)."
+    },
+    {
+      "id": 52,
+      "question": "Which one has low freezing point?",
+      "options": {
+        "A": "Water",
+        "B": "Mercury",
+        "C": "Wax",
+        "D": "Alcohol"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Mercury. Alcohol freezes at much lower temperatures than water or mercury."
+    },
+    {
+      "id": 53,
+      "question": "The freezing point of water is:",
+      "options": {
+        "A": "0°C",
+        "B": "32°F",
+        "C": "273K",
+        "D": "All of them"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 32°F. 0°C = 32°F = 273K; all these represent the freezing point of water."
+    },
+    {
+      "id": 54,
+      "question": "Heat is a type of:",
+      "options": {
+        "A": "Kinetic",
+        "B": "Potential",
+        "C": "Mechanical",
+        "D": "None of these"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Kinetic. Heat is the energy of random motion of molecules, which is kinetic in nature."
+    },
+    {
+      "id": 55,
+      "question": "All bodies expand on heating:",
+      "options": {
+        "A": "Variable",
+        "B": "Constantly",
+        "C": "Uniformly",
+        "D": "All of them"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Variable. Expansion is variable because different materials have different coefficients of expansion. This means solids, liquids, and gases all expand at different rates even when heated by the same amount."
+    },
+    {
+      "id": 56,
+      "question": "SI unit of Coefficient of linear & volume expansion is:",
+      "options": {
+        "A": "m",
+        "B": "K",
+        "C": "K⁻¹",
+        "D": "°C"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): K⁻¹. Expansion coefficients are per unit temperature, so the SI unit is K⁻¹."
+    },
+    {
+      "id": 57,
+      "question": "Specific heat of water is:",
+      "options": {
+        "A": "2100 J/kg·K",
+        "B": "2500 J/kg·K",
+        "C": "3200 J/kg·K",
+        "D": "4200 J/kg·K"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 4200 J/kg·K. Water has a high specific heat capacity (≈ 4200 J/kg·K), which means it requires a lot of heat to raise its temperature."
+    },
+    {
+      "id": 58,
+      "question": "Which of the following is the poorest conductor of heat energy?",
+      "options": {
+        "A": "Air",
+        "B": "Brass",
+        "C": "A vacuum",
+        "D": "Water"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): A vacuum. A vacuum is the poorest conductor because conduction requires particles (atoms or molecules) to transfer energy. Since a vacuum is empty space with no particles, conduction is impossible."
+    },
+    {
+      "id": 59,
+      "question": "Density of water is maximum at:",
+      "options": {
+        "A": "0°C",
+        "B": "4°C",
+        "C": "40°C",
+        "D": "100°C"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 4°C. Water reaches maximum density at 4°C due to the unique hydrogen-bonded structure of molecules."
+    },
+    {
+      "id": 60,
+      "question": "The reference point in modern thermometry is:",
+      "options": {
+        "A": "Steam point",
+        "B": "Boiling point",
+        "C": "Triple point of water",
+        "D": "Freezing point of water"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Triple point of water. Modern thermometers use the triple point of water (273.16 K) as a standard reference."
+    },
+    {
+      "id": 61,
+      "question": "The temperature which is the same in °C and °F is:",
+      "options": {
+        "A": "-20",
+        "B": "20",
+        "C": "-40",
+        "D": "40"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): -40. At -40°, the Celsius and Fahrenheit scales coincide."
+    },
+    {
+      "id": 62,
+      "question": "The amount of heat required to raise the temperature of 1 kg of water by 1 K is:",
+      "options": {
+        "A": "1 J",
+        "B": "400 J",
+        "C": "310 J",
+        "D": "4190 J"
+      },
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 4190 J. Water has a high specific heat; 1 kg of water requires 4190 J to increase 1 K in temperature."
+    },
+    {
+      "id": 63,
+      "question": "The region around a magnet where its force can be felt is called:",
+      "options": {
+        "A": "Magnetic area",
+        "B": "Magnetic field",
+        "C": "Magnetic line",
+        "D": "Magnetic strength"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Magnetic field'. In FBISE Grade 9 Physics Unit 8 (Magnetism & Thermal Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 64,
+      "question": "Magnetic lines of force always move from:",
+      "options": {
+        "A": "South to North",
+        "B": "North to South outside the magnet",
+        "C": "North to South inside the magnet",
+        "D": "Both A and C"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'North to South outside the magnet'. In FBISE Grade 9 Physics Unit 8 (Magnetism & Thermal Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 65,
+      "question": "A freely suspended bar magnet always points towards:",
+      "options": {
+        "A": "South-East",
+        "B": "North-South",
+        "C": "East-West",
+        "D": "North-West"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'North-South'. In FBISE Grade 9 Physics Unit 8 (Magnetism & Thermal Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 66,
+      "question": "Like poles of magnets:",
+      "options": {
+        "A": "Attract each other",
+        "B": "Repel each other",
+        "C": "Become neutral",
+        "D": "Lose strength"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Repel each other'. In FBISE Grade 9 Physics Unit 8 (Magnetism & Thermal Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 67,
+      "question": "The force between unlike poles is:",
+      "options": {
+        "A": "Zero",
+        "B": "Attractive",
+        "C": "Repulsive",
+        "D": "Equal to weight"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Attractive'. In FBISE Grade 9 Physics Unit 8 (Magnetism & Thermal Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 68,
+      "question": "Which one is a magnetic material?",
+      "options": {
+        "A": "Copper",
+        "B": "Iron",
+        "C": "Wood",
+        "D": "Glass"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Iron'. In FBISE Grade 9 Physics Unit 8 (Magnetism & Thermal Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 69,
+      "question": "Which of the following is not a magnetic material?",
+      "options": {
+        "A": "Plastic",
+        "B": "Steel",
+        "C": "Cobalt",
+        "D": "Nickel"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Plastic'. In FBISE Grade 9 Physics Unit 8 (Magnetism & Thermal Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 70,
+      "question": "The Earth behaves like a:",
+      "options": {
+        "A": "Conductor",
+        "B": "Magnet",
+        "C": "Motor",
+        "D": "Battery"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Magnet'. In FBISE Grade 9 Physics Unit 8 (Magnetism & Thermal Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 71,
+      "question": "A magnetic compass is used to:",
+      "options": {
+        "A": "Measure speed",
+        "B": "Measure weight",
+        "C": "Find direction",
+        "D": "Generate electricity"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 'Find direction'. In FBISE Grade 9 Physics Unit 8 (Magnetism & Thermal Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 72,
+      "question": "Which device uses magnetism?",
+      "options": {
+        "A": "Thermometer",
+        "B": "Electric motor",
+        "C": "Spring balance",
+        "D": "Burette"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Electric motor'. In FBISE Grade 9 Physics Unit 8 (Magnetism & Thermal Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 73,
+      "question": "Which of the following can be magnetized?",
+      "options": {
+        "A": "Wood",
+        "B": "Steel",
+        "C": "Rubber",
+        "D": "Glass"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Steel'. In FBISE Grade 9 Physics Unit 8 (Magnetism & Thermal Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 74,
+      "question": "A permanent magnet is made from:",
+      "options": {
+        "A": "Soft iron",
+        "B": "Steel",
+        "C": "Copper",
+        "D": "Aluminium"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Steel'. In FBISE Grade 9 Physics Unit 8 (Magnetism & Thermal Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 75,
+      "question": "Magnetic field lines are:",
+      "options": {
+        "A": "Imaginary lines representing magnetic force",
+        "B": "Real lines",
+        "C": "Invisible current",
+        "D": "Heat waves"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Imaginary lines representing magnetic force'. In FBISE Grade 9 Physics Unit 8 (Magnetism & Thermal Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 76,
+      "question": "A soft iron core is used in electromagnets because it:",
+      "options": {
+        "A": "Cannot be magnetized",
+        "B": "Loses magnetism quickly",
+        "C": "Is a bad conductor",
+        "D": "Increases resistance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'Loses magnetism quickly'. In FBISE Grade 9 Physics Unit 8 (Magnetism & Thermal Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 77,
+      "question": "Magnetic lines of force never:",
+      "options": {
+        "A": "Intersect each other",
+        "B": "Form closed loops",
+        "C": "Start from south",
+        "D": "End on north"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 'Intersect each other'. In FBISE Grade 9 Physics Unit 8 (Magnetism & Thermal Physics), this is a standard curriculum property and board-examined definition."
+    },
+    {
+      "id": 78,
+      "question": "The magnetic strength is maximum at:",
+      "options": {
+        "A": "The center",
+        "B": "The poles",
+        "C": "The surface",
+        "D": "The edges"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 'The poles'. In FBISE Grade 9 Physics Unit 8 (Magnetism & Thermal Physics), this is a standard curriculum property and board-examined definition."
+    }
+  ]
+}
