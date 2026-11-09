@@ -1,0 +1,190 @@
+{
+  "id": 20,
+  "chapterNumber": 20,
+  "title": "FBISE Section A Board Examination Simulator 10 (Full-Book Board Simulator III)",
+  "totalQuestions": 15,
+  "slug": "english-10-model-paper-10",
+  "subject": "english-10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct passive voice: 'They will have finished the bridge by December.'",
+      "options": {
+        "A": "The bridge will have been finished by them by December.",
+        "B": "The bridge will be finished by them by December.",
+        "C": "The bridge would have been finished by them by December.",
+        "D": "The bridge will has been finished by them by December."
+      },
+      "answer": "A",
+      "explanation": "Future perfect active ('will have finished') changes to 'will have been + past participle' ('will have been finished')."
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct verb form: 'Each of the participants ___ awarded a certificate.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "have been",
+        "D": "are"
+      },
+      "answer": "A",
+      "explanation": "'Each' is an indefinite distributive pronoun that strictly takes a singular verb ('was awarded')."
+    },
+    {
+      "id": 3,
+      "question": "Identify the verbal: 'We watched the eagle *soar* above the mountains.'",
+      "options": {
+        "A": "Bare infinitive",
+        "B": "Gerund",
+        "C": "Past participle",
+        "D": "To-infinitive"
+      },
+      "answer": "A",
+      "explanation": "Verbs of perception like 'watch', 'see', and 'hear' take a bare infinitive ('soar') when describing the perceived action."
+    },
+    {
+      "id": 4,
+      "question": "Identify the grammatical role of the underlined clause: 'The problem is *that we have run out of funds*.'",
+      "options": {
+        "A": "Noun clause as subject complement",
+        "B": "Adjective clause",
+        "C": "Noun clause as object",
+        "D": "Adverb clause of condition"
+      },
+      "answer": "A",
+      "explanation": "'that we have run out of funds' follows the copular verb 'is' and defines the subject 'The problem', functioning as a subject complement Noun Clause."
+    },
+    {
+      "id": 5,
+      "question": "Complete the sentence: 'Unless you ___ your ticket, you cannot board the train.'",
+      "options": {
+        "A": "show",
+        "B": "will show",
+        "C": "showed",
+        "D": "do not show"
+      },
+      "answer": "A",
+      "explanation": "'Unless' already means 'if not'; therefore, it takes an affirmative simple present verb ('show') without double negatives."
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct pronoun: 'Between you and ___, there should be no misunderstandings.'",
+      "options": {
+        "A": "me",
+        "B": "I",
+        "C": "myself",
+        "D": "mine"
+      },
+      "answer": "A",
+      "explanation": "'Between' is a preposition, and prepositions strictly govern objective case pronouns ('between you and me', not 'between you and I')."
+    },
+    {
+      "id": 7,
+      "question": "Identify the type of sentence: 'Do or die.'",
+      "options": {
+        "A": "Compound sentence",
+        "B": "Simple sentence",
+        "C": "Complex sentence",
+        "D": "Interrogative sentence"
+      },
+      "answer": "A",
+      "explanation": "Two imperative independent clauses ('Do' and 'die') connected by coordinating conjunction 'or' form a Compound Sentence."
+    },
+    {
+      "id": 8,
+      "question": "Choose the appropriate preposition: 'He jumped ___ the swimming pool to rescue the child.'",
+      "options": {
+        "A": "into",
+        "B": "in",
+        "C": "onto",
+        "D": "at"
+      },
+      "answer": "A",
+      "explanation": "'Into' conveys dynamic motion from outside to an interior enclosed space, unlike the static preposition 'in'."
+    },
+    {
+      "id": 9,
+      "question": "What is the true reality and core essence of the wind according to the poem 'Peace'?",
+      "options": {
+        "A": "Gentle, silent whisper and everlasting eternal peace",
+        "B": "Endless destructive storm",
+        "C": "Cold freezing blizzard",
+        "D": "Heavy thunderous rain"
+      },
+      "answer": "A",
+      "explanation": "The poetess concludes that the destructive storm is ephemeral; the true, eternal reality of the wind is gentle whispers and serene peace."
+    },
+    {
+      "id": 10,
+      "question": "She says, \"I love reading novels.\" Choose the correct indirect speech:",
+      "options": {
+        "A": "She says that she loved reading novels.",
+        "B": "She says that she loves reading novels.",
+        "C": "She said that she loves reading novels.",
+        "D": "She says that she had loved reading novels."
+      },
+      "answer": "B",
+      "explanation": "When the reporting verb is in the present tense ('says') or future tense, the tense of the reported speech does NOT change ('loves reading novels')."
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct passive voice of the sentence with prepositional verb: 'They laughed at the clown.'",
+      "options": {
+        "A": "The clown was laughed at by them.",
+        "B": "The clown was laughed by them.",
+        "C": "The clown had been laughed at by them.",
+        "D": "The clown laughed at them."
+      },
+      "answer": "A",
+      "explanation": "In prepositional verbs ('laughed at'), the preposition must be retained alongside the past participle in passive voice ('was laughed at by them')."
+    },
+    {
+      "id": 12,
+      "question": "Select the correct sentence with proper subject-verb agreement:",
+      "options": {
+        "A": "The quality of these mangoes is exceptional.",
+        "B": "The quality of these mangoes are exceptional.",
+        "C": "The quality of these mangoes were exceptional.",
+        "D": "The quality of these mangoes have been exceptional."
+      },
+      "answer": "A",
+      "explanation": "The subject is the singular head noun 'The quality' (not the plural modifier 'mangoes'), so it takes the singular verb 'is'."
+    },
+    {
+      "id": 13,
+      "question": "Identify the function of the underlined infinitive: '*To forgive* is a noble virtue.'",
+      "options": {
+        "A": "Subject of the verb 'is'",
+        "B": "Direct object of the verb",
+        "C": "Subject complement",
+        "D": "Adverb of condition"
+      },
+      "answer": "A",
+      "explanation": "'To forgive' stands at the beginning of the clause as the grammatical subject of the linking verb 'is'."
+    },
+    {
+      "id": 14,
+      "question": "Identify the underlined part: 'He drove the car *at a breakneck speed*.'",
+      "options": {
+        "A": "Adverb phrase of manner",
+        "B": "Adjective phrase",
+        "C": "Noun phrase",
+        "D": "Independent clause"
+      },
+      "answer": "A",
+      "explanation": "'at a breakneck speed' answers 'How did he drive?' without a finite verb, functioning as an Adverb Phrase of Manner."
+    },
+    {
+      "id": 15,
+      "question": "Choose the modal for polite request: '*Would* you mind closing the window?'",
+      "options": {
+        "A": "Polite request",
+        "B": "Past habit",
+        "C": "Command",
+        "D": "Inability"
+      },
+      "answer": "A",
+      "explanation": "'Would you mind...' is a standard idiomatic formula for making a courteous, polite request."
+    }
+  ]
+}

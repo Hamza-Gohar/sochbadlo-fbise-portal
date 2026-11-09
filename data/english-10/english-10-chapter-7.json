@@ -1,0 +1,430 @@
+{
+  "id": 7,
+  "chapterNumber": 7,
+  "title": "Unit 07: Parts of Speech: Nouns, Pronouns, Adjectives & Adverbs",
+  "totalQuestions": 35,
+  "slug": "english-10-chapter-7",
+  "subject": "english-10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Identify the type of noun: 'His *eloquence* mesmerized the audience.'",
+      "options": {
+        "A": "Abstract noun",
+        "B": "Collective noun",
+        "C": "Proper noun",
+        "D": "Concrete material noun"
+      },
+      "answer": "A",
+      "explanation": "'Eloquence' refers to an intangible quality or abstract faculty of fluent, persuasive speech, making it an Abstract Noun."
+    },
+    {
+      "id": 2,
+      "question": "Identify the type of noun: 'A *flock* of migratory birds flew over the lake.'",
+      "options": {
+        "A": "Collective noun",
+        "B": "Abstract noun",
+        "C": "Proper noun",
+        "D": "Uncountable material noun"
+      },
+      "answer": "A",
+      "explanation": "'Flock' designates a group or collection of birds regarded as a unified entity, defining a Collective Noun."
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct irregular plural of 'criterion':",
+      "options": {
+        "A": "Criteria",
+        "B": "Criterions",
+        "C": "Criterias",
+        "D": "Criteriones"
+      },
+      "answer": "A",
+      "explanation": "'Criterion' originates from Greek, and its standard plural form in academic English is 'criteria'."
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct plural form of the foreign biological term 'cactus':",
+      "options": {
+        "A": "Cacti",
+        "B": "Cactuses",
+        "C": "Cacties",
+        "D": "Cactis"
+      },
+      "answer": "A",
+      "explanation": "'Cactus' derives from Latin, forming its traditional classical plural as 'cacti'."
+    },
+    {
+      "id": 5,
+      "question": "Identify the type of pronoun: 'He *himself* admitted his fault before the magistrate.'",
+      "options": {
+        "A": "Emphatic (Intensive) pronoun",
+        "B": "Reflexive pronoun",
+        "C": "Relative pronoun",
+        "D": "Demonstrative pronoun"
+      },
+      "answer": "A",
+      "explanation": "'Himself' placed directly after the subject 'He' is used solely to add dramatic emphasis, making it an Emphatic (Intensive) pronoun."
+    },
+    {
+      "id": 6,
+      "question": "Identify the type of pronoun: 'The careless skater injured *himself* on the ice.'",
+      "options": {
+        "A": "Reflexive pronoun",
+        "B": "Emphatic pronoun",
+        "C": "Indefinite pronoun",
+        "D": "Personal pronoun"
+      },
+      "answer": "A",
+      "explanation": "Here the action of the verb 'injured' reflects back upon the subject 'skater', serving as direct object and functioning as a Reflexive Pronoun."
+    },
+    {
+      "id": 7,
+      "question": "Identify the type of adjective: 'Abdullah won the *second* prize in the debate.'",
+      "options": {
+        "A": "Ordinal numeral adjective",
+        "B": "Cardinal numeral adjective",
+        "C": "Adjective of quantity",
+        "D": "Adjective of quality"
+      },
+      "answer": "A",
+      "explanation": "'Second' indicates position in a series/order, which classifies it as an Ordinal Numeral Adjective (compared to cardinals like one, two, three)."
+    },
+    {
+      "id": 8,
+      "question": "Identify the type of adjective: 'There is *little* hope of his recovery.'",
+      "options": {
+        "A": "Adjective of quantity",
+        "B": "Adjective of quality",
+        "C": "Numeral adjective",
+        "D": "Demonstrative adjective"
+      },
+      "answer": "A",
+      "explanation": "'Little' modifies the uncountable abstract noun 'hope' by showing amount/quantity, making it an Adjective of Quantity."
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct comparative form: 'Mount Everest is ___ than any other peak on Earth.'",
+      "options": {
+        "A": "higher",
+        "B": "highest",
+        "C": "more high",
+        "D": "high"
+      },
+      "answer": "A",
+      "explanation": "Comparison between two entities ('Mount Everest' vs 'any other peak') signaled by 'than' requires the comparative degree 'higher'."
+    },
+    {
+      "id": 10,
+      "question": "Identify the underlined adverb: 'She arrived *lately*.' What does 'lately' mean here?",
+      "options": {
+        "A": "Recently",
+        "B": "After the expected hour",
+        "C": "Slowly",
+        "D": "Punctually"
+      },
+      "answer": "A",
+      "explanation": "The adverb 'lately' means 'recently' or 'in recent times', distinct from the adverb 'late' which means 'after the scheduled time'."
+    },
+    {
+      "id": 11,
+      "question": "Which sentence follows the conventional ORDER OF ADJECTIVES (Opinion - Size - Age - Color - Origin - Material)?",
+      "options": {
+        "A": "She bought a lovely, small, ancient, wooden box.",
+        "B": "She bought an ancient, wooden, small, lovely box.",
+        "C": "She bought a wooden, ancient, lovely, small box.",
+        "D": "She bought a small, wooden, ancient, lovely box."
+      },
+      "answer": "A",
+      "explanation": "The natural royal order of adjectives places Opinion ('lovely') before Size ('small'), Age ('ancient'), and Material ('wooden')."
+    },
+    {
+      "id": 12,
+      "question": "Identify the type of pronoun: 'The boy *whose* bicycle was stolen lodged a complaint.'",
+      "options": {
+        "A": "Possessive relative pronoun",
+        "B": "Demonstrative pronoun",
+        "C": "Indefinite pronoun",
+        "D": "Reflexive pronoun"
+      },
+      "answer": "A",
+      "explanation": "'Whose' shows possession and connects the subordinate clause to the antecedent noun 'The boy', qualifying as a Possessive Relative Pronoun."
+    },
+    {
+      "id": 13,
+      "question": "Identify the underlined word: 'The horse ran *fast*.' 'Fast' is an:",
+      "options": {
+        "A": "Adverb of manner",
+        "B": "Adjective of quality",
+        "C": "Abstract noun",
+        "D": "Transitive verb"
+      },
+      "answer": "A",
+      "explanation": "'Fast' answers 'How did the horse run?' modifying the verb 'ran', which makes it an Adverb of Manner."
+    },
+    {
+      "id": 14,
+      "question": "Identify the underlined word: 'He is a *fast* runner.' 'Fast' is an:",
+      "options": {
+        "A": "Adjective",
+        "B": "Adverb",
+        "C": "Noun",
+        "D": "Conjunction"
+      },
+      "answer": "A",
+      "explanation": "Here 'fast' directly modifies the noun 'runner', functioning as an Adjective."
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct pronoun: 'Between you and ___, there should be no misunderstandings.'",
+      "options": {
+        "A": "me",
+        "B": "I",
+        "C": "myself",
+        "D": "mine"
+      },
+      "answer": "A",
+      "explanation": "'Between' is a preposition, and prepositions strictly govern objective case pronouns ('between you and me', not 'between you and I')."
+    },
+    {
+      "id": 16,
+      "question": "Identify the type of noun: 'The *furniture* in the hall is imported from Italy.'",
+      "options": {
+        "A": "Uncountable collective noun",
+        "B": "Countable plural noun",
+        "C": "Proper noun",
+        "D": "Abstract noun"
+      },
+      "answer": "A",
+      "explanation": "'Furniture' is an uncountable noun that cannot be pluralized with '-s' and always takes a singular verb ('is')."
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct irregular plural form of 'phenomenon':",
+      "options": {
+        "A": "Phenomena",
+        "B": "Phenomenons",
+        "C": "Phenomenas",
+        "D": "Phenom"
+      },
+      "answer": "A",
+      "explanation": "'Phenomenon' has a Greek origin and changes to 'phenomena' in the plural."
+    },
+    {
+      "id": 18,
+      "question": "Identify the type of pronoun: '*These* are the books recommended by the instructor.'",
+      "options": {
+        "A": "Demonstrative pronoun",
+        "B": "Demonstrative adjective",
+        "C": "Relative pronoun",
+        "D": "Indefinite pronoun"
+      },
+      "answer": "A",
+      "explanation": "'These' stands alone as the subject replacing the noun phrase, making it a Demonstrative Pronoun."
+    },
+    {
+      "id": 19,
+      "question": "Identify the type of word: '*These* books belong to the library.' 'These' is a:",
+      "options": {
+        "A": "Demonstrative adjective",
+        "B": "Demonstrative pronoun",
+        "C": "Possessive adjective",
+        "D": "Relative adjective"
+      },
+      "answer": "A",
+      "explanation": "When 'these' immediately precedes and modifies the noun 'books', it functions as a Demonstrative Adjective."
+    },
+    {
+      "id": 20,
+      "question": "Identify the reciprocal pronoun in the following sentence: 'The two rivals congratulated *each other*.'",
+      "options": {
+        "A": "each other",
+        "B": "two",
+        "C": "rivals",
+        "D": "congratulated"
+      },
+      "answer": "A",
+      "explanation": "'Each other' is a Reciprocal Pronoun used when two entities mutually interact (in contrast to 'one another' for three or more)."
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct superlative form: 'Of all the candidates, he gave the ___ presentation.'",
+      "options": {
+        "A": "best",
+        "B": "better",
+        "C": "more good",
+        "D": "most good"
+      },
+      "answer": "A",
+      "explanation": "When comparing more than two items, the superlative degree of 'good' is 'best'."
+    },
+    {
+      "id": 22,
+      "question": "Identify the adverb of FREQUENCY: 'He *seldom* makes errors in calculations.'",
+      "options": {
+        "A": "seldom",
+        "B": "makes",
+        "C": "errors",
+        "D": "calculations"
+      },
+      "answer": "A",
+      "explanation": "'Seldom' tells how often an action happens, functioning as an Adverb of Frequency."
+    },
+    {
+      "id": 23,
+      "question": "Identify the type of adjective: 'Which path should we take?' 'Which' is an:",
+      "options": {
+        "A": "Interrogative adjective",
+        "B": "Interrogative pronoun",
+        "C": "Relative pronoun",
+        "D": "Demonstrative adjective"
+      },
+      "answer": "A",
+      "explanation": "'Which' modifies the noun 'path' to form a question, making it an Interrogative Adjective."
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct irregular plural of 'crisis':",
+      "options": {
+        "A": "Crises",
+        "B": "Crisises",
+        "C": "Crisis",
+        "D": "Crisii"
+      },
+      "answer": "A",
+      "explanation": "Nouns of Greek origin ending in '-is' form their plural by changing '-is' to '-es' ('crisis' -> 'crises')."
+    },
+    {
+      "id": 25,
+      "question": "Identify the type of adverb: 'The weather is *extremely* cold today.'",
+      "options": {
+        "A": "Adverb of degree/intensity",
+        "B": "Adverb of manner",
+        "C": "Adverb of place",
+        "D": "Adverb of time"
+      },
+      "answer": "A",
+      "explanation": "'Extremely' modifies the adjective 'cold' by showing its intensity or level, qualifying as an Adverb of Degree."
+    },
+    {
+      "id": 26,
+      "question": "Identify the type of pronoun: '*Everyone* must sign the attendance register.'",
+      "options": {
+        "A": "Indefinite pronoun",
+        "B": "Personal pronoun",
+        "C": "Relative pronoun",
+        "D": "Demonstrative pronoun"
+      },
+      "answer": "A",
+      "explanation": "'Everyone' refers to persons generally without specifying particular individuals, classifying as an Indefinite Pronoun."
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct sentence regarding degrees of comparison:",
+      "options": {
+        "A": "Karachi is bigger than any other city in Pakistan.",
+        "B": "Karachi is bigger than any city in Pakistan.",
+        "C": "Karachi is the most biggest city in Pakistan.",
+        "D": "Karachi is more bigger than Lahore."
+      },
+      "answer": "A",
+      "explanation": "In comparative constructions comparing a city with other members of its own group, 'any other' is required to prevent illogical self-comparison."
+    },
+    {
+      "id": 28,
+      "question": "Identify the collective noun denoting ships:",
+      "options": {
+        "A": "A fleet of ships",
+        "B": "A pack of ships",
+        "C": "A pride of ships",
+        "D": "A swarm of ships"
+      },
+      "answer": "A",
+      "explanation": "The authentic collective noun for naval or commercial vessels is a 'fleet'."
+    },
+    {
+      "id": 29,
+      "question": "Identify the underlined word: 'This is the *very* book I was searching for.' 'Very' is an:",
+      "options": {
+        "A": "Emphasizing adjective",
+        "B": "Adverb of degree",
+        "C": "Conjunction",
+        "D": "Relative pronoun"
+      },
+      "answer": "A",
+      "explanation": "When 'very' directly modifies a noun ('book') to mean 'exact/same', it functions as an Emphasizing Adjective."
+    },
+    {
+      "id": 30,
+      "question": "Choose the correct pronoun: 'One must be faithful to ___ country.'",
+      "options": {
+        "A": "one's",
+        "B": "his",
+        "C": "her",
+        "D": "their"
+      },
+      "answer": "A",
+      "explanation": "The indefinite pronoun 'one' must maintain pronoun consistency with 'one's' (not 'his' or 'their')."
+    },
+    {
+      "id": 31,
+      "question": "Identify the type of adverb: 'The injured player walked *slowly* off the pitch.'",
+      "options": {
+        "A": "Adverb of manner",
+        "B": "Adverb of place",
+        "C": "Adverb of time",
+        "D": "Adverb of degree"
+      },
+      "answer": "A",
+      "explanation": "'Slowly' answers 'How did he walk?' classifying it as an Adverb of Manner."
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct comparative: 'This book is ___ to that one.'",
+      "options": {
+        "A": "superior",
+        "B": "more superior",
+        "C": "most superior",
+        "D": "superior than"
+      },
+      "answer": "A",
+      "explanation": "Latin comparatives ending in '-ior' (superior, inferior, senior, junior, prior) take the preposition 'to' and never take 'more' or 'than'."
+    },
+    {
+      "id": 33,
+      "question": "Identify the abstract noun derived from the adjective 'brave':",
+      "options": {
+        "A": "Bravery",
+        "B": "Bravely",
+        "C": "Bravest",
+        "D": "Braver"
+      },
+      "answer": "A",
+      "explanation": "'Bravery' is the abstract noun; 'bravely' is an adverb, while 'braver/bravest' are degrees of comparison."
+    },
+    {
+      "id": 34,
+      "question": "Identify the type of pronoun: '*Whom* did the committee appoint as chairman?'",
+      "options": {
+        "A": "Interrogative pronoun in objective case",
+        "B": "Relative pronoun",
+        "C": "Demonstrative pronoun",
+        "D": "Indefinite pronoun"
+      },
+      "answer": "A",
+      "explanation": "'Whom' functions as the objective interrogative pronoun receiving the action of the verb 'appoint'."
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct sentence containing an ADVERB OF PLACE:",
+      "options": {
+        "A": "The children played outside all afternoon.",
+        "B": "The children played happily.",
+        "C": "The children played yesterday.",
+        "D": "The children played very well."
+      },
+      "answer": "A",
+      "explanation": "'Outside' indicates the spatial location/direction where the action occurred, functioning as an Adverb of Place."
+    }
+  ]
+}

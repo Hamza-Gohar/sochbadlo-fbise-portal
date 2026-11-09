@@ -1,0 +1,430 @@
+{
+  "id": 6,
+  "chapterNumber": 6,
+  "title": "Unit 06: Conditionals & Modal Auxiliaries",
+  "totalQuestions": 35,
+  "slug": "english-10-chapter-6",
+  "subject": "english-10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Identify the type of conditional: 'If you heat ice to 0°C, it melts.'",
+      "options": {
+        "A": "Zero Conditional",
+        "B": "First Conditional",
+        "C": "Second Conditional",
+        "D": "Third Conditional"
+      },
+      "answer": "A",
+      "explanation": "Zero conditional represents universal scientific facts or invariable physical truths using 'If + present simple, present simple'."
+    },
+    {
+      "id": 2,
+      "question": "Complete the first conditional sentence: 'If he works diligently, he ___ the examination.'",
+      "options": {
+        "A": "will pass",
+        "B": "would pass",
+        "C": "would have passed",
+        "D": "passed"
+      },
+      "answer": "A",
+      "explanation": "First conditional uses 'If + present simple' ('works') paired with 'will + base verb' ('will pass') in the main result clause."
+    },
+    {
+      "id": 3,
+      "question": "Identify the conditional type: 'If I won a lottery, I would build a hospital.'",
+      "options": {
+        "A": "Second Conditional",
+        "B": "First Conditional",
+        "C": "Third Conditional",
+        "D": "Zero Conditional"
+      },
+      "answer": "A",
+      "explanation": "Second conditional expresses hypothetical or improbable present/future scenarios using 'If + past simple, would + base verb'."
+    },
+    {
+      "id": 4,
+      "question": "Complete the third conditional: 'If they had departed earlier, they ___ the train.'",
+      "options": {
+        "A": "would have caught",
+        "B": "would catch",
+        "C": "will catch",
+        "D": "had caught"
+      },
+      "answer": "A",
+      "explanation": "Third conditional discusses impossible past counterfactuals using 'If + past perfect' ('had departed') with 'would have + past participle' ('would have caught')."
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct subjunctive form: 'If I ___ the President, I would eradicate poverty.'",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "am",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "In hypothetical/counterfactual Second Conditional sentences, the past subjunctive form 'were' is used for all persons including first-person singular 'I'."
+    },
+    {
+      "id": 6,
+      "question": "Identify the modal function: 'You *must* fasten your seatbelt during takeoff.'",
+      "options": {
+        "A": "Compelling obligation / Legal necessity",
+        "B": "Polite suggestion",
+        "C": "Past habit",
+        "D": "Theoretical ability"
+      },
+      "answer": "A",
+      "explanation": "'Must' in this regulatory context expresses mandatory legal obligation and strict necessity."
+    },
+    {
+      "id": 7,
+      "question": "Choose the modal expressing moral duty: 'We ___ respect the national flag.'",
+      "options": {
+        "A": "ought to",
+        "B": "might",
+        "C": "can",
+        "D": "could"
+      },
+      "answer": "A",
+      "explanation": "'Ought to' expresses moral duty, ethical obligation, or civic responsibility."
+    },
+    {
+      "id": 8,
+      "question": "Identify the conditional: 'If plants do not receive sunlight, they die.'",
+      "options": {
+        "A": "Zero Conditional",
+        "B": "First Conditional",
+        "C": "Second Conditional",
+        "D": "Third Conditional"
+      },
+      "answer": "A",
+      "explanation": "This expresses a biological universal truth; both the conditional clause and the main clause are in the present simple, marking a Zero Conditional."
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct inversion for: 'If you had informed me, I would have helped you.'",
+      "options": {
+        "A": "Had you informed me, I would have helped you.",
+        "B": "Did you inform me, I would have helped you.",
+        "C": "Were you informing me, I would have helped you.",
+        "D": "Have you informed me, I would have helped you."
+      },
+      "answer": "A",
+      "explanation": "In formal English, the if-clause of a Third Conditional can omit 'if' by inverting auxiliary 'Had' with the subject ('Had you informed me...')."
+    },
+    {
+      "id": 10,
+      "question": "Identify the modal meaning: 'He *can* speak four languages fluently.'",
+      "options": {
+        "A": "Physical/mental ability",
+        "B": "Formal permission",
+        "C": "External compulsion",
+        "D": "Hypothetical wish"
+      },
+      "answer": "A",
+      "explanation": "'Can' here denotes the acquired skill and mental capacity/ability of the subject."
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct modal for formal permission: '___ I come in, sir?'",
+      "options": {
+        "A": "May",
+        "B": "Can",
+        "C": "Might",
+        "D": "Shall"
+      },
+      "answer": "A",
+      "explanation": "'May' is the formal and grammatically respectful modal auxiliary for requesting permission from an authority figure."
+    },
+    {
+      "id": 12,
+      "question": "Complete the sentence: 'If it ___ tomorrow, the match will be postponed.'",
+      "options": {
+        "A": "rains",
+        "B": "will rain",
+        "C": "rained",
+        "D": "would rain"
+      },
+      "answer": "A",
+      "explanation": "In a First Conditional, future time in the conditional clause is expressed using the simple present tense ('rains'), never 'will rain'."
+    },
+    {
+      "id": 13,
+      "question": "Identify the modal: 'The lights are on; he *must* be at home.'",
+      "options": {
+        "A": "Logical deduction / Strong probability",
+        "B": "Command",
+        "C": "Permission",
+        "D": "Ability"
+      },
+      "answer": "A",
+      "explanation": "'Must' based on evidential proof ('The lights are on') indicates epistemic certainty and strong logical deduction."
+    },
+    {
+      "id": 14,
+      "question": "Complete the sentence: 'Unless you ___ your ticket, you cannot board the train.'",
+      "options": {
+        "A": "show",
+        "B": "will show",
+        "C": "showed",
+        "D": "do not show"
+      },
+      "answer": "A",
+      "explanation": "'Unless' already means 'if not'; therefore, it takes an affirmative simple present verb ('show') without double negatives."
+    },
+    {
+      "id": 15,
+      "question": "Choose the modal for polite request: '*Would* you mind closing the window?'",
+      "options": {
+        "A": "Polite request",
+        "B": "Past habit",
+        "C": "Command",
+        "D": "Inability"
+      },
+      "answer": "A",
+      "explanation": "'Would you mind...' is a standard idiomatic formula for making a courteous, polite request."
+    },
+    {
+      "id": 16,
+      "question": "Identify the conditional: 'If I had known about your illness, I would have visited you.'",
+      "options": {
+        "A": "Third Conditional",
+        "B": "Second Conditional",
+        "C": "First Conditional",
+        "D": "Zero Conditional"
+      },
+      "answer": "A",
+      "explanation": "Past perfect 'had known' paired with 'would have visited' signifies a Third Conditional."
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct modal auxiliary: 'You ___ not worry about the finances; everything is covered.'",
+      "options": {
+        "A": "need",
+        "B": "must",
+        "C": "ought",
+        "D": "shall"
+      },
+      "answer": "A",
+      "explanation": "'Need not' expresses absence of obligation or necessity ('You need not worry')."
+    },
+    {
+      "id": 18,
+      "question": "Identify the conditional: 'If you drop glass on concrete, it shatters.'",
+      "options": {
+        "A": "Zero Conditional",
+        "B": "First Conditional",
+        "C": "Second Conditional",
+        "D": "Third Conditional"
+      },
+      "answer": "A",
+      "explanation": "This describes a certain physical law / cause-and-effect relationship using present simple in both clauses."
+    },
+    {
+      "id": 19,
+      "question": "Complete the second conditional: 'If he had more time, he ___ French.'",
+      "options": {
+        "A": "would learn",
+        "B": "will learn",
+        "C": "would have learned",
+        "D": "learned"
+      },
+      "answer": "A",
+      "explanation": "Past simple 'had' in the if-clause requires 'would + base verb' ('would learn') in the main clause."
+    },
+    {
+      "id": 20,
+      "question": "Identify the modal: 'She *could* swim across the river when she was younger.'",
+      "options": {
+        "A": "General past ability",
+        "B": "Present possibility",
+        "C": "Hypothetical condition",
+        "D": "Permission"
+      },
+      "answer": "A",
+      "explanation": "'Could' describes an acquired physical ability possessed in the past ('when she was younger')."
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct modal: 'Look at those dark clouds; it ___ rain this evening.'",
+      "options": {
+        "A": "may",
+        "B": "shall",
+        "C": "must to",
+        "D": "ought"
+      },
+      "answer": "A",
+      "explanation": "'May' is used to express factual present or future possibility based on meteorological indicators."
+    },
+    {
+      "id": 22,
+      "question": "Complete the sentence: 'Had he studied with concentration, he ___ the scholarship.'",
+      "options": {
+        "A": "would have secured",
+        "B": "would secure",
+        "C": "will secure",
+        "D": "secures"
+      },
+      "answer": "A",
+      "explanation": "Inverted conditional 'Had he studied' is an inverted Third Conditional requiring 'would have + past participle' ('would have secured')."
+    },
+    {
+      "id": 23,
+      "question": "Identify the modal function: 'Candidates *shall* provide original CNIC at the entrance.'",
+      "options": {
+        "A": "Official regulation / Rule",
+        "B": "Simple future prediction",
+        "C": "Offer of help",
+        "D": "Moral advice"
+      },
+      "answer": "A",
+      "explanation": "In formal, legal, and administrative documents, 'shall' used with third-person subjects expresses mandatory directives and regulatory requirements."
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct modal: 'You ___ see a doctor for that persistent cough.'",
+      "options": {
+        "A": "should",
+        "B": "would",
+        "C": "shall",
+        "D": "can"
+      },
+      "answer": "A",
+      "explanation": "'Should' is the standard modal auxiliary used to proffer sound advice or personal recommendation."
+    },
+    {
+      "id": 25,
+      "question": "Identify the conditional: 'If she asks me nicely, I will assist her.'",
+      "options": {
+        "A": "First Conditional",
+        "B": "Second Conditional",
+        "C": "Third Conditional",
+        "D": "Zero Conditional"
+      },
+      "answer": "A",
+      "explanation": "Simple present 'asks' combined with future 'will assist' represents a realistic, possible First Conditional."
+    },
+    {
+      "id": 26,
+      "question": "Choose the correct modal: 'How ___ you speak to me like that!' (Expressing indignation)",
+      "options": {
+        "A": "dare",
+        "B": "need",
+        "C": "might",
+        "D": "shall"
+      },
+      "answer": "A",
+      "explanation": "The semi-modal 'dare' in 'How dare you...' expresses shock, challenge, or moral indignation at someone's audacity."
+    },
+    {
+      "id": 27,
+      "question": "Complete the sentence: 'If I ___ you, I would consult a financial advisor.'",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "am",
+        "D": "had been"
+      },
+      "answer": "A",
+      "explanation": "'If I were you' is the established subjunctive phrase for giving advice in Second Conditional."
+    },
+    {
+      "id": 28,
+      "question": "Identify the modal: 'We *used to* play cricket in this vacant lot.'",
+      "options": {
+        "A": "Discontinued past habit",
+        "B": "Present routine",
+        "C": "Future intention",
+        "D": "Obligation"
+      },
+      "answer": "A",
+      "explanation": "'Used to' expresses a habitual state or repeated action in the past that no longer exists in the present."
+    },
+    {
+      "id": 29,
+      "question": "Complete the sentence: 'If we ___ the early bus, we would have reached the venue on time.'",
+      "options": {
+        "A": "had caught",
+        "B": "caught",
+        "C": "catch",
+        "D": "have caught"
+      },
+      "answer": "A",
+      "explanation": "Past counterfactual Third Conditional requires 'had caught' to correspond with 'would have reached'."
+    },
+    {
+      "id": 30,
+      "question": "Identify the modal: '*Could* you pass the salt, please?'",
+      "options": {
+        "A": "Polite request",
+        "B": "Past ability",
+        "C": "Compulsion",
+        "D": "Probability"
+      },
+      "answer": "A",
+      "explanation": "'Could' in interrogative requests expresses a polite, respectful appeal in the present."
+    },
+    {
+      "id": 31,
+      "question": "Identify the conditional: 'If water reaches 100°C under standard pressure, it boils.'",
+      "options": {
+        "A": "Zero Conditional",
+        "B": "First Conditional",
+        "C": "Second Conditional",
+        "D": "Third Conditional"
+      },
+      "answer": "A",
+      "explanation": "Universal scientific phenomenon using present simple in both clauses, characterizing Zero Conditional."
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct modal: 'You ___ not park your vehicle in front of the gate.' (Prohibition)",
+      "options": {
+        "A": "must",
+        "B": "may",
+        "C": "might",
+        "D": "should"
+      },
+      "answer": "A",
+      "explanation": "'Must not' expresses clear and unequivocal negative prohibition."
+    },
+    {
+      "id": 33,
+      "question": "Complete the sentence: 'Provided that you ___ the safety gear, you may enter the construction zone.'",
+      "options": {
+        "A": "wear",
+        "B": "wore",
+        "C": "will wear",
+        "D": "have worn"
+      },
+      "answer": "A",
+      "explanation": "'Provided that' operates as a conditional subordinator taking the present simple 'wear' in First Conditional contexts."
+    },
+    {
+      "id": 34,
+      "question": "Identify the modal: 'She *might* arrive late due to traffic congestion.'",
+      "options": {
+        "A": "Remote or tentative possibility",
+        "B": "Absolute certainty",
+        "C": "Past necessity",
+        "D": "Permission"
+      },
+      "answer": "A",
+      "explanation": "'Might' expresses tentative, weaker possibility compared to 'may'."
+    },
+    {
+      "id": 35,
+      "question": "Complete the sentence: 'If you mix red and blue pigments, you ___ purple.'",
+      "options": {
+        "A": "get",
+        "B": "would get",
+        "C": "got",
+        "D": "would have gotten"
+      },
+      "answer": "A",
+      "explanation": "A physical law of color mixing (Zero Conditional), taking the simple present 'get'."
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "id": 11,
+  "chapterNumber": 11,
+  "title": "FBISE Section A Board Examination Simulator 01 (Narration & Voice Focus)",
+  "totalQuestions": 15,
+  "slug": "english-10-model-paper-1",
+  "subject": "english-10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "He said, \"I am busy now.\" Choose the correct indirect speech:",
+      "options": {
+        "A": "He said that he was busy then.",
+        "B": "He said that he is busy now.",
+        "C": "He said he was busy now.",
+        "D": "He said that he had been busy then."
+      },
+      "answer": "A",
+      "explanation": "In indirect speech with a past reporting verb ('said'), the present simple tense ('am') shifts to past simple ('was'), and the time adverb 'now' shifts to 'then'."
+    },
+    {
+      "id": 2,
+      "question": "She said, \"I finished my work yesterday.\" Choose the correct indirect speech:",
+      "options": {
+        "A": "She said she finished her work the previous day.",
+        "B": "She said she has finished her work yesterday.",
+        "C": "She said that she had finished her work the previous day.",
+        "D": "She said she finishes her work the previous day."
+      },
+      "answer": "C",
+      "explanation": "Past simple tense ('finished') shifts to past perfect tense ('had finished'), and the time adverb 'yesterday' shifts to 'the previous day' or 'the day before'."
+    },
+    {
+      "id": 3,
+      "question": "He said, \"I will go tomorrow.\" Choose the correct indirect speech:",
+      "options": {
+        "A": "He said he would go the next day.",
+        "B": "He said he will go tomorrow.",
+        "C": "He said he would go tomorrow.",
+        "D": "He said he goes the next day."
+      },
+      "answer": "A",
+      "explanation": "Modal auxiliary 'will' shifts to 'would' in indirect reporting, and the time expression 'tomorrow' shifts to 'the next day' or 'the following day'."
+    },
+    {
+      "id": 4,
+      "question": "She said, \"I have been reading this book.\" Choose the correct indirect speech:",
+      "options": {
+        "A": "She said she has been reading that book.",
+        "B": "She said that she had been reading that book.",
+        "C": "She said she was reading that book.",
+        "D": "She said she read that book."
+      },
+      "answer": "B",
+      "explanation": "Present perfect continuous tense ('have been reading') shifts to past perfect continuous ('had been reading'), and the demonstrative pronoun 'this' shifts to 'that'."
+    },
+    {
+      "id": 5,
+      "question": "The teacher said, \"The sun rises in the east.\" Choose the correct indirect speech:",
+      "options": {
+        "A": "The teacher said that the sun rose in the east.",
+        "B": "The teacher said that the sun had risen in the east.",
+        "C": "The teacher said that the sun rises in the east.",
+        "D": "The teacher told that the sun is rising in the east."
+      },
+      "answer": "C",
+      "explanation": "Universal truths, scientific facts, and habitual actions do not undergo tense backshift even when the reporting verb is in the past tense."
+    },
+    {
+      "id": 6,
+      "question": "She said to me, \"Where are you going?\" Choose the correct indirect speech:",
+      "options": {
+        "A": "She asked me where was I going.",
+        "B": "She asked me where I was going.",
+        "C": "She asked me where am I going.",
+        "D": "She told me where I was going."
+      },
+      "answer": "B",
+      "explanation": "In indirect interrogative sentences beginning with Wh-words, the reporting verb changes to 'asked', the Wh-word acts as conjunction, and the sentence order becomes assertive (subject before auxiliary: 'I was going')."
+    },
+    {
+      "id": 7,
+      "question": "He said to her, \"Do you like coffee?\" Choose the correct indirect speech:",
+      "options": {
+        "A": "He asked her that did she like coffee.",
+        "B": "He asked her if she liked coffee.",
+        "C": "He told her whether she likes coffee.",
+        "D": "He asked her whether did she like coffee."
+      },
+      "answer": "B",
+      "explanation": "For Yes/No interrogative sentences, the reporting clause connects with 'if' or 'whether', the auxiliary 'do' is removed, and the verb shifts to past simple ('liked')."
+    },
+    {
+      "id": 8,
+      "question": "The doctor said to the patient, \"Take your medicine regularly.\" Choose the correct indirect speech:",
+      "options": {
+        "A": "The doctor advised the patient to take his medicine regularly.",
+        "B": "The doctor said the patient that he should take his medicine regularly.",
+        "C": "The doctor ordered the patient take his medicine regularly.",
+        "D": "The doctor asked the patient taking medicine regularly."
+      },
+      "answer": "A",
+      "explanation": "In imperative sentences expressing medical counsel, the reporting verb becomes 'advised', and the imperative verb is converted into a to-infinitive clause ('to take')."
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct passive voice: 'Ali wrote an essay yesterday.'",
+      "options": {
+        "A": "An essay was written by Ali yesterday.",
+        "B": "An essay had been written by Ali yesterday.",
+        "C": "An essay is written by Ali yesterday.",
+        "D": "An essay has been written by Ali yesterday."
+      },
+      "answer": "A",
+      "explanation": "Past simple tense in active voice ('wrote') changes into 'was/were + past participle' ('was written') in passive voice."
+    },
+    {
+      "id": 10,
+      "question": "Select the correct active voice of: 'The car is being washed by the driver.'",
+      "options": {
+        "A": "The driver washes the car.",
+        "B": "The driver was washing the car.",
+        "C": "The driver is washing the car.",
+        "D": "The driver has washed the car."
+      },
+      "answer": "C",
+      "explanation": "'is being washed' is present continuous passive, which corresponds to the present continuous active form 'is washing'."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following sentences is in the PASSIVE voice?",
+      "options": {
+        "A": "The gardener pruned the rose bushes this morning.",
+        "B": "The committee has evaluated all applications.",
+        "C": "The historical monument was restored by renowned architects.",
+        "D": "The birds will migrate south before winter."
+      },
+      "answer": "C",
+      "explanation": "Option C features the passive auxiliary 'was restored' with the agent introduced by the prepositional phrase 'by renowned architects'."
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct passive voice: 'The students are preparing a science exhibition.'",
+      "options": {
+        "A": "A science exhibition was being prepared by the students.",
+        "B": "A science exhibition is prepared by the students.",
+        "C": "A science exhibition is being prepared by the students.",
+        "D": "A science exhibition has been prepared by the students."
+      },
+      "answer": "C",
+      "explanation": "Present continuous active ('are preparing') converts to 'is/am/are being + past participle' ('is being prepared')."
+    },
+    {
+      "id": 13,
+      "question": "Select the correct passive voice: 'They had announced the results before sunset.'",
+      "options": {
+        "A": "The results have been announced by them before sunset.",
+        "B": "The results had been announced by them before sunset.",
+        "C": "The results were announced by them before sunset.",
+        "D": "The results had announced before sunset."
+      },
+      "answer": "B",
+      "explanation": "Past perfect active ('had announced') changes into 'had been + past participle' ('had been announced') in passive voice."
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct passive voice of the imperative sentence: 'Open the window.'",
+      "options": {
+        "A": "Let the window be opened.",
+        "B": "The window must open.",
+        "C": "Let the window open.",
+        "D": "You open the window."
+      },
+      "answer": "A",
+      "explanation": "Imperative commands are converted into passive using the formula: 'Let + object + be + past participle' ('Let the window be opened')."
+    },
+    {
+      "id": 15,
+      "question": "Convert into passive voice: 'Do not pluck the flowers.'",
+      "options": {
+        "A": "Let the flowers not be plucked.",
+        "B": "The flowers are not to pluck.",
+        "C": "Let not flowers be pluck.",
+        "D": "Flowers should not pluck."
+      },
+      "answer": "A",
+      "explanation": "Negative imperatives take the passive form 'Let + object + not + be + past participle' ('Let the flowers not be plucked')."
+    }
+  ]
+}

@@ -1,0 +1,430 @@
+{
+  "id": 2,
+  "chapterNumber": 2,
+  "title": "Unit 02: Active & Passive Voice (Passivization)",
+  "totalQuestions": 35,
+  "slug": "english-10-chapter-2",
+  "subject": "english-10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Choose the correct passive voice: 'Ali wrote an essay yesterday.'",
+      "options": {
+        "A": "An essay was written by Ali yesterday.",
+        "B": "An essay had been written by Ali yesterday.",
+        "C": "An essay is written by Ali yesterday.",
+        "D": "An essay has been written by Ali yesterday."
+      },
+      "answer": "A",
+      "explanation": "Past simple tense in active voice ('wrote') changes into 'was/were + past participle' ('was written') in passive voice."
+    },
+    {
+      "id": 2,
+      "question": "Select the correct active voice of: 'The car is being washed by the driver.'",
+      "options": {
+        "A": "The driver washes the car.",
+        "B": "The driver was washing the car.",
+        "C": "The driver is washing the car.",
+        "D": "The driver has washed the car."
+      },
+      "answer": "C",
+      "explanation": "'is being washed' is present continuous passive, which corresponds to the present continuous active form 'is washing'."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following sentences is in the PASSIVE voice?",
+      "options": {
+        "A": "The gardener pruned the rose bushes this morning.",
+        "B": "The committee has evaluated all applications.",
+        "C": "The historical monument was restored by renowned architects.",
+        "D": "The birds will migrate south before winter."
+      },
+      "answer": "C",
+      "explanation": "Option C features the passive auxiliary 'was restored' with the agent introduced by the prepositional phrase 'by renowned architects'."
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct passive voice: 'The students are preparing a science exhibition.'",
+      "options": {
+        "A": "A science exhibition was being prepared by the students.",
+        "B": "A science exhibition is prepared by the students.",
+        "C": "A science exhibition is being prepared by the students.",
+        "D": "A science exhibition has been prepared by the students."
+      },
+      "answer": "C",
+      "explanation": "Present continuous active ('are preparing') converts to 'is/am/are being + past participle' ('is being prepared')."
+    },
+    {
+      "id": 5,
+      "question": "Select the correct passive voice: 'They had announced the results before sunset.'",
+      "options": {
+        "A": "The results have been announced by them before sunset.",
+        "B": "The results had been announced by them before sunset.",
+        "C": "The results were announced by them before sunset.",
+        "D": "The results had announced before sunset."
+      },
+      "answer": "B",
+      "explanation": "Past perfect active ('had announced') changes into 'had been + past participle' ('had been announced') in passive voice."
+    },
+    {
+      "id": 6,
+      "question": "Choose the correct passive voice of the imperative sentence: 'Open the window.'",
+      "options": {
+        "A": "Let the window be opened.",
+        "B": "The window must open.",
+        "C": "Let the window open.",
+        "D": "You open the window."
+      },
+      "answer": "A",
+      "explanation": "Imperative commands are converted into passive using the formula: 'Let + object + be + past participle' ('Let the window be opened')."
+    },
+    {
+      "id": 7,
+      "question": "Convert into passive voice: 'Do not pluck the flowers.'",
+      "options": {
+        "A": "Let the flowers not be plucked.",
+        "B": "The flowers are not to pluck.",
+        "C": "Let not flowers be pluck.",
+        "D": "Flowers should not pluck."
+      },
+      "answer": "A",
+      "explanation": "Negative imperatives take the passive form 'Let + object + not + be + past participle' ('Let the flowers not be plucked')."
+    },
+    {
+      "id": 8,
+      "question": "Choose the correct passive voice: 'Who broke this mirror?'",
+      "options": {
+        "A": "By whom was this mirror broken?",
+        "B": "By who was this mirror broken?",
+        "C": "Whom broke this mirror?",
+        "D": "By whom this mirror was broken?"
+      },
+      "answer": "A",
+      "explanation": "Interrogative sentences with 'Who' change to 'By whom + auxiliary verb + subject + past participle' ('By whom was this mirror broken?')."
+    },
+    {
+      "id": 9,
+      "question": "Select the correct passive voice: 'Why did you punish him?'",
+      "options": {
+        "A": "Why was he punished by you?",
+        "B": "Why did he be punished by you?",
+        "C": "Why he was punished by you?",
+        "D": "Why had he been punished by you?"
+      },
+      "answer": "A",
+      "explanation": "In past simple interrogative passive, 'Why did you punish him?' becomes 'Why was he punished by you?' maintaining inversion (auxiliary 'was' before subject 'he')."
+    },
+    {
+      "id": 10,
+      "question": "Choose the correct passive voice: 'We must respect our teachers.'",
+      "options": {
+        "A": "Our teachers must be respected by us.",
+        "B": "Our teachers must respected by us.",
+        "C": "Our teachers have to be respected by us.",
+        "D": "Our teachers are respected by us."
+      },
+      "answer": "A",
+      "explanation": "Modal auxiliary 'must' transforms into 'modal + be + past participle' ('must be respected')."
+    },
+    {
+      "id": 11,
+      "question": "Select the correct passive voice: 'She can solve this mathematical problem.'",
+      "options": {
+        "A": "This mathematical problem can be solved by her.",
+        "B": "This mathematical problem could be solved by her.",
+        "C": "This mathematical problem can solve by her.",
+        "D": "This mathematical problem is solved by her."
+      },
+      "answer": "A",
+      "explanation": "Modal auxiliary 'can' takes 'can be + past participle' ('can be solved') in passive voice; the tense of the modal does not change."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following verbs CANNOT be converted into passive voice?",
+      "options": {
+        "A": "Destroy",
+        "B": "Sleep",
+        "C": "Write",
+        "D": "Build"
+      },
+      "answer": "B",
+      "explanation": "'Sleep' is an intransitive verb; intransitive verbs cannot take a direct object and therefore cannot be converted into the passive voice."
+    },
+    {
+      "id": 13,
+      "question": "Select the passive voice: 'The principal gave the boy a scholarship.' (Focusing on the recipient)",
+      "options": {
+        "A": "The boy was given a scholarship by the principal.",
+        "B": "A scholarship had been given to the boy by the principal.",
+        "C": "The boy was giving a scholarship by the principal.",
+        "D": "A scholarship was gave by the principal to the boy."
+      },
+      "answer": "A",
+      "explanation": "When a sentence has both an indirect object ('the boy') and direct object ('a scholarship'), either may be the subject; here 'The boy was given a scholarship by the principal' correctly promotes the indirect object."
+    },
+    {
+      "id": 14,
+      "question": "Choose the correct passive voice: 'They will have finished the bridge by December.'",
+      "options": {
+        "A": "The bridge will have been finished by them by December.",
+        "B": "The bridge will be finished by them by December.",
+        "C": "The bridge would have been finished by them by December.",
+        "D": "The bridge will has been finished by them by December."
+      },
+      "answer": "A",
+      "explanation": "Future perfect active ('will have finished') changes to 'will have been + past participle' ('will have been finished')."
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct passive voice of the sentence with prepositional verb: 'They laughed at the clown.'",
+      "options": {
+        "A": "The clown was laughed at by them.",
+        "B": "The clown was laughed by them.",
+        "C": "The clown had been laughed at by them.",
+        "D": "The clown laughed at them."
+      },
+      "answer": "A",
+      "explanation": "In prepositional verbs ('laughed at'), the preposition must be retained alongside the past participle in passive voice ('was laughed at by them')."
+    },
+    {
+      "id": 16,
+      "question": "Select the correct passive voice: 'The nurse is looking after the orphan.'",
+      "options": {
+        "A": "The orphan is being looked after by the nurse.",
+        "B": "The orphan was being looked after by the nurse.",
+        "C": "The orphan is looked after by the nurse.",
+        "D": "The orphan has been looked after by the nurse."
+      },
+      "answer": "A",
+      "explanation": "Present continuous with prepositional verb: 'is looking after' -> 'is being looked after by'."
+    },
+    {
+      "id": 17,
+      "question": "Choose the correct passive voice: 'People speak English all over the world.'",
+      "options": {
+        "A": "English is spoken all over the world.",
+        "B": "English was spoken all over the world.",
+        "C": "English has been spoken by people all over the world.",
+        "D": "English is being spoken all over the world."
+      },
+      "answer": "A",
+      "explanation": "When the agent is vague or understood ('people'), the by-phrase is typically omitted: 'English is spoken all over the world'."
+    },
+    {
+      "id": 18,
+      "question": "Select the correct passive voice: 'Someone has stolen my bicycle.'",
+      "options": {
+        "A": "My bicycle has been stolen.",
+        "B": "My bicycle was stolen by someone.",
+        "C": "My bicycle had been stolen.",
+        "D": "My bicycle is stolen."
+      },
+      "answer": "A",
+      "explanation": "Indefinite pronouns ('someone', 'somebody') are omitted in passive voice: 'My bicycle has been stolen'."
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct passive voice: 'Rose smells sweet.'",
+      "options": {
+        "A": "Rose is sweet when it is smelt.",
+        "B": "Rose was smelt sweet.",
+        "C": "Rose is smelt by everyone sweet.",
+        "D": "Sweetness is smelled by the rose."
+      },
+      "answer": "A",
+      "explanation": "Quasi-passive sensory verbs take the formula: 'Subject + be + adjective + when it is + past participle' ('Rose is sweet when it is smelt')."
+    },
+    {
+      "id": 20,
+      "question": "Select the correct passive voice: 'Quinine tastes bitter.'",
+      "options": {
+        "A": "Quinine is bitter when it is tasted.",
+        "B": "Quinine was tasted bitter.",
+        "C": "Bitter is tasted by quinine.",
+        "D": "Quinine tastes bitterly when eaten."
+      },
+      "answer": "A",
+      "explanation": "Middle/quasi-passive verbs like 'taste' become 'Quinine is bitter when it is tasted'."
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct passive voice: 'One should keep one's promises.'",
+      "options": {
+        "A": "Promises should be kept.",
+        "B": "One's promises should be kept by one.",
+        "C": "Promises must keep by one.",
+        "D": "Promises are to be kept by someone."
+      },
+      "answer": "A",
+      "explanation": "When 'one' is used as an impersonal subject, the by-phrase 'by one' is omitted: 'Promises should be kept'."
+    },
+    {
+      "id": 22,
+      "question": "Convert into passive voice: 'Please help me.'",
+      "options": {
+        "A": "You are requested to help me.",
+        "B": "Let me be helped by you.",
+        "C": "I should be helped please.",
+        "D": "Help must be given to me."
+      },
+      "answer": "A",
+      "explanation": "Polite requests using 'Please' are appropriately converted into 'You are requested to + infinitive' ('You are requested to help me')."
+    },
+    {
+      "id": 23,
+      "question": "Select the correct passive voice: 'Work hard.'",
+      "options": {
+        "A": "You are advised to work hard.",
+        "B": "Let hard work be done.",
+        "C": "Hard work should done by you.",
+        "D": "You must work hard."
+      },
+      "answer": "A",
+      "explanation": "Intransitive imperative sentences expressing advice are converted using 'You are advised to + infinitive' ('You are advised to work hard')."
+    },
+    {
+      "id": 24,
+      "question": "Choose the correct passive voice: 'They proposed a new educational policy.'",
+      "options": {
+        "A": "A new educational policy was proposed by them.",
+        "B": "A new educational policy had been proposed by them.",
+        "C": "A new educational policy is proposed by them.",
+        "D": "A new educational policy has been proposed."
+      },
+      "answer": "A",
+      "explanation": "Past simple active ('proposed') becomes 'was proposed by them' in passive voice."
+    },
+    {
+      "id": 25,
+      "question": "Select the correct passive voice: 'Did the police arrest the culprit?'",
+      "options": {
+        "A": "Was the culprit arrested by the police?",
+        "B": "Did the culprit be arrested by the police?",
+        "C": "Had the culprit been arrested by the police?",
+        "D": "Is the culprit arrested by the police?"
+      },
+      "answer": "A",
+      "explanation": "Past simple Yes/No questions change from 'Did + subject + V1' to 'Was/Were + subject + V3' ('Was the culprit arrested by the police?')."
+    },
+    {
+      "id": 26,
+      "question": "Convert into active voice: 'The match was won by the national team.'",
+      "options": {
+        "A": "The national team won the match.",
+        "B": "The national team wins the match.",
+        "C": "The national team has won the match.",
+        "D": "The national team was winning the match."
+      },
+      "answer": "A",
+      "explanation": "'was won' is past simple passive, converting back into past simple active 'won'."
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct passive voice: 'The earthquake destroyed hundreds of houses.'",
+      "options": {
+        "A": "Hundreds of houses were destroyed by the earthquake.",
+        "B": "Hundreds of houses had been destroyed by the earthquake.",
+        "C": "Hundreds of houses was destroyed by the earthquake.",
+        "D": "Hundreds of houses are destroyed by the earthquake."
+      },
+      "answer": "A",
+      "explanation": "'Hundreds of houses' is plural, requiring the plural auxiliary 'were': 'were destroyed by the earthquake'."
+    },
+    {
+      "id": 28,
+      "question": "Which tense NEVER has a standard passive form in English?",
+      "options": {
+        "A": "Present Perfect Continuous",
+        "B": "Past Continuous",
+        "C": "Future Simple",
+        "D": "Present Simple"
+      },
+      "answer": "A",
+      "explanation": "In standard English grammar, the four tenses that do not have recognized passive forms are: Present Perfect Continuous, Past Perfect Continuous, Future Continuous, and Future Perfect Continuous."
+    },
+    {
+      "id": 29,
+      "question": "Choose the correct passive voice: 'The mechanic has repaired the engine.'",
+      "options": {
+        "A": "The engine has been repaired by the mechanic.",
+        "B": "The engine was repaired by the mechanic.",
+        "C": "The engine had been repaired by the mechanic.",
+        "D": "The engine is repaired by the mechanic."
+      },
+      "answer": "A",
+      "explanation": "Present perfect active ('has repaired') transforms into 'has been + past participle' ('has been repaired')."
+    },
+    {
+      "id": 30,
+      "question": "Select the correct passive voice: 'Do not tell a lie.'",
+      "options": {
+        "A": "Let a lie not be told.",
+        "B": "A lie is not told.",
+        "C": "Let not a lie told.",
+        "D": "You do not tell a lie."
+      },
+      "answer": "A",
+      "explanation": "Negative imperative passive follows 'Let + object + not + be + V3' ('Let a lie not be told')."
+    },
+    {
+      "id": 31,
+      "question": "Select the correct active voice of: 'A delicious meal was being prepared by chef Tariq.'",
+      "options": {
+        "A": "Chef Tariq was preparing a delicious meal.",
+        "B": "Chef Tariq prepared a delicious meal.",
+        "C": "Chef Tariq is preparing a delicious meal.",
+        "D": "Chef Tariq had prepared a delicious meal."
+      },
+      "answer": "A",
+      "explanation": "'was being prepared' is past continuous passive, which converts back to past continuous active 'was preparing'."
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct passive voice: 'I know him very well.'",
+      "options": {
+        "A": "He is known to me very well.",
+        "B": "He is known by me very well.",
+        "C": "He was known to me very well.",
+        "D": "He has been known by me very well."
+      },
+      "answer": "A",
+      "explanation": "The past participle 'known' takes the preposition 'to' rather than 'by' in passive constructions: 'He is known to me very well'."
+    },
+    {
+      "id": 33,
+      "question": "Select the correct passive voice: 'His behavior surprised everyone.'",
+      "options": {
+        "A": "Everyone was surprised at his behavior.",
+        "B": "Everyone was surprised by his behavior.",
+        "C": "Everyone was surprised to his behavior.",
+        "D": "Everyone had been surprised with his behavior."
+      },
+      "answer": "A",
+      "explanation": "The verb 'surprised' in passive voice typically pairs with the preposition 'at' when referring to conduct or actions ('surprised at his behavior')."
+    },
+    {
+      "id": 34,
+      "question": "Choose the correct passive voice: 'The smoke filled the room.'",
+      "options": {
+        "A": "The room was filled with smoke.",
+        "B": "The room was filled by smoke.",
+        "C": "The room had been filled of smoke.",
+        "D": "The room is filled with smoke."
+      },
+      "answer": "A",
+      "explanation": "The verb 'filled' takes the preposition 'with' in passive voice ('filled with smoke') rather than 'by'."
+    },
+    {
+      "id": 35,
+      "question": "Convert into active voice: 'The project will be completed by the team next week.'",
+      "options": {
+        "A": "The team will complete the project next week.",
+        "B": "The team would complete the project next week.",
+        "C": "The team will have completed the project next week.",
+        "D": "The team completes the project next week."
+      },
+      "answer": "A",
+      "explanation": "'will be completed' is future simple passive, which translates back to future simple active 'will complete'."
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "id": 8,
+  "chapterNumber": 8,
+  "title": "Unit 08: Conjunctions, Transitional Devices & Sentence Types",
+  "totalQuestions": 30,
+  "slug": "english-10-chapter-8",
+  "subject": "english-10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Identify the type of sentence: 'The moon was bright, and we could see our way clearly.'",
+      "options": {
+        "A": "Compound sentence",
+        "B": "Simple sentence",
+        "C": "Complex sentence",
+        "D": "Compound-complex sentence"
+      },
+      "answer": "A",
+      "explanation": "Two independent clauses ('The moon was bright' and 'we could see our way clearly') joined by the coordinating conjunction 'and' form a Compound Sentence."
+    },
+    {
+      "id": 2,
+      "question": "Identify the type of conjunction: 'Not only did he arrive late, *but also* he forgot his notes.'",
+      "options": {
+        "A": "Correlative conjunction",
+        "B": "Coordinating conjunction",
+        "C": "Subordinating conjunction",
+        "D": "Relative conjunction"
+      },
+      "answer": "A",
+      "explanation": "'Not only...but also' functions in paired tandem to join parallel grammatical structures, making it a Correlative Conjunction."
+    },
+    {
+      "id": 3,
+      "question": "Identify the type of sentence: 'Although it was raining heavily, they decided to proceed with the match.'",
+      "options": {
+        "A": "Complex sentence",
+        "B": "Compound sentence",
+        "C": "Simple sentence",
+        "D": "Compound-complex sentence"
+      },
+      "answer": "A",
+      "explanation": "Consisting of one subordinate dependent clause ('Although it was raining heavily') and one main independent clause ('they decided to proceed with the match'), it is a Complex Sentence."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is NOT a coordinating conjunction (FANBOYS)?",
+      "options": {
+        "A": "Although",
+        "B": "Yet",
+        "C": "Nor",
+        "D": "So"
+      },
+      "answer": "A",
+      "explanation": "'Although' is a subordinating conjunction introducing a clause of concession, whereas For, And, Nor, But, Or, Yet, So (FANBOYS) are coordinating conjunctions."
+    },
+    {
+      "id": 5,
+      "question": "Choose the appropriate TRANSITIONAL DEVICE to indicate result/consequence: 'He failed to submit the paperwork on time; ___, his application was rejected.'",
+      "options": {
+        "A": "Consequently",
+        "B": "Moreover",
+        "C": "Nevertheless",
+        "D": "Conversely"
+      },
+      "answer": "A",
+      "explanation": "'Consequently' serves as a causal conjunctive adverb signaling that the rejection was the direct result/consequence of late submission."
+    },
+    {
+      "id": 6,
+      "question": "Identify the type of sentence: 'Seeing the tiger approaching, the hunter climbed up a tall banyan tree.'",
+      "options": {
+        "A": "Simple sentence",
+        "B": "Compound sentence",
+        "C": "Complex sentence",
+        "D": "Compound-complex sentence"
+      },
+      "answer": "A",
+      "explanation": "The sentence has only one finite predicate verb ('climbed') with an introductory participial phrase ('Seeing the tiger approaching'), classifying it as a Simple Sentence."
+    },
+    {
+      "id": 7,
+      "question": "Choose the transitional device expressing contrast: 'She studied around the clock; ___, she found the examination paper challenging.'",
+      "options": {
+        "A": "However",
+        "B": "Furthermore",
+        "C": "Therefore",
+        "D": "Similarly"
+      },
+      "answer": "A",
+      "explanation": "'However' signals a concession or contrast with the preceding proposition."
+    },
+    {
+      "id": 8,
+      "question": "Identify the sentence type by purpose/meaning: 'Please close the front gate when leaving.'",
+      "options": {
+        "A": "Imperative sentence",
+        "B": "Declarative sentence",
+        "C": "Interrogative sentence",
+        "D": "Optative sentence"
+      },
+      "answer": "A",
+      "explanation": "A sentence that makes a polite request, command, or instruction with an implied subject 'you' is an Imperative Sentence."
+    },
+    {
+      "id": 9,
+      "question": "Identify the sentence type by purpose: 'May the Almighty shower His countless blessings upon you!'",
+      "options": {
+        "A": "Optative sentence",
+        "B": "Exclamatory sentence",
+        "C": "Imperative sentence",
+        "D": "Declarative sentence"
+      },
+      "answer": "A",
+      "explanation": "A sentence that expresses a pious wish, prayer, or benediction is an Optative Sentence."
+    },
+    {
+      "id": 10,
+      "question": "Identify the type of sentence: 'When the siren sounded, the workers evacuated the factory, but the supervisor stayed behind.'",
+      "options": {
+        "A": "Compound-complex sentence",
+        "B": "Complex sentence",
+        "C": "Compound sentence",
+        "D": "Simple sentence"
+      },
+      "answer": "A",
+      "explanation": "Contains one dependent clause ('When the siren sounded') and two independent clauses ('the workers evacuated the factory' and 'the supervisor stayed behind') joined by coordinating 'but', creating a Compound-Complex Sentence."
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct correlative pair: 'Neither the teacher ___ the principal attended the meeting.'",
+      "options": {
+        "A": "nor",
+        "B": "or",
+        "C": "and",
+        "D": "but"
+      },
+      "answer": "A",
+      "explanation": "'Neither' strictly pairs with 'nor' as correlative conjunctions."
+    },
+    {
+      "id": 12,
+      "question": "Choose the transitional device indicating ADDITION of points: 'Reading books expands your worldview; ___, it sharpens analytical reasoning.'",
+      "options": {
+        "A": "Furthermore",
+        "B": "Nevertheless",
+        "C": "Otherwise",
+        "D": "In contrast"
+      },
+      "answer": "A",
+      "explanation": "'Furthermore' introduces supplementary reinforcing evidence, functioning as an additive transitional device."
+    },
+    {
+      "id": 13,
+      "question": "Identify the subordinating conjunction in: 'You will succeed provided that you stay focused on your goals.'",
+      "options": {
+        "A": "provided that",
+        "B": "succeed",
+        "C": "stay",
+        "D": "focused"
+      },
+      "answer": "A",
+      "explanation": "'Provided that' is a complex subordinating conjunction introducing a conditional clause."
+    },
+    {
+      "id": 14,
+      "question": "Identify the type of sentence: 'Do or die.'",
+      "options": {
+        "A": "Compound sentence",
+        "B": "Simple sentence",
+        "C": "Complex sentence",
+        "D": "Interrogative sentence"
+      },
+      "answer": "A",
+      "explanation": "Two imperative independent clauses ('Do' and 'die') connected by coordinating conjunction 'or' form a Compound Sentence."
+    },
+    {
+      "id": 15,
+      "question": "Which transitional device is used to give an EXAMPLE?",
+      "options": {
+        "A": "For instance",
+        "B": "Consequently",
+        "C": "Nonetheless",
+        "D": "On the other hand"
+      },
+      "answer": "A",
+      "explanation": "'For instance' (or 'for example') introduces specific illustrations supporting a general claim."
+    },
+    {
+      "id": 16,
+      "question": "Identify the type of conjunction: 'Scarcely had he reached the platform *when* the express train departed.'",
+      "options": {
+        "A": "Correlative conjunction",
+        "B": "Coordinating conjunction",
+        "C": "Subordinating conjunction",
+        "D": "Adversative conjunction"
+      },
+      "answer": "A",
+      "explanation": "'Scarcely...when' functions as a correlative temporal pair showing immediate sequence."
+    },
+    {
+      "id": 17,
+      "question": "Identify the sentence type: 'How magnificent this architectural masterpiece looks under the moonlight!'",
+      "options": {
+        "A": "Exclamatory sentence",
+        "B": "Optative sentence",
+        "C": "Declarative sentence",
+        "D": "Imperative sentence"
+      },
+      "answer": "A",
+      "explanation": "An exclamatory sentence conveys intense wonder or emotion ending with an exclamation mark."
+    },
+    {
+      "id": 18,
+      "question": "Identify the compound sentence among the following:",
+      "options": {
+        "A": "He worked tirelessly, yet he failed to secure the top rank.",
+        "B": "Because he was ill, he missed the examination.",
+        "C": "Having finished his breakfast, he went to office.",
+        "D": "I know the gentleman who spoke yesterday."
+      },
+      "answer": "A",
+      "explanation": "Option A joins two coordinate independent clauses with the coordinating conjunction 'yet'."
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct transitional connector for sequence of time: 'First, gather all ingredients. ___, preheat the oven to 180°C.'",
+      "options": {
+        "A": "Subsequently",
+        "B": "Contrarily",
+        "C": "Whereas",
+        "D": "Unless"
+      },
+      "answer": "A",
+      "explanation": "'Subsequently' (or 'Next') denotes temporal progression in a chronological sequence."
+    },
+    {
+      "id": 20,
+      "question": "Identify the correlative conjunction error: 'He is *both* intelligent *or* diligent.'",
+      "options": {
+        "A": "'or' should be replaced by 'and'",
+        "B": "'both' should be replaced by 'either'",
+        "C": "'diligent' should be replaced by 'diligence'",
+        "D": "No error"
+      },
+      "answer": "A",
+      "explanation": "'Both' pairs exclusively with 'and' ('both intelligent and diligent')."
+    },
+    {
+      "id": 21,
+      "question": "Identify the sentence type: 'A student who is disciplined will invariably excel in every walk of life.'",
+      "options": {
+        "A": "Complex sentence",
+        "B": "Compound sentence",
+        "C": "Simple sentence",
+        "D": "Compound-complex sentence"
+      },
+      "answer": "A",
+      "explanation": "Contains one relative clause ('who is disciplined') embedded in the principal clause ('A student will invariably excel in every walk of life'), making it a Complex Sentence."
+    },
+    {
+      "id": 22,
+      "question": "Choose the appropriate conjunction: 'Make haste, ___ you will miss the morning assembly.'",
+      "options": {
+        "A": "otherwise",
+        "B": "because",
+        "C": "since",
+        "D": "although"
+      },
+      "answer": "A",
+      "explanation": "'Otherwise' (or 'lest/or') conveys the adverse alternative consequence."
+    },
+    {
+      "id": 23,
+      "question": "Identify the type of sentence by structure: 'Life is real! Life is earnest!'",
+      "options": {
+        "A": "Two simple sentences",
+        "B": "One compound sentence",
+        "C": "One complex sentence",
+        "D": "One compound-complex sentence"
+      },
+      "answer": "A",
+      "explanation": "Each clause has its own independent subject and verb punctuated separately, forming two Simple Sentences."
+    },
+    {
+      "id": 24,
+      "question": "Which word functions as an ADVERSATIVE conjunction expressing contrast?",
+      "options": {
+        "A": "But",
+        "B": "And",
+        "C": "So",
+        "D": "For"
+      },
+      "answer": "A",
+      "explanation": "'But' is an adversative coordinating conjunction denoting opposition or contrast between two ideas."
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct transitional device to summarize: '___, we must acknowledge that perseverance is the cornerstone of triumph.'",
+      "options": {
+        "A": "In conclusion",
+        "B": "Conversely",
+        "C": "Nevertheless",
+        "D": "For example"
+      },
+      "answer": "A",
+      "explanation": "'In conclusion' or 'To sum up' introduces the final concluding summary of an argument."
+    },
+    {
+      "id": 26,
+      "question": "Identify the sentence type: 'Did the principal announce the winter vacation dates?'",
+      "options": {
+        "A": "Interrogative sentence",
+        "B": "Declarative sentence",
+        "C": "Imperative sentence",
+        "D": "Exclamatory sentence"
+      },
+      "answer": "A",
+      "explanation": "A sentence asking a direct question ending with a question mark is an Interrogative Sentence."
+    },
+    {
+      "id": 27,
+      "question": "Identify the type of conjunction: 'No sooner had she entered the room *than* everyone stood up.'",
+      "options": {
+        "A": "Correlative conjunction",
+        "B": "Coordinating conjunction",
+        "C": "Subordinating conjunction",
+        "D": "Relative conjunction"
+      },
+      "answer": "A",
+      "explanation": "'No sooner...than' is a standard correlative conjunction pair used with past perfect inversion."
+    },
+    {
+      "id": 28,
+      "question": "Identify the sentence type: 'Work hard, and you will pass the board exam.'",
+      "options": {
+        "A": "Compound sentence",
+        "B": "Complex sentence",
+        "C": "Simple sentence",
+        "D": "Exclamatory sentence"
+      },
+      "answer": "A",
+      "explanation": "Consists of the imperative clause 'Work hard' joined by 'and' to the clause 'you will pass the board exam', forming a Compound Sentence."
+    },
+    {
+      "id": 29,
+      "question": "Choose the appropriate subordinating conjunction of condition: 'We cannot go for an excursion ___ our parents grant permission.'",
+      "options": {
+        "A": "unless",
+        "B": "because",
+        "C": "so that",
+        "D": "while"
+      },
+      "answer": "A",
+      "explanation": "'Unless' establishes the negative prerequisite condition ('except if our parents grant permission')."
+    },
+    {
+      "id": 30,
+      "question": "Identify the sentence type: 'The sun set, the stars appeared, and the night chill deepened.'",
+      "options": {
+        "A": "Compound sentence",
+        "B": "Complex sentence",
+        "C": "Simple sentence",
+        "D": "Compound-complex sentence"
+      },
+      "answer": "A",
+      "explanation": "Three coordinate independent clauses linked by comma and coordinating conjunction 'and' constitute a Compound Sentence."
+    }
+  ]
+}

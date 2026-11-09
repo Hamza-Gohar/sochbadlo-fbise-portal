@@ -1,0 +1,190 @@
+{
+  "id": 14,
+  "chapterNumber": 14,
+  "title": "FBISE Section A Board Examination Simulator 04 (Parts of Speech & Syntax)",
+  "totalQuestions": 15,
+  "slug": "english-10-model-paper-4",
+  "subject": "english-10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Identify the type of noun: 'His *eloquence* mesmerized the audience.'",
+      "options": {
+        "A": "Abstract noun",
+        "B": "Collective noun",
+        "C": "Proper noun",
+        "D": "Concrete material noun"
+      },
+      "answer": "A",
+      "explanation": "'Eloquence' refers to an intangible quality or abstract faculty of fluent, persuasive speech, making it an Abstract Noun."
+    },
+    {
+      "id": 2,
+      "question": "Identify the type of noun: 'A *flock* of migratory birds flew over the lake.'",
+      "options": {
+        "A": "Collective noun",
+        "B": "Abstract noun",
+        "C": "Proper noun",
+        "D": "Uncountable material noun"
+      },
+      "answer": "A",
+      "explanation": "'Flock' designates a group or collection of birds regarded as a unified entity, defining a Collective Noun."
+    },
+    {
+      "id": 3,
+      "question": "Choose the correct irregular plural of 'criterion':",
+      "options": {
+        "A": "Criteria",
+        "B": "Criterions",
+        "C": "Criterias",
+        "D": "Criteriones"
+      },
+      "answer": "A",
+      "explanation": "'Criterion' originates from Greek, and its standard plural form in academic English is 'criteria'."
+    },
+    {
+      "id": 4,
+      "question": "Choose the correct plural form of the foreign biological term 'cactus':",
+      "options": {
+        "A": "Cacti",
+        "B": "Cactuses",
+        "C": "Cacties",
+        "D": "Cactis"
+      },
+      "answer": "A",
+      "explanation": "'Cactus' derives from Latin, forming its traditional classical plural as 'cacti'."
+    },
+    {
+      "id": 5,
+      "question": "Identify the type of pronoun: 'He *himself* admitted his fault before the magistrate.'",
+      "options": {
+        "A": "Emphatic (Intensive) pronoun",
+        "B": "Reflexive pronoun",
+        "C": "Relative pronoun",
+        "D": "Demonstrative pronoun"
+      },
+      "answer": "A",
+      "explanation": "'Himself' placed directly after the subject 'He' is used solely to add dramatic emphasis, making it an Emphatic (Intensive) pronoun."
+    },
+    {
+      "id": 6,
+      "question": "Identify the type of pronoun: 'The careless skater injured *himself* on the ice.'",
+      "options": {
+        "A": "Reflexive pronoun",
+        "B": "Emphatic pronoun",
+        "C": "Indefinite pronoun",
+        "D": "Personal pronoun"
+      },
+      "answer": "A",
+      "explanation": "Here the action of the verb 'injured' reflects back upon the subject 'skater', serving as direct object and functioning as a Reflexive Pronoun."
+    },
+    {
+      "id": 7,
+      "question": "Identify the type of adjective: 'Abdullah won the *second* prize in the debate.'",
+      "options": {
+        "A": "Ordinal numeral adjective",
+        "B": "Cardinal numeral adjective",
+        "C": "Adjective of quantity",
+        "D": "Adjective of quality"
+      },
+      "answer": "A",
+      "explanation": "'Second' indicates position in a series/order, which classifies it as an Ordinal Numeral Adjective (compared to cardinals like one, two, three)."
+    },
+    {
+      "id": 8,
+      "question": "Identify the type of adjective: 'There is *little* hope of his recovery.'",
+      "options": {
+        "A": "Adjective of quantity",
+        "B": "Adjective of quality",
+        "C": "Numeral adjective",
+        "D": "Demonstrative adjective"
+      },
+      "answer": "A",
+      "explanation": "'Little' modifies the uncountable abstract noun 'hope' by showing amount/quantity, making it an Adjective of Quantity."
+    },
+    {
+      "id": 9,
+      "question": "Identify the type of sentence: 'The moon was bright, and we could see our way clearly.'",
+      "options": {
+        "A": "Compound sentence",
+        "B": "Simple sentence",
+        "C": "Complex sentence",
+        "D": "Compound-complex sentence"
+      },
+      "answer": "A",
+      "explanation": "Two independent clauses ('The moon was bright' and 'we could see our way clearly') joined by the coordinating conjunction 'and' form a Compound Sentence."
+    },
+    {
+      "id": 10,
+      "question": "Identify the type of conjunction: 'Not only did he arrive late, *but also* he forgot his notes.'",
+      "options": {
+        "A": "Correlative conjunction",
+        "B": "Coordinating conjunction",
+        "C": "Subordinating conjunction",
+        "D": "Relative conjunction"
+      },
+      "answer": "A",
+      "explanation": "'Not only...but also' functions in paired tandem to join parallel grammatical structures, making it a Correlative Conjunction."
+    },
+    {
+      "id": 11,
+      "question": "Identify the type of sentence: 'Although it was raining heavily, they decided to proceed with the match.'",
+      "options": {
+        "A": "Complex sentence",
+        "B": "Compound sentence",
+        "C": "Simple sentence",
+        "D": "Compound-complex sentence"
+      },
+      "answer": "A",
+      "explanation": "Consisting of one subordinate dependent clause ('Although it was raining heavily') and one main independent clause ('they decided to proceed with the match'), it is a Complex Sentence."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following is NOT a coordinating conjunction (FANBOYS)?",
+      "options": {
+        "A": "Although",
+        "B": "Yet",
+        "C": "Nor",
+        "D": "So"
+      },
+      "answer": "A",
+      "explanation": "'Although' is a subordinating conjunction introducing a clause of concession, whereas For, And, Nor, But, Or, Yet, So (FANBOYS) are coordinating conjunctions."
+    },
+    {
+      "id": 13,
+      "question": "Choose the appropriate TRANSITIONAL DEVICE to indicate result/consequence: 'He failed to submit the paperwork on time; ___, his application was rejected.'",
+      "options": {
+        "A": "Consequently",
+        "B": "Moreover",
+        "C": "Nevertheless",
+        "D": "Conversely"
+      },
+      "answer": "A",
+      "explanation": "'Consequently' serves as a causal conjunctive adverb signaling that the rejection was the direct result/consequence of late submission."
+    },
+    {
+      "id": 14,
+      "question": "Identify the type of sentence: 'Seeing the tiger approaching, the hunter climbed up a tall banyan tree.'",
+      "options": {
+        "A": "Simple sentence",
+        "B": "Compound sentence",
+        "C": "Complex sentence",
+        "D": "Compound-complex sentence"
+      },
+      "answer": "A",
+      "explanation": "The sentence has only one finite predicate verb ('climbed') with an introductory participial phrase ('Seeing the tiger approaching'), classifying it as a Simple Sentence."
+    },
+    {
+      "id": 15,
+      "question": "Choose the transitional device expressing contrast: 'She studied around the clock; ___, she found the examination paper challenging.'",
+      "options": {
+        "A": "However",
+        "B": "Furthermore",
+        "C": "Therefore",
+        "D": "Similarly"
+      },
+      "answer": "A",
+      "explanation": "'However' signals a concession or contrast with the preceding proposition."
+    }
+  ]
+}

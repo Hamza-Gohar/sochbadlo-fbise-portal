@@ -1,0 +1,190 @@
+{
+  "id": 12,
+  "chapterNumber": 12,
+  "title": "FBISE Section A Board Examination Simulator 02 (Tenses, Agreement & Verbals)",
+  "totalQuestions": 15,
+  "slug": "english-10-model-paper-2",
+  "subject": "english-10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Identify the tense: 'By next June, he will have been working in this firm for ten years.'",
+      "options": {
+        "A": "Future Perfect Continuous",
+        "B": "Future Continuous",
+        "C": "Future Perfect",
+        "D": "Present Perfect Continuous"
+      },
+      "answer": "A",
+      "explanation": "'will have been working' with a time duration ('for ten years') and a future reference point ('by next June') exemplifies the Future Perfect Continuous tense."
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct verb form: 'Neither of the boys ___ present in the classroom yesterday.'",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "are",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "The distributive pronoun 'neither' is singular and takes a singular verb ('was') when referring to past time."
+    },
+    {
+      "id": 3,
+      "question": "Identify the type of verb in: 'The child seems unhappy today.'",
+      "options": {
+        "A": "Transitive verb",
+        "B": "Linking (Copular) verb",
+        "C": "Intransitive action verb",
+        "D": "Modal auxiliary"
+      },
+      "answer": "B",
+      "explanation": "'Seems' links the subject 'the child' with the subject complement adjective 'unhappy'; therefore, it functions as a linking (copular) verb."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following sentences contains an INTRANSITIVE verb?",
+      "options": {
+        "A": "The author wrote an inspiring story.",
+        "B": "The birds fly high in the sky.",
+        "C": "He opened the wooden cabinet.",
+        "D": "She baked delicious cookies for us."
+      },
+      "answer": "B",
+      "explanation": "'Fly' in 'The birds fly high' does not take a direct object ('high in the sky' is an adverbial prepositional modifier), making it intransitive."
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct verb form: 'Mathematics ___ considered a foundational discipline for engineers.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "Nouns denoting academic subjects ending in '-ics' (Mathematics, Physics, Economics, Civics) are plural in form but take a singular verb ('is')."
+    },
+    {
+      "id": 6,
+      "question": "Identify the tense: 'When I entered the room, the speaker had already delivered his speech.'",
+      "options": {
+        "A": "Past Simple & Past Perfect",
+        "B": "Past Continuous & Past Simple",
+        "C": "Present Perfect & Past Simple",
+        "D": "Past Perfect & Past Perfect Continuous"
+      },
+      "answer": "A",
+      "explanation": "'entered' is Past Simple, describing the subsequent action, while 'had delivered' is Past Perfect, representing the anterior completed action."
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct sentence following the rule of proximity in subject-verb agreement:",
+      "options": {
+        "A": "Either the captain or the players are responsible for the victory.",
+        "B": "Either the captain or the players is responsible for the victory.",
+        "C": "Either the players or the captain are responsible for the victory.",
+        "D": "Neither the teacher nor the students was present."
+      },
+      "answer": "A",
+      "explanation": "When subjects are joined by 'either...or' / 'neither...nor', the verb agrees with the subject closest to it. 'Players' is plural, so 'are' is correct."
+    },
+    {
+      "id": 8,
+      "question": "Complete the sentence with the correct tense: 'They ___ in this city since 2015.'",
+      "options": {
+        "A": "are living",
+        "B": "have been living",
+        "C": "were living",
+        "D": "lived"
+      },
+      "answer": "B",
+      "explanation": "An action that began in the past and continues into the present marked with 'since [year]' requires the Present Perfect Continuous tense ('have been living')."
+    },
+    {
+      "id": 9,
+      "question": "Identify the underlined verbal: '*Swimming* is an excellent full-body exercise.'",
+      "options": {
+        "A": "Gerund",
+        "B": "Present participle",
+        "C": "Past participle",
+        "D": "Infinitive"
+      },
+      "answer": "A",
+      "explanation": "'Swimming' functions as the grammatical subject of the sentence (acting as a verbal noun), which defines a Gerund."
+    },
+    {
+      "id": 10,
+      "question": "In which sentence is the underlined word a PRESENT PARTICIPLE functioning as an ADJECTIVE?",
+      "options": {
+        "A": "I saw a *flying* bird across the valley.",
+        "B": "She enjoys *reading* historical novels.",
+        "C": "He is tired of *waiting* in queues.",
+        "D": "*Smoking* is strictly prohibited here."
+      },
+      "answer": "A",
+      "explanation": "In 'a flying bird', 'flying' modifies the noun 'bird' as an adjective, functioning as a present participle."
+    },
+    {
+      "id": 11,
+      "question": "Identify the verbal: 'The *broken* vase could not be repaired.'",
+      "options": {
+        "A": "Past Participle",
+        "B": "Gerund",
+        "C": "Present Participle",
+        "D": "Bare Infinitive"
+      },
+      "answer": "A",
+      "explanation": "'Broken' is the V3 form of 'break' functioning adjectivally to describe the noun 'vase', which is a Past Participle."
+    },
+    {
+      "id": 12,
+      "question": "Identify the verbal in: 'She made me *laugh* out loud.'",
+      "options": {
+        "A": "Bare infinitive",
+        "B": "Gerund",
+        "C": "Present participle",
+        "D": "Past participle"
+      },
+      "answer": "A",
+      "explanation": "Causative verbs like 'make' (here past 'made') take an object followed by a bare infinitive (an infinitive without 'to': 'laugh')."
+    },
+    {
+      "id": 13,
+      "question": "Identify the function of the underlined gerund: 'He was punished for *lying*.'",
+      "options": {
+        "A": "Object of a preposition",
+        "B": "Subject of the sentence",
+        "C": "Direct object of a transitive verb",
+        "D": "Subject complement"
+      },
+      "answer": "A",
+      "explanation": "'Lying' follows the preposition 'for' and serves as its object (object of a preposition)."
+    },
+    {
+      "id": 14,
+      "question": "Identify the verbal: 'I heard the baby *crying* in the nursery.'",
+      "options": {
+        "A": "Present participle",
+        "B": "Gerund",
+        "C": "Infinitive",
+        "D": "Past participle"
+      },
+      "answer": "A",
+      "explanation": "'Crying' describes the condition/action of 'the baby' (acting as an objective complement participle), hence it is a present participle."
+    },
+    {
+      "id": 15,
+      "question": "In which sentence does an INFINITIVE express PURPOSE?",
+      "options": {
+        "A": "He went to the library to study in silence.",
+        "B": "To err is human, to forgive divine.",
+        "C": "Her dream is to travel around the globe.",
+        "D": "I want to buy a new bicycle."
+      },
+      "answer": "A",
+      "explanation": "'To study in silence' answers 'Why did he go to the library?' functioning as an adverbial infinitive of purpose."
+    }
+  ]
+}

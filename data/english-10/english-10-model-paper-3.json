@@ -1,0 +1,190 @@
+{
+  "id": 13,
+  "chapterNumber": 13,
+  "title": "FBISE Section A Board Examination Simulator 03 (Clauses, Conditionals & Modals)",
+  "totalQuestions": 15,
+  "slug": "english-10-model-paper-3",
+  "subject": "english-10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Identify the underlined clause: 'I know *that he is telling the truth*.'",
+      "options": {
+        "A": "Noun clause",
+        "B": "Adjective clause",
+        "C": "Adverb clause",
+        "D": "Principal clause"
+      },
+      "answer": "A",
+      "explanation": "'that he is telling the truth' acts as the direct object of the transitive verb 'know', making it a Noun Clause."
+    },
+    {
+      "id": 2,
+      "question": "Identify the underlined clause: 'The student *who secured the top position* was awarded a medal.'",
+      "options": {
+        "A": "Adjective (Relative) clause",
+        "B": "Noun clause",
+        "C": "Adverb clause of condition",
+        "D": "Independent clause"
+      },
+      "answer": "A",
+      "explanation": "'who secured the top position' modifies the antecedent noun 'The student', functioning as an Adjective (Relative) Clause."
+    },
+    {
+      "id": 3,
+      "question": "Identify the underlined clause: 'We shall leave *as soon as the rain stops*.'",
+      "options": {
+        "A": "Adverb clause of time",
+        "B": "Adverb clause of condition",
+        "C": "Adjective clause",
+        "D": "Noun clause"
+      },
+      "answer": "A",
+      "explanation": "'as soon as the rain stops' answers 'When shall we leave?' and is introduced by the temporal subordinator 'as soon as', qualifying it as an Adverb Clause of Time."
+    },
+    {
+      "id": 4,
+      "question": "Identify the underlined part: 'He spoke *in a very dignified manner*.'",
+      "options": {
+        "A": "Adverb phrase",
+        "B": "Adjective phrase",
+        "C": "Noun phrase",
+        "D": "Adverb clause"
+      },
+      "answer": "A",
+      "explanation": "'in a very dignified manner' modifies the verb 'spoke' by answering 'How did he speak?' without containing a finite verb, functioning as an Adverb Phrase of Manner."
+    },
+    {
+      "id": 5,
+      "question": "Identify the underlined clause: 'She acts *as if she knew everything*.'",
+      "options": {
+        "A": "Adverb clause of manner",
+        "B": "Adverb clause of purpose",
+        "C": "Noun clause",
+        "D": "Adjective clause"
+      },
+      "answer": "A",
+      "explanation": "'as if she knew everything' describes the manner of her action, functioning as an Adverb Clause of Manner."
+    },
+    {
+      "id": 6,
+      "question": "Identify the underlined clause: '*What he said at the conference* impressed the delegates.'",
+      "options": {
+        "A": "Noun clause functioning as subject",
+        "B": "Adjective clause",
+        "C": "Adverb clause of reason",
+        "D": "Independent clause"
+      },
+      "answer": "A",
+      "explanation": "'What he said at the conference' functions as the subject of the finite verb 'impressed', which is a Noun Clause."
+    },
+    {
+      "id": 7,
+      "question": "Identify the underlined part: 'He was a man *of immense wealth*.'",
+      "options": {
+        "A": "Adjective phrase",
+        "B": "Adverb phrase",
+        "C": "Noun phrase",
+        "D": "Adverb clause"
+      },
+      "answer": "A",
+      "explanation": "'of immense wealth' modifies the noun 'man' like an adjective (meaning 'a wealthy man'), making it an Adjective Phrase."
+    },
+    {
+      "id": 8,
+      "question": "Identify the underlined clause: 'This is the historical spot *where the resolution was passed*.'",
+      "options": {
+        "A": "Adjective clause",
+        "B": "Adverb clause of place",
+        "C": "Noun clause",
+        "D": "Independent clause"
+      },
+      "answer": "A",
+      "explanation": "'where the resolution was passed' modifies the noun 'historical spot', functioning as an Adjective (Relative) Clause with a relative adverb."
+    },
+    {
+      "id": 9,
+      "question": "Identify the type of conditional: 'If you heat ice to 0°C, it melts.'",
+      "options": {
+        "A": "Zero Conditional",
+        "B": "First Conditional",
+        "C": "Second Conditional",
+        "D": "Third Conditional"
+      },
+      "answer": "A",
+      "explanation": "Zero conditional represents universal scientific facts or invariable physical truths using 'If + present simple, present simple'."
+    },
+    {
+      "id": 10,
+      "question": "Complete the first conditional sentence: 'If he works diligently, he ___ the examination.'",
+      "options": {
+        "A": "will pass",
+        "B": "would pass",
+        "C": "would have passed",
+        "D": "passed"
+      },
+      "answer": "A",
+      "explanation": "First conditional uses 'If + present simple' ('works') paired with 'will + base verb' ('will pass') in the main result clause."
+    },
+    {
+      "id": 11,
+      "question": "Identify the conditional type: 'If I won a lottery, I would build a hospital.'",
+      "options": {
+        "A": "Second Conditional",
+        "B": "First Conditional",
+        "C": "Third Conditional",
+        "D": "Zero Conditional"
+      },
+      "answer": "A",
+      "explanation": "Second conditional expresses hypothetical or improbable present/future scenarios using 'If + past simple, would + base verb'."
+    },
+    {
+      "id": 12,
+      "question": "Complete the third conditional: 'If they had departed earlier, they ___ the train.'",
+      "options": {
+        "A": "would have caught",
+        "B": "would catch",
+        "C": "will catch",
+        "D": "had caught"
+      },
+      "answer": "A",
+      "explanation": "Third conditional discusses impossible past counterfactuals using 'If + past perfect' ('had departed') with 'would have + past participle' ('would have caught')."
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct subjunctive form: 'If I ___ the President, I would eradicate poverty.'",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "am",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "In hypothetical/counterfactual Second Conditional sentences, the past subjunctive form 'were' is used for all persons including first-person singular 'I'."
+    },
+    {
+      "id": 14,
+      "question": "Identify the modal function: 'You *must* fasten your seatbelt during takeoff.'",
+      "options": {
+        "A": "Compelling obligation / Legal necessity",
+        "B": "Polite suggestion",
+        "C": "Past habit",
+        "D": "Theoretical ability"
+      },
+      "answer": "A",
+      "explanation": "'Must' in this regulatory context expresses mandatory legal obligation and strict necessity."
+    },
+    {
+      "id": 15,
+      "question": "Choose the modal expressing moral duty: 'We ___ respect the national flag.'",
+      "options": {
+        "A": "ought to",
+        "B": "might",
+        "C": "can",
+        "D": "could"
+      },
+      "answer": "A",
+      "explanation": "'Ought to' expresses moral duty, ethical obligation, or civic responsibility."
+    }
+  ]
+}

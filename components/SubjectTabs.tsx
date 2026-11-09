@@ -29,6 +29,7 @@ interface SubjectTabsProps {
   chemistry10Chapters?: ChapterMeta[];
   cs10Chapters?: ChapterMeta[];
   biology10Chapters?: ChapterMeta[];
+  english10Chapters?: ChapterMeta[];
 }
 
 export default function SubjectTabs({
@@ -55,9 +56,10 @@ export default function SubjectTabs({
   chemistry10Chapters = [],
   cs10Chapters = [],
   biology10Chapters = [],
+  english10Chapters = [],
 }: SubjectTabsProps) {
   const [activeGrade, setActiveGrade] = useState<'9' | '10' | '11'>('11');
-  const [activeGrade10Subject, setActiveGrade10Subject] = useState<'math' | 'physics' | 'chemistry' | 'cs' | 'biology'>('math');
+  const [activeGrade10Subject, setActiveGrade10Subject] = useState<'math' | 'physics' | 'chemistry' | 'cs' | 'biology' | 'english'>('math');
   const [activeGrade9Subject, setActiveGrade9Subject] = useState<'urdu' | 'tarjuma' | 'english' | 'islamiat' | 'chemistry' | 'cs' | 'biology' | 'math' | 'physics'>('urdu');
   const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry'>('physics');
 
@@ -88,7 +90,9 @@ export default function SubjectTabs({
         }
       } else if (params.get('grade') === '10') {
         setActiveGrade('10');
-        if (params.get('subject') === 'biology') {
+        if (params.get('subject') === 'english') {
+          setActiveGrade10Subject('english');
+        } else if (params.get('subject') === 'biology') {
           setActiveGrade10Subject('biology');
         } else if (params.get('subject') === 'cs') {
           setActiveGrade10Subject('cs');
@@ -119,6 +123,7 @@ export default function SubjectTabs({
   const chemistry10Total = chemistry10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const cs10Total = cs10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const biology10Total = biology10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const english10Total = english10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -131,7 +136,9 @@ export default function SubjectTabs({
 
   const activeChapters =
     activeGrade === '10'
-      ? activeGrade10Subject === 'biology'
+      ? activeGrade10Subject === 'english'
+        ? english10Chapters
+        : activeGrade10Subject === 'biology'
         ? biology10Chapters
         : activeGrade10Subject === 'cs'
         ? cs10Chapters
@@ -219,7 +226,7 @@ export default function SubjectTabs({
             >
               <Calculator className="w-4 h-4 text-amber-400" />
               <span>Class 10th (SSC-II)</span>
-              <span className="text-[10px] opacity-75 font-mono">5 Subjects</span>
+              <span className="text-[10px] opacity-75 font-mono">6 Subjects</span>
             </button>
             <button
               type="button"
@@ -244,7 +251,9 @@ export default function SubjectTabs({
           <div>
             <h2 className="font-[family-name:var(--font-display)] text-xl sm:text-2xl font-bold tracking-tight text-[var(--color-ink)]">
               {activeGrade === '10'
-                ? activeGrade10Subject === 'biology'
+                ? activeGrade10Subject === 'english'
+                  ? 'Class 10th FBISE English Compulsory (انگریزی لازمی - SSC-II)'
+                  : activeGrade10Subject === 'biology'
                   ? 'Class 10th FBISE Biology (حیاتیات - SSC-II)'
                   : activeGrade10Subject === 'cs'
                   ? 'Class 10th FBISE Computer Science (کمپیوٹر سائنس - SSC-II)'
@@ -275,7 +284,9 @@ export default function SubjectTabs({
             </h2>
             <p className="text-xs text-[var(--color-muted)] mt-1">
               {activeGrade === '10'
-                ? activeGrade10Subject === 'biology'
+                ? activeGrade10Subject === 'english'
+                  ? 'All 10 National Curriculum units (Direct/Indirect Speech, Voice, Tenses, Verbals, Clauses, Conditionals & Modals, Parts of Speech, Conjunctions & Syntax, Prepositions & Articles, Poetic Devices) + 10 Annual Federal Board Examination Simulators.'
+                  : activeGrade10Subject === 'biology'
                   ? 'All 9 National Curriculum units (Gaseous Exchange, Homeostasis, Coordination & Control, Support & Movement, Reproduction, Inheritance, Man & Environment, Biotechnology, Pharmacology) + 10 Annual Federal Board Examination Simulators.'
                   : activeGrade10Subject === 'cs'
                   ? 'All 8 National Curriculum units (Computer Systems, Computational Thinking, Programming & Web Development, Data Science, IoT & Automation, Impacts of Computing, Digital Literacy, Research Methodologies) + 10 Annual Federal Board Examination Simulators.'
@@ -308,6 +319,22 @@ export default function SubjectTabs({
 
           {activeGrade === '10' ? (
             <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs pb-1">
+              <button
+                type="button"
+                onClick={() => setActiveGrade10Subject('english')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade10Subject === 'english'
+                    ? 'bg-purple-950 text-white border-purple-950 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <Languages className="w-4 h-4 text-purple-400" />
+                <span>English (انگریزی)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {english10Chapters.length} Modules · {english10Total} Qs
+                </span>
+              </button>
+
               <button
                 type="button"
                 onClick={() => setActiveGrade10Subject('biology')}
@@ -692,7 +719,11 @@ export default function SubjectTabs({
             <div>
               <span className="text-xs font-mono uppercase tracking-widest text-emerald-900 font-bold block">
                 {activeGrade === '10'
-                  ? activeGrade10Subject === 'cs'
+                  ? activeGrade10Subject === 'english'
+                    ? 'Active Subject: Class 10th English Compulsory (SSC-II Matric Part 2)'
+                    : activeGrade10Subject === 'biology'
+                    ? 'Active Subject: Class 10th Biology (SSC-II Matric Part 2)'
+                    : activeGrade10Subject === 'cs'
                     ? 'Active Subject: Class 10th Computer Science (SSC-II Matric Part 2)'
                     : activeGrade10Subject === 'chemistry'
                     ? 'Active Subject: Class 10th Chemistry (SSC-II Matric Part 2)'
@@ -737,7 +768,11 @@ export default function SubjectTabs({
               </span>
               <p className="text-xs text-[var(--color-muted)] mt-0.5">
                 {activeGrade === '10'
-                  ? activeGrade10Subject === 'cs'
+                  ? activeGrade10Subject === 'english'
+                    ? 'All 10 National Curriculum units + 10 official Section A annual board examination simulators (Founder Muhammad Ahmad Khan & Soch Badlo By MAK English Faculty) with comprehensive grammatical rules and literary explanations.'
+                    : activeGrade10Subject === 'biology'
+                    ? 'All 9 National Curriculum units + 10 official Section A annual board examination simulators (Lecturer Ma&apos;am Rubina Ashraf & Soch Badlo By MAK Academic Board) with biological diagrams and physiological rationales.'
+                    : activeGrade10Subject === 'cs'
                     ? 'All 8 National Curriculum units + 10 official Section A annual board examination simulators (Lecturer Sabahat Ul Hasan & Soch Badlo By MAK) with programming logic, algorithmic tracing, and computing rationales.'
                     : activeGrade10Subject === 'chemistry'
                     ? 'All 8 National Curriculum units + 10 official Section A annual board examination simulators (Soch Badlo By MAK Academic Board) with balanced chemical equations, equilibrium calculations, and molecular rationales.'
@@ -787,7 +822,15 @@ export default function SubjectTabs({
             <span>·</span>
             <span>
               {activeGrade === '10'
-                ? activeGrade10Subject === 'physics'
+                ? activeGrade10Subject === 'english'
+                  ? english10Total
+                  : activeGrade10Subject === 'biology'
+                  ? biology10Total
+                  : activeGrade10Subject === 'cs'
+                  ? cs10Total
+                  : activeGrade10Subject === 'chemistry'
+                  ? chemistry10Total
+                  : activeGrade10Subject === 'physics'
                   ? physics10Total
                   : math10Total
                 : activeGrade === '9'

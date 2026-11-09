@@ -1,0 +1,430 @@
+{
+  "id": 5,
+  "chapterNumber": 5,
+  "title": "Unit 05: Phrases & Clauses Analysis",
+  "totalQuestions": 35,
+  "slug": "english-10-chapter-5",
+  "subject": "english-10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Identify the underlined clause: 'I know *that he is telling the truth*.'",
+      "options": {
+        "A": "Noun clause",
+        "B": "Adjective clause",
+        "C": "Adverb clause",
+        "D": "Principal clause"
+      },
+      "answer": "A",
+      "explanation": "'that he is telling the truth' acts as the direct object of the transitive verb 'know', making it a Noun Clause."
+    },
+    {
+      "id": 2,
+      "question": "Identify the underlined clause: 'The student *who secured the top position* was awarded a medal.'",
+      "options": {
+        "A": "Adjective (Relative) clause",
+        "B": "Noun clause",
+        "C": "Adverb clause of condition",
+        "D": "Independent clause"
+      },
+      "answer": "A",
+      "explanation": "'who secured the top position' modifies the antecedent noun 'The student', functioning as an Adjective (Relative) Clause."
+    },
+    {
+      "id": 3,
+      "question": "Identify the underlined clause: 'We shall leave *as soon as the rain stops*.'",
+      "options": {
+        "A": "Adverb clause of time",
+        "B": "Adverb clause of condition",
+        "C": "Adjective clause",
+        "D": "Noun clause"
+      },
+      "answer": "A",
+      "explanation": "'as soon as the rain stops' answers 'When shall we leave?' and is introduced by the temporal subordinator 'as soon as', qualifying it as an Adverb Clause of Time."
+    },
+    {
+      "id": 4,
+      "question": "Identify the underlined part: 'He spoke *in a very dignified manner*.'",
+      "options": {
+        "A": "Adverb phrase",
+        "B": "Adjective phrase",
+        "C": "Noun phrase",
+        "D": "Adverb clause"
+      },
+      "answer": "A",
+      "explanation": "'in a very dignified manner' modifies the verb 'spoke' by answering 'How did he speak?' without containing a finite verb, functioning as an Adverb Phrase of Manner."
+    },
+    {
+      "id": 5,
+      "question": "Identify the underlined clause: 'She acts *as if she knew everything*.'",
+      "options": {
+        "A": "Adverb clause of manner",
+        "B": "Adverb clause of purpose",
+        "C": "Noun clause",
+        "D": "Adjective clause"
+      },
+      "answer": "A",
+      "explanation": "'as if she knew everything' describes the manner of her action, functioning as an Adverb Clause of Manner."
+    },
+    {
+      "id": 6,
+      "question": "Identify the underlined clause: '*What he said at the conference* impressed the delegates.'",
+      "options": {
+        "A": "Noun clause functioning as subject",
+        "B": "Adjective clause",
+        "C": "Adverb clause of reason",
+        "D": "Independent clause"
+      },
+      "answer": "A",
+      "explanation": "'What he said at the conference' functions as the subject of the finite verb 'impressed', which is a Noun Clause."
+    },
+    {
+      "id": 7,
+      "question": "Identify the underlined part: 'He was a man *of immense wealth*.'",
+      "options": {
+        "A": "Adjective phrase",
+        "B": "Adverb phrase",
+        "C": "Noun phrase",
+        "D": "Adverb clause"
+      },
+      "answer": "A",
+      "explanation": "'of immense wealth' modifies the noun 'man' like an adjective (meaning 'a wealthy man'), making it an Adjective Phrase."
+    },
+    {
+      "id": 8,
+      "question": "Identify the underlined clause: 'This is the historical spot *where the resolution was passed*.'",
+      "options": {
+        "A": "Adjective clause",
+        "B": "Adverb clause of place",
+        "C": "Noun clause",
+        "D": "Independent clause"
+      },
+      "answer": "A",
+      "explanation": "'where the resolution was passed' modifies the noun 'historical spot', functioning as an Adjective (Relative) Clause with a relative adverb."
+    },
+    {
+      "id": 9,
+      "question": "Identify the underlined clause: 'You will not succeed *unless you persevere*.'",
+      "options": {
+        "A": "Adverb clause of condition",
+        "B": "Adverb clause of concession",
+        "C": "Adverb clause of result",
+        "D": "Noun clause"
+      },
+      "answer": "A",
+      "explanation": "'unless you persevere' sets the prerequisite condition under which success occurs, making it an Adverb Clause of Condition."
+    },
+    {
+      "id": 10,
+      "question": "Identify the underlined clause: '*Although he was exhausted*, he completed the marathon.'",
+      "options": {
+        "A": "Adverb clause of concession (contrast)",
+        "B": "Adverb clause of reason",
+        "C": "Adverb clause of time",
+        "D": "Adjective clause"
+      },
+      "answer": "A",
+      "explanation": "'Although he was exhausted' introduces an acknowledged contrast or concession, making it an Adverb Clause of Concession."
+    },
+    {
+      "id": 11,
+      "question": "Identify the underlined clause: 'Work hard *lest you should fail*.'",
+      "options": {
+        "A": "Adverb clause of purpose",
+        "B": "Adverb clause of condition",
+        "C": "Adverb clause of reason",
+        "D": "Noun clause"
+      },
+      "answer": "A",
+      "explanation": "'lest you should fail' indicates negative purpose ('in order that you might not fail'), qualifying as an Adverb Clause of Purpose."
+    },
+    {
+      "id": 12,
+      "question": "Identify the underlined part: 'The boy *with blue eyes* is my cousin.'",
+      "options": {
+        "A": "Adjective phrase",
+        "B": "Adverb phrase",
+        "C": "Noun phrase",
+        "D": "Prepositional clause"
+      },
+      "answer": "A",
+      "explanation": "'with blue eyes' is a prepositional phrase modifying the noun 'The boy', functioning adjectivally as an Adjective Phrase."
+    },
+    {
+      "id": 13,
+      "question": "Identify the underlined clause: 'He was so weak *that he could barely stand*.'",
+      "options": {
+        "A": "Adverb clause of result/consequence",
+        "B": "Adverb clause of purpose",
+        "C": "Adjective clause",
+        "D": "Noun clause"
+      },
+      "answer": "A",
+      "explanation": "'that he could barely stand' connected to the intensifier 'so weak' denotes the outcome/result of his weakness, making it an Adverb Clause of Result."
+    },
+    {
+      "id": 14,
+      "question": "Identify the underlined clause: 'He failed *because he did not take his studies seriously*.'",
+      "options": {
+        "A": "Adverb clause of reason/cause",
+        "B": "Adverb clause of condition",
+        "C": "Adverb clause of result",
+        "D": "Noun clause"
+      },
+      "answer": "A",
+      "explanation": "'because he did not take his studies seriously' explains the cause of his failure, constituting an Adverb Clause of Reason."
+    },
+    {
+      "id": 15,
+      "question": "Identify the grammatical role of the underlined clause: 'The problem is *that we have run out of funds*.'",
+      "options": {
+        "A": "Noun clause as subject complement",
+        "B": "Adjective clause",
+        "C": "Noun clause as object",
+        "D": "Adverb clause of condition"
+      },
+      "answer": "A",
+      "explanation": "'that we have run out of funds' follows the copular verb 'is' and defines the subject 'The problem', functioning as a subject complement Noun Clause."
+    },
+    {
+      "id": 16,
+      "question": "Identify the underlined part: 'He drove the car *at a breakneck speed*.'",
+      "options": {
+        "A": "Adverb phrase of manner",
+        "B": "Adjective phrase",
+        "C": "Noun phrase",
+        "D": "Independent clause"
+      },
+      "answer": "A",
+      "explanation": "'at a breakneck speed' answers 'How did he drive?' without a finite verb, functioning as an Adverb Phrase of Manner."
+    },
+    {
+      "id": 17,
+      "question": "Identify the underlined clause: 'The house *which overlooks the valley* belongs to my uncle.'",
+      "options": {
+        "A": "Adjective (Relative) clause",
+        "B": "Noun clause",
+        "C": "Adverb clause of place",
+        "D": "Principal clause"
+      },
+      "answer": "A",
+      "explanation": "'which overlooks the valley' is a relative clause modifying the antecedent noun 'The house', functioning as an Adjective Clause."
+    },
+    {
+      "id": 18,
+      "question": "Identify the underlined clause: 'We eat *so that we may live*.'",
+      "options": {
+        "A": "Adverb clause of purpose",
+        "B": "Adverb clause of reason",
+        "C": "Adverb clause of result",
+        "D": "Noun clause"
+      },
+      "answer": "A",
+      "explanation": "'so that we may live' answers 'For what purpose do we eat?' which is an Adverb Clause of Purpose."
+    },
+    {
+      "id": 19,
+      "question": "Identify the underlined part: '*To win a championship* requires relentless discipline.'",
+      "options": {
+        "A": "Infinitive phrase functioning as subject",
+        "B": "Gerund phrase",
+        "C": "Participial phrase",
+        "D": "Adverb clause"
+      },
+      "answer": "A",
+      "explanation": "'To win a championship' is an infinitive phrase functioning as the subject of the verb 'requires'."
+    },
+    {
+      "id": 20,
+      "question": "Identify the underlined clause: 'She told me *where I could find the rare manuscript*.'",
+      "options": {
+        "A": "Noun clause as direct object",
+        "B": "Adverb clause of place",
+        "C": "Adjective clause",
+        "D": "Independent clause"
+      },
+      "answer": "A",
+      "explanation": "'where I could find the rare manuscript' answers 'Told me what?' functioning as the direct object of 'told', making it a Noun Clause."
+    },
+    {
+      "id": 21,
+      "question": "Identify the underlined clause: 'You may sit *wherever you like*.'",
+      "options": {
+        "A": "Adverb clause of place",
+        "B": "Adjective clause",
+        "C": "Noun clause",
+        "D": "Independent clause"
+      },
+      "answer": "A",
+      "explanation": "'wherever you like' modifies the verb 'sit' by answering 'Where?', qualifying as an Adverb Clause of Place."
+    },
+    {
+      "id": 22,
+      "question": "What is the difference between a PHRASE and a CLAUSE?",
+      "options": {
+        "A": "A clause has both a subject and a finite predicate verb, whereas a phrase lacks a subject-verb combination.",
+        "B": "A phrase always contains a finite verb while a clause does not.",
+        "C": "A clause cannot stand alone while a phrase always forms a complete sentence.",
+        "D": "There is no functional grammatical difference."
+      },
+      "answer": "A",
+      "explanation": "By linguistic definition, a clause contains a subject and a predicate (finite verb), while a phrase is a syntactic group of words lacking a subject-predicate nexus."
+    },
+    {
+      "id": 23,
+      "question": "Identify the underlined clause: 'There is no doubt *that Pakistan has immense economic potential*.'",
+      "options": {
+        "A": "Noun clause in apposition to a noun",
+        "B": "Adjective clause",
+        "C": "Adverb clause of result",
+        "D": "Principal clause"
+      },
+      "answer": "A",
+      "explanation": "'that Pakistan has immense economic potential' explains and renames the noun 'doubt', functioning as a Noun Clause in Apposition."
+    },
+    {
+      "id": 24,
+      "question": "Identify the underlined part: 'The train arrived *at seven o'clock sharp*.'",
+      "options": {
+        "A": "Adverb phrase of time",
+        "B": "Adjective phrase",
+        "C": "Noun phrase",
+        "D": "Adverb clause of time"
+      },
+      "answer": "A",
+      "explanation": "'at seven o'clock sharp' modifies the verb 'arrived' by answering 'When?' without containing a subject-verb unit, making it an Adverb Phrase of Time."
+    },
+    {
+      "id": 25,
+      "question": "Identify the underlined clause: 'Since you have apologized, *I will overlook the mistake*.'",
+      "options": {
+        "A": "Principal (Independent) clause",
+        "B": "Subordinate clause of reason",
+        "C": "Noun clause",
+        "D": "Adjective clause"
+      },
+      "answer": "A",
+      "explanation": "'I will overlook the mistake' can stand alone as a complete grammatical sentence, functioning as the Principal (Independent) Clause."
+    },
+    {
+      "id": 26,
+      "question": "Identify the underlined clause: '*Since you are feeling unwell*, you should rest.'",
+      "options": {
+        "A": "Adverb clause of cause/reason",
+        "B": "Adverb clause of time",
+        "C": "Adjective clause",
+        "D": "Noun clause"
+      },
+      "answer": "A",
+      "explanation": "'Since' here means 'because', introducing an Adverb Clause of Reason."
+    },
+    {
+      "id": 27,
+      "question": "Identify the underlined part: 'A stitch *in time* saves nine.'",
+      "options": {
+        "A": "Adjective phrase",
+        "B": "Adverb phrase",
+        "C": "Noun phrase",
+        "D": "Verb phrase"
+      },
+      "answer": "A",
+      "explanation": "'in time' modifies the noun 'stitch' (specifying which stitch: a timely stitch), making it an Adjective Phrase."
+    },
+    {
+      "id": 28,
+      "question": "Identify the underlined clause: 'Listen carefully to *what your teacher instructs*.'",
+      "options": {
+        "A": "Noun clause as object of preposition 'to'",
+        "B": "Adverb clause of manner",
+        "C": "Adjective clause",
+        "D": "Independent clause"
+      },
+      "answer": "A",
+      "explanation": "'what your teacher instructs' acts as the object of the preposition 'to', making it a Noun Clause."
+    },
+    {
+      "id": 29,
+      "question": "Identify the underlined clause: 'He ran *as fast as he could*.'",
+      "options": {
+        "A": "Adverb clause of degree/comparison",
+        "B": "Adverb clause of purpose",
+        "C": "Noun clause",
+        "D": "Adjective clause"
+      },
+      "answer": "A",
+      "explanation": "'as fast as he could' expresses comparison/degree of his running, qualifying as an Adverb Clause of Comparison/Degree."
+    },
+    {
+      "id": 30,
+      "question": "Identify the underlined part: '*Built of solid marble*, the palace stood for centuries.'",
+      "options": {
+        "A": "Participial phrase",
+        "B": "Gerund phrase",
+        "C": "Noun clause",
+        "D": "Adverb clause"
+      },
+      "answer": "A",
+      "explanation": "'Built of solid marble' begins with the past participle 'Built' and modifies 'the palace', functioning as a Participial Phrase."
+    },
+    {
+      "id": 31,
+      "question": "Identify the underlined clause: 'The reason why he failed *is not known*.' 'Why he failed' is an:",
+      "options": {
+        "A": "Adjective clause modifying 'reason'",
+        "B": "Noun clause as subject",
+        "C": "Adverb clause of reason",
+        "D": "Independent clause"
+      },
+      "answer": "A",
+      "explanation": "'why he failed' modifies the noun antecedent 'The reason', functioning as an Adjective Clause."
+    },
+    {
+      "id": 32,
+      "question": "Identify the underlined clause: 'I will remain here *until you return*.'",
+      "options": {
+        "A": "Adverb clause of time",
+        "B": "Adverb clause of condition",
+        "C": "Adjective clause",
+        "D": "Noun clause"
+      },
+      "answer": "A",
+      "explanation": "'until you return' answers 'Until when?' functioning as an Adverb Clause of Time."
+    },
+    {
+      "id": 33,
+      "question": "Identify the underlined part: 'He succeeded *by virtue of hard work*.'",
+      "options": {
+        "A": "Prepositional phrase",
+        "B": "Adjective clause",
+        "C": "Noun clause",
+        "D": "Finite verb phrase"
+      },
+      "answer": "A",
+      "explanation": "'by virtue of hard work' is a complex prepositional phrase showing the means of his success."
+    },
+    {
+      "id": 34,
+      "question": "Identify the underlined clause: 'I am certain *that he will attend the ceremony*.'",
+      "options": {
+        "A": "Noun clause modifying the adjective 'certain'",
+        "B": "Adverb clause of purpose",
+        "C": "Adjective clause",
+        "D": "Principal clause"
+      },
+      "answer": "A",
+      "explanation": "'that he will attend the ceremony' is a Noun Clause functioning as an adjective complement to 'certain'."
+    },
+    {
+      "id": 35,
+      "question": "Which of the following sentences contains a RELATIVE (ADJECTIVE) clause?",
+      "options": {
+        "A": "The author whom you met yesterday is giving a lecture today.",
+        "B": "I believe that honesty is the best policy.",
+        "C": "When the bell rang, the students entered.",
+        "D": "He walked as though he were injured."
+      },
+      "answer": "A",
+      "explanation": "'whom you met yesterday' is a relative adjective clause modifying the noun 'The author'."
+    }
+  ]
+}

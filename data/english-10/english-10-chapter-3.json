@@ -1,0 +1,430 @@
+{
+  "id": 3,
+  "chapterNumber": 3,
+  "title": "Unit 03: Tenses, Subject-Verb Agreement & Verb Types",
+  "totalQuestions": 35,
+  "slug": "english-10-chapter-3",
+  "subject": "english-10",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Identify the tense: 'By next June, he will have been working in this firm for ten years.'",
+      "options": {
+        "A": "Future Perfect Continuous",
+        "B": "Future Continuous",
+        "C": "Future Perfect",
+        "D": "Present Perfect Continuous"
+      },
+      "answer": "A",
+      "explanation": "'will have been working' with a time duration ('for ten years') and a future reference point ('by next June') exemplifies the Future Perfect Continuous tense."
+    },
+    {
+      "id": 2,
+      "question": "Choose the correct verb form: 'Neither of the boys ___ present in the classroom yesterday.'",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "are",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "The distributive pronoun 'neither' is singular and takes a singular verb ('was') when referring to past time."
+    },
+    {
+      "id": 3,
+      "question": "Identify the type of verb in: 'The child seems unhappy today.'",
+      "options": {
+        "A": "Transitive verb",
+        "B": "Linking (Copular) verb",
+        "C": "Intransitive action verb",
+        "D": "Modal auxiliary"
+      },
+      "answer": "B",
+      "explanation": "'Seems' links the subject 'the child' with the subject complement adjective 'unhappy'; therefore, it functions as a linking (copular) verb."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following sentences contains an INTRANSITIVE verb?",
+      "options": {
+        "A": "The author wrote an inspiring story.",
+        "B": "The birds fly high in the sky.",
+        "C": "He opened the wooden cabinet.",
+        "D": "She baked delicious cookies for us."
+      },
+      "answer": "B",
+      "explanation": "'Fly' in 'The birds fly high' does not take a direct object ('high in the sky' is an adverbial prepositional modifier), making it intransitive."
+    },
+    {
+      "id": 5,
+      "question": "Choose the correct verb form: 'Mathematics ___ considered a foundational discipline for engineers.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "Nouns denoting academic subjects ending in '-ics' (Mathematics, Physics, Economics, Civics) are plural in form but take a singular verb ('is')."
+    },
+    {
+      "id": 6,
+      "question": "Identify the tense: 'When I entered the room, the speaker had already delivered his speech.'",
+      "options": {
+        "A": "Past Simple & Past Perfect",
+        "B": "Past Continuous & Past Simple",
+        "C": "Present Perfect & Past Simple",
+        "D": "Past Perfect & Past Perfect Continuous"
+      },
+      "answer": "A",
+      "explanation": "'entered' is Past Simple, describing the subsequent action, while 'had delivered' is Past Perfect, representing the anterior completed action."
+    },
+    {
+      "id": 7,
+      "question": "Choose the correct sentence following the rule of proximity in subject-verb agreement:",
+      "options": {
+        "A": "Either the captain or the players are responsible for the victory.",
+        "B": "Either the captain or the players is responsible for the victory.",
+        "C": "Either the players or the captain are responsible for the victory.",
+        "D": "Neither the teacher nor the students was present."
+      },
+      "answer": "A",
+      "explanation": "When subjects are joined by 'either...or' / 'neither...nor', the verb agrees with the subject closest to it. 'Players' is plural, so 'are' is correct."
+    },
+    {
+      "id": 8,
+      "question": "Complete the sentence with the correct tense: 'They ___ in this city since 2015.'",
+      "options": {
+        "A": "are living",
+        "B": "have been living",
+        "C": "were living",
+        "D": "lived"
+      },
+      "answer": "B",
+      "explanation": "An action that began in the past and continues into the present marked with 'since [year]' requires the Present Perfect Continuous tense ('have been living')."
+    },
+    {
+      "id": 9,
+      "question": "Choose the correct verb: 'A pair of shoes ___ kept under the stairs.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "While 'shoes' is plural, the head noun of the subject phrase is the singular 'A pair', requiring the singular verb 'is'."
+    },
+    {
+      "id": 10,
+      "question": "Identify the TRANSITIVE verb in the following options:",
+      "options": {
+        "A": "The bell rang loudly.",
+        "B": "He sneezed violently.",
+        "C": "The carpenter polished the table.",
+        "D": "The baby slept peacefully."
+      },
+      "answer": "C",
+      "explanation": "'Polished' transfers action directly to the object 'the table', which makes it a transitive verb."
+    },
+    {
+      "id": 11,
+      "question": "Choose the correct verb: 'Slow and steady ___ the race.'",
+      "options": {
+        "A": "win",
+        "B": "wins",
+        "C": "winning",
+        "D": "are winning"
+      },
+      "answer": "B",
+      "explanation": "When two singular nouns joined by 'and' express a single, compound idea or proverb, they take a singular verb ('wins')."
+    },
+    {
+      "id": 12,
+      "question": "Choose the correct form: 'The jury ___ unanimous in its decision.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "are",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "When a collective noun ('jury') acts as a single, undivided unit (signaled by 'unanimous' and 'its'), it takes a singular verb ('was')."
+    },
+    {
+      "id": 13,
+      "question": "Choose the correct form: 'The jury ___ divided in their opinions.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has been"
+      },
+      "answer": "B",
+      "explanation": "When members of a collective noun act individually in disagreement (indicated by 'divided' and 'their'), it takes a plural verb ('were')."
+    },
+    {
+      "id": 14,
+      "question": "Identify the tense: 'I will be preparing for my final examinations this time next week.'",
+      "options": {
+        "A": "Future Continuous",
+        "B": "Future Simple",
+        "C": "Future Perfect",
+        "D": "Present Continuous"
+      },
+      "answer": "A",
+      "explanation": "'will be preparing' represents an ongoing action at a specific time in the future, which is the Future Continuous tense."
+    },
+    {
+      "id": 15,
+      "question": "Choose the correct verb form: 'Each of the participants ___ awarded a certificate.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "have been",
+        "D": "are"
+      },
+      "answer": "A",
+      "explanation": "'Each' is an indefinite distributive pronoun that strictly takes a singular verb ('was awarded')."
+    },
+    {
+      "id": 16,
+      "question": "Select the correct sentence with proper subject-verb agreement:",
+      "options": {
+        "A": "The quality of these mangoes is exceptional.",
+        "B": "The quality of these mangoes are exceptional.",
+        "C": "The quality of these mangoes were exceptional.",
+        "D": "The quality of these mangoes have been exceptional."
+      },
+      "answer": "A",
+      "explanation": "The subject is the singular head noun 'The quality' (not the plural modifier 'mangoes'), so it takes the singular verb 'is'."
+    },
+    {
+      "id": 17,
+      "question": "Identify the tense: 'She had been writing letters before the power went out.'",
+      "options": {
+        "A": "Past Perfect Continuous",
+        "B": "Past Continuous",
+        "C": "Past Perfect",
+        "D": "Present Perfect Continuous"
+      },
+      "answer": "A",
+      "explanation": "'had been writing' indicates an action that was ongoing in the past up until another past event ('the power went out'), defining the Past Perfect Continuous tense."
+    },
+    {
+      "id": 18,
+      "question": "Choose the correct verb form: 'Bread and butter ___ his favorite breakfast.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "'Bread and butter' denotes a single collective dish / unified concept, thus taking the singular verb 'is'."
+    },
+    {
+      "id": 19,
+      "question": "Choose the correct verb: 'Ten kilometers ___ a long distance to walk.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "B",
+      "explanation": "Quantities of distance, time, weight, or money are regarded as a single total quantity and take a singular verb ('is')."
+    },
+    {
+      "id": 20,
+      "question": "Identify the function of the underlined verb: 'He *grew* tired after the marathon.'",
+      "options": {
+        "A": "Transitive verb",
+        "B": "Linking verb",
+        "C": "Auxiliary verb",
+        "D": "Modal verb"
+      },
+      "answer": "B",
+      "explanation": "'Grew' does not denote agricultural cultivation here; it describes a transition of state and connects the subject 'He' with the adjective predicate 'tired', functioning as a linking verb."
+    },
+    {
+      "id": 21,
+      "question": "Choose the correct verb: 'The Prime Minister, along with his ministers, ___ arrived at the venue.'",
+      "options": {
+        "A": "has",
+        "B": "have",
+        "C": "are",
+        "D": "were"
+      },
+      "answer": "A",
+      "explanation": "Parenthetical phrases introduced by 'along with', 'as well as', 'together with', or 'in addition to' do not affect the grammatical number of the subject ('The Prime Minister' is singular -> 'has arrived')."
+    },
+    {
+      "id": 22,
+      "question": "Choose the correct verb form: 'None of the leaked information ___ authentic.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "are",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "'Information' is an uncountable noun. When 'none' refers to an uncountable noun, it requires a singular verb ('was')."
+    },
+    {
+      "id": 23,
+      "question": "Identify the tense: 'I have finished my breakfast.'",
+      "options": {
+        "A": "Present Perfect",
+        "B": "Past Simple",
+        "C": "Past Perfect",
+        "D": "Present Continuous"
+      },
+      "answer": "A",
+      "explanation": "'have finished' is composed of auxiliary 'have' + past participle V3, representing the Present Perfect tense."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following verbs is an IRREGULAR verb in English?",
+      "options": {
+        "A": "Play",
+        "B": "Walk",
+        "C": "Catch",
+        "D": "Talk"
+      },
+      "answer": "C",
+      "explanation": "'Catch' forms its past tense and past participle irregularly as 'caught, caught' (without the standard '-ed' inflection)."
+    },
+    {
+      "id": 25,
+      "question": "Choose the correct verb: 'Every man, woman, and child in the village ___ rescued.'",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "are",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "When subjects preceded by 'every' or 'each' are joined by 'and', the verb remains singular ('was rescued')."
+    },
+    {
+      "id": 26,
+      "question": "Select the correct form: 'Fifty thousand rupees ___ a fair price for this laptop.'",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "A specific sum of money considered as a unit takes a singular verb ('is')."
+    },
+    {
+      "id": 27,
+      "question": "Identify the tense of: 'The train had left before we reached the station.'",
+      "options": {
+        "A": "Past Perfect in the main clause, Past Simple in the subordinate clause",
+        "B": "Past Simple in the main clause, Past Perfect in the subordinate clause",
+        "C": "Past Continuous in both clauses",
+        "D": "Present Perfect in both clauses"
+      },
+      "answer": "A",
+      "explanation": "'had left' is Past Perfect (the earlier event) and 'reached' is Past Simple (the later event in past time)."
+    },
+    {
+      "id": 28,
+      "question": "Choose the correct verb: 'More than one candidate ___ qualified for the interview.'",
+      "options": {
+        "A": "has",
+        "B": "have",
+        "C": "are",
+        "D": "were"
+      },
+      "answer": "A",
+      "explanation": "Under standard formal grammar, the expression 'more than one' followed by a singular noun takes a singular verb ('has qualified')."
+    },
+    {
+      "id": 29,
+      "question": "Identify the type of verb: 'He gave me a precious watch.' The verb 'gave' is:",
+      "options": {
+        "A": "Ditransitive verb",
+        "B": "Intransitive verb",
+        "C": "Linking verb",
+        "D": "Modal auxiliary"
+      },
+      "answer": "A",
+      "explanation": "'Gave' takes two objects: an indirect object ('me') and a direct object ('a precious watch'), making it a ditransitive verb."
+    },
+    {
+      "id": 30,
+      "question": "Choose the correct verb: 'Neither you nor I ___ invited to the ceremony.'",
+      "options": {
+        "A": "am",
+        "B": "are",
+        "C": "is",
+        "D": "were"
+      },
+      "answer": "A",
+      "explanation": "By the rule of proximity with 'neither...nor', the verb agrees with the pronoun closest to it ('I' -> 'am')."
+    },
+    {
+      "id": 31,
+      "question": "Identify the sentence written in the PRESENT PERFECT CONTINUOUS tense:",
+      "options": {
+        "A": "It has been raining continuously since dawn.",
+        "B": "It was raining continuously when I awoke.",
+        "C": "It is raining continuously right now.",
+        "D": "It will have rained by tomorrow."
+      },
+      "answer": "A",
+      "explanation": "'has been raining' combines 'has been' with present participle '-ing', indicating Present Perfect Continuous."
+    },
+    {
+      "id": 32,
+      "question": "Choose the correct form: 'The committee ___ divided on this controversial issue.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "was",
+        "D": "has been"
+      },
+      "answer": "A",
+      "explanation": "When members of a committee are in disagreement, the collective noun functions plurally ('are divided')."
+    },
+    {
+      "id": 33,
+      "question": "Identify the regular verb among the following:",
+      "options": {
+        "A": "Construct",
+        "B": "Build",
+        "C": "Write",
+        "D": "Drive"
+      },
+      "answer": "A",
+      "explanation": "'Construct' forms its past tense and past participle regularly by adding '-ed' ('constructed, constructed')."
+    },
+    {
+      "id": 34,
+      "question": "Choose the correct verb: 'The scissors ___ on the cutting board.'",
+      "options": {
+        "A": "are",
+        "B": "is",
+        "C": "was",
+        "D": "has been"
+      },
+      "answer": "A",
+      "explanation": "Tools and garments consisting of two matching parts (scissors, trousers, binoculars, forceps) are grammatically plural and take plural verbs ('are')."
+    },
+    {
+      "id": 35,
+      "question": "Choose the correct verb form: 'If he ___ harder, he would have secured the scholarship.'",
+      "options": {
+        "A": "had worked",
+        "B": "worked",
+        "C": "works",
+        "D": "would work"
+      },
+      "answer": "A",
+      "explanation": "In Third Conditional sentences, the if-clause takes the Past Perfect tense ('had worked') to match 'would have + V3' in the main clause."
+    }
+  ]
+}
