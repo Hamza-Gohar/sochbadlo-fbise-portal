@@ -4,14 +4,14 @@ export default function Footer() {
   return (
     <footer className="border-t-4 border-[var(--color-ink)] bg-[var(--color-paper)] mt-24">
       <div className="max-w-[var(--container)] mx-auto px-4 sm:px-8 py-12">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8 pb-12 border-b border-[var(--color-rule)]">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-6 pb-12 border-b border-[var(--color-rule)]">
           {/* Col 1 */}
           <div className="lg:col-span-1">
             <h3 className="font-[family-name:var(--font-display)] text-xl font-bold tracking-tight text-[var(--color-ink)] mb-3">
               SochBadlo<span className="text-emerald-700 font-normal">Prep</span>
             </h3>
             <p className="text-xs text-[var(--color-muted)] leading-relaxed font-[family-name:var(--font-body)]">
-              Authentic FBISE exam practice platform engineered for secondary and intermediate students (Matric SSC-I, SSC-II & HSSC-I).
+              Authentic FBISE exam practice platform engineered for secondary and intermediate students (Matric SSC-I, SSC-II, HSSC-I & HSSC-II).
               Compiles verified multiple choice questions, numericals, and board standard solutions directly from official syllabus notes.
             </p>
             <div className="mt-4 text-[11px] font-mono text-[var(--color-muted)]">
@@ -35,8 +35,7 @@ export default function Footer() {
               <li className="font-semibold text-blue-900">Mathematics (11 Units + 2 Simulators)</li>
               <li className="font-semibold text-emerald-950">Physics (9 Units + 2 Simulators)</li>
               <li className="pt-1 text-[11px]">• Cytology, Genetics, Algorithms & AI</li>
-              <li className="text-[11px]">• Prepositions, Modals, Quran & Seerat</li>
-              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 36 Board Examination Simulators</li>
+              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 36 Board Simulators</li>
             </ul>
           </div>
 
@@ -55,9 +54,6 @@ export default function Footer() {
               <li className="font-semibold text-amber-900">Chemistry (8 Units + 10 Simulators)</li>
               <li className="font-semibold text-teal-900">Physics (9 Units + 10 Simulators)</li>
               <li className="font-semibold text-blue-900">Mathematics (13 Units + 10 Simulators)</li>
-              <li className="pt-1 text-[11px]">• Foreign Policy, Economy, Urdu Asnaaf, Surahs</li>
-              <li className="text-[11px]">• Narration, Genetics, Algorithms & Organic Chem</li>
-              <li className="text-[11px]">• Waves, Optics, Quadratic Equations & Trig</li>
               <li className="pt-1 font-semibold text-[var(--color-ink)]">• 90 Board Simulators (3,850 MCQs)</li>
             </ul>
           </div>
@@ -77,10 +73,26 @@ export default function Footer() {
               <li>Mathematics (5 Units + 3 Simulators)</li>
               <li>English Compulsory (6 Units + 4 Simulators)</li>
               <li>Computer Science (8 Units + 3 Simulators)</li>
+              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 77 Modules (3,163 MCQs)</li>
             </ul>
           </div>
 
           {/* Col 5 */}
+          <div>
+            <h4 className="font-[family-name:var(--font-display)] text-xs font-bold uppercase tracking-wider text-[var(--color-ink)] mb-3">
+              Class 12th (HSSC-II)
+            </h4>
+            <ul className="text-xs space-y-1.5 text-[var(--color-muted)] font-[family-name:var(--font-display)]">
+              <li className="font-semibold text-purple-900">English Compulsory (10 Units + 10 Simulators)</li>
+              <li className="font-semibold text-emerald-900">اردو لازمی (8 Units + 10 Simulators)</li>
+              <li className="font-semibold text-emerald-950">Pakistan Studies (7 Units + 10 Simulators)</li>
+              <li className="font-semibold text-teal-900">ترجمۃ القرآن (7 Units + 10 Simulators)</li>
+              <li className="pt-1 text-[11px]">• Rhetoric, Syntax, Foreign Policy & Quran</li>
+              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 40 Board Simulators (1,720 MCQs)</li>
+            </ul>
+          </div>
+
+          {/* Col 6 */}
           <div>
             <h4 className="font-[family-name:var(--font-display)] text-xs font-bold uppercase tracking-wider text-[var(--color-ink)] mb-3">
               Ecosystem

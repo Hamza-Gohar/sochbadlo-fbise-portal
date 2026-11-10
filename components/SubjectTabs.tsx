@@ -33,6 +33,10 @@ interface SubjectTabsProps {
   pakstudies10Chapters?: ChapterMeta[];
   urdu10Chapters?: ChapterMeta[];
   tarjuma10Chapters?: ChapterMeta[];
+  english12Chapters?: ChapterMeta[];
+  urdu12Chapters?: ChapterMeta[];
+  pakstudies12Chapters?: ChapterMeta[];
+  tarjuma12Chapters?: ChapterMeta[];
 }
 
 export default function SubjectTabs({
@@ -63,8 +67,13 @@ export default function SubjectTabs({
   pakstudies10Chapters = [],
   urdu10Chapters = [],
   tarjuma10Chapters = [],
+  english12Chapters = [],
+  urdu12Chapters = [],
+  pakstudies12Chapters = [],
+  tarjuma12Chapters = [],
 }: SubjectTabsProps) {
-  const [activeGrade, setActiveGrade] = useState<'9' | '10' | '11'>('11');
+  const [activeGrade, setActiveGrade] = useState<'9' | '10' | '11' | '12'>('12');
+  const [activeGrade12Subject, setActiveGrade12Subject] = useState<'english' | 'urdu' | 'pakstudies' | 'tarjuma'>('english');
   const [activeGrade10Subject, setActiveGrade10Subject] = useState<'math' | 'physics' | 'chemistry' | 'cs' | 'biology' | 'english' | 'pakstudies' | 'urdu' | 'tarjuma'>('math');
   const [activeGrade9Subject, setActiveGrade9Subject] = useState<'urdu' | 'tarjuma' | 'english' | 'islamiat' | 'chemistry' | 'cs' | 'biology' | 'math' | 'physics'>('urdu');
   const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry'>('physics');
@@ -73,7 +82,18 @@ export default function SubjectTabs({
   React.useEffect(() => {
     if (typeof window !== 'undefined') {
       const params = new URLSearchParams(window.location.search);
-      if (params.get('grade') === '9') {
+      if (params.get('grade') === '12') {
+        setActiveGrade('12');
+        if (params.get('subject') === 'english') {
+          setActiveGrade12Subject('english');
+        } else if (params.get('subject') === 'urdu') {
+          setActiveGrade12Subject('urdu');
+        } else if (params.get('subject') === 'pakstudies') {
+          setActiveGrade12Subject('pakstudies');
+        } else if (params.get('subject') === 'tarjuma') {
+          setActiveGrade12Subject('tarjuma');
+        }
+      } else if (params.get('grade') === '9') {
         setActiveGrade('9');
         if (params.get('subject') === 'physics') {
           setActiveGrade9Subject('physics');
@@ -139,6 +159,10 @@ export default function SubjectTabs({
   const pakstudies10Total = pakstudies10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urdu10Total = urdu10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const tarjuma10Total = tarjuma10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const english12Total = english12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const urdu12Total = urdu12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const pakstudies12Total = pakstudies12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const tarjuma12Total = tarjuma12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -150,7 +174,15 @@ export default function SubjectTabs({
   const chemistryTotal = chemistryChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
 
   const activeChapters =
-    activeGrade === '10'
+    activeGrade === '12'
+      ? activeGrade12Subject === 'english'
+        ? english12Chapters
+        : activeGrade12Subject === 'urdu'
+        ? urdu12Chapters
+        : activeGrade12Subject === 'pakstudies'
+        ? pakstudies12Chapters
+        : tarjuma12Chapters
+      : activeGrade === '10'
       ? activeGrade10Subject === 'pakstudies'
         ? pakstudies10Chapters
         : activeGrade10Subject === 'urdu'
@@ -214,7 +246,9 @@ export default function SubjectTabs({
               Curriculum Level Switcher
             </div>
             <h2 className="font-[family-name:var(--font-display)] text-lg sm:text-xl font-bold tracking-tight text-[var(--color-ink)] mt-0.5">
-              {activeGrade === '10'
+              {activeGrade === '12'
+                ? 'Class 12th (HSSC-II Intermediate Part 2) · Federal Board Curriculum'
+                : activeGrade === '10'
                 ? 'Class 10th (SSC-II Matric Part 2) · Federal Board Curriculum'
                 : activeGrade === '9'
                 ? 'Class 9th (SSC-I Matric Part 1) · Federal Board Curriculum'
@@ -222,7 +256,7 @@ export default function SubjectTabs({
             </h2>
           </div>
 
-          <div className="flex items-center gap-2 font-[family-name:var(--font-display)]">
+          <div className="flex items-center gap-2 font-[family-name:var(--font-display)] flex-wrap">
             <button
               type="button"
               onClick={() => setActiveGrade('9')}
@@ -262,6 +296,19 @@ export default function SubjectTabs({
               <span>Class 11th (HSSC-I)</span>
               <span className="text-[10px] opacity-75 font-mono">9 Subjects</span>
             </button>
+            <button
+              type="button"
+              onClick={() => setActiveGrade('12')}
+              className={`px-4 py-2 border text-xs font-bold flex items-center gap-2 transition-all ${
+                activeGrade === '12'
+                  ? 'bg-amber-950 text-white border-amber-950 shadow-sm'
+                  : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+              }`}
+            >
+              <Landmark className="w-4 h-4 text-amber-400" />
+              <span>Class 12th (HSSC-II)</span>
+              <span className="text-[10px] opacity-75 font-mono">4 Subjects</span>
+            </button>
           </div>
         </div>
       </section>
@@ -271,7 +318,15 @@ export default function SubjectTabs({
         <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 pb-6 border-b border-[var(--color-rule)]">
           <div>
             <h2 className="font-[family-name:var(--font-display)] text-xl sm:text-2xl font-bold tracking-tight text-[var(--color-ink)]">
-              {activeGrade === '10'
+              {activeGrade === '12'
+                ? activeGrade12Subject === 'english'
+                  ? 'Class 12th FBISE English Compulsory (HSSC-II)'
+                  : activeGrade12Subject === 'urdu'
+                  ? 'Class 12th FBISE Urdu Compulsory (اردو لازمی - HSSC-II)'
+                  : activeGrade12Subject === 'pakstudies'
+                  ? 'Class 12th FBISE Pakistan Studies (مطالعہ پاکستان - HSSC-II Bilingual)'
+                  : 'Class 12th FBISE Tarjuma-tul-Quran (ترجمۃ القرآن المجید - HSSC-II Bilingual)'
+                : activeGrade === '10'
                 ? activeGrade10Subject === 'pakstudies'
                   ? 'Class 10th FBISE Pakistan Studies (مطالعہ پاکستان - SSC-II Bilingual)'
                   : activeGrade10Subject === 'urdu'
@@ -310,7 +365,15 @@ export default function SubjectTabs({
                 : 'Class 11 FBISE Subjects (HSSC-I)'}
             </h2>
             <p className="text-xs text-[var(--color-muted)] mt-1">
-              {activeGrade === '10'
+              {activeGrade === '12'
+                ? activeGrade12Subject === 'english'
+                  ? 'Book-II Modern Prose & Heroes, Good-bye Mr. Chips, and Advanced Syntax across 10 curriculum units + 10 official Section A annual board simulators (20 marks, 25-minute timer).'
+                  : activeGrade12Subject === 'urdu'
+                  ? 'حصہ نثر، حصہ منظومات، حصہ غزلیات، علم بیان و بدیع، مطابقت و رموز اوقاف اور اصناف ادب کے 8 یونٹس مع 10 سالانہ وفاقی بورڈ امتحانی ماڈل پیپرز (20 معروضی سوالات، 25 منٹ)۔'
+                  : activeGrade12Subject === 'pakstudies'
+                  ? 'All 7 National Curriculum chapters (Ideology, Early Problems, 1973 Constitution, Land & Climate, Economic Development & CPEC, Culture & Society, Foreign Policy) + 10 Annual Board Examination Simulators (Bilingual Urdu + English).'
+                  : 'All 7 Madani Surah modules (Surah An-Nisa, Al-Ma\'idah, An-Nur, Al-Ahzab, Muhammad, Al-Fath, Al-Hujurat, Al-Hadid, and Al-Mujadilah to At-Tahrim) + 10 Annual Board Simulators (Bilingual Urdu + English).'
+                : activeGrade === '10'
                 ? activeGrade10Subject === 'pakstudies'
                   ? 'All 6 National Curriculum units (Culture, Sports & Leisure, Constitution & Governance, Citizenship & Rights, Foreign Policy, Economy & Resources) + 10 Annual Federal Board Examination Simulators (Bilingual Urdu + English).'
                   : activeGrade10Subject === 'urdu'
@@ -350,7 +413,73 @@ export default function SubjectTabs({
             </p>
           </div>
 
-          {activeGrade === '10' ? (
+          {activeGrade === '12' ? (
+            <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs pb-1">
+              <button
+                type="button"
+                onClick={() => setActiveGrade12Subject('english')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade12Subject === 'english'
+                    ? 'bg-purple-950 text-white border-purple-950 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <Languages className="w-4 h-4 text-purple-400" />
+                <span>English Compulsory (انگریزی)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {english12Chapters.length} Modules · {english12Total} Qs
+                </span>
+              </button>
+
+              <button
+                type="button"
+                onClick={() => setActiveGrade12Subject('urdu')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade12Subject === 'urdu'
+                    ? 'bg-emerald-900 text-white border-emerald-950 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <BookMarked className="w-4 h-4 text-emerald-400" />
+                <span>اردو لازمی (Urdu)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {urdu12Chapters.length} Modules · {urdu12Total} Qs
+                </span>
+              </button>
+
+              <button
+                type="button"
+                onClick={() => setActiveGrade12Subject('pakstudies')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade12Subject === 'pakstudies'
+                    ? 'bg-emerald-950 text-white border-emerald-950 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <Landmark className="w-4 h-4 text-emerald-400" />
+                <span>Pak Studies (مطالعہ پاکستان)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {pakstudies12Chapters.length} Modules · {pakstudies12Total} Qs
+                </span>
+              </button>
+
+              <button
+                type="button"
+                onClick={() => setActiveGrade12Subject('tarjuma')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade12Subject === 'tarjuma'
+                    ? 'bg-teal-900 text-white border-teal-950 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <ScrollText className="w-4 h-4 text-teal-300" />
+                <span>ترجمۃ القرآن (Tarjuma)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {tarjuma12Chapters.length} Modules · {tarjuma12Total} Qs
+                </span>
+              </button>
+            </div>
+          ) : activeGrade === '10' ? (
             <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs pb-1">
               <button
                 type="button"
@@ -799,7 +928,15 @@ export default function SubjectTabs({
             </div>
             <div>
               <span className="text-xs font-mono uppercase tracking-widest text-emerald-900 font-bold block">
-                {activeGrade === '10'
+                {activeGrade === '12'
+                  ? activeGrade12Subject === 'english'
+                    ? 'Active Subject: Class 12th English Compulsory (HSSC-II FBISE)'
+                    : activeGrade12Subject === 'urdu'
+                    ? 'فعال مضمون: وفاقی تعلیمی بورڈ اردو لازمی سال دوم (FBISE Urdu Class 12)'
+                    : activeGrade12Subject === 'pakstudies'
+                    ? 'Active Subject: Class 12th Pakistan Studies (مطالعہ پاکستان - HSSC-II Bilingual)'
+                    : 'فعال مضمون: ترجمۃ القرآن المجید جماعت دوازدہم (FBISE Tarjuma-tul-Quran Class 12 Bilingual)'
+                  : activeGrade === '10'
                   ? activeGrade10Subject === 'pakstudies'
                     ? 'Active Subject: Class 10th Pakistan Studies (مطالعہ پاکستان - SSC-II Bilingual)'
                     : activeGrade10Subject === 'urdu'
@@ -854,7 +991,15 @@ export default function SubjectTabs({
                   : 'Active Subject: Class 11th Computer Science (HSSC-I FBISE)'}
               </span>
               <p className="text-xs text-[var(--color-muted)] mt-0.5">
-                {activeGrade === '10'
+                {activeGrade === '12'
+                  ? activeGrade12Subject === 'english'
+                    ? 'All 10 curriculum units (Synthesizing/Critique, Complex Modals, Subjunctive/Conditionals, Inversion/Fronting, Rhetorical Devices, Transformational Syntax, Register & Tone, Discourse Cohesion, Idiomatic Nuances, Argumentation) + 10 official Section A annual board examination simulators (Founder Muhammad Ahmad Khan & Faculty).'
+                    : activeGrade12Subject === 'urdu'
+                    ? 'حصہ نثر، حصہ نظم، حصہ غزل، علم بیان، علم بدیع، عروض و تقطیع، قواعد و املا، اصناف ادب کے 8 یونٹس مع 10 سالانہ وفاقی بورڈ امتحانی سمولیٹرز (لیکچرار نرجس ظہیر مع محمد احمد خان)۔'
+                    : activeGrade12Subject === 'pakstudies'
+                    ? 'All 7 National Curriculum chapters (Ideological Basis, Early Problems & Constitution, Foreign Policy, Economy, Society & Culture, Education & Technology, Good Governance) + 10 official Section A annual board examination simulators (Bilingual Urdu & English).'
+                    : 'مقررہ قرآنی سورتیں (الأنعام، الأعراف، یونس، ہود، یوسف، الرعد، إبراہیم) کے 7 جامع موضوعاتی ماڈیولز مع 10 وفاقی بورڈ سالانہ معروضی سمولیٹرز (بزبان اردو و انگریزی)۔'
+                  : activeGrade === '10'
                   ? activeGrade10Subject === 'pakstudies'
                     ? 'All 6 National Curriculum units + 10 official Section A annual board examination simulators (Founder Muhammad Ahmad Khan & Lecturer Tayabah Rafaqat) with bilingual conceptual rationales.'
                     : activeGrade10Subject === 'urdu'
@@ -914,7 +1059,15 @@ export default function SubjectTabs({
             <span>{activeChapters.length} Modules Available</span>
             <span>·</span>
             <span>
-              {activeGrade === '10'
+              {activeGrade === '12'
+                ? activeGrade12Subject === 'english'
+                  ? english12Total
+                  : activeGrade12Subject === 'urdu'
+                  ? urdu12Total
+                  : activeGrade12Subject === 'pakstudies'
+                  ? pakstudies12Total
+                  : tarjuma12Total
+                : activeGrade === '10'
                 ? activeGrade10Subject === 'pakstudies'
                   ? pakstudies10Total
                   : activeGrade10Subject === 'urdu'

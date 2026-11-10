@@ -41,19 +41,27 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isPakStudies10 = chapter.subject === 'pakstudies-10' || chapter.slug.startsWith('pakstudies-10');
   const isUrdu10 = chapter.subject === 'urdu-10' || chapter.slug.startsWith('urdu-10');
   const isTarjuma10 = chapter.subject === 'tarjuma-10' || chapter.slug.startsWith('tarjuma-10');
-  const isUrdu = (chapter.subject === 'urdu' || chapter.slug.startsWith('urdu')) && !isUrdu9 && !isUrdu10;
+  const isEnglish12 = chapter.subject === 'english-12' || chapter.slug.startsWith('english-12');
+  const isUrdu12 = chapter.subject === 'urdu-12' || chapter.slug.startsWith('urdu-12');
+  const isPakStudies12 = chapter.subject === 'pakstudies-12' || chapter.slug.startsWith('pakstudies-12');
+  const isTarjuma12 = chapter.subject === 'tarjuma-12' || chapter.slug.startsWith('tarjuma-12');
+  const isUrdu = (chapter.subject === 'urdu' || chapter.slug.startsWith('urdu')) && !isUrdu9 && !isUrdu10 && !isUrdu12;
   const isMath = (chapter.subject === 'math' || chapter.slug.startsWith('math-unit-') || chapter.slug.startsWith('math-model-paper-')) && !isMath9 && !isMath10;
-  const isEnglish = (chapter.subject === 'english' || chapter.slug.startsWith('english')) && !isEnglish9 && !isEnglish10;
+  const isEnglish = (chapter.subject === 'english' || chapter.slug.startsWith('english')) && !isEnglish9 && !isEnglish10 && !isEnglish12;
   const isCS = (chapter.subject === 'cs' || chapter.slug.startsWith('cs')) && !isCS9 && !isCS10;
   const isIslamiat = (chapter.subject === 'islamiat' || chapter.slug.startsWith('islamiat')) && !isIslamiat9;
-  const isTarjuma = (chapter.subject === 'tarjuma' || chapter.slug.startsWith('tarjuma')) && !isTarjuma9 && !isTarjuma10;
+  const isTarjuma = (chapter.subject === 'tarjuma' || chapter.slug.startsWith('tarjuma')) && !isTarjuma9 && !isTarjuma10 && !isTarjuma12;
   const isBiology = (chapter.subject === 'biology' || chapter.slug.startsWith('biology')) && !isBiology9 && !isBiology10;
   const isChemistry = (chapter.subject === 'chemistry' || chapter.slug.startsWith('chemistry')) && !isChemistry9 && !isChemistry10;
-  const isRtl = isUrdu || isIslamiat || isTarjuma || isUrdu9 || isTarjuma9 || isIslamiat9 || isUrdu10 || isTarjuma10;
+  const isRtl = isUrdu || isIslamiat || isTarjuma || isUrdu9 || isTarjuma9 || isIslamiat9 || isUrdu10 || isTarjuma10 || isUrdu12 || isTarjuma12;
 
   const isPastPapers =
     chapter.slug === 'past-papers' ||
     chapter.slug === 'urdu-model-paper' ||
+    chapter.slug.startsWith('english-12-model-paper-') ||
+    chapter.slug.startsWith('urdu-12-model-paper-') ||
+    chapter.slug.startsWith('pakstudies-12-model-paper-') ||
+    chapter.slug.startsWith('tarjuma-12-model-paper-') ||
     chapter.slug.startsWith('pakstudies-10-model-paper-') ||
     chapter.slug.startsWith('urdu-10-model-paper-') ||
     chapter.slug.startsWith('tarjuma-10-model-paper-') ||
@@ -79,7 +87,15 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     chapter.slug.startsWith('chemistry-model-paper-');
 
   let tagLabel = `Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
-  if (chapter.slug.startsWith('pakstudies-10-model-paper-')) tagLabel = `Class 10 PST Simulator ${chapter.slug.split('-').pop()}`;
+  if (chapter.slug.startsWith('english-12-model-paper-')) tagLabel = `Class 12 English Simulator ${chapter.slug.split('-').pop()}`;
+  else if (isEnglish12) tagLabel = `Class 12 · English Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (chapter.slug.startsWith('urdu-12-model-paper-')) tagLabel = `Class 12 Urdu Simulator ${chapter.slug.split('-').pop()}`;
+  else if (isUrdu12) tagLabel = `Class 12 · Urdu Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (chapter.slug.startsWith('pakstudies-12-model-paper-')) tagLabel = `Class 12 PST Simulator ${chapter.slug.split('-').pop()}`;
+  else if (isPakStudies12) tagLabel = `Class 12 · Pak Studies Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (chapter.slug.startsWith('tarjuma-12-model-paper-')) tagLabel = `Class 12 Tarjuma Simulator ${chapter.slug.split('-').pop()}`;
+  else if (isTarjuma12) tagLabel = `Class 12 · Tarjuma Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (chapter.slug.startsWith('pakstudies-10-model-paper-')) tagLabel = `Class 10 PST Simulator ${chapter.slug.split('-').pop()}`;
   else if (isPakStudies10) tagLabel = `Class 10 · Pak Studies Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (chapter.slug.startsWith('urdu-10-model-paper-')) tagLabel = `Class 10 Urdu Simulator ${chapter.slug.split('-').pop()}`;
   else if (isUrdu10) tagLabel = `Class 10 · Urdu Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
@@ -138,7 +154,23 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (isUrdu) tagLabel = `Urdu Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
 
   let description = `Comprehensive conceptual questions, dimensional formulas, and numericals for ${chapter.title} aligned with textbook SLOs.`;
-  if (chapter.slug.startsWith('pakstudies-10-model-paper-')) {
+  if (chapter.slug.startsWith('english-12-model-paper-')) {
+    description = `Official Federal Board Section A HSSC-II Class 12 annual examination simulation (Soch Badlo Prep). 20 MCQs, 25-minute timer with authentic literary and grammatical SLO rationales.`;
+  } else if (isEnglish12) {
+    description = `Official FBISE HSSC-II Class 12 English Compulsory: ${chapter.title}. Good-bye Mr. Chips, Book-II Modern Prose & Heroes, applied syntax, and SLO justifications.`;
+  } else if (chapter.slug.startsWith('urdu-12-model-paper-')) {
+    description = `وفاقی تعلیمی بورڈ (FBISE) لازمی اردو بارہویں جماعت سالانہ ماڈل امتحانی پرچہ نمبر ${chapter.slug.split('-').pop()}۔ 20 معروضی سوالات، 25 منٹ مع مستند ادبی تشریحات و اسناد۔`;
+  } else if (isUrdu12) {
+    description = `وفاقی تعلیمی بورڈ لازمی اردو جماعت بارہویں (HSSC-II): ${chapter.title} کے امتحانی معروضی سوالات مع ادبی و لغوی تشریحات۔`;
+  } else if (chapter.slug.startsWith('pakstudies-12-model-paper-')) {
+    description = `Official Federal Board Section A HSSC-II Class 12 annual exam simulator. 10 MCQs, 15-minute timer with bilingual (Urdu + English) justifications.`;
+  } else if (isPakStudies12) {
+    description = `Official FBISE HSSC-II Class 12 Pakistan Studies: ${chapter.title}. Core ideological, constitutional, economic, and diplomatic concepts with bilingual rationales.`;
+  } else if (chapter.slug.startsWith('tarjuma-12-model-paper-')) {
+    description = `وفاقی بورڈ ترجمۃ القرآن المجید جماعت بارہویں سیکشن اے سالانہ ماڈل پرچہ نمبر ${chapter.slug.split('-').pop()}۔ 10 معروضی سوالات (بزبان اردو و انگریزی)، 15 منٹ مع مستند قرآنی حوالہ جات۔`;
+  } else if (isTarjuma12) {
+    description = `وفاقی بورڈ ترجمۃ القرآن المجید جماعت بارہویں (HSSC-II): ${chapter.title} کے منتخب اور امتحانی کثیر الانتخابی سوالات (بزبان اردو و انگریزی)۔`;
+  } else if (chapter.slug.startsWith('pakstudies-10-model-paper-')) {
     description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation (Founder Muhammad Ahmad Khan & Lecturer Tayabah Rafaqat). 10 MCQs, 15-minute timer with bilingual (Urdu + English) justifications.`;
   } else if (isPakStudies10) {
     description = `Official FBISE SSC-II Class 10 Pakistan Studies: ${chapter.title}. Core historical, constitutional, and economic concepts with bilingual rationales.`;

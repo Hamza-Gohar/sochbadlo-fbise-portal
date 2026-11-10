@@ -41,36 +41,37 @@ export default function Navbar() {
         <div className="flex items-center gap-1 sm:gap-2 overflow-x-auto pb-1 md:pb-0 text-sm font-[family-name:var(--font-display)]">
           <Link
             href="/?grade=9"
-            className="px-3 py-1.5 border border-emerald-700 bg-emerald-50 text-emerald-900 hover:bg-emerald-100 font-bold text-xs flex items-center gap-1.5 transition-colors"
-            title="FBISE Class 9th (SSC-I) Mathematics & Physics Test Series"
+            className="px-3 py-1.5 border border-emerald-700 bg-emerald-50 text-emerald-900 hover:bg-emerald-100 font-bold text-xs flex items-center gap-1.5 transition-colors whitespace-nowrap"
+            title="FBISE Class 9th (SSC-I) Test Series"
           >
             <BookOpen className="w-3.5 h-3.5 text-emerald-700" />
             <span>Class 9th (SSC-I)</span>
-            <span className="bg-emerald-800 text-white text-[9px] font-mono px-1 py-0.2 font-semibold">NEW</span>
           </Link>
-          <button
-            type="button"
-            disabled
-            className="px-3 py-1.5 border border-[var(--color-rule)] text-[var(--color-muted)] cursor-not-allowed opacity-60 text-xs"
-            title="Class 10th tests coming soon"
+          <Link
+            href="/?grade=10"
+            className="px-3 py-1.5 border border-emerald-700 bg-emerald-50 text-emerald-900 hover:bg-emerald-100 font-bold text-xs flex items-center gap-1.5 transition-colors whitespace-nowrap"
+            title="FBISE Class 10th (SSC-II) Test Series"
           >
-            Class 10th <span className="text-[10px] opacity-75">(Soon)</span>
-          </button>
+            <BookOpen className="w-3.5 h-3.5 text-emerald-700" />
+            <span>Class 10th (SSC-II)</span>
+          </Link>
           <Link
             href="/?grade=11"
-            className="px-3.5 py-1.5 bg-[var(--color-ink)] text-[var(--color-paper)] hover:bg-neutral-800 font-medium text-xs flex items-center gap-1.5 shadow-sm transition-colors"
+            className="px-3 py-1.5 border border-emerald-700 bg-emerald-50 text-emerald-900 hover:bg-emerald-100 font-bold text-xs flex items-center gap-1.5 transition-colors whitespace-nowrap"
+            title="FBISE Class 11th (HSSC-I) Test Series"
           >
-            <BookOpen className="w-3.5 h-3.5" />
+            <BookOpen className="w-3.5 h-3.5 text-emerald-700" />
             <span>Class 11th (HSSC-I)</span>
           </Link>
-          <button
-            type="button"
-            disabled
-            className="px-3 py-1.5 border border-[var(--color-rule)] text-[var(--color-muted)] cursor-not-allowed opacity-60 text-xs"
-            title="Class 12th tests coming soon"
+          <Link
+            href="/?grade=12"
+            className="px-3.5 py-1.5 bg-purple-950 text-white hover:bg-purple-900 font-bold text-xs flex items-center gap-1.5 shadow-sm transition-colors whitespace-nowrap"
+            title="FBISE Class 12th (HSSC-II) Test Series"
           >
-            Class 12th <span className="text-[10px] opacity-75">(Soon)</span>
-          </button>
+            <BookOpen className="w-3.5 h-3.5 text-purple-300" />
+            <span>Class 12th (HSSC-II)</span>
+            <span className="bg-emerald-600 text-white text-[9px] font-mono px-1 py-0.2 font-semibold rounded-sm">NEW</span>
+          </Link>
         </div>
       </div>
     </header>

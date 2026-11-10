@@ -1,0 +1,250 @@
+{
+  "id": 12,
+  "chapterNumber": 12,
+  "title": "FBISE Annual Exam Simulator 02 (Mr. Chips & Advanced Syntax)",
+  "totalQuestions": 20,
+  "slug": "english-12-model-paper-2",
+  "subject": "english-12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In 'The Dying Sun', Sir James Jeans concludes that life most likely originated in:",
+      "options": {
+        "A": "Volcanic craters under high electrical discharges",
+        "B": "Lukewarm oceans and shallow pools of water on Earth",
+        "C": "Meteoritic impacts bringing spores from outer galaxies",
+        "D": "High mountain peaks exposed to cosmic rays"
+      },
+      "answer": "B",
+      "explanation": "Jeans describes life starting as simple organisms in lukewarm waters, capable of reproducing before dying, slowly evolving into complex beings."
+    },
+    {
+      "id": 2,
+      "question": "What type of student does Dean Hawkes describe as 'the bright boy who has never learned what work is'?",
+      "options": {
+        "A": "The student who easily passed high school with minimal effort and finds college standards demanding genuine hard labor.",
+        "B": "The student who has attended night school while working full-time.",
+        "C": "The athlete who refuses to attend lecture halls.",
+        "D": "The student who suffers from chronic organic ailments."
+      },
+      "answer": "A",
+      "explanation": "Students who effortlessly sailed through high school without ever studying often experience shock when college requires consistent, disciplined study."
+    },
+    {
+      "id": 3,
+      "question": "In 'On Destroying Books', J.C. Squire argues that many people hoard bad or useless books because:",
+      "options": {
+        "A": "They believe paper will appreciate in commercial value.",
+        "B": "They possess an irrational reverence for printed paper, feeling almost criminal if they throw a book away.",
+        "C": "They intend to build massive private libraries.",
+        "D": "Books are required by law to be preserved for censors."
+      },
+      "answer": "B",
+      "explanation": "People treat printed books with quasi-religious respect, making them reluctant to destroy even worthless poetry or forgotten pamphlets."
+    },
+    {
+      "id": 4,
+      "question": "What was the solitary disease in the medical dictionary that Jerome discovered he did NOT have?",
+      "options": {
+        "A": "Gout",
+        "B": "Housemaid's Knee",
+        "C": "Bright's disease",
+        "D": "St. Vitus's Dance"
+      },
+      "answer": "B",
+      "explanation": "He humorously felt slighted and indignant because, out of the entire medical encyclopedia, he did not suffer from 'Housemaid's Knee'."
+    },
+    {
+      "id": 5,
+      "question": "In 'China's Way to Progress', Galeazzo Santini highlights that the Chinese economic miracle was achieved without:",
+      "options": {
+        "A": "Massive foreign loans or subservience to western consumerist models",
+        "B": "Hard physical labor by citizens",
+        "C": "Any agricultural production",
+        "D": "Universal literacy"
+      },
+      "answer": "A",
+      "explanation": "China relied on indigenous self-reliance, social discipline, and collective mobilization rather than foreign debt or western capitalist structures."
+    },
+    {
+      "id": 6,
+      "question": "What stark inequality between developed and developing nations is emphasized in 'Hunger and Population'?",
+      "options": {
+        "A": "Western citizens consume far more protein and grain, while billions in underdeveloped nations suffer chronic malnutrition and stunted growth.",
+        "B": "Underdeveloped nations have too much food while Europe faces famine.",
+        "C": "Developing nations have no agricultural land.",
+        "D": "Western countries have completely stopped farming."
+      },
+      "answer": "A",
+      "explanation": "Rich countries grapple with obesity and surplus grain, whereas poor countries suffer from severe caloric deficits and child malnutrition."
+    },
+    {
+      "id": 7,
+      "question": "What was the total distance of the trans-Saharan crossing undertaken by Christopher?",
+      "options": {
+        "A": "About 3,200 kilometers (2,000 miles) across desert wasteland",
+        "B": "Around 500 kilometers along paved highways",
+        "C": "10,000 miles across tropical rainforests",
+        "D": "A brief 100-mile mountain trek"
+      },
+      "answer": "A",
+      "explanation": "The Sahara crossing from Algiers to Gao covered over 2,000 miles (3,200 km) of desert sands and scorching rock plateaus."
+    },
+    {
+      "id": 8,
+      "question": "What is the ultimate destination that Christopher reached on the Niger River at the conclusion of his trans-Saharan trek?",
+      "options": {
+        "A": "Gao and Timbuktu",
+        "B": "Johannesburg",
+        "C": "Alexandria",
+        "D": "Nairobi"
+      },
+      "answer": "A",
+      "explanation": "Christopher safely navigated the desert and reached Gao on the Niger River, continuing on to ancient Timbuktu."
+    },
+    {
+      "id": 9,
+      "question": "What industrial crisis in France did Pasteur solve by introducing the process that now bears his name (Pasteurization)?",
+      "options": {
+        "A": "The spoiling of wine and beer due to unwanted bacterial fermentation",
+        "B": "The explosion of coal mines from methane gas",
+        "C": "The rusting of steel railroad tracks",
+        "D": "The blight of potato crops"
+      },
+      "answer": "A",
+      "explanation": "Pasteur showed that heating wine and beer to 50–60°C killed harmful microbes without destroying the flavor, saving the French brewing and wine industries."
+    },
+    {
+      "id": 10,
+      "question": "What is the defining biological difference between an antiseptic and an antibiotic?",
+      "options": {
+        "A": "Antiseptics are non-specific toxic chemicals used on skin/instruments, whereas antibiotics are biological substances produced by organisms that destroy specific bacteria inside the body without harming host cells.",
+        "B": "Antiseptics cure viral infections while antibiotics cure bacterial diseases.",
+        "C": "Antibiotics are injected into wounds directly while antiseptics are swallowed as tablets.",
+        "D": "There is no difference; they are identical synonyms."
+      },
+      "answer": "A",
+      "explanation": "Antiseptics (e.g. iodine, phenol) destroy living tissue cells indiscriminately; antibiotics (e.g. penicillin) target microbial cell walls without killing human cells."
+    },
+    {
+      "id": 11,
+      "question": "What radical linguistic reform did Mustafa Kemal implement in 1928?",
+      "options": {
+        "A": "He replaced the complex Arabic-Persian script with a modified modern Latin alphabet, traveling across Anatolia with a blackboard to teach villagers himself.",
+        "B": "He banned the speaking of Turkish and adopted French.",
+        "C": "He revived ancient Egyptian hieroglyphics.",
+        "D": "He made English the sole medium of instruction in primary schools."
+      },
+      "answer": "A",
+      "explanation": "Kemal introduced the Latin phonetic alphabet, vastly accelerating nationwide literacy; he personally toured towns with a portable blackboard to teach the new letters."
+    },
+    {
+      "id": 12,
+      "question": "What was the psychological impact of Atatürk's educational campaign across Anatolia?",
+      "options": {
+        "A": "Literacy skyrocketed as ordinary peasants learned to read and write in months rather than struggling with archaic calligraphy for years.",
+        "B": "Schools were boycotted by parents.",
+        "C": "Printing presses were destroyed.",
+        "D": "People stopped using books entirely."
+      },
+      "answer": "A",
+      "explanation": "The simplified Latin script democratized education, unlocking reading, writing, and scientific knowledge for the broad Turkish public."
+    },
+    {
+      "id": 13,
+      "question": "What famous parting words did Katherine whisper to Chips on the eve of their wedding at her aunt's house in London?",
+      "options": {
+        "A": "'Good-bye, Mr. Chips!'",
+        "B": "'Never look back, Arthur!'",
+        "C": "'Remember Brookfield always!'",
+        "D": "'Farewell, master!'"
+      },
+      "answer": "A",
+      "explanation": "Teasing him about his formal demeanor and role as a schoolmaster, she whispered playfully: 'Good-bye, Mr. Chips!' giving the novel its famous title."
+    },
+    {
+      "id": 14,
+      "question": "Who was Dr. Merivale, and what routine did he keep with Mr. Chips?",
+      "options": {
+        "A": "A friendly local physician who visited Chips every fortnight, told him he was sounder than a bell, and warned him against cold winds",
+        "B": "A rival Latin teacher who plotted against him",
+        "C": "The surgeon general of the army",
+        "D": "A chemist who sold him patent pills"
+      },
+      "answer": "A",
+      "explanation": "Dr. Merivale dropped by regularly to monitor Chips' heart, cheerfully declaring that Chips would outlive everyone as long as he stayed warm in winter."
+    },
+    {
+      "id": 15,
+      "question": "How did news of the quarrel between Chips and Ralston leak out to the school?",
+      "options": {
+        "A": "A boy waiting in the hallway outside Ralston's study had overheard the raised voices and spread the news like wildfire.",
+        "B": "Ralston published an editorial in the London Times.",
+        "C": "Chips held a press conference.",
+        "D": "The governors posted notices on the chapel door."
+      },
+      "answer": "A",
+      "explanation": "A student eavesdropping outside the headmaster's door heard the explosive row, igniting a massive wave of student and alumni outrage against Ralston."
+    },
+    {
+      "id": 16,
+      "question": "What was the deeper philosophical meaning of the battle between Chips and Ralston?",
+      "options": {
+        "A": "The clash between soulless utilitarian modernity/commercial efficiency and timeless humanistic values, tradition, and personal character",
+        "B": "A dispute over school sports uniforms",
+        "C": "A religious disagreement over chapel hymns",
+        "D": "An argument about teacher salaries"
+      },
+      "answer": "A",
+      "explanation": "Hilton frames the clash as a parable of modern mechanical haste colliding with gentle, enduring humanity and tradition."
+    },
+    {
+      "id": 17,
+      "question": "What did Headmaster Cartwright whisper about Chips that prompted the dying old master to open his eyes for the last time?",
+      "options": {
+        "A": "'It's a pity... a great pity he never had any children.'",
+        "B": "'He was the worst teacher Brookfield ever had.'",
+        "C": "'He has left no will.'",
+        "D": "'The school bell is broken.'"
+      },
+      "answer": "A",
+      "explanation": "Cartwright whispered that it was sad Chips was a childless bachelor, not knowing of his tragic past with Katherine."
+    },
+    {
+      "id": 18,
+      "question": "What is the tone of the final chapter of 'Good-bye, Mr. Chips'?",
+      "options": {
+        "A": "Profoundly moving, serene, nostalgic, and triumphant in its celebration of a life dedicated to youth",
+        "B": "Angry and bitter at the cruelty of death",
+        "C": "Cynical and mocking",
+        "D": "Flippant and humorous"
+      },
+      "answer": "A",
+      "explanation": "The conclusion is filled with spiritual dignity, quiet beauty, and tears of profound fulfillment."
+    },
+    {
+      "id": 19,
+      "question": "What does the idiom 'to leave no stone unturned' mean?",
+      "options": {
+        "A": "To do heavy construction work",
+        "B": "To try every possible course of action or exhaust every method to achieve an objective",
+        "C": "To throw rocks into a river",
+        "D": "To search for gemstones in a quarry"
+      },
+      "answer": "B",
+      "explanation": "Leaving no stone unturned means exploring every conceivable avenue or strategy to accomplish a goal."
+    },
+    {
+      "id": 20,
+      "question": "What is the meaning of the idiom 'a feather in one's cap'?",
+      "options": {
+        "A": "An achievement or honor of which one can be justly proud",
+        "B": "A bird hunting decoration",
+        "C": "An act of cowardice",
+        "D": "A light woolen hat"
+      },
+      "answer": "A",
+      "explanation": "'A feather in one's cap' is a distinguished achievement or honor that brings credit to someone."
+    }
+  ]
+}

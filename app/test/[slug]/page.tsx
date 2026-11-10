@@ -26,6 +26,15 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     };
   }
 
+  const isGrade12 =
+    chapter.subject === 'english-12' ||
+    slug.startsWith('english-12') ||
+    chapter.subject === 'urdu-12' ||
+    slug.startsWith('urdu-12') ||
+    chapter.subject === 'pakstudies-12' ||
+    slug.startsWith('pakstudies-12') ||
+    chapter.subject === 'tarjuma-12' ||
+    slug.startsWith('tarjuma-12');
   const isGrade10 =
     chapter.subject === 'pakstudies-10' ||
     slug.startsWith('pakstudies-10') ||
@@ -65,7 +74,11 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     chapter.subject === 'biology-9' ||
     slug.startsWith('biology-9');
   let subjectName = 'Physics';
-  if (chapter.subject === 'pakstudies-10' || slug.startsWith('pakstudies-10')) subjectName = 'Pakistan Studies (مطالعہ پاکستان)';
+  if (chapter.subject === 'english-12' || slug.startsWith('english-12')) subjectName = 'English Compulsory';
+  else if (chapter.subject === 'urdu-12' || slug.startsWith('urdu-12')) subjectName = 'Urdu Compulsory (اردو لازمی)';
+  else if (chapter.subject === 'pakstudies-12' || slug.startsWith('pakstudies-12')) subjectName = 'Pakistan Studies (مطالعہ پاکستان)';
+  else if (chapter.subject === 'tarjuma-12' || slug.startsWith('tarjuma-12')) subjectName = 'Tarjuma-tul-Quran (ترجمۃ القرآن المجید)';
+  else if (chapter.subject === 'pakstudies-10' || slug.startsWith('pakstudies-10')) subjectName = 'Pakistan Studies (مطالعہ پاکستان)';
   else if (chapter.subject === 'urdu-10' || slug.startsWith('urdu-10')) subjectName = 'Urdu Compulsory (اردو لازمی)';
   else if (chapter.subject === 'tarjuma-10' || slug.startsWith('tarjuma-10')) subjectName = 'Tarjuma-tul-Quran (ترجمۃ القرآن المجید)';
   else if (chapter.subject === 'english-10' || slug.startsWith('english-10')) subjectName = 'English Compulsory (انگریزی لازمی)';
@@ -92,7 +105,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   else if (chapter.subject === 'chemistry') subjectName = 'Chemistry (کیمسٹری)';
   else if (chapter.subject === 'physics-9' || slug.startsWith('physics-9')) subjectName = 'Physics';
 
-  const classLabel = isGrade10 ? 'Class 10 (SSC-II)' : isGrade9 ? 'Class 9 (SSC-I)' : 'Class 11 (HSSC-I)';
+  const classLabel = isGrade12 ? 'Class 12 (HSSC-II)' : isGrade10 ? 'Class 10 (SSC-II)' : isGrade9 ? 'Class 9 (SSC-I)' : 'Class 11 (HSSC-I)';
 
   return {
     title: `${chapter.chapterTitle} | ${classLabel} ${subjectName} MCQs | SochBadlo Prep`,

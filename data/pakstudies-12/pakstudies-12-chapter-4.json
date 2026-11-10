@@ -1,0 +1,430 @@
+{
+  "id": 4,
+  "chapterNumber": 4,
+  "title": "باب 04: زمین، آب و ہوا اور وسائل (Land, Climate & Natural Resources)",
+  "totalQuestions": 35,
+  "slug": "pakstudies-12-chapter-4",
+  "subject": "pakstudies-12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the total geographical area of Pakistan (including Gilgit-Baltistan and AJ&K)? / گلگت بلتستان اور آزاد کشمیر سمیت پاکستان کا کل جغرافیائی رقبہ کتنا ہے؟",
+      "options": {
+        "A": "881,913 sq km / 881,913 مربع کلومیٹر",
+        "B": "796,096 sq km / 796,096 مربع کلومیٹر",
+        "C": "650,000 sq km / 650,000 مربع کلومیٹر",
+        "D": "1,200,000 sq km / 1,200,000 مربع کلومیٹر"
+      },
+      "answer": "A",
+      "explanation": "Pakistan's officially administered area including Gilgit-Baltistan and AJ&K stands at approximately 881,913 sq km (with the four provinces and ICT historically recorded as 796,096 sq km). / وفاقی اور صوبائی اعداد و شمار کے مطابق کل رقبہ تقریباً 881,913 مربع کلومیٹر ہے۔"
+    },
+    {
+      "id": 2,
+      "question": "What is the height of K2 (Godwin-Austen), the second highest mountain peak in the world located in Pakistan? / پاکستان میں واقع دنیا کی دوسری بلند ترین چوٹی کے ٹو (K2) کی اونچائی کتنی ہے؟",
+      "options": {
+        "A": "8,611 meters (28,251 ft) / 8,611 میٹر",
+        "B": "8,848 meters / 8,848 میٹر",
+        "C": "8,126 meters / 8,126 میٹر",
+        "D": "7,788 meters / 7,788 میٹر"
+      },
+      "answer": "A",
+      "explanation": "K2 is 8,611 meters high, located in the Karakoram range in Gilgit-Baltistan. / سلسلہ قراقرم میں واقع کے ٹو دنیا کی دوسری اور پاکستان کی بلند ترین چوٹی ہے جس کی اونچائی 8,611 میٹر ہے۔"
+    },
+    {
+      "id": 3,
+      "question": "Which mountain range separates Pakistan from Afghanistan in the northwest? / شمال مغرب میں کون سا پہاڑی سلسلہ پاکستان اور افغانستان کے درمیان واقع ہے؟",
+      "options": {
+        "A": "Hindu Kush Range / کوہِ ہندو کش",
+        "B": "Himalayas / سلسلہ ہمالیہ",
+        "C": "Karakoram / سلسلہ قراقرم",
+        "D": "Sulaiman Range / کوہِ سلیمان"
+      },
+      "answer": "A",
+      "explanation": "The Hindu Kush range, with its highest peak Tirich Mir (7,708 m) in Chitral, lies on the border between Pakistan and Afghanistan. / سلسلہ ہندوکش پاکستان کے شمال مغرب میں افغانستان کے ساتھ واقع ہے جس کی بلند ترین چوٹی ترچ میر ہے۔"
+    },
+    {
+      "id": 4,
+      "question": "Which historic mountain pass connects Peshawar in Pakistan with Jalalabad and Kabul in Afghanistan? / کون سا تاریخی درہ پشاور کو افغانستان کے شہروں جلال آباد اور کابل سے ملاتا ہے؟",
+      "options": {
+        "A": "Khyber Pass / درۂ خیبر",
+        "B": "Bolan Pass / درۂ بولان",
+        "C": "Khojak Pass / درۂ خوجک",
+        "D": "Babusar Pass / درۂ بابوسر"
+      },
+      "answer": "A",
+      "explanation": "The Khyber Pass cuts through the Safed Koh mountains, serving as a historic trade and military gateway. / درۂ خیبر کوہِ سفید میں واقع ہے اور برصغیر کی تاریخ کا مشہور ترین تجارتی و عسکری راستہ رہا ہے۔"
+    },
+    {
+      "id": 5,
+      "question": "Which mountain pass connects Pakistan with China via the Karakoram Highway (N-35)? / شاہراہِ قراقرم (N-35) کے ذریعے کون سا درہ پاکستان کو چین سے ملاتا ہے؟",
+      "options": {
+        "A": "Khunjerab Pass / درۂ خنجراب",
+        "B": "Shandur Pass / درۂ شندور",
+        "C": "Lowari Pass / درۂ لواری",
+        "D": "Gomal Pass / درۂ گومل"
+      },
+      "answer": "A",
+      "explanation": "Khunjerab Pass is the world's highest paved international border crossing at 4,693 meters (15,397 ft). / درۂ خنجراب 4,693 میٹر کی بلندی پر دنیا کا بلند ترین پختہ سرحدی راستہ ہے جو چین اور پاکستان کو جوڑتا ہے۔"
+    },
+    {
+      "id": 6,
+      "question": "What is the longest glacier in Pakistan and the second longest non-polar glacier in the world? / پاکستان کا سب سے طویل اور قطبین کے باہر دنیا کا دوسرا بڑا گلیشیر کون سا ہے؟",
+      "options": {
+        "A": "Siachen Glacier / سیاچن گلیشیر (76 کلومیٹر)",
+        "B": "Biafo Glacier / بیافو گلیشیر",
+        "C": "Baltoro Glacier / بالتورو گلیشیر",
+        "D": "Batura Glacier / بتورا گلیشیر"
+      },
+      "answer": "A",
+      "explanation": "Siachen Glacier in the eastern Karakoram is approximately 76 km long, often called the highest battleground on earth. / سیاچن گلیشیر تقریباً 76 کلومیٹر طویل ہے اور دفاعی و ماحولیاتی لحاظ سے انتہائی اہم ہے۔"
+    },
+    {
+      "id": 7,
+      "question": "Which plateau of Pakistan is rich in mineral wealth and covers approximately 347,000 sq km? / پاکستان کی کون سی سطح مرتفع معدنی دولت سے مالامال ہے اور تقریباً 347,000 مربع کلومیٹر پر پھیلی ہوئی ہے؟",
+      "options": {
+        "A": "Balochistan Plateau / سطح مرتفع بلوچستان",
+        "B": "Potohar Plateau / سطح مرتفع پوٹھوہار",
+        "C": "Deosai Plateau / سطح مرتفع دیوسائی",
+        "D": "Thar Plateau / سطح مرتفع تھر"
+      },
+      "answer": "A",
+      "explanation": "The Balochistan Plateau contains vast deposits of natural gas, copper, gold (Reko Diq), coal, and chromite. / سطح مرتفع بلوچستان قدرتی گیس، تانبے، سونے (ریکوڈک) اور کوئلے جیسی معدنیات کا خزانہ ہے۔"
+    },
+    {
+      "id": 8,
+      "question": "What is the longest river in Pakistan, originating from Mansarovar Lake in the Tibetan plateau? / تبت کی جھیل مانسروور سے نکلنے والا پاکستان کا سب سے طویل دریا کون سا ہے؟",
+      "options": {
+        "A": "River Indus (دریائے سندھ) / سندھو",
+        "B": "River Jhelum / دریائے جہلم",
+        "C": "River Chenab / دریائے چناب",
+        "D": "River Ravi / دریائے راوی"
+      },
+      "answer": "A",
+      "explanation": "The River Indus is Pakistan's lifeline, flowing approximately 3,180 km before emptying into the Arabian Sea. / دریائے سندھ پاکستان کا قومی دریا اور زرعی لائف لائن ہے جس کی کل لمبائی تقریباً 3,180 کلومیٹر ہے۔"
+    },
+    {
+      "id": 9,
+      "question": "At which historic location in Punjab do the five major rivers of Punjab converge before meeting the Indus? / پنجاب کے کس مقام پر پنجاب کے پانچوں دریا باہم مل کر پنجند بناتے ہیں؟",
+      "options": {
+        "A": "Panjnad (near Mithankot) / پنجند (نزد کوٹ مٹھن)",
+        "B": "Trimmu / تریموں",
+        "C": "Qadirabad / قادر آباد",
+        "D": "Sukkur / سکھر"
+      },
+      "answer": "A",
+      "explanation": "At Panjnad, the combined waters of Jhelum, Chenab, Ravi, Beas, and Sutlej merge before joining the River Indus at Mithankot. / پنجند کے مقام پر پانچوں دریا ملتے ہیں اور پھر کوٹ مٹھن کے قریب دریائے سندھ میں گرتے ہیں۔"
+    },
+    {
+      "id": 10,
+      "question": "Where is the largest earth-filled dam in the world located in Pakistan? / دنیا کا مٹی کا بھراؤ والا سب سے بڑا ڈیم پاکستان میں کہاں واقع ہے؟",
+      "options": {
+        "A": "Tarbela Dam on River Indus / تربیلا ڈیم (دریائے سندھ)",
+        "B": "Mangla Dam on River Jhelum / منگلا ڈیم (دریائے جہلم)",
+        "C": "Warsak Dam on River Kabul / ورسک ڈیم",
+        "D": "Diamer-Bhasha Dam / دیامر بھاشا ڈیم"
+      },
+      "answer": "A",
+      "explanation": "Tarbela Dam on the Indus River in Haripur/Swabi is the largest earth-and-rock-filled dam in the world by structural volume. / تربیلا ڈیم دنیا میں مٹی اور چٹانوں کے بھراؤ سے بنا سب سے بڑا ڈیم ہے۔"
+    },
+    {
+      "id": 11,
+      "question": "Where is the second largest salt mine in the world situated in Pakistan? / دنیا میں نمک کی دوسری سب سے بڑی کان پاکستان میں کہاں واقع ہے؟",
+      "options": {
+        "A": "Khewra Salt Mine (Jhelum) / کھیوڑہ نمک کی کان (جہلم)",
+        "B": "Warcha / ورچہ",
+        "C": "Kalabagh / کالا باغ",
+        "D": "Bahadur Khel / بہادر خیل"
+      },
+      "answer": "A",
+      "explanation": "Khewra Salt Mine in the Salt Range (Pind Dadan Khan, Jhelum) is the second largest rock salt mine globally, discovered during Alexander's era. / ضلع جہلم کی کھیوڑہ نمک کی کان دنیا میں اپنی نوعیت کا دوسرا سب سے بڑا قدرتی ذخیرہ ہے۔"
+    },
+    {
+      "id": 12,
+      "question": "Where was the first major commercial natural gas field discovered in Pakistan in 1952? / 1952ء میں پاکستان میں قدرتی گیس کا سب سے پہلا بڑا ذخیرہ کہاں دریافت ہوا؟",
+      "options": {
+        "A": "Sui (Dera Bugti, Balochistan) / سوئی (ضلع ڈیرہ بگٹی، بلوچستان)",
+        "B": "Mari / ماڑی",
+        "C": "Kandhkot / کاندھ کوٹ",
+        "D": "Qadirpur / قادر پور"
+      },
+      "answer": "A",
+      "explanation": "Pakistan Petroleum Limited (PPL) discovered the massive Sui gas reserve in 1952, transforming energy supplies. / 1952ء میں سوئی کے مقام پر پاکستان کا سب سے بڑا گیس فیلڈ دریافت ہوا۔"
+    },
+    {
+      "id": 13,
+      "question": "What is the name of the desert located in southeastern Sindh, extending into the Cholistan in Punjab and Thar in India? / جنوب مشرقی سندھ میں واقع صحرا کا کیا نام ہے جو پنجاب میں چولستان اور راجستھان سے ملتا ہے؟",
+      "options": {
+        "A": "Thar Desert / صحرائے تھر",
+        "B": "Thal Desert / صحرائے تھل",
+        "C": "Kharan Desert / صحرائے خاران",
+        "D": "Katpana Desert / صحرائے کٹپناہ"
+      },
+      "answer": "A",
+      "explanation": "The Thar Desert is the largest desert in Pakistan, known for its rich cultural folklore and massive lignite coal reserves. / صحرائے تھر پاکستان کا سب سے بڑا صحرا ہے جہاں کوئلے کے وسیع ترین ذخائر بھی موجود ہیں۔"
+    },
+    {
+      "id": 14,
+      "question": "How much estimated lignite coal reserves are discovered in the Thar coalfield in Sindh? / سندھ کے تھر کول فیلڈ میں لگنائٹ کوئلے کے کتنے تخمینہ شدہ ذخائر موجود ہیں؟",
+      "options": {
+        "A": "Over 175 billion tonnes / 175 ارب ٹن سے زائد",
+        "B": "10 million tonnes / 10 ملین ٹن",
+        "C": "5 billion tonnes / 5 ارب ٹن",
+        "D": "500 million tonnes / 50 کروڑ ٹن"
+      },
+      "answer": "A",
+      "explanation": "Thar contains approximately 175 billion tonnes of lignite coal, capable of generating thousands of megawatts of electricity for decades. / تھر کے کوئلے کے ذخائر تقریباً 175 ارب ٹن ہیں جو پاکستان کی توانائی کی ضروریات پوری کرنے کی زبردست صلاحیت رکھتے ہیں۔"
+    },
+    {
+      "id": 15,
+      "question": "Where is the famous Reko Diq copper and gold mine project located in Pakistan? / پاکستان میں تانبے اور سونے کا عظیم منصوبہ ریکوڈک کہاں واقع ہے؟",
+      "options": {
+        "A": "Chagai District, Balochistan / ضلع چاغی، بلوچستان",
+        "B": "Swat, KP / سوات",
+        "C": "Mianwali, Punjab / میانوالی",
+        "D": "Tharparkar, Sindh / تھرپارکر"
+      },
+      "answer": "A",
+      "explanation": "Reko Diq in Chagai, Balochistan, contains one of the world's largest undeveloped copper and gold reserves. / ضلع چاغی کا ریکوڈک ذخیرہ دنیا کے سب سے بڑے تانبے اور سونے کے ذخائر میں شمار ہوتا ہے۔"
+    },
+    {
+      "id": 16,
+      "question": "Which wind system brings monsoon rains to Pakistan during July to September? / جولائی سے ستمبر کے دوران پاکستان میں مون سون بارشیں لانے والی ہوائیں کہاں سے داخل ہوتی ہیں؟",
+      "options": {
+        "A": "Southwest Monsoon from Bay of Bengal and Arabian Sea / خلیج بنگال اور بحیرہ عرب سے آنے والی جنوب مغربی مون سون ہوائیں",
+        "B": "Northeast Trade Winds / شمال مشرقی تجارتی ہوائیں",
+        "C": "Western Disturbances / مغربی ڈسٹربنس",
+        "D": "Polar Easterlies / قطبی ہوائیں"
+      },
+      "answer": "A",
+      "explanation": "The summer Southwest Monsoon brings over 65% of Pakistan's annual rainfall, vital for agriculture and reservoir storage. / موسم گرما کی جنوب مغربی مون سون ہوائیں پاکستان کی سالانہ بارشوں کا 65 فیصد حصہ لاتی ہیں۔"
+    },
+    {
+      "id": 17,
+      "question": "What weather phenomenon causes winter rains and snowfall in northern and western Pakistan? / موسمِ سرما میں شمالی اور مغربی پاکستان میں بارشوں اور برف باری کا سبب کون سا موسمی نظام بنتا ہے؟",
+      "options": {
+        "A": "Western Disturbances originating from Mediterranean / بحیرہ روم سے آنے والے مغربی موسمی سلسلے (ویسٹرن ڈسٹربنس)",
+        "B": "Tropical Cyclones / سمندری طوفان",
+        "C": "Tsunami / سونامی",
+        "D": "El Niño / ایل نینو"
+      },
+      "answer": "A",
+      "explanation": "Western depressions from the Mediterranean Sea cause winter rainfall, particularly vital for the Rabi wheat crop. / بحیرہ روم سے آنے والی ہوائیں موسمِ سرما کی بارشیں اور برف باری پیدا کرتی ہیں جو ربیع کی فصلوں کے لیے مفید ہیں۔"
+    },
+    {
+      "id": 18,
+      "question": "What is the recommended international forest cover for a balanced environment, and what is Pakistan's current forest cover? / ماحولیاتی توازن کے لیے رقبے کے کتنے فیصد جنگلات درکار ہوتے ہیں، اور پاکستان میں یہ تناسب کتنا ہے؟",
+      "options": {
+        "A": "International standard: 25%; Pakistan: Less than 5% / بین الاقوامی معیار: 25 فیصد؛ پاکستان میں: 5 فیصد سے کم",
+        "B": "International standard: 10%; Pakistan: 20% / بین الاقوامی: 10 فیصد",
+        "C": "International standard: 50%; Pakistan: 15% / بین الاقوامی: 50 فیصد",
+        "D": "International standard: 5%; Pakistan: 1% / بین الاقوامی: 5 فیصد"
+      },
+      "answer": "A",
+      "explanation": "While 25% forest cover is environmentally desirable, Pakistan has less than 5% forest cover, necessitating mega afforestation projects. / عالمی سطح پر 25 فیصد جنگلات ضروری ہیں جبکہ پاکستان میں جنگلاتی رقبہ تشویشناک حد تک 5 فیصد سے کم ہے۔"
+    },
+    {
+      "id": 19,
+      "question": "Where is the largest man-made irrigated forest (plantation) of Pakistan located? / پاکستان میں انسان کا لگایا ہوا نہری پانی سے سیراب سب سے بڑا جنگل کہاں واقع ہے؟",
+      "options": {
+        "A": "Changa Manga (Kasur/Lahore) / چھانگا مانگا (ضلع قصور)",
+        "B": "Kalar Kahar / کلر کہار",
+        "C": "Margalla Hills / مارگلہ ہلز",
+        "D": "Lal Suhanra / لال سہانرا"
+      },
+      "answer": "A",
+      "explanation": "Changa Manga forest was planted in 1866 to provide timber and fuel for British North Western Railways, covering over 12,000 acres. / چھانگا مانگا کا مصنوعی جنگل 1866ء میں ریل گاڑیوں کو لکڑی فراہم کرنے کے لیے لگایا گیا تھا۔"
+    },
+    {
+      "id": 20,
+      "question": "Which national park in Pakistan is famous as the high-altitude plateau known as the 'Land of Giants'? / گلگت بلتستان میں 'دیوؤں کی سرزمین' کہلانے والا کون سا بلند ترین قومی پارک واقع ہے؟",
+      "options": {
+        "A": "Deosai National Park / دیوسائی نیشنل پارک",
+        "B": "Ayubia National Park / ایوبیہ نیشنل پارک",
+        "C": "Hingol National Park / ہنگول نیشنل پارک",
+        "D": "Khunjerab National Park / خنجراب نیشنل پارک"
+      },
+      "answer": "A",
+      "explanation": "Deosai National Park is one of the highest plateaus in the world at an average elevation of 4,114 meters, home to the Himalayan Brown Bear. / سطح مرتفع دیوسائی اوسطاً 4,114 میٹر بلندی پر ہمالین براؤن ریچھ کا قدرتی مسکن ہے۔"
+    },
+    {
+      "id": 21,
+      "question": "What is the national animal of Pakistan? / پاکستان کا قومی جانور کون سا ہے؟",
+      "options": {
+        "A": "Markhor (مارخور)",
+        "B": "Snow Leopard / برفانی چیتا",
+        "C": "Chinkara Deer / چنکارہ ہرن",
+        "D": "Bengal Tiger / بنگال ٹائیگر"
+      },
+      "answer": "A",
+      "explanation": "The Markhor, a wild goat species famous for its screw horns, is the national animal of Pakistan. / پیچ دار سینگوں والی پہاڑی بکری یعنی مارخور پاکستان کا قومی جانور ہے۔"
+    },
+    {
+      "id": 22,
+      "question": "What is the national bird of Pakistan? / پاکستان کا قومی پرندہ کون سا ہے؟",
+      "options": {
+        "A": "Chukar Partridge (چکور)",
+        "B": "Falcon (شاہین)",
+        "C": "Peacock / مور",
+        "D": "Eagle / عقاب"
+      },
+      "answer": "A",
+      "explanation": "The Chukar (Alectoris chukar) is designated as the official national bird of Pakistan. / چکور کو باضابطہ طور پر پاکستان کا قومی پرندہ تسلیم کیا گیا ہے۔"
+    },
+    {
+      "id": 23,
+      "question": "What is the national flower of Pakistan? / پاکستان کا قومی پھول کون سا ہے؟",
+      "options": {
+        "A": "Jasmine (Chambeli / چنبیلی)",
+        "B": "Rose / گلاب",
+        "C": "Tulip / گلِ لالہ",
+        "D": "Sunflower / سورج مکھی"
+      },
+      "answer": "A",
+      "explanation": "White Jasmine (Chambeli) is the national flower of Pakistan. / سفید چنبیلی پاکستان کا قومی پھول ہے۔"
+    },
+    {
+      "id": 24,
+      "question": "What is the length of Pakistan's Arabian Sea coastline? / بحیرہ عرب کے ساتھ پاکستان کی ساحلی پٹی کی کل لمبائی کتنی ہے؟",
+      "options": {
+        "A": "Approximately 1,046 km (650 miles) / تقریباً 1,046 کلومیٹر",
+        "B": "500 km / 500 کلومیٹر",
+        "C": "2,000 km / 2,000 کلومیٹر",
+        "D": "350 km / 350 کلومیٹر"
+      },
+      "answer": "A",
+      "explanation": "Pakistan's coastline stretches across Sindh (approx. 276 km) and Balochistan/Makran (approx. 770 km), totaling about 1,046 km. / سندھ اور بلوچستان (مکران) کی ساحلی پٹی کی مجموعی لمبائی تقریباً 1,046 کلومیٹر ہے۔"
+    },
+    {
+      "id": 25,
+      "question": "What is the official status of the Durand Line? / ڈیورنڈ لائن کی قانونی حیثیت کیا ہے؟",
+      "options": {
+        "A": "The recognized international boundary between Pakistan and Afghanistan demarcated in 1893 / پاکستان اور افغانستان کے درمیان 1893ء میں متعین کردہ بین الاقوامی سرحد",
+        "B": "A temporary ceasefire line / عارضی جنگ بندی لائن",
+        "C": "Border between Pakistan and Iran / پاکستان اور ایران کی سرحد",
+        "D": "Border between Pakistan and China / پاکستان اور چین کی سرحد"
+      },
+      "answer": "A",
+      "explanation": "The 2,640 km border between Pakistan and Afghanistan was demarcated in 1893 between Sir Mortimer Durand and Amir Abdur Rahman Khan. / 1893ء میں سر مارٹیمر ڈیورنڈ اور امیر عبد الرحمن کے مابین طے پانے والی بین الاقوامی سرحد ڈیورنڈ لائن کہلاتی ہے۔"
+    },
+    {
+      "id": 26,
+      "question": "Which narrow strip of Afghan territory separates Pakistan from Tajikistan in the north? / شمال میں افغان علاقے کی کون سی پتلی پٹی پاکستان کو تاجکستان سے جدا کرتی ہے؟",
+      "options": {
+        "A": "Wakhan Corridor / واخان کی پٹی",
+        "B": "Khyber Pass / درۂ خیبر",
+        "C": "Pamir Plateau / سطح مرتفع پامیر",
+        "D": "Panjshir Valley / وادی پنجشیر"
+      },
+      "answer": "A",
+      "explanation": "The Wakhan Corridor, ranging from 16 to 65 km wide, acts as a buffer separating Pakistan from Tajikistan. / واخان کی تنگ پٹی پاکستان کو وسطی ایشیائی ریاست تاجکستان سے جدا کرتی ہے۔"
+    },
+    {
+      "id": 27,
+      "question": "What is the primary cause of smog in Punjab during October to December? / اکتوبر سے دسمبر کے دوران پنجاب میں اسموگ (Smog) کے شدید بحران کی بنیادی وجہ کیا ہے؟",
+      "options": {
+        "A": "Crop residue burning, vehicular emissions, and brick kilns trapped by thermal inversion / فصلوں کی باقیات جلانا، گاڑیوں کا دھواں اور بھٹوں کا اخراج جو سرد ہوا میں جم جاتا ہے",
+        "B": "Volcanic eruptions / آتش فشاں کا پھٹنا",
+        "C": "Ocean tidal waves / سمندری لہریں",
+        "D": "Deforestation in Amazon / ایمیزون کے جنگلات کٹنا"
+      },
+      "answer": "A",
+      "explanation": "Agricultural stubble burning combined with low-grade fuel smoke and temperature inversion traps hazardous particulate matter (PM2.5). / گاڑیوں کا دھواں، بھٹے اور دھان کی باقیات جلانے سے پیدا ہونے والی زہریلی گیسیں اسموگ کا سبب بنتی ہیں۔"
+    },
+    {
+      "id": 28,
+      "question": "What is meant by the 'Greenhouse Effect' and 'Global Warming' affecting Pakistan's glaciers? / 'گرین ہاؤس ایفیکٹ' اور 'گلوبل وارمنگ' کا پاکستان کے گلیشیرز پر کیا برا اثر پڑ رہا ہے؟",
+      "options": {
+        "A": "Rapid melting of glaciers leading to GLOFs (Glacial Lake Outburst Floods) and water scarcity / گلیشیرز کا تیزی سے پگھلنا جس سے گلاف سیلاب اور مستقبل میں پانی کی قلت پیدا ہو رہی ہے",
+        "B": "Increase in polar ice / برف باری میں بے پناہ اضافہ",
+        "C": "Decrease in global temperatures / عالمی درجہ حرارت میں کمی",
+        "D": "Expansion of agricultural land in mountains / پہاڑوں پر زراعت کا پھیلاؤ"
+      },
+      "answer": "A",
+      "explanation": "Global heating triggers faster glacial retreat in northern Pakistan, causing devastating flash floods followed by acute long-term water stress. / گلوبل وارمنگ سے شمالی علاقہ جات کے گلیشیرز تیزی سے پگھل رہے ہیں جس سے سیلاب اور پانی کا بحران پیدا ہو رہا ہے۔"
+    },
+    {
+      "id": 29,
+      "question": "Which international agreement on climate change was signed in 2015 to limit global temperature rise? / عالمی درجہ حرارت میں اضافے کو روکنے کے لیے 2015ء میں کون سا تاریخی بین الاقوامی ماحولیاتی معاہدہ ہوا؟",
+      "options": {
+        "A": "Paris Agreement / پیرس معاہدہ (COP21)",
+        "B": "Kyoto Protocol / کیوٹو پروٹوکول",
+        "C": "Montreal Protocol / مانٹریال پروٹوکول",
+        "D": "Geneva Convention / جنیوا کنونشن"
+      },
+      "answer": "A",
+      "explanation": "The Paris Agreement legally commits nations to hold global warming well below 2°C above pre-industrial levels. / پیرس معاہدے کے تحت دنیا کے ممالک نے درجہ حرارت میں اضافے کو 1.5 سے 2 ڈگری سینٹی گریڈ تک محدود کرنے پر اتفاق کیا۔"
+    },
+    {
+      "id": 30,
+      "question": "What is the main environmental benefit of Mangrove forests along the Indus Delta and coastline? / دریائے سندھ کے ڈیلٹا اور ساحلی پٹی پر واقع تمر (مینگرووز) کے جنگلات کا سب سے اہم ماحولیاتی فائدہ کیا ہے؟",
+      "options": {
+        "A": "Protecting coastline from sea erosion/tsunamis and acting as nurseries for fish and prawns / ساحل کو کٹاؤ اور طوفانوں سے بچانا اور مچھلی و جھینگوں کی افزائش گاہ بننا",
+        "B": "Commercial paper manufacturing / کاغذ سازی",
+        "C": "Production of wheat / گندم کی پیداوار",
+        "D": "Generating hydroelectricity / پن بجلی پیدا کرنا"
+      },
+      "answer": "A",
+      "explanation": "Mangroves buffer coastal communities against storm surges, prevent soil erosion, and sustain marine fisheries. / مینگرووز سمندری طوفانوں کے خلاف قدرتی ڈھال ہیں اور سمندری حیات کی افزائش کے لیے ناگزیر ہیں۔"
+    },
+    {
+      "id": 31,
+      "question": "Which lake is the largest natural freshwater lake in Pakistan? / پاکستان میں میٹھے پانی کی سب سے بڑی قدرتی جھیل کون سی ہے؟",
+      "options": {
+        "A": "Manchar Lake (Jamshoro/Dadu, Sindh) / منچھر جھیل (سندھ)",
+        "B": "Saiful Muluk / جھیل سیف الملوک",
+        "C": "Attabad Lake / عطا آباد جھیل",
+        "D": "Rawal Lake / راول جھیل"
+      },
+      "answer": "A",
+      "explanation": "Manchar Lake in Sindh is the largest natural freshwater lake in Pakistan and one of the largest in South Asia. / سندھ کی منچھر جھیل پاکستان میں میٹھے پانی کی سب سے بڑی جھیل ہے۔"
+    },
+    {
+      "id": 32,
+      "question": "What is the highest peak in the Sulaiman Range? / کوہِ سلیمان کی سب سے بلند ترین چوٹی کون سی ہے؟",
+      "options": {
+        "A": "Takht-e-Sulaiman (3,487 m) / تختِ سلیمان",
+        "B": "Tirich Mir / ترچ میر",
+        "C": "Nanga Parbat / نانگا پربت",
+        "D": "Broad Peak / براڈ پیک"
+      },
+      "answer": "A",
+      "explanation": "Takht-e-Sulaiman is the most prominent mountain peak in the Sulaiman Range. / تختِ سلیمان سلسلہ کوہِ سلیمان کی سب سے بلند اور تاریخی چوٹی ہے۔"
+    },
+    {
+      "id": 33,
+      "question": "Which barrage on the Indus River in Sindh is the oldest and longest, commissioned in 1932? / سندھ میں دریائے سندھ پر واقع سب سے پرانا اور طویل بیراج کون سا ہے جو 1932ء میں تعمیر ہوا؟",
+      "options": {
+        "A": "Sukkur Barrage (Lloyd Barrage) / سکھر بیراج (لارڈ لائیڈ بیراج)",
+        "B": "Guddu Barrage / گدو بیراج",
+        "C": "Kotri Barrage (Ghulam Muhammad Barrage) / کوٹری بیراج",
+        "D": "Taunsa Barrage / تونسہ بیراج"
+      },
+      "answer": "A",
+      "explanation": "Sukkur Barrage has 66 spans and commands the largest irrigation network in Sindh, constructed in 1932. / سکھر بیراج برطانوی دور میں 1932ء میں مکمل ہوا اور سندھ کی زراعت کی سب سے بڑی بنیاد ہے۔"
+    },
+    {
+      "id": 34,
+      "question": "What danger is posed to agricultural soils by 'Waterlogging and Salinity' (سیم و تھور)? / 'سیم و تھور' سے زرعی زمینوں کو کیا سنگین خطرہ لاحق ہوتا ہے؟",
+      "options": {
+        "A": "Rising underground water table and accumulation of mineral salts render fertile lands barren / زیرِ زمین پانی کی سطح بلند ہو کر نمکیات اوپر آ جاتے ہیں جس سے زرخیز زمین بنجر ہو جاتی ہے",
+        "B": "Excessive forest growth / جنگلات کا بے تحاشا پھیلاؤ",
+        "C": "Extreme drought in canals / نہروں کا خشک ہونا",
+        "D": "Earthquakes / زلزلے آنا"
+      },
+      "answer": "A",
+      "explanation": "Unlined canals cause seepage raising water tables (Sem/Waterlogging) while evaporation leaves salt deposits (Thor/Salinity). / سیم میں پانی کی سطح بلند ہو جاتی ہے اور تھور میں نمکیات کی تہہ زمین کو ناکارہ بنا دیتی ہے۔"
+    },
+    {
+      "id": 35,
+      "question": "What is the primary function of SCARP (Salinity Control and Reclamation Project) launched by WAPDA? / واپڈا کی جانب سے سیم و تھور کے تدارک کے لیے شروع کیے گئے اسکارپ (SCARP) منصوبے کا کیا مقصد تھا؟",
+      "options": {
+        "A": "Installing deep tubewells to lower water tables and flush out salts / گہرے ٹیوب ویل لگا کر زیرِ زمین پانی کی سطح نیچے کرنا اور نمکیات بہانا",
+        "B": "Building nuclear plants / ایٹمی پلانٹ لگانا",
+        "C": "Constructing motorways / موٹرویز بنانا",
+        "D": "Exporting agricultural seed / بیج برآمد کرنا"
+      },
+      "answer": "A",
+      "explanation": "SCARP tubewells pump out excess water to lower the water table and reclaim millions of acres of affected land. / اسکارپ منصوبے کے تحت ہزاروں ٹیوب ویل لگا کر زمینوں کو دوبارہ قابلِ کاشت بنایا گیا۔"
+    }
+  ]
+}

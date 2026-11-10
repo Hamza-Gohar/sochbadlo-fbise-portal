@@ -1,0 +1,430 @@
+{
+  "id": 6,
+  "chapterNumber": 6,
+  "title": "باب 06: ثقافت، معاشرہ اور زبانیں (Culture, Society & Languages)",
+  "totalQuestions": 35,
+  "slug": "pakstudies-12-chapter-6",
+  "subject": "pakstudies-12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the national language of Pakistan according to Article 251 of the Constitution? / آئین کے آرٹیکل 251 کی رو سے پاکستان کی قومی زبان کون سی ہے؟",
+      "options": {
+        "A": "Urdu (اردو)",
+        "B": "English (انگریزی)",
+        "C": "Punjabi (پنجابی)",
+        "D": "Arabic (عربی)"
+      },
+      "answer": "A",
+      "explanation": "Article 251 declares Urdu as the National Language of Pakistan and the medium of national integration. / آرٹیکل 251 کے تحت اردو پاکستان کی قومی رابطہ زبان ہے۔"
+    },
+    {
+      "id": 2,
+      "question": "What is the literal linguistic meaning of the word 'Urdu', derived from the Turkish language? / ترکی زبان سے ماخوذ لفظ 'اردو' کا لغوی معنی کیا ہے؟",
+      "options": {
+        "A": "Lashkar / Military Camp (لشکر / چھاؤنی)",
+        "B": "Crown / تاج",
+        "C": "Flower / پھول",
+        "D": "Knowledge / علم"
+      },
+      "answer": "A",
+      "explanation": "The word 'Urdu' comes from the Turkish term 'Ordu' meaning an army or military camp, reflecting its evolution as a common camp language. / لفظ اردو ترکی زبان کا لفظ ہے جس کے معنی لشکر کے ہیں۔"
+    },
+    {
+      "id": 3,
+      "question": "Who is recognized as the poet of the immortal Punjabi romantic tragedy 'Heer Ranjha'? / پنجابی زبان کے لافانی منظوم شاہکار 'ہیر رانجھا' کے خالق کون ہیں؟",
+      "options": {
+        "A": "Waris Shah (وارث شاہ)",
+        "B": "Bulleh Shah (بلھے شاہ)",
+        "C": "Sultan Bahu (سلطان باہو)",
+        "D": "Mian Muhammad Bakhsh (میاں محمد بخش)"
+      },
+      "answer": "A",
+      "explanation": "Syed Waris Shah authored the poetic masterpiece 'Heer', depicting the folklore and spiritual ethos of rural Punjab. / سید وارث شاہ نے پنجابی زبان کا سب سے عظیم عشقیہ و صوفیانہ منظوم شاہکار 'ہیر' لکھا۔"
+    },
+    {
+      "id": 4,
+      "question": "Which Sufi poet wrote the celebrated Punjabi classic 'Saif-ul-Malook'? / پنجابی زبان کی مشہور صوفیانہ کتاب 'سیف الملوک' کس عظیم شاعر کی تخلیق ہے؟",
+      "options": {
+        "A": "Mian Muhammad Bakhsh / میاں محمد بخش (کھڑی شریف، میرپور)",
+        "B": "Shah Hussain / شاہ حسین",
+        "C": "Khawaja Ghulam Farid / خواجہ غلام فرید",
+        "D": "Baba Farid Ganjshakar / بابا فرید گنج شکر"
+      },
+      "answer": "A",
+      "explanation": "Mian Muhammad Bakhsh of Khari Sharif composed the spiritual narrative poem 'Saif-ul-Malook'. / میاں محمد بخش نے کھڑی شریف میں صوفیانہ داستان 'سیف الملوک' قلمبند فرمائی۔"
+    },
+    {
+      "id": 5,
+      "question": "Who was the renowned Sufi saint of Pakpattan recognized as the first major poet of the Punjabi language? / پاکپتن کے کس عظیم صوفی بزرگ کو پنجابی زبان کا اولین باقاعدہ شاعر مانا جاتا ہے؟",
+      "options": {
+        "A": "Hazrat Baba Fariduddin Ganjshakar (ؒ) / حضرت بابا فرید الدین گنج شکرؒ",
+        "B": "Hazrat Data Ganj Bakhsh Ali Hujwiri (ؒ) / داتا گنج بخشؒ",
+        "C": "Hazrat Bahauddin Zakariya (ؒ) / بہاؤ الدین زکریاؒ",
+        "D": "Hazrat Lal Shahbaz Qalandar (ؒ) / لعل شہباز قلندرؒ"
+      },
+      "answer": "A",
+      "explanation": "Baba Farid's poetic 'Shaloks' laid the philosophical and literary foundation of Punjabi poetry in the 12th-13th century. / بابا فرید گنج شکرؒ کے اشعار پنجابی صوفیانہ ادب کا اولین سنگِ میل ہیں۔"
+    },
+    {
+      "id": 6,
+      "question": "Who is the legendary poet of the Sindhi language and author of 'Shah Jo Risalo'? / سندھی زبان کے سب سے عظیم صوفی شاعر اور 'شاہ جو رسالو' کے مصنف کون ہیں؟",
+      "options": {
+        "A": "Hazrat Shah Abdul Latif Bhittai (ؒ) / حضرت شاہ عبد اللطیف بھٹائیؒ",
+        "B": "Sachal Sarmast (ؒ) / سچل سرمستؒ",
+        "C": "Qadir Bux Bedil / قادر بخش بیدل",
+        "D": "Sheikh Ayaz / شیخ ایاز"
+      },
+      "answer": "A",
+      "explanation": "Shah Abdul Latif Bhittai composed 'Shah Jo Risalo', organizing his spiritual verses into 30 musical Suras. / شاہ عبد اللطیف بھٹائیؒ سندھی زبان کے تاجدار شاعر ہیں جن کا کلام 'شاہ جو رسالو' 30 سروں پر مشتمل ہے۔"
+    },
+    {
+      "id": 7,
+      "question": "Which Sufi poet of Sindh is known as 'Shair-e-Haft Zaban' (Poet of Seven Languages) and 'Sartaj-e-Shu'ara'? / سندھ کے کس عظیم صوفی بزرگ کو 'شاعرِ ہفت زبان' (سات زبانوں کا شاعر) کہا جاتا ہے؟",
+      "options": {
+        "A": "Hazrat Sachal Sarmast (ؒ) (Daraza Sharif) / حضرت سچل سرمستؒ (درازہ شریف)",
+        "B": "Shah Inayat Shaheed / شاہ عنایت شہید",
+        "C": "Mirza Qalich Baig / مرزا قلیچ بیگ",
+        "D": "Makhdoom Bilawal / مخدوم بلاول"
+      },
+      "answer": "A",
+      "explanation": "Sachal Sarmast composed ecstatic Sufi poetry in Sindhi, Saraiki, Persian, Urdu, Punjabi, Balochi, and Arabic. / سچل سرمستؒ نے سات زبانوں میں صوفیانہ شاعری فرمائی، اسی لیے انہیں شاعرِ ہفت زبان کہا جاتا ہے۔"
+    },
+    {
+      "id": 8,
+      "question": "Who is revered as the greatest warrior-poet and national poet of the Pashto language? / پشتو زبان کے عظیم جنگجو شاعر اور قومی شاعر کے طور پر کسے مانا جاتا ہے؟",
+      "options": {
+        "A": "Khushal Khan Khattak / خوشحال خان خٹک",
+        "B": "Rahman Baba / رحمان بابا",
+        "C": "Abdul Hamid Baba / عبد الحمید بابا",
+        "D": "Ghani Khan / غنی خان"
+      },
+      "answer": "A",
+      "explanation": "Khushal Khan Khattak was a legendary chieftain, scholar, and poet whose verses epitomize valor, honor, and Pashtun identity. / خوشحال خان خٹک پشتو ادب کی سب سے بلند پایہ شخصیت ہیں جن کی شاعری شجاعت، غیرت اور خودداری کا درس دیتی ہے۔"
+    },
+    {
+      "id": 9,
+      "question": "Who is celebrated as the Nightingale of Pashto poetry for his deeply spiritual and devotional verses? / اپنی صوفیانہ اور پرتاثیر شاعری کی وجہ سے پشتو زبان کا بلبل (شاعرِ انسانیت) کسے کہا جاتا ہے؟",
+      "options": {
+        "A": "Hazrat Rahman Baba (ؒ) / حضرت رحمان باباؒ",
+        "B": "Pir Roshan / پیر روشان",
+        "C": "Amir Karor / امیر کروڑ",
+        "D": "Ajmal Khattak / اجمل خٹک"
+      },
+      "answer": "A",
+      "explanation": "Abdur Rahman Baba's Diwan is revered across Khyber Pakhtunkhwa and Afghanistan for its sublime divine love and humility. / رحمان باباؒ پشتو کے سب سے مقبول اور ہر دلعزیز صوفی شاعر ہیں جن کا دیوان گھر گھر پڑھا جاتا ہے۔"
+    },
+    {
+      "id": 10,
+      "question": "Who was the legendary hero-poet and leader of the 30-year Rind-Lashari tribal war in classical Balochi literature? / کلاسیکی بلوچی ادب میں رند اور لاشاری کی 30 سالہ جنگ کے ہیرو اور نامور شاعر کون تھے؟",
+      "options": {
+        "A": "Mir Chakar Khan Rind / میر چاکر خان رند",
+        "B": "Mir Gwahram Lashari / میر گوہرام لاشاری",
+        "C": "Jam Durrak / جام درک",
+        "D": "Atta Shad / عطا شاد"
+      },
+      "answer": "A",
+      "explanation": "Mir Chakar Khan Rind (1468–1565) is celebrated in epic Balochi war ballads (Razmia Shairi). / میر چاکر رند بلوچی زبان کی رزمیہ شاعری اور قبائلی تاریخ کے عظیم ترین کردار ہیں۔"
+    },
+    {
+      "id": 11,
+      "question": "Who was the famous court poet of the Khan of Kalat who composed sublime romantic lyrics (Ishqia Ghazals) in Balochi? / خان آف قلات کے دربار کے کون سے شاعر نے بلوچی زبان میں لافانی عشقیہ شاعری لکھی؟",
+      "options": {
+        "A": "Jam Durrak Dombki / جام درک ڈومبکی",
+        "B": "Mulla Fazil / ملا فاضل",
+        "C": "Gul Khan Naseer / گل خان نصیر",
+        "D": "Zahoor Shah Hashmi / سید ظہور شاہ ہاشمی"
+      },
+      "answer": "A",
+      "explanation": "Jam Durrak is regarded as the father of romantic and lyrical poetry in the Balochi language. / جام درک کو بلوچی زبان کا نمائندہ غزل گو اور غنائی شاعر تسلیم کیا جاتا ہے۔"
+    },
+    {
+      "id": 12,
+      "question": "Who is the foremost Sufi poet of the Saraiki language, famous for his soulful 'Kafis' composed in Kot Mithan? / سرائیکی زبان کے سب سے عظیم صوفی شاعر کون ہیں جن کی دل سوز 'کافیاں' کوٹ مٹھن سے وابستہ ہیں؟",
+      "options": {
+        "A": "Hazrat Khawaja Ghulam Farid (ؒ) / حضرت خواجہ غلام فریدؒ",
+        "B": "Sachal Sarmast / سچل سرمست",
+        "C": "Ali Haider Multani / علی حیدر ملتانی",
+        "D": "Bedil Sindhi / بیدل سندھی"
+      },
+      "answer": "A",
+      "explanation": "Khawaja Ghulam Farid's Saraiki Kafis capture the desert of Rohi (Cholistan) and divine spiritual longing. / خواجہ غلام فریدؒ کی کافیاں سرائیکی ادب کا شاہکار ہیں جن میں صحرائے روہی کے استعارے نمایاں ہیں۔"
+    },
+    {
+      "id": 13,
+      "question": "Which language spoken in central Balochistan belongs to the Dravidian language family? / وسطی بلوچستان میں بولی جانے والی کون سی قدیم زبان دراوڑی خاندان سے تعلق رکھتی ہے؟",
+      "options": {
+        "A": "Brahui (براہوئی)",
+        "B": "Balochi / بلوچی",
+        "C": "Pashto / پشتو",
+        "D": "Sindhi / سندھی"
+      },
+      "answer": "A",
+      "explanation": "Brahui is an isolated Dravidian language spoken predominantly in the Kalat and Mastung regions of Balochistan. / براہوئی زبان برصغیر کے قدیم دراوڑی لسانی خاندان سے تعلق رکھتی ہے۔"
+    },
+    {
+      "id": 14,
+      "question": "Where is the ancient archaeological site of the Indus Valley Civilization discovered in Sindh, dating back to 2500 BCE? / سندھ میں واقع وادیٔ سندھ کی قدیم تہذیب کا تقریباً 2500 قبل مسیح کا بین الاقوامی تاریخی مقام کون سا ہے؟",
+      "options": {
+        "A": "Mohenjo-Daro (Larkana) / موہنجودڑو (ضلع لاڑکانہ)",
+        "B": "Harappa (Sahiwal) / ہڑپہ (ساہیوال)",
+        "C": "Mehrgarh (Balochistan) / مہر گڑھ (بلوچستان)",
+        "D": "Taxila / ٹیکسلا"
+      },
+      "answer": "A",
+      "explanation": "Mohenjo-Daro ('Mound of the Dead') in Larkana features remarkable town planning, covered drainage, and the Great Bath. / موہنجودڑو وادیٔ سندھ کی منصوبہ بند شہری زندگی، کشادہ گلیوں اور نکاسیِ آب کا حیران کن ثبوت ہے۔"
+    },
+    {
+      "id": 15,
+      "question": "Which archaeological site in Sahiwal district, Punjab, represents the northern urban center of the Indus Valley Civilization? / پنجاب کے ضلع ساہیوال میں وادیٔ سندھ کی قدیم تہذیب کا شمالی شہری مرکز کون سا ہے؟",
+      "options": {
+        "A": "Harappa / ہڑپہ",
+        "B": "Kot Diji / کوٹ ڈیجی",
+        "C": "Amri / آمری",
+        "D": "Banbhore / بھنبھور"
+      },
+      "answer": "A",
+      "explanation": "Harappa was the first Indus Valley urban site excavated in the 1920s, showing granaries, dockyards, and advanced metallurgy. / ہڑپہ کی دریافت نے برصغیر کی 5000 سال قدیم تہذیبی عظمت کو دنیا کے سامنے بے نقاب کیا۔"
+    },
+    {
+      "id": 16,
+      "question": "Which Neolithic archaeological site in Balochistan proves settled agriculture and cattle domestication dating back to 7000 BCE? / بلوچستان کا کون سا قدیم ترین مقام 7000 قبل مسیح میں زراعت اور گلہ بانی کی تصدیق کرتا ہے؟",
+      "options": {
+        "A": "Mehrgarh (Kachi Plain) / مہر گڑھ (میدانِ کچھی)",
+        "B": "Ranikot / رانی کوٹ",
+        "C": "Takht-i-Bahi / تختِ بھائی",
+        "D": "Mansehra / مانسہرہ"
+      },
+      "answer": "A",
+      "explanation": "Mehrgarh predates Indus cities, establishing that civilized agriculture began in Balochistan around 9,000 years ago. / مہر گڑھ کی دریافت سے ثابت ہوا کہ خطے میں تہذیب کا آغاز نو ہزار سال قبل ہو چکا تھا۔"
+    },
+    {
+      "id": 17,
+      "question": "Which ancient university and Buddhist Gandhara civilization site is located near Rawalpindi/Islamabad? / راولپنڈی اور اسلام آباد کے قریب گندھارا تہذیب اور قدیم بدھ مت یونیورسٹی کا کون سا تاریخی مقام واقع ہے؟",
+      "options": {
+        "A": "Taxila (تیکسلا)",
+        "B": "Swat / سوات",
+        "C": "Peshawar / پشاور",
+        "D": "Charsadda / چارسدہ"
+      },
+      "answer": "A",
+      "explanation": "Taxila was a renowned center of Gandharan art, philosophy, and the world's earliest higher learning academy. / ٹیکسلا گندھارا آرٹ اور قدیم علوم کا عالمی مرکز تھا جہاں دنیا بھر سے مفکرین علم حاصل کرنے آتے تھے۔"
+    },
+    {
+      "id": 18,
+      "question": "Which monumental fort in Sindh is known as the 'Great Wall of Sindh' and one of the largest forts in the world? / سندھ میں واقع کون سا عظیم قلعہ 'دیوارِ سندھ' اور دنیا کے سب سے بڑے قلعوں میں شمار ہوتا ہے؟",
+      "options": {
+        "A": "Ranikot Fort (Jamshoro) / قلعہ رانی کوٹ (جامشورو)",
+        "B": "Kot Diji Fort / قلعہ کوٹ ڈیجی",
+        "C": "Umerkot Fort / قلعہ عمر کوٹ",
+        "D": "Derawar Fort / قلعہ دراوڑ"
+      },
+      "answer": "A",
+      "explanation": "Ranikot Fort boasts a circumference of about 32 kilometers, earning the title 'The Great Wall of Sindh'. / رانی کوٹ قلعے کی فصیلیں 32 کلومیٹر طویل ہیں اور اسے رانی کوٹ دیوارِ سندھ کہا جاتا ہے۔"
+    },
+    {
+      "id": 19,
+      "question": "Which imposing desert fort with 40 massive bastions dominates the Cholistan desert near Bahawalpur? / بہاولپور کے قریب صحرائے چولستان میں 40 اونچے برجوں پر مشتمل کون سا تاریخی قلعہ واقع ہے؟",
+      "options": {
+        "A": "Derawar Fort / قلعہ دراوڑ",
+        "B": "Rohtas Fort / قلعہ روہتاس",
+        "C": "Attock Fort / قلعہ اٹک",
+        "D": "Bala Hissar Fort / قلعہ بالا حصار"
+      },
+      "answer": "A",
+      "explanation": "Derawar Fort was renovated by the Nawabs of Bahawalpur, serving as the landmark of the Cholistan Desert. / قلعہ دراوڑ چولستان کے ریگستان کا دل ہے اور بہاولپور کے عباسی نوابوں کی یادگار ہے۔"
+    },
+    {
+      "id": 20,
+      "question": "Who constructed the UNESCO World Heritage Rohtas Fort near Jhelum in the 1540s to block Mughal Emperor Humayun's return? / مغل شہنشاہ ہمایوں کی واپسی کو روکنے کے لیے 1540ء میں جہلم کے قریب قلعہ روہتاس کس نے تعمیر کروایا تھا؟",
+      "options": {
+        "A": "Sher Shah Suri / شیر شاہ سوری",
+        "B": "Akbar the Great / جلال الدین اکبر",
+        "C": "Shah Jahan / شاہ جہاں",
+        "D": "Babur / ظہیر الدین بابر"
+      },
+      "answer": "A",
+      "explanation": "Sher Shah Suri ordered the construction of Rohtas Fort to suppress local Gakhar tribes and defend against Mughals. / شیر شاہ سوری نے جہلم میں غیر معمولی مضبوطی کا حامل قلعہ روہتاس عسکری بنیادوں پر تعمیر کروایا۔"
+    },
+    {
+      "id": 21,
+      "question": "Which magnificent mosque in Lahore was constructed by Mughal Emperor Aurangzeb Alamgir in 1673? / مغل شہنشاہ اورنگزیب عالمگیر نے 1673ء میں لاہور میں کون سی عظیم الشان تاریخی مسجد تعمیر کروائی؟",
+      "options": {
+        "A": "Badshahi Mosque / بادشاہی مسجد لاہور",
+        "B": "Wazir Khan Mosque / مسجد وزیر خان",
+        "C": "Moti Masjid / موتی مسجد",
+        "D": "Mahabat Khan Mosque / مسجد مہابت خان"
+      },
+      "answer": "A",
+      "explanation": "Badshahi Mosque, built with red sandstone and white marble domes, remains one of the world's grandest Islamic monuments. / سرخ پتھر اور سنگِ مرمر کے گنبدوں والی بادشاہی مسجد لاہور مغلیہ فنِ تعمیر کا بے مثال شاہکار ہے۔"
+    },
+    {
+      "id": 22,
+      "question": "Which national monument in Islamabad was designed by Turkish architect Vedat Dalokay, inspired by a Bedouin tent? / اسلام آباد کی کون سی تاریخی قومی مسجد کا ڈیزائن ترک ماہر ویدات دالوکے نے بدوی خیمے کی طرز پر تیار کیا تھا؟",
+      "options": {
+        "A": "Faisal Mosque / فیصل مسجد اسلام آباد",
+        "B": "Jamia Masjid Rawalpindi / جامع مسجد راولپنڈی",
+        "C": "Golra Sharif Mosque / گولڑہ شریف مسجد",
+        "D": "Shuhada Mosque / مسجد شہداء"
+      },
+      "answer": "A",
+      "explanation": "Faisal Mosque, funded by King Faisal of Saudi Arabia, features eight-sided concrete shells and four 88m tall Turkish minarets. / شاہ فیصل مسجد جدید اور روایتی اسلامی فنِ تعمیر کا عظیم امتزاج ہے جو اسلام آباد کی شناخت ہے۔"
+    },
+    {
+      "id": 23,
+      "question": "What is the famous traditional winter cloak/gown worn by men and women in Kashmir? / کشمیر میں سردیوں سے بچاؤ کے لیے مرد و خواتین کا روایتی لمبا اونی لباس کیا کہلاتا ہے؟",
+      "options": {
+        "A": "Pheran (پھیرن)",
+        "B": "Ajrak / اجرک",
+        "C": "Kurta / کرتا",
+        "D": "Sherwani / شیروانی"
+      },
+      "answer": "A",
+      "explanation": "The Pheran is a loose woollen gown reaching the knees, often worn with an earthen firepot (Kangri) underneath in winter. / کشمیری لباس میں 'پھیرن' کو مرکزی حیثیت حاصل ہے جو سردی سے بچاتا ہے۔"
+    },
+    {
+      "id": 24,
+      "question": "Which block-printed shawl with unique blue and red geometric motifs is the cultural hallmark of Sindh? / نیلے اور سرخ جیومیٹری کے روایتی ٹھپوں والی کون سی چادر سندھی ثقافت کی پہچان اور علامت ہے؟",
+      "options": {
+        "A": "Ajrak (اجرک)",
+        "B": "Pashmina / پشمینہ",
+        "C": "Khes / کھیس",
+        "D": "Phulkari / پھلکاری"
+      },
+      "answer": "A",
+      "explanation": "Ajrak is Sindh's ancient block-printed fabric, symbolizing honor, hospitality, and cultural pride. / اجرک سندھ کی پانچ ہزار سالہ قدیم ثقافتی شناخت اور مہمان نوازی کا مظہر ہے۔"
+    },
+    {
+      "id": 25,
+      "question": "Which traditional embroidery craft featuring mirror-work is characteristic of Balochistan? / شیشے (آئینے) کی کڑھائی والی روایتی کشیدہ کاری کس صوبے کی خواتین کے ملبوسات کا خاصہ ہے؟",
+      "options": {
+        "A": "Balochi Doch / بلوچی دوچ (کشیدہ کاری)",
+        "B": "Chikan / چکن کاری",
+        "C": "Zari / زری کا کام",
+        "D": "Mukesh / مکیش"
+      },
+      "answer": "A",
+      "explanation": "Balochi dresses feature intricate handmade embroidery patterns and tiny mirrors ('Doch'). / بلوچی کشیدہ کاری میں شیشوں اور نفیس دھاگوں کا کام پوری دنیا میں منفرد مانا جاتا ہے۔"
+    },
+    {
+      "id": 26,
+      "question": "What is the traditional dance of Khyber Pakhtunkhwa performed with rapid rhythm, claps, and swords? / خیبر پختونخوا کا روایتی رقص کون سا ہے جو ڈھول کی تھاپ پر تلواروں اور تالیوں کی گونج میں کیا جاتا ہے؟",
+      "options": {
+        "A": "Attan (اتن / خٹک ڈانس)",
+        "B": "Bhangra / بھنگڑا",
+        "C": "Jhumar / جھومر",
+        "D": "Luddi / لڈی"
+      },
+      "answer": "A",
+      "explanation": "Attan and Khattak Dance are martial folk dances celebrating bravery and collective solidarity. / اتن اور خٹک ڈانس پشتون روایات کا ایک پُرجوش اجتماعی اور روایتی رقص ہے۔"
+    },
+    {
+      "id": 27,
+      "question": "Which energetic folk dance is performed by men in rural Punjab during the wheat harvesting season (Baisakhi)? / گندم کی کٹائی کے موقع پر پنجاب میں مردوں کی طرف سے خوشی میں کیا جانے والا لوک رقص کون سا ہے؟",
+      "options": {
+        "A": "Bhangra (بھنگڑا)",
+        "B": "Kathak / کتھک",
+        "C": "Dhamal / دھمال",
+        "D": "Gidda / گدھا"
+      },
+      "answer": "A",
+      "explanation": "Bhangra is Punjab's lively harvest dance accompanied by the thunderous beats of the dhol. / بھنگڑا پنجاب کے دیہات میں فصل کی کٹائی پر کسانوں کے پُرمسرت جذبات کا عکاس ہے۔"
+    },
+    {
+      "id": 28,
+      "question": "Which annual festival held at Shandur Pass (3,700 m) features traditional freestyle Polo between Gilgit and Chitral? / شندور پاس (3,700 میٹر) پر گلگت اور چترال کے مابین کون سا سالانہ فری اسٹائل پولو فیسٹیول منعقد ہوتا ہے؟",
+      "options": {
+        "A": "Shandur Polo Festival / شندور پولو فیسٹیول",
+        "B": "Sibi Mela / سبی میلہ",
+        "C": "Mela Chiraghan / میلہ چراغاں",
+        "D": "Jashn-e-Nowruz / جشنِ نوروز"
+      },
+      "answer": "A",
+      "explanation": "The Shandur Polo Festival takes place on the world's highest polo ground, played without modern rules. / دنیا کے بلند ترین پولو گراؤنڈ پر شندور میلہ بین الاقوامی سیاحت کا بڑا مرکز ہے۔"
+    },
+    {
+      "id": 29,
+      "question": "Which historic annual livestock fair has been celebrated in Balochistan since the 15th century? / 15ویں صدی سے بلوچستان میں مویشیوں کا کون سا تاریخی میلہ منعقد ہوتا چلا آ رہا ہے؟",
+      "options": {
+        "A": "Sibi Mela / سبی میلہ",
+        "B": "Horse & Cattle Show Lahore / ہارس اینڈ کیٹل شو",
+        "C": "Lok Mela Islamabad / لوک میلہ",
+        "D": "Kaghan Festival / کاغان فیسٹیول"
+      },
+      "answer": "A",
+      "explanation": "The historic Sibi Mela showcases livestock, folk dances, horse racing, and cultural heritage of Balochistan. / سبی میلہ بلوچستان کی روایات اور اعلیٰ نسل کے مویشیوں کی نمائش کا تاریخی میلہ ہے۔"
+    },
+    {
+      "id": 30,
+      "question": "Where is the famous annual Sufi festival of 'Mela Chiraghan' (Festival of Lights) celebrated in honor of Madho Lal Hussain? / مادھو لال حسینؒ کے مزار پر سالانہ صوفیانہ تہوار 'میلہ چراغاں' کس شہر میں منایا جاتا ہے؟",
+      "options": {
+        "A": "Lahore (Shalimar Gardens) / لاہور (شالامار باغ)",
+        "B": "Multan / ملتان",
+        "C": "Kasur / قصور",
+        "D": "Sehwan Sharif / سیہون شریف"
+      },
+      "answer": "A",
+      "explanation": "Mela Chiraghan is held annually in March near Lahore's Shalimar Gardens with thousands lighting oil lamps and dancing Dhamal. / میلہ چراغاں لاہور کا قدیم ترین ثقافتی میلہ ہے جس میں چراغ جلائے جاتے ہیں۔"
+    },
+    {
+      "id": 31,
+      "question": "Which ancient unique non-Muslim pagan community lives in the three valleys (Bumburet, Rumbur, Birir) of Chitral? / چترال کی تین وادیوں (بمبوریت، رمبور، بیریر) میں کون سا منفرد قدیم غیر مسلم قبیلہ آباد ہے؟",
+      "options": {
+        "A": "Kalash People / کیلاش قبیلہ",
+        "B": "Baltis / بلتی",
+        "C": "Wakhi / واخی",
+        "D": "Shin / شین"
+      },
+      "answer": "A",
+      "explanation": "The Kalash community preserves a distinct animist religion, colorful bead headdresses, and famous festivals like Chilam Joshi. / کیلاش قبیلہ اپنی منفرد ثقافت، مخصوص لباس اور چیلم جوشٹ جیسے تہواروں کے باعث دنیا بھر میں مشہور ہے۔"
+    },
+    {
+      "id": 32,
+      "question": "Which city of Pakistan is known as 'Madinat-ul-Auliya' (City of Saints) due to its numerous historic shrines? / صوفیاء اور اولیاء کے مزارات کی کثرت کی وجہ سے کس شہر کو 'مدینۃ الاولیاء' کہا جاتا ہے؟",
+      "options": {
+        "A": "Multan / ملتان",
+        "B": "Lahore / لاہور",
+        "C": "Sukkur / سکھر",
+        "D": "Peshawar / پشاور"
+      },
+      "answer": "A",
+      "explanation": "Multan is celebrated as the City of Saints, hosting shrines of Bahauddin Zakariya, Shah Rukn-e-Alam, and Shams Tabrez. / ملتان میں حضرت بہاؤ الدین زکریاؒ اور شاہ رکنِ عالمؒ جیسے جلیل القدر صوفیاء کے مزارات موجود ہیں۔"
+    },
+    {
+      "id": 33,
+      "question": "What is the primary script used for writing the Urdu and Kashmiri languages? / اردو اور کشمیری زبانیں لکھنے کے لیے کون سا روایتی خط استعمال ہوتا ہے؟",
+      "options": {
+        "A": "Nasta'liq Script (خطِ نستعلیق)",
+        "B": "Naskh Script / خطِ نسخ",
+        "C": "Devanagari / دیوناگری",
+        "D": "Roman / رومن"
+      },
+      "answer": "A",
+      "explanation": "Urdu is predominantly written in the elegant cursive Nasta'liq calligraphic style derived from Persian and Arabic. / اردو کا بنیادی رسم الخط خوبصورت خطِ نستعلیق ہے۔"
+    },
+    {
+      "id": 34,
+      "question": "Which script is used for writing the Sindhi language in Pakistan? / پاکستان میں سندھی زبان لکھنے کے لیے کون سا رسم الخط استعمال کیا جاتا ہے؟",
+      "options": {
+        "A": "Arabic-Naskh based 52-letter alphabet / عربی نسخ پر مبنی 52 حروف والا رسم الخط",
+        "B": "Devanagari / دیوناگری",
+        "C": "Gurmukhi / گر مکھی",
+        "D": "Cuneiform / میخی خط"
+      },
+      "answer": "A",
+      "explanation": "Sindhi is written in an expanded Perso-Arabic Naskh script containing 52 letters, standardized in 1853. / سندھی زبان 52 حروفِ تہجی پر مشتمل عربی نسخ میں لکھی جاتی ہے۔"
+    },
+    {
+      "id": 35,
+      "question": "What is the supreme binding force that unifies the diverse ethnic and linguistic cultures of Pakistan into one nation? / پاکستان کے مختلف النسل اور کثیر اللسانی خطوں کو ایک قوم کے دھاگے میں پرونے والی سب سے طاقتور قدر کون سی ہے؟",
+      "options": {
+        "A": "Common faith in Islam and shared national heritage / مشترکہ اسلامی نظریہ اور مشترکہ تاریخی و قومی اقدار",
+        "B": "Single spoken mother tongue / صرف ایک مادری زبان",
+        "C": "Identical cuisine / ایک جیسی خوراک",
+        "D": "Rigid centralized uniformity / زبردستی کی یکسانیت"
+      },
+      "answer": "A",
+      "explanation": "Islamic brotherhood, constitutional equality, and common destiny unite Pakistan's rich multicultural tapestry. / اسلامی اخوت اور یکساں نظریاتی مقاصد نے پاکستان کے تمام علاقائی تمدنوں کو ایک گلدستہ بنا دیا ہے۔"
+    }
+  ]
+}

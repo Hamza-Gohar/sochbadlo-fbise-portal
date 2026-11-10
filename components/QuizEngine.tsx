@@ -30,10 +30,20 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [reviewFilter, setReviewFilter] = useState<'all' | 'incorrect'>('all');
   
-  // Timer for Exam Mode (15 min / 900s for Class 9 Physics/Tarjuma simulators; 20 min / 1200s for Class 11 and Urdu/Math-9)
-  const is15MinExam = slug.startsWith('physics-9-model-paper-') || slug.startsWith('tarjuma-9-model-paper-');
-  const [timeLeft, setTimeLeft] = useState(is15MinExam ? 900 : 1200);
+  // Timer for Exam Mode (15 min for 10-MCQ subjects; 25 min for 20-MCQ Class 12 English/Urdu; 20 min default)
+  const is10QExam =
+    slug.startsWith('physics-9-model-paper-') ||
+    slug.startsWith('tarjuma-9-model-paper-') ||
+    slug.startsWith('pakstudies-10-') ||
+    slug.startsWith('tarjuma-10-') ||
+    slug.startsWith('pakstudies-12-') ||
+    slug.startsWith('tarjuma-12-');
+  const is20QClass12Exam = slug.startsWith('english-12-') || slug.startsWith('urdu-12-');
+  const initialExamTime = is10QExam ? 900 : is20QClass12Exam ? 1500 : 1200;
+  const [timeLeft, setTimeLeft] = useState(initialExamTime);
   const [elapsedTime, setElapsedTime] = useState(0);
+
+  const backHref = chapter.grade ? `/?grade=${chapter.grade}` : '/';
 
   const questions = chapter.questions;
   const currentQ = questions[currentIndex] || questions[0];
@@ -182,7 +192,7 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
     setFlagged({});
     setIsSubmitted(false);
     setCurrentIndex(0);
-    setTimeLeft(1200);
+    setTimeLeft(initialExamTime);
     setElapsedTime(0);
   };
 
@@ -199,7 +209,7 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
         <div className="max-w-[var(--container)] mx-auto px-4 sm:px-8 py-3 flex items-center justify-between gap-4">
           <div className="flex items-center gap-4">
             <Link
-              href="/"
+              href={backHref}
               className="p-1.5 border border-[var(--color-rule-2)] hover:border-[var(--color-ink)] transition-colors text-[var(--color-ink)]"
               title="Return to Chapter Index"
             >
@@ -331,7 +341,7 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
                     <span>Retake Quiz</span>
                   </button>
                   <Link
-                    href="/"
+                    href={backHref}
                     className="flex-1 sm:flex-initial px-4 py-2 border border-[var(--color-ink)] text-[var(--color-ink)] text-xs font-bold flex items-center justify-center gap-1.5 hover:bg-[var(--color-paper)] transition-colors"
                   >
                     <Home className="w-3.5 h-3.5" />

@@ -29,6 +29,10 @@ const ENGLISH_10_DIR = path.join(process.cwd(), 'data', 'english-10');
 const PAKSTUDIES_10_DIR = path.join(process.cwd(), 'data', 'pakstudies-10');
 const URDU_10_DIR = path.join(process.cwd(), 'data', 'urdu-10');
 const TARJUMA_10_DIR = path.join(process.cwd(), 'data', 'tarjuma-10');
+const ENGLISH_12_DIR = path.join(process.cwd(), 'data', 'english-12');
+const URDU_12_DIR = path.join(process.cwd(), 'data', 'urdu-12');
+const PAKSTUDIES_12_DIR = path.join(process.cwd(), 'data', 'pakstudies-12');
+const TARJUMA_12_DIR = path.join(process.cwd(), 'data', 'tarjuma-12');
 
 export function getChaptersIndex(
   subject: SubjectId = 'physics'
@@ -61,21 +65,30 @@ export function getChaptersIndex(
     else if (subject === 'pakstudies-10') dir = PAKSTUDIES_10_DIR;
     else if (subject === 'urdu-10') dir = URDU_10_DIR;
     else if (subject === 'tarjuma-10') dir = TARJUMA_10_DIR;
+    else if (subject === 'english-12') dir = ENGLISH_12_DIR;
+    else if (subject === 'urdu-12') dir = URDU_12_DIR;
+    else if (subject === 'pakstudies-12') dir = PAKSTUDIES_12_DIR;
+    else if (subject === 'tarjuma-12') dir = TARJUMA_12_DIR;
 
     const indexPath = path.join(dir, 'chapters-index.json');
     if (fs.existsSync(indexPath)) {
       const content = fs.readFileSync(indexPath, 'utf-8');
       const list: ChapterMeta[] = JSON.parse(content);
       const grade =
-        subject === 'math-10' ||
-        subject === 'physics-10' ||
-        subject === 'chemistry-10' ||
-        subject === 'cs-10' ||
-        subject === 'biology-10' ||
-        subject === 'english-10' ||
-        subject === 'pakstudies-10' ||
-        subject === 'urdu-10' ||
-        subject === 'tarjuma-10'
+        subject === 'english-12' ||
+        subject === 'urdu-12' ||
+        subject === 'pakstudies-12' ||
+        subject === 'tarjuma-12'
+          ? '12'
+          : subject === 'math-10' ||
+            subject === 'physics-10' ||
+            subject === 'chemistry-10' ||
+            subject === 'cs-10' ||
+            subject === 'biology-10' ||
+            subject === 'english-10' ||
+            subject === 'pakstudies-10' ||
+            subject === 'urdu-10' ||
+            subject === 'tarjuma-10'
           ? '10'
           : subject === 'physics-9' ||
             subject === 'math-9' ||
@@ -125,6 +138,10 @@ export function getAllChapters(): ChapterMeta[] {
     ...getChaptersIndex('pakstudies-10'),
     ...getChaptersIndex('urdu-10'),
     ...getChaptersIndex('tarjuma-10'),
+    ...getChaptersIndex('english-12'),
+    ...getChaptersIndex('urdu-12'),
+    ...getChaptersIndex('pakstudies-12'),
+    ...getChaptersIndex('tarjuma-12'),
   ];
 }
 
@@ -139,7 +156,19 @@ export function getChapterBySlug(
     let targetDir = PHYSICS_DIR;
     let subject: SubjectId = 'physics';
 
-    if (slug.startsWith('pakstudies-10')) {
+    if (slug.startsWith('english-12')) {
+      targetDir = ENGLISH_12_DIR;
+      subject = 'english-12';
+    } else if (slug.startsWith('urdu-12')) {
+      targetDir = URDU_12_DIR;
+      subject = 'urdu-12';
+    } else if (slug.startsWith('pakstudies-12')) {
+      targetDir = PAKSTUDIES_12_DIR;
+      subject = 'pakstudies-12';
+    } else if (slug.startsWith('tarjuma-12')) {
+      targetDir = TARJUMA_12_DIR;
+      subject = 'tarjuma-12';
+    } else if (slug.startsWith('pakstudies-10')) {
       targetDir = PAKSTUDIES_10_DIR;
       subject = 'pakstudies-10';
     } else if (slug.startsWith('urdu-10')) {
@@ -234,6 +263,10 @@ export function getChapterBySlug(
 
     // Fallback search across all directories
     const dirMap: Array<[string, SubjectId]> = [
+      [ENGLISH_12_DIR, 'english-12'],
+      [URDU_12_DIR, 'urdu-12'],
+      [PAKSTUDIES_12_DIR, 'pakstudies-12'],
+      [TARJUMA_12_DIR, 'tarjuma-12'],
       [PAKSTUDIES_10_DIR, 'pakstudies-10'],
       [URDU_10_DIR, 'urdu-10'],
       [TARJUMA_10_DIR, 'tarjuma-10'],

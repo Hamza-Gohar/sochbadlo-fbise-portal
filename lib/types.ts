@@ -38,7 +38,11 @@ export type SubjectId =
   | 'english-10'
   | 'pakstudies-10'
   | 'urdu-10'
-  | 'tarjuma-10';
+  | 'tarjuma-10'
+  | 'english-12'
+  | 'urdu-12'
+  | 'pakstudies-12'
+  | 'tarjuma-12';
 
 export interface ChapterData {
   chapterNumber: number;
@@ -46,7 +50,7 @@ export interface ChapterData {
   totalQuestions: number;
   questions: Question[];
   subject?: SubjectId;
-  grade?: '9' | '10' | '11';
+  grade?: '9' | '10' | '11' | '12';
 }
 
 export interface ChapterMeta {
@@ -56,7 +60,7 @@ export interface ChapterMeta {
   totalQuestions: number;
   fileName: string;
   subject?: SubjectId;
-  grade?: '9' | '10' | '11';
+  grade?: '9' | '10' | '11' | '12';
 }
 
 export interface QuizResult {

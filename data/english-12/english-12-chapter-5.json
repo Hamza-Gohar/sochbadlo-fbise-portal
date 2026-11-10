@@ -1,0 +1,430 @@
+{
+  "id": 5,
+  "chapterNumber": 5,
+  "title": "Unit 05: Book-II Heroes Part 2 (Sir Alexander Fleming, Louis Pasteur)",
+  "totalQuestions": 35,
+  "slug": "english-12-chapter-5",
+  "subject": "english-12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In Patrick Pringle's biographical essay on Sir Alexander Fleming, what major flaw of chemical antiseptics (like carbolic acid) during WW1 is highlighted?",
+      "options": {
+        "A": "They were too expensive to manufacture in wartime.",
+        "B": "They destroyed the body's natural defense cells (leucocytes / white blood cells) more effectively than they killed the invading bacteria.",
+        "C": "They had an unpleasant smell that caused headaches.",
+        "D": "They caused immediate chemical fires in field hospitals."
+      },
+      "answer": "B",
+      "explanation": "Sir Almroth Wright and Fleming proved that chemical antiseptics did more harm than good in deep wounds by killing leucocytes while bacteria survived deep in tissues."
+    },
+    {
+      "id": 2,
+      "question": "What natural antibacterial enzyme did Fleming discover in human tears, saliva, and mucus in 1922?",
+      "options": {
+        "A": "Penicillin",
+        "B": "Lysozyme",
+        "C": "Streptomycin",
+        "D": "Insulin"
+      },
+      "answer": "B",
+      "explanation": "Fleming discovered Lysozyme when a drop of his nasal mucus accidentally fell on a culture plate and dissolved surrounding bacteria, demonstrating the body's natural defense."
+    },
+    {
+      "id": 3,
+      "question": "How did Fleming serendipitously discover Penicillin at St. Mary's Hospital in 1928?",
+      "options": {
+        "A": "By deliberately importing radioactive fungi from South America",
+        "B": "A drifting mould spore (Penicillium notatum) contaminated an uncovered culture plate of Staphylococcus bacteria, creating a transparent ring of dissolved microbes",
+        "C": "By injecting snake venom into guinea pigs",
+        "D": "By distilling coal tar products"
+      },
+      "answer": "B",
+      "explanation": "A stray spore blew in through the window, settled on a staphylococcus culture plate, and Fleming noticed that bacteria surrounding the mould were being lysed and destroyed."
+    },
+    {
+      "id": 4,
+      "question": "Why could Fleming not immediately produce Penicillin as a clinical drug in 1928?",
+      "options": {
+        "A": "He was forbidden by British medical authorities.",
+        "B": "Penicillin was extraordinarily unstable and elusive; as a bacteriologist, he lacked the biochemical team and funding to concentrate and purify it.",
+        "C": "He lost his laboratory in a fire.",
+        "D": "The mould refused to grow again."
+      },
+      "answer": "B",
+      "explanation": "Purifying unstable penicillin required advanced chemical engineering, which was only achieved a decade later by Florey and Chain at Oxford."
+    },
+    {
+      "id": 5,
+      "question": "Which Oxford University scientists successfully isolated, purified, and mass-produced Penicillin during the crisis of World War II?",
+      "options": {
+        "A": "Howard Florey and Ernst Chain",
+        "B": "Louis Pasteur and Robert Koch",
+        "C": "James Watson and Francis Crick",
+        "D": "Edward Jenner and Joseph Lister"
+      },
+      "answer": "A",
+      "explanation": "Sir Howard Florey and Dr. Ernst Chain headed the Oxford research team that turned Fleming's raw mould juice into the miracle wonder drug."
+    },
+    {
+      "id": 6,
+      "question": "Why did Sir Alexander Fleming refuse to patent his discovery of Penicillin for personal financial gain?",
+      "options": {
+        "A": "Because British patent law prohibited medical patents.",
+        "B": "He believed his discovery was a gift of nature for the healing of humanity, not a commodity to amass personal wealth.",
+        "C": "He was already the richest man in Scotland.",
+        "D": "His university claimed all commercial royalties."
+      },
+      "answer": "B",
+      "explanation": "Fleming displayed profound humanitarian modesty, insisting that penicillin belonged to the entire world without commercial copyright."
+    },
+    {
+      "id": 7,
+      "question": "In Margaret Avery's essay on Louis Pasteur, what fundamental biological theory did Pasteur definitively disprove?",
+      "options": {
+        "A": "The theory of Spontaneous Generation (abiogenesis)",
+        "B": "The germ theory of disease",
+        "C": "Mendel's laws of inheritance",
+        "D": "The circulation of blood"
+      },
+      "answer": "A",
+      "explanation": "Pasteur used swan-necked flasks to prove that living microbes arise only from existing living germs in the air, disproving the ancient myth that life originates spontaneously from decaying matter."
+    },
+    {
+      "id": 8,
+      "question": "What industrial crisis in France did Pasteur solve by introducing the process that now bears his name (Pasteurization)?",
+      "options": {
+        "A": "The spoiling of wine and beer due to unwanted bacterial fermentation",
+        "B": "The explosion of coal mines from methane gas",
+        "C": "The rusting of steel railroad tracks",
+        "D": "The blight of potato crops"
+      },
+      "answer": "A",
+      "explanation": "Pasteur showed that heating wine and beer to 50–60°C killed harmful microbes without destroying the flavor, saving the French brewing and wine industries."
+    },
+    {
+      "id": 9,
+      "question": "What devastating disease of silkworms did Pasteur investigate, saving the French silk industry in the south of France?",
+      "options": {
+        "A": "Pebrine and Flacherie",
+        "B": "Bovine tuberculosis",
+        "C": "Rinderpest",
+        "D": "Anthrax"
+      },
+      "answer": "A",
+      "explanation": "Pasteur spent years in the Cévennes region, showing silkworm breeders how to use microscopes to detect diseased moths and eradicate pebrine."
+    },
+    {
+      "id": 10,
+      "question": "What historic public demonstration of anthrax vaccination did Pasteur conduct at Pouilly-le-Fort in 1881?",
+      "options": {
+        "A": "He vaccinated 25 sheep against anthrax, left 25 unvaccinated, and injected all 50 with deadly anthrax culture; every vaccinated sheep survived while all unvaccinated died.",
+        "B": "He drank anthrax broth in front of the French Academy of Sciences.",
+        "C": "He injected himself with rabid wolf saliva.",
+        "D": "He vaccinated Parisian hospital doctors."
+      },
+      "answer": "A",
+      "explanation": "The Pouilly-le-Fort experiment was a sensational triumph: all 25 vaccinated sheep were perfectly healthy, while the 25 control sheep lay dead or dying."
+    },
+    {
+      "id": 11,
+      "question": "Who was the first human patient successfully treated by Pasteur for rabies (hydrophobia) in July 1885?",
+      "options": {
+        "A": "Joseph Meister, a nine-year-old Alsatian boy severely bitten by a mad dog",
+        "B": "A French shepherd named Jean-Baptiste Jupille",
+        "C": "His own son",
+        "D": "Alexander Fleming"
+      },
+      "answer": "A",
+      "explanation": "Little Joseph Meister had fourteen deep wounds from a rabid dog; Pasteur's series of 13 attenuated spinal cord injections prevented rabies and saved his life."
+    },
+    {
+      "id": 12,
+      "question": "How did Pasteur attenuate (weaken) the rabies virus in his laboratory?",
+      "options": {
+        "A": "By drying infected spinal cords of rabbits in sterile dry air flasks for varying numbers of days",
+        "B": "By boiling rabies tissue in carbolic acid",
+        "C": "By exposing the virus to X-ray radiation",
+        "D": "By freezing it in glacier ice"
+      },
+      "answer": "A",
+      "explanation": "Drying rabid rabbit spinal cords day by day systematically weakened the virus, allowing Pasteur to build immunity through progressively stronger doses."
+    },
+    {
+      "id": 13,
+      "question": "What magnificent international institute was erected in Paris through global public subscription in honor of Pasteur's rabies breakthrough?",
+      "options": {
+        "A": "The Pasteur Institute (Institut Pasteur)",
+        "B": "The Sorbonne Medical Center",
+        "C": "The Fleming Foundation",
+        "D": "The World Health Organization Headquarters"
+      },
+      "answer": "A",
+      "explanation": "Gratitude from around the globe funded the Institut Pasteur in Paris, dedicated to biological research, microbiology, and vaccine development."
+    },
+    {
+      "id": 14,
+      "question": "What personal physical handicap did Louis Pasteur overcome during the peak of his scientific career?",
+      "options": {
+        "A": "He suffered a severe stroke at age 46 that left his left side permanently paralyzed, yet he continued laboratory work for decades.",
+        "B": "He was completely blind from birth.",
+        "C": "He lost both legs in the Franco-Prussian war.",
+        "D": "He suffered from severe amnesia."
+      },
+      "answer": "A",
+      "explanation": "Despite being semi-paralyzed from a cerebral hemorrhage in 1868, Pasteur's iron will drove him to make his greatest discoveries in anthrax and rabies."
+    },
+    {
+      "id": 15,
+      "question": "What is the defining biological difference between an antiseptic and an antibiotic?",
+      "options": {
+        "A": "Antiseptics are non-specific toxic chemicals used on skin/instruments, whereas antibiotics are biological substances produced by organisms that destroy specific bacteria inside the body without harming host cells.",
+        "B": "Antiseptics cure viral infections while antibiotics cure bacterial diseases.",
+        "C": "Antibiotics are injected into wounds directly while antiseptics are swallowed as tablets.",
+        "D": "There is no difference; they are identical synonyms."
+      },
+      "answer": "A",
+      "explanation": "Antiseptics (e.g. iodine, phenol) destroy living tissue cells indiscriminately; antibiotics (e.g. penicillin) target microbial cell walls without killing human cells."
+    },
+    {
+      "id": 16,
+      "question": "In 1945, who jointly received the Nobel Prize in Physiology or Medicine for the discovery and development of Penicillin?",
+      "options": {
+        "A": "Sir Alexander Fleming, Howard Florey, and Ernst Chain",
+        "B": "Louis Pasteur, Robert Koch, and Joseph Lister",
+        "C": "Almroth Wright, Joseph Meister, and Patrick Pringle",
+        "D": "Alexander Fleming and Louis Pasteur"
+      },
+      "answer": "A",
+      "explanation": "Fleming shared the 1945 Nobel Prize with Florey and Chain for discovering and purifying penicillin."
+    },
+    {
+      "id": 17,
+      "question": "What patriotic action did Pasteur take during the Franco-Prussian War of 1870?",
+      "options": {
+        "A": "He volunteered to fight as an infantry rifleman despite his paralysis and returned his honorary diploma to the University of Bonn in protest against Prussian aggression.",
+        "B": "He moved to Germany to conduct research.",
+        "C": "He designed chemical weapons for the military.",
+        "D": "He fled to England."
+      },
+      "answer": "A",
+      "explanation": "Pasteur was deeply patriotic; he tried to enlist in the National Guard and returned his Prussian honorary medical degree in moral protest."
+    },
+    {
+      "id": 18,
+      "question": "What is the meaning of the medical term 'attenuation' in immunology?",
+      "options": {
+        "A": "Weakening the virulence of a pathogen so it stimulates immunity without causing disease",
+        "B": "Multiplying bacteria in nutrient broth",
+        "C": "Surgically amputating an infected limb",
+        "D": "Freezing blood samples for storage"
+      },
+      "answer": "A",
+      "explanation": "'Attenuation' is the reduction of virulence in a microbe, enabling its use as a safe, protective vaccine."
+    },
+    {
+      "id": 19,
+      "question": "Fleming's childhood upbringing in rural Ayrshire, Scotland, gave him what invaluable scientific trait?",
+      "options": {
+        "A": "Keen powers of natural observation and deep appreciation for living nature",
+        "B": "Training in finance and stockbroking",
+        "C": "Fluency in classical Greek",
+        "D": "Expertise in military artillery"
+      },
+      "answer": "A",
+      "explanation": "Growing up on a moorland farm cultivated Fleming's sharp eyes, observational patience, and curiosity about natural phenomena."
+    },
+    {
+      "id": 20,
+      "question": "What was the popular moniker given to Penicillin after its miracle efficacy was demonstrated in treating WW2 battle casualties?",
+      "options": {
+        "A": "'The Wonder Drug'",
+        "B": "'The Black Salve'",
+        "C": "'The Elixir of Gold'",
+        "D": "'The Oxford Potion'"
+      },
+      "answer": "A",
+      "explanation": "Penicillin saved countless Allied soldiers from septic gangrene and pneumonia, earning universal fame as 'The Wonder Drug'."
+    },
+    {
+      "id": 21,
+      "question": "What was Pasteur's answer to critics who claimed spontaneous generation occurred in boiled broth?",
+      "options": {
+        "A": "He showed that if air entering the flask was filtered or passed through a bent swan-neck curve, dust carrying microbes could not enter, and the broth remained sterile indefinitely.",
+        "B": "He added poison to the broth.",
+        "C": "He sealed the flasks inside iron boxes.",
+        "D": "He performed his experiments at midnight."
+      },
+      "answer": "A",
+      "explanation": "The swan-neck flask experiment proved that gravity trapped dust particles in the bend, keeping the broth perfectly clear and free of microbial life."
+    },
+    {
+      "id": 22,
+      "question": "What famous quote is attributed to Louis Pasteur regarding scientific observation?",
+      "options": {
+        "A": "'Chance favors only the prepared mind.'",
+        "B": "'All discoveries are completely accidental.'",
+        "C": "'Science has no place for imagination.'",
+        "D": "'Never trust a microscope.'"
+      },
+      "answer": "A",
+      "explanation": "Pasteur emphasized that serendipitous scientific accidents yield discoveries only when an observer has the trained intellect to understand them."
+    },
+    {
+      "id": 23,
+      "question": "What was the initial medical response when Fleming published his 1929 paper on Penicillin?",
+      "options": {
+        "A": "Massive global excitement and immediate commercial manufacture",
+        "B": "Virtually complete indifference and silence, as few grasped its revolutionary therapeutic significance",
+        "C": "He was knighted by the King the following morning",
+        "D": "The paper was burned by medical journals"
+      },
+      "answer": "B",
+      "explanation": "The British Journal of Experimental Pathology paper attracted almost zero public interest until Florey and Chain revived it in 1939."
+    },
+    {
+      "id": 24,
+      "question": "What fatal disease caused by hydrophobia did Pasteur overcome with his vaccine?",
+      "options": {
+        "A": "Rabies",
+        "B": "Cholera",
+        "C": "Tetanus",
+        "D": "Diphtheria"
+      },
+      "answer": "A",
+      "explanation": "Rabies (hydrophobia) was 100% fatal once symptoms appeared; Pasteur's post-exposure prophylaxis was a monumental breakthrough in medical history."
+    },
+    {
+      "id": 25,
+      "question": "Identify the figure of speech in: 'Penicillin was a magic bullet that hunted down bacteria without injuring body tissues.'",
+      "options": {
+        "A": "Metaphor",
+        "B": "Simile",
+        "C": "Litotes",
+        "D": "Irony"
+      },
+      "answer": "A",
+      "explanation": "Directly identifying penicillin as a 'magic bullet' without using 'like' or 'as' is an imaginative metaphor."
+    },
+    {
+      "id": 26,
+      "question": "What is the synonym of 'serendipity' in scientific history?",
+      "options": {
+        "A": "Deliberate and planned mathematical calculation",
+        "B": "The occurrence of valuable discoveries by happy chance or fortunate accident",
+        "C": "Severe intellectual fatigue",
+        "D": "Plagiarism of another's work"
+      },
+      "answer": "B",
+      "explanation": "'Serendipity' is the fortunate discovery of something valuable while looking for something else, perfectly typified by Fleming's mould."
+    },
+    {
+      "id": 27,
+      "question": "Choose the correct preposition: 'Fleming was modest and objected _____ being lionized by the global press.'",
+      "options": {
+        "A": "at",
+        "B": "to",
+        "C": "against",
+        "D": "with"
+      },
+      "answer": "B",
+      "explanation": "The verb 'object' requires the preposition 'to' followed by a gerund ('objected to being lionized')."
+    },
+    {
+      "id": 28,
+      "question": "What is the meaning of 'lionized' in the sentence above?",
+      "options": {
+        "A": "Attacked by wild lions",
+        "B": "Treated as a celebrated celebrity and hero with immense public adoration",
+        "C": "Exiled to an African safari",
+        "D": "Imprisoned in a zoo"
+      },
+      "answer": "B",
+      "explanation": "'To lionize' someone means to shower them with immense public celebration, adulation, and celebrity status."
+    },
+    {
+      "id": 29,
+      "question": "In what year did Fleming discover the penicillin mould contamination on his culture plate?",
+      "options": {
+        "A": "1914",
+        "B": "1928",
+        "C": "1945",
+        "D": "1939"
+      },
+      "answer": "B",
+      "explanation": "Fleming discovered penicillin in September 1928 at St. Mary's Hospital, London."
+    },
+    {
+      "id": 30,
+      "question": "How did Joseph Meister express his lifelong gratitude to Louis Pasteur?",
+      "options": {
+        "A": "He became the gatekeeper and caretaker of the Pasteur Institute until his death",
+        "B": "He paid Pasteur a monthly pension",
+        "C": "He wrote a best-selling novel about him",
+        "D": "He named his village after Pasteur"
+      },
+      "answer": "A",
+      "explanation": "Joseph Meister served loyally as the gatekeeper of the Pasteur Institute in Paris for the rest of his life."
+    },
+    {
+      "id": 31,
+      "question": "What happened when Nazi officers ordered Joseph Meister to open Pasteur's crypt during the 1940 occupation of Paris?",
+      "options": {
+        "A": "He gladly opened the doors and guided them.",
+        "B": "He chose suicide rather than desecrate Pasteur's resting place for the invading Germans.",
+        "C": "He fled across the English Channel.",
+        "D": "He surrendered the keys to the municipal mayor."
+      },
+      "answer": "B",
+      "explanation": "In 1940, the elderly Meister chose to end his own life rather than permit Nazi soldiers to enter and violate Pasteur's sacred tomb."
+    },
+    {
+      "id": 32,
+      "question": "What is the antonym of 'virulent' in microbiology?",
+      "options": {
+        "A": "Malignant",
+        "B": "Innocuous / Harmless / Benign",
+        "C": "Fatal",
+        "D": "Pestilential"
+      },
+      "answer": "B",
+      "explanation": "'Virulent' means extremely severe, harmful, or deadly; its opposite is benign, harmless, or innocuous."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following demonstrates correct use of the subjunctive mood?",
+      "options": {
+        "A": "It is essential that Fleming receives all the credit.",
+        "B": "It is essential that Fleming receive all the credit.",
+        "C": "It is essential that Fleming will receive all the credit.",
+        "D": "It is essential that Fleming received all the credit."
+      },
+      "answer": "B",
+      "explanation": "Subjunctive expressions ('it is essential that...') require the base form of the verb ('receive')."
+    },
+    {
+      "id": 34,
+      "question": "What did Fleming frequently say about his role in the penicillin discovery?",
+      "options": {
+        "A": "'I invented penicillin by sheer genius.'",
+        "B": "'Nature created penicillin; I only found it.'",
+        "C": "'Florey and Chain did all the work.'",
+        "D": "'Microbiology is a game of chance without science.'"
+      },
+      "answer": "B",
+      "explanation": "Fleming characteristically deflected praise by noting that the mould had existed for millions of years in nature, and he had merely observed its effect."
+    },
+    {
+      "id": 35,
+      "question": "What supreme moral quality unites Sir Alexander Fleming and Louis Pasteur?",
+      "options": {
+        "A": "Unflinching dedication to alleviating human disease through patient empirical science, combined with selfless humanitarian modesty",
+        "B": "A desire for personal wealth through patent monopolies",
+        "C": "Interest in military weaponry and politics",
+        "D": "Refusal to train students in laboratories"
+      },
+      "answer": "A",
+      "explanation": "Both Fleming and Pasteur dedicated their lives selflessly to conquering deadly diseases for the salvation of humanity."
+    }
+  ]
+}
