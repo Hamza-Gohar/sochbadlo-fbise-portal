@@ -1,0 +1,429 @@
+{
+  "chapterNumber": 3,
+  "chapterTitle": "Unit 3: Integration",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is ∫ (1/x) dx for x > 0?",
+      "options": {
+        "A": "ln(x) + c",
+        "B": "-1/x² + c",
+        "C": "e^x + c",
+        "D": "x + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "By definition of the natural logarithm as anti-derivative, ∫ (1/x) dx = ln|x| + c."
+    },
+    {
+      "id": 2,
+      "question": "What is ∫ tan(x) dx?",
+      "options": {
+        "A": "ln|sec x| + c",
+        "B": "-ln|sec x| + c",
+        "C": "sec²(x) + c",
+        "D": "ln|sin x| + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫ tan x dx = ∫ (sin x / cos x) dx = -∫ (-sin x / cos x) dx = -ln|cos x| + c = ln|cos x|⁻¹ + c = ln|sec x| + c."
+    },
+    {
+      "id": 3,
+      "question": "What is ∫ cot(x) dx?",
+      "options": {
+        "A": "ln|sin x| + c",
+        "B": "-ln|sin x| + c",
+        "C": "ln|cos x| + c",
+        "D": "-csc²(x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫ cot x dx = ∫ (cos x / sin x) dx. Since the numerator is the derivative of the denominator, the integral is ln|sin x| + c."
+    },
+    {
+      "id": 4,
+      "question": "What is ∫ sec(x) dx?",
+      "options": {
+        "A": "ln|sec x + tan x| + c",
+        "B": "sec x tan x + c",
+        "C": "ln|sec x - tan x| + c",
+        "D": "tan²(x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Multiplying numerator and denominator by (sec x + tan x): ∫ [sec x (sec x + tan x) / (sec x + tan x)] dx = ln|sec x + tan x| + c."
+    },
+    {
+      "id": 5,
+      "question": "What is ∫ [1 / (a² + x²)] dx?",
+      "options": {
+        "A": "(1/a) tan⁻¹(x/a) + c",
+        "B": "tan⁻¹(x/a) + c",
+        "C": "(1/a) sin⁻¹(x/a) + c",
+        "D": "(1/2a) ln|(a + x)/(a - x)| + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Substitute x = a tan θ ⇒ dx = a sec²θ dθ. The integral becomes ∫ a sec²θ / [a²(1 + tan²θ)] dθ = (1/a) ∫ dθ = (1/a) θ + c = (1/a) tan⁻¹(x/a) + c."
+    },
+    {
+      "id": 6,
+      "question": "What is ∫ [1 / √(a² - x²)] dx?",
+      "options": {
+        "A": "sin⁻¹(x/a) + c",
+        "B": "(1/a) sin⁻¹(x/a) + c",
+        "C": "cos⁻¹(x/a) + c",
+        "D": "(1/a) tan⁻¹(x/a) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Substitute x = a sin θ ⇒ dx = a cos θ dθ. Then ∫ a cos θ / √(a²(1 - sin²θ)) dθ = ∫ dθ = θ + c = sin⁻¹(x/a) + c."
+    },
+    {
+      "id": 7,
+      "question": "What is the formula for integration by parts ∫ u v' dx?",
+      "options": {
+        "A": "u v - ∫ v u' dx",
+        "B": "u v + ∫ v u' dx",
+        "C": "u' v - ∫ u v dx",
+        "D": "u' v' - u v"
+      },
+      "correctAnswer": "A",
+      "explanation": "From product rule d/dx(uv) = u'v + uv', integrating both sides gives uv = ∫ u'v dx + ∫ uv' dx ⇒ ∫ uv' dx = uv - ∫ v u' dx."
+    },
+    {
+      "id": 8,
+      "question": "What is ∫ x · e^x dx?",
+      "options": {
+        "A": "e^x(x - 1) + c",
+        "B": "e^x(x + 1) + c",
+        "C": "x² e^x / 2 + c",
+        "D": "e^x + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Using integration by parts: u = x, dv = e^x dx ⇒ du = dx, v = e^x. ∫ x e^x dx = x e^x - ∫ e^x dx = x e^x - e^x + c = e^x(x - 1) + c."
+    },
+    {
+      "id": 9,
+      "question": "What is ∫ ln(x) dx?",
+      "options": {
+        "A": "x ln(x) - x + c",
+        "B": "1/x + c",
+        "C": "x ln(x) + x + c",
+        "D": "ln(x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Integrate by parts: u = ln x, dv = 1 dx ⇒ du = (1/x) dx, v = x. ∫ ln x dx = x ln x - ∫ x (1/x) dx = x ln x - ∫ 1 dx = x ln x - x + c."
+    },
+    {
+      "id": 10,
+      "question": "What is the value of the definite integral ∫₀¹ x² dx?",
+      "options": {
+        "A": "1/3",
+        "B": "1/2",
+        "C": "1",
+        "D": "2/3"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫₀¹ x² dx = [x³/3]₀¹ = 1³/3 - 0³/3 = 1/3."
+    },
+    {
+      "id": 11,
+      "question": "What is the value of ∫₀^(π/2) cos(x) dx?",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "π/2"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫₀^(π/2) cos(x) dx = [sin(x)]₀^(π/2) = sin(π/2) - sin(0) = 1 - 0 = 1."
+    },
+    {
+      "id": 12,
+      "question": "For any continuous function f(x), the integral ∫_(-a)^a f(x) dx equals 0 if f(x) is:",
+      "options": {
+        "A": "An odd function",
+        "B": "An even function",
+        "C": "A constant function",
+        "D": "A quadratic function"
+      },
+      "correctAnswer": "A",
+      "explanation": "For an odd function f(-x) = -f(x), the area under the curve from -a to 0 cancels exactly with the area from 0 to a, so ∫_(-a)^a f(x) dx = 0."
+    },
+    {
+      "id": 13,
+      "question": "What is ∫ e^(ax) dx?",
+      "options": {
+        "A": "(1/a) e^(ax) + c",
+        "B": "a e^(ax) + c",
+        "C": "e^(ax) + c",
+        "D": "(a/x) e^(ax) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Using substitution u = ax, du = a dx ⇒ dx = du/a. Hence ∫ e^(ax) dx = (1/a) ∫ e^u du = (1/a) e^(ax) + c."
+    },
+    {
+      "id": 14,
+      "question": "What is ∫ [f'(x) / f(x)] dx?",
+      "options": {
+        "A": "ln|f(x)| + c",
+        "B": "[f(x)]² / 2 + c",
+        "C": "1/f(x) + c",
+        "D": "e^(f(x)) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Let u = f(x) ⇒ du = f'(x) dx. Then ∫ [f'(x)/f(x)] dx = ∫ (1/u) du = ln|u| + c = ln|f(x)| + c."
+    },
+    {
+      "id": 15,
+      "question": "What is ∫ [f(x)]^n · f'(x) dx for n ≠ -1?",
+      "options": {
+        "A": "[f(x)]^(n + 1) / (n + 1) + c",
+        "B": "[f(x)]^(n - 1) / (n - 1) + c",
+        "C": "n [f(x)]^(n - 1) + c",
+        "D": "ln|f(x)| + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the power rule for integration: let u = f(x), du = f'(x) dx. ∫ u^n du = u^(n+1)/(n+1) + c = [f(x)]^(n+1)/(n+1) + c."
+    },
+    {
+      "id": 16,
+      "question": "What is the value of ∫ e^x [f(x) + f'(x)] dx?",
+      "options": {
+        "A": "e^x f(x) + c",
+        "B": "e^x f'(x) + c",
+        "C": "e^x [f(x)]² + c",
+        "D": "f(x) / e^x + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "By product differentiation: d/dx [e^x f(x)] = e^x f(x) + e^x f'(x) = e^x [f(x) + f'(x)]. Thus the integral is e^x f(x) + c."
+    },
+    {
+      "id": 17,
+      "question": "What is ∫ e^x [sin x + cos x] dx?",
+      "options": {
+        "A": "e^x sin x + c",
+        "B": "e^x cos x + c",
+        "C": "-e^x cos x + c",
+        "D": "e^x [sin x - cos x] + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Here f(x) = sin x and f'(x) = cos x. Using ∫ e^x [f(x) + f'(x)] dx = e^x f(x) + c, the integral is e^x sin x + c."
+    },
+    {
+      "id": 18,
+      "question": "What is the area under the curve y = x from x = 0 to x = 4?",
+      "options": {
+        "A": "8",
+        "B": "16",
+        "C": "4",
+        "D": "12"
+      },
+      "correctAnswer": "A",
+      "explanation": "Area = ∫₀⁴ x dx = [x²/2]₀⁴ = 4²/2 - 0 = 16/2 = 8 square units."
+    },
+    {
+      "id": 19,
+      "question": "What is ∫ sec²(x) dx?",
+      "options": {
+        "A": "tan(x) + c",
+        "B": "-tan(x) + c",
+        "C": "sec(x) + c",
+        "D": "2 sec(x) tan(x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since d/dx [tan x] = sec²x, the anti-derivative of sec²x is tan x + c."
+    },
+    {
+      "id": 20,
+      "question": "What is ∫ csc²(x) dx?",
+      "options": {
+        "A": "-cot(x) + c",
+        "B": "cot(x) + c",
+        "C": "-csc(x) + c",
+        "D": "tan(x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since d/dx [cot x] = -csc²x, ∫ csc²x dx = -cot x + c."
+    },
+    {
+      "id": 21,
+      "question": "What is the value of ∫₀^π sin(x) dx?",
+      "options": {
+        "A": "2",
+        "B": "0",
+        "C": "1",
+        "D": "-2"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫₀^π sin(x) dx = [-cos x]₀^π = (-cos π) - (-cos 0) = -(-1) - (-1) = 1 + 1 = 2."
+    },
+    {
+      "id": 22,
+      "question": "What is ∫ [2x / (x² + 1)] dx?",
+      "options": {
+        "A": "ln(x² + 1) + c",
+        "B": "tan⁻¹(x) + c",
+        "C": "2 ln(x² + 1) + c",
+        "D": "1/(x² + 1) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since the numerator 2x is the exact derivative of the denominator (x² + 1), ∫ [f'(x)/f(x)] dx = ln|f(x)| + c = ln(x² + 1) + c."
+    },
+    {
+      "id": 23,
+      "question": "What is the value of ∫_a^a f(x) dx for any function f(x)?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "f(a)",
+        "D": "2a"
+      },
+      "correctAnswer": "A",
+      "explanation": "If upper and lower limits are identical, the width of the interval is zero, so the integral is F(a) - F(a) = 0."
+    },
+    {
+      "id": 24,
+      "question": "If ∫_a^b f(x) dx = 7, what is the value of ∫_b^a f(x) dx?",
+      "options": {
+        "A": "-7",
+        "B": "7",
+        "C": "0",
+        "D": "1/7"
+      },
+      "correctAnswer": "A",
+      "explanation": "Reversing the limits of integration negates the integral: ∫_b^a f(x) dx = -∫_a^b f(x) dx = -7."
+    },
+    {
+      "id": 25,
+      "question": "What is ∫ [1 / (x ln x)] dx?",
+      "options": {
+        "A": "ln|ln x| + c",
+        "B": "(ln x)² / 2 + c",
+        "C": "1/(ln x) + c",
+        "D": "x ln x + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Let u = ln x ⇒ du = (1/x) dx. The integral becomes ∫ (1/u) du = ln|u| + c = ln|ln x| + c."
+    },
+    {
+      "id": 26,
+      "question": "What is ∫ a^x dx (for a > 0, a ≠ 1)?",
+      "options": {
+        "A": "a^x / ln(a) + c",
+        "B": "a^x · ln(a) + c",
+        "C": "a^(x + 1) / (x + 1) + c",
+        "D": "e^x / ln(a) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since d/dx [a^x] = a^x ln(a), dividing by ln(a) gives ∫ a^x dx = a^x / ln(a) + c."
+    },
+    {
+      "id": 27,
+      "question": "What is ∫ sinh(x) dx?",
+      "options": {
+        "A": "cosh(x) + c",
+        "B": "-cosh(x) + c",
+        "C": "tanh(x) + c",
+        "D": "sech(x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since d/dx [cosh x] = sinh x, ∫ sinh x dx = cosh x + c."
+    },
+    {
+      "id": 28,
+      "question": "What is ∫ cosh(x) dx?",
+      "options": {
+        "A": "sinh(x) + c",
+        "B": "-sinh(x) + c",
+        "C": "tanh(x) + c",
+        "D": "cosh(x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since d/dx [sinh x] = cosh x, ∫ cosh x dx = sinh x + c."
+    },
+    {
+      "id": 29,
+      "question": "What is ∫ (sin 2x) dx?",
+      "options": {
+        "A": "-(1/2) cos(2x) + c",
+        "B": "(1/2) cos(2x) + c",
+        "C": "-2 cos(2x) + c",
+        "D": "2 cos(2x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫ sin(kx) dx = -(1/k) cos(kx) + c. For k = 2, it is -(1/2) cos(2x) + c."
+    },
+    {
+      "id": 30,
+      "question": "What is the area of the circle x² + y² = a² found by integration?",
+      "options": {
+        "A": "π a²",
+        "B": "2π a",
+        "C": "4π a²",
+        "D": "π a²/2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Using 4 times the first-quadrant area: 4 ∫₀^a √(a² - x²) dx = 4 · (π a² / 4) = π a²."
+    },
+    {
+      "id": 31,
+      "question": "What is ∫ [1 / (x² - a²)] dx for x > a?",
+      "options": {
+        "A": "[1 / (2a)] ln|(x - a)/(x + a)| + c",
+        "B": "[1 / (2a)] ln|(a + x)/(a - x)| + c",
+        "C": "(1/a) tan⁻¹(x/a) + c",
+        "D": "ln|x² - a²| + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Using partial fractions: 1/(x² - a²) = [1/(2a)] [1/(x - a) - 1/(x + a)]. Integrating gives [1/(2a)] [ln|x - a| - ln|x + a|] + c = [1/(2a)] ln|(x - a)/(x + a)| + c."
+    },
+    {
+      "id": 32,
+      "question": "What is the value of ∫₀¹ e^(2x) dx?",
+      "options": {
+        "A": "(e² - 1)/2",
+        "B": "e² - 1",
+        "C": "(e² + 1)/2",
+        "D": "e² / 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫₀¹ e^(2x) dx = [(1/2) e^(2x)]₀¹ = (1/2)(e² - e^0) = (e² - 1)/2."
+    },
+    {
+      "id": 33,
+      "question": "What is ∫ csc(x) dx?",
+      "options": {
+        "A": "ln|csc x - cot x| + c",
+        "B": "-csc x cot x + c",
+        "C": "ln|csc x + cot x| + c",
+        "D": "-cot²x + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Multiplying and dividing by (csc x - cot x) yields ∫ [csc x (csc x - cot x)/(csc x - cot x)] dx = ln|csc x - cot x| + c."
+    },
+    {
+      "id": 34,
+      "question": "What is the value of ∫_(-1)^1 x³ dx?",
+      "options": {
+        "A": "0",
+        "B": "1/2",
+        "C": "2",
+        "D": "-1/2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since x³ is an odd function, integrating over symmetric limits [-1, 1] gives [x⁴/4]_(-1)¹ = 1/4 - 1/4 = 0."
+    },
+    {
+      "id": 35,
+      "question": "What is ∫ [cos x / √(sin x)] dx?",
+      "options": {
+        "A": "2 √(sin x) + c",
+        "B": "√(sin x) + c",
+        "C": "(1/2) √(sin x) + c",
+        "D": "-2 √(sin x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Let u = sin x ⇒ du = cos x dx. The integral is ∫ u^(-1/2) du = [u^(1/2) / (1/2)] + c = 2 √(sin x) + c."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}

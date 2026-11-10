@@ -1,0 +1,429 @@
+{
+  "chapterNumber": 4,
+  "chapterTitle": "Unit 4: Differential Equations",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the order of the differential equation d²y/dx² + 3(dy/dx)³ + y = 0?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "1",
+        "D": "5"
+      },
+      "correctAnswer": "A",
+      "explanation": "The order of a differential equation is the order of the highest derivative present. The highest derivative here is d²y/dx², which is order 2."
+    },
+    {
+      "id": 2,
+      "question": "What is the degree of the differential equation (d²y/dx²)² + (dy/dx)⁴ = x?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "1",
+        "D": "6"
+      },
+      "correctAnswer": "A",
+      "explanation": "The degree of a differential equation is the power/exponent of the highest order derivative after the equation is polynomialized in derivatives. The highest derivative d²y/dx² has exponent 2, so the degree is 2."
+    },
+    {
+      "id": 3,
+      "question": "A differential equation is called ordinary (ODE) if it involves:",
+      "options": {
+        "A": "Only one independent variable",
+        "B": "Two or more independent variables",
+        "C": "Partial derivatives only",
+        "D": "No variables at all"
+      },
+      "correctAnswer": "A",
+      "explanation": "An ordinary differential equation involves derivatives with respect to a single independent variable (such as x or t)."
+    },
+    {
+      "id": 4,
+      "question": "What is the general solution of dy/dx = 2x?",
+      "options": {
+        "A": "y = x² + c",
+        "B": "y = 2x² + c",
+        "C": "y = x²/2 + c",
+        "D": "y = 2 + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Separating variables: dy = 2x dx. Integrating both sides: ∫ dy = ∫ 2x dx ⇒ y = x² + c."
+    },
+    {
+      "id": 5,
+      "question": "What is the solution of the differential equation dy/dx = y?",
+      "options": {
+        "A": "y = c · e^x",
+        "B": "y = e^x + c",
+        "C": "y = x + c",
+        "D": "y = ln(x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Separating variables: (1/y) dy = dx. Integrating: ln|y| = x + c₁ ⇒ y = e^(x + c₁) = e^(c₁) · e^x = c e^x."
+    },
+    {
+      "id": 6,
+      "question": "The general solution of a differential equation of order n contains:",
+      "options": {
+        "A": "Exactly n arbitrary constants",
+        "B": "n + 1 arbitrary constants",
+        "C": "At most n - 1 arbitrary constants",
+        "D": "No arbitrary constants"
+      },
+      "correctAnswer": "A",
+      "explanation": "The general solution of an n-th order ordinary differential equation contains exactly n independent arbitrary constants."
+    },
+    {
+      "id": 7,
+      "question": "A solution obtained from the general solution by assigning specific values to the arbitrary constants is called a:",
+      "options": {
+        "A": "Particular solution",
+        "B": "Singular solution",
+        "C": "General solution",
+        "D": "Trivial solution"
+      },
+      "correctAnswer": "A",
+      "explanation": "When specific numerical values are assigned to the arbitrary constants (often using boundary or initial conditions), the resulting equation is called a particular solution."
+    },
+    {
+      "id": 8,
+      "question": "What is the integrating factor (I.F.) for the linear differential equation dy/dx + P(x) y = Q(x)?",
+      "options": {
+        "A": "e^(∫ P(x) dx)",
+        "B": "e^(-∫ P(x) dx)",
+        "C": "∫ P(x) dx",
+        "D": "e^(∫ Q(x) dx)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Multiplying by the integrating factor I.F. = e^(∫ P(x) dx) turns the left-hand side into the exact derivative d/dx [y · e^(∫ P(x) dx)]."
+    },
+    {
+      "id": 9,
+      "question": "What is the integrating factor for dy/dx + (1/x) y = x² (for x > 0)?",
+      "options": {
+        "A": "x",
+        "B": "ln(x)",
+        "C": "1/x",
+        "D": "e^x"
+      },
+      "correctAnswer": "A",
+      "explanation": "Here P(x) = 1/x. I.F. = e^(∫ (1/x) dx) = e^(ln x) = x."
+    },
+    {
+      "id": 10,
+      "question": "What is the solution of dy/dx = -x/y?",
+      "options": {
+        "A": "x² + y² = c",
+        "B": "x² - y² = c",
+        "C": "y = c x",
+        "D": "x + y = c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Separating variables: y dy = -x dx. Integrating: y²/2 = -x²/2 + c₁ ⇒ x²/2 + y²/2 = c₁ ⇒ x² + y² = c (circles centered at origin)."
+    },
+    {
+      "id": 11,
+      "question": "What is the differential equation of all circles centered at the origin x² + y² = r²?",
+      "options": {
+        "A": "x + y (dy/dx) = 0",
+        "B": "x (dy/dx) + y = 0",
+        "C": "d²y/dx² = 0",
+        "D": "y (dy/dx) - x = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Differentiating x² + y² = r² with respect to x: 2x + 2y(dy/dx) = 0 ⇒ x + y(dy/dx) = 0."
+    },
+    {
+      "id": 12,
+      "question": "What is the differential equation of the family of straight lines passing through the origin y = mx?",
+      "options": {
+        "A": "y = x (dy/dx)",
+        "B": "dy/dx = y",
+        "C": "d²y/dx² = 0",
+        "D": "x + y (dy/dx) = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "dy/dx = m. Substituting m = dy/dx into y = mx gives y = x(dy/dx)."
+    },
+    {
+      "id": 13,
+      "question": "What is the solution of dy/dx = sec²(x)?",
+      "options": {
+        "A": "y = tan(x) + c",
+        "B": "y = sec(x) tan(x) + c",
+        "C": "y = -tan(x) + c",
+        "D": "y = cot(x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "dy = sec²(x) dx ⇒ ∫ dy = ∫ sec²(x) dx ⇒ y = tan(x) + c."
+    },
+    {
+      "id": 14,
+      "question": "A differential equation of the form dy/dx = f(y/x) is called:",
+      "options": {
+        "A": "A homogeneous differential equation",
+        "B": "An exact differential equation",
+        "C": "A linear differential equation",
+        "D": "A Clairaut equation"
+      },
+      "correctAnswer": "A",
+      "explanation": "When the right-hand side can be expressed purely as a function of the ratio (y/x), it is a homogeneous differential equation of degree 0, solvable by substituting y = vx."
+    },
+    {
+      "id": 15,
+      "question": "In a homogeneous differential equation dy/dx = f(y/x), which substitution is standard?",
+      "options": {
+        "A": "y = v x",
+        "B": "y = v + x",
+        "C": "y = v/x",
+        "D": "y = v² x"
+      },
+      "correctAnswer": "A",
+      "explanation": "The standard substitution is y = vx ⇒ dy/dx = v + x(dv/dx), which transforms the equation into a separable ODE in v and x."
+    },
+    {
+      "id": 16,
+      "question": "What is the particular solution of dy/dx = 3x² with initial condition y(0) = 4?",
+      "options": {
+        "A": "y = x³ + 4",
+        "B": "y = 3x³ + 4",
+        "C": "y = x³ - 4",
+        "D": "y = x² + 4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Integrating: y = x³ + c. Applying y(0) = 4 ⇒ 4 = 0³ + c ⇒ c = 4. Hence y = x³ + 4."
+    },
+    {
+      "id": 17,
+      "question": "What is the order of the differential equation (d³y/dx³)² + 5(dy/dx)⁶ + y = 0?",
+      "options": {
+        "A": "3",
+        "B": "2",
+        "C": "6",
+        "D": "5"
+      },
+      "correctAnswer": "A",
+      "explanation": "The highest order derivative is d³y/dx³, so the order is 3."
+    },
+    {
+      "id": 18,
+      "question": "What is the degree of the differential equation [1 + (dy/dx)²]^(3/2) = k (d²y/dx²)?",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "To rationalize, square both sides: [1 + (dy/dx)²]³ = k² (d²y/dx²)². The highest order derivative is d²y/dx², and its power is 2. Thus the degree is 2."
+    },
+    {
+      "id": 19,
+      "question": "What is the general solution of dy/dx = 0?",
+      "options": {
+        "A": "y = c (constant)",
+        "B": "y = x + c",
+        "C": "y = 0 only",
+        "D": "y = x"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫ dy = ∫ 0 dx ⇒ y = c, representing horizontal lines."
+    },
+    {
+      "id": 20,
+      "question": "The rate of radioactive decay dN/dt = -λN has the solution:",
+      "options": {
+        "A": "N(t) = N₀ e^(-λt)",
+        "B": "N(t) = N₀ e^(λt)",
+        "C": "N(t) = N₀ - λt",
+        "D": "N(t) = N₀ / (λt)"
+      },
+      "correctAnswer": "A",
+      "explanation": "dN/N = -λ dt ⇒ ln(N/N₀) = -λt ⇒ N(t) = N₀ e^(-λt)."
+    },
+    {
+      "id": 21,
+      "question": "What is the solution of dy/dx = e^(x - y)?",
+      "options": {
+        "A": "e^y = e^x + c",
+        "B": "e^(-y) = e^x + c",
+        "C": "y = e^x + c",
+        "D": "e^y = x + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "dy/dx = e^x / e^y ⇒ e^y dy = e^x dx. Integrating gives e^y = e^x + c."
+    },
+    {
+      "id": 22,
+      "question": "What is the solution of dy/dx = 1 + y²?",
+      "options": {
+        "A": "tan⁻¹(y) = x + c",
+        "B": "sin⁻¹(y) = x + c",
+        "C": "y = e^x + c",
+        "D": "y = x² + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "dy / (1 + y²) = dx. Integrating both sides: tan⁻¹(y) = x + c ⇒ y = tan(x + c)."
+    },
+    {
+      "id": 23,
+      "question": "What is the solution of dy/dx = cos(x)?",
+      "options": {
+        "A": "y = sin(x) + c",
+        "B": "y = -sin(x) + c",
+        "C": "y = cos(x) + c",
+        "D": "y = tan(x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "dy = cos(x) dx ⇒ ∫ dy = ∫ cos(x) dx ⇒ y = sin(x) + c."
+    },
+    {
+      "id": 24,
+      "question": "What is the solution of dy/dx = 2xy?",
+      "options": {
+        "A": "y = c · e^(x²)",
+        "B": "y = c · e^(2x)",
+        "C": "y = x² + c",
+        "D": "y = e^x + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "(1/y) dy = 2x dx ⇒ ln|y| = x² + c₁ ⇒ y = e^(x² + c₁) = c e^(x²)."
+    },
+    {
+      "id": 25,
+      "question": "What is the order of the equation d⁴y/dx⁴ + sin(d²y/dx²) = 0?",
+      "options": {
+        "A": "4",
+        "B": "2",
+        "C": "1",
+        "D": "Degree is not defined, order is 4"
+      },
+      "correctAnswer": "A",
+      "explanation": "The highest derivative is the 4th derivative d⁴y/dx⁴, so the order is 4 (note: its degree is undefined because of the sin(d²y/dx²) term)."
+    },
+    {
+      "id": 26,
+      "question": "What is the solution of x dy - y dx = 0?",
+      "options": {
+        "A": "y = c x",
+        "B": "x y = c",
+        "C": "x² + y² = c",
+        "D": "y = x + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "x dy = y dx ⇒ dy/y = dx/x ⇒ ln|y| = ln|x| + ln|c| ⇒ y = cx."
+    },
+    {
+      "id": 27,
+      "question": "What is the solution of dy/dx = 1 / x (for x > 0)?",
+      "options": {
+        "A": "y = ln(x) + c",
+        "B": "y = -1/x² + c",
+        "C": "y = e^x + c",
+        "D": "y = x + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "dy = (1/x) dx ⇒ y = ln|x| + c."
+    },
+    {
+      "id": 28,
+      "question": "What is the integrating factor of dy/dx - y = e^(2x)?",
+      "options": {
+        "A": "e^(-x)",
+        "B": "e^x",
+        "C": "e^(2x)",
+        "D": "-x"
+      },
+      "correctAnswer": "A",
+      "explanation": "Here P(x) = -1. I.F. = e^(∫ -1 dx) = e^(-x)."
+    },
+    {
+      "id": 29,
+      "question": "The orthogonal trajectories of a family of curves with slope m₁ have slope m₂ equal to:",
+      "options": {
+        "A": "-1/m₁",
+        "B": "m₁",
+        "C": "1/m₁",
+        "D": "-m₁"
+      },
+      "correctAnswer": "A",
+      "explanation": "Orthogonal trajectories intersect the original family of curves everywhere at right angles, so m₁ · m₂ = -1 ⇒ m₂ = -1/m₁."
+    },
+    {
+      "id": 30,
+      "question": "What is the solution of dy/dx = -2y with y(0) = 5?",
+      "options": {
+        "A": "y = 5 e^(-2x)",
+        "B": "y = 5 e^(2x)",
+        "C": "y = e^(-2x) + 4",
+        "D": "y = 5 - 2x"
+      },
+      "correctAnswer": "A",
+      "explanation": "(1/y) dy = -2 dx ⇒ ln y = -2x + c₁ ⇒ y = c e^(-2x). At x = 0, y = 5 ⇒ c = 5 ⇒ y = 5 e^(-2x)."
+    },
+    {
+      "id": 31,
+      "question": "Newton's law of cooling dT/dt = -k(T - T_m) is a differential equation of order:",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "0",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "It contains only the first derivative dT/dt, so it is a first-order differential equation."
+    },
+    {
+      "id": 32,
+      "question": "What is the solution of dy/dx = x² / y²?",
+      "options": {
+        "A": "y³ - x³ = c",
+        "B": "y³ + x³ = c",
+        "C": "y² - x² = c",
+        "D": "y = x + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "y² dy = x² dx ⇒ y³/3 = x³/3 + c₁ ⇒ y³ - x³ = 3c₁ = c."
+    },
+    {
+      "id": 33,
+      "question": "How many arbitrary constants appear in the general solution of a 2nd-order ODE?",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "3",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "An ordinary differential equation of order 2 has exactly 2 independent arbitrary constants in its general solution."
+    },
+    {
+      "id": 34,
+      "question": "The equation (x² + y²) dx - 2xy dy = 0 is homogeneous of degree:",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "0",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "M(x, y) = x² + y² has degree 2, and N(x, y) = -2xy has degree 1 + 1 = 2. Since both are homogeneous polynomials of degree 2, the ODE is homogeneous of degree 2."
+    },
+    {
+      "id": 35,
+      "question": "What is the solution of dy/dx = 1 / (1 + x²)?",
+      "options": {
+        "A": "y = tan⁻¹(x) + c",
+        "B": "y = sin⁻¹(x) + c",
+        "C": "y = ln(1 + x²) + c",
+        "D": "y = 1/(1 + x²) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "dy = dx / (1 + x²) ⇒ ∫ dy = ∫ dx / (1 + x²) ⇒ y = tan⁻¹(x) + c."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}

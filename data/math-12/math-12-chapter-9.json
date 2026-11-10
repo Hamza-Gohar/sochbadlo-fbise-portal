@@ -1,0 +1,429 @@
+{
+  "chapterNumber": 9,
+  "chapterTitle": "Unit 9: Linear Inequalities & Linear Programming",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "An inequality of the form ax + by < c (or ≤, >, ≥) where a and b are not both zero is called a:",
+      "options": {
+        "A": "Linear inequality in two variables",
+        "B": "Quadratic inequality",
+        "C": "Linear equation",
+        "D": "Polynomial identity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Because x and y are of degree 1, ax + by ≤ c is a linear inequality in two variables."
+    },
+    {
+      "id": 2,
+      "question": "The straight line ax + by = c associated with the inequality ax + by ≤ c is called the:",
+      "options": {
+        "A": "Boundary line",
+        "B": "Objective line",
+        "C": "Asymptote",
+        "D": "Directrix"
+      },
+      "correctAnswer": "A",
+      "explanation": "The line ax + by = c divides the coordinate plane into two half-planes and forms the boundary of the inequality's solution set."
+    },
+    {
+      "id": 3,
+      "question": "To determine which half-plane satisfies ax + by < c, which point is most commonly used as a test point (if c ≠ 0)?",
+      "options": {
+        "A": "The origin (0, 0)",
+        "B": "(1, 1)",
+        "C": "(10, 10)",
+        "D": "(-1, -1)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Substituting (0, 0) into the inequality provides an instant check: if a(0) + b(0) < c is true, the half-plane containing the origin is shaded."
+    },
+    {
+      "id": 4,
+      "question": "Does the origin (0, 0) satisfy the inequality 2x + 3y ≤ 6?",
+      "options": {
+        "A": "Yes, because 0 ≤ 6 is true",
+        "B": "No, because 0 is not less than 6",
+        "C": "Only if x > 0",
+        "D": "Only if y > 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Substitute x = 0, y = 0: 2(0) + 3(0) = 0 ≤ 6. Since 0 ≤ 6 is a true statement, the origin lies in the solution set."
+    },
+    {
+      "id": 5,
+      "question": "The set of all points that satisfy all constraints of a linear programming problem simultaneously is called the:",
+      "options": {
+        "A": "Feasible region (solution space)",
+        "B": "Infeasible region",
+        "C": "Unbounded line",
+        "D": "Discontinuous space"
+      },
+      "correctAnswer": "A",
+      "explanation": "The intersection of the half-planes defined by all system constraints and non-negativity conditions is the feasible region."
+    },
+    {
+      "id": 6,
+      "question": "The non-negativity constraints x ≥ 0 and y ≥ 0 restrict the feasible region to which quadrant?",
+      "options": {
+        "A": "First quadrant",
+        "B": "Second quadrant",
+        "C": "Third quadrant",
+        "D": "Fourth quadrant"
+      },
+      "correctAnswer": "A",
+      "explanation": "Both x and y are non-negative only in the first quadrant (and on the positive coordinate axes)."
+    },
+    {
+      "id": 7,
+      "question": "A point of the feasible region where two boundary lines intersect is called a:",
+      "options": {
+        "A": "Corner point (or vertex)",
+        "B": "Centroid",
+        "C": "Midpoint",
+        "D": "Inflection point"
+      },
+      "correctAnswer": "A",
+      "explanation": "The vertices where boundary lines intersect to enclose the feasible polygon are called corner points."
+    },
+    {
+      "id": 8,
+      "question": "By the Fundamental Theorem of Linear Programming, where does the optimal (maximum or minimum) value of the objective function occur?",
+      "options": {
+        "A": "At one of the corner points (vertices) of the feasible region",
+        "B": "At the origin only",
+        "C": "At the interior centroid of the region",
+        "D": "At any arbitrary point on the x-axis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Linear functions achieve their extreme values on convex polygonal domains at the extreme points, which are the corner points (Corner Point Theorem)."
+    },
+    {
+      "id": 9,
+      "question": "The function z = ax + by which is to be maximized or minimized in a linear programming problem is called the:",
+      "options": {
+        "A": "Objective function",
+        "B": "Constraint function",
+        "C": "Feasible function",
+        "D": "Boundary function"
+      },
+      "correctAnswer": "A",
+      "explanation": "The function expressing the quantity to be optimized (e.g., profit, cost, output) is defined as the objective function."
+    },
+    {
+      "id": 10,
+      "question": "The limitations or restrictions on variables in a linear programming problem are called:",
+      "options": {
+        "A": "Constraints",
+        "B": "Objectives",
+        "C": "Asymptotes",
+        "D": "Roots"
+      },
+      "correctAnswer": "A",
+      "explanation": "The system of inequalities expressing resource, time, budget, or physical limits is termed the constraints."
+    },
+    {
+      "id": 11,
+      "question": "A feasible region that can be completely enclosed inside a sufficiently large circle is called:",
+      "options": {
+        "A": "Bounded",
+        "B": "Unbounded",
+        "C": "Infinite",
+        "D": "Degenerate"
+      },
+      "correctAnswer": "A",
+      "explanation": "A region of finite extent that does not extend indefinitely in any direction is called a bounded region."
+    },
+    {
+      "id": 12,
+      "question": "If an inequality contains strict inequality symbols (< or >), its boundary line is drawn as a:",
+      "options": {
+        "A": "Dashed (dotted) line",
+        "B": "Solid line",
+        "C": "Thick red line",
+        "D": "Double line"
+      },
+      "correctAnswer": "A",
+      "explanation": "A dashed line indicates that points lying directly on the boundary are not included in the solution set."
+    },
+    {
+      "id": 13,
+      "question": "If an inequality contains non-strict inequality symbols (≤ or ≥), its boundary line is drawn as a:",
+      "options": {
+        "A": "Solid line",
+        "B": "Dashed line",
+        "C": "Dotted line",
+        "D": "Curved line"
+      },
+      "correctAnswer": "A",
+      "explanation": "A solid line signifies that points on the boundary line itself are included in the solution."
+    },
+    {
+      "id": 14,
+      "question": "If the corner points of a feasible region are (0, 0), (4, 0), (2, 3), and (0, 4), what is the maximum value of z = 3x + 2y?",
+      "options": {
+        "A": "12",
+        "B": "10",
+        "C": "8",
+        "D": "14"
+      },
+      "correctAnswer": "A",
+      "explanation": "Evaluate z at each corner point:\nz(0, 0) = 0\nz(4, 0) = 3(4) + 2(0) = 12\nz(2, 3) = 3(2) + 2(3) = 6 + 6 = 12\nz(0, 4) = 3(0) + 2(4) = 8.\nMaximum value is 12 (occurring along the line segment joining (4, 0) and (2, 3))."
+    },
+    {
+      "id": 15,
+      "question": "For corner points (0, 0), (4, 0), (2, 3), (0, 4), what is the minimum value of z = 3x + 2y?",
+      "options": {
+        "A": "0",
+        "B": "8",
+        "C": "12",
+        "D": "-12"
+      },
+      "correctAnswer": "A",
+      "explanation": "At (0, 0), z = 3(0) + 2(0) = 0, which is the lowest value among all corner points."
+    },
+    {
+      "id": 16,
+      "question": "A solution of a linear programming problem that satisfies all constraints is called a:",
+      "options": {
+        "A": "Feasible solution",
+        "B": "Infeasible solution",
+        "C": "Optimal solution only",
+        "D": "Trivial solution"
+      },
+      "correctAnswer": "A",
+      "explanation": "Any point (x, y) that satisfies every constraint in the system is termed a feasible solution."
+    },
+    {
+      "id": 17,
+      "question": "A feasible solution that optimizes (maximizes or minimizes) the objective function is called the:",
+      "options": {
+        "A": "Optimal solution",
+        "B": "Boundary solution",
+        "C": "Feasible solution only",
+        "D": "Initial basic solution"
+      },
+      "correctAnswer": "A",
+      "explanation": "The specific point in the feasible region that yields the best (optimum) objective value is the optimal solution."
+    },
+    {
+      "id": 18,
+      "question": "Which of the following points does NOT satisfy 3x - 2y ≥ 6?",
+      "options": {
+        "A": "(0, 0)",
+        "B": "(3, 0)",
+        "C": "(4, 1)",
+        "D": "(2, -2)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Testing (0, 0): 3(0) - 2(0) = 0 ≥ 6 is FALSE. Thus (0, 0) does not satisfy the inequality."
+    },
+    {
+      "id": 19,
+      "question": "The solution set of x < 3 consists of:",
+      "options": {
+        "A": "The open half-plane to the left of the vertical line x = 3",
+        "B": "The half-plane to the right of x = 3",
+        "C": "The half-plane above y = 3",
+        "D": "The line x = 3 only"
+      },
+      "correctAnswer": "A",
+      "explanation": "All points having x-coordinates strictly less than 3 lie to the left of the vertical line x = 3."
+    },
+    {
+      "id": 20,
+      "question": "The solution set of y ≥ -2 consists of:",
+      "options": {
+        "A": "The half-plane above and including the horizontal line y = -2",
+        "B": "The half-plane below y = -2",
+        "C": "The region to the right of x = -2",
+        "D": "The line y = -2 only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Points with y ≥ -2 lie on and above the horizontal line y = -2."
+    },
+    {
+      "id": 21,
+      "question": "If two adjacent corner points produce the same maximum value of z, then:",
+      "options": {
+        "A": "Every point on the segment joining them is also an optimal solution",
+        "B": "There is no solution",
+        "C": "Only one of them is valid",
+        "D": "The region is unbounded"
+      },
+      "correctAnswer": "A",
+      "explanation": "Because the objective function is linear, if two vertices have identical optimal values, any convex combination (all points on the connecting line segment) gives the same optimal value (infinitely many optimal solutions)."
+    },
+    {
+      "id": 22,
+      "question": "If the feasible region extends indefinitely in a direction such that the objective function can grow without bound, the problem is:",
+      "options": {
+        "A": "Unbounded",
+        "B": "Infeasible",
+        "C": "Degenerate",
+        "D": "Optimal"
+      },
+      "correctAnswer": "A",
+      "explanation": "When z can take arbitrarily large values without violating constraints, the problem has an unbounded solution."
+    },
+    {
+      "id": 23,
+      "question": "Can a linear programming problem have more than one optimal solution?",
+      "options": {
+        "A": "Yes, infinitely many along an edge",
+        "B": "No, exactly one always",
+        "C": "Never",
+        "D": "Only if there are no constraints"
+      },
+      "correctAnswer": "A",
+      "explanation": "If the objective function line is parallel to one of the binding constraint boundary lines, multiple (infinite) optimal solutions exist along that edge."
+    },
+    {
+      "id": 24,
+      "question": "What is the intersection point of the boundary lines 2x + y = 8 and x + 2y = 7?",
+      "options": {
+        "A": "(3, 2)",
+        "B": "(2, 3)",
+        "C": "(4, 0)",
+        "D": "(1, 6)"
+      },
+      "correctAnswer": "A",
+      "explanation": "From eq 1: y = 8 - 2x. Substitute into eq 2: x + 2(8 - 2x) = 7 ⇒ x + 16 - 4x = 7 ⇒ -3x = -9 ⇒ x = 3. Then y = 8 - 2(3) = 2. Corner point = (3, 2)."
+    },
+    {
+      "id": 25,
+      "question": "For corner points (0, 0), (4, 0), (3, 2), (0, 3.5), what is the maximum of z = 5x + 4y?",
+      "options": {
+        "A": "23",
+        "B": "20",
+        "C": "14",
+        "D": "25"
+      },
+      "correctAnswer": "A",
+      "explanation": "z(0, 0) = 0;\nz(4, 0) = 5(4) + 4(0) = 20;\nz(3, 2) = 5(3) + 4(2) = 15 + 8 = 23;\nz(0, 3.5) = 4(3.5) = 14.\nThe maximum is 23 at (3, 2)."
+    },
+    {
+      "id": 26,
+      "question": "If the constraints are contradictory (e.g., x + y ≤ 1 and x + y ≥ 3 with x, y ≥ 0), the problem has:",
+      "options": {
+        "A": "No feasible solution (infeasible)",
+        "B": "An unbounded solution",
+        "C": "A unique solution",
+        "D": "Infinitely many solutions"
+      },
+      "correctAnswer": "A",
+      "explanation": "When the half-planes do not intersect, the feasible region is empty (the null set), meaning there is no feasible solution."
+    },
+    {
+      "id": 27,
+      "question": "Which inequality represents the region below the line y = 2x + 1?",
+      "options": {
+        "A": "y < 2x + 1",
+        "B": "y > 2x + 1",
+        "C": "y ≥ 2x + 1",
+        "D": "x < 2y + 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "The region lying below the curve y = f(x) corresponds to y < f(x), so y < 2x + 1."
+    },
+    {
+      "id": 28,
+      "question": "The region defined by x ≥ 0, y ≥ 0, and x + y ≤ 4 is shaped like a:",
+      "options": {
+        "A": "Right-angled triangle",
+        "B": "Square",
+        "C": "Rectangle",
+        "D": "Trapezoid"
+      },
+      "correctAnswer": "A",
+      "explanation": "The vertices are (0, 0), (4, 0), and (0, 4), which form a right-angled isosceles triangle with legs along the coordinate axes."
+    },
+    {
+      "id": 29,
+      "question": "What is the area of the feasible region defined by x ≥ 0, y ≥ 0, and x + y ≤ 4?",
+      "options": {
+        "A": "8",
+        "B": "16",
+        "C": "4",
+        "D": "12"
+      },
+      "correctAnswer": "A",
+      "explanation": "It is a right triangle with base = 4 and height = 4. Area = (1/2) · base · height = (1/2)(4)(4) = 8 square units."
+    },
+    {
+      "id": 30,
+      "question": "In linear programming, the decision variables x and y usually represent:",
+      "options": {
+        "A": "Quantities of products or activities to be determined",
+        "B": "Known constants",
+        "C": "Slopes of lines",
+        "D": "Error margins"
+      },
+      "correctAnswer": "A",
+      "explanation": "Decision variables are the unknown quantities that the decision-maker controls and seeks to optimize."
+    },
+    {
+      "id": 31,
+      "question": "A convex set is one in which:",
+      "options": {
+        "A": "The line segment joining any two points in the set lies entirely within the set",
+        "B": "All boundary lines are circular",
+        "C": "The origin is always included",
+        "D": "No corner points exist"
+      },
+      "correctAnswer": "A",
+      "explanation": "By definition, a set S is convex if for all P, Q ∈ S, the line segment PQ ⊆ S. The feasible region of a linear programming problem is always a convex set."
+    },
+    {
+      "id": 32,
+      "question": "What is the minimum value of z = 2x + 5y subject to x ≥ 0, y ≥ 0?",
+      "options": {
+        "A": "0",
+        "B": "5",
+        "C": "2",
+        "D": "-∞"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since x ≥ 0 and y ≥ 0, the smallest possible values are x = 0, y = 0, yielding z_min = 2(0) + 5(0) = 0."
+    },
+    {
+      "id": 33,
+      "question": "Graphing 2x - 3y > 6, does the point (5, 1) lie in the solution set?",
+      "options": {
+        "A": "Yes, because 2(5) - 3(1) = 7 > 6 is true",
+        "B": "No, because 7 < 6",
+        "C": "Only if x < 0",
+        "D": "No, because it lies on the line"
+      },
+      "correctAnswer": "A",
+      "explanation": "2(5) - 3(1) = 10 - 3 = 7. Since 7 > 6 is a true statement, (5, 1) lies in the solution half-plane."
+    },
+    {
+      "id": 34,
+      "question": "The line x = c is parallel to the:",
+      "options": {
+        "A": "y-axis",
+        "B": "x-axis",
+        "C": "Line y = x",
+        "D": "Origin"
+      },
+      "correctAnswer": "A",
+      "explanation": "The line x = c has a constant x-coordinate, making it a vertical line parallel to the y-axis."
+    },
+    {
+      "id": 35,
+      "question": "The line y = c is parallel to the:",
+      "options": {
+        "A": "x-axis",
+        "B": "y-axis",
+        "C": "Line y = -x",
+        "D": "Normal"
+      },
+      "correctAnswer": "A",
+      "explanation": "The line y = c has a constant y-coordinate, making it a horizontal line parallel to the x-axis."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}

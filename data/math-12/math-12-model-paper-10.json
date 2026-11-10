@@ -1,0 +1,249 @@
+{
+  "chapterNumber": 20,
+  "chapterTitle": "FBISE Class 12 Math Board Simulator 10 (Section A)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "cosh(0) is equal to:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "e"
+      },
+      "correctAnswer": "A",
+      "explanation": "cosh(0) = (e^0 + e^0)/2 = (1 + 1)/2 = 1."
+    },
+    {
+      "id": 2,
+      "question": "If f(x) = |x|, then f(x) is an:",
+      "options": {
+        "A": "Even function",
+        "B": "Odd function",
+        "C": "Linear function",
+        "D": "Inverse function"
+      },
+      "correctAnswer": "A",
+      "explanation": "|-x| = |x|, so it is an even function."
+    },
+    {
+      "id": 3,
+      "question": "Value of lim(x → 0) [(sin x) / x] is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "∞",
+        "D": "-1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Standard fundamental trigonometric limit = 1."
+    },
+    {
+      "id": 4,
+      "question": "Derivative of cos(x) is:",
+      "options": {
+        "A": "-sin(x)",
+        "B": "sin(x)",
+        "C": "-cos(x)",
+        "D": "tan(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "d/dx [cos x] = -sin x."
+    },
+    {
+      "id": 5,
+      "question": "Second derivative of sin(x) is:",
+      "options": {
+        "A": "-sin(x)",
+        "B": "sin(x)",
+        "C": "cos(x)",
+        "D": "-cos(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "d/dx [sin x] = cos x; d/dx [cos x] = -sin x."
+    },
+    {
+      "id": 6,
+      "question": "What is ∫ 3x² dx?",
+      "options": {
+        "A": "x³ + c",
+        "B": "3x³ + c",
+        "C": "x² + c",
+        "D": "6x + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "3(x³/3) + c = x³ + c."
+    },
+    {
+      "id": 7,
+      "question": "What is ∫ (1 / (1 + x²)) dx?",
+      "options": {
+        "A": "tan⁻¹(x) + c",
+        "B": "sin⁻¹(x) + c",
+        "C": "ln(1 + x²) + c",
+        "D": "cos⁻¹(x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Standard integral = tan⁻¹(x) + c."
+    },
+    {
+      "id": 8,
+      "question": "Value of ∫₀^1 x dx is:",
+      "options": {
+        "A": "1/2",
+        "B": "1",
+        "C": "2",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "[x²/2]₀¹ = 1/2 - 0 = 1/2."
+    },
+    {
+      "id": 9,
+      "question": "Order of d³y/dx³ + dy/dx = 0 is:",
+      "options": {
+        "A": "3",
+        "B": "1",
+        "C": "2",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Highest derivative order is 3."
+    },
+    {
+      "id": 10,
+      "question": "Solution of dy/dx = 2x is:",
+      "options": {
+        "A": "y = x² + c",
+        "B": "y = 2x² + c",
+        "C": "y = x + c",
+        "D": "y = 2 + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "y = x² + c."
+    },
+    {
+      "id": 11,
+      "question": "Velocity is rate of change of:",
+      "options": {
+        "A": "Displacement",
+        "B": "Acceleration",
+        "C": "Time",
+        "D": "Speed only"
+      },
+      "correctAnswer": "A",
+      "explanation": "v = ds/dt."
+    },
+    {
+      "id": 12,
+      "question": "If a = 0, motion is:",
+      "options": {
+        "A": "Uniform velocity",
+        "B": "Uniform acceleration",
+        "C": "Rest always",
+        "D": "SHM"
+      },
+      "correctAnswer": "A",
+      "explanation": "Zero acceleration means velocity is constant (uniform)."
+    },
+    {
+      "id": 13,
+      "question": "Distance of point (3, 4) from origin is:",
+      "options": {
+        "A": "5",
+        "B": "7",
+        "C": "25",
+        "D": "12"
+      },
+      "correctAnswer": "A",
+      "explanation": "√(3² + 4²) = √25 = 5."
+    },
+    {
+      "id": 14,
+      "question": "Slope of line 2x - y + 1 = 0 is:",
+      "options": {
+        "A": "2",
+        "B": "-2",
+        "C": "1/2",
+        "D": "-1/2"
+      },
+      "correctAnswer": "A",
+      "explanation": "y = 2x + 1 ⇒ m = 2."
+    },
+    {
+      "id": 15,
+      "question": "Equation of circle centered at (0, 0) with radius 3 is:",
+      "options": {
+        "A": "x² + y² = 9",
+        "B": "x² + y² = 3",
+        "C": "x² + y² = 6",
+        "D": "x + y = 3"
+      },
+      "correctAnswer": "A",
+      "explanation": "x² + y² = r² = 3² = 9."
+    },
+    {
+      "id": 16,
+      "question": "Eccentricity of ellipse is:",
+      "options": {
+        "A": "< 1",
+        "B": "> 1",
+        "C": "1",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "For ellipse, 0 < e < 1."
+    },
+    {
+      "id": 17,
+      "question": "What is i × j?",
+      "options": {
+        "A": "k",
+        "B": "-k",
+        "C": "0",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "i × j = k."
+    },
+    {
+      "id": 18,
+      "question": "a · b = |a||b| cos θ is called:",
+      "options": {
+        "A": "Scalar (dot) product",
+        "B": "Vector product",
+        "C": "Triple product",
+        "D": "Projection"
+      },
+      "correctAnswer": "A",
+      "explanation": "Definition of scalar (dot) product."
+    },
+    {
+      "id": 19,
+      "question": "Maximum of linear objective function occurs at a:",
+      "options": {
+        "A": "Corner point",
+        "B": "Origin always",
+        "C": "Interior point",
+        "D": "Asymptote"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fundamental theorem of linear programming."
+    },
+    {
+      "id": 20,
+      "question": "Newton-Raphson method formula is:",
+      "options": {
+        "A": "x_(n+1) = x_n - f(x_n)/f'(x_n)",
+        "B": "x_(n+1) = x_n + f(x_n)",
+        "C": "x_(n+1) = (a + b)/2",
+        "D": "x_(n+1) = f'(x_n)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Standard Newton-Raphson iteration formula."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}

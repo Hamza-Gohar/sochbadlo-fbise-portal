@@ -1,0 +1,429 @@
+{
+  "chapterNumber": 8,
+  "chapterTitle": "Unit 8: Vectors and Vector Algebra",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the magnitude of the vector u = 2i - 3j + 6k?",
+      "options": {
+        "A": "7",
+        "B": "49",
+        "C": "√11",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "|u| = √(2² + (-3)² + 6²) = √(4 + 9 + 36) = √49 = 7."
+    },
+    {
+      "id": 2,
+      "question": "What is the unit vector in the direction of v = 3i - 4j?",
+      "options": {
+        "A": "(3/5)i - (4/5)j",
+        "B": "(3/25)i - (4/25)j",
+        "C": "3i - 4j",
+        "D": "(4/5)i - (3/5)j"
+      },
+      "correctAnswer": "A",
+      "explanation": "|v| = √(3² + (-4)²) = √25 = 5. Unit vector v̂ = v / |v| = (3i - 4j)/5 = (3/5)i - (4/5)j."
+    },
+    {
+      "id": 3,
+      "question": "The direction cosines (l, m, n) of any non-zero vector satisfy:",
+      "options": {
+        "A": "l² + m² + n² = 1",
+        "B": "l + m + n = 1",
+        "C": "l² + m² + n² = 0",
+        "D": "l² + m² = n²"
+      },
+      "correctAnswer": "A",
+      "explanation": "l = cos α, m = cos β, n = cos γ. Since the unit vector has magnitude 1, l² + m² + n² = cos²α + cos²β + cos²γ = 1."
+    },
+    {
+      "id": 4,
+      "question": "What is the dot product of two vectors a = 2i + j - 3k and b = 3i - 2j + 4k?",
+      "options": {
+        "A": "-8",
+        "B": "8",
+        "C": "-12",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "a · b = (2)(3) + (1)(-2) + (-3)(4) = 6 - 2 - 12 = -8."
+    },
+    {
+      "id": 5,
+      "question": "Two non-zero vectors a and b are perpendicular (orthogonal) if and only if:",
+      "options": {
+        "A": "a · b = 0",
+        "B": "a × b = 0",
+        "C": "a · b = 1",
+        "D": "|a| = |b|"
+      },
+      "correctAnswer": "A",
+      "explanation": "a · b = |a||b| cos(θ). Since |a| ≠ 0 and |b| ≠ 0, a · b = 0 ⇔ cos(θ) = 0 ⇔ θ = 90° (perpendicular)."
+    },
+    {
+      "id": 6,
+      "question": "Two non-zero vectors a and b are parallel (collinear) if and only if:",
+      "options": {
+        "A": "a × b = 0",
+        "B": "a · b = 0",
+        "C": "a · b = -1",
+        "D": "a + b = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "|a × b| = |a||b| sin(θ). For parallel vectors, θ = 0° or 180°, so sin(θ) = 0 ⇔ a × b = 0."
+    },
+    {
+      "id": 7,
+      "question": "What is the projection of vector a onto vector b?",
+      "options": {
+        "A": "(a · b) / |b|",
+        "B": "(a · b) / |a|",
+        "C": "(a × b) / |b|",
+        "D": "|a| |b|"
+      },
+      "correctAnswer": "A",
+      "explanation": "The scalar projection of a along b is |a| cos θ = (a · b) / |b|."
+    },
+    {
+      "id": 8,
+      "question": "What is the value of i · (j × k)?",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "j × k = i. Therefore, i · (j × k) = i · i = 1."
+    },
+    {
+      "id": 9,
+      "question": "What is the value of i × j?",
+      "options": {
+        "A": "k",
+        "B": "-k",
+        "C": "0",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the right-hand cyclic rule of unit vectors in ℝ³: i × j = k, j × k = i, k × i = j."
+    },
+    {
+      "id": 10,
+      "question": "What is the value of j × i?",
+      "options": {
+        "A": "-k",
+        "B": "k",
+        "C": "0",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "The vector cross product is anti-commutative: j × i = -(i × j) = -k."
+    },
+    {
+      "id": 11,
+      "question": "What is the value of i · j?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "k",
+        "D": "-1"
+      },
+      "correctAnswer": "A",
+      "explanation": "The unit vectors along orthogonal coordinate axes are perpendicular: θ = 90° ⇒ i · j = |i||j| cos(90°) = 1 · 1 · 0 = 0."
+    },
+    {
+      "id": 12,
+      "question": "The area of a parallelogram with adjacent sides given by vectors a and b is:",
+      "options": {
+        "A": "|a × b|",
+        "B": "(1/2) |a × b|",
+        "C": "a · b",
+        "D": "(1/2) (a · b)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The geometric magnitude of the vector cross product |a × b| = |a||b| sin θ equals the area of the parallelogram formed by a and b."
+    },
+    {
+      "id": 13,
+      "question": "The area of a triangle with adjacent sides represented by vectors a and b is:",
+      "options": {
+        "A": "(1/2) |a × b|",
+        "B": "|a × b|",
+        "C": "(1/2) (a · b)",
+        "D": "|a · b|"
+      },
+      "correctAnswer": "A",
+      "explanation": "A triangle formed by adjacent sides a and b is half of the parallelogram: Area = (1/2) |a × b|."
+    },
+    {
+      "id": 14,
+      "question": "The scalar triple product a · (b × c) represents:",
+      "options": {
+        "A": "The volume of the parallelepiped with coterminous edges a, b, c",
+        "B": "The surface area of a tetrahedron",
+        "C": "The perimeter of a triangle",
+        "D": "A vector perpendicular to a"
+      },
+      "correctAnswer": "A",
+      "explanation": "The scalar triple product [a b c] = a · (b × c) gives the signed volume of the parallelepiped having vectors a, b, c as coterminous edges."
+    },
+    {
+      "id": 15,
+      "question": "Three vectors a, b, and c are coplanar if and only if:",
+      "options": {
+        "A": "a · (b × c) = 0",
+        "B": "a × (b × c) = 0",
+        "C": "a · b · c = 1",
+        "D": "a + b + c = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "If three vectors lie in the same plane, the height of the parallelepiped formed by them is zero, so their volume [a b c] = a · (b × c) = 0."
+    },
+    {
+      "id": 16,
+      "question": "The volume of a tetrahedron with coterminous edges a, b, c is:",
+      "options": {
+        "A": "(1/6) |a · (b × c)|",
+        "B": "(1/3) |a · (b × c)|",
+        "C": "(1/2) |a · (b × c)|",
+        "D": "|a · (b × c)|"
+      },
+      "correctAnswer": "A",
+      "explanation": "The volume of a tetrahedron is one-sixth of the volume of the corresponding parallelepiped: V = (1/6) |a · (b × c)|."
+    },
+    {
+      "id": 17,
+      "question": "What is the work done W by a constant force F producing a displacement d?",
+      "options": {
+        "A": "W = F · d",
+        "B": "W = F × d",
+        "C": "W = |F| / |d|",
+        "D": "W = F + d"
+      },
+      "correctAnswer": "A",
+      "explanation": "Work is a scalar quantity defined as the dot product of the force vector and the displacement vector: W = F · d = |F||d| cos θ."
+    },
+    {
+      "id": 18,
+      "question": "What is the torque (moment of a force) τ of a force F acting at position r?",
+      "options": {
+        "A": "τ = r × F",
+        "B": "τ = F × r",
+        "C": "τ = r · F",
+        "D": "τ = F / r"
+      },
+      "correctAnswer": "A",
+      "explanation": "Torque is a pseudo-vector defined by the cross product τ = r × F."
+    },
+    {
+      "id": 19,
+      "question": "For any vector a, the value of a × a is:",
+      "options": {
+        "A": "0",
+        "B": "|a|²",
+        "C": "1",
+        "D": "a"
+      },
+      "correctAnswer": "A",
+      "explanation": "The angle between a vector and itself is θ = 0°. Since sin(0°) = 0, a × a = 0."
+    },
+    {
+      "id": 20,
+      "question": "For any vector a, the value of a · a is:",
+      "options": {
+        "A": "|a|²",
+        "B": "0",
+        "C": "1",
+        "D": "2|a|"
+      },
+      "correctAnswer": "A",
+      "explanation": "a · a = |a||a| cos(0°) = |a|² (the square of its magnitude)."
+    },
+    {
+      "id": 21,
+      "question": "If a = i + 2j - k and b = 3i - 2j + 2k, what is a + b?",
+      "options": {
+        "A": "4i + k",
+        "B": "4i + 4j + k",
+        "C": "-2i + 4j - 3k",
+        "D": "3i - 4j - 2k"
+      },
+      "correctAnswer": "A",
+      "explanation": "a + b = (1 + 3)i + (2 - 2)j + (-1 + 2)k = 4i + 0j + k = 4i + k."
+    },
+    {
+      "id": 22,
+      "question": "What is the cross product i × k?",
+      "options": {
+        "A": "-j",
+        "B": "j",
+        "C": "0",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since k × i = j, reversing the order gives i × k = -j."
+    },
+    {
+      "id": 23,
+      "question": "What is the cosine of the angle between a = i + j and b = j + k?",
+      "options": {
+        "A": "1/2",
+        "B": "1/√2",
+        "C": "√3/2",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "a · b = (1)(0) + (1)(1) + (0)(1) = 1. |a| = √(1 + 1) = √2, |b| = √(1 + 1) = √2. cos θ = (a · b)/(|a||b|) = 1 / (√2 · √2) = 1/2 (θ = 60°)."
+    },
+    {
+      "id": 24,
+      "question": "If vector a is perpendicular to vector b, then |a × b| is equal to:",
+      "options": {
+        "A": "|a| |b|",
+        "B": "0",
+        "C": "1",
+        "D": "(a · b)"
+      },
+      "correctAnswer": "A",
+      "explanation": "|a × b| = |a||b| sin(90°) = |a||b|(1) = |a||b|."
+    },
+    {
+      "id": 25,
+      "question": "The vector triple product a × (b × c) can be expanded using the BAC-CAB rule as:",
+      "options": {
+        "A": "b(a · c) - c(a · b)",
+        "B": "a(b · c) - b(a · c)",
+        "C": "c(a · b) - b(a · c)",
+        "D": "(a · b) c + (a · c) b"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the vector triple product identity: a × (b × c) = (a · c)b - (a · b)c = b(a · c) - c(a · b)."
+    },
+    {
+      "id": 26,
+      "question": "If [a b c] = 5, what is the value of [b c a]?",
+      "options": {
+        "A": "5",
+        "B": "-5",
+        "C": "0",
+        "D": "1/5"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cyclic permutations of vectors preserve the scalar triple product: [a b c] = [b c a] = [c a b] = 5."
+    },
+    {
+      "id": 27,
+      "question": "If [a b c] = 5, what is the value of [b a c]?",
+      "options": {
+        "A": "-5",
+        "B": "5",
+        "C": "0",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "An anti-cyclic (non-cyclic) swap of any two adjacent vectors reverses the sign of the determinant: [b a c] = -[a b c] = -5."
+    },
+    {
+      "id": 28,
+      "question": "What is the angle between the vector a = i + j + k and the x-axis?",
+      "options": {
+        "A": "cos⁻¹(1/√3)",
+        "B": "cos⁻¹(1/3)",
+        "C": "45°",
+        "D": "60°"
+      },
+      "correctAnswer": "A",
+      "explanation": "|a| = √(1² + 1² + 1²) = √3. The x-component is 1, so direction cosine cos(α) = 1/√3 ⇒ α = cos⁻¹(1/√3)."
+    },
+    {
+      "id": 29,
+      "question": "If a force F = 3i + 2j - k moves a particle from (1, 1, 1) to (2, 3, 0), the work done is:",
+      "options": {
+        "A": "8 units",
+        "B": "6 units",
+        "C": "4 units",
+        "D": "10 units"
+      },
+      "correctAnswer": "A",
+      "explanation": "Displacement d = (2 - 1)i + (3 - 1)j + (0 - 1)k = i + 2j - k. W = F · d = (3)(1) + (2)(2) + (-1)(-1) = 3 + 4 + 1 = 8 units."
+    },
+    {
+      "id": 30,
+      "question": "If |a + b| = |a - b|, then the vectors a and b are:",
+      "options": {
+        "A": "Perpendicular",
+        "B": "Parallel",
+        "C": "Equal in magnitude",
+        "D": "Opposite in direction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Squaring: |a + b|² = |a - b|² ⇒ |a|² + 2(a · b) + |b|² = |a|² - 2(a · b) + |b|² ⇒ 4(a · b) = 0 ⇒ a · b = 0. Hence a ⊥ b."
+    },
+    {
+      "id": 31,
+      "question": "A vector of magnitude 0 with an arbitrary direction is called a:",
+      "options": {
+        "A": "Null vector (zero vector)",
+        "B": "Unit vector",
+        "C": "Position vector",
+        "D": "Scalar vector"
+      },
+      "correctAnswer": "A",
+      "explanation": "A null vector (0) has zero magnitude and its direction is indeterminate."
+    },
+    {
+      "id": 32,
+      "question": "What is the position vector of the point P(-2, 5, 3)?",
+      "options": {
+        "A": "-2i + 5j + 3k",
+        "B": "2i - 5j - 3k",
+        "C": "-2i - 5j + 3k",
+        "D": "5i - 2j + 3k"
+      },
+      "correctAnswer": "A",
+      "explanation": "The position vector OP from the origin (0, 0, 0) to P(x, y, z) is xi + yj + zk = -2i + 5j + 3k."
+    },
+    {
+      "id": 33,
+      "question": "If a × b = 0 and a · b = 0 for non-zero vector a, then:",
+      "options": {
+        "A": "b must be the zero vector",
+        "B": "a is parallel to b",
+        "C": "a is perpendicular to b",
+        "D": "No such vector exists"
+      },
+      "correctAnswer": "A",
+      "explanation": "a × b = 0 requires a ∥ b (θ = 0° or 180°), whereas a · b = 0 requires a ⊥ b (θ = 90°). Since a non-zero vector cannot simultaneously be parallel and perpendicular to a non-zero vector, b must be 0."
+    },
+    {
+      "id": 34,
+      "question": "The value of [i k j] is:",
+      "options": {
+        "A": "-1",
+        "B": "1",
+        "C": "0",
+        "D": "i"
+      },
+      "correctAnswer": "A",
+      "explanation": "[i k j] = i · (k × j). Since j × k = i, k × j = -i. Thus i · (-i) = -1."
+    },
+    {
+      "id": 35,
+      "question": "What is the magnitude of the vector product of two vectors of magnitudes 3 and 4 with an angle of 30° between them?",
+      "options": {
+        "A": "6",
+        "B": "12",
+        "C": "6√3",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "|a × b| = |a||b| sin(30°) = 3 · 4 · (1/2) = 12/2 = 6."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}

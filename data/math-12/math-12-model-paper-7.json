@@ -1,0 +1,249 @@
+{
+  "chapterNumber": 17,
+  "chapterTitle": "FBISE Class 12 Math Board Simulator 07 (Section A)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The period of sin(x) is:",
+      "options": {
+        "A": "2π",
+        "B": "π",
+        "C": "4π",
+        "D": "π/2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fundamental period of sine is 2π radians."
+    },
+    {
+      "id": 2,
+      "question": "If f(x) = x³ - x, then f(x) is:",
+      "options": {
+        "A": "Odd",
+        "B": "Even",
+        "C": "Constant",
+        "D": "Neither"
+      },
+      "correctAnswer": "A",
+      "explanation": "f(-x) = -x³ + x = -f(x)."
+    },
+    {
+      "id": 3,
+      "question": "Value of lim(x → 0) [(1 - cos x) / x] is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "1/2",
+        "D": "-1"
+      },
+      "correctAnswer": "A",
+      "explanation": "lim 2 sin²(x/2)/x = 0."
+    },
+    {
+      "id": 4,
+      "question": "Derivative of e^(3x) is:",
+      "options": {
+        "A": "3 e^(3x)",
+        "B": "e^(3x)",
+        "C": "(1/3) e^(3x)",
+        "D": "9 e^(3x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "d/dx [e^(3x)] = 3 e^(3x)."
+    },
+    {
+      "id": 5,
+      "question": "If y = sin(2x), dy/dx is:",
+      "options": {
+        "A": "2 cos(2x)",
+        "B": "cos(2x)",
+        "C": "-2 cos(2x)",
+        "D": "2 sin(2x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "d/dx [sin 2x] = 2 cos 2x."
+    },
+    {
+      "id": 6,
+      "question": "What is ∫ cos(3x) dx?",
+      "options": {
+        "A": "(1/3) sin(3x) + c",
+        "B": "3 sin(3x) + c",
+        "C": "- (1/3) sin(3x) + c",
+        "D": "sin(3x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫ cos(kx) dx = (1/k) sin(kx) + c."
+    },
+    {
+      "id": 7,
+      "question": "What is ∫ 1 dx?",
+      "options": {
+        "A": "x + c",
+        "B": "1 + c",
+        "C": "0",
+        "D": "x²/2 + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Anti-derivative of constant 1 is x + c."
+    },
+    {
+      "id": 8,
+      "question": "Value of ∫₀^π sin(x) dx is:",
+      "options": {
+        "A": "2",
+        "B": "0",
+        "C": "1",
+        "D": "-2"
+      },
+      "correctAnswer": "A",
+      "explanation": "[-cos x]₀^π = -(-1) - (-1) = 2."
+    },
+    {
+      "id": 9,
+      "question": "Differential equation dy/dx = 0 represents:",
+      "options": {
+        "A": "Horizontal straight lines",
+        "B": "Vertical straight lines",
+        "C": "Circles",
+        "D": "Parabolas"
+      },
+      "correctAnswer": "A",
+      "explanation": "y = c represents family of horizontal lines."
+    },
+    {
+      "id": 10,
+      "question": "General solution of dy/dx = -x/y is:",
+      "options": {
+        "A": "x² + y² = c",
+        "B": "x² - y² = c",
+        "C": "y = c x",
+        "D": "x y = c"
+      },
+      "correctAnswer": "A",
+      "explanation": "y dy = -x dx ⇒ x² + y² = c (circles)."
+    },
+    {
+      "id": 11,
+      "question": "Area under v-t graph represents:",
+      "options": {
+        "A": "Displacement",
+        "B": "Acceleration",
+        "C": "Speed",
+        "D": "Work"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫ v dt = Δs (displacement)."
+    },
+    {
+      "id": 12,
+      "question": "A car travels 30 m in 3 s at uniform speed. Its acceleration is:",
+      "options": {
+        "A": "0 m/s²",
+        "B": "10 m/s²",
+        "C": "3.3 m/s²",
+        "D": "1 m/s²"
+      },
+      "correctAnswer": "A",
+      "explanation": "Uniform speed means acceleration is zero."
+    },
+    {
+      "id": 13,
+      "question": "Slope of a vertical line is:",
+      "options": {
+        "A": "Undefined",
+        "B": "0",
+        "C": "1",
+        "D": "-1"
+      },
+      "correctAnswer": "A",
+      "explanation": "tan(90°) is undefined."
+    },
+    {
+      "id": 14,
+      "question": "Midpoint of (0, 0) and (4, 6) is:",
+      "options": {
+        "A": "(2, 3)",
+        "B": "(4, 6)",
+        "C": "(1, 2)",
+        "D": "(3, 2)"
+      },
+      "correctAnswer": "A",
+      "explanation": "((0+4)/2, (0+6)/2) = (2, 3)."
+    },
+    {
+      "id": 15,
+      "question": "In hyperbola x²/a² - y²/b² = 1, relation is:",
+      "options": {
+        "A": "c² = a² + b²",
+        "B": "c² = a² - b²",
+        "C": "a² = b² + c²",
+        "D": "e = a/c"
+      },
+      "correctAnswer": "A",
+      "explanation": "For hyperbola, c² = a² + b²."
+    },
+    {
+      "id": 16,
+      "question": "Eccentricity of a circle is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "∞",
+        "D": "< 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "For a circle, foci coincide at the center (c = 0), so e = c/a = 0."
+    },
+    {
+      "id": 17,
+      "question": "What is j × i?",
+      "options": {
+        "A": "-k",
+        "B": "k",
+        "C": "0",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Anti-commutative property: j × i = -(i × j) = -k."
+    },
+    {
+      "id": 18,
+      "question": "Dot product of perpendicular vectors is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "Infinity"
+      },
+      "correctAnswer": "A",
+      "explanation": "cos(90°) = 0 ⇒ a · b = 0."
+    },
+    {
+      "id": 19,
+      "question": "Feasible region is bounded by:",
+      "options": {
+        "A": "Constraint boundary lines",
+        "B": "Circles",
+        "C": "Only axes",
+        "D": "Parabolas"
+      },
+      "correctAnswer": "A",
+      "explanation": "Boundary lines of the linear inequalities define the polygon."
+    },
+    {
+      "id": 20,
+      "question": "Newton-Raphson formula fails when:",
+      "options": {
+        "A": "f'(x_n) = 0",
+        "B": "f(x_n) = 0",
+        "C": "f''(x_n) = 0",
+        "D": "x_n = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Division by zero occurs if f'(x_n) = 0."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}

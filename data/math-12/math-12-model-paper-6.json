@@ -1,0 +1,249 @@
+{
+  "chapterNumber": 16,
+  "chapterTitle": "FBISE Class 12 Math Board Simulator 06 (Section A)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Domain of f(x) = 1/(x - 3) is:",
+      "options": {
+        "A": "R - {3}",
+        "B": "[3, ∞)",
+        "C": "(3, ∞)",
+        "D": "R"
+      },
+      "correctAnswer": "A",
+      "explanation": "Denominator cannot be zero: x ≠ 3. Domain is R - {3}."
+    },
+    {
+      "id": 2,
+      "question": "If f(x) = x², f(x) is an:",
+      "options": {
+        "A": "Even function",
+        "B": "Odd function",
+        "C": "Linear function",
+        "D": "Periodic function"
+      },
+      "correctAnswer": "A",
+      "explanation": "f(-x) = (-x)² = x² = f(x), so it is even."
+    },
+    {
+      "id": 3,
+      "question": "Value of lim(x → 0) [(tan x) / x] is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "∞",
+        "D": "π"
+      },
+      "correctAnswer": "A",
+      "explanation": "lim(x → 0) (sin x/x)(1/cos x) = 1 · (1/1) = 1."
+    },
+    {
+      "id": 4,
+      "question": "Derivative of sec(x) is:",
+      "options": {
+        "A": "sec(x) tan(x)",
+        "B": "sec²(x)",
+        "C": "-sec(x) tan(x)",
+        "D": "tan²(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "d/dx [sec x] = sec x tan x."
+    },
+    {
+      "id": 5,
+      "question": "Second derivative of y = x⁴ is:",
+      "options": {
+        "A": "12 x²",
+        "B": "4 x³",
+        "C": "24 x",
+        "D": "x²"
+      },
+      "correctAnswer": "A",
+      "explanation": "y' = 4x³, y'' = 12x²."
+    },
+    {
+      "id": 6,
+      "question": "What is ∫ csc²(x) dx?",
+      "options": {
+        "A": "-cot(x) + c",
+        "B": "cot(x) + c",
+        "C": "-csc(x) + c",
+        "D": "tan(x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Anti-derivative of csc²x is -cot x + c."
+    },
+    {
+      "id": 7,
+      "question": "What is ∫ [1 / (x + 2)] dx?",
+      "options": {
+        "A": "ln|x + 2| + c",
+        "B": "1/(x + 2)² + c",
+        "C": "e^(x + 2) + c",
+        "D": "(x + 2)² / 2 + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫ 1/(x + 2) dx = ln|x + 2| + c."
+    },
+    {
+      "id": 8,
+      "question": "Value of ∫₀^1 e^x dx is:",
+      "options": {
+        "A": "e - 1",
+        "B": "e",
+        "C": "e + 1",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "[e^x]₀¹ = e¹ - e^0 = e - 1."
+    },
+    {
+      "id": 9,
+      "question": "Order of differential equation dy/dx + 5y = 0 is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "2",
+        "D": "5"
+      },
+      "correctAnswer": "A",
+      "explanation": "Only first derivative occurs: order is 1."
+    },
+    {
+      "id": 10,
+      "question": "Particular solution of dy/dx = 1 with y(0) = 3 is:",
+      "options": {
+        "A": "y = x + 3",
+        "B": "y = x - 3",
+        "C": "y = 3x",
+        "D": "y = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "y = x + c. y(0) = 3 ⇒ c = 3 ⇒ y = x + 3."
+    },
+    {
+      "id": 11,
+      "question": "Slope of displacement-time graph gives:",
+      "options": {
+        "A": "Velocity",
+        "B": "Acceleration",
+        "C": "Distance",
+        "D": "Force"
+      },
+      "correctAnswer": "A",
+      "explanation": "ds/dt is the instantaneous velocity."
+    },
+    {
+      "id": 12,
+      "question": "If a particle covers distance s = 5t, its acceleration is:",
+      "options": {
+        "A": "0",
+        "B": "5",
+        "C": "10",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "v = 5 ⇒ a = dv/dt = 0."
+    },
+    {
+      "id": 13,
+      "question": "Two lines with slopes 3 and -1/3 are:",
+      "options": {
+        "A": "Perpendicular",
+        "B": "Parallel",
+        "C": "Coincident",
+        "D": "Skew"
+      },
+      "correctAnswer": "A",
+      "explanation": "m₁ · m₂ = 3 · (-1/3) = -1 ⇒ perpendicular."
+    },
+    {
+      "id": 14,
+      "question": "The y-intercept of y = 4x - 5 is:",
+      "options": {
+        "A": "-5",
+        "B": "4",
+        "C": "5",
+        "D": "5/4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Comparing with y = mx + c: c = -5."
+    },
+    {
+      "id": 15,
+      "question": "Length of latus rectum of y² = 4ax is:",
+      "options": {
+        "A": "4a",
+        "B": "2a",
+        "C": "a",
+        "D": "8a"
+      },
+      "correctAnswer": "A",
+      "explanation": "Length is |4a|."
+    },
+    {
+      "id": 16,
+      "question": "In an ellipse, the relation between semi-axes is:",
+      "options": {
+        "A": "b² = a²(1 - e²)",
+        "B": "b² = a²(e² - 1)",
+        "C": "a² = b²(1 - e²)",
+        "D": "e = a/b"
+      },
+      "correctAnswer": "A",
+      "explanation": "For ellipse with a > b: b² = a²(1 - e²)."
+    },
+    {
+      "id": 17,
+      "question": "Value of i · (j × k) is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "k"
+      },
+      "correctAnswer": "A",
+      "explanation": "j × k = i, and i · i = 1."
+    },
+    {
+      "id": 18,
+      "question": "Area of triangle with adjacent sides a and b is:",
+      "options": {
+        "A": "(1/2) |a × b|",
+        "B": "|a × b|",
+        "C": "a · b",
+        "D": "(1/2) (a · b)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Area = (1/2)|a × b|."
+    },
+    {
+      "id": 19,
+      "question": "If a corner point is (3, 4), the value of z = 2x + y is:",
+      "options": {
+        "A": "10",
+        "B": "11",
+        "C": "7",
+        "D": "14"
+      },
+      "correctAnswer": "A",
+      "explanation": "z = 2(3) + 4 = 6 + 4 = 10."
+    },
+    {
+      "id": 20,
+      "question": "Order of convergence of Secant method is:",
+      "options": {
+        "A": "1.618",
+        "B": "2",
+        "C": "1",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "The secant method order is the golden ratio ≈ 1.618."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}

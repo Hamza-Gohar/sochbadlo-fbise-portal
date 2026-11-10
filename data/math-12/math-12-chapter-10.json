@@ -1,0 +1,429 @@
+{
+  "chapterNumber": 10,
+  "chapterTitle": "Unit 10: Numerical Methods & Solutions of Equations",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The Bisection method for finding a real root of f(x) = 0 is based on:",
+      "options": {
+        "A": "Intermediate Value Theorem",
+        "B": "Rolle's Theorem",
+        "C": "Mean Value Theorem",
+        "D": "Taylor's Theorem"
+      },
+      "correctAnswer": "A",
+      "explanation": "If f(x) is continuous on [a, b] and f(a) · f(b) < 0 (opposite signs), the Intermediate Value Theorem guarantees at least one root in (a, b)."
+    },
+    {
+      "id": 2,
+      "question": "In the Bisection method, the next approximation x_m is computed as:",
+      "options": {
+        "A": "(a + b) / 2",
+        "B": "√(a b)",
+        "C": "(a f(b) - b f(a)) / (f(b) - f(a))",
+        "D": "a - f(a)/f'(a)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Bisection method repeatedly bisects the interval in half: x_m = (a + b) / 2."
+    },
+    {
+      "id": 3,
+      "question": "What is the order of convergence of the Bisection method?",
+      "options": {
+        "A": "1 (linear convergence)",
+        "B": "2 (quadratic convergence)",
+        "C": "1.618 (superlinear)",
+        "D": "3 (cubic)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The interval width halves at each step: e_(n+1) = (1/2) e_n, so the order of convergence is 1 (linear)."
+    },
+    {
+      "id": 4,
+      "question": "What is the iterative formula of the Newton-Raphson method for solving f(x) = 0?",
+      "options": {
+        "A": "x_(n+1) = x_n - [f(x_n) / f'(x_n)]",
+        "B": "x_(n+1) = x_n + [f(x_n) / f'(x_n)]",
+        "C": "x_(n+1) = x_n - [f'(x_n) / f(x_n)]",
+        "D": "x_(n+1) = [x_n + f(x_n)] / 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Approximating f(x) by the tangent line at x_n: y - f(x_n) = f'(x_n)(x - x_n). Setting y = 0 yields x_(n+1) = x_n - f(x_n)/f'(x_n)."
+    },
+    {
+      "id": 5,
+      "question": "What is the order of convergence of the Newton-Raphson method (for a simple root)?",
+      "options": {
+        "A": "2 (quadratic convergence)",
+        "B": "1 (linear convergence)",
+        "C": "1.618 (golden ratio)",
+        "D": "3 (cubic)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Near a simple root where f'(r) ≠ 0, e_(n+1) ≈ C · e_n², meaning the number of accurate decimal digits roughly doubles at each iteration (quadratic convergence)."
+    },
+    {
+      "id": 6,
+      "question": "The Newton-Raphson method fails if at any iteration:",
+      "options": {
+        "A": "f'(x_n) = 0 (horizontal tangent)",
+        "B": "f(x_n) = 0",
+        "C": "f''(x_n) = 0",
+        "D": "x_n < 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "The formula involves division by f'(x_n). If f'(x_n) = 0, division by zero occurs, indicating the tangent line is horizontal and never intersects the x-axis."
+    },
+    {
+      "id": 7,
+      "question": "Using the Newton-Raphson formula to find the square root of N (f(x) = x² - N = 0), the iteration is:",
+      "options": {
+        "A": "x_(n+1) = (1/2) [x_n + N / x_n]",
+        "B": "x_(n+1) = (1/2) [x_n - N / x_n]",
+        "C": "x_(n+1) = 2x_n - N",
+        "D": "x_(n+1) = N / x_n"
+      },
+      "correctAnswer": "A",
+      "explanation": "f(x) = x² - N, f'(x) = 2x. x_(n+1) = x_n - (x_n² - N)/(2x_n) = (2x_n² - x_n² + N)/(2x_n) = (1/2)[x_n + N/x_n] (Heron's formula)."
+    },
+    {
+      "id": 8,
+      "question": "The Regula-Falsi (False Position) method computes the root approximation using:",
+      "options": {
+        "A": "x = [a f(b) - b f(a)] / [f(b) - f(a)]",
+        "B": "x = (a + b) / 2",
+        "C": "x = a - f(a)/f'(a)",
+        "D": "x = [f(a) + f(b)] / 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Regula-Falsi finds the x-intercept of the secant line joining (a, f(a)) and (b, f(b)), giving x = [a f(b) - b f(a)] / [f(b) - f(a)]."
+    },
+    {
+      "id": 9,
+      "question": "What is the order of convergence of the Secant method?",
+      "options": {
+        "A": "≈ 1.618 (superlinear)",
+        "B": "2 (quadratic)",
+        "C": "1 (linear)",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Secant method approximates derivatives using finite differences, yielding an order of convergence equal to the golden ratio: p = (1 + √5)/2 ≈ 1.618."
+    },
+    {
+      "id": 10,
+      "question": "If f(1) = -2 and f(2) = 3 for a continuous function f(x), then by the Intermediate Value Theorem:",
+      "options": {
+        "A": "At least one root of f(x) = 0 lies in (1, 2)",
+        "B": "f(x) has no roots",
+        "C": "The root is exactly x = 1.5",
+        "D": "f'(x) = 0 in (1, 2)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since f(1) < 0 and f(2) > 0 (opposite signs), the continuous function must cross the x-axis at least once in the open interval (1, 2)."
+    },
+    {
+      "id": 11,
+      "question": "An equation that contains non-algebraic functions (trigonometric, exponential, logarithmic) is called a:",
+      "options": {
+        "A": "Transcendental equation",
+        "B": "Linear equation",
+        "C": "Polynomial equation",
+        "D": "Quadratic equation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Equations such as x - cos(x) = 0 or e^x - 3x = 0 cannot be solved purely with algebraic radicals and are called transcendental equations."
+    },
+    {
+      "id": 12,
+      "question": "What is the first approximation to the root of x³ - x - 1 = 0 in [1, 2] using the Bisection method?",
+      "options": {
+        "A": "1.5",
+        "B": "1.25",
+        "C": "1.75",
+        "D": "1.0"
+      },
+      "correctAnswer": "A",
+      "explanation": "x₁ = (a + b)/2 = (1 + 2)/2 = 1.5."
+    },
+    {
+      "id": 13,
+      "question": "In polynomial interpolation, a polynomial of degree n can uniquely interpolate:",
+      "options": {
+        "A": "n + 1 distinct points",
+        "B": "n distinct points",
+        "C": "n - 1 points",
+        "D": "Any infinite number of points"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the fundamental theorem of polynomial interpolation, given n + 1 distinct data points, there exists a unique polynomial of degree at most n passing through all of them."
+    },
+    {
+      "id": 14,
+      "question": "The Lagrange interpolation formula for two points (x₀, y₀) and (x₁, y₁) is:",
+      "options": {
+        "A": "P(x) = [(x - x₁)/(x₀ - x₁)] y₀ + [(x - x₀)/(x₁ - x₀)] y₁",
+        "B": "P(x) = [(x - x₀)/(x₁ - x₀)] y₀ + [(x - x₁)/(x₀ - x₁)] y₁",
+        "C": "P(x) = (y₁ - y₀)/(x₁ - x₀)",
+        "D": "P(x) = y₀ + y₁"
+      },
+      "correctAnswer": "A",
+      "explanation": "This is the standard linear Lagrange polynomial: at x = x₀ it evaluates to y₀, and at x = x₁ it evaluates to y₁."
+    },
+    {
+      "id": 15,
+      "question": "Absolute error is defined as:",
+      "options": {
+        "A": "|True Value - Approximate Value|",
+        "B": "|True Value - Approximate Value| / |True Value|",
+        "C": "True Value / Approximate Value",
+        "D": "Approximate Value - True Value"
+      },
+      "correctAnswer": "A",
+      "explanation": "Absolute error measures the magnitude of the discrepancy: E_abs = |x_true - x_approx|."
+    },
+    {
+      "id": 16,
+      "question": "Relative error is defined as:",
+      "options": {
+        "A": "|True Value - Approximate Value| / |True Value|",
+        "B": "|True Value - Approximate Value|",
+        "C": "True Value / Error",
+        "D": "|True Value| · |Error|"
+      },
+      "correctAnswer": "A",
+      "explanation": "Relative error normalizes the absolute error by the true magnitude: E_rel = |x_true - x_approx| / |x_true| (for x_true ≠ 0)."
+    },
+    {
+      "id": 17,
+      "question": "Percentage error is relative error multiplied by:",
+      "options": {
+        "A": "100%",
+        "B": "10%",
+        "C": "1000%",
+        "D": "50%"
+      },
+      "correctAnswer": "A",
+      "explanation": "Percentage error = E_rel × 100%."
+    },
+    {
+      "id": 18,
+      "question": "Which numerical method is ALWAYS guaranteed to converge if an initial bracket [a, b] with f(a)·f(b) < 0 is found?",
+      "options": {
+        "A": "Bisection method",
+        "B": "Newton-Raphson method",
+        "C": "Secant method",
+        "D": "Fixed-point iteration without conditions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Because the Bisection method strictly traps the root in an interval that halves at every step, it is guaranteed to converge to a root under continuity."
+    },
+    {
+      "id": 19,
+      "question": "Newton-Raphson iteration for the reciprocal 1/N (solving f(x) = 1/x - N = 0) is:",
+      "options": {
+        "A": "x_(n+1) = x_n (2 - N x_n)",
+        "B": "x_(n+1) = x_n (2 + N x_n)",
+        "C": "x_(n+1) = x_n / N",
+        "D": "x_(n+1) = 2 - N x_n"
+      },
+      "correctAnswer": "A",
+      "explanation": "f(x) = 1/x - N, f'(x) = -1/x². x_(n+1) = x_n - (1/x_n - N)/(-1/x_n²) = x_n + x_n²(1/x_n - N) = x_n + x_n - N x_n² = x_n (2 - N x_n)."
+    },
+    {
+      "id": 20,
+      "question": "How many iterations of the Bisection method are needed to reduce an initial interval [a, b] to a tolerance ε?",
+      "options": {
+        "A": "n ≥ log₂((b - a) / ε)",
+        "B": "n ≥ (b - a) / ε",
+        "C": "n ≥ ln(b - a)",
+        "D": "n = 10 always"
+      },
+      "correctAnswer": "A",
+      "explanation": "At step n, the interval width is (b - a)/2^n. Setting (b - a)/2^n ≤ ε ⇒ 2^n ≥ (b - a)/ε ⇒ n ≥ log₂((b - a)/ε)."
+    },
+    {
+      "id": 21,
+      "question": "For f(x) = x² - 2 with x₀ = 1, what is the first Newton-Raphson approximation x₁ to √2?",
+      "options": {
+        "A": "1.5",
+        "B": "1.414",
+        "C": "1.25",
+        "D": "2.0"
+      },
+      "correctAnswer": "A",
+      "explanation": "f(x) = x² - 2, f'(x) = 2x. x₁ = x₀ - f(x₀)/f'(x₀) = 1 - (1² - 2)/(2 · 1) = 1 - (-1/2) = 1 + 0.5 = 1.5."
+    },
+    {
+      "id": 22,
+      "question": "With x₁ = 1.5, what is the second Newton-Raphson approximation x₂ to √2?",
+      "options": {
+        "A": "1.4167 (17/12)",
+        "B": "1.4142",
+        "C": "1.45",
+        "D": "1.5"
+      },
+      "correctAnswer": "A",
+      "explanation": "x₂ = (1/2)[1.5 + 2/1.5] = (1/2)[3/2 + 4/3] = (1/2)[17/6] = 17/12 ≈ 1.41667."
+    },
+    {
+      "id": 23,
+      "question": "Fixed-point iteration x_(n+1) = g(x_n) converges to a root if near the root:",
+      "options": {
+        "A": "|g'(x)| < 1",
+        "B": "|g'(x)| > 1",
+        "C": "|g'(x)| = 1",
+        "D": "g'(x) = 0 only"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the Banach Fixed-Point Theorem, the iteration contracts and converges if |g'(x)| ≤ k < 1 in the neighborhood of the fixed point."
+    },
+    {
+      "id": 24,
+      "question": "Trapezoidal rule for numerical integration approximates the area under each sub-interval with a:",
+      "options": {
+        "A": "Trapezoid (linear polynomial)",
+        "B": "Parabola (quadratic)",
+        "C": "Rectangle",
+        "D": "Cubic spline"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Trapezoidal rule approximates the curve f(x) with straight line segments, forming trapezoids of width h."
+    },
+    {
+      "id": 25,
+      "question": "Simpson's 1/3 rule for numerical integration requires the number of sub-intervals n to be:",
+      "options": {
+        "A": "Even",
+        "B": "Odd",
+        "C": "Any integer",
+        "D": "A multiple of 3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Simpson's 1/3 rule fits parabolas across pairs of sub-intervals, requiring an even number of intervals n."
+    },
+    {
+      "id": 26,
+      "question": "The error in the Bisection method after n iterations is bounded by:",
+      "options": {
+        "A": "(b - a) / 2^n",
+        "B": "(b - a) / n",
+        "C": "(b - a) / n²",
+        "D": "2^n / (b - a)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since the interval is halved n times, the maximum possible distance from the midpoint to the root is (b - a) / 2^n."
+    },
+    {
+      "id": 27,
+      "question": "In the Newton-Raphson method, if x_n is close to a root of multiplicity m > 1, the convergence becomes:",
+      "options": {
+        "A": "Linear",
+        "B": "Quadratic",
+        "C": "Cubic",
+        "D": "Divergent"
+      },
+      "correctAnswer": "A",
+      "explanation": "For multiple roots (f'(r) = 0), standard Newton-Raphson degrades from quadratic to linear convergence unless modified with the multiplicity factor m."
+    },
+    {
+      "id": 28,
+      "question": "The forward difference operator Δ is defined as:",
+      "options": {
+        "A": "Δ f(x) = f(x + h) - f(x)",
+        "B": "Δ f(x) = f(x) - f(x - h)",
+        "C": "Δ f(x) = f(x + h) + f(x)",
+        "D": "Δ f(x) = f(x + h/2) - f(x - h/2)"
+      },
+      "correctAnswer": "A",
+      "explanation": "By definition in finite difference calculus: Δ f(x) = f(x + h) - f(x)."
+    },
+    {
+      "id": 29,
+      "question": "The backward difference operator ∇ is defined as:",
+      "options": {
+        "A": "∇ f(x) = f(x) - f(x - h)",
+        "B": "∇ f(x) = f(x + h) - f(x)",
+        "C": "∇ f(x) = f(x - h) - f(x)",
+        "D": "∇ f(x) = [f(x + h) - f(x)] / h"
+      },
+      "correctAnswer": "A",
+      "explanation": "By definition: ∇ f(x) = f(x) - f(x - h)."
+    },
+    {
+      "id": 30,
+      "question": "The shift operator E is related to the forward difference operator Δ by:",
+      "options": {
+        "A": "E = 1 + Δ",
+        "B": "E = 1 - Δ",
+        "C": "E = Δ - 1",
+        "D": "E · Δ = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "E f(x) = f(x + h) = f(x) + Δ f(x) = (1 + Δ) f(x) ⇒ E = 1 + Δ."
+    },
+    {
+      "id": 31,
+      "question": "If f(x) is a polynomial of degree n, its (n + 1)-th forward difference Δ^(n + 1) f(x) is:",
+      "options": {
+        "A": "0",
+        "B": "Constant ≠ 0",
+        "C": "n!",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "Taking differences reduces the degree by 1 at each stage (analogous to differentiation). The n-th difference is a constant, and the (n + 1)-th difference is zero."
+    },
+    {
+      "id": 32,
+      "question": "Truncation error in numerical analysis arises from:",
+      "options": {
+        "A": "Approximating an infinite process (like a Taylor series) by a finite number of terms",
+        "B": "Machine rounding of decimals",
+        "C": "Human typing error",
+        "D": "Division by zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Truncation error occurs when a continuous or infinite mathematical formula is truncated to a finite algorithm."
+    },
+    {
+      "id": 33,
+      "question": "Round-off error in numerical computations is due to:",
+      "options": {
+        "A": "Finite precision arithmetic of the computing device",
+        "B": "Truncating an infinite series",
+        "C": "Using a bad algorithm",
+        "D": "Incorrect algebraic rules"
+      },
+      "correctAnswer": "A",
+      "explanation": "Computers store numbers with fixed-bit precision (e.g., 32-bit or 64-bit float), discarding lower-order bits, which introduces round-off error."
+    },
+    {
+      "id": 34,
+      "question": "The Secant method requires how many initial guesses to start?",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "3",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Secant method uses a line through two previous points (x_(n-1), f(x_(n-1))) and (x_n, f(x_n)), so it requires two initial estimates."
+    },
+    {
+      "id": 35,
+      "question": "Newton's forward interpolation formula is most accurate when interpolating near the:",
+      "options": {
+        "A": "Beginning of the given table of values",
+        "B": "End of the table",
+        "C": "Middle of the table",
+        "D": "Outside the table range"
+      },
+      "correctAnswer": "A",
+      "explanation": "Newton's forward difference formula uses values near x₀, making it most accurate for estimating values near the beginning of a data table."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}

@@ -46,8 +46,9 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isPakStudies12 = chapter.subject === 'pakstudies-12' || chapter.slug.startsWith('pakstudies-12');
   const isTarjuma12 = chapter.subject === 'tarjuma-12' || chapter.slug.startsWith('tarjuma-12');
   const isPhysics12 = chapter.subject === 'physics-12' || chapter.slug.startsWith('physics-12');
+  const isMath12 = chapter.subject === 'math-12' || chapter.slug.startsWith('math-12');
   const isUrdu = (chapter.subject === 'urdu' || chapter.slug.startsWith('urdu')) && !isUrdu9 && !isUrdu10 && !isUrdu12;
-  const isMath = (chapter.subject === 'math' || chapter.slug.startsWith('math-unit-') || chapter.slug.startsWith('math-model-paper-')) && !isMath9 && !isMath10;
+  const isMath = (chapter.subject === 'math' || chapter.slug.startsWith('math-unit-') || chapter.slug.startsWith('math-model-paper-')) && !isMath9 && !isMath10 && !isMath12;
   const isEnglish = (chapter.subject === 'english' || chapter.slug.startsWith('english')) && !isEnglish9 && !isEnglish10 && !isEnglish12;
   const isCS = (chapter.subject === 'cs' || chapter.slug.startsWith('cs')) && !isCS9 && !isCS10;
   const isIslamiat = (chapter.subject === 'islamiat' || chapter.slug.startsWith('islamiat')) && !isIslamiat9;
@@ -59,6 +60,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isPastPapers =
     chapter.slug === 'past-papers' ||
     chapter.slug === 'urdu-model-paper' ||
+    chapter.slug.startsWith('math-12-model-paper-') ||
     chapter.slug.startsWith('physics-12-model-paper-') ||
     chapter.slug.startsWith('english-12-model-paper-') ||
     chapter.slug.startsWith('urdu-12-model-paper-') ||
@@ -89,7 +91,9 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     chapter.slug.startsWith('chemistry-model-paper-');
 
   let tagLabel = `Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
-  if (chapter.slug.startsWith('physics-12-model-paper-')) tagLabel = `Class 12 Physics Simulator ${chapter.slug.split('-').pop()}`;
+  if (chapter.slug.startsWith('math-12-model-paper-')) tagLabel = `Class 12 Math Simulator ${chapter.slug.split('-').pop()}`;
+  else if (isMath12) tagLabel = `Class 12 · Math Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (chapter.slug.startsWith('physics-12-model-paper-')) tagLabel = `Class 12 Physics Simulator ${chapter.slug.split('-').pop()}`;
   else if (isPhysics12) tagLabel = `Class 12 · Physics Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (chapter.slug.startsWith('english-12-model-paper-')) tagLabel = `Class 12 English Simulator ${chapter.slug.split('-').pop()}`;
   else if (isEnglish12) tagLabel = `Class 12 · English Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
@@ -158,7 +162,11 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (isUrdu) tagLabel = `Urdu Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
 
   let description = `Comprehensive conceptual questions, dimensional formulas, and numericals for ${chapter.title} aligned with textbook SLOs.`;
-  if (chapter.slug.startsWith('physics-12-model-paper-')) {
+  if (chapter.slug.startsWith('math-12-model-paper-')) {
+    description = `Official Federal Board Section A HSSC-II Class 12 annual examination simulation. 20 MCQs, 25-minute timer with complete mathematical derivations, step-by-step calculus working, and geometric reasoning.`;
+  } else if (isMath12) {
+    description = `Official FBISE HSSC-II Class 12 Mathematics: ${chapter.title}. Core mathematical formulas, calculus theorems, coordinate geometry, vectors, and SLO justifications.`;
+  } else if (chapter.slug.startsWith('physics-12-model-paper-')) {
     description = `Official Federal Board Section A HSSC-II Class 12 annual examination simulation. 17 MCQs, 25-minute timer with complete formula derivations, step-by-step numerical calculations, and physics justifications.`;
   } else if (isPhysics12) {
     description = `Official FBISE HSSC-II Class 12 Physics: ${chapter.title}. Core physical laws, conceptual principles, formula derivations, SI units, and comprehensive SLO justifications.`;

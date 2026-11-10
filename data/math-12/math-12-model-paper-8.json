@@ -1,0 +1,249 @@
+{
+  "chapterNumber": 18,
+  "chapterTitle": "FBISE Class 12 Math Board Simulator 08 (Section A)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Range of f(x) = x² + 2 is:",
+      "options": {
+        "A": "[2, ∞)",
+        "B": "[0, ∞)",
+        "C": "(-∞, 2]",
+        "D": "R"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since x² ≥ 0, x² + 2 ≥ 2. Range = [2, ∞)."
+    },
+    {
+      "id": 2,
+      "question": "Which function is even?",
+      "options": {
+        "A": "f(x) = cos(x)",
+        "B": "f(x) = sin(x)",
+        "C": "f(x) = x³",
+        "D": "f(x) = tan(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "cos(-x) = cos(x), so cosine is even."
+    },
+    {
+      "id": 3,
+      "question": "Value of lim(x → 0) [(e^x - 1) / x] is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "e",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "Standard limit = 1."
+    },
+    {
+      "id": 4,
+      "question": "Derivative of cot(x) is:",
+      "options": {
+        "A": "-csc²(x)",
+        "B": "csc²(x)",
+        "C": "-sec²(x)",
+        "D": "tan(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "d/dx [cot x] = -csc²x."
+    },
+    {
+      "id": 5,
+      "question": "Slope of tangent to y = x² at x = 3 is:",
+      "options": {
+        "A": "6",
+        "B": "9",
+        "C": "3",
+        "D": "12"
+      },
+      "correctAnswer": "A",
+      "explanation": "dy/dx = 2x. At x = 3: 2(3) = 6."
+    },
+    {
+      "id": 6,
+      "question": "What is ∫ e^(2x) dx?",
+      "options": {
+        "A": "(1/2) e^(2x) + c",
+        "B": "2 e^(2x) + c",
+        "C": "e^(2x) + c",
+        "D": "(1/4) e^(2x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫ e^(2x) dx = (1/2) e^(2x) + c."
+    },
+    {
+      "id": 7,
+      "question": "What is ∫ sec(x) tan(x) dx?",
+      "options": {
+        "A": "sec(x) + c",
+        "B": "tan(x) + c",
+        "C": "sec²x + c",
+        "D": "-sec(x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "d/dx [sec x] = sec x tan x."
+    },
+    {
+      "id": 8,
+      "question": "Value of ∫₀^1 x³ dx is:",
+      "options": {
+        "A": "1/4",
+        "B": "1/3",
+        "C": "1",
+        "D": "3/4"
+      },
+      "correctAnswer": "A",
+      "explanation": "[x⁴/4]₀¹ = 1/4 - 0 = 1/4."
+    },
+    {
+      "id": 9,
+      "question": "Order of (d²y/dx²)³ + dy/dx = 0 is:",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "1",
+        "D": "6"
+      },
+      "correctAnswer": "A",
+      "explanation": "Highest derivative order is 2."
+    },
+    {
+      "id": 10,
+      "question": "General solution of dy/dx = x is:",
+      "options": {
+        "A": "y = x²/2 + c",
+        "B": "y = x² + c",
+        "C": "y = 2x + c",
+        "D": "y = x + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫ dy = ∫ x dx ⇒ y = x²/2 + c."
+    },
+    {
+      "id": 11,
+      "question": "Acceleration is rate of change of:",
+      "options": {
+        "A": "Velocity",
+        "B": "Displacement",
+        "C": "Position",
+        "D": "Speed only"
+      },
+      "correctAnswer": "A",
+      "explanation": "a = dv/dt is the rate of change of velocity."
+    },
+    {
+      "id": 12,
+      "question": "If a = constant, v-t graph is a:",
+      "options": {
+        "A": "Straight line",
+        "B": "Parabola",
+        "C": "Hyperbola",
+        "D": "Sine curve"
+      },
+      "correctAnswer": "A",
+      "explanation": "v = u + at is a linear equation."
+    },
+    {
+      "id": 13,
+      "question": "Equation of x-axis is:",
+      "options": {
+        "A": "y = 0",
+        "B": "x = 0",
+        "C": "x = y",
+        "D": "x + y = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "On the x-axis, y is always zero."
+    },
+    {
+      "id": 14,
+      "question": "Distance between (1, 2) and (4, 6) is:",
+      "options": {
+        "A": "5",
+        "B": "25",
+        "C": "7",
+        "D": "10"
+      },
+      "correctAnswer": "A",
+      "explanation": "√[(4 - 1)² + (6 - 2)²] = √(9 + 16) = √25 = 5."
+    },
+    {
+      "id": 15,
+      "question": "Center of circle (x + 2)² + (y - 5)² = 16 is:",
+      "options": {
+        "A": "(-2, 5)",
+        "B": "(2, -5)",
+        "C": "(2, 5)",
+        "D": "(-2, -5)"
+      },
+      "correctAnswer": "A",
+      "explanation": "(x - h)² + (y - k)² = r² ⇒ h = -2, k = 5."
+    },
+    {
+      "id": 16,
+      "question": "Focus of y² = -8x is:",
+      "options": {
+        "A": "(-2, 0)",
+        "B": "(2, 0)",
+        "C": "(0, -2)",
+        "D": "(0, 2)"
+      },
+      "correctAnswer": "A",
+      "explanation": "4a = 8 ⇒ a = 2. Opens left: (-a, 0) = (-2, 0)."
+    },
+    {
+      "id": 17,
+      "question": "Value of k · k is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "j"
+      },
+      "correctAnswer": "A",
+      "explanation": "Unit vector dot product with itself is 1."
+    },
+    {
+      "id": 18,
+      "question": "Cross product of parallel vectors is:",
+      "options": {
+        "A": "0 (zero vector)",
+        "B": "1",
+        "C": "-1",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "sin(0°) = 0 ⇒ a × b = 0."
+    },
+    {
+      "id": 19,
+      "question": "Corner points are points of intersection of:",
+      "options": {
+        "A": "Boundary lines",
+        "B": "Objective lines",
+        "C": "Level curves",
+        "D": "Asymptotes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Boundary lines intersect at corner points."
+    },
+    {
+      "id": 20,
+      "question": "Relative error formula is:",
+      "options": {
+        "A": "|True - Approx| / |True|",
+        "B": "|True - Approx|",
+        "C": "Approx / True",
+        "D": "True · Approx"
+      },
+      "correctAnswer": "A",
+      "explanation": "E_rel = |True - Approx| / |True|."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}

@@ -1,0 +1,429 @@
+{
+  "chapterNumber": 5,
+  "chapterTitle": "Unit 5: Kinematics of Motion in a Straight Line",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "If the displacement s of a particle is given by s(t) = 3t² - 4t + 5, what is its velocity at t = 2 s?",
+      "options": {
+        "A": "8 m/s",
+        "B": "12 m/s",
+        "C": "6 m/s",
+        "D": "9 m/s"
+      },
+      "correctAnswer": "A",
+      "explanation": "Velocity v = ds/dt = d/dt(3t² - 4t + 5) = 6t - 4. At t = 2: v = 6(2) - 4 = 12 - 4 = 8 m/s."
+    },
+    {
+      "id": 2,
+      "question": "If displacement s(t) = 3t² - 4t + 5, what is the acceleration of the particle?",
+      "options": {
+        "A": "6 m/s²",
+        "B": "3 m/s²",
+        "C": "12 m/s²",
+        "D": "0 m/s²"
+      },
+      "correctAnswer": "A",
+      "explanation": "Acceleration a = d²s/dt² = d/dt(6t - 4) = 6 m/s² (constant acceleration)."
+    },
+    {
+      "id": 3,
+      "question": "A particle comes to an instantaneous rest when its:",
+      "options": {
+        "A": "Velocity v = 0",
+        "B": "Acceleration a = 0",
+        "C": "Displacement s = 0",
+        "D": "Position is at the origin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Instantaneous rest means the particle's speed/velocity at that instant is zero (v = ds/dt = 0)."
+    },
+    {
+      "id": 4,
+      "question": "If displacement s(t) = t³ - 6t² + 9t + 2, at what positive times is the particle at rest?",
+      "options": {
+        "A": "t = 1 s and t = 3 s",
+        "B": "t = 2 s and t = 4 s",
+        "C": "t = 3 s only",
+        "D": "t = 0 s and t = 6 s"
+      },
+      "correctAnswer": "A",
+      "explanation": "v = ds/dt = 3t² - 12t + 9 = 0 ⇒ 3(t² - 4t + 3) = 0 ⇒ 3(t - 1)(t - 3) = 0 ⇒ t = 1 s and t = 3 s."
+    },
+    {
+      "id": 5,
+      "question": "What is the formula for acceleration a in terms of velocity v and position s?",
+      "options": {
+        "A": "a = v (dv/ds)",
+        "B": "a = s (dv/dt)",
+        "C": "a = v² (ds/dv)",
+        "D": "a = (1/v) (ds/dt)"
+      },
+      "correctAnswer": "A",
+      "explanation": "By chain rule: a = dv/dt = (dv/ds)(ds/dt). Since ds/dt = v, a = v(dv/ds)."
+    },
+    {
+      "id": 6,
+      "question": "If a particle moves with constant acceleration a, which equation correctly relates v, u, a, and s?",
+      "options": {
+        "A": "v² - u² = 2as",
+        "B": "v - u = 2as",
+        "C": "v² + u² = 2as",
+        "D": "v² - u² = as²"
+      },
+      "correctAnswer": "A",
+      "explanation": "From a = v(dv/ds) ⇒ a ds = v dv. Integrating from u to v: a s = (v² - u²)/2 ⇒ 2as = v² - u²."
+    },
+    {
+      "id": 7,
+      "question": "The slope of a displacement-time (s-t) graph at any instant represents:",
+      "options": {
+        "A": "Instantaneous velocity",
+        "B": "Instantaneous acceleration",
+        "C": "Total distance traveled",
+        "D": "Jerk"
+      },
+      "correctAnswer": "A",
+      "explanation": "The slope of the tangent to the displacement-time graph is ds/dt, which is the instantaneous velocity."
+    },
+    {
+      "id": 8,
+      "question": "The area under a velocity-time (v-t) graph between t₁ and t₂ represents:",
+      "options": {
+        "A": "Displacement between t₁ and t₂",
+        "B": "Average acceleration",
+        "C": "Instantaneous velocity",
+        "D": "Force"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since v = ds/dt ⇒ ds = v dt. Integrating ∫_(t₁)^(t₂) v dt gives the total change in position (displacement) Δs."
+    },
+    {
+      "id": 9,
+      "question": "The slope of a velocity-time (v-t) graph represents:",
+      "options": {
+        "A": "Acceleration",
+        "B": "Displacement",
+        "C": "Speed",
+        "D": "Power"
+      },
+      "correctAnswer": "A",
+      "explanation": "The slope of the tangent to the velocity-time graph is dv/dt, which is the instantaneous acceleration."
+    },
+    {
+      "id": 10,
+      "question": "If velocity v(t) = 4t³ - 2t, what is the displacement s(t) from t = 0 to t = 2 (assuming s(0) = 0)?",
+      "options": {
+        "A": "12 m",
+        "B": "16 m",
+        "C": "20 m",
+        "D": "8 m"
+      },
+      "correctAnswer": "A",
+      "explanation": "s = ∫₀² (4t³ - 2t) dt = [t⁴ - t²]₀² = (2⁴ - 2²) - 0 = 16 - 4 = 12 m."
+    },
+    {
+      "id": 11,
+      "question": "Distance traveled in the n-th second by a body moving with initial velocity u and uniform acceleration a is:",
+      "options": {
+        "A": "s_n = u + (a/2)(2n - 1)",
+        "B": "s_n = u + a n",
+        "C": "s_n = u + (a/2) n²",
+        "D": "s_n = u n + (1/2) a n²"
+      },
+      "correctAnswer": "A",
+      "explanation": "s_n = s(n) - s(n - 1) = [u n + (1/2)a n²] - [u(n - 1) + (1/2)a(n - 1)²] = u + a/2 [n² - (n² - 2n + 1)] = u + (a/2)(2n - 1)."
+    },
+    {
+      "id": 12,
+      "question": "A car accelerates from rest at 2 m/s². What distance does it travel in the 3rd second?",
+      "options": {
+        "A": "5 m",
+        "B": "9 m",
+        "C": "6 m",
+        "D": "4 m"
+      },
+      "correctAnswer": "A",
+      "explanation": "Using s_n = u + (a/2)(2n - 1) with u = 0, a = 2, n = 3: s₃ = 0 + (2/2)(2(3) - 1) = 1(6 - 1) = 5 m."
+    },
+    {
+      "id": 13,
+      "question": "A body is projected vertically upwards with speed u. The maximum height reached is:",
+      "options": {
+        "A": "u² / (2g)",
+        "B": "u / g",
+        "C": "2u / g",
+        "D": "u² / g"
+      },
+      "correctAnswer": "A",
+      "explanation": "At maximum height, v = 0. Using v² = u² - 2gh ⇒ 0 = u² - 2gh ⇒ h = u² / (2g)."
+    },
+    {
+      "id": 14,
+      "question": "The total time of flight of a body projected vertically upward with speed u under gravity g is:",
+      "options": {
+        "A": "2u / g",
+        "B": "u / g",
+        "C": "u² / (2g)",
+        "D": "u / (2g)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Time to reach max height is t = u/g. Total time of flight (ascent + descent) = 2t = 2u/g."
+    },
+    {
+      "id": 15,
+      "question": "If a particle moves with acceleration a = -4x and starts from x = 2 with v = 0, its motion is:",
+      "options": {
+        "A": "Simple Harmonic Motion (SHM)",
+        "B": "Uniform rectilinear motion",
+        "C": "Constant acceleration motion",
+        "D": "Rotational motion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Acceleration proportional to negative displacement (a = -ω²x with ω = 2) is the defining condition of Simple Harmonic Motion."
+    },
+    {
+      "id": 16,
+      "question": "If v = 3x², what is the acceleration a in terms of x?",
+      "options": {
+        "A": "18 x³",
+        "B": "6 x",
+        "C": "9 x⁴",
+        "D": "12 x²"
+      },
+      "correctAnswer": "A",
+      "explanation": "a = v (dv/dx) = (3x²) · d/dx(3x²) = (3x²)(6x) = 18x³."
+    },
+    {
+      "id": 17,
+      "question": "A ball dropped from a height of 20 m hits the ground with speed (take g = 10 m/s²):",
+      "options": {
+        "A": "20 m/s",
+        "B": "10 m/s",
+        "C": "14 m/s",
+        "D": "40 m/s"
+      },
+      "correctAnswer": "A",
+      "explanation": "v² = u² + 2gh = 0 + 2(10)(20) = 400 ⇒ v = √400 = 20 m/s."
+    },
+    {
+      "id": 18,
+      "question": "If s(t) = 2t³ - 9t² + 12t, the velocity is minimum when t equals:",
+      "options": {
+        "A": "1.5 s",
+        "B": "1 s",
+        "C": "2 s",
+        "D": "3 s"
+      },
+      "correctAnswer": "A",
+      "explanation": "v = ds/dt = 6t² - 18t + 12. To minimize v, dv/dt = a = 12t - 18 = 0 ⇒ 12t = 18 ⇒ t = 1.5 s. (d²v/dt² = 12 > 0 confirms a minimum)."
+    },
+    {
+      "id": 19,
+      "question": "When a particle moves with uniform velocity, its acceleration is:",
+      "options": {
+        "A": "0",
+        "B": "Constant and positive",
+        "C": "Variable",
+        "D": "Equal to velocity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Uniform velocity means v is constant, so dv/dt = 0. Hence acceleration is zero."
+    },
+    {
+      "id": 20,
+      "question": "The area under an acceleration-time (a-t) graph between t₁ and t₂ represents:",
+      "options": {
+        "A": "Change in velocity",
+        "B": "Total displacement",
+        "C": "Average speed",
+        "D": "Instantaneous power"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since a = dv/dt ⇒ dv = a dt. Integrating ∫_(t₁)^(t₂) a dt gives the change in velocity (v₂ - v₁)."
+    },
+    {
+      "id": 21,
+      "question": "If s(t) = sin(2t), what is the acceleration at t = π/4?",
+      "options": {
+        "A": "-4",
+        "B": "0",
+        "C": "4",
+        "D": "-2"
+      },
+      "correctAnswer": "A",
+      "explanation": "v = ds/dt = 2 cos(2t), a = dv/dt = -4 sin(2t). At t = π/4: a = -4 sin(2 · π/4) = -4 sin(π/2) = -4(1) = -4."
+    },
+    {
+      "id": 22,
+      "question": "A particle moves along a straight line such that s = √(t + 4). The velocity is:",
+      "options": {
+        "A": "1 / [2√(t + 4)]",
+        "B": "2√(t + 4)",
+        "C": "-1 / [4(t + 4)^(3/2)]",
+        "D": "1 / (t + 4)"
+      },
+      "correctAnswer": "A",
+      "explanation": "v = ds/dt = d/dt[(t + 4)^(1/2)] = (1/2)(t + 4)^(-1/2) = 1 / [2√(t + 4)]."
+    },
+    {
+      "id": 23,
+      "question": "For a particle moving with s = √(t + 4), the acceleration a is proportional to:",
+      "options": {
+        "A": "1 / s³",
+        "B": "s²",
+        "C": "1 / s",
+        "D": "s³"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since s = (t + 4)^(1/2), v = (1/2) s⁻¹. Then a = dv/dt = -(1/4)(t + 4)^(-3/2) = -(1/4)(1/s³). Hence a ∝ 1/s³."
+    },
+    {
+      "id": 24,
+      "question": "If initial velocity u = 10 m/s and acceleration a = -2 m/s², how long does it take for the body to stop?",
+      "options": {
+        "A": "5 s",
+        "B": "10 s",
+        "C": "20 s",
+        "D": "2.5 s"
+      },
+      "correctAnswer": "A",
+      "explanation": "Using v = u + at ⇒ 0 = 10 + (-2)t ⇒ 2t = 10 ⇒ t = 5 s."
+    },
+    {
+      "id": 25,
+      "question": "How far does the body travel before stopping if u = 10 m/s and a = -2 m/s²?",
+      "options": {
+        "A": "25 m",
+        "B": "50 m",
+        "C": "20 m",
+        "D": "100 m"
+      },
+      "correctAnswer": "A",
+      "explanation": "Using v² = u² + 2as ⇒ 0 = 10² + 2(-2)s ⇒ 4s = 100 ⇒ s = 25 m."
+    },
+    {
+      "id": 26,
+      "question": "If a particle moves with v(t) = 6t, what is the distance covered from t = 1 to t = 3?",
+      "options": {
+        "A": "24 m",
+        "B": "18 m",
+        "C": "12 m",
+        "D": "36 m"
+      },
+      "correctAnswer": "A",
+      "explanation": "s = ∫₁³ 6t dt = [3t²]₁³ = 3(3²) - 3(1²) = 27 - 3 = 24 m."
+    },
+    {
+      "id": 27,
+      "question": "If a particle's velocity is given by v = √(4 + 2s), what is its acceleration?",
+      "options": {
+        "A": "1 m/s²",
+        "B": "2 m/s²",
+        "C": "4 m/s²",
+        "D": "0.5 m/s²"
+      },
+      "correctAnswer": "A",
+      "explanation": "v² = 4 + 2s. Comparing with v² = u² + 2as, 2a = 2 ⇒ a = 1 m/s² (or differentiate: 2v(dv/ds) = 2 ⇒ v(dv/ds) = a = 1)."
+    },
+    {
+      "id": 28,
+      "question": "A particle moves such that s = 2t³ - 3t² - 12t + 8. The acceleration is zero at:",
+      "options": {
+        "A": "t = 0.5 s",
+        "B": "t = 1 s",
+        "C": "t = 2 s",
+        "D": "t = 0 s"
+      },
+      "correctAnswer": "A",
+      "explanation": "v = 6t² - 6t - 12, a = 12t - 6. Setting a = 0 ⇒ 12t - 6 = 0 ⇒ t = 6/12 = 0.5 s."
+    },
+    {
+      "id": 29,
+      "question": "Deceleration or retardation means:",
+      "options": {
+        "A": "Acceleration is in the opposite direction of velocity",
+        "B": "Velocity is zero",
+        "C": "Displacement is negative",
+        "D": "Speed is increasing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Deceleration means the speed of the body is decreasing, which occurs mathematically when acceleration opposes the direction of velocity (v · a < 0)."
+    },
+    {
+      "id": 30,
+      "question": "If s = e^(2t), what is the velocity at t = 0?",
+      "options": {
+        "A": "2 m/s",
+        "B": "1 m/s",
+        "C": "4 m/s",
+        "D": "0 m/s"
+      },
+      "correctAnswer": "A",
+      "explanation": "v = ds/dt = 2 e^(2t). At t = 0: v = 2 e^0 = 2(1) = 2 m/s."
+    },
+    {
+      "id": 31,
+      "question": "If a body travels with constant speed in a straight line, its distance-time graph is a:",
+      "options": {
+        "A": "Straight line inclined to the time axis",
+        "B": "Parabola",
+        "C": "Horizontal straight line",
+        "D": "Hyperbola"
+      },
+      "correctAnswer": "A",
+      "explanation": "For uniform speed v, s = vt, which is a straight line passing through the origin with slope equal to the speed."
+    },
+    {
+      "id": 32,
+      "question": "If the acceleration of a particle is constant, its velocity-time graph is a:",
+      "options": {
+        "A": "Straight line",
+        "B": "Parabola",
+        "C": "Circle",
+        "D": "Sine wave"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since v = u + at, the relationship between v and t is linear with slope equal to acceleration a."
+    },
+    {
+      "id": 33,
+      "question": "If a particle moves with s(t) = t⁴ - 4t³, its acceleration at t = 2 is:",
+      "options": {
+        "A": "0 m/s²",
+        "B": "24 m/s²",
+        "C": "-24 m/s²",
+        "D": "12 m/s²"
+      },
+      "correctAnswer": "A",
+      "explanation": "v = ds/dt = 4t³ - 12t², a = dv/dt = 12t² - 24t. At t = 2: a = 12(2²) - 24(2) = 48 - 48 = 0 m/s²."
+    },
+    {
+      "id": 34,
+      "question": "If displacement s(t) is cubic in t, then acceleration a(t) is:",
+      "options": {
+        "A": "Linear in t",
+        "B": "Quadratic in t",
+        "C": "Constant",
+        "D": "Cubic in t"
+      },
+      "correctAnswer": "A",
+      "explanation": "Differentiating a degree 3 polynomial twice drops the degree by 2, leaving a linear function of degree 1 (a(t) = At + B)."
+    },
+    {
+      "id": 35,
+      "question": "A particle moves such that a = 6t. If v(0) = 2 m/s and s(0) = 0, what is s(1)?",
+      "options": {
+        "A": "3 m",
+        "B": "2 m",
+        "C": "5 m",
+        "D": "4 m"
+      },
+      "correctAnswer": "A",
+      "explanation": "v = ∫ 6t dt = 3t² + c₁. Since v(0) = 2, c₁ = 2 ⇒ v = 3t² + 2. Then s = ∫ (3t² + 2) dt = t³ + 2t + c₂. Since s(0) = 0, c₂ = 0 ⇒ s(t) = t³ + 2t. At t = 1: s(1) = 1³ + 2(1) = 3 m."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}

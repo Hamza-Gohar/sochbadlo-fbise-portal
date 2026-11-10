@@ -1,0 +1,429 @@
+{
+  "chapterNumber": 6,
+  "chapterTitle": "Unit 6: Introduction to Analytic Geometry",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The distance between the points A(x₁, y₁) and B(x₂, y₂) is given by:",
+      "options": {
+        "A": "√[(x₂ - x₁)² + (y₂ - y₁)²]",
+        "B": "√[(x₂ + x₁)² + (y₂ + y₁)²]",
+        "C": "(x₂ - x₁)² + (y₂ - y₁)²",
+        "D": "|x₂ - x₁| + |y₂ - y₁|"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the Pythagorean theorem in the Cartesian plane, the Euclidean distance d = √[(x₂ - x₁)² + (y₂ - y₁)²]."
+    },
+    {
+      "id": 2,
+      "question": "What is the distance between the points (3, -2) and (-1, 1)?",
+      "options": {
+        "A": "5",
+        "B": "25",
+        "C": "7",
+        "D": "√7"
+      },
+      "correctAnswer": "A",
+      "explanation": "d = √[(-1 - 3)² + (1 - (-2))²] = √[(-4)² + (3)²] = √[16 + 9] = √25 = 5."
+    },
+    {
+      "id": 3,
+      "question": "The coordinates of the point dividing the segment joining A(x₁, y₁) and B(x₂, y₂) internally in the ratio m₁ : m₂ are:",
+      "options": {
+        "A": "((m₁x₂ + m₂x₁)/(m₁ + m₂), (m₁y₂ + m₂y₁)/(m₁ + m₂))",
+        "B": "((m₁x₁ + m₂x₂)/(m₁ + m₂), (m₁y₁ + m₂y₂)/(m₁ + m₂))",
+        "C": "((m₁x₂ - m₂x₁)/(m₁ - m₂), (m₁y₂ - m₂y₁)/(m₁ - m₂))",
+        "D": "((x₁ + x₂)/2, (y₁ + y₂)/2)"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the internal ratio (section) formula: x = (m₁x₂ + m₂x₁) / (m₁ + m₂), y = (m₁y₂ + m₂y₁) / (m₁ + m₂)."
+    },
+    {
+      "id": 4,
+      "question": "What are the coordinates of the midpoint of the line segment joining (4, -6) and (2, 8)?",
+      "options": {
+        "A": "(3, 1)",
+        "B": "(3, -1)",
+        "C": "(6, 2)",
+        "D": "(1, 7)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Midpoint M = ((x₁ + x₂)/2, (y₁ + y₂)/2) = ((4 + 2)/2, (-6 + 8)/2) = (6/2, 2/2) = (3, 1)."
+    },
+    {
+      "id": 5,
+      "question": "The centroid of a triangle with vertices (x₁, y₁), (x₂, y₂), (x₃, y₃) is given by:",
+      "options": {
+        "A": "((x₁ + x₂ + x₃)/3, (y₁ + y₂ + y₃)/3)",
+        "B": "((x₁ + x₂ + x₃)/2, (y₁ + y₂ + y₃)/2)",
+        "C": "((x₁x₂x₃)/3, (y₁y₂y₃)/3)",
+        "D": "(x₁ + x₂ + x₃, y₁ + y₂ + y₃)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The centroid divides each median in the ratio 2:1 from the vertex, yielding the arithmetic mean of the three vertices: G = ((x₁ + x₂ + x₃)/3, (y₁ + y₂ + y₃)/3)."
+    },
+    {
+      "id": 6,
+      "question": "What is the slope m of the non-vertical straight line passing through (x₁, y₁) and (x₂, y₂)?",
+      "options": {
+        "A": "(y₂ - y₁) / (x₂ - x₁)",
+        "B": "(x₂ - x₁) / (y₂ - y₁)",
+        "C": "(y₂ + y₁) / (x₂ + x₁)",
+        "D": "-(x₂ - x₁) / (y₂ - y₁)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Slope is rise over run: m = Δy / Δx = (y₂ - y₁) / (x₂ - x₁) = tan(θ), where θ is the inclination."
+    },
+    {
+      "id": 7,
+      "question": "Two non-vertical lines with slopes m₁ and m₂ are perpendicular if and only if:",
+      "options": {
+        "A": "m₁ · m₂ = -1",
+        "B": "m₁ = m₂",
+        "C": "m₁ + m₂ = 0",
+        "D": "m₁ · m₂ = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "The slopes of perpendicular lines are negative reciprocals: m₂ = -1/m₁ ⇒ m₁ · m₂ = -1."
+    },
+    {
+      "id": 8,
+      "question": "Two non-vertical lines with slopes m₁ and m₂ are parallel if and only if:",
+      "options": {
+        "A": "m₁ = m₂",
+        "B": "m₁ · m₂ = -1",
+        "C": "m₁ · m₂ = 1",
+        "D": "m₁ + m₂ = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Parallel lines have the exact same inclination angle θ, and therefore identical slopes: m₁ = m₂."
+    },
+    {
+      "id": 9,
+      "question": "What is the slope of the line 3x + 4y - 12 = 0?",
+      "options": {
+        "A": "-3/4",
+        "B": "3/4",
+        "C": "-4/3",
+        "D": "4/3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rewriting in slope-intercept form y = mx + c: 4y = -3x + 12 ⇒ y = (-3/4)x + 3. Thus the slope m = -3/4."
+    },
+    {
+      "id": 10,
+      "question": "What is the y-intercept of the line 2x - 5y = 10?",
+      "options": {
+        "A": "-2",
+        "B": "5",
+        "C": "-5",
+        "D": "2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Set x = 0: 2(0) - 5y = 10 ⇒ -5y = 10 ⇒ y = -2."
+    },
+    {
+      "id": 11,
+      "question": "What is the equation of a line with slope m passing through the point (x₁, y₁)?",
+      "options": {
+        "A": "y - y₁ = m(x - x₁)",
+        "B": "y - y₁ = (1/m)(x - x₁)",
+        "C": "x - x₁ = m(y - y₁)",
+        "D": "y = mx₁ + y₁"
+      },
+      "correctAnswer": "A",
+      "explanation": "This is the standard point-slope form of the equation of a straight line: y - y₁ = m(x - x₁)."
+    },
+    {
+      "id": 12,
+      "question": "What is the two-intercept form of the equation of a line with x-intercept a and y-intercept b?",
+      "options": {
+        "A": "x/a + y/b = 1",
+        "B": "x/a - y/b = 1",
+        "C": "ax + by = 1",
+        "D": "x/b + y/a = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "The two-intercept form is x/a + y/b = 1, where the line crosses the x-axis at (a, 0) and the y-axis at (0, b)."
+    },
+    {
+      "id": 13,
+      "question": "What is the perpendicular distance d of the point (x₁, y₁) from the line Ax + By + C = 0?",
+      "options": {
+        "A": "|Ax₁ + By₁ + C| / √(A² + B²)",
+        "B": "(Ax₁ + By₁ + C) / (A² + B²)",
+        "C": "|Ax₁ + By₁| / √(A² + B²)",
+        "D": "|Ax₁ - By₁ + C| / √(A² - B²)"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the standard perpendicular distance formula: d = |Ax₁ + By₁ + C| / √(A² + B²)."
+    },
+    {
+      "id": 14,
+      "question": "What is the distance of the point (2, 3) from the line 3x + 4y - 8 = 0?",
+      "options": {
+        "A": "2",
+        "B": "10",
+        "C": "5",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "d = |3(2) + 4(3) - 8| / √(3² + 4²) = |6 + 12 - 8| / √25 = |10| / 5 = 2."
+    },
+    {
+      "id": 15,
+      "question": "What is the angle θ between two lines with slopes m₁ and m₂?",
+      "options": {
+        "A": "tan(θ) = |(m₂ - m₁) / (1 + m₁m₂)|",
+        "B": "tan(θ) = (m₂ + m₁) / (1 - m₁m₂)",
+        "C": "cos(θ) = |m₁ · m₂|",
+        "D": "sin(θ) = |m₂ - m₁|"
+      },
+      "correctAnswer": "A",
+      "explanation": "From tan(θ₂ - θ₁) = (tan θ₂ - tan θ₁) / (1 + tan θ₁ tan θ₂), tan(θ) = |(m₂ - m₁) / (1 + m₁m₂)|."
+    },
+    {
+      "id": 16,
+      "question": "If the origin is translated to the point (h, k), the new coordinates (X, Y) are related to (x, y) by:",
+      "options": {
+        "A": "x = X + h, y = Y + k",
+        "B": "x = X - h, y = Y - k",
+        "C": "X = x + h, Y = y + k",
+        "D": "X = xh, Y = yk"
+      },
+      "correctAnswer": "A",
+      "explanation": "In translation of axes: x = X + h, y = Y + k, or conversely X = x - h, Y = y - k."
+    },
+    {
+      "id": 17,
+      "question": "When axes are rotated through an angle θ, the relationship between old coordinates (x, y) and new (X, Y) is:",
+      "options": {
+        "A": "x = X cos θ - Y sin θ, y = X sin θ + Y cos θ",
+        "B": "x = X cos θ + Y sin θ, y = -X sin θ + Y cos θ",
+        "C": "X = x cos θ - y sin θ, Y = x sin θ + y cos θ",
+        "D": "x = X tan θ, y = Y cot θ"
+      },
+      "correctAnswer": "A",
+      "explanation": "Under counterclockwise rotation of axes by angle θ: x = X cos(θ) - Y sin(θ) and y = X sin(θ) + Y cos(θ)."
+    },
+    {
+      "id": 18,
+      "question": "The homogeneous equation of second degree ax² + 2hxy + by² = 0 represents two lines passing through the origin. These lines are perpendicular if:",
+      "options": {
+        "A": "a + b = 0",
+        "B": "h² - ab = 0",
+        "C": "a = b",
+        "D": "h = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "The sum of slopes is -2h/b and product of slopes is m₁m₂ = a/b. For perpendicularity, m₁m₂ = -1 ⇒ a/b = -1 ⇒ a + b = 0."
+    },
+    {
+      "id": 19,
+      "question": "The lines represented by ax² + 2hxy + by² = 0 are coincident (real and identical) if:",
+      "options": {
+        "A": "h² - ab = 0",
+        "B": "a + b = 0",
+        "C": "h² + ab = 0",
+        "D": "ab = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "The nature of the lines is determined by the discriminant Δ = h² - ab. When h² - ab = 0, the lines are coincident (slope difference is zero)."
+    },
+    {
+      "id": 20,
+      "question": "Three lines l₁, l₂, l₃ are concurrent if they:",
+      "options": {
+        "A": "Pass through a single common point",
+        "B": "Are all parallel to each other",
+        "C": "Form a triangle",
+        "D": "Have equal slopes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lines are concurrent if and only if they all intersect at the same single point in the plane."
+    },
+    {
+      "id": 21,
+      "question": "What is the condition for three points (x₁, y₁), (x₂, y₂), and (x₃, y₃) to be collinear?",
+      "options": {
+        "A": "The area of the triangle formed by them is zero",
+        "B": "x₁ + x₂ + x₃ = 0",
+        "C": "y₁ + y₂ + y₃ = 0",
+        "D": "x₁y₁ + x₂y₂ + x₃y₃ = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Collinear points lie on the same straight line, so the determinant |[x₁, y₁, 1], [x₂, y₂, 1], [x₃, y₃, 1]| = 0, which corresponds to Area = 0."
+    },
+    {
+      "id": 22,
+      "question": "What is the equation of the line passing through (0, 0) and perpendicular to 2x - 3y + 5 = 0?",
+      "options": {
+        "A": "3x + 2y = 0",
+        "B": "2x + 3y = 0",
+        "C": "3x - 2y = 0",
+        "D": "-2x + 3y = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "The given line has slope m₁ = 2/3. The perpendicular line has slope m₂ = -3/2. Passing through (0, 0): y = (-3/2)x ⇒ 2y = -3x ⇒ 3x + 2y = 0."
+    },
+    {
+      "id": 23,
+      "question": "What is the normal form of the equation of a straight line?",
+      "options": {
+        "A": "x cos(α) + y sin(α) = p (where p ≥ 0)",
+        "B": "x sin(α) + y cos(α) = p",
+        "C": "x/p + y/p = 1",
+        "D": "y = mx + p"
+      },
+      "correctAnswer": "A",
+      "explanation": "The normal (perpendicular) form is x cos(α) + y sin(α) = p, where p is the length of the normal from the origin and α is its inclination angle with the positive x-axis."
+    },
+    {
+      "id": 24,
+      "question": "The lines 2x - y + 4 = 0 and 4x - 2y - 6 = 0 are:",
+      "options": {
+        "A": "Parallel",
+        "B": "Perpendicular",
+        "C": "Coincident",
+        "D": "Intersecting at right angles"
+      },
+      "correctAnswer": "A",
+      "explanation": "The slope of line 1 is m₁ = 2. The slope of line 2 is m₂ = 4/2 = 2. Since m₁ = m₂ and the constant terms are different (4 vs -6/2 = -3), they are parallel."
+    },
+    {
+      "id": 25,
+      "question": "What is the distance between the two parallel lines 3x + 4y - 5 = 0 and 3x + 4y + 15 = 0?",
+      "options": {
+        "A": "4",
+        "B": "2",
+        "C": "20",
+        "D": "5"
+      },
+      "correctAnswer": "A",
+      "explanation": "The distance between parallel lines Ax + By + C₁ = 0 and Ax + By + C₂ = 0 is d = |C₁ - C₂| / √(A² + B²) = |-5 - 15| / √(3² + 4²) = 20 / 5 = 4."
+    },
+    {
+      "id": 26,
+      "question": "What is the equation of the x-axis?",
+      "options": {
+        "A": "y = 0",
+        "B": "x = 0",
+        "C": "x = y",
+        "D": "x + y = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Every point on the x-axis has a y-coordinate equal to zero, so its equation is y = 0."
+    },
+    {
+      "id": 27,
+      "question": "What is the equation of the y-axis?",
+      "options": {
+        "A": "x = 0",
+        "B": "y = 0",
+        "C": "x - y = 0",
+        "D": "xy = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Every point on the y-axis has an x-coordinate of zero, so its equation is x = 0."
+    },
+    {
+      "id": 28,
+      "question": "What is the inclination θ of a line whose slope m = 1?",
+      "options": {
+        "A": "45° (π/4 rad)",
+        "B": "30° (π/6 rad)",
+        "C": "60° (π/3 rad)",
+        "D": "90° (π/2 rad)"
+      },
+      "correctAnswer": "A",
+      "explanation": "m = tan(θ) ⇒ tan(θ) = 1 ⇒ θ = 45° (or π/4 radians)."
+    },
+    {
+      "id": 29,
+      "question": "What is the inclination θ of a horizontal line?",
+      "options": {
+        "A": "0°",
+        "B": "90°",
+        "C": "180°",
+        "D": "45°"
+      },
+      "correctAnswer": "A",
+      "explanation": "A horizontal line is parallel to the x-axis, so its inclination angle θ = 0° and slope m = tan(0°) = 0."
+    },
+    {
+      "id": 30,
+      "question": "What is the slope of a vertical line?",
+      "options": {
+        "A": "Undefined (or infinite)",
+        "B": "0",
+        "C": "1",
+        "D": "-1"
+      },
+      "correctAnswer": "A",
+      "explanation": "For a vertical line, θ = 90°. Since tan(90°) is undefined (division by zero), the slope is undefined."
+    },
+    {
+      "id": 31,
+      "question": "If the point P(x, y) divides AB externally in the ratio m₁ : m₂, the formula is:",
+      "options": {
+        "A": "((m₁x₂ - m₂x₁)/(m₁ - m₂), (m₁y₂ - m₂y₁)/(m₁ - m₂))",
+        "B": "((m₁x₂ + m₂x₁)/(m₁ + m₂), (m₁y₂ + m₂y₁)/(m₁ + m₂))",
+        "C": "((m₁x₁ - m₂x₂)/(m₁ - m₂), (m₁y₁ - m₂y₂)/(m₁ - m₂))",
+        "D": "((x₁ - x₂)/2, (y₁ - y₂)/2)"
+      },
+      "correctAnswer": "A",
+      "explanation": "For external division, replace m₂ with -m₂ in the internal section formula: ((m₁x₂ - m₂x₁)/(m₁ - m₂), (m₁y₂ - m₂y₁)/(m₁ - m₂))."
+    },
+    {
+      "id": 32,
+      "question": "The point of concurrency of the three altitudes of a triangle is called its:",
+      "options": {
+        "A": "Orthocenter",
+        "B": "Centroid",
+        "C": "Circumcenter",
+        "D": "Incenter"
+      },
+      "correctAnswer": "A",
+      "explanation": "By geometric definition, the three altitudes of a triangle intersect at a single point called the orthocenter."
+    },
+    {
+      "id": 33,
+      "question": "The point of concurrency of the perpendicular bisectors of the sides of a triangle is its:",
+      "options": {
+        "A": "Circumcenter",
+        "B": "Incenter",
+        "C": "Centroid",
+        "D": "Orthocenter"
+      },
+      "correctAnswer": "A",
+      "explanation": "The perpendicular bisectors of the three sides intersect at the circumcenter, which is equidistant from the three vertices."
+    },
+    {
+      "id": 34,
+      "question": "The point of concurrency of the angle bisectors of a triangle is its:",
+      "options": {
+        "A": "Incenter",
+        "B": "Centroid",
+        "C": "Circumcenter",
+        "D": "Orthocenter"
+      },
+      "correctAnswer": "A",
+      "explanation": "The internal bisectors of the angles of a triangle are concurrent at the incenter, which is equidistant from the three sides."
+    },
+    {
+      "id": 35,
+      "question": "What is the area of a triangle with vertices at (0, 0), (4, 0), and (0, 6)?",
+      "options": {
+        "A": "12",
+        "B": "24",
+        "C": "6",
+        "D": "10"
+      },
+      "correctAnswer": "A",
+      "explanation": "Area = (1/2) |x₁(y₂ - y₃) + x₂(y₃ - y₁) + x₃(y₁ - y₂)| = (1/2) |0 + 4(6 - 0) + 0| = (1/2)(24) = 12 square units."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}

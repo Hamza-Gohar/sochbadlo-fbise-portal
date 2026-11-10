@@ -1,0 +1,249 @@
+{
+  "chapterNumber": 14,
+  "chapterTitle": "FBISE Class 12 Math Board Simulator 04 (Section A)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "cosh²(x) - sinh²(x) is equal to:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "cosh(2x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The fundamental hyperbolic identity is cosh²x - sinh²x = 1."
+    },
+    {
+      "id": 2,
+      "question": "Domain of f(x) = ln(x - 5) is:",
+      "options": {
+        "A": "(5, ∞)",
+        "B": "[5, ∞)",
+        "C": "(-∞, 5)",
+        "D": "R - {5}"
+      },
+      "correctAnswer": "A",
+      "explanation": "x - 5 > 0 ⇒ x > 5. Domain = (5, ∞)."
+    },
+    {
+      "id": 3,
+      "question": "Value of lim(x → 0) [(sin 3x)/(sin 2x)] is:",
+      "options": {
+        "A": "3/2",
+        "B": "2/3",
+        "C": "1",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "lim [(sin 3x / 3x) · 3x] / [(sin 2x / 2x) · 2x] = (1 · 3)/(1 · 2) = 3/2."
+    },
+    {
+      "id": 4,
+      "question": "Derivative of tan⁻¹(x) is:",
+      "options": {
+        "A": "1/(1 + x²)",
+        "B": "-1/(1 + x²)",
+        "C": "sec²(x)",
+        "D": "1/√(1 - x²)"
+      },
+      "correctAnswer": "A",
+      "explanation": "d/dx [tan⁻¹(x)] = 1/(1 + x²)."
+    },
+    {
+      "id": 5,
+      "question": "Critical point of f(x) = x² - 4x + 1 is:",
+      "options": {
+        "A": "x = 2",
+        "B": "x = -2",
+        "C": "x = 4",
+        "D": "x = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "f'(x) = 2x - 4 = 0 ⇒ x = 2."
+    },
+    {
+      "id": 6,
+      "question": "What is ∫ (1 / √(1 - x²)) dx?",
+      "options": {
+        "A": "sin⁻¹(x) + c",
+        "B": "cos⁻¹(x) + c",
+        "C": "tan⁻¹(x) + c",
+        "D": "ln|1 - x²| + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "d/dx [sin⁻¹ x] = 1/√(1 - x²), so the integral is sin⁻¹(x) + c."
+    },
+    {
+      "id": 7,
+      "question": "What is ∫ x e^x dx?",
+      "options": {
+        "A": "e^x(x - 1) + c",
+        "B": "e^x(x + 1) + c",
+        "C": "x e^x + c",
+        "D": "x² e^x / 2 + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Integration by parts: x e^x - ∫ e^x dx = e^x(x - 1) + c."
+    },
+    {
+      "id": 8,
+      "question": "What is ∫_(-2)^2 x⁵ dx?",
+      "options": {
+        "A": "0",
+        "B": "32",
+        "C": "64",
+        "D": "-32"
+      },
+      "correctAnswer": "A",
+      "explanation": "x⁵ is an odd function; integral over symmetric limits [-2, 2] is 0."
+    },
+    {
+      "id": 9,
+      "question": "Order of d²y/dx² + y = 0 is:",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "0",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Highest derivative is 2nd order."
+    },
+    {
+      "id": 10,
+      "question": "Solution of dy/dx = 2x with y(0) = 1 is:",
+      "options": {
+        "A": "y = x² + 1",
+        "B": "y = x² - 1",
+        "C": "y = 2x² + 1",
+        "D": "y = x + 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "y = x² + c. At x = 0, y = 1 ⇒ c = 1. So y = x² + 1."
+    },
+    {
+      "id": 11,
+      "question": "Relation between a, v, and s is:",
+      "options": {
+        "A": "a = v (dv/ds)",
+        "B": "a = s (dv/dt)",
+        "C": "a = v² (ds/dv)",
+        "D": "a = dv/ds"
+      },
+      "correctAnswer": "A",
+      "explanation": "a = dv/dt = (dv/ds)(ds/dt) = v(dv/ds)."
+    },
+    {
+      "id": 12,
+      "question": "A body projected vertically up with speed u reaches maximum height:",
+      "options": {
+        "A": "u² / (2g)",
+        "B": "u / g",
+        "C": "2u / g",
+        "D": "u² / g"
+      },
+      "correctAnswer": "A",
+      "explanation": "v² = u² - 2gh ⇒ 0 = u² - 2gh ⇒ h = u²/(2g)."
+    },
+    {
+      "id": 13,
+      "question": "Perpendicular distance of (0, 0) from 3x + 4y - 15 = 0 is:",
+      "options": {
+        "A": "3",
+        "B": "15",
+        "C": "5",
+        "D": "2"
+      },
+      "correctAnswer": "A",
+      "explanation": "d = |-15| / √(3² + 4²) = 15/5 = 3."
+    },
+    {
+      "id": 14,
+      "question": "Inclination θ of a line with slope m = √3 is:",
+      "options": {
+        "A": "60° (π/3 rad)",
+        "B": "30°",
+        "C": "45°",
+        "D": "90°"
+      },
+      "correctAnswer": "A",
+      "explanation": "tan(θ) = √3 ⇒ θ = 60°."
+    },
+    {
+      "id": 15,
+      "question": "Focus of the parabola x² = 8y is:",
+      "options": {
+        "A": "(0, 2)",
+        "B": "(2, 0)",
+        "C": "(0, -2)",
+        "D": "(0, 8)"
+      },
+      "correctAnswer": "A",
+      "explanation": "4a = 8 ⇒ a = 2. Opens upwards along y-axis: (0, a) = (0, 2)."
+    },
+    {
+      "id": 16,
+      "question": "Asymptotes of x²/a² - y²/b² = 1 are:",
+      "options": {
+        "A": "y = ±(b/a)x",
+        "B": "y = ±(a/b)x",
+        "C": "y = ±x",
+        "D": "x = ±(a/b)y"
+      },
+      "correctAnswer": "A",
+      "explanation": "y = ±(b/a)x are the lines asymptotes approach at infinity."
+    },
+    {
+      "id": 17,
+      "question": "Value of k × i is:",
+      "options": {
+        "A": "j",
+        "B": "-j",
+        "C": "i",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cyclic order: k × i = j."
+    },
+    {
+      "id": 18,
+      "question": "Work done by force F = 2i + 3j over displacement d = 4i - j is:",
+      "options": {
+        "A": "5 units",
+        "B": "11 units",
+        "C": "8 units",
+        "D": "0 units"
+      },
+      "correctAnswer": "A",
+      "explanation": "W = F · d = (2)(4) + (3)(-1) = 8 - 3 = 5 units."
+    },
+    {
+      "id": 19,
+      "question": "In linear programming, the function to be maximized is the:",
+      "options": {
+        "A": "Objective function",
+        "B": "Constraint function",
+        "C": "Boundary function",
+        "D": "Decision function"
+      },
+      "correctAnswer": "A",
+      "explanation": "The target formula z = ax + by is the objective function."
+    },
+    {
+      "id": 20,
+      "question": "Absolute error between true value 3.14159 and approx 3.14 is:",
+      "options": {
+        "A": "0.00159",
+        "B": "0.0159",
+        "C": "0.14159",
+        "D": "0.000159"
+      },
+      "correctAnswer": "A",
+      "explanation": "E_abs = |3.14159 - 3.14| = 0.00159."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}

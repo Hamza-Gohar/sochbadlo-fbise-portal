@@ -84,12 +84,13 @@ export default function Footer() {
             </h4>
             <ul className="text-xs space-y-1.5 text-[var(--color-muted)] font-[family-name:var(--font-display)]">
               <li className="font-semibold text-sky-900">Physics (10 Units + 10 Simulators)</li>
+              <li className="font-semibold text-amber-800">Mathematics (10 Units + 10 Simulators)</li>
               <li className="font-semibold text-purple-900">English Compulsory (10 Units + 10 Simulators)</li>
               <li className="font-semibold text-emerald-900">اردو لازمی (8 Units + 10 Simulators)</li>
               <li className="font-semibold text-emerald-950">Pakistan Studies (7 Units + 10 Simulators)</li>
               <li className="font-semibold text-teal-900">ترجمۃ القرآن (7 Units + 10 Simulators)</li>
-              <li className="pt-1 text-[11px]">• Electromagnetism, Modern Physics, Syntax & Quran</li>
-              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 50 Board Simulators (2,240 MCQs)</li>
+              <li className="pt-1 text-[11px]">• Calculus, Geometry, Electromagnetism & Languages</li>
+              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 60 Board Simulators (2,790 MCQs)</li>
             </ul>
           </div>
 

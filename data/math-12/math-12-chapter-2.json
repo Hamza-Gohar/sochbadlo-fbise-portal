@@ -1,0 +1,429 @@
+{
+  "chapterNumber": 2,
+  "chapterTitle": "Unit 2: Limits, Continuity and Derivative",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the value of lim(x → 0) [sin(7x) / x]?",
+      "options": {
+        "A": "1",
+        "B": "7",
+        "C": "0",
+        "D": "1/7"
+      },
+      "correctAnswer": "B",
+      "explanation": "lim(x → 0) [sin(7x) / x] = 7 · lim(x → 0) [sin(7x) / (7x)] = 7 · 1 = 7, using the standard theorem lim(θ → 0) [sin(θ)/θ] = 1."
+    },
+    {
+      "id": 2,
+      "question": "What is the value of lim(x → 0) [(1 - cos(x)) / x]?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "1/2",
+        "D": "-1"
+      },
+      "correctAnswer": "A",
+      "explanation": "lim(x → 0) (1 - cos x)/x = lim(x → 0) [2 sin²(x/2)/x] = lim(x → 0) [sin(x/2) / (x/2)] · sin(x/2) = 1 · 0 = 0."
+    },
+    {
+      "id": 3,
+      "question": "What is the value of lim(n → ∞) (1 + 1/n)^n?",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "e",
+        "D": "∞"
+      },
+      "correctAnswer": "C",
+      "explanation": "By definition of Euler's number e, lim(n → ∞) (1 + 1/n)^n = e ≈ 2.71828."
+    },
+    {
+      "id": 4,
+      "question": "What is the value of lim(x → 0) (1 + 2x)^(1/x)?",
+      "options": {
+        "A": "e",
+        "B": "e²",
+        "C": "2e",
+        "D": "√e"
+      },
+      "correctAnswer": "B",
+      "explanation": "lim(x → 0) (1 + 2x)^(1/x) = [lim(x → 0) (1 + 2x)^(1/(2x))]² = e²."
+    },
+    {
+      "id": 5,
+      "question": "What is the derivative of f(x) = tan⁻¹(x) with respect to x?",
+      "options": {
+        "A": "1/(1 + x²)",
+        "B": "1/√(1 - x²)",
+        "C": "-1/(1 + x²)",
+        "D": "sec²(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The standard derivative of the inverse tangent function is d/dx [tan⁻¹(x)] = 1/(1 + x²)."
+    },
+    {
+      "id": 6,
+      "question": "What is the derivative of f(x) = sin⁻¹(x) with respect to x?",
+      "options": {
+        "A": "1/√(1 - x²)",
+        "B": "-1/√(1 - x²)",
+        "C": "1/(1 + x²)",
+        "D": "cos⁻¹(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The standard derivative of the inverse sine function is d/dx [sin⁻¹(x)] = 1/√(1 - x²) for |x| < 1."
+    },
+    {
+      "id": 7,
+      "question": "What is the derivative of f(x) = a^x (where a > 0, a ≠ 1)?",
+      "options": {
+        "A": "x · a^(x - 1)",
+        "B": "a^x · ln(a)",
+        "C": "a^x / ln(a)",
+        "D": "e^x · ln(a)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Let y = a^x ⇒ ln(y) = x ln(a). Differentiating implicitly: (1/y)(dy/dx) = ln(a) ⇒ dy/dx = y ln(a) = a^x ln(a)."
+    },
+    {
+      "id": 8,
+      "question": "If y = ln(sec x + tan x), then dy/dx equals:",
+      "options": {
+        "A": "sec(x)",
+        "B": "tan(x)",
+        "C": "sec(x) tan(x)",
+        "D": "sec²(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "dy/dx = (1/(sec x + tan x)) · d/dx(sec x + tan x) = (sec x tan x + sec²x)/(sec x + tan x) = sec x(tan x + sec x)/(sec x + tan x) = sec x."
+    },
+    {
+      "id": 9,
+      "question": "What is the derivative of f(x) = ln(x) at x = e?",
+      "options": {
+        "A": "1",
+        "B": "1/e",
+        "C": "e",
+        "D": "0"
+      },
+      "correctAnswer": "B",
+      "explanation": "f'(x) = 1/x. At x = e, f'(e) = 1/e."
+    },
+    {
+      "id": 10,
+      "question": "A function f(x) is continuous at x = c if and only if:",
+      "options": {
+        "A": "f(c) is defined",
+        "B": "lim(x → c) f(x) exists",
+        "C": "lim(x → c) f(x) = f(c)",
+        "D": "f'(c) exists"
+      },
+      "correctAnswer": "C",
+      "explanation": "Continuity at x = c requires three conditions: (1) f(c) is defined, (2) the two-sided limit lim(x → c) f(x) exists, and (3) lim(x → c) f(x) = f(c)."
+    },
+    {
+      "id": 11,
+      "question": "If x = a cos(θ) and y = a sin(θ), then dy/dx equals:",
+      "options": {
+        "A": "-cot(θ)",
+        "B": "-tan(θ)",
+        "C": "cot(θ)",
+        "D": "tan(θ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "dx/dθ = -a sin(θ), dy/dθ = a cos(θ). By chain rule, dy/dx = (dy/dθ) / (dx/dθ) = (a cos θ) / (-a sin θ) = -cot(θ)."
+    },
+    {
+      "id": 12,
+      "question": "What is the derivative of f(x) = x · e^x?",
+      "options": {
+        "A": "e^x(x + 1)",
+        "B": "x e^x",
+        "C": "e^x",
+        "D": "e^x(x - 1)"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the product rule: d/dx [u · v] = u'v + uv'. Here d/dx [x · e^x] = (1)(e^x) + (x)(e^x) = e^x(x + 1)."
+    },
+    {
+      "id": 13,
+      "question": "Maclaurin series expansion of e^x is:",
+      "options": {
+        "A": "1 + x + x²/2! + x³/3! + ...",
+        "B": "1 - x + x²/2! - x³/3! + ...",
+        "C": "x - x³/3! + x⁵/5! - ...",
+        "D": "1 - x²/2! + x⁴/4! - ..."
+      },
+      "correctAnswer": "A",
+      "explanation": "Maclaurin series formula is f(x) = f(0) + f'(0)x + f''(0)x²/2! + ... For f(x) = e^x, every derivative at 0 is e^0 = 1, giving 1 + x + x²/2! + x³/3! + ..."
+    },
+    {
+      "id": 14,
+      "question": "Maclaurin series expansion of sin(x) is:",
+      "options": {
+        "A": "x - x³/3! + x⁵/5! - x⁷/7! + ...",
+        "B": "1 - x²/2! + x⁴/4! - ...",
+        "C": "1 + x + x²/2! + ...",
+        "D": "x + x³/3! + x⁵/5! + ..."
+      },
+      "correctAnswer": "A",
+      "explanation": "sin(x) is an odd function, so its expansion contains only odd powers of x with alternating signs: x - x³/3! + x⁵/5! - x⁷/7! + ..."
+    },
+    {
+      "id": 15,
+      "question": "What is the slope of the tangent to the curve y = x³ - 3x + 2 at x = 2?",
+      "options": {
+        "A": "9",
+        "B": "6",
+        "C": "12",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "dy/dx = 3x² - 3. At x = 2: dy/dx = 3(2)² - 3 = 3(4) - 3 = 12 - 3 = 9."
+    },
+    {
+      "id": 16,
+      "question": "If f'(c) = 0 and f''(c) < 0, then the function f has a:",
+      "options": {
+        "A": "Local minimum at x = c",
+        "B": "Local maximum at x = c",
+        "C": "Point of inflection at x = c",
+        "D": "Discontinuity at x = c"
+      },
+      "correctAnswer": "B",
+      "explanation": "By the Second Derivative Test: if f'(c) = 0 and f''(c) < 0, the curve is concave down at x = c, which means x = c is a relative (local) maximum."
+    },
+    {
+      "id": 17,
+      "question": "If f'(c) = 0 and f''(c) > 0, then f has a:",
+      "options": {
+        "A": "Local minimum at x = c",
+        "B": "Local maximum at x = c",
+        "C": "Point of inflection at x = c",
+        "D": "Constant value"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the Second Derivative Test: if f'(c) = 0 and f''(c) > 0, the curve is concave up at x = c, which implies a relative (local) minimum."
+    },
+    {
+      "id": 18,
+      "question": "A point where the concavity of a curve changes (f''(x) = 0 and changes sign) is called a:",
+      "options": {
+        "A": "Stationary point",
+        "B": "Point of inflection",
+        "C": "Cusp",
+        "D": "Vertex"
+      },
+      "correctAnswer": "B",
+      "explanation": "A point on a curve where the concavity changes from concave upward to concave downward (or vice versa) is defined as a point of inflection."
+    },
+    {
+      "id": 19,
+      "question": "What is the derivative of f(x) = cos⁻¹(x) with respect to x?",
+      "options": {
+        "A": "-1/√(1 - x²)",
+        "B": "1/√(1 - x²)",
+        "C": "-1/(1 + x²)",
+        "D": "sin⁻¹(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The derivative of arccos(x) is d/dx [cos⁻¹(x)] = -1/√(1 - x²) for |x| < 1."
+    },
+    {
+      "id": 20,
+      "question": "What is the derivative of f(x) = sinh(x)?",
+      "options": {
+        "A": "cosh(x)",
+        "B": "-cosh(x)",
+        "C": "sech²(x)",
+        "D": "tanh(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "d/dx [sinh(x)] = d/dx [(e^x - e^(-x))/2] = (e^x + e^(-x))/2 = cosh(x). (Notice the positive sign, unlike ordinary trigonometric cos x)."
+    },
+    {
+      "id": 21,
+      "question": "What is the derivative of f(x) = cosh(x)?",
+      "options": {
+        "A": "sinh(x)",
+        "B": "-sinh(x)",
+        "C": "tanh(x)",
+        "D": "sech(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "d/dx [cosh(x)] = d/dx [(e^x + e^(-x))/2] = (e^x - e^(-x))/2 = sinh(x). Hyperbolic cosine has a positive derivative."
+    },
+    {
+      "id": 22,
+      "question": "What is the value of lim(x → 0) [(e^x - 1) / x]?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "e",
+        "D": "∞"
+      },
+      "correctAnswer": "B",
+      "explanation": "By definition of the derivative of e^x at x = 0 (or L'Hôpital's rule: lim e^x / 1 = e^0 = 1), the limit equals 1."
+    },
+    {
+      "id": 23,
+      "question": "If y = x^x, what is dy/dx?",
+      "options": {
+        "A": "x^x (1 + ln x)",
+        "B": "x · x^(x - 1)",
+        "C": "x^x · ln(x)",
+        "D": "x^x"
+      },
+      "correctAnswer": "A",
+      "explanation": "Taking natural logarithm: ln y = x ln x. Differentiating: (1/y) dy/dx = (1)(ln x) + x(1/x) = ln x + 1. Thus dy/dx = y(1 + ln x) = x^x (1 + ln x)."
+    },
+    {
+      "id": 24,
+      "question": "What is the equation of the normal to the curve y = f(x) at point (x₁, y₁) where slope of tangent is m?",
+      "options": {
+        "A": "y - y₁ = (-1/m)(x - x₁)",
+        "B": "y - y₁ = m(x - x₁)",
+        "C": "y - y₁ = (1/m)(x - x₁)",
+        "D": "(y - y₁) + m(x - x₁) = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "The normal is perpendicular to the tangent line. Since the tangent has slope m, the normal line has slope -1/m. Using point-slope form: y - y₁ = (-1/m)(x - x₁)."
+    },
+    {
+      "id": 25,
+      "question": "What is the derivative of cot(x) with respect to x?",
+      "options": {
+        "A": "-csc²(x)",
+        "B": "csc²(x)",
+        "C": "-sec²(x)",
+        "D": "-cot(x) csc(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "d/dx [cot(x)] = d/dx [cos x / sin x] = (-sin²x - cos²x)/sin²x = -1/sin²x = -csc²(x)."
+    },
+    {
+      "id": 26,
+      "question": "What is the derivative of sec(x) with respect to x?",
+      "options": {
+        "A": "sec(x) tan(x)",
+        "B": "sec²(x)",
+        "C": "-sec(x) tan(x)",
+        "D": "tan²(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "d/dx [sec(x)] = d/dx [(cos x)⁻¹] = -(cos x)⁻² (-sin x) = sin x / cos²x = (1/cos x)(sin x/cos x) = sec(x) tan(x)."
+    },
+    {
+      "id": 27,
+      "question": "What is the critical value of f(x) = x² - 6x + 5?",
+      "options": {
+        "A": "x = 3",
+        "B": "x = -3",
+        "C": "x = 5",
+        "D": "x = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Critical points occur where f'(x) = 0. f'(x) = 2x - 6. Setting 2x - 6 = 0 ⇒ x = 3."
+    },
+    {
+      "id": 28,
+      "question": "What is the minimum value of f(x) = x² - 6x + 5?",
+      "options": {
+        "A": "-4",
+        "B": "5",
+        "C": "0",
+        "D": "-9"
+      },
+      "correctAnswer": "A",
+      "explanation": "The critical point is at x = 3. Since f''(x) = 2 > 0, x = 3 gives a minimum. Minimum value f(3) = 3² - 6(3) + 5 = 9 - 18 + 5 = -4."
+    },
+    {
+      "id": 29,
+      "question": "What is the derivative of f(x) = ln(cos x)?",
+      "options": {
+        "A": "-tan(x)",
+        "B": "tan(x)",
+        "C": "-cot(x)",
+        "D": "sec(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "By the chain rule: f'(x) = (1/cos x) · d/dx(cos x) = (1/cos x)(-sin x) = -tan(x)."
+    },
+    {
+      "id": 30,
+      "question": "What is the value of lim(x → 3) [(x² - 9) / (x - 3)]?",
+      "options": {
+        "A": "6",
+        "B": "3",
+        "C": "0",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "Factor the numerator: (x² - 9) = (x - 3)(x + 3). For x ≠ 3, (x² - 9)/(x - 3) = x + 3. As x → 3, limit = 3 + 3 = 6."
+    },
+    {
+      "id": 31,
+      "question": "If x² + y² = r², what is dy/dx in terms of x and y?",
+      "options": {
+        "A": "-x/y",
+        "B": "-y/x",
+        "C": "x/y",
+        "D": "r/y"
+      },
+      "correctAnswer": "A",
+      "explanation": "Differentiating implicitly with respect to x: 2x + 2y(dy/dx) = 0 ⇒ 2y(dy/dx) = -2x ⇒ dy/dx = -x/y."
+    },
+    {
+      "id": 32,
+      "question": "What is the derivative of f(x) = tan(2x)?",
+      "options": {
+        "A": "2 sec²(2x)",
+        "B": "sec²(2x)",
+        "C": "2 tan(2x)",
+        "D": "-2 sec²(2x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "By chain rule: d/dx [tan(2x)] = sec²(2x) · d/dx(2x) = 2 sec²(2x)."
+    },
+    {
+      "id": 33,
+      "question": "What is the value of lim(x → ∞) [(3x² + 5x) / (2x² - 7)]?",
+      "options": {
+        "A": "3/2",
+        "B": "5/2",
+        "C": "∞",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Divide numerator and denominator by x²: lim(x → ∞) [3 + 5/x] / [2 - 7/x²] = (3 + 0) / (2 - 0) = 3/2."
+    },
+    {
+      "id": 34,
+      "question": "What is the derivative of f(x) = sec⁻¹(x)?",
+      "options": {
+        "A": "1 / [|x| √(x² - 1)]",
+        "B": "-1 / [|x| √(x² - 1)]",
+        "C": "1 / √(x² - 1)",
+        "D": "1 / (1 + x²)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The standard derivative of inverse secant is d/dx [sec⁻¹(x)] = 1 / [|x| √(x² - 1)] for |x| > 1."
+    },
+    {
+      "id": 35,
+      "question": "Taylor series expansion of f(x) about x = a is given by:",
+      "options": {
+        "A": "f(a) + f'(a)(x - a) + f''(a)(x - a)²/2! + ...",
+        "B": "f(0) + f'(0)x + f''(0)x²/2! + ...",
+        "C": "f(a) + f'(x)(x - a) + ...",
+        "D": "f'(a)(x - a) + f''(a)(x - a)² + ..."
+      },
+      "correctAnswer": "A",
+      "explanation": "Taylor series formula for a smooth function expanded around point a is f(x) = ∑ [f^(n)(a) / n!] (x - a)^n = f(a) + f'(a)(x - a) + f''(a)(x - a)²/2! + ..."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}

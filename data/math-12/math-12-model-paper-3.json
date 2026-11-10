@@ -1,0 +1,249 @@
+{
+  "chapterNumber": 13,
+  "chapterTitle": "FBISE Class 12 Math Board Simulator 03 (Section A)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The period of tan(3x) is:",
+      "options": {
+        "A": "π/3",
+        "B": "2π/3",
+        "C": "3π",
+        "D": "π"
+      },
+      "correctAnswer": "A",
+      "explanation": "Period of tan(x) is π, so for tan(3x) it is π/3."
+    },
+    {
+      "id": 2,
+      "question": "What is f(f⁻¹(x)) for any invertible function f?",
+      "options": {
+        "A": "x",
+        "B": "0",
+        "C": "1",
+        "D": "f(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "By definition of inverse function, f(f⁻¹(x)) = x."
+    },
+    {
+      "id": 3,
+      "question": "Value of lim(x → 0) [(1 - cos 2x) / x²] is:",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "4",
+        "D": "1/2"
+      },
+      "correctAnswer": "A",
+      "explanation": "1 - cos 2x = 2 sin²x. lim 2(sin x/x)² = 2(1)² = 2."
+    },
+    {
+      "id": 4,
+      "question": "Derivative of f(x) = a^x is:",
+      "options": {
+        "A": "a^x ln(a)",
+        "B": "x a^(x - 1)",
+        "C": "a^x",
+        "D": "a^x / ln(a)"
+      },
+      "correctAnswer": "A",
+      "explanation": "d/dx [a^x] = a^x ln(a)."
+    },
+    {
+      "id": 5,
+      "question": "The derivative of cosh(x) is:",
+      "options": {
+        "A": "sinh(x)",
+        "B": "-sinh(x)",
+        "C": "tanh(x)",
+        "D": "sech(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "d/dx [cosh x] = sinh x (positive sign)."
+    },
+    {
+      "id": 6,
+      "question": "What is ∫ e^(4x) dx?",
+      "options": {
+        "A": "(1/4) e^(4x) + c",
+        "B": "4 e^(4x) + c",
+        "C": "e^(4x) + c",
+        "D": "(1/2) e^(4x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫ e^(kx) dx = (1/k) e^(kx) + c = (1/4) e^(4x) + c."
+    },
+    {
+      "id": 7,
+      "question": "What is ∫ [1 / x] dx for x > 0?",
+      "options": {
+        "A": "ln(x) + c",
+        "B": "-1/x² + c",
+        "C": "e^x + c",
+        "D": "1 + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Anti-derivative of 1/x is ln|x| + c."
+    },
+    {
+      "id": 8,
+      "question": "Value of ∫₀^2 x dx is:",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "1",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "[x²/2]₀² = 2²/2 - 0 = 4/2 = 2."
+    },
+    {
+      "id": 9,
+      "question": "Degree of (d³y/dx³)² + (dy/dx)⁵ = 0 is:",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "5",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "The power of the highest order derivative d³y/dx³ is 2, so the degree is 2."
+    },
+    {
+      "id": 10,
+      "question": "General solution of dy/dx = y is:",
+      "options": {
+        "A": "y = c e^x",
+        "B": "y = x + c",
+        "C": "y = e^x + c",
+        "D": "y = c x"
+      },
+      "correctAnswer": "A",
+      "explanation": "dy/y = dx ⇒ ln y = x + c₁ ⇒ y = c e^x."
+    },
+    {
+      "id": 11,
+      "question": "Velocity v = ds/dt is zero when a particle is at:",
+      "options": {
+        "A": "Instantaneous rest",
+        "B": "Maximum acceleration",
+        "C": "The origin",
+        "D": "Infinite displacement"
+      },
+      "correctAnswer": "A",
+      "explanation": "v = 0 defines instantaneous rest."
+    },
+    {
+      "id": 12,
+      "question": "If a = 6 m/s² and initial velocity u = 0, distance in 2 seconds is:",
+      "options": {
+        "A": "12 m",
+        "B": "24 m",
+        "C": "6 m",
+        "D": "18 m"
+      },
+      "correctAnswer": "A",
+      "explanation": "s = ut + (1/2)at² = 0 + (1/2)(6)(2²) = 3(4) = 12 m."
+    },
+    {
+      "id": 13,
+      "question": "The x-intercept of the line 3x + 2y = 12 is:",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "12",
+        "D": "2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Set y = 0: 3x = 12 ⇒ x = 4."
+    },
+    {
+      "id": 14,
+      "question": "Midpoint of (2, 8) and (6, 4) is:",
+      "options": {
+        "A": "(4, 6)",
+        "B": "(8, 12)",
+        "C": "(2, 2)",
+        "D": "(3, 5)"
+      },
+      "correctAnswer": "A",
+      "explanation": "((2 + 6)/2, (8 + 4)/2) = (8/2, 12/2) = (4, 6)."
+    },
+    {
+      "id": 15,
+      "question": "Eccentricity of the ellipse x²/16 + y²/9 = 1 is:",
+      "options": {
+        "A": "√7 / 4",
+        "B": "3/4",
+        "C": "4/3",
+        "D": "7/16"
+      },
+      "correctAnswer": "A",
+      "explanation": "c² = 16 - 9 = 7 ⇒ c = √7. e = c/a = √7 / 4."
+    },
+    {
+      "id": 16,
+      "question": "The length of the major axis of x²/36 + y²/16 = 1 is:",
+      "options": {
+        "A": "12",
+        "B": "6",
+        "C": "8",
+        "D": "36"
+      },
+      "correctAnswer": "A",
+      "explanation": "a² = 36 ⇒ a = 6. Major axis = 2a = 12."
+    },
+    {
+      "id": 17,
+      "question": "What is j × k?",
+      "options": {
+        "A": "i",
+        "B": "-i",
+        "C": "k",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "By cyclic right-hand rule, j × k = i."
+    },
+    {
+      "id": 18,
+      "question": "What is j · k?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "i",
+        "D": "-1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Unit vectors j and k are orthogonal (90°), so j · k = 0."
+    },
+    {
+      "id": 19,
+      "question": "The region represented by x ≥ 0, y ≥ 0 is the:",
+      "options": {
+        "A": "First quadrant",
+        "B": "Second quadrant",
+        "C": "Entire plane",
+        "D": "Fourth quadrant"
+      },
+      "correctAnswer": "A",
+      "explanation": "Both coordinates positive defines the first quadrant."
+    },
+    {
+      "id": 20,
+      "question": "The False Position (Regula-Falsi) method is based on finding the x-intercept of a:",
+      "options": {
+        "A": "Secant line",
+        "B": "Tangent line",
+        "C": "Normal line",
+        "D": "Asymptote"
+      },
+      "correctAnswer": "A",
+      "explanation": "Regula-Falsi replaces the curve with a secant line between the interval bounds."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}

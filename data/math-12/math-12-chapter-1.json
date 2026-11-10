@@ -1,0 +1,429 @@
+{
+  "chapterNumber": 1,
+  "chapterTitle": "Unit 1: Functions and Graphs",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the domain of the real-valued function f(x) = √(25 - x²)?",
+      "options": {
+        "A": "x ≥ 5",
+        "B": "[-5, 5]",
+        "C": "(-∞, -5] ∪ [5, ∞)",
+        "D": "(-5, 5)"
+      },
+      "correctAnswer": "B",
+      "explanation": "For f(x) = √(25 - x²) to be real-valued, the expression under the square root must be non-negative: 25 - x² ≥ 0 ⇒ x² ≤ 25 ⇒ -5 ≤ x ≤ 5. Hence, Domain = [-5, 5]."
+    },
+    {
+      "id": 2,
+      "question": "What is the range of the function f(x) = √(25 - x²)?",
+      "options": {
+        "A": "[0, 5]",
+        "B": "[-5, 5]",
+        "C": "[0, 25]",
+        "D": "(0, 5]"
+      },
+      "correctAnswer": "A",
+      "explanation": "When x = ±5, f(x) = 0 (minimum value). When x = 0, f(x) = √25 = 5 (maximum value). Since the principal square root is always non-negative, Range = [0, 5]."
+    },
+    {
+      "id": 3,
+      "question": "A function f(x) is said to be an even function if:",
+      "options": {
+        "A": "f(-x) = -f(x)",
+        "B": "f(-x) = f(x)",
+        "C": "f(1/x) = f(x)",
+        "D": "f(-x) = 1/f(x)"
+      },
+      "correctAnswer": "B",
+      "explanation": "By definition, a function f is even if f(-x) = f(x) for all x in its domain, meaning its graph is symmetric with respect to the y-axis (e.g., cos x, x²)."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following functions is an odd function?",
+      "options": {
+        "A": "f(x) = cos(x) + x²",
+        "B": "f(x) = x³ + sin(x)",
+        "C": "f(x) = e^x + e^(-x)",
+        "D": "f(x) = |x| + 4"
+      },
+      "correctAnswer": "B",
+      "explanation": "For f(x) = x³ + sin(x): f(-x) = (-x)³ + sin(-x) = -x³ - sin(x) = -(x³ + sin(x)) = -f(x). Thus f(x) is an odd function. Its graph is symmetric about the origin."
+    },
+    {
+      "id": 5,
+      "question": "If f(x) = 3x - 5, what is the inverse function f⁻¹(x)?",
+      "options": {
+        "A": "(x + 5)/3",
+        "B": "(x - 5)/3",
+        "C": "3/(x + 5)",
+        "D": "5x - 3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Let y = 3x - 5 ⇒ 3x = y + 5 ⇒ x = (y + 5)/3. Swapping x and y gives f⁻¹(x) = (x + 5)/3."
+    },
+    {
+      "id": 6,
+      "question": "If f(x) = 2x + 1 and g(x) = x² - 3, what is (f ∘ g)(x)?",
+      "options": {
+        "A": "2x² - 5",
+        "B": "4x² + 4x - 2",
+        "C": "2x² - 6",
+        "D": "x² + 2x - 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "(f ∘ g)(x) = f(g(x)) = f(x² - 3) = 2(x² - 3) + 1 = 2x² - 6 + 1 = 2x² - 5."
+    },
+    {
+      "id": 7,
+      "question": "If f(x) = 2x + 1 and g(x) = x² - 3, what is (g ∘ f)(x)?",
+      "options": {
+        "A": "2x² - 5",
+        "B": "4x² + 4x - 2",
+        "C": "4x² + 1",
+        "D": "2x² + 4x - 3"
+      },
+      "correctAnswer": "B",
+      "explanation": "(g ∘ f)(x) = g(f(x)) = g(2x + 1) = (2x + 1)² - 3 = 4x² + 4x + 1 - 3 = 4x² + 4x - 2."
+    },
+    {
+      "id": 8,
+      "question": "What is the domain of f(x) = 1/(x² - 9)?",
+      "options": {
+        "A": "R - {-3, 3}",
+        "B": "[-3, 3]",
+        "C": "R - {9}",
+        "D": "(-3, 3)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The denominator cannot be zero: x² - 9 = 0 ⇒ x = ±3. Therefore, the function is defined for all real numbers except x = 3 and x = -3, i.e., R - {-3, 3}."
+    },
+    {
+      "id": 9,
+      "question": "The hyperbolic identity cosh²(x) - sinh²(x) is equal to:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "cosh(2x)"
+      },
+      "correctAnswer": "B",
+      "explanation": "cosh(x) = (e^x + e^(-x))/2 and sinh(x) = (e^x - e^(-x))/2. Squaring and subtracting gives cosh²(x) - sinh²(x) = (e^(2x) + 2 + e^(-2x))/4 - (e^(2x) - 2 + e^(-2x))/4 = 4/4 = 1."
+    },
+    {
+      "id": 10,
+      "question": "The identity 1 - tanh²(x) is identically equal to:",
+      "options": {
+        "A": "sech²(x)",
+        "B": "coth²(x)",
+        "C": "-sech²(x)",
+        "D": "csch²(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dividing cosh²(x) - sinh²(x) = 1 by cosh²(x) yields 1 - tanh²(x) = sech²(x)."
+    },
+    {
+      "id": 11,
+      "question": "What is the period of the trigonometric function f(x) = sin(3x)?",
+      "options": {
+        "A": "2π/3",
+        "B": "6π",
+        "C": "2π",
+        "D": "π/3"
+      },
+      "correctAnswer": "A",
+      "explanation": "The period of sin(x) is 2π. For sin(kx), the period is 2π/k. For k = 3, Period = 2π/3."
+    },
+    {
+      "id": 12,
+      "question": "What is the period of f(x) = tan(x/2)?",
+      "options": {
+        "A": "π",
+        "B": "2π",
+        "C": "π/2",
+        "D": "4π"
+      },
+      "correctAnswer": "B",
+      "explanation": "The period of tan(x) is π. For tan(kx), the period is π/k. Here k = 1/2, so Period = π / (1/2) = 2π."
+    },
+    {
+      "id": 13,
+      "question": "A function f: A → B is bijective if and only if it is:",
+      "options": {
+        "A": "Injective (one-to-one) only",
+        "B": "Surjective (onto) only",
+        "C": "Both injective and surjective",
+        "D": "Neither injective nor surjective"
+      },
+      "correctAnswer": "C",
+      "explanation": "A bijection requires both injectivity (distinct inputs give distinct outputs) and surjectivity (every element of codomain is mapped), which is also the exact condition for f to have an inverse function f⁻¹."
+    },
+    {
+      "id": 14,
+      "question": "What is the domain of f(x) = ln(x - 2)?",
+      "options": {
+        "A": "[2, ∞)",
+        "B": "(2, ∞)",
+        "C": "(-∞, 2)",
+        "D": "R - {2}"
+      },
+      "correctAnswer": "B",
+      "explanation": "The natural logarithm ln(u) is only defined for strictly positive arguments: x - 2 > 0 ⇒ x > 2. Hence, Domain = (2, ∞)."
+    },
+    {
+      "id": 15,
+      "question": "The graph of an odd function f(x) is always symmetric about:",
+      "options": {
+        "A": "The y-axis",
+        "B": "The x-axis",
+        "C": "The origin (0, 0)",
+        "D": "The line y = x"
+      },
+      "correctAnswer": "C",
+      "explanation": "Since f(-x) = -f(x), reflecting a point (x, y) through the origin gives (-x, -y), which also lies on the curve. Thus the graph of any odd function has point symmetry about the origin."
+    },
+    {
+      "id": 16,
+      "question": "If f(x) = x/(x - 1), then f(f(x)) equals:",
+      "options": {
+        "A": "x",
+        "B": "x/(x - 1)",
+        "C": "1/x",
+        "D": "x²"
+      },
+      "correctAnswer": "A",
+      "explanation": "f(f(x)) = f(x/(x-1)) = (x/(x-1)) / (x/(x-1) - 1) = (x/(x-1)) / ((x - (x - 1))/(x - 1)) = (x/(x-1)) / (1/(x - 1)) = x."
+    },
+    {
+      "id": 17,
+      "question": "What is the range of the function f(x) = x² + 4 for x ∈ R?",
+      "options": {
+        "A": "(-∞, 4]",
+        "B": "[4, ∞)",
+        "C": "[0, ∞)",
+        "D": "R"
+      },
+      "correctAnswer": "B",
+      "explanation": "Since x² ≥ 0 for all real x, x² + 4 ≥ 4. The minimum value is 4 (at x = 0), and it increases without bound. Hence Range = [4, ∞)."
+    },
+    {
+      "id": 18,
+      "question": "The parametric equations x = a cos(θ), y = b sin(θ) represent:",
+      "options": {
+        "A": "A circle of radius a",
+        "B": "A parabola opening along x-axis",
+        "C": "An ellipse with semi-axes a and b",
+        "D": "A hyperbola"
+      },
+      "correctAnswer": "C",
+      "explanation": "From x/a = cos(θ) and y/b = sin(θ), squaring and adding gives (x/a)² + (y/b)² = cos²(θ) + sin²(θ) = 1, which is the standard Cartesian equation of an ellipse."
+    },
+    {
+      "id": 19,
+      "question": "The parametric equations x = at², y = 2at represent:",
+      "options": {
+        "A": "The parabola y² = 4ax",
+        "B": "The ellipse x²/a² + y²/b² = 1",
+        "C": "The hyperbola x²/a² - y²/b² = 1",
+        "D": "The circle x² + y² = a²"
+      },
+      "correctAnswer": "A",
+      "explanation": "From y = 2at, t = y/(2a). Substituting into x = at² gives x = a(y/(2a))² = a(y²/(4a²)) = y²/(4a) ⇒ y² = 4ax."
+    },
+    {
+      "id": 20,
+      "question": "The parametric equations x = a sec(θ), y = b tan(θ) represent:",
+      "options": {
+        "A": "A circle",
+        "B": "A parabola",
+        "C": "An ellipse",
+        "D": "A hyperbola"
+      },
+      "correctAnswer": "D",
+      "explanation": "x/a = sec(θ), y/b = tan(θ). Using sec²(θ) - tan²(θ) = 1 gives (x/a)² - (y/b)² = 1, which represents a hyperbola centered at the origin."
+    },
+    {
+      "id": 21,
+      "question": "Which of the following functions is neither even nor odd?",
+      "options": {
+        "A": "f(x) = x² + 1",
+        "B": "f(x) = x³ - x",
+        "C": "f(x) = e^x",
+        "D": "f(x) = sin(x)"
+      },
+      "correctAnswer": "C",
+      "explanation": "f(-x) = e^(-x) ≠ e^x (not even) and e^(-x) ≠ -e^x (not odd). Hence, f(x) = e^x is neither even nor odd."
+    },
+    {
+      "id": 22,
+      "question": "If f(x) = √(x + 3), what is the domain of f⁻¹(x)?",
+      "options": {
+        "A": "[-3, ∞)",
+        "B": "[0, ∞)",
+        "C": "(-∞, 0]",
+        "D": "R"
+      },
+      "correctAnswer": "B",
+      "explanation": "The domain of f⁻¹ is equal to the range of f. Since f(x) = √(x + 3) produces non-negative values [0, ∞), Range(f) = [0, ∞) = Domain(f⁻¹)."
+    },
+    {
+      "id": 23,
+      "question": "If f(x) = c (where c is a constant), the function f is called a:",
+      "options": {
+        "A": "Identity function",
+        "B": "Linear function with non-zero slope",
+        "C": "Constant function",
+        "D": "Transcendental function"
+      },
+      "correctAnswer": "C",
+      "explanation": "A function that maps every element of its domain to a single fixed real value c is defined as a constant function. Its graph is a horizontal line y = c."
+    },
+    {
+      "id": 24,
+      "question": "sinh(2x) is identically equal to:",
+      "options": {
+        "A": "2 sinh(x) cosh(x)",
+        "B": "cosh²(x) + sinh²(x)",
+        "C": "2 cosh(x)",
+        "D": "sinh²(x) - cosh²(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Using definitions: 2 sinh(x) cosh(x) = 2 · [(e^x - e^(-x))/2] · [(e^x + e^(-x))/2] = (e^(2x) - e^(-2x))/2 = sinh(2x)."
+    },
+    {
+      "id": 25,
+      "question": "cosh(2x) is identically equal to:",
+      "options": {
+        "A": "cosh²(x) + sinh²(x)",
+        "B": "cosh²(x) - sinh²(x)",
+        "C": "2 sinh(x) cosh(x)",
+        "D": "1 - 2 cosh²(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "cosh(2x) = (e^(2x) + e^(-2x))/2. Also cosh²(x) + sinh²(x) = (e^(2x) + 2 + e^(-2x))/4 + (e^(2x) - 2 + e^(-2x))/4 = 2(e^(2x) + e^(-2x))/4 = cosh(2x)."
+    },
+    {
+      "id": 26,
+      "question": "What is the value of sinh(0)?",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "-1",
+        "D": "Undefined"
+      },
+      "correctAnswer": "B",
+      "explanation": "sinh(0) = (e^0 - e^(-0))/2 = (1 - 1)/2 = 0/2 = 0."
+    },
+    {
+      "id": 27,
+      "question": "What is the value of cosh(0)?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "1/2"
+      },
+      "correctAnswer": "B",
+      "explanation": "cosh(0) = (e^0 + e^(-0))/2 = (1 + 1)/2 = 2/2 = 1."
+    },
+    {
+      "id": 28,
+      "question": "The function f(x) = |x|/x for x ≠ 0 is known as the:",
+      "options": {
+        "A": "Signum (sign) function",
+        "B": "Step function",
+        "C": "Ceiling function",
+        "D": "Floor function"
+      },
+      "correctAnswer": "A",
+      "explanation": "For x > 0, |x|/x = 1. For x < 0, |x|/x = -1. This is the signum function, sgn(x), taking values in {-1, 1}."
+    },
+    {
+      "id": 29,
+      "question": "If f(x) = x³ - 2x + 1, what is the value of f(-2)?",
+      "options": {
+        "A": "-3",
+        "B": "-11",
+        "C": "5",
+        "D": "-1"
+      },
+      "correctAnswer": "A",
+      "explanation": "f(-2) = (-2)³ - 2(-2) + 1 = -8 + 4 + 1 = -3."
+    },
+    {
+      "id": 30,
+      "question": "What is the domain of f(x) = 1/√(x - 4)?",
+      "options": {
+        "A": "[4, ∞)",
+        "B": "(4, ∞)",
+        "C": "(-∞, 4)",
+        "D": "R - {4}"
+      },
+      "correctAnswer": "B",
+      "explanation": "Because √(x - 4) is in the denominator, the radicand must be strictly greater than zero: x - 4 > 0 ⇒ x > 4. Hence Domain = (4, ∞)."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following functions has an inverse that is identical to itself?",
+      "options": {
+        "A": "f(x) = 1/x (for x ≠ 0)",
+        "B": "f(x) = x²",
+        "C": "f(x) = 2x",
+        "D": "f(x) = x + 3"
+      },
+      "correctAnswer": "A",
+      "explanation": "If y = 1/x, solving for x gives x = 1/y. Swapping variables gives f⁻¹(x) = 1/x. Thus f⁻¹(x) = f(x)."
+    },
+    {
+      "id": 32,
+      "question": "The identity cosh²(x) + sinh²(x) can be rewritten as:",
+      "options": {
+        "A": "2 cosh²(x) - 1",
+        "B": "1 - 2 sinh²(x)",
+        "C": "sinh(2x)",
+        "D": "tanh(2x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Since cosh²(x) - sinh²(x) = 1, sinh²(x) = cosh²(x) - 1. Thus cosh(2x) = cosh²(x) + (cosh²(x) - 1) = 2 cosh²(x) - 1."
+    },
+    {
+      "id": 33,
+      "question": "The composite function (f ∘ f⁻¹)(x) for all x in the range of f equals:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "x",
+        "D": "f(x)"
+      },
+      "correctAnswer": "C",
+      "explanation": "By definition of inverse function, composing a function with its inverse yields the identity function: (f ∘ f⁻¹)(x) = x."
+    },
+    {
+      "id": 34,
+      "question": "What is the period of f(x) = cos(5x)?",
+      "options": {
+        "A": "2π/5",
+        "B": "5π/2",
+        "C": "π/5",
+        "D": "10π"
+      },
+      "correctAnswer": "A",
+      "explanation": "The fundamental period of cos(kx) is 2π/k. With k = 5, the period is 2π/5."
+    },
+    {
+      "id": 35,
+      "question": "What is the range of f(x) = -|x| + 3?",
+      "options": {
+        "A": "[3, ∞)",
+        "B": "(-∞, 3]",
+        "C": "(-∞, 0]",
+        "D": "[0, 3]"
+      },
+      "correctAnswer": "B",
+      "explanation": "Since |x| ≥ 0, -|x| ≤ 0. Adding 3 yields -|x| + 3 ≤ 3. The maximum value is 3 (at x = 0), and it decreases without bound. Hence Range = (-∞, 3]."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}

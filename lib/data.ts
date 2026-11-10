@@ -34,6 +34,7 @@ const URDU_12_DIR = path.join(process.cwd(), 'data', 'urdu-12');
 const PAKSTUDIES_12_DIR = path.join(process.cwd(), 'data', 'pakstudies-12');
 const TARJUMA_12_DIR = path.join(process.cwd(), 'data', 'tarjuma-12');
 const PHYSICS_12_DIR = path.join(process.cwd(), 'data', 'physics-12');
+const MATH_12_DIR = path.join(process.cwd(), 'data', 'math-12');
 
 export function getChaptersIndex(
   subject: SubjectId = 'physics'
@@ -71,6 +72,7 @@ export function getChaptersIndex(
     else if (subject === 'pakstudies-12') dir = PAKSTUDIES_12_DIR;
     else if (subject === 'tarjuma-12') dir = TARJUMA_12_DIR;
     else if (subject === 'physics-12') dir = PHYSICS_12_DIR;
+    else if (subject === 'math-12') dir = MATH_12_DIR;
 
     const indexPath = path.join(dir, 'chapters-index.json');
     if (fs.existsSync(indexPath)) {
@@ -81,7 +83,8 @@ export function getChaptersIndex(
         subject === 'urdu-12' ||
         subject === 'pakstudies-12' ||
         subject === 'tarjuma-12' ||
-        subject === 'physics-12'
+        subject === 'physics-12' ||
+        subject === 'math-12'
           ? '12'
           : subject === 'math-10' ||
             subject === 'physics-10' ||
@@ -146,6 +149,7 @@ export function getAllChapters(): ChapterMeta[] {
     ...getChaptersIndex('pakstudies-12'),
     ...getChaptersIndex('tarjuma-12'),
     ...getChaptersIndex('physics-12'),
+    ...getChaptersIndex('math-12'),
   ];
 }
 
@@ -160,7 +164,10 @@ export function getChapterBySlug(
     let targetDir = PHYSICS_DIR;
     let subject: SubjectId = 'physics';
 
-    if (slug.startsWith('physics-12')) {
+    if (slug.startsWith('math-12')) {
+      targetDir = MATH_12_DIR;
+      subject = 'math-12';
+    } else if (slug.startsWith('physics-12')) {
       targetDir = PHYSICS_12_DIR;
       subject = 'physics-12';
     } else if (slug.startsWith('english-12')) {
@@ -270,6 +277,7 @@ export function getChapterBySlug(
 
     // Fallback search across all directories
     const dirMap: Array<[string, SubjectId]> = [
+      [MATH_12_DIR, 'math-12'],
       [PHYSICS_12_DIR, 'physics-12'],
       [ENGLISH_12_DIR, 'english-12'],
       [URDU_12_DIR, 'urdu-12'],

@@ -36,7 +36,9 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     chapter.subject === 'pakstudies-12' ||
     slug.startsWith('pakstudies-12') ||
     chapter.subject === 'tarjuma-12' ||
-    slug.startsWith('tarjuma-12');
+    slug.startsWith('tarjuma-12') ||
+    chapter.subject === 'math-12' ||
+    slug.startsWith('math-12');
   const isGrade10 =
     chapter.subject === 'pakstudies-10' ||
     slug.startsWith('pakstudies-10') ||
@@ -77,6 +79,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     slug.startsWith('biology-9');
   let subjectName = 'Physics';
   if (chapter.subject === 'physics-12' || slug.startsWith('physics-12')) subjectName = 'Physics (فزکس)';
+  else if (chapter.subject === 'math-12' || slug.startsWith('math-12')) subjectName = 'Mathematics (ریاضی)';
   else if (chapter.subject === 'english-12' || slug.startsWith('english-12')) subjectName = 'English Compulsory';
   else if (chapter.subject === 'urdu-12' || slug.startsWith('urdu-12')) subjectName = 'Urdu Compulsory (اردو لازمی)';
   else if (chapter.subject === 'pakstudies-12' || slug.startsWith('pakstudies-12')) subjectName = 'Pakistan Studies (مطالعہ پاکستان)';

@@ -1,0 +1,249 @@
+{
+  "chapterNumber": 19,
+  "chapterTitle": "FBISE Class 12 Math Board Simulator 09 (Section A)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Domain of f(x) = √(x - 1) is:",
+      "options": {
+        "A": "[1, ∞)",
+        "B": "(1, ∞)",
+        "C": "(-∞, 1]",
+        "D": "R"
+      },
+      "correctAnswer": "A",
+      "explanation": "x - 1 ≥ 0 ⇒ x ≥ 1. Domain = [1, ∞)."
+    },
+    {
+      "id": 2,
+      "question": "sinh(0) is equal to:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "-1",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "sinh(0) = (e^0 - e^0)/2 = 0/2 = 0."
+    },
+    {
+      "id": 3,
+      "question": "Value of lim(x → 0) [(sin 4x) / x] is:",
+      "options": {
+        "A": "4",
+        "B": "1",
+        "C": "0",
+        "D": "1/4"
+      },
+      "correctAnswer": "A",
+      "explanation": "4 · lim [sin(4x)/(4x)] = 4 · 1 = 4."
+    },
+    {
+      "id": 4,
+      "question": "Derivative of ln(x) at x = 1 is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "e",
+        "D": "Undefined"
+      },
+      "correctAnswer": "A",
+      "explanation": "d/dx [ln x] = 1/x. At x = 1: 1/1 = 1."
+    },
+    {
+      "id": 5,
+      "question": "Derivative of x³ is:",
+      "options": {
+        "A": "3x²",
+        "B": "x²/3",
+        "C": "3x",
+        "D": "x⁴/4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Power rule: 3x²."
+    },
+    {
+      "id": 6,
+      "question": "What is ∫ 2x dx?",
+      "options": {
+        "A": "x² + c",
+        "B": "2x² + c",
+        "C": "x + c",
+        "D": "2 + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "2(x²/2) + c = x² + c."
+    },
+    {
+      "id": 7,
+      "question": "What is ∫ e^(-x) dx?",
+      "options": {
+        "A": "-e^(-x) + c",
+        "B": "e^(-x) + c",
+        "C": "-e^x + c",
+        "D": "e^x + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "-e^(-x) + c."
+    },
+    {
+      "id": 8,
+      "question": "Value of ∫₀^2 1 dx is:",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "0",
+        "D": "4"
+      },
+      "correctAnswer": "A",
+      "explanation": "[x]₀² = 2 - 0 = 2."
+    },
+    {
+      "id": 9,
+      "question": "Order of d²y/dx² + dy/dx = 0 is:",
+      "options": {
+        "A": "2",
+        "B": "1",
+        "C": "0",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Highest derivative order is 2."
+    },
+    {
+      "id": 10,
+      "question": "Solution of dy/dx = 3 is:",
+      "options": {
+        "A": "y = 3x + c",
+        "B": "y = 3 + c",
+        "C": "y = x³ + c",
+        "D": "y = 3x² + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "y = 3x + c."
+    },
+    {
+      "id": 11,
+      "question": "If s = 10t - 5t², velocity v at t = 1 s is:",
+      "options": {
+        "A": "0 m/s",
+        "B": "5 m/s",
+        "C": "10 m/s",
+        "D": "-5 m/s"
+      },
+      "correctAnswer": "A",
+      "explanation": "v = ds/dt = 10 - 10t. At t = 1: 10 - 10 = 0 m/s."
+    },
+    {
+      "id": 12,
+      "question": "Unit of acceleration is:",
+      "options": {
+        "A": "m/s²",
+        "B": "m/s",
+        "C": "m · s",
+        "D": "m²"
+      },
+      "correctAnswer": "A",
+      "explanation": "Acceleration is meters per second squared (m/s²)."
+    },
+    {
+      "id": 13,
+      "question": "Equation of y-axis is:",
+      "options": {
+        "A": "x = 0",
+        "B": "y = 0",
+        "C": "x = 1",
+        "D": "y = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "On the y-axis, x = 0."
+    },
+    {
+      "id": 14,
+      "question": "Slope of the line y = 7 is:",
+      "options": {
+        "A": "0",
+        "B": "7",
+        "C": "Undefined",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Horizontal line has slope 0."
+    },
+    {
+      "id": 15,
+      "question": "Radius of x² + y² = 25 is:",
+      "options": {
+        "A": "5",
+        "B": "25",
+        "C": "10",
+        "D": "√5"
+      },
+      "correctAnswer": "A",
+      "explanation": "r = √25 = 5."
+    },
+    {
+      "id": 16,
+      "question": "Eccentricity of hyperbola is:",
+      "options": {
+        "A": "> 1",
+        "B": "< 1",
+        "C": "1",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "For hyperbola, e > 1."
+    },
+    {
+      "id": 17,
+      "question": "Magnitude of i + j + k is:",
+      "options": {
+        "A": "√3",
+        "B": "3",
+        "C": "1",
+        "D": "√2"
+      },
+      "correctAnswer": "A",
+      "explanation": "√(1² + 1² + 1²) = √3."
+    },
+    {
+      "id": 18,
+      "question": "i · j equals:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "k",
+        "D": "-1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Perpendicular unit vectors: i · j = 0."
+    },
+    {
+      "id": 19,
+      "question": "In linear programming, x ≥ 0 and y ≥ 0 are called:",
+      "options": {
+        "A": "Non-negativity constraints",
+        "B": "Objective functions",
+        "C": "Slack variables",
+        "D": "Boundary lines"
+      },
+      "correctAnswer": "A",
+      "explanation": "They restrict solutions to positive or zero values."
+    },
+    {
+      "id": 20,
+      "question": "Percentage error is:",
+      "options": {
+        "A": "Relative error × 100%",
+        "B": "Absolute error × 100",
+        "C": "Relative error / 100",
+        "D": "True / 100"
+      },
+      "correctAnswer": "A",
+      "explanation": "Percentage error = E_rel × 100%."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}

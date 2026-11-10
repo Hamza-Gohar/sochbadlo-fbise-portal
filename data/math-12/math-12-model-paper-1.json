@@ -1,0 +1,249 @@
+{
+  "chapterNumber": 11,
+  "chapterTitle": "FBISE Class 12 Math Board Simulator 01 (Section A)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The domain of f(x) = √(16 - x²) is:",
+      "options": {
+        "A": "[-4, 4]",
+        "B": "(-4, 4)",
+        "C": "x ≥ 4",
+        "D": "R - {-4, 4}"
+      },
+      "correctAnswer": "A",
+      "explanation": "16 - x² ≥ 0 ⇒ x² ≤ 16 ⇒ -4 ≤ x ≤ 4. Domain is [-4, 4]."
+    },
+    {
+      "id": 2,
+      "question": "If f(x) = 2x + 7, then the inverse f⁻¹(x) is:",
+      "options": {
+        "A": "(x - 7)/2",
+        "B": "(x + 7)/2",
+        "C": "2x - 7",
+        "D": "1/(2x + 7)"
+      },
+      "correctAnswer": "A",
+      "explanation": "y = 2x + 7 ⇒ 2x = y - 7 ⇒ x = (y - 7)/2 ⇒ f⁻¹(x) = (x - 7)/2."
+    },
+    {
+      "id": 3,
+      "question": "What is lim(x → 0) [sin(5x) / (3x)]?",
+      "options": {
+        "A": "5/3",
+        "B": "3/5",
+        "C": "1",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "lim(x → 0) [sin(5x)/(5x)] · (5/3) = 1 · (5/3) = 5/3."
+    },
+    {
+      "id": 4,
+      "question": "Derivative of f(x) = ln(sec x) is:",
+      "options": {
+        "A": "tan(x)",
+        "B": "sec(x)",
+        "C": "-tan(x)",
+        "D": "sec²(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "f'(x) = (1/sec x)(sec x tan x) = tan(x)."
+    },
+    {
+      "id": 5,
+      "question": "If y = e^(3x), what is d²y/dx²?",
+      "options": {
+        "A": "9 e^(3x)",
+        "B": "3 e^(3x)",
+        "C": "6 e^(3x)",
+        "D": "e^(3x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "dy/dx = 3 e^(3x), d²y/dx² = 3 · 3 e^(3x) = 9 e^(3x)."
+    },
+    {
+      "id": 6,
+      "question": "What is ∫ sec²(3x) dx?",
+      "options": {
+        "A": "(1/3) tan(3x) + c",
+        "B": "3 tan(3x) + c",
+        "C": "tan(3x) + c",
+        "D": "(1/3) sec(3x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫ sec²(kx) dx = (1/k) tan(kx) + c. Here k = 3, so (1/3) tan(3x) + c."
+    },
+    {
+      "id": 7,
+      "question": "What is the value of ∫₀¹ 3x² dx?",
+      "options": {
+        "A": "1",
+        "B": "3",
+        "C": "1/3",
+        "D": "0"
+      },
+      "correctAnswer": "A",
+      "explanation": "[x³]₀¹ = 1³ - 0 = 1."
+    },
+    {
+      "id": 8,
+      "question": "What is ∫ [1 / (1 + x²)] dx?",
+      "options": {
+        "A": "tan⁻¹(x) + c",
+        "B": "sin⁻¹(x) + c",
+        "C": "ln(1 + x²) + c",
+        "D": "-cot⁻¹(x) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Standard integral: d/dx [tan⁻¹(x)] = 1/(1 + x²), so ∫ 1/(1 + x²) dx = tan⁻¹(x) + c."
+    },
+    {
+      "id": 9,
+      "question": "What is the order of the differential equation d²y/dx² + (dy/dx)⁴ = y?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "1",
+        "D": "6"
+      },
+      "correctAnswer": "A",
+      "explanation": "The highest derivative present is d²y/dx², which is of order 2."
+    },
+    {
+      "id": 10,
+      "question": "General solution of dy/dx = 4x is:",
+      "options": {
+        "A": "y = 2x² + c",
+        "B": "y = 4x² + c",
+        "C": "y = x² + c",
+        "D": "y = 4 + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "dy = 4x dx ⇒ y = 4(x²/2) + c = 2x² + c."
+    },
+    {
+      "id": 11,
+      "question": "If displacement s(t) = 2t² + 3t, the velocity at t = 3 s is:",
+      "options": {
+        "A": "15 m/s",
+        "B": "12 m/s",
+        "C": "18 m/s",
+        "D": "9 m/s"
+      },
+      "correctAnswer": "A",
+      "explanation": "v = ds/dt = 4t + 3. At t = 3: v = 4(3) + 3 = 12 + 3 = 15 m/s."
+    },
+    {
+      "id": 12,
+      "question": "Acceleration of a particle moving with s(t) = 5t² - 2t is:",
+      "options": {
+        "A": "10 m/s²",
+        "B": "5 m/s²",
+        "C": "2 m/s²",
+        "D": "0 m/s²"
+      },
+      "correctAnswer": "A",
+      "explanation": "v = 10t - 2 ⇒ a = dv/dt = 10 m/s²."
+    },
+    {
+      "id": 13,
+      "question": "The slope of the line 4x - 2y + 7 = 0 is:",
+      "options": {
+        "A": "2",
+        "B": "-2",
+        "C": "1/2",
+        "D": "-1/2"
+      },
+      "correctAnswer": "A",
+      "explanation": "2y = 4x + 7 ⇒ y = 2x + 7/2. The slope m = 2."
+    },
+    {
+      "id": 14,
+      "question": "The distance between points (0, 0) and (6, 8) is:",
+      "options": {
+        "A": "10",
+        "B": "14",
+        "C": "√14",
+        "D": "48"
+      },
+      "correctAnswer": "A",
+      "explanation": "d = √(6² + 8²) = √(36 + 64) = √100 = 10."
+    },
+    {
+      "id": 15,
+      "question": "What is the center of the circle x² + y² - 6x + 8y = 0?",
+      "options": {
+        "A": "(3, -4)",
+        "B": "(-3, 4)",
+        "C": "(6, -8)",
+        "D": "(-6, 8)"
+      },
+      "correctAnswer": "A",
+      "explanation": "2g = -6 ⇒ g = -3; 2f = 8 ⇒ f = 4. Center = (-g, -f) = (3, -4)."
+    },
+    {
+      "id": 16,
+      "question": "The eccentricity of a parabola is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "< 1",
+        "D": "> 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "By definition, the eccentricity of any parabola is identically 1."
+    },
+    {
+      "id": 17,
+      "question": "What is the magnitude of the vector u = i - 2j + 2k?",
+      "options": {
+        "A": "3",
+        "B": "9",
+        "C": "√5",
+        "D": "1"
+      },
+      "correctAnswer": "A",
+      "explanation": "|u| = √(1² + (-2)² + 2²) = √(1 + 4 + 4) = √9 = 3."
+    },
+    {
+      "id": 18,
+      "question": "If a · b = 0 for non-zero vectors a and b, the angle between them is:",
+      "options": {
+        "A": "90° (π/2 rad)",
+        "B": "0°",
+        "C": "180°",
+        "D": "45°"
+      },
+      "correctAnswer": "A",
+      "explanation": "a · b = |a||b| cos θ = 0 ⇒ cos θ = 0 ⇒ θ = 90°."
+    },
+    {
+      "id": 19,
+      "question": "For feasible region corner points (0, 0), (2, 0), (0, 3), the maximum of z = 4x + 3y is:",
+      "options": {
+        "A": "9",
+        "B": "8",
+        "C": "0",
+        "D": "12"
+      },
+      "correctAnswer": "A",
+      "explanation": "z(0, 0) = 0; z(2, 0) = 4(2) = 8; z(0, 3) = 3(3) = 9. Maximum is 9 at (0, 3)."
+    },
+    {
+      "id": 20,
+      "question": "The order of convergence of Newton-Raphson method is:",
+      "options": {
+        "A": "2 (quadratic)",
+        "B": "1 (linear)",
+        "C": "1.618",
+        "D": "3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Newton-Raphson has quadratic convergence (order 2) near simple roots."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}

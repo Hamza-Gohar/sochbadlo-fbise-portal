@@ -1,0 +1,249 @@
+{
+  "chapterNumber": 15,
+  "chapterTitle": "FBISE Class 12 Math Board Simulator 05 (Section A)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "If f(x) = cos(x), then f(-x) equals:",
+      "options": {
+        "A": "cos(x)",
+        "B": "-cos(x)",
+        "C": "sin(x)",
+        "D": "-sin(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "cos(-x) = cos(x) because cosine is an even function."
+    },
+    {
+      "id": 2,
+      "question": "Parametric equations x = a cos θ, y = a sin θ represent a:",
+      "options": {
+        "A": "Circle of radius a",
+        "B": "Parabola",
+        "C": "Ellipse",
+        "D": "Hyperbola"
+      },
+      "correctAnswer": "A",
+      "explanation": "x² + y² = a²(cos²θ + sin²θ) = a²."
+    },
+    {
+      "id": 3,
+      "question": "Value of lim(n → ∞) (1 + 1/n)^n is:",
+      "options": {
+        "A": "e",
+        "B": "1",
+        "C": "0",
+        "D": "∞"
+      },
+      "correctAnswer": "A",
+      "explanation": "Standard definition of Euler's number e."
+    },
+    {
+      "id": 4,
+      "question": "Derivative of f(x) = sin⁻¹(x) is:",
+      "options": {
+        "A": "1/√(1 - x²)",
+        "B": "-1/√(1 - x²)",
+        "C": "1/(1 + x²)",
+        "D": "cos(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "d/dx [sin⁻¹ x] = 1/√(1 - x²)."
+    },
+    {
+      "id": 5,
+      "question": "Derivative of e^(sin x) is:",
+      "options": {
+        "A": "cos(x) · e^(sin x)",
+        "B": "sin(x) · e^(sin x)",
+        "C": "e^(sin x)",
+        "D": "-cos(x) e^(sin x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "By chain rule: e^(sin x) · d/dx(sin x) = cos x · e^(sin x)."
+    },
+    {
+      "id": 6,
+      "question": "What is ∫ [2x / (x² + 5)] dx?",
+      "options": {
+        "A": "ln(x² + 5) + c",
+        "B": "2 ln(x² + 5) + c",
+        "C": "tan⁻¹(x) + c",
+        "D": "1/(x² + 5) + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Numerator is derivative of denominator: ln|x² + 5| + c."
+    },
+    {
+      "id": 7,
+      "question": "What is ∫ tan(x) dx?",
+      "options": {
+        "A": "ln|sec x| + c",
+        "B": "-ln|sec x| + c",
+        "C": "sec²x + c",
+        "D": "ln|cos x| + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫ tan x dx = ln|sec x| + c."
+    },
+    {
+      "id": 8,
+      "question": "Area under y = 2x from x = 0 to x = 3 is:",
+      "options": {
+        "A": "9",
+        "B": "6",
+        "C": "18",
+        "D": "12"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫₀³ 2x dx = [x²]₀³ = 3² - 0 = 9 square units."
+    },
+    {
+      "id": 9,
+      "question": "The differential equation of y = mx (lines through origin) is:",
+      "options": {
+        "A": "y = x (dy/dx)",
+        "B": "dy/dx = y",
+        "C": "d²y/dx² = 0",
+        "D": "x + y = dy/dx"
+      },
+      "correctAnswer": "A",
+      "explanation": "dy/dx = m ⇒ y = (dy/dx)x ⇒ y = x(dy/dx)."
+    },
+    {
+      "id": 10,
+      "question": "Solution of dy/dx = e^x is:",
+      "options": {
+        "A": "y = e^x + c",
+        "B": "y = e^x",
+        "C": "y = ln x + c",
+        "D": "y = x e^x + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫ dy = ∫ e^x dx ⇒ y = e^x + c."
+    },
+    {
+      "id": 11,
+      "question": "If s(t) = 4t³ - 6t², the acceleration at t = 1 s is:",
+      "options": {
+        "A": "12 m/s²",
+        "B": "24 m/s²",
+        "C": "0 m/s²",
+        "D": "6 m/s²"
+      },
+      "correctAnswer": "A",
+      "explanation": "v = 12t² - 12t ⇒ a = 24t - 12. At t = 1: a = 24(1) - 12 = 12 m/s²."
+    },
+    {
+      "id": 12,
+      "question": "Time of flight for vertical projection with velocity u is:",
+      "options": {
+        "A": "2u / g",
+        "B": "u / g",
+        "C": "u² / (2g)",
+        "D": "u / (2g)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Time up = u/g, time down = u/g, total time = 2u/g."
+    },
+    {
+      "id": 13,
+      "question": "Distance between parallel lines y = 2x + 3 and y = 2x - 7 is:",
+      "options": {
+        "A": "10 / √5 = 2√5",
+        "B": "10",
+        "C": "4",
+        "D": "5"
+      },
+      "correctAnswer": "A",
+      "explanation": "d = |3 - (-7)| / √(2² + 1²) = 10 / √5 = 2√5."
+    },
+    {
+      "id": 14,
+      "question": "Slope of a horizontal line is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "Undefined",
+        "D": "-1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Horizontal lines have inclination θ = 0° ⇒ m = tan(0°) = 0."
+    },
+    {
+      "id": 15,
+      "question": "Directrix of parabola y² = 8x is:",
+      "options": {
+        "A": "x = -2",
+        "B": "x = 2",
+        "C": "y = -2",
+        "D": "y = 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "4a = 8 ⇒ a = 2. Directrix is x = -a = -2."
+    },
+    {
+      "id": 16,
+      "question": "Eccentricity of rectangular hyperbola x² - y² = a² is:",
+      "options": {
+        "A": "√2",
+        "B": "2",
+        "C": "1",
+        "D": "1/√2"
+      },
+      "correctAnswer": "A",
+      "explanation": "e = √(1 + b²/a²) = √(1 + 1) = √2."
+    },
+    {
+      "id": 17,
+      "question": "Volume of parallelepiped with coterminous edges a, b, c is:",
+      "options": {
+        "A": "|a · (b × c)|",
+        "B": "(1/6) |a · (b × c)|",
+        "C": "|a × (b × c)|",
+        "D": "a · b · c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Standard scalar triple product [a b c] gives parallelepiped volume."
+    },
+    {
+      "id": 18,
+      "question": "If u = 2i + j - 2k, its unit vector û is:",
+      "options": {
+        "A": "(2/3)i + (1/3)j - (2/3)k",
+        "B": "(2/9)i + (1/9)j - (2/9)k",
+        "C": "2i + j - 2k",
+        "D": "(1/3)(i + j + k)"
+      },
+      "correctAnswer": "A",
+      "explanation": "|u| = √(4 + 1 + 4) = √9 = 3. û = u/3 = (2/3)i + (1/3)j - (2/3)k."
+    },
+    {
+      "id": 19,
+      "question": "The feasible region must be a:",
+      "options": {
+        "A": "Convex set",
+        "B": "Concave set",
+        "C": "Circular set",
+        "D": "Disconnected set"
+      },
+      "correctAnswer": "A",
+      "explanation": "Intersection of half-planes is always a convex polygonal region."
+    },
+    {
+      "id": 20,
+      "question": "In Bisection method, if f(a)·f(b) < 0, there is at least:",
+      "options": {
+        "A": "One real root in (a, b)",
+        "B": "No roots",
+        "C": "Two roots",
+        "D": "Zero error"
+      },
+      "correctAnswer": "A",
+      "explanation": "Intermediate Value Theorem guarantees at least one root."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}

@@ -1,0 +1,249 @@
+{
+  "chapterNumber": 12,
+  "chapterTitle": "FBISE Class 12 Math Board Simulator 02 (Section A)",
+  "totalQuestions": 20,
+  "questions": [
+    {
+      "id": 1,
+      "question": "The function f(x) = x³ + 5x is an:",
+      "options": {
+        "A": "Odd function",
+        "B": "Even function",
+        "C": "Periodic function",
+        "D": "Exponential function"
+      },
+      "correctAnswer": "A",
+      "explanation": "f(-x) = (-x)³ + 5(-x) = -(x³ + 5x) = -f(x). Thus it is an odd function."
+    },
+    {
+      "id": 2,
+      "question": "Range of f(x) = √(9 - x²) is:",
+      "options": {
+        "A": "[0, 3]",
+        "B": "[-3, 3]",
+        "C": "[0, 9]",
+        "D": "(0, 3]"
+      },
+      "correctAnswer": "A",
+      "explanation": "For x ∈ [-3, 3], f(x) ranges between √(9 - 9) = 0 and √9 = 3. Range = [0, 3]."
+    },
+    {
+      "id": 3,
+      "question": "What is lim(x → 0) [(e^(3x) - 1) / x]?",
+      "options": {
+        "A": "3",
+        "B": "1",
+        "C": "1/3",
+        "D": "e³"
+      },
+      "correctAnswer": "A",
+      "explanation": "lim(x → 0) [(e^(3x) - 1) / (3x)] · 3 = 1 · 3 = 3."
+    },
+    {
+      "id": 4,
+      "question": "What is the derivative of f(x) = cot⁻¹(x)?",
+      "options": {
+        "A": "-1/(1 + x²)",
+        "B": "1/(1 + x²)",
+        "C": "-1/√(1 - x²)",
+        "D": "-csc²(x)"
+      },
+      "correctAnswer": "A",
+      "explanation": "d/dx [cot⁻¹(x)] = -1/(1 + x²)."
+    },
+    {
+      "id": 5,
+      "question": "If y = ln(x²), what is dy/dx?",
+      "options": {
+        "A": "2/x",
+        "B": "1/x²",
+        "C": "2x",
+        "D": "x/2"
+      },
+      "correctAnswer": "A",
+      "explanation": "y = 2 ln x ⇒ dy/dx = 2/x."
+    },
+    {
+      "id": 6,
+      "question": "What is ∫ (2x + 3) dx?",
+      "options": {
+        "A": "x² + 3x + c",
+        "B": "2x² + 3x + c",
+        "C": "x² + c",
+        "D": "2 + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫ 2x dx + ∫ 3 dx = x² + 3x + c."
+    },
+    {
+      "id": 7,
+      "question": "What is ∫ [cos x / sin x] dx?",
+      "options": {
+        "A": "ln|sin x| + c",
+        "B": "ln|cos x| + c",
+        "C": "-csc x + c",
+        "D": "sin²x + c"
+      },
+      "correctAnswer": "A",
+      "explanation": "∫ cot x dx = ln|sin x| + c."
+    },
+    {
+      "id": 8,
+      "question": "Value of ∫₀^(π/4) sec²(x) dx is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "√2",
+        "D": "2"
+      },
+      "correctAnswer": "A",
+      "explanation": "[tan x]₀^(π/4) = tan(π/4) - tan(0) = 1 - 0 = 1."
+    },
+    {
+      "id": 9,
+      "question": "Integrating factor of dy/dx + 2y = 4 is:",
+      "options": {
+        "A": "e^(2x)",
+        "B": "e^(-2x)",
+        "C": "2x",
+        "D": "e^x"
+      },
+      "correctAnswer": "A",
+      "explanation": "I.F. = e^(∫ 2 dx) = e^(2x)."
+    },
+    {
+      "id": 10,
+      "question": "Solution of dy/dx = -y/x is:",
+      "options": {
+        "A": "x y = c",
+        "B": "y = c x",
+        "C": "x + y = c",
+        "D": "x² + y² = c"
+      },
+      "correctAnswer": "A",
+      "explanation": "dy/y = -dx/x ⇒ ln y = -ln x + ln c ⇒ ln(xy) = ln c ⇒ xy = c."
+    },
+    {
+      "id": 11,
+      "question": "A particle moves such that s(t) = t³ - 3t. It stops when t equals:",
+      "options": {
+        "A": "1 s",
+        "B": "3 s",
+        "C": "0 s",
+        "D": "√3 s"
+      },
+      "correctAnswer": "A",
+      "explanation": "v = ds/dt = 3t² - 3 = 0 ⇒ t² = 1 ⇒ t = 1 s (for t > 0)."
+    },
+    {
+      "id": 12,
+      "question": "The distance traveled in the 1st second from rest with a = 4 m/s² is:",
+      "options": {
+        "A": "2 m",
+        "B": "4 m",
+        "C": "1 m",
+        "D": "8 m"
+      },
+      "correctAnswer": "A",
+      "explanation": "s₁ = 0 + (4/2)(2(1) - 1) = 2(1) = 2 m."
+    },
+    {
+      "id": 13,
+      "question": "Equation of the line passing through (0, 0) with slope -3 is:",
+      "options": {
+        "A": "3x + y = 0",
+        "B": "3x - y = 0",
+        "C": "x + 3y = 0",
+        "D": "y - 3x = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "y = -3x ⇒ 3x + y = 0."
+    },
+    {
+      "id": 14,
+      "question": "If lines with slopes m₁ and m₂ are perpendicular, then:",
+      "options": {
+        "A": "m₁ · m₂ = -1",
+        "B": "m₁ = m₂",
+        "C": "m₁ + m₂ = 0",
+        "D": "m₁ · m₂ = 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Standard perpendicularity condition in analytic geometry is m₁ · m₂ = -1."
+    },
+    {
+      "id": 15,
+      "question": "Radius of the circle x² + y² = 36 is:",
+      "options": {
+        "A": "6",
+        "B": "36",
+        "C": "18",
+        "D": "12"
+      },
+      "correctAnswer": "A",
+      "explanation": "r = √36 = 6."
+    },
+    {
+      "id": 16,
+      "question": "Focus of the parabola y² = 16x is:",
+      "options": {
+        "A": "(4, 0)",
+        "B": "(0, 4)",
+        "C": "(16, 0)",
+        "D": "(2, 0)"
+      },
+      "correctAnswer": "A",
+      "explanation": "4a = 16 ⇒ a = 4. Focus is (4, 0)."
+    },
+    {
+      "id": 17,
+      "question": "What is i × i?",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "k",
+        "D": "-k"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cross product of any vector with itself is the zero vector: i × i = 0."
+    },
+    {
+      "id": 18,
+      "question": "What is i · i?",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "k",
+        "D": "-1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dot product of a unit vector with itself is |i|² = 1."
+    },
+    {
+      "id": 19,
+      "question": "A linear inequality ax + by ≤ c divides the plane into two:",
+      "options": {
+        "A": "Half-planes",
+        "B": "Quadrants",
+        "C": "Circles",
+        "D": "Segments"
+      },
+      "correctAnswer": "A",
+      "explanation": "The boundary line divides the coordinate plane into two half-planes."
+    },
+    {
+      "id": 20,
+      "question": "Bisection method halving rate means the error is multiplied each step by:",
+      "options": {
+        "A": "1/2",
+        "B": "1/4",
+        "C": "1/10",
+        "D": "2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Each iteration halves the bracket width, multiplying the maximum error bound by 1/2."
+    }
+  ],
+  "subject": "math-12",
+  "grade": "12"
+}
