@@ -1,0 +1,214 @@
+{
+  "chapterNumber": 18,
+  "chapterTitle": "Annual Board Examination Section A Simulator 5 (17 Marks · 25 Min)",
+  "title": "Annual Board Examination Section A Simulator 5 (17 Marks · 25 Min)",
+  "slug": "biology-12-model-paper-5",
+  "totalQuestions": 17,
+  "subject": "biology-12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the primary function of carbonic anhydrase located inside human red blood cells?",
+      "options": {
+        "A": "Directly hydrolyzing hemoglobin into globin proteins",
+        "B": "Rapidly catalyzing the reversible hydration of carbon dioxide to carbonic acid (CO2 + H2O <-> H2CO3)",
+        "C": "Oxidizing ferrous iron (Fe2+) to ferric iron (Fe3+)",
+        "D": "Synthesizing 2,3-bisphosphoglycerate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbonic anhydrase accelerates the reversible reaction CO2 + H2O <-> H2CO3 by thousands of times, converting peripheral CO2 into carbonic acid, which dissociates into protons and bicarbonate."
+    },
+    {
+      "id": 2,
+      "question": "In the human kidney, the glomerular filtration rate (GFR) of a normal healthy adult is approximately:",
+      "options": {
+        "A": "15 mL/min (~20 L/day)",
+        "B": "125 mL/min (~180 L/day)",
+        "C": "500 mL/min (~720 L/day)",
+        "D": "1.5 mL/min (~2 L/day)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Glomerular Filtration Rate (GFR) averages 125 mL/min (180 liters per day) in a healthy human adult. Over 99% of this filtrate is reabsorbed along the tubular nephron, producing ~1.5 liters of urine."
+    },
+    {
+      "id": 3,
+      "question": "What provides the immediate chemical energy required for the detachment of the myosin head from the actin binding site during muscle relaxation?",
+      "options": {
+        "A": "Hydrolysis of creatine phosphate",
+        "B": "Binding of a new ATP molecule to the myosin head",
+        "C": "Calcium ion influx into the T-tubules",
+        "D": "Lactic acid oxidation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Binding of a new ATP molecule to the nucleotide pocket of the myosin head causes a conformational shift that detaches myosin from the actin filament. In death, ATP depletion prevents this detachment, causing rigor mortis."
+    },
+    {
+      "id": 4,
+      "question": "The primary inhibitory neurotransmitter in the human brain that increases chloride conductance to hyperpolarize postsynaptic neurons is:",
+      "options": {
+        "A": "Glutamate",
+        "B": "GABA (Gamma-Aminobutyric Acid)",
+        "C": "Dopamine",
+        "D": "Substance P"
+      },
+      "correctAnswer": "B",
+      "explanation": "GABA is the chief inhibitory neurotransmitter in the mammalian central nervous system. Binding to GABAA receptors opens integral chloride channels, causing hyperpolarization (IPSPs)."
+    },
+    {
+      "id": 5,
+      "question": "Which adrenal cortical hormone regulates sodium reabsorption and potassium excretion in the distal tubules and collecting ducts of the nephron?",
+      "options": {
+        "A": "Cortisol",
+        "B": "Aldosterone",
+        "C": "Dehydroepiandrosterone (DHEA)",
+        "D": "Epinephrine"
+      },
+      "correctAnswer": "B",
+      "explanation": "Aldosterone, a mineralocorticoid secreted by the zona glomerulosa of the adrenal cortex, upregulates basolateral Na+/K+ ATPase pumps and epithelial sodium channels (ENaC) to reclaim Na+ into the bloodstream."
+    },
+    {
+      "id": 6,
+      "question": "B.F. Skinner's 'Skinner Box' experiments, where rats learned to press a lever to receive a food pellet (reinforcement), demonstrated:",
+      "options": {
+        "A": "Classical conditioning",
+        "B": "Operant conditioning (instrumental learning)",
+        "C": "Habituation",
+        "D": "Innate fixed action pattern"
+      },
+      "correctAnswer": "B",
+      "explanation": "Operant conditioning involves learning associations between an animal's voluntary behavioral actions and the rewarding or punishing consequences that follow."
+    },
+    {
+      "id": 7,
+      "question": "In human female reproduction, which hormone maintains the corpus luteum and prevents menstruation during early pregnancy until the placenta takes over?",
+      "options": {
+        "A": "Oxytocin",
+        "B": "Prolactin",
+        "C": "Human Chorionic Gonadotropin (hCG)",
+        "D": "Follicle-Stimulating Hormone (FSH)"
+      },
+      "correctAnswer": "C",
+      "explanation": "hCG, secreted by the blastocyst's syncytiotrophoblast, mimics LH to preserve the corpus luteum, sustaining progesterone output to maintain the decidual endometrium and prevent menses."
+    },
+    {
+      "id": 8,
+      "question": "Which germ layer during embryonic gastrulation gives rise to skeletal bones, muscles, circulatory vessels, and the kidneys?",
+      "options": {
+        "A": "Ectoderm",
+        "B": "Endoderm",
+        "C": "Mesoderm",
+        "D": "Trophoblast"
+      },
+      "correctAnswer": "C",
+      "explanation": "The mesoderm gives rise to skeletal muscle, cardiac muscle, skeletal bones, connective tissues, dermis of skin, cardiovascular system, kidneys, and gonads."
+    },
+    {
+      "id": 9,
+      "question": "Which feature of the genetic code signifies that more than one codon can specify the same single amino acid (e.g., 6 codons for Leucine)?",
+      "options": {
+        "A": "Universality",
+        "B": "Degeneracy (Redundancy)",
+        "C": "Non-overlapping nature",
+        "D": "Ambiguity"
+      },
+      "correctAnswer": "B",
+      "explanation": "The genetic code is degenerate (redundant) because 61 codons specify only 20 standard amino acids, meaning multiple triplet codons can code for the same amino acid, providing buffering against silent point mutations."
+    },
+    {
+      "id": 10,
+      "question": "Hemophilia A is inherited as an X-linked recessive trait. If a normal man marries a female carrier, what is the chance of having a hemophilic daughter?",
+      "options": {
+        "A": "0%",
+        "B": "25%",
+        "C": "50%",
+        "D": "100%"
+      },
+      "correctAnswer": "A",
+      "explanation": "A daughter receives one X chromosome from the father. Because the father is normal (XHY), all daughters inherit his normal dominant XH allele, making it impossible (0%) for a daughter to manifest hemophilia."
+    },
+    {
+      "id": 11,
+      "question": "Which evolutionary concept states that evolutionary change occurs in rapid bursts of speciation interspersed with long periods of morphological stasis?",
+      "options": {
+        "A": "Phyletic gradualism",
+        "B": "Punctuated equilibrium (Eldredge and Gould)",
+        "C": "Lamarckian transformism",
+        "D": "Catastrophism"
+      },
+      "correctAnswer": "B",
+      "explanation": "Proposed by Niles Eldredge and Stephen Jay Gould, punctuated equilibrium suggests that species remain morphologically stable over long geologic periods (stasis), punctuated by rapid evolutionary diversification."
+    },
+    {
+      "id": 12,
+      "question": "In recombinant DNA technology, what is the function of antibiotic resistance genes (such as ampR) in bacterial plasmid vectors?",
+      "options": {
+        "A": "Promoting transcription of foreign cDNA",
+        "B": "Acting as selectable markers to identify host bacteria that have successfully taken up the plasmid",
+        "C": "Cleaving genomic host DNA",
+        "D": "Inhibiting bacterial replication"
+      },
+      "correctAnswer": "B",
+      "explanation": "Selectable markers like ampicillin resistance (ampR) allow researchers to distinguish transformed bacterial cells from non-transformed cells: only bacteria harboring the plasmid can grow on antibiotic-treated agar plates."
+    },
+    {
+      "id": 13,
+      "question": "Which biological interaction occurs when one species benefits while the other species is neither helped nor harmed (+/0 relationship)?",
+      "options": {
+        "A": "Mutualism",
+        "B": "Parasitism",
+        "C": "Commensalism",
+        "D": "Amensalism"
+      },
+      "correctAnswer": "C",
+      "explanation": "Commensalism is an interspecific symbiotic interaction where one organism derives benefit (e.g., epiphytic orchids on tree branches) without conferring either benefit or harm to the host organism."
+    },
+    {
+      "id": 14,
+      "question": "The total volume of air that can be forcibly expired after maximal voluntary inspiration is called:",
+      "options": {
+        "A": "Vital capacity (VC)",
+        "B": "Residual volume (RV)",
+        "C": "Tidal volume (TV)",
+        "D": "Functional residual capacity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vital Capacity (VC) is the maximum volume of air exhaled after full inhalation: VC = TV (Tidal Volume) + IRV (Inspiratory Reserve Volume) + ERV (Expiratory Reserve Volume), typically ~4,600 mL in healthy young males."
+    },
+    {
+      "id": 15,
+      "question": "In human nephrons, the loop diuretic Furosemide (Lasix) exerts its potent natriuretic effect by inhibiting which cotransporter in the thick ascending limb?",
+      "options": {
+        "A": "Na+/glucose cotransporter (SGLT2)",
+        "B": "Na+/K+/2Cl- cotransporter (NKCC2)",
+        "C": "Na+/H+ antiporter",
+        "D": "Aquaporin-1 channel"
+      },
+      "correctAnswer": "B",
+      "explanation": "Loop diuretics inhibit the Na+/K+/2Cl- cotransporter (NKCC2) in the apical membrane of the thick ascending limb of Henle, dissipating the medullary gradient and dramatically reducing water reabsorption."
+    },
+    {
+      "id": 16,
+      "question": "The Cloverleaf model of transfer RNA (tRNA) possesses an anticodon loop that recognizes and base-pairs with:",
+      "options": {
+        "A": "The 3' poly-A tail of mRNA",
+        "B": "The complementary triplet codon on mRNA",
+        "C": "Ribosomal 28S rRNA directly",
+        "D": "DNA promoter TATA boxes"
+      },
+      "correctAnswer": "B",
+      "explanation": "The anticodon loop of a tRNA molecule features a specific three-nucleotide sequence that binds in an antiparallel orientation to the complementary triplet codon on the mRNA strand during translation."
+    },
+    {
+      "id": 17,
+      "question": "Which acid is the chief constituent of acid rain, formed when sulfur dioxide emissions react with atmospheric water vapor and oxygen?",
+      "options": {
+        "A": "Hydrochloric acid (HCl)",
+        "B": "Sulfuric acid (H2SO4)",
+        "C": "Carbonic acid (H2CO3)",
+        "D": "Phosphoric acid (H3PO4)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sulfur dioxide (SO2) from burning fossil fuels oxidizes in the atmosphere to sulfur trioxide (SO3), which dissolves in cloud droplets to form sulfuric acid (H2SO4), driving precipitation pH down below 4.5."
+    }
+  ]
+}

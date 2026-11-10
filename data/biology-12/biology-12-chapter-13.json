@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 13,
+  "title": "Unit 13: Ecosystem, Biosphere & Environmental Biology",
+  "slug": "biology-12-chapter-13",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is an 'Ecosystem' in ecological science?",
+      "options": {
+        "A": "A biological community of interacting organisms (biotic factors) and their physical, non-living environment (abiotic factors)",
+        "B": "A group of animals belonging to the exact same species",
+        "C": "The total volume of atmospheric nitrogen on Earth",
+        "D": "A geological rock layer containing dinosaur fossils"
+      },
+      "correctAnswer": "A",
+      "explanation": "An ecosystem includes biotic communities (producers, consumers, decomposers) interacting with abiotic elements (light, water, soil, minerals)."
+    },
+    {
+      "id": 2,
+      "question": "What are 'Autotrophs' (Primary Producers) in an ecosystem's trophic structure?",
+      "options": {
+        "A": "Organisms that synthesize organic nutrients from inorganic raw materials using solar light (photosynthesis) or chemical energy (chemosynthesis)",
+        "B": "Herbivores that feed exclusively on green vegetation",
+        "C": "Carnivores that prey on herbivores",
+        "D": "Fungi that decompose dead animal tissue"
+      },
+      "correctAnswer": "A",
+      "explanation": "Autotrophs (green plants, phytoplankton, cyanobacteria) produce biochemical energy, forming the foundation of terrestrial and aquatic food chains."
+    },
+    {
+      "id": 3,
+      "question": "What is Lindeman's 10% Law of energy transfer between successive trophic levels in an ecosystem?",
+      "options": {
+        "A": "Only approximately 10% of the energy stored as biomass in one trophic level is transferred to the next higher trophic level; ~90% is lost as metabolic heat and waste",
+        "B": "100% of all solar energy hitting leaves is converted into glucose",
+        "C": "Energy increases by 10% as you move up the food chain",
+        "D": "Predators consume 10% of all animals in an ecosystem every year"
+      },
+      "correctAnswer": "A",
+      "explanation": "Due to thermodynamic entropy, cellular respiration, and unconsumed tissue, only ~10% of energy converts into biomass for the next trophic level."
+    },
+    {
+      "id": 4,
+      "question": "Why can ecological food chains rarely sustain more than 4 or 5 successive trophic levels?",
+      "options": {
+        "A": "The progressive 90% loss of energy at each step leaves insufficient energy at high trophic levels to support viable carnivore populations",
+        "B": "Top predators become too large to walk",
+        "C": "Atmospheric oxygen drops at high trophic levels",
+        "D": "Sunlight cannot penetrate through upper tree canopies"
+      },
+      "correctAnswer": "A",
+      "explanation": "Because energy decreases exponentially at each link, top predators (e.g., eagles, tigers, killer whales) hit an energetic ceiling."
+    },
+    {
+      "id": 5,
+      "question": "Which ecological pyramid is ALWAYS upright and can NEVER be inverted in any natural, balanced ecosystem?",
+      "options": {
+        "A": "Pyramid of Energy",
+        "B": "Pyramid of Numbers",
+        "C": "Pyramid of Biomass",
+        "D": "Pyramid of Population Density"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Second Law of Thermodynamics dictates that energy transfer is never 100% efficient; energy pyramids are always strictly upright."
+    },
+    {
+      "id": 6,
+      "question": "In a marine aquatic ecosystem (phytoplankton and zooplankton), why is the Pyramid of Biomass frequently found to be Inverted?",
+      "options": {
+        "A": "Phytoplankton have a very high turnover rate and short lifespan; their small standing biomass reproduces rapidly to support larger zooplankton biomass",
+        "B": "Whales weigh less than microscopic algae",
+        "C": "Phytoplankton do not contain water molecules",
+        "D": "Marine fish do not consume organic food"
+      },
+      "correctAnswer": "A",
+      "explanation": "Phytoplankton reproduce and are consumed rapidly; their small standing crop at any single instant supports a larger, long-lived zooplankton biomass."
+    },
+    {
+      "id": 7,
+      "question": "What is 'Biological Magnification' (Biomagnification)?",
+      "options": {
+        "A": "The progressive increase in the concentration of persistent, non-biodegradable toxins (like DDT, methylmercury, PCBs) at successively higher trophic levels",
+        "B": "The magnification of cellular organelles under an electron microscope",
+        "C": "The rapid population growth of bacterial cultures in petri dishes",
+        "D": "The increase in plant height due to fertilizer application"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fat-soluble, non-metabolized toxins accumulate in fat tissues, concentrating by orders of magnitude as top predators consume lower-level biomass."
+    },
+    {
+      "id": 8,
+      "question": "Why did the widespread agricultural use of the pesticide DDT lead to catastrophic population crashes in apex predatory birds (like bald eagles and peregrine falcons)?",
+      "options": {
+        "A": "Biomagnified DDT disrupted calcium metabolism in oviducts, causing birds to lay thin-shelled eggs that fractured during incubation",
+        "B": "DDT paralyzed the flight muscles of adult raptors",
+        "C": "DDT caused adult birds to become completely blind",
+        "D": "DDT stopped the flow of blood through eagle hearts"
+      },
+      "correctAnswer": "A",
+      "explanation": "DDT and its metabolite DDE inhibit calcium ATPase in shell glands, producing fragile thin eggshells that crush under parental brooding."
+    },
+    {
+      "id": 9,
+      "question": "In the terrestrial Nitrogen Cycle, which bacteria convert atmospheric gaseous nitrogen ($N_2$) into ammonia ($NH_3$) through biological nitrogen fixation?",
+      "options": {
+        "A": "Rhizobium (in legume root nodules) and free-living Azotobacter / Nostoc",
+        "B": "Nitrosomonas and Nitrobacter",
+        "C": "Pseudomonas denitrificans",
+        "D": "Escherichia coli and Salmonella"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nitrogenase-containing diazotrophs (Rhizobium, Azotobacter, Frankia, Nostoc) break the strong $N \\equiv N$ triple bond to fix nitrogen into bioavailable ammonia."
+    },
+    {
+      "id": 10,
+      "question": "Which bacteria carry out 'Nitrification', converting toxic ammonia into nitrites ($NO_2^-$) and subsequently into plant-absorbable nitrates ($NO_3^-$)?",
+      "options": {
+        "A": "Nitrosomonas (ammonia to nitrite) and Nitrobacter (nitrite to nitrate)",
+        "B": "Rhizobium and Clostridium",
+        "C": "Thiobacillus and Streptococcus",
+        "D": "Lactobacillus and Yeast"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chemolithoautotrophic nitrifying bacteria oxidize $NH_3$ to $NO_2^-$ (Nitrosomonas) and $NO_2^-$ to $NO_3^-$ (Nitrobacter) in oxygenated soils."
+    },
+    {
+      "id": 11,
+      "question": "Which ecological process carried out by anaerobic bacteria (like Pseudomonas denitrificans) returns nitrates ($NO_3^-$) back to the atmosphere as gaseous $N_2$?",
+      "options": {
+        "A": "Denitrification",
+        "B": "Ammonification",
+        "C": "Nitrogen Fixation",
+        "D": "Assimilation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Denitrifying bacteria use nitrate as a terminal electron acceptor in anaerobic waterlogged soils, reducing $NO_3^-$ back to inert atmospheric $N_2$ gas."
+    },
+    {
+      "id": 12,
+      "question": "What is 'Primary Ecological Succession'?",
+      "options": {
+        "A": "The predictable process of community development and species replacement starting on a barren, newly formed substrate initially devoid of soil (e.g., bare rock, lava flow, retreating glacier)",
+        "B": "The recovery of a forest after a wildfire",
+        "C": "The annual seasonal migration of caribou herds",
+        "D": "The cultivation of wheat crops in agricultural fields"
+      },
+      "correctAnswer": "A",
+      "explanation": "Primary succession begins on sterile substrates lacking pre-existing organic soil, where pioneer lichens weather bare rock to build initial humus."
+    },
+    {
+      "id": 13,
+      "question": "What are the typical 'Pioneer Species' that colonize bare rock during a primary xerarch succession (Xerosere)?",
+      "options": {
+        "A": "Crustose Lichens (like Rhizocarpon) and Mosses",
+        "B": "Oak and Hickory hardwood trees",
+        "C": "Submerged aquatic hydrophytes",
+        "D": "Perennial grasses and shrubs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Crustose lichens tolerate desiccation, secreting carbonic and organic acids that etch minerals from rock, initiating soil formation."
+    },
+    {
+      "id": 14,
+      "question": "What is 'Secondary Ecological Succession'?",
+      "options": {
+        "A": "Ecological succession that occurs on a site where a previous biological community was disturbed or destroyed, but fertile soil remains intact (e.g., abandoned farmland, burned forest)",
+        "B": "Succession beginning on molten volcanic lava",
+        "C": "Succession occurring deep at the bottom of the ocean",
+        "D": "The colonization of a new concrete sidewalk"
+      },
+      "correctAnswer": "A",
+      "explanation": "Secondary succession occurs much faster than primary succession because established soil, seed banks, and root systems persist after the disturbance."
+    },
+    {
+      "id": 15,
+      "question": "What is the final, stable, self-perpetuating biological community established at the terminal equilibrium of ecological succession called?",
+      "options": {
+        "A": "Climax Community",
+        "B": "Pioneer Stage",
+        "C": "Seral Stage",
+        "D": "Ecotone"
+      },
+      "correctAnswer": "A",
+      "explanation": "The climax community is in dynamic equilibrium with the regional climate and will persist indefinitely unless disrupted by catastrophic disturbance."
+    },
+    {
+      "id": 16,
+      "question": "What is 'Cultural Eutrophication' in freshwater lakes and rivers?",
+      "options": {
+        "A": "Accelerated nutrient pollution (excess nitrates and phosphates from agricultural runoff and sewage), causing massive algal blooms, subsequent deoxygenation, and fish kills",
+        "B": "The natural freezing of lakes in winter",
+        "C": "The stocking of commercial fish in farm ponds",
+        "D": "The evaporation of water during summer droughts"
+      },
+      "correctAnswer": "A",
+      "explanation": "Runoff of $N$ and $P$ triggers algal blooms; when algae die, aerobic decomposers deplete dissolved oxygen (hypoxia), suffocating aquatic life."
+    },
+    {
+      "id": 17,
+      "question": "What does a high Biochemical Oxygen Demand (BOD) value indicate about a water sample taken from a river?",
+      "options": {
+        "A": "The water is heavily polluted with organic waste, requiring vast amounts of dissolved oxygen for aerobic bacterial decomposition",
+        "B": "The water is 100% pure and safe for drinking",
+        "C": "The water contains high levels of dissolved table salt",
+        "D": "The water contains no living microorganisms"
+      },
+      "correctAnswer": "A",
+      "explanation": "BOD measures the amount of oxygen required by aerobic microbes to decompose organic matter; high BOD signifies severe organic pollution."
+    },
+    {
+      "id": 18,
+      "question": "What is the 'Greenhouse Effect' in atmospheric science?",
+      "options": {
+        "A": "The natural trapping of outgoing infrared thermal radiation by atmospheric greenhouse gases ($CO_2, CH_4, N_2O, H_2O$), keeping Earth habitable",
+        "B": "Growing tropical vegetables inside glass greenhouses",
+        "C": "The absorption of ultraviolet rays by stratospheric ozone",
+        "D": "The reflection of sunlight by polar sea ice"
+      },
+      "correctAnswer": "A",
+      "explanation": "Greenhouse gases absorb long-wave terrestrial infrared radiation and re-radiate it back, warming the lower atmosphere by ~33°C above baseline."
+    },
+    {
+      "id": 19,
+      "question": "Which greenhouse gas, emitted from livestock enteric fermentation, flooded rice paddies, and natural gas leaks, has a Global Warming Potential over 25 times greater than $CO_2$ over a 100-year timescale?",
+      "options": {
+        "A": "Methane ($CH_4$)",
+        "B": "Water Vapor ($H_2O$)",
+        "C": "Carbon Monoxide ($CO$)",
+        "D": "Argon ($Ar$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Methane ($CH_4$) is a potent greenhouse gas with a GWP roughly 28–36 times that of carbon dioxide over a century."
+    },
+    {
+      "id": 20,
+      "question": "What is the primary ecological role of the Stratospheric Ozone Layer ($O_3$)?",
+      "options": {
+        "A": "Absorbing high-energy, lethal solar Ultraviolet-B and Ultraviolet-C radiation before it reaches the Earth's surface",
+        "B": "Generating atmospheric oxygen for humans to breathe",
+        "C": "Reflecting incoming cosmic rays back into deep space",
+        "D": "Trapping geothermal heat from Earth's core"
+      },
+      "correctAnswer": "A",
+      "explanation": "Stratospheric ozone shields terrestrial life from damaging UV-C and UV-B radiation, which causes skin cancer, cataracts, and DNA mutations."
+    },
+    {
+      "id": 21,
+      "question": "Which synthetic chemical compounds were identified as the primary agents responsible for stratospheric ozone depletion (the 'Ozone Hole') over Antarctica?",
+      "options": {
+        "A": "Chlorofluorocarbons (CFCs) and Halons",
+        "B": "Carbon Dioxide and Nitrogen gas",
+        "C": "Sulfur Dioxide and Carbon Monoxide",
+        "D": "Aerosolized sea salt crystals"
+      },
+      "correctAnswer": "A",
+      "explanation": "CFCs released chlorine radicals under UV radiation that catalytically destroy thousands of ozone molecules ($Cl + O_3 \\rightarrow ClO + O_2$)."
+    },
+    {
+      "id": 22,
+      "question": "Which landmark international treaty signed in 1987 successfully phased out the global production and consumption of ozone-depleting substances (CFCs)?",
+      "options": {
+        "A": "The Montreal Protocol",
+        "B": "The Kyoto Protocol",
+        "C": "The Paris Agreement",
+        "D": "The Geneva Convention"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Montreal Protocol is hailed as the most successful international environmental treaty, leading to the gradual recovery of the stratospheric ozone layer."
+    },
+    {
+      "id": 23,
+      "question": "What are the primary air pollutants responsible for the formation of 'Acid Rain' (precipitation with a pH below 5.6)?",
+      "options": {
+        "A": "Sulfur Dioxide ($SO_2$) and Nitrogen Oxides ($NO_x$) reacting with atmospheric moisture to form sulfuric and nitric acids",
+        "B": "Carbon Dioxide and Ozone",
+        "C": "Methane and Hydrogen Sulfide",
+        "D": "Chlorofluorocarbons and Ammonia"
+      },
+      "correctAnswer": "A",
+      "explanation": "$SO_2$ from coal combustion and $NO_x$ from vehicles react with water to form $H_2SO_4$ and $HNO_3$, acidifying soils and aquatic habitats."
+    },
+    {
+      "id": 24,
+      "question": "What are the ecological consequences of Acid Rain on terrestrial and aquatic ecosystems?",
+      "options": {
+        "A": "Leaching essential nutrients ($Ca^{2+}, Mg^{2+}$) from forest soils, mobilizing toxic aluminum ($Al^{3+}$) that kills aquatic fish, and eroding limestone monuments",
+        "B": "Accelerating agricultural crop growth by ten-fold",
+        "C": "Increasing the pH of mountain lakes to 12.0",
+        "D": "Converting sandy deserts into tropical rainforests"
+      },
+      "correctAnswer": "A",
+      "explanation": "Acid rain strips soils of plant cations, liberates toxic aluminum ions that damage fish gills, and damages forest foliage."
+    },
+    {
+      "id": 25,
+      "question": "What is 'Deforestation' and what are its major ecological impacts on global biomes?",
+      "options": {
+        "A": "Large-scale clearing of forests, leading to accelerated soil erosion, biodiversity loss, disrupted hydrological cycles, and increased atmospheric $CO_2$",
+        "B": "Planting trees in urban parks and highways",
+        "C": "Pruning dead branches from orchard fruit trees",
+        "D": "The natural shedding of leaves during autumn"
+      },
+      "correctAnswer": "A",
+      "explanation": "Deforestation eliminates carbon sinks, accelerates greenhouse warming, causes massive topsoil runoff, and destroys indigenous habitats."
+    },
+    {
+      "id": 26,
+      "question": "What is 'Desertification'?",
+      "options": {
+        "A": "The persistent degradation of dryland ecosystems caused by unsustainable human activities (overgrazing, deforestation, poor irrigation) and climate change",
+        "B": "The melting of polar glaciers into ocean waters",
+        "C": "The flooding of coastal delta lands by rising sea levels",
+        "D": "The cultivation of date palms in desert oases"
+      },
+      "correctAnswer": "A",
+      "explanation": "Desertification transforms formerly arable or rangeland ecosystems into arid, barren desert through severe soil erosion and vegetation loss."
+    },
+    {
+      "id": 27,
+      "question": "What is a 'Biodiversity Hotspot' defined as in global conservation biology (Norman Myers)?",
+      "options": {
+        "A": "A biogeographic region characterized by exceptional levels of endemic plant species that has lost at least 70% of its original primary habitat",
+        "B": "A volcanic island with active thermal vents",
+        "C": "A zoo housing rare animals from around the world",
+        "D": "A desert where temperatures exceed 50°C"
+      },
+      "correctAnswer": "A",
+      "explanation": "To qualify as a biodiversity hotspot, a region must harbor $\\ge 1,500$ endemic vascular plant species and have lost $\\ge 70\\%$ of its original habitat."
+    },
+    {
+      "id": 28,
+      "question": "What is 'In Situ Conservation' of endangered wildlife species?",
+      "options": {
+        "A": "Conserving species within their natural wild habitats and ecosystems (e.g., National Parks, Wildlife Sanctuaries, Biosphere Reserves)",
+        "B": "Preserving endangered animal semen in frozen cryobanks",
+        "C": "Keeping captive animals in zoological parks (Ex situ)",
+        "D": "Culturing plant embryos in test tubes"
+      },
+      "correctAnswer": "A",
+      "explanation": "In situ ('on-site') conservation protects animals and plants within designated natural protected areas (national parks, nature reserves)."
+    },
+    {
+      "id": 29,
+      "question": "What is 'Ex Situ Conservation'?",
+      "options": {
+        "A": "Conserving threatened species outside their natural habitats in controlled environments (e.g., Zoological Gardens, Botanical Gardens, Seed Banks, Cryobanks)",
+        "B": "Protecting tigers inside national wilderness reserves",
+        "C": "Banning hunting in designated wildlife sanctuaries",
+        "D": "Allowing wild species to migrate freely without human intervention"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ex situ ('off-site') conservation manages endangered germplasm or breeding populations outside wild habitats (e.g., Svalbard Global Seed Vault)."
+    },
+    {
+      "id": 30,
+      "question": "What is an 'Invasive Alien Species' (e.g., Water Hyacinth / Eichhornia crassipes, Parthenium weed)?",
+      "options": {
+        "A": "A non-native species introduced into a new ecosystem that spreads aggressively, outcompeting native flora/fauna and disrupting ecological balance",
+        "B": "An organism discovered on a meteor from outer space",
+        "C": "A native plant that produces edible fruit",
+        "D": "A domesticated dog breed"
+      },
+      "correctAnswer": "A",
+      "explanation": "Invasive species lack natural coevolved predators in new habitats, multiplying exponentially to displace native biodiversity (e.g., Water Hyacinth choking waterways)."
+    },
+    {
+      "id": 31,
+      "question": "What is the 'Carrying Capacity' ($K$) of a biological population in a given environment?",
+      "options": {
+        "A": "The maximum population size of a species that the resources of a specific environment can sustainably support indefinitely",
+        "B": "The physical weight an elephant can carry on its back",
+        "C": "The total number of eggs a bird can incubate at one time",
+        "D": "The minimum number of individuals required to start a colony"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carrying capacity ($K$) is the upper demographic asymptote where resource limitation, disease, and competition balance birth and death rates."
+    },
+    {
+      "id": 32,
+      "question": "In the logistic population growth equation $\\frac{dN}{dt} = rN\\left(\\frac{K - N}{K}\\right)$, what happens as the population size $N$ approaches the carrying capacity $K$?",
+      "options": {
+        "A": "The growth rate $\\frac{dN}{dt}$ approaches zero, and the population curve flattens into an S-shaped (Sigmoid) plateau",
+        "B": "The population undergoes exponential explosion toward infinity",
+        "C": "All individuals in the population die instantly",
+        "D": "The carrying capacity doubles automatically"
+      },
+      "correctAnswer": "A",
+      "explanation": "When $N \\rightarrow K$, the term $\\frac{K - N}{K} \\rightarrow 0$, halting net population growth and stabilizing population size around $K$."
+    },
+    {
+      "id": 33,
+      "question": "What is the difference between '$r$-selected' species and '$K$-selected' species?",
+      "options": {
+        "A": "r-selected species produce numerous small offspring with minimal parental care in unstable environments; K-selected species produce few large offspring with intensive parental care in stable environments",
+        "B": "r-selected species are carnivores, while K-selected species are herbivores",
+        "C": "r-selected species live for centuries, while K-selected species live for days",
+        "D": "There is no difference in their life histories"
+      },
+      "correctAnswer": "A",
+      "explanation": "r-strategists (e.g., insects, weeds) maximize growth rate $r$; K-strategists (e.g., elephants, humans) compete near carrying capacity $K$ with high investment."
+    },
+    {
+      "id": 34,
+      "question": "What is a 'Keystone Species' in an ecological community (e.g., Sea Otters in kelp forests, Wolves in Yellowstone)?",
+      "options": {
+        "A": "A species that exerts strong, disproportionate control on the structure and biodiversity of its entire community relative to its actual abundance or biomass",
+        "B": "The most numerically abundant organism in a habitat",
+        "C": "A species that builds physical stone nests",
+        "D": "A parasite that infects all animals in a zoo"
+      },
+      "correctAnswer": "A",
+      "explanation": "Removing a keystone species causes catastrophic trophic cascades and collapses community biodiversity (e.g., sea otters keeping herbivorous sea urchins in check)."
+    },
+    {
+      "id": 35,
+      "question": "What is the primary international organization that publishes the global 'Red List of Threatened Species', assessing the conservation status of biological species?",
+      "options": {
+        "A": "IUCN (International Union for Conservation of Nature)",
+        "B": "WHO (World Health Organization)",
+        "C": "UNESCO",
+        "D": "UNICEF"
+      },
+      "correctAnswer": "A",
+      "explanation": "The IUCN Red List categorizes species from Least Concern (LC) to Critically Endangered (CR) and Extinct (EX), guiding global conservation priorities."
+    }
+  ]
+}

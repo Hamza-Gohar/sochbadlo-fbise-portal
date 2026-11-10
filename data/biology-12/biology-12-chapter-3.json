@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 3,
+  "title": "Unit 3: Support and Locomotion",
+  "slug": "biology-12-chapter-3",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "How many bones comprise the complete adult human skeletal system?",
+      "options": {
+        "A": "206 bones",
+        "B": "300 bones",
+        "C": "126 bones",
+        "D": "80 bones"
+      },
+      "correctAnswer": "A",
+      "explanation": "The adult human skeleton has 206 bones (80 axial + 126 appendicular), down from ~270 at birth due to bone fusion."
+    },
+    {
+      "id": 2,
+      "question": "How many bones are in the Axial Skeleton of an adult human?",
+      "options": {
+        "A": "80 bones",
+        "B": "126 bones",
+        "C": "64 bones",
+        "D": "206 bones"
+      },
+      "correctAnswer": "A",
+      "explanation": "The axial skeleton consists of 80 bones: skull (28), hyoid (1), vertebral column (26), ribs (24), and sternum (1)."
+    },
+    {
+      "id": 3,
+      "question": "What is the fundamental microscopic structural unit of compact bone?",
+      "options": {
+        "A": "Osteon (Haversian System)",
+        "B": "Sarcomere",
+        "C": "Trabecula",
+        "D": "Chondron"
+      },
+      "correctAnswer": "A",
+      "explanation": "An osteon consists of concentric lamellae of bone matrix surrounding a central Haversian canal containing blood vessels and nerves."
+    },
+    {
+      "id": 4,
+      "question": "Which mature bone cells reside in small spaces called lacunae and maintain mineral homeostasis in bone tissue?",
+      "options": {
+        "A": "Osteocytes",
+        "B": "Osteoblasts",
+        "C": "Osteoclasts",
+        "D": "Chondroblasts"
+      },
+      "correctAnswer": "A",
+      "explanation": "Osteocytes are mature bone cells derived from osteoblasts, connected via canaliculi to monitor mechanical strain and mineral balance."
+    },
+    {
+      "id": 5,
+      "question": "Which multinucleated giant cells secrete acid and enzymes to resorb and break down bone matrix during remodeling?",
+      "options": {
+        "A": "Osteoclasts",
+        "B": "Osteoblasts",
+        "C": "Fibroblasts",
+        "D": "Keratinocytes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Osteoclasts are macrophage-lineage bone-resorbing cells that demineralize matrix to release calcium into blood."
+    },
+    {
+      "id": 6,
+      "question": "Which type of cartilage is the most abundant in the human body, covering articular ends of long bones and forming costal cartilages?",
+      "options": {
+        "A": "Hyaline Cartilage",
+        "B": "Elastic Cartilage",
+        "C": "Fibrocartilage",
+        "D": "Calcified Cartilage"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hyaline cartilage provides a glassy, smooth, low-friction surface at synovial joints, the respiratory tract, and costal margins."
+    },
+    {
+      "id": 7,
+      "question": "Which tough, shock-absorbing cartilage forms the intervertebral discs and the pubic symphysis?",
+      "options": {
+        "A": "Fibrocartilage",
+        "B": "Elastic Cartilage",
+        "C": "Hyaline Cartilage",
+        "D": "Articular Perichondrium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fibrocartilage has dense parallel bundles of Type I collagen, resisting heavy compression in intervertebral discs and menisci."
+    },
+    {
+      "id": 8,
+      "question": "What type of joint allows the widest range of multiaxial movement, such as the shoulder and hip joints?",
+      "options": {
+        "A": "Ball and Socket Joint",
+        "B": "Hinge Joint",
+        "C": "Pivot Joint",
+        "D": "Suture Joint"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ball-and-socket joints permit universal triaxial movement: flexion, extension, abduction, adduction, circumduction, and rotation."
+    },
+    {
+      "id": 9,
+      "question": "Which type of joint permits movement primarily in a single uniaxial plane, like a door hinge (e.g., elbow and knee joints)?",
+      "options": {
+        "A": "Hinge Joint",
+        "B": "Saddle Joint",
+        "C": "Gliding Joint",
+        "D": "Ball and Socket Joint"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hinge joints restrict movement to one plane (flexion and extension), exemplified by the humeroulnar joint at the elbow."
+    },
+    {
+      "id": 10,
+      "question": "What is the tough, fibrous connective tissue that connects muscle to bone?",
+      "options": {
+        "A": "Tendon",
+        "B": "Ligament",
+        "C": "Bursa",
+        "D": "Meniscus"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tendons connect muscle bellies to bones, transmitting contractile forces to move skeletal levers."
+    },
+    {
+      "id": 11,
+      "question": "What connective tissue bands connect bone to bone, stabilizing joints and limiting excess motion?",
+      "options": {
+        "A": "Ligaments",
+        "B": "Tendons",
+        "C": "Aponeuroses",
+        "D": "Epimysium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ligaments are strong fibrous bands linking bones together at joints, preventing dislocation."
+    },
+    {
+      "id": 12,
+      "question": "What is the functional contractile unit of a skeletal muscle fiber, extending from one Z-line to the next Z-line?",
+      "options": {
+        "A": "Sarcomere",
+        "B": "Myofibril",
+        "C": "Sarcolemma",
+        "D": "Sarcoplasmic Reticulum"
+      },
+      "correctAnswer": "A",
+      "explanation": "The sarcomere is the repeating contractile unit between adjacent Z-discs, containing overlapping thin and thick myofilaments."
+    },
+    {
+      "id": 13,
+      "question": "Which protein forms the thick myofilaments with globular heads capable of binding actin and hydrolyzing ATP?",
+      "options": {
+        "A": "Myosin",
+        "B": "Actin",
+        "C": "Tropomyosin",
+        "D": "Troponin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Thick filaments consist of myosin molecules with elongated tails and mobile globular heads possessing ATPase activity."
+    },
+    {
+      "id": 14,
+      "question": "Which regulatory protein blocks the myosin-binding sites on actin thin filaments when a skeletal muscle is at rest?",
+      "options": {
+        "A": "Tropomyosin",
+        "B": "Troponin C",
+        "C": "Dystrophin",
+        "D": "Myoglobin"
+      },
+      "correctAnswer": "A",
+      "explanation": "In relaxed muscle, filamentous tropomyosin lies along the actin groove, physically obstructing myosin heads from binding."
+    },
+    {
+      "id": 15,
+      "question": "During muscle contraction, to which regulatory protein do Calcium ions ($Ca^{2+}$) bind, causing a conformational shift that exposes myosin-binding sites on actin?",
+      "options": {
+        "A": "Troponin (Troponin C subunit)",
+        "B": "Tropomyosin",
+        "C": "Myosin Heavy Chain",
+        "D": "Actinin"
+      },
+      "correctAnswer": "A",
+      "explanation": "$Ca^{2+}$ binds to Troponin C, pulling tropomyosin away from actin active sites to allow cross-bridge formation."
+    },
+    {
+      "id": 16,
+      "question": "According to the Sliding Filament Theory of muscle contraction, what happens to the sarcomere during active contraction?",
+      "options": {
+        "A": "Thin actin filaments slide over thick myosin filaments toward the M-line; the H-zone and I-band narrow while the A-band length remains constant",
+        "B": "Both actin and myosin filaments physically shrink in length",
+        "C": "The A-band length triples while Z-lines push apart",
+        "D": "Myosin filaments detach and dissolve into sarcoplasm"
+      },
+      "correctAnswer": "A",
+      "explanation": "Myofilaments do not shorten; actin slides inward over myosin, narrowing the I-band and H-zone while the A-band remains unchanged."
+    },
+    {
+      "id": 17,
+      "question": "Where are Calcium ions ($Ca^{2+}$) sequestered and stored inside a relaxed muscle fiber before release into the sarcoplasm?",
+      "options": {
+        "A": "Sarcoplasmic Reticulum (Terminal Cisternae)",
+        "B": "Mitochondrial Matrix",
+        "C": "Transverse Tubules (T-tubules)",
+        "D": "Golgi Vesicles"
+      },
+      "correctAnswer": "A",
+      "explanation": "The sarcoplasmic reticulum stores high concentrations of $Ca^{2+}$ via active SERCA pumps, releasing them upon membrane depolarization."
+    },
+    {
+      "id": 18,
+      "question": "What is the primary role of the Transverse Tubule (T-tubule) system in muscle fibers?",
+      "options": {
+        "A": "Conducting electrical action potentials from the sarcolemma deep into the interior of the muscle fiber to trigger calcium release",
+        "B": "Synthesizing glycogen granules",
+        "C": "Pumping oxygen directly into mitochondria",
+        "D": "Anchoring myofibrils to the tendon"
+      },
+      "correctAnswer": "A",
+      "explanation": "T-tubules are invaginations of the sarcolemma that propagate action potentials deep into the cell to synchronize calcium release from the SR."
+    },
+    {
+      "id": 19,
+      "question": "What causes 'Rigor Mortis' (stiffness of death) several hours after clinical death?",
+      "options": {
+        "A": "Complete depletion of cellular ATP prevents myosin heads from detaching from actin binding sites, locking cross-bridges in place",
+        "B": "Rapid synthesis of excess bone matrix around joints",
+        "C": "Enzymatic destruction of all muscle cell membranes",
+        "D": "Dehydration of intracellular synovial fluid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Detachment of myosin heads requires fresh ATP binding. When ATP stores hit zero post-mortem, cross-bridges remain rigidly locked."
+    },
+    {
+      "id": 20,
+      "question": "What is 'All-or-None Principle' in skeletal muscle physiology?",
+      "options": {
+        "A": "An individual muscle fiber contracts completely or not at all in response to a threshold stimulus",
+        "B": "All muscles in the human body contract simultaneously",
+        "C": "A bone breaks completely or suffers zero damage",
+        "D": "All calcium ions must be converted into bone crystals"
+      },
+      "correctAnswer": "A",
+      "explanation": "A single muscle fiber generates maximal tension for given physiological conditions once the action potential threshold is reached."
+    },
+    {
+      "id": 21,
+      "question": "How do skeletal muscles grade the total force of contraction if individual fibers follow the all-or-none rule?",
+      "options": {
+        "A": "Motor Unit Recruitment (varying the number of active motor units and firing frequency)",
+        "B": "By stretching the bone ligaments",
+        "C": "By changing the length of myosin myofilaments",
+        "D": "By altering the chemical structure of hemoglobin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Graded muscle tension is produced by recruiting more motor units (spatial summation) and increasing stimulation frequency (temporal wave summation)."
+    },
+    {
+      "id": 22,
+      "question": "What high-energy phosphate molecule stored in skeletal muscle rapidly donates a phosphate group to ADP to replenish ATP during the first few seconds of intense exercise?",
+      "options": {
+        "A": "Creatine Phosphate (Phosphocreatine)",
+        "B": "Lactic Acid",
+        "C": "Glycogen Synthetase",
+        "D": "Pyruvic Acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Creatine phosphate donates a high-energy phosphate to ADP via creatine kinase, regenerating ATP rapidly during initial explosive contraction."
+    },
+    {
+      "id": 23,
+      "question": "What metabolic byproduct accumulates in muscle fibers during prolonged vigorous anaerobic exertion, contributing to muscle fatigue and acidosis?",
+      "options": {
+        "A": "Lactic Acid (Lactate and $H^+$)",
+        "B": "Carbon Monoxide",
+        "C": "Bile pigments",
+        "D": "Urea"
+      },
+      "correctAnswer": "A",
+      "explanation": "Anaerobic glycolysis reduces pyruvate to lactate, generating $H^+$ ions that lower sarcoplasmic pH and inhibit contractile enzymes."
+    },
+    {
+      "id": 24,
+      "question": "Which skeletal condition is characterized by progressive loss of bone mineral density, weakening microarchitecture, and increased fracture risk, common in postmenopausal women?",
+      "options": {
+        "A": "Osteoporosis",
+        "B": "Osteoarthritis",
+        "C": "Gout",
+        "D": "Rickets"
+      },
+      "correctAnswer": "A",
+      "explanation": "Osteoporosis results when bone resorption by osteoclasts outpaces bone formation by osteoblasts, exacerbated by postmenopausal estrogen decline."
+    },
+    {
+      "id": 25,
+      "question": "What nutritional deficiency in children causes 'Rickets', characterized by soft, weak bones and bowed legs?",
+      "options": {
+        "A": "Vitamin D and Calcium deficiency",
+        "B": "Vitamin C deficiency (Scurvy)",
+        "C": "Iron deficiency",
+        "D": "Vitamin A deficiency"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vitamin D is required for intestinal calcium absorption; deficiency impairs bone mineralization, leading to rickets in children."
+    },
+    {
+      "id": 26,
+      "question": "Which inflammatory joint disease is caused by the deposition of monosodium urate crystals in synovial joints (most commonly the big toe)?",
+      "options": {
+        "A": "Gout (Gouty Arthritis)",
+        "B": "Rheumatoid Arthritis",
+        "C": "Osteoarthritis",
+        "D": "Ankylosing Spondylitis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hyperuricemia leads to needle-like urate crystal precipitation in joints, triggering severe inflammation known as gout."
+    },
+    {
+      "id": 27,
+      "question": "What type of joint disorder is characterized by wear-and-tear degeneration of articular cartilage and formation of bone spurs (osteophytes)?",
+      "options": {
+        "A": "Osteoarthritis",
+        "B": "Rheumatoid Arthritis",
+        "C": "Osteomalacia",
+        "D": "Osteomyelitis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Osteoarthritis is a chronic degenerative joint disease involving progressive mechanical erosion of articular cartilage."
+    },
+    {
+      "id": 28,
+      "question": "What is the primary autoimmune feature of Rheumatoid Arthritis?",
+      "options": {
+        "A": "The immune system attacks the synovial membrane, causing chronic proliferative synovitis (pannus formation) and joint destruction",
+        "B": "Bacterial infection inside bone marrow cavities",
+        "C": "Deposition of cholesterol in tendons",
+        "D": "Excess secretion of growth hormone"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rheumatoid arthritis is an autoimmune condition where antibodies target synovial membranes, leading to pannus tissue and joint deformity."
+    },
+    {
+      "id": 29,
+      "question": "Which bone of the human forearm lies lateral in the anatomical position and rotates around the ulna during supination/pronation?",
+      "options": {
+        "A": "Radius",
+        "B": "Ulna",
+        "C": "Humerus",
+        "D": "Femur"
+      },
+      "correctAnswer": "A",
+      "explanation": "The radius is on the lateral (thumb) side of the forearm, pivoting around the medial ulna at the radioulnar joints."
+    },
+    {
+      "id": 30,
+      "question": "Which long bone is the longest, heaviest, and strongest in the human body?",
+      "options": {
+        "A": "Femur (Thigh bone)",
+        "B": "Tibia (Shin bone)",
+        "C": "Humerus",
+        "D": "Fibula"
+      },
+      "correctAnswer": "A",
+      "explanation": "The femur is the longest, heaviest, and strongest human bone, supporting body weight during bipedal standing and locomotion."
+    },
+    {
+      "id": 31,
+      "question": "What is a 'Herniated Disc' (slipped disc)?",
+      "options": {
+        "A": "Rupture of the outer fibrous ring (annulus fibrosus) allowing the inner gel-like nucleus pulposus to protrude and compress spinal nerves",
+        "B": "Fracture of the cervical vertebrae",
+        "C": "Dislocation of the shoulder socket",
+        "D": "Sprain of the knee cruciate ligament"
+      },
+      "correctAnswer": "A",
+      "explanation": "Herniation occurs when the gelatinous nucleus pulposus bulges through a torn annulus fibrosus, pinching adjacent spinal nerve roots."
+    },
+    {
+      "id": 32,
+      "question": "What is the difference between a 'Sprain' and a 'Strain' in sports medicine?",
+      "options": {
+        "A": "A sprain is an injury to a ligament, while a strain is an injury to a muscle or tendon",
+        "B": "A sprain involves fractured bone, while a strain is joint inflammation",
+        "C": "A sprain occurs only in the brain, while a strain occurs in the heart",
+        "D": "There is no medical distinction between the two"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sprains involve stretched or torn ligaments (joint stabilizers); strains involve overstretched or torn muscle fibers or tendons."
+    },
+    {
+      "id": 33,
+      "question": "Which type of muscle tissue is striated, branched, uninucleated, and joined by intercalated discs with gap junctions?",
+      "options": {
+        "A": "Cardiac Muscle",
+        "B": "Skeletal Muscle",
+        "C": "Smooth Muscle",
+        "D": "Dense Regular Muscle"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cardiac muscle fibers are branched and connected by intercalated discs containing gap junctions that coordinate electrical syncytium contraction."
+    },
+    {
+      "id": 34,
+      "question": "Which muscle tissue is non-striated, involuntary, spindle-shaped, and lines hollow visceral organs (intestines, blood vessels)?",
+      "options": {
+        "A": "Smooth Muscle",
+        "B": "Skeletal Muscle",
+        "C": "Cardiac Muscle",
+        "D": "Striated Fascia"
+      },
+      "correctAnswer": "A",
+      "explanation": "Smooth muscle lacks microscopic sarcomeric striations, contracting involuntarily in digestive, vascular, and reproductive walls."
+    },
+    {
+      "id": 35,
+      "question": "In neuromuscular transmission, which neurotransmitter is released from the presynaptic motor neuron terminal into the synaptic cleft?",
+      "options": {
+        "A": "Acetylcholine (ACh)",
+        "B": "Dopamine",
+        "C": "GABA",
+        "D": "Serotonin"
+      },
+      "correctAnswer": "A",
+      "explanation": "ACh is released from motor axon terminals, binding to nicotinic receptors on the muscle endplate to trigger depolarization."
+    }
+  ]
+}

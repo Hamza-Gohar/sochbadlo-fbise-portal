@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 9,
+  "title": "Unit 9: Chromosomes & DNA (Molecular Genetics)",
+  "slug": "biology-12-chapter-9",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "In the structural organization of eukaryotic chromatin, what is a 'Nucleosome' composed of?",
+      "options": {
+        "A": "Approximately 146 base pairs of DNA wrapped around an octamer of core histone proteins ($2 \\times H2A, H2B, H3, H4$)",
+        "B": "A single linear strand of ribosomal RNA",
+        "C": "A ring of tubulin microfilaments",
+        "D": "A triplet codon bound to a tRNA anticodon"
+      },
+      "correctAnswer": "A",
+      "explanation": "A nucleosome consists of a histone octamer wrapped by ~146 bp of DNA, forming the fundamental 'beads-on-a-string' chromatin unit."
+    },
+    {
+      "id": 2,
+      "question": "Which histone protein acts as the linker histone (binding entry and exit DNA) to seal the nucleosome and facilitate 30-nm chromatin fiber compaction?",
+      "options": {
+        "A": "Histone H1",
+        "B": "Histone H2A",
+        "C": "Histone H3",
+        "D": "Histone H4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Histone H1 is the linker histone that clamps DNA to the core octamer, promoting folding into denser 30-nm chromatin fibers."
+    },
+    {
+      "id": 3,
+      "question": "What distinguishes transcriptionally active 'Euchromatin' from transcriptionally silent 'Heterochromatin'?",
+      "options": {
+        "A": "Euchromatin is lightly packed and accessible to RNA polymerases, while heterochromatin is densely condensed and transcriptionally repressed",
+        "B": "Euchromatin contains only RNA, while heterochromatin contains DNA",
+        "C": "Heterochromatin is only found in bacterial plasmids",
+        "D": "Euchromatin lacks histone proteins entirely"
+      },
+      "correctAnswer": "A",
+      "explanation": "Euchromatin is loosely coiled and active in gene expression, whereas heterochromatin (centromeres, telomeres, Barr body) is tightly condensed and silenced."
+    },
+    {
+      "id": 4,
+      "question": "Which landmark experiment by Alfred Hershey and Martha Chase (1952) definitively proved that DNA (and not protein) is the genetic material of T2 bacteriophages?",
+      "options": {
+        "A": "Labeling phage DNA with radioactive Phosphorus-32 ($^{32}P$) and phage protein with radioactive Sulfur-35 ($^{35}S$)",
+        "B": "Treating mice with heat-killed S-strain Streptococcus pneumoniae",
+        "C": "Using X-ray crystallography on crystallized myoglobin",
+        "D": "Culturing E. coli in heavy Nitrogen-15"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hershey and Chase demonstrated that only $^{32}P$-labeled DNA entered bacterial cells to direct viral replication, confirming DNA as the genetic material."
+    },
+    {
+      "id": 5,
+      "question": "According to Chargaff's Rules for double-stranded DNA, which equimolar relationship always holds true?",
+      "options": {
+        "A": "$[A] = [T]$ and $[G] = [C]$, hence $[A + G] = [T + C]$ (Purines = Pyrimidines)",
+        "B": "$[A] = [G]$ and $[T] = [C]$",
+        "C": "$[A] + [T] = [G] + [C]$ always",
+        "D": "$[A] = [U]$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Erwin Chargaff showed that in double-stranded DNA, Adenine pairs with Thymine ($A=T$) and Guanine pairs with Cytosine ($G \\equiv C$)."
+    },
+    {
+      "id": 6,
+      "question": "How many hydrogen bonds connect an Adenine-Thymine ($A-T$) pair and a Guanine-Cytosine ($G-C$) pair in double-stranded B-DNA?",
+      "options": {
+        "A": "2 hydrogen bonds between $A-T$, and 3 hydrogen bonds between $G-C$",
+        "B": "3 hydrogen bonds between $A-T$, and 2 between $G-C$",
+        "C": "1 hydrogen bond between each base pair",
+        "D": "4 covalent peptide bonds between both"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adenine and Thymine form 2 hydrogen bonds ($A=T$); Guanine and Cytosine form 3 hydrogen bonds ($G \\equiv C$), conferring higher thermal stability."
+    },
+    {
+      "id": 7,
+      "question": "What is the antiparallel orientation of the two complementary strands in a double-stranded DNA molecule?",
+      "options": {
+        "A": "One strand runs $5' \\rightarrow 3'$ while the complementary strand runs $3' \\rightarrow 5'$",
+        "B": "Both strands run in the same $5' \\rightarrow 3'$ direction",
+        "C": "Both strands run in the same $3' \\rightarrow 5'$ direction",
+        "D": "Strands alternate direction every single codon"
+      },
+      "correctAnswer": "A",
+      "explanation": "The phosphodiester backbones run in opposite directions ($5' \\rightarrow 3'$ paired with $3' \\rightarrow 5'$), orienting complementary bases toward the central helix."
+    },
+    {
+      "id": 8,
+      "question": "Which historic experiment by Matthew Meselson and Franklin Stahl (1958) using isotope density gradient centrifugation proved that DNA replication is Semiconservative?",
+      "options": {
+        "A": "Growing E. coli in heavy $^{15}N$ isotope and chasing in light $^{14}N$ medium",
+        "B": "Using $^{35}S$ to label phage coats",
+        "C": "Crystallizing calf thymus DNA with X-rays",
+        "D": "Treating smooth bacteria with ribonuclease"
+      },
+      "correctAnswer": "A",
+      "explanation": "Meselson and Stahl observed a hybrid $^{15}N/^{14}N$ band in Generation 1, disproving conservative and dispersive models in favor of semiconservative replication."
+    },
+    {
+      "id": 9,
+      "question": "Which enzyme unwinds the double helix at the replication fork by breaking hydrogen bonds between complementary base pairs?",
+      "options": {
+        "A": "DNA Helicase",
+        "B": "DNA Ligase",
+        "C": "DNA Topoisomerase (Gyrase)",
+        "D": "DNA Polymerase III"
+      },
+      "correctAnswer": "A",
+      "explanation": "DNA helicase moves along the DNA backbone, utilizing ATP hydrolysis to unwind the double helix and separate parental strands."
+    },
+    {
+      "id": 10,
+      "question": "Which enzyme relieves torsional strain and positive supercoiling ahead of the advancing replication fork by making transient cuts in DNA?",
+      "options": {
+        "A": "DNA Topoisomerase (DNA Gyrase)",
+        "B": "DNA Primase",
+        "C": "Single-Stranded Binding Proteins (SSB)",
+        "D": "Exonuclease"
+      },
+      "correctAnswer": "A",
+      "explanation": "Topoisomerase cleaves and swivels phosphodiester bonds to relieve supercoiling generated by helicase unwinding."
+    },
+    {
+      "id": 11,
+      "question": "Why does DNA replication require an RNA primer synthesized by DNA Primase?",
+      "options": {
+        "A": "DNA polymerases cannot initiate synthesis de novo; they can only attach new deoxynucleotides to a pre-existing free 3'-OH group",
+        "B": "DNA polymerase cannot recognize thymine without RNA",
+        "C": "RNA primers provide ATP to the helicase motor",
+        "D": "RNA primers seal the sugar-phosphate backbone"
+      },
+      "correctAnswer": "A",
+      "explanation": "DNA polymerases require a free 3'-OH group to form phosphodiester bonds, provided by a short RNA primer laid down by primase."
+    },
+    {
+      "id": 12,
+      "question": "In what direction does DNA Polymerase synthesize all new DNA strands?",
+      "options": {
+        "A": "Exclusively in the $5' \\rightarrow 3'$ direction",
+        "B": "Exclusively in the $3' \\rightarrow 5'$ direction",
+        "C": "Bidirectionally along both strands",
+        "D": "From the centromere outward only"
+      },
+      "correctAnswer": "A",
+      "explanation": "All known DNA polymerases read templates in the $3' \\rightarrow 5'$ direction and synthesize the nascent strand strictly from $5' \\rightarrow 3'$."
+    },
+    {
+      "id": 13,
+      "question": "What is the 'Lagging Strand' in DNA replication, and how is it synthesized?",
+      "options": {
+        "A": "The strand synthesized discontinuously away from the replication fork as short fragments called Okazaki Fragments",
+        "B": "The strand synthesized continuously toward the replication fork",
+        "C": "A strand composed entirely of ribosomal RNA",
+        "D": "A strand that is never replicated"
+      },
+      "correctAnswer": "A",
+      "explanation": "Because replication is antiparallel and restricted to $5' \\rightarrow 3'$, the lagging strand is built in discontinuous Okazaki fragments."
+    },
+    {
+      "id": 14,
+      "question": "Which enzyme joins Okazaki fragments together on the lagging strand by catalyzing the formation of covalent phosphodiester bonds?",
+      "options": {
+        "A": "DNA Ligase",
+        "B": "DNA Polymerase I",
+        "C": "DNA Helicase",
+        "D": "Primase"
+      },
+      "correctAnswer": "A",
+      "explanation": "DNA ligase catalyzes phosphodiester bond formation between adjacent 3'-OH and 5'-phosphate nicks, completing strand continuity."
+    },
+    {
+      "id": 15,
+      "question": "In prokaryotes (like E. coli), which enzyme is the primary catalytic replicase responsible for synthesizing both leading and lagging strands?",
+      "options": {
+        "A": "DNA Polymerase III",
+        "B": "DNA Polymerase I",
+        "C": "DNA Polymerase II",
+        "D": "Reverse Transcriptase"
+      },
+      "correctAnswer": "A",
+      "explanation": "DNA Polymerase III is the main replicative enzyme in E. coli, possessing high processivity and $3' \\rightarrow 5'$ proofreading exonuclease activity."
+    },
+    {
+      "id": 16,
+      "question": "Which prokaryotic enzyme removes RNA primers using its $5' \\rightarrow 3'$ exonuclease activity and fills the resulting gaps with DNA nucleotides?",
+      "options": {
+        "A": "DNA Polymerase I",
+        "B": "DNA Polymerase III",
+        "C": "RNA Polymerase",
+        "D": "Topoisomerase"
+      },
+      "correctAnswer": "A",
+      "explanation": "DNA Polymerase I uses its unique $5' \\rightarrow 3'$ exonuclease activity to degrade RNA primers (nick translation) and replace them with DNA."
+    },
+    {
+      "id": 17,
+      "question": "What is the Central Dogma of Molecular Biology formulated by Francis Crick?",
+      "options": {
+        "A": "DNA $\\xrightarrow{\\text{Transcription}}$ RNA $\\xrightarrow{\\text{Translation}}$ Protein",
+        "B": "Protein $\\rightarrow$ RNA $\\rightarrow$ DNA",
+        "C": "RNA $\\rightarrow$ DNA $\\rightarrow$ Carbohydrate",
+        "D": "Lipid $\\rightarrow$ Protein $\\rightarrow$ Nucleic Acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Central Dogma states that genetic information flows from DNA (replication) to messenger RNA (transcription) to protein synthesis (translation)."
+    },
+    {
+      "id": 18,
+      "question": "Which enzyme transcribes genetic information from a DNA template strand into complementary Messenger RNA (mRNA)?",
+      "options": {
+        "A": "RNA Polymerase",
+        "B": "DNA Polymerase",
+        "C": "Ribosome",
+        "D": "Peptidyl Transferase"
+      },
+      "correctAnswer": "A",
+      "explanation": "RNA polymerase binds to promoter regions on DNA, uncoils the template, and synthesizes complementary single-stranded RNA."
+    },
+    {
+      "id": 19,
+      "question": "What is a 'Promoter' region on a gene?",
+      "options": {
+        "A": "A specific DNA sequence (e.g., TATA box, Pribnow box) upstream of a gene where RNA polymerase binds to initiate transcription",
+        "B": "The stop codon terminating protein synthesis",
+        "C": "A protein that destroys foreign DNA",
+        "D": "An antibiotic that inhibits ribosomes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Promoters (like the TATA box in eukaryotes or $-10/-35$ consensus in prokaryotes) provide binding sites for transcription factors and RNA polymerase."
+    },
+    {
+      "id": 20,
+      "question": "In eukaryotic mRNA processing, what modifications are added to the primary transcript (pre-mRNA) before it exits the nucleus?",
+      "options": {
+        "A": "A 5' 7-methylguanosine cap, a 3' Poly-A tail, and RNA Splicing to remove non-coding introns",
+        "B": "Conversion of thymine into cytosine",
+        "C": "Addition of a phospholipid bilayer around the RNA",
+        "D": "Double-helix winding with histone proteins"
+      },
+      "correctAnswer": "A",
+      "explanation": "Eukaryotic pre-mRNA undergoes 5' capping (stability/ribosome binding), 3' polyadenylation (nuclear export/stability), and splicing (intron excision by spliceosomes)."
+    },
+    {
+      "id": 21,
+      "question": "What is 'RNA Splicing' carried out by Spliceosomes (snRNPs)?",
+      "options": {
+        "A": "The precision excision of non-coding intervening sequences (Introns) and joining of coding sequences (Exons)",
+        "B": "Cutting DNA at palindromic restriction sites",
+        "C": "Combining two chromosomes during meiosis",
+        "D": "Translating codons into amino acids"
+      },
+      "correctAnswer": "A",
+      "explanation": "Introns ('intervening') are excised and exons ('expressed') are ligated together by spliceosomes to form mature translatable mRNA."
+    },
+    {
+      "id": 22,
+      "question": "What is the biological significance of 'Alternative RNA Splicing' in eukaryotes?",
+      "options": {
+        "A": "It allows a single pre-mRNA transcript to generate multiple distinct protein isoforms by selecting different combinations of exons",
+        "B": "It increases the number of chromosomes in daughter cells",
+        "C": "It converts messenger RNA into transfer RNA",
+        "D": "It mutates base pairs to produce genetic diseases"
+      },
+      "correctAnswer": "A",
+      "explanation": "Alternative splicing explains how ~20,000 human genes can encode over 100,000 diverse protein isoforms across different tissues."
+    },
+    {
+      "id": 23,
+      "question": "How many consecutive mRNA nucleotides constitute a single 'Codon' specifying one amino acid in the genetic code?",
+      "options": {
+        "A": "3 nucleotides (Triplet Code)",
+        "B": "2 nucleotides",
+        "C": "4 nucleotides",
+        "D": "1 nucleotide"
+      },
+      "correctAnswer": "A",
+      "explanation": "The genetic code is a triplet code ($4^3 = 64$ codons), providing more than enough capacity to specify the 20 standard amino acids."
+    },
+    {
+      "id": 24,
+      "question": "What is the universal 'Start Codon' that initiates translation and specifies the amino acid Methionine?",
+      "options": {
+        "A": "AUG",
+        "B": "UAA",
+        "C": "UAG",
+        "D": "UGA"
+      },
+      "correctAnswer": "A",
+      "explanation": "AUG is the universal start codon in mRNA, signaling the ribosomal initiator tRNA to insert formylmethionine (prokaryotes) or methionine (eukaryotes)."
+    },
+    {
+      "id": 25,
+      "question": "Which three codons serve as 'Stop Codons' (Nonsense codons) that signal termination of protein translation?",
+      "options": {
+        "A": "UAA, UAG, and UGA",
+        "B": "AUG, GUG, and UUG",
+        "C": "AAA, GGG, and CCC",
+        "D": "UUU, UUC, and UUA"
+      },
+      "correctAnswer": "A",
+      "explanation": "UAA (ochre), UAG (amber), and UGA (opal) do not code for any amino acid; they bind release factors that terminate translation."
+    },
+    {
+      "id": 26,
+      "question": "What does it mean that the genetic code is 'Degenerate' (Redundant)?",
+      "options": {
+        "A": "Most amino acids are specified by more than one codon (e.g., Leucine is coded by 6 different codons)",
+        "B": "The code breaks down rapidly at room temperature",
+        "C": "Codons overlap with each other during reading",
+        "D": "Different species use completely contradictory codons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Degeneracy means 61 sense codons code for only 20 amino acids, buffering organisms against deleterious point mutations (silent mutations)."
+    },
+    {
+      "id": 27,
+      "question": "What is the cloverleaf-shaped adaptor RNA molecule that carries a specific amino acid at its 3' CCA-terminal and recognizes an mRNA codon via its Anticodon loop?",
+      "options": {
+        "A": "Transfer RNA (tRNA)",
+        "B": "Ribosomal RNA (rRNA)",
+        "C": "Small nuclear RNA (snRNA)",
+        "D": "MicroRNA (miRNA)"
+      },
+      "correctAnswer": "A",
+      "explanation": "tRNA translates nucleotide language into amino acid sequence by pairing its anticodon with mRNA codons while holding the appropriate amino acid."
+    },
+    {
+      "id": 28,
+      "question": "Which enzyme accurately couples each amino acid to its corresponding tRNA molecule, charging the tRNA in an ATP-dependent reaction?",
+      "options": {
+        "A": "Aminoacyl-tRNA Synthetase",
+        "B": "Peptidyl Transferase",
+        "C": "RNA Polymerase III",
+        "D": "DNA Helicase"
+      },
+      "correctAnswer": "A",
+      "explanation": "20 aminoacyl-tRNA synthetases ensure translational fidelity by esterifying the correct amino acid to its cognate tRNA."
+    },
+    {
+      "id": 29,
+      "question": "Where does protein Translation take place inside eukaryotic cells?",
+      "options": {
+        "A": "On Ribosomes in the cytoplasm and on the rough endoplasmic reticulum",
+        "B": "Inside the nucleolus only",
+        "C": "Within the lysosome interior",
+        "D": "In the extracellular fluid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Translation occurs on cytoplasmic ribosomes (free or membrane-bound to the rough ER), where mRNA templates are decoded into polypeptides."
+    },
+    {
+      "id": 30,
+      "question": "Which catalytic activity of the large ribosomal subunit (mediated by 28S/23S rRNA as a ribozyme) forms peptide bonds between amino acids?",
+      "options": {
+        "A": "Peptidyl Transferase",
+        "B": "Topoisomerase",
+        "C": "DNA Ligase",
+        "D": "Endonuclease"
+      },
+      "correctAnswer": "A",
+      "explanation": "Peptidyl transferase is a ribozyme (rRNA catalytic activity) that transfers the growing polypeptide chain to the amino acid on the A-site tRNA."
+    },
+    {
+      "id": 31,
+      "question": "What are the three tRNA binding sites on the assembled functional ribosome during translation elongation?",
+      "options": {
+        "A": "A site (Aminoacyl), P site (Peptidyl), and E site (Exit)",
+        "B": "Alpha, Beta, and Gamma sites",
+        "C": "Promoter, Operator, and Terminator",
+        "D": "Leader, Trailer, and Cistron"
+      },
+      "correctAnswer": "A",
+      "explanation": "Incoming aminoacyl-tRNA enters the A site; peptide bond forms at the P site; discharged uncharged tRNA exits via the E site."
+    },
+    {
+      "id": 32,
+      "question": "What type of gene mutation occurs when the insertion or deletion of a number of nucleotides not divisible by 3 alters the entire downstream reading frame?",
+      "options": {
+        "A": "Frameshift Mutation",
+        "B": "Silent Mutation",
+        "C": "Missense Mutation",
+        "D": "Nonsense Mutation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Inserting or deleting 1 or 2 bases alters the triplet reading frame downstream, producing entirely different amino acids and premature stop codons."
+    },
+    {
+      "id": 33,
+      "question": "What is a 'Missense Mutation'?",
+      "options": {
+        "A": "A single nucleotide substitution that results in a codon specifying a different amino acid (e.g., Sickle Cell Anemia: GAG $\\rightarrow$ GTG, Glu $\\rightarrow$ Val)",
+        "B": "A mutation that changes a codon to a premature stop codon",
+        "C": "A mutation that produces no change in the amino acid sequence",
+        "D": "The duplication of an entire chromosome"
+      },
+      "correctAnswer": "A",
+      "explanation": "Missense point mutations alter one codon to code for a different amino acid, altering protein folding or function (as in sickle cell disease)."
+    },
+    {
+      "id": 34,
+      "question": "What is a 'Nonsense Mutation'?",
+      "options": {
+        "A": "A point mutation that changes an amino acid codon into a premature stop codon, causing truncated, non-functional protein production",
+        "B": "A mutation that changes a codon into an identical amino acid",
+        "C": "A mutation that multiplies the number of ribosomes",
+        "D": "A chromosomal translocation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nonsense mutations introduce premature termination codons (UAA, UAG, UGA), truncating the polypeptide chain prematurely."
+    },
+    {
+      "id": 35,
+      "question": "In the classic Operon model of prokaryotic gene regulation (e.g., Lac Operon in E. coli), what is an 'Operator'?",
+      "options": {
+        "A": "A DNA regulatory sequence where a repressor protein binds to physically block RNA polymerase from transcribing structural genes",
+        "B": "The structural gene coding for beta-galactosidase",
+        "C": "The ribosome binding site on mRNA",
+        "D": "A chemical inducer like lactose or allolactose"
+      },
+      "correctAnswer": "A",
+      "explanation": "The operator is a DNA segment between the promoter and structural genes where repressor binding prevents RNA polymerase transit."
+    }
+  ]
+}

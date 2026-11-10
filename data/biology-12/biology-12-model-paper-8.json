@@ -1,0 +1,214 @@
+{
+  "chapterNumber": 21,
+  "chapterTitle": "Annual Board Examination Section A Simulator 8 (17 Marks · 25 Min)",
+  "title": "Annual Board Examination Section A Simulator 8 (17 Marks · 25 Min)",
+  "slug": "biology-12-model-paper-8",
+  "totalQuestions": 17,
+  "subject": "biology-12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Carbon monoxide (CO) is exceptionally poisonous because its affinity for hemoglobin is approximately how many times greater than that of oxygen?",
+      "options": {
+        "A": "2 times",
+        "B": "10 times",
+        "C": "200 to 250 times",
+        "D": "1,000 times"
+      },
+      "correctAnswer": "C",
+      "explanation": "Carbon monoxide binds to hemoglobin with an affinity 200 to 250 times greater than oxygen, forming carboxyhemoglobin (HbCO), which locks hemoglobin in the high-affinity R-state and blocks oxygen delivery to tissues."
+    },
+    {
+      "id": 2,
+      "question": "In the nephron, what percentage of filtered water, glucose, amino acids, and sodium is reabsorbed obligatorily in the proximal convoluted tubule (PCT)?",
+      "options": {
+        "A": "10-15%",
+        "B": "65-70% of water and ions, and 100% of filtered glucose and amino acids",
+        "C": "30%",
+        "D": "99% of total urine volume strictly"
+      },
+      "correctAnswer": "B",
+      "explanation": "The PCT reabsorbs ~65-70% of filtered Na+, Cl-, and water, and essentially 100% of filtered glucose and amino acids via secondary active sodium cotransporters, fueled by dense apical brush border microvilli."
+    },
+    {
+      "id": 3,
+      "question": "Which connective tissue structure connects a skeletal muscle directly to bone periosteum?",
+      "options": {
+        "A": "Ligament",
+        "B": "Tendon",
+        "C": "Aponeurosis alone",
+        "D": "Synovial membrane"
+      },
+      "correctAnswer": "B",
+      "explanation": "A tendon is a tough, non-elastic cord of dense regular collagenous connective tissue that connects skeletal muscle to bone, while a ligament connects bone to bone across a joint."
+    },
+    {
+      "id": 4,
+      "question": "Which division of the autonomic nervous system is responsible for the 'fight-or-flight' stress response, causing pupillary dilation, tachycardia, and bronchodilation?",
+      "options": {
+        "A": "Parasympathetic nervous system",
+        "B": "Sympathetic nervous system",
+        "C": "Enteric nervous system",
+        "D": "Somatic motor system"
+      },
+      "correctAnswer": "B",
+      "explanation": "The sympathetic division (thoracolumbar outflow) mobilizes energy resources during danger or stress, accelerating heart rate, dilating bronchioles, mobilizing glycogen, and shunting blood to skeletal muscles."
+    },
+    {
+      "id": 5,
+      "question": "Steroid hormones (such as estrogen, progesterone, and cortisol) elicit their cellular actions primarily by:",
+      "options": {
+        "A": "Binding to cell-surface G-protein coupled receptors and generating cAMP",
+        "B": "Diffusing across the lipid bilayer to bind intracellular nuclear receptors and regulating gene transcription",
+        "C": "Activating membrane ion channels directly",
+        "D": "Inducing endocytosis of lysosomes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lipophilic steroid hormones pass directly through the plasma membrane into target cells, binding to cytoplasmic or nuclear receptors. The hormone-receptor complex acts as a transcription factor regulating mRNA expression."
+    },
+    {
+      "id": 6,
+      "question": "The form of learning where an animal solves a novel problem rapidly upon first exposure through internal cognitive reasoning rather than trial and error is:",
+      "options": {
+        "A": "Classical conditioning",
+        "B": "Insight learning (reasoning)",
+        "C": "Habituation",
+        "D": "Operant conditioning"
+      },
+      "correctAnswer": "B",
+      "explanation": "Insight learning, demonstrated in chimpanzees by Wolfgang Köhler, is the highest cognitive form of learning, involving mental restructuring of perceptual relationships to solve problems without prior trial-and-error."
+    },
+    {
+      "id": 7,
+      "question": "In human female gametogenesis, secondary oocytes remain arrested at which meiotic stage until fertilization occurs?",
+      "options": {
+        "A": "Prophase I",
+        "B": "Metaphase II",
+        "C": "Anaphase I",
+        "D": "Telophase II"
+      },
+      "correctAnswer": "B",
+      "explanation": "During oogenesis, primary oocytes are arrested in prophase I until puberty. Each menstrual cycle, a matured oocyte resumes meiosis I, producing a secondary oocyte that halts at metaphase II until activated by sperm penetration."
+    },
+    {
+      "id": 8,
+      "question": "The Hayflick limit in human cell biology refers to:",
+      "options": {
+        "A": "The maximum rate of ATP generation by mitochondria",
+        "B": "The finite number of times (approx. 50-70 divisions) normal somatic cells can divide before undergoing senescence",
+        "C": "The threshold membrane voltage required to trigger an action potential",
+        "D": "The maximum volume of urine a bladder can contain"
+      },
+      "correctAnswer": "B",
+      "explanation": "Leonard Hayflick discovered that normal human fetal somatic cells cultured in vitro divide only a finite number of times (~50 divisions) due to progressive telomere shortening, before entering replicative senescence."
+    },
+    {
+      "id": 9,
+      "question": "Which enzyme synthesizes short complementary RNA primers necessary to provide free 3'-OH groups for DNA Polymerase during replication?",
+      "options": {
+        "A": "RNA Primase (DnaG)",
+        "B": "DNA Ligase",
+        "C": "DNA Helicase",
+        "D": "Topoisomerase"
+      },
+      "correctAnswer": "A",
+      "explanation": "Because DNA polymerases cannot initiate polynucleotide synthesis de novo, RNA Primase synthesizes an initial ~10 nucleotide RNA primer providing the free 3'-hydroxyl group required for elongation."
+    },
+    {
+      "id": 10,
+      "question": "A human male possessing an extra X chromosome with the karyotype 47, XXY manifests which condition?",
+      "options": {
+        "A": "Turner syndrome (45, X0)",
+        "B": "Klinefelter syndrome (47, XXY)",
+        "C": "Supermale syndrome (47, XYY)",
+        "D": "Patau syndrome"
+      },
+      "correctAnswer": "B",
+      "explanation": "Klinefelter syndrome (47, XXY) occurs in males due to non-disjunction of sex chromosomes. Phenotypic traits include tall stature, hypogonadism, low testosterone, gynecomastia, and reduced fertility."
+    },
+    {
+      "id": 11,
+      "question": "The vestigial anatomical remnant of the third eyelid found in the medial canthus of the human eye is called the:",
+      "options": {
+        "A": "Plica semilunaris",
+        "B": "Ciliary body",
+        "C": "Canal of Schlemm",
+        "D": "Lacrimal punctum"
+      },
+      "correctAnswer": "A",
+      "explanation": "The plica semilunaris is a small fold of conjunctiva located at the inner corner of the human eye, representing the vestigial homologue of the nictitating membrane found in reptiles, birds, and amphibians."
+    },
+    {
+      "id": 12,
+      "question": "Which transgenic crop was genetically engineered to synthesize beta-carotene (provitamin A) to alleviate childhood blindness in developing nations?",
+      "options": {
+        "A": "Bt Cotton",
+        "B": "Golden Rice",
+        "C": "Flavr Savr Tomato",
+        "D": "Roundup Ready Soybeans"
+      },
+      "correctAnswer": "B",
+      "explanation": "Golden Rice was engineered by inserting phytoene synthase from daffodil/maize and carotene desaturase from Erwinia uredovora, enabling biosynthesis of beta-carotene in rice endosperm to combat Vitamin A deficiency."
+    },
+    {
+      "id": 13,
+      "question": "In an ecosystem, detritivores and saprotrophs (decomposers) fulfill what critical role?",
+      "options": {
+        "A": "Fixing solar radiation into chemical ATP bonds directly",
+        "B": "Breaking down dead organic matter and returning essential mineral nutrients to the abiotic reservoir",
+        "C": "Controlling herbivore populations through predation",
+        "D": "Generating greenhouse gases to warm the planet"
+      },
+      "correctAnswer": "B",
+      "explanation": "Decomposers (bacteria and fungi) secrete extracellular digestive enzymes to break down complex dead plant and animal organic matter, recycling bio-elements (carbon, nitrogen, phosphorus) back to the soil."
+    },
+    {
+      "id": 14,
+      "question": "Which respiratory volume cannot be measured directly by conventional water-displacement or dry spirometry?",
+      "options": {
+        "A": "Tidal volume (TV)",
+        "B": "Vital capacity (VC)",
+        "C": "Residual volume (RV)",
+        "D": "Inspiratory reserve volume (IRV)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Residual Volume (RV) cannot be measured by simple spirometry because it never exits the lungs; it requires helium dilution, nitrogen washout, or body plethysmography techniques to be determined."
+    },
+    {
+      "id": 15,
+      "question": "Which hormone secreted by the thyroid gland lowers blood calcium levels?",
+      "options": {
+        "A": "Parathyroid hormone (PTH)",
+        "B": "Calcitonin",
+        "C": "Thyroxine",
+        "D": "Triiodothyronine"
+      },
+      "correctAnswer": "B",
+      "explanation": "Calcitonin is released by parafollicular C cells of the thyroid when blood Ca2+ is elevated, lowering blood calcium by inhibiting osteoclasts and promoting renal calcium clearance."
+    },
+    {
+      "id": 16,
+      "question": "In molecular genetics, the Wobble Hypothesis proposed by Francis Crick explains why:",
+      "options": {
+        "A": "Mutations always lead to non-functional enzymes",
+        "B": "Non-standard base pairing can occur at the third (3') position of the mRNA codon and 5' base of the tRNA anticodon",
+        "C": "DNA polymerase replicates both strands continuously",
+        "D": "Introns are retained in translated polypeptides"
+      },
+      "correctAnswer": "B",
+      "explanation": "Crick's Wobble Hypothesis states that steric flexibility at the 3' base of the mRNA codon allows a single tRNA anticodon (with inosine or modified base at its 5' end) to recognize multiple synonymous codons."
+    },
+    {
+      "id": 17,
+      "question": "What is the primary cause of cultural eutrophication in freshwater lakes and rivers?",
+      "options": {
+        "A": "Excessive carbon monoxide emissions",
+        "B": "Agricultural runoff carrying synthetic fertilizers rich in nitrates and phosphates",
+        "C": "Acid rain dissolving granite bedrock",
+        "D": "Thermal pollution from nuclear power cooling towers alone"
+      },
+      "correctAnswer": "B",
+      "explanation": "Runoff of synthetic agricultural fertilizers and untreated sewage delivers excess nitrates and phosphates into surface waters, fueling massive phytoplankton blooms that deplete oxygen upon decay."
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "chapterNumber": 15,
+  "chapterTitle": "Annual Board Examination Section A Simulator 2 (17 Marks · 25 Min)",
+  "title": "Annual Board Examination Section A Simulator 2 (17 Marks · 25 Min)",
+  "slug": "biology-12-model-paper-2",
+  "totalQuestions": 17,
+  "subject": "biology-12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In human blood, the major mechanism (~70%) by which carbon dioxide is transported from peripheral tissues to the alveolar capillaries is as:",
+      "options": {
+        "A": "Dissolved CO2 gas in blood plasma",
+        "B": "Carbaminohemoglobin bound to globin amino groups",
+        "C": "Soluble bicarbonate ions (HCO3-) in plasma",
+        "D": "Carbon monoxide complexes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Approximately 70% of transported CO2 enters erythrocytes, where carbonic anhydrase converts it into carbonic acid (H2CO3), dissociating into H+ and HCO3-. The bicarbonate ions diffuse out into the plasma via chloride-bicarbonate exchange."
+    },
+    {
+      "id": 2,
+      "question": "Which hormone released from the posterior pituitary acts on renal collecting ducts to insert aquaporin-2 water channels and conserve water during dehydration?",
+      "options": {
+        "A": "Aldosterone",
+        "B": "Antidiuretic Hormone (ADH / Vasopressin)",
+        "C": "Atrial Natriuretic Peptide (ANP)",
+        "D": "Renin"
+      },
+      "correctAnswer": "B",
+      "explanation": "ADH (Vasopressin), synthesized by the hypothalamus and released by the posterior pituitary, stimulates the insertion of aquaporin-2 channels into apical membranes of principal cells in collecting ducts, concentrating urine."
+    },
+    {
+      "id": 3,
+      "question": "During skeletal muscle contraction, calcium ions released from the sarcoplasmic reticulum bind directly to which regulatory protein?",
+      "options": {
+        "A": "Tropomyosin",
+        "B": "Actin",
+        "C": "Troponin C",
+        "D": "Myosin heavy chain"
+      },
+      "correctAnswer": "C",
+      "explanation": "Calcium binds specifically to Troponin C, inducing a conformational change in the troponin complex that shifts tropomyosin away from actin's active myosin-binding sites, allowing cross-bridge formation."
+    },
+    {
+      "id": 4,
+      "question": "Which part of the central nervous system controls vital involuntary visceral reflexes such as heart rate, vascular tone, and respiration rhythm?",
+      "options": {
+        "A": "Cerebellum",
+        "B": "Medulla oblongata",
+        "C": "Thalamus",
+        "D": "Cerebrum"
+      },
+      "correctAnswer": "B",
+      "explanation": "The medulla oblongata houses cardiovascular, vasomotor, and respiratory rhythmicity centers that regulate essential autonomic homeostatic reflexes."
+    },
+    {
+      "id": 5,
+      "question": "Which endocrine disorder results from hypersecretion of growth hormone (GH) in adulthood after epiphyseal plate closure has already occurred?",
+      "options": {
+        "A": "Gigantism",
+        "B": "Acromegaly",
+        "C": "Cushing's syndrome",
+        "D": "Grave's disease"
+      },
+      "correctAnswer": "B",
+      "explanation": "Acromegaly is caused by hypersecretion of GH (usually from a pituitary adenoma) in adults whose epiphyseal plates have fused, leading to enlargement of bones in the face, hands, and feet."
+    },
+    {
+      "id": 6,
+      "question": "Ivan Pavlov's experiment with dogs ringing a bell prior to presenting food is a classic demonstration of:",
+      "options": {
+        "A": "Operant conditioning",
+        "B": "Insight learning",
+        "C": "Classical conditioning",
+        "D": "Latent learning"
+      },
+      "correctAnswer": "C",
+      "explanation": "Classical conditioning involves pairing an unconditioned stimulus (food) with a conditioned neutral stimulus (bell sound), eventually eliciting a conditioned reflex (salivation) to the sound alone."
+    },
+    {
+      "id": 7,
+      "question": "Following ovulation, the collapsed ovarian follicular shell transforms under LH stimulation into which temporary endocrine structure?",
+      "options": {
+        "A": "Corpus albicans",
+        "B": "Corpus luteum",
+        "C": "Corona radiata",
+        "D": "Cumulus oophorus"
+      },
+      "correctAnswer": "B",
+      "explanation": "The residual granulosa and theca cells luteinize to form the corpus luteum, which secretes high quantities of progesterone and moderate estrogen to maintain the secretory endometrium for implantation."
+    },
+    {
+      "id": 8,
+      "question": "In human embryology, which primary germ layer gives rise to the central nervous system, epidermis of the skin, and neural crest derivatives?",
+      "options": {
+        "A": "Endoderm",
+        "B": "Mesoderm",
+        "C": "Ectoderm",
+        "D": "Hypoblast"
+      },
+      "correctAnswer": "C",
+      "explanation": "The ectoderm differentiates into the neural tube (brain and spinal cord), neural crest cells (peripheral ganglia, Schwann cells), and surface epidermis including hair, nails, and lens of the eye."
+    },
+    {
+      "id": 9,
+      "question": "During protein translation in eukaryotes, which codon acts as the universal start codon encoding Methionine?",
+      "options": {
+        "A": "UAA",
+        "B": "AUG",
+        "C": "UAG",
+        "D": "UGA"
+      },
+      "correctAnswer": "B",
+      "explanation": "AUG is the universal start (initiation) codon in mRNA transcripts, signaling the initiation of translation and coding for Methionine (formylmethionine in prokaryotes)."
+    },
+    {
+      "id": 10,
+      "question": "What is the phenotypic ratio in the F2 generation of a classic Mendelian dihybrid cross involving two unlinked, completely dominant traits (AaBb x AaBb)?",
+      "options": {
+        "A": "3:1",
+        "B": "1:2:1",
+        "C": "9:3:3:1",
+        "D": "9:7"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to Mendel's Law of Independent Assortment, crossing two dihybrids (AaBb x AaBb) produces four distinct phenotypes in the ratio of 9 (both dominant) : 3 (first dominant, second recessive) : 3 (first recessive, second dominant) : 1 (both recessive)."
+    },
+    {
+      "id": 11,
+      "question": "Structures that share a common embryonic origin and anatomical design but serve different adaptive functions (e.g., human arm, bat wing, whale flipper) are known as:",
+      "options": {
+        "A": "Analogous structures",
+        "B": "Homologous structures",
+        "C": "Vestigial structures",
+        "D": "Atavistic traits"
+      },
+      "correctAnswer": "B",
+      "explanation": "Homologous structures reflect divergent evolution from a common ancestral anatomical plan (pentadactyl limb structure) adapted to diverse ecological niches."
+    },
+    {
+      "id": 12,
+      "question": "What is the primary role of the Taq DNA polymerase enzyme in Polymerase Chain Reaction (PCR)?",
+      "options": {
+        "A": "Cleaving target DNA at specific palindromic motifs",
+        "B": "Synthesizing complementary DNA strands at high temperatures (72°C) without denaturing",
+        "C": "Ligating sticky ends of DNA fragments",
+        "D": "Phosphorylating 5' primers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Taq polymerase, isolated from the thermophilic bacterium Thermus aquaticus, is thermostable and retains enzymatic activity during repeated high-temperature denaturation steps (95°C), synthesizing DNA during 72°C extension."
+    },
+    {
+      "id": 13,
+      "question": "The gradual, orderly, and predictable replacement of one plant community by another in a previously lifeless, bare rock habitat is designated as:",
+      "options": {
+        "A": "Secondary succession",
+        "B": "Primary succession (Xerosere)",
+        "C": "Hydrosere",
+        "D": "Eutrophication"
+      },
+      "correctAnswer": "B",
+      "explanation": "Primary succession on bare rock (xerosere) begins with pioneer species (crustose lichens) breaking down rock into initial soil, progressing sequentially through mosses, herbs, shrubs, and culminating in a climax forest."
+    },
+    {
+      "id": 14,
+      "question": "Which respiratory condition is characterized by chronic breakdown and loss of elasticity of alveolar septa, creating enlarged permanent air pockets and barrel chest?",
+      "options": {
+        "A": "Pneumonia",
+        "B": "Emphysema",
+        "C": "Pleurisy",
+        "D": "Silicosis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Emphysema, frequently caused by cigarette smoking and alpha-1 antitrypsin deficiency, involves destruction of alveolar walls and elastase-mediated loss of recoil, trapping air during expiration."
+    },
+    {
+      "id": 15,
+      "question": "Which hormone produced by cardiac atrial myocytes in response to high blood volume promotes renal excretion of sodium and water, reducing blood pressure?",
+      "options": {
+        "A": "Aldosterone",
+        "B": "Renin",
+        "C": "Atrial Natriuretic Peptide (ANP)",
+        "D": "Angiotensin II"
+      },
+      "correctAnswer": "C",
+      "explanation": "ANP is secreted by atrial stretch receptors in response to hypervolemia. It acts as an antagonist to RAAS, promoting natriuresis (Na+ excretion) and diuresis to lower circulatory volume and blood pressure."
+    },
+    {
+      "id": 16,
+      "question": "In DNA replication, short segments synthesized discontinuously along the 5' to 3' direction of the lagging strand are known as:",
+      "options": {
+        "A": "Kornberg fragments",
+        "B": "Okazaki fragments",
+        "C": "Intron loops",
+        "D": "Spliceosomes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Because DNA polymerases only add nucleotides to the 3' OH end, the lagging strand is replicated discontinuously away from the replication fork as Okazaki fragments, which are later stitched together by DNA ligase."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following atmospheric pollutants is primarily responsible for the catalytic destruction of stratospheric ozone molecules via free chlorine radicals?",
+      "options": {
+        "A": "Carbon dioxide (CO2)",
+        "B": "Chlorofluorocarbons (CFCs)",
+        "C": "Methane (CH4)",
+        "D": "Sulfur dioxide (SO2)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chlorofluorocarbons (CFCs) drift into the stratosphere where UV radiation photolytically cleaves chlorine free radicals (Cl·). A single chlorine radical can catalytically destroy up to 100,000 ozone molecules."
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "chapterNumber": 16,
+  "chapterTitle": "Annual Board Examination Section A Simulator 3 (17 Marks · 25 Min)",
+  "title": "Annual Board Examination Section A Simulator 3 (17 Marks · 25 Min)",
+  "slug": "biology-12-model-paper-3",
+  "totalQuestions": 17,
+  "subject": "biology-12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In human erythrocytes, the chloride shift (Hamburger phenomenon) occurs during gas transport to:",
+      "options": {
+        "A": "Maintain electrical neutrality across the RBC membrane when HCO3- diffuses into the plasma",
+        "B": "Directly bind molecular oxygen to heme",
+        "C": "Catalyze the synthesis of carbonic acid",
+        "D": "Acidify pulmonary alveolar capillaries"
+      },
+      "correctAnswer": "A",
+      "explanation": "As bicarbonate ions (HCO3-) diffuse down their concentration gradient out of the erythrocyte into the blood plasma, chloride ions (Cl-) move into the erythrocyte via anion exchanger 1 (band 3 protein) to maintain electrical neutrality."
+    },
+    {
+      "id": 2,
+      "question": "Which cells in the renal juxtaglomerular apparatus (JGA) sense decreased sodium chloride concentration in the distal convoluted tubule and stimulate renin secretion?",
+      "options": {
+        "A": "Podocytes",
+        "B": "Macula densa cells",
+        "C": "Mesangial cells",
+        "D": "Intercalated cells"
+      },
+      "correctAnswer": "B",
+      "explanation": "Macula densa cells located in the wall of the distal convoluted tubule sense reduced luminal Na+ and Cl- flux or decreased arterial perfusion pressure, signaling juxtaglomerular granular cells to release renin."
+    },
+    {
+      "id": 3,
+      "question": "Which type of synovial joint allows multiaxial movement in all three planes, including flexion, extension, abduction, adduction, and circumduction (e.g., shoulder and hip joints)?",
+      "options": {
+        "A": "Hinge joint",
+        "B": "Ball-and-socket joint",
+        "C": "Pivot joint",
+        "D": "Saddle joint"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ball-and-socket joints (enarthrodial joints), like the glenohumeral (shoulder) and acetabulofemoral (hip) joints, feature a spherical head fitting into a cup-like depression, granting the widest range of triaxial motion."
+    },
+    {
+      "id": 4,
+      "question": "The gaps between adjacent myelin sheaths along the axon where voltage-gated Na+ channels are densely clustered, enabling saltatory conduction, are:",
+      "options": {
+        "A": "Dendritic spines",
+        "B": "Nodes of Ranvier",
+        "C": "Synaptic clefts",
+        "D": "Nissl bodies"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nodes of Ranvier are periodic unmyelinated gaps along the axon where the axolemma is exposed, allowing action potentials to jump rapidly from node to node (saltatory conduction)."
+    },
+    {
+      "id": 5,
+      "question": "Which hormone produced by the beta cells of the islets of Langerhans promotes glucose uptake via GLUT4 translocation into skeletal muscle and adipose cells?",
+      "options": {
+        "A": "Glucagon",
+        "B": "Insulin",
+        "C": "Cortisol",
+        "D": "Epinephrine"
+      },
+      "correctAnswer": "B",
+      "explanation": "Insulin binds to its tyrosine kinase receptor, triggering signaling cascades (PI3K/Akt pathway) that translocate GLUT4 glucose transporters to the plasma membrane, reducing blood glucose."
+    },
+    {
+      "id": 6,
+      "question": "A type of learned behavior in which an animal stops responding to repeated, harmless stimuli that convey neither reward nor danger is known as:",
+      "options": {
+        "A": "Sensitization",
+        "B": "Habituation",
+        "C": "Imprinting",
+        "D": "Trial-and-error learning"
+      },
+      "correctAnswer": "B",
+      "explanation": "Habituation is the simplest form of non-associative learning, wherein an organism gradually decreases its behavioral responsiveness to a repeated stimulus after learning it carries no significant biological consequence."
+    },
+    {
+      "id": 7,
+      "question": "Spermatogenesis in human males occurs continuously within the seminiferous tubules under the direct nutritive support of:",
+      "options": {
+        "A": "Leydig (interstitial) cells",
+        "B": "Sertoli (sustentacular) cells",
+        "C": "Tunica albuginea",
+        "D": "Corpora cavernosa"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sertoli cells line the seminiferous tubules, providing mechanical and nutritional support, phagocytizing residual cytoplasm, forming the blood-testis barrier, and secreting androgen-binding protein."
+    },
+    {
+      "id": 8,
+      "question": "During embryonic development, the programmed physiological process of active cellular self-destruction that shapes digits and eliminates interdigital webbing is called:",
+      "options": {
+        "A": "Necrosis",
+        "B": "Apoptosis",
+        "C": "Hyperplasia",
+        "D": "Metaplasia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Apoptosis (programmed cell death) is a genetically orchestrated developmental mechanism involving caspase cascades that neatly clears tissue without inflammation, sculpting fingers and toes from embryonic paddle-like hands."
+    },
+    {
+      "id": 9,
+      "question": "The central dogma of molecular biology involves which sequence of genetic information flow?",
+      "options": {
+        "A": "Protein -> RNA -> DNA",
+        "B": "DNA -> RNA (Transcription) -> Protein (Translation)",
+        "C": "RNA -> DNA -> Carbohydrate",
+        "D": "Lipid -> RNA -> Protein"
+      },
+      "correctAnswer": "B",
+      "explanation": "Formulated by Francis Crick, the central dogma describes genetic information transfer: replication of DNA, transcription of DNA into messenger RNA, and translation of mRNA into polypeptide protein chains."
+    },
+    {
+      "id": 10,
+      "question": "In humans, ABO blood groups exhibit multiple alleles (IA, IB, i). If a father of blood group AB marries a mother of blood group O, what possible phenotypes can their children have?",
+      "options": {
+        "A": "Only AB and O",
+        "B": "Only A and B",
+        "C": "A, B, AB, and O",
+        "D": "Only O"
+      },
+      "correctAnswer": "B",
+      "explanation": "The father possesses IAIB and passes either IA or IB. The mother has genotype ii and passes only i. The resulting genotypes are IAi (Type A) and IBi (Type B) in equal 50:50 proportions."
+    },
+    {
+      "id": 11,
+      "question": "Industrial melanism in the peppered moth (Biston betularia) during the Industrial Revolution in England provides classic empirical evidence for:",
+      "options": {
+        "A": "Inheritance of acquired characteristics (Lamarckism)",
+        "B": "Natural selection favoring cryptically colored melanic morphs",
+        "C": "Random genetic drift in island populations",
+        "D": "Artificial breeding selection"
+      },
+      "correctAnswer": "B",
+      "explanation": "Soot from coal factories blackened tree trunks, making light-colored moths visible to predatory birds while dark (melanic) carbonaria morphs enjoyed camouflage and higher survival, illustrating directional natural selection."
+    },
+    {
+      "id": 12,
+      "question": "In agarose gel electrophoresis, fragments of negatively charged DNA migrate toward the positive anode based primarily on:",
+      "options": {
+        "A": "Their base sequence richness",
+        "B": "Molecular size (length in base pairs), where smaller fragments migrate faster and farther",
+        "C": "Number of hydrogen bonds between strands",
+        "D": "Presence of methyl groups"
+      },
+      "correctAnswer": "B",
+      "explanation": "Because DNA has a uniform negative charge from its phosphate backbone, electrical current drives it toward the positive anode through the porous agarose matrix, with smaller fragments experiencing less friction and migrating further."
+    },
+    {
+      "id": 13,
+      "question": "In the phosphorus cycle, unlike the carbon and nitrogen cycles, what is the primary natural reservoir pool for phosphorus?",
+      "options": {
+        "A": "Atmospheric gases",
+        "B": "Sedimentary rocks and mineral deposits",
+        "C": "Deep oceanic abyssal vents",
+        "D": "Rainwater condensation"
+      },
+      "correctAnswer": "B",
+      "explanation": "The phosphorus cycle is a classic sedimentary cycle because phosphorus does not have a significant gaseous atmospheric phase; weathering of rock minerals releases phosphate ions into soil and water systems."
+    },
+    {
+      "id": 14,
+      "question": "What is the tidal volume (TV) of a healthy adult human at rest under quiet breathing conditions?",
+      "options": {
+        "A": "150 mL",
+        "B": "500 mL",
+        "C": "1,200 mL",
+        "D": "3,000 mL"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tidal volume is the volume of air inspired or expired with each normal, effortless breath at rest, which averages approximately 500 mL in a healthy adult."
+    },
+    {
+      "id": 15,
+      "question": "In human thermoregulation, which physiological response is triggered when core body temperature rises above 37°C?",
+      "options": {
+        "A": "Cutaneous vasoconstriction and shivering thermogenesis",
+        "B": "Cutaneous vasodilation and activation of eccrine sweat glands",
+        "C": "Increased secretion of thyroxine and epinephrine",
+        "D": "Piloerection (goosebumps) trapping an insulating air layer"
+      },
+      "correctAnswer": "B",
+      "explanation": "To dissipate excess heat, the preoptic anterior hypothalamus stimulates sympathetic cholinergic fibers to dilate cutaneous arterioles (increasing heat radiation) and activate eccrine sweat glands for evaporative cooling."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following codons does NOT code for any amino acid and functions as a translation termination (stop) signal?",
+      "options": {
+        "A": "UAA",
+        "B": "AUG",
+        "C": "UGG",
+        "D": "CAU"
+      },
+      "correctAnswer": "A",
+      "explanation": "The three universal stop (nonsense) codons that signal translation termination are UAA (ochre), UAG (amber), and UGA (opal). They bind release factors rather than tRNA molecules."
+    },
+    {
+      "id": 17,
+      "question": "The excessive enrichment of water bodies with mineral nutrients (nitrates and phosphates), leading to algal blooms and subsequent severe hypoxia, is known as:",
+      "options": {
+        "A": "Biomagnification",
+        "B": "Eutrophication",
+        "C": "Bioaccumulation",
+        "D": "Salinization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cultural eutrophication occurs when agricultural fertilizer runoff enters aquatic ecosystems, causing cyanobacterial blooms. When algae die, aerobic decomposers deplete dissolved oxygen, leading to massive fish kills."
+    }
+  ]
+}

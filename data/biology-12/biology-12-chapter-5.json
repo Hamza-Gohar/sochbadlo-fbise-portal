@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 5,
+  "title": "Unit 5: Chemical Coordination & Endocrine System",
+  "slug": "biology-12-chapter-5",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "How do Endocrine glands differ fundamentally from Exocrine glands?",
+      "options": {
+        "A": "Endocrine glands are ductless and secrete hormones directly into the bloodstream, while exocrine glands secrete via ducts onto epithelial surfaces",
+        "B": "Endocrine glands secrete digestive bile, while exocrine glands secrete steroid hormones",
+        "C": "Endocrine glands only exist in juvenile organisms",
+        "D": "Endocrine glands are controlled exclusively by skeletal muscles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Endocrine glands lack ducts and release hormones into interstitial fluid and blood to act on distant target tissues."
+    },
+    {
+      "id": 2,
+      "question": "Which endocrine gland is often referred to as the 'Master Gland' because its tropic hormones control other peripheral endocrine glands?",
+      "options": {
+        "A": "Pituitary Gland (Hypophysis)",
+        "B": "Thyroid Gland",
+        "C": "Adrenal Medulla",
+        "D": "Thymus Gland"
+      },
+      "correctAnswer": "A",
+      "explanation": "The anterior pituitary secretes tropic hormones (TSH, ACTH, FSH, LH) regulating thyroid, adrenal cortex, and gonads under hypothalamic control."
+    },
+    {
+      "id": 3,
+      "question": "Which hypothalamic releasing hormones stimulate the anterior pituitary gland via the hypophyseal portal system?",
+      "options": {
+        "A": "TRH, CRH, GnRH, and GHRH",
+        "B": "Oxytocin and Vasopressin only",
+        "C": "Glucagon and Somatostatin only",
+        "D": "Calcitonin and Parathormone"
+      },
+      "correctAnswer": "A",
+      "explanation": "The hypothalamus releases neurohormones (TRH, CRH, GnRH, GHRH) into the hypophyseal portal circulation to regulate anterior pituitary hormone secretion."
+    },
+    {
+      "id": 4,
+      "question": "Which two hormones are synthesized by the hypothalamus and stored in and released from the Posterior Pituitary (Neurohypophysis)?",
+      "options": {
+        "A": "Oxytocin and Antidiuretic Hormone (ADH / Vasopressin)",
+        "B": "Growth Hormone (GH) and Prolactin",
+        "C": "TSH and ACTH",
+        "D": "FSH and LH"
+      },
+      "correctAnswer": "A",
+      "explanation": "Oxytocin and ADH are produced by hypothalamic paraventricular and supraoptic nuclei, transported down axons, and stored in the posterior pituitary."
+    },
+    {
+      "id": 5,
+      "question": "What is the primary physiological action of Oxytocin during childbirth (parturition) and nursing?",
+      "options": {
+        "A": "Stimulating powerful uterine smooth muscle contractions and milk ejection (let-down reflex)",
+        "B": "Stimulating milk protein synthesis in mammary alveoli (Prolactin)",
+        "C": "Increasing blood calcium levels",
+        "D": "Decreasing blood pressure in systemic arterioles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Oxytocin stimulates uterine contractions during labor (positive feedback) and contracts myoepithelial cells in lactating breasts for milk let-down."
+    },
+    {
+      "id": 6,
+      "question": "What endocrine disorder results from hypersecretion of Growth Hormone (GH) during childhood before the epiphyseal growth plates of long bones close?",
+      "options": {
+        "A": "Gigantism",
+        "B": "Acromegaly",
+        "C": "Pituitary Dwarfism",
+        "D": "Cretinism"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hypersecretion of GH in children before epiphyseal fusion results in proportional accelerated skeletal overgrowth called gigantism."
+    },
+    {
+      "id": 7,
+      "question": "What endocrine disorder results from hypersecretion of Growth Hormone (GH) in adulthood after epiphyseal plates have fused?",
+      "options": {
+        "A": "Acromegaly",
+        "B": "Gigantism",
+        "C": "Graves' Disease",
+        "D": "Myxedema"
+      },
+      "correctAnswer": "A",
+      "explanation": "In adults, excess GH stimulates bone thickening and soft tissue enlargement in the face, hands, and feet, known as acromegaly."
+    },
+    {
+      "id": 8,
+      "question": "Which hormone produced by the anterior pituitary stimulates milk production and secretion in mammary gland alveoli?",
+      "options": {
+        "A": "Prolactin (PRL)",
+        "B": "Oxytocin",
+        "C": "Luteinizing Hormone (LH)",
+        "D": "Progesterone"
+      },
+      "correctAnswer": "A",
+      "explanation": "Prolactin stimulates mammary alveolar growth and milk synthesis, whereas oxytocin stimulates milk ejection."
+    },
+    {
+      "id": 9,
+      "question": "Which essential trace element is an indispensable constituent of the thyroid hormones Thyroxine ($T_4$) and Triiodothyronine ($T_3$)?",
+      "options": {
+        "A": "Iodine",
+        "B": "Iron",
+        "C": "Zinc",
+        "D": "Copper"
+      },
+      "correctAnswer": "A",
+      "explanation": "Thyroid hormones require dietary iodine; $T_4$ contains 4 iodine atoms and $T_3$ contains 3 iodine atoms attached to tyrosine rings."
+    },
+    {
+      "id": 10,
+      "question": "What condition is characterized by an abnormal enlargement of the thyroid gland, frequently caused by dietary iodine deficiency?",
+      "options": {
+        "A": "Endemic Goiter",
+        "B": "Tetany",
+        "C": "Diabetes Insipidus",
+        "D": "Addison's Anemia"
+      },
+      "correctAnswer": "A",
+      "explanation": "Without dietary iodine, thyroid hormone production falls, removing negative feedback; excess TSH overstimulates the gland, causing goiter."
+    },
+    {
+      "id": 11,
+      "question": "What condition occurs in infants due to congenital untreated severe hypothyroidism, leading to profound physical and mental developmental retardation?",
+      "options": {
+        "A": "Cretinism (Congenital Hypothyroidism)",
+        "B": "Cushing's Syndrome",
+        "C": "Acromegaly",
+        "D": "Rickets"
+      },
+      "correctAnswer": "A",
+      "explanation": "Congenital hypothyroidism (cretinism) stunts brain development and skeletal growth, preventable by newborn thyroid screening."
+    },
+    {
+      "id": 12,
+      "question": "What autoimmune disease is the most common cause of Hyperthyroidism, characterized by exophthalmos (protruding eyes), heat intolerance, and tachycardia?",
+      "options": {
+        "A": "Graves' Disease",
+        "B": "Hashimoto's Thyroiditis",
+        "C": "Addison's Disease",
+        "D": "Myxedema"
+      },
+      "correctAnswer": "A",
+      "explanation": "In Graves' disease, thyroid-stimulating immunoglobulins (TSI) bind to and activate TSH receptors, producing excessive thyroid hormones and exophthalmos."
+    },
+    {
+      "id": 13,
+      "question": "Which hormone secreted by the parafollicular (C-cells) of the thyroid gland acts to lower blood calcium levels ($Ca^{2+}$) by inhibiting osteoclasts?",
+      "options": {
+        "A": "Calcitonin",
+        "B": "Parathyroid Hormone (PTH)",
+        "C": "Aldosterone",
+        "D": "Thyroxine"
+      },
+      "correctAnswer": "A",
+      "explanation": "Calcitonin is a peptide hormone that lowers hypercalcemic blood levels by inhibiting osteoclast bone resorption and promoting renal calcium excretion."
+    },
+    {
+      "id": 14,
+      "question": "Which hormone secreted by the Parathyroid glands increases blood calcium levels by stimulating osteoclast activity, renal calcium reabsorption, and activation of Vitamin D?",
+      "options": {
+        "A": "Parathyroid Hormone (PTH / Parathormone)",
+        "B": "Calcitonin",
+        "C": "Cortisol",
+        "D": "Somatostatin"
+      },
+      "correctAnswer": "A",
+      "explanation": "PTH is the primary hypercalcemic hormone, raising serum $Ca^{2+}$ via bone resorption, renal $Ca^{2+}$ conservation, and activating calcitriol."
+    },
+    {
+      "id": 15,
+      "question": "What neuromuscular disorder results from severe Hypoparathyroidism (hypocalcemia), characterized by painful, involuntary muscle spasms and convulsions?",
+      "options": {
+        "A": "Tetany",
+        "B": "Acromegaly",
+        "C": "Rickets",
+        "D": "Myxedema"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hypocalcemia increases neuronal membrane permeability to $Na^+$, causing spontaneous depolarization and severe muscle spasms known as tetany."
+    },
+    {
+      "id": 16,
+      "question": "Which hormone is secreted by the Beta ($\\beta$) cells of the pancreatic Islets of Langerhans to lower blood glucose levels?",
+      "options": {
+        "A": "Insulin",
+        "B": "Glucagon",
+        "C": "Somatostatin",
+        "D": "Pancreatic Polypeptide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Insulin stimulates GLUT4 glucose uptake in muscle and adipose tissue, accelerates glycogenesis, and inhibits gluconeogenesis."
+    },
+    {
+      "id": 17,
+      "question": "Which hormone is secreted by the Alpha ($\\alpha$) cells of the pancreatic islets to raise blood glucose levels by promoting hepatic glycogenolysis and gluconeogenesis?",
+      "options": {
+        "A": "Glucagon",
+        "B": "Insulin",
+        "C": "Epinephrine",
+        "D": "Secretin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Glucagon is released in response to hypoglycemia, stimulating the liver to break down glycogen into glucose and release it into the bloodstream."
+    },
+    {
+      "id": 18,
+      "question": "What is the primary pathophysiological defect in Diabetes Mellitus Type 1?",
+      "options": {
+        "A": "Autoimmune destruction of pancreatic beta cells resulting in absolute insulin deficiency",
+        "B": "Peripheral tissue resistance to insulin with normal beta cell count",
+        "C": "Lack of functional ADH receptors in renal collecting ducts",
+        "D": "Tumor of the adrenal medulla"
+      },
+      "correctAnswer": "A",
+      "explanation": "Type 1 diabetes is an autoimmune disease where T-cells destroy insulin-secreting $\\beta$-cells, requiring lifelong exogenous insulin administration."
+    },
+    {
+      "id": 19,
+      "question": "What are the classic 'Three Ps' clinical symptoms of untreated Diabetes Mellitus?",
+      "options": {
+        "A": "Polyuria (excess urination), Polydipsia (excess thirst), and Polyphagia (excess hunger)",
+        "B": "Paresthesia, Paralysis, and Ptosis",
+        "C": "Pleurisy, Pneumonia, and Pneumothorax",
+        "D": "Petechiae, Purpura, and Pallor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hyperglycemia exceeds renal threshold, causing osmotic diuresis (polyuria), cellular dehydration (polydipsia), and energy starvation (polyphagia)."
+    },
+    {
+      "id": 20,
+      "question": "Which two catecholamine 'emergency' hormones are synthesized and released by the Adrenal Medulla under sympathetic stimulation?",
+      "options": {
+        "A": "Epinephrine (Adrenaline) and Norepinephrine (Noradrenaline)",
+        "B": "Aldosterone and Cortisol",
+        "C": "Insulin and Glucagon",
+        "D": "Estrogen and Progesterone"
+      },
+      "correctAnswer": "A",
+      "explanation": "The adrenal medulla acts as a modified sympathetic ganglion, releasing adrenaline and noradrenaline to prepare the body for acute stress."
+    },
+    {
+      "id": 21,
+      "question": "Which hormone is the principal glucocorticoid secreted by the Adrenal Cortex (zona fasciculata), regulating gluconeogenesis, fat metabolism, and anti-inflammatory responses?",
+      "options": {
+        "A": "Cortisol (Hydrocortisone)",
+        "B": "Aldosterone",
+        "C": "Dehydroepiandrosterone (DHEA)",
+        "D": "Calcitonin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cortisol is the primary glucocorticoid managing chronic stress, stimulating hepatic gluconeogenesis, protein catabolism, and dampening immune responses."
+    },
+    {
+      "id": 22,
+      "question": "What endocrine disorder is caused by chronic hypersecretion of cortisol, characterized by a 'moon face', 'buffalo hump', central obesity, and purple abdominal striae?",
+      "options": {
+        "A": "Cushing's Syndrome",
+        "B": "Addison's Disease",
+        "C": "Graves' Disease",
+        "D": "Hashimoto's Thyroiditis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cushing's syndrome stems from chronic corticosteroid excess, causing central obesity, hypertension, muscle wasting, and cutaneous striae."
+    },
+    {
+      "id": 23,
+      "question": "What life-threatening condition is caused by autoimmune hyposecretion of glucocorticoids and mineralocorticoids by the adrenal cortex, characterized by skin hyperpigmentation, weakness, and hypotension?",
+      "options": {
+        "A": "Addison's Disease",
+        "B": "Cushing's Syndrome",
+        "C": "Conn's Syndrome",
+        "D": "Pheochromocytoma"
+      },
+      "correctAnswer": "A",
+      "explanation": "Addison's disease involves primary adrenocortical insufficiency; elevated ACTH levels cross-react with melanocortin receptors, causing bronze skin pigmentation."
+    },
+    {
+      "id": 24,
+      "question": "Which hormone secreted by the Pineal Gland regulates the human circadian sleep-wake rhythm in response to environmental darkness?",
+      "options": {
+        "A": "Melatonin",
+        "B": "Melanin",
+        "C": "Dopamine",
+        "D": "Serotonin"
+      },
+      "correctAnswer": "A",
+      "explanation": "The pineal gland secretes melatonin during darkness (governed by the suprachiasmatic nucleus), inducing sleep and entraining circadian rhythms."
+    },
+    {
+      "id": 25,
+      "question": "Which hormone secreted by the Thymus gland plays a vital role in the maturation and differentiation of T-lymphocytes for adaptive cell-mediated immunity?",
+      "options": {
+        "A": "Thymosin",
+        "B": "Thyroxine",
+        "C": "Thyrotropin",
+        "D": "Thrombin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Thymosin is produced by the thymus to stimulate immunocompetence and phenotypic maturation of developing T-cells."
+    },
+    {
+      "id": 26,
+      "question": "Which gonadotropin released by the anterior pituitary stimulates spermatogenesis in males and follicular development in females?",
+      "options": {
+        "A": "Follicle-Stimulating Hormone (FSH)",
+        "B": "Luteinizing Hormone (LH)",
+        "C": "Prolactin",
+        "D": "Adrenocorticotropic Hormone"
+      },
+      "correctAnswer": "A",
+      "explanation": "FSH acts on Sertoli cells in male testes to stimulate spermatogenesis and on granulosa cells in female ovaries to mature Graafian follicles."
+    },
+    {
+      "id": 27,
+      "question": "Which gonadotropin triggers ovulation and luteinization of the ruptured follicle into the Corpus Luteum in females, and stimulates Leydig cells to produce testosterone in males?",
+      "options": {
+        "A": "Luteinizing Hormone (LH / ICSH)",
+        "B": "FSH",
+        "C": "Human Chorionic Gonadotropin",
+        "D": "Oxytocin"
+      },
+      "correctAnswer": "A",
+      "explanation": "The mid-cycle LH surge triggers ovulation; in males, LH (Interstitial Cell-Stimulating Hormone) stimulates Leydig cells to secrete testosterone."
+    },
+    {
+      "id": 28,
+      "question": "Which hormone is the principal androgen produced by Leydig cells in the testes, responsible for primary and secondary male sexual characteristics?",
+      "options": {
+        "A": "Testosterone",
+        "B": "Estrogen",
+        "C": "Progesterone",
+        "D": "Inhibin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Testosterone promotes male reproductive organ development, spermatogenesis, voice deepening, facial hair, and muscle hypertrophy."
+    },
+    {
+      "id": 29,
+      "question": "Which steroid hormone is secreted predominantly by the Corpus Luteum to prepare and maintain the vascularized endometrium for blastocyst implantation during pregnancy?",
+      "options": {
+        "A": "Progesterone",
+        "B": "Estrogen",
+        "C": "Prolactin",
+        "D": "Relaxin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Progesterone ('pro-gestation') maintains a secretory uterine endometrium, suppresses myometrial contractions, and prevents menstruation during pregnancy."
+    },
+    {
+      "id": 30,
+      "question": "How do lipid-soluble steroid hormones (like estrogen, testosterone, and cortisol) exert their primary biochemical actions inside target cells?",
+      "options": {
+        "A": "They diffuse across the plasma membrane and bind to intracellular/nuclear receptors to regulate gene transcription",
+        "B": "They bind to cell-surface G-protein coupled receptors to generate cAMP",
+        "C": "They open ligand-gated sodium channels in the membrane",
+        "D": "They hydrolyze ATP molecules in the extracellular matrix"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lipophilic steroid hormones freely cross the lipid bilayer, binding to intracellular nuclear receptors that act as transcription factors regulating gene expression."
+    },
+    {
+      "id": 31,
+      "question": "How do water-soluble peptide and protein hormones (like insulin, glucagon, and adrenaline) transmit signals into target cells without crossing the lipid bilayer?",
+      "options": {
+        "A": "They bind to cell-surface transmembrane receptors, activating intracellular Second Messengers (e.g., cAMP, $IP_3$, $Ca^{2+}$)",
+        "B": "They are transported into the nucleus via nuclear pores",
+        "C": "They dissolve the cell membrane directly",
+        "D": "They mutate mitochondrial DNA"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hydrophilic peptide hormones cannot cross membranes; they bind external receptors that activate G-proteins, adenylyl cyclase, and secondary messengers."
+    },
+    {
+      "id": 32,
+      "question": "Which enzyme converts ATP into Cyclic Adenosine Monophosphate (cAMP) upon activation by G-protein coupled receptors?",
+      "options": {
+        "A": "Adenylyl Cyclase (Adenylate Cyclase)",
+        "B": "Phosphodiesterase",
+        "C": "Protein Kinase A",
+        "D": "Phospholipase C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adenylyl cyclase catalyzes the cyclization of ATP to cAMP, which then activates Protein Kinase A (PKA) to phosphorylate target cellular enzymes."
+    },
+    {
+      "id": 33,
+      "question": "What is the primary feedback mechanism by which high blood levels of thyroid hormones ($T_3, T_4$) regulate their own production?",
+      "options": {
+        "A": "Negative Feedback (inhibiting TRH release from the hypothalamus and TSH release from the anterior pituitary)",
+        "B": "Positive Feedback (stimulating further TSH release)",
+        "C": "Feed-forward enzymatic induction",
+        "D": "Complete apoptosis of the pituitary gland"
+      },
+      "correctAnswer": "A",
+      "explanation": "Elevated $T_3$ and $T_4$ exert negative feedback on the hypothalamus and anterior pituitary, dampening TRH and TSH to stabilize hormone levels."
+    },
+    {
+      "id": 34,
+      "question": "Which hormone produced by fat cells (adipose tissue) signals the brain (hypothalamus) about energy reserves and suppresses appetite?",
+      "options": {
+        "A": "Leptin",
+        "B": "Ghrelin",
+        "C": "Cholecystokinin",
+        "D": "Gastrin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Leptin is an adipokine that signals satiety to the arcuate nucleus of the hypothalamus, reducing hunger and stimulating energy expenditure."
+    },
+    {
+      "id": 35,
+      "question": "What hormone is secreted by the stomach wall when empty to stimulate appetite and promote hunger in the brain?",
+      "options": {
+        "A": "Ghrelin ('Hunger Hormone')",
+        "B": "Leptin",
+        "C": "Secretin",
+        "D": "Amylase"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ghrelin is a peptide produced by the empty fundus of the stomach that stimulates hypothalamic NPY neurons to induce appetite."
+    }
+  ]
+}

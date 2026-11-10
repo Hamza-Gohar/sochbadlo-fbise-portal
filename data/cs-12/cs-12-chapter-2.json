@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 2,
+  "title": "Unit 2: Computational Thinking, Data Structures & Algorithms",
+  "slug": "cs-12-chapter-2",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which pillar of computational thinking involves breaking down a complex problem into smaller, manageable sub-problems?",
+      "options": {
+        "A": "Decomposition",
+        "B": "Pattern Recognition",
+        "C": "Abstraction",
+        "D": "Algorithm Design"
+      },
+      "correctAnswer": "A",
+      "explanation": "Decomposition divides a complex problem into modular, independently solvable components."
+    },
+    {
+      "id": 2,
+      "question": "Which computational thinking technique filters out irrelevant details to focus exclusively on essential characteristics?",
+      "options": {
+        "A": "Abstraction",
+        "B": "Recursion",
+        "C": "Compilation",
+        "D": "Linearization"
+      },
+      "correctAnswer": "A",
+      "explanation": "Abstraction removes extraneous real-world complexities, allowing the modeler to focus on core logic and properties."
+    },
+    {
+      "id": 3,
+      "question": "What is the worst-case time complexity of binary search on a sorted array of $n$ elements?",
+      "options": {
+        "A": "$O(\\log n)$",
+        "B": "$O(n)$",
+        "C": "$O(n \\log n)$",
+        "D": "$O(1)$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Binary search halves the search interval in every step, resulting in a logarithmic runtime complexity of $O(\\log n)$."
+    },
+    {
+      "id": 4,
+      "question": "Which prerequisite MUST be satisfied before binary search can be executed on a dataset?",
+      "options": {
+        "A": "The dataset must be sorted",
+        "B": "The dataset must contain only prime integers",
+        "C": "The data elements must be stored in a circular linked list",
+        "D": "The array size must be an exact power of two"
+      },
+      "correctAnswer": "A",
+      "explanation": "Binary search relies on order comparisons to divide intervals; unsorted datasets will produce incorrect results."
+    },
+    {
+      "id": 5,
+      "question": "Which data structure operates on a strict Last-In, First-Out (LIFO) protocol?",
+      "options": {
+        "A": "Stack",
+        "B": "Queue",
+        "C": "Array",
+        "D": "Graph"
+      },
+      "correctAnswer": "A",
+      "explanation": "A stack inserts and removes elements from the same end (top), adhering to LIFO behavior (e.g., function call stacks, undo buffers)."
+    },
+    {
+      "id": 6,
+      "question": "What will happen if a program executes a `pop()` operation on an empty stack?",
+      "options": {
+        "A": "Stack Underflow error",
+        "B": "Stack Overflow error",
+        "C": "Memory Segmentation Dump",
+        "D": "Automatic array reallocation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Attempting to retrieve or delete an element from a stack that contains no data results in a Stack Underflow condition."
+    },
+    {
+      "id": 7,
+      "question": "Which data structure operates on a First-In, First-Out (FIFO) principle, where insertions happen at the rear and deletions at the front?",
+      "options": {
+        "A": "Queue",
+        "B": "Stack",
+        "C": "Binary Search Tree",
+        "D": "Max-Heap"
+      },
+      "correctAnswer": "A",
+      "explanation": "Queues process items in arrival order (FIFO), widely used in CPU scheduling, print spooling, and breadth-first search."
+    },
+    {
+      "id": 8,
+      "question": "What is the primary advantage of a Singly Linked List over a static Array of fixed size?",
+      "options": {
+        "A": "Dynamic size allocation without requiring contiguous memory blocks",
+        "B": "Constant-time $O(1)$ random access to any element by index",
+        "C": "Zero memory overhead for pointer references",
+        "D": "Automatic hardware cache line prefetching"
+      },
+      "correctAnswer": "A",
+      "explanation": "Linked lists allocate nodes dynamically in fragmented memory, easily expanding without costly array resizing or reallocations."
+    },
+    {
+      "id": 9,
+      "question": "In a Doubly Linked List, what do the two pointers stored inside each node point to?",
+      "options": {
+        "A": "The next node and the previous node",
+        "B": "The root node and the leaf node",
+        "C": "The array base address and stack pointer",
+        "D": "The left child and right child in a heap"
+      },
+      "correctAnswer": "A",
+      "explanation": "Each node in a doubly linked list contains data, a forward pointer (`next`), and a backward pointer (`prev`), allowing bidirectional traversal."
+    },
+    {
+      "id": 10,
+      "question": "What is the worst-case time complexity of Bubble Sort on an array of $n$ elements in descending order?",
+      "options": {
+        "A": "$O(n^2)$",
+        "B": "$O(n \\log n)$",
+        "C": "$O(n)$",
+        "D": "$O(\\log n)$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bubble sort compares and swaps adjacent pairs across $n-1$ passes, performing $n(n-1)/2$ comparisons, yielding $O(n^2)$."
+    },
+    {
+      "id": 11,
+      "question": "Which sorting algorithm employs a Divide-and-Conquer paradigm with guaranteed $O(n \\log n)$ worst-case time complexity?",
+      "options": {
+        "A": "Merge Sort",
+        "B": "Bubble Sort",
+        "C": "Selection Sort",
+        "D": "Insertion Sort"
+      },
+      "correctAnswer": "A",
+      "explanation": "Merge sort divides the list into halves recursively and merges them back in sorted order with consistent $O(n \\log n)$ efficiency."
+    },
+    {
+      "id": 12,
+      "question": "What is the worst-case time complexity of Quicksort when an unbalanced pivot (e.g., smallest element) is consistently selected?",
+      "options": {
+        "A": "$O(n^2)$",
+        "B": "$O(n \\log n)$",
+        "C": "$O(n)$",
+        "D": "$O(1)$"
+      },
+      "correctAnswer": "A",
+      "explanation": "When Quicksort partitions the array into $0$ and $n-1$ elements in every step (degenerate tree), its time complexity degrades to $O(n^2)$."
+    },
+    {
+      "id": 13,
+      "question": "In a Binary Search Tree (BST), what property must hold for all keys in the left subtree of any given node $X$?",
+      "options": {
+        "A": "All keys must be strictly less than the key of node $X$",
+        "B": "All keys must be strictly greater than the key of node $X$",
+        "C": "All keys must be equal to the hash code of node $X$",
+        "D": "All keys must be exact powers of 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "By definition of a BST, every key in a node's left subtree is smaller, and every key in its right subtree is greater than the node's key."
+    },
+    {
+      "id": 14,
+      "question": "Which tree traversal algorithm visits nodes in the exact order: Left Subtree $\\rightarrow$ Root $\\rightarrow$ Right Subtree?",
+      "options": {
+        "A": "In-order Traversal",
+        "B": "Pre-order Traversal",
+        "C": "Post-order Traversal",
+        "D": "Level-order Traversal"
+      },
+      "correctAnswer": "A",
+      "explanation": "In-order traversal visits left-root-right. When executed on a Binary Search Tree, it outputs all values in ascending sorted order."
+    },
+    {
+      "id": 15,
+      "question": "Which asymptotic notation represents the tight mathematical upper bound on the growth rate of an algorithm's execution time?",
+      "options": {
+        "A": "Big-O Notation ($O$)",
+        "B": "Big-Omega Notation ($\\Omega$)",
+        "C": "Big-Theta Notation ($\\Theta$)",
+        "D": "Little-o Notation ($o$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Big-O notation specifies an asymptotic upper bound, representing the maximum time or space an algorithm will consume for large inputs."
+    },
+    {
+      "id": 16,
+      "question": "Which graph traversal technique explores as deep as possible along each branch before backtracking, utilizing a Stack (or recursion)?",
+      "options": {
+        "A": "Depth-First Search (DFS)",
+        "B": "Breadth-First Search (BFS)",
+        "C": "Dijkstra's Algorithm",
+        "D": "Kruskal's Algorithm"
+      },
+      "correctAnswer": "A",
+      "explanation": "DFS traverses vertex paths to their terminal depth before backtracking, naturally implemented with a stack data structure."
+    },
+    {
+      "id": 17,
+      "question": "Which graph traversal technique explores all neighboring vertices at the present depth level before moving deeper, utilizing a Queue?",
+      "options": {
+        "A": "Breadth-First Search (BFS)",
+        "B": "Depth-First Search (DFS)",
+        "C": "Prim's Algorithm",
+        "D": "Bellman-Ford Algorithm"
+      },
+      "correctAnswer": "A",
+      "explanation": "BFS explores nodes level by level using a FIFO queue, guaranteeing the shortest path in unweighted graphs."
+    },
+    {
+      "id": 18,
+      "question": "How is a graph with $V$ vertices and $E$ edges represented using an Adjacency Matrix?",
+      "options": {
+        "A": "A 2D array of size $V \\times V$ where entry $[i][j]$ indicates whether an edge connects vertex $i$ to vertex $j$",
+        "B": "A 1D linked list containing only leaf nodes",
+        "C": "A hash table storing edge weights indexed by prime modulo numbers",
+        "D": "A binary heap storing node degrees in descending order"
+      },
+      "correctAnswer": "A",
+      "explanation": "An adjacency matrix is a $V \\times V$ matrix where cells contain 1 (or edge weight) if an edge exists, and 0 if no edge connects the vertices."
+    },
+    {
+      "id": 19,
+      "question": "For a sparse graph with few edges ($E \\ll V^2$), which data structure is far more space-efficient than an adjacency matrix?",
+      "options": {
+        "A": "Adjacency List ($O(V + E)$ space)",
+        "B": "Complete Incidence Matrix ($O(V \\cdot E)$ space)",
+        "C": "Dense Array Matrix ($O(V^2)$ space)",
+        "D": "Circular Queue ($O(V^3)$ space)"
+      },
+      "correctAnswer": "A",
+      "explanation": "An adjacency list stores an array/list of edges for each vertex, consuming only $O(V + E)$ memory compared to $O(V^2)$ for a matrix."
+    },
+    {
+      "id": 20,
+      "question": "What is the time complexity of looking up a value in an ideal Hash Table with zero collisions?",
+      "options": {
+        "A": "$O(1)$ constant time",
+        "B": "$O(\\log n)$",
+        "C": "$O(n)$",
+        "D": "$O(n^2)$"
+      },
+      "correctAnswer": "A",
+      "explanation": "A hash function computes direct array bucket indices, yielding constant-time $O(1)$ retrieval in the average/ideal case."
+    },
+    {
+      "id": 21,
+      "question": "In hash table collision resolution, what does 'Separate Chaining' involve?",
+      "options": {
+        "A": "Attaching a linked list to each hash bucket to hold multiple colliding keys",
+        "B": "Probing consecutively through the array until the next open slot is found",
+        "C": "Rehashing the table using a cryptographically secure SHA-256 algorithm",
+        "D": "Deleting the previously stored value to overwrite the bucket"
+      },
+      "correctAnswer": "A",
+      "explanation": "Separate chaining resolves hash collisions by maintaining a linked list of all key-value entries that hash to the same bucket index."
+    },
+    {
+      "id": 22,
+      "question": "What is a recursive function in computer algorithms?",
+      "options": {
+        "A": "A function that solves a problem by calling itself with smaller sub-problems until a base case is reached",
+        "B": "A function that executes an infinite while-loop without CPU interrupts",
+        "C": "A method that can only be invoked from an external operating system shell",
+        "D": "A subroutine that converts high-level Python code into machine language"
+      },
+      "correctAnswer": "A",
+      "explanation": "Recursion occurs when a function invokes itself directly or indirectly, terminating when reaching defined base cases."
+    },
+    {
+      "id": 23,
+      "question": "What happens if a recursive function does not include a properly reachable base case?",
+      "options": {
+        "A": "Infinite recursion occurs, leading to a Call Stack Overflow crash",
+        "B": "The algorithm executes in instantaneous $O(1)$ time",
+        "C": "The compiler automatically rewrites the code into bubble sort",
+        "D": "The computer reboots into safe mode"
+      },
+      "correctAnswer": "A",
+      "explanation": "Without a base case, recursion continues allocating stack frames indefinitely until the system runs out of call stack memory."
+    },
+    {
+      "id": 24,
+      "question": "What is the maximum number of nodes in a binary tree of height $h$ (where root height = 0)?",
+      "options": {
+        "A": "$2^{h+1} - 1$",
+        "B": "$2^h$",
+        "C": "$h^2 + 1$",
+        "D": "$2h - 1$"
+      },
+      "correctAnswer": "A",
+      "explanation": "The maximum number of nodes in a binary tree of height $h$ is given by the geometric series $\\sum_{i=0}^h 2^i = 2^{h+1} - 1$."
+    },
+    {
+      "id": 25,
+      "question": "Which algorithmic design approach builds up a solution piece by piece, always choosing the next piece that offers the most immediate, local benefit?",
+      "options": {
+        "A": "Greedy Algorithm",
+        "B": "Dynamic Programming",
+        "C": "Backtracking",
+        "D": "Brute Force Enumeration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Greedy algorithms make the locally optimal choice at each step hoping it leads to a globally optimal solution (e.g., Dijkstra's, Kruskal's)."
+    },
+    {
+      "id": 26,
+      "question": "Which algorithm design technique solves sub-problems once and stores their results in a lookup table (memoization) to avoid redundant recalculation?",
+      "options": {
+        "A": "Dynamic Programming",
+        "B": "Greedy Strategy",
+        "C": "Divide and Conquer",
+        "D": "Randomized Search"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dynamic Programming optimizes recursive problems with overlapping subproblems by caching computed answers (memoization or tabulation)."
+    },
+    {
+      "id": 27,
+      "question": "What is the Big-O space complexity of storing an array of $n$ integer elements?",
+      "options": {
+        "A": "$O(n)$",
+        "B": "$O(1)$",
+        "C": "$O(n^2)$",
+        "D": "$O(\\log n)$"
+      },
+      "correctAnswer": "A",
+      "explanation": "An array of $n$ elements requires storage directly proportional to $n$, resulting in linear $O(n)$ space complexity."
+    },
+    {
+      "id": 28,
+      "question": "In an undirected graph with $V$ vertices and no self-loops, what is the maximum number of edges it can contain?",
+      "options": {
+        "A": "$\\frac{V(V-1)}{2}$",
+        "B": "$V^2$",
+        "C": "$2V - 1$",
+        "D": "$V(V+1)$"
+      },
+      "correctAnswer": "A",
+      "explanation": "In an undirected simple complete graph, each vertex connects to every other vertex, yielding $\\binom{V}{2} = \\frac{V(V-1)}{2}$ edges."
+    },
+    {
+      "id": 29,
+      "question": "Which sorting algorithm is recognized as being 'in-place' with $O(1)$ auxiliary memory requirement?",
+      "options": {
+        "A": "Insertion Sort",
+        "B": "Standard Merge Sort",
+        "C": "Counting Sort",
+        "D": "Radix Sort"
+      },
+      "correctAnswer": "A",
+      "explanation": "Insertion sort operates directly within the input array by shifting elements, needing only $O(1)$ extra space."
+    },
+    {
+      "id": 30,
+      "question": "Which linear data structure allows insertion and deletion operations from BOTH ends (front and rear)?",
+      "options": {
+        "A": "Deque (Double-Ended Queue)",
+        "B": "Standard Stack",
+        "C": "Priority Queue",
+        "D": "Singly Linked List"
+      },
+      "correctAnswer": "A",
+      "explanation": "A deque (double-ended queue) is a generalized queue supporting insertion and deletion at both the front and back."
+    },
+    {
+      "id": 31,
+      "question": "In a Max-Heap binary tree, what relationship must hold between any parent node $P$ and its children $C$?",
+      "options": {
+        "A": "The key of parent $P$ is always greater than or equal to the keys of its children $C$",
+        "B": "The key of parent $P$ is strictly smaller than the left child",
+        "C": "The root must always have a value equal to zero",
+        "D": "The left child must always be prime and the right child composite"
+      },
+      "correctAnswer": "A",
+      "explanation": "In a max-heap, the max-heap property requires every parent node to have a key greater than or equal to its child nodes, with the maximum at the root."
+    },
+    {
+      "id": 32,
+      "question": "What is the time complexity of deleting the minimum element in an optimal binary Min-Heap of $n$ elements?",
+      "options": {
+        "A": "$O(\\log n)$",
+        "B": "$O(1)$",
+        "C": "$O(n)$",
+        "D": "$O(n^2)$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Extracting the root takes $O(1)$, but restoring heap order via sift-down / heapify requires traversing the tree height: $O(\\log n)$."
+    },
+    {
+      "id": 33,
+      "question": "What is the primary characteristic of an algorithm described as 'Stable' in sorting theory?",
+      "options": {
+        "A": "It preserves the relative input order of records with equal keys",
+        "B": "It never triggers hardware memory page faults",
+        "C": "It runs in identical clock cycles regardless of CPU architecture",
+        "D": "It avoids using pointer allocations"
+      },
+      "correctAnswer": "A",
+      "explanation": "A stable sorting algorithm guarantees that items with identical keys maintain their original relative positional order after sorting."
+    },
+    {
+      "id": 34,
+      "question": "What does the expression $T(n) = 2T(n/2) + O(n)$ characterize in the Master Theorem?",
+      "options": {
+        "A": "Merge Sort runtime complexity, solving to $\\Theta(n \\log n)$",
+        "B": "Binary search runtime, solving to $\\Theta(\\log n)$",
+        "C": "Linear search runtime, solving to $\\Theta(n)$",
+        "D": "Matrix multiplication runtime, solving to $\\Theta(n^3)$"
+      },
+      "correctAnswer": "A",
+      "explanation": "This standard recurrence splits the problem into two halves with linear merge cost, yielding $\\Theta(n \\log n)$ by Case 2 of the Master Theorem."
+    },
+    {
+      "id": 35,
+      "question": "Which data structure is universally utilized by operating systems to handle recursive function calls and local variable allocation?",
+      "options": {
+        "A": "Call Stack",
+        "B": "Circular Queue",
+        "C": "Adjacency Matrix",
+        "D": "B-Tree Index"
+      },
+      "correctAnswer": "A",
+      "explanation": "The call stack tracks active subroutines, pushing stack frames (parameters, return address, local variables) on invocation and popping on return."
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 1,
+  "title": "Unit 1: System Usability, Security & Accessibility",
+  "slug": "cs-12-chapter-1",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which field of study focuses on the design and evaluation of computer systems to ensure effective and pleasant interaction between humans and machines?",
+      "options": {
+        "A": "Human-Computer Interaction (HCI)",
+        "B": "Theoretical Computing",
+        "C": "Computer Architecture",
+        "D": "Digital Signal Processing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Human-Computer Interaction (HCI) is the multidisciplinary field focused on how users interact with computer hardware and software interfaces."
+    },
+    {
+      "id": 2,
+      "question": "In Jakob Nielsen's usability framework, which metric measures how easily first-time users can accomplish basic tasks when they encounter the interface?",
+      "options": {
+        "A": "Learnability",
+        "B": "Efficiency",
+        "C": "Memorability",
+        "D": "Satisfaction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Learnability assesses how easily a user can understand and navigate an interface upon their very first encounter."
+    },
+    {
+      "id": 3,
+      "question": "Which usability attribute determines how quickly experienced users can perform tasks once they have learned the system design?",
+      "options": {
+        "A": "Efficiency",
+        "B": "Learnability",
+        "C": "Flexibility",
+        "D": "Accessibility"
+      },
+      "correctAnswer": "A",
+      "explanation": "Efficiency measures the productivity and speed at which familiarized users complete recurring workflow tasks."
+    },
+    {
+      "id": 4,
+      "question": "If a user returns to a software design after a long period of inactivity, which usability quality determines how easily they re-establish proficiency?",
+      "options": {
+        "A": "Memorability",
+        "B": "Fault Tolerance",
+        "C": "Portability",
+        "D": "Scalability"
+      },
+      "correctAnswer": "A",
+      "explanation": "Memorability refers to how easily a user can remember how to operate the interface after not using it for an extended duration."
+    },
+    {
+      "id": 5,
+      "question": "What is the primary trade-off encountered when implementing mandatory Multi-Factor Authentication (MFA) with strict biometric timeouts?",
+      "options": {
+        "A": "Increased security at the cost of user convenience and operational speed",
+        "B": "Decreased network bandwidth with higher memory consumption",
+        "C": "Inability to encrypt data payloads over public IP routers",
+        "D": "Elimination of brute-force attacks at the expense of server uptime"
+      },
+      "correctAnswer": "A",
+      "explanation": "The classic security vs. usability dilemma dictates that tighter authentication controls increase friction and cognitive load for legitimate end users."
+    },
+    {
+      "id": 6,
+      "question": "Which international standard guidelines ensure digital web content is accessible to people with visual, auditory, and motor disabilities?",
+      "options": {
+        "A": "Web Content Accessibility Guidelines (WCAG)",
+        "B": "IEEE 802.11 Framework",
+        "C": "POSIX Conformance Protocol",
+        "D": "NIST Cryptographic Standard"
+      },
+      "correctAnswer": "A",
+      "explanation": "WCAG (published by W3C WAI) establishes global benchmarks (Perceivable, Operable, Understandable, Robust) for digital web accessibility."
+    },
+    {
+      "id": 7,
+      "question": "What is the role of 'Alt' (alternative text) attributes in HTML image tags for web accessibility?",
+      "options": {
+        "A": "To allow screen readers to vocalize the content/function of images for visually impaired users",
+        "B": "To increase the compression ratio of JPEG rendering engines",
+        "C": "To provide a cryptographic watermark preventing unauthorized image downloads",
+        "D": "To automatically apply CSS color contrast filters on low-resolution monitors"
+      },
+      "correctAnswer": "A",
+      "explanation": "Alt text ensures screen reading software can convey image meaning to visually impaired or blind users navigating via assistive technology."
+    },
+    {
+      "id": 8,
+      "question": "Which usability heuristic is violated when a banking portal does not provide visual confirmation or progress indicators during fund transfers?",
+      "options": {
+        "A": "Visibility of system status",
+        "B": "Match between system and real world",
+        "C": "Aesthetic and minimalist design",
+        "D": "Flexibility and efficiency of use"
+      },
+      "correctAnswer": "A",
+      "explanation": "Visibility of system status states that systems should always keep users informed about what is going on through timely, appropriate feedback."
+    },
+    {
+      "id": 9,
+      "question": "What term describes user interface designs deliberately crafted to manipulate users into taking unintended actions, such as hidden recurring subscriptions?",
+      "options": {
+        "A": "Dark Patterns",
+        "B": "Affordance Matrices",
+        "C": "Skeleton Screens",
+        "D": "Zero-Day Wireframes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dark patterns are deceptive UX tricks that manipulate users into buying insurance, opting into newsletters, or signing up for recurring charges."
+    },
+    {
+      "id": 10,
+      "question": "In Norman's Action Cycle, what is the gap between a user's intent to accomplish a goal and the physical actions allowed by the system called?",
+      "options": {
+        "A": "Gulf of Execution",
+        "B": "Gulf of Evaluation",
+        "C": "Cognitive Disconnect",
+        "D": "Usability Threshold"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Gulf of Execution is the difference between the intentions of the user and what the interface requires them to physically perform."
+    },
+    {
+      "id": 11,
+      "question": "Which principle states that the time required to rapidly move to a target area is a function of the ratio between target distance and target width?",
+      "options": {
+        "A": "Fitts's Law",
+        "B": "Hick's Law",
+        "C": "Miller's Law",
+        "D": "Moore's Law"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fitts's Law predicts human movement time to targets based on distance and target size, justifying large, accessible clickable call-to-action buttons."
+    },
+    {
+      "id": 12,
+      "question": "Which cognitive law dictates that increasing the number of choices logarithmically increases the decision time for a user?",
+      "options": {
+        "A": "Hick's Law",
+        "B": "Amdahl's Law",
+        "C": "Shannon's Theorem",
+        "D": "Metcalfe's Law"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hick's Law states that decision time increases proportionally with the number and complexity of selectable menu choices: $T = b \\cdot \\log_2(n + 1)$."
+    },
+    {
+      "id": 13,
+      "question": "What is an 'Affordance' in perceptual UI design according to Don Norman?",
+      "options": {
+        "A": "The perceived or actual physical properties of an object that indicate how it can be used",
+        "B": "The financial budget required to license enterprise UI components",
+        "C": "The server latency threshold permitted before displaying a timeout alert",
+        "D": "The cryptographic entropy of an input password field"
+      },
+      "correctAnswer": "A",
+      "explanation": "An affordance is a clue about the function of an object (e.g., a 3D-shaded button affords pressing, a scrollbar affords dragging)."
+    },
+    {
+      "id": 14,
+      "question": "Which color contrast ratio is the minimum level AA requirement for normal text under WCAG 2.1?",
+      "options": {
+        "A": "4.5:1",
+        "B": "2.0:1",
+        "C": "7.0:1",
+        "D": "1.5:1"
+      },
+      "correctAnswer": "A",
+      "explanation": "WCAG 2.1 Level AA mandates a contrast ratio of at least 4.5:1 for normal body text against its background for readability."
+    },
+    {
+      "id": 15,
+      "question": "Which evaluation methodology involves having domain usability experts inspect an interface against established design principles?",
+      "options": {
+        "A": "Heuristic Evaluation",
+        "B": "Automated Unit Testing",
+        "C": "Penetration Testing",
+        "D": "Stress Testing"
+      },
+      "correctAnswer": "A",
+      "explanation": "A heuristic evaluation is a usability inspection method where evaluators examine the interface and judge its compliance with recognized usability heuristics."
+    },
+    {
+      "id": 16,
+      "question": "Why is the use of color alone as the sole visual indicator for system states (e.g., red for error, green for success) discouraged in accessible systems?",
+      "options": {
+        "A": "Because color-blind users (e.g., deuteranopia/protanopia) cannot distinguish between red and green hues",
+        "B": "Because CRT monitors cannot display contrasting hex color codes",
+        "C": "Because CSS renders monochrome shades faster over mobile cellular networks",
+        "D": "Because SSL encryption drops custom RGB styling packets"
+      },
+      "correctAnswer": "A",
+      "explanation": "Relying purely on color excludes color-deficient or blind users; icons, text labels, and patterns must accompany color cues."
+    },
+    {
+      "id": 17,
+      "question": "What type of software testing measures the physiological and behavioral responses of actual users performing target tasks in a controlled lab?",
+      "options": {
+        "A": "Usability Testing (with eye-tracking & think-aloud protocols)",
+        "B": "Static Code Analysis",
+        "C": "Regression Integration Testing",
+        "D": "Black-Box Fuzzing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Formal usability testing observes real users interacting with wireframes or live software while recording task completion times and error rates."
+    },
+    {
+      "id": 18,
+      "question": "Which principle suggests that system error messages should be expressed in plain language, indicate the problem precisely, and constructively suggest a solution?",
+      "options": {
+        "A": "Help users recognize, diagnose, and recover from errors",
+        "B": "Security through obscurity",
+        "C": "Total system encapsulation",
+        "D": "Asynchronous fault silence"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nielsen's 9th heuristic demands meaningful error messages without cryptic hex codes, guiding users towards successful corrective actions."
+    },
+    {
+      "id": 19,
+      "question": "In keyboard navigation accessibility, what is the visible indicator highlighting the currently active interactive component known as?",
+      "options": {
+        "A": "Focus Ring / Focus Indicator",
+        "B": "Modal Backdrop",
+        "C": "Canvas Tooltip",
+        "D": "Caret Delimiter"
+      },
+      "correctAnswer": "A",
+      "explanation": "A visible keyboard focus ring allows mobility-impaired or keyboard-only users to see which button, link, or input element is currently focused."
+    },
+    {
+      "id": 20,
+      "question": "Which UX term refers to designing an interface so that users can achieve their desired goals with minimal physical gestures and cognitive exertion?",
+      "options": {
+        "A": "Frictionless UX",
+        "B": "Over-engineered Architecture",
+        "C": "Recursive Layout",
+        "D": "Brutalist Styling"
+      },
+      "correctAnswer": "A",
+      "explanation": "Frictionless UX removes unnecessary form fields, redundant confirmations, and confusing steps, streamlining user workflows."
+    },
+    {
+      "id": 21,
+      "question": "What is the primary role of WAI-ARIA (Accessible Rich Internet Applications) attributes in modern web applications?",
+      "options": {
+        "A": "To provide semantic roles, states, and properties for custom UI widgets (like accordions and modals) to assistive tech",
+        "B": "To accelerate GPU hardware rasterization of HTML5 vector canvases",
+        "C": "To establish end-to-end encrypted WebSocket handshakes",
+        "D": "To sanitize SQL injection parameters in form input fields"
+      },
+      "correctAnswer": "A",
+      "explanation": "ARIA attributes (e.g., aria-expanded, role='dialog') bridge custom JavaScript UI components to screen readers and assistive devices."
+    },
+    {
+      "id": 22,
+      "question": "Which design heuristic ensures that users are never trapped in an unintended system state without an obvious exit or undo capability?",
+      "options": {
+        "A": "User control and freedom (Emergency Exit)",
+        "B": "Consistency and standards",
+        "C": "Flexibility and efficiency of use",
+        "D": "Error prevention"
+      },
+      "correctAnswer": "A",
+      "explanation": "Users often choose system functions by mistake and need a clearly marked 'emergency exit' to leave the unwanted state without an extended dialogue."
+    },
+    {
+      "id": 23,
+      "question": "Why should password input fields provide an optional 'Show/Hide Password' toggle button from a usability perspective?",
+      "options": {
+        "A": "It prevents user frustration, reduces mistyped input errors, and improves feedback on mobile touchscreens",
+        "B": "It enables the browser to hash the password before sending it to the web server",
+        "C": "It bypasses server-side password length restrictions",
+        "D": "It eliminates the need for SSL certificate validation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Masking passwords causes substantial typing errors especially on virtual keyboards; a show/hide toggle provides immediate visual verification."
+    },
+    {
+      "id": 24,
+      "question": "What is the primary benefit of responsive web design (RWD) for system accessibility across device ecosystems?",
+      "options": {
+        "A": "Fluid layouts adapt automatically to any screen resolution, viewport width, or orientation without breaking content",
+        "B": "It forces mobile users to execute desktop-only binary commands",
+        "C": "It eliminates the requirement of server-side data compression algorithms",
+        "D": "It increases CPU clock frequencies on handheld smartphones"
+      },
+      "correctAnswer": "A",
+      "explanation": "Responsive web design utilizes CSS media queries and fluid grids to render interfaces gracefully across desktops, tablets, and smartphones."
+    },
+    {
+      "id": 25,
+      "question": "Which biometric verification method measures the dynamic typing rhythm, keystroke latency, and mouse dwell time of a user?",
+      "options": {
+        "A": "Behavioral Biometrics",
+        "B": "Morphological Biometrics",
+        "C": "Static Fingerprint Matching",
+        "D": "Retinal Scanning"
+      },
+      "correctAnswer": "A",
+      "explanation": "Behavioral biometrics analyzes behavioral patterns (typing cadence, gesture dynamics) continuously without introducing intrusive login prompts."
+    },
+    {
+      "id": 26,
+      "question": "In Miller's Law of cognitive psychology, what is the typical capacity limit of human working memory when chunking information?",
+      "options": {
+        "A": "7 ± 2 items",
+        "B": "15 ± 3 items",
+        "C": "3 ± 1 items",
+        "D": "20 ± 4 items"
+      },
+      "correctAnswer": "A",
+      "explanation": "George Miller demonstrated that working memory can hold approximately 7 (plus or minus 2) discrete chunks of information at a time."
+    },
+    {
+      "id": 27,
+      "question": "What is a 'Breadcrumb Trail' in interface navigation hierarchy?",
+      "options": {
+        "A": "A secondary navigation scheme that displays the user's current location relative to the website structure",
+        "B": "A temporary tracking cookie deposited by advertising networks",
+        "C": "An audit log of failed administrative login attempts",
+        "D": "A database index optimized for B-tree traversal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Breadcrumbs (e.g., Home > Electronics > Laptops) orient users within an information architecture and allow one-click traversal to parent levels."
+    },
+    {
+      "id": 28,
+      "question": "Which design technique displays gray, pulsating placeholder shapes while heavy asynchronous data loads in the background?",
+      "options": {
+        "A": "Skeleton Screens",
+        "B": "Modal Overlays",
+        "C": "Infinite Carousels",
+        "D": "Accordion Collapsibles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Skeleton screens mimic the eventual layout of the page, reducing perceived load times and cognitive disorientation."
+    },
+    {
+      "id": 29,
+      "question": "How does implementing Single Sign-On (SSO) using OAuth 2.0 / OpenID Connect enhance both security and usability?",
+      "options": {
+        "A": "Users authenticate once across multiple enterprise apps, eliminating password fatigue and reducing credential reuse",
+        "B": "It replaces symmetric encryption keys with plaintext JSON tokens",
+        "C": "It removes all access logs from centralized directory servers",
+        "D": "It mandates hardware token insertion on every single web page request"
+      },
+      "correctAnswer": "A",
+      "explanation": "SSO solves password fatigue for users (usability) while centralizing authentication control, revocation, and MFA enforcement (security)."
+    },
+    {
+      "id": 30,
+      "question": "What is a 'Cognitive Walkthrough' in software evaluation?",
+      "options": {
+        "A": "A review-based usability method where evaluators step through action sequences to verify if new users can learn tasks easily",
+        "B": "A runtime stress test simulating thousands of concurrent bot transactions",
+        "C": "A dynamic disassembly of compiled C++ binaries to inspect memory registers",
+        "D": "A physical inspection of server rack hardware cooling fans"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cognitive walkthroughs evaluate whether an interface allows first-time users to successfully figure out each action necessary to achieve their goals."
+    },
+    {
+      "id": 31,
+      "question": "Which accessibility tool enables hands-free speech input, allowing users with severe motor impairments to control desktop operating systems?",
+      "options": {
+        "A": "Voice Recognition / Speech-to-Text Software",
+        "B": "Braille Refreshable Display",
+        "C": "Screen Magnifier",
+        "D": "Haptic Force-Feedback Joystick"
+      },
+      "correctAnswer": "A",
+      "explanation": "Voice recognition systems convert spoken commands into operating system inputs, allowing individuals with paralysis to work hands-free."
+    },
+    {
+      "id": 32,
+      "question": "Why should session expiration timeouts provide a clear, accessible warning dialog with an option to extend time before logging the user out?",
+      "options": {
+        "A": "Motor- or cognitively-impaired users require more time to read, formulate, and enter form data without losing progress",
+        "B": "It allows the server to flush DNS caches before garbage collection",
+        "C": "It automatically decrypts private SSL keys on the client device",
+        "D": "It resets database transaction isolation levels to Dirty Read"
+      },
+      "correctAnswer": "A",
+      "explanation": "WCAG guideline 2.2 requires adjustable timing so that users who type slowly or use assistive tech do not suffer abrupt data loss."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following represents an example of 'Consistency and Standards' in desktop UI software?",
+      "options": {
+        "A": "Placing 'File' as the first item in the menu bar and binding Ctrl+S to the save action",
+        "B": "Using completely different keyboard shortcuts in every sub-window of an IDE",
+        "C": "Changing the color of the cancel button on each consecutive screen",
+        "D": "Requiring right-clicking to submit form data instead of pressing Enter"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adhering to platform conventions (like Ctrl+S for saving and standardized menu positions) ensures users don't have to wonder whether different words or actions mean the same thing."
+    },
+    {
+      "id": 34,
+      "question": "What is the primary risk of implementing aggressive, short CAPTCHA challenges on public registration forms?",
+      "options": {
+        "A": "They create severe accessibility barriers for visually impaired users and increase form abandonment rates",
+        "B": "They consume excessive server hard drive storage space",
+        "C": "They prevent relational databases from indexing primary keys",
+        "D": "They disable HTTPS encryption on outgoing TCP packets"
+      },
+      "correctAnswer": "A",
+      "explanation": "Complex CAPTCHAs severely hinder users with disabilities and cause high user drop-off; invisible reCAPTCHA or honeypots are preferred."
+    },
+    {
+      "id": 35,
+      "question": "Which ethical UI practice ensures users retain informed consent over their telemetry and tracking preferences?",
+      "options": {
+        "A": "Providing transparent, unselected opt-in checkboxes and accessible granular privacy settings",
+        "B": "Pre-checking all marketing and tracking consent boxes by default",
+        "C": "Hiding the unsubscribe link inside microscopic low-contrast footer text",
+        "D": "Locking the entire site unless users agree to sell third-party telemetry data"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ethical digital design requires clear, granular opt-in consent without manipulative pre-checked boxes or coercive dark patterns."
+    }
+  ]
+}

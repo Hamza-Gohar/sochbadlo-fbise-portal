@@ -1,0 +1,214 @@
+{
+  "chapterNumber": 17,
+  "chapterTitle": "Annual Board Examination Section A Simulator 4 (17 Marks · 25 Min)",
+  "title": "Annual Board Examination Section A Simulator 4 (17 Marks · 25 Min)",
+  "slug": "biology-12-model-paper-4",
+  "totalQuestions": 17,
+  "subject": "biology-12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which respiratory center located in the pons acts as an 'off-switch' to regulate respiratory rate by limiting the duration of inspiration?",
+      "options": {
+        "A": "Apneustic center",
+        "B": "Pneumotaxic center",
+        "C": "Dorsal respiratory group (DRG)",
+        "D": "Ventral respiratory group (VRG)"
+      },
+      "correctAnswer": "B",
+      "explanation": "The pneumotaxic center in the upper pons sends inhibitory impulses to the inspiratory center in the medulla, shortening inspiration and thereby increasing respiratory frequency."
+    },
+    {
+      "id": 2,
+      "question": "In the human urinary system, what is the major non-invasive medical procedure used to pulverize nephrolithiasis (kidney stones) into fine gravel using focused acoustic shock waves?",
+      "options": {
+        "A": "Peritoneal dialysis",
+        "B": "Extracorporeal Shock Wave Lithotripsy (ESWL)",
+        "C": "Hemodialysis",
+        "D": "Renal angioplasty"
+      },
+      "correctAnswer": "B",
+      "explanation": "Extracorporeal Shock Wave Lithotripsy (ESWL) focuses external acoustic shock waves onto stones located within the renal pelvis or calyces, fragmenting them into sand-like particles passed safely in urine."
+    },
+    {
+      "id": 3,
+      "question": "Which protein forms elastic filaments in the sarcomere connecting myosin thick filaments to the Z disc, acting as a molecular spring?",
+      "options": {
+        "A": "Titin (Connectin)",
+        "B": "Dystrophin",
+        "C": "Nebulin",
+        "D": "Myoglobin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Titin is the largest known human protein. It spans from the Z disc to the M line, providing passive elasticity, centering thick filaments during contraction, and preventing overextension of the sarcomere."
+    },
+    {
+      "id": 4,
+      "question": "The refractory period that ensures unidirectional propagation of nerve impulses along an axon occurs because:",
+      "options": {
+        "A": "Potassium channels open too slowly",
+        "B": "Voltage-gated sodium channels are temporarily inactivated and cannot reopen immediately",
+        "C": "Acetylcholine is exhausted in the axon hillock",
+        "D": "ATP synthesis ceases completely"
+      },
+      "correctAnswer": "B",
+      "explanation": "During the absolute refractory period, voltage-gated Na+ channels adopt an inactive conformation following closure of their inactivation gates, preventing another action potential and guaranteeing forward propagation."
+    },
+    {
+      "id": 5,
+      "question": "The hormone melatonin, which coordinates circadian rhythm and sleep-wake cycles, is synthesized and secreted by which gland?",
+      "options": {
+        "A": "Pineal gland",
+        "B": "Thymus",
+        "C": "Anterior pituitary",
+        "D": "Adrenal medulla"
+      },
+      "correctAnswer": "A",
+      "explanation": "The pineal gland synthesizes melatonin from tryptophan in response to photoperiodic signals routed from the suprachiasmatic nucleus (SCN) of the hypothalamus, peaking during darkness to induce sleep."
+    },
+    {
+      "id": 6,
+      "question": "Chemical signaling substances released into the external environment by animals to communicate with conspecifics for mating or territory defense are called:",
+      "options": {
+        "A": "Pheromones",
+        "B": "Neurotransmitters",
+        "C": "Enzymes",
+        "D": "Cytokines"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pheromones are volatile or scent chemicals secreted externally that trigger specific innate behavioral or endocrine responses in other members of the same species."
+    },
+    {
+      "id": 7,
+      "question": "Which structure in mammalian fertilization secretes hydrolytic enzymes (hyaluronidase and acrosin) to digest the outer corona radiata and zona pellucida?",
+      "options": {
+        "A": "Sperm midpiece",
+        "B": "Acrosome cap of the spermatozoon",
+        "C": "Blastopore",
+        "D": "Cortical granule"
+      },
+      "correctAnswer": "B",
+      "explanation": "The acrosome, a specialized lysosome-derived cap covering the anterior half of the sperm nucleus, releases acrosin and hyaluronidase during the acrosome reaction to penetrate the zona pellucida."
+    },
+    {
+      "id": 8,
+      "question": "Environmental agents such as alcohol, thalidomide, or rubella virus that cause physical developmental malformations during embryonic organogenesis are termed:",
+      "options": {
+        "A": "Mutagens",
+        "B": "Carcinogens",
+        "C": "Teratogens",
+        "D": "Oncogenes"
+      },
+      "correctAnswer": "C",
+      "explanation": "Teratogens are physical, chemical, or biological agents that disturb normal embryological morphogenesis, producing birth defects without necessarily altering parental DNA sequences."
+    },
+    {
+      "id": 9,
+      "question": "Which experiment confirmed that DNA replication is semi-conservative using heavy nitrogen (15N) and normal nitrogen (14N) isotopes with CsCl density gradient centrifugation?",
+      "options": {
+        "A": "Griffith transformation experiment",
+        "B": "Hershey-Chase bacteriophage experiment",
+        "C": "Meselson and Stahl experiment (1958)",
+        "D": "Avery-MacLeod-McCarty experiment"
+      },
+      "correctAnswer": "C",
+      "explanation": "Matthew Meselson and Franklin Stahl demonstrated in 1958 that DNA replicates semi-conservatively: each daughter duplex consists of one intact parental strand and one newly synthesized strand."
+    },
+    {
+      "id": 10,
+      "question": "A cross between a red-flowered Four O'clock plant (RR) and a white-flowered plant (rr) yields all pink-flowered offspring (Rr) in F1. This non-Mendelian phenomenon is:",
+      "options": {
+        "A": "Codominance",
+        "B": "Incomplete dominance",
+        "C": "Pleiotropy",
+        "D": "Epistasis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Incomplete dominance occurs when the heterozygous phenotype is an intermediate blend between both homozygous phenotypes because neither allele is completely dominant over the other."
+    },
+    {
+      "id": 11,
+      "question": "Speciation that occurs when populations become geographically isolated from each other by mountains, rivers, or distance is classified as:",
+      "options": {
+        "A": "Sympatric speciation",
+        "B": "Allopatric speciation",
+        "C": "Parapatric speciation",
+        "D": "Artificial speciation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Allopatric speciation (allo = other, patria = homeland) arises when physical barriers prevent gene flow between sub-populations, allowing distinct mutations and selective pressures to drive reproductive isolation."
+    },
+    {
+      "id": 12,
+      "question": "What is the function of DNA ligase in molecular genetic engineering?",
+      "options": {
+        "A": "Cleaves DNA at specific recognition sites",
+        "B": "Catalyzes phosphodiester bond formation between adjacent 3'-OH and 5'-phosphate ends",
+        "C": "Synthesizes single-stranded RNA from DNA templates",
+        "D": "Degrades foreign viral RNA"
+      },
+      "correctAnswer": "B",
+      "explanation": "DNA ligase seals nicks in the sugar-phosphate backbone by creating covalent phosphodiester bonds between the 3'-hydroxyl of one nucleotide and the 5'-phosphate of an adjacent nucleotide."
+    },
+    {
+      "id": 13,
+      "question": "The biological process wherein toxic non-biodegradable chemicals (like DDT or mercury) become increasingly concentrated at higher trophic levels in a food chain is:",
+      "options": {
+        "A": "Bioaccumulation",
+        "B": "Biomagnification",
+        "C": "Bioremediation",
+        "D": "Bioprospecting"
+      },
+      "correctAnswer": "B",
+      "explanation": "Biomagnification is the cumulative escalation of fat-soluble, persistent pollutants through successive trophic links, resulting in the highest concentrations in top apex predators (e.g., predatory birds)."
+    },
+    {
+      "id": 14,
+      "question": "During deep inspiration, the contraction of which skeletal muscles elevates the ribs and expands the thoracic cavity anteroposteriorly?",
+      "options": {
+        "A": "Internal intercostal muscles",
+        "B": "External intercostal muscles",
+        "C": "Rectus abdominis",
+        "D": "Transverse abdominis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Contraction of external intercostal muscles pulls the ribs upward and outward like a bucket handle, increasing anteroposterior thoracic dimensions to decrease intrapleural pressure."
+    },
+    {
+      "id": 15,
+      "question": "Renal erythropoietin (EPO) is secreted by kidney interstitial fibroblast-like cells in response to:",
+      "options": {
+        "A": "Hyperglycemia",
+        "B": "Tissue hypoxia (low blood oxygen partial pressure)",
+        "C": "Elevated blood pressure",
+        "D": "Hypercalcemia"
+      },
+      "correctAnswer": "B",
+      "explanation": "When renal arterial pO2 declines (hypoxia), renal interstitial cells secrete erythropoietin (EPO) into circulation, which stimulates red bone marrow proerythroblasts to accelerate erythropoiesis."
+    },
+    {
+      "id": 16,
+      "question": "Which repair mechanism corrects mismatched bases that escape the 3' to 5' proofreading activity of DNA Polymerase III during replication?",
+      "options": {
+        "A": "Photoreactivation",
+        "B": "Mismatch repair (MMR) system",
+        "C": "SOS response",
+        "D": "Non-homologous end joining alone"
+      },
+      "correctAnswer": "B",
+      "explanation": "The post-replicative mismatch repair system (MutS, MutL, MutH in bacteria) recognizes deformities in the nascent DNA helix, excises the incorrect nucleotide from the unmethylated strand, and resynthesizes it correctly."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following gases is primarily produced in waterlogged rice paddy fields and ruminant livestock digestion, acting as a potent greenhouse gas?",
+      "options": {
+        "A": "Ozone (O3)",
+        "B": "Methane (CH4)",
+        "C": "Sulfur hexafluoride",
+        "D": "Argon"
+      },
+      "correctAnswer": "B",
+      "explanation": "Methanogenic archaebacteria operating in anaerobic conditions in paddy wetlands and ruminant digestive tracts produce methane (CH4), which has a global warming potential over 25 times greater than CO2."
+    }
+  ]
+}

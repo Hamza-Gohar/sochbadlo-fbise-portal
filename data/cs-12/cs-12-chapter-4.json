@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 4,
+  "title": "Unit 4: Data Management, Processing & Analysis",
+  "slug": "cs-12-chapter-4",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which Python library is the core industry standard for high-performance multidimensional array computing and linear algebra?",
+      "options": {
+        "A": "NumPy",
+        "B": "Matplotlib",
+        "C": "Flask",
+        "D": "Pygame"
+      },
+      "correctAnswer": "A",
+      "explanation": "NumPy (Numerical Python) provides the foundational `ndarray` data structure and fast vector mathematical functions implemented in C."
+    },
+    {
+      "id": 2,
+      "question": "Which data structure in the Pandas library represents a two-dimensional, size-mutable, tabular data structure with labeled axes (rows and columns)?",
+      "options": {
+        "A": "DataFrame",
+        "B": "Series",
+        "C": "Panel",
+        "D": "Tensor"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Pandas DataFrame is a 2D labeled data structure with columns of potentially different types, resembling an SQL table or spreadsheet."
+    },
+    {
+      "id": 3,
+      "question": "What is a 1-dimensional labeled array capable of holding any data type in Pandas called?",
+      "options": {
+        "A": "Series",
+        "B": "Matrix",
+        "C": "VectorArray",
+        "D": "ScalarMap"
+      },
+      "correctAnswer": "A",
+      "explanation": "A Pandas Series is a single column of a DataFrame, representing a 1D labeled array."
+    },
+    {
+      "id": 4,
+      "question": "Which Pandas function is utilized to read structured comma-separated values files into a DataFrame?",
+      "options": {
+        "A": "`pd.read_csv()`",
+        "B": "`pd.load_csv()`",
+        "C": "`pd.parse_table()`",
+        "D": "`pd.import_file()`"
+      },
+      "correctAnswer": "A",
+      "explanation": "`pd.read_csv('filename.csv')` loads tabular CSV data directly into a Pandas DataFrame."
+    },
+    {
+      "id": 5,
+      "question": "Which method drops rows with missing/null (`NaN`) values from a Pandas DataFrame?",
+      "options": {
+        "A": "`df.dropna()`",
+        "B": "`df.remove_null()`",
+        "C": "`df.clean_na()`",
+        "D": "`df.discard_empty()`"
+      },
+      "correctAnswer": "A",
+      "explanation": "`df.dropna()` removes rows or columns that contain missing or null values according to specified threshold criteria."
+    },
+    {
+      "id": 6,
+      "question": "Which Pandas function replaces missing values with a specified default value (such as the column mean)?",
+      "options": {
+        "A": "`df.fillna()`",
+        "B": "`df.replace_empty()`",
+        "C": "`df.impute_zeros()`",
+        "D": "`df.set_default()`"
+      },
+      "correctAnswer": "A",
+      "explanation": "`df.fillna(value)` fills missing values (`NaN`) with a specified scalar value, forward-fill, or aggregate metric."
+    },
+    {
+      "id": 7,
+      "question": "In statistics, what is the measure of central tendency calculated by summing all observations and dividing by the total number of observations?",
+      "options": {
+        "A": "Arithmetic Mean",
+        "B": "Median",
+        "C": "Mode",
+        "D": "Standard Deviation"
+      },
+      "correctAnswer": "A",
+      "explanation": "The arithmetic mean $\\bar{x} = \\frac{\\sum x_i}{n}$ is the statistical average of a numerical distribution."
+    },
+    {
+      "id": 8,
+      "question": "Why is the Median preferred over the Mean when analyzing datasets with extreme outliers (such as household wealth distribution)?",
+      "options": {
+        "A": "The median is robust and resistant to extreme skewness and outliers",
+        "B": "The median requires complex quadratic integration",
+        "C": "The mean can only be computed for integer numbers",
+        "D": "The median eliminates all missing values automatically"
+      },
+      "correctAnswer": "A",
+      "explanation": "The median represents the 50th percentile (middle value), so extreme outliers do not pull it away from the true center."
+    },
+    {
+      "id": 9,
+      "question": "Which statistical metric measures the dispersion or spread of data points relative to their mean?",
+      "options": {
+        "A": "Standard Deviation",
+        "B": "Mode",
+        "C": "Kurtosis",
+        "D": "Harmonic Mean"
+      },
+      "correctAnswer": "A",
+      "explanation": "Standard deviation $\\sigma = \\sqrt{\\frac{\\sum (x_i - \\mu)^2}{N}}$ quantifies the amount of variation or dispersion around the mean."
+    },
+    {
+      "id": 10,
+      "question": "What is the primary Python plotting library used to generate static, animated, and publication-quality interactive visualizations?",
+      "options": {
+        "A": "Matplotlib",
+        "B": "Pygame",
+        "C": "Scrapy",
+        "D": "SQLAlchemy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Matplotlib (specifically `matplotlib.pyplot`) is the foundational Python library for charting (line charts, bar charts, histograms, scatter plots)."
+    },
+    {
+      "id": 11,
+      "question": "Which chart type is best suited for visualizing the frequency distribution of a continuous numerical variable divided into discrete bins?",
+      "options": {
+        "A": "Histogram",
+        "B": "Pie Chart",
+        "C": "Heatmap",
+        "D": "Treemap"
+      },
+      "correctAnswer": "A",
+      "explanation": "Histograms group continuous data into adjacent bins and display bars representing the frequency count of each bin."
+    },
+    {
+      "id": 12,
+      "question": "Which plot displays the five-number summary (minimum, first quartile, median, third quartile, and maximum) and easily identifies outliers?",
+      "options": {
+        "A": "Box Plot (Box-and-Whisker Plot)",
+        "B": "Scatter Plot",
+        "C": "Donut Chart",
+        "D": "Radar Chart"
+      },
+      "correctAnswer": "A",
+      "explanation": "A box plot visually depicts the IQR, median line, whiskers, and individual points representing outliers."
+    },
+    {
+      "id": 13,
+      "question": "What does a Pearson correlation coefficient of $r = -0.92$ indicate about the relationship between two variables?",
+      "options": {
+        "A": "A strong negative linear correlation",
+        "B": "A weak positive correlation",
+        "C": "No relationship whatsoever",
+        "D": "A perfect non-linear parabolic curve"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pearson's $r$ ranges from $-1$ to $+1$. A value of $-0.92$ denotes a very strong negative linear relationship (as one increases, the other decreases)."
+    },
+    {
+      "id": 14,
+      "question": "What critical statistical fallacy is captured by the aphorism 'Correlation does not imply causation'?",
+      "options": {
+        "A": "Just because two variables move together statistically does not prove that one directly causes the other to occur",
+        "B": "Negative numbers cannot have real square roots",
+        "C": "Large datasets always contain missing values",
+        "D": "Linear regression models are always 100% accurate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Two correlated variables may be driven by an unobserved confounding variable or coincidence; correlation alone does not establish causality."
+    },
+    {
+      "id": 15,
+      "question": "In statistical hypothesis testing, what does the $p$-value represent?",
+      "options": {
+        "A": "The probability of obtaining test results at least as extreme as observed, assuming the null hypothesis is true",
+        "B": "The probability that the alternate hypothesis is 100% true",
+        "C": "The percentage of missing values in the testing dataset",
+        "D": "The exact parameter coefficient in a linear regression"
+      },
+      "correctAnswer": "A",
+      "explanation": "A small $p$-value ($p \\le 0.05$) provides strong evidence against the null hypothesis, leading to its rejection."
+    },
+    {
+      "id": 16,
+      "question": "What fundamental difference distinguishes Machine Learning (ML) systems from traditional Rule-Based Expert Systems?",
+      "options": {
+        "A": "ML algorithms learn predictive patterns directly from data, whereas rule-based systems rely on manually coded 'IF-THEN' statements",
+        "B": "Rule-based systems use neural networks, while ML systems cannot use loops",
+        "C": "ML systems never require training data",
+        "D": "Rule-based systems are always written in assembly language"
+      },
+      "correctAnswer": "A",
+      "explanation": "Traditional programming writes explicit rules; machine learning takes data and answers to infer rules and models automatically."
+    },
+    {
+      "id": 17,
+      "question": "Which category of machine learning trains models on input data paired with verified target labels (e.g., house square footage and sale price)?",
+      "options": {
+        "A": "Supervised Learning",
+        "B": "Unsupervised Learning",
+        "C": "Reinforcement Learning",
+        "D": "Genetic Algorithms"
+      },
+      "correctAnswer": "A",
+      "explanation": "Supervised learning algorithms (like Linear Regression and Classification) learn a mapping function from labeled training examples."
+    },
+    {
+      "id": 18,
+      "question": "Which category of machine learning uncovers inherent groupings or hidden patterns in unlabeled data without predefined output targets?",
+      "options": {
+        "A": "Unsupervised Learning (e.g., K-Means Clustering)",
+        "B": "Supervised Classification",
+        "C": "Regression Analysis",
+        "D": "Supervised Neural Backpropagation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Unsupervised learning discovers underlying structures, clusters, or associations in unlabeled datasets."
+    },
+    {
+      "id": 19,
+      "question": "What is the primary objective of Linear Regression in predictive analytics?",
+      "options": {
+        "A": "To model the relationship between a dependent continuous variable and one or more independent variables using a straight line",
+        "B": "To sort an unsorted array into ascending order in $O(n \\log n)$ time",
+        "C": "To group customers into discrete demographic clusters",
+        "D": "To sanitize SQL injection parameters in input strings"
+      },
+      "correctAnswer": "A",
+      "explanation": "Linear regression models the relationship between dependent variable $Y$ and independent variables $X$ as $Y = \\beta_0 + \\beta_1 X + \\epsilon$."
+    },
+    {
+      "id": 20,
+      "question": "What problem occurs when a machine learning model learns the training data and noise too well, failing to generalize to new, unseen test data?",
+      "options": {
+        "A": "Overfitting",
+        "B": "Underfitting",
+        "C": "High Bias",
+        "D": "Data Imputation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Overfitting happens when a complex model memorizes noise and idiosyncrasies of the training set, yielding high training accuracy but poor validation performance."
+    },
+    {
+      "id": 21,
+      "question": "Which machine learning evaluation matrix tabulates True Positives, False Positives, True Negatives, and False Negatives for classification models?",
+      "options": {
+        "A": "Confusion Matrix",
+        "B": "Correlation Matrix",
+        "C": "Adjacency Matrix",
+        "D": "Transition Matrix"
+      },
+      "correctAnswer": "A",
+      "explanation": "A confusion matrix provides detailed insight into classification performance, detailing correct and incorrect predictions across each class."
+    },
+    {
+      "id": 22,
+      "question": "In classification metrics, what is the formula for calculating Accuracy?",
+      "options": {
+        "A": "$\\frac{TP + TN}{TP + TN + FP + FN}$",
+        "B": "$\\frac{TP}{TP + FP}$",
+        "C": "$\\frac{TP}{TP + FN}$",
+        "D": "$\\frac{TN}{TN + FP}$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Accuracy is the ratio of correctly predicted observations (True Positives + True Negatives) to the total observations."
+    },
+    {
+      "id": 23,
+      "question": "In a medical diagnostic test, which metric measures the proportion of actual diseased patients who are correctly identified as positive (avoiding false negatives)?",
+      "options": {
+        "A": "Recall (Sensitivity)",
+        "B": "Precision",
+        "C": "Specificity",
+        "D": "Adjusted R-squared"
+      },
+      "correctAnswer": "A",
+      "explanation": "Recall $= \\frac{TP}{TP + FN}$; in medicine, high recall is vital so that life-threatening conditions are not missed."
+    },
+    {
+      "id": 24,
+      "question": "What does the $R^2$ (Coefficient of Determination) score in a linear regression model indicate?",
+      "options": {
+        "A": "The proportion of variance in the dependent variable explained by the independent variables",
+        "B": "The probability of rejecting the alternate hypothesis",
+        "C": "The Euclidean distance between training cluster centroids",
+        "D": "The number of hidden layers in a neural network"
+      },
+      "correctAnswer": "A",
+      "explanation": "$R^2$ indicates how well the regression line approximates real data points ($1.0$ indicates perfect explanation of variance)."
+    },
+    {
+      "id": 25,
+      "question": "What is the process of transforming raw features into a standardized scale (such as subtracting the mean and dividing by standard deviation) called?",
+      "options": {
+        "A": "Feature Scaling / Normalization",
+        "B": "One-Hot Encoding",
+        "C": "Data Serialization",
+        "D": "Matrix Inversion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Feature scaling (e.g., Z-score standardization or Min-Max scaling) ensures that features with large numerical ranges do not dominate distance-based models."
+    },
+    {
+      "id": 26,
+      "question": "Which encoding technique transforms categorical variables (like ['Red', 'Green', 'Blue']) into binary columns containing 0 or 1?",
+      "options": {
+        "A": "One-Hot Encoding",
+        "B": "Z-score Standardization",
+        "C": "Logarithmic Transformation",
+        "D": "Binning"
+      },
+      "correctAnswer": "A",
+      "explanation": "One-Hot Encoding creates a new binary indicator column for each unique category, avoiding false numerical ordinality."
+    },
+    {
+      "id": 27,
+      "question": "What is the purpose of splitting a dataset into Training and Testing subsets (e.g., 80% train, 20% test)?",
+      "options": {
+        "A": "To evaluate how well the trained model generalizes to completely unseen data",
+        "B": "To reduce the file size on local hard drives",
+        "C": "To eliminate the need for feature engineering",
+        "D": "To avoid paying cloud computing service fees"
+      },
+      "correctAnswer": "A",
+      "explanation": "Evaluating on a distinct test split prevents optimistic bias and verifies whether the model has genuinely learned patterns instead of memorizing data."
+    },
+    {
+      "id": 28,
+      "question": "What is $k$-Fold Cross-Validation in model assessment?",
+      "options": {
+        "A": "Splitting data into $k$ equal subsets, iteratively training on $k-1$ folds and testing on the remaining fold",
+        "B": "Multiplying the dataset $k$ times to generate artificial synthetic rows",
+        "C": "Clustering data into $k$ centroids using unsupervised K-Means",
+        "D": "Hashing passwords $k$ times using the SHA-256 algorithm"
+      },
+      "correctAnswer": "A",
+      "explanation": "$k$-Fold cross-validation provides an unbiased estimate of model performance by averaging validation scores across $k$ separate training/test cycles."
+    },
+    {
+      "id": 29,
+      "question": "In Pandas, which method computes summary statistics (count, mean, std, min, 25%, 50%, 75%, max) for all numerical columns?",
+      "options": {
+        "A": "`df.describe()`",
+        "B": "`df.summary()`",
+        "C": "`df.info()`",
+        "D": "`df.statistics()`"
+      },
+      "correctAnswer": "A",
+      "explanation": "`df.describe()` generates descriptive summary statistics for numerical columns in a DataFrame."
+    },
+    {
+      "id": 30,
+      "question": "What does the `groupby()` method in Pandas do?",
+      "options": {
+        "A": "It splits data into groups based on some criteria, applies a function (e.g., sum, mean), and combines the results",
+        "B": "It deletes duplicate rows based on primary keys",
+        "C": "It sorts the entire DataFrame alphabetically",
+        "D": "It pivots the index into an external SQL table"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Split-Apply-Combine pattern in Pandas is performed using `df.groupby('column').mean()` to aggregate metrics by category."
+    },
+    {
+      "id": 31,
+      "question": "Which visual chart is best for showing how individual parts contribute to a whole over continuous time periods?",
+      "options": {
+        "A": "Stacked Area Chart",
+        "B": "Pie Chart",
+        "C": "Scatter Plot",
+        "D": "Box Plot"
+      },
+      "correctAnswer": "A",
+      "explanation": "A stacked area chart displays trends across time while showing the composition and proportion of individual categories."
+    },
+    {
+      "id": 32,
+      "question": "In data science pipelines, what does the term 'ETL' stand for?",
+      "options": {
+        "A": "Extract, Transform, Load",
+        "B": "Encode, Transmit, Lock",
+        "C": "Evaluate, Test, Log",
+        "D": "Execute, Terminate, Loop"
+      },
+      "correctAnswer": "A",
+      "explanation": "ETL (Extract, Transform, Load) refers to pulling raw data from source systems, cleaning and reshaping it, and loading it into a data warehouse."
+    },
+    {
+      "id": 33,
+      "question": "Which type of chart is ideal for showing the correlation and distribution between two continuous numerical variables as distinct coordinate dots?",
+      "options": {
+        "A": "Scatter Plot",
+        "B": "Bar Chart",
+        "C": "Pie Chart",
+        "D": "Gantt Chart"
+      },
+      "correctAnswer": "A",
+      "explanation": "A scatter plot maps data points along the X and Y axes to reveal relationships, clusters, or outliers between two quantitative variables."
+    },
+    {
+      "id": 34,
+      "question": "What is an 'Outlier' in data preprocessing, and how is it commonly detected using the Interquartile Range (IQR)?",
+      "options": {
+        "A": "A value falling below $Q_1 - 1.5 \\cdot \\text{IQR}$ or above $Q_3 + 1.5 \\cdot \\text{IQR}$",
+        "B": "Any value that is exactly equal to zero",
+        "C": "A string entered into a floating-point column",
+        "D": "A duplicate row identified by database primary keys"
+      },
+      "correctAnswer": "A",
+      "explanation": "In box plot statistics, values extending beyond $1.5 \\times \\text{IQR}$ from either quartile ($Q_1$ or $Q_3$) are flagged as statistical outliers."
+    },
+    {
+      "id": 35,
+      "question": "Why is interactive dashboard software (such as PowerBI, Tableau, or Streamlit) preferred over static PDFs for business intelligence?",
+      "options": {
+        "A": "It allows decision-makers to filter, slice, drill down, and explore real-time dynamic data interactively",
+        "B": "It eliminates the need for internet connectivity",
+        "C": "It removes all security protocols from corporate networks",
+        "D": "It forces relational databases to run exclusively on smartphone processors"
+      },
+      "correctAnswer": "A",
+      "explanation": "Interactive dashboards empower stakeholders to query, filter by date/region, and uncover actionable insights dynamically."
+    }
+  ]
+}

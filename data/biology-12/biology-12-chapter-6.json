@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 6,
+  "title": "Unit 6: Animal Behavior",
+  "slug": "biology-12-chapter-6",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Ethology?",
+      "options": {
+        "A": "The scientific and objective study of animal behavior under natural conditions",
+        "B": "The study of microscopic tissue architecture",
+        "C": "The classification of fossilized invertebrates",
+        "D": "The genetic mapping of viral genomes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ethology (founded by Lorenz, Tinbergen, and von Frisch) focuses on the adaptive significance, evolution, and mechanisms of animal behavior in nature."
+    },
+    {
+      "id": 2,
+      "question": "What is an 'Innate Behavior' (instinctive behavior)?",
+      "options": {
+        "A": "A genetically programmed, developmentally fixed behavior exhibited by all individuals of a species without prior learning or experience",
+        "B": "A skill learned through trial and error",
+        "C": "A behavior modified by parental schooling",
+        "D": "A temporary reflex caused by brain injury"
+      },
+      "correctAnswer": "A",
+      "explanation": "Innate behaviors are inherited, stereotypical, species-specific patterns encoded in the genome and expressed without practice."
+    },
+    {
+      "id": 3,
+      "question": "What is a 'Fixed Action Pattern' (FAP)?",
+      "options": {
+        "A": "A sequence of unlearned innate behavioral acts that is essentially unchangeable and, once initiated by a sign stimulus, carried to completion",
+        "B": "A voluntary reflex learned in obedience school",
+        "C": "A temporary change in heartbeat due to adrenaline",
+        "D": "A random twitching of skeletal muscles"
+      },
+      "correctAnswer": "A",
+      "explanation": "A FAP is triggered by a sign stimulus (releaser) and runs autonomously to completion without requiring continuous sensory feedback (e.g., egg-rolling in geese)."
+    },
+    {
+      "id": 4,
+      "question": "In Niko Tinbergen's classic study on male three-spined stickleback fish, what was the specific 'Sign Stimulus' that triggered aggressive territorial behavior?",
+      "options": {
+        "A": "The red belly of an intruding male model",
+        "B": "The shape of the stickleback dorsal fins",
+        "C": "The chemical smell of fish pheromones",
+        "D": "The water temperature of the aquarium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Male sticklebacks attack any model exhibiting a red ventral surface (sign stimulus), regardless of whether the model realistically resembles a fish."
+    },
+    {
+      "id": 5,
+      "question": "What is a 'Taxis' in behavioral biology?",
+      "options": {
+        "A": "An oriented movement toward (positive) or away from (negative) a directional external stimulus",
+        "B": "A non-directional change in random speed of locomotion",
+        "C": "A learned response to conditioned food bells",
+        "D": "A seasonal migration across ocean currents"
+      },
+      "correctAnswer": "A",
+      "explanation": "Taxis is a directional behavioral orientation with respect to a stimulus (e.g., positive phototaxis in moths flying toward light, negative chemotaxis away from toxins)."
+    },
+    {
+      "id": 6,
+      "question": "What is a 'Kinesis' in animal locomotion?",
+      "options": {
+        "A": "A non-directional change in the rate of movement or turning frequency in response to stimulus intensity",
+        "B": "A directed straight-line swim toward food",
+        "C": "A fixed courtship dance in birds",
+        "D": "A reflex arc that causes muscle flexion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kinesis changes random speed or turning rate without aiming at a vector; woodlice move rapidly in dry areas and slow down in moist environments."
+    },
+    {
+      "id": 7,
+      "question": "What is 'Habituation' in learning theory?",
+      "options": {
+        "A": "A simple type of learned behavior in which an animal decreases or stops its response to a repetitive, non-threatening stimulus",
+        "B": "Developing an addiction to a chemical drug",
+        "C": "The automatic imprinting on a parental figure",
+        "D": "An unconditioned fear response to loud sounds"
+      },
+      "correctAnswer": "A",
+      "explanation": "Habituation filters out harmless, irrelevant repetitive stimuli (e.g., crows ignoring a motionless scarecrow over time), conserving energy."
+    },
+    {
+      "id": 8,
+      "question": "What form of associative learning was discovered by Ivan Pavlov in his experiments pairing a metronome/bell with meat powder in dogs?",
+      "options": {
+        "A": "Classical Conditioning",
+        "B": "Operant Conditioning",
+        "C": "Insight Learning",
+        "D": "Latent Learning"
+      },
+      "correctAnswer": "A",
+      "explanation": "Classical conditioning associates an involuntary physiological reflex (salivation) with an initially neutral conditioned stimulus (bell)."
+    },
+    {
+      "id": 9,
+      "question": "What is 'Operant Conditioning' (Trial-and-Error Learning), demonstrated by B.F. Skinner using Skinner Boxes?",
+      "options": {
+        "A": "A learning process in which an animal associates its own voluntary behavior with a rewarding reinforcement or a punitive consequence",
+        "B": "An instinctive mating reflex triggered by hormones",
+        "C": "Imprinting on the first moving object seen after birth",
+        "D": "The innate avoidance of bright sunlight"
+      },
+      "correctAnswer": "A",
+      "explanation": "Operant conditioning modifies voluntary behavior through consequences: behaviors followed by reinforcers increase, while punishments decrease them."
+    },
+    {
+      "id": 10,
+      "question": "What is 'Imprinting', famously documented by Konrad Lorenz with greylag goslings?",
+      "options": {
+        "A": "A rapid, irreversible form of learning that occurs only during a specific, brief 'Critical / Sensitive Period' early in life",
+        "B": "Learning to fly by trial and error in adult birds",
+        "C": "Conditioning a dog to salivate at a whistle",
+        "D": "Stamping biological identification tags on animal ears"
+      },
+      "correctAnswer": "A",
+      "explanation": "Imprinting occurs during a sensitive temporal window where hatchlings form an enduring social attachment to the first moving object they observe."
+    },
+    {
+      "id": 11,
+      "question": "What is 'Insight Learning' (reasoning), observed by Wolfgang Köhler in chimpanzees stacking boxes to reach hanging bananas?",
+      "options": {
+        "A": "The ability to solve a novel, unfamiliar problem spontaneously by perceiving mental relationships without prior trial-and-error attempts",
+        "B": "Slow habituation to dangerous predators",
+        "C": "Repeating a learned maze sequence for cheese",
+        "D": "An instinctive reflex present at birth"
+      },
+      "correctAnswer": "A",
+      "explanation": "Insight learning represents higher cognitive processing where an animal applies cognitive problem-solving to resolve a novel situation immediately."
+    },
+    {
+      "id": 12,
+      "question": "What is 'Latent Learning'?",
+      "options": {
+        "A": "Learning that occurs in the absence of any immediate reward or obvious reinforcement, but is demonstrated later when a reward is introduced",
+        "B": "Learning that is forgotten after 24 hours",
+        "C": "Inborn instinctive web-building in spiders",
+        "D": "A motor reflex triggered by light tapping of a tendon"
+      },
+      "correctAnswer": "A",
+      "explanation": "Demonstrated by Tolman in rats forming cognitive maps of unrewarded mazes, latent learning becomes manifest once motivation/reward is provided."
+    },
+    {
+      "id": 13,
+      "question": "What is 'Circadian Rhythm' in biological chronobiology?",
+      "options": {
+        "A": "An endogenous physiological or behavioral cycle with a period of approximately 24 hours that persists in continuous darkness",
+        "B": "A lunar monthly tidal cycle lasting 28 days",
+        "C": "An annual seasonal migration occurring once a year",
+        "D": "A rapid heartbeat rhythm lasting one second"
+      },
+      "correctAnswer": "A",
+      "explanation": "Circadian rhythms are 24-hour endogenous oscillations generated by cellular transcription feedback loops and entrained by light/dark cycles."
+    },
+    {
+      "id": 14,
+      "question": "Which paired neural nucleus in the anterior hypothalamus serves as the primary master circadian pacemaker in mammals?",
+      "options": {
+        "A": "Suprachiasmatic Nucleus (SCN)",
+        "B": "Substantia Nigra",
+        "C": "Red Nucleus",
+        "D": "Dentate Nucleus"
+      },
+      "correctAnswer": "A",
+      "explanation": "The SCN receives direct retinal input via the retinohypothalamic tract, synchronizing peripheral tissue clocks and melatonin production."
+    },
+    {
+      "id": 15,
+      "question": "What is the 'Waggle Dance' performed by honeybee foragers (Apis mellifera), discovered by Karl von Frisch?",
+      "options": {
+        "A": "A symbolic dance communication that conveys the exact direction, distance, and quality of a distant nectar source to hive mates",
+        "B": "A defensive mating ritual against hornets",
+        "C": "An involuntary reaction to pesticide poisoning",
+        "D": "A thermoregulatory wing movement to cool the hive"
+      },
+      "correctAnswer": "A",
+      "explanation": "The angle of the waggle run relative to vertical gravity encodes direction relative to the sun, and the duration encodes distance to the floral patch."
+    },
+    {
+      "id": 16,
+      "question": "What are 'Pheromones' in animal communication?",
+      "options": {
+        "A": "Chemical substances released by an individual into the external environment that elicit a specific behavioral or physiological response in members of the same species",
+        "B": "Hormones secreted into the internal bloodstream to regulate blood sugar",
+        "C": "Enzymes that break down cellulose in cow stomachs",
+        "D": "Neurotransmitters released across the neuromuscular junction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pheromones are intraspecific chemical signals that trigger alarm, trail-following, territorial marking, or sexual receptivity."
+    },
+    {
+      "id": 17,
+      "question": "What is 'Territoriality' in animal sociobiology?",
+      "options": {
+        "A": "The defense of a bounded physical area against conspecifics to secure exclusive access to food, mates, or nesting sites",
+        "B": "The wandering migration of herds without boundaries",
+        "C": "Living in subterranean burrows to escape heat",
+        "D": "Sharing all food resources equally with competitors"
+      },
+      "correctAnswer": "A",
+      "explanation": "Territory defense balances energy expenditure against the fitness benefits of monopolizing essential reproductive, sheltering, and feeding resources."
+    },
+    {
+      "id": 18,
+      "question": "What is a 'Dominance Hierarchy' (e.g., Pecking Order in chickens)?",
+      "options": {
+        "A": "A ranked social organization where higher-ranking individuals have priority access to resources, minimizing physical conflict",
+        "B": "A flock where all animals have equal status",
+        "C": "A predator-prey relationship between carnivores",
+        "D": "An annual migratory flight pattern"
+      },
+      "correctAnswer": "A",
+      "explanation": "Social hierarchies establish clear priority over food and mates through ritualized threat displays, reducing lethal physical combat within the group."
+    },
+    {
+      "id": 19,
+      "question": "What is 'Altruism' in evolutionary biology?",
+      "options": {
+        "A": "Behavior that decreases the individual fitness of the actor while increasing the fitness of another individual in the population",
+        "B": "Predatory hunting for personal sustenance",
+        "C": "Cannibalism of weak offspring during famine",
+        "D": "Parasitic exploitation of host organisms"
+      },
+      "correctAnswer": "A",
+      "explanation": "Altruistic acts (e.g., sentinel alarm calls in meerkats) incur individual survival costs to benefit recipients, explained via kin selection."
+    },
+    {
+      "id": 20,
+      "question": "What is 'Hamilton's Rule' of Kin Selection that explains the evolution of altruistic behavior?",
+      "options": {
+        "A": "$rB > C$ (where $r$ is genetic relatedness, $B$ is the benefit to the recipient, and $C$ is the cost to the altruist)",
+        "B": "$B = C \\times r^2$",
+        "C": "$r + B < C$",
+        "D": "$C = 0$ always"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hamilton's rule shows natural selection favors altruism if the fitness benefit to relatives weighted by relatedness exceeds the personal reproductive cost."
+    },
+    {
+      "id": 21,
+      "question": "What is 'Eusociality', exhibited by ants, bees, wasps, and naked mole-rats?",
+      "options": {
+        "A": "A complex social structure with overlapping adult generations, cooperative brood care, and a reproductive division of labor into fertile and sterile castes",
+        "B": "Solitary living where individuals only meet briefly to mate",
+        "C": "Predators hunting in seasonal temporary packs",
+        "D": "Parasites living inside host bloodstreams"
+      },
+      "correctAnswer": "A",
+      "explanation": "Eusocial organisms exhibit cooperative brood rearing, overlapping generations, and specialized reproductive queens and sterile worker/soldier castes."
+    },
+    {
+      "id": 22,
+      "question": "What is the genetic mechanism of 'Haplodiploidy' in Hymenoptera (ants, bees, wasps)?",
+      "options": {
+        "A": "Females develop from fertilized diploid eggs ($2n$), while males develop from unfertilized haploid eggs ($n$) via parthenogenesis",
+        "B": "Both males and females are tetraploid ($4n$)",
+        "C": "Sex is determined by nest temperature",
+        "D": "Males carry XX and females carry XY chromosomes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Haplodiploidy makes full sisters share 75% of their genes ($r = 0.75$), favoring sterile workers raising sisters over having their own offspring ($r = 0.5$)."
+    },
+    {
+      "id": 23,
+      "question": "What is 'Courtship Behavior' in animals?",
+      "options": {
+        "A": "A series of ritualized visual, acoustic, or chemical displays that facilitate mate recognition, assess fitness, and coordinate copulation",
+        "B": "A fight between two different species over carcasses",
+        "C": "The building of a burrow for winter hibernation",
+        "D": "An escape reflex from predatory raptors"
+      },
+      "correctAnswer": "A",
+      "explanation": "Courtship displays (bird songs, peacock plumage, firefly flashing) confirm species identity, indicate genetic vigor, and synchronize reproductive readiness."
+    },
+    {
+      "id": 24,
+      "question": "What is 'Monogamy' in animal mating systems?",
+      "options": {
+        "A": "A mating system where one male pairs exclusively with one female for a breeding season or a lifetime",
+        "B": "One male mating with multiple females",
+        "C": "One female mating with multiple males",
+        "D": "Completely random promiscuous mating without bonds"
+      },
+      "correctAnswer": "A",
+      "explanation": "Monogamy is common in bird species where biparental care is essential for altricial chick survival."
+    },
+    {
+      "id": 25,
+      "question": "What is 'Polygyny'?",
+      "options": {
+        "A": "A mating system in which one male mates with multiple females during a breeding season",
+        "B": "One female mating with multiple males (Polyandry)",
+        "C": "Lifelong exclusive pair-bonding",
+        "D": "Asexual clonal reproduction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Polygyny occurs in many mammals (e.g., lions, deer) where dominant males defend harems or resource-rich territories."
+    },
+    {
+      "id": 26,
+      "question": "What is 'Polyandry' in behavioral biology?",
+      "options": {
+        "A": "A rare mating system in which one female mates with multiple males (e.g., jacanas, spotted sandpipers)",
+        "B": "One male mating with multiple females",
+        "C": "A male caring for eggs alone without females",
+        "D": "Parthenogenetic development of eggs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Polyandry involves sex-role reversal where females defend territories and compete for males, who perform incubation and parental care."
+    },
+    {
+      "id": 27,
+      "question": "What is 'Sexual Dimorphism'?",
+      "options": {
+        "A": "Systematic morphological differences in size, color, or ornamentation between males and females of the same species",
+        "B": "The existence of two distinct breeding seasons in one year",
+        "C": "The ability of an animal to change sex during its lifetime",
+        "D": "A mutation that causes sterility in male offspring"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sexual selection drives dimorphism: males often evolve elaborate weapons (antlers) or ornamentation (peacock tails) through intersexual/intrasexual competition."
+    },
+    {
+      "id": 28,
+      "question": "What is 'Circannual Rhythm'?",
+      "options": {
+        "A": "An endogenous biological rhythm with a period of approximately one year, governing seasonal breeding, hibernation, and migration",
+        "B": "A daily 24-hour sleep cycle",
+        "C": "A monthly tidal spawning rhythm",
+        "D": "A millisecond reflex response to pain"
+      },
+      "correctAnswer": "A",
+      "explanation": "Circannual clocks track seasonal changes (photoperiod shifts), scheduling annual events like bird migrations, antler shedding, and winter dormancy."
+    },
+    {
+      "id": 29,
+      "question": "What is 'Piloerection' in mammalian behavioral displays?",
+      "options": {
+        "A": "The erection of hair/fur via sympathetic contraction of arrector pili muscles to appear physically larger and intimidate rivals or trap insulating air",
+        "B": "The shedding of fur in springtime",
+        "C": "The rapid wagging of a tail to signal submission",
+        "D": "The production of milk from mammary tissue"
+      },
+      "correctAnswer": "A",
+      "explanation": "Piloerection puffs up the fur coat during sympathetic arousal, serving as an aggressive threat display or a cold insulation response."
+    },
+    {
+      "id": 30,
+      "question": "What is 'Bioluminescence' in marine and insect communication?",
+      "options": {
+        "A": "The enzymatic production of light by living organisms (using luciferin and luciferase) for mating signals, camouflage, or prey attraction",
+        "B": "The reflection of sunlight from fish scales",
+        "C": "The thermal heat radiated by warm-blooded mammals",
+        "D": "The absorption of ultraviolet light by plant chlorophyll"
+      },
+      "correctAnswer": "A",
+      "explanation": "Luciferin oxidation produces cold light used by fireflies for species-specific flash courtship and anglerfish for deep-sea prey luring."
+    },
+    {
+      "id": 31,
+      "question": "What is an 'Alarm Call' in vertebrate social groups?",
+      "options": {
+        "A": "An antipredator vocalization that warns fellow group members of an approaching predator, allowing them to flee or seek cover",
+        "B": "A mating call produced exclusively by female frogs",
+        "C": "A digestive sound made after eating food",
+        "D": "A vocalization used by infants to beg for milk"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vervet monkeys and prairie dogs produce acoustically distinct alarm calls identifying specific predators (snakes, eagles, leopards)."
+    },
+    {
+      "id": 32,
+      "question": "What is 'Electroreception' in aquatic vertebrates like sharks and platypuses?",
+      "options": {
+        "A": "The biological ability to detect weak electrical fields generated by the muscular and nervous activity of living prey in water",
+        "B": "The generation of high-voltage shocks to stun prey (electric eels)",
+        "C": "Detecting ocean water salinity changes",
+        "D": "Hearing underwater sound waves with middle ear ossicles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sharks use the Ampullae of Lorenzini to detect microvolt electric fields produced by the respiratory and cardiac muscles of hidden prey."
+    },
+    {
+      "id": 33,
+      "question": "What is 'Echolocation' in bats and odontocete cetaceans (dolphins and toothed whales)?",
+      "options": {
+        "A": "Emitting high-frequency sound pulses and interpreting returning echoes to map surroundings and detect prey in the dark",
+        "B": "Navigating using the Earth's geomagnetic field alone",
+        "C": "Communicating through infrasonic seismic vibrations in soil",
+        "D": "Detecting infrared body heat radiating from warm-blooded prey"
+      },
+      "correctAnswer": "A",
+      "explanation": "Microchiropteran bats emit ultrasonic clicks through larynx/nose, analyzing the frequency shifts and delay of echoes to track insects in flight."
+    },
+    {
+      "id": 34,
+      "question": "What is 'Mobbing Behavior' observed in social birds like crows and gulls?",
+      "options": {
+        "A": "A cooperative anti-predator defense where multiple individuals harass, dive-bomb, and vocalize loudly at a perched predator to drive it away",
+        "B": "Fighting among flock members over breadcrumbs",
+        "C": "A mass migration flight across mountain ranges",
+        "D": "Cooperative nesting in sea cliffs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mobbing distracts and harasses hawks or owls, alerting the community and reducing the predator's foraging success."
+    },
+    {
+      "id": 35,
+      "question": "What is 'Agonistic Behavior' in behavioral ecology?",
+      "options": {
+        "A": "Social interactions involving aggressive fighting, threat displays, submission, and appeasement postures between conspecifics",
+        "B": "Parental feeding of altricial offspring",
+        "C": "A symbiotic relationship between two different species",
+        "D": "The solitary hunting of prey in the wild"
+      },
+      "correctAnswer": "A",
+      "explanation": "Agonistic behavior encompasses the full spectrum of competitive behaviors (threats, ritualized combat, submission) to settle disputes without fatal violence."
+    }
+  ]
+}

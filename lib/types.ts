@@ -44,7 +44,9 @@ export type SubjectId =
   | 'pakstudies-12'
   | 'tarjuma-12'
   | 'physics-12'
-  | 'math-12';
+  | 'math-12'
+  | 'cs-12'
+  | 'biology-12';
 
 export interface ChapterData {
   chapterNumber: number;

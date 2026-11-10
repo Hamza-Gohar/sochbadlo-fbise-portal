@@ -1,0 +1,214 @@
+{
+  "chapterNumber": 20,
+  "chapterTitle": "Annual Board Examination Section A Simulator 7 (17 Marks · 25 Min)",
+  "title": "Annual Board Examination Section A Simulator 7 (17 Marks · 25 Min)",
+  "slug": "biology-12-model-paper-7",
+  "totalQuestions": 17,
+  "subject": "biology-12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the percentage saturation of hemoglobin with oxygen in systemic arterial blood under normal resting pulmonary conditions (pO2 ~ 100 mmHg)?",
+      "options": {
+        "A": "50%",
+        "B": "75%",
+        "C": "97-98%",
+        "D": "100% strictly"
+      },
+      "correctAnswer": "C",
+      "explanation": "Under normal alveolar conditions with pO2 around 100 mmHg, hemoglobin is approximately 97% to 98% saturated with oxygen, while venous blood returning to lungs remains about 75% saturated at rest."
+    },
+    {
+      "id": 2,
+      "question": "Which nitrogenous waste requires the least amount of water for excretion and is precipitated as an insoluble semi-solid paste by birds and reptiles?",
+      "options": {
+        "A": "Ammonia",
+        "B": "Urea",
+        "C": "Uric acid",
+        "D": "Creatinine"
+      },
+      "correctAnswer": "C",
+      "explanation": "Uric acid (uricotelism) is relatively non-toxic and virtually insoluble in water. It precipitates out of solution, enabling birds, reptiles, and terrestrial insects to excrete nitrogen with minimal water loss."
+    },
+    {
+      "id": 3,
+      "question": "What type of bone fracture is characterized by a bone breaking through the skin surface, posing a high risk of bacterial osteomyelitis?",
+      "options": {
+        "A": "Simple (closed) fracture",
+        "B": "Compound (open) fracture",
+        "C": "Greenstick fracture",
+        "D": "Comminuted fracture"
+      },
+      "correctAnswer": "B",
+      "explanation": "In an open or compound fracture, bone ends tear through soft tissues and skin, exposing the marrow and fracture site directly to external contamination and pathogens."
+    },
+    {
+      "id": 4,
+      "question": "In a human spinal reflex arc, what is the correct anatomical pathway of impulse conduction?",
+      "options": {
+        "A": "Effector -> Motor neuron -> Interneuron -> Sensory neuron -> Receptor",
+        "B": "Receptor -> Sensory neuron -> Interneuron (in spinal cord) -> Motor neuron -> Effector",
+        "C": "Receptor -> Motor neuron -> Brain -> Effector",
+        "D": "Interneuron -> Receptor -> Sensory neuron -> Motor neuron"
+      },
+      "correctAnswer": "B",
+      "explanation": "A standard somatic reflex arc follows: sensory receptor -> afferent sensory neuron -> dorsal root of spinal cord -> interneuron in spinal grey matter -> efferent motor neuron via ventral root -> effector muscle."
+    },
+    {
+      "id": 5,
+      "question": "Which hormone produced by thyroid follicular cells contains four iodine atoms and serves as the major circulating prohormone for metabolically active T3?",
+      "options": {
+        "A": "Calcitonin",
+        "B": "Thyroxine (T4 / Tetraiodothyronine)",
+        "C": "Reverse T3",
+        "D": "Thyroglobulin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Thyroxine (T4) represents >90% of thyroid gland secretion. It circulates tightly bound to thyroxine-binding globulin (TBG) and is deiodinated in peripheral tissues to potent triiodothyronine (T3)."
+    },
+    {
+      "id": 6,
+      "question": "Which behavioral pattern is hard-wired, genetically pre-programmed, invariant in execution, and triggered by a specific sign stimulus or releaser?",
+      "options": {
+        "A": "Fixed Action Pattern (FAP)",
+        "B": "Insight learning",
+        "C": "Trial-and-error",
+        "D": "Habituation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fixed Action Patterns (FAPs) are innate, stereotypic behavioral sequences that once initiated by a sign stimulus (e.g., red belly of male stickleback fish), are executed to completion without ongoing sensory feedback."
+    },
+    {
+      "id": 7,
+      "question": "In human males, the surgical sterilization procedure involving the transection and ligation of both ductus deferentia is called:",
+      "options": {
+        "A": "Tubectomy",
+        "B": "Vasectomy",
+        "C": "Circumcision",
+        "D": "Orchiectomy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vasectomy is a surgical method of male sterilization where the vas deferens are severed and sealed, preventing sperm produced in the testes from reaching ejaculated seminal fluid."
+    },
+    {
+      "id": 8,
+      "question": "In the developing human blastocyst, which outer cell layer mediates implantation into the endometrium and later forms the embryonic portion of the placenta?",
+      "options": {
+        "A": "Inner cell mass (Embryoblast)",
+        "B": "Trophoblast",
+        "C": "Zona pellucida",
+        "D": "Epiblast"
+      },
+      "correctAnswer": "B",
+      "explanation": "The trophoblast is the outer epithelial shell of the blastocyst that secretes enzymes to erode the uterine lining for implantation and differentiates into cytotrophoblast and syncytiotrophoblast layers."
+    },
+    {
+      "id": 9,
+      "question": "Which component of the bacterial RNA Polymerase holoenzyme is essential for recognizing and binding to the specific -10 (Pribnow box) and -35 promoter consensus sequences?",
+      "options": {
+        "A": "Alpha subunit",
+        "B": "Beta subunit",
+        "C": "Sigma (σ) factor",
+        "D": "Rho factor"
+      },
+      "correctAnswer": "C",
+      "explanation": "The sigma factor directs core bacterial RNA polymerase to specific promoter sequences (-10 and -35 boxes). Once transcription initiation and bubble opening occur, the sigma factor dissociates."
+    },
+    {
+      "id": 10,
+      "question": "What is the genetic disorder caused by trisomy of chromosome 21, characterized by intellectual disability, simian crease, and epicanthic eye folds?",
+      "options": {
+        "A": "Turner syndrome",
+        "B": "Klinefelter syndrome",
+        "C": "Down syndrome",
+        "D": "Edwards syndrome"
+      },
+      "correctAnswer": "C",
+      "explanation": "Down syndrome (Trisomy 21) is an autosomal aneuploidy typically resulting from maternal meiotic non-disjunction of chromosome 21 during oogenesis, presenting with dysmorphic facial features and cognitive impairment."
+    },
+    {
+      "id": 11,
+      "question": "Which type of natural selection acts against both phenotypic extremes and favors intermediate variants, narrowing phenotypic variation over generations?",
+      "options": {
+        "A": "Directional selection",
+        "B": "Stabilizing selection",
+        "C": "Disruptive (diversifying) selection",
+        "D": "Sexual selection"
+      },
+      "correctAnswer": "B",
+      "explanation": "Stabilizing selection eliminates extreme phenotypes and preserves intermediate traits (e.g., human birth weight clustering tightly around 3-4 kg to optimize infant survival and maternal health)."
+    },
+    {
+      "id": 12,
+      "question": "In DNA profiling and forensics, which polymorphic genomic regions consisting of short tandem repeats (2-6 bp) are amplified by PCR?",
+      "options": {
+        "A": "Short Tandem Repeats (STRs / Microsatellites)",
+        "B": "Exonic open reading frames",
+        "C": "Histone octamers",
+        "D": "Centromeric satellites alone"
+      },
+      "correctAnswer": "A",
+      "explanation": "Short Tandem Repeats (STRs) are polymorphic loci distributed throughout the genome where repeat unit copy numbers vary widely between individuals, serving as reliable markers for forensic DNA fingerprinting."
+    },
+    {
+      "id": 13,
+      "question": "The dynamic zone of transition where two distinct ecological biomes or ecosystems overlap (e.g., between forest and grassland) is known as an:",
+      "options": {
+        "A": "Ecotype",
+        "B": "Ecotone",
+        "C": "Ecosphere",
+        "D": "Ecological niche"
+      },
+      "correctAnswer": "B",
+      "explanation": "An ecotone is an active ecological transition zone between two distinct biological communities, often displaying high species richness and population densities known as the 'edge effect'."
+    },
+    {
+      "id": 14,
+      "question": "In human physiology, the total volume of air remaining in the lungs after a maximal forced expiration that prevents alveolar collapse is the:",
+      "options": {
+        "A": "Expiratory reserve volume",
+        "B": "Residual volume (RV)",
+        "C": "Tidal volume",
+        "D": "Inspiratory capacity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Residual Volume (RV), approximately 1,100 to 1,200 mL in healthy adults, is the volume of gas that cannot be expelled from the lungs even with maximal expiratory effort, maintaining aerated alveoli."
+    },
+    {
+      "id": 15,
+      "question": "Which enzyme synthesized by the juxtaglomerular apparatus cleaves plasma angiotensinogen into angiotensin I?",
+      "options": {
+        "A": "ACE (Angiotensin-Converting Enzyme)",
+        "B": "Renin",
+        "C": "Kallikrein",
+        "D": "Trypsin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Renin is an aspartic protease secreted by juxtaglomerular cells that converts circulating hepatic angiotensinogen into the decapeptide angiotensin I."
+    },
+    {
+      "id": 16,
+      "question": "During transcription termination in prokaryotes, what protein factor binds to nascent RNA at rut sites and moves toward the transcription bubble to release the transcript?",
+      "options": {
+        "A": "Sigma factor",
+        "B": "Rho factor",
+        "C": "TATA-binding protein",
+        "D": "Poly-A polymerase"
+      },
+      "correctAnswer": "B",
+      "explanation": "In Rho-dependent termination, the hexameric Rho helicase binds C-rich rut sequences on nascent RNA and uses ATP hydrolysis to catch up with stalled RNA polymerase, unwinding the RNA-DNA hybrid."
+    },
+    {
+      "id": 17,
+      "question": "What is the primary ecological consequence of stratospheric ozone layer depletion on terrestrial and aquatic organisms?",
+      "options": {
+        "A": "Decreased global atmospheric temperature",
+        "B": "Increased exposure to harmful Ultraviolet-B (UV-B) radiation, raising risks of skin carcinomas, cataracts, and phytoplankton mortality",
+        "C": "Complete cessation of the water cycle",
+        "D": "Rapid expansion of polar ice caps"
+      },
+      "correctAnswer": "B",
+      "explanation": "Thinning of the stratospheric ozone layer permits dangerous solar UV-B radiation (280-315 nm) to reach the Earth's surface, inducing pyrimidine dimers in DNA, elevating melanoma rates, and damaging marine primary producers."
+    }
+  ]
+}

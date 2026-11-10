@@ -1,0 +1,188 @@
+{
+  "chapterNumber": 3,
+  "title": "Annual Board Examination Section A Simulator 3 (15 Marks · 20 Min)",
+  "slug": "cs-12-model-paper-3",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which keyword in Python is used inside a function to modify a variable defined at the top module level?",
+      "options": {
+        "A": "`global`",
+        "B": "`nonlocal`",
+        "C": "`extern`",
+        "D": "`static`"
+      },
+      "correctAnswer": "A",
+      "explanation": "The `global` keyword allows reassigning variables declared outside the local function scope."
+    },
+    {
+      "id": 2,
+      "question": "What is an 'Anomaly Detection' algorithm primarily used for in banking data science?",
+      "options": {
+        "A": "Identifying unusual credit card transactions that deviate from normal user patterns to flag fraud",
+        "B": "Calculating compound interest rates on savings accounts",
+        "C": "Printing checkbooks on laser printers",
+        "D": "Sorting bank teller names alphabetically"
+      },
+      "correctAnswer": "A",
+      "explanation": "Anomaly detection identifies statistical outliers and unusual transaction patterns indicating fraud."
+    },
+    {
+      "id": 3,
+      "question": "What does the term 'Smart City' refer to in IoT applications?",
+      "options": {
+        "A": "An urban area that uses IoT sensors and data analytics to optimize city assets, traffic flow, waste management, and energy grids",
+        "B": "A city where all citizens are computer programmers",
+        "C": "A municipality that operates without police departments",
+        "D": "A computer science university campus"
+      },
+      "correctAnswer": "A",
+      "explanation": "Smart cities leverage connected infrastructure to improve civic efficiency, sustainability, and citizen welfare."
+    },
+    {
+      "id": 4,
+      "question": "What is 'Spear Phishing'?",
+      "options": {
+        "A": "A highly targeted phishing attack customized with personalized information to deceive a specific high-profile individual",
+        "B": "Sending generic spam to millions of random email addresses",
+        "C": "Using physical fishing spears to damage undersea internet cables",
+        "D": "Attacking network routers with brute-force scripts"
+      },
+      "correctAnswer": "A",
+      "explanation": "Spear phishing targets specific executives or employees using researched personal details to bypass skepticism."
+    },
+    {
+      "id": 5,
+      "question": "In agile software estimation, what are 'Story Points' used for?",
+      "options": {
+        "A": "Relative units of measure used by teams to estimate the overall effort, complexity, and uncertainty of a user story",
+        "B": "Financial bonuses awarded to engineers who write the most lines of code",
+        "C": "The number of typos detected by the compiler",
+        "D": "The physical weight of the server hardware"
+      },
+      "correctAnswer": "A",
+      "explanation": "Story points express relative effort without tying estimates to rigid hours, accounting for complexity and risk."
+    },
+    {
+      "id": 6,
+      "question": "What is 'Continuous Monitoring' in cloud DevOps and cyber defense?",
+      "options": {
+        "A": "Real-time automated tracking of system performance, server health, application logs, and security telemetry",
+        "B": "Installing CCTV cameras in office cubicles",
+        "C": "Watching computer screens without blinking",
+        "D": "Manually testing code once every six months"
+      },
+      "correctAnswer": "A",
+      "explanation": "Continuous monitoring uses automated observability tools (Prometheus, Grafana) to detect anomalies and crashes instantly."
+    },
+    {
+      "id": 7,
+      "question": "Jakob Nielsen's usability heuristic 'Match between system and real world' recommends:",
+      "options": {
+        "A": "Using words, phrases, and concepts familiar to the user rather than system-oriented terms",
+        "B": "Translating all computer text into Latin",
+        "C": "Disabling graphics cards during simulations",
+        "D": "Requiring VR headsets for all web browsing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Interfaces should speak the users' language with familiar conventions and real-world logic."
+    },
+    {
+      "id": 8,
+      "question": "Which data structure is most efficient for implementing a priority queue where highest priority items are extracted first?",
+      "options": {
+        "A": "Binary Heap",
+        "B": "Singly Linked List",
+        "C": "Unsorted Array",
+        "D": "Circular Ring Buffer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Binary heaps allow both insertion and highest-priority extraction in logarithmic $O(\\log n)$ time."
+    },
+    {
+      "id": 9,
+      "question": "What does the Python expression `lambda a, b: a if a > b else b` accomplish?",
+      "options": {
+        "A": "It returns the maximum of two numbers",
+        "B": "It calculates the average of two numbers",
+        "C": "It swaps two numbers in memory",
+        "D": "It returns true if both numbers are prime"
+      },
+      "correctAnswer": "A",
+      "explanation": "This ternary lambda function compares two arguments and returns the larger value."
+    },
+    {
+      "id": 10,
+      "question": "In data analysis, which method is used to eliminate multi-collinearity between predictor variables?",
+      "options": {
+        "A": "Principal Component Analysis (PCA)",
+        "B": "Linear Spline Interpolation",
+        "C": "Min-Max Scaling",
+        "D": "One-Hot Vectorization"
+      },
+      "correctAnswer": "A",
+      "explanation": "PCA projects correlated features onto orthogonal principal components, eliminating multi-collinearity."
+    },
+    {
+      "id": 11,
+      "question": "Which IoT communication protocol operates over IEEE 802.15.4 standard for low-power, low-bandwidth personal area networks?",
+      "options": {
+        "A": "Zigbee",
+        "B": "Gigabit Ethernet",
+        "C": "Fibre Channel",
+        "D": "HDMI 2.1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Zigbee is a low-power, low-data-rate wireless mesh network standard for home automation and smart energy."
+    },
+    {
+      "id": 12,
+      "question": "What is 'Cross-Site Request Forgery' (CSRF)?",
+      "options": {
+        "A": "An attack that tricks a victim into executing unwanted actions on a web application in which they are currently authenticated",
+        "B": "Physical theft of office router cables",
+        "C": "Cracking Wi-Fi WPA2 passwords via dictionary attacks",
+        "D": "Generating fake SSL certificates on an offline laptop"
+      },
+      "correctAnswer": "A",
+      "explanation": "CSRF exploits trusting web applications by submitting unauthorized forged HTTP requests using the victim's active cookies."
+    },
+    {
+      "id": 13,
+      "question": "What does the 'Lean Startup' methodology prioritize above all else?",
+      "options": {
+        "A": "Rapid experimentation, validated learning, and iterative product releases",
+        "B": "Writing 500-page business plans before building anything",
+        "C": "Hiring hundreds of employees before launching",
+        "D": "Investing all capital into television advertisements"
+      },
+      "correctAnswer": "A",
+      "explanation": "Eric Ries's Lean Startup focuses on the Build-Measure-Learn feedback loop to eliminate wasted effort."
+    },
+    {
+      "id": 14,
+      "question": "In CSS web accessibility, what does the `aria-hidden='true'` attribute tell screen readers?",
+      "options": {
+        "A": "To completely ignore the element and its children during auditory reading",
+        "B": "To read the text three times louder",
+        "C": "To translate the text into Braille automatically",
+        "D": "To change the background color to black"
+      },
+      "correctAnswer": "A",
+      "explanation": "`aria-hidden='true'` hides decorative icons or duplicate content from assistive screen readers."
+    },
+    {
+      "id": 15,
+      "question": "What is the time complexity of finding an element in an unsorted array of size $n$ using linear search?",
+      "options": {
+        "A": "$O(n)$",
+        "B": "$O(1)$",
+        "C": "$O(\\log n)$",
+        "D": "$O(n \\log n)$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Linear search checks each element one by one from beginning to end, requiring $O(n)$ comparisons in the worst case."
+    }
+  ]
+}

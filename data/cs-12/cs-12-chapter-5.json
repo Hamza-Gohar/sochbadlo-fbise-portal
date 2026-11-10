@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 5,
+  "title": "Unit 5: Applications of Computing & Emerging Technologies",
+  "slug": "cs-12-chapter-5",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the Internet of Things (IoT)?",
+      "options": {
+        "A": "A network of physical devices embedded with sensors, software, and connectivity to exchange data over the internet",
+        "B": "A static cable connection between a personal computer and a printer",
+        "C": "A closed mainframe system without network interfaces",
+        "D": "An operating system used exclusively on supercomputers"
+      },
+      "correctAnswer": "A",
+      "explanation": "IoT refers to billions of physical objects interconnected via sensors, actuators, and IP communications to collect and exchange real-time data."
+    },
+    {
+      "id": 2,
+      "question": "Which lightweight messaging protocol based on the publish/subscribe model is widely adopted in resource-constrained IoT devices?",
+      "options": {
+        "A": "MQTT (Message Queuing Telemetry Transport)",
+        "B": "FTP (File Transfer Protocol)",
+        "C": "BGP (Border Gateway Protocol)",
+        "D": "SMTP (Simple Mail Transfer Protocol)"
+      },
+      "correctAnswer": "A",
+      "explanation": "MQTT is an extremely lightweight publish/subscribe messaging protocol designed for high-latency, low-bandwidth, and battery-constrained IoT devices."
+    },
+    {
+      "id": 3,
+      "question": "What is Cloud Computing?",
+      "options": {
+        "A": "The on-demand delivery of computing services (servers, storage, databases, networking, software) over the internet with pay-as-you-go pricing",
+        "B": "Storing backup files on local magnetic tapes and CD-ROMs",
+        "C": "Transmitting radio waves through atmospheric storm clouds",
+        "D": "Running CPU overclocking scripts on personal laptops"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cloud computing offers scalable virtualized infrastructure and applications over the internet without requiring local hardware management."
+    },
+    {
+      "id": 4,
+      "question": "Which cloud service delivery model provides virtualized physical computing resources such as virtual machines, storage, and networking (e.g., AWS EC2)?",
+      "options": {
+        "A": "Infrastructure as a Service (IaaS)",
+        "B": "Platform as a Service (PaaS)",
+        "C": "Software as a Service (SaaS)",
+        "D": "Function as a Service (FaaS)"
+      },
+      "correctAnswer": "A",
+      "explanation": "IaaS provides fundamental compute, network, and storage building blocks, leaving operating system and application management to the user."
+    },
+    {
+      "id": 5,
+      "question": "Which cloud computing model offers hardware and software development frameworks (like Heroku or Google App Engine) where developers focus purely on code?",
+      "options": {
+        "A": "Platform as a Service (PaaS)",
+        "B": "Infrastructure as a Service (IaaS)",
+        "C": "Software as a Service (SaaS)",
+        "D": "Desktop as a Service (DaaS)"
+      },
+      "correctAnswer": "A",
+      "explanation": "PaaS abstracts operating systems, runtime environments, and server hardware, allowing developers to deploy applications effortlessly."
+    },
+    {
+      "id": 6,
+      "question": "What is Software as a Service (SaaS)?",
+      "options": {
+        "A": "Delivering centrally hosted software applications over a web browser (e.g., Google Workspace, Microsoft 365, Canva)",
+        "B": "Selling software on physical DVD-ROM discs",
+        "C": "Writing custom device drivers for motherboard graphics cards",
+        "D": "Allocating physical hard drives in an on-premises data closet"
+      },
+      "correctAnswer": "A",
+      "explanation": "SaaS delivers ready-to-use software applications accessible to end users over the internet, managed entirely by the software vendor."
+    },
+    {
+      "id": 7,
+      "question": "What is a Blockchain in distributed computing?",
+      "options": {
+        "A": "A decentralized, distributed, and cryptographically linked digital ledger that securely records transactions across multiple peer nodes",
+        "B": "A single centralized MySQL database managed by one system administrator",
+        "C": "A physical chain of SATA hard drives inside a server rack",
+        "D": "A compiler optimization technique that eliminates dead loop branches"
+      },
+      "correctAnswer": "A",
+      "explanation": "Blockchain uses cryptographic hashes and consensus protocols to maintain an immutable, tamper-evident shared ledger across distributed participants."
+    },
+    {
+      "id": 8,
+      "question": "How are individual blocks linked together cryptographically in a blockchain?",
+      "options": {
+        "A": "Each block contains the cryptographic hash of the immediately preceding block",
+        "B": "Blocks are sorted alphabetically by author surname",
+        "C": "Blocks share the same unencrypted IP address",
+        "D": "Blocks are indexed by their physical hard disk sector address"
+      },
+      "correctAnswer": "A",
+      "explanation": "Every block stores the cryptographic hash of the previous block; any alteration of earlier data invalidates all subsequent block hashes."
+    },
+    {
+      "id": 9,
+      "question": "What is the purpose of a Consensus Mechanism (such as Proof of Work or Proof of Stake) in a blockchain network?",
+      "options": {
+        "A": "To ensure all decentralized nodes agree on the valid state of the ledger without trusting a central authority",
+        "B": "To compress video files for mobile streaming",
+        "C": "To compile Python scripts into ARM assembly code",
+        "D": "To assign dynamic IP addresses to home Wi-Fi routers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Consensus mechanisms guarantee Byzantine fault tolerance, allowing decentralized nodes to agree on transaction legitimacy without central intermediaries."
+    },
+    {
+      "id": 10,
+      "question": "What is an Artificial Neural Network (ANN) inspired by in computational intelligence?",
+      "options": {
+        "A": "The structure and functioning of biological neural networks in the human brain",
+        "B": "The rotational dynamics of internal combustion engines",
+        "C": "The electrical grid wiring of commercial transformers",
+        "D": "The optical reflection of concave telescope lenses"
+      },
+      "correctAnswer": "A",
+      "explanation": "ANNs mimic biological brains using interconnected artificial nodes (neurons) organized in input, hidden, and output layers with adjustable weights."
+    },
+    {
+      "id": 11,
+      "question": "In an artificial neuron (Perceptron), what is the function of the Activation Function (e.g., ReLU, Sigmoid)?",
+      "options": {
+        "A": "To introduce non-linearity into the network, enabling it to learn complex non-linear patterns",
+        "B": "To format floating-point numbers into JSON strings",
+        "C": "To terminate the Python interpreter process",
+        "D": "To allocate virtual RAM for graphics shaders"
+      },
+      "correctAnswer": "A",
+      "explanation": "Without non-linear activation functions, stacked neural layers would collapse into simple linear transformations, unable to solve complex tasks."
+    },
+    {
+      "id": 12,
+      "question": "Which algorithm is standardly used to train deep neural networks by calculating weight gradients backward from output loss?",
+      "options": {
+        "A": "Backpropagation (combined with Gradient Descent)",
+        "B": "Dijkstra's Shortest Path",
+        "C": "Euclidean GCD Algorithm",
+        "D": "Huffman Coding"
+      },
+      "correctAnswer": "A",
+      "explanation": "Backpropagation computes error derivatives via the chain rule, updating layer weights backwards using gradient descent optimization."
+    },
+    {
+      "id": 13,
+      "question": "What distinguishes Deep Learning from traditional shallow Machine Learning algorithms?",
+      "options": {
+        "A": "Deep Learning employs deep neural networks with multiple hidden layers that automatically extract hierarchical feature representations",
+        "B": "Deep Learning requires manual hand-crafted feature engineering for every input",
+        "C": "Deep Learning cannot process unstructured data like images or audio",
+        "D": "Deep Learning operates strictly on non-networked single-core microcontrollers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Deep learning architectures automatically discover high-level representations from raw pixels or text through deep stacks of neural layers."
+    },
+    {
+      "id": 14,
+      "question": "What is Edge Computing?",
+      "options": {
+        "A": "Processing data locally near the physical source or device (on the 'edge') rather than transmitting it to a distant centralized cloud data center",
+        "B": "Surrounding server racks with rubber safety edges to prevent physical injuries",
+        "C": "Executing software exclusively on legacy floppy disks",
+        "D": "Drawing borders around geometric figures in computer graphics"
+      },
+      "correctAnswer": "A",
+      "explanation": "Edge computing reduces latency and bandwidth usage by computing data directly on or near edge gateways and IoT devices."
+    },
+    {
+      "id": 15,
+      "question": "Why is Edge Computing critical for Autonomous Self-Driving Vehicles?",
+      "options": {
+        "A": "Sub-millisecond real-time decision-making for obstacle avoidance cannot tolerate the network latency of cloud transmission",
+        "B": "Autonomous vehicles do not have computer chips installed onboard",
+        "C": "Cloud data centers do not support GPS coordinates",
+        "D": "Autonomous vehicles are legally barred from using cellular networks"
+      },
+      "correctAnswer": "A",
+      "explanation": "Self-driving cars must react in milliseconds to pedestrians and hazards; edge computing on onboard GPUs guarantees real-time responsiveness."
+    },
+    {
+      "id": 16,
+      "question": "What is a 'Smart Contract' in the Ethereum blockchain ecosystem?",
+      "options": {
+        "A": "A self-executing digital program stored on the blockchain that automatically runs when predetermined conditions are met",
+        "B": "A legal contract written in physical ink and notarized by a human attorney",
+        "C": "A patent registered with the national intellectual property office",
+        "D": "A software agreement that locks hardware warranties upon purchase"
+      },
+      "correctAnswer": "A",
+      "explanation": "Smart contracts are autonomous programs deployed on blockchains that execute transactions deterministically without human intermediaries."
+    },
+    {
+      "id": 17,
+      "question": "Which neural network architecture is the premier choice for computer vision, image classification, and object detection?",
+      "options": {
+        "A": "Convolutional Neural Network (CNN)",
+        "B": "Recurrent Neural Network (RNN)",
+        "C": "Markov Decision Process",
+        "D": "Multilayer Perceptron with linear layers only"
+      },
+      "correctAnswer": "A",
+      "explanation": "CNNs use spatial convolution kernels and pooling layers to extract translation-invariant spatial features from 2D images."
+    },
+    {
+      "id": 18,
+      "question": "Which architecture utilizing self-attention mechanisms has revolutionized Natural Language Processing (NLP) and Large Language Models (LLMs)?",
+      "options": {
+        "A": "Transformer Architecture",
+        "B": "Restricted Boltzmann Machine",
+        "C": "Hopfield Network",
+        "D": "Perceptron Matrix"
+      },
+      "correctAnswer": "A",
+      "explanation": "Transformers (introduced in 'Attention Is All You Need') power modern LLMs (GPT, Gemini, Claude) through parallelized self-attention."
+    },
+    {
+      "id": 19,
+      "question": "What is 'Serverless Computing' (e.g., AWS Lambda, Google Cloud Functions)?",
+      "options": {
+        "A": "A cloud execution model where developers execute event-driven code without provisioning, managing, or maintaining server infrastructure",
+        "B": "Running web applications entirely without electrical servers",
+        "C": "Hosting websites on desktop personal computers via USB cables",
+        "D": "An operating system that deletes all server software upon boot"
+      },
+      "correctAnswer": "A",
+      "explanation": "Serverless allows developers to write code functions that scale automatically in response to events, billed only for actual execution milliseconds."
+    },
+    {
+      "id": 20,
+      "question": "What does 'Data Immutability' mean in the context of distributed blockchain ledgers?",
+      "options": {
+        "A": "Once written and confirmed by consensus, transaction records cannot be retroactively altered, updated, or deleted",
+        "B": "Data can only be written during midnight server backups",
+        "C": "Variables cannot be displayed on computer monitors",
+        "D": "Files must be converted into physical paper printouts"
+      },
+      "correctAnswer": "A",
+      "explanation": "Immutability ensures that committed blockchain transactions are permanent and tamper-resistant against retroactive alteration."
+    },
+    {
+      "id": 21,
+      "question": "Which sensor in a modern smartphone detects orientation changes and step counts by measuring proper acceleration forces?",
+      "options": {
+        "A": "Accelerometer",
+        "B": "Barometer",
+        "C": "Hygrometer",
+        "D": "Photometer"
+      },
+      "correctAnswer": "A",
+      "explanation": "An accelerometer measures acceleration forces along 3 axes, enabling screen rotation, step counting, and shake gesture recognition."
+    },
+    {
+      "id": 22,
+      "question": "What is the primary role of an 'Actuator' in a smart IoT system?",
+      "options": {
+        "A": "A component that converts electrical control signals into physical motion or action (e.g., opening a smart valve, turning on a motor)",
+        "B": "A sensor that measures environmental temperature",
+        "C": "A cryptographic key generator for SSH logins",
+        "D": "A database index for rapid binary search"
+      },
+      "correctAnswer": "A",
+      "explanation": "While sensors detect physical stimuli, actuators perform physical actions (e.g., solenoids, relays, motors) in response to controller commands."
+    },
+    {
+      "id": 23,
+      "question": "What is a 'Digital Twin' in modern industrial computing and IoT?",
+      "options": {
+        "A": "A real-time virtual simulation model of a physical object, machine, or system updated via live sensor telemetry",
+        "B": "A duplicate USB backup stick stored in a fireproof safe",
+        "C": "Two programmers writing code on identical keyboards",
+        "D": "A mirrored RAID hard drive setup on a desktop PC"
+      },
+      "correctAnswer": "A",
+      "explanation": "A digital twin bridges physical and virtual worlds, simulating performance, monitoring health, and predicting maintenance needs of industrial assets."
+    },
+    {
+      "id": 24,
+      "question": "Which cloud computing deployment model combines private on-premises infrastructure with public cloud services, allowing data and apps to be shared between them?",
+      "options": {
+        "A": "Hybrid Cloud",
+        "B": "Community Cloud",
+        "C": "Single-tenant Bare Metal",
+        "D": "Localhost LAN"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hybrid clouds blend private on-premises data centers with public clouds, giving businesses greater flexibility and data sovereignty compliance."
+    },
+    {
+      "id": 25,
+      "question": "What is 'Fog Computing' in relation to cloud and edge paradigms?",
+      "options": {
+        "A": "An intermediate decentralized layer between edge devices and centralized cloud data centers (e.g., local routers, base stations)",
+        "B": "A server cooling technique utilizing aerosolized moisture",
+        "C": "An optical network cable designed for humid tropical regions",
+        "D": "A data scrambling algorithm used by malware authors"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fog computing extends the cloud closer to edge devices, providing local compute, storage, and networking on local gateways."
+    },
+    {
+      "id": 26,
+      "question": "What is 'Zero Trust' architecture in modern enterprise cloud security?",
+      "options": {
+        "A": "A security model that requires strict identity verification for every person and device attempting to access resources, regardless of network perimeter",
+        "B": "A policy that prohibits employees from using computers at work",
+        "C": "An algorithm that deletes all database passwords upon creation",
+        "D": "A firewall that blocks all outgoing HTTP requests unconditionally"
+      },
+      "correctAnswer": "A",
+      "explanation": "Zero Trust operates on the principle 'never trust, always verify', continuously authenticating and validating identity and device posture."
+    },
+    {
+      "id": 27,
+      "question": "Which technology allows multiple independent virtual operating system instances to run simultaneously on a single physical host server?",
+      "options": {
+        "A": "Virtualization (via Hypervisors)",
+        "B": "Thread Paging",
+        "C": "Bus Snooping",
+        "D": "BIOS Flashing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Virtualization uses a hypervisor (Type 1 or Type 2) to abstract physical hardware into isolated virtual machines (VMs)."
+    },
+    {
+      "id": 28,
+      "question": "What is the primary difference between a Docker Container and a Virtual Machine (VM)?",
+      "options": {
+        "A": "Containers share the host OS kernel and are lightweight, whereas VMs package a complete guest OS on top of a hypervisor",
+        "B": "Containers require dedicated physical CPUs for each application",
+        "C": "VMs do not support networking or persistent disk storage",
+        "D": "Containers can only run Python scripts and not compiled code"
+      },
+      "correctAnswer": "A",
+      "explanation": "Containers virtualize at the OS level (sharing the host kernel), making them spin up in seconds with megabytes rather than gigabytes of overhead."
+    },
+    {
+      "id": 29,
+      "question": "What is Computer Vision (CV)?",
+      "options": {
+        "A": "An AI field enabling computers to derive meaningful information from digital images, videos, and visual inputs",
+        "B": "An optical treatment designed to cure eye strain caused by monitors",
+        "C": "A hardware cable transmitting video signals from GPU to monitor",
+        "D": "A camera filter that inverts screen colors"
+      },
+      "correctAnswer": "A",
+      "explanation": "Computer Vision uses deep learning to enable machines to interpret visual inputs (facial recognition, autonomous navigation, medical MRI scans)."
+    },
+    {
+      "id": 30,
+      "question": "What is Natural Language Processing (NLP)?",
+      "options": {
+        "A": "The branch of artificial intelligence that gives computers the ability to understand, generate, and manipulate human language",
+        "B": "An organic programming language compiled without electronics",
+        "C": "A speech pathology therapy for computer programmers",
+        "D": "A compression algorithm for English text files only"
+      },
+      "correctAnswer": "A",
+      "explanation": "NLP combines computational linguistics with machine learning to process human speech and text (sentiment analysis, translation, chatbots)."
+    },
+    {
+      "id": 31,
+      "question": "In blockchain, what is the '51% Attack' threat?",
+      "options": {
+        "A": "When a single entity gains majority control of the network's mining hashrate, enabling double-spending and transaction blockage",
+        "B": "When a hard drive reaches 51% storage capacity and corrupts files",
+        "C": "When a router drops 51% of UDP broadcast packets",
+        "D": "When an e-commerce website discounts products by more than half"
+      },
+      "correctAnswer": "A",
+      "explanation": "If a miner or cartel controls >50% of the hashing power, they can reorganize blocks, prevent confirmations, and double-spend cryptocurrency."
+    },
+    {
+      "id": 32,
+      "question": "Which protocol enables smart home IoT devices from different manufacturers to communicate securely across a unified local mesh standard?",
+      "options": {
+        "A": "Matter (over Thread and Wi-Fi)",
+        "B": "Telnet",
+        "C": "POP3",
+        "D": "X11 Display Protocol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Matter is the unified royalty-free smart home connectivity standard supported by Apple, Google, and Amazon to ensure device interoperability."
+    },
+    {
+      "id": 33,
+      "question": "What is the primary objective of Reinforcement Learning (RL) in artificial intelligence?",
+      "options": {
+        "A": "Training an autonomous agent to take actions in an environment to maximize cumulative reward through trial and error",
+        "B": "Sorting database tables into ascending order",
+        "C": "Scanning files for malicious macro virus signatures",
+        "D": "Compressing images with lossy JPEG algorithms"
+      },
+      "correctAnswer": "A",
+      "explanation": "RL trains agents (e.g., AlphaGo, robotic arms) by rewarding desirable behaviors and penalizing mistakes in dynamic environments."
+    },
+    {
+      "id": 34,
+      "question": "What does 'SLA' stand for in commercial cloud provider contracts?",
+      "options": {
+        "A": "Service Level Agreement",
+        "B": "System Logic Architecture",
+        "C": "Standard Linux Automation",
+        "D": "Software Licensing Authentication"
+      },
+      "correctAnswer": "A",
+      "explanation": "An SLA guarantees uptime metrics (e.g., 99.99% availability) and outlines penalties or credits if the provider experiences outages."
+    },
+    {
+      "id": 35,
+      "question": "How does Quantum Computing fundamentally differ from classical digital computing?",
+      "options": {
+        "A": "It utilizes quantum bits (Qubits) that can exist in superpositions of 0 and 1 simultaneously, enabling exponential parallelism for specific problems",
+        "B": "It runs standard Windows executable files at higher clock speeds",
+        "C": "It eliminates the need for computer cooling and electricity",
+        "D": "It replaces microchips with mechanical wooden gears"
+      },
+      "correctAnswer": "A",
+      "explanation": "Qubits leverage quantum superposition and entanglement, solving complex molecular modeling and cryptographic factorizations exponentially faster."
+    }
+  ]
+}

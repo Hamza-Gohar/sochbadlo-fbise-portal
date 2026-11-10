@@ -1,0 +1,214 @@
+{
+  "chapterNumber": 23,
+  "chapterTitle": "Annual Board Examination Section A Simulator 10 (17 Marks · 25 Min)",
+  "title": "Annual Board Examination Section A Simulator 10 (17 Marks · 25 Min)",
+  "slug": "biology-12-model-paper-10",
+  "totalQuestions": 17,
+  "subject": "biology-12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The Haldane Effect in human respiratory physiology states that:",
+      "options": {
+        "A": "Deoxygenation of hemoglobin increases its capacity to carry carbon dioxide, while oxygenation promotes CO2 unloading",
+        "B": "Carbon dioxide decreases hemoglobin affinity for oxygen",
+        "C": "Hyperventilation causes respiratory acidosis",
+        "D": "Carbon monoxide affinity is lower in fetal hemoglobin"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Haldane Effect describes how oxygenation of blood in alveolar capillaries displaces carbon dioxide from hemoglobin (carbamino compounds release CO2), whereas deoxygenated hemoglobin in systemic tissues binds CO2 more readily."
+    },
+    {
+      "id": 2,
+      "question": "In human nephrology, which clinical parameter reflects the volume of plasma completely cleared of a given substance by kidneys per unit of time?",
+      "options": {
+        "A": "Renal clearance",
+        "B": "Tidal volume",
+        "C": "Net ultrafiltration pressure",
+        "D": "Tubular secretion index"
+      },
+      "correctAnswer": "A",
+      "explanation": "Renal clearance (C = [U] x V / [P]) represents the volume of plasma cleared of a solute per minute. Inulin clearance is the gold standard for measuring GFR because it is freely filtered and neither reabsorbed nor secreted."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is an autoimmune disorder in which autoantibodies attack and destroy nicotinic acetylcholine receptors at the neuromuscular junction, leading to progressive muscle weakness?",
+      "options": {
+        "A": "Muscular dystrophy",
+        "B": "Myasthenia gravis",
+        "C": "Tetanus",
+        "D": "Osteoarthritis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Myasthenia gravis is an autoimmune neuromuscular disorder where IgG antibodies bind acetylcholine receptors on post-synaptic muscle membranes, causing receptor endocytosis and fluctuating muscle fatigue."
+    },
+    {
+      "id": 4,
+      "question": "In human neuroanatomy, the major bundle of myelinated nerve fibers connecting the left and right cerebral hemispheres, enabling interhemispheric communication, is the:",
+      "options": {
+        "A": "Corpus callosum",
+        "B": "Internal capsule",
+        "C": "Fornix",
+        "D": "Basal ganglia"
+      },
+      "correctAnswer": "A",
+      "explanation": "The corpus callosum is a broad, thick band of over 200 million transverse axonal fibers that bridges the cerebral longitudinal fissure, mediating interhemispheric transfer of cognitive information."
+    },
+    {
+      "id": 5,
+      "question": "Which hormone produced by adipocytes in adipose tissue acts on hypothalamic arcuate receptors to signal satiety and suppress long-term appetite?",
+      "options": {
+        "A": "Ghrelin",
+        "B": "Leptin",
+        "C": "Orexin",
+        "D": "Cholecystokinin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Leptin is an adipokine synthesized by fat cells in proportion to total body lipid reserves. It crosses the blood-brain barrier to bind hypothalamic receptors, suppressing orexigenic NPY/AgRP neurons to decrease hunger."
+    },
+    {
+      "id": 6,
+      "question": "A stickleback fish attacking any model with a red underbelly, regardless of its unrealistic fish shape, is responding to a:",
+      "options": {
+        "A": "Sign stimulus (releaser)",
+        "B": "Conditioned reflex",
+        "C": "Operant punishment",
+        "D": "Habituated cue"
+      },
+      "correctAnswer": "A",
+      "explanation": "Niko Tinbergen demonstrated that the red underbelly functions as an essential sign stimulus (releaser) that triggers innate aggressive fixed action patterns in territorial male three-spined sticklebacks."
+    },
+    {
+      "id": 7,
+      "question": "In the human female reproductive cycle, regression of the corpus luteum causes a steep decline in progesterone and estrogen, triggering:",
+      "options": {
+        "A": "Ovulation",
+        "B": "Menstruation (sloughing of stratum functionale)",
+        "C": "Implantation of the morula",
+        "D": "Formation of the placenta"
+      },
+      "correctAnswer": "B",
+      "explanation": "When fertilization fails, luteolysis drops progesterone and estrogen levels, leading to spasm of endometrial spiral arterioles, ischemic necrosis, and shedding of the functional layer of the endometrium (menses)."
+    },
+    {
+      "id": 8,
+      "question": "In embryology, what key organizer tissue induces the overlying embryonic ectoderm to thicken and roll up into the neural tube?",
+      "options": {
+        "A": "Notochord (mesodermal chord)",
+        "B": "Hypoblast",
+        "C": "Amniotic ectoderm",
+        "D": "Yolk sac endoderm"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hans Spemann and Hilde Mangold showed that the dorsal mesodermal chord (notochord) acts as a primary embryonic organizer, secreting signaling molecules (noggin, chordin) that neuralize the overlying dorsal ectoderm."
+    },
+    {
+      "id": 9,
+      "question": "Which model explains the multi-step mechanism by which aminoacyl-tRNA enters the A site, forms peptide bonds at the P site, and exits via the E site of the ribosome?",
+      "options": {
+        "A": "Operon model",
+        "B": "Ribosomal translation elongation cycle (A-P-E sites)",
+        "C": "Fluid mosaic model",
+        "D": "Sliding filament model"
+      },
+      "correctAnswer": "B",
+      "explanation": "During translation elongation, incoming charged tRNA binds the Aminoacyl (A) site, peptidyl transferase links the amino acid to the growing chain at the Peptidyl (P) site, and uncharged tRNA departs through the Exit (E) site."
+    },
+    {
+      "id": 10,
+      "question": "The presence of a Barr body in somatic cell interphase nuclei of normal human females (46, XX) is biological evidence for:",
+      "options": {
+        "A": "Trisomy 21 non-disjunction",
+        "B": "X-chromosome inactivation (Lyon hypothesis / dosage compensation)",
+        "C": "Y-chromosome degradation",
+        "D": "High mitochondrial mutation rates"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Lyon hypothesis explains that one of the two X chromosomes in female somatic cells is randomly and permanently silenced into a transcriptionally inert heterochromatic structure (Barr body) to equalize gene dosage with males."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following conditions violates the assumptions of the Hardy-Weinberg equilibrium, thereby altering allele frequencies in a gene pool?",
+      "options": {
+        "A": "Extremely large population size",
+        "B": "Completely random mating",
+        "C": "Absence of mutations, migration, and natural selection",
+        "D": "Directional natural selection and non-random assortative mating"
+      },
+      "correctAnswer": "D",
+      "explanation": "Hardy-Weinberg equilibrium assumes infinite population size, random mating, zero mutation, zero migration (gene flow), and zero differential selection. Any violation (such as natural selection or non-random mating) drives microevolution."
+    },
+    {
+      "id": 12,
+      "question": "What is the primary function of the Cas9 endonuclease enzyme in the CRISPR-Cas9 genome editing system?",
+      "options": {
+        "A": "Synthesizing guide RNA strands",
+        "B": "Creating targeted double-stranded DNA breaks at specific sites guided by single-guide RNA (sgRNA)",
+        "C": "Ligating blunt DNA fragments",
+        "D": "Methylating adenines in eukaryotic DNA"
+      },
+      "correctAnswer": "B",
+      "explanation": "In CRISPR-Cas9 technology, Cas9 endonuclease is targeted by a custom single-guide RNA (sgRNA) matching a 20-nucleotide genomic sequence adjacent to a PAM motif, where it makes a precise double-stranded break."
+    },
+    {
+      "id": 13,
+      "question": "In ecological pyramids, which pyramid is ALWAYS upright and can never be inverted in any natural self-sustaining ecosystem?",
+      "options": {
+        "A": "Pyramid of numbers",
+        "B": "Pyramid of biomass",
+        "C": "Pyramid of energy",
+        "D": "Pyramid of trophic volume"
+      },
+      "correctAnswer": "C",
+      "explanation": "The pyramid of energy is always upright because the Second Law of Thermodynamics dictates that energy is continuously dissipated as metabolic heat at each trophic step; higher trophic levels invariably possess less total energy."
+    },
+    {
+      "id": 14,
+      "question": "What is the primary driving stimulus for rhythmic ventilation in healthy human arterial blood at rest?",
+      "options": {
+        "A": "Severe drop in blood oxygen tension (pO2)",
+        "B": "Small increases in arterial partial pressure of carbon dioxide (pCO2) and hydrogen ion concentration [H+]",
+        "C": "Fluctuations in atmospheric humidity",
+        "D": "Blood glucose fluctuations"
+      },
+      "correctAnswer": "B",
+      "explanation": "Central chemoreceptors in the medulla oblongata are sensitive to changes in cerebrospinal fluid [H+] generated by arterial pCO2 changes. Even a minor 2-5 mmHg rise in pCO2 dramatically stimulates ventilation."
+    },
+    {
+      "id": 15,
+      "question": "Which cell type in the anterior pituitary synthesizes and secretes Growth Hormone (GH / Somatotropin)?",
+      "options": {
+        "A": "Somatotrophs",
+        "B": "Lactotrophs",
+        "C": "Corticotrophs",
+        "D": "Thyrotrophs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Somatotrophs are acidophilic cells that constitute nearly 50% of anterior pituitary secretory cells, producing human Growth Hormone (somatotropin) under regulation by hypothalamic GHRH and somatostatin."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following is a classic example of an X-linked recessive bleeding disorder caused by deficiency of clotting Factor VIII?",
+      "options": {
+        "A": "Sickle cell anemia",
+        "B": "Hemophilia A",
+        "C": "Thalassemia major",
+        "D": "Cystic fibrosis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hemophilia A is an X-linked recessive genetic disorder characterized by a mutation in the F8 gene leading to deficiency in coagulation Factor VIII, resulting in prolonged bleeding into joints (hemarthrosis)."
+    },
+    {
+      "id": 17,
+      "question": "The thin gaseous layer of the atmosphere surrounding the Earth where all weather phenomena (clouds, storms, convection) occur is the:",
+      "options": {
+        "A": "Stratosphere",
+        "B": "Troposphere",
+        "C": "Mesosphere",
+        "D": "Thermosphere"
+      },
+      "correctAnswer": "B",
+      "explanation": "The troposphere is the lowest atmospheric layer extending from Earth's surface up to ~8-16 km, containing ~75% of atmospheric mass, 99% of water vapor, and virtually all meteorological weather patterns."
+    }
+  ]
+}

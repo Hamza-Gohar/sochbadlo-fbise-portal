@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 6,
+  "title": "Unit 6: Impacts of Computing, Cybersecurity & Cyber Laws",
+  "slug": "cs-12-chapter-6",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which triad forms the cornerstone framework for information security policies across computer systems?",
+      "options": {
+        "A": "Confidentiality, Integrity, and Availability (CIA Triad)",
+        "B": "Control, Identification, and Auditing",
+        "C": "Cryptography, Isolation, and Authentication",
+        "D": "Compilation, Interpretation, and Assembly"
+      },
+      "correctAnswer": "A",
+      "explanation": "The CIA Triad (Confidentiality, Integrity, Availability) is the foundational model guiding data protection and cybersecurity measures."
+    },
+    {
+      "id": 2,
+      "question": "What does 'Integrity' in the CIA triad guarantee?",
+      "options": {
+        "A": "Information is accurate, authentic, and protected against unauthorized modification or deletion",
+        "B": "Systems are accessible 24/7 without downtime",
+        "C": "Data is completely hidden from public search engines",
+        "D": "Passwords are changed automatically every 24 hours"
+      },
+      "correctAnswer": "A",
+      "explanation": "Integrity guarantees data trustworthiness by ensuring information has not been altered, tampered with, or forged in transit or storage."
+    },
+    {
+      "id": 3,
+      "question": "What is the primary difference between Symmetric and Asymmetric Encryption?",
+      "options": {
+        "A": "Symmetric uses a single shared secret key for encryption and decryption, while Asymmetric uses a mathematically linked public/private key pair",
+        "B": "Symmetric encryption is only used on smartphones, while asymmetric is used on servers",
+        "C": "Symmetric encryption is uncrackable, while asymmetric has been banned",
+        "D": "Asymmetric encryption does not use mathematical algorithms"
+      },
+      "correctAnswer": "A",
+      "explanation": "Symmetric (AES) uses one key for both operations, whereas asymmetric (RSA, ECC) uses a public key to encrypt and a private key to decrypt."
+    },
+    {
+      "id": 4,
+      "question": "In asymmetric public key cryptography, which key must the owner keep strictly secret and never share?",
+      "options": {
+        "A": "Private Key",
+        "B": "Public Key",
+        "C": "Certificate Authority Root Key",
+        "D": "DNS Server Key"
+      },
+      "correctAnswer": "A",
+      "explanation": "The private key must remain confidential with the owner to decrypt incoming messages and generate valid digital signatures."
+    },
+    {
+      "id": 5,
+      "question": "What does a Digital Signature provide in electronic communications?",
+      "options": {
+        "A": "Authentication, non-repudiation, and message integrity verification",
+        "B": "Automatic compression of email attachments",
+        "C": "Physical handwriting replication on touchscreen displays",
+        "D": "Bypassing network firewall restrictions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Digital signatures prove the sender's identity (authentication), ensure the message was not modified (integrity), and prevent sender denial (non-repudiation)."
+    },
+    {
+      "id": 6,
+      "question": "Which cyber attack involves overwhelming a targeted web server with an avalanche of fraudulent internet traffic from thousands of compromised botnet computers?",
+      "options": {
+        "A": "Distributed Denial of Service (DDoS)",
+        "B": "Cross-Site Scripting (XSS)",
+        "C": "SQL Injection (SQLi)",
+        "D": "Man-in-the-Middle (MITM)"
+      },
+      "correctAnswer": "A",
+      "explanation": "A DDoS attack utilizes a distributed army of infected botnet nodes to saturate server bandwidth and crash online services."
+    },
+    {
+      "id": 7,
+      "question": "What is 'Ransomware'?",
+      "options": {
+        "A": "Malware that encrypts a victim's files or locks their system, demanding a ransom payment in cryptocurrency for the decryption key",
+        "B": "Free open-source operating system utility software",
+        "C": "Hardware firmware that monitors motherboard temperature",
+        "D": "A legitimate backup tool provided by cloud vendors"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ransomware holds user data hostage through strong cryptographic encryption until victims pay an extortionate ransom."
+    },
+    {
+      "id": 8,
+      "question": "Which social engineering attack tricks victims into revealing sensitive credentials or downloading malware by masquerading as a trustworthy entity in deceptive emails?",
+      "options": {
+        "A": "Phishing",
+        "B": "Buffer Overflow",
+        "C": "Port Scanning",
+        "D": "Packet Sniffing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Phishing exploits human deception via spoofed emails and fraudulent websites to harvest usernames, passwords, and banking PINs."
+    },
+    {
+      "id": 9,
+      "question": "What type of attack occurs when malicious SQL statements are inserted into entry fields (like login forms) for execution by the database backend?",
+      "options": {
+        "A": "SQL Injection (SQLi)",
+        "B": "Cross-Site Request Forgery (CSRF)",
+        "C": "DNS Poisoning",
+        "D": "Smurf Attack"
+      },
+      "correctAnswer": "A",
+      "explanation": "SQL injection exploits unvalidated user input to manipulate database queries, bypassing authentication or dumping entire customer databases."
+    },
+    {
+      "id": 10,
+      "question": "Which vulnerability allows attackers to inject malicious client-side JavaScript scripts into web pages viewed by other unsuspecting users?",
+      "options": {
+        "A": "Cross-Site Scripting (XSS)",
+        "B": "Zero-Day Exploit",
+        "C": "Rootkit Escalation",
+        "D": "ARP Spoofing"
+      },
+      "correctAnswer": "A",
+      "explanation": "XSS vulnerabilities execute malicious JavaScript in victims' browsers, hijacking user session cookies or redirecting to phishing portals."
+    },
+    {
+      "id": 11,
+      "question": "What is a 'Zero-Day Vulnerability' in computer security?",
+      "options": {
+        "A": "A security flaw known to attackers or researchers for which no official vendor patch or fix currently exists",
+        "B": "A computer system that has operated for exactly zero days",
+        "C": "A virus that deletes all files on the first day of every month",
+        "D": "An expired SSL certificate on an e-commerce website"
+      },
+      "correctAnswer": "A",
+      "explanation": "Zero-day vulnerabilities represent severe risks because software developers have had 'zero days' to develop and release a defensive security patch."
+    },
+    {
+      "id": 12,
+      "question": "What is the primary legislation governing cybercrime, illegal access, data tampering, electronic fraud, and cyber terrorism in Pakistan?",
+      "options": {
+        "A": "Prevention of Electronic Crimes Act (PECA), 2016",
+        "B": "Digital Millennium Copyright Act (DMCA)",
+        "C": "General Data Protection Regulation (GDPR)",
+        "D": "Computer Fraud and Abuse Act (CFAA)"
+      },
+      "correctAnswer": "A",
+      "explanation": "PECA 2016 is Pakistan's comprehensive statutory law penalizing cybercrimes such as unauthorized access, cyberstalking, hate speech, and digital fraud."
+    },
+    {
+      "id": 13,
+      "question": "Which law enforcement wing in Pakistan is officially designated to investigate and prosecute cybercrimes under the PECA law?",
+      "options": {
+        "A": "FIA Cyber Crime Wing (Federal Investigation Agency)",
+        "B": "Pakistan Telecommunication Authority (PTA)",
+        "C": "National Accountability Bureau (NAB)",
+        "D": "Traffic Police Department"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Federal Investigation Agency (FIA) Cyber Crime Wing conducts digital forensics and arrests cybercriminals across Pakistan."
+    },
+    {
+      "id": 14,
+      "question": "What does Intellectual Property (IP) Law protect in the computing domain?",
+      "options": {
+        "A": "Creations of the mind, such as proprietary software code, patents, algorithms, trademarks, and trade secrets",
+        "B": "Physical copper internet wiring inside home walls",
+        "C": "Computer monitor screen brightness adjustments",
+        "D": "The electricity bills incurred by cryptocurrency miners"
+      },
+      "correctAnswer": "A",
+      "explanation": "IP laws grant legal protections to software developers and creators through copyrights, patents, trademarks, and trade secret protections."
+    },
+    {
+      "id": 15,
+      "question": "What is 'Software Piracy'?",
+      "options": {
+        "A": "The illegal copying, distribution, sharing, or modification of copyrighted software without authorized licensing",
+        "B": "Writing open-source software under the MIT license",
+        "C": "Purchasing software licenses in retail stores",
+        "D": "Uninstalling old applications to free up hard drive space"
+      },
+      "correctAnswer": "A",
+      "explanation": "Software piracy infringes copyright law by cracking, distributing, or using proprietary software without purchasing valid commercial licenses."
+    },
+    {
+      "id": 16,
+      "question": "Which European Union regulation set global benchmarks for personal data privacy, user consent, and the 'Right to be Forgotten'?",
+      "options": {
+        "A": "General Data Protection Regulation (GDPR)",
+        "B": "Health Insurance Portability and Accountability Act (HIPAA)",
+        "C": "Payment Card Industry Data Security Standard (PCI-DSS)",
+        "D": "Sarbanes-Oxley Act (SOX)"
+      },
+      "correctAnswer": "A",
+      "explanation": "GDPR mandates strict data protection, mandatory breach notifications, and grants individuals legal ownership over their personal digital data."
+    },
+    {
+      "id": 17,
+      "question": "What is an Ethical Hacker (White-Hat Hacker)?",
+      "options": {
+        "A": "A cybersecurity professional authorized to simulate attacks on systems to identify vulnerabilities before malicious hackers exploit them",
+        "B": "A criminal who steals bank account passwords for monetary extortion",
+        "C": "A programmer who exclusively develops computer games",
+        "D": "A technician who repairs damaged laptop screens"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ethical hackers use penetration testing methodologies legally to discover and patch security flaws, strengthening defensive perimeters."
+    },
+    {
+      "id": 18,
+      "question": "What is a 'Man-in-the-Middle' (MITM) attack?",
+      "options": {
+        "A": "An attack where an adversary secretly intercepts, relays, and possibly alters communications between two parties who believe they are communicating directly",
+        "B": "A physical theft of a desktop computer from an office desk",
+        "C": "An automated compiler script that reformats source code syntax",
+        "D": "A database query that deletes foreign keys"
+      },
+      "correctAnswer": "A",
+      "explanation": "In a MITM attack, an attacker eavesdrops on or tampers with network traffic (e.g., via rogue Wi-Fi hotspots), mitigated by end-to-end TLS encryption."
+    },
+    {
+      "id": 19,
+      "question": "What is the primary role of a Firewall in computer network security?",
+      "options": {
+        "A": "To inspect incoming and outgoing network traffic and permit or block packets based on defined security rules",
+        "B": "To accelerate broadband internet download speeds",
+        "C": "To prevent physical overheating of server CPUs",
+        "D": "To automatically generate complex passwords for email accounts"
+      },
+      "correctAnswer": "A",
+      "explanation": "A firewall acts as a protective barrier between trusted internal networks and untrusted external networks (the Internet), enforcing access policies."
+    },
+    {
+      "id": 20,
+      "question": "Why is hashing passwords using one-way cryptographic algorithms with salt (e.g., bcrypt, Argon2) vital for database security?",
+      "options": {
+        "A": "Even if the database is leaked, attackers cannot reverse the hashes or easily use precomputed rainbow tables to reveal plaintext passwords",
+        "B": "It allows system administrators to read employee passwords at will",
+        "C": "It reduces the size of the database by exactly 90%",
+        "D": "It eliminates the need for user login usernames"
+      },
+      "correctAnswer": "A",
+      "explanation": "Salted password hashing ensures that irreversible mathematical digests are stored, protecting user credentials during security breaches."
+    },
+    {
+      "id": 21,
+      "question": "What is 'Digital Forensics'?",
+      "options": {
+        "A": "The recovery, investigation, and analysis of material found in digital devices to provide admissible evidence in a court of law",
+        "B": "Repairing broken smartphone display glass",
+        "C": "Designing 3D animations for video games",
+        "D": "Measuring CPU benchmark performance in computer labs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Digital forensics extracts and preserves electronic evidence (disk images, memory dumps, network logs) following strict chains of custody."
+    },
+    {
+      "id": 22,
+      "question": "What is 'E-Waste' (Electronic Waste), and why does it pose a severe global environmental hazard?",
+      "options": {
+        "A": "Discarded electronic devices containing toxic heavy metals (lead, mercury, cadmium) that leach into soil and groundwater if not recycled safely",
+        "B": "Spam emails deleted from webmail inboxes",
+        "C": "Temporary browser cache files stored on solid-state drives",
+        "D": "Unused variables declared in Python scripts"
+      },
+      "correctAnswer": "A",
+      "explanation": "E-waste comprises discarded computers, phones, and batteries laden with hazardous materials that poison ecosystems when dumped in landfills."
+    },
+    {
+      "id": 23,
+      "question": "What is the 'Digital Divide' in socioeconomic computing discourse?",
+      "options": {
+        "A": "The gap between demographics and regions that have access to modern information and communications technology and those that do not",
+        "B": "The division between 32-bit and 64-bit microprocessor architectures",
+        "C": "The mathematical split between integers and floating-point numbers",
+        "D": "The difference between wired Ethernet and wireless Wi-Fi speeds"
+      },
+      "correctAnswer": "A",
+      "explanation": "The digital divide describes the economic, educational, and social inequality caused by unequal access to computers and broadband internet."
+    },
+    {
+      "id": 24,
+      "question": "What is an algorithmic bias in Machine Learning applications?",
+      "options": {
+        "A": "Systematic and repeatable errors in a computer system that create unfair outcomes, such as privileging one group over another based on skewed training data",
+        "B": "A hardware defect in the silicon wafer of a GPU",
+        "C": "A network delay caused by long undersea fiber cables",
+        "D": "A syntax error that prevents Python scripts from compiling"
+      },
+      "correctAnswer": "A",
+      "explanation": "Algorithmic bias occurs when training datasets reflect historical human prejudices, leading AI models to perpetuate discrimination."
+    },
+    {
+      "id": 25,
+      "question": "Which security measure requires a user to present two or more independent authentication factors (e.g., password + SMS/Authenticator OTP code) before gaining access?",
+      "options": {
+        "A": "Multi-Factor Authentication (MFA / 2FA)",
+        "B": "Single Sign-On (SSO)",
+        "C": "Symmetric Hashing",
+        "D": "Public Key Infrastructure"
+      },
+      "correctAnswer": "A",
+      "explanation": "MFA strengthens account defense by combining something you know (password) with something you have (phone/token) or are (fingerprint)."
+    },
+    {
+      "id": 26,
+      "question": "What is 'Shoulder Surfing' in social engineering attacks?",
+      "options": {
+        "A": "Directly watching over someone's shoulder while they type sensitive information, such as passwords or ATM PINs",
+        "B": "Sending fraudulent emails containing malicious invoice attachments",
+        "C": "Scanning local Wi-Fi frequencies for unsecured SSIDs",
+        "D": "Brute-forcing SSH keys with cloud GPU clusters"
+      },
+      "correctAnswer": "A",
+      "explanation": "Shoulder surfing is the low-tech observation of a victim's display or keypad to steal sensitive credentials in public spaces."
+    },
+    {
+      "id": 27,
+      "question": "What is a 'Trojan Horse' in malware taxonomy?",
+      "options": {
+        "A": "Malware that misleads users of its true intent by disguising itself as legitimate, harmless software",
+        "B": "A self-replicating worm that spreads without user intervention across networks",
+        "C": "A hardware device used to test network cable continuity",
+        "D": "An official patch released by an operating system developer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Trojans disguise themselves as games or utility software to trick victims into running them, subsequently installing backdoors or spyware."
+    },
+    {
+      "id": 28,
+      "question": "What is 'Spyware'?",
+      "options": {
+        "A": "Malware designed to infiltrate a user's system, secretly monitor their activity, log keystrokes, and harvest personal credentials without consent",
+        "B": "Antivirus software that scans computer memory for viruses",
+        "C": "A browser extension that blocks banner advertisements",
+        "D": "A hardware cable connected to a webcam"
+      },
+      "correctAnswer": "A",
+      "explanation": "Spyware secretly tracks user browsing habits, keystrokes, and private data, exfiltrating it to remote command servers."
+    },
+    {
+      "id": 29,
+      "question": "What does 'Green Computing' (Green IT) promote?",
+      "options": {
+        "A": "Designing, manufacturing, using, and disposing of computers and servers with minimal negative impact on the environment and reduced energy consumption",
+        "B": "Painting computer cases green to improve visual aesthetics",
+        "C": "Replacing electronic displays with printed paper newsletters",
+        "D": "Banning computer science education in public high schools"
+      },
+      "correctAnswer": "A",
+      "explanation": "Green computing emphasizes energy-efficient data centers, renewable energy adoption, prolonged hardware lifecycles, and responsible recycling."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following is considered an ethical use of Artificial Intelligence in academic settings?",
+      "options": {
+        "A": "Using AI as an interactive research and learning tutor to clarify difficult concepts and guide understanding",
+        "B": "Copying and pasting AI-generated essays directly into examinations without attribution",
+        "C": "Generating deepfake videos to defame school teachers",
+        "D": "Bypassing exam proctoring software with automated browser extensions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Using AI as a cognitive companion to explain concepts promotes ethical learning, unlike plagiarism or academic dishonesty."
+    },
+    {
+      "id": 31,
+      "question": "What is a 'Botnet' in cybersecurity?",
+      "options": {
+        "A": "A network of private computers infected with malicious software and controlled as a group without the owners' knowledge",
+        "B": "A legitimate cluster of web servers hosting an e-commerce platform",
+        "C": "A chat room dedicated to computer science students",
+        "D": "A database table storing automated customer service responses"
+      },
+      "correctAnswer": "A",
+      "explanation": "Botnets consist of compromised 'zombie' machines commanded by an attacker (botmaster) to execute massive DDoS attacks or send spam."
+    },
+    {
+      "id": 32,
+      "question": "Under PECA 2016 in Pakistan, what is the legal penalty for intentionally accessing any critical infrastructure information system or data without authorization?",
+      "options": {
+        "A": "Imprisonment for up to 3 years, a fine of up to one million rupees, or both",
+        "B": "A verbal warning from the school principal",
+        "C": "Permanent forfeiture of personal cell phones only",
+        "D": "Mandatory community service planting trees"
+      },
+      "correctAnswer": "A",
+      "explanation": "Section 6 of PECA 2016 penalizes unauthorized access to critical infrastructure with strict imprisonment and heavy financial fines."
+    },
+    {
+      "id": 33,
+      "question": "What does a 'VPN' (Virtual Private Network) do to protect user network privacy on public Wi-Fi hotspots?",
+      "options": {
+        "A": "It establishes an encrypted tunnel between the user's device and a remote VPN server, shielding traffic from local eavesdroppers",
+        "B": "It doubles the physical battery life of laptop computers",
+        "C": "It removes computer viruses from the hard drive automatically",
+        "D": "It unlocks free cellular data on all smartphone networks"
+      },
+      "correctAnswer": "A",
+      "explanation": "VPNs encrypt network packets and mask the client's public IP address, preventing third parties on public networks from intercepting unencrypted data."
+    },
+    {
+      "id": 34,
+      "question": "What is 'Penetration Testing' in corporate IT infrastructure?",
+      "options": {
+        "A": "An authorized simulated cyberattack against a computer system, performed to evaluate system security and uncover exploitable flaws",
+        "B": "Drilling physical holes into computer server cabinets for ventilation",
+        "C": "Stress-testing office keyboards by pressing keys repeatedly",
+        "D": "Upgrading network cables from Cat5 to Cat6 standards"
+      },
+      "correctAnswer": "A",
+      "explanation": "Penetration testing simulates real-world adversary tactics under controlled conditions to discover security gaps before malicious actors do."
+    },
+    {
+      "id": 35,
+      "question": "Why should organizations mandate automated regular data backups (following the 3-2-1 backup rule)?",
+      "options": {
+        "A": "To ensure rapid business recovery and prevent data loss in the event of hardware failures, natural disasters, or ransomware attacks",
+        "B": "To bypass operating system licensing fees",
+        "C": "To allow employees to work without computer monitors",
+        "D": "To eliminate the requirement of firewalls on network perimeters"
+      },
+      "correctAnswer": "A",
+      "explanation": "The 3-2-1 rule (3 copies, 2 media types, 1 offsite/cloud copy) guarantees business continuity and rapid disaster recovery."
+    }
+  ]
+}

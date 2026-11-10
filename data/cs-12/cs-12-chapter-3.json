@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 3,
+  "title": "Unit 3: Programming Fundamentals & Advanced Python",
+  "slug": "cs-12-chapter-3",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "In Python object-oriented programming, which special method is automatically executed as the constructor when a new object instance is created?",
+      "options": {
+        "A": "`__init__(self)`",
+        "B": "`__new__(self)`",
+        "C": "`__construct__()`",
+        "D": "`__start__(self)`"
+      },
+      "correctAnswer": "A",
+      "explanation": "The `__init__` method initializes attributes of newly created object instances in Python classes."
+    },
+    {
+      "id": 2,
+      "question": "What does the `self` parameter represent inside Python class instance methods?",
+      "options": {
+        "A": "The explicit reference to the current instance of the class",
+        "B": "A global keyword referencing the Python interpreter root",
+        "C": "A pointer to the parent operating system kernel process",
+        "D": "An alias for the compiled bytecode directory"
+      },
+      "correctAnswer": "A",
+      "explanation": "In Python, `self` explicitly references the specific instance calling the method, allowing access to its attributes."
+    },
+    {
+      "id": 3,
+      "question": "Which OOP pillar is implemented when a subclass derives attributes and behaviors from a base class using `class SubClass(BaseClass):`?",
+      "options": {
+        "A": "Inheritance",
+        "B": "Polymorphism",
+        "C": "Abstraction",
+        "D": "Encapsulation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Inheritance enables a derived class to reuse and extend methods and attributes defined in a parent base class."
+    },
+    {
+      "id": 4,
+      "question": "How is method overriding achieved in Python?",
+      "options": {
+        "A": "By defining a method in a child class with the exact same name and signature as a method in its parent class",
+        "B": "By overloading multiple methods with different parameter counts in the same class",
+        "C": "By using the `@override` C-extension compiler flag",
+        "D": "By deleting the parent class method from memory using `del`"
+      },
+      "correctAnswer": "A",
+      "explanation": "Method overriding provides a subclass-specific implementation of a method already defined in its parent class."
+    },
+    {
+      "id": 5,
+      "question": "In Python, which function is used to invoke a method from the immediate parent (superclass)?",
+      "options": {
+        "A": "`super()`",
+        "B": "`parent()`",
+        "C": "`base()`",
+        "D": "`root()`"
+      },
+      "correctAnswer": "A",
+      "explanation": "`super()` returns a proxy object delegating method calls to a parent or sibling class in the Method Resolution Order (MRO)."
+    },
+    {
+      "id": 6,
+      "question": "What is the convention for declaring a private attribute in a Python class that triggers name mangling?",
+      "options": {
+        "A": "Prefixing the attribute name with two leading underscores (e.g., `__variable`)",
+        "B": "Declaring the attribute with the `private` keyword",
+        "C": "Capitalizing all letters in the variable name",
+        "D": "Ending the variable name with an exclamation mark"
+      },
+      "correctAnswer": "A",
+      "explanation": "Two leading underscores (e.g., `__salary`) invoke Python name mangling (renamed to `_ClassName__salary`) to prevent accidental overrides."
+    },
+    {
+      "id": 7,
+      "question": "What is the output of the following Python expression: `[x**2 for x in range(5) if x % 2 != 0]`?",
+      "options": {
+        "A": "`[1, 9]`",
+        "B": "`[0, 4, 16]`",
+        "C": "`[1, 4, 9]`",
+        "D": "`[0, 1, 4, 9, 16]`"
+      },
+      "correctAnswer": "A",
+      "explanation": "For $x \\in \\{0, 1, 2, 3, 4\\}$, the odd values are $1$ and $3$. Their squares are $1^2 = 1$ and $3^2 = 9$."
+    },
+    {
+      "id": 8,
+      "question": "Which Python keyword ensures that a block of code (such as closing a file or releasing a network socket) always executes regardless of whether an exception was raised?",
+      "options": {
+        "A": "`finally`",
+        "B": "`catch`",
+        "C": "`except`",
+        "D": "`ensure`"
+      },
+      "correctAnswer": "A",
+      "explanation": "The `finally` block in a `try...except...finally` construct executes unconditionally for cleanup operations."
+    },
+    {
+      "id": 9,
+      "question": "Which mode string should be supplied to `open('data.txt', mode)` to open a file for writing, appending content to the end without truncating existing data?",
+      "options": {
+        "A": "`'a'`",
+        "B": "`'w'`",
+        "C": "`'r+'`",
+        "D": "`'wb'`"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mode `'a'` opens the file for writing in append mode, preserving existing text and appending new content to the end."
+    },
+    {
+      "id": 10,
+      "question": "Why is using the `with open(...) as f:` context manager considered standard Python best practice for file I/O?",
+      "options": {
+        "A": "It automatically closes the file stream when exiting the block, even if an unhandled exception occurs",
+        "B": "It automatically encrypts the file contents using AES-256",
+        "C": "It increases disk write speed by bypassing the operating system page cache",
+        "D": "It compiles text into C++ binary machine code"
+      },
+      "correctAnswer": "A",
+      "explanation": "Context managers implement `__enter__` and `__exit__`, guaranteeing that file descriptors are safely closed on block termination."
+    },
+    {
+      "id": 11,
+      "question": "Which built-in Python module provides functions to serialize Python object hierarchies into byte streams and vice versa?",
+      "options": {
+        "A": "`pickle`",
+        "B": "`json`",
+        "C": "`csv`",
+        "D": "`xml`"
+      },
+      "correctAnswer": "A",
+      "explanation": "The `pickle` module serializes (pickles) and deserializes (unpickles) complex Python object structures into binary byte streams."
+    },
+    {
+      "id": 12,
+      "question": "Which standard library module is used in Python to interact with lightweight, serverless relational databases without installing external database servers?",
+      "options": {
+        "A": "`sqlite3`",
+        "B": "`mysql.connector`",
+        "C": "`psycopg2`",
+        "D": "`pymongo`"
+      },
+      "correctAnswer": "A",
+      "explanation": "Python includes native `sqlite3` support, allowing applications to create and query embedded relational databases on local disk."
+    },
+    {
+      "id": 13,
+      "question": "In Python database programming with `sqlite3`, what is the object used to execute SQL queries and fetch result rows called?",
+      "options": {
+        "A": "Cursor",
+        "B": "Adapter",
+        "C": "Trigger",
+        "D": "Session Handler"
+      },
+      "correctAnswer": "A",
+      "explanation": "A database `cursor` object (created via `connection.cursor()`) executes SQL statements and retrieves records from the result set."
+    },
+    {
+      "id": 14,
+      "question": "Why should SQL queries in Python utilize parameterized queries (e.g., `cursor.execute('SELECT * FROM users WHERE id = ?', (user_id,))`) instead of string concatenation?",
+      "options": {
+        "A": "To prevent SQL Injection vulnerabilities and properly escape user input",
+        "B": "To compress SQL statements over slower network cables",
+        "C": "To allow the query to execute in parallel threads",
+        "D": "To bypass user authentication credentials"
+      },
+      "correctAnswer": "A",
+      "explanation": "Parameterized queries separate SQL command logic from data arguments, neutralizing SQL injection attacks completely."
+    },
+    {
+      "id": 15,
+      "question": "Which Python GUI library is included natively in the standard Python distribution on Windows and Linux?",
+      "options": {
+        "A": "`tkinter`",
+        "B": "`PyQt5`",
+        "C": "`Kivy`",
+        "D": "`wxPython`"
+      },
+      "correctAnswer": "A",
+      "explanation": "`tkinter` is Python's standard de facto interface to the Tk GUI toolkit, shipped with standard Python installations."
+    },
+    {
+      "id": 16,
+      "question": "In a `tkinter` application, which method must be called to start the event loop and listen for user keyboard and mouse clicks?",
+      "options": {
+        "A": "`root.mainloop()`",
+        "B": "`root.start()`",
+        "C": "`root.listen()`",
+        "D": "`root.run_forever()`"
+      },
+      "correctAnswer": "A",
+      "explanation": "`mainloop()` starts Tkinter's event-driven loop, waiting for user interactions (clicks, keypresses) until the window closes."
+    },
+    {
+      "id": 17,
+      "question": "Which standard testing framework in Python requires test classes to inherit from `unittest.TestCase`?",
+      "options": {
+        "A": "`unittest`",
+        "B": "`doctest`",
+        "C": "`pytest`",
+        "D": "`hypothesis`"
+      },
+      "correctAnswer": "A",
+      "explanation": "Python's built-in `unittest` framework (inspired by JUnit) uses `unittest.TestCase` subclasses with assertion methods like `assertEqual`."
+    },
+    {
+      "id": 18,
+      "question": "What is the purpose of the `assert` statement in Python code?",
+      "options": {
+        "A": "To test if a condition is true; if false, it raises an `AssertionError` exception",
+        "B": "To cast a floating-point number into an integer",
+        "C": "To force garbage collection of unreferenced objects",
+        "D": "To open a secure SSH tunnel to a remote server"
+      },
+      "correctAnswer": "A",
+      "explanation": "`assert condition, message` is a debugging aid that evaluates a condition, raising `AssertionError` if the condition evaluates to False."
+    },
+    {
+      "id": 19,
+      "question": "What does a Python decorator (prefixed with `@`) do?",
+      "options": {
+        "A": "It takes another function as an argument, extends its behavior without modifying it, and returns the modified function",
+        "B": "It applies graphical CSS themes to terminal outputs",
+        "C": "It marks a variable as a constant that cannot be mutated",
+        "D": "It forces a function to run only on secondary CPU cores"
+      },
+      "correctAnswer": "A",
+      "explanation": "Decorators wrap functions to add cross-cutting concerns (logging, timing, authorization, caching) dynamically."
+    },
+    {
+      "id": 20,
+      "question": "Which Python built-in function returns an iterator of tuples where the $i$-th tuple contains the $i$-th element from each of the argument sequences?",
+      "options": {
+        "A": "`zip()`",
+        "B": "`map()`",
+        "C": "`enumerate()`",
+        "D": "`filter()`"
+      },
+      "correctAnswer": "A",
+      "explanation": "`zip([1, 2], ['a', 'b'])` produces an iterator yielding `(1, 'a')` and `(2, 'b')`."
+    },
+    {
+      "id": 21,
+      "question": "What type of object is created when a function uses the `yield` keyword instead of `return`?",
+      "options": {
+        "A": "Generator",
+        "B": "Decorator",
+        "C": "Tuple",
+        "D": "Static Method"
+      },
+      "correctAnswer": "A",
+      "explanation": "A function containing `yield` produces a generator object, producing values lazily on-demand without loading the entire sequence into memory."
+    },
+    {
+      "id": 22,
+      "question": "What is the primary memory advantage of a Generator over a conventional Python List containing millions of items?",
+      "options": {
+        "A": "Generators evaluate items lazily on-the-fly, consuming $O(1)$ constant memory regardless of sequence size",
+        "B": "Generators compress data into gzip format automatically",
+        "C": "Generators offload array variables to secondary USB flash drives",
+        "D": "Generators bypass the Global Interpreter Lock (GIL)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Generators yield one element at a time when requested (`__next__`), using minimal memory compared to holding entire lists in RAM."
+    },
+    {
+      "id": 23,
+      "question": "Which module allows Python programs to spawn new processes, connect to their input/output pipes, and obtain their return codes?",
+      "options": {
+        "A": "`subprocess`",
+        "B": "`sys`",
+        "C": "`os.path`",
+        "D": "`shutil`"
+      },
+      "correctAnswer": "A",
+      "explanation": "The `subprocess` module is the modern standard for executing external shell commands, processes, and managing pipes in Python."
+    },
+    {
+      "id": 24,
+      "question": "In Python exception handling, what is the purpose of the `raise` keyword?",
+      "options": {
+        "A": "To explicitly trigger a specific exception (e.g., `raise ValueError('Invalid input')`)",
+        "B": "To increase the priority of a running thread",
+        "C": "To allocate more heap memory to the current stack",
+        "D": "To force a variable to inherit from a base class"
+      },
+      "correctAnswer": "A",
+      "explanation": "`raise` throws an exception manually when application business logic detects an invalid state or rule violation."
+    },
+    {
+      "id": 25,
+      "question": "What is the result of executing `type(lambda x: x * 2)` in Python 3?",
+      "options": {
+        "A": "`<class 'function'>`",
+        "B": "`<class 'lambda'>`",
+        "C": "`<class 'closure'>`",
+        "D": "`<class 'generator'>`"
+      },
+      "correctAnswer": "A",
+      "explanation": "A lambda expression in Python creates an anonymous function object whose type is `<class 'function'>`."
+    },
+    {
+      "id": 26,
+      "question": "Which Python decorator is used to define a method that belongs to the class itself rather than instances of the class, taking `cls` as its first parameter?",
+      "options": {
+        "A": "`@classmethod`",
+        "B": "`@staticmethod`",
+        "C": "`@property`",
+        "D": "`@abstractmethod`"
+      },
+      "correctAnswer": "A",
+      "explanation": "`@classmethod` receives the class object `cls` as its first argument, often used for alternate class constructors."
+    },
+    {
+      "id": 27,
+      "question": "What does the `@staticmethod` decorator do in Python?",
+      "options": {
+        "A": "It defines a method that does not receive an implicit first argument (`self` or `cls`)",
+        "B": "It prevents a method from ever being modified at runtime",
+        "C": "It locks the method execution to a single hardware thread",
+        "D": "It forces the method to return static C types"
+      },
+      "correctAnswer": "A",
+      "explanation": "A static method is a plain function scoped inside a class namespace without implicit `self` or `cls` arguments."
+    },
+    {
+      "id": 28,
+      "question": "What is the role of the `@property` decorator in Python classes?",
+      "options": {
+        "A": "It allows a method to be accessed like an attribute, providing getter and setter encapsulation",
+        "B": "It marks a variable as private in operating system memory",
+        "C": "It serializes class instances into JSON strings",
+        "D": "It converts a class into a singleton instance"
+      },
+      "correctAnswer": "A",
+      "explanation": "The `@property` decorator creates managed attributes (getters/setters), allowing validation and computation without breaking dot notation."
+    },
+    {
+      "id": 29,
+      "question": "Which Python data type represents an immutable, ordered sequence of heterogeneous elements?",
+      "options": {
+        "A": "Tuple",
+        "B": "List",
+        "C": "Set",
+        "D": "Dictionary"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tuples are ordered collections that cannot be altered (immutable) after creation, commonly used for fixed record data."
+    },
+    {
+      "id": 30,
+      "question": "What is the time complexity of checking membership (`x in s`) in a Python `set` of $n$ elements on average?",
+      "options": {
+        "A": "$O(1)$",
+        "B": "$O(n)$",
+        "C": "$O(\\log n)$",
+        "D": "$O(n^2)$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Python sets are implemented using hash tables, offering average $O(1)$ constant time lookup for membership testing."
+    },
+    {
+      "id": 31,
+      "question": "Which magic method must a Python class implement to allow instances to be compared with the `<` operator?",
+      "options": {
+        "A": "`__lt__(self, other)`",
+        "B": "`__le__(self, other)`",
+        "C": "`__cmp__(self, other)`",
+        "D": "`__less__(self, other)`"
+      },
+      "correctAnswer": "A",
+      "explanation": "The `__lt__` (less than) magic method defines custom comparison logic for the `<` operator in Python."
+    },
+    {
+      "id": 32,
+      "question": "In Python's `re` module, which function searches a string for a match and returns a match object if found anywhere in the string?",
+      "options": {
+        "A": "`re.search()`",
+        "B": "`re.match()`",
+        "C": "`re.compile()`",
+        "D": "`re.split()`"
+      },
+      "correctAnswer": "A",
+      "explanation": "`re.search()` scans through the entire string looking for the first location where the regex matches, unlike `re.match()` which matches only at the start."
+    },
+    {
+      "id": 33,
+      "question": "What is the effect of the Global Interpreter Lock (GIL) in standard CPython?",
+      "options": {
+        "A": "It prevents multiple native CPU threads from executing Python bytecodes simultaneously within a single process",
+        "B": "It prevents the operating system from accessing system RAM",
+        "C": "It locks files automatically upon opening to avoid concurrent write corruption",
+        "D": "It forces Python scripts to compile into machine code before running"
+      },
+      "correctAnswer": "A",
+      "explanation": "CPython's GIL is a mutex that prevents multi-threaded Python programs from utilizing multiple CPU cores for CPU-bound tasks simultaneously."
+    },
+    {
+      "id": 34,
+      "question": "Which module in Python should be chosen over `threading` to achieve true parallel CPU execution on multicore processors?",
+      "options": {
+        "A": "`multiprocessing`",
+        "B": "`asyncio`",
+        "C": "`time`",
+        "D": "`ctypes`"
+      },
+      "correctAnswer": "A",
+      "explanation": "The `multiprocessing` module side-steps the GIL by spawning separate operating system processes, each with its own Python interpreter and memory space."
+    },
+    {
+      "id": 35,
+      "question": "In Python, which function converts a JSON-formatted string into a corresponding Python dictionary or list?",
+      "options": {
+        "A": "`json.loads()`",
+        "B": "`json.dumps()`",
+        "C": "`json.load()`",
+        "D": "`json.write()`"
+      },
+      "correctAnswer": "A",
+      "explanation": "`json.loads()` (load string) deserializes a JSON string into Python objects like dictionaries and lists."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "chapterNumber": 2,
+  "title": "Annual Board Examination Section A Simulator 2 (15 Marks · 20 Min)",
+  "slug": "cs-12-model-paper-2",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to Jakob Nielsen, what should an interface do when a user makes an error?",
+      "options": {
+        "A": "Provide clear, constructive advice in plain language on how to solve the problem",
+        "B": "Lock the user out of the operating system immediately",
+        "C": "Hide all error codes and terminate silently",
+        "D": "Emit loud audio sirens continuously"
+      },
+      "correctAnswer": "A",
+      "explanation": "Error messages should be clear, polite, precise, and offer actionable steps for recovery."
+    },
+    {
+      "id": 2,
+      "question": "Which law of UI design predicts that the time required to acquire a target depends on the distance to and width of the target?",
+      "options": {
+        "A": "Fitts's Law",
+        "B": "Moore's Law",
+        "C": "Metcalfe's Law",
+        "D": "Conway's Law"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fitts's Law states that larger and closer targets take less time to click or touch accurately."
+    },
+    {
+      "id": 3,
+      "question": "What is the average time complexity of searching for an item in a balanced Binary Search Tree (AVL or Red-Black Tree)?",
+      "options": {
+        "A": "$O(\\log n)$",
+        "B": "$O(n)$",
+        "C": "$O(1)$",
+        "D": "$O(n^2)$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Because height is maintained at $O(\\log n)$, search, insertion, and deletion operate in $O(\\log n)$ time."
+    },
+    {
+      "id": 4,
+      "question": "In a queue implemented with a fixed-size array, what technique prevents 'false overflow' when elements are dequeued from the front?",
+      "options": {
+        "A": "Circular Queue implementation",
+        "B": "Stack recursion",
+        "C": "Heapify rebalancing",
+        "D": "Doubly linked sentinel nodes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Circular queues wrap the rear pointer back to index 0 using modulo arithmetic (`(rear + 1) % size`), reusing freed front slots."
+    },
+    {
+      "id": 5,
+      "question": "Which algorithm is used to find the shortest path between nodes in a weighted graph with non-negative edge weights?",
+      "options": {
+        "A": "Dijkstra's Algorithm",
+        "B": "Kruskal's Algorithm",
+        "C": "Depth-First Search",
+        "D": "Boyer-Moore Search"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dijkstra's greedy algorithm finds the single-source shortest path in weighted graphs with non-negative weights."
+    },
+    {
+      "id": 6,
+      "question": "What does Python's `is` operator compare between two variables?",
+      "options": {
+        "A": "Object identity (whether both variables refer to the exact same memory address)",
+        "B": "Equality of contents/values",
+        "C": "String length equivalence",
+        "D": "Variable scope hierarchy"
+      },
+      "correctAnswer": "A",
+      "explanation": "`is` tests object identity (`id(a) == id(b)`), whereas `==` evaluates value equality (`a == b`)."
+    },
+    {
+      "id": 7,
+      "question": "Which exception is raised in Python when attempting to access a dictionary key that does not exist?",
+      "options": {
+        "A": "`KeyError`",
+        "B": "`IndexError`",
+        "C": "`ValueError`",
+        "D": "`AttributeError`"
+      },
+      "correctAnswer": "A",
+      "explanation": "Accessing `d[key]` raises `KeyError` if the key is not present; `d.get(key)` returns `None` instead of raising an error."
+    },
+    {
+      "id": 8,
+      "question": "What is the purpose of the `df.info()` method in Pandas?",
+      "options": {
+        "A": "It displays a concise summary of the DataFrame including column data types, non-null counts, and memory usage",
+        "B": "It plots a histogram of all columns",
+        "C": "It renames all index labels sequentially",
+        "D": "It saves the DataFrame to an SQLite database"
+      },
+      "correctAnswer": "A",
+      "explanation": "`df.info()` provides essential diagnostic metadata about data types and missing values across columns."
+    },
+    {
+      "id": 9,
+      "question": "In linear regression, what metric measures the average squared difference between estimated values and actual values?",
+      "options": {
+        "A": "Mean Squared Error (MSE)",
+        "B": "Cosine Dissimilarity",
+        "C": "Confusion Index",
+        "D": "Gini Ratio"
+      },
+      "correctAnswer": "A",
+      "explanation": "MSE $= \\frac{1}{n} \\sum (y_i - \\hat{y}_i)^2$, punishing larger estimation errors heavily due to squaring."
+    },
+    {
+      "id": 10,
+      "question": "Which networking topology connects every device to a central hub, switch, or concentrator?",
+      "options": {
+        "A": "Star Topology",
+        "B": "Bus Topology",
+        "C": "Ring Topology",
+        "D": "Mesh Topology"
+      },
+      "correctAnswer": "A",
+      "explanation": "Star topology connects all network nodes to a central switch, preventing single cable breaks from taking down the entire LAN."
+    },
+    {
+      "id": 11,
+      "question": "What is a 'Zero-Day Exploit'?",
+      "options": {
+        "A": "An attack taking advantage of a software vulnerability that is unpatched and unknown to the software developer",
+        "B": "A backup tool that runs at midnight",
+        "C": "A network card that operates without software drivers",
+        "D": "A software program written in zero hours"
+      },
+      "correctAnswer": "A",
+      "explanation": "Zero-day exploits target unknown vulnerabilities before vendors have any days to deploy a defensive patch."
+    },
+    {
+      "id": 12,
+      "question": "What is the legal consequence of identity theft and unauthorized SIM card registration in Pakistan under PECA 2016?",
+      "options": {
+        "A": "Imprisonment of up to 3 years and heavy financial fines",
+        "B": "No legal penalty if done online",
+        "C": "Only a warning letter by SMS",
+        "D": "Mandatory transfer to another mobile carrier"
+      },
+      "correctAnswer": "A",
+      "explanation": "PECA 2016 explicitly penalizes identity theft, unauthorized SIM card activation, and electronic spoofing with jail time and fines."
+    },
+    {
+      "id": 13,
+      "question": "In software development, what does 'TDD' stand for?",
+      "options": {
+        "A": "Test-Driven Development",
+        "B": "Total Data Design",
+        "C": "Thread Dispatch Directory",
+        "D": "Target Deployment Domain"
+      },
+      "correctAnswer": "A",
+      "explanation": "In TDD, developers write automated unit tests before writing the actual functional code, following the Red-Green-Refactor cycle."
+    },
+    {
+      "id": 14,
+      "question": "What is a 'Freemium' business model in software products?",
+      "options": {
+        "A": "Offering basic software features for free while charging subscriptions for advanced or enterprise capabilities",
+        "B": "Giving all software away with zero revenue generation",
+        "C": "Charging for the software download but providing free customer service",
+        "D": "Selling physical hardware bundles with free manuals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Freemium attracts a large user base with free core functionality, converting a percentage into paying premium subscribers."
+    },
+    {
+      "id": 15,
+      "question": "What is the primary role of a 'Staging Environment' in a software release pipeline?",
+      "options": {
+        "A": "A production-mirror environment used to test the final release build under realistic conditions before deploying to live users",
+        "B": "The developer's personal laptop screen",
+        "C": "A backup USB drive kept in the office",
+        "D": "A public beta test forum for end users"
+      },
+      "correctAnswer": "A",
+      "explanation": "Staging replicates live production infrastructure exactly, catching configuration bugs before end users encounter them."
+    }
+  ]
+}

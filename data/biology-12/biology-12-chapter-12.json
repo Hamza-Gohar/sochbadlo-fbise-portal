@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 12,
+  "title": "Unit 12: Biotechnology & Genetic Engineering",
+  "slug": "biology-12-chapter-12",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What are 'Restriction Endonucleases' ('Molecular Scissors') in genetic engineering?",
+      "options": {
+        "A": "Bacterial enzymes that recognize specific palindromic DNA sequences and cleave the phosphodiester bonds at or near that sequence",
+        "B": "Enzymes that synthesize DNA from RNA templates",
+        "C": "Proteins that degrade ribosomal subunits in the cytoplasm",
+        "D": "Hormones that stimulate plant cell elongation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Restriction endonucleases (e.g., EcoRI, HindIII) cleave foreign viral DNA at specific palindromic recognition sites, generating sticky or blunt ends for recombinant cloning."
+    },
+    {
+      "id": 2,
+      "question": "What is the typical recognition sequence of the restriction enzyme EcoRI, which generates cohesive ('sticky') single-stranded overhangs?",
+      "options": {
+        "A": "$5'-GAATTC-3'$",
+        "B": "$5'-AAGCTT-3'$",
+        "C": "$5'-GGATCC-3'$",
+        "D": "$5'-CTGCAG-3'$"
+      },
+      "correctAnswer": "A",
+      "explanation": "EcoRI cleaves the palindromic hexanucleotide sequence $5'-G\\downarrow AATTC-3'$, leaving $5'$ sticky overhangs of $AATT$."
+    },
+    {
+      "id": 3,
+      "question": "Which enzyme acts as 'Molecular Glue' by catalyzing the formation of covalent phosphodiester bonds to join DNA fragments together?",
+      "options": {
+        "A": "DNA Ligase",
+        "B": "DNA Helicase",
+        "C": "DNA Polymerase III",
+        "D": "Reverse Transcriptase"
+      },
+      "correctAnswer": "A",
+      "explanation": "DNA ligase (commonly T4 DNA ligase) covalently links adjacent 3'-OH and 5'-phosphate ends of complementary sticky or blunt DNA fragments."
+    },
+    {
+      "id": 4,
+      "question": "What is a 'Cloning Vector' in recombinant DNA technology?",
+      "options": {
+        "A": "A small DNA molecule (such as a bacterial plasmid or bacteriophage) capable of autonomously replicating inside a host cell to carry foreign DNA",
+        "B": "An insect vector (like mosquitoes) transmitting malaria parasites",
+        "C": "A chemical reagent that precipitates proteins in test tubes",
+        "D": "A syringe used to extract blood samples"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vectors (e.g., pBR322, pUC19) carry foreign passenger DNA into host cells, containing an origin of replication (ori), multiple cloning site (MCS), and selectable markers."
+    },
+    {
+      "id": 5,
+      "question": "What is a 'Plasmid' in molecular biology?",
+      "options": {
+        "A": "An extrachromosomal, small, circular, self-replicating double-stranded DNA molecule found naturally in bacteria",
+        "B": "The protein capsid of a retrovirus",
+        "C": "The liquid fluid inside a eukaryotic nucleus",
+        "D": "A lipid vesicle inside chloroplast stroma"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bacterial plasmids are small circular DNA rings replicating independently of the main bacterial chromosome, often carrying antibiotic resistance genes."
+    },
+    {
+      "id": 6,
+      "question": "Why is an 'Antibiotic Resistance Gene' (such as ampR for ampicillin) engineered into cloning plasmids as a Selectable Marker?",
+      "options": {
+        "A": "To allow researchers to distinguish and select host bacteria that have successfully taken up the plasmid by growing them on antibiotic-containing agar",
+        "B": "To kill all bacteria in the laboratory",
+        "C": "To speed up DNA transcription by ten-fold",
+        "D": "To change the color of bacterial colonies to bright red"
+      },
+      "correctAnswer": "A",
+      "explanation": "Selectable markers ensure that only transformant bacteria containing the recombinant plasmid survive when plated on media containing the specific antibiotic."
+    },
+    {
+      "id": 7,
+      "question": "Who invented the Polymerase Chain Reaction (PCR) technique in 1983, for which he was awarded the Nobel Prize in Chemistry?",
+      "options": {
+        "A": "Kary Mullis",
+        "B": "James Watson",
+        "C": "Frederick Sanger",
+        "D": "Paul Berg"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kary Mullis invented PCR, revolutionizing molecular biology by automating exponential in vitro enzymatic amplification of targeted DNA sequences."
+    },
+    {
+      "id": 8,
+      "question": "What are the three fundamental sequential thermal steps of a single Polymerase Chain Reaction (PCR) cycle?",
+      "options": {
+        "A": "Denaturation (~94°C–96°C) $\\rightarrow$ Annealing (~50°C–65°C) $\\rightarrow$ Extension / Elongation (~72°C)",
+        "B": "Translation $\\rightarrow$ Transcription $\\rightarrow$ Replication",
+        "C": "Freezing $\\rightarrow$ Thawing $\\rightarrow$ Centrifugation",
+        "D": "Electrophoresis $\\rightarrow$ Blotting $\\rightarrow$ Staining"
+      },
+      "correctAnswer": "A",
+      "explanation": "Denaturation unzips template DNA; annealing binds oligonucleotide primers; extension synthesizes complementary DNA using thermostable Taq polymerase."
+    },
+    {
+      "id": 9,
+      "question": "Why is Taq DNA Polymerase, isolated from the thermophilic bacterium Thermus aquaticus, used in PCR thermal cyclers?",
+      "options": {
+        "A": "It is thermostable and does not denature or lose enzymatic activity at the high temperatures (~95°C) required to separate DNA strands",
+        "B": "It operates in freezing temperatures without ice formation",
+        "C": "It does not require oligonucleotide primers to initiate synthesis",
+        "D": "It can synthesize proteins directly from amino acids"
+      },
+      "correctAnswer": "A",
+      "explanation": "Taq polymerase withstands repeated 95°C heating cycles without denaturing, eliminating the need to add fresh enzyme after each thermal cycle."
+    },
+    {
+      "id": 10,
+      "question": "How many copies of a target DNA sequence are theoretically generated from a single starting double-stranded template molecule after 30 cycles of PCR?",
+      "options": {
+        "A": "Over 1 billion copies ($2^{30} \\approx 1.07 \\times 10^9$)",
+        "B": "60 copies ($30 \\times 2$)",
+        "C": "30,000 copies",
+        "D": "300 copies"
+      },
+      "correctAnswer": "A",
+      "explanation": "PCR amplifies DNA exponentially by $2^n$; after $n = 30$ cycles, $2^{30} \\approx 1,073,741,824$ copies are produced."
+    },
+    {
+      "id": 11,
+      "question": "In Agarose Gel Electrophoresis, what drives the migration of DNA fragments toward the positive electrode (Anode)?",
+      "options": {
+        "A": "The net negative electrical charge on DNA's sugar-phosphate backbone due to ionized phosphate groups ($PO_4^{3-}$)",
+        "B": "The positive charge on nitrogenous purine bases",
+        "C": "Centrifugal forces generated by electric motors",
+        "D": "Capillary action of the running buffer solution"
+      },
+      "correctAnswer": "A",
+      "explanation": "DNA's phosphate backbone is negatively charged at neutral pH; applied electric fields pull DNA toward the positive red anode."
+    },
+    {
+      "id": 12,
+      "question": "In agarose gel electrophoresis, how does the migration rate of DNA fragments correlate with their physical molecular size?",
+      "options": {
+        "A": "Smaller DNA fragments migrate faster and travel farther through the porous agarose matrix than larger fragments (inversely proportional)",
+        "B": "Larger fragments travel faster than smaller fragments",
+        "C": "All DNA fragments migrate at identical speeds regardless of length",
+        "D": "Migration depends exclusively on the percentage of adenine bases"
+      },
+      "correctAnswer": "A",
+      "explanation": "The agarose gel acts as a molecular sieve: shorter DNA fragments navigate matrix pores more easily, moving faster and farther."
+    },
+    {
+      "id": 13,
+      "question": "Which fluorescent intercalating dye binds between base pairs of double-stranded DNA, fluorescing bright orange under ultraviolet (UV) transillumination?",
+      "options": {
+        "A": "Ethidium Bromide (EtBr)",
+        "B": "Methylene Blue",
+        "C": "Safranin",
+        "D": "Crystal Violet"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ethidium bromide intercalates between DNA base pairs and fluoresces bright orange under UV light (~300 nm) to visualize DNA bands."
+    },
+    {
+      "id": 14,
+      "question": "What is the Sanger Dideoxy Chain Termination Method used for in molecular biotechnology?",
+      "options": {
+        "A": "Determining the precise nucleotide sequence of a DNA molecule using chain-terminating dideoxynucleotides (ddNTPs)",
+        "B": "Amplifying DNA fragments without a thermocycler",
+        "C": "Measuring the glucose concentration in blood serum",
+        "D": "Culturing antibiotic-resistant strains of yeast"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sanger sequencing incorporates fluorescent ddNTPs lacking a 3'-OH group, terminating DNA polymerization at specific bases to read sequence ladders."
+    },
+    {
+      "id": 15,
+      "question": "Why do Dideoxynucleoside Triphosphates (ddNTPs) terminate DNA strand elongation during in vitro replication?",
+      "options": {
+        "A": "They lack a 3'-hydroxyl (-OH) group on the deoxyribose sugar, preventing the formation of the next phosphodiester bond",
+        "B": "They lack an attached phosphate group",
+        "C": "They contain nitrogenous uracil instead of thymine",
+        "D": "They act as irreversible inhibitors of the helicase motor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Without a 3'-OH group on the ribose ring, DNA polymerase cannot form the phosphodiester bond to attach incoming nucleotides, halting synthesis."
+    },
+    {
+      "id": 16,
+      "question": "What is 'cDNA' (Complementary DNA), and how is it synthesized in biotechnology laboratories?",
+      "options": {
+        "A": "DNA synthesized in vitro from a mature eukaryotic mRNA template using the retroviral enzyme Reverse Transcriptase (lacking non-coding introns)",
+        "B": "DNA synthesized directly from protein amino acids",
+        "C": "A synthetic chromosome constructed in a chemical test tube",
+        "D": "Bacterial plasmid DNA that lacks antibiotic resistance"
+      },
+      "correctAnswer": "A",
+      "explanation": "cDNA represents only the transcribed exons of active genes, allowing bacteria (which lack spliceosomes) to express eukaryotic proteins without intron disruption."
+    },
+    {
+      "id": 17,
+      "question": "What is a 'Genomic Library'?",
+      "options": {
+        "A": "A collection of recombinant clone colonies that collectively contain fragments representing the entire genome of an organism",
+        "B": "A public library that lends books on genetics",
+        "C": "A digital computer database storing gene names",
+        "D": "An electronic medical record archive"
+      },
+      "correctAnswer": "A",
+      "explanation": "A genomic library is an exhaustive collection of clones stored in bacteria or bacteriophages, containing all coding and non-coding sequences of an organism's DNA."
+    },
+    {
+      "id": 18,
+      "question": "What is 'Southern Blotting' (developed by Edwin Southern)?",
+      "options": {
+        "A": "A molecular hybridization technique used to detect specific target DNA sequences in a complex restriction digest using labeled single-stranded probes",
+        "B": "Detecting specific RNA sequences using northern blot",
+        "C": "Detecting specific protein antigens using western blot",
+        "D": "Sequencing amino acid peptides from bacterial cells"
+      },
+      "correctAnswer": "A",
+      "explanation": "Southern blotting transfers electrophoresed DNA from agarose to a nitrocellulose/nylon membrane, hybridizing with radioactive or fluorescent probes."
+    },
+    {
+      "id": 19,
+      "question": "What is 'Northern Blotting' used to detect in functional molecular biology?",
+      "options": {
+        "A": "Target Messenger RNA (mRNA) molecules to analyze gene expression levels across tissues",
+        "B": "Target genomic DNA fragments (Southern)",
+        "C": "Target proteins (Western)",
+        "D": "Membrane lipids and cholesterol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Northern blotting analyzes RNA expression, determining whether a specific gene is transcribed and active in specific tissues."
+    },
+    {
+      "id": 20,
+      "question": "What is 'Western Blotting' utilized to detect in molecular immunology and diagnostics?",
+      "options": {
+        "A": "Specific protein antigens in a biological sample using labeled antibodies",
+        "B": "Double-stranded DNA fragments",
+        "C": "Messenger RNA transcripts",
+        "D": "Viral carbohydrate capsules"
+      },
+      "correctAnswer": "A",
+      "explanation": "Western blotting separates proteins via SDS-PAGE, transfers them to a membrane, and probes with specific primary and enzyme-linked secondary antibodies."
+    },
+    {
+      "id": 21,
+      "question": "What is 'DNA Fingerprinting' (DNA Profiling), pioneered by Sir Alec Jeffreys in 1984?",
+      "options": {
+        "A": "Identifying individuals by analyzing polymorphic tandem repetitive DNA sequences (STRs / VNTRs) unique to each human being",
+        "B": "Dusting physical oily thumbprints off crime scene weapons",
+        "C": "Measuring the length of human finger bones",
+        "D": "Sequencing the entire human genome from scratch"
+      },
+      "correctAnswer": "A",
+      "explanation": "DNA fingerprinting analyzes Short Tandem Repeats (STRs) at multiple loci, generating unique probability profiles for criminal forensics and paternity tests."
+    },
+    {
+      "id": 22,
+      "question": "What was the first commercial genetically engineered human biopharmaceutical product approved for medical therapy in 1982?",
+      "options": {
+        "A": "Recombinant Human Insulin (Humulin produced in E. coli)",
+        "B": "Recombinant Human Growth Hormone",
+        "C": "Monoclonal antibodies against arthritis",
+        "D": "Synthetic penicillin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Genentech produced recombinant human insulin in E. coli ('Humulin'), replacing allergenic animal bovine/porcine insulin for diabetic patients."
+    },
+    {
+      "id": 23,
+      "question": "What are 'Transgenic Organisms' (Genetically Modified Organisms - GMOs)?",
+      "options": {
+        "A": "Organisms that have had foreign genes from another species artificially introduced into their genome via recombinant genetic engineering",
+        "B": "Organisms that reproduce strictly through asexual cloning",
+        "C": "Animals that live inside controlled laboratory cages",
+        "D": "Plants that have been cross-pollinated with closely related wild flowers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Transgenic organisms carry stable foreign genes (transgenes) incorporated into their germline, expressing novel traits (e.g., Bt cotton, Golden Rice)."
+    },
+    {
+      "id": 24,
+      "question": "What is 'Bt Cotton' (and Bt Corn) in agricultural biotechnology?",
+      "options": {
+        "A": "Crops genetically engineered with the Cry toxin gene from Bacillus thuringiensis to produce endotoxins lethal to insect pests (like bollworms)",
+        "B": "Cotton plants that produce blue-colored jeans fabric naturally",
+        "C": "Crops that survive in salt water without soil",
+        "D": "Plants that produce human antibodies in their seeds"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bt crops express bacterial Cry proteins that bind to alkaline midgut receptors of chewing insect pests, creating pores that kill the insect without chemical pesticides."
+    },
+    {
+      "id": 25,
+      "question": "What nutritional enhancement was bioengineered into 'Golden Rice' (Oryza sativa)?",
+      "options": {
+        "A": "Biosynthesis of Beta-Carotene (provitamin A) in the edible grain endosperm to combat childhood blindness in developing nations",
+        "B": "Enrichment with vitamin C to cure scurvy",
+        "C": "Production of animal hemoglobin to increase iron content",
+        "D": "Resistance to fungal rust pathogens"
+      },
+      "correctAnswer": "A",
+      "explanation": "Golden Rice was engineered with daffodil and Erwinia genes to synthesize beta-carotene in rice grain endosperm, preventing vitamin A deficiency blindness."
+    },
+    {
+      "id": 26,
+      "question": "What was 'Dolly the Sheep' (1996) famously recognized for in developmental biotechnology?",
+      "options": {
+        "A": "The first mammal successfully cloned from an adult differentiated somatic cell using Somatic Cell Nuclear Transfer (SCNT)",
+        "B": "The first sheep born with glow-in-the-dark green fluorescent protein",
+        "C": "The first mammal produced by in vitro fertilization",
+        "D": "The oldest living sheep in agricultural history"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ian Wilmut cloned Dolly by transferring the nucleus of an adult mammary epithelial cell into an enucleated oocyte, proving adult mammalian genomes retain totipotency."
+    },
+    {
+      "id": 27,
+      "question": "What is 'Gene Therapy'?",
+      "options": {
+        "A": "The therapeutic delivery of normal, functional genes into human cells to correct or replace defective genes responsible for genetic disorders",
+        "B": "Using herbal medicines to cure cancer",
+        "C": "The surgical transplantation of donor kidneys",
+        "D": "Administering antibiotics to kill viral infections"
+      },
+      "correctAnswer": "A",
+      "explanation": "Gene therapy treats inherited genetic diseases (such as SCID, cystic fibrosis, and hemophilia) by introducing functional genes using viral vectors or CRISPR."
+    },
+    {
+      "id": 28,
+      "question": "Which historic disease was the first to be successfully treated with clinical human gene therapy in 1990 (by W. French Anderson on Ashanti DeSilva)?",
+      "options": {
+        "A": "Severe Combined Immunodeficiency (ADA-SCID caused by Adenosine Deaminase deficiency)",
+        "B": "Sickle cell anemia",
+        "C": "Type 1 diabetes",
+        "D": "Huntington's disease"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ashanti DeSilva was treated for ADA-SCID by extracting her T-cells, inserting a functional ADA gene via a retrovirus, and reinfusing the modified cells."
+    },
+    {
+      "id": 29,
+      "question": "What is the CRISPR-Cas9 genome editing system derived from naturally?",
+      "options": {
+        "A": "An adaptive immune defense system in bacteria and archaea that cleaves invading foreign bacteriophage DNA",
+        "B": "A toxic venom produced by predatory sea snails",
+        "C": "An enzyme found inside mammalian liver lysosomes",
+        "D": "A plant hormone that induces fruit ripening"
+      },
+      "correctAnswer": "A",
+      "explanation": "CRISPR-Cas9 evolved in bacteria to recognize and cleave viral DNA using guide RNAs, repurposed by Doudna and Charpentier for precision genome editing."
+    },
+    {
+      "id": 30,
+      "question": "What is the role of the Single Guide RNA (sgRNA) in the CRISPR-Cas9 genome editing mechanism?",
+      "options": {
+        "A": "Directing the Cas9 endonuclease enzyme to the exact, complementary 20-nucleotide DNA target locus to make a double-strand break",
+        "B": "Hydrolyzing the ATP powering the ribosome",
+        "C": "Ligating cleaved DNA backbones covalently",
+        "D": "Synthesizing amino acid chains from RNA"
+      },
+      "correctAnswer": "A",
+      "explanation": "The synthetic guide RNA pairs with the target genomic locus adjacent to a PAM site, guiding Cas9 endonuclease to introduce a precise double-stranded cut."
+    },
+    {
+      "id": 31,
+      "question": "What is 'Bioremediation' in environmental biotechnology?",
+      "options": {
+        "A": "The use of living microorganisms (bacteria, fungi) or plants to degrade, detoxify, and remove pollutants and heavy metals from contaminated soil and water",
+        "B": "The spraying of chemical toxic pesticides onto river basins",
+        "C": "The incineration of plastic garbage in open air",
+        "D": "Mining minerals from underground geological caves"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bioremediation uses microbial metabolism (e.g., Pseudomonas decomposing petroleum oil spills) to clean up environmental pollutants safely."
+    },
+    {
+      "id": 32,
+      "question": "What are 'Monoclonal Antibodies' (mAbs), produced via Kohler and Milstein's Hybridoma Technology?",
+      "options": {
+        "A": "Monospecific antibodies produced by a single clone of hybridoma cells, all identical and targeting the exact same specific epitope on an antigen",
+        "B": "A mixture of antibodies extracted from horse blood",
+        "C": "Antibodies produced naturally against all known bacteria simultaneously",
+        "D": "Vaccines containing live attenuated measles viruses"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hybridomas (fusion of antibody-producing B-lymphocytes with immortal myeloma cancer cells) yield endless supplies of uniform monoclonal antibodies."
+    },
+    {
+      "id": 33,
+      "question": "What is 'Gene Pharming' in transgenic biotechnology?",
+      "options": {
+        "A": "The genetic engineering of livestock (such as goats, sheep, cows) to produce human therapeutic proteins (e.g., human antithrombin) in their milk",
+        "B": "Growing wheat and barley on commercial farms",
+        "C": "Selling seeds in agricultural supply stores",
+        "D": "Preserving endangered animal semen in liquid nitrogen"
+      },
+      "correctAnswer": "A",
+      "explanation": "Gene pharming uses mammary-specific promoters to drive transgenic production of human biopharmaceuticals in livestock milk (e.g., ATryn)."
+    },
+    {
+      "id": 34,
+      "question": "Which international project completed in 2003 successfully determined the base sequence of all 3.2 billion base pairs in the human genome?",
+      "options": {
+        "A": "The Human Genome Project (HGP)",
+        "B": "The Manhattan Project",
+        "C": "The ENCODE Project",
+        "D": "The Apollo Space Mission"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Human Genome Project sequenced ~99% of human euchromatic DNA, identifying approximately 20,000–25,000 protein-coding genes."
+    },
+    {
+      "id": 35,
+      "question": "What is 'Bioethics' in modern biotechnology?",
+      "options": {
+        "A": "The ethical, legal, and social implications arising from biological research, genetic engineering, cloning, stem cell therapy, and gene editing",
+        "B": "A legal contract preventing employees from quitting jobs",
+        "C": "The safety testing of cosmetics on animal skin",
+        "D": "A computer science programming algorithm"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bioethics examines moral dilemmas in life sciences, balancing medical advances against risks of genetic discrimination, eugenics, and bioweapons."
+    }
+  ]
+}

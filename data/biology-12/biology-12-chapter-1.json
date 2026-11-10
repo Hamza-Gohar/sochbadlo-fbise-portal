@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 1,
+  "title": "Unit 1: Respiration & Gas Exchange",
+  "slug": "biology-12-chapter-1",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which specialized microscopic functional structures in the human lungs provide the primary site for external gas exchange?",
+      "options": {
+        "A": "Alveoli",
+        "B": "Bronchioles",
+        "C": "Tracheids",
+        "D": "Alveolar ductules"
+      },
+      "correctAnswer": "A",
+      "explanation": "Alveoli are thin-walled, sac-like structures surrounded by extensive capillary networks, optimizing the surface area for diffusion."
+    },
+    {
+      "id": 2,
+      "question": "What is the primary surfactant secreted by Type II alveolar cells that prevents the collapse of alveoli during exhalation by reducing surface tension?",
+      "options": {
+        "A": "Dipalmitoylphosphatidylcholine (DPPC)",
+        "B": "Mucin",
+        "C": "Carbonic anhydrase",
+        "D": "Bile salts"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pulmonary surfactant (mainly phospholipids such as DPPC) lowers the surface tension at the air-water interface of alveoli, preventing atelectasis."
+    },
+    {
+      "id": 3,
+      "question": "During inspiration in humans, what happens to the diaphragm and the external intercostal muscles?",
+      "options": {
+        "A": "Diaphragm contracts and flattens; external intercostals contract lifting the ribs",
+        "B": "Diaphragm relaxes and arches upwards; external intercostals relax",
+        "C": "Both diaphragm and external intercostals relax completely",
+        "D": "Diaphragm contracts while internal intercostals expand"
+      },
+      "correctAnswer": "A",
+      "explanation": "Inspiration is an active process: contraction of the diaphragm and external intercostals increases thoracic cavity volume, lowering alveolar pressure below atmospheric."
+    },
+    {
+      "id": 4,
+      "question": "What is the volume of air inspired or expired during normal, effortless quiet breathing (Tidal Volume) in an average healthy adult?",
+      "options": {
+        "A": "Approximately 500 mL",
+        "B": "Approximately 1200 mL",
+        "C": "Approximately 2500 mL",
+        "D": "Approximately 150 mL"
+      },
+      "correctAnswer": "A",
+      "explanation": "Normal resting Tidal Volume ($V_T$) is approximately 500 mL in a healthy adult."
+    },
+    {
+      "id": 5,
+      "question": "What is the maximum volume of air a person can exhale after a maximum, forceful inhalation (Vital Capacity)?",
+      "options": {
+        "A": "Tidal Volume + Inspiratory Reserve Volume + Expiratory Reserve Volume (~4600 mL)",
+        "B": "Residual Volume + Tidal Volume (~1700 mL)",
+        "C": "Total Lung Capacity minus Tidal Volume",
+        "D": "Expiratory Reserve Volume + Residual Volume"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vital Capacity ($VC = TV + IRV + ERV$) represents the maximal usable lung volume, averaging 4.5 to 5.0 liters."
+    },
+    {
+      "id": 6,
+      "question": "What is the volume of air that remains inside the lungs even after a maximal, forceful exhalation?",
+      "options": {
+        "A": "Residual Volume (RV, ~1200 mL)",
+        "B": "Inspiratory Reserve Volume",
+        "C": "Anatomical Dead Space",
+        "D": "Minimal Reserve Volume"
+      },
+      "correctAnswer": "A",
+      "explanation": "Residual volume (~1.2 L) remains in the alveoli to maintain patency and prevent complete lung collapse."
+    },
+    {
+      "id": 7,
+      "question": "In what primary form is carbon dioxide ($CO_2$) transported in human blood from systemic tissues to the lungs?",
+      "options": {
+        "A": "As bicarbonate ions ($HCO_3^-$) in blood plasma (~70%)",
+        "B": "Dissolved as physical gas in plasma (~80%)",
+        "C": "Bound to albumin proteins",
+        "D": "As solid calcium carbonate crystals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Approximately 70% of $CO_2$ is transported as dissolved bicarbonate ions ($HCO_3^-$) generated within red blood cells."
+    },
+    {
+      "id": 8,
+      "question": "Which enzyme inside erythrocytes catalyzes the rapid reversible hydration of carbon dioxide into carbonic acid ($CO_2 + H_2O \\rightleftharpoons H_2CO_3$)?",
+      "options": {
+        "A": "Carbonic Anhydrase",
+        "B": "Catalase",
+        "C": "Pepsin",
+        "D": "Lactate Dehydrogenase"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carbonic anhydrase zinc-enzyme accelerates the conversion of $CO_2$ and water into carbonic acid by over a million-fold."
+    },
+    {
+      "id": 9,
+      "question": "What is the 'Chloride Shift' (Hamburger phenomenon) that occurs across RBC membranes in systemic capillaries?",
+      "options": {
+        "A": "Chloride ions ($Cl^-$) diffuse from plasma into erythrocytes to maintain electrical neutrality as bicarbonate ($HCO_3^-$) exits",
+        "B": "Sodium ions enter red blood cells to bind oxygen",
+        "C": "Potassium ions exit erythrocytes into lung tissue",
+        "D": "Chloride ions precipitate as hemoglobin salts"
+      },
+      "correctAnswer": "A",
+      "explanation": "As bicarbonate diffuses out of erythrocytes into plasma down its gradient, chloride ions shift inward via anion exchange protein 1 (Band 3)."
+    },
+    {
+      "id": 10,
+      "question": "What is the Bohr Effect in respiratory physiology?",
+      "options": {
+        "A": "A decrease in blood pH or an increase in $CO_2$ concentration shifts the oxyhemoglobin dissociation curve to the right, promoting $O_2$ release",
+        "B": "An increase in oxygen pressure raises blood nitrogen levels",
+        "C": "A decrease in temperature forces hemoglobin to bind carbon monoxide",
+        "D": "A drop in blood pressure increases pulmonary dead space"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Bohr effect describes how acidic, high-$CO_2$ environments in metabolically active tissues decrease hemoglobin's affinity for $O_2$, releasing more oxygen."
+    },
+    {
+      "id": 11,
+      "question": "What is the Haldane Effect?",
+      "options": {
+        "A": "Deoxygenation of blood increases its ability to carry carbon dioxide, while oxygenation in lungs promotes $CO_2$ unloading",
+        "B": "High altitude reduces arterial hemoglobin saturation",
+        "C": "Carbon monoxide binds irreversibly to myoglobin",
+        "D": "Iron deficiency decreases RBC production in bone marrow"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Haldane effect describes how deoxygenated hemoglobin has a higher affinity for $CO_2$ and $H^+$, aiding $CO_2$ pickup at tissues and release in lungs."
+    },
+    {
+      "id": 12,
+      "question": "How many oxygen ($O_2$) molecules can bind to a single fully saturated tetrameric Hemoglobin ($Hb$) molecule?",
+      "options": {
+        "A": "4 molecules",
+        "B": "2 molecules",
+        "C": "8 molecules",
+        "D": "1 molecule"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hemoglobin contains 4 polypeptide globin subunits, each containing a heme group with an $Fe^{2+}$ ion that binds one $O_2$ molecule ($Hb(O_2)_4$)."
+    },
+    {
+      "id": 13,
+      "question": "Where is the primary rhythmicity center responsible for regulating involuntary respiratory rhythm located in the human brain?",
+      "options": {
+        "A": "Medulla Oblongata (respiratory center)",
+        "B": "Cerebellum",
+        "C": "Hypothalamus",
+        "D": "Corpus Callosum"
+      },
+      "correctAnswer": "A",
+      "explanation": "The medullary respiratory center (dorsal and ventral respiratory groups) generates the basic rhythm of breathing."
+    },
+    {
+      "id": 14,
+      "question": "Which chemical factor in arterial blood and cerebrospinal fluid provides the strongest stimulation to central chemoreceptors regulating ventilation rate?",
+      "options": {
+        "A": "Hydrogen ion concentration ($H^+$) resulting from elevated arterial $P_{CO_2}$",
+        "B": "Slight decrease in arterial $P_{O_2}$",
+        "C": "High blood glucose levels",
+        "D": "Decreased blood sodium concentration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Central chemoreceptors in the medulla are exquisitely sensitive to $H^+$ concentration changes in cerebrospinal fluid resulting from $CO_2$ crossing the blood-brain barrier."
+    },
+    {
+      "id": 15,
+      "question": "Which respiratory condition is characterized by chronic inflammation, hyper-reactivity of airways, and episodic bronchoconstriction triggered by allergens?",
+      "options": {
+        "A": "Asthma",
+        "B": "Atelectasis",
+        "C": "Pneumothorax",
+        "D": "Emphysema"
+      },
+      "correctAnswer": "A",
+      "explanation": "Asthma involves chronic inflammatory hypersensitivity, spastic bronchoconstriction, and excessive mucus secretion in the airways."
+    },
+    {
+      "id": 16,
+      "question": "Which pathology is characterized by irreversible destruction of alveolar septa, permanent enlargement of air spaces, and loss of lung elastic recoil?",
+      "options": {
+        "A": "Emphysema",
+        "B": "Silicosis",
+        "C": "Pneumonia",
+        "D": "Pleurisy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Emphysema (a key component of COPD, often caused by smoking) destroys alveolar walls, reducing gas exchange surface area and trapping air during exhalation."
+    },
+    {
+      "id": 17,
+      "question": "Why does carbon monoxide ($CO$) act as a deadly asphyxiant gas?",
+      "options": {
+        "A": "Its affinity for hemoglobin is over 200 times higher than that of oxygen, forming stable carboxyhemoglobin",
+        "B": "It instantly dissolves pulmonary surfactant lipids",
+        "C": "It paralyzes the medullary breathing center directly",
+        "D": "It oxidizes arterial blood plasma into bicarbonate"
+      },
+      "correctAnswer": "A",
+      "explanation": "CO competitively binds to heme with $>200\\times$ the affinity of $O_2$, shifting the remaining curve left and preventing oxygen delivery to tissues."
+    },
+    {
+      "id": 18,
+      "question": "What is the partial pressure of oxygen ($P_{O_2}$) in inspired atmospheric air at standard sea level pressure (760 mmHg)?",
+      "options": {
+        "A": "Approximately 159 mmHg",
+        "B": "Approximately 104 mmHg",
+        "C": "Approximately 40 mmHg",
+        "D": "Approximately 0.3 mmHg"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dry atmospheric air is ~20.9% oxygen. $P_{O_2} = 0.209 \\times 760 \\approx 159 \\text{ mmHg}$."
+    },
+    {
+      "id": 19,
+      "question": "What is the normal partial pressure of oxygen ($P_{O_2}$) and carbon dioxide ($P_{CO_2}$) in alveolar gas under normal resting conditions?",
+      "options": {
+        "A": "$P_{O_2} \\approx 104 \\text{ mmHg}$, $P_{CO_2} \\approx 40 \\text{ mmHg}$",
+        "B": "$P_{O_2} \\approx 159 \\text{ mmHg}$, $P_{CO_2} \\approx 0.3 \\text{ mmHg}$",
+        "C": "$P_{O_2} \\approx 40 \\text{ mmHg}$, $P_{CO_2} \\approx 46 \\text{ mmHg}$",
+        "D": "$P_{O_2} \\approx 95 \\text{ mmHg}$, $P_{CO_2} \\approx 45 \\text{ mmHg}$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Alveolar air has a $P_{O_2}$ of ~104 mmHg and $P_{CO_2}$ of ~40 mmHg due to water vapor humidification and continuous gas exchange."
+    },
+    {
+      "id": 20,
+      "question": "What is the physiological role of the epiglottis during deglutition (swallowing)?",
+      "options": {
+        "A": "It folds downward over the glottis to prevent food and liquid from entering the larynx and trachea",
+        "B": "It secretes digestive salivary amylase",
+        "C": "It filters incoming atmospheric dust via ciliated cells",
+        "D": "It dilates the esophagus to permit airflow"
+      },
+      "correctAnswer": "A",
+      "explanation": "The epiglottis covers the tracheal opening during swallowing, directing boluses into the esophagus and preventing aspiration."
+    },
+    {
+      "id": 21,
+      "question": "Which respiratory pigment is present in mammalian skeletal muscles, having a higher affinity for oxygen than hemoglobin and serving as an intramuscular oxygen reservoir?",
+      "options": {
+        "A": "Myoglobin",
+        "B": "Hemocyanin",
+        "C": "Chlorocruorin",
+        "D": "Cytochrome c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Myoglobin is a single-chain heme protein in muscle with a hyperbolic oxygen-binding curve, releasing $O_2$ only when cellular $P_{O_2}$ drops severely."
+    },
+    {
+      "id": 22,
+      "question": "What is the Hering-Breuer Inflation Reflex?",
+      "options": {
+        "A": "A protective stretch-receptor reflex that inhibits the inspiratory center when lungs are over-inflated, preventing alveolar rupture",
+        "B": "An automatic cough reflex triggered by foreign dust in bronchi",
+        "C": "A sudden contraction of the diaphragm during hiccuping",
+        "D": "The acceleration of cardiac output during exercise"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pulmonary stretch receptors in visceral pleura send vagal inhibitory signals to the inspiratory center to terminate inspiration when lungs inflate."
+    },
+    {
+      "id": 23,
+      "question": "In the respiratory tract, which structure contains C-shaped hyaline cartilage rings to keep the airway patent during pressure changes?",
+      "options": {
+        "A": "Trachea",
+        "B": "Terminal Bronchioles",
+        "C": "Alveolar Ducts",
+        "D": "Esophagus"
+      },
+      "correctAnswer": "A",
+      "explanation": "The human trachea is reinforced with 16–20 C-shaped rings of hyaline cartilage, preventing collapse during negative pressure inspiration."
+    },
+    {
+      "id": 24,
+      "question": "What is the anatomical dead space volume in an average healthy individual?",
+      "options": {
+        "A": "Approximately 150 mL",
+        "B": "Approximately 500 mL",
+        "C": "Approximately 1000 mL",
+        "D": "Approximately 20 mL"
+      },
+      "correctAnswer": "A",
+      "explanation": "Anatomical dead space (~150 mL) represents the conducting zone volume (nose to terminal bronchioles) where no gas exchange occurs."
+    },
+    {
+      "id": 25,
+      "question": "What is the primary cause of Infant Respiratory Distress Syndrome (IRDS) in premature neonates?",
+      "options": {
+        "A": "Deficiency of pulmonary surfactant due to immature Type II alveolar cells",
+        "B": "Bacterial infection by Streptococcus pneumoniae",
+        "C": "Overproduction of pleural fluid in the mediastinum",
+        "D": "Congenital absence of the diaphragm"
+      },
+      "correctAnswer": "A",
+      "explanation": "Premature infants born before 28–32 weeks often lack sufficient surfactant, resulting in massive alveolar collapse and respiratory distress."
+    },
+    {
+      "id": 26,
+      "question": "Which peripheral chemoreceptors monitor arterial oxygen tension ($P_{O_2}$), carbon dioxide, and pH, sending afferent impulses via the glossopharyngeal and vagus nerves?",
+      "options": {
+        "A": "Carotid Bodies and Aortic Bodies",
+        "B": "Baroreceptors in the jugular vein",
+        "C": "Pacinian corpuscles in the pleura",
+        "D": "Juxtaglomerular apparatus cells"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carotid bodies (cranial nerve IX) and aortic bodies (cranial nerve X) serve as peripheral chemoreceptors responsive to hypoxia, hypercapnia, and acidosis."
+    },
+    {
+      "id": 27,
+      "question": "What is the primary mechanism of gas exchange across the alveolar-capillary respiratory membrane?",
+      "options": {
+        "A": "Simple passive diffusion driven by partial pressure gradients",
+        "B": "Active primary transport utilizing ATP pumps",
+        "C": "Facilitated diffusion via aquaporin channels",
+        "D": "Receptor-mediated endocytosis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Oxygen and carbon dioxide cross the extremely thin (~0.5 $\\mu$m) respiratory membrane strictly by passive diffusion down partial pressure gradients."
+    },
+    {
+      "id": 28,
+      "question": "Which chronic occupational lung disease is caused by prolonged inhalation of silica dust, leading to progressive pulmonary fibrosis?",
+      "options": {
+        "A": "Silicosis",
+        "B": "Byssinosis",
+        "C": "Asbestosis",
+        "D": "Farmer's Lung"
+      },
+      "correctAnswer": "A",
+      "explanation": "Silicosis is an incurable occupational pneumoconiosis caused by inhaling crystalline silica dust in mining, quarrying, and sandblasting."
+    },
+    {
+      "id": 29,
+      "question": "What is the effect of 2,3-Bisphosphoglycerate (2,3-BPG) binding to deoxygenated hemoglobin?",
+      "options": {
+        "A": "It stabilizes the T-state (tense conformation), lowering $O_2$ affinity and facilitating $O_2$ release to tissues",
+        "B": "It converts adult hemoglobin into fetal hemoglobin",
+        "C": "It permanently locks hemoglobin into the high-affinity R-state",
+        "D": "It prevents carbon dioxide from forming carbaminohemoglobin"
+      },
+      "correctAnswer": "A",
+      "explanation": "2,3-BPG binds to the central cavity of deoxygenated hemoglobin, shifting the curve to the right to promote oxygen unloading at high altitudes or tissues."
+    },
+    {
+      "id": 30,
+      "question": "Why does fetal hemoglobin ($HbF$) exhibit a higher oxygen affinity than maternal adult hemoglobin ($HbA$)?",
+      "options": {
+        "A": "HbF contains two $\\alpha$ and two $\\gamma$ chains with a lower binding affinity for 2,3-BPG",
+        "B": "HbF has six heme groups instead of four",
+        "C": "Fetal erythrocytes lack cell membranes",
+        "D": "Maternal blood has zero carbon dioxide content"
+      },
+      "correctAnswer": "A",
+      "explanation": "The $\\gamma$ globin subunits of HbF do not bind 2,3-BPG as strongly as $\\beta$ chains, shifting the curve left to extract oxygen across the placenta."
+    },
+    {
+      "id": 31,
+      "question": "What is 'Pneumothorax'?",
+      "options": {
+        "A": "The presence of air or gas in the pleural cavity, causing the lung to collapse",
+        "B": "A bacterial infection of the vocal cords",
+        "C": "Accumulation of blood inside the pericardium",
+        "D": "Spasmodic contraction of bronchial smooth muscle"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pneumothorax occurs when air enters the intrapleural space, eliminating the negative pleural pressure and collapsing the lung."
+    },
+    {
+      "id": 32,
+      "question": "What is the typical percentage of oxygen extracted from inspired air by a human during a single resting breath?",
+      "options": {
+        "A": "Approximately 4% to 5% (inspired air is ~21% $O_2$, expired air is ~16% $O_2$)",
+        "B": "100% (expired air contains zero oxygen)",
+        "C": "50%",
+        "D": "Less than 0.1%"
+      },
+      "correctAnswer": "A",
+      "explanation": "Humans inhale ~20.9% $O_2$ and exhale ~16% $O_2$, absorbing roughly 4–5% oxygen per resting respiratory cycle."
+    },
+    {
+      "id": 33,
+      "question": "Which respiratory muscle is primarily recruited during active, forceful expiration (such as blowing out a candle)?",
+      "options": {
+        "A": "Internal Intercostal muscles and Abdominal muscles (rectus abdominis)",
+        "B": "External Intercostal muscles only",
+        "C": "Diaphragm alone",
+        "D": "Sternocleidomastoid only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Forceful expiration is active, contracting internal intercostals to depress ribs and abdominal muscles to push the diaphragm upward."
+    },
+    {
+      "id": 34,
+      "question": "In smokers, what happens to the mucociliary escalator lining the tracheobronchial tree?",
+      "options": {
+        "A": "Cilia are paralyzed and destroyed, causing accumulation of mucus and chronic smoker's cough",
+        "B": "Cilia beat twice as fast to clear pollutants",
+        "C": "Goblet cells stop producing mucus completely",
+        "D": "Tracheal cartilage transforms into elastic bone"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cigarette smoke paralyzes and destroys respiratory cilia, preventing mucus clearance and leading to chronic bronchitis."
+    },
+    {
+      "id": 35,
+      "question": "What is the normal partial pressure of oxygen in systemic arterial blood arriving at body tissues?",
+      "options": {
+        "A": "Approximately 95 to 100 mmHg",
+        "B": "Approximately 40 mmHg",
+        "C": "Approximately 46 mmHg",
+        "D": "Approximately 159 mmHg"
+      },
+      "correctAnswer": "A",
+      "explanation": "Arterial blood leaving the pulmonary veins has a $P_{O_2}$ of ~95–100 mmHg and an oxygen saturation of ~97–98%."
+    }
+  ]
+}

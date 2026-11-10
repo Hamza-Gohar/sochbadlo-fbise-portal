@@ -39,6 +39,8 @@ interface SubjectTabsProps {
   tarjuma12Chapters?: ChapterMeta[];
   physics12Chapters?: ChapterMeta[];
   math12Chapters?: ChapterMeta[];
+  cs12Chapters?: ChapterMeta[];
+  biology12Chapters?: ChapterMeta[];
 }
 
 export default function SubjectTabs({
@@ -75,9 +77,11 @@ export default function SubjectTabs({
   tarjuma12Chapters = [],
   physics12Chapters = [],
   math12Chapters = [],
+  cs12Chapters = [],
+  biology12Chapters = [],
 }: SubjectTabsProps) {
   const [activeGrade, setActiveGrade] = useState<'9' | '10' | '11' | '12'>('12');
-  const [activeGrade12Subject, setActiveGrade12Subject] = useState<'physics' | 'math' | 'english' | 'urdu' | 'pakstudies' | 'tarjuma'>('physics');
+  const [activeGrade12Subject, setActiveGrade12Subject] = useState<'physics' | 'math' | 'cs' | 'biology' | 'english' | 'urdu' | 'pakstudies' | 'tarjuma'>('physics');
   const [activeGrade10Subject, setActiveGrade10Subject] = useState<'math' | 'physics' | 'chemistry' | 'cs' | 'biology' | 'english' | 'pakstudies' | 'urdu' | 'tarjuma'>('math');
   const [activeGrade9Subject, setActiveGrade9Subject] = useState<'urdu' | 'tarjuma' | 'english' | 'islamiat' | 'chemistry' | 'cs' | 'biology' | 'math' | 'physics'>('urdu');
   const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry'>('physics');
@@ -92,6 +96,10 @@ export default function SubjectTabs({
           setActiveGrade12Subject('physics');
         } else if (params.get('subject') === 'math') {
           setActiveGrade12Subject('math');
+        } else if (params.get('subject') === 'cs') {
+          setActiveGrade12Subject('cs');
+        } else if (params.get('subject') === 'biology') {
+          setActiveGrade12Subject('biology');
         } else if (params.get('subject') === 'english') {
           setActiveGrade12Subject('english');
         } else if (params.get('subject') === 'urdu') {
@@ -173,6 +181,8 @@ export default function SubjectTabs({
   const tarjuma12Total = tarjuma12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const physics12Total = physics12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const math12Total = math12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const cs12Total = cs12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const biology12Total = biology12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -189,6 +199,10 @@ export default function SubjectTabs({
         ? physics12Chapters
         : activeGrade12Subject === 'math'
         ? math12Chapters
+        : activeGrade12Subject === 'cs'
+        ? cs12Chapters
+        : activeGrade12Subject === 'biology'
+        ? biology12Chapters
         : activeGrade12Subject === 'english'
         ? english12Chapters
         : activeGrade12Subject === 'urdu'
@@ -321,7 +335,7 @@ export default function SubjectTabs({
             >
               <Landmark className="w-4 h-4 text-amber-400" />
               <span>Class 12th (HSSC-II)</span>
-              <span className="text-[10px] opacity-75 font-mono">6 Subjects</span>
+              <span className="text-[10px] opacity-75 font-mono">8 Subjects</span>
             </button>
           </div>
         </div>
@@ -337,6 +351,10 @@ export default function SubjectTabs({
                   ? 'Class 12th FBISE Physics (فزکس - HSSC-II Pre-Medical & Pre-Engineering)'
                   : activeGrade12Subject === 'math'
                   ? 'Class 12th FBISE Mathematics (ریاضی - HSSC-II Pre-Engineering & ICS)'
+                  : activeGrade12Subject === 'cs'
+                  ? 'Class 12th FBISE Computer Science (کمپیوٹر سائنس - HSSC-II ICS)'
+                  : activeGrade12Subject === 'biology'
+                  ? 'Class 12th FBISE Biology (حیاتیات - HSSC-II Pre-Medical)'
                   : activeGrade12Subject === 'english'
                   ? 'Class 12th FBISE English Compulsory (HSSC-II)'
                   : activeGrade12Subject === 'urdu'
@@ -388,6 +406,10 @@ export default function SubjectTabs({
                   ? 'All 10 National Curriculum units (Electrostatics, Current Electricity, Electromagnetism, Electromagnetic Induction, AC, Solids, Electronics, Modern Physics, Atomic Spectra, Nuclear Physics) + 10 official Section A annual board simulators (17 marks, 25-minute timer).'
                   : activeGrade12Subject === 'math'
                   ? 'All 10 National Curriculum units (Functions & Graphs, Limits & Derivatives, Integration, Differential Equations, Kinematics, Analytic Geometry, Conics, Vectors, Linear Programming, Numerical Methods) + 10 official Section A annual board examination simulators (20 marks, 25-minute timer).'
+                  : activeGrade12Subject === 'cs'
+                  ? 'All 7 National Curriculum units (Usability & Accessibility, Data Structures & Algorithms, Python OOP & Databases, Data Science & Pandas, Emerging Tech & Cloud/IoT, Impacts of Computing & Cyber Laws, Digital Literacy & Entrepreneurship) + 10 Annual Federal Board Examination Simulators (15 marks, 20-minute timer).'
+                  : activeGrade12Subject === 'biology'
+                  ? 'All 13 National Curriculum units (Respiration, Homeostasis, Support & Locomotion, Nervous Coordination, Endocrine System, Animal Behavior, Reproduction, Development & Aging, Molecular Genetics, Inheritance, Evolution, Biotechnology, Ecosystem & Biosphere) + 10 Annual Federal Board Examination Simulators (17 marks, 25-minute timer).'
                   : activeGrade12Subject === 'english'
                   ? 'Book-II Modern Prose & Heroes, Good-bye Mr. Chips, and Advanced Syntax across 10 curriculum units + 10 official Section A annual board simulators (20 marks, 25-minute timer).'
                   : activeGrade12Subject === 'urdu'
@@ -466,6 +488,38 @@ export default function SubjectTabs({
                 <span>Mathematics (ریاضی)</span>
                 <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
                   {math12Chapters.length} Modules · {math12Total} Qs
+                </span>
+              </button>
+
+              <button
+                type="button"
+                onClick={() => setActiveGrade12Subject('cs')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade12Subject === 'cs'
+                    ? 'bg-slate-900 text-cyan-300 border-cyan-700 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <Cpu className="w-4 h-4 text-cyan-400" />
+                <span>Computer Science (کمپیوٹر سائنس)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {cs12Chapters.length} Modules · {cs12Total} Qs
+                </span>
+              </button>
+
+              <button
+                type="button"
+                onClick={() => setActiveGrade12Subject('biology')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade12Subject === 'biology'
+                    ? 'bg-emerald-950 text-emerald-200 border-emerald-800 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <Dna className="w-4 h-4 text-emerald-400" />
+                <span>Biology (حیاتیات)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {biology12Chapters.length} Modules · {biology12Total} Qs
                 </span>
               </button>
 
@@ -987,6 +1041,10 @@ export default function SubjectTabs({
                     ? 'Active Subject: Class 12th Physics (HSSC-II Pre-Medical & Pre-Engineering)'
                     : activeGrade12Subject === 'math'
                     ? 'Active Subject: Class 12th Mathematics (HSSC-II Pre-Engineering & ICS)'
+                    : activeGrade12Subject === 'cs'
+                    ? 'Active Subject: Class 12th Computer Science (HSSC-II ICS FBISE)'
+                    : activeGrade12Subject === 'biology'
+                    ? 'Active Subject: Class 12th Biology (HSSC-II Pre-Medical FBISE)'
                     : activeGrade12Subject === 'english'
                     ? 'Active Subject: Class 12th English Compulsory (HSSC-II FBISE)'
                     : activeGrade12Subject === 'urdu'
@@ -1054,6 +1112,10 @@ export default function SubjectTabs({
                     ? 'All 10 National Curriculum chapters (Electrostatics, Current Electricity, Electromagnetism, Electromagnetic Induction, Alternating Current, Physics of Solids, Electronics, Dawn of Modern Physics, Atomic Spectra, Nuclear Physics) + 10 official Section A annual board examination simulators (17 MCQs, 25 min) with detailed mathematical and physical reasoning.'
                     : activeGrade12Subject === 'math'
                     ? 'All 10 National Curriculum chapters (Functions & Graphs, Limits, Continuity & Derivative, Integration, Differential Equations, Kinematics, Introduction to Analytic Geometry, Conic Sections, Vectors, Linear Programming, Numerical Methods) + 10 official Section A annual board examination simulators (20 MCQs, 25 min) with detailed mathematical reasoning.'
+                    : activeGrade12Subject === 'cs'
+                    ? 'All 7 National Curriculum units (Usability & Accessibility, Data Structures & Algorithms, Python OOP & Databases, Data Science & Pandas, Emerging Tech & Cloud/IoT, Impacts of Computing & Cyber Laws, Digital Literacy & Entrepreneurship) + 10 official Section A annual board examination simulators (15 MCQs, 20 min) with detailed computational logic.'
+                    : activeGrade12Subject === 'biology'
+                    ? 'All 13 National Curriculum units (Respiration, Homeostasis, Support & Locomotion, Nervous Coordination, Endocrine System, Animal Behavior, Reproduction, Development & Aging, Molecular Genetics, Inheritance, Evolution, Biotechnology, Ecosystem & Biosphere) + 10 official Section A annual board examination simulators (17 MCQs, 25 min) with biological justifications.'
                     : activeGrade12Subject === 'english'
                     ? 'All 10 curriculum units (Synthesizing/Critique, Complex Modals, Subjunctive/Conditionals, Inversion/Fronting, Rhetorical Devices, Transformational Syntax, Register & Tone, Discourse Cohesion, Idiomatic Nuances, Argumentation) + 10 official Section A annual board examination simulators (Founder Muhammad Ahmad Khan & Faculty).'
                     : activeGrade12Subject === 'urdu'

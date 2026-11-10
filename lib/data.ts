@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { ChapterData, ChapterMeta, SubjectId } from './types';
+import { ChapterData, ChapterMeta, SubjectId, Question } from './types';
 
 const PHYSICS_DIR = path.join(process.cwd(), 'data', 'physics-11');
 const URDU_DIR = path.join(process.cwd(), 'data', 'urdu-11');
@@ -35,6 +35,8 @@ const PAKSTUDIES_12_DIR = path.join(process.cwd(), 'data', 'pakstudies-12');
 const TARJUMA_12_DIR = path.join(process.cwd(), 'data', 'tarjuma-12');
 const PHYSICS_12_DIR = path.join(process.cwd(), 'data', 'physics-12');
 const MATH_12_DIR = path.join(process.cwd(), 'data', 'math-12');
+const CS_12_DIR = path.join(process.cwd(), 'data', 'cs-12');
+const BIOLOGY_12_DIR = path.join(process.cwd(), 'data', 'biology-12');
 
 export function getChaptersIndex(
   subject: SubjectId = 'physics'
@@ -73,6 +75,8 @@ export function getChaptersIndex(
     else if (subject === 'tarjuma-12') dir = TARJUMA_12_DIR;
     else if (subject === 'physics-12') dir = PHYSICS_12_DIR;
     else if (subject === 'math-12') dir = MATH_12_DIR;
+    else if (subject === 'cs-12') dir = CS_12_DIR;
+    else if (subject === 'biology-12') dir = BIOLOGY_12_DIR;
 
     const indexPath = path.join(dir, 'chapters-index.json');
     if (fs.existsSync(indexPath)) {
@@ -84,7 +88,9 @@ export function getChaptersIndex(
         subject === 'pakstudies-12' ||
         subject === 'tarjuma-12' ||
         subject === 'physics-12' ||
-        subject === 'math-12'
+        subject === 'math-12' ||
+        subject === 'cs-12' ||
+        subject === 'biology-12'
           ? '12'
           : subject === 'math-10' ||
             subject === 'physics-10' ||
@@ -150,6 +156,8 @@ export function getAllChapters(): ChapterMeta[] {
     ...getChaptersIndex('tarjuma-12'),
     ...getChaptersIndex('physics-12'),
     ...getChaptersIndex('math-12'),
+    ...getChaptersIndex('cs-12'),
+    ...getChaptersIndex('biology-12'),
   ];
 }
 
@@ -164,7 +172,13 @@ export function getChapterBySlug(
     let targetDir = PHYSICS_DIR;
     let subject: SubjectId = 'physics';
 
-    if (slug.startsWith('math-12')) {
+    if (slug.startsWith('cs-12')) {
+      targetDir = CS_12_DIR;
+      subject = 'cs-12';
+    } else if (slug.startsWith('biology-12')) {
+      targetDir = BIOLOGY_12_DIR;
+      subject = 'biology-12';
+    } else if (slug.startsWith('math-12')) {
       targetDir = MATH_12_DIR;
       subject = 'math-12';
     } else if (slug.startsWith('physics-12')) {
@@ -267,9 +281,17 @@ export function getChapterBySlug(
 
     if (fs.existsSync(filePath)) {
       const content = fs.readFileSync(filePath, 'utf-8');
-      const data: ChapterData = JSON.parse(content);
+      const parsed = JSON.parse(content) as (Partial<ChapterData> & { title?: string }) | Question[];
+      const isArr = Array.isArray(parsed);
+      const rawObj = isArr ? {} : parsed;
+      const questionsList: Question[] = (isArr ? parsed : parsed.questions) || [];
+      const title = (!isArr && (rawObj.chapterTitle || rawObj.title)) || '';
       return {
-        ...data,
+        ...rawObj,
+        chapterNumber: (!isArr && rawObj.chapterNumber) || 1,
+        chapterTitle: title,
+        totalQuestions: questionsList.length,
+        questions: questionsList,
         slug,
         subject,
       };
@@ -277,6 +299,8 @@ export function getChapterBySlug(
 
     // Fallback search across all directories
     const dirMap: Array<[string, SubjectId]> = [
+      [CS_12_DIR, 'cs-12'],
+      [BIOLOGY_12_DIR, 'biology-12'],
       [MATH_12_DIR, 'math-12'],
       [PHYSICS_12_DIR, 'physics-12'],
       [ENGLISH_12_DIR, 'english-12'],
@@ -316,9 +340,17 @@ export function getChapterBySlug(
       const altPath = path.join(dir, fileName);
       if (fs.existsSync(altPath)) {
         const content = fs.readFileSync(altPath, 'utf-8');
-        const data: ChapterData = JSON.parse(content);
+        const parsed = JSON.parse(content) as (Partial<ChapterData> & { title?: string }) | Question[];
+        const isArr = Array.isArray(parsed);
+        const rawObj = isArr ? {} : parsed;
+        const questionsList: Question[] = (isArr ? parsed : parsed.questions) || [];
+        const title = (!isArr && (rawObj.chapterTitle || rawObj.title)) || '';
         return {
-          ...data,
+          ...rawObj,
+          chapterNumber: (!isArr && rawObj.chapterNumber) || 1,
+          chapterTitle: title,
+          totalQuestions: questionsList.length,
+          questions: questionsList,
           slug,
           subject: sub,
         };

@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 4,
+  "title": "Unit 4: Nervous Coordination & Sense Organs",
+  "slug": "biology-12-chapter-4",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the resting membrane potential of a typical mammalian neuron?",
+      "options": {
+        "A": "Approximately -70 mV",
+        "B": "+30 mV",
+        "C": "0 mV",
+        "D": "-120 mV"
+      },
+      "correctAnswer": "A",
+      "explanation": "The resting membrane potential averages -70 mV, maintaining a negatively charged interior relative to the extracellular fluid."
+    },
+    {
+      "id": 2,
+      "question": "Which active electrogenic membrane pump is primarily responsible for establishing and maintaining the resting potential?",
+      "options": {
+        "A": "Sodium-Potassium ATPase pump (pumping $3 Na^+$ out for every $2 K^+$ in)",
+        "B": "Proton pump ($H^+$-ATPase)",
+        "C": "Calcium SERCA pump",
+        "D": "Aquaporin pore"
+      },
+      "correctAnswer": "A",
+      "explanation": "The $Na^+/K^+$ pump actively exports $3 Na^+$ and imports $2 K^+$ per ATP hydrolyzed, maintaining high extracellular $Na^+$ and intracellular $K^+$."
+    },
+    {
+      "id": 3,
+      "question": "What causes the rapid depolarization phase of an action potential in an axon?",
+      "options": {
+        "A": "Rapid influx of Sodium ions ($Na^+$) through voltage-gated sodium channels",
+        "B": "Efflux of Potassium ions ($K^+$)",
+        "C": "Influx of Chloride ions ($Cl^-$)",
+        "D": "Active pumping of calcium into vesicles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Reaching threshold triggers opening of voltage-gated $Na^+$ channels, causing rapid $Na^+$ influx down its electrochemical gradient."
+    },
+    {
+      "id": 4,
+      "question": "What causes the repolarization phase of the neuronal action potential?",
+      "options": {
+        "A": "Inactivation of $Na^+$ channels and opening of voltage-gated Potassium ($K^+$) channels, allowing $K^+$ efflux",
+        "B": "Active entry of $Na^+$ into the cell",
+        "C": "Rapid entry of Calcium ions",
+        "D": "Synthesis of new myelin by Schwann cells"
+      },
+      "correctAnswer": "A",
+      "explanation": "Voltage-gated $Na^+$ channels close (inactivation gates) and delayed voltage-gated $K^+$ channels open, allowing $K^+$ efflux to restore negative potential."
+    },
+    {
+      "id": 5,
+      "question": "What is 'Saltatory Conduction' along myelinated nerve fibers?",
+      "options": {
+        "A": "The rapid jumping of action potentials from one Node of Ranvier to the next",
+        "B": "The slow continuous movement of ions through unmyelinated membrane",
+        "C": "The conduction of sound waves through the cochlea",
+        "D": "The flow of cerebrospinal fluid in brain ventricles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Myelin sheaths insulate axon internodes, forcing action potentials to depolarize exclusively at Nodes of Ranvier, speeding transmission up to 120 m/s."
+    },
+    {
+      "id": 6,
+      "question": "Which glial cells produce the insulating myelin sheath around axons in the Peripheral Nervous System (PNS)?",
+      "options": {
+        "A": "Schwann Cells",
+        "B": "Oligodendrocytes",
+        "C": "Astrocytes",
+        "D": "Microglia"
+      },
+      "correctAnswer": "A",
+      "explanation": "Schwann cells myelinate PNS axons; oligodendrocytes provide myelin in the Central Nervous System (CNS)."
+    },
+    {
+      "id": 7,
+      "question": "Which glial cells are responsible for synthesizing the myelin sheath within the Central Nervous System (CNS)?",
+      "options": {
+        "A": "Oligodendrocytes",
+        "B": "Schwann Cells",
+        "C": "Ependymal cells",
+        "D": "Microglia"
+      },
+      "correctAnswer": "A",
+      "explanation": "In the CNS (brain and spinal cord), oligodendrocytes extend cytoplasmic processes to wrap multiple axons in myelin."
+    },
+    {
+      "id": 8,
+      "question": "When an action potential arrives at a presynaptic axon terminal, which voltage-gated channels open to trigger neurotransmitter exocytosis?",
+      "options": {
+        "A": "Voltage-gated Calcium ($Ca^{2+}$) channels",
+        "B": "Voltage-gated Potassium channels",
+        "C": "Voltage-gated Chloride channels",
+        "D": "Passive aquaporin channels"
+      },
+      "correctAnswer": "A",
+      "explanation": "$Ca^{2+}$ influx into the presynaptic terminal triggers SNARE proteins to fuse synaptic vesicles with the membrane, releasing neurotransmitters."
+    },
+    {
+      "id": 9,
+      "question": "Which neurotransmitter is the chief inhibitory neurotransmitter in the mammalian Central Nervous System, causing hyperpolarization via chloride influx?",
+      "options": {
+        "A": "GABA (Gamma-Aminobutyric Acid)",
+        "B": "Glutamate",
+        "C": "Acetylcholine",
+        "D": "Norepinephrine"
+      },
+      "correctAnswer": "A",
+      "explanation": "GABA binds to $GABA_A$ receptors, opening $Cl^-$ ion channels to hyperpolarize the postsynaptic membrane (IPSP), suppressing neuronal excitability."
+    },
+    {
+      "id": 10,
+      "question": "Which neurotransmitter is the primary excitatory neurotransmitter in the mammalian central brain?",
+      "options": {
+        "A": "Glutamate",
+        "B": "GABA",
+        "C": "Glycine",
+        "D": "Endorphin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Glutamate is the major excitatory neurotransmitter in the CNS, acting on AMPA and NMDA receptors to depolarize postsynaptic neurons (EPSP)."
+    },
+    {
+      "id": 11,
+      "question": "What is the primary function of the Cerebellum in the human brain?",
+      "options": {
+        "A": "Coordination of voluntary movement, posture, and balance",
+        "B": "Initiation of logical reasoning and arithmetic speech",
+        "C": "Regulation of body temperature and hunger",
+        "D": "Perception of auditory sound frequencies"
+      },
+      "correctAnswer": "A",
+      "explanation": "The cerebellum coordinates motor activities, smooths voluntary muscle contractions, and maintains equilibrium and muscle tone."
+    },
+    {
+      "id": 12,
+      "question": "Which part of the brainstem contains vital autonomic reflex centers for heart rate, blood pressure (vasomotor), and breathing?",
+      "options": {
+        "A": "Medulla Oblongata",
+        "B": "Cerebrum",
+        "C": "Corpus Callosum",
+        "D": "Thalamus"
+      },
+      "correctAnswer": "A",
+      "explanation": "The medulla oblongata controls vital autonomic cardiac, respiratory, vasomotor, and swallowing/coughing reflexes."
+    },
+    {
+      "id": 13,
+      "question": "What is the role of the Thalamus in sensory perception?",
+      "options": {
+        "A": "It acts as the primary sensory relay station, routing incoming sensory signals (except olfaction) to corresponding cerebral cortex areas",
+        "B": "It secretes digestive insulin and glucagon",
+        "C": "It stores long-term declarative memories",
+        "D": "It filters cerebrospinal fluid directly into the eye"
+      },
+      "correctAnswer": "A",
+      "explanation": "The thalamus relays sensory inputs (visual, auditory, somatosensory) to the cerebral cortex, acting as the brain's sensory switchboard."
+    },
+    {
+      "id": 14,
+      "question": "Which cerebral lobe contains the primary visual cortex (Brodmann area 17)?",
+      "options": {
+        "A": "Occipital Lobe",
+        "B": "Frontal Lobe",
+        "C": "Temporal Lobe",
+        "D": "Parietal Lobe"
+      },
+      "correctAnswer": "A",
+      "explanation": "The occipital lobe at the posterior of the cerebral hemisphere processes visual signals received from the retinas."
+    },
+    {
+      "id": 15,
+      "question": "Which cerebral lobe is primarily responsible for executive functions, decision making, motor control, and personality?",
+      "options": {
+        "A": "Frontal Lobe",
+        "B": "Occipital Lobe",
+        "C": "Temporal Lobe",
+        "D": "Insular Cortex"
+      },
+      "correctAnswer": "A",
+      "explanation": "The frontal lobe houses the prefrontal cortex and primary motor cortex, governing executive reasoning, planning, and voluntary motor output."
+    },
+    {
+      "id": 16,
+      "question": "What is the primary division of the Autonomic Nervous System (ANS) that prepares the body for intense physical exertion ('Fight-or-Flight' response)?",
+      "options": {
+        "A": "Sympathetic Nervous System",
+        "B": "Parasympathetic Nervous System",
+        "C": "Enteric Nervous System alone",
+        "D": "Somatic Sensory Division"
+      },
+      "correctAnswer": "A",
+      "explanation": "The sympathetic system accelerates heart rate, dilates bronchioles, inhibits digestion, and mobilizes glucose for emergency fight-or-flight."
+    },
+    {
+      "id": 17,
+      "question": "Which division of the ANS promotes 'Rest and Digest' activities, slowing heart rate and stimulating digestive peristalsis?",
+      "options": {
+        "A": "Parasympathetic Nervous System",
+        "B": "Sympathetic Nervous System",
+        "C": "Thoracolumbar Outflow",
+        "D": "Reticular Activating System"
+      },
+      "correctAnswer": "A",
+      "explanation": "The parasympathetic (craniosacral) system conserves energy, promotes digestion, constricts pupils, and slows heart rate via the vagus nerve."
+    },
+    {
+      "id": 18,
+      "question": "What are the three protective meningeal membranes surrounding the brain and spinal cord, from outermost to innermost?",
+      "options": {
+        "A": "Dura mater, Arachnoid mater, Pia mater",
+        "B": "Pia mater, Dura mater, Arachnoid mater",
+        "C": "Pericardium, Pleura, Peritoneum",
+        "D": "Epineurium, Perineurium, Endoneurium"
+      },
+      "correctAnswer": "A",
+      "explanation": "The meninges consist of the tough outer Dura mater, the web-like middle Arachnoid mater, and the delicate, vascular Pia mater adhering to neural tissue."
+    },
+    {
+      "id": 19,
+      "question": "Where is Cerebrospinal Fluid (CSF) synthesized inside the brain?",
+      "options": {
+        "A": "Choroid Plexuses within the brain ventricles",
+        "B": "Pituitary gland",
+        "C": "Corpus callosum",
+        "D": "Optic chiasm"
+      },
+      "correctAnswer": "A",
+      "explanation": "Choroid plexuses (networks of ependymal cells and capillaries) in the lateral, third, and fourth ventricles produce CSF."
+    },
+    {
+      "id": 20,
+      "question": "In the human eye, which photoreceptor cells are responsible for vision in dim light (scotopic vision) but do not detect color?",
+      "options": {
+        "A": "Rods",
+        "B": "Cones",
+        "C": "Bipolar cells",
+        "D": "Ganglion cells"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rods are highly sensitive to low light levels, containing the pigment rhodopsin, providing monochrome night vision."
+    },
+    {
+      "id": 21,
+      "question": "Which photoreceptor cells are concentrated in the fovea centralis of the retina, providing high visual acuity and trichromatic color vision in bright light?",
+      "options": {
+        "A": "Cones",
+        "B": "Rods",
+        "C": "Amacrine cells",
+        "D": "Horizontal cells"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cones operate in bright photopic light, containing photopsin pigments sensitive to blue, green, and red light for color acuity."
+    },
+    {
+      "id": 22,
+      "question": "What is the photosensitive pigment present inside rod photoreceptors, composed of the protein opsin and 11-cis-retinal (derived from Vitamin A)?",
+      "options": {
+        "A": "Rhodopsin",
+        "B": "Iodopsin",
+        "C": "Melanin",
+        "D": "Cytochrome oxidase"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rhodopsin (visual purple) bleaches upon photon absorption, isomerizing 11-cis-retinal to all-trans-retinal to trigger hyperpolarizing phototransduction."
+    },
+    {
+      "id": 23,
+      "question": "What is the 'Blind Spot' (optic disc) of the retina?",
+      "options": {
+        "A": "The region where the optic nerve exits the eyeball, completely devoid of photoreceptors",
+        "B": "The center of the fovea with maximum visual sharpness",
+        "C": "An infected cornea ulcer",
+        "D": "The transparent front layer of the iris"
+      },
+      "correctAnswer": "A",
+      "explanation": "The optic disc lacks rods and cones because ganglion cell axons converge there to form the optic nerve, creating an anatomical blind spot."
+    },
+    {
+      "id": 24,
+      "question": "In the human inner ear, which spiral fluid-filled structure contains the Organ of Corti responsible for hearing (auditory transduction)?",
+      "options": {
+        "A": "Cochlea",
+        "B": "Semicircular canals",
+        "C": "Tympanic membrane",
+        "D": "Eustachian tube"
+      },
+      "correctAnswer": "A",
+      "explanation": "The cochlea contains the basilar membrane and the Organ of Corti, where hair cell stereocilia bend against the tectorial membrane to transduce sound."
+    },
+    {
+      "id": 25,
+      "question": "Which inner ear structures detect rotational (angular) head acceleration to maintain dynamic equilibrium?",
+      "options": {
+        "A": "Semicircular Canals (with crista ampullaris)",
+        "B": "Utricle and Saccule alone",
+        "C": "Tympanic Ossicles",
+        "D": "Cochlear duct"
+      },
+      "correctAnswer": "A",
+      "explanation": "The three semicircular canals arranged at right angles detect angular rotational acceleration via fluid flow in the ampullary cupulae."
+    },
+    {
+      "id": 26,
+      "question": "What is the function of the auditory (Eustachian) tube connecting the middle ear cavity to the nasopharynx?",
+      "options": {
+        "A": "Equalizing air pressure on both sides of the tympanic membrane (eardrum)",
+        "B": "Amplifying sound vibrations by 20-fold",
+        "C": "Filtering dust from the outer ear canal",
+        "D": "Secreting earwax (cerumen)"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Eustachian tube equalizes middle ear pressure with atmospheric pressure, preventing tympanic membrane rupture during pressure changes."
+    },
+    {
+      "id": 27,
+      "question": "Which sensory receptors in the skin respond specifically to damaging, noxious stimuli that are perceived as pain?",
+      "options": {
+        "A": "Nociceptors",
+        "B": "Meissner's corpuscles",
+        "C": "Pacinian corpuscles",
+        "D": "Merkel discs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nociceptors are naked nerve endings that respond to thermal, mechanical, or chemical stimuli that threaten tissue damage."
+    },
+    {
+      "id": 28,
+      "question": "What is a 'Reflex Arc' in nervous coordination?",
+      "options": {
+        "A": "The neural pathway mediating an involuntary, automatic reflex (Receptor $\\rightarrow$ Sensory Neuron $\\rightarrow$ Interneuron $\\rightarrow$ Motor Neuron $\\rightarrow$ Effector)",
+        "B": "A surgical incision in the cerebral cortex",
+        "C": "The electrical wiring between two brain hemispheres",
+        "D": "The curve of the human spine"
+      },
+      "correctAnswer": "A",
+      "explanation": "A reflex arc carries sensory signals into the spinal cord, where interneurons synapse directly with motor neurons to produce immediate protective action."
+    },
+    {
+      "id": 29,
+      "question": "Which neurodegenerative disease is caused by progressive degeneration of dopamine-producing neurons in the substantia nigra, leading to tremors and rigidity?",
+      "options": {
+        "A": "Parkinson's Disease",
+        "B": "Alzheimer's Disease",
+        "C": "Multiple Sclerosis",
+        "D": "Huntington's Chorea"
+      },
+      "correctAnswer": "A",
+      "explanation": "Parkinson's disease involves dopamine depletion in the basal ganglia, causing resting tremors, muscle rigidity, and bradykinesia."
+    },
+    {
+      "id": 30,
+      "question": "Which autoimmune neurological disorder is characterized by immune destruction of the myelin sheath in the Central Nervous System?",
+      "options": {
+        "A": "Multiple Sclerosis (MS)",
+        "B": "Guillain-Barré Syndrome",
+        "C": "Epilepsy",
+        "D": "Myasthenia Gravis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Multiple sclerosis is an autoimmune disease where T-cells attack CNS myelin, producing demyelinated sclerae and disrupting nerve conduction."
+    },
+    {
+      "id": 31,
+      "question": "What is Alzheimer's Disease characterized by pathologically in post-mortem brain histology?",
+      "options": {
+        "A": "Extracellular amyloid-beta plaques and intracellular neurofibrillary tau tangles with cerebral atrophy",
+        "B": "Bacterial abscesses in the cerebellum",
+        "C": "Accumulation of uric acid crystals in cerebral ventricles",
+        "D": "Rupture of the carotid artery"
+      },
+      "correctAnswer": "A",
+      "explanation": "Alzheimer's involves amyloid-beta plaque deposition and hyperphosphorylated tau neurofibrillary tangles, destroying cortical neurons and memory."
+    },
+    {
+      "id": 32,
+      "question": "What is the 'Refractory Period' of an axonal membrane?",
+      "options": {
+        "A": "A brief recovery period following an action potential during which the axon is temporarily incapable of generating another action potential",
+        "B": "The time it takes for a neuron to grow in culture",
+        "C": "The sleeping hours of an animal",
+        "D": "The duration of synaptic neurotransmitter synthesis"
+      },
+      "correctAnswer": "A",
+      "explanation": "The absolute refractory period (inactivated $Na^+$ channels) ensures one-way propagation of action potentials and sets a ceiling on firing frequency."
+    },
+    {
+      "id": 33,
+      "question": "Which large fiber bundle of myelinated axons connects the left and right cerebral hemispheres, facilitating interhemispheric communication?",
+      "options": {
+        "A": "Corpus Callosum",
+        "B": "Internal Capsule",
+        "C": "Optic Chiasma",
+        "D": "Fornix"
+      },
+      "correctAnswer": "A",
+      "explanation": "The corpus callosum contains over 200 million axonal projections coordinating sensory and cognitive processing across both cerebral hemispheres."
+    },
+    {
+      "id": 34,
+      "question": "What is the primary role of the Broca's Area (in the left frontal lobe) in human neurology?",
+      "options": {
+        "A": "Motor speech production and language articulation",
+        "B": "Comprehension of written and spoken language (Wernicke's)",
+        "C": "Hearing musical pitches",
+        "D": "Visual color discrimination"
+      },
+      "correctAnswer": "A",
+      "explanation": "Broca's area coordinates the motor movements required for speech articulation; damage causes expressive (motor) aphasia."
+    },
+    {
+      "id": 35,
+      "question": "Which enzyme terminates the action of Acetylcholine at the neuromuscular junction by rapidly hydrolyzing it into acetate and choline?",
+      "options": {
+        "A": "Acetylcholinesterase (AChE)",
+        "B": "Monoamine Oxidase (MAO)",
+        "C": "Choline Acetyltransferase",
+        "D": "Catechol-O-methyltransferase"
+      },
+      "correctAnswer": "A",
+      "explanation": "AChE hydrolyzes acetylcholine within milliseconds in the synaptic cleft, preventing continuous, spastic muscle tetany."
+    }
+  ]
+}

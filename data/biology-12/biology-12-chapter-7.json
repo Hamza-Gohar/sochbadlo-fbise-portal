@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 7,
+  "title": "Unit 7: Reproduction in Animals and Plants",
+  "slug": "biology-12-chapter-7",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Where does Spermatogenesis take place inside the human testes?",
+      "options": {
+        "A": "Seminiferous Tubules",
+        "B": "Epididymis head",
+        "C": "Vas Deferens",
+        "D": "Prostate Gland"
+      },
+      "correctAnswer": "A",
+      "explanation": "Spermatogenesis occurs in the walls of the seminiferous tubules, progressing from basement membrane spermatogonia to lumen spermatozoa."
+    },
+    {
+      "id": 2,
+      "question": "Which large somatic cells in the seminiferous tubules provide structural support, nutrition, and blood-testis barrier protection to developing germ cells?",
+      "options": {
+        "A": "Sertoli Cells (Sustentacular cells)",
+        "B": "Leydig Cells (Interstitial cells)",
+        "C": "Primary Spermatocytes",
+        "D": "Spermatogonia Type A"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sertoli cells nurse developing sperm, phagocytose excess cytoplasm, secrete inhibin, and form the tight-junction blood-testis barrier."
+    },
+    {
+      "id": 3,
+      "question": "Which cells located in the interstitial connective tissue between seminiferous tubules synthesize and secrete Testosterone under the stimulation of LH?",
+      "options": {
+        "A": "Leydig Cells (Interstitial cells of Leydig)",
+        "B": "Sertoli Cells",
+        "C": "Secondary Spermatocytes",
+        "D": "Cowper's gland cells"
+      },
+      "correctAnswer": "A",
+      "explanation": "Leydig cells respond to Luteinizing Hormone (LH/ICSH) by synthesizing and secreting androgens (primarily testosterone)."
+    },
+    {
+      "id": 4,
+      "question": "How many functional, flagellated haploid spermatozoa are produced from one single diploid Primary Spermatocyte following meiotic division?",
+      "options": {
+        "A": "4 functional spermatozoa",
+        "B": "1 functional spermatozoon and 3 polar bodies",
+        "C": "2 spermatozoa",
+        "D": "8 spermatozoa"
+      },
+      "correctAnswer": "A",
+      "explanation": "A primary spermatocyte ($2n$) undergoes meiosis I to form two secondary spermatocytes ($n$), which undergo meiosis II to form 4 functional spermatids ($n$)."
+    },
+    {
+      "id": 5,
+      "question": "What is the cap-like lysosome-derived structure on the anterior head of a mature sperm cell that contains hydrolytic enzymes (hyaluronidase, acrosin) to penetrate the ovum?",
+      "options": {
+        "A": "Acrosome",
+        "B": "Axoneme",
+        "C": "Centriole",
+        "D": "Mitochondrial Spiral"
+      },
+      "correctAnswer": "A",
+      "explanation": "The acrosome contains hydrolytic enzymes released during the acrosome reaction to digest the zona pellucida and corona radiata of the egg."
+    },
+    {
+      "id": 6,
+      "question": "Where are mature spermatozoa stored, and where do they acquire forward motility and fertilizing capacity over a period of 10 to 14 days?",
+      "options": {
+        "A": "Epididymis",
+        "B": "Seminiferous tubules",
+        "C": "Seminal vesicles",
+        "D": "Urethra"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sperm exit the testis non-motile and acquire maturation, motility, and surface membrane modifications while moving through the epididymis."
+    },
+    {
+      "id": 7,
+      "question": "Which accessory male reproductive glands produce approximately 60% of the seminal fluid volume, rich in fructose, prostaglandins, and coagulating enzymes?",
+      "options": {
+        "A": "Seminal Vesicles",
+        "B": "Prostate Gland",
+        "C": "Bulbourethral (Cowper's) Glands",
+        "D": "Testicular Tunica"
+      },
+      "correctAnswer": "A",
+      "explanation": "Seminal vesicles secrete alkaline fructose-rich fluid that provides an energy substrate for sperm motility and prostaglandins for uterine contractions."
+    },
+    {
+      "id": 8,
+      "question": "What is the primary role of the slightly acidic fluid secreted by the Prostate Gland containing citrate and prostate-specific antigen (PSA)?",
+      "options": {
+        "A": "Liquefying the seminal coagulum after ejaculation and nourishing sperm",
+        "B": "Providing fructose energy for flagella",
+        "C": "Lubricating the glans penis before intercourse",
+        "D": "Stimulating testosterone synthesis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Prostatic fluid contains proteolytic enzymes (like PSA) that liquefy clotted semen within 15–30 minutes, freeing sperm to swim into the cervix."
+    },
+    {
+      "id": 9,
+      "question": "Where does human Oogenesis halt (meiotic arrest) during embryonic development before birth?",
+      "options": {
+        "A": "Prophase I of Meiosis I (in Dictyate / Diplotene stage)",
+        "B": "Metaphase II of Meiosis II",
+        "C": "Telophase I",
+        "D": "Anaphase II"
+      },
+      "correctAnswer": "A",
+      "explanation": "Primary oocytes enter meiosis I during fetal life and remain arrested at prophase I (diplotene) until puberty, when hormonal surges resume maturation."
+    },
+    {
+      "id": 10,
+      "question": "At what stage of division is the Secondary Oocyte arrested when it is ovulated from the Graafian follicle into the Fallopian tube?",
+      "options": {
+        "A": "Metaphase II of Meiosis II",
+        "B": "Prophase I",
+        "C": "Anaphase I",
+        "D": "Telophase II"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ovulated secondary oocyte is arrested at Metaphase II, completing meiosis II only if penetrated by a fertilizing sperm."
+    },
+    {
+      "id": 11,
+      "question": "How many functional ova are produced from one diploid Primary Oocyte during human female oogenesis?",
+      "options": {
+        "A": "1 functional ovum (and up to 3 non-functional polar bodies)",
+        "B": "4 functional ova",
+        "C": "2 functional ova",
+        "D": "8 functional ova"
+      },
+      "correctAnswer": "A",
+      "explanation": "Asymmetric cytokinesis retains virtually all nutrient cytoplasm in one large functional ovum, discarding excess haploid genomes as polar bodies."
+    },
+    {
+      "id": 12,
+      "question": "In an average 28-day human menstrual cycle, on which day does Ovulation typically occur, triggered by a sharp surge in Luteinizing Hormone (LH)?",
+      "options": {
+        "A": "Day 14",
+        "B": "Day 1",
+        "C": "Day 7",
+        "D": "Day 28"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rising estrogen from the Graafian follicle triggers an LH surge at mid-cycle (around day 14), inducing follicular rupture and ovulation."
+    },
+    {
+      "id": 13,
+      "question": "What temporary endocrine gland develops from the collapsed, ruptured Graafian follicle after ovulation under the influence of LH?",
+      "options": {
+        "A": "Corpus Luteum",
+        "B": "Corpus Albicans",
+        "C": "Corpus Cavernosum",
+        "D": "Cumulus Oophorus"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ruptured follicle transforms into the glandular Corpus Luteum, secreting large amounts of progesterone to maintain pregnancy."
+    },
+    {
+      "id": 14,
+      "question": "If fertilization does NOT occur, what happens to the Corpus Luteum approximately 10 to 12 days after ovulation?",
+      "options": {
+        "A": "It degenerates into a white fibrous scar called the Corpus Albicans, causing progesterone levels to plunge and triggering Menstruation",
+        "B": "It transforms into an embryo",
+        "C": "It continues to grow and releases hCG",
+        "D": "It dissolves the entire ovary"
+      },
+      "correctAnswer": "A",
+      "explanation": "Without hCG from an implanted embryo, the corpus luteum atrophies into a corpus albicans; falling progesterone causes the endometrium to slough (menses)."
+    },
+    {
+      "id": 15,
+      "question": "What is the typical site of Fertilization (union of sperm and secondary oocyte) in the human female reproductive tract?",
+      "options": {
+        "A": "Ampulla of the Fallopian (Uterine) Tube",
+        "B": "Uterine Cavity",
+        "C": "Cervical Canal",
+        "D": "Vaginal Vault"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fertilization normally takes place in the ampulla, the widest and longest section of the Fallopian tube."
+    },
+    {
+      "id": 16,
+      "question": "What is the 'Cortical Reaction' (Slow Block to Polyspermy) that occurs immediately following sperm-egg membrane fusion?",
+      "options": {
+        "A": "Exocytosis of cortical granules releasing enzymes that harden the Zona Pellucida and destroy sperm receptors, preventing multiple sperm entry",
+        "B": "Instant depolarization of the egg membrane via sodium ions",
+        "C": "Dissolution of the egg nucleus",
+        "D": "Expulsion of the zygote into the vagina"
+      },
+      "correctAnswer": "A",
+      "explanation": "Intracellular $Ca^{2+}$ release causes cortical granules to exocytose enzymes, hardening the zona pellucida (zona reaction) to permanently block polyspermy."
+    },
+    {
+      "id": 17,
+      "question": "Which hormone is secreted by the syncytiotrophoblast of the implanted blastocyst, maintaining the corpus luteum and detected in pregnancy tests?",
+      "options": {
+        "A": "Human Chorionic Gonadotropin (hCG)",
+        "B": "Estriol",
+        "C": "Prolactin",
+        "D": "Oxytocin"
+      },
+      "correctAnswer": "A",
+      "explanation": "hCG rescues the corpus luteum to preserve progesterone production, forming the biochemical basis for home urine pregnancy dipstick tests."
+    },
+    {
+      "id": 18,
+      "question": "What is the thick, glycoprotein coat surrounding the plasma membrane of a mammalian secondary oocyte?",
+      "options": {
+        "A": "Zona Pellucida",
+        "B": "Corona Radiata",
+        "C": "Theca Interna",
+        "D": "Amnion"
+      },
+      "correctAnswer": "A",
+      "explanation": "The zona pellucida is an extracellular matrix of glycoproteins (ZP1, ZP2, ZP3) that binds sperm and mediates the acrosome reaction."
+    },
+    {
+      "id": 19,
+      "question": "What is 'Capacitation' of mammalian spermatozoa?",
+      "options": {
+        "A": "The physiological biochemical conditioning of sperm occurring inside the female tract (cholesterol removal, hyperactivation) necessary for fertilization",
+        "B": "The production of flagella in the testis",
+        "C": "The storage of sperm in liquid nitrogen",
+        "D": "The ejaculation of seminal plasma"
+      },
+      "correctAnswer": "A",
+      "explanation": "Capacitation takes several hours in the female reproductive tract, stripping surface sterols and glycoproteins to allow the acrosome reaction."
+    },
+    {
+      "id": 20,
+      "question": "What is the permanent cessation of the primary ovarian functions and menstrual cycles in women (typically occurring between 45–55 years) called?",
+      "options": {
+        "A": "Menopause",
+        "B": "Menarche",
+        "C": "Amenorrhea",
+        "D": "Dysmenorrhea"
+      },
+      "correctAnswer": "A",
+      "explanation": "Menopause marks the end of female reproductive life due to depletion of functional ovarian follicles and a decline in estrogen/progesterone."
+    },
+    {
+      "id": 21,
+      "question": "What is 'Menarche'?",
+      "options": {
+        "A": "The very first occurrence of menstruation in an adolescent female at puberty",
+        "B": "The onset of menopause in older women",
+        "C": "A missed menstrual period during pregnancy",
+        "D": "Surgical removal of the uterus"
+      },
+      "correctAnswer": "A",
+      "explanation": "Menarche is the initial menstrual bleeding marking female puberty, typically occurring around ages 11–14."
+    },
+    {
+      "id": 22,
+      "question": "In angiosperm plants, what are the male and female reproductive organs called?",
+      "options": {
+        "A": "Stamen (male: anther + filament) and Carpel/Pistil (female: stigma, style, ovary)",
+        "B": "Sepals and Petals",
+        "C": "Xylem and Phloem",
+        "D": "Thallus and Rhizoid"
+      },
+      "correctAnswer": "A",
+      "explanation": "The stamen is the androecium (microsporophyll) and the carpel/pistil is the gynoecium (megasporophyll) of flowering plants."
+    },
+    {
+      "id": 23,
+      "question": "What is 'Double Fertilization' in flowering plants (angiosperms)?",
+      "options": {
+        "A": "One male sperm nucleus fertilizes the haploid egg to form the diploid zygote ($2n$), while the second sperm fuses with two polar nuclei to form the triploid endosperm ($3n$)",
+        "B": "Two separate pollen tubes entering two different flowers",
+        "C": "Fertilization of two seeds in one fruit",
+        "D": "A flower that pollinates itself twice in a season"
+      },
+      "correctAnswer": "A",
+      "explanation": "Double fertilization is unique to angiosperms: Syngamy produces the $2n$ zygote, and triple fusion produces the $3n$ nutritive endosperm tissue."
+    },
+    {
+      "id": 24,
+      "question": "What is the ploidy level of the Endosperm tissue in typical Angiosperm seeds?",
+      "options": {
+        "A": "Triploid ($3n$)",
+        "B": "Haploid ($1n$)",
+        "C": "Diploid ($2n$)",
+        "D": "Tetraploid ($4n$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Triple fusion involves one haploid sperm ($1n$) fusing with the central cell containing two haploid polar nuclei ($1n + 1n$), creating a $3n$ endosperm."
+    },
+    {
+      "id": 25,
+      "question": "What is 'Pollination'?",
+      "options": {
+        "A": "The transfer of pollen grains from the anther to the receptive stigma of a flower",
+        "B": "The fusion of sperm and egg nuclei in the embryo sac",
+        "C": "The germination of seeds in damp soil",
+        "D": "The shedding of flower petals in autumn"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pollination is the mechanical transfer of pollen (by wind, insects, water, or birds) from anther to stigma prior to fertilization."
+    },
+    {
+      "id": 26,
+      "question": "What is 'Parthenogenesis' in animal reproduction?",
+      "options": {
+        "A": "A form of asexual reproduction in which an unfertilized egg develops into a complete, viable offspring (e.g., in honeybee drones, aphids, some lizards)",
+        "B": "The fusion of two sperm with one egg",
+        "C": "Regeneration of a severed limb",
+        "D": "Sexual reproduction between hermaphroditic worms"
+      },
+      "correctAnswer": "A",
+      "explanation": "Parthenogenesis ('virgin birth') produces offspring without fertilization (e.g., haploid male honeybees developing from unfertilized queen eggs)."
+    },
+    {
+      "id": 27,
+      "question": "What is 'Parthenocarpy' in botanical horticulture?",
+      "options": {
+        "A": "The development of a fruit without prior fertilization of ovules, resulting in naturally seedless fruit (e.g., commercial bananas, seedless grapes)",
+        "B": "The germination of seeds while still attached to the parent plant (vivipary)",
+        "C": "The shedding of unpollinated blossoms",
+        "D": "Plant reproduction via stem cuttings"
+      },
+      "correctAnswer": "A",
+      "explanation": "Parthenocarpy produces seedless fruits naturally or via auxin/gibberellin application without ovule fertilization."
+    },
+    {
+      "id": 28,
+      "question": "Which sexually transmitted infection (STI) is caused by the spirochete bacterium Treponema pallidum, characterized by a painless chancre in primary stages?",
+      "options": {
+        "A": "Syphilis",
+        "B": "Gonorrhea",
+        "C": "Chlamydia",
+        "D": "Genital Herpes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Syphilis progresses from primary chancre to secondary rash/condylomata, and potentially to tertiary neurosyphilis/gummas if untreated."
+    },
+    {
+      "id": 29,
+      "question": "Which sexually transmitted disease is caused by the Gram-negative diplococcus Neisseria gonorrhoeae, causing purulent urethral discharge and pelvic inflammatory disease (PID)?",
+      "options": {
+        "A": "Gonorrhea",
+        "B": "Syphilis",
+        "C": "Trichomoniasis",
+        "D": "Hepatitis B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Gonorrhea infects mucosal linings, causing painful purulent urethritis in males and cervicitis/PID in females."
+    },
+    {
+      "id": 30,
+      "question": "What is the causative agent of Acquired Immunodeficiency Syndrome (AIDS), which infects and destroys CD4+ T-helper lymphocytes?",
+      "options": {
+        "A": "Human Immunodeficiency Virus (HIV)",
+        "B": "Human Papillomavirus (HPV)",
+        "C": "Herpes Simplex Virus Type 2",
+        "D": "Epstein-Barr Virus"
+      },
+      "correctAnswer": "A",
+      "explanation": "HIV is an enveloped retrovirus that binds CD4 and CCR5/CXCR4 receptors on helper T-cells, progressively destroying cell-mediated immunity."
+    },
+    {
+      "id": 31,
+      "question": "Which surgical procedure involves severing and tying the male vas deferens to achieve permanent male sterilization?",
+      "options": {
+        "A": "Vasectomy",
+        "B": "Tubal Ligation",
+        "C": "Hysterectomy",
+        "D": "Orchiectomy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Vasectomy ligates the vas deferens, preventing sperm from entering the ejaculate while preserving normal testosterone and semen volume."
+    },
+    {
+      "id": 32,
+      "question": "What is 'In Vitro Fertilization' (IVF)?",
+      "options": {
+        "A": "An assisted reproductive technology where ova are extracted and fertilized by sperm in a laboratory dish before transferring the embryo into the uterus",
+        "B": "Cloning an animal from somatic adult skin cells",
+        "C": "Artificially inseminating cattle in dairy barns",
+        "D": "Treating infertility exclusively with herbal vitamins"
+      },
+      "correctAnswer": "A",
+      "explanation": "IVF involves ovarian hyperstimulation, oocyte retrieval, external petridish fertilization, culture to blastocyst, and intrauterine embryo transfer."
+    },
+    {
+      "id": 33,
+      "question": "In plant tissue culture, what is 'Micropropagation'?",
+      "options": {
+        "A": "The in vitro propagation of large numbers of genetically identical plants (clones) from small explants cultured on nutrient media under sterile conditions",
+        "B": "Growing giant trees in natural forests",
+        "C": "Spraying synthetic pesticides on agricultural crops",
+        "D": "Cross-pollinating different wild plant varieties"
+      },
+      "correctAnswer": "A",
+      "explanation": "Micropropagation uses totipotent plant cells in sterile media supplemented with auxins/cytokinins to produce millions of disease-free clonal plantlets."
+    },
+    {
+      "id": 34,
+      "question": "What is 'Apomixis' in botany?",
+      "options": {
+        "A": "The asexual formation of seeds without meiosis or syngamy, yielding seedlings that are maternal genetic clones (e.g., in dandelions and citrus)",
+        "B": "The rotting of seeds in overwatered soil",
+        "C": "Pollination performed by bats at night",
+        "D": "The cross-breeding of two distant plant genera"
+      },
+      "correctAnswer": "A",
+      "explanation": "Apomixis bypasses meiosis and fertilization, allowing maternal cells of the ovule to develop directly into an embryo within the seed."
+    },
+    {
+      "id": 35,
+      "question": "What is the structural role of the Scrotum in human male reproductive physiology?",
+      "options": {
+        "A": "Holding the testes outside the abdominal cavity at a temperature 2°C to 3°C lower than core body temperature for optimal spermatogenesis",
+        "B": "Synthesizing seminal prostaglandins",
+        "C": "Producing urinary antibodies",
+        "D": "Filtering testosterone from blood"
+      },
+      "correctAnswer": "A",
+      "explanation": "Spermatogenesis requires temperatures below 37°C (~34–35°C), regulated by the dartos and cremaster muscles of the scrotal sac."
+    }
+  ]
+}

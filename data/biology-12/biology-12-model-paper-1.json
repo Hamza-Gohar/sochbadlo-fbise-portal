@@ -1,0 +1,214 @@
+{
+  "chapterNumber": 14,
+  "chapterTitle": "Annual Board Examination Section A Simulator 1 (17 Marks · 25 Min)",
+  "title": "Annual Board Examination Section A Simulator 1 (17 Marks · 25 Min)",
+  "slug": "biology-12-model-paper-1",
+  "totalQuestions": 17,
+  "subject": "biology-12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "During strenuous exercise, which physiological factor shifts the oxyhemoglobin dissociation curve to the right to facilitate oxygen unloading in skeletal muscles (Bohr effect)?",
+      "options": {
+        "A": "Decreased carbon dioxide partial pressure and increased pH",
+        "B": "Decreased temperature and decreased 2,3-BPG",
+        "C": "Increased carbon dioxide, decreased pH (acidosis), and elevated temperature",
+        "D": "Hyperventilation and respiratory alkalosis"
+      },
+      "correctAnswer": "C",
+      "explanation": "The Bohr effect states that increased carbon dioxide tension (pCO2), lower pH (higher [H+]), and elevated body temperature decrease hemoglobin's affinity for O2, shifting the curve to the right and unloading more oxygen into metabolically active tissues."
+    },
+    {
+      "id": 2,
+      "question": "Which specific zone of the mammalian nephron is responsible for maintaining the high hypertonic medullary osmotic gradient via the counter-current multiplier mechanism?",
+      "options": {
+        "A": "Bowman's capsule",
+        "B": "Loop of Henle (descending and ascending limbs)",
+        "C": "Proximal convoluted tubule (PCT)",
+        "D": "Macula densa"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Loop of Henle functions as a counter-current multiplier. The descending limb is permeable to water but impermeable to solutes, while the thick ascending limb actively extrudes Na+ and Cl- into the interstitial medullary fluid, creating a steep vertical osmotic gradient."
+    },
+    {
+      "id": 3,
+      "question": "According to the sliding filament theory of muscle contraction, what happens to sarcomere zones during cross-bridge cycling?",
+      "options": {
+        "A": "The A band widens while the I band remains unchanged",
+        "B": "The A band remains constant while the I band and H zone shorten or disappear",
+        "C": "Both the A band and Z lines expand outward",
+        "D": "Actin and myosin filaments physically compress and shorten in absolute length"
+      },
+      "correctAnswer": "B",
+      "explanation": "During sarcomere contraction, thick myosin filaments (A band) maintain constant length, while thin actin filaments slide past myosin toward the M line, causing the I band and H zone to narrow and the distance between adjacent Z lines to shorten."
+    },
+    {
+      "id": 4,
+      "question": "During the repolarization phase of an action potential in a human motor axon, which ion movement predominates?",
+      "options": {
+        "A": "Influx of sodium ions (Na+) through voltage-gated channels",
+        "B": "Efflux of potassium ions (K+) through voltage-gated potassium channels",
+        "C": "Active pumping of calcium ions into the synaptic cleft",
+        "D": "Influx of chloride ions (Cl-) causing hyperpolarization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Repolarization occurs when voltage-gated Na+ channels inactivate and voltage-gated K+ channels open, allowing rapid efflux of K+ down its electrochemical gradient, restoring negative intracellular potential."
+    },
+    {
+      "id": 5,
+      "question": "Which endocrine hormone works antagonistically to Parathyroid Hormone (PTH) to lower elevated blood calcium levels by stimulating osteoblast activity?",
+      "options": {
+        "A": "Calcitonin (secreted by thyroid parafollicular cells)",
+        "B": "Aldosterone (secreted by adrenal cortex)",
+        "C": "Somatostatin",
+        "D": "Thyroxine (T4)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Calcitonin, secreted by parafollicular (C cells) of the thyroid gland, lowers hypercalcemic serum levels by suppressing osteoclastic bone resorption, promoting renal excretion of calcium, and encouraging calcium phosphate deposition into bone matrix."
+    },
+    {
+      "id": 6,
+      "question": "A newly hatched goose gosling follows the first moving object it sees within the first critical 24-36 hours of hatching. This irreversible behavioral phenomenon is an example of:",
+      "options": {
+        "A": "Operant conditioning",
+        "B": "Habituation",
+        "C": "Filial imprinting",
+        "D": "Classical conditioning"
+      },
+      "correctAnswer": "C",
+      "explanation": "Filial imprinting, famously documented by Konrad Lorenz, is a rapid, irreversible learning occurring exclusively during a sensitive critical window early in an animal's life cycle."
+    },
+    {
+      "id": 7,
+      "question": "In human females, the sudden mid-cycle surge of which hormone directly triggers ovulation from the mature Graafian follicle?",
+      "options": {
+        "A": "Progesterone",
+        "B": "Luteinizing Hormone (LH)",
+        "C": "Human Chorionic Gonadotropin (hCG)",
+        "D": "Oxytocin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rising estrogen levels from the ripening follicle exert positive feedback on the anterior pituitary, releasing a massive surge of LH (Luteinizing Hormone) approximately 24-36 hours prior to follicular rupture (ovulation)."
+    },
+    {
+      "id": 8,
+      "question": "In avian and mammalian embryogenesis, which extraembryonic membrane encloses fluid that cushions the developing embryo against mechanical shocks and dehydration?",
+      "options": {
+        "A": "Allantois",
+        "B": "Chorion",
+        "C": "Amnion",
+        "D": "Yolk sac"
+      },
+      "correctAnswer": "C",
+      "explanation": "The amnion is a transparent, fluid-filled sac surrounding the embryo with amniotic fluid, which cushions the fetus, prevents mechanical shocks, and allows symmetrical musculoskeletal development."
+    },
+    {
+      "id": 9,
+      "question": "Which enzyme is responsible for unwinding the double helix and breaking hydrogen bonds ahead of the replication fork in E. coli DNA replication?",
+      "options": {
+        "A": "DNA Ligase",
+        "B": "DNA Helicase",
+        "C": "Primase",
+        "D": "Topoisomerase I"
+      },
+      "correctAnswer": "B",
+      "explanation": "DNA Helicase (DnaB in E. coli) utilizes ATP hydrolysis energy to break hydrogen bonds between complementary base pairs, unwinding and unzipping the DNA double helix at the replication fork."
+    },
+    {
+      "id": 10,
+      "question": "A woman who is a carrier for X-linked recessive red-green color blindness (XAXa) marries a man with normal vision (XAY). What is the probability that their sons will be color blind?",
+      "options": {
+        "A": "0%",
+        "B": "25%",
+        "C": "50%",
+        "D": "100%"
+      },
+      "correctAnswer": "C",
+      "explanation": "The mother donates either XA or Xa with equal probability (50%). The sons receive their Y chromosome from the father. Therefore, 50% of male offspring will inherit XaY (color blind) and 50% will inherit XAY (normal vision)."
+    },
+    {
+      "id": 11,
+      "question": "In a population conforming to Hardy-Weinberg equilibrium, if the frequency of a recessive allele (q) is 0.3, what percentage of the population will be heterozygous carriers (2pq)?",
+      "options": {
+        "A": "9%",
+        "B": "42%",
+        "C": "49%",
+        "D": "21%"
+      },
+      "correctAnswer": "B",
+      "explanation": "If q = 0.3, then p = 1 - 0.3 = 0.7. The heterozygous genotype frequency is 2pq = 2 * (0.7) * (0.3) = 0.42, which represents 42% of the population."
+    },
+    {
+      "id": 12,
+      "question": "Which molecular tool acts as 'molecular scissors' that cleave phosphodiester bonds at specific palindromic DNA sequences during recombinant DNA cloning?",
+      "options": {
+        "A": "DNA Polymerase III",
+        "B": "Restriction Endonucleases (e.g., EcoRI)",
+        "C": "Reverse Transcriptase",
+        "D": "Alkaline phosphatase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Restriction endonucleases recognize specific palindromic 4-8 bp nucleotide sequences and make staggered or blunt cuts across both phosphodiester backbones, generating sticky or blunt ends for vector ligation."
+    },
+    {
+      "id": 13,
+      "question": "In an ecological ecosystem, what approximate percentage of energy is transferred from one trophic level to the next consecutive trophic level (Lindeman's efficiency)?",
+      "options": {
+        "A": "10%",
+        "B": "50%",
+        "C": "90%",
+        "D": "1%"
+      },
+      "correctAnswer": "A",
+      "explanation": "According to the 10% law of energy transfer (Raymond Lindeman), on average only about 10% of energy stored as organic biomass in one trophic level is incorporated into the next trophic level, with ~90% lost as metabolic heat and waste."
+    },
+    {
+      "id": 14,
+      "question": "Which of the following describes the function of surfactant produced by type II alveolar cells in human lungs?",
+      "options": {
+        "A": "Increases surface tension to collapse small alveoli",
+        "B": "Decreases alveolar surface tension, preventing atelectasis (collapse) during expiration",
+        "C": "Synthesizes antibodies against bacterial antigens",
+        "D": "Acts as an oxygen transporter into blood capillaries"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pulmonary surfactant (dipalmitoylphosphatidylcholine) disrupts cohesive hydrogen bonds between water molecules coating alveolar walls, drastically reducing surface tension and preventing alveolar collapse at low lung volumes during exhalation."
+    },
+    {
+      "id": 15,
+      "question": "Which brain region acts as the primary homeostatic thermoregulatory center and monitors blood osmolarity in humans?",
+      "options": {
+        "A": "Cerebellum",
+        "B": "Hypothalamus",
+        "C": "Medulla oblongata",
+        "D": "Corpus callosum"
+      },
+      "correctAnswer": "B",
+      "explanation": "The hypothalamus contains the central thermostat that triggers sweating or shivering and osmoreceptors that regulate ADH release in response to changes in blood osmolarity."
+    },
+    {
+      "id": 16,
+      "question": "What type of chromosomal mutation results when a segment of a chromosome breaks off, flips 180 degrees, and reinserts into the same chromosome?",
+      "options": {
+        "A": "Reciprocal translocation",
+        "B": "Duplication",
+        "C": "Inversion",
+        "D": "Aneuploidy"
+      },
+      "correctAnswer": "C",
+      "explanation": "An inversion occurs when a chromosomal segment detaches, undergoes a 180-degree rotation, and reattaches at the same location. It can be paracentric (not including centromere) or pericentric (including centromere)."
+    },
+    {
+      "id": 17,
+      "question": "Which process in the nitrogen cycle converts nitrates (NO3-) back into gaseous atmospheric nitrogen (N2) by anaerobic bacteria like Pseudomonas?",
+      "options": {
+        "A": "Nitrification",
+        "B": "Ammonification",
+        "C": "Denitrification",
+        "D": "Nitrogen fixation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Denitrification is performed by facultative anaerobic soil bacteria (such as Pseudomonas and Paracoccus) in waterlogged soils, reducing nitrates (NO3-) into dinitrogen gas (N2), replenishing atmospheric nitrogen."
+    }
+  ]
+}

@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 10,
+  "title": "Unit 10: Inheritance & Gene Expression",
+  "slug": "biology-12-chapter-10",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Mendel's Law of Segregation (First Law of Inheritance)?",
+      "options": {
+        "A": "During gamete formation, the two alleles for a heritable character segregate from each other so that each gamete carries only one allele",
+        "B": "All dominant genes are inherited together on the same chromosome",
+        "C": "Recessive traits are permanently destroyed in the F1 generation",
+        "D": "Chromosomes do not separate during meiosis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mendel's First Law states that homologous allele pairs separate during anaphase I of meiosis, packaging one allele into each haploid gamete."
+    },
+    {
+      "id": 2,
+      "question": "What is the expected phenotypic ratio in the $F_2$ generation of a classic Mendelian Monohybrid cross with complete dominance?",
+      "options": {
+        "A": "3 Dominant : 1 Recessive",
+        "B": "1 Dominant : 2 Intermediate : 1 Recessive",
+        "C": "9 : 3 : 3 : 1",
+        "D": "1 : 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Crossing heterozygous monohybrids ($Aa \\times Aa$) yields a genotypic ratio of $1 AA : 2 Aa : 1 aa$ and a phenotypic ratio of $3:1$."
+    },
+    {
+      "id": 3,
+      "question": "What is the expected phenotypic ratio in the $F_2$ generation of a Mendelian Dihybrid cross involving two independently assorting unlinked genes?",
+      "options": {
+        "A": "9 : 3 : 3 : 1",
+        "B": "3 : 1",
+        "C": "1 : 2 : 1",
+        "D": "15 : 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dihybrid cross ($AaBb \\times AaBb$) produces 9 dominant-dominant : 3 dominant-recessive : 3 recessive-dominant : 1 recessive-recessive."
+    },
+    {
+      "id": 4,
+      "question": "What type of genetic cross is performed to determine whether an individual showing a dominant phenotype is homozygous dominant ($AA$) or heterozygous ($Aa$)?",
+      "options": {
+        "A": "Test Cross (crossing the unknown individual with a homozygous recessive $aa$ individual)",
+        "B": "Backcross with a homozygous dominant individual",
+        "C": "Reciprocal cross between two wild-type individuals",
+        "D": "Polyhybrid selfing cross"
+      },
+      "correctAnswer": "A",
+      "explanation": "A test cross pairs the unknown dominant organism with a homozygous recessive tester; a 1:1 progeny ratio reveals heterozygosity, while 100% dominant confirms homozygosity."
+    },
+    {
+      "id": 5,
+      "question": "In incomplete dominance (such as in Mirabilis jalapa / 4 o'clock flowers), what is the phenotypic ratio in the $F_2$ generation from a cross between red ($RR$) and white ($rr$) parents?",
+      "options": {
+        "A": "1 Red : 2 Pink : 1 White",
+        "B": "3 Red : 1 White",
+        "C": "All Red",
+        "D": "9 Red : 7 White"
+      },
+      "correctAnswer": "A",
+      "explanation": "In incomplete dominance, heterozygotes display an intermediate blended phenotype (pink), making genotypic and phenotypic ratios identical ($1:2:1$)."
+    },
+    {
+      "id": 6,
+      "question": "What is 'Codominance' as observed in human ABO blood group inheritance?",
+      "options": {
+        "A": "Both alleles ($I^A$ and $I^B$) are fully and simultaneously expressed in the heterozygous phenotype without blending (Blood Group AB)",
+        "B": "One allele completely masks the other",
+        "C": "Neither allele produces functional antigens",
+        "D": "Alleles blend to form a new intermediate antigen"
+      },
+      "correctAnswer": "A",
+      "explanation": "In codominance, heterozygous $I^A I^B$ individuals express both A-antigen and B-antigen glycoproteins simultaneously on red blood cell membranes."
+    },
+    {
+      "id": 7,
+      "question": "How many alleles govern the ABO blood group system in human populations, and how many distinct genotypes can they produce?",
+      "options": {
+        "A": "3 multiple alleles ($I^A, I^B, i$) producing 6 distinct genotypes and 4 phenotypes (A, B, AB, O)",
+        "B": "2 alleles producing 3 genotypes",
+        "C": "4 alleles producing 8 genotypes",
+        "D": "6 alleles producing 12 genotypes"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ABO locus has 3 multiple alleles; combinations produce 6 genotypes ($I^A I^A, I^A i, I^B I^B, I^B i, I^A I^B, ii$) and 4 phenotypes."
+    },
+    {
+      "id": 8,
+      "question": "Which human blood group is known as the 'Universal Donor' for red blood cell transfusions because its erythrocytes lack both A and B surface antigens?",
+      "options": {
+        "A": "Blood Group O negative ($O^-$)",
+        "B": "Blood Group AB positive ($AB^+$)",
+        "C": "Blood Group A positive ($A^+$)",
+        "D": "Blood Group B negative ($B^-$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Type $O^-$ erythrocytes lack A, B, and Rh (D) antigens, minimizing the risk of agglutination when transfused into any recipient."
+    },
+    {
+      "id": 9,
+      "question": "Which human blood group is the 'Universal Recipient' for RBCs because the plasma contains neither anti-A nor anti-B antibodies?",
+      "options": {
+        "A": "Blood Group AB positive ($AB^+$)",
+        "B": "Blood Group O negative ($O^-$)",
+        "C": "Blood Group B positive ($B^+$)",
+        "D": "Blood Group A negative ($A^-$)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Type $AB^+$ individuals lack circulating anti-A, anti-B, and anti-Rh antibodies, allowing safe reception of packed red cells of any ABO/Rh type."
+    },
+    {
+      "id": 10,
+      "question": "What severe hemolytic disease of the newborn (Erythroblastosis Fetalis) can occur during a second pregnancy when an Rh-negative mother carries an Rh-positive fetus?",
+      "options": {
+        "A": "Maternal anti-Rh (anti-D) IgG antibodies cross the placenta and destroy fetal Rh-positive red blood cells",
+        "B": "Fetal red blood cells attack maternal liver cells",
+        "C": "Maternal insulin passes into the fetus causing hypoglycemia",
+        "D": "Fetal hemoglobin mutates into sickle cell hemoglobin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rh incompatibility sensitizes $Rh^-$ mothers during the first $Rh^+$ delivery; subsequent $Rh^+$ pregnancies face transplacental IgG destruction of fetal RBCs."
+    },
+    {
+      "id": 11,
+      "question": "What preventive medical injection is administered to an Rh-negative mother within 72 hours of delivering an Rh-positive baby to prevent sensitization?",
+      "options": {
+        "A": "Anti-D Immunoglobulin (RhoGAM)",
+        "B": "Erythropoietin",
+        "C": "Oxytocin",
+        "D": "Insulin"
+      },
+      "correctAnswer": "A",
+      "explanation": "RhoGAM binds and destroys stray fetal $Rh^+$ erythrocytes before the maternal immune system can recognize them and produce memory B cells."
+    },
+    {
+      "id": 12,
+      "question": "What is 'Epistasis' in non-allelic gene interactions?",
+      "options": {
+        "A": "A phenomenon where the expression of an allele at one gene locus masks or alters the phenotypic expression of an allele at a completely different locus",
+        "B": "The linkage of genes on the same chromosome",
+        "C": "A mutation that causes sterility",
+        "D": "The blending of maternal and paternal traits"
+      },
+      "correctAnswer": "A",
+      "explanation": "Epistasis involves inter-genic masking, such as the Bombay blood group where homozygous recessive $hh$ masks the expression of $I^A$ and $I^B$ alleles."
+    },
+    {
+      "id": 13,
+      "question": "What is 'Polygenic Inheritance' (Quantitative inheritance), responsible for continuous traits such as human skin color, height, and wheat kernel color?",
+      "options": {
+        "A": "A single phenotypic trait controlled additively by the cumulative effects of multiple independent genes",
+        "B": "A single gene affecting multiple unrelated phenotypic traits",
+        "C": "Inheritance mediated exclusively through mitochondrial DNA",
+        "D": "A trait governed by environmental temperature alone"
+      },
+      "correctAnswer": "A",
+      "explanation": "Polygenic traits are controlled by multiple additive genes, resulting in a continuous bell-shaped normal distribution curve across a population."
+    },
+    {
+      "id": 14,
+      "question": "What is 'Pleiotropy'?",
+      "options": {
+        "A": "The phenomenon where a single gene influences multiple, seemingly unrelated phenotypic traits or organ systems",
+        "B": "Multiple genes controlling one single trait",
+        "C": "The complete absence of dominance in alleles",
+        "D": "The duplication of an entire chromosome set"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pleiotropy occurs when a single mutation affects multiple body systems (e.g., Marfan syndrome causing fibrillin defects in eyes, aorta, and skeleton)."
+    },
+    {
+      "id": 15,
+      "question": "What are 'Linked Genes' in classical genetics?",
+      "options": {
+        "A": "Genes physically located close to each other on the same chromosome that tend to be inherited together, violating independent assortment",
+        "B": "Genes located on different non-homologous chromosomes",
+        "C": "Genes that code for ribosomal subunits",
+        "D": "Genes that undergo spontaneous deletion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Syntenic genes located near each other on the same chromosome travel together into gametes unless separated by homologous crossing over."
+    },
+    {
+      "id": 16,
+      "question": "During which stage of Meiosis does homologous genetic Crossing Over (recombination) occur, breaking linkage between syntenic genes?",
+      "options": {
+        "A": "Pachytene stage of Prophase I",
+        "B": "Metaphase II",
+        "C": "Anaphase I",
+        "D": "Telophase II"
+      },
+      "correctAnswer": "A",
+      "explanation": "Crossing over occurs during pachytene of prophase I between non-sister chromatids of homologous chromosomes aligned in synaptonemal complexes."
+    },
+    {
+      "id": 17,
+      "question": "In the chromosomal sex-determination system of humans and Drosophila fruit flies, what chromosome combinations determine female and male sexes?",
+      "options": {
+        "A": "XX determines female, XY determines male",
+        "B": "ZZ determines female, ZW determines male",
+        "C": "XX determines male, XO determines female",
+        "D": "Sex is determined by ploidy"
+      },
+      "correctAnswer": "A",
+      "explanation": "Humans use the XX/XY system: females are the homogametic sex ($XX$) and males are the heterogametic sex ($XY$)."
+    },
+    {
+      "id": 18,
+      "question": "In birds, butterflies, and some reptiles, which sex-determination system operates?",
+      "options": {
+        "A": "ZZ-ZW system (Females are heterogametic ZW, Males are homogametic ZZ)",
+        "B": "XX-XY system",
+        "C": "Haplodiploidy",
+        "D": "Environmental temperature determination only"
+      },
+      "correctAnswer": "A",
+      "explanation": "In birds, females produce two different types of gametes ($Z$ and $W$), while males produce only $Z$-bearing sperm ($ZZ$)."
+    },
+    {
+      "id": 19,
+      "question": "Which master sex-determining gene located on the short arm of the human Y chromosome triggers testis development in male embryos?",
+      "options": {
+        "A": "SRY Gene (Sex-determining Region Y)",
+        "B": "FOXP2 Gene",
+        "C": "BRCA1 Gene",
+        "D": "HoxA1 Gene"
+      },
+      "correctAnswer": "A",
+      "explanation": "The SRY gene encodes Testis-Determining Factor (TDF), which directs undifferentiated bipotential gonads to develop into testes."
+    },
+    {
+      "id": 20,
+      "question": "Why are X-linked recessive genetic disorders (such as Hemophilia A and Red-Green Color Blindness) far more prevalent in males than females?",
+      "options": {
+        "A": "Males are hemizygous ($XY$) and have only one X chromosome; a single mutant allele on the X chromosome will be expressed phenotypically",
+        "B": "The Y chromosome actively silences dominant genes",
+        "C": "Females cannot produce blood clotting factors",
+        "D": "Estrogen destroys normal red-green cone receptors"
+      },
+      "correctAnswer": "A",
+      "explanation": "Males have only one X chromosome ($XY$); without a second X to provide a normal dominant allele, any recessive X-linked mutation is directly expressed."
+    },
+    {
+      "id": 21,
+      "question": "What is 'Hemophilia A' ('Royal Disease') caused by genetically?",
+      "options": {
+        "A": "An X-linked recessive mutation causing a deficiency of blood coagulation Factor VIII",
+        "B": "An autosomal dominant mutation in Factor V",
+        "C": "A deletion of the entire Y chromosome",
+        "D": "A deficiency of Vitamin C in liver cells"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hemophilia A is an X-linked recessive bleeding disorder caused by deficiency or dysfunction of clotting Factor VIII."
+    },
+    {
+      "id": 22,
+      "question": "What is 'Red-Green Color Blindness' (Daltonism)?",
+      "options": {
+        "A": "An X-linked recessive condition characterized by a deficiency or abnormal spectrum of red (protan) or green (deutan) retinal cone photopigments",
+        "B": "An infection of the optic nerve by bacteria",
+        "C": "The complete absence of rod cells in the retina",
+        "D": "An age-related clouding of the lens"
+      },
+      "correctAnswer": "A",
+      "explanation": "Genes encoding red and green opsin cone photopigments reside on the X chromosome; recessive mutations impair red-green discrimination."
+    },
+    {
+      "id": 23,
+      "question": "What is a 'Sex-Limited Trait'?",
+      "options": {
+        "A": "A trait encoded by autosomal genes that is phenotypically expressed in only one sex due to anatomical or hormonal differences (e.g., milk yield in cows, beard growth in men)",
+        "B": "A gene located on the Y chromosome only",
+        "C": "A disease that kills 100% of male embryos",
+        "D": "A mutation that prevents meiosis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sex-limited traits are present in both sexes' genomes on autosomes but expressed exclusively in one sex due to sex steroid regulation or anatomy."
+    },
+    {
+      "id": 24,
+      "question": "What is a 'Sex-Influenced Trait' (such as pattern baldness in humans)?",
+      "options": {
+        "A": "An autosomal trait whose phenotypic dominance is influenced by the sex of the individual (e.g., dominant in males due to testosterone, recessive in females)",
+        "B": "A trait transmitted strictly from father to son on the Y chromosome",
+        "C": "A chromosomal inversion on chromosome 21",
+        "D": "A trait that skips three generations"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pattern baldness allele $B$ behaves as dominant in heterozygous males ($Bb$ are bald due to high dihydrotestosterone), but recessive in females ($Bb$ non-bald)."
+    },
+    {
+      "id": 25,
+      "question": "What is a 'Barr Body' in mammalian cytogenetics (Lyon Hypothesis)?",
+      "options": {
+        "A": "An inactive, heterochromatinized X chromosome condensed against the nuclear envelope in somatic cells of normal females",
+        "B": "The condensed Y chromosome found in sperm cells",
+        "C": "A chromosomal centromere during metaphase",
+        "D": "An extra copy of chromosome 21"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mary Lyon showed that one X chromosome in female somatic cells is randomly inactivated (forming a Barr body) for dosage compensation with males."
+    },
+    {
+      "id": 26,
+      "question": "What genetic disorder is characterized by Trisomy 21 ($47, +21$), presenting with intellectual disability, simian crease, epicanthic folds, and cardiac defects?",
+      "options": {
+        "A": "Down Syndrome",
+        "B": "Turner Syndrome",
+        "C": "Klinefelter Syndrome",
+        "D": "Edwards Syndrome"
+      },
+      "correctAnswer": "A",
+      "explanation": "Down syndrome is an autosomal aneuploidy caused by nondisjunction of chromosome 21 during maternal meiosis, resulting in 47 chromosomes."
+    },
+    {
+      "id": 27,
+      "question": "What is 'Turner Syndrome' cytogenetically, and what are its clinical features?",
+      "options": {
+        "A": "Monosomy X ($45, XO$), presenting in phenotypic females with short stature, webbed neck, ovarian dysgenesis (streak ovaries), and primary amenorrhea",
+        "B": "Trisomy of chromosome 18",
+        "C": "An extra Y chromosome in males ($47, XYY$)",
+        "D": "A deletion of the short arm of chromosome 5"
+      },
+      "correctAnswer": "A",
+      "explanation": "Turner syndrome is the only viable human monosomy ($45, X0$), characterized by absent Barr bodies, sterile streak gonads, and webbed neck."
+    },
+    {
+      "id": 28,
+      "question": "What is 'Klinefelter Syndrome' cytogenetically, and what are its clinical manifestations?",
+      "options": {
+        "A": "$47, XXY$ karyotype in phenotypic males, characterized by testicular atrophy, azoospermia, gynecomastia, and tall eunuchoid stature",
+        "B": "$45, XO$ karyotype in females",
+        "C": "Trisomy of chromosome 13",
+        "D": "Complete deletion of the X chromosome"
+      },
+      "correctAnswer": "A",
+      "explanation": "Klinefelter syndrome involves an extra X chromosome in males ($47, XXY$), displaying a positive Barr body, hypogonadism, and infertility."
+    },
+    {
+      "id": 29,
+      "question": "What is 'Nondisjunction' during meiotic division?",
+      "options": {
+        "A": "The failure of homologous chromosomes (in meiosis I) or sister chromatids (in meiosis II) to separate properly, producing aneuploid gametes",
+        "B": "The exchange of genetic material during crossing over",
+        "C": "The complete duplication of mitochondrial DNA",
+        "D": "The degradation of the nuclear envelope"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nondisjunction produces gametes with abnormal chromosome numbers ($n+1$ or $n-1$), which upon fertilization yield trisomy or monosomy."
+    },
+    {
+      "id": 30,
+      "question": "What is 'Cri du Chat' (Cat's Cry) syndrome caused by cytogenetically?",
+      "options": {
+        "A": "A terminal or interstitial deletion of the short arm of chromosome 5 ($5p^-$)",
+        "B": "Trisomy of chromosome 13 (Patau syndrome)",
+        "C": "An extra X chromosome in females ($47, XXX$)",
+        "D": "Inversion of chromosome 9"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cri du chat syndrome is caused by a partial deletion of the short arm of chromosome 5, producing microcephaly and a high-pitched cat-like infant cry."
+    },
+    {
+      "id": 31,
+      "question": "What is 'Huntington's Disease' in human genetics?",
+      "options": {
+        "A": "An autosomal dominant neurodegenerative disorder caused by an unstable expanded trinucleotide repeat ($CAG$) in the huntingtin gene",
+        "B": "An X-linked recessive bleeding disorder",
+        "C": "A bacterial infection of the spinal cord",
+        "D": "A dietary deficiency of vitamin D"
+      },
+      "correctAnswer": "A",
+      "explanation": "Huntington's disease is an autosomal dominant trinucleotide repeat expansion disorder ($CAG > 36$) causing progressive striatal atrophy and chorea."
+    },
+    {
+      "id": 32,
+      "question": "What is 'Cystic Fibrosis' caused by genetically in human physiology?",
+      "options": {
+        "A": "An autosomal recessive mutation in the CFTR gene (most commonly $\\Delta F508$), impairing chloride transport and producing thick viscous mucus",
+        "B": "An extra chromosome 18",
+        "C": "An X-linked dominant deficiency of insulin",
+        "D": "A chromosomal translocation between chromosomes 9 and 22"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cystic fibrosis is caused by mutations in the CFTR chloride channel gene, causing thick desiccated secretions in lungs, pancreas, and sweat glands."
+    },
+    {
+      "id": 33,
+      "question": "What is 'Amniocentesis' in prenatal genetic screening?",
+      "options": {
+        "A": "The transabdominal aspiration of amniotic fluid containing desquamated fetal cells for karyotyping and biochemical genetic analysis",
+        "B": "Measuring maternal blood pressure during labor",
+        "C": "An ultrasound scan measuring fetal bone length",
+        "D": "Injecting antibiotics directly into the umbilical cord"
+      },
+      "correctAnswer": "A",
+      "explanation": "Amniocentesis samples amniotic fluid around 15–18 weeks gestation to culture fetal cells for chromosomal karyotyping and biochemical testing."
+    },
+    {
+      "id": 34,
+      "question": "What is 'Chorionic Villus Sampling' (CVS) compared to amniocentesis?",
+      "options": {
+        "A": "A biopsy of chorionic villi performed earlier (10 to 12 weeks gestation) to extract fetal trophoblast tissue for rapid karyotyping",
+        "B": "Testing maternal urine for protein",
+        "C": "Extracting fetal blood from the placenta at delivery",
+        "D": "A postnatal hearing test for infants"
+      },
+      "correctAnswer": "A",
+      "explanation": "CVS samples chorionic villi transcervically or transabdominally earlier in pregnancy (first trimester) to detect fetal chromosomal abnormalities."
+    },
+    {
+      "id": 35,
+      "question": "What does a standardized pedigree chart use to represent an affected male individual?",
+      "options": {
+        "A": "A fully shaded square (■)",
+        "B": "An unshaded circle (○)",
+        "C": "A shaded circle (●)",
+        "D": "An unshaded triangle (△)"
+      },
+      "correctAnswer": "A",
+      "explanation": "In clinical genetics pedigree charts, squares represent males, circles represent females, and fully shaded symbols indicate affected individuals."
+    }
+  ]
+}

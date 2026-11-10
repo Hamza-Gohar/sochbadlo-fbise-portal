@@ -1,0 +1,214 @@
+{
+  "chapterNumber": 22,
+  "chapterTitle": "Annual Board Examination Section A Simulator 9 (17 Marks · 25 Min)",
+  "title": "Annual Board Examination Section A Simulator 9 (17 Marks · 25 Min)",
+  "slug": "biology-12-model-paper-9",
+  "totalQuestions": 17,
+  "subject": "biology-12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What happens to the affinity of hemoglobin for oxygen when carbon dioxide levels rise and pH drops (Bohr Effect)?",
+      "options": {
+        "A": "Affinity increases and hemoglobin binds oxygen more tightly",
+        "B": "Affinity decreases and hemoglobin unloads oxygen more readily to tissues",
+        "C": "Hemoglobin denatures immediately",
+        "D": "Oxygen binding becomes independent of pO2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Elevated CO2 and lower pH (acidosis) promote proton binding to specific globin residues, stabilizing the low-affinity T (tense) conformation of hemoglobin, causing it to unload oxygen to working tissues."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following substances is completely reabsorbed from glomerular filtrate under normal physiological conditions in the proximal tubule?",
+      "options": {
+        "A": "Urea",
+        "B": "Creatinine",
+        "C": "Glucose",
+        "D": "Inulin"
+      },
+      "correctAnswer": "C",
+      "explanation": "Under normal physiological conditions, 100% of filtered glucose is actively reabsorbed by SGLT cotransporters in the proximal convoluted tubule, so no glucose appears in normal urine."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following constitutes the axial skeleton in adult humans?",
+      "options": {
+        "A": "Clavicle, scapula, and humerus",
+        "B": "Skull, vertebral column, ribs, and sternum (80 bones total)",
+        "C": "Pelvic girdle and femur",
+        "D": "Carpals, metacarpals, and phalanges"
+      },
+      "correctAnswer": "B",
+      "explanation": "The human axial skeleton consists of 80 bones along the central body axis: 28 bones of the skull (cranium and face), 1 hyoid, 26 vertebrae, 24 ribs, and 1 sternum."
+    },
+    {
+      "id": 4,
+      "question": "Which brain structure is the major coordination center for motor movements, balance, and fine procedural motor skills?",
+      "options": {
+        "A": "Cerebellum",
+        "B": "Corpus callosum",
+        "C": "Hippocampus",
+        "D": "Substantia nigra"
+      },
+      "correctAnswer": "A",
+      "explanation": "The cerebellum processes sensory inputs from the vestibular apparatus, proprioceptors, and motor cortex to modulate posture, smooth coordination, and muscle timing."
+    },
+    {
+      "id": 5,
+      "question": "Which hormone is secreted by the adrenal medulla during acute stress, increasing cardiac output, blood glucose, and respiratory rate?",
+      "options": {
+        "A": "Aldosterone",
+        "B": "Cortisol",
+        "C": "Epinephrine (Adrenaline)",
+        "D": "Glucagon"
+      },
+      "correctAnswer": "C",
+      "explanation": "Epinephrine is released by adrenal medullary chromaffin cells under sympathetic preganglionic stimulation, orchestrating the rapid fight-or-flight metabolic and cardiovascular response."
+    },
+    {
+      "id": 6,
+      "question": "A bird ignores a scarecrow after several days of seeing it remain motionless with no associated danger. This behavioral adaptation is:",
+      "options": {
+        "A": "Habituation",
+        "B": "Imprinting",
+        "C": "Classical conditioning",
+        "D": "Operant conditioning"
+      },
+      "correctAnswer": "A",
+      "explanation": "Habituation allows animals to filter out persistent harmless stimuli, conserving energy by eliminating unnecessary alarm and escape behaviors."
+    },
+    {
+      "id": 7,
+      "question": "Sperm cells complete their final maturation, acquire motility, and are stored in which coiled ductal system?",
+      "options": {
+        "A": "Seminiferous tubules",
+        "B": "Epididymis",
+        "C": "Ejaculatory duct",
+        "D": "Prostate gland"
+      },
+      "correctAnswer": "B",
+      "explanation": "Immature immotile spermatozoa pass from rete testis into the epididymis, where they undergo a 12-14 day transit to develop forward progressive motility and storage capacity."
+    },
+    {
+      "id": 8,
+      "question": "The three primary germ layers (ectoderm, mesoderm, endoderm) are formed during which embryonic stage?",
+      "options": {
+        "A": "Morula",
+        "B": "Blastulation",
+        "C": "Gastrulation",
+        "D": "Neurulation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Gastrulation is the morphogenetic process during which cell movements through the primitive streak convert the bilaminar blastodisc into a trilaminar embryo with ectoderm, mesoderm, and endoderm."
+    },
+    {
+      "id": 9,
+      "question": "In DNA replication, the enzyme that relieves positive supercoiling ahead of the replication fork by transiently cutting and swiveling DNA strands is:",
+      "options": {
+        "A": "Topoisomerase (DNA Gyrase)",
+        "B": "DNA Helicase",
+        "C": "DNA Ligase",
+        "D": "Single-Stranded Binding (SSB) protein"
+      },
+      "correctAnswer": "A",
+      "explanation": "Topoisomerases (including DNA Gyrase in bacteria) cut one or both phosphodiester backbones ahead of the replication fork, relieving torsional strain generated by helicase-mediated unwinding."
+    },
+    {
+      "id": 10,
+      "question": "When a single gene locus suppresses or masks the phenotypic expression of an entirely different, independent gene locus, the phenomenon is called:",
+      "options": {
+        "A": "Incomplete dominance",
+        "B": "Epistasis",
+        "C": "Pleiotropy",
+        "D": "Codominance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Epistasis is non-allelic gene interaction where the alleles of one gene (epistatic gene) mask or modify the phenotypic expression of another independent gene (hypostatic gene)."
+    },
+    {
+      "id": 11,
+      "question": "Natural selection that favors individuals at both phenotypic extremes while selecting against intermediate phenotypes is classified as:",
+      "options": {
+        "A": "Stabilizing selection",
+        "B": "Directional selection",
+        "C": "Disruptive (diversifying) selection",
+        "D": "Balancing selection"
+      },
+      "correctAnswer": "C",
+      "explanation": "Disruptive selection occurs when environmental conditions favor individuals on both tails of the phenotypic distribution over intermediate phenotypes, potentially splitting a population into two distinct morphs."
+    },
+    {
+      "id": 12,
+      "question": "In molecular cloning, cDNA (complementary DNA) libraries are generated from mature eukaryotic mRNA transcripts using which viral enzyme?",
+      "options": {
+        "A": "DNA Polymerase I",
+        "B": "Reverse Transcriptase",
+        "C": "RNA Polymerase II",
+        "D": "Terminal transferase"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reverse transcriptase, an RNA-dependent DNA polymerase derived from retroviruses, synthesizes complementary DNA (cDNA) from mature mRNA templates, producing intron-free gene sequences suitable for bacterial expression."
+    },
+    {
+      "id": 13,
+      "question": "In a grazing food chain, organisms that feed directly upon primary producers (autotrophs) occupy which trophic level?",
+      "options": {
+        "A": "First trophic level (Producers)",
+        "B": "Second trophic level (Primary consumers / Herbivores)",
+        "C": "Third trophic level (Secondary consumers / Carnivores)",
+        "D": "Fourth trophic level (Apex predators)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Primary producers (plants, algae) occupy the first trophic level. Herbivores that ingest producers occupy the second trophic level as primary consumers."
+    },
+    {
+      "id": 14,
+      "question": "What is the normal atmospheric concentration of carbon dioxide (CO2) approximately measured currently in the global troposphere?",
+      "options": {
+        "A": "0.04% (~420 ppm)",
+        "B": "0.4%",
+        "C": "4.0%",
+        "D": "0.004%"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tropospheric carbon dioxide concentration is approximately 0.042% by volume (~420 parts per million), having risen from pre-industrial levels of ~280 ppm due to fossil fuel combustion."
+    },
+    {
+      "id": 15,
+      "question": "Which portion of the adrenal gland is embryologically derived from neural crest ectoderm and functions as a modified sympathetic ganglion?",
+      "options": {
+        "A": "Zona glomerulosa",
+        "B": "Adrenal medulla",
+        "C": "Zona fasciculata",
+        "D": "Zona reticularis"
+      },
+      "correctAnswer": "B",
+      "explanation": "The adrenal medulla develops from embryonic neural crest cells that migrate into the adrenal primordium, differentiating into postganglionic neuroendocrine chromaffin cells."
+    },
+    {
+      "id": 16,
+      "question": "What structure at the 5' end of eukaryotic mature mRNA protects it from exonucleolytic degradation and promotes translation initiation?",
+      "options": {
+        "A": "Poly-A tail",
+        "B": "7-methylguanosine (m7G) cap",
+        "C": "Shine-Dalgarno sequence",
+        "D": "Spliceosome branch site"
+      },
+      "correctAnswer": "B",
+      "explanation": "Eukaryotic pre-mRNAs receive a 7-methylguanosine cap linked via an unusual 5'-to-5' triphosphate bridge at their 5' end, which stabilizes the transcript against 5' exonucleases and binds initiation factors (eIF4E)."
+    },
+    {
+      "id": 17,
+      "question": "Which biome is characterized by dense coniferous evergreen forests (spruce, fir, pine), long freezing winters, and acidic podzol soils?",
+      "options": {
+        "A": "Tropical rainforest",
+        "B": "Taiga (Boreal forest)",
+        "C": "Savanna",
+        "D": "Temperate deciduous forest"
+      },
+      "correctAnswer": "B",
+      "explanation": "The taiga (boreal coniferous forest) stretches across northern subarctic latitudes of Eurasia and North America, dominated by needle-leaved cone-bearing evergreens adapted to severe cold."
+    }
+  ]
+}

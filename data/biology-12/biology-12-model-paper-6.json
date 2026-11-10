@@ -1,0 +1,214 @@
+{
+  "chapterNumber": 19,
+  "chapterTitle": "Annual Board Examination Section A Simulator 6 (17 Marks · 25 Min)",
+  "title": "Annual Board Examination Section A Simulator 6 (17 Marks · 25 Min)",
+  "slug": "biology-12-model-paper-6",
+  "totalQuestions": 17,
+  "subject": "biology-12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which respiratory pigment found inside skeletal muscle fibers binds oxygen with higher affinity than hemoglobin, storing oxygen for muscular activity?",
+      "options": {
+        "A": "Hemocyanin",
+        "B": "Myoglobin",
+        "C": "Cytochrome c",
+        "D": "Chlorocruorin"
+      },
+      "correctAnswer": "B",
+      "explanation": "Myoglobin is a monomeric iron-containing heme protein with a hyperbolic oxygen binding curve and significantly higher affinity for O2 than tetrameric hemoglobin, storing oxygen in muscle until extreme tissue hypoxia occurs."
+    },
+    {
+      "id": 2,
+      "question": "In the renal corpuscle, which specialized epithelial cells with interdigitating foot processes (pedicels) wrap around glomerular capillaries to form filtration slits?",
+      "options": {
+        "A": "Podocytes",
+        "B": "Kupffer cells",
+        "C": "Parietal epithelial cells",
+        "D": "Endothelial fenestrations"
+      },
+      "correctAnswer": "A",
+      "explanation": "Podocytes are specialized visceral epithelial cells of Bowman's capsule whose pedicels interdigitate to create filtration slits bridged by nephrin slit diaphragms, preventing passage of large serum proteins."
+    },
+    {
+      "id": 3,
+      "question": "What structural feature connects cardiac muscle cells end-to-end, containing desmosomes for mechanical adhesion and gap junctions for electrical syncytium?",
+      "options": {
+        "A": "Neuromuscular junctions",
+        "B": "Intercalated discs",
+        "C": "T-tubules",
+        "D": "Sarcomeric Z-lines"
+      },
+      "correctAnswer": "B",
+      "explanation": "Intercalated discs join cardiomyocytes mechanically (via fascia adherens and desmosomes) and electrically (via low-resistance gap junctions), allowing synchronized wave-like depolarization of the myocardium."
+    },
+    {
+      "id": 4,
+      "question": "The resting membrane potential (-70 mV) of a human neuron is primarily created and maintained by:",
+      "options": {
+        "A": "Passive entry of sodium and exit of chloride",
+        "B": "The electrogenic Na+/K+ ATPase pump and high resting K+ leak channel permeability",
+        "C": "Rapid entry of calcium ions",
+        "D": "Equal distribution of anions inside and outside the cell"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Na+/K+ pump actively expels 3 Na+ for every 2 K+ brought in, while background potassium leak channels allow outward K+ diffusion, keeping the interior of the resting membrane negative at ~ -70 mV."
+    },
+    {
+      "id": 5,
+      "question": "Which pituitary hormone stimulates thyroid follicular cells to synthesize and secrete thyroxine (T4) and triiodothyronine (T3)?",
+      "options": {
+        "A": "Thyroid-Stimulating Hormone (TSH / Thyrotropin)",
+        "B": "Adrenocorticotropic Hormone (ACTH)",
+        "C": "Luteinizing Hormone (LH)",
+        "D": "Prolactin"
+      },
+      "correctAnswer": "A",
+      "explanation": "TSH, released from the anterior pituitary under the influence of hypothalamic TRH, binds to GPCR receptors on thyroid follicular cells, stimulating iodine trapping, thyroglobulin iodination, and release of T3 and T4."
+    },
+    {
+      "id": 6,
+      "question": "In honeybee colonies, which communication behavior discovered by Karl von Frisch conveys both direction and distance of a nectar source relative to the sun?",
+      "options": {
+        "A": "Round dance",
+        "B": "Waggle dance",
+        "C": "Pheromone trailing",
+        "D": "Trophallaxis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Karl von Frisch decoded the waggle dance of Apis mellifera: the orientation of the waggle run relative to gravity encodes direction relative to the sun, while the duration of the waggle run indicates distance to the food source."
+    },
+    {
+      "id": 7,
+      "question": "The entry of multiple sperm into a single ovum during fertilization (polyspermy) is permanently blocked by:",
+      "options": {
+        "A": "Fast block depolarization alone",
+        "B": "The cortical reaction hardening the zona pellucida into a fertilization membrane",
+        "C": "Acrosome degradation",
+        "D": "Estrogen withdrawal"
+      },
+      "correctAnswer": "B",
+      "explanation": "The slow block to polyspermy involves intracellular calcium release triggering exocytosis of cortical granules, which release proteases that hydrolyze ZP3 receptors and crosslink the zona pellucida (zona reaction)."
+    },
+    {
+      "id": 8,
+      "question": "What is the primary function of telomeres at the ends of eukaryotic linear chromosomes?",
+      "options": {
+        "A": "Coding for essential ribosomal RNA",
+        "B": "Preventing chromosomal degradation, end-to-end fusion, and loss of vital genetic sequences during replication",
+        "C": "Directing spindle fiber attachment during metaphase",
+        "D": "Synthesizing histone core proteins"
+      },
+      "correctAnswer": "B",
+      "explanation": "Telomeres consist of repetitive non-coding sequences (TTAGGG in humans) that protect chromosome ends from shortening during incomplete lagging-strand replication and prevent DNA repair systems from misidentifying them as double-strand breaks."
+    },
+    {
+      "id": 9,
+      "question": "Which enzyme catalyzes the transcription of protein-coding genes into messenger RNA (mRNA) in eukaryotic cells?",
+      "options": {
+        "A": "RNA Polymerase I",
+        "B": "RNA Polymerase II",
+        "C": "RNA Polymerase III",
+        "D": "DNA Polymerase alpha"
+      },
+      "correctAnswer": "B",
+      "explanation": "RNA Polymerase II synthesizes all eukaryotic protein-coding mRNA precursors (pre-mRNA) and most snRNAs, whereas RNA Polymerase I transcribes major rRNAs and RNA Polymerase III synthesizes tRNAs and 5S rRNA."
+    },
+    {
+      "id": 10,
+      "question": "What genetic interaction describes a phenomenon where a single gene influences multiple unrelated phenotypic traits (e.g., Marfan syndrome or Sickle cell anemia)?",
+      "options": {
+        "A": "Polygenic inheritance",
+        "B": "Pleiotropy",
+        "C": "Codominance",
+        "D": "Epistasis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pleiotropy occurs when a mutation in a single gene has multiple, seemingly disparate phenotypic consequences across multiple organ systems (e.g., sickle hemoglobin causing anemia, splenic infarcts, and stroke)."
+    },
+    {
+      "id": 11,
+      "question": "The reduced genetic diversity observed when a small founding cohort establishes a new colony isolated from the parent population is called:",
+      "options": {
+        "A": "Gene flow",
+        "B": "Founder effect",
+        "C": "Bottleneck effect",
+        "D": "Disruptive selection"
+      },
+      "correctAnswer": "B",
+      "explanation": "The founder effect is a form of genetic drift that occurs when a few individuals colonize a new habitat, carrying only a non-random fraction of the parent population's genetic variance."
+    },
+    {
+      "id": 12,
+      "question": "What technique uses short fluorescent single-stranded DNA or RNA probes to locate specific nucleotide sequences directly on intact metaphase chromosomes?",
+      "options": {
+        "A": "Fluorescence In Situ Hybridization (FISH)",
+        "B": "Western Blotting",
+        "C": "Polyacrylamide Gel Electrophoresis (PAGE)",
+        "D": "Sanger sequencing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fluorescence In Situ Hybridization (FISH) utilizes fluorescently labeled complementary DNA/RNA probes to hybridize to target chromosomal regions, allowing direct microscopic visualization of deletions or translocations."
+    },
+    {
+      "id": 13,
+      "question": "A terrestrial biome characterized by permafrost, extremely low temperatures, absence of tall trees, and dominant lichens and mosses is the:",
+      "options": {
+        "A": "Taiga (Boreal forest)",
+        "B": "Tundra",
+        "C": "Temperate grassland",
+        "D": "Chaparral"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Arctic and Alpine Tundra biomes are defined by permanently frozen subsoil (permafrost), short growing seasons, low precipitation, and dwarf vegetation like lichens, sedges, and mosses."
+    },
+    {
+      "id": 14,
+      "question": "In human lung physiology, what is the anatomical dead space volume (air filling conducting airways that does not participate in gas exchange)?",
+      "options": {
+        "A": "50 mL",
+        "B": "150 mL",
+        "C": "500 mL",
+        "D": "1,000 mL"
+      },
+      "correctAnswer": "B",
+      "explanation": "Anatomical dead space encompasses the conducting zone (nose, pharynx, larynx, trachea, bronchi, bronchioles) where no gas exchange occurs, typically measuring ~150 mL in an average human."
+    },
+    {
+      "id": 15,
+      "question": "Which condition results from autoimmune destruction of the adrenal cortex, causing deficiency of glucocorticoids and mineralocorticoids, hyperpigmentation, and severe hypotension?",
+      "options": {
+        "A": "Cushing's disease",
+        "B": "Addison's disease",
+        "C": "Hashimoto's thyroiditis",
+        "D": "Pheochromocytoma"
+      },
+      "correctAnswer": "B",
+      "explanation": "Addison's disease (primary adrenal insufficiency) features autoimmune destruction of all adrenal cortical zones, resulting in low cortisol and aldosterone, hyponatremia, hypoglycemia, skin hyperpigmentation, and hypotension."
+    },
+    {
+      "id": 16,
+      "question": "During pre-mRNA processing in eukaryotic nuclei, which intervening non-coding sequences are excised by spliceosomes prior to export to the cytoplasm?",
+      "options": {
+        "A": "Exons",
+        "B": "Introns",
+        "C": "Promoters",
+        "D": "Enhancers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Introns (intervening non-coding sequences) are cleaved from pre-mRNA and degraded by the spliceosome complex (snRNPs), while coding exons are spliced together to form mature mRNA."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following international treaties was signed in 1987 to phase out production and consumption of ozone-depleting chlorofluorocarbons (CFCs)?",
+      "options": {
+        "A": "Kyoto Protocol",
+        "B": "Montreal Protocol",
+        "C": "Paris Agreement",
+        "D": "Ramsar Convention"
+      },
+      "correctAnswer": "B",
+      "explanation": "The Montreal Protocol on Substances that Deplete the Ozone Layer (1987) is the landmark international agreement successfully mandating global phase-out of CFCs and halons to recover the stratospheric ozone layer."
+    }
+  ]
+}

@@ -1,0 +1,188 @@
+{
+  "chapterNumber": 1,
+  "title": "Annual Board Examination Section A Simulator 1 (15 Marks · 20 Min)",
+  "slug": "cs-12-model-paper-1",
+  "totalQuestions": 15,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which usability attribute evaluates how pleasant and satisfying the user interface design is to use?",
+      "options": {
+        "A": "Satisfaction",
+        "B": "Throughput",
+        "C": "Bandwidth",
+        "D": "Reliability"
+      },
+      "correctAnswer": "A",
+      "explanation": "Satisfaction is one of Nielsen's five key usability quality metrics assessing user comfort and positive attitude toward the interface."
+    },
+    {
+      "id": 2,
+      "question": "Which WCAG accessibility standard level is the minimum legally recognized baseline for public digital web systems?",
+      "options": {
+        "A": "Level AA",
+        "B": "Level A",
+        "C": "Level AAA",
+        "D": "Level B"
+      },
+      "correctAnswer": "A",
+      "explanation": "WCAG Level AA is the universally accepted standard for legal compliance and enterprise digital accessibility."
+    },
+    {
+      "id": 3,
+      "question": "What is the worst-case time complexity of accessing an element in an array by index?",
+      "options": {
+        "A": "$O(1)$",
+        "B": "$O(n)$",
+        "C": "$O(\\log n)$",
+        "D": "$O(n^2)$"
+      },
+      "correctAnswer": "A",
+      "explanation": "Arrays provide direct memory offset addressing (base address + index * element size), allowing instantaneous $O(1)$ lookup."
+    },
+    {
+      "id": 4,
+      "question": "Which data structure follows a strict Last-In, First-Out (LIFO) discipline?",
+      "options": {
+        "A": "Stack",
+        "B": "Queue",
+        "C": "Binary Search Tree",
+        "D": "Priority Queue"
+      },
+      "correctAnswer": "A",
+      "explanation": "Stacks operate on LIFO principle, where only the top element is accessible for push and pop operations."
+    },
+    {
+      "id": 5,
+      "question": "Which traversal of a Binary Search Tree produces the stored keys in strictly ascending numerical order?",
+      "options": {
+        "A": "In-order Traversal",
+        "B": "Pre-order Traversal",
+        "C": "Post-order Traversal",
+        "D": "Breadth-First Traversal"
+      },
+      "correctAnswer": "A",
+      "explanation": "In-order traversal visits left-root-right, outputting sorted ascending values for any valid BST."
+    },
+    {
+      "id": 6,
+      "question": "In Python, which magic method is triggered when two instances are added using the `+` operator?",
+      "options": {
+        "A": "`__add__(self, other)`",
+        "B": "`__plus__(self, other)`",
+        "C": "`__sum__(self, other)`",
+        "D": "`__append__(self, other)`"
+      },
+      "correctAnswer": "A",
+      "explanation": "The `__add__` dunder method overloads the `+` operator for custom class instances in Python."
+    },
+    {
+      "id": 7,
+      "question": "What is the output of `bool([])` in Python 3?",
+      "options": {
+        "A": "`False`",
+        "B": "`True`",
+        "C": "`None`",
+        "D": "`Error`"
+      },
+      "correctAnswer": "A",
+      "explanation": "Empty collections (empty lists, tuples, sets, dictionaries, and strings) evaluate to `False` in Python truth-value testing."
+    },
+    {
+      "id": 8,
+      "question": "Which Pandas method removes duplicate rows from a DataFrame?",
+      "options": {
+        "A": "`df.drop_duplicates()`",
+        "B": "`df.remove_clones()`",
+        "C": "`df.clean_unique()`",
+        "D": "`df.filter_duplicates()`"
+      },
+      "correctAnswer": "A",
+      "explanation": "`df.drop_duplicates()` identifies and deletes duplicate rows based on all or specified columns."
+    },
+    {
+      "id": 9,
+      "question": "Which metric evaluates the quality of split decisions in decision tree algorithms by measuring data impurity?",
+      "options": {
+        "A": "Gini Impurity / Entropy",
+        "B": "Euclidean Norm",
+        "C": "Mahalanobis Distance",
+        "D": "Cosine Similarity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Gini Impurity and Information Gain (Entropy) quantify class mixture to pick the best feature split in decision trees."
+    },
+    {
+      "id": 10,
+      "question": "Which cloud computing model allows developers to deploy code without managing servers, charged only for execution time?",
+      "options": {
+        "A": "Serverless Computing (FaaS)",
+        "B": "Bare Metal IaaS",
+        "C": "Dedicated On-Premises Host",
+        "D": "Co-located Data Center"
+      },
+      "correctAnswer": "A",
+      "explanation": "Serverless (Function as a Service) provisions resources dynamically upon events and bills per millisecond of compute time."
+    },
+    {
+      "id": 11,
+      "question": "What is the primary cryptographic algorithm used to secure HTTPS traffic over TLS 1.3 for symmetric data encryption?",
+      "options": {
+        "A": "AES (Advanced Encryption Standard)",
+        "B": "MD5",
+        "C": "DES",
+        "D": "Bacon Cipher"
+      },
+      "correctAnswer": "A",
+      "explanation": "TLS handshakes negotiate symmetric ciphers like AES-GCM or ChaCha20-Poly1305 for bulk payload encryption."
+    },
+    {
+      "id": 12,
+      "question": "What does PECA stand for in Pakistan's legal cyber framework?",
+      "options": {
+        "A": "Prevention of Electronic Crimes Act",
+        "B": "Protection of Electronic Commerce Association",
+        "C": "Pakistan Enforcement of Cyber Agreements",
+        "D": "Public Electronic Communications Authority"
+      },
+      "correctAnswer": "A",
+      "explanation": "PECA stands for the Prevention of Electronic Crimes Act, enacted in 2016 to criminalize unauthorized access, online harassment, and cyber fraud."
+    },
+    {
+      "id": 13,
+      "question": "In software testing, what type of test evaluates whether previously working functionality still operates correctly after recent code changes?",
+      "options": {
+        "A": "Regression Testing",
+        "B": "Alpha Testing",
+        "C": "Usability Testing",
+        "D": "Stress Fuzzing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Regression testing ensures that new bug fixes or feature additions do not unintentionally break existing software workflows."
+    },
+    {
+      "id": 14,
+      "question": "In tech startups, what is the term for the number of months a company can survive at its current burn rate before running out of cash?",
+      "options": {
+        "A": "Runway",
+        "B": "Traction",
+        "C": "Flywheel",
+        "D": "Pivot"
+      },
+      "correctAnswer": "A",
+      "explanation": "Runway = Total Available Cash / Monthly Net Burn Rate, denoting remaining operational survival time."
+    },
+    {
+      "id": 15,
+      "question": "Which Git command fetches changes from a remote repository and immediately integrates them into the current active branch?",
+      "options": {
+        "A": "`git pull`",
+        "B": "`git commit`",
+        "C": "`git push`",
+        "D": "`git checkout`"
+      },
+      "correctAnswer": "A",
+      "explanation": "`git pull` is essentially a combination of `git fetch` followed by `git merge` into the checked-out branch."
+    }
+  ]
+}

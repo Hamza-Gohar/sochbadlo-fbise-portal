@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 2,
+  "title": "Unit 2: Homeostasis, Osmoregulation & Excretion",
+  "slug": "biology-12-chapter-2",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is Homeostasis in physiological biology?",
+      "options": {
+        "A": "The maintenance of a relatively stable internal environment despite fluctuations in external conditions",
+        "B": "The process of genetic mutation during cell division",
+        "C": "The breakdown of glucose into pyruvate via glycolysis",
+        "D": "The extinction of biological species in ecosystems"
+      },
+      "correctAnswer": "A",
+      "explanation": "Homeostasis (coined by Walter Cannon) is the dynamic equilibrium maintaining internal variables (pH, temperature, osmolality) within narrow limits."
+    },
+    {
+      "id": 2,
+      "question": "Which category of plants is adapted to living in dry, arid habitats with adaptations such as thick cuticles, sunken stomata, and succulent stems?",
+      "options": {
+        "A": "Xerophytes",
+        "B": "Hydrophytes",
+        "C": "Halophytes",
+        "D": "Mesophytes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Xerophytes (e.g., cacti, Opuntia) feature specialized morphological adaptations to conserve water in arid environments."
+    },
+    {
+      "id": 3,
+      "question": "What are Halophytes?",
+      "options": {
+        "A": "Plants adapted to growing in saline soils or marshes that actively accumulate salts in vacuoles to absorb water",
+        "B": "Freshwater aquatic plants submerged in lakes",
+        "C": "Parasitic plants lacking chlorophyll",
+        "D": "Carnivorous plants that digest insects"
+      },
+      "correctAnswer": "A",
+      "explanation": "Halophytes thrive in highly saline environments by actively pumping salts into cell vacuoles to lower internal water potential."
+    },
+    {
+      "id": 4,
+      "question": "What is the structural and functional filtration unit of the mammalian kidney?",
+      "options": {
+        "A": "Nephron",
+        "B": "Neuron",
+        "C": "Alveolus",
+        "D": "Hepatocyte"
+      },
+      "correctAnswer": "A",
+      "explanation": "Each human kidney contains roughly one million nephrons responsible for ultrafiltration, selective reabsorption, and tubular secretion."
+    },
+    {
+      "id": 5,
+      "question": "In the nephron, where does non-selective Ultrafiltration occur under high hydrostatic pressure?",
+      "options": {
+        "A": "Glomerulus into Bowman's Capsule",
+        "B": "Loop of Henle into Vasa Recta",
+        "C": "Distal Convoluted Tubule into Collecting Duct",
+        "D": "Renal Pelvis into Ureter"
+      },
+      "correctAnswer": "A",
+      "explanation": "High capillary pressure in the glomerulus forces water and small solutes through the fenestrated endothelium and podocyte filtration slits into Bowman's capsule."
+    },
+    {
+      "id": 6,
+      "question": "Why are plasma proteins (like albumin) and blood cells normally absent in the glomerular filtrate?",
+      "options": {
+        "A": "They are too large to pass through the glomerular capillary pores and negative basement membrane",
+        "B": "They are broken down into amino acids inside the renal artery",
+        "C": "They are actively transported backwards into renal lymphatics",
+        "D": "They evaporate during ultrafiltration"
+      },
+      "correctAnswer": "A",
+      "explanation": "The podocyte filtration slits and negatively charged glomerular basement membrane physically repel cellular elements and large anionic proteins."
+    },
+    {
+      "id": 7,
+      "question": "In which segment of the nephron is the vast majority (approximately 65% to 80%) of water, sodium, glucose, and amino acids reabsorbed?",
+      "options": {
+        "A": "Proximal Convoluted Tubule (PCT)",
+        "B": "Distal Convoluted Tubule (DCT)",
+        "C": "Collecting Duct",
+        "D": "Thin Ascending Limb of Henle"
+      },
+      "correctAnswer": "A",
+      "explanation": "The PCT, with its extensive brush-border microvilli and dense mitochondria, reabsorbs nearly all filtered nutrients, electrolytes, and water."
+    },
+    {
+      "id": 8,
+      "question": "What is the primary function of the Countercurrent Multiplier mechanism established by the Loops of Henle and Vasa Recta?",
+      "options": {
+        "A": "Creating a progressive hyperosmotic medullary gradient that allows the kidney to excrete concentrated hypertonic urine",
+        "B": "Filtering glucose into the urinary bladder",
+        "C": "Preventing blood from clotting inside renal veins",
+        "D": "Secreting bile pigments into renal pyramids"
+      },
+      "correctAnswer": "A",
+      "explanation": "The countercurrent multiplier builds an osmotic gradient from cortex (300 mOsm/kg) to deep medulla (1200 mOsm/kg), enabling water reabsorption."
+    },
+    {
+      "id": 9,
+      "question": "Which hormone secreted by the posterior pituitary increases water reabsorption in the collecting ducts by inserting Aquaporin-2 water channels?",
+      "options": {
+        "A": "Antidiuretic Hormone (ADH / Vasopressin)",
+        "B": "Aldosterone",
+        "C": "Atrial Natriuretic Peptide (ANP)",
+        "D": "Oxytocin"
+      },
+      "correctAnswer": "A",
+      "explanation": "ADH acts on V2 receptors in collecting duct principal cells, mobilizing aquaporin-2 channels to reabsorb water and concentrate urine."
+    },
+    {
+      "id": 10,
+      "question": "Which hormone secreted by the adrenal cortex stimulates active sodium ($Na^+$) reabsorption and potassium ($K^+$) excretion in the distal nephron?",
+      "options": {
+        "A": "Aldosterone",
+        "B": "Cortisol",
+        "C": "Calcitonin",
+        "D": "Insulin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Aldosterone upregulates epithelial sodium channels (ENaC) and $Na^+/K^+$ pumps, retaining $Na^+$ and water while excreting $K^+$."
+    },
+    {
+      "id": 11,
+      "question": "What triggers the secretion of Renin by the Juxtaglomerular (JG) apparatus in the kidney?",
+      "options": {
+        "A": "A decrease in renal blood perfusion pressure or low $Na^+$ delivery to the macula densa",
+        "B": "Severe hypertension in the aorta",
+        "C": "Drinking excessive quantities of water",
+        "D": "High blood glucose concentration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Low blood pressure, renal sympathetic activation, or low sodium delivery prompts JG granular cells to release renin into circulation."
+    },
+    {
+      "id": 12,
+      "question": "What is the primary nitrogenous excretory product in terrestrial mammals (including humans), synthesized in the liver via the Ornithine cycle?",
+      "options": {
+        "A": "Urea",
+        "B": "Ammonia",
+        "C": "Uric Acid",
+        "D": "Creatine Phosphate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mammals are ureotelic, converting toxic ammonia into less toxic, water-soluble urea via the hepatic urea (ornithine) cycle."
+    },
+    {
+      "id": 13,
+      "question": "Which animals are 'Uricotelic', excreting practically water-insoluble, non-toxic uric acid paste to conserve maximum body water?",
+      "options": {
+        "A": "Birds, reptiles, and terrestrial insects",
+        "B": "Aquatic bony fishes",
+        "C": "Mammals and adult amphibians",
+        "D": "Marine protozoa"
+      },
+      "correctAnswer": "A",
+      "explanation": "Birds and reptiles excrete semisolid uric acid paste, requiring minimal water and allowing non-toxic accumulation inside cleidoic eggs."
+    },
+    {
+      "id": 14,
+      "question": "Why are most freshwater teleost (bony) fishes ammonotelic?",
+      "options": {
+        "A": "Ammonia is highly soluble in water and they have abundant environmental water to rapidly flush it across their gills",
+        "B": "They lack cellular proteins in their bodies",
+        "C": "Ammonia is insoluble in cold water",
+        "D": "Their kidneys produce solid uric acid pellets"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ammonia is extremely toxic but highly water-soluble; freshwater fishes dilute and excrete it directly through gills into ambient water."
+    },
+    {
+      "id": 15,
+      "question": "How do marine bony fishes (like cod or tuna) prevent dehydration in a hypertonic saltwater environment?",
+      "options": {
+        "A": "They drink seawater continuously and actively excrete excess salts across gill chloride cells while producing scanty concentrated urine",
+        "B": "They absorb water through their scales by reverse osmosis",
+        "C": "They retain high concentrations of urea in their blood like sharks",
+        "D": "They produce massive quantities of dilute urine"
+      },
+      "correctAnswer": "A",
+      "explanation": "Marine teleosts face constant osmotic water loss; they drink seawater and use active transport across gills to pump excess $Na^+$ and $Cl^-$ out."
+    },
+    {
+      "id": 16,
+      "question": "How do marine cartilaginous fishes (sharks and rays) maintain osmotic equilibrium with surrounding seawater?",
+      "options": {
+        "A": "They retain high concentrations of urea and TMAO (trimethylamine oxide) in their blood, making their internal fluids slightly hyperosmotic",
+        "B": "They drink freshwater from rainfall on the sea surface",
+        "C": "They lack kidneys and excrete through skin pores",
+        "D": "They actively pump all water out of their bodies"
+      },
+      "correctAnswer": "A",
+      "explanation": "Elasmobranchs retain urea and TMAO in tissue fluids, matching or slightly exceeding seawater osmolarity to prevent water loss."
+    },
+    {
+      "id": 17,
+      "question": "What is the medical term for the presence of renal calculi (kidney stones), most commonly composed of calcium oxalate?",
+      "options": {
+        "A": "Nephrolithiasis",
+        "B": "Glomerulonephritis",
+        "C": "Hydronephrosis",
+        "D": "Pyelonephritis"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nephrolithiasis refers to kidney stones formed by crystallization of calcium oxalate, calcium phosphate, or uric acid in the renal pelvis."
+    },
+    {
+      "id": 18,
+      "question": "Which non-invasive medical procedure pulverizes kidney stones into fine sand-like particles using focused high-energy acoustic shock waves?",
+      "options": {
+        "A": "Extracorporeal Shock Wave Lithotripsy (ESWL)",
+        "B": "Peritoneal Dialysis",
+        "C": "Hemodialysis",
+        "D": "Renal Angioplasty"
+      },
+      "correctAnswer": "A",
+      "explanation": "ESWL breaks kidney stones acoustically without surgery, allowing stone fragments to pass harmlessly in urine."
+    },
+    {
+      "id": 19,
+      "question": "In Hemodialysis, what is the semipermeable membrane separating the patient's blood from the dialysate fluid?",
+      "options": {
+        "A": "Cellulose or synthetic dialysis tubing (artificial kidney)",
+        "B": "The patient's peritoneal membrane",
+        "C": "Glomerular basement membrane",
+        "D": "Tracheal mucous membrane"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hemodialysis filters blood outside the body across an artificial synthetic dialyzer membrane bathed in balanced dialysate fluid."
+    },
+    {
+      "id": 20,
+      "question": "In Peritoneal Dialysis, which natural anatomical structure serves as the semipermeable filtration membrane inside the patient's body?",
+      "options": {
+        "A": "The Peritoneum (peritoneal membrane lining the abdominal cavity)",
+        "B": "The Pleura",
+        "C": "The Pericardium",
+        "D": "The Diaphragm"
+      },
+      "correctAnswer": "A",
+      "explanation": "Peritoneal dialysis introduces dialysate into the abdominal cavity, using the highly vascularized peritoneal membrane as the natural filter."
+    },
+    {
+      "id": 21,
+      "question": "Which brain region contains the human body's central thermostat regulating core body temperature?",
+      "options": {
+        "A": "Hypothalamus",
+        "B": "Pons",
+        "C": "Thalamus",
+        "D": "Hippocampus"
+      },
+      "correctAnswer": "A",
+      "explanation": "The preoptic and anterior regions of the hypothalamus monitor core blood temperature and coordinate thermoregulatory reflexes."
+    },
+    {
+      "id": 22,
+      "question": "What thermoregulatory response occurs in dermal blood vessels when the human body is exposed to cold ambient temperatures?",
+      "options": {
+        "A": "Vasoconstriction (reducing blood flow to the skin surface to minimize heat loss)",
+        "B": "Vasodilation (increasing blood flow to skin)",
+        "C": "Complete stoppage of cardiac output",
+        "D": "Opening of subcutaneous sweat glands"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cutaneous vasoconstriction restricts warm blood to the body core, dramatically reducing convective and radiant heat loss through skin."
+    },
+    {
+      "id": 23,
+      "question": "What is 'Shivering Thermogenesis'?",
+      "options": {
+        "A": "Rapid, involuntary, rhythmic contractions of skeletal muscles to generate metabolic heat",
+        "B": "Sweating to cool the skin surface",
+        "C": "Piloerection in domestic animals",
+        "D": "Active panting in dogs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Shivering involves uncoordinated skeletal muscle contractions triggered by the hypothalamus, converting metabolic ATP into heat."
+    },
+    {
+      "id": 24,
+      "question": "What specialized adipose tissue found in mammalian infants and hibernating animals produces heat via non-shivering thermogenesis (using UCP-1 / thermogenin)?",
+      "options": {
+        "A": "Brown Adipose Tissue (BAT)",
+        "B": "White Adipose Tissue",
+        "C": "Yellow Cartilage",
+        "D": "Fibrous Fascia"
+      },
+      "correctAnswer": "A",
+      "explanation": "Brown fat contains mitochondria with uncoupling protein-1 (thermogenin) that uncouples the proton gradient from ATP synthesis, dissipating energy purely as heat."
+    },
+    {
+      "id": 25,
+      "question": "What is an 'Endotherm' (homeotherm)?",
+      "options": {
+        "A": "An organism that generates internal metabolic heat to maintain a constant body temperature (e.g., birds and mammals)",
+        "B": "An organism whose body temperature strictly fluctuates with ambient environment (e.g., reptiles)",
+        "C": "An organism that lives inside thermal volcanic vents",
+        "D": "A plant that survives in ice water"
+      },
+      "correctAnswer": "A",
+      "explanation": "Endotherms rely on high metabolic heat production to maintain stable body temperatures independent of ambient changes."
+    },
+    {
+      "id": 26,
+      "question": "What is an 'Ectotherm' (poikilotherm)?",
+      "options": {
+        "A": "An organism that relies primarily on external environmental heat sources to regulate its body temperature (e.g., lizards, amphibians, fishes)",
+        "B": "An animal that produces constant internal heat through shivering",
+        "C": "A warm-blooded mammal that hibernates",
+        "D": "An arctic bird with thick feathers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ectotherms absorb heat from external surroundings (e.g., basking in sunlight) because their internal metabolic heat generation is low."
+    },
+    {
+      "id": 27,
+      "question": "What are 'Pyrogens' in fever pathophysiology?",
+      "options": {
+        "A": "Substances (like bacterial endotoxins or endogenous IL-1) that reset the hypothalamic thermostat to a higher set-point",
+        "B": "Digestive enzymes secreted by the pancreas",
+        "C": "Antibodies that neutralize venom toxins",
+        "D": "Minerals deposited in bone matrix"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pyrogens stimulate prostaglandin $E_2$ synthesis in the hypothalamus, raising the thermal set-point and producing fever."
+    },
+    {
+      "id": 28,
+      "question": "In the Descending Limb of the Loop of Henle, what is the membrane permeability to water and electrolytes?",
+      "options": {
+        "A": "Highly permeable to water, virtually impermeable to solutes ($Na^+, Cl^-$)",
+        "B": "Impermeable to water, highly permeable to $Na^+$",
+        "C": "Impermeable to both water and solutes",
+        "D": "Freely permeable only to glucose and urea"
+      },
+      "correctAnswer": "A",
+      "explanation": "The descending thin limb has abundant aquaporins and allows water to exit into the hypertonic medulla, concentrating tubular fluid."
+    },
+    {
+      "id": 29,
+      "question": "In the Thick Ascending Limb of the Loop of Henle, how are sodium and chloride ions transported?",
+      "options": {
+        "A": "Actively pumped out into interstitial fluid via the $Na^+-K^+-2Cl^-$ cotransporter while remaining impermeable to water",
+        "B": "Passive diffusion of water into the tubule",
+        "C": "Reabsorbed together with albumin proteins",
+        "D": "Converted into urea molecules"
+      },
+      "correctAnswer": "A",
+      "explanation": "The thick ascending limb is water-impermeable and actively transports $Na^+, K^+$, and $2Cl^-$ out, diluting urine and feeding medullary hypertonicity."
+    },
+    {
+      "id": 30,
+      "question": "What condition results from a deficiency of ADH secretion (or insensitivity of renal receptors), characterized by extreme polyuria and polydipsia?",
+      "options": {
+        "A": "Diabetes Insipidus",
+        "B": "Diabetes Mellitus Type 1",
+        "C": "Addison's Disease",
+        "D": "Cushing's Syndrome"
+      },
+      "correctAnswer": "A",
+      "explanation": "Diabetes insipidus stems from lack of ADH (central) or renal insensitivity (nephrogenic), causing excessive production of dilute urine (polyuria)."
+    },
+    {
+      "id": 31,
+      "question": "What is the primary function of the contractile vacuole in freshwater single-celled protists like Amoeba and Paramecium?",
+      "options": {
+        "A": "Osmoregulation (pumping out excess water entering by endosmosis)",
+        "B": "Synthesizing glucose via photosynthesis",
+        "C": "Storing nuclear DNA chromosomes",
+        "D": "Producing ATP by oxidative phosphorylation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Freshwater protists are hypertonic to pond water; contractile vacuoles actively collect and expel excess water to prevent cell lysis."
+    },
+    {
+      "id": 32,
+      "question": "What are Malpighian Tubules in terrestrial insects (like cockroaches and locusts)?",
+      "options": {
+        "A": "Excretory structures that absorb nitrogenous wastes from hemolymph and empty uric acid crystals into the digestive tract",
+        "B": "Air tubes that deliver oxygen to flight muscles",
+        "C": "Glands that secrete defensive pheromones",
+        "D": "Structures that pump blood through the dorsal aorta"
+      },
+      "correctAnswer": "A",
+      "explanation": "Malpighian tubules precipitate uric acid from hemolymph into the hindgut, where water is reabsorbed, conserving water."
+    },
+    {
+      "id": 33,
+      "question": "What is the function of Flame Cells (protonephridia) in flatworms like Planaria?",
+      "options": {
+        "A": "Osmoregulation and excretion via cilia that flicker like a flame to drive interstitial fluid through excretory ducts",
+        "B": "Digesting food particles extracellularly",
+        "C": "Detecting light intensity directionally",
+        "D": "Producing gametes during sexual reproduction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Flame cells have a tuft of beating cilia propelling interstitial fluid through tubular excretory canals, maintaining fluid balance in freshwater."
+    },
+    {
+      "id": 34,
+      "question": "Which organelle in plant cells stores excess toxic organic waste products, salts, and secondary metabolites away from the cytoplasm?",
+      "options": {
+        "A": "Central Vacuole",
+        "B": "Ribosome",
+        "C": "Golgi Apparatus",
+        "D": "Nucleolus"
+      },
+      "correctAnswer": "A",
+      "explanation": "Plant cells sequester metabolic wastes and crystals (e.g., calcium oxalate) inside the large central vacuole or shed them in autumn leaves (excretophores)."
+    },
+    {
+      "id": 35,
+      "question": "What is the normal Glomerular Filtration Rate (GFR) in a healthy human adult?",
+      "options": {
+        "A": "Approximately 125 mL/min (180 liters per day)",
+        "B": "Approximately 5 mL/min",
+        "C": "Approximately 1200 mL/min",
+        "D": "Approximately 50 mL/hour"
+      },
+      "correctAnswer": "A",
+      "explanation": "Both kidneys filter roughly 125 mL of fluid per minute (~180 liters/day), of which >99% is reabsorbed, producing ~1.5 L of urine daily."
+    }
+  ]
+}

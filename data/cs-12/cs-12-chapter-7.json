@@ -1,0 +1,428 @@
+{
+  "chapterNumber": 7,
+  "title": "Unit 7: Digital Literacy & Tech Entrepreneurship",
+  "slug": "cs-12-chapter-7",
+  "totalQuestions": 35,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is a 'Digital Footprint'?",
+      "options": {
+        "A": "The unique trail of data, records, and traces left behind by an individual when using the internet",
+        "B": "The physical measurement of a laptop keyboard trackpad",
+        "C": "The carbon emissions released during smartphone charging",
+        "D": "A graphic design logo created using vector software"
+      },
+      "correctAnswer": "A",
+      "explanation": "A digital footprint includes websites visited, emails sent, social media posts, and online purchases left on digital platforms."
+    },
+    {
+      "id": 2,
+      "question": "What distinguishes an 'Active Digital Footprint' from a 'Passive Digital Footprint'?",
+      "options": {
+        "A": "Active footprints are created when a user deliberately shares information online (e.g., social media posts), while passive footprints are collected without the user's active participation (e.g., IP address logging, cookies)",
+        "B": "Active footprints are stored on USB flash drives, while passive footprints are stored on paper",
+        "C": "Passive footprints only exist when a computer is unplugged from electricity",
+        "D": "Active footprints are automatically deleted every 24 hours"
+      },
+      "correctAnswer": "A",
+      "explanation": "Active footprints involve intentional user actions; passive footprints are created automatically by server logs, analytics trackers, and cookies."
+    },
+    {
+      "id": 3,
+      "question": "Which version control system is universally considered the industry standard for tracking code modifications and coordinating software development teams?",
+      "options": {
+        "A": "Git",
+        "B": "Subversion (SVN)",
+        "C": "CVS",
+        "D": "RCS"
+      },
+      "correctAnswer": "A",
+      "explanation": "Git is the distributed version control system created by Linus Torvalds, powering modern collaborative software development."
+    },
+    {
+      "id": 4,
+      "question": "In Git, what does the command `git commit -m 'Initial commit'` do?",
+      "options": {
+        "A": "It records a snapshot of staged code changes into the local repository with an explanatory message",
+        "B": "It uploads code directly to a public GitHub repository on the internet",
+        "C": "It deletes all modified files from the project folder",
+        "D": "It compiles Python scripts into executable binaries"
+      },
+      "correctAnswer": "A",
+      "explanation": "`git commit` takes staged snapshots and permanently writes them to the local repository history with a descriptive commit log."
+    },
+    {
+      "id": 5,
+      "question": "In startup entrepreneurship, what does the acronym 'MVP' stand for?",
+      "options": {
+        "A": "Minimum Viable Product",
+        "B": "Most Valuable Programmer",
+        "C": "Maximum Variable Profit",
+        "D": "Modular Virtual Protocol"
+      },
+      "correctAnswer": "A",
+      "explanation": "An MVP is a version of a new product that allows a team to collect the maximum amount of validated customer learning with the least effort."
+    },
+    {
+      "id": 6,
+      "question": "Why is building an MVP considered essential before investing heavy capital into full-scale software development?",
+      "options": {
+        "A": "It validates market demand, tests core value hypotheses, and minimizes financial risk through rapid early user feedback",
+        "B": "It eliminates the need for software marketing and sales campaigns",
+        "C": "It guarantees that no competitor can ever enter the market",
+        "D": "It makes software code run 10 times faster on mobile devices"
+      },
+      "correctAnswer": "A",
+      "explanation": "MVPs prevent startups from building complex products nobody wants by validating problem-solution fit early in development."
+    },
+    {
+      "id": 7,
+      "question": "What is the SaaS (Software as a Service) business model?",
+      "options": {
+        "A": "A software licensing and delivery model in which software is centrally hosted and licensed on a recurring subscription basis",
+        "B": "Selling software on physical CD-ROMs in retail storefronts",
+        "C": "Providing free software while secretly mining cryptocurrency on customer machines",
+        "D": "Selling computer hardware components at wholesale prices"
+      },
+      "correctAnswer": "A",
+      "explanation": "SaaS charges predictable monthly or annual recurring subscriptions (MRR/ARR) for cloud-hosted applications (e.g., Slack, Notion, Zoom)."
+    },
+    {
+      "id": 8,
+      "question": "In tech startup financial analytics, what does 'CAC' stand for?",
+      "options": {
+        "A": "Customer Acquisition Cost",
+        "B": "Centralized Application Container",
+        "C": "Cloud Access Certificate",
+        "D": "Compiled Algorithm Core"
+      },
+      "correctAnswer": "A",
+      "explanation": "CAC represents the total sales and marketing expenditure required to acquire a single paying customer: $\\text{CAC} = \\frac{\\text{Total Marketing Costs}}{\\text{Number of Customers Acquired}}$."
+    },
+    {
+      "id": 9,
+      "question": "What is 'Customer Lifetime Value' (LTV or CLV)?",
+      "options": {
+        "A": "The projected total revenue or profit a business expects to earn from a customer throughout their entire business relationship",
+        "B": "The biological lifespan of a computer programmer",
+        "C": "The warranty duration of a desktop computer motherboard",
+        "D": "The number of hours a customer spends browsing a website"
+      },
+      "correctAnswer": "A",
+      "explanation": "LTV measures the total gross margin generated by a customer over their lifecycle; a healthy SaaS business targets $\\text{LTV} \\ge 3 \\times \\text{CAC}$."
+    },
+    {
+      "id": 10,
+      "question": "What does 'Churn Rate' measure in a subscription-based business model?",
+      "options": {
+        "A": "The percentage of subscribers who cancel or fail to renew their service over a given period",
+        "B": "The speed at which a computer processor rotates its cooling fan",
+        "C": "The rate at which hard drive disks write sequential data",
+        "D": "The percentage of employees hired in a fiscal quarter"
+      },
+      "correctAnswer": "A",
+      "explanation": "Churn rate quantifies lost customers; low churn is crucial for sustainable subscription revenue compounding."
+    },
+    {
+      "id": 11,
+      "question": "Which software development methodology emphasizes iterative progress, rapid customer feedback, cross-functional collaboration, and flexible sprints?",
+      "options": {
+        "A": "Agile Methodology (e.g., Scrum / Kanban)",
+        "B": "Rigid Waterfall Model",
+        "C": "Linear Sequential Development",
+        "D": "Big-Bang Programming"
+      },
+      "correctAnswer": "A",
+      "explanation": "Agile delivers working software in short 1-to-4 week sprints, welcoming changing requirements based on continuous customer collaboration."
+    },
+    {
+      "id": 12,
+      "question": "In the Agile Scrum framework, what is a 'Sprint'?",
+      "options": {
+        "A": "A short, time-boxed period (typically 2 weeks) during which a development team completes a designated set of user stories",
+        "B": "A race run by software engineers during team-building retreats",
+        "C": "A rapid CPU benchmark test",
+        "D": "An emergency server reboot after a crash"
+      },
+      "correctAnswer": "A",
+      "explanation": "A sprint is a repeatable fixed-length work cycle where a defined increment of working, shippable software is designed, coded, and tested."
+    },
+    {
+      "id": 13,
+      "question": "What is the primary function of a 'Kanban Board' (e.g., Trello, Jira) in project management?",
+      "options": {
+        "A": "To visualize workflow stages, optimize work-in-progress (WIP), and track tasks across columns (To Do, In Progress, Done)",
+        "B": "To monitor network bandwidth usage across router cables",
+        "C": "To compile Python scripts into ARM assembly language",
+        "D": "To encrypt employee email passwords"
+      },
+      "correctAnswer": "A",
+      "explanation": "Kanban visually tracks work items across workflow columns, limiting work-in-progress to eliminate team bottlenecks."
+    },
+    {
+      "id": 14,
+      "question": "What is 'Crowdfunding' in startup financing?",
+      "options": {
+        "A": "Raising small amounts of capital from a large number of people typically via online platforms (e.g., Kickstarter, Indiegogo)",
+        "B": "Borrowing large commercial loans from international central banks",
+        "C": "Using personal credit cards to fund server hardware",
+        "D": "Selling office computers to local recycling centers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Crowdfunding pools collective investments or pre-orders from hundreds of individual supporters on internet platforms."
+    },
+    {
+      "id": 15,
+      "question": "What is 'Bootstrapping' in business entrepreneurship?",
+      "options": {
+        "A": "Building a startup using existing personal savings and operating revenue without taking external venture capital or debt",
+        "B": "Powering on a computer motherboard via the BIOS boot sequence",
+        "C": "Writing software programs in pure binary machine language",
+        "D": "Purchasing commercial office buildings in urban centers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bootstrapping is launching a business entirely with self-funded resources and customer cash flow, preserving 100% founder equity."
+    },
+    {
+      "id": 16,
+      "question": "What is 'Angel Investor' in the venture financing landscape?",
+      "options": {
+        "A": "A high-net-worth individual who provides early-stage capital for startups, often in exchange for convertible debt or equity ownership",
+        "B": "A non-profit organization that donates refurbished laptops to schools",
+        "C": "A legal judge who arbitrates patent disputes in civil courts",
+        "D": "A software engineer who writes code without compensation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Angel investors invest their personal wealth into nascent seed-stage startups, offering mentorship and seed capital before venture firms step in."
+    },
+    {
+      "id": 17,
+      "question": "What does 'Venture Capital' (VC) refer to?",
+      "options": {
+        "A": "Pooled institutional investment funds that finance high-growth, high-risk startup ventures in exchange for significant equity stakes",
+        "B": "Government grants given to utility power companies",
+        "C": "Low-interest student loans for computer science degrees",
+        "D": "Personal bank overdraft limits"
+      },
+      "correctAnswer": "A",
+      "explanation": "VC firms invest institutional money into scalable technology startups with the expectation of massive returns upon IPO or acquisition."
+    },
+    {
+      "id": 18,
+      "question": "In startup terminology, what does 'Pivot' mean?",
+      "options": {
+        "A": "A strategic shift in a company's business model, target market, or product offering in response to customer feedback and market realities",
+        "B": "Rotating a computer monitor from landscape to portrait orientation",
+        "C": "Restarting a server when a memory leak occurs",
+        "D": "Renaming a Python variable inside a class"
+      },
+      "correctAnswer": "A",
+      "explanation": "A pivot changes course (e.g., Instagram pivoting from a check-in app Burbn to photo sharing) when initial hypotheses fail to achieve market fit."
+    },
+    {
+      "id": 19,
+      "question": "What does 'Product-Market Fit' (PMF) signify?",
+      "options": {
+        "A": "The state where a product satisfies a strong, genuine market demand and customers are eagerly buying, using, and recommending it",
+        "B": "The moment a retail product box fits inside standard courier shipping containers",
+        "C": "When a computer program passes all unit test assertions",
+        "D": "When an e-commerce website achieves 100% uptime"
+      },
+      "correctAnswer": "A",
+      "explanation": "Product-Market Fit means being in a good market with a product that can satisfy that market, marked by high retention and organic growth."
+    },
+    {
+      "id": 20,
+      "question": "Which legal agreement is used by tech companies to protect proprietary trade secrets and confidential business discussions with potential partners?",
+      "options": {
+        "A": "Non-Disclosure Agreement (NDA)",
+        "B": "Service Level Agreement (SLA)",
+        "C": "End-User License Agreement (EULA)",
+        "D": "Acceptable Use Policy (AUP)"
+      },
+      "correctAnswer": "A",
+      "explanation": "An NDA legally binds parties to secrecy regarding confidential information, proprietary code, or pending acquisitions."
+    },
+    {
+      "id": 21,
+      "question": "What is the primary role of an 'Incubator' or 'Accelerator' program in the startup ecosystem (e.g., Y Combinator, Plan9 in Pakistan)?",
+      "options": {
+        "A": "Providing startups with seed funding, intensive mentorship, co-working space, and investor access to fast-track growth",
+        "B": "Manufacturing silicon microchips for national data centers",
+        "C": "Enforcing government tax compliance on retail storefronts",
+        "D": "Providing physical healthcare clinics for remote workers"
+      },
+      "correctAnswer": "A",
+      "explanation": "Accelerators provide cohort-based mentorship, capital, and networking to help founders validate and scale startups rapidly."
+    },
+    {
+      "id": 22,
+      "question": "In tech freelancing, what is an 'Escrow Service' (such as those used by Upwork and Fiverr)?",
+      "options": {
+        "A": "A financial arrangement where a trusted third party holds transaction funds until project milestones are verified and completed",
+        "B": "A software compiler that checks for Python syntax errors",
+        "C": "A backup server that mirrors database transactions",
+        "D": "A legal contract that prohibits workers from taking vacations"
+      },
+      "correctAnswer": "A",
+      "explanation": "Escrow protects both clients and freelancers by locking payment upfront, releasing funds only upon satisfactory milestone approval."
+    },
+    {
+      "id": 23,
+      "question": "What is 'Search Engine Optimization' (SEO)?",
+      "options": {
+        "A": "The process of improving the quality and quantity of website traffic from search engines to web pages organically",
+        "B": "Upgrading the RAM inside Google server data centers",
+        "C": "Installing ad-blocking extensions inside Google Chrome",
+        "D": "Deleting cookies from a web browser history"
+      },
+      "correctAnswer": "A",
+      "explanation": "SEO optimizes website content, technical architecture, and backlinks to rank higher in search engine results pages (SERPs)."
+    },
+    {
+      "id": 24,
+      "question": "What is an 'API' (Application Programming Interface) in digital product ecosystems?",
+      "options": {
+        "A": "A set of protocols and rules that allow different software applications to communicate and exchange data with one another",
+        "B": "A physical connector cable between a monitor and a graphics card",
+        "C": "An operating system utility that formats hard drives",
+        "D": "A programming language used exclusively for quantum computing"
+      },
+      "correctAnswer": "A",
+      "explanation": "APIs (like Stripe for payments or Twilio for SMS) let software systems interact programmatically without rebuilding underlying services."
+    },
+    {
+      "id": 25,
+      "question": "What is 'A/B Testing' in web analytics and product optimization?",
+      "options": {
+        "A": "A randomized experimentation process where two versions of a webpage or feature (A and B) are shown to users to determine which performs better",
+        "B": "Testing whether a computer can run on both 110V and 220V electrical current",
+        "C": "Checking if a program runs on both Apple and Android operating systems",
+        "D": "A dual-core CPU performance benchmark test"
+      },
+      "correctAnswer": "A",
+      "explanation": "A/B testing serves variants to different user cohorts to quantitatively measure which variant achieves higher conversions or engagement."
+    },
+    {
+      "id": 26,
+      "question": "What does 'Open Source Software' (OSS) mean?",
+      "options": {
+        "A": "Software whose source code is released under a license that grants users the rights to inspect, modify, and enhance it freely",
+        "B": "Software that cannot be run without an active internet connection",
+        "C": "Proprietary software that costs zero dollars but hides its source code",
+        "D": "Software developed exclusively by government military agencies"
+      },
+      "correctAnswer": "A",
+      "explanation": "Open-source software (e.g., Linux, Python, React) provides transparent code access for public inspection, modification, and contribution."
+    },
+    {
+      "id": 27,
+      "question": "Which metrics framework categorizes business progress into Acquisition, Activation, Retention, Referral, and Revenue?",
+      "options": {
+        "A": "AARRR (Pirate Metrics)",
+        "B": "SMART Objectives",
+        "C": "SWOT Analysis",
+        "D": "Porter's Five Forces"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dave McClure's AARRR framework tracks customer lifecycle stages: Acquisition, Activation, Retention, Referral, and Revenue."
+    },
+    {
+      "id": 28,
+      "question": "What is 'Netiquette' in modern digital communications?",
+      "options": {
+        "A": "The customary code of polite and respectful behavior across digital spaces, email, and social networks",
+        "B": "A firewall protocol that blocks network spam",
+        "C": "The physical speed limit of fiber optic network cables",
+        "D": "A method of compressing electronic text files"
+      },
+      "correctAnswer": "A",
+      "explanation": "Netiquette embodies digital courtesy—avoiding ALL CAPS shouting, respecting privacy, avoiding flame wars, and citing sources."
+    },
+    {
+      "id": 29,
+      "question": "What is a 'Pitch Deck' in entrepreneurial fundraising?",
+      "options": {
+        "A": "A brief presentation (typically 10-15 slides) providing investors with an overview of a startup's business plan, traction, and vision",
+        "B": "A physical wooden stage where tech conferences are hosted",
+        "C": "A compiled file containing database schemas and SQL queries",
+        "D": "A hardware diagram of a server motherboard"
+      },
+      "correctAnswer": "A",
+      "explanation": "A pitch deck succinctly presents the problem, solution, market size, business model, team, and funding ask to venture investors."
+    },
+    {
+      "id": 30,
+      "question": "What is the 'Burn Rate' of a venture-backed tech startup?",
+      "options": {
+        "A": "The rate at which a company spends its cash reserves before generating positive cash flow from operations",
+        "B": "The temperature at which computer hard drives experience physical failure",
+        "C": "The electrical energy consumed by a server room per hour",
+        "D": "The rate at which employees quit a corporate workplace"
+      },
+      "correctAnswer": "A",
+      "explanation": "Burn rate measures monthly cash depletion; runway = $\\frac{\\text{Total Cash Reserves}}{\\text{Monthly Burn Rate}}$, showing how many months remain before capital runs out."
+    },
+    {
+      "id": 31,
+      "question": "What is 'Phishing Literacy' and why is it crucial for workforce training?",
+      "options": {
+        "A": "Educating employees to recognize deceptive social engineering emails, fake domain names, and suspicious attachments to prevent security breaches",
+        "B": "Teaching workers how to catch fish using electronic sonar equipment",
+        "C": "Training staff how to design marketing email campaigns",
+        "D": "Learning how to write Python scripts for data visualization"
+      },
+      "correctAnswer": "A",
+      "explanation": "Human error accounts for over 80% of corporate breaches; ongoing phishing simulations build cyber awareness and defense."
+    },
+    {
+      "id": 32,
+      "question": "What is an 'Unicorn' in venture capital lexicon?",
+      "options": {
+        "A": "A privately held startup company with a valuation exceeding 1 billion US dollars",
+        "B": "A mythical animal featured in video game animations",
+        "C": "A computer chip that never consumes electrical power",
+        "D": "A software bug that cannot be reproduced in testing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Coined by Aileen Lee, a 'unicorn' is a rare privately funded tech startup valued at over \\$1 billion."
+    },
+    {
+      "id": 33,
+      "question": "What is the primary function of Continuous Integration and Continuous Deployment (CI/CD) pipelines in modern DevOps?",
+      "options": {
+        "A": "To automatically test, build, and deploy software code changes rapidly and reliably to production servers",
+        "B": "To monitor employee typing speeds during office hours",
+        "C": "To manually compile source code on floppy disks",
+        "D": "To restart operating systems when power outages occur"
+      },
+      "correctAnswer": "A",
+      "explanation": "CI/CD automates testing and deployment pipelines, allowing teams to ship reliable software updates multiple times a day."
+    },
+    {
+      "id": 34,
+      "question": "What is 'Intellectual Property Theft' in digital freelancing?",
+      "options": {
+        "A": "Re-selling, copying, or distributing custom software, artwork, or content created exclusively for a client without their contractual ownership consent",
+        "B": "Downloading free open-source software libraries from GitHub",
+        "C": "Purchasing software licenses using business credit cards",
+        "D": "Backing up client project files to an encrypted hard drive"
+      },
+      "correctAnswer": "A",
+      "explanation": "Client deliverables belong contractually to the client; unauthorized resale or reuse of proprietary work constitutes IP infringement."
+    },
+    {
+      "id": 35,
+      "question": "Why is 'Continuous Learning' considered the most vital digital literacy skill in the fast-evolving tech industry?",
+      "options": {
+        "A": "Technological paradigms, tools, AI models, and programming languages evolve rapidly, requiring professionals to constantly adapt and upskill",
+        "B": "Computer operating systems automatically erase memory every 3 years",
+        "C": "Software licenses expire unless engineers pass annual typing exams",
+        "D": "Computer science degrees expire after exactly 12 months"
+      },
+      "correctAnswer": "A",
+      "explanation": "The rapid pace of technological innovation renders outdated paradigms obsolete, making lifelong learning indispensable for digital professionals."
+    }
+  ]
+}
