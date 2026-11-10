@@ -91,6 +91,8 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
 
   // Periodic active study timer (tracks focus time every 5 seconds)
   const lastActiveRef = useRef<number>(Date.now());
+  const handleSubmitRef = useRef<() => void>(() => {});
+
   useEffect(() => {
     if (isSubmitted) return;
 
@@ -119,7 +121,7 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
       setTimeLeft((prev) => {
         if (prev <= 1) {
           clearInterval(timer);
-          handleSubmit();
+          handleSubmitRef.current();
           return 0;
         }
         return prev - 1;
@@ -279,6 +281,8 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
       });
     }
   }, [answers, chapter, elapsedTime, initialExamTime, questions, slug, timeLeft]);
+
+  handleSubmitRef.current = handleSubmit;
 
   const handleRetake = () => {
     setAnswers({});

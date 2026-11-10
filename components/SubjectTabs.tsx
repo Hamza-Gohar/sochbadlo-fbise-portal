@@ -1,9 +1,21 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import ChapterCard from './ChapterCard';
 import { ChapterMeta } from '../lib/types';
-import { Atom, BookMarked, Calculator, Languages, Cpu, Sparkles, BookOpen, ScrollText, Dna, FlaskConical, Landmark } from 'lucide-react';
+import {
+  Atom,
+  BookMarked,
+  Calculator,
+  Languages,
+  Cpu,
+  BookOpen,
+  ScrollText,
+  Dna,
+  FlaskConical,
+  Landmark,
+  Search
+} from 'lucide-react';
 
 interface SubjectTabsProps {
   physicsChapters: ChapterMeta[];
@@ -42,6 +54,13 @@ interface SubjectTabsProps {
   cs12Chapters?: ChapterMeta[];
   biology12Chapters?: ChapterMeta[];
   chemistry12Chapters?: ChapterMeta[];
+}
+
+interface SubjectItem {
+  id: string;
+  name: string;
+  icon: React.ComponentType<{ className?: string }>;
+  chapters: ChapterMeta[];
 }
 
 export default function SubjectTabs({
@@ -83,1221 +102,386 @@ export default function SubjectTabs({
   chemistry12Chapters = [],
 }: SubjectTabsProps) {
   const [activeGrade, setActiveGrade] = useState<'9' | '10' | '11' | '12'>('12');
-  const [activeGrade12Subject, setActiveGrade12Subject] = useState<'physics' | 'chemistry' | 'math' | 'cs' | 'biology' | 'english' | 'urdu' | 'pakstudies' | 'tarjuma'>('physics');
-  const [activeGrade10Subject, setActiveGrade10Subject] = useState<'math' | 'physics' | 'chemistry' | 'cs' | 'biology' | 'english' | 'pakstudies' | 'urdu' | 'tarjuma'>('math');
-  const [activeGrade9Subject, setActiveGrade9Subject] = useState<'urdu' | 'tarjuma' | 'english' | 'islamiat' | 'chemistry' | 'cs' | 'biology' | 'math' | 'physics'>('urdu');
-  const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry'>('physics');
+  const [activeSubjectId, setActiveSubjectId] = useState<string>('physics');
+  const [searchQuery, setSearchQuery] = useState<string>('');
 
-  // Detect grade and subject from URL query on client mount
-  React.useEffect(() => {
+  // Structured subject list per grade
+  const gradeSubjects: Record<'9' | '10' | '11' | '12', SubjectItem[]> = useMemo(
+    () => ({
+      '12': [
+        { id: 'physics', name: 'Physics (فزکس)', icon: Atom, chapters: physics12Chapters },
+        { id: 'chemistry', name: 'Chemistry (کیمسٹری)', icon: FlaskConical, chapters: chemistry12Chapters },
+        { id: 'math', name: 'Mathematics (ریاضی)', icon: Calculator, chapters: math12Chapters },
+        { id: 'cs', name: 'Computer Science (کمپیوٹر سائنس)', icon: Cpu, chapters: cs12Chapters },
+        { id: 'biology', name: 'Biology (حیاتیات)', icon: Dna, chapters: biology12Chapters },
+        { id: 'english', name: 'English Compulsory', icon: Languages, chapters: english12Chapters },
+        { id: 'urdu', name: 'Urdu (اردو لازمی)', icon: BookMarked, chapters: urdu12Chapters },
+        { id: 'pakstudies', name: 'Pakistan Studies (مطالعہ پاکستان)', icon: Landmark, chapters: pakstudies12Chapters },
+        { id: 'tarjuma', name: 'Tarjuma-tul-Quran (ترجمۃ القرآن)', icon: ScrollText, chapters: tarjuma12Chapters },
+      ],
+      '11': [
+        { id: 'physics', name: 'Physics (فزکس)', icon: Atom, chapters: physicsChapters },
+        { id: 'biology', name: 'Biology (حیاتیات)', icon: Dna, chapters: biologyChapters },
+        { id: 'chemistry', name: 'Chemistry (کیمسٹری)', icon: FlaskConical, chapters: chemistryChapters },
+        { id: 'math', name: 'Mathematics (ریاضی)', icon: Calculator, chapters: mathChapters },
+        { id: 'cs', name: 'Computer Science', icon: Cpu, chapters: csChapters },
+        { id: 'english', name: 'English Compulsory', icon: Languages, chapters: englishChapters },
+        { id: 'urdu', name: 'Urdu (اردو لازمی)', icon: BookMarked, chapters: urduChapters },
+        { id: 'islamiat', name: 'Islamiat (اسلامیات لازمی)', icon: BookOpen, chapters: islamiatChapters },
+        { id: 'tarjuma', name: 'Tarjuma-tul-Quran (ترجمۃ القرآن)', icon: ScrollText, chapters: tarjumaChapters },
+      ],
+      '10': [
+        { id: 'math', name: 'Mathematics (ریاضی)', icon: Calculator, chapters: math10Chapters },
+        { id: 'physics', name: 'Physics (فزکس)', icon: Atom, chapters: physics10Chapters },
+        { id: 'chemistry', name: 'Chemistry (کیمسٹری)', icon: FlaskConical, chapters: chemistry10Chapters },
+        { id: 'cs', name: 'Computer Science', icon: Cpu, chapters: cs10Chapters },
+        { id: 'biology', name: 'Biology (حیاتیات)', icon: Dna, chapters: biology10Chapters },
+        { id: 'english', name: 'English Compulsory', icon: Languages, chapters: english10Chapters },
+        { id: 'pakstudies', name: 'Pakistan Studies (مطالعہ پاکستان)', icon: Landmark, chapters: pakstudies10Chapters },
+        { id: 'urdu', name: 'Urdu (اردو لازمی)', icon: BookMarked, chapters: urdu10Chapters },
+        { id: 'tarjuma', name: 'Tarjuma-tul-Quran (ترجمۃ القرآن)', icon: ScrollText, chapters: tarjuma10Chapters },
+      ],
+      '9': [
+        { id: 'physics', name: 'Physics (فزکس)', icon: Atom, chapters: physics9Chapters },
+        { id: 'chemistry', name: 'Chemistry (کیمسٹری)', icon: FlaskConical, chapters: chemistry9Chapters },
+        { id: 'math', name: 'Mathematics (ریاضی)', icon: Calculator, chapters: math9Chapters },
+        { id: 'biology', name: 'Biology (حیاتیات)', icon: Dna, chapters: biology9Chapters },
+        { id: 'cs', name: 'Computer Science', icon: Cpu, chapters: cs9Chapters },
+        { id: 'english', name: 'English Compulsory', icon: Languages, chapters: english9Chapters },
+        { id: 'islamiat', name: 'Islamiat (اسلامیات لازمی)', icon: BookOpen, chapters: islamiat9Chapters },
+        { id: 'urdu', name: 'Urdu (اردو لازمی)', icon: BookMarked, chapters: urdu9Chapters },
+        { id: 'tarjuma', name: 'Tarjuma-tul-Quran (ترجمۃ القرآن)', icon: ScrollText, chapters: tarjuma9Chapters },
+      ],
+    }),
+    [
+      physics12Chapters,
+      chemistry12Chapters,
+      math12Chapters,
+      cs12Chapters,
+      biology12Chapters,
+      english12Chapters,
+      urdu12Chapters,
+      pakstudies12Chapters,
+      tarjuma12Chapters,
+      physicsChapters,
+      biologyChapters,
+      chemistryChapters,
+      mathChapters,
+      csChapters,
+      englishChapters,
+      urduChapters,
+      islamiatChapters,
+      tarjumaChapters,
+      math10Chapters,
+      physics10Chapters,
+      chemistry10Chapters,
+      cs10Chapters,
+      biology10Chapters,
+      english10Chapters,
+      pakstudies10Chapters,
+      urdu10Chapters,
+      tarjuma10Chapters,
+      physics9Chapters,
+      chemistry9Chapters,
+      math9Chapters,
+      biology9Chapters,
+      cs9Chapters,
+      english9Chapters,
+      islamiat9Chapters,
+      urdu9Chapters,
+      tarjuma9Chapters,
+    ]
+  );
+
+  // Read URL query parameters on initial load
+  useEffect(() => {
     if (typeof window !== 'undefined') {
       const params = new URLSearchParams(window.location.search);
-      if (params.get('grade') === '12') {
-        setActiveGrade('12');
-        if (params.get('subject') === 'physics') {
-          setActiveGrade12Subject('physics');
-        } else if (params.get('subject') === 'chemistry') {
-          setActiveGrade12Subject('chemistry');
-        } else if (params.get('subject') === 'math') {
-          setActiveGrade12Subject('math');
-        } else if (params.get('subject') === 'cs') {
-          setActiveGrade12Subject('cs');
-        } else if (params.get('subject') === 'biology') {
-          setActiveGrade12Subject('biology');
-        } else if (params.get('subject') === 'english') {
-          setActiveGrade12Subject('english');
-        } else if (params.get('subject') === 'urdu') {
-          setActiveGrade12Subject('urdu');
-        } else if (params.get('subject') === 'pakstudies') {
-          setActiveGrade12Subject('pakstudies');
-        } else if (params.get('subject') === 'tarjuma') {
-          setActiveGrade12Subject('tarjuma');
-        }
-      } else if (params.get('grade') === '9') {
-        setActiveGrade('9');
-        if (params.get('subject') === 'physics') {
-          setActiveGrade9Subject('physics');
-        } else if (params.get('subject') === 'math') {
-          setActiveGrade9Subject('math');
-        } else if (params.get('subject') === 'urdu') {
-          setActiveGrade9Subject('urdu');
-        } else if (params.get('subject') === 'tarjuma') {
-          setActiveGrade9Subject('tarjuma');
-        } else if (params.get('subject') === 'english') {
-          setActiveGrade9Subject('english');
-        } else if (params.get('subject') === 'islamiat') {
-          setActiveGrade9Subject('islamiat');
-        } else if (params.get('subject') === 'chemistry') {
-          setActiveGrade9Subject('chemistry');
-        } else if (params.get('subject') === 'cs') {
-          setActiveGrade9Subject('cs');
-        } else if (params.get('subject') === 'biology') {
-          setActiveGrade9Subject('biology');
-        }
-      } else if (params.get('grade') === '10') {
-        setActiveGrade('10');
-        if (params.get('subject') === 'pakstudies') {
-          setActiveGrade10Subject('pakstudies');
-        } else if (params.get('subject') === 'urdu') {
-          setActiveGrade10Subject('urdu');
-        } else if (params.get('subject') === 'tarjuma') {
-          setActiveGrade10Subject('tarjuma');
-        } else if (params.get('subject') === 'english') {
-          setActiveGrade10Subject('english');
-        } else if (params.get('subject') === 'biology') {
-          setActiveGrade10Subject('biology');
-        } else if (params.get('subject') === 'cs') {
-          setActiveGrade10Subject('cs');
-        } else if (params.get('subject') === 'chemistry') {
-          setActiveGrade10Subject('chemistry');
-        } else if (params.get('subject') === 'physics') {
-          setActiveGrade10Subject('physics');
-        } else if (params.get('subject') === 'math') {
-          setActiveGrade10Subject('math');
-        }
-      } else if (params.get('grade') === '11') {
-        setActiveGrade('11');
+      const gradeParam = params.get('grade');
+      const subjectParam = params.get('subject');
+
+      if (gradeParam === '9' || gradeParam === '10' || gradeParam === '11' || gradeParam === '12') {
+        setActiveGrade(gradeParam);
+      }
+      if (subjectParam) {
+        setActiveSubjectId(subjectParam);
       }
     }
   }, []);
 
-  const physics9Total = physics9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const math9Total = math9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const urdu9Total = urdu9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const tarjuma9Total = tarjuma9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const english9Total = english9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const islamiat9Total = islamiat9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const chemistry9Total = chemistry9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const cs9Total = cs9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const biology9Total = biology9Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const math10Total = math10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const physics10Total = physics10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const chemistry10Total = chemistry10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const cs10Total = cs10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const biology10Total = biology10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const english10Total = english10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const pakstudies10Total = pakstudies10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const urdu10Total = urdu10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const tarjuma10Total = tarjuma10Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const english12Total = english12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const urdu12Total = urdu12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const pakstudies12Total = pakstudies12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const tarjuma12Total = tarjuma12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const physics12Total = physics12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const chemistry12Total = chemistry12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const math12Total = math12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const cs12Total = cs12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const biology12Total = biology12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const englishTotal = englishChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const csTotal = csChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const islamiatTotal = islamiatChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const tarjumaTotal = tarjumaChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const biologyTotal = biologyChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
-  const chemistryTotal = chemistryChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  // Update URL parameters when student switches grade or subject (without page reload)
+  const handleGradeChange = (grade: '9' | '10' | '11' | '12') => {
+    setActiveGrade(grade);
+    const available = gradeSubjects[grade];
+    // Keep same subject if available, otherwise switch to first subject of that grade
+    const exists = available.some((s) => s.id === activeSubjectId);
+    const newSubjectId = exists ? activeSubjectId : available[0].id;
+    setActiveSubjectId(newSubjectId);
+    setSearchQuery('');
 
-  const activeChapters =
-    activeGrade === '12'
-      ? activeGrade12Subject === 'physics'
-        ? physics12Chapters
-        : activeGrade12Subject === 'chemistry'
-        ? chemistry12Chapters
-        : activeGrade12Subject === 'math'
-        ? math12Chapters
-        : activeGrade12Subject === 'cs'
-        ? cs12Chapters
-        : activeGrade12Subject === 'biology'
-        ? biology12Chapters
-        : activeGrade12Subject === 'english'
-        ? english12Chapters
-        : activeGrade12Subject === 'urdu'
-        ? urdu12Chapters
-        : activeGrade12Subject === 'pakstudies'
-        ? pakstudies12Chapters
-        : tarjuma12Chapters
-      : activeGrade === '10'
-      ? activeGrade10Subject === 'pakstudies'
-        ? pakstudies10Chapters
-        : activeGrade10Subject === 'urdu'
-        ? urdu10Chapters
-        : activeGrade10Subject === 'tarjuma'
-        ? tarjuma10Chapters
-        : activeGrade10Subject === 'english'
-        ? english10Chapters
-        : activeGrade10Subject === 'biology'
-        ? biology10Chapters
-        : activeGrade10Subject === 'cs'
-        ? cs10Chapters
-        : activeGrade10Subject === 'chemistry'
-        ? chemistry10Chapters
-        : activeGrade10Subject === 'physics'
-        ? physics10Chapters
-        : math10Chapters
-      : activeGrade === '9'
-      ? activeGrade9Subject === 'urdu'
-        ? urdu9Chapters
-        : activeGrade9Subject === 'tarjuma'
-        ? tarjuma9Chapters
-        : activeGrade9Subject === 'english'
-        ? english9Chapters
-        : activeGrade9Subject === 'islamiat'
-        ? islamiat9Chapters
-        : activeGrade9Subject === 'chemistry'
-        ? chemistry9Chapters
-        : activeGrade9Subject === 'cs'
-        ? cs9Chapters
-        : activeGrade9Subject === 'biology'
-        ? biology9Chapters
-        : activeGrade9Subject === 'math'
-        ? math9Chapters
-        : physics9Chapters
-      : activeSubject === 'physics'
-      ? physicsChapters
-      : activeSubject === 'urdu'
-      ? urduChapters
-      : activeSubject === 'math'
-      ? mathChapters
-      : activeSubject === 'english'
-      ? englishChapters
-      : activeSubject === 'cs'
-      ? csChapters
-      : activeSubject === 'islamiat'
-      ? islamiatChapters
-      : activeSubject === 'tarjuma'
-      ? tarjumaChapters
-      : activeSubject === 'biology'
-      ? biologyChapters
-      : chemistryChapters;
+    if (typeof window !== 'undefined') {
+      const url = new URL(window.location.href);
+      url.searchParams.set('grade', grade);
+      url.searchParams.set('subject', newSubjectId);
+      window.history.replaceState({}, '', url.toString());
+    }
+  };
+
+  const handleSubjectChange = (subjectId: string) => {
+    setActiveSubjectId(subjectId);
+    setSearchQuery('');
+
+    if (typeof window !== 'undefined') {
+      const url = new URL(window.location.href);
+      url.searchParams.set('grade', activeGrade);
+      url.searchParams.set('subject', subjectId);
+      window.history.replaceState({}, '', url.toString());
+    }
+  };
+
+  // Get current active subject and its chapters
+  const currentGradeSubjects = gradeSubjects[activeGrade] || gradeSubjects['12'];
+  const activeSubjectItem =
+    currentGradeSubjects.find((s) => s.id === activeSubjectId) || currentGradeSubjects[0];
+  const activeChapters = useMemo(() => activeSubjectItem?.chapters || [], [activeSubjectItem]);
+
+  // Filter chapters based on user search query
+  const filteredChapters = useMemo(() => {
+    if (!searchQuery.trim()) return activeChapters;
+    const query = searchQuery.toLowerCase().trim();
+    return activeChapters.filter(
+      (c) =>
+        c.title.toLowerCase().includes(query) ||
+        `unit ${c.chapterNumber}`.toLowerCase().includes(query) ||
+        c.slug.toLowerCase().includes(query)
+    );
+  }, [activeChapters, searchQuery]);
+
+  const totalSubjectMCQs = useMemo(
+    () => activeChapters.reduce((acc, c) => acc + c.totalQuestions, 0),
+    [activeChapters]
+  );
 
   return (
-    <div>
-      {/* Grade Selector Switcher */}
+    <div className="w-full">
+      {/* ============================================================== */}
+      {/* 1. GRADE SELECTOR: Clean 2x2 Grid on Mobile, 4-Cols on Desktop */}
+      {/* ============================================================== */}
       <section className="mb-6">
-        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 p-4 border border-[var(--color-rule-2)] bg-[var(--color-paper-2)]">
-          <div>
-            <div className="text-xs font-mono uppercase tracking-widest text-[var(--color-muted)]">
-              Curriculum Level Switcher
-            </div>
-            <h2 className="font-[family-name:var(--font-display)] text-lg sm:text-xl font-bold tracking-tight text-[var(--color-ink)] mt-0.5">
-              {activeGrade === '12'
-                ? 'Class 12th (HSSC-II Intermediate Part 2) · Federal Board Curriculum'
-                : activeGrade === '10'
-                ? 'Class 10th (SSC-II Matric Part 2) · Federal Board Curriculum'
-                : activeGrade === '9'
-                ? 'Class 9th (SSC-I Matric Part 1) · Federal Board Curriculum'
-                : 'Class 11th (HSSC-I Intermediate Part 1) · Federal Board Curriculum'}
-            </h2>
+        <div className="p-3 sm:p-4 border border-[var(--color-rule-2)] bg-[var(--color-paper-2)]">
+          <div className="flex items-center justify-between mb-2.5">
+            <span className="text-[11px] font-mono uppercase tracking-widest text-[var(--color-muted)] font-bold">
+              Step 1 · Select Your Curriculum Grade
+            </span>
+            <span className="text-[11px] font-mono text-[var(--color-muted)] hidden sm:inline">
+              4 Examination Tracks
+            </span>
           </div>
 
-          <div className="flex items-center gap-2 font-[family-name:var(--font-display)] flex-wrap">
+          {/* Clean 4-Button Grid - ZERO horizontal scrolling */}
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 font-[family-name:var(--font-display)] w-full">
             <button
               type="button"
-              onClick={() => setActiveGrade('9')}
-              className={`px-4 py-2 border text-xs font-bold flex items-center gap-2 transition-all ${
+              onClick={() => handleGradeChange('9')}
+              className={`p-3 min-h-[48px] border text-xs font-bold flex items-center justify-center gap-2 transition-all active:scale-[0.98] ${
                 activeGrade === '9'
                   ? 'bg-emerald-900 text-white border-emerald-950 shadow-sm'
                   : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
               }`}
             >
-              <Atom className="w-4 h-4 text-emerald-400" />
-              <span>Class 9th (SSC-I)</span>
-              <span className="text-[10px] opacity-75 font-mono">9 Subjects</span>
+              <Atom className="w-4 h-4 text-emerald-400 shrink-0" />
+              <div className="text-left">
+                <span className="block leading-tight">Class 9th</span>
+                <span className="text-[10px] opacity-75 font-mono block">SSC-I Matric</span>
+              </div>
             </button>
+
             <button
               type="button"
-              onClick={() => setActiveGrade('10')}
-              className={`px-4 py-2 border text-xs font-bold flex items-center gap-2 transition-all ${
+              onClick={() => handleGradeChange('10')}
+              className={`p-3 min-h-[48px] border text-xs font-bold flex items-center justify-center gap-2 transition-all active:scale-[0.98] ${
                 activeGrade === '10'
                   ? 'bg-blue-950 text-white border-blue-950 shadow-sm'
                   : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
               }`}
             >
-              <Calculator className="w-4 h-4 text-amber-400" />
-              <span>Class 10th (SSC-II)</span>
-              <span className="text-[10px] opacity-75 font-mono">9 Subjects</span>
+              <Calculator className="w-4 h-4 text-amber-400 shrink-0" />
+              <div className="text-left">
+                <span className="block leading-tight">Class 10th</span>
+                <span className="text-[10px] opacity-75 font-mono block">SSC-II Matric</span>
+              </div>
             </button>
+
             <button
               type="button"
-              onClick={() => setActiveGrade('11')}
-              className={`px-4 py-2 border text-xs font-bold flex items-center gap-2 transition-all ${
+              onClick={() => handleGradeChange('11')}
+              className={`p-3 min-h-[48px] border text-xs font-bold flex items-center justify-center gap-2 transition-all active:scale-[0.98] ${
                 activeGrade === '11'
                   ? 'bg-[var(--color-ink)] text-[var(--color-paper)] border-[var(--color-ink)] shadow-sm'
                   : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
               }`}
             >
-              <BookOpen className="w-4 h-4 text-emerald-400" />
-              <span>Class 11th (HSSC-I)</span>
-              <span className="text-[10px] opacity-75 font-mono">9 Subjects</span>
+              <BookOpen className="w-4 h-4 text-emerald-400 shrink-0" />
+              <div className="text-left">
+                <span className="block leading-tight">Class 11th</span>
+                <span className="text-[10px] opacity-75 font-mono block">HSSC-I Inter</span>
+              </div>
             </button>
+
             <button
               type="button"
-              onClick={() => setActiveGrade('12')}
-              className={`px-4 py-2 border text-xs font-bold flex items-center gap-2 transition-all ${
+              onClick={() => handleGradeChange('12')}
+              className={`p-3 min-h-[48px] border text-xs font-bold flex items-center justify-center gap-2 transition-all active:scale-[0.98] ${
                 activeGrade === '12'
-                  ? 'bg-amber-950 text-white border-amber-950 shadow-sm'
-                  : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-              }`}
-            >
-              <Landmark className="w-4 h-4 text-amber-400" />
-              <span>Class 12th (HSSC-II)</span>
-              <span className="text-[10px] opacity-75 font-mono">9 Subjects</span>
-            </button>
-          </div>
-        </div>
-      </section>
-
-      {/* Subject Selector Bar */}
-      <section className="mb-10">
-        <div className="flex flex-col md:flex-row md:items-center justify-between gap-6 pb-6 border-b border-[var(--color-rule)]">
-          <div>
-            <h2 className="font-[family-name:var(--font-display)] text-xl sm:text-2xl font-bold tracking-tight text-[var(--color-ink)]">
-              {activeGrade === '12'
-                ? activeGrade12Subject === 'physics'
-                  ? 'Class 12th FBISE Physics (فزکس - HSSC-II Pre-Medical & Pre-Engineering)'
-                  : activeGrade12Subject === 'chemistry'
-                  ? 'Class 12th FBISE Chemistry (کیمسٹری - HSSC-II Pre-Medical & Pre-Engineering)'
-                  : activeGrade12Subject === 'math'
-                  ? 'Class 12th FBISE Mathematics (ریاضی - HSSC-II Pre-Engineering & ICS)'
-                  : activeGrade12Subject === 'cs'
-                  ? 'Class 12th FBISE Computer Science (کمپیوٹر سائنس - HSSC-II ICS)'
-                  : activeGrade12Subject === 'biology'
-                  ? 'Class 12th FBISE Biology (حیاتیات - HSSC-II Pre-Medical)'
-                  : activeGrade12Subject === 'english'
-                  ? 'Class 12th FBISE English Compulsory (HSSC-II)'
-                  : activeGrade12Subject === 'urdu'
-                  ? 'Class 12th FBISE Urdu Compulsory (اردو لازمی - HSSC-II)'
-                  : activeGrade12Subject === 'pakstudies'
-                  ? 'Class 12th FBISE Pakistan Studies (مطالعہ پاکستان - HSSC-II Bilingual)'
-                  : 'Class 12th FBISE Tarjuma-tul-Quran (ترجمۃ القرآن المجید - HSSC-II Bilingual)'
-                : activeGrade === '10'
-                ? activeGrade10Subject === 'pakstudies'
-                  ? 'Class 10th FBISE Pakistan Studies (مطالعہ پاکستان - SSC-II Bilingual)'
-                  : activeGrade10Subject === 'urdu'
-                  ? 'Class 10th FBISE Urdu Compulsory (اردو لازمی - SSC-II)'
-                  : activeGrade10Subject === 'tarjuma'
-                  ? 'Class 10th FBISE Tarjuma-tul-Quran (ترجمۃ القرآن المجید - SSC-II Bilingual)'
-                  : activeGrade10Subject === 'english'
-                  ? 'Class 10th FBISE English Compulsory (انگریزی لازمی - SSC-II)'
-                  : activeGrade10Subject === 'biology'
-                  ? 'Class 10th FBISE Biology (حیاتیات - SSC-II)'
-                  : activeGrade10Subject === 'cs'
-                  ? 'Class 10th FBISE Computer Science (کمپیوٹر سائنس - SSC-II)'
-                  : activeGrade10Subject === 'physics'
-                  ? 'Class 10th FBISE Physics (فزکس - SSC-II)'
-                  : activeGrade10Subject === 'chemistry'
-                  ? 'Class 10th FBISE Chemistry (کیمسٹری - SSC-II)'
-                  : 'Class 10th FBISE Mathematics (ریاضی - SSC-II)'
-                : activeGrade === '9'
-                ? activeGrade9Subject === 'urdu'
-                  ? 'Class 9th FBISE Urdu Compulsory (اردو لازمی)'
-                  : activeGrade9Subject === 'tarjuma'
-                  ? 'Class 9th FBISE Tarjuma-tul-Quran (ترجمۃ القرآن المجید)'
-                  : activeGrade9Subject === 'english'
-                  ? 'Class 9th FBISE English Compulsory (SSC-I)'
-                  : activeGrade9Subject === 'islamiat'
-                  ? 'Class 9th FBISE Islamiat Compulsory (اسلامیات لازمی)'
-                  : activeGrade9Subject === 'chemistry'
-                  ? 'Class 9th FBISE Chemistry (کیمسٹری)'
-                  : activeGrade9Subject === 'cs'
-                  ? 'Class 9th FBISE Computer Science (SSC-I)'
-                  : activeGrade9Subject === 'biology'
-                  ? 'Class 9th FBISE Biology (حیاتیات)'
-                  : activeGrade9Subject === 'math'
-                  ? 'Class 9th FBISE Mathematics (SSC-I)'
-                  : 'Class 9th FBISE Physics (SSC-I)'
-                : 'Class 11 FBISE Subjects (HSSC-I)'}
-            </h2>
-            <p className="text-xs text-[var(--color-muted)] mt-1">
-              {activeGrade === '12'
-                ? activeGrade12Subject === 'physics'
-                  ? 'All 10 National Curriculum units (Electrostatics, Current Electricity, Electromagnetism, Electromagnetic Induction, AC, Solids, Electronics, Modern Physics, Atomic Spectra, Nuclear Physics) + 10 official Section A annual board simulators (17 marks, 25-minute timer).'
-                  : activeGrade12Subject === 'chemistry'
-                  ? 'All 16 National Curriculum units (Periodic Classification, s-Block, p-Block, d & f-Block, Coordination Compounds, Hydrocarbons, Alkyl Halides, Alcohols & Phenols, Carbonyls, Carboxylic Acids, Macromolecules, Chemical Industries, Environmental) + 10 official Section A annual board simulators (17 marks, 25-minute timer).'
-                  : activeGrade12Subject === 'math'
-                  ? 'All 10 National Curriculum units (Functions & Graphs, Limits & Derivatives, Integration, Differential Equations, Kinematics, Analytic Geometry, Conics, Vectors, Linear Programming, Numerical Methods) + 10 official Section A annual board examination simulators (20 marks, 25-minute timer).'
-                  : activeGrade12Subject === 'cs'
-                  ? 'All 7 National Curriculum units (Usability & Accessibility, Data Structures & Algorithms, Python OOP & Databases, Data Science & Pandas, Emerging Tech & Cloud/IoT, Impacts of Computing & Cyber Laws, Digital Literacy & Entrepreneurship) + 10 Annual Federal Board Examination Simulators (15 marks, 20-minute timer).'
-                  : activeGrade12Subject === 'biology'
-                  ? 'All 13 National Curriculum units (Respiration, Homeostasis, Support & Locomotion, Nervous Coordination, Endocrine System, Animal Behavior, Reproduction, Development & Aging, Molecular Genetics, Inheritance, Evolution, Biotechnology, Ecosystem & Biosphere) + 10 Annual Federal Board Examination Simulators (17 marks, 25-minute timer).'
-                  : activeGrade12Subject === 'english'
-                  ? 'Book-II Modern Prose & Heroes, Good-bye Mr. Chips, and Advanced Syntax across 10 curriculum units + 10 official Section A annual board simulators (20 marks, 25-minute timer).'
-                  : activeGrade12Subject === 'urdu'
-                  ? 'حصہ نثر، حصہ منظومات، حصہ غزلیات، علم بیان و بدیع، مطابقت و رموز اوقاف اور اصناف ادب کے 8 یونٹس مع 10 سالانہ وفاقی بورڈ امتحانی ماڈل پیپرز (20 معروضی سوالات، 25 منٹ)۔'
-                  : activeGrade12Subject === 'pakstudies'
-                  ? 'All 7 National Curriculum chapters (Ideology, Early Problems, 1973 Constitution, Land & Climate, Economic Development & CPEC, Culture & Society, Foreign Policy) + 10 Annual Board Examination Simulators (Bilingual Urdu + English).'
-                  : 'All 7 Madani Surah modules (Surah An-Nisa, Al-Ma\'idah, An-Nur, Al-Ahzab, Muhammad, Al-Fath, Al-Hujurat, Al-Hadid, and Al-Mujadilah to At-Tahrim) + 10 Annual Board Simulators (Bilingual Urdu + English).'
-                : activeGrade === '10'
-                ? activeGrade10Subject === 'pakstudies'
-                  ? 'All 6 National Curriculum units (Culture, Sports & Leisure, Constitution & Governance, Citizenship & Rights, Foreign Policy, Economy & Resources) + 10 Annual Federal Board Examination Simulators (Bilingual Urdu + English).'
-                  : activeGrade10Subject === 'urdu'
-                  ? 'حصہ نثر، حصہ نظم، حصہ غزل، علم بیان، علم بدیع، قواعد و ترکیبِ نحوی، محاورات و ضرب الامثال اور اصنافِ سخن و ادب کے 8 یونٹس مع 10 سالانہ وفاقی بورڈ امتحانی سمولیٹرز۔'
-                  : activeGrade10Subject === 'tarjuma'
-                  ? 'All 15 Holy Quran Surahs (Al-An\'am through Ash-Shura) across 8 thematic modules + 10 Annual Federal Board Examination Simulators (Bilingual Urdu + English).'
-                  : activeGrade10Subject === 'english'
-                  ? 'All 10 National Curriculum units (Direct/Indirect Speech, Voice, Tenses, Verbals, Clauses, Conditionals & Modals, Parts of Speech, Conjunctions & Syntax, Prepositions & Articles, Poetic Devices) + 10 Annual Federal Board Examination Simulators.'
-                  : activeGrade10Subject === 'biology'
-                  ? 'All 9 National Curriculum units (Gaseous Exchange, Homeostasis, Coordination & Control, Support & Movement, Reproduction, Inheritance, Man & Environment, Biotechnology, Pharmacology) + 10 Annual Federal Board Examination Simulators.'
-                  : activeGrade10Subject === 'cs'
-                  ? 'All 8 National Curriculum units (Computer Systems, Computational Thinking, Programming & Web Development, Data Science, IoT & Automation, Impacts of Computing, Digital Literacy, Research Methodologies) + 10 Annual Federal Board Examination Simulators.'
-                  : activeGrade10Subject === 'physics'
-                  ? 'All 9 National Curriculum units (Simple Harmonic Motion, Sound, Geometrical Optics, Electrostatics, Current Electricity, Electromagnetism, Introductory Electronics, ICT, Atomic & Nuclear Physics) + 10 Annual Federal Board Examination Simulators.'
-                  : activeGrade10Subject === 'chemistry'
-                  ? 'All 8 National Curriculum units (Chemical Equilibrium, Acids, Bases & Salts, Organic Chemistry, Hydrocarbons, Biochemistry, Atmosphere, Water, Chemical Industries) + 10 Annual Federal Board Examination Simulators.'
-                  : 'All 13 National Curriculum chapters (Quadratic Equations, Variations, Partial Fractions, Sets & Functions, Basic Statistics, Trigonometry, Circle Geometry) + 10 Annual Federal Board Examination Simulators.'
-                : activeGrade === '9'
-                ? activeGrade9Subject === 'urdu'
-                  ? 'حصہ نثر، حصہ نظم، حصہ غزل، علم بیان، علم بدیع، اصناف ادب اور قواعد و انشا کے 7 یونٹس مع 4 وفاقی بورڈ سیکشن اے سالانہ امتحانی سمولیٹرز۔'
-                  : activeGrade9Subject === 'tarjuma'
-                  ? 'تمام 18 قرآنی سورتوں (مریم تا الاحقاف) کے 9 موضوعاتی ماڈیولز مع 4 وفاقی بورڈ سالانہ معروضی سمولیٹرز (بزبان اردو و انگریزی)۔'
-                  : activeGrade9Subject === 'english'
-                  ? 'Prepositions, Articles, Conditionals, Verbals, Poetic Devices, Parts of Speech, Transitional Devices, Passivization + 4 Board Simulators.'
-                  : activeGrade9Subject === 'islamiat'
-                  ? 'قرآن و حدیث، ایمانیات و عبادات، سیرتِ طیبہ، اخلاق و آداب، قسم اور شہادت، مشاہیرِ اسلام کے 7 ابواب مع 4 وفاقی بورڈ سالانہ سمولیٹرز۔'
-                  : activeGrade9Subject === 'chemistry'
-                  ? 'All 19 National Curriculum chapters (Nature of Science, Matter, Atomic Structure, Periodic Table, Bonding, Stoichiometry, Redox, Energetics, Equilibrium, Acids/Bases, Air & Water, Organic, Hydrocarbons, Biomolecules, Measurements, Separation, Industrial, Chromatography) + 4 Board Simulators.'
-                  : activeGrade9Subject === 'cs'
-                  ? 'Computer Systems, Computational Thinking, Programming Fundamentals, Data Analysis, AI Applications, Impacts & Entrepreneurship + 4 Board Simulators.'
-                  : activeGrade9Subject === 'biology'
-                  ? 'All 10 National Curriculum chapters (The Science of Biology, Biodiversity, The Cell, Cell Cycle, Tissues/Organs, Biomolecules, Enzymes, Plant Physiology, Floral Reproduction, Evolution) + 8 Board Simulators by Lecturer Rubina Ashraf.'
-                  : activeGrade9Subject === 'math'
-                  ? 'All 11 National Curriculum chapters (Real Numbers, Logarithms, Sets, Algebra, Geometry, Statistics) + 2 Board Simulators.'
-                  : 'Explore all 9 National Curriculum units + 2 official Section A annual board examination simulators.'
-                : 'Select your subject below to explore full chapter-wise practice tests and timed board simulations.'}
-            </p>
-          </div>
-
-          {activeGrade === '12' ? (
-            <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs pb-1">
-              <button
-                type="button"
-                onClick={() => setActiveGrade12Subject('physics')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade12Subject === 'physics'
-                    ? 'bg-sky-950 text-white border-sky-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <Atom className="w-4 h-4 text-sky-400" />
-                <span>Physics (فزکس)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {physics12Chapters.length} Modules · {physics12Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade12Subject('chemistry')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade12Subject === 'chemistry'
-                    ? 'bg-amber-950 text-amber-200 border-amber-800 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <FlaskConical className="w-4 h-4 text-amber-400" />
-                <span>Chemistry (کیمسٹری)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {chemistry12Chapters.length} Modules · {chemistry12Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade12Subject('math')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade12Subject === 'math'
-                    ? 'bg-amber-950 text-white border-amber-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <Calculator className="w-4 h-4 text-amber-400" />
-                <span>Mathematics (ریاضی)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {math12Chapters.length} Modules · {math12Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade12Subject('cs')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade12Subject === 'cs'
-                    ? 'bg-slate-900 text-cyan-300 border-cyan-700 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <Cpu className="w-4 h-4 text-cyan-400" />
-                <span>Computer Science (کمپیوٹر سائنس)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {cs12Chapters.length} Modules · {cs12Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade12Subject('biology')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade12Subject === 'biology'
-                    ? 'bg-emerald-950 text-emerald-200 border-emerald-800 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <Dna className="w-4 h-4 text-emerald-400" />
-                <span>Biology (حیاتیات)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {biology12Chapters.length} Modules · {biology12Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade12Subject('english')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade12Subject === 'english'
-                    ? 'bg-purple-950 text-white border-purple-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <Languages className="w-4 h-4 text-purple-400" />
-                <span>English Compulsory (انگریزی)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {english12Chapters.length} Modules · {english12Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade12Subject('urdu')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade12Subject === 'urdu'
-                    ? 'bg-emerald-900 text-white border-emerald-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <BookMarked className="w-4 h-4 text-emerald-400" />
-                <span>اردو لازمی (Urdu)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {urdu12Chapters.length} Modules · {urdu12Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade12Subject('pakstudies')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade12Subject === 'pakstudies'
-                    ? 'bg-emerald-950 text-white border-emerald-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <Landmark className="w-4 h-4 text-emerald-400" />
-                <span>Pak Studies (مطالعہ پاکستان)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {pakstudies12Chapters.length} Modules · {pakstudies12Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade12Subject('tarjuma')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade12Subject === 'tarjuma'
-                    ? 'bg-teal-900 text-white border-teal-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <ScrollText className="w-4 h-4 text-teal-300" />
-                <span>ترجمۃ القرآن (Tarjuma)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {tarjuma12Chapters.length} Modules · {tarjuma12Total} Qs
-                </span>
-              </button>
-            </div>
-          ) : activeGrade === '10' ? (
-            <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs pb-1">
-              <button
-                type="button"
-                onClick={() => setActiveGrade10Subject('pakstudies')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade10Subject === 'pakstudies'
-                    ? 'bg-emerald-950 text-white border-emerald-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <Landmark className="w-4 h-4 text-emerald-400" />
-                <span>Pak Studies (مطالعہ پاکستان)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {pakstudies10Chapters.length} Modules · {pakstudies10Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade10Subject('urdu')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade10Subject === 'urdu'
-                    ? 'bg-emerald-900 text-white border-emerald-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <BookMarked className="w-4 h-4 text-emerald-400" />
-                <span>اردو لازمی (Urdu)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {urdu10Chapters.length} Modules · {urdu10Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade10Subject('tarjuma')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade10Subject === 'tarjuma'
-                    ? 'bg-teal-900 text-white border-teal-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <ScrollText className="w-4 h-4 text-teal-300" />
-                <span>ترجمۃ القرآن (Tarjuma)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {tarjuma10Chapters.length} Modules · {tarjuma10Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade10Subject('english')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade10Subject === 'english'
-                    ? 'bg-purple-950 text-white border-purple-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <Languages className="w-4 h-4 text-purple-400" />
-                <span>English (انگریزی)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {english10Chapters.length} Modules · {english10Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade10Subject('biology')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade10Subject === 'biology'
-                    ? 'bg-emerald-950 text-white border-emerald-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <Dna className="w-4 h-4 text-emerald-400" />
-                <span>Biology (حیاتیات)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {biology10Chapters.length} Modules · {biology10Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade10Subject('cs')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade10Subject === 'cs'
-                    ? 'bg-cyan-950 text-white border-cyan-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <Cpu className="w-4 h-4 text-cyan-400" />
-                <span>Computer Science (کمپیوٹر سائنس)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {cs10Chapters.length} Modules · {cs10Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade10Subject('chemistry')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade10Subject === 'chemistry'
-                    ? 'bg-amber-950 text-white border-amber-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <FlaskConical className="w-4 h-4 text-amber-400" />
-                <span>Chemistry (کیمسٹری)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {chemistry10Chapters.length} Modules · {chemistry10Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade10Subject('physics')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade10Subject === 'physics'
-                    ? 'bg-sky-950 text-white border-sky-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <Atom className="w-4 h-4 text-sky-400" />
-                <span>Physics (فزکس)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {physics10Chapters.length} Modules · {physics10Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade10Subject('math')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade10Subject === 'math'
-                    ? 'bg-blue-950 text-white border-blue-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <Calculator className="w-4 h-4 text-amber-400" />
-                <span>Mathematics (ریاضی)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {math10Chapters.length} Modules · {math10Total} Qs
-                </span>
-              </button>
-            </div>
-          ) : activeGrade === '9' ? (
-            <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs pb-1">
-              <button
-                type="button"
-                onClick={() => setActiveGrade9Subject('urdu')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade9Subject === 'urdu'
-                    ? 'bg-emerald-900 text-white border-emerald-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <BookMarked className="w-4 h-4 text-emerald-400" />
-                <span>اردو لازمی (Urdu)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {urdu9Chapters.length} Modules · {urdu9Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade9Subject('tarjuma')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade9Subject === 'tarjuma'
-                    ? 'bg-teal-900 text-white border-teal-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <ScrollText className="w-4 h-4 text-teal-300" />
-                <span>ترجمۃ القرآن (Tarjuma)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {tarjuma9Chapters.length} Modules · {tarjuma9Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade9Subject('english')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade9Subject === 'english'
-                    ? 'bg-purple-950 text-white border-purple-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <Languages className="w-4 h-4 text-purple-400" />
-                <span>English Compulsory</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {english9Chapters.length} Modules · {english9Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade9Subject('islamiat')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade9Subject === 'islamiat'
-                    ? 'bg-teal-950 text-white border-teal-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <BookOpen className="w-4 h-4 text-teal-400" />
-                <span>اسلامیات لازمی (Islamiat)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {islamiat9Chapters.length} Modules · {islamiat9Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade9Subject('chemistry')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade9Subject === 'chemistry'
-                    ? 'bg-amber-950 text-amber-200 border-amber-900 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <FlaskConical className="w-4 h-4 text-amber-400" />
-                <span>Chemistry (کیمسٹری)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {chemistry9Chapters.length} Modules · {chemistry9Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade9Subject('cs')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade9Subject === 'cs'
-                    ? 'bg-slate-900 text-cyan-300 border-cyan-700 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <Cpu className="w-4 h-4 text-cyan-400" />
-                <span>Computer Science</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {cs9Chapters.length} Modules · {cs9Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade9Subject('biology')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade9Subject === 'biology'
-                    ? 'bg-emerald-950 text-emerald-200 border-emerald-800 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <Dna className="w-4 h-4 text-emerald-400" />
-                <span>Biology (حیاتیات)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {biology9Chapters.length} Modules · {biology9Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade9Subject('math')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade9Subject === 'math'
-                    ? 'bg-blue-950 text-white border-blue-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <Calculator className="w-4 h-4 text-amber-400" />
-                <span>Mathematics (ریاضی)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {math9Chapters.length} Modules · {math9Total} Qs
-                </span>
-              </button>
-
-              <button
-                type="button"
-                onClick={() => setActiveGrade9Subject('physics')}
-                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
-                  activeGrade9Subject === 'physics'
-                    ? 'bg-emerald-950 text-white border-emerald-950 shadow-sm'
-                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-                }`}
-              >
-                <Atom className="w-4 h-4 text-emerald-400" />
-                <span>Physics (فزکس)</span>
-                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
-                  {physics9Chapters.length} Modules · {physics9Total} Qs
-                </span>
-              </button>
-            </div>
-          ) : (
-            <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs pb-1">
-            <button
-              type="button"
-              onClick={() => setActiveSubject('physics')}
-              className={`px-3.5 py-2 flex items-center gap-2 transition-all duration-150 border font-bold whitespace-nowrap ${
-                activeSubject === 'physics'
-                  ? 'bg-[var(--color-ink)] text-[var(--color-paper)] border-[var(--color-ink)] shadow-sm'
-                  : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-              }`}
-            >
-              <Atom className="w-4 h-4 text-emerald-500" />
-              <span>Physics</span>
-              <span className="font-mono text-[11px] opacity-80 px-1.5 py-0.2 border border-current rounded-sm">
-                14 Units · {physicsTotal} Qs
-              </span>
-            </button>
-
-            <button
-              type="button"
-              onClick={() => setActiveSubject('biology')}
-              className={`px-3.5 py-2 flex items-center gap-2 transition-all duration-150 border font-bold whitespace-nowrap ${
-                activeSubject === 'biology'
-                  ? 'bg-emerald-950 text-emerald-300 border-emerald-700 shadow-sm'
-                  : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-              }`}
-            >
-              <Dna className="w-4 h-4 text-emerald-400" />
-              <span>Biology (حیاتیات)</span>
-              <span className="font-mono text-[11px] opacity-80 px-1.5 py-0.2 border border-current rounded-sm">
-                {biologyChapters.length} Units · {biologyTotal} Qs
-              </span>
-            </button>
-
-            <button
-              type="button"
-              onClick={() => setActiveSubject('chemistry')}
-              className={`px-3.5 py-2 flex items-center gap-2 transition-all duration-150 border font-bold whitespace-nowrap ${
-                activeSubject === 'chemistry'
-                  ? 'bg-amber-950 text-amber-200 border-amber-800 shadow-sm'
-                  : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-              }`}
-            >
-              <FlaskConical className="w-4 h-4 text-amber-400" />
-              <span>Chemistry (کیمسٹری)</span>
-              <span className="font-mono text-[11px] opacity-80 px-1.5 py-0.2 border border-current rounded-sm">
-                {chemistryChapters.length} Units · {chemistryTotal} Qs
-              </span>
-            </button>
-
-            <button
-              type="button"
-              onClick={() => setActiveSubject('urdu')}
-              className={`px-3.5 py-2 flex items-center gap-2 transition-all duration-150 border font-bold whitespace-nowrap ${
-                activeSubject === 'urdu'
-                  ? 'bg-emerald-900 text-white border-emerald-900 shadow-sm'
-                  : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-              }`}
-            >
-              <BookMarked className="w-4 h-4 text-emerald-400" />
-              <span>اردو لازمی (Urdu)</span>
-              <span className="font-mono text-[11px] opacity-80 px-1.5 py-0.2 border border-current rounded-sm">
-                7 Units · {urduTotal} Qs
-              </span>
-            </button>
-
-            <button
-              type="button"
-              onClick={() => setActiveSubject('islamiat')}
-              className={`px-3.5 py-2 flex items-center gap-2 transition-all duration-150 border font-bold whitespace-nowrap ${
-                activeSubject === 'islamiat'
-                  ? 'bg-teal-900 text-white border-teal-900 shadow-sm'
-                  : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-              }`}
-            >
-              <BookOpen className="w-4 h-4 text-teal-300" />
-              <span>اسلامیات لازمی (Islamiat)</span>
-              <span className="font-mono text-[11px] opacity-80 px-1.5 py-0.2 border border-current rounded-sm">
-                {islamiatChapters.length} Units · {islamiatTotal} Qs
-              </span>
-            </button>
-
-            <button
-              type="button"
-              onClick={() => setActiveSubject('tarjuma')}
-              className={`px-3.5 py-2 flex items-center gap-2 transition-all duration-150 border font-bold whitespace-nowrap ${
-                activeSubject === 'tarjuma'
-                  ? 'bg-emerald-950 text-emerald-200 border-emerald-800 shadow-sm'
-                  : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-              }`}
-            >
-              <ScrollText className="w-4 h-4 text-emerald-400" />
-              <span>ترجمۃ القرآن (Tarjuma)</span>
-              <span className="font-mono text-[11px] opacity-80 px-1.5 py-0.2 border border-current rounded-sm">
-                {tarjumaChapters.length} Units · {tarjumaTotal} Qs
-              </span>
-            </button>
-
-            <button
-              type="button"
-              onClick={() => setActiveSubject('math')}
-              className={`px-3.5 py-2 flex items-center gap-2 transition-all duration-150 border font-bold whitespace-nowrap ${
-                activeSubject === 'math'
-                  ? 'bg-blue-950 text-white border-blue-950 shadow-sm'
-                  : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-              }`}
-            >
-              <Calculator className="w-4 h-4 text-amber-400" />
-              <span>Mathematics</span>
-              <span className="font-mono text-[11px] opacity-80 px-1.5 py-0.2 border border-current rounded-sm">
-                {mathChapters.length} Units · {mathTotal} Qs
-              </span>
-            </button>
-
-            <button
-              type="button"
-              onClick={() => setActiveSubject('english')}
-              className={`px-3.5 py-2 flex items-center gap-2 transition-all duration-150 border font-bold whitespace-nowrap ${
-                activeSubject === 'english'
                   ? 'bg-purple-950 text-white border-purple-950 shadow-sm'
                   : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
               }`}
             >
-              <Languages className="w-4 h-4 text-purple-400" />
-              <span>English</span>
-              <span className="font-mono text-[11px] opacity-80 px-1.5 py-0.2 border border-current rounded-sm">
-                {englishChapters.length} Units · {englishTotal} Qs
-              </span>
+              <Landmark className="w-4 h-4 text-purple-300 shrink-0" />
+              <div className="text-left">
+                <span className="block leading-tight">Class 12th</span>
+                <span className="text-[10px] opacity-75 font-mono block">HSSC-II Inter</span>
+              </div>
             </button>
-
-            <button
-              type="button"
-              onClick={() => setActiveSubject('cs')}
-              className={`px-3.5 py-2 flex items-center gap-2 transition-all duration-150 border font-bold whitespace-nowrap ${
-                activeSubject === 'cs'
-                  ? 'bg-slate-900 text-cyan-300 border-cyan-700 shadow-sm'
-                  : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
-              }`}
-            >
-              <Cpu className="w-4 h-4 text-cyan-400" />
-              <span>Computer Science</span>
-              <span className="font-mono text-[11px] opacity-80 px-1.5 py-0.2 border border-current rounded-sm">
-                {csChapters.length} Units · {csTotal} Qs
-              </span>
-            </button>
-          </div>
-        )}
-        </div>
-
-        {/* Dynamic Subject Banner */}
-        <div className="mt-4 p-4 border border-[var(--color-rule-2)] bg-[var(--color-paper-2)] flex flex-col sm:flex-row sm:items-center justify-between gap-3 font-[family-name:var(--font-display)]">
-          <div className="flex items-center gap-3">
-            <div className="w-8 h-8 rounded-full bg-emerald-100 border border-emerald-300 flex items-center justify-center text-emerald-800 flex-shrink-0">
-              <Sparkles className="w-4 h-4" />
-            </div>
-            <div>
-              <span className="text-xs font-mono uppercase tracking-widest text-emerald-900 font-bold block">
-                {activeGrade === '12'
-                  ? activeGrade12Subject === 'physics'
-                    ? 'Active Subject: Class 12th Physics (HSSC-II Pre-Medical & Pre-Engineering)'
-                    : activeGrade12Subject === 'chemistry'
-                    ? 'Active Subject: Class 12th Chemistry (HSSC-II Pre-Medical & Pre-Engineering FBISE)'
-                    : activeGrade12Subject === 'math'
-                    ? 'Active Subject: Class 12th Mathematics (HSSC-II Pre-Engineering & ICS)'
-                    : activeGrade12Subject === 'cs'
-                    ? 'Active Subject: Class 12th Computer Science (HSSC-II ICS FBISE)'
-                    : activeGrade12Subject === 'biology'
-                    ? 'Active Subject: Class 12th Biology (HSSC-II Pre-Medical FBISE)'
-                    : activeGrade12Subject === 'english'
-                    ? 'Active Subject: Class 12th English Compulsory (HSSC-II FBISE)'
-                    : activeGrade12Subject === 'urdu'
-                    ? 'فعال مضمون: وفاقی تعلیمی بورڈ اردو لازمی سال دوم (FBISE Urdu Class 12)'
-                    : activeGrade12Subject === 'pakstudies'
-                    ? 'Active Subject: Class 12th Pakistan Studies (مطالعہ پاکستان - HSSC-II Bilingual)'
-                    : 'فعال مضمون: ترجمۃ القرآن المجید جماعت دوازدہم (FBISE Tarjuma-tul-Quran Class 12 Bilingual)'
-                  : activeGrade === '10'
-                  ? activeGrade10Subject === 'pakstudies'
-                    ? 'Active Subject: Class 10th Pakistan Studies (مطالعہ پاکستان - SSC-II Bilingual)'
-                    : activeGrade10Subject === 'urdu'
-                    ? 'فعال مضمون: وفاقی تعلیمی بورڈ اردو لازمی جماعت دہم (FBISE Urdu Class 10)'
-                    : activeGrade10Subject === 'tarjuma'
-                    ? 'فعال مضمون: ترجمۃ القرآن المجید جماعت دہم (FBISE Tarjuma-tul-Quran Class 10 Bilingual)'
-                    : activeGrade10Subject === 'english'
-                    ? 'Active Subject: Class 10th English Compulsory (SSC-II Matric Part 2)'
-                    : activeGrade10Subject === 'biology'
-                    ? 'Active Subject: Class 10th Biology (SSC-II Matric Part 2)'
-                    : activeGrade10Subject === 'cs'
-                    ? 'Active Subject: Class 10th Computer Science (SSC-II Matric Part 2)'
-                    : activeGrade10Subject === 'chemistry'
-                    ? 'Active Subject: Class 10th Chemistry (SSC-II Matric Part 2)'
-                    : activeGrade10Subject === 'physics'
-                    ? 'Active Subject: Class 10th Physics (SSC-II Matric Part 2)'
-                    : 'Active Subject: Class 10th Mathematics (SSC-II Matric Part 2)'
-                  : activeGrade === '9'
-                  ? activeGrade9Subject === 'urdu'
-                    ? 'فعال مضمون: وفاقی تعلیمی بورڈ اردو لازمی جماعت نہم (FBISE Urdu Class 9)'
-                    : activeGrade9Subject === 'tarjuma'
-                    ? 'فعال مضمون: ترجمۃ القرآن المجید جماعت نہم (FBISE Tarjuma-tul-Quran Class 9)'
-                    : activeGrade9Subject === 'english'
-                    ? 'Active Subject: Class 9th English Compulsory (SSC-I Matric Part 1)'
-                    : activeGrade9Subject === 'islamiat'
-                    ? 'فعال مضمون: وفاقی تعلیمی بورڈ اسلامیات لازمی جماعت نہم (FBISE Islamiat Class 9)'
-                    : activeGrade9Subject === 'chemistry'
-                    ? 'Active Subject: Class 9th Chemistry (SSC-I Matric Part 1)'
-                    : activeGrade9Subject === 'cs'
-                    ? 'Active Subject: Class 9th Computer Science (SSC-I Matric Part 1)'
-                    : activeGrade9Subject === 'biology'
-                    ? 'Active Subject: Class 9th Biology (SSC-I Matric Part 1)'
-                    : activeGrade9Subject === 'math'
-                    ? 'Active Subject: Class 9th Mathematics (SSC-I Matric Part 1)'
-                    : 'Active Subject: Class 9th Physics (SSC-I Matric Part 1)'
-                  : activeSubject === 'physics'
-                  ? 'Active Subject: Class 11th Physics (SLO Based)'
-                  : activeSubject === 'biology'
-                  ? 'Active Subject: Class 11th Biology (HSSC-I FBISE Pre-Medical)'
-                  : activeSubject === 'chemistry'
-                  ? 'Active Subject: Class 11th Chemistry (HSSC-I FBISE Pre-Medical & Pre-Engineering)'
-                  : activeSubject === 'urdu'
-                  ? 'فعال مضمون: وفاقی تعلیمی بورڈ لازمی اردو سال اول (FBISE Urdu)'
-                  : activeSubject === 'islamiat'
-                  ? 'فعال مضمون: وفاقی تعلیمی بورڈ اسلامیات لازمی سال اول (FBISE Islamiat Compulsory)'
-                  : activeSubject === 'tarjuma'
-                  ? 'فعال مضمون: ترجمۃ القرآن المجید لازمی سال اول (FBISE Tarjuma-tul-Quran)'
-                  : activeSubject === 'math'
-                  ? 'Active Subject: Class 11th Mathematics (HSSC-I FBISE)'
-                  : activeSubject === 'english'
-                  ? 'Active Subject: Class 11th English Compulsory (HSSC-I FBISE)'
-                  : 'Active Subject: Class 11th Computer Science (HSSC-I FBISE)'}
-              </span>
-              <p className="text-xs text-[var(--color-muted)] mt-0.5">
-                {activeGrade === '12'
-                  ? activeGrade12Subject === 'physics'
-                    ? 'All 10 National Curriculum chapters (Electrostatics, Current Electricity, Electromagnetism, Electromagnetic Induction, Alternating Current, Physics of Solids, Electronics, Dawn of Modern Physics, Atomic Spectra, Nuclear Physics) + 10 official Section A annual board examination simulators (17 MCQs, 25 min) with detailed mathematical and physical reasoning.'
-                  : activeGrade12Subject === 'chemistry'
-                  ? 'All 16 National Curriculum units (Periodic Classification, s-Block, p-Block, Transition Elements & Coordination Compounds, Organic Reaction Mechanisms, Hydrocarbons, Alkyl Halides, Alcohols & Phenols, Aldehydes & Ketones, Carboxylic Acids, Macromolecules, Chemical Industries of Pakistan, Environmental Chemistry) + 10 official Section A annual board examination simulators (17 MCQs, 25 min) with chemical mechanisms and reaction equations.'
-                  : activeGrade12Subject === 'math'
-                    ? 'All 10 National Curriculum chapters (Functions & Graphs, Limits, Continuity & Derivative, Integration, Differential Equations, Kinematics, Introduction to Analytic Geometry, Conic Sections, Vectors, Linear Programming, Numerical Methods) + 10 official Section A annual board examination simulators (20 MCQs, 25 min) with detailed mathematical reasoning.'
-                    : activeGrade12Subject === 'cs'
-                    ? 'All 7 National Curriculum units (Usability & Accessibility, Data Structures & Algorithms, Python OOP & Databases, Data Science & Pandas, Emerging Tech & Cloud/IoT, Impacts of Computing & Cyber Laws, Digital Literacy & Entrepreneurship) + 10 official Section A annual board examination simulators (15 MCQs, 20 min) with detailed computational logic.'
-                    : activeGrade12Subject === 'biology'
-                    ? 'All 13 National Curriculum units (Respiration, Homeostasis, Support & Locomotion, Nervous Coordination, Endocrine System, Animal Behavior, Reproduction, Development & Aging, Molecular Genetics, Inheritance, Evolution, Biotechnology, Ecosystem & Biosphere) + 10 official Section A annual board examination simulators (17 MCQs, 25 min) with biological justifications.'
-                    : activeGrade12Subject === 'english'
-                    ? 'All 10 curriculum units (Synthesizing/Critique, Complex Modals, Subjunctive/Conditionals, Inversion/Fronting, Rhetorical Devices, Transformational Syntax, Register & Tone, Discourse Cohesion, Idiomatic Nuances, Argumentation) + 10 official Section A annual board examination simulators with senior faculty rationales.'
-                    : activeGrade12Subject === 'urdu'
-                    ? 'حصہ نثر، حصہ نظم، حصہ غزل، علم بیان، علم بدیع، عروض و تقطیع، قواعد و املا، اصناف ادب کے 8 یونٹس مع 10 سالانہ وفاقی بورڈ امتحانی سمولیٹرز مع مستند ادبی و لغوی تشریحات۔'
-                    : activeGrade12Subject === 'pakstudies'
-                    ? 'All 7 National Curriculum chapters (Ideological Basis, Early Problems & Constitution, Foreign Policy, Economy, Society & Culture, Education & Technology, Good Governance) + 10 official Section A annual board examination simulators (Bilingual Urdu & English).'
-                    : 'مقررہ قرآنی سورتیں (الأنعام، الأعراف، یونس، ہود، یوسف، الرعد، إبراہیم) کے 7 جامع موضوعاتی ماڈیولز مع 10 وفاقی بورڈ سالانہ معروضی سمولیٹرز (بزبان اردو و انگریزی)۔'
-                  : activeGrade === '10'
-                  ? activeGrade10Subject === 'pakstudies'
-                    ? 'All 6 National Curriculum units + 10 official Section A annual board examination simulators with bilingual conceptual rationales.'
-                    : activeGrade10Subject === 'urdu'
-                    ? 'حصہ نثر، حصہ نظم، حصہ غزل، علم بیان، علم بدیع، قواعد و ترکیبِ نحوی، محاورات و اصناف کے 8 یونٹس مع 10 سالانہ وفاقی بورڈ امتحانی سمولیٹرز۔'
-                    : activeGrade10Subject === 'tarjuma'
-                    ? 'تمام 15 قرآنی سورتوں (الأنعام تا الشوریٰ) کے 8 موضوعاتی ماڈیولز مع 10 وفاقی بورڈ سالانہ معروضی سمولیٹرز (بزبان اردو و انگریزی)۔'
-                    : activeGrade10Subject === 'english'
-                    ? 'All 10 National Curriculum units + 10 official Section A annual board examination simulators with comprehensive grammatical rules and literary explanations.'
-                    : activeGrade10Subject === 'biology'
-                    ? 'All 9 National Curriculum units + 10 official Section A annual board examination simulators with biological diagrams and physiological rationales.'
-                    : activeGrade10Subject === 'cs'
-                    ? 'All 8 National Curriculum units + 10 official Section A annual board examination simulators with programming logic, algorithmic tracing, and computing rationales.'
-                    : activeGrade10Subject === 'chemistry'
-                    ? 'All 8 National Curriculum units + 10 official Section A annual board examination simulators with balanced chemical equations, equilibrium calculations, and molecular rationales.'
-                    : activeGrade10Subject === 'physics'
-                    ? 'All 9 National Curriculum units + 10 official Section A annual board examination simulators with step-by-step physical principles and formula explanations.'
-                    : 'All 13 National Curriculum chapters + 10 official Section A annual board examination simulators with full mathematical reasoning.'
-                  : activeGrade === '9'
-                  ? activeGrade9Subject === 'urdu'
-                    ? 'حصہ نثر، حصہ نظم، حصہ غزل، علم بیان، علم بدیع، اصناف ادب اور قواعد و انشا کے 7 یونٹس مع 4 وفاقی بورڈ سالانہ امتحانی سمولیٹرز (لیکچرار نرجس ظہیر)۔'
-                    : activeGrade9Subject === 'tarjuma'
-                    ? 'تمام 18 قرآنی سورتوں (مریم تا الاحقاف) کے 9 موضوعاتی ماڈیولز مع 4 وفاقی بورڈ سالانہ معروضی سمولیٹرز (بزبان اردو و انگریزی از لیکچرار طیبہ رفاقت)۔'
-                    : activeGrade9Subject === 'english'
-                    ? 'Prepositions, Articles, Conditionals (Zero–3rd), Verbals, Poetic Devices, Parts of Speech, Transitional Devices, Passivization + 4 official Section A simulators (Lecturer Adeela Naheed).'
-                    : activeGrade9Subject === 'islamiat'
-                    ? 'قرآن و حدیث، ایمانیات و عبادات، سیرتِ طیبہ، اخلاق و آداب، قسم و شہادت، مشاہیرِ اسلام اور جدید تقاضے مع 4 وفاقی بورڈ سالانہ امتحانی سمولیٹرز (لیکچرار طیبہ رفاقت)۔'
-                    : activeGrade9Subject === 'chemistry'
-                    ? 'All 19 National Curriculum chapters (Nature of Science, Matter, Atomic Structure, Periodic Table, Bonding, Stoichiometry, Redox, Energetics, Equilibrium, Acids/Bases, Air & Water, Organic, Hydrocarbons, Biomolecules, Measurements, Separation, Industrial, Chromatography) + 4 official Section A simulators (Lecturer Ayesha Amjad).'
-                    : activeGrade9Subject === 'cs'
-                    ? 'All 7 National Curriculum chapters (Computer Systems, Algorithms, Web/JS, Data, AI, Impacts, Entrepreneurship) + 4 official Section A simulators by Lecturer Sabahat Ul Hasan & Aryan Ali.'
-                    : activeGrade9Subject === 'biology'
-                    ? 'All 10 National Curriculum chapters (The Science of Biology, Biodiversity, The Cell, Cell Cycle, Tissues/Organs, Biomolecules, Enzymes, Plant Physiology, Floral Reproduction, Evolution) + 8 official Section A simulators by Lecturer Rubina Ashraf.'
-                    : activeGrade9Subject === 'math'
-                    ? 'All 11 National Curriculum chapters (Real Numbers, Logarithms, Sets, Factorization, Linear Equations, Trigonometry, Coordinate Geometry, Straight Lines, Polygons, Practical Geometry, Statistics) + 2 official Section A annual board examination simulators.'
-                    : 'All 9 National Curriculum units (Physical Quantities, Kinematics, Dynamics, Turning Effect, Pressure, Work & Energy, Density, Magnetism, Nature of Science) + 2 official Section A annual board examination simulators.'
-                  : activeSubject === 'physics'
-                  ? 'All 14 textbook units + 13-year past board exams compiled with instant formula explanations.'
-                  : activeSubject === 'biology'
-                  ? 'All 15 National Curriculum chapters (Cell Biology, Genetics, Physiology, Biodiversity) + 2 official FBISE Board Section A exam simulators.'
-                  : activeSubject === 'chemistry'
-                  ? '12 core domains (Stoichiometry, Atomic Theory, Bonding, Gas Laws, Energetics, Organic) with rationales by Lecturer Ayesha Amjad + 3 FBISE Board Simulators.'
-                  : activeSubject === 'urdu'
-                  ? 'حصہ نثر، نظمیں، غزلیات، علم بیان (تشبیہ، استعارہ، مجاز مرسل، کنایہ) اور علم بدیع کے مکمل سوالات مع تفصیلی حل۔'
-                  : activeSubject === 'islamiat'
-                  ? 'علوم القرآن و الحدیث، ایمانیات، عبادات، سیرتِ طیبہ اور اخلاق و معاشرت کے مکمل 5 یونٹس مع 2 وفاقی بورڈ سالانہ ماڈل پرچے مع مستند تشریحات۔'
-                  : activeSubject === 'tarjuma'
-                  ? 'مقررہ قرآنی سورتیں (سورۃ البقرۃ، سورۃ آل عمران، سورۃ الانفال، سورۃ التوبۃ) کے 4 جامع یونٹس مع 3 وفاقی بورڈ سالانہ معروضی سمولیٹرز (بزبان اردو و انگریزی)۔'
-                  : activeSubject === 'math'
-                  ? 'Units 1–5 comprehensive guess papers + 3 official FBISE Board Section A simulators with step-by-step mathematical reasoning.'
-                  : activeSubject === 'english'
-                  ? 'Units 1–6 thematic SLO modules (syntax, verbals, clauses, poetic devices) + 4 official FBISE Board Section A exam simulators.'
-                  : 'Chapters 1–8 topic-wise curriculum units + 3 official FBISE Board Section A simulators with author explanations (Aryan Ali & Sabahat-Ul-Hasan).'}
-              </p>
-            </div>
-          </div>
-          <div className="flex items-center gap-3 text-xs font-mono text-[var(--color-muted)] flex-shrink-0">
-            <span>{activeChapters.length} Modules Available</span>
-            <span>·</span>
-            <span>
-              {activeGrade === '12'
-                ? activeGrade12Subject === 'physics'
-                  ? physics12Total
-                  : activeGrade12Subject === 'chemistry'
-                  ? chemistry12Total
-                  : activeGrade12Subject === 'math'
-                  ? math12Total
-                  : activeGrade12Subject === 'cs'
-                  ? cs12Total
-                  : activeGrade12Subject === 'biology'
-                  ? biology12Total
-                  : activeGrade12Subject === 'english'
-                  ? english12Total
-                  : activeGrade12Subject === 'urdu'
-                  ? urdu12Total
-                  : activeGrade12Subject === 'pakstudies'
-                  ? pakstudies12Total
-                  : tarjuma12Total
-                : activeGrade === '10'
-                ? activeGrade10Subject === 'pakstudies'
-                  ? pakstudies10Total
-                  : activeGrade10Subject === 'urdu'
-                  ? urdu10Total
-                  : activeGrade10Subject === 'tarjuma'
-                  ? tarjuma10Total
-                  : activeGrade10Subject === 'english'
-                  ? english10Total
-                  : activeGrade10Subject === 'biology'
-                  ? biology10Total
-                  : activeGrade10Subject === 'cs'
-                  ? cs10Total
-                  : activeGrade10Subject === 'chemistry'
-                  ? chemistry10Total
-                  : activeGrade10Subject === 'physics'
-                  ? physics10Total
-                  : math10Total
-                : activeGrade === '9'
-                ? activeGrade9Subject === 'urdu'
-                  ? urdu9Total
-                  : activeGrade9Subject === 'tarjuma'
-                  ? tarjuma9Total
-                  : activeGrade9Subject === 'english'
-                  ? english9Total
-                  : activeGrade9Subject === 'islamiat'
-                  ? islamiat9Total
-                  : activeGrade9Subject === 'chemistry'
-                  ? chemistry9Total
-                  : activeGrade9Subject === 'cs'
-                  ? cs9Total
-                  : activeGrade9Subject === 'biology'
-                  ? biology9Total
-                  : activeGrade9Subject === 'math'
-                  ? math9Total
-                  : physics9Total
-                : activeSubject === 'physics'
-                ? physicsTotal
-                : activeSubject === 'biology'
-                ? biologyTotal
-                : activeSubject === 'chemistry'
-                ? chemistryTotal
-                : activeSubject === 'urdu'
-                ? urduTotal
-                : activeSubject === 'islamiat'
-                ? islamiatTotal
-                : activeSubject === 'tarjuma'
-                ? tarjumaTotal
-                : activeSubject === 'math'
-                ? mathTotal
-                : activeSubject === 'english'
-                ? englishTotal
-                : csTotal}{' '}
-              Authentic MCQs
-            </span>
           </div>
         </div>
       </section>
 
-      {/* Chapters Grid */}
-      <section className="mb-16">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {activeChapters.map((chapter) => (
-            <ChapterCard key={chapter.slug} chapter={chapter} />
-          ))}
+      {/* ============================================================== */}
+      {/* 2. SUBJECT SELECTOR: Full Width Wrapping Chips - ZERO OVERFLOW */}
+      {/* ============================================================== */}
+      <section className="mb-8">
+        <div className="pb-4 border-b border-[var(--color-rule)]">
+          <div className="flex items-center justify-between mb-3">
+            <span className="text-[11px] font-mono uppercase tracking-widest text-[var(--color-muted)] font-bold">
+              Step 2 · Choose Your Subject ({currentGradeSubjects.length} Available)
+            </span>
+            <span className="text-xs font-mono text-emerald-800 font-semibold hidden sm:inline">
+              All Units Aligned to FBISE SLOs
+            </span>
+          </div>
+
+          {/* Subject Pills wrap naturally on mobile without ANY horizontal scrolling */}
+          <div className="flex flex-wrap items-center gap-1.5 sm:gap-2 font-[family-name:var(--font-display)] text-xs w-full">
+            {currentGradeSubjects.map((sub) => {
+              const Icon = sub.icon;
+              const isSelected = activeSubjectItem?.id === sub.id;
+              const moduleCount = sub.chapters.length;
+
+              return (
+                <button
+                  key={sub.id}
+                  type="button"
+                  onClick={() => handleSubjectChange(sub.id)}
+                  className={`px-3 py-2 min-h-[44px] flex items-center gap-2 transition-all border font-bold text-xs active:scale-[0.98] ${
+                    isSelected
+                      ? 'bg-[var(--color-ink)] text-[var(--color-paper)] border-[var(--color-ink)] shadow-sm'
+                      : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                  }`}
+                  aria-pressed={isSelected}
+                >
+                  <Icon className={`w-3.5 h-3.5 shrink-0 ${isSelected ? 'text-emerald-400' : 'text-emerald-700'}`} />
+                  <span>{sub.name}</span>
+                  <span className={`font-mono text-[10px] px-1.5 py-0.2 border border-current rounded-sm ${
+                    isSelected ? 'opacity-90' : 'text-[var(--color-muted)]'
+                  }`}>
+                    {moduleCount}
+                  </span>
+                </button>
+              );
+            })}
+          </div>
         </div>
+      </section>
+
+      {/* ============================================================== */}
+      {/* 3. ACTIVE SUBJECT BANNER & SEARCH/FILTER BAR                    */}
+      {/* ============================================================== */}
+      <section className="mb-6">
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 p-4 border border-[var(--color-rule-2)] bg-[var(--color-paper-alt)]">
+          <div>
+            <div className="flex items-center gap-2">
+              <span className="text-[10px] font-mono uppercase tracking-widest bg-emerald-100 text-emerald-900 border border-emerald-300 px-1.5 py-0.5 font-bold">
+                Class {activeGrade}th
+              </span>
+              <h2 className="font-[family-name:var(--font-display)] text-lg sm:text-xl font-bold tracking-tight text-[var(--color-ink)]">
+                {activeSubjectItem?.name}
+              </h2>
+            </div>
+            <p className="text-xs text-[var(--color-muted)] font-[family-name:var(--font-body)] mt-1">
+              Federal Board National Curriculum · {activeChapters.length} Practice Units & Section A Simulators · {totalSubjectMCQs} Total MCQs
+            </p>
+          </div>
+
+          {/* Quick Stats Pill */}
+          <div className="flex items-center gap-2 text-xs font-mono shrink-0">
+            <span className="px-2.5 py-1.5 border border-[var(--color-rule)] bg-[var(--color-paper)] font-bold text-[var(--color-ink)]">
+              {activeChapters.length} Modules
+            </span>
+            <span className="px-2.5 py-1.5 border border-emerald-700 bg-emerald-50 text-emerald-950 font-bold">
+              {totalSubjectMCQs} MCQs
+            </span>
+          </div>
+        </div>
+
+        {/* Real-Time Chapter Search Filter */}
+        <div className="mt-3 flex items-center gap-2">
+          <div className="relative flex-1">
+            <Search className="w-4 h-4 text-[var(--color-muted)] absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none" />
+            <input
+              type="text"
+              value={searchQuery}
+              onChange={(e) => setSearchQuery(e.target.value)}
+              placeholder={`Search ${activeChapters.length} chapters, topics, or past paper simulators...`}
+              className="w-full pl-9 pr-8 py-2.5 min-h-[42px] border border-[var(--color-rule-2)] bg-[var(--color-paper)] text-xs font-[family-name:var(--font-body)] text-[var(--color-ink)] placeholder:text-[var(--color-muted)] focus:outline-none focus:border-[var(--color-ink)] transition-colors"
+            />
+            {searchQuery && (
+              <button
+                type="button"
+                onClick={() => setSearchQuery('')}
+                className="absolute right-2.5 top-1/2 -translate-y-1/2 text-xs font-mono px-1.5 py-0.5 text-[var(--color-muted)] hover:text-[var(--color-ink)]"
+                title="Clear Search"
+              >
+                ✕
+              </button>
+            )}
+          </div>
+          {searchQuery && (
+            <span className="text-xs font-mono text-[var(--color-muted)] shrink-0 hidden sm:inline">
+              Found {filteredChapters.length} matching
+            </span>
+          )}
+        </div>
+      </section>
+
+      {/* ============================================================== */}
+      {/* 4. CHAPTERS GRID: Responsive 1/2/3 Columns                     */}
+      {/* ============================================================== */}
+      <section className="mb-16">
+        {filteredChapters.length === 0 ? (
+          <div className="border-2 border-dashed border-[var(--color-rule-2)] p-12 text-center text-[var(--color-muted)] space-y-3">
+            <Search className="w-8 h-8 mx-auto text-[var(--color-muted)]" />
+            <p className="font-[family-name:var(--font-display)] font-bold text-sm text-[var(--color-ink)]">
+              No modules found matching &ldquo;{searchQuery}&rdquo;
+            </p>
+            <p className="text-xs max-w-sm mx-auto">
+              Try searching with another keyword or clear the search to view all {activeChapters.length} units in {activeSubjectItem?.name}.
+            </p>
+            <button
+              type="button"
+              onClick={() => setSearchQuery('')}
+              className="px-3.5 py-1.5 border border-[var(--color-ink)] text-xs font-bold font-mono text-[var(--color-ink)] hover:bg-[var(--color-paper-2)] transition-colors"
+            >
+              Clear Filter
+            </button>
+          </div>
+        ) : (
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-6">
+            {filteredChapters.map((chapter) => (
+              <ChapterCard key={chapter.slug} chapter={chapter} />
+            ))}
+          </div>
+        )}
       </section>
     </div>
   );

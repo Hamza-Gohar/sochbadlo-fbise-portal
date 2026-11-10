@@ -160,51 +160,92 @@ export default function HomePage() {
       <Navbar />
 
       <main className="max-w-[var(--container)] mx-auto px-4 sm:px-8 py-10 w-full">
-        {/* Editorial Hero */}
-        <section className="border-b-4 border-[var(--color-ink)] pb-12 mb-12">
-          <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-8">
-            <div className="max-w-3xl">
-              <div className="inline-flex items-center gap-2 px-2.5 py-1 border border-[var(--color-rule-2)] text-xs font-mono uppercase tracking-widest text-[var(--color-muted)] mb-4 bg-[var(--color-paper-2)]">
+        {/* Debloated Hallmark Editorial Hero */}
+        <section className="border-b-4 border-[var(--color-ink)] pb-8 mb-8">
+          <div className="flex flex-col lg:flex-row lg:items-end justify-between gap-6">
+            <div className="max-w-2xl">
+              <div className="inline-flex items-center gap-2 px-2.5 py-1 border border-[var(--color-rule-2)] text-xs font-mono uppercase tracking-widest text-[var(--color-muted)] mb-3 bg-[var(--color-paper-2)]">
                 <span className="w-1.5 h-1.5 rounded-full bg-emerald-600"></span>
-                Official FBISE Curriculum Preparation Portal · Class 9th, 10th, 11th & 12th
+                Official FBISE Preparation Portal · Class 9th, 10th, 11th & 12th
               </div>
-              <h1 className="font-[family-name:var(--font-display)] text-3xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-[var(--color-ink)] leading-[1.05] mb-5">
-                FBISE Examination Testing & Preparation Platform
+              <h1 className="font-[family-name:var(--font-display)] text-3xl sm:text-5xl font-extrabold tracking-tight text-[var(--color-ink)] leading-[1.08] mb-3">
+                Master Board Examinations with Verified MCQs
               </h1>
-              <p className="text-base sm:text-lg text-[var(--color-ink-2)] max-w-2xl leading-relaxed font-[family-name:var(--font-body)]">
-                Master Federal Board SSC-I (Matric Part 1), SSC-II (Matric Part 2), HSSC-I (Intermediate Part 1), and HSSC-II (Intermediate Part 2) examinations with authentic chapter-wise test series, instant conceptual explanations,
-                Class 12th Chemistry (16 units + 10 Section A simulators with organic reaction mechanisms, IUPAC nomenclature & coordination complexes), Class 12th Computer Science (7 units + 10 Section A simulators with Python OOP, data structures & computing logic), Class 12th Biology (13 units + 10 Section A simulators with physiological, genetic & ecological rationales), Class 12th Mathematics (10 units + 10 Section A simulators with calculus proofs & coordinate geometry), Class 12th Physics (10 units + 10 Section A simulators with formula steps & derivations), Class 12th English Compulsory (10 units + 10 Section A simulators), Class 12th Urdu Compulsory (8 units + 10 Section A simulators), Class 12th Pakistan Studies (7 units + 10 Section A bilingual simulators), Class 12th Tarjuma-tul-Quran (7 units + 10 Section A bilingual simulators),
-                Class 10th Pakistan Studies (6 units + 10 Section A bilingual simulators), Class 10th Urdu Compulsory (8 units + 10 Section A simulators), Class 10th Tarjuma-tul-Quran (8 units + 10 Section A bilingual simulators), Class 10th English Compulsory (10 units + 10 Section A simulators), Class 10th Biology (9 units + 10 Section A simulators), Class 10th Computer Science (8 units + 10 Section A simulators), Class 10th Chemistry (8 units + 10 Section A simulators), Class 10th Physics (9 units + 10 Section A simulators), Class 10th Mathematics (13 units + 10 Section A simulators), Class 9th Biology (10 chapters + 8 Section A simulators), Class 9th Computer Science (7 chapters + 4 Section A simulators), Class 9th Chemistry (19 chapters + 4 Section A simulators), Class 9th English Compulsory (7 units + 4 Section A simulators), Class 9th Islamiat Compulsory (7 units + 4 Section A simulators), Class 9th Urdu Compulsory (7 units + 4 Section A simulators), Class 9th Tarjuma-tul-Quran (9 units + 4 bilingual simulators), Class 9th Mathematics (11 units + 2 Section A simulators), Class 9th Physics (9 units + 2 Section A simulators),
-                Physics formulas, English syntax & poetic devices, Urdu literature and rhetoric (علمِ بیان و علمِ بدیع), Islamiat Compulsory (اسلامیات لازمی),
-                Tarjuma-tul-Quran (ترجمۃ القرآن المجید), Pakistan Studies (مطالعہ پاکستان), Mathematics step-by-step problem solving, Computer Science logic, and timed board exam simulations.
+              <p className="text-sm sm:text-base text-[var(--color-ink-2)] max-w-xl leading-relaxed font-[family-name:var(--font-body)]">
+                Official SLO-aligned chapter tests and timed Section A board exam simulators with step-by-step solutions for Matric (SSC) and Intermediate (HSSC) students.
               </p>
             </div>
 
             {/* Quick Metrics Strip */}
-            <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 border border-[var(--color-rule-2)] p-4 bg-[var(--color-paper-2)] font-[family-name:var(--font-display)]">
+            <div className="grid grid-cols-3 gap-3 border border-[var(--color-rule-2)] p-3.5 bg-[var(--color-paper-2)] font-[family-name:var(--font-display)] shrink-0">
               <div>
-                <span className="text-2xl sm:text-3xl font-extrabold text-[var(--color-ink)] block">
+                <span className="text-xl sm:text-2xl font-extrabold text-[var(--color-ink)] block">
                   {totalModules}
                 </span>
-                <span className="text-xs uppercase text-[var(--color-muted)] tracking-wider">
-                  Modules Ready
+                <span className="text-[11px] uppercase text-[var(--color-muted)] tracking-wider">
+                  Modules
                 </span>
               </div>
-              <div>
-                <span className="text-2xl sm:text-3xl font-extrabold text-[var(--color-ink)] block">
-                  {totalQuestions}
+              <div className="border-l border-[var(--color-rule)] pl-3">
+                <span className="text-xl sm:text-2xl font-extrabold text-[var(--color-ink)] block">
+                  {totalQuestions.toLocaleString()}
                 </span>
-                <span className="text-xs uppercase text-[var(--color-muted)] tracking-wider">
+                <span className="text-[11px] uppercase text-[var(--color-muted)] tracking-wider">
                   Active MCQs
                 </span>
               </div>
-              <div className="col-span-2 sm:col-span-1 border-t sm:border-t-0 sm:border-l border-[var(--color-rule)] pt-2 sm:pt-0 sm:pl-4">
-                <span className="text-2xl sm:text-3xl font-extrabold text-emerald-800 block">
+              <div className="border-l border-[var(--color-rule)] pl-3">
+                <span className="text-xl sm:text-2xl font-extrabold text-emerald-800 block">
                   100%
                 </span>
-                <span className="text-xs uppercase text-[var(--color-muted)] tracking-wider">
-                  Detailed Solutions
+                <span className="text-[11px] uppercase text-[var(--color-muted)] tracking-wider">
+                  Free
                 </span>
+              </div>
+            </div>
+          </div>
+
+          {/* "What To Do Next" 3-Step Guided Roadmap for Students */}
+          <div className="mt-8 pt-6 border-t border-[var(--color-rule)] grid grid-cols-1 sm:grid-cols-3 gap-3">
+            <div className="p-3.5 border border-[var(--color-rule-2)] bg-[var(--color-paper-alt)] flex items-start gap-3">
+              <span className="w-6 h-6 rounded-full bg-[var(--color-ink)] text-[var(--color-paper)] text-xs font-mono font-bold flex items-center justify-center shrink-0">
+                1
+              </span>
+              <div>
+                <h3 className="text-xs font-bold font-[family-name:var(--font-display)] text-[var(--color-ink)] uppercase tracking-wider">
+                  Pick Your Class
+                </h3>
+                <p className="text-xs text-[var(--color-muted)] font-[family-name:var(--font-body)] mt-0.5">
+                  Select Grade 9, 10, 11, or 12 below to load your exact syllabus.
+                </p>
+              </div>
+            </div>
+
+            <div className="p-3.5 border border-[var(--color-rule-2)] bg-[var(--color-paper-alt)] flex items-start gap-3">
+              <span className="w-6 h-6 rounded-full bg-[var(--color-ink)] text-[var(--color-paper)] text-xs font-mono font-bold flex items-center justify-center shrink-0">
+                2
+              </span>
+              <div>
+                <h3 className="text-xs font-bold font-[family-name:var(--font-display)] text-[var(--color-ink)] uppercase tracking-wider">
+                  Choose Subject
+                </h3>
+                <p className="text-xs text-[var(--color-muted)] font-[family-name:var(--font-body)] mt-0.5">
+                  Tap your course: Sciences, Mathematics, Computer Science, or Languages.
+                </p>
+              </div>
+            </div>
+
+            <div className="p-3.5 border border-[var(--color-rule-2)] bg-[var(--color-paper-alt)] flex items-start gap-3">
+              <span className="w-6 h-6 rounded-full bg-emerald-800 text-white text-xs font-mono font-bold flex items-center justify-center shrink-0">
+                3
+              </span>
+              <div>
+                <h3 className="text-xs font-bold font-[family-name:var(--font-display)] text-[var(--color-ink)] uppercase tracking-wider">
+                  Start Practicing
+                </h3>
+                <p className="text-xs text-[var(--color-muted)] font-[family-name:var(--font-body)] mt-0.5">
+                  Use Practice Mode for instant answer keys or Timed Exam for board simulation.
+                </p>
               </div>
             </div>
           </div>

@@ -384,7 +384,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
 
   return (
     <article
-      className={`relative border p-6 flex flex-col justify-between transition-all duration-200 ${
+      className={`relative border p-5 sm:p-6 flex flex-col justify-between transition-all duration-200 min-w-0 w-full overflow-hidden break-words ${
         isPastPapers
           ? 'border-emerald-800 bg-emerald-50/40 col-span-1 md:col-span-2 shadow-sm'
           : 'border-[var(--color-rule-2)] bg-[var(--color-paper)] hover:border-[var(--color-ink)]'

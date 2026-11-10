@@ -132,56 +132,54 @@ export default function StudyDashboard({
           </button>
         </div>
 
-        {/* Tab Navigation */}
-        <div className="border-b border-[var(--color-rule)] px-5 pt-2 bg-[var(--color-paper-2)] flex items-center gap-1 sm:gap-2 overflow-x-auto text-xs font-[family-name:var(--font-display)]">
+        {/* Tab Navigation (Responsive 2x2 grid on mobile, 4-col on desktop - ZERO horizontal scrolling) */}
+        <div className="border-b border-[var(--color-rule)] px-3 sm:px-5 pt-2 bg-[var(--color-paper-2)] grid grid-cols-2 sm:grid-cols-4 gap-1 text-xs font-[family-name:var(--font-display)]">
           <button
             onClick={() => setActiveTab('stats')}
-            className={`px-3 py-2.5 font-bold border-b-2 flex items-center gap-1.5 whitespace-nowrap transition-colors ${
+            className={`px-2.5 py-2 min-h-[44px] font-bold border-b-2 flex items-center justify-center gap-1.5 transition-colors ${
               activeTab === 'stats'
                 ? 'border-emerald-700 text-emerald-900 bg-[var(--color-paper)]'
                 : 'border-transparent text-[var(--color-muted)] hover:text-[var(--color-ink)]'
             }`}
           >
-            <Flame className="w-4 h-4 text-orange-600" />
-            <span>Streaks & Stats</span>
+            <Flame className="w-4 h-4 text-orange-600 shrink-0" />
+            <span className="truncate">Streaks & Stats</span>
           </button>
 
           <button
             onClick={() => setActiveTab('bookmarks')}
-            className={`px-3 py-2.5 font-bold border-b-2 flex items-center gap-1.5 whitespace-nowrap transition-colors ${
+            className={`px-2.5 py-2 min-h-[44px] font-bold border-b-2 flex items-center justify-center gap-1.5 transition-colors ${
               activeTab === 'bookmarks'
                 ? 'border-emerald-700 text-emerald-900 bg-[var(--color-paper)]'
                 : 'border-transparent text-[var(--color-muted)] hover:text-[var(--color-ink)]'
             }`}
           >
-            <Bookmark className="w-4 h-4 text-emerald-700" />
-            <span>Saved Questions ({currentStats.bookmarks.length})</span>
+            <Bookmark className="w-4 h-4 text-emerald-700 shrink-0" />
+            <span className="truncate">Saved ({currentStats.bookmarks.length})</span>
           </button>
 
           <button
             onClick={() => setActiveTab('history')}
-            className={`px-3 py-2.5 font-bold border-b-2 flex items-center gap-1.5 whitespace-nowrap transition-colors ${
+            className={`px-2.5 py-2 min-h-[44px] font-bold border-b-2 flex items-center justify-center gap-1.5 transition-colors ${
               activeTab === 'history'
                 ? 'border-emerald-700 text-emerald-900 bg-[var(--color-paper)]'
                 : 'border-transparent text-[var(--color-muted)] hover:text-[var(--color-ink)]'
             }`}
           >
-            <History className="w-4 h-4 text-sky-700" />
-            <span>Recent Tests ({currentStats.recentTests.length})</span>
+            <History className="w-4 h-4 text-sky-700 shrink-0" />
+            <span className="truncate">History ({currentStats.recentTests.length})</span>
           </button>
 
           <button
             onClick={() => setActiveTab('achievements')}
-            className={`px-3 py-2.5 font-bold border-b-2 flex items-center gap-1.5 whitespace-nowrap transition-colors ${
+            className={`px-2.5 py-2 min-h-[44px] font-bold border-b-2 flex items-center justify-center gap-1.5 transition-colors ${
               activeTab === 'achievements'
                 ? 'border-emerald-700 text-emerald-900 bg-[var(--color-paper)]'
                 : 'border-transparent text-[var(--color-muted)] hover:text-[var(--color-ink)]'
             }`}
           >
-            <Award className="w-4 h-4 text-amber-600" />
-            <span>
-              Badges ({Object.keys(currentStats.unlockedAchievements).length}/{ALL_ACHIEVEMENTS.length})
-            </span>
+            <Award className="w-4 h-4 text-purple-700 shrink-0" />
+            <span className="truncate">Badges ({Object.keys(currentStats.unlockedAchievements).length}/{ALL_ACHIEVEMENTS.length})</span>
           </button>
         </div>
 
