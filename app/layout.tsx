@@ -15,8 +15,8 @@ const sourceSerif = Source_Serif_4({
 });
 
 export const metadata: Metadata = {
-  title: "SochBadlo Prep | FBISE Class 9, 10, 11, 12 Exam Practice & MCQ Portal",
-  description: "Official FBISE chapter-wise MCQ practice and timed exam simulator for Class 11 Physics and board exams. Developed by Soch Badlo By MAK.",
+  title: "FBISE Prep Portal | Federal Board Class 9, 10, 11 & 12 Examination Testing Platform",
+  description: "Official Federal Board (FBISE) chapter-wise MCQ testing platform, SLO-based practice modules, and timed Section A board exam simulators for Class 9, 10, 11, and 12.",
 };
 
 export default function RootLayout({

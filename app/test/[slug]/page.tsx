@@ -22,7 +22,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   if (!chapter) {
     return {
-      title: 'Chapter Not Found | SochBadlo Prep',
+      title: 'Chapter Not Found | FBISE Prep Portal',
     };
   }
 
@@ -123,7 +123,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   const classLabel = isGrade12 ? 'Class 12 (HSSC-II)' : isGrade10 ? 'Class 10 (SSC-II)' : isGrade9 ? 'Class 9 (SSC-I)' : 'Class 11 (HSSC-I)';
 
   return {
-    title: `${chapter.chapterTitle} | ${classLabel} ${subjectName} MCQs | SochBadlo Prep`,
+    title: `${chapter.chapterTitle} | ${classLabel} ${subjectName} MCQs | FBISE Prep Portal`,
     description: `Practice and timed test for FBISE ${classLabel} ${subjectName} ${chapter.chapterTitle} with ${chapter.totalQuestions} verified MCQs.`,
   };
 }

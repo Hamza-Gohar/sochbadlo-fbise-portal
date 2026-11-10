@@ -195,7 +195,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   } else if (isPhysics12) {
     description = `Official FBISE HSSC-II Class 12 Physics: ${chapter.title}. Core physical laws, conceptual principles, formula derivations, SI units, and comprehensive SLO justifications.`;
   } else if (chapter.slug.startsWith('english-12-model-paper-')) {
-    description = `Official Federal Board Section A HSSC-II Class 12 annual examination simulation (Soch Badlo Prep). 20 MCQs, 25-minute timer with authentic literary and grammatical SLO rationales.`;
+    description = `Official Federal Board Section A HSSC-II Class 12 annual examination simulation. 20 MCQs, 25-minute timer with authentic literary and grammatical SLO rationales.`;
   } else if (isEnglish12) {
     description = `Official FBISE HSSC-II Class 12 English Compulsory: ${chapter.title}. Good-bye Mr. Chips, Book-II Modern Prose & Heroes, applied syntax, and SLO justifications.`;
   } else if (chapter.slug.startsWith('urdu-12-model-paper-')) {
@@ -211,43 +211,43 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   } else if (isTarjuma12) {
     description = `وفاقی بورڈ ترجمۃ القرآن المجید جماعت بارہویں (HSSC-II): ${chapter.title} کے منتخب اور امتحانی کثیر الانتخابی سوالات (بزبان اردو و انگریزی)۔`;
   } else if (chapter.slug.startsWith('pakstudies-10-model-paper-')) {
-    description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation (Founder Muhammad Ahmad Khan & Lecturer Tayabah Rafaqat). 10 MCQs, 15-minute timer with bilingual (Urdu + English) justifications.`;
+    description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation. 10 MCQs, 15-minute timer with bilingual (Urdu + English) justifications.`;
   } else if (isPakStudies10) {
     description = `Official FBISE SSC-II Class 10 Pakistan Studies: ${chapter.title}. Core historical, constitutional, and economic concepts with bilingual rationales.`;
   } else if (chapter.slug.startsWith('urdu-10-model-paper-')) {
-    description = `وفاقی تعلیمی بورڈ (FBISE) جماعت دہم لازمی اردو سالانہ ماڈل امتحانی پرچہ نمبر ${chapter.slug.split('-').pop()} (لیکچرار نرجس ظہیر مع محمد احمد خان)۔ 15 معروضی سوالات، 20 منٹ مع مستند ادبی تشریحات۔`;
+    description = `وفاقی تعلیمی بورڈ (FBISE) جماعت دہم لازمی اردو سالانہ ماڈل امتحانی پرچہ نمبر ${chapter.slug.split('-').pop()}۔ 15 معروضی سوالات، 20 منٹ مع مستند ادبی تشریحات۔`;
   } else if (isUrdu10) {
     description = `وفاقی تعلیمی بورڈ لازمی اردو جماعت دہم (SSC-II): ${chapter.title} کے بنیادی قواعد، معانی و مفاہیم اور امتحانی کثیر الانتخابی سوالات۔`;
   } else if (chapter.slug.startsWith('tarjuma-10-model-paper-')) {
-    description = `وفاقی بورڈ ترجمۃ القرآن المجید جماعت دہم سیکشن اے سالانہ ماڈل پرچہ نمبر ${chapter.slug.split('-').pop()} (لیکچرار طیبہ رفاقت مع محمد احمد خان)۔ 10 معروضی سوالات (بزبان اردو و انگریزی)، 15 منٹ مع مستند قرآنی حوالہ جات۔`;
+    description = `وفاقی بورڈ ترجمۃ القرآن المجید جماعت دہم سیکشن اے سالانہ ماڈل پرچہ نمبر ${chapter.slug.split('-').pop()}۔ 10 معروضی سوالات (بزبان اردو و انگریزی)، 15 منٹ مع مستند قرآنی حوالہ جات۔`;
   } else if (isTarjuma10) {
     description = `وفاقی بورڈ ترجمۃ القرآن المجید جماعت دہم (SSC-II): ${chapter.title} کے اہم نکات، الفاظ و معانی اور امتحانی کثیر الانتخابی سوالات (بزبان اردو و انگریزی)۔`;
   } else if (chapter.slug.startsWith('english-10-model-paper-')) {
-    description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation (Soch Badlo By MAK). 15 MCQs, 20-minute timer with complete grammatical & literary justifications.`;
+    description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation. 15 MCQs, 20-minute timer with complete grammatical & literary justifications.`;
   } else if (isEnglish10) {
     description = `Official FBISE SSC-II Class 10 English Compulsory: ${chapter.title}. Core grammatical concepts, sentence structures, figures of speech, and SLO justifications.`;
   } else if (chapter.slug.startsWith('biology-10-model-paper-')) {
-    description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation (Lecturer Ma'am Rubina Ashraf & Soch Badlo By MAK). 12 MCQs, 15-minute timer with complete physiological and biological justifications.`;
+    description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation. 12 MCQs, 15-minute timer with complete physiological and biological justifications.`;
   } else if (isBiology10) {
     description = `Official FBISE SSC-II Class 10 Biology: ${chapter.title}. Core biological concepts, organ physiology, genetics, biotechnology, and SLO justifications.`;
   } else if (chapter.slug.startsWith('cs-10-model-paper-')) {
-    description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation (Lecturer Sabahat Ul Hasan & Soch Badlo By MAK). 12 MCQs, 15-minute timer with complete algorithmic & C programming reasoning.`;
+    description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation. 12 MCQs, 15-minute timer with complete algorithmic & C programming reasoning.`;
   } else if (isCS10) {
     description = `Official FBISE SSC-II Class 10 Computer Science: ${chapter.title}. Core computational concepts, system architectures, data analysis, and programming rationales.`;
   } else if (chapter.slug.startsWith('chemistry-10-model-paper-')) {
-    description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation (Soch Badlo By MAK). 12 MCQs, 15-minute timer with complete chemical step-by-step reasoning.`;
+    description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation. 12 MCQs, 15-minute timer with complete chemical step-by-step reasoning.`;
   } else if (isChemistry10) {
     description = `Official FBISE SSC-II Class 10 Chemistry: ${chapter.title}. Core chemical reactions, equilibrium constants, organic mechanisms, and SLO justifications.`;
   } else if (chapter.slug.startsWith('physics-10-model-paper-')) {
-    description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation (Soch Badlo By MAK). 12 MCQs, 20-minute timer with complete physics step-by-step reasoning.`;
+    description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation. 12 MCQs, 20-minute timer with complete physics step-by-step reasoning.`;
   } else if (isPhysics10) {
     description = `Official FBISE SSC-II Class 10 Physics: ${chapter.title}. Core physical laws, conceptual numericals, formula derivations, and SLO justifications.`;
   } else if (chapter.slug.startsWith('math-10-model-paper-')) {
-    description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation (Lecturer Jazab / Nimra Abid / MAK). 15 MCQs, 20-minute timer with complete mathematical reasoning.`;
+    description = `Official Federal Board Section A SSC-II Class 10 annual examination simulation. 15 MCQs, 20-minute timer with complete mathematical reasoning.`;
   } else if (isMath10) {
     description = `Official FBISE SSC-II Class 10 Mathematics: ${chapter.title}. Core theorems, algebraic manipulations, coordinate formulas, and problem-solving rationales.`;
   } else if (chapter.slug.startsWith('biology-9-model-paper-')) {
-    description = `Official Federal Board Section A SSC-I annual examination simulation (Lecturer Rubina Ashraf). 12 MCQs, 20-minute timer with complete biological justifications.`;
+    description = `Official Federal Board Section A SSC-I annual examination simulation. 12 MCQs, 20-minute timer with complete biological justifications.`;
   } else if (isBiology9) {
     description = `Official FBISE SSC-I Class 9 Biology: ${chapter.title}. Core conceptual questions, cellular processes, organ systems, and SLO justifications.`;
   } else if (chapter.slug.startsWith('cs-9-model-paper-')) {
@@ -379,7 +379,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   } else if (chapter.slug.startsWith('chemistry-model-paper-')) {
     description = 'Official Federal Board Section A examination simulation for Chemistry (17 questions, 20 minutes) with stoichiometry & molecular justifications.';
   } else if (isChemistry) {
-    description = `Curated FBISE Class 11 Chemistry question series for ${chapter.title} prepared by Lecturer Ayesha Amjad (Soch Badlo By MAK). Complete with formula steps and molecular justifications.`;
+    description = `Curated FBISE Class 11 Chemistry question series for ${chapter.title} prepared by Senior Subject Specialists. Complete with formula steps and molecular justifications.`;
   }
 
   return (
@@ -439,14 +439,14 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
       <div className="pt-4 border-t border-[var(--color-rule)] flex flex-col sm:flex-row gap-2 font-[family-name:var(--font-display)]">
         <Link
           href={`/test/${chapter.slug}?mode=practice`}
-          className="flex-1 text-center py-2 px-3 border border-[var(--color-ink)] text-[var(--color-ink)] hover:bg-[var(--color-paper-2)] text-xs font-semibold flex items-center justify-center gap-1.5 transition-colors"
+          className="flex-1 text-center py-2.5 px-3 min-h-[46px] border border-[var(--color-ink)] text-[var(--color-ink)] hover:bg-[var(--color-paper-2)] text-xs font-semibold flex items-center justify-center gap-1.5 transition-colors active:scale-[0.98]"
         >
           <Sparkles className="w-3.5 h-3.5 text-emerald-700" />
           <span>Practice Mode</span>
         </Link>
         <Link
           href={`/test/${chapter.slug}?mode=exam`}
-          className="flex-1 text-center py-2 px-3 bg-[var(--color-ink)] text-[var(--color-paper)] hover:bg-neutral-800 text-xs font-semibold flex items-center justify-center gap-1.5 transition-colors shadow-sm"
+          className="flex-1 text-center py-2.5 px-3 min-h-[46px] bg-[var(--color-ink)] text-[var(--color-paper)] hover:bg-neutral-800 text-xs font-semibold flex items-center justify-center gap-1.5 transition-colors shadow-sm active:scale-[0.98]"
         >
           <Play className="w-3.5 h-3.5 fill-current" />
           <span>Timed Exam</span>

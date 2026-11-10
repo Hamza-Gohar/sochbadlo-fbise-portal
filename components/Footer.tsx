@@ -1,4 +1,5 @@
 import React from 'react';
+import Link from 'next/link';
 
 export default function Footer() {
   return (
@@ -8,7 +9,7 @@ export default function Footer() {
           {/* Col 1 */}
           <div className="lg:col-span-1">
             <h3 className="font-[family-name:var(--font-display)] text-xl font-bold tracking-tight text-[var(--color-ink)] mb-3">
-              SochBadlo<span className="text-emerald-700 font-normal">Prep</span>
+              FBISE<span className="text-emerald-700 font-normal">Prep</span>
             </h3>
             <p className="text-xs text-[var(--color-muted)] leading-relaxed font-[family-name:var(--font-body)]">
               Authentic FBISE exam practice platform engineered for secondary and intermediate students (Matric SSC-I, SSC-II, HSSC-I & HSSC-II).
@@ -100,38 +101,40 @@ export default function Footer() {
           {/* Col 6 */}
           <div>
             <h4 className="font-[family-name:var(--font-display)] text-xs font-bold uppercase tracking-wider text-[var(--color-ink)] mb-3">
-              Ecosystem
+              Curriculum Tracks
             </h4>
             <ul className="text-xs space-y-2 font-[family-name:var(--font-display)]">
               <li>
-                <a
-                  href="https://sochbadlobymak.com"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                <Link
+                  href="/?grade=12"
                   className="hover:text-[var(--color-ink)] underline underline-offset-2"
                 >
-                  Soch Badlo By MAK Official
-                </a>
+                  Class 12 HSSC-II Test Series
+                </Link>
               </li>
               <li>
-                <a
-                  href="https://sochbadlobymak.com/courses/phy-class-11th/"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                <Link
+                  href="/?grade=11"
                   className="hover:text-[var(--color-ink)] underline underline-offset-2"
                 >
-                  Class 11 Physics Video Lectures
-                </a>
+                  Class 11 HSSC-I Test Series
+                </Link>
               </li>
               <li>
-                <a
-                  href="https://sochbadlobymak.com/courses/english-class-11/"
-                  target="_blank"
-                  rel="noopener noreferrer"
+                <Link
+                  href="/?grade=10"
                   className="hover:text-[var(--color-ink)] underline underline-offset-2"
                 >
-                  Class 11 English Notes & Lessons
-                </a>
+                  Class 10 SSC-II Matric Part 2
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/?grade=9"
+                  className="hover:text-[var(--color-ink)] underline underline-offset-2"
+                >
+                  Class 9 SSC-I Matric Part 1
+                </Link>
               </li>
             </ul>
           </div>
@@ -139,7 +142,7 @@ export default function Footer() {
 
         {/* Bottom bar */}
         <div className="pt-6 flex flex-col sm:flex-row justify-between items-center text-xs text-[var(--color-muted)] font-[family-name:var(--font-display)]">
-          <p>© {new Date().getFullYear()} SochBadlo Prep. Built for Pakistani students.</p>
+          <p>© {new Date().getFullYear()} FBISE Prep Portal. Independent examination testing platform for Pakistani students.</p>
           <p className="mt-2 sm:mt-0">Designed with Hallmark Editorial System · Zero AI Slop</p>
         </div>
       </div>
