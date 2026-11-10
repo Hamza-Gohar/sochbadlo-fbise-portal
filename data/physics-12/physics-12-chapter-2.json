@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 2,
+  "chapterTitle": "Unit 13: Current Electricity",
+  "slug": "physics-12-chapter-2",
+  "fileName": "physics-12-chapter-2.json",
+  "totalQuestions": 35,
+  "subject": "physics-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Electric current is defined as the rate of flow of electric charge: I = ΔQ / Δt. Its SI unit is:",
+      "options": {
+        "A": "Volt (V)",
+        "B": "Ampere (A)",
+        "C": "Coulomb (C)",
+        "D": "Ohm (Ω)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Ampere (A). 1 Ampere = 1 Coulomb per second (1 C/s)."
+    },
+    {
+      "id": 2,
+      "question": "The average velocity with which conduction electrons drift against an applied electric field in a conductor is called:",
+      "options": {
+        "A": "Thermal velocity",
+        "B": "Drift velocity",
+        "C": "Fermi velocity",
+        "D": "Critical velocity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Drift velocity. Under an electric field, free electrons experience an acceleration interspersed with lattice collisions, acquiring a steady average drift velocity (typically ~10⁻⁴ to 10⁻³ m/s)."
+    },
+    {
+      "id": 3,
+      "question": "According to Ohm's Law, current I through a metallic conductor is directly proportional to applied potential difference V provided:",
+      "options": {
+        "A": "Temperature and physical state remain constant",
+        "B": "Magnetic field is applied",
+        "C": "Length is continuously increased",
+        "D": "Resistance increases proportionally with voltage"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Temperature and physical state remain constant. Ohm's Law V = IR holds true only when temperature, dimensions, and mechanical strain remain strictly unchanged."
+    },
+    {
+      "id": 4,
+      "question": "The resistance R of a uniform conductor of length L and cross-sectional area A is given by:",
+      "options": {
+        "A": "R = ρ A / L",
+        "B": "R = ρ L / A",
+        "C": "R = L / (ρ A)",
+        "D": "R = A / (ρ L)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) R = ρ L / A. Resistance is directly proportional to length L and inversely proportional to area A, with constant of proportionality ρ being resistivity."
+    },
+    {
+      "id": 5,
+      "question": "The SI unit of resistivity (specific resistance) ρ is:",
+      "options": {
+        "A": "Ω m⁻¹",
+        "B": "Ω m",
+        "C": "Ω⁻¹ m⁻¹",
+        "D": "Ω m²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Ω m. Since ρ = RA / L, unit is (Ω · m²) / m = Ω·m."
+    },
+    {
+      "id": 6,
+      "question": "Conductance G is the reciprocal of resistance (1/R). Its SI unit is:",
+      "options": {
+        "A": "Siemens (S) or ohm⁻¹ (mho)",
+        "B": "Volt per ampere",
+        "C": "Ohm-meter",
+        "D": "Ampere-meter"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Siemens (S) or ohm⁻¹ (mho). Conductance G = 1/R, with unit Ω⁻¹, termed Siemens (S) or mho."
+    },
+    {
+      "id": 7,
+      "question": "Conductivity σ is the reciprocal of resistivity (1/ρ). Its SI unit is:",
+      "options": {
+        "A": "Ω m",
+        "B": "Ω⁻¹ m⁻¹ (or S m⁻¹)",
+        "C": "Ω m⁻¹",
+        "D": "S m"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Ω⁻¹ m⁻¹ (or S m⁻¹). Conductivity σ = 1/ρ, measured in Siemens per meter (S/m) or (Ω·m)⁻¹."
+    },
+    {
+      "id": 8,
+      "question": "For metallic conductors, as temperature increases, their resistance and resistivity:",
+      "options": {
+        "A": "Decrease",
+        "B": "Increase",
+        "C": "Remain unchanged",
+        "D": "Drop to zero immediately"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Increase. Higher temperature causes greater lattice vibration amplitudes, increasing the collision frequency of conduction electrons and thus increasing resistance (positive temperature coefficient α > 0)."
+    },
+    {
+      "id": 9,
+      "question": "For semiconductor materials (like silicon and germanium), temperature coefficient of resistance α is:",
+      "options": {
+        "A": "Positive",
+        "B": "Negative",
+        "C": "Zero",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Negative. In semiconductors, rising temperature breaks covalent bonds to generate additional free electron-hole pairs, reducing resistance (negative temperature coefficient α < 0)."
+    },
+    {
+      "id": 10,
+      "question": "The temperature coefficient of resistance α is defined mathematically as:",
+      "options": {
+        "A": "α = (Rₜ - R₀) / (R₀ ΔT)",
+        "B": "α = R₀ / (Rₜ ΔT)",
+        "C": "α = (Rₜ + R₀) / ΔT",
+        "D": "α = ΔT / (R₀ Rₜ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) α = (Rₜ - R₀) / (R₀ ΔT). It represents fractional change in resistance per unit change in temperature, with unit K⁻¹ or °C⁻¹."
+    },
+    {
+      "id": 11,
+      "question": "In a carbon resistor color code, what is the sequence of digits represented by 'B B R O Y G B V G W'?",
+      "options": {
+        "A": "1 to 10",
+        "B": "0 to 9 (Black=0, Brown=1, Red=2, Orange=3, Yellow=4, Green=5, Blue=6, Violet=7, Gray=8, White=9)",
+        "C": "Multipliers only",
+        "D": "Tolerances from 1% to 10%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 0 to 9. The mnemonic 'BB ROY of Great Britain has a Very Good Wife' maps to colors representing digits 0 through 9."
+    },
+    {
+      "id": 12,
+      "question": "A carbon resistor has colored bands: Brown, Black, Red, Gold. Its resistance and tolerance are:",
+      "options": {
+        "A": "1000 Ω ± 10%",
+        "B": "1000 Ω ± 5%",
+        "C": "100 Ω ± 5%",
+        "D": "10 kΩ ± 5%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 1000 Ω ± 5%. Brown = 1, Black = 0, Red = 10² = 100, Gold = ±5%. Value = 10 × 10² Ω = 1000 Ω (1 kΩ) with ±5% tolerance."
+    },
+    {
+      "id": 13,
+      "question": "The tolerance band color for ±10% tolerance on a carbon resistor is:",
+      "options": {
+        "A": "Gold",
+        "B": "Silver",
+        "C": "Red",
+        "D": "No color"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Silver. Gold indicates ±5%, Silver indicates ±10%, and no fourth band indicates ±20%."
+    },
+    {
+      "id": 14,
+      "question": "A rheostat can be used in an electric circuit as a:",
+      "options": {
+        "A": "Variable resistor or potential divider",
+        "B": "Constant current source only",
+        "C": "Capacitor only",
+        "D": "Inductor only"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Variable resistor or potential divider. When two terminals are connected, it acts as a variable resistor; when all three terminals are wired across a source, it acts as a potential divider."
+    },
+    {
+      "id": 15,
+      "question": "A thermistor is a heat-sensitive resistor made from:",
+      "options": {
+        "A": "Pure copper wire",
+        "B": "Semiconductor metal oxides",
+        "C": "Superconductors",
+        "D": "Nichrome wire"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Semiconductor metal oxides. Thermistors are sintered mixtures of metallic oxides (nickel, manganese, cobalt) with high negative temperature coefficients."
+    },
+    {
+      "id": 16,
+      "question": "Electromotive Force (EMF) of a cell is defined as:",
+      "options": {
+        "A": "Total force driving electrons",
+        "B": "Energy supplied per unit charge passing through the source",
+        "C": "Potential drop across internal resistance only",
+        "D": "Current delivered to the circuit"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Energy supplied per unit charge passing through the source. EMF E = ΔW / ΔQ, measured in Volts (J/C)."
+    },
+    {
+      "id": 17,
+      "question": "The relationship between terminal potential difference V_t, EMF E, current I, and internal resistance r is:",
+      "options": {
+        "A": "V_t = E + Ir",
+        "B": "V_t = E - Ir",
+        "C": "V_t = Ir - E",
+        "D": "V_t = E / (Ir)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) V_t = E - Ir. As current I is drawn from a cell, a potential drop Ir occurs across its internal resistance, reducing terminal voltage to V_t = E - Ir."
+    },
+    {
+      "id": 18,
+      "question": "Under what condition is the terminal potential difference V_t of a cell equal to its EMF E?",
+      "options": {
+        "A": "When maximum current is drawn",
+        "B": "When circuit is closed with small R",
+        "C": "When circuit is open (I = 0)",
+        "D": "When external resistance R = r"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) When circuit is open (I = 0). Since V_t = E - Ir, when I = 0 (open circuit), V_t = E."
+    },
+    {
+      "id": 19,
+      "question": "Maximum power is transferred from a source of EMF E and internal resistance r to an external load R when:",
+      "options": {
+        "A": "R = 0",
+        "B": "R = r",
+        "C": "R = ∞",
+        "D": "R = 2r"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) R = r. According to the Maximum Power Transfer Theorem, power P = I²R is maximized when load resistance equals internal resistance (R = r), yielding P_max = E² / (4r)."
+    },
+    {
+      "id": 20,
+      "question": "Kirchhoff's First Rule (Junction Rule) Σ I = 0 is a manifestation of the law of conservation of:",
+      "options": {
+        "A": "Energy",
+        "B": "Electric charge",
+        "C": "Linear momentum",
+        "D": "Mass"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Electric charge. Kirchhoff's Current Law states the sum of currents entering a junction equals sum leaving it, which directly expresses charge conservation."
+    },
+    {
+      "id": 21,
+      "question": "Kirchhoff's Second Rule (Loop Rule) Σ ΔV = 0 is a statement of the law of conservation of:",
+      "options": {
+        "A": "Charge",
+        "B": "Energy",
+        "C": "Angular momentum",
+        "D": "Voltage"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Energy. Kirchhoff's Loop Law states the algebraic sum of potential changes around any closed loop is zero, asserting conservation of energy for a charge traversing the loop."
+    },
+    {
+      "id": 22,
+      "question": "A Wheatstone bridge consists of four resistors R₁, R₂, R₃, R₄. It is balanced when galvanometer current is zero, satisfying:",
+      "options": {
+        "A": "R₁ R₂ = R₃ R₄",
+        "B": "R₁ / R₂ = R₃ / R₄",
+        "C": "R₁ + R₂ = R₃ + R₄",
+        "D": "R₁ R₃ = R₂ R₄"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) R₁ / R₂ = R₃ / R₄. When the bridge is balanced, the potential difference across the galvanometer is zero, giving R₁/R₂ = R₃/R₄."
+    },
+    {
+      "id": 23,
+      "question": "A potentiometer is preferred over a voltmeter for measuring accurate EMF because:",
+      "options": {
+        "A": "It has very low resistance",
+        "B": "It draws no current from the source at the null point",
+        "C": "It is much smaller and portable",
+        "D": "It consumes more electric power"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) It draws no current from the source at the null point. Because it operates on a null deflection method, no current flows from the test cell, measuring the true open-circuit EMF."
+    },
+    {
+      "id": 24,
+      "question": "In a potentiometer of wire length L, the unknown EMF E_x is related to balancing length l and driver EMF E by:",
+      "options": {
+        "A": "E_x = E (L / l)",
+        "B": "E_x = E (l / L)",
+        "C": "E_x = E (l L)",
+        "D": "E_x = E / (l L)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) E_x = E (l / L). Potential gradient is V/L; the potential drop across balancing length l is V_l = (V/L)·l, which balances E_x."
+    },
+    {
+      "id": 25,
+      "question": "Electric power dissipated in a resistor of resistance R carrying current I under potential difference V is:",
+      "options": {
+        "A": "P = VI = I²R = V² / R",
+        "B": "P = V / I",
+        "C": "P = I² / R",
+        "D": "P = V² R"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) P = VI = I²R = V² / R. By Joule's law, electrical power P = dW/dt = VI = I²R = V²/R in Watts."
+    },
+    {
+      "id": 26,
+      "question": "One kilowatt-hour (1 kWh) of commercial electrical energy is equal to:",
+      "options": {
+        "A": "3.6 × 10³ J",
+        "B": "3.6 × 10⁵ J",
+        "C": "3.6 × 10⁶ J (3.6 MJ)",
+        "D": "1.0 × 10³ J"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) 3.6 × 10⁶ J (3.6 MJ). 1 kWh = (1000 W) × (3600 s) = 3.6 × 10⁶ Joules = 3.6 MJ."
+    },
+    {
+      "id": 27,
+      "question": "Two resistors of 4 Ω and 6 Ω are connected in parallel. Their equivalent resistance is:",
+      "options": {
+        "A": "10 Ω",
+        "B": "2.4 Ω",
+        "C": "0.42 Ω",
+        "D": "24 Ω"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 2.4 Ω. For two resistors in parallel: R_eq = (R₁ R₂) / (R₁ + R₂) = (4 × 6) / (4 + 6) = 24 / 10 = 2.4 Ω."
+    },
+    {
+      "id": 28,
+      "question": "If a wire of resistance R is stretched uniformly to double its original length, its new resistance becomes:",
+      "options": {
+        "A": "2R",
+        "B": "4R",
+        "C": "R / 2",
+        "D": "R / 4"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 4R. Since volume V = AL is constant, doubling length (L' = 2L) halves cross-sectional area (A' = A/2). New resistance R' = ρ L' / A' = ρ (2L) / (A/2) = 4 (ρL/A) = 4R."
+    },
+    {
+      "id": 29,
+      "question": "A 100 W bulb and a 40 W bulb designed for 220 V are connected. Which bulb has a higher electrical resistance?",
+      "options": {
+        "A": "100 W bulb",
+        "B": "40 W bulb",
+        "C": "Both have equal resistance",
+        "D": "Resistance depends on ambient temperature only"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 40 W bulb. Since R = V² / P, resistance is inversely proportional to rated power for a fixed voltage. The 40 W bulb has higher resistance (R = 220²/40 = 1210 Ω vs 220²/100 = 484 Ω)."
+    },
+    {
+      "id": 30,
+      "question": "Thermocouples work on the principle of:",
+      "options": {
+        "A": "Seebeck Effect",
+        "B": "Peltier Effect",
+        "C": "Joule's Effect",
+        "D": "Hall Effect"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Seebeck Effect. The Seebeck effect is the generation of a thermoelectric EMF across the junctions of two dissimilar metals held at different temperatures."
+    },
+    {
+      "id": 31,
+      "question": "The reverse of the Seebeck effect, where heating or cooling occurs at junctions when current flows, is called:",
+      "options": {
+        "A": "Thomson Effect",
+        "B": "Peltier Effect",
+        "C": "Compton Effect",
+        "D": "Stark Effect"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Peltier Effect. The Peltier effect involves absorption or evolution of heat at the junction of two dissimilar conductors when current passes through it."
+    },
+    {
+      "id": 32,
+      "question": "Internal resistance of a fresh secondary cell (accumulator) is typically:",
+      "options": {
+        "A": "Very large (~10⁶ Ω)",
+        "B": "Very small (~0.01 to 0.1 Ω)",
+        "C": "Negative",
+        "D": "Zero under all conditions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Very small (~0.01 to 0.1 Ω). Fresh lead-acid accumulators have very low internal resistance (~0.01–0.05 Ω), enabling high starting currents."
+    },
+    {
+      "id": 33,
+      "question": "The ratio of EMFs of two cells compared using a potentiometer wire is:",
+      "options": {
+        "A": "E₁ / E₂ = l₁ / l₂",
+        "B": "E₁ / E₂ = l₂ / l₁",
+        "C": "E₁ / E₂ = (l₁ / l₂)²",
+        "D": "E₁ / E₂ = l₁ l₂"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) E₁ / E₂ = l₁ / l₂. Since EMF is directly proportional to balancing length on the uniform potentiometer wire, E₁/E₂ = l₁/l₂."
+    },
+    {
+      "id": 34,
+      "question": "Superconductors are materials whose electrical resistivity drops to zero at a characteristic:",
+      "options": {
+        "A": "Boiling temperature",
+        "B": "Critical temperature T_c",
+        "C": "Curie temperature",
+        "D": "Room temperature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Critical temperature T_c. Discovered by Heike Kamerlingh Onnes in 1911, resistivity vanishes completely below the critical transition temperature T_c."
+    },
+    {
+      "id": 35,
+      "question": "In a house wiring circuit, all electrical appliances (lights, fans, sockets) are connected in:",
+      "options": {
+        "A": "Series",
+        "B": "Parallel",
+        "C": "Series-parallel mixed",
+        "D": "Delta configuration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Parallel. Parallel connection ensures every appliance receives the full rated mains voltage (220 V) and can operate independently."
+    }
+  ]
+}

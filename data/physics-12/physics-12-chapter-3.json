@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 3,
+  "chapterTitle": "Unit 14: Electromagnetism",
+  "slug": "physics-12-chapter-3",
+  "fileName": "physics-12-chapter-3.json",
+  "totalQuestions": 35,
+  "subject": "physics-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A magnetic field is produced around a conductor whenever:",
+      "options": {
+        "A": "Static electric charges reside on it",
+        "B": "Electric current flows through it",
+        "C": "It is heated to high temperature",
+        "D": "It is placed in vacuum"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Electric current flows through it. Oersted discovered that moving electric charges (current) set up a concentric magnetic field around the conductor."
+    },
+    {
+      "id": 2,
+      "question": "The direction of magnetic field lines around a straight current-carrying wire is given by:",
+      "options": {
+        "A": "Right-hand grip rule",
+        "B": "Left-hand Fleming's rule",
+        "C": "Faraday's law",
+        "D": "Lenz's rule"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Right-hand grip rule. Grasp the wire with the right hand so the thumb points in the direction of conventional current; the curled fingers show the direction of magnetic lines of force."
+    },
+    {
+      "id": 3,
+      "question": "The magnetic force F acting on a straight conductor of length L carrying current I in a uniform magnetic field B is:",
+      "options": {
+        "A": "F = I (L · B)",
+        "B": "F = I (L × B)",
+        "C": "F = I (B × L)",
+        "D": "F = B (I × L)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) F = I (L × B). The magnetic deflecting force is given by F = ILB sinθ, which in vector form is F = I(L × B)."
+    },
+    {
+      "id": 4,
+      "question": "The magnetic force on a current-carrying wire in a uniform magnetic field is maximum when the angle θ between wire and field is:",
+      "options": {
+        "A": "0°",
+        "B": "90°",
+        "C": "180°",
+        "D": "45°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 90°. Since F = ILB sinθ, maximum force occurs when sinθ = 1, i.e., θ = 90° (conductor perpendicular to field)."
+    },
+    {
+      "id": 5,
+      "question": "The SI unit of magnetic flux density (magnetic field induction) B is:",
+      "options": {
+        "A": "Weber (Wb)",
+        "B": "Tesla (T) or N A⁻¹ m⁻¹",
+        "C": "Henry (H)",
+        "D": "Coulomb (C)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Tesla (T) or N A⁻¹ m⁻¹. 1 Tesla = 1 N / (A·m) = 1 Wb/m²."
+    },
+    {
+      "id": 6,
+      "question": "Magnetic flux Φ_B through a planar area A in a uniform magnetic field B is given by:",
+      "options": {
+        "A": "Φ_B = B · A = BA cosθ",
+        "B": "Φ_B = B × A",
+        "C": "Φ_B = B / A",
+        "D": "Φ_B = A / B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Φ_B = B · A = BA cosθ. Magnetic flux is the scalar dot product of magnetic flux density vector B and area vector A."
+    },
+    {
+      "id": 7,
+      "question": "The SI unit of magnetic flux Φ_B is:",
+      "options": {
+        "A": "Tesla (T)",
+        "B": "Weber (Wb) or N m A⁻¹",
+        "C": "Volt (V)",
+        "D": "Ampere-turn"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Weber (Wb) or N m A⁻¹. 1 Weber = 1 Tesla × 1 m² = 1 N·m/A = 1 V·s."
+    },
+    {
+      "id": 8,
+      "question": "Ampere's Circuital Law states that the line integral of B around any closed path enclosing current I is:",
+      "options": {
+        "A": "∮ B · dl = μ₀ I",
+        "B": "∮ B · dl = I / μ₀",
+        "C": "∮ B · dl = ε₀ I",
+        "D": "∮ B · dl = 0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) ∮ B · dl = μ₀ I. Ampere's Law states that the sum of B·ΔL around a closed loop equals μ₀ times the total current enclosed."
+    },
+    {
+      "id": 9,
+      "question": "The value of permeability of free space μ₀ in SI units is:",
+      "options": {
+        "A": "4π × 10⁻⁷ T m A⁻¹",
+        "B": "8.85 × 10⁻¹² C² N⁻¹ m⁻²",
+        "C": "9 × 10⁹ N m² C⁻²",
+        "D": "1.6 × 10⁻¹⁹ C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 4π × 10⁻⁷ T m A⁻¹. In vacuum, magnetic permeability constant μ₀ = 4π × 10⁻⁷ T·m/A (or H/m)."
+    },
+    {
+      "id": 10,
+      "question": "The magnetic field B inside a long tightly wound solenoid with n turns per unit length carrying current I is:",
+      "options": {
+        "A": "B = μ₀ n I",
+        "B": "B = μ₀ I / n",
+        "C": "B = μ₀ n / I",
+        "D": "B = n I / (2μ₀)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) B = μ₀ n I. Inside an ideal solenoid, the field is uniform, strong, and parallel to the axis, with magnitude B = μ₀ n I = μ₀ (N/L) I."
+    },
+    {
+      "id": 11,
+      "question": "The magnetic force F acting on a charge q moving with velocity v in a magnetic field B is:",
+      "options": {
+        "A": "F = q (v · B)",
+        "B": "F = q (v × B)",
+        "C": "F = q (B × v)",
+        "D": "F = v (q × B)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) F = q (v × B). The magnetic Lorentz force has magnitude F = qvB sinθ and acts perpendicular to both velocity and magnetic field."
+    },
+    {
+      "id": 12,
+      "question": "A charged particle moves parallel to the direction of a magnetic field. The magnetic force on it is:",
+      "options": {
+        "A": "Maximum",
+        "B": "Zero",
+        "C": "qvB",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Zero. When moving parallel (θ = 0° or 180°), sinθ = 0, so magnetic force F = qvB sin 0° = 0."
+    },
+    {
+      "id": 13,
+      "question": "The total Lorentz force acting on a charge q moving in a region having both electric field E and magnetic field B is:",
+      "options": {
+        "A": "F = q E + q (v × B)",
+        "B": "F = q (E · B)",
+        "C": "F = q (E × B)",
+        "D": "F = q E - q (v × B)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) F = q E + q (v × B). The Lorentz force equation combines both electrostatic and magnetic forces: F = F_e + F_m = q[E + (v × B)]."
+    },
+    {
+      "id": 14,
+      "question": "Because the magnetic force F = q(v × B) is always perpendicular to velocity v, the work done by a magnetic force on a moving charge is:",
+      "options": {
+        "A": "Maximum",
+        "B": "Zero",
+        "C": "Equal to kinetic energy",
+        "D": "Negative"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Zero. W = F · d = F · (v dt) = 0 because F ⊥ v. Hence a static magnetic field cannot change the kinetic energy or speed of a charge, only its direction."
+    },
+    {
+      "id": 15,
+      "question": "When a charged particle enters a uniform magnetic field perpendicularly, its path is a:",
+      "options": {
+        "A": "Straight line",
+        "B": "Circle",
+        "C": "Parabola",
+        "D": "Hyperbola"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Circle. The perpendicular magnetic force provides the required centripetal force: qvB = mv²/r, resulting in uniform circular motion of radius r = mv / (qB)."
+    },
+    {
+      "id": 16,
+      "question": "In a velocity selector, electric and magnetic fields are arranged perpendicular to each other. Particles pass undeflected if velocity v equals:",
+      "options": {
+        "A": "v = B / E",
+        "B": "v = E / B",
+        "C": "v = E × B",
+        "D": "v = 1 / (EB)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) v = E / B. Equating electric force qE and magnetic force qvB gives qE = qvB, or v = E/B."
+    },
+    {
+      "id": 17,
+      "question": "In J.J. Thomson's experiment, the charge-to-mass ratio (e/m) of an electron is approximately:",
+      "options": {
+        "A": "1.7588 × 10¹¹ C kg⁻¹",
+        "B": "9.1 × 10⁻³¹ C kg⁻¹",
+        "C": "1.6 × 10⁻¹⁹ C kg⁻¹",
+        "D": "9.58 × 10⁷ C kg⁻¹"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 1.7588 × 10¹¹ C kg⁻¹. Measured by J.J. Thomson in 1897, e/m = (1.602 × 10⁻¹⁹ C) / (9.109 × 10⁻³¹ kg) ≈ 1.76 × 10¹¹ C/kg."
+    },
+    {
+      "id": 18,
+      "question": "The torque τ on a planar coil of N turns, area A carrying current I in a magnetic field B making angle α with the plane of coil is:",
+      "options": {
+        "A": "τ = NIAB cosα",
+        "B": "τ = NIAB sinα",
+        "C": "τ = NI / (AB)",
+        "D": "τ = zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) τ = NIAB cosα. If α is the angle between the coil plane and magnetic field, torque is τ = NIAB cosα (or τ = NIAB sinθ where θ is the angle with the coil normal)."
+    },
+    {
+      "id": 19,
+      "question": "A galvanometer is converted into an ammeter of desired range by connecting a:",
+      "options": {
+        "A": "High resistance in series",
+        "B": "Low resistance (shunt) in parallel",
+        "C": "High resistance in parallel",
+        "D": "Low resistance in series"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Low resistance (shunt) in parallel. A tiny shunt resistance R_s = (I_g R_g) / (I - I_g) is connected in parallel so most current bypasses the delicate galvanometer coil."
+    },
+    {
+      "id": 20,
+      "question": "The value of shunt resistance R_s required to convert a galvanometer into an ammeter of full scale deflection I is:",
+      "options": {
+        "A": "R_s = I_g R_g / (I - I_g)",
+        "B": "R_s = (I - I_g) / (I_g R_g)",
+        "C": "R_s = I R_g / I_g",
+        "D": "R_s = I_g / (I R_g)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) R_s = I_g R_g / (I - I_g). Potential drop across shunt equals drop across galvanometer: (I - I_g) R_s = I_g R_g."
+    },
+    {
+      "id": 21,
+      "question": "A galvanometer is converted into a voltmeter of desired range V by connecting a:",
+      "options": {
+        "A": "Low resistance in parallel",
+        "B": "High resistance in series",
+        "C": "Low resistance in series",
+        "D": "High resistance in parallel"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) High resistance in series. Connecting a high resistance R_h = (V / I_g) - R_g in series limits current to I_g at full-scale voltage V."
+    },
+    {
+      "id": 22,
+      "question": "The value of high multiplier resistance R_h required to convert a galvanometer into a voltmeter of range V is:",
+      "options": {
+        "A": "R_h = (V / I_g) - R_g",
+        "B": "R_h = (I_g / V) - R_g",
+        "C": "R_h = V I_g - R_g",
+        "D": "R_h = V / (I_g R_g)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) R_h = (V / I_g) - R_g. Total voltage V = I_g (R_g + R_h), hence R_h = (V/I_g) - R_g."
+    },
+    {
+      "id": 23,
+      "question": "An ideal ammeter has an internal resistance of:",
+      "options": {
+        "A": "Zero",
+        "B": "Infinite",
+        "C": "100 Ω",
+        "D": "1 kΩ"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Zero. An ideal ammeter inserted in series should introduce zero additional resistance to avoid disturbing circuit current."
+    },
+    {
+      "id": 24,
+      "question": "An ideal voltmeter has an internal resistance of:",
+      "options": {
+        "A": "Zero",
+        "B": "Infinite",
+        "C": "1 Ω",
+        "D": "100 Ω"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Infinite. An ideal voltmeter connected in parallel across a component should draw zero current so it does not alter potential drop."
+    },
+    {
+      "id": 25,
+      "question": "In a moving coil galvanometer, a radial magnetic field is produced by using:",
+      "options": {
+        "A": "Concave pole pieces and a soft iron cylinder",
+        "B": "Flat pole pieces",
+        "C": "A solenoid without core",
+        "D": "A toroid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Concave pole pieces and a soft iron cylinder. Cylindrical concave pole pieces with a central soft-iron core ensure field lines are always radial, making the deflecting torque constant (cosα = 1) and scale linear."
+    },
+    {
+      "id": 26,
+      "question": "Two parallel conductors carrying currents in the SAME direction:",
+      "options": {
+        "A": "Repel each other",
+        "B": "Attract each other",
+        "C": "Exert no force on each other",
+        "D": "Rotate each other without translational force"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Attract each other. According to Ampere's force law, parallel currents in the same direction attract, whereas antiparallel currents repel."
+    },
+    {
+      "id": 27,
+      "question": "The magnetic dipole moment M of a current-carrying loop of area A with N turns carrying current I is:",
+      "options": {
+        "A": "M = N I A",
+        "B": "M = N I / A",
+        "C": "M = N A / I",
+        "D": "M = I / (N A)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) M = N I A. Magnetic dipole moment is defined as M = NIA with unit A·m² (or J/T)."
+    },
+    {
+      "id": 28,
+      "question": "In an ohmmeter, the scale is:",
+      "options": {
+        "A": "Linear with zero at left end",
+        "B": "Non-linear with zero at right end and infinity at left end",
+        "C": "Linear with infinity at right end",
+        "D": "Logarithmic with zero at center"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Non-linear with zero at right end and infinity at left end. Full deflection current corresponds to zero external resistance (R_x = 0), and zero deflection corresponds to open circuit (R_x = ∞)."
+    },
+    {
+      "id": 29,
+      "question": "An AVO meter (multimeter) can measure:",
+      "options": {
+        "A": "Amperes, Volts, and Ohms",
+        "B": "Amperes only",
+        "C": "Volts only",
+        "D": "Oscillation frequencies"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Amperes, Volts, and Ohms. AVO stands for Amperes (current), Volts (potential difference), and Ohms (resistance)."
+    },
+    {
+      "id": 30,
+      "question": "The radius r of the circular path of an electron in a magnetic field B with momentum p = mv is:",
+      "options": {
+        "A": "r = mv / (qB) = p / (eB)",
+        "B": "r = qB / (mv)",
+        "C": "r = eB / p",
+        "D": "r = m / (qvB)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) r = mv / (qB) = p / (eB). Equating centripetal force mv²/r to magnetic force evB gives r = mv / (eB)."
+    },
+    {
+      "id": 31,
+      "question": "The time period T of circular revolution of a charged particle in a magnetic field is:",
+      "options": {
+        "A": "T = 2πm / (qB)",
+        "B": "T = qB / (2πm)",
+        "C": "T = 2πr / B",
+        "D": "T = 2πv / (qB)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) T = 2πm / (qB). Period T = 2πr/v = 2π(mv/qB)/v = 2πm/(qB), which is remarkably independent of velocity and radius (cyclotron principle)."
+    },
+    {
+      "id": 32,
+      "question": "A digital multimeter (DMM) displays measurements digitally using an analog-to-digital converter (ADC) and offers:",
+      "options": {
+        "A": "Lower accuracy than analog meters",
+        "B": "High input impedance and elimination of parallax errors",
+        "C": "Higher loading effect than moving coil meters",
+        "D": "Mechanical friction errors"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) High input impedance and elimination of parallax errors. DMMs provide direct numerical readouts, avoiding parallax, and feature very high input resistance (~10 MΩ) to prevent circuit loading."
+    },
+    {
+      "id": 33,
+      "question": "A proton and an electron enter a magnetic field with the same velocity perpendicular to the field. The radius of curvature of the proton will be:",
+      "options": {
+        "A": "Smaller than electron",
+        "B": "Much larger than electron (~1836 times)",
+        "C": "Identical to electron",
+        "D": "Zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Much larger than electron (~1836 times). Since r = mv/(qB) and q and v are equal, r ∝ m. Since m_p ≈ 1836 m_e, r_p is ~1836 times larger."
+    },
+    {
+      "id": 34,
+      "question": "Current sensitivity of a galvanometer is defined as the deflection θ produced per unit current (θ / I). It is equal to:",
+      "options": {
+        "A": "NAB / C",
+        "B": "C / (NAB)",
+        "C": "NC / (AB)",
+        "D": "AB / (NC)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) NAB / C. In equilibrium, restoring torque Cθ equals deflecting torque NIAB, giving θ/I = NAB/C, where C is the torsional couple per unit twist."
+    },
+    {
+      "id": 35,
+      "question": "To increase the sensitivity of a galvanometer, one should:",
+      "options": {
+        "A": "Increase torsional constant C of suspension wire",
+        "B": "Decrease magnetic field B",
+        "C": "Use a suspension wire with small torsional constant C (phosphor-bronze)",
+        "D": "Decrease number of turns N"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Use a suspension wire with small torsional constant C (phosphor-bronze). Since sensitivity S = NAB/C, reducing C (using phosphor-bronze hairspring or suspension) substantially increases sensitivity."
+    }
+  ]
+}

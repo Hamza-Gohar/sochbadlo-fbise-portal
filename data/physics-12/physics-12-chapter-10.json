@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 10,
+  "chapterTitle": "Unit 21: Nuclear Physics",
+  "slug": "physics-12-chapter-10",
+  "fileName": "physics-12-chapter-10.json",
+  "totalQuestions": 35,
+  "subject": "physics-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "An atomic nucleus consists of positively charged protons and uncharged neutrons collectively termed:",
+      "options": {
+        "A": "Leptons",
+        "B": "Nucleons",
+        "C": "Positrons",
+        "D": "Mesons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Nucleons. Protons and neutrons reside inside the nucleus and are known collectively as nucleons."
+    },
+    {
+      "id": 2,
+      "question": "Nuclides having the same atomic number Z (same number of protons) but different mass numbers A (different neutron numbers N) are called:",
+      "options": {
+        "A": "Isobars",
+        "B": "Isotopes",
+        "C": "Isotones",
+        "D": "Isomers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Isotopes. Isotopes have identical chemical properties due to equal electron/proton counts but differ in nuclear mass."
+    },
+    {
+      "id": 3,
+      "question": "One unified atomic mass unit (1 u) is defined as exactly 1/12th the mass of a carbon-12 atom and equals:",
+      "options": {
+        "A": "1.6605 × 10⁻²⁷ kg or 931.5 MeV",
+        "B": "9.1 × 10⁻³¹ kg",
+        "C": "1.6 × 10⁻¹⁹ kg",
+        "D": "3.0 × 10⁸ kg"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 1.6605 × 10⁻²⁷ kg or 931.5 MeV. By mass-energy equivalence E = mc², 1 u = 1.6605 × 10⁻²⁷ kg × (2.998 × 10⁸)² J ≈ 931.5 MeV."
+    },
+    {
+      "id": 4,
+      "question": "The difference between total mass of individual isolated nucleons and the actual mass of the bound nucleus is called:",
+      "options": {
+        "A": "Mass defect (Δm)",
+        "B": "Binding energy",
+        "C": "Packing fraction",
+        "D": "Atomic weight"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Mass defect (Δm). Δm = [Z m_p + (A - Z) m_n] - M_nucleus. This missing mass is converted into binding energy holding the nucleus together."
+    },
+    {
+      "id": 5,
+      "question": "The nuclear binding energy E_b is related to mass defect Δm by:",
+      "options": {
+        "A": "E_b = Δm c²",
+        "B": "E_b = Δm / c²",
+        "C": "E_b = 1/2 Δm c",
+        "D": "E_b = Δm c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) E_b = Δm c². Total energy released when nucleons assemble into a nucleus (or energy needed to disassemble them) is E_b = Δm c²."
+    },
+    {
+      "id": 6,
+      "question": "The curve of binding energy per nucleon (E_b / A) reaches a broad maximum of approximately 8.8 MeV per nucleon for:",
+      "options": {
+        "A": "Hydrogen (¹H)",
+        "B": "Iron-56 (⁵⁶Fe)",
+        "C": "Uranium-238 (²³⁸U)",
+        "D": "Lead-208 (²⁰⁸Pb)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Iron-56 (⁵⁶Fe). Iron-56 has the highest binding energy per nucleon (~8.8 MeV/nucleon), making it the most stable nucleus in nature."
+    },
+    {
+      "id": 7,
+      "question": "The strong nuclear force that holds nucleons together inside the nucleus is:",
+      "options": {
+        "A": "Charge-independent, attractive, and extremely short-range (~10⁻¹⁵ m)",
+        "B": "Long-range and electrostatic in nature",
+        "C": "Dependent on electric charge",
+        "D": "Weaker than gravitational force"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Charge-independent, attractive, and extremely short-range (~10⁻¹⁵ m). The strong nuclear force acts identically between p-p, n-n, and p-n within ~1–2 femtometers (fm)."
+    },
+    {
+      "id": 8,
+      "question": "Radioactivity was discovered in 1896 by:",
+      "options": {
+        "A": "Henri Becquerel",
+        "B": "Marie Curie",
+        "C": "Ernest Rutherford",
+        "D": "James Chadwick"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Henri Becquerel. Becquerel discovered spontaneous penetrating radiation emitted from uranium salts that fogged photographic plates."
+    },
+    {
+      "id": 9,
+      "question": "Alpha (α) rays emitted by radioactive nuclei consist of:",
+      "options": {
+        "A": "Helium-4 nuclei (two protons and two neutrons, charge +2e)",
+        "B": "High-energy electrons",
+        "C": "Electromagnetic photons",
+        "D": "Neutrons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Helium-4 nuclei (two protons and two neutrons, charge +2e). Alpha particles are doubly ionized helium atoms (⁴₂He²⁺) with high ionizing power and low penetration."
+    },
+    {
+      "id": 10,
+      "question": "Beta-minus (β⁻) particles emitted during radioactive decay are:",
+      "options": {
+        "A": "Fast-moving electrons originating from nuclear neutron decay",
+        "B": "Orbital valence electrons",
+        "C": "Helium nuclei",
+        "D": "Protons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Fast-moving electrons originating from nuclear neutron decay. Inside the nucleus, a neutron transforms into a proton, emitting an electron and an antineutrino: n → p + e⁻ + ν̄_e."
+    },
+    {
+      "id": 11,
+      "question": "Gamma (γ) rays emitted in nuclear decay are:",
+      "options": {
+        "A": "Positively charged particles",
+        "B": "High-energy electromagnetic photons having no charge and zero rest mass",
+        "C": "Neutrons",
+        "D": "Electrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) High-energy electromagnetic photons having no charge and zero rest mass. Emitted when an excited nucleus drops to a lower energy state, gamma rays have the highest penetrating power."
+    },
+    {
+      "id": 12,
+      "question": "Which type of radioactive radiation has the highest ionizing power?",
+      "options": {
+        "A": "Alpha (α) particles",
+        "B": "Beta (β) particles",
+        "C": "Gamma (γ) rays",
+        "D": "Neutrons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Alpha (α) particles. Because of their heavy mass and +2e charge, alpha particles cause intense ionization (approx. 10,000 times greater than gamma rays)."
+    },
+    {
+      "id": 13,
+      "question": "Which type of radioactive radiation has the highest penetrating power?",
+      "options": {
+        "A": "Alpha (α) particles (stopped by sheet of paper)",
+        "B": "Beta (β) particles (stopped by few mm of aluminum)",
+        "C": "Gamma (γ) rays (requires thick lead/concrete shields)",
+        "D": "Protons"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Gamma (γ) rays (requires thick lead/concrete shields). Uncharged and high-energy photons interact weakly with matter, penetrating tens of centimeters into lead or concrete."
+    },
+    {
+      "id": 14,
+      "question": "The Law of Radioactive Decay states that the rate of disintegration (-dN / dt) is proportional to:",
+      "options": {
+        "A": "Square of undecayed nuclei",
+        "B": "Number of undecayed radioactive nuclei N present at that instant: -dN / dt = λN",
+        "C": "Temperature and pressure",
+        "D": "Volume of the sample"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Number of undecayed radioactive nuclei N present at that instant: -dN / dt = λN. Here λ is the decay constant, a unique characteristic of the radioisotope."
+    },
+    {
+      "id": 15,
+      "question": "The half-life T_(1/2) of a radioactive substance is related to its decay constant λ by:",
+      "options": {
+        "A": "T_(1/2) = ln(2) / λ ≈ 0.693 / λ",
+        "B": "T_(1/2) = λ / 0.693",
+        "C": "T_(1/2) = 0.693 λ",
+        "D": "T_(1/2) = 1 / λ"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) T_(1/2) = ln(2) / λ ≈ 0.693 / λ. Half-life is the time required for half the radioactive parent atoms to disintegrate."
+    },
+    {
+      "id": 16,
+      "question": "If a radioactive sample has an initial activity of 800 Bq, after 3 half-lives its activity will be:",
+      "options": {
+        "A": "100 Bq",
+        "B": "200 Bq",
+        "C": "267 Bq",
+        "D": "50 Bq"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 100 Bq. After n half-lives: N = N₀ / 2ⁿ. For n = 3: Activity A = 800 / 2³ = 800 / 8 = 100 Bq."
+    },
+    {
+      "id": 17,
+      "question": "The SI unit of radioactive activity (disintegrations per second) is:",
+      "options": {
+        "A": "Becquerel (Bq = 1 dps)",
+        "B": "Curie (Ci = 3.7 × 10¹⁰ dps)",
+        "C": "Roentgen (R)",
+        "D": "Gray (Gy)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Becquerel (Bq = 1 dps). 1 Becquerel equals 1 disintegration per second. The older unit Curie (Ci) is 3.7 × 10¹⁰ Bq."
+    },
+    {
+      "id": 18,
+      "question": "In alpha decay of a parent nucleus ᴬ_Z X, the daughter nucleus has:",
+      "options": {
+        "A": "Mass number A - 4 and atomic number Z - 2",
+        "B": "Mass number A and atomic number Z + 1",
+        "C": "Mass number A - 1 and atomic number Z",
+        "D": "Mass number A and atomic number Z"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Mass number A - 4 and atomic number Z - 2. ᴬ_Z X → ᴬ⁻⁴_(Z-2) Y + ⁴₂He."
+    },
+    {
+      "id": 19,
+      "question": "In beta-minus (β⁻) decay, the atomic number Z of the daughter nucleus:",
+      "options": {
+        "A": "Increases by 1 while mass number A remains unchanged",
+        "B": "Decreases by 1",
+        "C": "Decreases by 2",
+        "D": "Increases by 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Increases by 1 while mass number A remains unchanged. ᴬ_Z X → ᴬ_(Z+1) Y + ⁰₋₁e + ν̄_e."
+    },
+    {
+      "id": 20,
+      "question": "In gamma (γ) decay, the atomic number Z and mass number A of the nucleus:",
+      "options": {
+        "A": "Both remain completely unchanged",
+        "B": "Z increases by 1",
+        "C": "A decreases by 1",
+        "D": "Both decrease by 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Both remain completely unchanged. Gamma emission is simply a de-excitation from a higher nuclear energy state to a lower state without changing nucleon composition."
+    },
+    {
+      "id": 21,
+      "question": "A Geiger-Müller (GM) counter uses an inert gas (usually argon) mixed with a small amount of halogen/alcohol vapor for:",
+      "options": {
+        "A": "Quenching the continuous discharge avalanche",
+        "B": "Increasing ionizing voltage",
+        "C": "Cooling the cathode",
+        "D": "Generating alpha particles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Quenching the continuous discharge avalanche. The quenching agent (bromine or alcohol) neutralizes positive argon ions to prevent spurious secondary pulses."
+    },
+    {
+      "id": 22,
+      "question": "In a Wilson Cloud Chamber, tracks of ionizing particles are revealed by droplet condensation in:",
+      "options": {
+        "A": "Supersaturated vapor (water or alcohol)",
+        "B": "Liquid nitrogen",
+        "C": "Compressed argon gas",
+        "D": "Molten lead"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Supersaturated vapor (water or alcohol). Ions produced along the radiation path serve as condensation nuclei, forming visible droplet tracks."
+    },
+    {
+      "id": 23,
+      "question": "Nuclear fission was discovered in 1938 by Otto Hahn and Fritz Strassmann when Uranium-235 was bombarded with:",
+      "options": {
+        "A": "Thermal (slow) neutrons",
+        "B": "High-energy protons",
+        "C": "Alpha particles",
+        "D": "Gamma rays"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Thermal (slow) neutrons. Slow neutrons are readily absorbed by ²³⁵U, causing it to split into two intermediate fragments and releasing ~200 MeV of energy."
+    },
+    {
+      "id": 24,
+      "question": "The average energy released per single fission event of Uranium-235 is approximately:",
+      "options": {
+        "A": "200 MeV",
+        "B": "13.6 eV",
+        "C": "1.02 MeV",
+        "D": "1000 GeV"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 200 MeV. The difference in binding energy per nucleon between heavy nuclei (~7.6 MeV) and fission fragments (~8.5 MeV) releases ~0.9 MeV × 235 ≈ 200 MeV."
+    },
+    {
+      "id": 25,
+      "question": "In a nuclear reactor, the purpose of a moderator (e.g. heavy water D₂O or graphite) is to:",
+      "options": {
+        "A": "Slow down fast fission neutrons to thermal speeds",
+        "B": "Absorb all neutrons to stop the reaction",
+        "C": "Cool the turbine directly",
+        "D": "Accelerate alpha particles"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Slow down fast fission neutrons to thermal speeds. Fission neutrons are born fast (~2 MeV); elastic collisions with light moderator nuclei slow them to thermal energies (~0.025 eV) where fission probability is highest."
+    },
+    {
+      "id": 26,
+      "question": "Control rods in a nuclear reactor (made of cadmium or boron) function by:",
+      "options": {
+        "A": "Absorbing excess neutrons to control the reproduction rate k",
+        "B": "Accelerating neutrons",
+        "C": "Emitting positrons",
+        "D": "Reflecting gamma rays"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Absorbing excess neutrons to control the reproduction rate k. Inserting or withdrawing control rods maintains the neutron multiplication factor at k = 1 (critical steady state)."
+    },
+    {
+      "id": 27,
+      "question": "Nuclear fusion is the process in which two light nuclei combine to form a heavier nucleus. It requires temperatures of ~10⁷ to 10⁸ K to:",
+      "options": {
+        "A": "Overcome the strong electrostatic Coulomb repulsion between positively charged nuclei",
+        "B": "Strip neutrons from atoms",
+        "C": "Break the strong nuclear force",
+        "D": "Form radioactive isotopes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Overcome the strong electrostatic Coulomb repulsion between positively charged nuclei. Tremendous thermal kinetic energy is required for nuclei to approach within ~1 fm for the strong nuclear force to bind them."
+    },
+    {
+      "id": 28,
+      "question": "The primary energy source powering the Sun and stars is:",
+      "options": {
+        "A": "Thermonuclear fusion of hydrogen into helium (proton-proton cycle)",
+        "B": "Uranium fission",
+        "C": "Chemical combustion of gases",
+        "D": "Gravitational collapse alone"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Thermonuclear fusion of hydrogen into helium (proton-proton cycle). In the solar core, four protons fuse into a helium-4 nucleus, releasing ~26.7 MeV of energy."
+    },
+    {
+      "id": 29,
+      "question": "A radioactive isotope used in medical diagnosis to assess thyroid gland function is:",
+      "options": {
+        "A": "Iodine-131 (¹³¹I)",
+        "B": "Cobalt-60 (⁶⁰Co)",
+        "C": "Carbon-14 (¹⁴C)",
+        "D": "Uranium-235"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Iodine-131 (¹³¹I). The thyroid selectively absorbs iodine; gamma emissions from ¹³¹I are imaged to evaluate gland function and treat thyroid cancers."
+    },
+    {
+      "id": 30,
+      "question": "Cobalt-60 (⁶⁰Co) is widely used in medicine for:",
+      "options": {
+        "A": "Radiation therapy (teletherapy) of cancerous tumors using gamma rays",
+        "B": "Measuring blood flow",
+        "C": "Carbon dating of archaeological fossils",
+        "D": "Fission reactor fuel"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Radiation therapy (teletherapy) of cancerous tumors using gamma rays. Powerful 1.17 MeV and 1.33 MeV gamma rays emitted by ⁶⁰Co destroy malignant tumor cells."
+    },
+    {
+      "id": 31,
+      "question": "Radiocarbon dating used to determine the age of ancient organic materials is based on the radioactive decay of:",
+      "options": {
+        "A": "Carbon-14 (half-life ≈ 5,730 years)",
+        "B": "Carbon-12",
+        "C": "Uranium-238",
+        "D": "Potassium-40"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Carbon-14 (half-life ≈ 5,730 years). After an organism dies, its intake of ¹⁴C stops and the ¹⁴C/¹²C ratio decays exponentially with half-life 5,730 years."
+    },
+    {
+      "id": 32,
+      "question": "According to the Standard Model of particle physics, hadrons (protons and neutrons) are composed of elementary point particles called:",
+      "options": {
+        "A": "Quarks",
+        "B": "Leptons",
+        "C": "Photons",
+        "D": "Positrons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Quarks. Murray Gell-Mann proposed quarks. Hadrons (baryons and mesons) are bound states of quarks interacting via gluons."
+    },
+    {
+      "id": 33,
+      "question": "The quark composition of a proton is:",
+      "options": {
+        "A": "u u d (two up quarks and one down quark)",
+        "B": "u d d (one up and two down quarks)",
+        "C": "u u u",
+        "D": "d d d"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) u u d (two up quarks and one down quark). Charge = (+2/3 e) + (+2/3 e) + (-1/3 e) = +1 e."
+    },
+    {
+      "id": 34,
+      "question": "The quark composition of a neutron is:",
+      "options": {
+        "A": "u d d (one up quark and two down quarks)",
+        "B": "u u d",
+        "C": "d d d",
+        "D": "u u u"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) u d d (one up quark and two down quarks). Charge = (+2/3 e) + (-1/3 e) + (-1/3 e) = 0."
+    },
+    {
+      "id": 35,
+      "question": "Leptons are true fundamental particles that do not experience the strong nuclear force. Which of the following is a lepton?",
+      "options": {
+        "A": "Electron",
+        "B": "Proton",
+        "C": "Neutron",
+        "D": "Alpha particle"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Electron. Leptons include electrons, muons, taus, and their corresponding neutrinos (e, μ, τ, ν_e, ν_μ, ν_τ); protons and neutrons are composite hadrons."
+    }
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 4,
+  "chapterTitle": "Unit 15: Electromagnetic Induction",
+  "slug": "physics-12-chapter-4",
+  "fileName": "physics-12-chapter-4.json",
+  "totalQuestions": 35,
+  "subject": "physics-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The phenomenon of inducing an EMF in a circuit due to a change of magnetic flux linked with it is called:",
+      "options": {
+        "A": "Electrostatic induction",
+        "B": "Electromagnetic induction",
+        "C": "Self-polarization",
+        "D": "Magnetic resonance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Electromagnetic induction. Discovered by Michael Faraday in 1831, a changing magnetic flux induces an electromotive force (EMF) in a closed conductor."
+    },
+    {
+      "id": 2,
+      "question": "Faraday's Law of Electromagnetic Induction states that the magnitude of induced EMF is proportional to:",
+      "options": {
+        "A": "Total magnetic flux",
+        "B": "Time rate of change of magnetic flux",
+        "C": "Resistance of the coil",
+        "D": "Current in the primary circuit"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Time rate of change of magnetic flux. ε = -N (ΔΦ / Δt). The induced EMF depends on how fast magnetic flux changes, not its absolute value."
+    },
+    {
+      "id": 3,
+      "question": "The negative sign in Faraday's law ε = -N (ΔΦ / Δt) represents:",
+      "options": {
+        "A": "Ampere's Law",
+        "B": "Lenz's Law",
+        "C": "Coulomb's Law",
+        "D": "Ohm's Law"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Lenz's Law. Lenz's law dictates that the induced current always opposes the initial flux change that produces it, manifested as a minus sign."
+    },
+    {
+      "id": 4,
+      "question": "Lenz's Law is a direct consequence of the law of conservation of:",
+      "options": {
+        "A": "Charge",
+        "B": "Energy",
+        "C": "Momentum",
+        "D": "Mass"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Energy. Mechanical work done against the opposing induced magnetic field is converted into electrical energy. If it did not oppose, energy would be created from nothing, violating energy conservation."
+    },
+    {
+      "id": 5,
+      "question": "Motional EMF induced in a conductor of length L moving with velocity v perpendicular to a magnetic field B is:",
+      "options": {
+        "A": "ε = v B / L",
+        "B": "ε = -v B L",
+        "C": "ε = -v L / B",
+        "D": "ε = -B / (v L)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) ε = -v B L. When a rod moves across magnetic field lines at velocity v, Lorentz force on charges inside creates a potential difference ε = -vBL sinθ."
+    },
+    {
+      "id": 6,
+      "question": "If a conductor moves parallel to a magnetic field (θ = 0°), the motional EMF induced across its ends is:",
+      "options": {
+        "A": "Maximum",
+        "B": "Zero",
+        "C": "vBL",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Zero. ε = vBL sinθ = vBL sin 0° = 0 because no magnetic flux lines are cut."
+    },
+    {
+      "id": 7,
+      "question": "Mutual inductance M between two coils is defined by the relation ε_s = -M (ΔI_p / Δt). Its SI unit is:",
+      "options": {
+        "A": "Tesla (T)",
+        "B": "Henry (H) or V s A⁻¹",
+        "C": "Weber (Wb)",
+        "D": "Farad (F)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Henry (H) or V s A⁻¹. 1 Henry is the mutual inductance when a rate of change of 1 A/s in primary induces an EMF of 1 V in secondary."
+    },
+    {
+      "id": 8,
+      "question": "Self-induced EMF (back EMF) in a coil of self-inductance L carrying changing current I is given by:",
+      "options": {
+        "A": "ε_L = -L (ΔI / Δt)",
+        "B": "ε_L = -I (ΔL / Δt)",
+        "C": "ε_L = L I",
+        "D": "ε_L = L / (ΔI Δt)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) ε_L = -L (ΔI / Δt). Self-induction opposes any growth or decay of current in the coil itself, termed back EMF."
+    },
+    {
+      "id": 9,
+      "question": "The self-inductance L of a solenoid of length l, cross-sectional area A, with N total turns is:",
+      "options": {
+        "A": "L = μ₀ N² A / l",
+        "B": "L = μ₀ N A / l",
+        "C": "L = μ₀ N² l / A",
+        "D": "L = μ₀ A / (N² l)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) L = μ₀ N² A / l. Since Φ = B A = (μ₀ N I / l) A, total flux linkage NΦ = μ₀ N² I A / l, giving L = NΦ/I = μ₀ N² A / l."
+    },
+    {
+      "id": 10,
+      "question": "The energy U_m stored in the magnetic field of an inductor carrying current I is:",
+      "options": {
+        "A": "U_m = 1/2 L I²",
+        "B": "U_m = L I",
+        "C": "U_m = 1/2 L² I",
+        "D": "U_m = 2 L I²"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) U_m = 1/2 L I². Work done in establishing current against back EMF is stored in the magnetic field as U_m = (1/2) L I²."
+    },
+    {
+      "id": 11,
+      "question": "The magnetic energy density (energy per unit volume) in a magnetic field B inside an inductor is:",
+      "options": {
+        "A": "u_B = B² / (2μ₀)",
+        "B": "u_B = 1/2 μ₀ B²",
+        "C": "u_B = 2μ₀ / B²",
+        "D": "u_B = μ₀ B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) u_B = B² / (2μ₀). Analogous to electric energy density (1/2 ε₀ E²), magnetic energy density in free space is B² / (2μ₀)."
+    },
+    {
+      "id": 12,
+      "question": "An AC generator converts mechanical energy into electrical energy based on:",
+      "options": {
+        "A": "Seebeck effect",
+        "B": "Faraday's law of electromagnetic induction",
+        "C": "Coulomb's law",
+        "D": "Joule's heating effect"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Faraday's law of electromagnetic induction. A coil rotating in a uniform magnetic field experiences changing flux, generating alternating sinusoidal EMF."
+    },
+    {
+      "id": 13,
+      "question": "The instantaneous EMF generated by an AC generator of N turns, area A rotating at angular frequency ω in field B is:",
+      "options": {
+        "A": "ε = N A B ω sin(ωt)",
+        "B": "ε = N A B cos(ωt)",
+        "C": "ε = N A B / ω sin(ωt)",
+        "D": "ε = ω sin(ωt) / (NAB)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) ε = N A B ω sin(ωt). Since Φ = BA cos(ωt), ε = -N dΦ/dt = NABω sin(ωt) = ε₀ sin(ωt), where ε₀ = NABω is peak EMF."
+    },
+    {
+      "id": 14,
+      "question": "If the rotational speed of an AC generator coil is doubled, its maximum output EMF ε₀ will:",
+      "options": {
+        "A": "Remain unchanged",
+        "B": "Double",
+        "C": "Quadruple",
+        "D": "Be halved"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Double. Since peak EMF ε₀ = NABω = NAB(2πf), doubling rotational speed (or frequency f) directly doubles the peak EMF."
+    },
+    {
+      "id": 15,
+      "question": "In a DC generator, alternating current induced in the armature coil is converted to pulsating direct current using:",
+      "options": {
+        "A": "Slip rings",
+        "B": "Split-ring commutator",
+        "C": "A transformer",
+        "D": "Capacitors"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Split-ring commutator. A split ring (commutator) reverses the connection to the external circuit every half-cycle, maintaining unidirectional DC output."
+    },
+    {
+      "id": 16,
+      "question": "In an electric motor, back EMF ε increases as the motor:",
+      "options": {
+        "A": "Slows down under heavy load",
+        "B": "Speeds up",
+        "C": "Stops completely",
+        "D": "Is switched off"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Speeds up. By Faraday's law, back EMF is proportional to rotational speed. As speed rises, back EMF increases, reducing armature current I = (V - ε)/R."
+    },
+    {
+      "id": 17,
+      "question": "If an electric motor is suddenly jammed and cannot rotate, the armature current will:",
+      "options": {
+        "A": "Drop to zero",
+        "B": "Become very large and may burn the windings",
+        "C": "Remain unchanged",
+        "D": "Reverse direction"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Become very large and may burn the windings. When stopped, back EMF ε = 0, so current surges to V/R. Since armature resistance R is tiny, huge current can overheat and burn the motor."
+    },
+    {
+      "id": 18,
+      "question": "A transformer operates on the principle of:",
+      "options": {
+        "A": "Self-induction",
+        "B": "Mutual induction between two coils",
+        "C": "Electrostatic shielding",
+        "D": "Thermoelectric generation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Mutual induction between two coils. A transformer transfers electrical energy between primary and secondary circuits through mutual magnetic flux in a core."
+    },
+    {
+      "id": 19,
+      "question": "A transformer cannot work on steady Direct Current (DC) because:",
+      "options": {
+        "A": "DC voltage is too high",
+        "B": "Steady DC produces no time-varying magnetic flux (ΔΦ/Δt = 0)",
+        "C": "Transformers have too much resistance for DC",
+        "D": "DC damages iron cores"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Steady DC produces no time-varying magnetic flux (ΔΦ/Δt = 0). Electromagnetic induction requires changing flux. Steady DC produces a constant field, so no EMF is induced in the secondary."
+    },
+    {
+      "id": 20,
+      "question": "In an ideal step-up transformer, which quantity increases in the secondary compared to the primary?",
+      "options": {
+        "A": "Voltage",
+        "B": "Current",
+        "C": "Power",
+        "D": "Frequency"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Voltage. In a step-up transformer, N_s > N_p, so V_s > V_p. By energy conservation, current decreases proportionally (I_s < I_p)."
+    },
+    {
+      "id": 21,
+      "question": "The turns ratio of a transformer is given by:",
+      "options": {
+        "A": "V_s / V_p = N_s / N_p = I_p / I_s",
+        "B": "V_s / V_p = N_p / N_s",
+        "C": "V_s / V_p = I_s / I_p",
+        "D": "V_s V_p = N_s N_p"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) V_s / V_p = N_s / N_p = I_p / I_s. In an ideal transformer, secondary-to-primary voltage ratio equals turns ratio and inverse of current ratio (P_in = P_out)."
+    },
+    {
+      "id": 22,
+      "question": "Eddy currents induced in solid metallic transformer cores are minimized by:",
+      "options": {
+        "A": "Using a solid copper core",
+        "B": "Using a laminated core made of insulated thin sheets",
+        "C": "Increasing the voltage",
+        "D": "Cooling with liquid nitrogen"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Using a laminated core made of insulated thin sheets. Laminations break the closed circular paths of eddy currents, significantly reducing I²R eddy current energy losses."
+    },
+    {
+      "id": 23,
+      "question": "Hysteresis loss in a transformer core is reduced by choosing core materials with:",
+      "options": {
+        "A": "Narrow hysteresis loop (e.g. soft silicon steel)",
+        "B": "Wide hysteresis loop (e.g. hard steel)",
+        "C": "High retentivity and high coercivity",
+        "D": "Non-magnetic materials"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Narrow hysteresis loop (e.g. soft silicon steel). The area of the hysteresis loop represents energy dissipated as heat per cycle of magnetization. Soft silicon steel has a very narrow loop."
+    },
+    {
+      "id": 24,
+      "question": "Electrical power is transmitted over long grid distances at very high voltages in order to:",
+      "options": {
+        "A": "Increase current and wire temperature",
+        "B": "Reduce current and minimize I²R power transmission losses",
+        "C": "Increase the frequency of alternating current",
+        "D": "Avoid using step-down transformers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Reduce current and minimize I²R power transmission losses. For transmitting power P = VI, stepping up voltage V reduces current I proportionally, slashing Joule heating losses (P_loss = I²R_line)."
+    },
+    {
+      "id": 25,
+      "question": "A step-down transformer has 1000 turns in primary and 100 turns in secondary. If 220 V AC is applied to primary, secondary voltage is:",
+      "options": {
+        "A": "2200 V",
+        "B": "22 V",
+        "C": "110 V",
+        "D": "2.2 V"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 22 V. V_s = V_p × (N_s / N_p) = 220 V × (100 / 1000) = 22 V."
+    },
+    {
+      "id": 26,
+      "question": "When a magnet is moved toward a closed conducting coil with its North pole facing the coil, the induced current produces a:",
+      "options": {
+        "A": "North pole to repel the approaching magnet",
+        "B": "South pole to attract the approaching magnet",
+        "C": "Zero magnetic field",
+        "D": "Continuous mechanical acceleration"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) North pole to repel the approaching magnet. By Lenz's Law, the induced current opposes the motion causing it, thus establishing a North pole facing the approaching North pole."
+    },
+    {
+      "id": 27,
+      "question": "When the magnetic flux linking a coil of 50 turns changes by 0.2 Wb in 0.1 s, the average induced EMF is:",
+      "options": {
+        "A": "100 V",
+        "B": "10 V",
+        "C": "25 V",
+        "D": "500 V"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 100 V. |ε| = N (ΔΦ / Δt) = 50 × (0.2 / 0.1) = 50 × 2 = 100 V."
+    },
+    {
+      "id": 28,
+      "question": "The unit of self-inductance (Henry) is equivalent to:",
+      "options": {
+        "A": "V s A⁻¹ or Wb A⁻¹",
+        "B": "V A s⁻¹",
+        "C": "J C⁻¹",
+        "D": "T m²"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) V s A⁻¹ or Wb A⁻¹. From L = ε / (dI/dt), units are V / (A/s) = V·s/A. Also from L = NΦ/I, units are Wb/A."
+    },
+    {
+      "id": 29,
+      "question": "Eddy currents are circulating currents induced in bulk metallic masses by changing magnetic fields. Which device uses eddy current damping?",
+      "options": {
+        "A": "Deadbeat galvanometer",
+        "B": "Voltmeter multiplier",
+        "C": "Rheostat",
+        "D": "Potentiometer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Deadbeat galvanometer. Eddy currents generated in the metallic coil frame produce opposing torque that rapidly damps coil oscillations to bring it smoothly to rest."
+    },
+    {
+      "id": 30,
+      "question": "Induction cooktops heat cooking vessels through:",
+      "options": {
+        "A": "Direct flame conduction",
+        "B": "High-frequency magnetic fields generating eddy currents and hysteresis heat in ferromagnetic cookware",
+        "C": "Thermal radiation from heating coils",
+        "D": "Electrostatic discharge"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) High-frequency magnetic fields generating eddy currents and hysteresis heat in ferromagnetic cookware. Rapidly alternating magnetic flux induces intense eddy currents in the iron pan base, cooking food cleanly and efficiently."
+    },
+    {
+      "id": 31,
+      "question": "If the primary of an ideal transformer draws 2 A at 220 V, and the secondary supplies 11 V, the secondary current is:",
+      "options": {
+        "A": "40 A",
+        "B": "0.1 A",
+        "C": "4 A",
+        "D": "20 A"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 40 A. In an ideal transformer, P_in = P_out => V_p I_p = V_s I_s => 220 × 2 = 11 × I_s => I_s = 440 / 11 = 40 A."
+    },
+    {
+      "id": 32,
+      "question": "The efficiency η of a real transformer is given by:",
+      "options": {
+        "A": "η = (Power Output / Power Input) × 100%",
+        "B": "η = (Power Input / Power Output) × 100%",
+        "C": "η = (V_s / V_p) × 100%",
+        "D": "η = (I_s / I_p) × 100%"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) η = (Power Output / Power Input) × 100%. Commercial transformers achieve 95%–99% efficiency."
+    },
+    {
+      "id": 33,
+      "question": "Mutual inductance M between two closely coupled coils is related to their self-inductances L₁ and L₂ by:",
+      "options": {
+        "A": "M = k √(L₁ L₂)",
+        "B": "M = k (L₁ + L₂)",
+        "C": "M = k (L₁ L₂)",
+        "D": "M = k / √(L₁ L₂)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) M = k √(L₁ L₂). Here k is the coupling coefficient (0 ≤ k ≤ 1); for complete flux linkage, k = 1 and M = √(L₁ L₂)."
+    },
+    {
+      "id": 34,
+      "question": "In an AC generator, when the plane of the armature coil is perpendicular to the magnetic field lines:",
+      "options": {
+        "A": "Flux linked is maximum and induced EMF is zero",
+        "B": "Flux linked is zero and induced EMF is maximum",
+        "C": "Both flux and induced EMF are maximum",
+        "D": "Both flux and induced EMF are zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Flux linked is maximum and induced EMF is zero. When the coil is perpendicular to field (θ = 0° with normal), Φ = BA (maximum), but rate of change dΦ/dt ∝ sin(0°) = 0, so induced EMF is zero."
+    },
+    {
+      "id": 35,
+      "question": "In an AC generator, when the plane of the coil is parallel to the magnetic field lines:",
+      "options": {
+        "A": "Flux linked is zero and induced EMF is maximum",
+        "B": "Flux linked is maximum and induced EMF is zero",
+        "C": "Both flux and induced EMF are zero",
+        "D": "Induced EMF is negative infinity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Flux linked is zero and induced EMF is maximum. When the coil plane is parallel to field, the normal is perpendicular (θ = 90°), so flux Φ = 0, but dΦ/dt is maximum, giving peak induced EMF."
+    }
+  ]
+}

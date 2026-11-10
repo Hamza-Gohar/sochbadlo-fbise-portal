@@ -38,8 +38,8 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
     slug.startsWith('tarjuma-10-') ||
     slug.startsWith('pakstudies-12-') ||
     slug.startsWith('tarjuma-12-');
-  const is20QClass12Exam = slug.startsWith('english-12-') || slug.startsWith('urdu-12-');
-  const initialExamTime = is10QExam ? 900 : is20QClass12Exam ? 1500 : 1200;
+  const is25MinExam = slug.startsWith('english-12-') || slug.startsWith('urdu-12-') || slug.startsWith('physics-12-');
+  const initialExamTime = is10QExam ? 900 : is25MinExam ? 1500 : 1200;
   const [timeLeft, setTimeLeft] = useState(initialExamTime);
   const [elapsedTime, setElapsedTime] = useState(0);
 

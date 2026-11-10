@@ -37,6 +37,7 @@ interface SubjectTabsProps {
   urdu12Chapters?: ChapterMeta[];
   pakstudies12Chapters?: ChapterMeta[];
   tarjuma12Chapters?: ChapterMeta[];
+  physics12Chapters?: ChapterMeta[];
 }
 
 export default function SubjectTabs({
@@ -71,9 +72,10 @@ export default function SubjectTabs({
   urdu12Chapters = [],
   pakstudies12Chapters = [],
   tarjuma12Chapters = [],
+  physics12Chapters = [],
 }: SubjectTabsProps) {
   const [activeGrade, setActiveGrade] = useState<'9' | '10' | '11' | '12'>('12');
-  const [activeGrade12Subject, setActiveGrade12Subject] = useState<'english' | 'urdu' | 'pakstudies' | 'tarjuma'>('english');
+  const [activeGrade12Subject, setActiveGrade12Subject] = useState<'physics' | 'english' | 'urdu' | 'pakstudies' | 'tarjuma'>('physics');
   const [activeGrade10Subject, setActiveGrade10Subject] = useState<'math' | 'physics' | 'chemistry' | 'cs' | 'biology' | 'english' | 'pakstudies' | 'urdu' | 'tarjuma'>('math');
   const [activeGrade9Subject, setActiveGrade9Subject] = useState<'urdu' | 'tarjuma' | 'english' | 'islamiat' | 'chemistry' | 'cs' | 'biology' | 'math' | 'physics'>('urdu');
   const [activeSubject, setActiveSubject] = useState<'physics' | 'urdu' | 'math' | 'english' | 'cs' | 'islamiat' | 'tarjuma' | 'biology' | 'chemistry'>('physics');
@@ -84,7 +86,9 @@ export default function SubjectTabs({
       const params = new URLSearchParams(window.location.search);
       if (params.get('grade') === '12') {
         setActiveGrade('12');
-        if (params.get('subject') === 'english') {
+        if (params.get('subject') === 'physics') {
+          setActiveGrade12Subject('physics');
+        } else if (params.get('subject') === 'english') {
           setActiveGrade12Subject('english');
         } else if (params.get('subject') === 'urdu') {
           setActiveGrade12Subject('urdu');
@@ -163,6 +167,7 @@ export default function SubjectTabs({
   const urdu12Total = urdu12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const pakstudies12Total = pakstudies12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const tarjuma12Total = tarjuma12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const physics12Total = physics12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const urduTotal = urduChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const mathTotal = mathChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -175,7 +180,9 @@ export default function SubjectTabs({
 
   const activeChapters =
     activeGrade === '12'
-      ? activeGrade12Subject === 'english'
+      ? activeGrade12Subject === 'physics'
+        ? physics12Chapters
+        : activeGrade12Subject === 'english'
         ? english12Chapters
         : activeGrade12Subject === 'urdu'
         ? urdu12Chapters
@@ -307,7 +314,7 @@ export default function SubjectTabs({
             >
               <Landmark className="w-4 h-4 text-amber-400" />
               <span>Class 12th (HSSC-II)</span>
-              <span className="text-[10px] opacity-75 font-mono">4 Subjects</span>
+              <span className="text-[10px] opacity-75 font-mono">5 Subjects</span>
             </button>
           </div>
         </div>
@@ -319,7 +326,9 @@ export default function SubjectTabs({
           <div>
             <h2 className="font-[family-name:var(--font-display)] text-xl sm:text-2xl font-bold tracking-tight text-[var(--color-ink)]">
               {activeGrade === '12'
-                ? activeGrade12Subject === 'english'
+                ? activeGrade12Subject === 'physics'
+                  ? 'Class 12th FBISE Physics (فزکس - HSSC-II Pre-Medical & Pre-Engineering)'
+                  : activeGrade12Subject === 'english'
                   ? 'Class 12th FBISE English Compulsory (HSSC-II)'
                   : activeGrade12Subject === 'urdu'
                   ? 'Class 12th FBISE Urdu Compulsory (اردو لازمی - HSSC-II)'
@@ -366,7 +375,9 @@ export default function SubjectTabs({
             </h2>
             <p className="text-xs text-[var(--color-muted)] mt-1">
               {activeGrade === '12'
-                ? activeGrade12Subject === 'english'
+                ? activeGrade12Subject === 'physics'
+                  ? 'All 10 National Curriculum units (Electrostatics, Current Electricity, Electromagnetism, Electromagnetic Induction, AC, Solids, Electronics, Modern Physics, Atomic Spectra, Nuclear Physics) + 10 official Section A annual board simulators (17 marks, 25-minute timer).'
+                  : activeGrade12Subject === 'english'
                   ? 'Book-II Modern Prose & Heroes, Good-bye Mr. Chips, and Advanced Syntax across 10 curriculum units + 10 official Section A annual board simulators (20 marks, 25-minute timer).'
                   : activeGrade12Subject === 'urdu'
                   ? 'حصہ نثر، حصہ منظومات، حصہ غزلیات، علم بیان و بدیع، مطابقت و رموز اوقاف اور اصناف ادب کے 8 یونٹس مع 10 سالانہ وفاقی بورڈ امتحانی ماڈل پیپرز (20 معروضی سوالات، 25 منٹ)۔'
@@ -415,6 +426,22 @@ export default function SubjectTabs({
 
           {activeGrade === '12' ? (
             <div className="flex items-center gap-2 overflow-x-auto font-[family-name:var(--font-display)] text-xs pb-1">
+              <button
+                type="button"
+                onClick={() => setActiveGrade12Subject('physics')}
+                className={`px-3.5 py-2 flex items-center gap-2 transition-all border font-bold whitespace-nowrap ${
+                  activeGrade12Subject === 'physics'
+                    ? 'bg-sky-950 text-white border-sky-950 shadow-sm'
+                    : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
+                }`}
+              >
+                <Atom className="w-4 h-4 text-sky-400" />
+                <span>Physics (فزکس)</span>
+                <span className="font-mono text-[11px] opacity-90 px-1.5 py-0.2 border border-current rounded-sm">
+                  {physics12Chapters.length} Modules · {physics12Total} Qs
+                </span>
+              </button>
+
               <button
                 type="button"
                 onClick={() => setActiveGrade12Subject('english')}
@@ -929,7 +956,9 @@ export default function SubjectTabs({
             <div>
               <span className="text-xs font-mono uppercase tracking-widest text-emerald-900 font-bold block">
                 {activeGrade === '12'
-                  ? activeGrade12Subject === 'english'
+                  ? activeGrade12Subject === 'physics'
+                    ? 'Active Subject: Class 12th Physics (HSSC-II Pre-Medical & Pre-Engineering)'
+                    : activeGrade12Subject === 'english'
                     ? 'Active Subject: Class 12th English Compulsory (HSSC-II FBISE)'
                     : activeGrade12Subject === 'urdu'
                     ? 'فعال مضمون: وفاقی تعلیمی بورڈ اردو لازمی سال دوم (FBISE Urdu Class 12)'
@@ -992,7 +1021,9 @@ export default function SubjectTabs({
               </span>
               <p className="text-xs text-[var(--color-muted)] mt-0.5">
                 {activeGrade === '12'
-                  ? activeGrade12Subject === 'english'
+                  ? activeGrade12Subject === 'physics'
+                    ? 'All 10 National Curriculum chapters (Electrostatics, Current Electricity, Electromagnetism, Electromagnetic Induction, Alternating Current, Physics of Solids, Electronics, Dawn of Modern Physics, Atomic Spectra, Nuclear Physics) + 10 official Section A annual board examination simulators (17 MCQs, 25 min) with detailed mathematical and physical reasoning.'
+                    : activeGrade12Subject === 'english'
                     ? 'All 10 curriculum units (Synthesizing/Critique, Complex Modals, Subjunctive/Conditionals, Inversion/Fronting, Rhetorical Devices, Transformational Syntax, Register & Tone, Discourse Cohesion, Idiomatic Nuances, Argumentation) + 10 official Section A annual board examination simulators (Founder Muhammad Ahmad Khan & Faculty).'
                     : activeGrade12Subject === 'urdu'
                     ? 'حصہ نثر، حصہ نظم، حصہ غزل، علم بیان، علم بدیع، عروض و تقطیع، قواعد و املا، اصناف ادب کے 8 یونٹس مع 10 سالانہ وفاقی بورڈ امتحانی سمولیٹرز (لیکچرار نرجس ظہیر مع محمد احمد خان)۔'
@@ -1060,7 +1091,9 @@ export default function SubjectTabs({
             <span>·</span>
             <span>
               {activeGrade === '12'
-                ? activeGrade12Subject === 'english'
+                ? activeGrade12Subject === 'physics'
+                  ? physics12Total
+                  : activeGrade12Subject === 'english'
                   ? english12Total
                   : activeGrade12Subject === 'urdu'
                   ? urdu12Total

@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 8,
+  "chapterTitle": "Unit 19: Dawn of Modern Physics",
+  "slug": "physics-12-chapter-8",
+  "fileName": "physics-12-chapter-8.json",
+  "totalQuestions": 35,
+  "subject": "physics-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "A reference frame in which Newton's first law of motion (law of inertia) holds true without introducing fictitious forces is called an:",
+      "options": {
+        "A": "Non-inertial reference frame",
+        "B": "Inertial reference frame",
+        "C": "Accelerating frame",
+        "D": "Rotating frame"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Inertial reference frame. An inertial frame moves with constant velocity (zero acceleration) relative to other inertial frames."
+    },
+    {
+      "id": 2,
+      "question": "The First Postulate of Einstein's Special Theory of Relativity states that:",
+      "options": {
+        "A": "Laws of physics are identical in all inertial frames of reference",
+        "B": "Speed of light depends on the observer's motion",
+        "C": "Mass remains constant at all speeds",
+        "D": "Time is absolute everywhere"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Laws of physics are identical in all inertial frames of reference. There is no preferred or absolute inertial frame in the universe."
+    },
+    {
+      "id": 3,
+      "question": "The Second Postulate of Special Relativity states that the speed of light c in free space:",
+      "options": {
+        "A": "Depends on the velocity of the source",
+        "B": "Is an absolute invariant constant (3 × 10⁸ m/s) for all inertial observers regardless of their relative motion",
+        "C": "Depends on the observer's velocity",
+        "D": "Is infinite in vacuum"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Is an absolute invariant constant (3 × 10⁸ m/s) for all inertial observers regardless of their relative motion. Light in vacuum always travels at c = 3.0 × 10⁸ m/s."
+    },
+    {
+      "id": 4,
+      "question": "According to Special Relativity, a clock moving with speed v relative to an observer runs slower by the Lorentz time dilation factor: Δt = Δt₀ / √(1 - v²/c²). Here Δt₀ is called:",
+      "options": {
+        "A": "Relativistic time",
+        "B": "Proper time",
+        "C": "Improper time",
+        "D": "Cosmic time"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Proper time. Proper time Δt₀ is the time interval measured by a clock at rest in the frame where the events occur at the same spatial position."
+    },
+    {
+      "id": 5,
+      "question": "As the speed of an object v approaches the speed of light c, its observed length L in the direction of motion:",
+      "options": {
+        "A": "Expands to infinity",
+        "B": "Contracts: L = L₀ √(1 - v²/c²)",
+        "C": "Remains unchanged",
+        "D": "Doubles"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Contracts: L = L₀ √(1 - v²/c²). Length contraction occurs only along the direction of relative motion, shortening the observed length."
+    },
+    {
+      "id": 6,
+      "question": "Einstein's mass-energy equivalence equation relating mass m to rest energy E₀ is:",
+      "options": {
+        "A": "E₀ = m c",
+        "B": "E₀ = m c²",
+        "C": "E₀ = 1/2 m c²",
+        "D": "E₀ = m / c²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) E₀ = m c². Derived in 1905, mass and energy are interconvertible: 1 kg of mass corresponds to 9 × 10¹⁶ Joules of energy."
+    },
+    {
+      "id": 7,
+      "question": "An ideal blackbody is an idealized physical object that:",
+      "options": {
+        "A": "Reflects all incident radiation",
+        "B": "Absorbs all incident electromagnetic radiation of all wavelengths completely",
+        "C": "Emits only black light",
+        "D": "Transmits all incident radiation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Absorbs all incident electromagnetic radiation of all wavelengths completely. With absorption coefficient α = 1, it is also a perfect emitter at any temperature."
+    },
+    {
+      "id": 8,
+      "question": "Wien's Displacement Law states that the wavelength λ_max corresponding to maximum radiant emittance is related to absolute temperature T by:",
+      "options": {
+        "A": "λ_max × T = constant ≈ 2.9 × 10⁻³ m K",
+        "B": "λ_max / T = constant",
+        "C": "λ_max T² = constant",
+        "D": "λ_max = constant × T⁴"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) λ_max × T = constant ≈ 2.9 × 10⁻³ m K. As temperature rises, peak radiation shifts towards shorter wavelengths (higher frequencies)."
+    },
+    {
+      "id": 9,
+      "question": "Stefan-Boltzmann Law states that total energy E radiated per second per unit area of a blackbody is proportional to:",
+      "options": {
+        "A": "T",
+        "B": "T²",
+        "C": "T⁴",
+        "D": "T⁻²"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) T⁴. E = σ T⁴, where Stefan-Boltzmann constant σ ≈ 5.67 × 10⁻⁸ W m⁻² K⁻⁴."
+    },
+    {
+      "id": 10,
+      "question": "Max Planck successfully resolved the ultraviolet catastrophe of blackbody radiation in 1900 by postulating that energy is emitted or absorbed in discrete packets called:",
+      "options": {
+        "A": "Phonons",
+        "B": "Quanta (photons) with energy E = hf",
+        "C": "Gravitons",
+        "D": "Calorics"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Quanta (photons) with energy E = hf. Planck proposed that atomic oscillators emit radiant energy in discrete quanta of magnitude E = nhf."
+    },
+    {
+      "id": 11,
+      "question": "The value of Planck's constant h in SI units is approximately:",
+      "options": {
+        "A": "6.626 × 10⁻³⁴ J s",
+        "B": "1.055 × 10⁻³⁴ J s",
+        "C": "8.85 × 10⁻¹² J s",
+        "D": "1.6 × 10⁻¹⁹ J s"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 6.626 × 10⁻³⁴ J s. Planck's quantum of action h ≈ 6.626 × 10⁻³⁴ J·s."
+    },
+    {
+      "id": 12,
+      "question": "The photoelectric effect refers to the emission of electrons from a metal surface when irradiated with electromagnetic radiation of frequency greater than:",
+      "options": {
+        "A": "Threshold frequency f₀",
+        "B": "Critical frequency f_c",
+        "C": "Infrared frequency",
+        "D": "Zero frequency"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Threshold frequency f₀. Below threshold frequency f₀, no photoelectrons are emitted regardless of radiation intensity."
+    },
+    {
+      "id": 13,
+      "question": "Einstein explained the photoelectric effect (1905) using the photoelectric equation: K_max = hf - Φ. The term Φ = hf₀ is called:",
+      "options": {
+        "A": "Stopping potential",
+        "B": "Work function of the metal",
+        "C": "Ionization potential",
+        "D": "Fermi energy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Work function of the metal. Work function Φ is the minimum energy required to liberate an electron from the metal surface."
+    },
+    {
+      "id": 14,
+      "question": "In the photoelectric effect, the maximum kinetic energy K_max of photoelectrons depends on:",
+      "options": {
+        "A": "Frequency of incident light",
+        "B": "Intensity of incident light",
+        "C": "Distance of the light source",
+        "D": "Time of exposure"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Frequency of incident light. Classical wave theory failed because K_max is determined entirely by incident photon frequency (K_max = hf - Φ) and is independent of intensity."
+    },
+    {
+      "id": 15,
+      "question": "The number of photoelectrons emitted per second (photocurrent) is directly proportional to:",
+      "options": {
+        "A": "Frequency of incident light",
+        "B": "Intensity of incident light",
+        "C": "Work function",
+        "D": "Stopping potential"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Intensity of incident light. Greater intensity means more photons striking the surface per unit time, ejecting more photoelectrons."
+    },
+    {
+      "id": 16,
+      "question": "Stopping potential V₀ required to halt the fastest photoelectrons is related to K_max by:",
+      "options": {
+        "A": "K_max = e V₀",
+        "B": "K_max = V₀ / e",
+        "C": "K_max = e / V₀",
+        "D": "K_max = 1/2 e V₀²"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) K_max = e V₀. Work done by the retarding potential eV₀ completely arrests electrons with maximum kinetic energy: K_max = eV₀."
+    },
+    {
+      "id": 17,
+      "question": "The Compton Effect (1923) refers to the increase in wavelength of high-energy X-rays or gamma-ray photons when scattered by:",
+      "options": {
+        "A": "Free or loosely bound electrons",
+        "B": "Heavy atomic nuclei",
+        "C": "Dielectric crystals",
+        "D": "Positrons"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Free or loosely bound electrons. Arthur Compton treated the collision between an X-ray photon and an electron as an elastic collision, providing definitive proof of particle nature of light."
+    },
+    {
+      "id": 18,
+      "question": "The Compton shift in wavelength Δλ = λ' - λ is given by:",
+      "options": {
+        "A": "Δλ = [ h / (m₀ c) ] (1 - cosθ)",
+        "B": "Δλ = [ h / (m₀ c) ] (1 + cosθ)",
+        "C": "Δλ = [ h / (m₀ c) ] sinθ",
+        "D": "Δλ = [ m₀ c / h ] (1 - cosθ)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Δλ = [ h / (m₀ c) ] (1 - cosθ). The wavelength shift depends only on the scattering angle θ, not on the target material."
+    },
+    {
+      "id": 19,
+      "question": "The Compton wavelength of an electron λ_c = h / (m₀ c) has an exact numerical value of:",
+      "options": {
+        "A": "2.43 × 10⁻¹² m (0.0243 Å)",
+        "B": "5.29 × 10⁻¹¹ m",
+        "C": "1.05 × 10⁻¹⁰ m",
+        "D": "6.63 × 10⁻³⁴ m"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 2.43 × 10⁻¹² m (0.0243 Å). λ_c = (6.626 × 10⁻³⁴) / (9.109 × 10⁻³¹ × 3 × 10⁸) = 2.426 × 10⁻¹² m."
+    },
+    {
+      "id": 20,
+      "question": "Compton shift Δλ is maximum when the scattering angle θ is:",
+      "options": {
+        "A": "0°",
+        "B": "90°",
+        "C": "180° (backscattering)",
+        "D": "45°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) 180° (backscattering). At θ = 180°, cos 180° = -1, so 1 - cosθ = 2, yielding maximum shift Δλ_max = 2 λ_c = 4.86 × 10⁻¹² m."
+    },
+    {
+      "id": 21,
+      "question": "Pair production refers to the creation of an electron-positron pair from a high-energy photon in the strong field of a nucleus. The minimum photon threshold energy required is:",
+      "options": {
+        "A": "0.51 MeV",
+        "B": "1.02 MeV",
+        "C": "2.04 MeV",
+        "D": "13.6 eV"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 1.02 MeV. Rest mass energy of one electron or positron is m₀c² = 0.511 MeV. Creating both requires minimum photon energy hf_min = 2 m₀c² ≈ 1.02 MeV."
+    },
+    {
+      "id": 22,
+      "question": "The reverse of pair production, in which an electron and a positron collide and annihilate each other into two gamma-ray photons, is called:",
+      "options": {
+        "A": "Compton scattering",
+        "B": "Annihilation of matter",
+        "C": "Photoelectric effect",
+        "D": "Bremsstrahlung"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Annihilation of matter. An electron and positron annihilate into two 0.51 MeV gamma photons traveling in opposite directions to conserve energy and linear momentum."
+    },
+    {
+      "id": 23,
+      "question": "Louis de Broglie (1924) proposed that moving particles possess wave properties. The de Broglie wavelength λ of a particle with momentum p = mv is:",
+      "options": {
+        "A": "λ = h / p = h / (mv)",
+        "B": "λ = p / h",
+        "C": "λ = h mv",
+        "D": "λ = h / (m² v)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) λ = h / p = h / (mv). Wave-particle duality implies every moving mass exhibits a wavelength λ = h/p."
+    },
+    {
+      "id": 24,
+      "question": "The wave nature of electrons was first experimentally confirmed in 1927 by:",
+      "options": {
+        "A": "Davisson and Germer",
+        "B": "J.J. Thomson",
+        "C": "Ernest Rutherford",
+        "D": "Albert Einstein"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Davisson and Germer. They observed diffraction peaks when an electron beam scattered off a nickel crystal lattice, directly measuring the de Broglie wavelength."
+    },
+    {
+      "id": 25,
+      "question": "An electron microscope achieves vastly superior resolving power compared to an optical microscope because:",
+      "options": {
+        "A": "Electrons travel faster than light",
+        "B": "The de Broglie wavelength of accelerated electrons is thousands of times shorter than visible light wavelengths",
+        "C": "Electrons are uncharged",
+        "D": "Electrons have infinite mass"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) The de Broglie wavelength of accelerated electrons is thousands of times shorter than visible light wavelengths. Shorter wavelength minimizes diffraction limits, allowing magnification up to 1,000,000×."
+    },
+    {
+      "id": 26,
+      "question": "Heisenberg's Uncertainty Principle states that the product of uncertainties in position (Δx) and momentum (Δp) satisfies:",
+      "options": {
+        "A": "Δx · Δp ≥ h / (4π) or ħ / 2",
+        "B": "Δx · Δp = 0",
+        "C": "Δx · Δp ≤ h",
+        "D": "Δx / Δp ≥ h"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Δx · Δp ≥ h / (4π) or ħ / 2. Simultaneous precise determination of conjugate dynamical variables (like position and momentum) is fundamentally impossible."
+    },
+    {
+      "id": 27,
+      "question": "Heisenberg's Uncertainty Principle for energy and time is given by:",
+      "options": {
+        "A": "ΔE · Δt ≥ h / (4π)",
+        "B": "ΔE · Δt = 0",
+        "C": "ΔE / Δt ≥ h",
+        "D": "ΔE · Δt ≤ h"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) ΔE · Δt ≥ h / (4π). An excited state with lifetime Δt has an inherent line width (energy uncertainty) ΔE ≈ ħ / (2Δt)."
+    },
+    {
+      "id": 28,
+      "question": "The momentum p of a photon of frequency f and wavelength λ is:",
+      "options": {
+        "A": "p = h / λ = hf / c",
+        "B": "p = h λ",
+        "C": "p = c / (hλ)",
+        "D": "p = E c"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) p = h / λ = hf / c. Even though a photon has zero rest mass, it carries momentum p = E/c = h/λ."
+    },
+    {
+      "id": 29,
+      "question": "The rest mass of a photon is:",
+      "options": {
+        "A": "Zero",
+        "B": "9.1 × 10⁻³¹ kg",
+        "C": "1.67 × 10⁻²⁷ kg",
+        "D": "Infinite"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Zero. Photons exist only in motion at speed c in vacuum; their rest mass m₀ is identically zero."
+    },
+    {
+      "id": 30,
+      "question": "The relativistic total energy E of a particle of rest mass m₀ and momentum p is:",
+      "options": {
+        "A": "E² = (p c)² + (m₀ c²)²",
+        "B": "E = p c + m₀ c²",
+        "C": "E = p² / (2m₀)",
+        "D": "E = m₀ c²"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) E² = (p c)² + (m₀ c²)². This relativistic dispersion relation applies to all particles, reducing to E = pc for photons (m₀ = 0) and E = m₀c² for stationary particles (p = 0)."
+    },
+    {
+      "id": 31,
+      "question": "The kinetic energy of an electron accelerated through potential difference V is K = eV. Its de Broglie wavelength is:",
+      "options": {
+        "A": "λ = h / √(2m eV)",
+        "B": "λ = h √(2m eV)",
+        "C": "λ = 2m eV / h",
+        "D": "λ = h / (eV)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) λ = h / √(2m eV). Since p = √(2m K) = √(2m eV), de Broglie wavelength is λ = h / √(2m eV) ≈ 1.227 / √V nm."
+    },
+    {
+      "id": 32,
+      "question": "Which experiment proves the particle nature of radiation beyond doubt?",
+      "options": {
+        "A": "Compton Effect and Photoelectric Effect",
+        "B": "Young's Double Slit Experiment",
+        "C": "Diffraction from a grating",
+        "D": "Polarization by reflection"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Compton Effect and Photoelectric Effect. Both effects require localized packet-like photon collisions that classical wave theory cannot explain."
+    },
+    {
+      "id": 33,
+      "question": "Which phenomenon demonstrates the wave nature of light?",
+      "options": {
+        "A": "Interference, Diffraction, and Polarization",
+        "B": "Photoelectric effect",
+        "C": "Pair production",
+        "D": "Compton scattering"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Interference, Diffraction, and Polarization. These optical phenomena rely fundamentally on wave superposition and phase coherence."
+    },
+    {
+      "id": 34,
+      "question": "If an electron and a proton have the same kinetic energy, which one has a longer de Broglie wavelength?",
+      "options": {
+        "A": "Electron",
+        "B": "Proton",
+        "C": "Both have identical wavelengths",
+        "D": "Neither has a wave nature"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Electron. Since λ = h / √(2m K), for identical K, wavelength is inversely proportional to √m. Because m_e << m_p, the electron has a significantly longer de Broglie wavelength."
+    },
+    {
+      "id": 35,
+      "question": "The transmission electron microscope (TEM) and scanning electron microscope (SEM) are applications of:",
+      "options": {
+        "A": "De Broglie's wave hypothesis for matter waves",
+        "B": "Special theory of relativity alone",
+        "C": "Faraday's law of induction",
+        "D": "Bohr's correspondence principle"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) De Broglie's wave hypothesis for matter waves. Utilizing high-speed electron matter waves with sub-nanometer wavelengths enables resolving atomic-scale lattice details."
+    }
+  ]
+}

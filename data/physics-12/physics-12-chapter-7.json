@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 7,
+  "chapterTitle": "Unit 18: Electronics",
+  "slug": "physics-12-chapter-7",
+  "fileName": "physics-12-chapter-7.json",
+  "totalQuestions": 35,
+  "subject": "physics-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "An intrinsic semiconductor is doped with a pentavalent impurity (phosphorus, arsenic, antimony) to produce an:",
+      "options": {
+        "A": "p-type semiconductor with electrons as majority carriers",
+        "B": "n-type semiconductor with electrons as majority carriers",
+        "C": "n-type semiconductor with holes as majority carriers",
+        "D": "Insulator"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) n-type semiconductor with electrons as majority carriers. Pentavalent donor atoms donate extra free conduction electrons, making electrons the majority carriers."
+    },
+    {
+      "id": 2,
+      "question": "An intrinsic semiconductor is doped with a trivalent impurity (boron, aluminum, gallium, indium) to produce a:",
+      "options": {
+        "A": "p-type semiconductor with holes as majority carriers",
+        "B": "n-type semiconductor with holes as majority carriers",
+        "C": "p-type semiconductor with electrons as majority carriers",
+        "D": "Superconductor"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) p-type semiconductor with holes as majority carriers. Trivalent acceptor atoms create vacancies (holes) in the valence band, making holes the majority carriers."
+    },
+    {
+      "id": 3,
+      "question": "At the junction of a p-n crystal, diffusion of majority carriers across the interface creates a region devoid of free mobile carriers called the:",
+      "options": {
+        "A": "Depletion region",
+        "B": "Conduction band",
+        "C": "Inversion layer",
+        "D": "Neutral zone"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Depletion region. Free electrons and holes recombine near the junction, leaving uncompensated positive and negative donor/acceptor ions that form the depletion layer."
+    },
+    {
+      "id": 4,
+      "question": "The potential barrier (junction barrier voltage) of a silicon p-n diode at room temperature is approximately:",
+      "options": {
+        "A": "0.3 V",
+        "B": "0.7 V",
+        "C": "1.1 V",
+        "D": "5.0 V"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 0.7 V. For silicon p-n diodes, the internal contact potential barrier is ~0.7 V (compared to ~0.3 V for germanium)."
+    },
+    {
+      "id": 5,
+      "question": "A p-n junction is said to be forward biased when:",
+      "options": {
+        "A": "p-side is connected to positive terminal and n-side to negative terminal of battery",
+        "B": "p-side is connected to negative terminal and n-side to positive terminal",
+        "C": "Both sides are grounded",
+        "D": "Only n-side is connected to battery"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) p-side is connected to positive terminal and n-side to negative terminal of battery. Forward bias lowers the potential barrier and narrows the depletion region, enabling large current flow."
+    },
+    {
+      "id": 6,
+      "question": "When a p-n junction is reverse biased, the width of the depletion region:",
+      "options": {
+        "A": "Decreases",
+        "B": "Increases",
+        "C": "Becomes zero",
+        "D": "Remains unchanged"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Increases. Reverse bias pulls majority carriers away from the junction, widening the depletion region and creating a high resistance barrier."
+    },
+    {
+      "id": 7,
+      "question": "The tiny reverse leakage current in a reverse-biased p-n junction is carried by:",
+      "options": {
+        "A": "Majority carriers",
+        "B": "Thermally generated minority carriers",
+        "C": "Positrons",
+        "D": "Photons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Thermally generated minority carriers. Thermally generated electrons in p-type and holes in n-type drift across the junction, producing a tiny reverse saturation current (~μA or nA)."
+    },
+    {
+      "id": 8,
+      "question": "The process of converting alternating current (AC) into pulsating direct current (DC) is called:",
+      "options": {
+        "A": "Amplification",
+        "B": "Rectification",
+        "C": "Modulation",
+        "D": "Oscillation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Rectification. Diodes conduct current in one direction only, rectifying bidirectional AC into unidirectional DC."
+    },
+    {
+      "id": 9,
+      "question": "A half-wave rectifier uses how many diodes?",
+      "options": {
+        "A": "One diode",
+        "B": "Two diodes",
+        "C": "Four diodes",
+        "D": "Six diodes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) One diode. A single diode conducts during positive half cycles and blocks negative half cycles, yielding half-wave rectification with 40.6% maximum theoretical efficiency."
+    },
+    {
+      "id": 10,
+      "question": "A bridge full-wave rectifier uses:",
+      "options": {
+        "A": "Two diodes with a center-tapped transformer",
+        "B": "Four diodes in a bridge arrangement",
+        "C": "One diode and one transistor",
+        "D": "Three diodes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Four diodes in a bridge arrangement. A bridge rectifier uses 4 diodes that conduct in pairs on alternating half-cycles, achieving full-wave rectification without a center-tapped transformer."
+    },
+    {
+      "id": 11,
+      "question": "The output ripple frequency of a full-wave rectifier connected to a 50 Hz AC supply is:",
+      "options": {
+        "A": "25 Hz",
+        "B": "50 Hz",
+        "C": "100 Hz",
+        "D": "200 Hz"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) 100 Hz. Since both half-cycles are rectified into positive pulses, ripple frequency is double the input AC frequency: f_out = 2 × 50 Hz = 100 Hz."
+    },
+    {
+      "id": 12,
+      "question": "A Light Emitting Diode (LED) emits visible photons when it is operated in:",
+      "options": {
+        "A": "Reverse bias",
+        "B": "Forward bias",
+        "C": "Breakdown region",
+        "D": "Zero bias"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Forward bias. Under forward bias, majority electrons and holes cross the junction and recombine, releasing energy as photons (electroluminescence) in direct bandgap materials like GaAsP."
+    },
+    {
+      "id": 13,
+      "question": "A photodiode is always operated in:",
+      "options": {
+        "A": "Forward bias",
+        "B": "Reverse bias",
+        "C": "Zero bias only",
+        "D": "AC mode"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Reverse bias. In reverse bias, incident photons generate electron-hole pairs in the depletion region, increasing reverse current proportionally with light intensity."
+    },
+    {
+      "id": 14,
+      "question": "A solar cell (photovoltaic cell) generates electrical voltage through:",
+      "options": {
+        "A": "External battery supply",
+        "B": "Photovoltaic effect at an unbiased p-n junction under illumination",
+        "C": "Thermoelectric Seebeck effect",
+        "D": "Electrochemical ionization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Photovoltaic effect at an unbiased p-n junction under illumination. Light creates electron-hole pairs that are separated by the junction's built-in electric field, producing a usable DC terminal voltage."
+    },
+    {
+      "id": 15,
+      "question": "A junction transistor consists of three doped regions called:",
+      "options": {
+        "A": "Anode, Cathode, Gate",
+        "B": "Emitter, Base, Collector",
+        "C": "Source, Drain, Channel",
+        "D": "Input, Ground, Output"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Emitter, Base, Collector. The emitter emits charge carriers, the thin base controls transmission, and the collector collects carriers."
+    },
+    {
+      "id": 16,
+      "question": "In a Bipolar Junction Transistor (BJT), the central Base region is designed to be:",
+      "options": {
+        "A": "Heavily doped and very thick",
+        "B": "Very thin (~10⁻⁶ m) and lightly doped",
+        "C": "Moderately doped and widest",
+        "D": "Made of metallic conductor"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Very thin (~10⁻⁶ m) and lightly doped. A thin, lightly doped base ensures fewer than 1%–5% of carriers recombine in the base, allowing >95% to cross into the collector."
+    },
+    {
+      "id": 17,
+      "question": "For a transistor to operate as an active linear amplifier, its junctions must be biased such that:",
+      "options": {
+        "A": "Emitter-base junction is forward biased and collector-base junction is reverse biased",
+        "B": "Both junctions are forward biased (saturation)",
+        "C": "Both junctions are reverse biased (cutoff)",
+        "D": "Emitter-base is reverse biased and collector-base is forward biased"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Emitter-base junction is forward biased and collector-base junction is reverse biased. Forward bias injects carriers into base, and reverse-biased collector sweeps them across."
+    },
+    {
+      "id": 18,
+      "question": "In any BJT configuration, the fundamental relationship between terminal currents is:",
+      "options": {
+        "A": "I_E = I_B + I_C",
+        "B": "I_B = I_E + I_C",
+        "C": "I_C = I_E + I_B",
+        "D": "I_E = I_B × I_C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) I_E = I_B + I_C. By Kirchhoff's Current Law, all current leaving the emitter divides into a tiny base current I_B and a large collector current I_C."
+    },
+    {
+      "id": 19,
+      "question": "Common-emitter current gain β (or h_fe) is defined as the ratio of:",
+      "options": {
+        "A": "β = I_C / I_B",
+        "B": "β = I_B / I_C",
+        "C": "β = I_C / I_E",
+        "D": "β = I_E / I_B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) β = I_C / I_B. The current amplification factor β typically ranges from 50 to 300 in standard small-signal transistors."
+    },
+    {
+      "id": 20,
+      "question": "In a common-emitter (CE) transistor amplifier, the phase difference between input signal voltage and output collector voltage is:",
+      "options": {
+        "A": "0° (in phase)",
+        "B": "180° (out of phase / phase reversal)",
+        "C": "90°",
+        "D": "270°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 180° (out of phase / phase reversal). As input base voltage rises, collector current increases, causing a greater potential drop across load resistor R_C and driving output V_out = V_CC - I_C R_C downwards."
+    },
+    {
+      "id": 21,
+      "question": "An ideal Operational Amplifier (Op-Amp) has an input impedance R_in of:",
+      "options": {
+        "A": "Zero",
+        "B": "Infinite (draws zero input current)",
+        "C": "1 kΩ",
+        "D": "50 Ω"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Infinite (draws zero input current). An ideal op-amp has infinite input resistance (R_in = ∞) so practically no current flows into inverting or non-inverting terminals."
+    },
+    {
+      "id": 22,
+      "question": "An ideal Operational Amplifier has an output impedance R_out of:",
+      "options": {
+        "A": "Zero",
+        "B": "Infinite",
+        "C": "1 MΩ",
+        "D": "100 Ω"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Zero. Zero output resistance allows an ideal op-amp to drive any load without loss of output terminal voltage."
+    },
+    {
+      "id": 23,
+      "question": "The open-loop voltage gain A_OL of an ideal Operational Amplifier is:",
+      "options": {
+        "A": "Zero",
+        "B": "1",
+        "C": "Infinite (~10⁵ to 10⁶ in real op-amps)",
+        "D": "Negative one"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Infinite (~10⁵ to 10⁶ in real op-amps). Because A_OL is enormous, a tiny differential input voltage (V₊ - V₋) drives the amplifier into saturation."
+    },
+    {
+      "id": 24,
+      "question": "The concept of 'Virtual Ground' in an inverting op-amp configuration implies that:",
+      "options": {
+        "A": "The inverting input is physically connected to earth ground",
+        "B": "Because non-inverting terminal is grounded and open-loop gain is infinite, the inverting terminal is virtually at 0 V",
+        "C": "The output is always zero",
+        "D": "Supply voltages are zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Because non-inverting terminal is grounded and open-loop gain is infinite, the inverting terminal is virtually at 0 V. V₊ - V₋ = V_out / A_OL ≈ 0, so if V₊ = 0, V₋ ≈ 0 V."
+    },
+    {
+      "id": 25,
+      "question": "The closed-loop voltage gain G of an inverting operational amplifier with input resistor R₁ and feedback resistor R₂ is:",
+      "options": {
+        "A": "G = - R₂ / R₁",
+        "B": "G = 1 + R₂ / R₁",
+        "C": "G = - R₁ / R₂",
+        "D": "G = R₁ + R₂"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) G = - R₂ / R₁. In an inverting op-amp with negative feedback, input current I = V_in / R₁ equals feedback current -V_out / R₂, giving G = V_out / V_in = - R₂ / R₁."
+    },
+    {
+      "id": 26,
+      "question": "The voltage gain G of a non-inverting operational amplifier with resistors R₁ and R₂ is:",
+      "options": {
+        "A": "G = 1 + R₂ / R₁",
+        "B": "G = - R₂ / R₁",
+        "C": "G = R₂ / R₁",
+        "D": "G = 1 - R₂ / R₁"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) G = 1 + R₂ / R₁. Voltage at the inverting node V₋ = V_out [R₁ / (R₁ + R₂)] matches V_in, giving gain G = V_out / V_in = 1 + R₂ / R₁."
+    },
+    {
+      "id": 27,
+      "question": "When an op-amp is operated without feedback as a comparator, the output switches to positive saturation (+V_CC) whenever:",
+      "options": {
+        "A": "V₊ > V₋",
+        "B": "V₊ < V₋",
+        "C": "V₊ = V₋",
+        "D": "Inputs are disconnected"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) V₊ > V₋. If non-inverting voltage exceeds inverting reference voltage, the massive open-loop gain immediately saturates output to +V_CC."
+    },
+    {
+      "id": 28,
+      "question": "An op-amp comparator circuit using a light-dependent resistor (LDR) to automatically turn on street lamps at dusk is called a:",
+      "options": {
+        "A": "Night switch",
+        "B": "Full-wave rectifier",
+        "C": "Bandpass filter",
+        "D": "Schmitt trigger"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Night switch. When darkness falls, LDR resistance increases, shifting the voltage divider node until the op-amp output flips high, energizing a relay for the lamps."
+    },
+    {
+      "id": 29,
+      "question": "A digital circuit that outputs HIGH (1) only when ALL its inputs are HIGH (1) is an:",
+      "options": {
+        "A": "OR gate",
+        "B": "AND gate",
+        "C": "NOT gate",
+        "D": "NOR gate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) AND gate. The Boolean equation for a 2-input AND gate is Y = A · B; output is 1 only when A=1 and B=1."
+    },
+    {
+      "id": 30,
+      "question": "The NAND gate is considered a universal logic gate because:",
+      "options": {
+        "A": "Any Boolean function (AND, OR, NOT) can be constructed exclusively using NAND gates",
+        "B": "It operates without power supply",
+        "C": "It is faster than light",
+        "D": "It has no inputs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Any Boolean function (AND, OR, NOT) can be constructed exclusively using NAND gates. Along with NOR gates, NAND gates are universal building blocks in digital computing."
+    },
+    {
+      "id": 31,
+      "question": "The output of an exclusive-OR (XOR) gate is HIGH (1) when:",
+      "options": {
+        "A": "Both inputs are identical",
+        "B": "The two inputs are different from each other (one 0 and one 1)",
+        "C": "Both inputs are 0",
+        "D": "Both inputs are 1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) The two inputs are different from each other (one 0 and one 1). The Boolean function is Y = A ⊕ B = A B̄ + Ā B."
+    },
+    {
+      "id": 32,
+      "question": "Zener diodes are specially doped p-n diodes designed to operate continuously without damage in the:",
+      "options": {
+        "A": "Forward bias conduction region",
+        "B": "Reverse breakdown region (as voltage regulators)",
+        "C": "Cut-off state",
+        "D": "Thermal runaway state"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Reverse breakdown region (as voltage regulators). In reverse breakdown, a Zener diode maintains a constant voltage V_Z across its terminals over a wide range of reverse currents."
+    },
+    {
+      "id": 33,
+      "question": "In a common-emitter amplifier with collector resistor R_C = 2 kΩ and input resistance R_in = 1 kΩ, if current gain β = 100, the voltage gain A_v is:",
+      "options": {
+        "A": "200",
+        "B": "50",
+        "C": "100",
+        "D": "20"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 200. Voltage gain A_v = β (R_C / R_in) = 100 × (2000 / 1000) = 100 × 2 = 200."
+    },
+    {
+      "id": 34,
+      "question": "The arrow on the emitter symbol of a transistor schematic indicates:",
+      "options": {
+        "A": "Direction of conventional current flow when emitter-base junction is forward biased",
+        "B": "Direction of electron flow",
+        "C": "Base terminal position",
+        "D": "Collector polarity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Direction of conventional current flow when emitter-base junction is forward biased. In an npn transistor, the arrow points outward (away from base); in a pnp transistor, it points inward."
+    },
+    {
+      "id": 35,
+      "question": "The Boolean expression Y = (A + B)̅ represents which logic gate?",
+      "options": {
+        "A": "NAND gate",
+        "B": "NOR gate",
+        "C": "XOR gate",
+        "D": "AND gate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) NOR gate. The NOR gate is an OR gate followed by an inverter, represented as Y = (A + B)̅."
+    }
+  ]
+}

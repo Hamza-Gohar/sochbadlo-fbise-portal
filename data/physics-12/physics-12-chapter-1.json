@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 1,
+  "chapterTitle": "Unit 12: Electrostatics",
+  "slug": "physics-12-chapter-1",
+  "fileName": "physics-12-chapter-1.json",
+  "totalQuestions": 35,
+  "subject": "physics-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to Coulomb's Law, the electrostatic force between two point charges is inversely proportional to:",
+      "options": {
+        "A": "Distance between them",
+        "B": "Square of distance between them",
+        "C": "Product of the charges",
+        "D": "Permittivity of free space"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Square of distance between them. Coulomb's Law states F = (1 / 4πε₀) * (q₁q₂ / r²), so force varies inversely as the square of the distance (inverse square law)."
+    },
+    {
+      "id": 2,
+      "question": "The value of Coulomb's constant k = 1 / (4πε₀) in SI units is approximately:",
+      "options": {
+        "A": "8.85 × 10⁻¹² N m² C⁻²",
+        "B": "9.0 × 10⁹ N m² C⁻²",
+        "C": "1.6 × 10⁻¹⁹ N m² C⁻²",
+        "D": "6.67 × 10⁻¹¹ N m² C⁻²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 9.0 × 10⁹ N m² C⁻². In vacuum/free space, k = 1/(4πε₀) ≈ 8.988 × 10⁹ N·m²/C²."
+    },
+    {
+      "id": 3,
+      "question": "When an insulating dielectric of relative permittivity εᵣ is placed between two charges, the electrostatic force between them:",
+      "options": {
+        "A": "Increases by εᵣ times",
+        "B": "Remains unchanged",
+        "C": "Decreases by εᵣ times",
+        "D": "Becomes zero"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Decreases by εᵣ times. In a dielectric medium, F_med = F_vac / εᵣ, where εᵣ > 1 for all dielectric materials."
+    },
+    {
+      "id": 4,
+      "question": "Electric field intensity at a distance r from a point charge q is given by:",
+      "options": {
+        "A": "E = kq / r",
+        "B": "E = kq / r²",
+        "C": "E = kq² / r",
+        "D": "E = kq² / r²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) E = kq / r². Electric field intensity is defined as force per unit test charge: E = F/q₀ = (1 / 4πε₀) * (q / r²)."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following is an SI unit of electric field intensity?",
+      "options": {
+        "A": "J C⁻¹",
+        "B": "N C⁻¹ or V m⁻¹",
+        "C": "C m⁻¹",
+        "D": "N m C⁻¹"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) N C⁻¹ or V m⁻¹. Since E = F/q, units are N/C; expressing in terms of potential gradient E = -ΔV/Δr gives V/m. 1 N/C = 1 V/m."
+    },
+    {
+      "id": 6,
+      "question": "Electric field lines always originate from:",
+      "options": {
+        "A": "Negative charges and terminate on positive charges",
+        "B": "Positive charges and terminate on negative charges",
+        "C": "Infinity and terminate at the origin",
+        "D": "Closed loops without starting or ending"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Positive charges and terminate on negative charges. Electrostatic field lines start on positive charges and end on negative charges."
+    },
+    {
+      "id": 7,
+      "question": "Electric flux through a surface of area A held perpendicular to a uniform electric field E is:",
+      "options": {
+        "A": "Zero",
+        "B": "E · A",
+        "C": "E / A",
+        "D": "A / E"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) E · A. Electric flux Φ = E · A = EA cosθ. When the surface is perpendicular to the field, the area vector is parallel (θ = 0°), giving maximum flux Φ = EA."
+    },
+    {
+      "id": 8,
+      "question": "The SI unit of electric flux is:",
+      "options": {
+        "A": "N m² C⁻¹ or V m",
+        "B": "N C⁻¹ m",
+        "C": "V m⁻¹",
+        "D": "J C⁻¹"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) N m² C⁻¹ or V m. Since Φ = EA, the unit is (N/C)·m² = N·m²/C, which is also equivalent to (V/m)·m² = V·m."
+    },
+    {
+      "id": 9,
+      "question": "According to Gauss's Law, the total electric flux through any closed surface is equal to:",
+      "options": {
+        "A": "ε₀ × Q_enclosed",
+        "B": "Q_enclosed / ε₀",
+        "C": "Q_enclosed / (4πε₀)",
+        "D": "Zero in all cases"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Q_enclosed / ε₀. Gauss's Law states that total flux through any closed surface is 1/ε₀ times the total charge enclosed within the surface: Φ = Q / ε₀."
+    },
+    {
+      "id": 10,
+      "question": "The electric field intensity inside a hollow charged spherical conductor is:",
+      "options": {
+        "A": "Maximum",
+        "B": "Infinite",
+        "C": "Zero",
+        "D": "Dependent on radius"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Zero. Since all excess charge resides on the outer surface of a conductor, a Gaussian surface inside encloses zero net charge, hence E = 0 inside (electrostatic shielding)."
+    },
+    {
+      "id": 11,
+      "question": "Electric field intensity between two oppositely charged parallel plates of infinite extent is given by:",
+      "options": {
+        "A": "σ / (2ε₀)",
+        "B": "σ / ε₀",
+        "C": "2σ / ε₀",
+        "D": "Zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) σ / ε₀. For two oppositely charged plates, the fields from each plate (σ/2ε₀) reinforce each other in the region between them: E = σ/2ε₀ + σ/2ε₀ = σ/ε₀."
+    },
+    {
+      "id": 12,
+      "question": "The electric potential V at a distance r from a point charge q is:",
+      "options": {
+        "A": "V = kq / r²",
+        "B": "V = kq / r",
+        "C": "V = kq² / r",
+        "D": "V = k / (qr)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) V = kq / r. Electric potential is the work done per unit positive charge in bringing it from infinity to point r: V = (1 / 4πε₀) * (q / r)."
+    },
+    {
+      "id": 13,
+      "question": "The negative gradient of electric potential (-ΔV / Δr) represents:",
+      "options": {
+        "A": "Electric flux",
+        "B": "Electric field intensity",
+        "C": "Capacitance",
+        "D": "Electrostatic energy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Electric field intensity. The electric field is related to potential by E = -ΔV/Δr; the negative sign indicates E points in the direction of decreasing potential."
+    },
+    {
+      "id": 14,
+      "question": "One electron-volt (1 eV) is equal to:",
+      "options": {
+        "A": "1.6 × 10⁻¹⁹ J",
+        "B": "9.1 × 10⁻³¹ J",
+        "C": "1.6 × 10⁻¹⁶ J",
+        "D": "3.0 × 10⁸ J"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 1.6 × 10⁻¹⁹ J. By definition, 1 eV = q_e × 1 V = (1.602 × 10⁻¹⁹ C) × (1 J/C) = 1.6 × 10⁻¹⁹ J."
+    },
+    {
+      "id": 15,
+      "question": "On an equipotential surface, the work done in moving a charge between any two points is:",
+      "options": {
+        "A": "Maximum",
+        "B": "Equal to qV",
+        "C": "Zero",
+        "D": "Infinite"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Zero. Since potential is identical everywhere on an equipotential surface (ΔV = 0), work done W = qΔV = 0."
+    },
+    {
+      "id": 16,
+      "question": "The capacitance C of a parallel plate capacitor in vacuum is given by:",
+      "options": {
+        "A": "C = A / (ε₀ d)",
+        "B": "C = ε₀ A / d",
+        "C": "C = ε₀ d / A",
+        "D": "C = d / (ε₀ A)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) C = ε₀ A / d. Capacitance depends directly on plate area A and inversely on separation d: C = ε₀A/d."
+    },
+    {
+      "id": 17,
+      "question": "When a dielectric slab of dielectric constant k (or εᵣ) is inserted between the plates of an isolated capacitor:",
+      "options": {
+        "A": "Capacitance increases by k times",
+        "B": "Capacitance decreases by k times",
+        "C": "Voltage increases by k times",
+        "D": "Electric field increases"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Capacitance increases by k times. Dielectric polarization weakens the internal field and lowers potential difference, boosting capacitance: C = εᵣ C₀."
+    },
+    {
+      "id": 18,
+      "question": "Energy stored in a charged capacitor of capacitance C charged to potential V is:",
+      "options": {
+        "A": "U = CV",
+        "B": "U = 1/2 C V²",
+        "C": "U = 1/2 C² V",
+        "D": "U = 2 C V²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) U = 1/2 C V². The energy stored in the electric field of a capacitor is U = (1/2)CV² = (1/2)QV = Q²/(2C)."
+    },
+    {
+      "id": 19,
+      "question": "Energy density (energy per unit volume) in an electric field E is proportional to:",
+      "options": {
+        "A": "E",
+        "B": "E²",
+        "C": "1 / E",
+        "D": "1 / E²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) E². Energy density u = (1/2) ε₀ εᵣ E², which is directly proportional to the square of the electric field intensity."
+    },
+    {
+      "id": 20,
+      "question": "In Millikan's oil drop experiment, when an oil drop of mass m and charge q is held stationary between horizontal plates, then:",
+      "options": {
+        "A": "qE = mg",
+        "B": "q = mgE",
+        "C": "E = qmg",
+        "D": "mg = q / E"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) qE = mg. For the droplet to remain stationary in balance, the upward electrostatic force F_e = qE must exactly equal the downward gravitational weight F_g = mg."
+    },
+    {
+      "id": 21,
+      "question": "If three capacitors each of capacitance 6 μF are connected in series, the equivalent capacitance is:",
+      "options": {
+        "A": "18 μF",
+        "B": "2 μF",
+        "C": "3 μF",
+        "D": "12 μF"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 2 μF. In series: 1/C_eq = 1/C₁ + 1/C₂ + 1/C₃ = 1/6 + 1/6 + 1/6 = 3/6 = 1/2, so C_eq = 2 μF."
+    },
+    {
+      "id": 22,
+      "question": "If three capacitors each of capacitance 6 μF are connected in parallel, the equivalent capacitance is:",
+      "options": {
+        "A": "2 μF",
+        "B": "18 μF",
+        "C": "6 μF",
+        "D": "36 μF"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 18 μF. In parallel: C_eq = C₁ + C₂ + C₃ = 6 + 6 + 6 = 18 μF."
+    },
+    {
+      "id": 23,
+      "question": "The time constant RC of an R-C circuit is the time required for a charging capacitor to acquire:",
+      "options": {
+        "A": "50% of its maximum charge",
+        "B": "63.2% of its maximum charge",
+        "C": "36.8% of its maximum charge",
+        "D": "100% of its maximum charge"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 63.2% of its maximum charge. Charging equation is q = q₀(1 - e^(-t/RC)). At t = RC, q = q₀(1 - 1/e) ≈ 0.632 q₀ (63.2%)."
+    },
+    {
+      "id": 24,
+      "question": "The SI unit of the product RC (resistance × capacitance) is:",
+      "options": {
+        "A": "Second (s)",
+        "B": "Ohm (Ω)",
+        "C": "Farad (F)",
+        "D": "Volt (V)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Second (s). Dimensionally: [R] = [V/I], [C] = [Q/V] = [I·t/V]. Thus [RC] = [V/I] × [I·t/V] = [t] = seconds."
+    },
+    {
+      "id": 25,
+      "question": "During discharge of a capacitor through a resistor, the charge remaining after one time constant t = RC is:",
+      "options": {
+        "A": "63.2% of initial charge",
+        "B": "36.8% of initial charge",
+        "C": "50% of initial charge",
+        "D": "Zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 36.8% of initial charge. Discharging equation is q = q₀ e^(-t/RC). At t = RC, q = q₀ / e ≈ 0.368 q₀ (36.8%)."
+    },
+    {
+      "id": 26,
+      "question": "The direction of an electric field vector E is always:",
+      "options": {
+        "A": "Tangent to the electric field line at that point",
+        "B": "Normal to the electric field line",
+        "C": "Opposite to the field line",
+        "D": "Independent of charge polarity"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Tangent to the electric field line at that point. By definition, the tangent to an electric line of force at any point gives the direction of electric field vector E at that point."
+    },
+    {
+      "id": 27,
+      "question": "Two electric field lines can never cross each other because:",
+      "options": {
+        "A": "They are always straight lines",
+        "B": "Electric field can have only one direction at any given point",
+        "C": "Charges repel each other",
+        "D": "Electric field lines are closed loops"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Electric field can have only one direction at any given point. If two lines intersected, there would be two different tangents and hence two directions of E at that point, which is physically impossible."
+    },
+    {
+      "id": 28,
+      "question": "The electric potential energy U of two point charges separated by distance r is:",
+      "options": {
+        "A": "U = k q₁ q₂ / r²",
+        "B": "U = k q₁ q₂ / r",
+        "C": "U = k q₁ / r",
+        "D": "U = k q₁ q₂ r"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) U = k q₁ q₂ / r. The electrostatic potential energy of a two-charge system is U = (1 / 4πε₀) * (q₁q₂ / r)."
+    },
+    {
+      "id": 29,
+      "question": "In a photocopying machine (Xerography), the drum is coated with a thin layer of photoconductive:",
+      "options": {
+        "A": "Silicon",
+        "B": "Selenium",
+        "C": "Germanium",
+        "D": "Copper"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Selenium. Selenium is a photoconductor that acts as an insulator in the dark and conducts in the light."
+    },
+    {
+      "id": 30,
+      "question": "In an inkjet printer, uncharged ink droplets are directed onto:",
+      "options": {
+        "A": "The gutter",
+        "B": "The paper",
+        "C": "The charging electrode",
+        "D": "The deflection plates"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) The paper. Uncharged droplets pass straight undeflected between the deflection plates and land on the paper to form print characters; charged droplets are deflected into the gutter."
+    },
+    {
+      "id": 31,
+      "question": "A charge of 5 μC is moved between two points having a potential difference of 20 V. The work done is:",
+      "options": {
+        "A": "100 μJ",
+        "B": "4 μJ",
+        "C": "0.25 μJ",
+        "D": "200 μJ"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 100 μJ. W = q × ΔV = (5 × 10⁻⁶ C) × 20 V = 100 × 10⁻⁶ J = 100 μJ."
+    },
+    {
+      "id": 32,
+      "question": "The capacitance of a spherical conductor of radius R in free space is:",
+      "options": {
+        "A": "C = 4πε₀ R",
+        "B": "C = 4πε₀ / R",
+        "C": "C = 4πε₀ R²",
+        "D": "C = R / (4πε₀)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) C = 4πε₀ R. Since V = Q / (4πε₀ R), capacitance C = Q/V = 4πε₀ R."
+    },
+    {
+      "id": 33,
+      "question": "What happens to the potential difference between capacitor plates when battery is disconnected and dielectric is inserted?",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Remains constant",
+        "D": "Becomes zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Decreases. Since the battery is disconnected, charge Q remains constant. With C = εᵣ C₀, V = Q/C = Q/(εᵣ C₀) = V₀/εᵣ, so potential difference decreases."
+    },
+    {
+      "id": 34,
+      "question": "The electric dipole moment p of a pair of equal and opposite charges +q and -q separated by displacement 2a is:",
+      "options": {
+        "A": "p = q / (2a)",
+        "B": "p = q × 2a directed from -q to +q",
+        "C": "p = q × 2a directed from +q to -q",
+        "D": "p = q² (2a)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) p = q × 2a directed from -q to +q. Electric dipole moment is defined as p = q(2a) and points conventionally from negative to positive charge."
+    },
+    {
+      "id": 35,
+      "question": "The torque τ acting on an electric dipole of moment p in a uniform electric field E is given by:",
+      "options": {
+        "A": "τ = p · E",
+        "B": "τ = p × E",
+        "C": "τ = p / E",
+        "D": "τ = E × p"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) τ = p × E. The couple acting on the charges produces torque τ = pE sinθ, which in vector form is τ = p × E."
+    }
+  ]
+}

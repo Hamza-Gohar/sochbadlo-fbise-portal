@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 6,
+  "chapterTitle": "Unit 17: Physics of Solids",
+  "slug": "physics-12-chapter-6",
+  "fileName": "physics-12-chapter-6.json",
+  "totalQuestions": 35,
+  "subject": "physics-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Solids in which atoms, ions, or molecules are arranged in a regular, repeating three-dimensional pattern throughout are called:",
+      "options": {
+        "A": "Amorphous solids",
+        "B": "Crystalline solids",
+        "C": "Polymeric solids",
+        "D": "Glasses"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Crystalline solids. Crystalline solids (e.g. NaCl, quartz, copper) have long-range order and sharp, well-defined melting points."
+    },
+    {
+      "id": 2,
+      "question": "Solids having no regular, long-range atomic arrangement and no sharp melting point (e.g. glass, rubber) are called:",
+      "options": {
+        "A": "Crystalline solids",
+        "B": "Amorphous solids",
+        "C": "Metallic solids",
+        "D": "Ionic lattices"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Amorphous solids. The word amorphous means without form; these glassy materials soften gradually over a temperature range."
+    },
+    {
+      "id": 3,
+      "question": "The smallest repeating structural unit of a crystalline space lattice is called:",
+      "options": {
+        "A": "Grain boundary",
+        "B": "Unit cell",
+        "C": "Crystal domain",
+        "D": "Atomic radius"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Unit cell. A unit cell is the fundamental geometric block which, when repeated in three dimensions, builds the entire crystal lattice."
+    },
+    {
+      "id": 4,
+      "question": "Stress σ is defined as deforming force per unit area (F/A). Its SI unit is:",
+      "options": {
+        "A": "N m",
+        "B": "N m⁻² (Pascal, Pa)",
+        "C": "N m⁻¹",
+        "D": "J m⁻²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) N m⁻² (Pascal, Pa). Since stress σ = F/A, its SI unit is Newtons per square meter (N/m²), termed Pascal (Pa)."
+    },
+    {
+      "id": 5,
+      "question": "Strain ε is defined as fractional deformation (e.g., ΔL / L). Its SI unit is:",
+      "options": {
+        "A": "Meter (m)",
+        "B": "N m⁻²",
+        "C": "Dimensionless (no units)",
+        "D": "Pascal"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Dimensionless (no units). Strain is the ratio of two identical physical quantities (ΔL/L, ΔV/V), so it is a dimensionless ratio."
+    },
+    {
+      "id": 6,
+      "question": "Hooke's Law states that within the elastic limit, stress is directly proportional to strain: σ = E × ε. The constant E is called:",
+      "options": {
+        "A": "Modulus of Elasticity",
+        "B": "Plasticity index",
+        "C": "Poisson's ratio",
+        "D": "Bulk coefficient"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Modulus of Elasticity. The ratio of stress to strain within the proportional limit is the modulus of elasticity."
+    },
+    {
+      "id": 7,
+      "question": "Young's Modulus Y relates tensile/compressive stress to linear strain: Y = (F / A) / (ΔL / L). Its SI unit is:",
+      "options": {
+        "A": "N m⁻² (Pascal)",
+        "B": "N m",
+        "C": "Dimensionless",
+        "D": "Joule"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) N m⁻² (Pascal). Because strain is dimensionless, the unit of Young's Modulus is identical to stress: N/m² or Pa."
+    },
+    {
+      "id": 8,
+      "question": "Bulk Modulus K measures resistance to change in volume under uniform hydraulic pressure: K = -ΔP / (ΔV / V). Its reciprocal (1/K) is called:",
+      "options": {
+        "A": "Rigidity modulus",
+        "B": "Compressibility",
+        "C": "Elasticity",
+        "D": "Tensile strength"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Compressibility. Compressibility is the fractional decrease in volume per unit increase in pressure, equal to 1/K."
+    },
+    {
+      "id": 9,
+      "question": "Shear Modulus (Modulus of Rigidity) G is the ratio of shear stress to shear strain (angle of shear θ): G = (F / A) / tanθ ≈ (F / A) / θ. It describes change in:",
+      "options": {
+        "A": "Length only",
+        "B": "Shape",
+        "C": "Volume only",
+        "D": "Mass"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Shape. Shear modulus characterizes a body's opposition to changes in geometric shape at constant volume."
+    },
+    {
+      "id": 10,
+      "question": "In a stress-strain graph, the maximum stress a material can withstand without permanent plastic deformation is the:",
+      "options": {
+        "A": "Proportional limit",
+        "B": "Yield point (Elastic limit)",
+        "C": "Ultimate Tensile Strength (UTS)",
+        "D": "Fracture point"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Yield point (Elastic limit). Beyond the yield point or elastic limit, the material experiences permanent plastic deformation and will not return to its original length."
+    },
+    {
+      "id": 11,
+      "question": "Materials that undergo extensive plastic deformation before fracturing (e.g. copper, lead, mild steel) are termed:",
+      "options": {
+        "A": "Brittle materials",
+        "B": "Ductile materials",
+        "C": "Amorphous polymers",
+        "D": "Glasses"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Ductile materials. Ductile substances can be drawn into wires and hammered into sheets because they have a large plastic deformation zone before rupture."
+    },
+    {
+      "id": 12,
+      "question": "Materials that break suddenly soon after reaching the elastic limit with very little or no plastic deformation (e.g. glass, cast iron) are termed:",
+      "options": {
+        "A": "Ductile materials",
+        "B": "Brittle materials",
+        "C": "Polymers",
+        "D": "Superconductors"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Brittle materials. Brittle materials fracture abruptly without warning once the elastic limit is exceeded."
+    },
+    {
+      "id": 13,
+      "question": "Strain energy stored in a deformed wire of length L, cross-sectional area A under tension F with extension l is:",
+      "options": {
+        "A": "U = 1/2 F l",
+        "B": "U = F l",
+        "C": "U = 1/2 F² l",
+        "D": "U = F / l"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) U = 1/2 F l. The area under the force-extension graph represents elastic strain energy: W = (1/2) Fl = (1/2) (YA/L) l²."
+    },
+    {
+      "id": 14,
+      "question": "According to Energy Band Theory, the highest occupied energy band completely or partially filled with valence electrons at 0 K is called the:",
+      "options": {
+        "A": "Conduction band",
+        "B": "Valence band",
+        "C": "Forbidden band",
+        "D": "Fermi level"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Valence band. The valence band contains outer shell valence electrons that bind atoms together in the lattice."
+    },
+    {
+      "id": 15,
+      "question": "The energy gap between the valence band and the conduction band where no electron energy levels can exist is called the:",
+      "options": {
+        "A": "Permitted band",
+        "B": "Forbidden energy gap (E_g)",
+        "C": "Conduction level",
+        "D": "Valence edge"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Forbidden energy gap (E_g). The forbidden band E_g represents the minimum energy required to excite an electron from valence to conduction band."
+    },
+    {
+      "id": 16,
+      "question": "In electrical conductors (metals), the valence band and conduction band:",
+      "options": {
+        "A": "Are separated by a very wide forbidden gap (> 6 eV)",
+        "B": "Overlap each other with no forbidden energy gap",
+        "C": "Are separated by exactly 1.1 eV",
+        "D": "Are both completely empty"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Overlap each other with no forbidden energy gap. In metals, band overlap allows electrons to easily move into the conduction band under any small electric field."
+    },
+    {
+      "id": 17,
+      "question": "In electrical insulators (e.g. diamond, glass), the forbidden energy gap E_g is:",
+      "options": {
+        "A": "Zero",
+        "B": "Very wide (> 5 to 6 eV)",
+        "C": "Around 0.7 eV",
+        "D": "Negative"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Very wide (> 5 to 6 eV). The enormous forbidden gap prevents thermal excitation of electrons into the conduction band at room temperature, making conductivity negligible."
+    },
+    {
+      "id": 18,
+      "question": "In intrinsic semiconductors (like silicon and germanium), the forbidden energy gap E_g at room temperature is approximately:",
+      "options": {
+        "A": "1.1 eV for Si and 0.7 eV for Ge",
+        "B": "6 eV for Si and 10 eV for Ge",
+        "C": "Zero",
+        "D": "100 eV"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 1.1 eV for Si and 0.7 eV for Ge. Moderate thermal energy at 300 K can excite some electrons across this narrow gap (~1 eV) into the conduction band."
+    },
+    {
+      "id": 19,
+      "question": "At absolute zero temperature (0 K), an intrinsic semiconductor behaves as an:",
+      "options": {
+        "A": "Ideal conductor",
+        "B": "Ideal insulator",
+        "C": "Superconductor",
+        "D": "Electromagnet"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Ideal insulator. At 0 K, thermal energy is zero; the valence band is completely full and conduction band is completely empty, so no current flows."
+    },
+    {
+      "id": 20,
+      "question": "Substances whose magnetic susceptibility is slightly negative and which are weakly repelled by magnetic poles (e.g. bismuth, copper, water) are called:",
+      "options": {
+        "A": "Ferromagnetic substances",
+        "B": "Paramagnetic substances",
+        "C": "Diamagnetic substances",
+        "D": "Ferrimagnetic materials"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Diamagnetic substances. Diamagnetism arises from paired electrons where orbital magnetic moments cancel; external fields induce opposing moments, creating weak repulsion."
+    },
+    {
+      "id": 21,
+      "question": "Substances that are weakly attracted by magnetic poles and have permanent atomic magnetic dipoles (e.g. aluminum, platinum, oxygen) are called:",
+      "options": {
+        "A": "Diamagnetic substances",
+        "B": "Paramagnetic substances",
+        "C": "Ferromagnetic substances",
+        "D": "Superconductors"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Paramagnetic substances. Paramagnetic materials have unpaired electrons with net magnetic moments that align weakly with an external magnetic field."
+    },
+    {
+      "id": 22,
+      "question": "Substances that are strongly attracted by magnetic poles and can be permanently magnetized (e.g. iron, cobalt, nickel) are called:",
+      "options": {
+        "A": "Ferromagnetic substances",
+        "B": "Diamagnetic substances",
+        "C": "Paramagnetic substances",
+        "D": "Dielectric materials"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Ferromagnetic substances. Ferromagnetic materials exhibit microscopic magnetic domains where millions of atomic dipoles align parallel due to quantum exchange interactions."
+    },
+    {
+      "id": 23,
+      "question": "The temperature above which a ferromagnetic material loses its spontaneous magnetization and becomes paramagnetic is called:",
+      "options": {
+        "A": "Transition temperature",
+        "B": "Curie temperature (T_C)",
+        "C": "Boyle temperature",
+        "D": "Inversion temperature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Curie temperature (T_C). For iron, T_C ≈ 770 °C (1043 K). Thermal agitation overcomes the exchange coupling, breaking domain alignment."
+    },
+    {
+      "id": 24,
+      "question": "In a magnetic hysteresis loop, the magnetization remaining in the material when the external magnetizing field H is reduced to zero is called:",
+      "options": {
+        "A": "Coercivity",
+        "B": "Retentivity (Remanence)",
+        "C": "Saturation magnetization",
+        "D": "Permeability"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Retentivity (Remanence). Retentivity is the residual magnetic flux density B_r left in a ferromagnet after the magnetizing field drops to zero."
+    },
+    {
+      "id": 25,
+      "question": "The reverse magnetizing field (-H_c) required to completely demagnetize a ferromagnetic substance (reduce residual flux B to zero) is called:",
+      "options": {
+        "A": "Retentivity",
+        "B": "Coercivity (Coercive force)",
+        "C": "Susceptibility",
+        "D": "Permeance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Coercivity (Coercive force). Coercivity measures the resistance of a ferromagnetic material to being demagnetized."
+    },
+    {
+      "id": 26,
+      "question": "Materials with a narrow hysteresis loop, low coercivity, and high retentivity (e.g. soft iron) are ideal for:",
+      "options": {
+        "A": "Permanent magnets",
+        "B": "Electromagnets and transformer cores",
+        "C": "Compass needles",
+        "D": "Magnetic tape memory"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Electromagnets and transformer cores. Soft magnetic materials easily magnetize and demagnetize with minimal hysteresis heat loss per AC cycle."
+    },
+    {
+      "id": 27,
+      "question": "Materials with a broad hysteresis loop and very high coercivity (e.g. Alnico, steel) are ideal for making:",
+      "options": {
+        "A": "Permanent magnets",
+        "B": "Transformer cores",
+        "C": "Choke coils",
+        "D": "Alternator stators"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Permanent magnets. Hard magnetic materials retain strong magnetization and resist demagnetization by stray fields or mechanical shocks."
+    },
+    {
+      "id": 28,
+      "question": "The total area enclosed by a magnetic hysteresis loop (B-H loop) represents the:",
+      "options": {
+        "A": "Total flux produced",
+        "B": "Energy dissipated as heat per unit volume per magnetization cycle",
+        "C": "Mechanical strength of the core",
+        "D": "Electrical conductivity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Energy dissipated as heat per unit volume per magnetization cycle. By work-energy theorem, ∮ H dB gives the hysteresis energy loss per cycle."
+    },
+    {
+      "id": 29,
+      "question": "The Meissner Effect in superconductors refers to the complete expulsion of:",
+      "options": {
+        "A": "Electric field lines",
+        "B": "Magnetic flux lines from the interior (perfect diamagnetism)",
+        "C": "Thermal phonons",
+        "D": "Conduction electrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Magnetic flux lines from the interior (perfect diamagnetism). Below critical temperature T_c, a superconductor expels all magnetic flux (B = 0 inside, χ = -1), allowing magnetic levitation."
+    },
+    {
+      "id": 30,
+      "question": "High-temperature ceramic superconductors discovered in 1986 have critical temperatures above the boiling point of:",
+      "options": {
+        "A": "Liquid helium (4.2 K)",
+        "B": "Liquid nitrogen (77 K)",
+        "C": "Water (373 K)",
+        "D": "Room temperature (300 K)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Liquid nitrogen (77 K). YBCO (Yttrium Barium Copper Oxide) superconducts at ~92 K, making cooling with cheap liquid nitrogen practical."
+    },
+    {
+      "id": 31,
+      "question": "Polymeric solids are made of long-chain molecules composed of repeating chemical structural units called:",
+      "options": {
+        "A": "Monomers",
+        "B": "Isotopes",
+        "C": "Unit cells",
+        "D": "Domains"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Monomers. Polymers (such as nylon, polythene, rubber) are formed through polymerization of small molecular units called monomers."
+    },
+    {
+      "id": 32,
+      "question": "In a crystal space lattice, the total number of Bravais lattice types possible in 3-dimensional space is:",
+      "options": {
+        "A": "7",
+        "B": "14",
+        "C": "32",
+        "D": "230"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 14. There are 7 crystal systems (cubic, tetragonal, orthorhombic, monoclinic, triclinic, trigonal, hexagonal) subdivided into exactly 14 Bravais lattices."
+    },
+    {
+      "id": 33,
+      "question": "A steel wire of length 2 m and cross-sectional area 1 mm² is stretched by 1 mm under a load of 200 N. Its Young's modulus is:",
+      "options": {
+        "A": "4 × 10¹¹ N m⁻²",
+        "B": "2 × 10¹¹ N m⁻²",
+        "C": "1 × 10¹¹ N m⁻²",
+        "D": "2 × 10⁹ N m⁻²"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 4 × 10¹¹ N m⁻². Stress σ = F/A = 200 / 10⁻⁶ = 2 × 10⁸ Pa. Strain ε = ΔL/L = 10⁻³ / 2 = 5 × 10⁻⁴. Y = σ/ε = (2 × 10⁸) / (5 × 10⁻⁴) = 4 × 10¹¹ N/m²."
+    },
+    {
+      "id": 34,
+      "question": "Liquid crystals are substances that flow like liquids while maintaining long-range molecular orientational order like crystals. They are widely used in:",
+      "options": {
+        "A": "Digital displays (LCDs)",
+        "B": "Transformer cores",
+        "C": "Electromagnets",
+        "D": "Choke coils"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Digital displays (LCDs). Liquid crystal molecules reorient in electric fields to modulate polarized light, operating wristwatches, calculators, and flat panel screens."
+    },
+    {
+      "id": 35,
+      "question": "In superconductors, electron pairs that carry supercurrent without resistance are known as:",
+      "options": {
+        "A": "Frenkel pairs",
+        "B": "Cooper pairs",
+        "C": "Schottky pairs",
+        "D": "Excitons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Cooper pairs. According to BCS theory, lattice phonon interactions bind electrons into Cooper pairs that move coherently without colliding with the lattice."
+    }
+  ]
+}

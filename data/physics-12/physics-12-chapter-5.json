@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 5,
+  "chapterTitle": "Unit 16: Alternating Current",
+  "slug": "physics-12-chapter-5",
+  "fileName": "physics-12-chapter-5.json",
+  "totalQuestions": 35,
+  "subject": "physics-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "An alternating current (AC) is one whose magnitude changes continuously with time and whose direction:",
+      "options": {
+        "A": "Remains strictly constant",
+        "B": "Reverses periodically",
+        "C": "Varies randomly",
+        "D": "Flows only in one wire"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Reverses periodically. By definition, AC voltage/current reverses polarity/direction periodically at a fixed frequency f."
+    },
+    {
+      "id": 2,
+      "question": "The standard frequency of AC mains supply in Pakistan is:",
+      "options": {
+        "A": "60 Hz",
+        "B": "50 Hz",
+        "C": "100 Hz",
+        "D": "120 Hz"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 50 Hz. In Pakistan (and the UK/Europe), public electricity distribution operates at 220 V RMS and 50 Hz (50 cycles per second)."
+    },
+    {
+      "id": 3,
+      "question": "The relationship between peak value V₀ and root mean square (RMS) value V_rms of a sinusoidal AC voltage is:",
+      "options": {
+        "A": "V_rms = V₀ / √2 ≈ 0.707 V₀",
+        "B": "V_rms = √2 V₀ ≈ 1.414 V₀",
+        "C": "V_rms = V₀ / 2",
+        "D": "V_rms = 2 V₀ / π"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) V_rms = V₀ / √2 ≈ 0.707 V₀. RMS value is the effective DC equivalent heating value, equal to V₀ / √2 = 0.707 V₀."
+    },
+    {
+      "id": 4,
+      "question": "If an AC voltmeter reads 220 V for domestic mains, the peak voltage V₀ is approximately:",
+      "options": {
+        "A": "220 V",
+        "B": "311 V",
+        "C": "155 V",
+        "D": "440 V"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 311 V. V₀ = √2 × V_rms = 1.414 × 220 V ≈ 311.13 V."
+    },
+    {
+      "id": 5,
+      "question": "In a purely resistive AC circuit, current and voltage are:",
+      "options": {
+        "A": "In phase (phase difference = 0°)",
+        "B": "Out of phase by 90° (voltage leads)",
+        "C": "Out of phase by 90° (current leads)",
+        "D": "In opposite phase (180°)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) In phase (phase difference = 0°). In an ideal pure resistor, current and voltage attain peak, zero, and minimum values simultaneously."
+    },
+    {
+      "id": 6,
+      "question": "In a purely capacitive AC circuit, the phase relationship between current and voltage is:",
+      "options": {
+        "A": "Voltage leads current by 90°",
+        "B": "Current leads voltage by 90° (π/2 radians)",
+        "C": "Current and voltage are in phase",
+        "D": "Current lags voltage by 180°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Current leads voltage by 90° (π/2 radians). Charging current flows onto plates before potential builds across them, so current leads voltage by 90°."
+    },
+    {
+      "id": 7,
+      "question": "The capacitive reactance X_C of a capacitor of capacitance C at frequency f is given by:",
+      "options": {
+        "A": "X_C = 2π f C",
+        "B": "X_C = 1 / (2π f C)",
+        "C": "X_C = 2π f / C",
+        "D": "X_C = C / (2π f)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) X_C = 1 / (2π f C). Capacitive reactance opposes AC current and varies inversely with frequency and capacitance."
+    },
+    {
+      "id": 8,
+      "question": "What happens to the capacitive reactance X_C as AC frequency f approaches zero (DC)?",
+      "options": {
+        "A": "Becomes zero",
+        "B": "Becomes infinitely large (blocks DC)",
+        "C": "Remains constant",
+        "D": "Becomes negative"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Becomes infinitely large (blocks DC). For DC, f = 0, so X_C = 1/(2π·0·C) = ∞. Thus, a capacitor completely blocks direct current."
+    },
+    {
+      "id": 9,
+      "question": "In a purely inductive AC circuit, the phase relationship between current and voltage is:",
+      "options": {
+        "A": "Voltage leads current by 90° (current lags by 90°)",
+        "B": "Current leads voltage by 90°",
+        "C": "Voltage and current are in phase",
+        "D": "Phase difference is 45°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Voltage leads current by 90° (current lags by 90°). Back EMF in the inductor opposes current growth, causing current to lag behind voltage by 90°."
+    },
+    {
+      "id": 10,
+      "question": "The inductive reactance X_L of an inductor of self-inductance L at frequency f is:",
+      "options": {
+        "A": "X_L = 2π f L",
+        "B": "X_L = 1 / (2π f L)",
+        "C": "X_L = 2π / (f L)",
+        "D": "X_L = L / (2π f)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) X_L = 2π f L. Inductive reactance is directly proportional to both AC frequency and inductance."
+    },
+    {
+      "id": 11,
+      "question": "What is the inductive reactance X_L of an inductor in a steady DC circuit (f = 0)?",
+      "options": {
+        "A": "Zero",
+        "B": "Infinite",
+        "C": "100 Ω",
+        "D": "Depends on L"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Zero. For DC (f = 0), X_L = 2π(0)L = 0. An ideal inductor offers zero reactance to direct current."
+    },
+    {
+      "id": 12,
+      "question": "The total effective opposition offered by an AC circuit containing resistance, capacitance, and/or inductance is called:",
+      "options": {
+        "A": "Reactance",
+        "B": "Impedance (Z)",
+        "C": "Admittance",
+        "D": "Reluctance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Impedance (Z). Impedance Z = V_rms / I_rms combines both resistive and reactive oppositions and is measured in Ohms (Ω)."
+    },
+    {
+      "id": 13,
+      "question": "The impedance Z of a series R-C circuit is given by:",
+      "options": {
+        "A": "Z = √(R² + X_C²)",
+        "B": "Z = R + X_C",
+        "C": "Z = √(R² - X_C²)",
+        "D": "Z = R / X_C"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Z = √(R² + X_C²). Since resistance and capacitive reactance voltages are in quadrature (90° apart), Z = √(R² + X_C²)."
+    },
+    {
+      "id": 14,
+      "question": "The impedance Z of a series R-L circuit is given by:",
+      "options": {
+        "A": "Z = √(R² + X_L²)",
+        "B": "Z = R + X_L",
+        "C": "Z = R - X_L",
+        "D": "Z = √(R² - X_L²)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Z = √(R² + X_L²). Using phasor addition of V_R and V_L at 90°, Z = √(R² + X_L²)."
+    },
+    {
+      "id": 15,
+      "question": "The impedance Z of a series R-L-C circuit is given by:",
+      "options": {
+        "A": "Z = √[ R² + (X_L - X_C)² ]",
+        "B": "Z = R + X_L + X_C",
+        "C": "Z = √[ R² + X_L² + X_C² ]",
+        "D": "Z = √[ R² - (X_L + X_C)² ]"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Z = √[ R² + (X_L - X_C)² ]. Inductive reactance X_L leads by 90° and capacitive reactance X_C lags by 90°, so their net reactive opposition is (X_L - X_C)."
+    },
+    {
+      "id": 16,
+      "question": "In a series R-L-C circuit, resonance occurs when:",
+      "options": {
+        "A": "X_L = X_C",
+        "B": "X_L = R",
+        "C": "X_C = R",
+        "D": "X_L + X_C = R"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) X_L = X_C. At resonance, inductive and capacitive reactances cancel completely: X_L - X_C = 0, leaving pure resistance Z = R."
+    },
+    {
+      "id": 17,
+      "question": "The resonant frequency f_r of a series R-L-C circuit is given by:",
+      "options": {
+        "A": "f_r = 1 / [ 2π √(LC) ]",
+        "B": "f_r = 2π √(LC)",
+        "C": "f_r = 1 / (2π LC)",
+        "D": "f_r = √(LC) / (2π)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) f_r = 1 / [ 2π √(LC) ]. Setting 2π f L = 1 / (2π f C) yields f² = 1 / (4π² LC) => f_r = 1 / [ 2π √(LC) ]."
+    },
+    {
+      "id": 18,
+      "question": "At resonance in a series R-L-C circuit, the impedance Z is:",
+      "options": {
+        "A": "Maximum and current is minimum",
+        "B": "Minimum (Z = R) and current is maximum",
+        "C": "Infinite",
+        "D": "Zero"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Minimum (Z = R) and current is maximum. Reactances cancel, so impedance reaches its minimum value Z = R, making current I_0 = V/R a maximum."
+    },
+    {
+      "id": 19,
+      "question": "In an AC circuit, average power dissipation is given by P = V_rms I_rms cosθ. The factor cosθ is called:",
+      "options": {
+        "A": "Form factor",
+        "B": "Power factor",
+        "C": "Quality factor",
+        "D": "Resonant factor"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Power factor. cosθ is the power factor, where θ is the phase angle between voltage and current. cosθ = R/Z."
+    },
+    {
+      "id": 20,
+      "question": "The power factor of a purely inductive or purely capacitive circuit (θ = 90°) is:",
+      "options": {
+        "A": "1",
+        "B": "0",
+        "C": "0.5",
+        "D": "-1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 0. Since phase angle θ = 90°, cos 90° = 0. Therefore, no net real power is dissipated (wattless current)."
+    },
+    {
+      "id": 21,
+      "question": "The power factor of a purely resistive circuit or a series R-L-C circuit at resonance is:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "0.707",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 1. At resonance or in a pure resistor, θ = 0°, so power factor cos 0° = 1 (unity), maximizing real power transfer."
+    },
+    {
+      "id": 22,
+      "question": "In a parallel resonant circuit (tank circuit) consisting of L and C in parallel, at resonance the impedance is:",
+      "options": {
+        "A": "Minimum",
+        "B": "Maximum (rejection circuit)",
+        "C": "Zero",
+        "D": "Negative"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Maximum (rejection circuit). In a parallel L-C circuit, branch currents cancel at resonance, making total line current minimum and impedance maximum (acceptor/rejector circuit)."
+    },
+    {
+      "id": 23,
+      "question": "A choke coil used in fluorescent tube lights is an inductor with:",
+      "options": {
+        "A": "High resistance and low inductance",
+        "B": "High inductance and low resistance",
+        "C": "Zero inductance",
+        "D": "Negative inductance"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) High inductance and low resistance. A choke controls AC current effectively via reactance X_L = ωL while minimizing energy dissipation as heat (I²R ≈ 0)."
+    },
+    {
+      "id": 24,
+      "question": "Electromagnetic waves predicted by James Clerk Maxwell are transverse waves consisting of mutually perpendicular E and B fields propagating at speed:",
+      "options": {
+        "A": "c = 3 × 10⁸ m s⁻¹ in vacuum",
+        "B": "332 m s⁻¹",
+        "C": "Infinite speed",
+        "D": "1000 km s⁻¹"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) c = 3 × 10⁸ m s⁻¹ in vacuum. Maxwell proved EM waves travel at c = 1 / √(μ₀ ε₀) ≈ 3.0 × 10⁸ m/s."
+    },
+    {
+      "id": 25,
+      "question": "Electromagnetic waves were first experimentally generated and detected in 1887 by:",
+      "options": {
+        "A": "Heinrich Hertz",
+        "B": "Michael Faraday",
+        "C": "Thomas Edison",
+        "D": "Guglielmo Marconi"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Heinrich Hertz. Hertz used a spark-gap oscillator to generate and detect radio frequency electromagnetic waves, validating Maxwell's electromagnetic theory."
+    },
+    {
+      "id": 26,
+      "question": "The speed of electromagnetic waves in a vacuum is given by the relation:",
+      "options": {
+        "A": "c = √(μ₀ ε₀)",
+        "B": "c = 1 / √(μ₀ ε₀)",
+        "C": "c = μ₀ / ε₀",
+        "D": "c = ε₀ / μ₀"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) c = 1 / √(μ₀ ε₀). Substituting μ₀ = 4π × 10⁻⁷ and ε₀ = 8.85 × 10⁻¹² yields c = 2.998 × 10⁸ m/s."
+    },
+    {
+      "id": 27,
+      "question": "In an electromagnetic wave propagating along the +x axis, if the electric field E vibrates along the y-axis, the magnetic field B vibrates along:",
+      "options": {
+        "A": "x-axis",
+        "B": "z-axis",
+        "C": "y-axis",
+        "D": "-x axis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) z-axis. Direction of wave propagation is given by E × B (Poynting vector). If wave travels in +x and E is along +y (j), B must be along +z (k) because j × k = i."
+    },
+    {
+      "id": 28,
+      "question": "Which of the following is NOT an electromagnetic wave?",
+      "options": {
+        "A": "X-rays",
+        "B": "Sound waves",
+        "C": "Gamma rays",
+        "D": "Microwaves"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Sound waves. Sound waves are mechanical longitudinal waves requiring a material medium; X-rays, gamma rays, and microwaves are electromagnetic waves."
+    },
+    {
+      "id": 29,
+      "question": "The ratio of peak voltage to peak current in an AC circuit represents:",
+      "options": {
+        "A": "Impedance Z",
+        "B": "Admittance Y",
+        "C": "Conductance G",
+        "D": "Susceptance B"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Impedance Z. Z = V₀ / I₀ = V_rms / I_rms."
+    },
+    {
+      "id": 30,
+      "question": "If an AC source of 100 V RMS is applied across a 50 Ω resistor, the average power dissipated is:",
+      "options": {
+        "A": "200 W",
+        "B": "100 W",
+        "C": "50 W",
+        "D": "400 W"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 200 W. P = V_rms² / R = 100² / 50 = 10000 / 50 = 200 W."
+    },
+    {
+      "id": 31,
+      "question": "In a series R-L circuit, the phase angle θ by which voltage leads current is:",
+      "options": {
+        "A": "θ = tan⁻¹(X_L / R)",
+        "B": "θ = tan⁻¹(R / X_L)",
+        "C": "θ = sin⁻¹(X_L / R)",
+        "D": "θ = cos⁻¹(X_L / R)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) θ = tan⁻¹(X_L / R). From the impedance triangle, tanθ = opposite / adjacent = X_L / R."
+    },
+    {
+      "id": 32,
+      "question": "In a series R-C circuit, the phase angle θ by which voltage lags behind current is:",
+      "options": {
+        "A": "θ = tan⁻¹(X_C / R)",
+        "B": "θ = tan⁻¹(R / X_C)",
+        "C": "θ = cos⁻¹(X_C / R)",
+        "D": "θ = zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) θ = tan⁻¹(X_C / R). From the R-C impedance phasor triangle, tanθ = X_C / R."
+    },
+    {
+      "id": 33,
+      "question": "Modulation is the process of combining a low-frequency information signal with a:",
+      "options": {
+        "A": "High-frequency radio carrier wave",
+        "B": "Low-frequency sound wave",
+        "C": "Direct current voltage",
+        "D": "Magnetic flux"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) High-frequency radio carrier wave. To transmit audio signals efficiently across vast distances via compact antennas, audio is modulated onto a high-frequency carrier."
+    },
+    {
+      "id": 34,
+      "question": "In Amplitude Modulation (AM), which parameter of the carrier wave is varied in accordance with the modulating audio signal?",
+      "options": {
+        "A": "Amplitude",
+        "B": "Frequency",
+        "C": "Phase",
+        "D": "Speed"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Amplitude. In AM, the amplitude of the carrier wave varies proportionally with the modulating audio signal, while carrier frequency and phase remain constant."
+    },
+    {
+      "id": 35,
+      "question": "In Frequency Modulation (FM), compared to AM, the transmission is:",
+      "options": {
+        "A": "Much less susceptible to electrical noise and static interference",
+        "B": "More noisy",
+        "C": "Slower than light",
+        "D": "Limited to DC"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Much less susceptible to electrical noise and static interference. Most natural and man-made electrical noise modulates amplitude; because FM receivers clip amplitude variations, FM sound is high-fidelity and noise-free."
+    }
+  ]
+}

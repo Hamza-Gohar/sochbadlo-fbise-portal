@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 9,
+  "chapterTitle": "Unit 20: Atomic Spectra",
+  "slug": "physics-12-chapter-9",
+  "fileName": "physics-12-chapter-9.json",
+  "totalQuestions": 35,
+  "subject": "physics-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "When atomic gases (like hydrogen) are excited by an electric discharge at low pressure, the light emitted forms a:",
+      "options": {
+        "A": "Continuous spectrum",
+        "B": "Line emission spectrum",
+        "C": "Band absorption spectrum",
+        "D": "Blackbody spectrum"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Line emission spectrum. Isolated atoms emit distinct sharp characteristic spectral lines corresponding to transitions between quantized energy levels."
+    },
+    {
+      "id": 2,
+      "question": "The spectral series of hydrogen atom lying entirely in the Ultraviolet (UV) region is the:",
+      "options": {
+        "A": "Lyman series",
+        "B": "Balmer series",
+        "C": "Paschen series",
+        "D": "Brackett series"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Lyman series. The Lyman series involves transitions down to the ground state (n = 1) from higher levels (n = 2, 3, 4...), emitting high-energy UV photons."
+    },
+    {
+      "id": 3,
+      "question": "The only spectral series of hydrogen that lies in the Visible region of the electromagnetic spectrum is the:",
+      "options": {
+        "A": "Lyman series",
+        "B": "Balmer series",
+        "C": "Paschen series",
+        "D": "Pfund series"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Balmer series. Transitions terminating at n = 2 produce visible spectral lines (H-α red, H-β blue-green, H-γ blue, H-δ violet)."
+    },
+    {
+      "id": 4,
+      "question": "The Paschen, Brackett, and Pfund series of atomic hydrogen all lie in which region of the spectrum?",
+      "options": {
+        "A": "Ultraviolet",
+        "B": "Visible",
+        "C": "Infrared (IR)",
+        "D": "X-ray region"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Infrared (IR). Transitions terminating at n = 3 (Paschen), n = 4 (Brackett), and n = 5 (Pfund) have smaller energy differences and fall in the infrared spectrum."
+    },
+    {
+      "id": 5,
+      "question": "Bohr's First Postulate states that electrons in an atom revolve around the nucleus only in:",
+      "options": {
+        "A": "Any arbitrary radius",
+        "B": "Non-radiating stationary orbits without losing energy",
+        "C": "Continuously decaying spiral orbits",
+        "D": "Linear paths"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) Non-radiating stationary orbits without losing energy. Bohr resolved classical electrodynamic collapse by postulating stable stationary orbits where radiation does not occur."
+    },
+    {
+      "id": 6,
+      "question": "Bohr's Second Postulate (quantization of angular momentum) states that an electron can orbit only where orbital angular momentum L equals:",
+      "options": {
+        "A": "L = m v r = n h / (2π) = n ħ",
+        "B": "L = n h",
+        "C": "L = h / (2π n)",
+        "D": "L = 2π n / h"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) L = m v r = n h / (2π) = n ħ. Angular momentum is quantized in integer multiples of h/(2π), where n = 1, 2, 3... is the principal quantum number."
+    },
+    {
+      "id": 7,
+      "question": "Bohr's Third Postulate states that a photon is emitted or absorbed when an electron jumps between energy levels E_i and E_f, with frequency:",
+      "options": {
+        "A": "h f = E_i - E_f",
+        "B": "h f = E_i + E_f",
+        "C": "f = h (E_i - E_f)",
+        "D": "f = E_i E_f / h"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) h f = E_i - E_f. Photon energy exactly equals the energy difference between initial and final quantum states."
+    },
+    {
+      "id": 8,
+      "question": "The radius r_n of the n-th Bohr orbit in hydrogen atom is proportional to:",
+      "options": {
+        "A": "n",
+        "B": "n²",
+        "C": "1 / n",
+        "D": "1 / n²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) n². r_n = n² r₁, where r₁ ≈ 0.529 Å (0.053 nm) is the Bohr radius of the ground state."
+    },
+    {
+      "id": 9,
+      "question": "The radius of the first Bohr orbit (n = 1) of hydrogen (the Bohr radius r₁) is approximately:",
+      "options": {
+        "A": "0.529 × 10⁻¹⁰ m (0.053 nm)",
+        "B": "1.06 × 10⁻¹⁰ m",
+        "C": "2.12 × 10⁻¹⁰ m",
+        "D": "1.6 × 10⁻¹⁹ m"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 0.529 × 10⁻¹⁰ m (0.053 nm). r₁ = ε₀ h² / (π m e²) ≈ 0.529 Å."
+    },
+    {
+      "id": 10,
+      "question": "The total energy E_n of an electron in the n-th Bohr orbit of hydrogen is related to ground state energy E₁ by:",
+      "options": {
+        "A": "E_n = E₁ / n²",
+        "B": "E_n = n² E₁",
+        "C": "E_n = E₁ / n",
+        "D": "E_n = n E₁"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) E_n = E₁ / n². Total energy is inversely proportional to n², with E_n = -13.6 eV / n²."
+    },
+    {
+      "id": 11,
+      "question": "The ground state energy of an electron in atomic hydrogen (n = 1) is:",
+      "options": {
+        "A": "-13.6 eV",
+        "B": "-3.4 eV",
+        "C": "-1.51 eV",
+        "D": "0 eV"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) -13.6 eV. E₁ = -13.6 eV. The negative sign denotes that the electron is bound to the positive nucleus."
+    },
+    {
+      "id": 12,
+      "question": "The ionization energy required to completely remove an electron from the ground state of hydrogen to infinity is:",
+      "options": {
+        "A": "13.6 eV",
+        "B": "3.4 eV",
+        "C": "10.2 eV",
+        "D": "0.85 eV"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 13.6 eV. E_ionize = E_∞ - E₁ = 0 - (-13.6 eV) = +13.6 eV."
+    },
+    {
+      "id": 13,
+      "question": "The energy required to excite an electron from ground state (n = 1) to the first excited state (n = 2) in hydrogen is:",
+      "options": {
+        "A": "10.2 eV",
+        "B": "13.6 eV",
+        "C": "3.4 eV",
+        "D": "1.51 eV"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 10.2 eV. ΔE = E₂ - E₁ = (-3.4 eV) - (-13.6 eV) = 10.2 eV."
+    },
+    {
+      "id": 14,
+      "question": "The Rydberg constant R_H in the wavenumber equation ν̄ = 1/λ = R_H (1/p² - 1/n²) has the approximate value:",
+      "options": {
+        "A": "1.0974 × 10⁷ m⁻¹",
+        "B": "6.63 × 10⁻³⁴ m⁻¹",
+        "C": "3 × 10⁸ m⁻¹",
+        "D": "8.85 × 10⁻¹² m⁻¹"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 1.0974 × 10⁷ m⁻¹. Experimentally determined by Johannes Rydberg and derived theoretically by Bohr: R_H = m e⁴ / (8 ε₀² c h³) ≈ 1.097 × 10⁷ m⁻¹."
+    },
+    {
+      "id": 15,
+      "question": "De Broglie explained Bohr's quantization of angular momentum by showing that stationary orbits correspond to:",
+      "options": {
+        "A": "Electron standing waves fitting an integer number of wavelengths into the circumference: 2π r = n λ",
+        "B": "Circular paths of constant radius",
+        "C": "Planetary Keplerian orbits",
+        "D": "Zero velocity states"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Electron standing waves fitting an integer number of wavelengths into the circumference: 2π r = n λ. Substituting λ = h/(mv) yields 2πr = n(h/mv) => mvr = nh/(2π), reproducing Bohr's postulate."
+    },
+    {
+      "id": 16,
+      "question": "X-rays are high-frequency, short-wavelength electromagnetic waves discovered in 1895 by:",
+      "options": {
+        "A": "Wilhelm Roentgen",
+        "B": "Niels Bohr",
+        "C": "Marie Curie",
+        "D": "Henri Becquerel"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Wilhelm Roentgen. Roentgen discovered X-rays emitted when energetic cathode rays strike a heavy metal target."
+    },
+    {
+      "id": 17,
+      "question": "Continuous X-rays (Bremsstrahlung) are produced when energetic electrons:",
+      "options": {
+        "A": "Slow down rapidly (decelerate) in the strong electric field of target nuclei",
+        "B": "Eject inner shell K-electrons",
+        "C": "Are absorbed by neutrons",
+        "D": "Undergo pair annihilation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Slow down rapidly (decelerate) in the strong electric field of target nuclei. Bremsstrahlung ('braking radiation') produces a continuous spectrum with minimum wavelength λ_min = hc / (eV)."
+    },
+    {
+      "id": 18,
+      "question": "The cutoff minimum wavelength λ_min of continuous X-rays produced under accelerating voltage V is:",
+      "options": {
+        "A": "λ_min = h c / (e V)",
+        "B": "λ_min = e V / (h c)",
+        "C": "λ_min = h V / (e c)",
+        "D": "λ_min = c / (e V)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) λ_min = h c / (e V). When all kinetic energy eV of an incident electron converts into a single photon, hc / λ_min = eV, giving λ_min = hc / (eV)."
+    },
+    {
+      "id": 19,
+      "question": "Characteristic X-rays appear as sharp intensity peaks superimposed on the continuous spectrum when an incident electron:",
+      "options": {
+        "A": "Knocks out an inner shell (K or L) electron, and an outer electron falls into the vacancy",
+        "B": "Bounces off the nucleus elastically",
+        "C": "Interacts with free conduction electrons",
+        "D": "Is absorbed by a proton"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Knocks out an inner shell (K or L) electron, and an outer electron falls into the vacancy. Downward transitions (L→K for K_α, M→K for K_β) emit sharp X-rays characteristic of the target element."
+    },
+    {
+      "id": 20,
+      "question": "A K_α characteristic X-ray photon is emitted during an electronic transition from:",
+      "options": {
+        "A": "L-shell (n = 2) to K-shell (n = 1)",
+        "B": "M-shell (n = 3) to K-shell (n = 1)",
+        "C": "K-shell to L-shell",
+        "D": "Conduction band to valence band"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) L-shell (n = 2) to K-shell (n = 1). Transitions from n = 2 to n = 1 yield K_α X-rays, while transitions from n = 3 to n = 1 yield K_β X-rays."
+    },
+    {
+      "id": 21,
+      "question": "Moseley's Law states that the square root of the frequency (√f) of characteristic X-rays is proportional to:",
+      "options": {
+        "A": "Atomic number Z of the target element",
+        "B": "Atomic mass A",
+        "C": "Melting temperature",
+        "D": "Target thickness"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Atomic number Z of the target element. Henry Moseley proved √f = a(Z - b), establishing atomic number Z as the true fundamental periodic property of chemical elements."
+    },
+    {
+      "id": 22,
+      "question": "Computerized Axial Tomography (CAT scan) uses:",
+      "options": {
+        "A": "Thin X-ray beams rotating around the patient to generate cross-sectional 3D slices",
+        "B": "Ultrasound sound echoes",
+        "C": "Radioactive tracers only",
+        "D": "Microwaves"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Thin X-ray beams rotating around the patient to generate cross-sectional 3D slices. Detectors record X-ray absorption from multiple angles, processed by computer algorithms into high-resolution internal slices."
+    },
+    {
+      "id": 23,
+      "question": "The acronym LASER stands for:",
+      "options": {
+        "A": "Light Amplification by Stimulated Emission of Radiation",
+        "B": "Light Acceleration by Spontaneous Emission of Radiation",
+        "C": "Low Amplitude Sound Energy Resonance",
+        "D": "Light Absorption by Stimulated Energy Reflection"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Light Amplification by Stimulated Emission of Radiation. Coined by Gordon Gould in 1957 based on Einstein's 1917 prediction of stimulated emission."
+    },
+    {
+      "id": 24,
+      "question": "In laser physics, 'Population Inversion' refers to the non-equilibrium condition in which:",
+      "options": {
+        "A": "More atoms occupy an excited metastable state than the ground state",
+        "B": "All atoms are in the ground state",
+        "C": "Atoms lose their electrons",
+        "D": "Temperature reaches absolute zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) More atoms occupy an excited metastable state than the ground state. Under normal thermal equilibrium, N₁ > N₂; population inversion (N₂ > N₁) is essential for stimulated emission to exceed absorption."
+    },
+    {
+      "id": 25,
+      "question": "A metastable state in an atom has an average lifetime of approximately:",
+      "options": {
+        "A": "10⁻³ s (a million times longer than ordinary 10⁻⁸ s excited states)",
+        "B": "10⁻⁸ s",
+        "C": "10⁻¹⁵ s",
+        "D": "One hour"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 10⁻³ s (a million times longer than ordinary 10⁻⁸ s excited states). The longer lifetime allows atoms to accumulate in the metastable state, enabling population inversion."
+    },
+    {
+      "id": 26,
+      "question": "In stimulated emission, an incident triggering photon causes an excited atom to emit a second photon that is:",
+      "options": {
+        "A": "Identical in frequency, phase, direction, and polarization (coherent)",
+        "B": "Emitted in a random direction with different frequency",
+        "C": "Absorbed immediately",
+        "D": "Out of phase by 180°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Identical in frequency, phase, direction, and polarization (coherent). This exact phase matching produces the coherent, monochromatic, directional laser beam."
+    },
+    {
+      "id": 27,
+      "question": "In a Helium-Neon (He-Ne) laser, the active lasing medium that emits the characteristic red 632.8 nm light is:",
+      "options": {
+        "A": "Neon atoms",
+        "B": "Helium atoms",
+        "C": "The glass discharge tube",
+        "D": "The cathode electrode"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Neon atoms. Helium atoms are excited by electron impact collisions and transfer energy via resonant collisions to neon atoms, which undergo stimulated emission at 632.8 nm."
+    },
+    {
+      "id": 28,
+      "question": "The ratio of Helium to Neon gas in a standard commercial He-Ne laser is approximately:",
+      "options": {
+        "A": "10 : 1",
+        "B": "1 : 10",
+        "C": "1 : 1",
+        "D": "100 : 1"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 10 : 1. The gas mixture contains roughly 85%–90% Helium and 10%–15% Neon (ratio ~10:1) to optimize collisional excitation transfer."
+    },
+    {
+      "id": 29,
+      "question": "Which of the following is NOT a property of laser light?",
+      "options": {
+        "A": "Monochromaticity (single wavelength)",
+        "B": "High coherence (waves in phase)",
+        "C": "Extreme divergence in all directions",
+        "D": "High intensity and directional collimation"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) Extreme divergence in all directions. Laser light exhibits very low divergence, remaining a tight, parallel, collimated beam over vast distances."
+    },
+    {
+      "id": 30,
+      "question": "Holography is the technique of recording and reconstructing full 3D optical images using:",
+      "options": {
+        "A": "Coherent laser light and interference patterns",
+        "B": "Ordinary white light lenses",
+        "C": "X-ray shadows",
+        "D": "Incoherent flash lamps"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Coherent laser light and interference patterns. Invented by Dennis Gabor, a hologram records interference between a reference laser beam and object beam, preserving phase and depth."
+    },
+    {
+      "id": 31,
+      "question": "The shortest wavelength limit of the Lyman series in hydrogen occurs when an electron transitions from n = ∞ to n = 1, and equals:",
+      "options": {
+        "A": "91.2 nm",
+        "B": "364.6 nm",
+        "C": "121.6 nm",
+        "D": "656.3 nm"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 91.2 nm. 1/λ = R_H (1/1² - 1/∞) = R_H => λ = 1 / (1.097 × 10⁷ m⁻¹) ≈ 9.117 × 10⁻⁸ m = 91.2 nm."
+    },
+    {
+      "id": 32,
+      "question": "The longest wavelength in the Balmer series (H-α line) corresponds to the transition from:",
+      "options": {
+        "A": "n = 3 to n = 2",
+        "B": "n = ∞ to n = 2",
+        "C": "n = 2 to n = 1",
+        "D": "n = 4 to n = 2"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) n = 3 to n = 2. Smallest energy difference yields longest wavelength: 1/λ = R_H(1/4 - 1/9) = 5/36 R_H => λ ≈ 656.3 nm (prominent red line)."
+    },
+    {
+      "id": 33,
+      "question": "Optical pumping in a Ruby laser is achieved by using:",
+      "options": {
+        "A": "A helical xenon flash tube",
+        "B": "An electric discharge in gas",
+        "C": "Chemical reactions",
+        "D": "Radioactive decay"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) A helical xenon flash tube. Intense flashes from a xenon discharge lamp pump chromium ions from ground state into wide pump bands, creating population inversion."
+    },
+    {
+      "id": 34,
+      "question": "Laser applications in eye surgery for photocoagulation of detached retinas rely on the fact that laser beams:",
+      "options": {
+        "A": "Can be focused sharply to micro-spots to weld tissue without damaging surrounding areas",
+        "B": "Have ionizing radioactive power",
+        "C": "Emit cool sound waves",
+        "D": "Pass through without any absorption"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Can be focused sharply to micro-spots to weld tissue without damaging surrounding areas. High spatial coherence permits focusing to spot diameters comparable to optical wavelengths."
+    },
+    {
+      "id": 35,
+      "question": "The energy of an X-ray photon with wavelength λ = 0.1 nm (10⁻¹⁰ m) is approximately:",
+      "options": {
+        "A": "12.4 keV",
+        "B": "1.24 eV",
+        "C": "124 eV",
+        "D": "1.24 MeV"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 12.4 keV. E = hc / λ = (6.626 × 10⁻³⁴ × 3 × 10⁸) / 10⁻¹⁰ = 1.988 × 10⁻¹⁵ J. In eV: (1.988 × 10⁻¹⁵) / (1.602 × 10⁻¹⁹) ≈ 12,400 eV = 12.4 keV."
+    }
+  ]
+}

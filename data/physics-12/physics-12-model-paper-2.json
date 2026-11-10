@@ -1,0 +1,215 @@
+{
+  "chapterNumber": 12,
+  "chapterTitle": "FBISE Section A Annual Board Simulator 02",
+  "slug": "physics-12-model-paper-2",
+  "fileName": "physics-12-model-paper-2.json",
+  "totalQuestions": 17,
+  "subject": "physics-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In FBISE Model Exam 2, two equal point charges separated by distance r repel with force F. If the distance between them is halved (r' = r/2), the new electrostatic force is:",
+      "options": {
+        "A": "F / 2",
+        "B": "2 F",
+        "C": "4 F",
+        "D": "F / 4"
+      },
+      "correctAnswer": "C",
+      "explanation": "Correct Answer: (C) 4 F. According to Coulomb's Law F ∝ 1/r². When r is halved, F' = F / (1/2)² = 4F."
+    },
+    {
+      "id": 2,
+      "question": "A parallel plate capacitor with air has capacitance C₀. When a dielectric of relative permittivity εᵣ = 5 is inserted, its new capacitance is:",
+      "options": {
+        "A": "C₀ / 5",
+        "B": "5 C₀",
+        "C": "C₀ + 5",
+        "D": "25 C₀"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 5 C₀. The capacitance with dielectric medium is C = εᵣ C₀ = 5 C₀."
+    },
+    {
+      "id": 3,
+      "question": "A copper wire of resistance 10 Ω is cut into two equal halves, which are then connected in parallel. The equivalent resistance is:",
+      "options": {
+        "A": "2.5 Ω",
+        "B": "5 Ω",
+        "C": "10 Ω",
+        "D": "20 Ω"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 2.5 Ω. Each half has resistance R₁ = R₂ = 5 Ω. In parallel, R_eq = (5 × 5)/(5 + 5) = 25/10 = 2.5 Ω."
+    },
+    {
+      "id": 4,
+      "question": "In a potentiometer experiment, a cell of EMF 1.5 V is balanced against 60 cm of wire. A second cell balances against 80 cm. The EMF of the second cell is:",
+      "options": {
+        "A": "2.0 V",
+        "B": "1.125 V",
+        "C": "3.0 V",
+        "D": "1.8 V"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 2.0 V. Since E₁ / E₂ = l₁ / l₂, E₂ = E₁ × (l₂ / l₁) = 1.5 V × (80 / 60) = 1.5 × 4/3 = 2.0 V."
+    },
+    {
+      "id": 5,
+      "question": "An electron moving with velocity v along the positive x-axis enters a magnetic field directed along the positive y-axis. The magnetic force on it is directed along:",
+      "options": {
+        "A": "+z axis",
+        "B": "-z axis",
+        "C": "+x axis",
+        "D": "-y axis"
+      },
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) -z axis. Vector force F = -e (v × B). Here v = v î and B = B ĵ; î × ĵ = k̂ (+z direction). Since electron charge is negative (-e), F points in -k̂ (-z axis)."
+    },
+    {
+      "id": 6,
+      "question": "To convert a moving coil galvanometer of internal resistance R_g into an ammeter of range n times its initial full-scale current (I = n I_g), the required shunt resistance R_s is:",
+      "options": {
+        "A": "R_g / (n - 1)",
+        "B": "R_g / (n + 1)",
+        "C": "(n - 1) R_g",
+        "D": "n R_g"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) R_g / (n - 1). R_s = (I_g R_g) / (I - I_g) = (I_g R_g) / (n I_g - I_g) = R_g / (n - 1)."
+    },
+    {
+      "id": 7,
+      "question": "A conducting rod of length 0.5 m moves at 4 m/s perpendicular to a uniform magnetic field of 0.2 T. The induced motional EMF is:",
+      "options": {
+        "A": "0.4 V",
+        "B": "0.1 V",
+        "C": "0.8 V",
+        "D": "2.0 V"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 0.4 V. ε = vBL sin 90° = 4 m/s × 0.2 T × 0.5 m = 0.4 V."
+    },
+    {
+      "id": 8,
+      "question": "An ideal transformer has 200 primary turns and 50 secondary turns. If the input power is 100 W at 220 V, the output electrical power is:",
+      "options": {
+        "A": "100 W",
+        "B": "25 W",
+        "C": "400 W",
+        "D": "50 W"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 100 W. For an ideal transformer (100% efficiency), output power exactly equals input power (P_out = P_in = 100 W)."
+    },
+    {
+      "id": 9,
+      "question": "When the frequency of an AC circuit is doubled, the inductive reactance X_L and capacitive reactance X_C become:",
+      "options": {
+        "A": "X_L is doubled and X_C is halved",
+        "B": "X_L is halved and X_C is doubled",
+        "C": "Both are doubled",
+        "D": "Both remain unchanged"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) X_L is doubled and X_C is halved. Because X_L = 2π f L (directly proportional) and X_C = 1 / (2π f C) (inversely proportional)."
+    },
+    {
+      "id": 10,
+      "question": "In a series R-L-C AC circuit at resonance, the phase angle between total voltage and current is:",
+      "options": {
+        "A": "0°",
+        "B": "90°",
+        "C": "180°",
+        "D": "45°"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 0°. At resonance, reactances cancel (X_L = X_C), making the circuit purely resistive with phase angle θ = 0° and unity power factor (cos 0° = 1)."
+    },
+    {
+      "id": 11,
+      "question": "The ratio of tensile stress to tensile strain is known as:",
+      "options": {
+        "A": "Young's Modulus",
+        "B": "Bulk Modulus",
+        "C": "Shear Modulus",
+        "D": "Poisson's Ratio"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Young's Modulus. Y = (F / A) / (ΔL / L), characterizing elastic stiffness under uniaxial tension or compression."
+    },
+    {
+      "id": 12,
+      "question": "According to energy band theory, substances with a completely filled valence band, an empty conduction band, and a forbidden gap of ~1.1 eV are:",
+      "options": {
+        "A": "Semiconductors",
+        "B": "Good conductors",
+        "C": "Insulators",
+        "D": "Superconductors"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Semiconductors. Silicon has a forbidden gap of ~1.1 eV, while insulators have gaps > 5 eV."
+    },
+    {
+      "id": 13,
+      "question": "A semiconductor diode is used in circuits as a:",
+      "options": {
+        "A": "One-way electrical valve (rectifier)",
+        "B": "Amplifier of current",
+        "C": "Generator of AC",
+        "D": "Transformer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) One-way electrical valve (rectifier). Diodes conduct heavily under forward bias and block current under reverse bias."
+    },
+    {
+      "id": 14,
+      "question": "In an inverting operational amplifier with input resistor R₁ = 10 kΩ and feedback resistor R₂ = 100 kΩ, the closed-loop voltage gain is:",
+      "options": {
+        "A": "-10",
+        "B": "+10",
+        "C": "-11",
+        "D": "+100"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) -10. Inverting voltage gain G = - R₂ / R₁ = - 100 kΩ / 10 kΩ = -10."
+    },
+    {
+      "id": 15,
+      "question": "The work function of a metal is 2.0 eV. If light of photon energy 3.5 eV shines on it, the maximum kinetic energy of emitted photoelectrons is:",
+      "options": {
+        "A": "1.5 eV",
+        "B": "5.5 eV",
+        "C": "2.0 eV",
+        "D": "0.75 eV"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 1.5 eV. By Einstein's photoelectric equation: K_max = hf - Φ = 3.5 eV - 2.0 eV = 1.5 eV."
+    },
+    {
+      "id": 16,
+      "question": "In a hydrogen atom, the transition from n = 3 to n = 2 produces a photon belonging to which spectral series?",
+      "options": {
+        "A": "Balmer series (H-α red visible line)",
+        "B": "Lyman series",
+        "C": "Paschen series",
+        "D": "Pfund series"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) Balmer series (H-α red visible line). Any electronic transition ending at n = 2 belongs to the Balmer series."
+    },
+    {
+      "id": 17,
+      "question": "In FBISE Model Exam 2, after radioactive decay of 2 half-lives, the fraction of original radioactive nuclei remaining undecayed is:",
+      "options": {
+        "A": "1 / 4 (25%)",
+        "B": "1 / 2 (50%)",
+        "C": "1 / 8 (12.5%)",
+        "D": "3 / 4 (75%)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 1 / 4 (25%). Fraction remaining = (1/2)ⁿ. For n = 2 half-lives: N / N₀ = (1/2)² = 1/4 = 25%."
+    }
+  ]
+}

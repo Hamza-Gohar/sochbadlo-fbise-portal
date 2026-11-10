@@ -83,12 +83,13 @@ export default function Footer() {
               Class 12th (HSSC-II)
             </h4>
             <ul className="text-xs space-y-1.5 text-[var(--color-muted)] font-[family-name:var(--font-display)]">
+              <li className="font-semibold text-sky-900">Physics (10 Units + 10 Simulators)</li>
               <li className="font-semibold text-purple-900">English Compulsory (10 Units + 10 Simulators)</li>
               <li className="font-semibold text-emerald-900">اردو لازمی (8 Units + 10 Simulators)</li>
               <li className="font-semibold text-emerald-950">Pakistan Studies (7 Units + 10 Simulators)</li>
               <li className="font-semibold text-teal-900">ترجمۃ القرآن (7 Units + 10 Simulators)</li>
-              <li className="pt-1 text-[11px]">• Rhetoric, Syntax, Foreign Policy & Quran</li>
-              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 40 Board Simulators (1,720 MCQs)</li>
+              <li className="pt-1 text-[11px]">• Electromagnetism, Modern Physics, Syntax & Quran</li>
+              <li className="pt-1 font-semibold text-[var(--color-ink)]">• 50 Board Simulators (2,240 MCQs)</li>
             </ul>
           </div>
 
