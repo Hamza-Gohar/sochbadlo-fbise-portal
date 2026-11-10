@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 10,
+  "chapterTitle": "Chapter 10: Alkyl Halides and Organometallic Compounds",
+  "title": "Chapter 10: Alkyl Halides and Organometallic Compounds",
+  "slug": "chemistry-12-chapter-10",
+  "totalQuestions": 35,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The reactivity of alkyl halides toward nucleophilic substitution reactions follows the order:",
+      "options": {
+        "A": "R-F > R-Cl > R-Br > R-I",
+        "B": "R-I > R-Br > R-Cl > R-F",
+        "C": "R-Cl > R-Br > R-I > R-F",
+        "D": "R-Br > R-I > R-Cl > R-F"
+      },
+      "correctAnswer": "B",
+      "explanation": "C-I bond has the lowest bond dissociation energy (238 kJ/mol) and iodide is the best leaving group due to large size and low basicity."
+    },
+    {
+      "id": 2,
+      "question": "An S_N2 (Substitution Nucleophilic Bimolecular) reaction proceeds through:",
+      "options": {
+        "A": "A two-step mechanism involving a carbocation intermediate",
+        "B": "A single-step concerted mechanism involving a pentacoordinate transition state with complete inversion of configuration (Walden inversion)",
+        "C": "A free radical pathway",
+        "D": "An elimination-addition benzyne pathway"
+      },
+      "correctAnswer": "B",
+      "explanation": "In S_N2, the incoming nucleophile attacks the carbon from the backside opposite to the leaving group in a single concerted step, flipping stereochemistry."
+    },
+    {
+      "id": 3,
+      "question": "The rate law for an S_N1 (Substitution Nucleophilic Unimolecular) reaction is:",
+      "options": {
+        "A": "Rate = k [Alkyl Halide] [Nucleophile]",
+        "B": "Rate = k [Alkyl Halide]",
+        "C": "Rate = k [Nucleophile]",
+        "D": "Rate = k [Alkyl Halide]²"
+      },
+      "correctAnswer": "B",
+      "explanation": "The rate-determining step is the unimolecular ionization of the alkyl halide into a carbocation; nucleophile concentration does not affect the rate."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following alkyl halides undergoes nucleophilic substitution primarily via an S_N1 mechanism?",
+      "options": {
+        "A": "Methyl chloride (CH₃Cl)",
+        "B": "Ethyl chloride (CH₃CH₂Cl)",
+        "C": "tert-Butyl chloride [(CH₃)₃C-Cl]",
+        "D": "n-Propyl chloride"
+      },
+      "correctAnswer": "C",
+      "explanation": "(CH₃)₃C-Cl is sterically hindered for backside S_N2 attack but ionizes readily to form an exceptionally stable 3° carbocation [(CH₃)₃C⁺]."
+    },
+    {
+      "id": 5,
+      "question": "When an optically active chiral alkyl halide undergoes an S_N1 reaction, the product stereochemistry typically shows:",
+      "options": {
+        "A": "100% retention of configuration",
+        "B": "100% inversion of configuration",
+        "C": "Partial or complete racemization with slight net inversion",
+        "D": "Formation of meso compound"
+      },
+      "correctAnswer": "C",
+      "explanation": "The intermediate carbocation is planar (sp²); the nucleophile can attack from either face with roughly equal probability, resulting in racemization."
+    },
+    {
+      "id": 6,
+      "question": "Which solvent best accelerates an S_N2 reaction by solvating metal cations while leaving the nucleophilic anion naked and highly reactive?",
+      "options": {
+        "A": "Water (polar protic)",
+        "B": "Ethanol (polar protic)",
+        "C": "Dimethyl sulfoxide (DMSO) or Acetone (polar aprotic)",
+        "D": "Acetic acid"
+      },
+      "correctAnswer": "C",
+      "explanation": "Polar aprotic solvents (DMSO, DMF, acetone) solvate cations through dipole interactions without hydrogen-bonding to anions, leaving nucleophiles highly active."
+    },
+    {
+      "id": 7,
+      "question": "In an elimination reaction (E2), treatment of 2-bromobutane with hot alcoholic KOH yields 2-butene as the major product (81%) and 1-butene as the minor product (19%). This confirms:",
+      "options": {
+        "A": "Saytzeff's rule",
+        "B": "Hofmann's rule",
+        "C": "Markovnikov's rule",
+        "D": "Hückel's rule"
+      },
+      "correctAnswer": "A",
+      "explanation": "Saytzeff's rule predicts that the more stable, more substituted alkene (2-butene) is formed preferentially by removing a β-hydrogen from the less hydrogenated carbon."
+    },
+    {
+      "id": 8,
+      "question": "Grignard reagents are organomagnesium halides with the general formula R-Mg-X. They are prepared in the laboratory by reacting an alkyl halide with magnesium metal in:",
+      "options": {
+        "A": "Aqueous ethanol",
+        "B": "Completely dry, moisture-free diethyl ether",
+        "C": "Concentrated sulfuric acid",
+        "D": "Liquid ammonia"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ether lone pairs coordinate and stabilize the electrophilic Mg atom in R-Mg-X; absolute dryness is essential because water destroys the reagent."
+    },
+    {
+      "id": 9,
+      "question": "In a Grignard reagent (R-Mg-X), the carbon atom directly bonded to magnesium acts as:",
+      "options": {
+        "A": "An electrophilic center with partial positive charge",
+        "B": "A nucleophilic carbanion center with partial negative charge (R^δ⁻)",
+        "C": "A neutral radical",
+        "D": "An oxidizing agent"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carbon is more electronegative (2.5) than magnesium (1.2); the bond is strongly polarized as R^δ⁻-Mg^δ⁺, making the carbon an aggressive nucleophile and strong base."
+    },
+    {
+      "id": 10,
+      "question": "What product is formed when ethylmagnesium bromide (CH₃CH₂MgBr) reacts with water or any compound containing active hydrogen?",
+      "options": {
+        "A": "Ethanol",
+        "B": "Ethane gas (CH₃CH₃)",
+        "C": "Ethene",
+        "D": "Ethyl bromide"
+      },
+      "correctAnswer": "B",
+      "explanation": "CH₃CH₂-MgBr + H-OH → CH₃CH₃ (ethane) + Mg(OH)Br. Grignard reagents are powerful bases that abstract acidic protons immediately."
+    },
+    {
+      "id": 11,
+      "question": "Reaction of a Grignard reagent (R-Mg-X) with Formaldehyde (HCHO) followed by acid hydrolysis yields which class of alcohol?",
+      "options": {
+        "A": "Primary (1°) alcohol",
+        "B": "Secondary (2°) alcohol",
+        "C": "Tertiary (3°) alcohol",
+        "D": "Phenol"
+      },
+      "correctAnswer": "A",
+      "explanation": "R-MgX + H-CHO → R-CH₂-OMgX xrightarrow{H₃O⁺} R-CH₂-OH (1° alcohol)."
+    },
+    {
+      "id": 12,
+      "question": "Reaction of methylmagnesium bromide (CH₃MgBr) with Acetaldehyde (CH₃CHO) followed by acid hydrolysis produces:",
+      "options": {
+        "A": "Ethanol",
+        "B": "2-Propanol (isopropyl alcohol, a 2° alcohol)",
+        "C": "tert-Butyl alcohol",
+        "D": "Acetone"
+      },
+      "correctAnswer": "B",
+      "explanation": "CH₃MgBr + CH₃CHO → CH₃-CH(OMgBr)-CH₃ xrightarrow{H₃O⁺} CH₃-CH(OH)-CH₃ (2-propanol)."
+    },
+    {
+      "id": 13,
+      "question": "Reaction of methylmagnesium bromide (CH₃MgBr) with Acetone (CH₃COCH₃) followed by acid hydrolysis yields:",
+      "options": {
+        "A": "1-Propanol",
+        "B": "2-Propanol",
+        "C": "tert-Butyl alcohol [2-methyl-2-propanol, a 3° alcohol]",
+        "D": "Acetic acid"
+      },
+      "correctAnswer": "C",
+      "explanation": "Grignard addition to ketones yields tertiary alcohols: CH₃MgBr + (CH₃)₂C=O → (CH₃)₃C-OH."
+    },
+    {
+      "id": 14,
+      "question": "When a Grignard reagent (R-Mg-X) is bubbled with dry Carbon Dioxide (CO₂) followed by acid hydrolysis, the organic product is:",
+      "options": {
+        "A": "An aldehyde",
+        "B": "A ketone",
+        "C": "A carboxylic acid (R-COOH)",
+        "D": "An alkane"
+      },
+      "correctAnswer": "C",
+      "explanation": "R-MgX + O=C=O → R-COO⁻MgX⁺ xrightarrow{H₃O⁺} R-COOH (carboxylic acid with one more carbon than R)."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following reagents converts an alcohol into an alkyl chloride with the cleanest yield because the by-products (SO₂ and HCl) are both escaping gases?",
+      "options": {
+        "A": "Thionyl chloride (SOCl₂) in pyridine (Darzen's process)",
+        "B": "Phosphorus pentachloride (PCl₅)",
+        "C": "Phosphorus trichloride (PCl₃)",
+        "D": "Concentrated HCl / ZnCl₂"
+      },
+      "correctAnswer": "A",
+      "explanation": "R-OH + SOCl₂ xrightarrow{pyridine} R-Cl + SO₂↑ + HCl↑. Escaping gases leave nearly pure alkyl chloride."
+    },
+    {
+      "id": 16,
+      "question": "What is the order of reactivity of different alkyl halides in S_N2 reactions?",
+      "options": {
+        "A": "3° > 2° > 1° > Methyl",
+        "B": "Methyl > 1° (primary) > 2° (secondary) > 3° (tertiary)",
+        "C": "3° > 1° > 2° > Methyl",
+        "D": "2° > 1° > 3° > Methyl"
+      },
+      "correctAnswer": "B",
+      "explanation": "S_N2 is exceptionally sensitive to steric hindrance at the backside; methyl and primary halides react rapidly, while tertiary halides do not react via S_N2."
+    },
+    {
+      "id": 17,
+      "question": "Which alkyl halide reacts with alcoholic potassium cyanide (KCN) to form an alkane nitrile (R-C≡N), but with silver cyanide (AgCN) to form an isonitrile (R-N≡C)?",
+      "options": {
+        "A": "KCN is ionic releasing ambidentate CN⁻ that attacks via carbon; AgCN is largely covalent where nitrogen donates its lone pair",
+        "B": "KCN decomposes the halide",
+        "C": "AgCN oxidizes the alkyl group",
+        "D": "Silver cyanide forms an ester"
+      },
+      "correctAnswer": "A",
+      "explanation": "K⁺CN⁻ is ionic, carbon attack is preferred; covalent Ag-C≡N binds through the unshared lone pair on nitrogen to form alkyl isocyanides (isonitriles)."
+    },
+    {
+      "id": 18,
+      "question": "The Frankland reaction is analogous to the Wurtz reaction but utilizes which metal to couple alkyl halides into symmetrical alkanes?",
+      "options": {
+        "A": "Zinc (Zn)",
+        "B": "Sodium (Na)",
+        "C": "Lead (Pb)",
+        "D": "Lithium (Li)"
+      },
+      "correctAnswer": "A",
+      "explanation": "2 R-X + Zn → R-R + ZnX₂ (Frankland reaction, using dialkylzinc intermediates)."
+    },
+    {
+      "id": 19,
+      "question": "What is the product formed when ethyl bromide reacts with dry silver oxide (Ag₂O)?",
+      "options": {
+        "A": "Ethanol",
+        "B": "Diethyl ether (C₂H₅-O-C₂H₅)",
+        "C": "Ethane",
+        "D": "Ethyl acetate"
+      },
+      "correctAnswer": "B",
+      "explanation": "2 C₂H₅Br + Ag₂O (dry) xrightarrow{\\Delta} C₂H₅-O-C₂H₅ (diethyl ether) + 2 AgBr."
+    },
+    {
+      "id": 20,
+      "question": "Which of the following compounds is known as Teflon and prepared by polymerization of tetrafluoroethene?",
+      "options": {
+        "A": "-[CF₂-CF₂]_n-",
+        "B": "-[CH₂-CHCl]_n-",
+        "C": "-[CH₂-CH₂]_n-",
+        "D": "-[CF₂-CCl₂]_n-"
+      },
+      "correctAnswer": "A",
+      "explanation": "Polytetrafluoroethene (PTFE / Teflon) consists of repeating -[CF₂-CF₂]- units with high chemical inertness and non-stick properties."
+    },
+    {
+      "id": 21,
+      "question": "What happens when chloroform (CHCl₃) is treated with concentrated nitric acid (HNO₃)?",
+      "options": {
+        "A": "It forms chloropicrin (CCl₃NO₂, tear gas)",
+        "B": "It forms phosgene",
+        "C": "It produces carbon dioxide",
+        "D": "It yields methane"
+      },
+      "correctAnswer": "A",
+      "explanation": "CHCl₃ + HNO₃ → CCl₃NO₂ (trichloronitromethane / chloropicrin) + H₂O."
+    },
+    {
+      "id": 22,
+      "question": "Haloform reaction of acetone with Iodine in aqueous NaOH produces a yellow crystalline precipitate with an antiseptic medicinal smell, known as:",
+      "options": {
+        "A": "Chloroform",
+        "B": "Bromoform",
+        "C": "Iodoform (CHI₃)",
+        "D": "Carbon tetraiodide"
+      },
+      "correctAnswer": "C",
+      "explanation": "CHI₃ is yellow crystalline iodoform (m.p. 119°C), a diagnostic test for methyl ketones and ethanolic groupings."
+    },
+    {
+      "id": 23,
+      "question": "In the E1 mechanism (Elimination Unimolecular), the rate-determining step is:",
+      "options": {
+        "A": "Removal of a β-proton by base",
+        "B": "Loss of leaving group to form a carbocation intermediate",
+        "C": "Attack of solvent",
+        "D": "Formation of alkene pi bond"
+      },
+      "correctAnswer": "B",
+      "explanation": "E1 shares its slow rate-determining step with S_N1: heterolytic departure of the leaving group to form a carbocation."
+    },
+    {
+      "id": 24,
+      "question": "The conversion of an alkyl halide to an amine using excess alcoholic ammonia is known as:",
+      "options": {
+        "A": "Hofmann's ammonolysis",
+        "B": "Sandmeyer reaction",
+        "C": "Gabriel phthalimide synthesis",
+        "D": "Curtius rearrangement"
+      },
+      "correctAnswer": "A",
+      "explanation": "R-X + NH₃ xrightarrow{alc., pressure} R-NH₂ + HX; can further react to yield secondary, tertiary amines and quaternary ammonium salts."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following alkyl halides is an inhalation general anesthetic known commercially as 'Halothane'?",
+      "options": {
+        "A": "CF₃-CHBrCl (2-bromo-2-chloro-1,1,1-trifluoroethane)",
+        "B": "CHCl₃",
+        "C": "CCl₄",
+        "D": "CH₂Cl₂"
+      },
+      "correctAnswer": "A",
+      "explanation": "Halothane (CF₃CHBrCl) replaced chloroform and ether due to its non-flammability and lower cardiac toxicity."
+    },
+    {
+      "id": 26,
+      "question": "When ethylmagnesium bromide reacts with ethylene oxide (oxirane) followed by acid hydrolysis, the product is:",
+      "options": {
+        "A": "1-Butanol (a primary alcohol extended by 2 carbons)",
+        "B": "2-Butanol",
+        "C": "Diethyl ether",
+        "D": "Butanal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Grignard ring-opening of ethylene oxide adds a -CH₂CH₂OH unit: CH₃CH₂MgBr + (CH₂CH₂)O → CH₃CH₂CH₂CH₂OH."
+    },
+    {
+      "id": 27,
+      "question": "Which of the following compounds is used as an industrial fire extinguisher under the commercial trade name 'Pyrene'?",
+      "options": {
+        "A": "Carbon tetrachloride (CCl₄)",
+        "B": "Chloroform",
+        "C": "Dichloromethane",
+        "D": "Iodoform"
+      },
+      "correctAnswer": "A",
+      "explanation": "CCl₄ vapors are dense and non-combustible, blanketing fires and cutting off oxygen supply (trade name Pyrene)."
+    },
+    {
+      "id": 28,
+      "question": "The Finkelstein reaction is a halide-exchange reaction specifically used to prepare alkyl iodides by treating an alkyl chloride or bromide with:",
+      "options": {
+        "A": "NaI in dry acetone",
+        "B": "HI in water",
+        "C": "Iodine crystals",
+        "D": "AgI in alcohol"
+      },
+      "correctAnswer": "A",
+      "explanation": "R-Cl + NaI xrightarrow{dry acetone} R-I + NaCl↓. NaCl is insoluble in acetone and precipitates, driving the equilibrium forward."
+    },
+    {
+      "id": 29,
+      "question": "The Swarts reaction is used for the synthesis of alkyl fluorides by heating an alkyl chloride or bromide with which inorganic fluoride?",
+      "options": {
+        "A": "AgF, Hg₂F₂, CoF₃, or SbF₃",
+        "B": "NaF",
+        "C": "KF",
+        "D": "CaF₂"
+      },
+      "correctAnswer": "A",
+      "explanation": "Heavy metal fluorides like AgF exchange halides: CH₃Br + AgF → CH₃F + AgBr↓ (Swarts reaction)."
+    },
+    {
+      "id": 30,
+      "question": "Why are vinyl halides (CH₂=CH-Cl) and aryl halides (C₆H₅Cl) exceptionally resistant to nucleophilic substitution under standard conditions?",
+      "options": {
+        "A": "The lone pair on halogen delocalizes into the π-system, imparting partial double-bond character to the C-X bond and sp² carbon has higher electronegativity",
+        "B": "They are ionic solids",
+        "C": "They are non-polar",
+        "D": "Halogen is bonded to an sp³ carbon"
+      },
+      "correctAnswer": "A",
+      "explanation": "Resonance delocalizes the chlorine lone pair, giving the C-Cl bond double bond character and making heterolytic cleavage difficult."
+    },
+    {
+      "id": 31,
+      "question": "DDT (dichlorodiphenyltrichloroethane), a persistent organochlorine pesticide, is prepared by condensing chloral [CCl₃CHO] with chlorobenzene in the presence of:",
+      "options": {
+        "A": "Concentrated H₂SO₄",
+        "B": "AlCl₃",
+        "C": "NaOH",
+        "D": "Dry ether"
+      },
+      "correctAnswer": "A",
+      "explanation": "CCl₃CHO + 2 C₆H₅Cl xrightarrow{conc. H₂SO₄} DDT + H₂O."
+    },
+    {
+      "id": 32,
+      "question": "What is the product when methyl chloride reacts with sodium ethoxide (CH₃CH₂ONa)?",
+      "options": {
+        "A": "Ethyl methyl ether (CH₃-O-CH₂CH₃) via Williamson synthesis",
+        "B": "Ethanol",
+        "C": "Methanol",
+        "D": "Ethene"
+      },
+      "correctAnswer": "A",
+      "explanation": "CH₃Cl + Na⁺ O⁻CH₂CH₃ → CH₃-O-CH₂CH₃ (ethyl methyl ether) + NaCl (S_N2 Williamson ether synthesis)."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following compounds is a geminal dihalide?",
+      "options": {
+        "A": "1,1-Dichloroethane [CH₃-CHCl₂]",
+        "B": "1,2-Dichloroethane [ClCH₂-CH₂Cl]",
+        "C": "1,3-Dichloropropane",
+        "D": "1,4-Dichlorobutane"
+      },
+      "correctAnswer": "A",
+      "explanation": "In geminal (gem-) dihalides, both halogen atoms are attached to the same carbon atom (e.g., ethylidene chloride, CH₃CHCl₂)."
+    },
+    {
+      "id": 34,
+      "question": "Reaction of ethylmagnesium bromide with ethyl formate (HCOOC₂H₅) in 2:1 molar ratio followed by hydrolysis yields:",
+      "options": {
+        "A": "3-Pentanol (a secondary alcohol)",
+        "B": "1-Propanol",
+        "C": "Formic acid",
+        "D": "Ethanol"
+      },
+      "correctAnswer": "A",
+      "explanation": "HCOOEt + 2 EtMgBr xrightarrow{H₃O⁺} Et₂CH-OH (3-pentanol, secondary alcohol with symmetrical ethyl groups)."
+    },
+    {
+      "id": 35,
+      "question": "When methylmagnesium iodide is treated with dry ice (solid CO₂), what intermediate complex precipitates prior to acid hydrolysis?",
+      "options": {
+        "A": "CH₃COOMgI",
+        "B": "CH₃OMgI",
+        "C": "(CH₃)₂Mg",
+        "D": "MgI₂"
+      },
+      "correctAnswer": "A",
+      "explanation": "CH₃MgI + CO₂ → CH₃-COO-MgI, which upon acid hydrolysis releases acetic acid (CH₃COOH) and Mg(OH)I."
+    }
+  ]
+}

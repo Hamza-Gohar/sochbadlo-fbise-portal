@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 13,
+  "chapterTitle": "Chapter 13: Carboxylic Acids and Functional Derivatives",
+  "title": "Chapter 13: Carboxylic Acids and Functional Derivatives",
+  "slug": "chemistry-12-chapter-13",
+  "totalQuestions": 35,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Carboxylic acids exist predominantly as cyclic dimers in non-polar solvents (like benzene) and in the vapor phase due to:",
+      "options": {
+        "A": "Two strong intermolecular hydrogen bonds formed between the carbonyl oxygen of one molecule and the hydroxyl hydrogen of the other",
+        "B": "Covalent bond formation",
+        "C": "Dipole-dipole London forces only",
+        "D": "Ionic attraction"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carboxylic acids form eight-membered cyclic dimers held by two robust O-H···O=C hydrogen bonds, doubling the apparent molecular mass in benzene."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following haloacetic acids is the strongest acid in aqueous solution?",
+      "options": {
+        "A": "Trifluoroacetic acid (CF₃COOH)",
+        "B": "Trichloroacetic acid (CCl₃COOH)",
+        "C": "Dichloroacetic acid (CHCl₂COOH)",
+        "D": "Acetic acid (CH₃COOH)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Three highly electronegative fluorine atoms exert an intense electron-withdrawing inductive (-I) effect, stabilizing the CF₃COO⁻ carboxylate anion."
+    },
+    {
+      "id": 3,
+      "question": "Carboxylic acids react with sodium bicarbonate (NaHCO₃) solution with brisk effervescence due to the evolution of:",
+      "options": {
+        "A": "Carbon dioxide gas (CO₂)",
+        "B": "Hydrogen gas",
+        "C": "Carbon monoxide",
+        "D": "Oxygen gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "R-COOH + NaHCO₃ → R-COONa + H₂O + CO₂↑. This reaction distinguishes carboxylic acids from phenols (which generally do not liberate CO₂ from NaHCO₃)."
+    },
+    {
+      "id": 4,
+      "question": "In Fischer Esterification, a carboxylic acid reacts with an alcohol in the presence of an acid catalyst (conc. H₂SO₄ or dry HCl). Isotopic tracer studies with ¹⁸O prove that:",
+      "options": {
+        "A": "The water molecule is formed from the -OH of the acid and the -H of the alcohol",
+        "B": "The water molecule is formed from the -H of the acid and the -OH of the alcohol",
+        "C": "Oxygen comes from the atmosphere",
+        "D": "The alcohol oxygen is converted to CO₂"
+      },
+      "correctAnswer": "A",
+      "explanation": "Labeling alcohol with ¹⁸O (R'-¹⁸OH) reveals that ¹⁸O ends up in the ester (R-CO-¹⁸OR'), proving that acyl-oxygen cleavage occurs and water derives from the carboxylic -OH."
+    },
+    {
+      "id": 5,
+      "question": "Which reagent is the most advantageous for converting a carboxylic acid into an acyl chloride (acid chloride, RCOCl) because both by-products are gaseous?",
+      "options": {
+        "A": "Thionyl chloride (SOCl₂)",
+        "B": "Phosphorus pentachloride (PCl₅)",
+        "C": "Phosphorus trichloride (PCl₃)",
+        "D": "Hydrochloric acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "R-COOH + SOCl₂ → R-COCl + SO₂↑ + HCl↑. The gaseous by-products bubble off, leaving pure acyl chloride."
+    },
+    {
+      "id": 6,
+      "question": "Among the carboxylic acid functional derivatives, what is the correct order of reactivity toward nucleophilic acyl substitution?",
+      "options": {
+        "A": "Acyl chloride > Acid anhydride > Ester > Acid amide",
+        "B": "Acid amide > Ester > Acid anhydride > Acyl chloride",
+        "C": "Ester > Acid amide > Acyl chloride > Acid anhydride",
+        "D": "Acid anhydride > Acyl chloride > Ester > Acid amide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Reactivity depends on leaving group ability: Cl⁻ (very weak base, best leaving group) > RCOO⁻ > RO⁻ > NH₂⁻ (strong base, poorest leaving group)."
+    },
+    {
+      "id": 7,
+      "question": "When an acid amide is treated with bromine and concentrated aqueous KOH (Hofmann's Bromamide Degradation reaction), the organic product is:",
+      "options": {
+        "A": "A primary amine having one less carbon atom than the starting amide",
+        "B": "A secondary amine",
+        "C": "A carboxylic acid",
+        "D": "A nitrile"
+      },
+      "correctAnswer": "A",
+      "explanation": "R-CONH₂ + Br₂ + 4 KOH → R-NH₂ + K₂CO₃ + 2 KBr + 2 H₂O. The carbonyl carbon is lost as carbonate."
+    },
+    {
+      "id": 8,
+      "question": "The Hell-Volhard-Zelinsky (HVZ) reaction involves the halogenation of aliphatic carboxylic acids at which position in the presence of red phosphorus?",
+      "options": {
+        "A": "Alpha (α) position carbon",
+        "B": "Beta (β) carbon",
+        "C": "Carboxyl carbon",
+        "D": "Terminal carbon only"
+      },
+      "correctAnswer": "A",
+      "explanation": "R-CH₂-COOH + Cl₂ xrightarrow{red P} R-CH(Cl)-COOH + HCl (selective substitution of α-hydrogen)."
+    },
+    {
+      "id": 9,
+      "question": "What is the systematic IUPAC name for oxalic acid (HOOC-COOH)?",
+      "options": {
+        "A": "Ethanedioic acid",
+        "B": "Methanedioic acid",
+        "C": "Propanedioic acid",
+        "D": "Butanedioic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Oxalic acid has two carbons and two carboxylic groups: Ethanedioic acid."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following dicarboxylic acids has three carbons (HOOC-CH₂-COOH) and yields acetic acid and CO₂ upon thermal decarboxylation?",
+      "options": {
+        "A": "Malonic acid (Propanedioic acid)",
+        "B": "Succinic acid",
+        "C": "Adipic acid",
+        "D": "Phthalic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Malonic acid (propanedioic acid) readily decarboxylates at 150°C through a 6-membered cyclic transition state to form acetic acid and CO₂."
+    },
+    {
+      "id": 11,
+      "question": "The alkaline hydrolysis of fats and oils (triglycerides of long-chain fatty acids) with aqueous NaOH to form soap and glycerol is termed:",
+      "options": {
+        "A": "Saponification",
+        "B": "Esterification",
+        "C": "Hydrogenation",
+        "D": "Fermentation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Triglyceride + 3 NaOH → Glycerol + 3 R-COONa (soap molecules, e.g., sodium stearate)."
+    },
+    {
+      "id": 12,
+      "question": "Which powerful reducing agent converts carboxylic acids directly into primary alcohols in high yield?",
+      "options": {
+        "A": "Lithium aluminum hydride (LiAlH₄) in dry ether",
+        "B": "Sodium borohydride (NaBH₄)",
+        "C": "H₂ over nickel",
+        "D": "Zinc in acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "R-COOH xrightarrow{1. LiAlH₄/ether, 2. H₃O⁺} R-CH₂OH. NaBH₄ is not strong enough to reduce carboxylic acids."
+    },
+    {
+      "id": 13,
+      "question": "Formic acid (methanoic acid, HCOOH) differs from all other carboxylic acids because it contains both a carboxyl group and an aldehyde group (-CHO), allowing it to:",
+      "options": {
+        "A": "Reduce Tollens' reagent and Fehling's solution to silver mirror and red Cu₂O",
+        "B": "Be completely non-acidic",
+        "C": "Form ketones",
+        "D": "Polymerize into nylon"
+      },
+      "correctAnswer": "A",
+      "explanation": "H-COOH has an oxidizable formyl C-H bond, acting as a reducing agent that decolorizes KMnO₄ and reduces Tollens' reagent to metallic silver."
+    },
+    {
+      "id": 14,
+      "question": "Dehydration of acetic acid by heating with phosphorus pentoxide (P₂O₅) produces:",
+      "options": {
+        "A": "Acetic anhydride [(CH₃CO)₂O]",
+        "B": "Ketene",
+        "C": "Acetyl chloride",
+        "D": "Methane"
+      },
+      "correctAnswer": "A",
+      "explanation": "2 CH₃COOH xrightarrow{P₂O₅, \\Delta} (CH₃CO)₂O + H₂O (intermolecular removal of water)."
+    },
+    {
+      "id": 15,
+      "question": "When ammonium acetate (CH₃COONH₄) is heated dry, it loses a molecule of water to produce:",
+      "options": {
+        "A": "Acetamide (CH₃CONH₂)",
+        "B": "Acetonitrile",
+        "C": "Methylamine",
+        "D": "Acetic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "CH₃COONH₄ xrightarrow{\\Delta} CH₃CONH₂ (acetamide) + H₂O."
+    },
+    {
+      "id": 16,
+      "question": "Further dehydration of acetamide (CH₃CONH₂) with P₂O₅ produces:",
+      "options": {
+        "A": "Acetonitrile (methyl cyanide, CH₃C≡N)",
+        "B": "Methane",
+        "C": "Methyl isocyanide",
+        "D": "Formamide"
+      },
+      "correctAnswer": "A",
+      "explanation": "CH₃CONH₂ xrightarrow{P₂O₅, \\Delta} CH₃-C≡N (acetonitrile) + H₂O."
+    },
+    {
+      "id": 17,
+      "question": "What is the systematic IUPAC name for Phthalic acid (benzene-1,2-dicarboxylic acid)?",
+      "options": {
+        "A": "Benzene-1,2-dicarboxylic acid",
+        "B": "Benzene-1,4-dicarboxylic acid",
+        "C": "Benzene-1,3-dicarboxylic acid",
+        "D": "Benzoic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Phthalic acid is ortho-benzene-dicarboxylic acid: Benzene-1,2-dicarboxylic acid."
+    },
+    {
+      "id": 18,
+      "question": "Heating phthalic acid causes intramolecular loss of water to form a crystalline cyclic anhydride called:",
+      "options": {
+        "A": "Phthalic anhydride",
+        "B": "Maleic anhydride",
+        "C": "Succinic anhydride",
+        "D": "Benzoic anhydride"
+      },
+      "correctAnswer": "A",
+      "explanation": "Two adjacent carboxyl groups condense intramolecularly upon heating to form phthalic anhydride + H₂O."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following acids is responsible for the sharp, stinging pain of ant bites and bee stings?",
+      "options": {
+        "A": "Methanoic acid (Formic acid, HCOOH)",
+        "B": "Ethanoic acid",
+        "C": "Propanoic acid",
+        "D": "Butanoic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Formic acid (from Latin formica, ant) is injected by venomous ants and bees into epidermal tissues."
+    },
+    {
+      "id": 20,
+      "question": "Vinegar is an aqueous solution containing approximately what percentage of acetic acid?",
+      "options": {
+        "A": "4% to 8%",
+        "B": "25% to 30%",
+        "C": "50%",
+        "D": "100%"
+      },
+      "correctAnswer": "A",
+      "explanation": "Household vinegar is 4-8% ethanoic (acetic) acid in water, typically manufactured by oxidative fermentation of ethanol by Acetobacter aceti."
+    },
+    {
+      "id": 21,
+      "question": "Pure anhydrous acetic acid (freezing point 16.6°C) solidifies in winter into ice-like transparent crystals, earning it the name:",
+      "options": {
+        "A": "Glacial acetic acid",
+        "B": "Dry ice",
+        "C": "Ice vinegar",
+        "D": "Rock acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Anhydrous acetic acid (100%) freezes into glittering glacier-like crystals at 16.6°C, hence termed glacial acetic acid."
+    },
+    {
+      "id": 22,
+      "question": "The pleasant fruity fragrance of ripe fruits, flavorings, and perfumes is primarily due to:",
+      "options": {
+        "A": "Esters (e.g., isoamyl acetate in bananas, ethyl butyrate in pineapples)",
+        "B": "Carboxylic acids",
+        "C": "Amides",
+        "D": "Amines"
+      },
+      "correctAnswer": "A",
+      "explanation": "Volatile aliphatic esters impart characteristic sweet fruit odors (e.g., banana, pineapple, apple, strawberry)."
+    },
+    {
+      "id": 23,
+      "question": "What is the systematic IUPAC name for Adipic acid, a precursor for the manufacture of Nylon-6,6?",
+      "options": {
+        "A": "Hexanedioic acid [HOOC-(CH₂)₄-COOH]",
+        "B": "Pentanedioic acid",
+        "C": "Butanedioic acid",
+        "D": "Heptanedioic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adipic acid has 6 carbons with terminal carboxyl groups: Hexanedioic acid."
+    },
+    {
+      "id": 24,
+      "question": "Why is benzoic acid a solid at room temperature (m.p. 122°C) while aliphatic carboxylic acids of similar carbon count (like heptanoic acid) are liquids?",
+      "options": {
+        "A": "Planar phenyl rings and strong hydrogen-bonded dimeric structures pack tightly into a rigid crystal lattice",
+        "B": "It is an ionic salt",
+        "C": "It is polymeric",
+        "D": "It has no dipole moment"
+      },
+      "correctAnswer": "A",
+      "explanation": "Planar aromatic rings facilitate dense crystal packing reinforced by centrosymmetric cyclic dimeric hydrogen bonds."
+    },
+    {
+      "id": 25,
+      "question": "Transesterification is the reaction between an ester and an alcohol in the presence of an acid or base catalyst, producing:",
+      "options": {
+        "A": "A new ester and a new alcohol",
+        "B": "An ether",
+        "C": "An alkene and acid",
+        "D": "A ketone"
+      },
+      "correctAnswer": "A",
+      "explanation": "R-COOR' + R''-OH ⇌ R-COOR'' + R'-OH; this alcoholysis is the core process in converting vegetable oils into biodiesel."
+    },
+    {
+      "id": 26,
+      "question": "Which of the following functional derivatives of carboxylic acids has the highest boiling point due to extensive intermolecular hydrogen bonding involving two donor sites?",
+      "options": {
+        "A": "Primary acid amides (e.g., Acetamide, b.p. 222°C)",
+        "B": "Acyl chlorides (b.p. 51°C)",
+        "C": "Esters (b.p. 77°C)",
+        "D": "Acid anhydrides"
+      },
+      "correctAnswer": "A",
+      "explanation": "Primary amides (-CONH₂) possess highly polar carbonyl and amino groups that form strong multi-directional hydrogen-bonded networks, resulting in unusually high melting and boiling points."
+    },
+    {
+      "id": 27,
+      "question": "Hydrolysis of an ester with aqueous mineral acid (e.g., dilute HCl) is reversible, whereas alkaline hydrolysis (saponification) is irreversible because:",
+      "options": {
+        "A": "The carboxylate anion formed is resonance-stabilized and unreactive toward nucleophilic attack by the weakly nucleophilic alcohol",
+        "B": "Alcohol is evaporated",
+        "C": "The acid catalyst is consumed",
+        "D": "Water decomposes"
+      },
+      "correctAnswer": "A",
+      "explanation": "Deprotonation of carboxylic acid by OH⁻ produces carboxylate anion (RCOO⁻); negative charge repels nucleophiles, driving saponification to completion."
+    },
+    {
+      "id": 28,
+      "question": "When calcium formate [(HCOO)₂Ca] is heated alone, it yields:",
+      "options": {
+        "A": "Formaldehyde (HCHO) and CaCO₃",
+        "B": "Formic acid",
+        "C": "Carbon monoxide",
+        "D": "Methane"
+      },
+      "correctAnswer": "A",
+      "explanation": "(HCOO)₂Ca xrightarrow{\\Delta} HCHO + CaCO₃."
+    },
+    {
+      "id": 29,
+      "question": "Acid anhydrides react with water to produce:",
+      "options": {
+        "A": "Two molecules of carboxylic acid",
+        "B": "An ester and water",
+        "C": "An aldehyde and alcohol",
+        "D": "Carbon monoxide"
+      },
+      "correctAnswer": "A",
+      "explanation": "(RCO)₂O + H₂O → 2 R-COOH."
+    },
+    {
+      "id": 30,
+      "question": "Which acid is present in rancid butter, giving it an intensely repulsive odor?",
+      "options": {
+        "A": "Butyric acid (Butanoic acid)",
+        "B": "Caproic acid",
+        "C": "Propanoic acid",
+        "D": "Valeric acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hydrolysis of butterfat liberates free butanoic (butyric) acid, producing the characteristic foul smell of spoiled butter."
+    },
+    {
+      "id": 31,
+      "question": "Ammonolysis of an acyl chloride (RCOCl + 2 NH₃) yields:",
+      "options": {
+        "A": "An acid amide (RCONH₂) and ammonium chloride (NH₄Cl)",
+        "B": "An amine",
+        "C": "A nitrile",
+        "D": "An imine"
+      },
+      "correctAnswer": "A",
+      "explanation": "R-COCl + 2 NH₃ → R-CONH₂ + NH₄Cl."
+    },
+    {
+      "id": 32,
+      "question": "What is the hybrid state of the carbonyl carbon in an ester?",
+      "options": {
+        "A": "sp²",
+        "B": "sp³",
+        "C": "sp",
+        "D": "dsp²"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ester carbonyl carbon is bonded to three atoms (=O, -OR, and -R) with 120° bond angles, hence sp² hybridized."
+    },
+    {
+      "id": 33,
+      "question": "Tartaric acid, found in tamarinds and grapes and used in baking powder, has the formula:",
+      "options": {
+        "A": "HOOC-CH(OH)-CH(OH)-COOH (2,3-dihydroxybutanedioic acid)",
+        "B": "HOOC-CH₂-COOH",
+        "C": "HOOC-CH(OH)-COOH",
+        "D": "C₆H₈O₇"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tartaric acid is 2,3-dihydroxybutanedioic acid, possessing two chiral centers and existing in d, l, and meso stereoisomers."
+    },
+    {
+      "id": 34,
+      "question": "Citric acid, found in citrus fruits like lemons and oranges, is a:",
+      "options": {
+        "A": "Tricarboxylic acid containing one hydroxyl group (2-hydroxypropane-1,2,3-tricarboxylic acid)",
+        "B": "Dicarboxylic acid",
+        "C": "Monocarboxylic acid",
+        "D": "Tetracarboxylic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Citric acid (C₆H₈O₇) has three -COOH groups and one tertiary -OH group: 2-hydroxypropane-1,2,3-tricarboxylic acid."
+    },
+    {
+      "id": 35,
+      "question": "Kolbe's electrolysis of an aqueous solution of sodium succinate yields which gaseous hydrocarbon at the anode?",
+      "options": {
+        "A": "Ethene (Ethylene, H₂C=CH₂)",
+        "B": "Ethane",
+        "C": "Ethyne",
+        "D": "Methane"
+      },
+      "correctAnswer": "A",
+      "explanation": "At the anode, succinate undergoes decarboxylation: -OOC-CH₂-CH₂-COO- - 2e⁻ → •CH₂-CH₂• + 2 CO₂ → H₂C=CH₂ (ethene) + 2 CO₂."
+    }
+  ]
+}

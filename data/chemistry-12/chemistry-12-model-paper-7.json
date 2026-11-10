@@ -1,0 +1,215 @@
+{
+  "chapterNumber": 23,
+  "chapterTitle": "Annual Board Examination Section A Simulator 7 (FBISE Class 12 Chemistry)",
+  "title": "Annual Board Examination Section A Simulator 7 (FBISE Class 12 Chemistry)",
+  "slug": "chemistry-12-model-paper-7",
+  "totalQuestions": 17,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the total number of elements present in Period 4 of the modern periodic table?",
+      "options": {
+        "A": "8",
+        "B": "18",
+        "C": "32",
+        "D": "10"
+      },
+      "correctAnswer": "B",
+      "explanation": "Period 4 fills 4s (2), 3d (10), and 4p (6) subshells, containing 18 elements from Potassium (Z=19) to Krypton (Z=36)."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following compounds gives a crimson red flame in flame photometry?",
+      "options": {
+        "A": "CaCl₂",
+        "B": "SrCl₂",
+        "C": "BaCl₂",
+        "D": "MgCl₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Strontium salts impart an intense crimson-red color to the flame."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following compounds is an active ingredient in eye lotions and talcum powders due to its mild antiseptic properties?",
+      "options": {
+        "A": "Orthoboric acid (H₃BO₃)",
+        "B": "Diborane",
+        "C": "Aluminum chloride",
+        "D": "Lead acetate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Boric acid (H₃BO₃) is a gentle non-irritating antiseptic used in eye washes and baby dusting powders."
+    },
+    {
+      "id": 4,
+      "question": "What is the oxidation state of sulfur in Caro's acid (peroxomonosulfuric acid, H₂SO₅)?",
+      "options": {
+        "A": "+4",
+        "B": "+6",
+        "C": "+8",
+        "D": "+5"
+      },
+      "correctAnswer": "B",
+      "explanation": "H₂SO₅ has a peroxide bridge (-O-O- where O is -1 each) and three normal oxide oxygens (-2 each); sulfur is at its maximum +6 oxidation state."
+    },
+    {
+      "id": 5,
+      "question": "Which halogen displacement reaction will occur spontaneously?",
+      "options": {
+        "A": "2 NaF + Cl₂ → 2 NaCl + F₂",
+        "B": "2 KBr + Cl₂ → 2 KCl + Br₂",
+        "C": "2 KCl + I₂ → 2 KI + Cl₂",
+        "D": "2 NaF + I₂ → 2 NaI + F₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chlorine is more electronegative with higher reduction potential than bromine, easily displacing bromide from aqueous KBr."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following d-orbitals point directly along the Cartesian axes (x, y, z) and experience greater repulsion from axial ligands in an octahedral crystal field?",
+      "options": {
+        "A": "d_xy, d_yz, and d_xz (t_2g set)",
+        "B": "d_x²-y² and d_z² (e_g set)",
+        "C": "Only d_z²",
+        "D": "Only d_xy"
+      },
+      "correctAnswer": "B",
+      "explanation": "The lobes of d_x²-y² and d_z² lie directly along the x, y, and z axes, clashing directly with incoming octahedral ligands and elevating to the higher energy e_g set."
+    },
+    {
+      "id": 7,
+      "question": "The conversion of an alkane to a branched isomer at 300°C in the presence of AlCl₃/HCl catalyst is known as:",
+      "options": {
+        "A": "Polymerization",
+        "B": "Isomerization",
+        "C": "Cracking",
+        "D": "Halogenation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Straight-chain alkanes convert into branched isomers (e.g., n-butane to isobutane) via catalytic isomerization to boost octane numbers."
+    },
+    {
+      "id": 8,
+      "question": "Thermal cracking (pyrolysis) of higher alkanes involves the breaking of:",
+      "options": {
+        "A": "C-C and C-H bonds via a free-radical mechanism at elevated temperatures to yield smaller alkanes and alkenes",
+        "B": "Ionic bonds",
+        "C": "Hydrogen bonds only",
+        "D": "Coordinate bonds"
+      },
+      "correctAnswer": "A",
+      "explanation": "Heating long-chain hydrocarbons to 500-700°C cleaves covalent C-C bonds homolytically, generating gasoline-range branched alkanes and alkenes."
+    },
+    {
+      "id": 9,
+      "question": "The conversion of diazonium salts into chlorobenzene or bromobenzene using cuprous chloride (Cu₂Cl₂) or cuprous bromide (Cu₂Br₂) in the corresponding halogen acid is called:",
+      "options": {
+        "A": "Sandmeyer reaction",
+        "B": "Wurtz-Fittig reaction",
+        "C": "Gattermann reaction",
+        "D": "Kolbe's reaction"
+      },
+      "correctAnswer": "A",
+      "explanation": "C₆H₅N₂⁺Cl⁻ xrightarrow{Cu₂Cl₂/HCl} C₆H₅Cl + N₂↑ (Sandmeyer reaction)."
+    },
+    {
+      "id": 10,
+      "question": "What is the product when methyl chloride reacts with sodium ethoxide (CH₃CH₂ONa)?",
+      "options": {
+        "A": "Ethyl methyl ether (CH₃-O-CH₂CH₃) via Williamson synthesis",
+        "B": "Ethanol",
+        "C": "Methanol",
+        "D": "Ethene"
+      },
+      "correctAnswer": "A",
+      "explanation": "CH₃Cl + Na⁺ O⁻CH₂CH₃ → CH₃-O-CH₂CH₃ (ethyl methyl ether) + NaCl (S_N2 Williamson ether synthesis)."
+    },
+    {
+      "id": 11,
+      "question": "What is the order of boiling points among isomeric primary, secondary, and tertiary butyl alcohols?",
+      "options": {
+        "A": "1° (n-butyl alcohol) > 2° (sec-butyl alcohol) > 3° (tert-butyl alcohol)",
+        "B": "3° > 2° > 1°",
+        "C": "2° > 3° > 1°",
+        "D": "All have identical boiling points"
+      },
+      "correctAnswer": "A",
+      "explanation": "Branching decreases molecular surface area and weakens van der Waals forces, while also sterically hindering hydrogen bonding; hence 1° > 2° > 3°."
+    },
+    {
+      "id": 12,
+      "question": "Reaction of an aldehyde with semicarbazide (NH₂-NH-CO-NH₂) produces a crystalline:",
+      "options": {
+        "A": "Semicarbazone",
+        "B": "Hydrazone",
+        "C": "Oxime",
+        "D": "Imide"
+      },
+      "correctAnswer": "A",
+      "explanation": "R-CHO + H₂N-NH-CO-NH₂ → R-CH=N-NH-CO-NH₂ (semicarbazone) + H₂O."
+    },
+    {
+      "id": 13,
+      "question": "Kolbe's electrolysis of an aqueous solution of sodium succinate yields which gaseous hydrocarbon at the anode?",
+      "options": {
+        "A": "Ethene (Ethylene, H₂C=CH₂)",
+        "B": "Ethane",
+        "C": "Ethyne",
+        "D": "Methane"
+      },
+      "correctAnswer": "A",
+      "explanation": "At the anode, succinate undergoes decarboxylation: -OOC-CH₂-CH₂-COO- - 2e⁻ → •CH₂-CH₂• + 2 CO₂ → H₂C=CH₂ (ethene) + 2 CO₂."
+    },
+    {
+      "id": 14,
+      "question": "Nylon-6,6 is a synthetic polyamide manufactured by the condensation polymerization of which two monomers?",
+      "options": {
+        "A": "Hexamethylenediamine and Adipic acid",
+        "B": "Caprolactam and ethylene glycol",
+        "C": "Terephthalic acid and ethylene glycol",
+        "D": "Phenol and formaldehyde"
+      },
+      "correctAnswer": "A",
+      "explanation": "H₂N-(CH₂)₆-NH₂ + HOOC-(CH₂)₄-COOH eliminate water to form poly(hexamethylene adipamide), designated Nylon-6,6 because both monomers contain 6 carbon atoms."
+    },
+    {
+      "id": 15,
+      "question": "Urea is the most widely manufactured and applied nitrogenous fertilizer in Pakistan because of its high nitrogen content of approximately:",
+      "options": {
+        "A": "46%",
+        "B": "21%",
+        "C": "33%",
+        "D": "82%"
+      },
+      "correctAnswer": "A",
+      "explanation": "Urea [CO(NH₂)₂] has molecular weight 60 g/mol with 28 g of nitrogen: (28/60) × 100 ≈ 46.6% nitrogen."
+    },
+    {
+      "id": 16,
+      "question": "Photochemical smog (Los Angeles smog) is an oxidizing smog formed on sunny days by photochemical reactions between:",
+      "options": {
+        "A": "Nitrogen oxides (NO_x), unburned volatile organic compounds (VOCs), and sunlight, producing ozone and peroxyacetyl nitrate (PAN)",
+        "B": "SO₂ and coal smoke in cold damp air",
+        "C": "Carbon dioxide and water vapor",
+        "D": "Methane and nitrogen gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "Automobile exhaust releases NO and hydrocarbons; solar UV splits NO₂ into NO + O, which creates secondary oxidants: ground-level O₃, aldehydes, and eye-irritating PAN."
+    },
+    {
+      "id": 17,
+      "question": "In Fischer Esterification, a carboxylic acid reacts with an alcohol in the presence of an acid catalyst (conc. H₂SO₄ or dry HCl). Isotopic tracer studies with ¹⁸O prove that:",
+      "options": {
+        "A": "The water molecule is formed from the -OH of the acid and the -H of the alcohol",
+        "B": "The water molecule is formed from the -H of the acid and the -OH of the alcohol",
+        "C": "Oxygen comes from the atmosphere",
+        "D": "The alcohol oxygen is converted to CO₂"
+      },
+      "correctAnswer": "A",
+      "explanation": "Labeling alcohol with ¹⁸O (R'-¹⁸OH) reveals that ¹⁸O ends up in the ester (R-CO-¹⁸OR'), proving that acyl-oxygen cleavage occurs and water derives from the carboxylic -OH."
+    }
+  ]
+}

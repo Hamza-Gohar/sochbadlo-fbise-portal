@@ -1,0 +1,215 @@
+{
+  "chapterNumber": 25,
+  "chapterTitle": "Annual Board Examination Section A Simulator 9 (FBISE Class 12 Chemistry)",
+  "title": "Annual Board Examination Section A Simulator 9 (FBISE Class 12 Chemistry)",
+  "slug": "chemistry-12-model-paper-9",
+  "totalQuestions": 17,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following bonds has the highest percentage of ionic character?",
+      "options": {
+        "A": "H-F",
+        "B": "Cs-F",
+        "C": "Na-Cl",
+        "D": "C-O"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cs-F combines the least electronegative metal (Cs = 0.79) and most electronegative nonmetal (F = 4.0), giving ΔEN = 3.21 and >92% ionic character."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following compounds is formed when metallic sodium reacts with dry ammonia gas at 300°C?",
+      "options": {
+        "A": "Sodium nitride (Na₃N)",
+        "B": "Sodamide (NaNH₂)",
+        "C": "Sodium nitrate (NaNO₃)",
+        "D": "Sodium hydride (NaH)"
+      },
+      "correctAnswer": "B",
+      "explanation": "2 Na + 2 NH₃ → 2 NaNH₂ (sodamide) + H₂ gas."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following Group IVA oxides is amphoteric?",
+      "options": {
+        "A": "CO₂",
+        "B": "SiO₂",
+        "C": "SnO₂",
+        "D": "GeO₂"
+      },
+      "correctAnswer": "C",
+      "explanation": "SnO₂ (and PbO₂) react with both strong acids and strong alkalis (forming stannates [Sn(OH)₆]²⁻), displaying amphoteric behavior."
+    },
+    {
+      "id": 4,
+      "question": "Which acid is produced when P₄O₁₀ (phosphorus pentoxide) reacts with an excess of cold water?",
+      "options": {
+        "A": "Phosphorous acid (H₃PO₃)",
+        "B": "Metaphosphoric acid (HPO₃)",
+        "C": "Hypophosphorous acid (H₃PO₂)",
+        "D": "Phosphine gas"
+      },
+      "correctAnswer": "B",
+      "explanation": "P₄O₁₀ + 2 H₂O (cold) → 4 HPO₃ (metaphosphoric acid). With hot water it yields H₃PO₄."
+    },
+    {
+      "id": 5,
+      "question": "In the reaction of Xenon with fluorine at 400°C and 1 atmosphere pressure in a nickel vessel (1:5 volume ratio), the major product is:",
+      "options": {
+        "A": "XeF₂",
+        "B": "XeF₄",
+        "C": "XeF₆",
+        "D": "XeO₃"
+      },
+      "correctAnswer": "B",
+      "explanation": "Heating Xe and F₂ in a 1:5 ratio at 400°C and 1 atm yields crystalline Xenon tetrafluoride (XeF₄)."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following compounds is known as 'Turnbull's blue'?",
+      "options": {
+        "A": "Ferrous ferricyanide [Fe₃[Fe(CN)₆]₂]",
+        "B": "Ferric ferrocyanide [Fe₄[Fe(CN)₆]₃]",
+        "C": "Copper sulfate pentahydrate",
+        "D": "Cobalt nitrate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Turnbull's blue is produced by reacting Fe²⁺ salts with potassium ferricyanide: Fe₃[Fe(CN)₆]₂."
+    },
+    {
+      "id": 7,
+      "question": "The specific rotation [α] of an optically active compound is expressed by the formula [α] = α / (l · c), where the path length (l) and concentration (c) are in units of:",
+      "options": {
+        "A": "Meters and moles/L",
+        "B": "Decimeters (dm) and grams per milliliter (g/mL)",
+        "C": "Centimeters and molality",
+        "D": "Millimeters and percentage"
+      },
+      "correctAnswer": "B",
+      "explanation": "By definition, path length l is in decimeters (1 dm = 10 cm) and concentration c is in g/mL (or g/cm³)."
+    },
+    {
+      "id": 8,
+      "question": "In the Sabatier-Senderens reaction, alkenes or alkynes are converted into alkanes by catalytic hydrogenation at 200°C-300°C using which metal catalyst?",
+      "options": {
+        "A": "Raney Nickel",
+        "B": "Finely divided Nickel (Ni)",
+        "C": "Iron (Fe)",
+        "D": "Zinc dust"
+      },
+      "correctAnswer": "B",
+      "explanation": "Finely divided Nickel catalyzes hydrogenation of unsaturated hydrocarbons at 200°-300°C (Sabatier-Senderens reaction)."
+    },
+    {
+      "id": 9,
+      "question": "What is the resonance energy of benzene, representing its extra thermodynamic stability compared to hypothetical 1,3,5-cyclohexatriene?",
+      "options": {
+        "A": "36 kJ/mol",
+        "B": "150.5 kJ/mol (36 kcal/mol)",
+        "C": "358 kJ/mol",
+        "D": "208 kJ/mol"
+      },
+      "correctAnswer": "B",
+      "explanation": "Theoretical heat of hydrogenation for triene is -358.5 kJ/mol, but observed heat for benzene is -208 kJ/mol; difference is 150.5 kJ/mol (resonance energy)."
+    },
+    {
+      "id": 10,
+      "question": "The rate law for an S_N1 (Substitution Nucleophilic Unimolecular) reaction is:",
+      "options": {
+        "A": "Rate = k [Alkyl Halide] [Nucleophile]",
+        "B": "Rate = k [Alkyl Halide]",
+        "C": "Rate = k [Nucleophile]",
+        "D": "Rate = k [Alkyl Halide]²"
+      },
+      "correctAnswer": "B",
+      "explanation": "The rate-determining step is the unimolecular ionization of the alkyl halide into a carbocation; nucleophile concentration does not affect the rate."
+    },
+    {
+      "id": 11,
+      "question": "Methylated spirit (denatured alcohol) is rendered unfit for human drinking by adulterating ethanol with:",
+      "options": {
+        "A": "10% Methanol, pyridine, and mineral naphtha",
+        "B": "Pure glucose",
+        "C": "Glycerol",
+        "D": "Sodium chloride"
+      },
+      "correctAnswer": "A",
+      "explanation": "Methanol (toxic), pyridine (foul-smelling), and coloring dye are added to industrial ethanol to prevent its misuse for recreational consumption without excise tax."
+    },
+    {
+      "id": 12,
+      "question": "Aldehydes and methyl ketones form solid crystalline bisulfite adducts when shaken with saturated sodium bisulfite (NaHSO₃). This reaction is widely used to:",
+      "options": {
+        "A": "Purify and separate carbonyl compounds from non-carbonyl mixtures",
+        "B": "Oxidize carbonyls to acids",
+        "C": "Reduce carbonyls to hydrocarbons",
+        "D": "Convert them into esters"
+      },
+      "correctAnswer": "A",
+      "explanation": "The bisulfite crystalline adduct precipitates cleanly; upon filtering and warming with dilute acid or base, pure carbonyl compound is regenerated."
+    },
+    {
+      "id": 13,
+      "question": "Among the carboxylic acid functional derivatives, what is the correct order of reactivity toward nucleophilic acyl substitution?",
+      "options": {
+        "A": "Acyl chloride > Acid anhydride > Ester > Acid amide",
+        "B": "Acid amide > Ester > Acid anhydride > Acyl chloride",
+        "C": "Ester > Acid amide > Acyl chloride > Acid anhydride",
+        "D": "Acid anhydride > Acyl chloride > Ester > Acid amide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Reactivity depends on leaving group ability: Cl⁻ (very weak base, best leaving group) > RCOO⁻ > RO⁻ > NH₂⁻ (strong base, poorest leaving group)."
+    },
+    {
+      "id": 14,
+      "question": "In aqueous solution, an α-amino acid exists predominantly as a dipolar ion carrying both positive and negative charges, known as a:",
+      "options": {
+        "A": "Zwitterion",
+        "B": "Carbocation",
+        "C": "Radical",
+        "D": "Micelle"
+      },
+      "correctAnswer": "A",
+      "explanation": "The basic amino group (-NH₂) captures a proton from the acidic carboxyl group (-COOH): H₃N⁺-CH(R)-COO⁻ (zwitterion / dipolar ion)."
+    },
+    {
+      "id": 15,
+      "question": "Triple Superphosphate (TSP) fertilizer contains 46-48% available P₂O₅ and is prepared by treating rock phosphate with:",
+      "options": {
+        "A": "Phosphoric acid (H₃PO₄)",
+        "B": "Sulfuric acid",
+        "C": "Carbonic acid",
+        "D": "Acetic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ca₃(PO₄)₂ + 4 H₃PO₄ → 3 Ca(H₂PO₄)₂ (contains three times the phosphate of SSP and zero gypsum)."
+    },
+    {
+      "id": 16,
+      "question": "Itai-itai disease ('it hurts-it hurts') is a painful bone-softening and renal failure condition caused by chronic poisoning from:",
+      "options": {
+        "A": "Cadmium (Cd²⁺)",
+        "B": "Mercury",
+        "C": "Lead",
+        "D": "Nickel"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cadmium replaces calcium in human bones, causing severe osteomalacia, multiple fractures, and irreversible kidney damage."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following organic compounds contains a chiral carbon and exhibits optical activity?",
+      "options": {
+        "A": "Ethanol",
+        "B": "Lactic acid [CH₃-CH(OH)-COOH]",
+        "C": "Acetic acid",
+        "D": "Propanone"
+      },
+      "correctAnswer": "B",
+      "explanation": "In lactic acid, the central carbon is attached to four distinct groups: -H, -OH, -CH₃, and -COOH, conferring chirality."
+    }
+  ]
+}

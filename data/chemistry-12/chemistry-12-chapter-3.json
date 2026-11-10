@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 3,
+  "chapterTitle": "Chapter 3: Group III-A and Group IV-A Elements",
+  "title": "Chapter 3: Group III-A and Group IV-A Elements",
+  "slug": "chemistry-12-chapter-3",
+  "totalQuestions": 35,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the molecular formula of Borax?",
+      "options": {
+        "A": "Na₂B₄O₇ · 10H₂O",
+        "B": "H₃BO₃",
+        "C": "B₂H₆",
+        "D": "NaBO₂"
+      },
+      "correctAnswer": "A",
+      "explanation": "Borax is sodium tetraborate decahydrate, structurally written as Na₂[B₄O₅(OH)₄] · 8H₂O."
+    },
+    {
+      "id": 2,
+      "question": "In the Borax bead test, a cobalt salt heated on a platinum wire loop in an oxidizing flame produces a characteristic bead of which color?",
+      "options": {
+        "A": "Bottle green",
+        "B": "Deep blue",
+        "C": "Ruby red",
+        "D": "Yellowish brown"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cobalt metaborate [Co(BO₂)₂] forms a characteristic deep blue glassy bead."
+    },
+    {
+      "id": 3,
+      "question": "Orthoboric acid (H₃BO₃) behaves in aqueous solution as:",
+      "options": {
+        "A": "A strong tribasic protonic Arrhenius acid",
+        "B": "A weak monobasic Lewis acid accepting an OH⁻ ion from water",
+        "C": "A strong Lewis base",
+        "D": "An amphoteric oxide"
+      },
+      "correctAnswer": "B",
+      "explanation": "B(OH)₃ does not donate its own protons; instead it accepts OH⁻: B(OH)₃ + 2H₂O ⇌ [B(OH)₄]⁻ + H₃O⁺ (monobasic Lewis acid)."
+    },
+    {
+      "id": 4,
+      "question": "In diborane (B₂H₆), the two bridging B-H-B bonds are best described as:",
+      "options": {
+        "A": "2-center 2-electron bonds",
+        "B": "3-center 2-electron (3c-2e) banana bonds",
+        "C": "Ionic bonds",
+        "D": "Coordinate covalent bonds"
+      },
+      "correctAnswer": "B",
+      "explanation": "Each bridge bond involves two boron atoms and one bridging hydrogen sharing only 2 electrons, known as a 3c-2e banana bond."
+    },
+    {
+      "id": 5,
+      "question": "Why is Lead(II) oxide (PbO) more stable than Lead(IV) oxide (PbO₂)?",
+      "options": {
+        "A": "Electronegativity of Pb is lower than Carbon",
+        "B": "Inert pair effect makes the +2 oxidation state far more stable for heavy Pb than +4",
+        "C": "PbO is a gas at room temperature",
+        "D": "Lead forms d-d bonds"
+      },
+      "correctAnswer": "B",
+      "explanation": "Due to poor shielding by 4f¹⁴ and 5d¹⁰ electrons, the 6s² electrons remain unshared (inert pair effect); thus Pb²⁺ is much more stable than Pb⁴⁺."
+    },
+    {
+      "id": 6,
+      "question": "Potash alum, used widely in water purification and mordanting, has the formula:",
+      "options": {
+        "A": "K₂SO₄ · Al₂(SO₄)₃ · 24H₂O",
+        "B": "FeSO₄ · (NH₄)₂SO₄ · 6H₂O",
+        "C": "Na₂SO₄ · Al₂(SO₄)₃ · 12H₂O",
+        "D": "K₂SO₄ · Cr₂(SO₄)₃ · 24H₂O"
+      },
+      "correctAnswer": "A",
+      "explanation": "Potash alum is potassium aluminum sulfate dodecahydrate dimer: K₂SO₄ · Al₂(SO₄)₃ · 24H₂O."
+    },
+    {
+      "id": 7,
+      "question": "The exceptional hardness and high melting point (>3500°C) of diamond is attributed to:",
+      "options": {
+        "A": "Van der Waals forces between graphene layers",
+        "B": "Giant three-dimensional tetrahedral network of sp³-hybridized carbon atoms linked by strong covalent bonds",
+        "C": "Delocalized pi electrons",
+        "D": "Metallic bonding"
+      },
+      "correctAnswer": "B",
+      "explanation": "Every carbon in diamond is sp³ hybridized, bonded tetrahedrally to 4 other carbons in an interlocking 3D covalent lattice."
+    },
+    {
+      "id": 8,
+      "question": "Graphite conducts electricity parallel to its layers because:",
+      "options": {
+        "A": "It has ionic character",
+        "B": "Each carbon atom is sp² hybridized, leaving one unhybridized 2p electron per atom delocalized over the hexagonal sheet",
+        "C": "It contains mobile impurities",
+        "D": "It has sp³ hybridization"
+      },
+      "correctAnswer": "B",
+      "explanation": "Delocalized π-electrons in the planar sp² hexagonal rings move freely parallel to the sheets under an applied voltage."
+    },
+    {
+      "id": 9,
+      "question": "What is the common chemical name of 'water glass'?",
+      "options": {
+        "A": "Sodium silicate (Na₂SiO₃)",
+        "B": "Silicon dioxide (SiO₂)",
+        "C": "Silicon tetrachloride (SiCl₄)",
+        "D": "Calcium silicate (CaSiO₃)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sodium silicate (Na₂SiO₃) dissolves in water to form a viscous alkaline liquid known as water glass."
+    },
+    {
+      "id": 10,
+      "question": "Silicones are synthetic polymers characterized by which repeating backbone unit?",
+      "options": {
+        "A": "-[C-C]-",
+        "B": "-[Si-O]-",
+        "C": "-[C-N]-",
+        "D": "-[Si-Si]-"
+      },
+      "correctAnswer": "B",
+      "explanation": "Silicones (polyorganosiloxanes) consist of repeating -[R₂Si-O]- units with high thermal stability and water-repellent properties."
+    },
+    {
+      "id": 11,
+      "question": "White lead, a historic white pigment in oil paints, chemically corresponds to:",
+      "options": {
+        "A": "Basic lead carbonate [2PbCO₃ · Pb(OH)₂]",
+        "B": "Lead dioxide (PbO₂)",
+        "C": "Lead chromate (PbCrO₄)",
+        "D": "Lead sulfide (PbS)"
+      },
+      "correctAnswer": "A",
+      "explanation": "White lead is basic lead carbonate [2PbCO₃ · Pb(OH)₂]."
+    },
+    {
+      "id": 12,
+      "question": "Red lead (Sindoor / Minium), used in anti-corrosive primer paints for iron and steel, has the formula:",
+      "options": {
+        "A": "PbO",
+        "B": "PbO₂",
+        "C": "Pb₃O₄",
+        "D": "Pb₂O₃"
+      },
+      "correctAnswer": "C",
+      "explanation": "Trilead tetraoxide (Pb₃O₄), considered a mixed oxide 2PbO·PbO₂, is red lead."
+    },
+    {
+      "id": 13,
+      "question": "In the Hall-Héroult industrial process for the extraction of aluminum, cryolite (Na₃AlF₆) is added to molten alumina (Al₂O₃) to:",
+      "options": {
+        "A": "Lower the melting point from 2050°C to ~950°C and improve electrical conductivity",
+        "B": "Oxidize aluminum to Al³⁺",
+        "C": "Prevent graphite anodes from burning",
+        "D": "Act as a reducing agent"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cryolite dissolves Al₂O₃, depressing its melting point from over 2000°C to ~950°C and providing ionic conductivity."
+    },
+    {
+      "id": 14,
+      "question": "Carbon monoxide (CO) is extremely poisonous to humans because:",
+      "options": {
+        "A": "It destroys red blood cells directly",
+        "B": "It binds to hemoglobin ~250 times more strongly than oxygen, forming carboxyhemoglobin and causing cellular hypoxia",
+        "C": "It produces carbonic acid in tissues",
+        "D": "It irritates the bronchial lining"
+      },
+      "correctAnswer": "B",
+      "explanation": "CO forms stable carboxyhemoglobin, blocking O₂ delivery to tissues and causing asphyxiation."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following compounds exhibits a 3-center 2-electron bond analogous to diborane?",
+      "options": {
+        "A": "Al₂(CH₃)₆ (dimeric trimethylaluminum)",
+        "B": "BCl₃",
+        "C": "CCl₄",
+        "D": "CO₂"
+      },
+      "correctAnswer": "A",
+      "explanation": "Al₂(CH₃)₆ contains bridging methyl groups forming 3c-2e Al-C-Al bonds to compensate for aluminum's octet deficiency."
+    },
+    {
+      "id": 16,
+      "question": "An aqueous solution of borax is alkaline to litmus because of:",
+      "options": {
+        "A": "Complete ionization into strong base NaOH and weak acid H₃BO₃ upon hydrolysis",
+        "B": "Presence of unreacted Na₂O",
+        "C": "Thermal decomposition",
+        "D": "Release of boric oxide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Na₂B₄O₇ + 7H₂O ⇌ 2NaOH (strong base) + 4H₃BO₃ (weak acid); high [OH⁻] renders the solution distinctly alkaline (pH ~9)."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is the most powerful Lewis acid among boron trihalides?",
+      "options": {
+        "A": "BF₃",
+        "B": "BCl₃",
+        "C": "BBr₃",
+        "D": "BI₃"
+      },
+      "correctAnswer": "D",
+      "explanation": "In BF₃, effective 2pπ-2pπ back-bonding reduces the electron deficiency of boron. In BI₃, 2p-5p back-bonding is ineffective, making BI₃ the strongest Lewis acid."
+    },
+    {
+      "id": 18,
+      "question": "Which gas is liberated when aluminum metal dissolves in warm aqueous sodium hydroxide solution?",
+      "options": {
+        "A": "Oxygen",
+        "B": "Hydrogen",
+        "C": "Carbon dioxide",
+        "D": "Nitrogen"
+      },
+      "correctAnswer": "B",
+      "explanation": "2 Al + 2 NaOH + 6 H₂O → 2 Na[Al(OH)₄] + 3 H₂↑. Aluminum is amphoteric and reacts with strong bases to liberate H₂."
+    },
+    {
+      "id": 19,
+      "question": "Tin exists in two allotropic forms: white tin (metallic β-tin) and grey tin (non-metallic α-tin). The crumbly disintegration of tin objects in freezing weather is called:",
+      "options": {
+        "A": "Tin pest (tin disease)",
+        "B": "Galvanic corrosion",
+        "C": "Alum decay",
+        "D": "Inert embrittlement"
+      },
+      "correctAnswer": "A",
+      "explanation": "Below 13.2°C, white metallic β-tin slowly converts to brittle, grey powdery α-tin with lower density, known as tin pest."
+    },
+    {
+      "id": 20,
+      "question": "The Thermite process, used in welding railway tracks, utilizes the vigorous exothermic redox reaction between:",
+      "options": {
+        "A": "Al powder and Fe₂O₃",
+        "B": "Mg and CO₂",
+        "C": "Na and H₂O",
+        "D": "C and FeO"
+      },
+      "correctAnswer": "A",
+      "explanation": "2 Al + Fe₂O₃ → Al₂O₃ + 2 Fe (molten) + massive heat (~3000°C), sufficient to fuse steel rails."
+    },
+    {
+      "id": 21,
+      "question": "What is the geometry of the silicon tetrachloride (SiCl₄) molecule?",
+      "options": {
+        "A": "Square planar",
+        "B": "Tetrahedral",
+        "C": "Trigonal bipyramidal",
+        "D": "Linear"
+      },
+      "correctAnswer": "B",
+      "explanation": "Silicon is sp³ hybridized with four bonded chlorine atoms and zero lone pairs, giving a regular tetrahedral geometry."
+    },
+    {
+      "id": 22,
+      "question": "Fullerenes (such as C₆₀, Buckminsterfullerene) consist of carbon atoms arranged in:",
+      "options": {
+        "A": "A spherical cage of 12 pentagons and 20 hexagons",
+        "B": "A continuous linear chain",
+        "C": "A cubic array like NaCl",
+        "D": "Concentric graphene tubes only"
+      },
+      "correctAnswer": "A",
+      "explanation": "C₆₀ resembles a soccer ball with 12 five-membered rings and 20 six-membered rings of sp²-hybridized carbon atoms."
+    },
+    {
+      "id": 23,
+      "question": "Aluminum utensils are protected against atmospheric corrosion by a tenacious self-healing surface film of:",
+      "options": {
+        "A": "Al(OH)₃",
+        "B": "Al₂O₃",
+        "C": "AlCl₃",
+        "D": "AlN"
+      },
+      "correctAnswer": "B",
+      "explanation": "A dense, non-porous layer of aluminum oxide (Al₂O₃) immediately passivates the metal surface against further oxidation."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following elements in Group IVA has the greatest catenation capability?",
+      "options": {
+        "A": "Silicon",
+        "B": "Germanium",
+        "C": "Carbon",
+        "D": "Lead"
+      },
+      "correctAnswer": "C",
+      "explanation": "Carbon forms exceptionally strong C-C single bonds (347 kJ/mol) due to small atomic size and optimal orbital overlap."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following compounds is an active ingredient in eye lotions and talcum powders due to its mild antiseptic properties?",
+      "options": {
+        "A": "Orthoboric acid (H₃BO₃)",
+        "B": "Diborane",
+        "C": "Aluminum chloride",
+        "D": "Lead acetate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Boric acid (H₃BO₃) is a gentle non-irritating antiseptic used in eye washes and baby dusting powders."
+    },
+    {
+      "id": 26,
+      "question": "What is the oxidation state of lead in lead dioxide (PbO₂)?",
+      "options": {
+        "A": "+2",
+        "B": "+4",
+        "C": "+1",
+        "D": "0"
+      },
+      "correctAnswer": "B",
+      "explanation": "In PbO₂, each oxide ion is O²⁻; hence Pb is in the +4 oxidation state, making it a strong oxidizing agent."
+    },
+    {
+      "id": 27,
+      "question": "Which chloride is an electron-deficient dimer in the vapor phase, existing as Al₂Cl₆?",
+      "options": {
+        "A": "BCl₃",
+        "B": "AlCl₃",
+        "C": "GaCl₃",
+        "D": "CCl₄"
+      },
+      "correctAnswer": "B",
+      "explanation": "In vapor or nonpolar solvents, AlCl₃ dimerizes to Al₂Cl₆ where chlorine atoms donate lone pairs into empty Al 3p orbitals."
+    },
+    {
+      "id": 28,
+      "question": "What happens when orthoboric acid (H₃BO₃) is heated to red heat (>160°C)?",
+      "options": {
+        "A": "It sublimes without change",
+        "B": "It decomposes completely to form glassy Boric Oxide (B₂O₃)",
+        "C": "It yields diborane gas",
+        "D": "It forms metallic boron"
+      },
+      "correctAnswer": "B",
+      "explanation": "H₃BO₃ → HBO₂ (metaboric acid at 100°C) → H₂B₄O₇ (tetraboric acid at 160°C) → B₂O₃ (boron trioxide / boric anhydride at red heat)."
+    },
+    {
+      "id": 29,
+      "question": "Which form of silica is used as a desiccant (drying agent) in laboratories and packaging?",
+      "options": {
+        "A": "Quartz",
+        "B": "Silica gel",
+        "C": "Cristobalite",
+        "D": "Tridymite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Silica gel is an amorphous porous form of SiO₂ with high specific surface area, readily adsorbing water vapor."
+    },
+    {
+      "id": 30,
+      "question": "Carbon dioxide (CO₂) is a gas at room temperature while silicon dioxide (SiO₂) is a high-melting solid because:",
+      "options": {
+        "A": "CO₂ is non-polar but SiO₂ is ionic",
+        "B": "C forms discrete linear molecules with pπ-pπ double bonds (O=C=O), while Si cannot form effective pπ-pπ bonds and forms a giant covalent 3D network of single Si-O bonds",
+        "C": "Silicon has lower electronegativity than Oxygen",
+        "D": "CO₂ has hydrogen bonding"
+      },
+      "correctAnswer": "B",
+      "explanation": "Larger 3p orbitals of Si cannot overlap laterally to form stable π bonds; Si forms four single Si-O bonds in a giant 3D quartz lattice."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following Group IVA oxides is amphoteric?",
+      "options": {
+        "A": "CO₂",
+        "B": "SiO₂",
+        "C": "SnO₂",
+        "D": "GeO₂"
+      },
+      "correctAnswer": "C",
+      "explanation": "SnO₂ (and PbO₂) react with both strong acids and strong alkalis (forming stannates [Sn(OH)₆]²⁻), displaying amphoteric behavior."
+    },
+    {
+      "id": 32,
+      "question": "The poisonous gas phosgene (carbonyl chloride, COCl₂) is produced by the slow photochemical oxidation of:",
+      "options": {
+        "A": "Methane",
+        "B": "Chloroform (CHCl₃)",
+        "C": "Carbon tetrachloride",
+        "D": "Methanol"
+      },
+      "correctAnswer": "B",
+      "explanation": "2 CHCl₃ + O₂ (in light) → 2 COCl₂ + 2 HCl. Hence chloroform bottles are tinted brown and filled to the brim."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is an organosilicon compound used as a water-repellent coating and surgical lubricant?",
+      "options": {
+        "A": "Silicone oil / Dimethylpolysiloxane",
+        "B": "Silane",
+        "C": "Silicon carbide",
+        "D": "Asbestos"
+      },
+      "correctAnswer": "A",
+      "explanation": "Silicones possess hydrocarbon organic side groups pointing outwards, providing hydrophobicity, biocompatibility, and chemical inertness."
+    },
+    {
+      "id": 34,
+      "question": "Silicon carbide (SiC), known commercially as Carborundum, is widely used as:",
+      "options": {
+        "A": "A dietary supplement",
+        "B": "An industrial abrasive and cutting tool material due to diamond-like hardness",
+        "C": "A fertilizer",
+        "D": "A bleaching agent"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carborundum (SiC) has a 3D covalent tetrahedral structure with Mohs hardness ~9.5, making it an excellent abrasive."
+    },
+    {
+      "id": 35,
+      "question": "Why does aluminum not react with concentrated nitric acid (HNO₃)?",
+      "options": {
+        "A": "Nitric acid is too weak to attack aluminum",
+        "B": "Concentrated HNO₃ is a powerful oxidizing agent that renders aluminum passive by forming an impervious oxide film (Al₂O₃)",
+        "C": "Aluminum is below hydrogen in the electrochemical series",
+        "D": "Aluminum nitrate is insoluble"
+      },
+      "correctAnswer": "B",
+      "explanation": "Concentrated HNO₃ immediately passivates aluminum metal by generating a protective, insoluble, non-reactive film of Al₂O₃."
+    }
+  ]
+}

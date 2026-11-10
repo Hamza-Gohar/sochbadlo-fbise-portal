@@ -37,6 +37,7 @@ const PHYSICS_12_DIR = path.join(process.cwd(), 'data', 'physics-12');
 const MATH_12_DIR = path.join(process.cwd(), 'data', 'math-12');
 const CS_12_DIR = path.join(process.cwd(), 'data', 'cs-12');
 const BIOLOGY_12_DIR = path.join(process.cwd(), 'data', 'biology-12');
+const CHEMISTRY_12_DIR = path.join(process.cwd(), 'data', 'chemistry-12');
 
 export function getChaptersIndex(
   subject: SubjectId = 'physics'
@@ -77,6 +78,7 @@ export function getChaptersIndex(
     else if (subject === 'math-12') dir = MATH_12_DIR;
     else if (subject === 'cs-12') dir = CS_12_DIR;
     else if (subject === 'biology-12') dir = BIOLOGY_12_DIR;
+    else if (subject === 'chemistry-12') dir = CHEMISTRY_12_DIR;
 
     const indexPath = path.join(dir, 'chapters-index.json');
     if (fs.existsSync(indexPath)) {
@@ -90,7 +92,8 @@ export function getChaptersIndex(
         subject === 'physics-12' ||
         subject === 'math-12' ||
         subject === 'cs-12' ||
-        subject === 'biology-12'
+        subject === 'biology-12' ||
+        subject === 'chemistry-12'
           ? '12'
           : subject === 'math-10' ||
             subject === 'physics-10' ||
@@ -158,6 +161,7 @@ export function getAllChapters(): ChapterMeta[] {
     ...getChaptersIndex('math-12'),
     ...getChaptersIndex('cs-12'),
     ...getChaptersIndex('biology-12'),
+    ...getChaptersIndex('chemistry-12'),
   ];
 }
 
@@ -172,7 +176,10 @@ export function getChapterBySlug(
     let targetDir = PHYSICS_DIR;
     let subject: SubjectId = 'physics';
 
-    if (slug.startsWith('cs-12')) {
+    if (slug.startsWith('chemistry-12')) {
+      targetDir = CHEMISTRY_12_DIR;
+      subject = 'chemistry-12';
+    } else if (slug.startsWith('cs-12')) {
       targetDir = CS_12_DIR;
       subject = 'cs-12';
     } else if (slug.startsWith('biology-12')) {

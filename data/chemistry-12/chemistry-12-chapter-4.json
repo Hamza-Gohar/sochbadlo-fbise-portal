@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 4,
+  "chapterTitle": "Chapter 4: Group V-A and Group VI-A Elements",
+  "title": "Chapter 4: Group V-A and Group VI-A Elements",
+  "slug": "chemistry-12-chapter-4",
+  "totalQuestions": 35,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In the industrial Haber-Bosch process for the synthesis of ammonia (N₂ + 3H₂ ⇌ 2NH₃), the catalyst employed is:",
+      "options": {
+        "A": "Finely divided Iron (Fe) promoted with Al₂O₃ and K₂O",
+        "B": "Vanadium pentoxide (V₂O₅)",
+        "C": "Platinum-rhodium gauze",
+        "D": "Nickel on alumina"
+      },
+      "correctAnswer": "A",
+      "explanation": "Finely divided iron acts as catalyst while Al₂O₃ prevents sintering and K₂O acts as a promoter lowering activation energy."
+    },
+    {
+      "id": 2,
+      "question": "In the Ostwald process for the industrial manufacture of Nitric acid (HNO₃), the first step involves catalytic oxidation of ammonia over:",
+      "options": {
+        "A": "Iron oxide at 200°C",
+        "B": "Platinum-Rhodium gauze at 800°C to form Nitric oxide (NO)",
+        "C": "V₂O₅ at 450°C",
+        "D": "Copper turnings at 100°C"
+      },
+      "correctAnswer": "B",
+      "explanation": "4 NH₃ + 5 O₂ xrightarrow{Pt-Rh, 800°C} 4 NO + 6 H₂O; NO is subsequently oxidized to NO₂ and absorbed in water."
+    },
+    {
+      "id": 3,
+      "question": "Aqua regia, capable of dissolving noble metals like gold and platinum, is a mixture of concentrated HCl and concentrated HNO₃ in the volume ratio of:",
+      "options": {
+        "A": "1 : 1",
+        "B": "3 : 1",
+        "C": "1 : 3",
+        "D": "4 : 1"
+      },
+      "correctAnswer": "B",
+      "explanation": "Aqua regia is 3 parts concentrated HCl to 1 part concentrated HNO₃, producing nascent chlorine and nitrosyl chloride (NOCl)."
+    },
+    {
+      "id": 4,
+      "question": "Which allotrope of phosphorus is translucent, waxy, highly toxic, and glows in the dark (chemiluminescence)?",
+      "options": {
+        "A": "Red phosphorus",
+        "B": "White (yellow) phosphorus",
+        "C": "Black phosphorus",
+        "D": "Violet phosphorus"
+      },
+      "correctAnswer": "B",
+      "explanation": "White phosphorus consists of strained P₄ tetrahedra, igniting spontaneously at 35°C and exhibiting chemiluminescent green glow."
+    },
+    {
+      "id": 5,
+      "question": "In the Contact Process for the manufacture of Sulfuric acid (H₂SO₄), the catalyst used for the oxidation of SO₂ to SO₃ is:",
+      "options": {
+        "A": "Platinized asbestos or Vanadium pentoxide (V₂O₅)",
+        "B": "Finely divided Iron",
+        "C": "Copper oxide",
+        "D": "Manganese dioxide"
+      },
+      "correctAnswer": "A",
+      "explanation": "V₂O₅ is the preferred industrial catalyst at 400°C-450°C because it is resistant to arsenic poisoning unlike platinum."
+    },
+    {
+      "id": 6,
+      "question": "Why is sulfur trioxide (SO₃) not absorbed directly into water in the Contact Process?",
+      "options": {
+        "A": "SO₃ is completely insoluble in water",
+        "B": "The reaction is so violently exothermic that it produces a dense, unmanageable acid mist/fog that escapes condensation",
+        "C": "It decomposes back to SO₂ and O₂",
+        "D": "It would corrode platinum pipes"
+      },
+      "correctAnswer": "B",
+      "explanation": "Direct hydration creates a thick mist of fine H₂SO₄ droplets that will not condense easily; instead, SO₃ is absorbed in 98% H₂SO₄ to form oleum (H₂S₂O₇)."
+    },
+    {
+      "id": 7,
+      "question": "What is the chemical name and formula of 'Oleum'?",
+      "options": {
+        "A": "Pyrosulfuric acid (H₂S₂O₇)",
+        "B": "Peroxodisulfuric acid (H₂S₂O₈)",
+        "C": "Thiosulfuric acid (H₂S₂O₃)",
+        "D": "Sulfurous acid (H₂SO₃)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Absorption of SO₃ into concentrated H₂SO₄ yields H₂S₂O₇, known as oleum or fuming sulfuric acid."
+    },
+    {
+      "id": 8,
+      "question": "Which oxide of nitrogen is known as 'laughing gas' and used as a mild anesthetic?",
+      "options": {
+        "A": "Nitric oxide (NO)",
+        "B": "Dinitrogen monoxide (N₂O)",
+        "C": "Nitrogen dioxide (NO₂)",
+        "D": "Dinitrogen pentoxide (N₂O₅)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nitrous oxide (N₂O) produces euphoria and hysterical laughter upon inhalation and is used in dental anesthesia."
+    },
+    {
+      "id": 9,
+      "question": "Nitrogen dioxide (NO₂) is a reddish-brown paramagnetic gas that readily dimerizes at lower temperatures to form a colorless, diamagnetic gas with formula:",
+      "options": {
+        "A": "N₂O",
+        "B": "N₂O₃",
+        "C": "N₂O₄",
+        "D": "N₂O₅"
+      },
+      "correctAnswer": "C",
+      "explanation": "2 NO₂ (brown, odd-electron paramagnet) ⇌ N₂O₄ (colorless, paired-electron diamagnet)."
+    },
+    {
+      "id": 10,
+      "question": "What is the basicity (number of replaceable ionizable protons) of orthophosphoric acid (H₃PO₄)?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "C",
+      "explanation": "H₃PO₄ has three -OH groups bonded to phosphorus: O=P(OH)₃; all three protons are ionizable, making it a tribasic acid."
+    },
+    {
+      "id": 11,
+      "question": "Phosphorous acid (H₃PO₃) acts as a reducing agent and is dibasic because its structure contains:",
+      "options": {
+        "A": "Three P-OH bonds",
+        "B": "Two P-OH bonds and one direct non-ionizable P-H bond",
+        "C": "One P-OH bond and two P-H bonds",
+        "D": "Only P-O-P bridge bonds"
+      },
+      "correctAnswer": "B",
+      "explanation": "In H₃PO₃, phosphorus is bonded to one =O, two -OH groups, and one direct -H. The P-H hydrogen does not ionize but confers reducing power."
+    },
+    {
+      "id": 12,
+      "question": "Concentrated sulfuric acid acts as a powerful dehydrating agent. When it reacts with sucrose (cane sugar, C₁₂H₂₂O₁₁), the product is:",
+      "options": {
+        "A": "Carbon monoxide and water",
+        "B": "A spongy black mass of carbon (sugar charcoal) and steam",
+        "C": "Oxalic acid",
+        "D": "Methane gas"
+      },
+      "correctAnswer": "B",
+      "explanation": "C₁₂H₂₂O₁₁ xrightarrow{conc. H₂SO₄} 12 C + 11 H₂O; sulfuric acid removes the elements of water, leaving black spongy carbon."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following compounds gives a positive brown ring test for the detection of nitrate (NO₃⁻) ions in qualitative analysis?",
+      "options": {
+        "A": "[Fe(H₂O)₅(NO)]SO₄",
+        "B": "Fe(NO₃)₃",
+        "C": "[Fe(CN)₆]³⁻",
+        "D": "Fe₄[Fe(CN)₆]₃"
+      },
+      "correctAnswer": "A",
+      "explanation": "The brown ring is nitroso ferrous sulfate complex: pentaaquanitrosyliron(II) sulfate [Fe(H₂O)₅(NO)]SO₄."
+    },
+    {
+      "id": 14,
+      "question": "Which allotrope of sulfur is thermodynamically stable at room temperature (below 95.6°C)?",
+      "options": {
+        "A": "Monoclinic (β-sulfur)",
+        "B": "Rhombic (α-sulfur)",
+        "C": "Plastic sulfur",
+        "D": "Colloidal sulfur"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rhombic (α) sulfur consisting of puckered S₈ rings is the most stable allotrope below the transition temperature of 95.6°C."
+    },
+    {
+      "id": 15,
+      "question": "What is the transition temperature at which rhombic sulfur and monoclinic sulfur coexist in equilibrium?",
+      "options": {
+        "A": "0°C",
+        "B": "95.6°C",
+        "C": "119°C",
+        "D": "444.6°C"
+      },
+      "correctAnswer": "B",
+      "explanation": "At 95.6°C (transition point), rhombic and monoclinic sulfur have identical vapor pressures and coexist in dynamic equilibrium."
+    },
+    {
+      "id": 16,
+      "question": "Which reagent is used as an 'antichlor' in textile bleaching and as a 'fixer' in classic silver halide photography?",
+      "options": {
+        "A": "Sodium thiosulfate (Na₂S₂O₃ · 5H₂O / Hypo)",
+        "B": "Sodium sulfate (Na₂SO₄)",
+        "C": "Sodium bisulfite (NaHSO₃)",
+        "D": "Sodium sulfide (Na₂S)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hypo dissolves unexposed silver halide: AgBr + 2Na₂S₂O₃ → Na₃[Ag(S₂O₃)₂] + NaBr, and destroys excess chlorine in bleached fabric."
+    },
+    {
+      "id": 17,
+      "question": "When concentrated nitric acid reacts with metallic copper, the dense brown gas evolved is:",
+      "options": {
+        "A": "Nitric oxide (NO)",
+        "B": "Nitrogen dioxide (NO₂)",
+        "C": "Nitrous oxide (N₂O)",
+        "D": "Dinitrogen trioxide (N₂O₃)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cu + 4 HNO₃ (conc.) → Cu(NO₃)₂ + 2 NO₂ (red-brown gas) + 2 H₂O. Dilute HNO₃ gives colorless NO."
+    },
+    {
+      "id": 18,
+      "question": "White phosphorus is safely stored under which liquid in laboratories to prevent spontaneous ignition?",
+      "options": {
+        "A": "Kerosene",
+        "B": "Water",
+        "C": "Alcohol",
+        "D": "Acetone"
+      },
+      "correctAnswer": "B",
+      "explanation": "White phosphorus is insoluble in and denser than water and does not react with water, cutting off atmospheric oxygen."
+    },
+    {
+      "id": 19,
+      "question": "The bleaching action of sulfur dioxide (SO₂) gas on colored materials is due to:",
+      "options": {
+        "A": "Oxidation",
+        "B": "Temporary reduction",
+        "C": "Chlorination",
+        "D": "Hydrolysis"
+      },
+      "correctAnswer": "B",
+      "explanation": "SO₂ bleaches through temporary reduction; on standing in air, the reduced coloring matter is re-oxidized by atmospheric oxygen, restoring color."
+    },
+    {
+      "id": 20,
+      "question": "Ozone (O₃) acts as a powerful oxidizing agent because:",
+      "options": {
+        "A": "It readily decomposes to release one molecule of oxygen and one highly reactive nascent oxygen atom [O]",
+        "B": "It has basic properties",
+        "C": "It is paramagnetic",
+        "D": "It has a cyclic triangular shape"
+      },
+      "correctAnswer": "A",
+      "explanation": "O₃ → O₂ + [O]. The liberated nascent oxygen atom has immense oxidizing potential (E° = +2.07 V)."
+    },
+    {
+      "id": 21,
+      "question": "What is the geometry and bond angle of the ozone (O₃) molecule?",
+      "options": {
+        "A": "Linear, 180°",
+        "B": "Bent (angular), ~117°",
+        "C": "Trigonal planar, 120°",
+        "D": "Tetrahedral, 109.5°"
+      },
+      "correctAnswer": "B",
+      "explanation": "The central oxygen is sp² hybridized with one lone pair and two bonding domains, producing a bent geometry with a bond angle of 116.8°."
+    },
+    {
+      "id": 22,
+      "question": "Which of the following elements in Group VA does not exhibit allotropy?",
+      "options": {
+        "A": "Nitrogen",
+        "B": "Phosphorus",
+        "C": "Arsenic",
+        "D": "Bismuth"
+      },
+      "correctAnswer": "D",
+      "explanation": "Bismuth has only one metallic crystal structure and does not form allotropic modifications."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following acids is known as the 'King of Chemicals' due to its ubiquitous use across all modern chemical industries?",
+      "options": {
+        "A": "Hydrochloric acid (HCl)",
+        "B": "Nitric acid (HNO₃)",
+        "C": "Sulfuric acid (H₂SO₄)",
+        "D": "Phosphoric acid (H₃PO₄)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sulfuric acid is produced in larger quantities than any other manufactured chemical, serving as a benchmark of a nation's industrial development."
+    },
+    {
+      "id": 24,
+      "question": "Why is dinitrogen (N₂) gas chemically inert at room temperature?",
+      "options": {
+        "A": "It has high electron affinity",
+        "B": "The nitrogen-nitrogen triple bond (N≡N) has an extraordinarily high bond dissociation energy (945 kJ/mol)",
+        "C": "It is a monatomic gas",
+        "D": "It has empty valence shells"
+      },
+      "correctAnswer": "B",
+      "explanation": "The non-polar N≡N triple bond requires 945 kJ/mol to break, making N₂ unreactive under standard conditions."
+    },
+    {
+      "id": 25,
+      "question": "Which gas is evolved when concentrated sulfuric acid reacts with solid potassium iodide (KI)?",
+      "options": {
+        "A": "HI gas exclusively",
+        "B": "Purple iodine vapor (I₂) and sulfur dioxide (SO₂)",
+        "C": "Hydrogen gas only",
+        "D": "Oxygen gas"
+      },
+      "correctAnswer": "B",
+      "explanation": "Concentrated H₂SO₄ oxidizes the strong reducing agent HI into purple I₂ vapor while being reduced to SO₂ and H₂S."
+    },
+    {
+      "id": 26,
+      "question": "What is the oxidation state of sulfur in Caro's acid (peroxomonosulfuric acid, H₂SO₅)?",
+      "options": {
+        "A": "+4",
+        "B": "+6",
+        "C": "+8",
+        "D": "+5"
+      },
+      "correctAnswer": "B",
+      "explanation": "H₂SO₅ has a peroxide bridge (-O-O- where O is -1 each) and three normal oxide oxygens (-2 each); sulfur is at its maximum +6 oxidation state."
+    },
+    {
+      "id": 27,
+      "question": "What gas turns acidified potassium dichromate (K₂Cr₂O₇) paper from orange to green?",
+      "options": {
+        "A": "Carbon dioxide (CO₂)",
+        "B": "Sulfur dioxide (SO₂)",
+        "C": "Nitrous oxide (N₂O)",
+        "D": "Methane (CH₄)"
+      },
+      "correctAnswer": "B",
+      "explanation": "SO₂ reduces orange Cr₂O₇²⁻ (Cr⁺⁶) to green Cr³⁺ sulfate [Cr₂(SO₄)₃]."
+    },
+    {
+      "id": 28,
+      "question": "Phosphine (PH₃) gas smells characteristically of:",
+      "options": {
+        "A": "Rotten eggs",
+        "B": "Rotten fish or garlic",
+        "C": "Pungent ammonia",
+        "D": "Bitter almonds"
+      },
+      "correctAnswer": "B",
+      "explanation": "Phosphine has an unmistakable foul odor reminiscent of rotting fish or crushed garlic."
+    },
+    {
+      "id": 29,
+      "question": "Which of the following hydride molecules has the lowest bond angle due to the absence of significant hybridization (Drago's rule)?",
+      "options": {
+        "A": "H₂O (~104.5°)",
+        "B": "NH₃ (~107°)",
+        "C": "H₂S (~92°)",
+        "D": "CH₄ (109.5°)"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to Drago's rule, in H₂S the bonds are formed using pure p-orbitals (~90°), resulting in an observed bond angle of ~92°."
+    },
+    {
+      "id": 30,
+      "question": "When sulfur is boiled with an aqueous solution of sodium sulfite (Na₂SO₃), the product formed is:",
+      "options": {
+        "A": "Sodium sulfate (Na₂SO₄)",
+        "B": "Sodium thiosulfate (Na₂S₂O₃)",
+        "C": "Sodium bisulfite (NaHSO₃)",
+        "D": "Sodium sulfide (Na₂S)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Na₂SO₃ + S xrightarrow{\\Delta} Na₂S₂O₃ (sodium thiosulfate)."
+    },
+    {
+      "id": 31,
+      "question": "The tailing of mercury upon exposure to ozone is due to the formation of:",
+      "options": {
+        "A": "Mercuric oxide (HgO)",
+        "B": "Mercurous oxide (Hg₂O)",
+        "C": "Mercuric sulfate (HgSO₄)",
+        "D": "Metallic amalgam"
+      },
+      "correctAnswer": "B",
+      "explanation": "2 Hg + O₃ → Hg₂O + O₂. Dissolved Hg₂O causes mercury to lose its meniscus and stick (tail) to glass."
+    },
+    {
+      "id": 32,
+      "question": "Which acid is produced when P₄O₁₀ (phosphorus pentoxide) reacts with an excess of cold water?",
+      "options": {
+        "A": "Phosphorous acid (H₃PO₃)",
+        "B": "Metaphosphoric acid (HPO₃)",
+        "C": "Hypophosphorous acid (H₃PO₂)",
+        "D": "Phosphine gas"
+      },
+      "correctAnswer": "B",
+      "explanation": "P₄O₁₀ + 2 H₂O (cold) → 4 HPO₃ (metaphosphoric acid). With hot water it yields H₃PO₄."
+    },
+    {
+      "id": 33,
+      "question": "The thermal decomposition of ammonium nitrite (NH₄NO₂) yields which gas?",
+      "options": {
+        "A": "Ammonia (NH₃)",
+        "B": "Pure Nitrogen gas (N₂)",
+        "C": "Nitric oxide (NO)",
+        "D": "Oxygen (O₂)"
+      },
+      "correctAnswer": "B",
+      "explanation": "NH₄NO₂ xrightarrow{\\Delta} N₂↑ + 2 H₂O; this is a standard laboratory method for preparing pure nitrogen gas."
+    },
+    {
+      "id": 34,
+      "question": "In the lead chamber process, oxides of nitrogen act as:",
+      "options": {
+        "A": "A dehydrating agent",
+        "B": "A homogeneous catalyst carrying oxygen from air to SO₂",
+        "C": "A solvent",
+        "D": "A precipitant"
+      },
+      "correctAnswer": "B",
+      "explanation": "NO and NO₂ act as gaseous homogeneous catalysts, transferring oxygen: 2 NO + O₂ → 2 NO₂; NO₂ + SO₂ → SO₃ + NO."
+    },
+    {
+      "id": 35,
+      "question": "Hydrogen sulfide (H₂S) gas turns moist lead acetate paper black due to the formation of:",
+      "options": {
+        "A": "Lead sulfate (PbSO₄)",
+        "B": "Lead sulfide (PbS)",
+        "C": "Lead dioxide (PbO₂)",
+        "D": "Lead chloride (PbCl₂)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pb(CH₃COO)₂ + H₂S → PbS (insoluble black precipitate) + 2 CH₃COOH."
+    }
+  ]
+}

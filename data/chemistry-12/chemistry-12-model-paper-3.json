@@ -1,0 +1,215 @@
+{
+  "chapterNumber": 19,
+  "chapterTitle": "Annual Board Examination Section A Simulator 3 (FBISE Class 12 Chemistry)",
+  "title": "Annual Board Examination Section A Simulator 3 (FBISE Class 12 Chemistry)",
+  "slug": "chemistry-12-model-paper-3",
+  "totalQuestions": 17,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "The melting and boiling points of elements in Period 2 and Period 3 reach a maximum at:",
+      "options": {
+        "A": "Group IA (alkali metals)",
+        "B": "Group IVA (Carbon and Silicon)",
+        "C": "Group VIIA (halogens)",
+        "D": "Group VIIIA (noble gases)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Group IVA elements (C in diamond, Si) form giant covalent network lattices with four strong covalent bonds per atom, demanding enormous energy to melt."
+    },
+    {
+      "id": 2,
+      "question": "When Lithium nitrate (LiNO₃) is heated strongly, it decomposes into:",
+      "options": {
+        "A": "LiNO₂ and O₂",
+        "B": "Li₂O, NO₂, and O₂",
+        "C": "Li metal, N₂, and O₂",
+        "D": "Li₃N and O₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Unlike other alkali metal nitrates that yield nitrites and O₂, LiNO₃ decomposes like Group IIA nitrates into Li₂O, NO₂ (brown fumes), and O₂."
+    },
+    {
+      "id": 3,
+      "question": "In the Hall-Héroult industrial process for the extraction of aluminum, cryolite (Na₃AlF₆) is added to molten alumina (Al₂O₃) to:",
+      "options": {
+        "A": "Lower the melting point from 2050°C to ~950°C and improve electrical conductivity",
+        "B": "Oxidize aluminum to Al³⁺",
+        "C": "Prevent graphite anodes from burning",
+        "D": "Act as a reducing agent"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cryolite dissolves Al₂O₃, depressing its melting point from over 2000°C to ~950°C and providing ionic conductivity."
+    },
+    {
+      "id": 4,
+      "question": "Which allotrope of sulfur is thermodynamically stable at room temperature (below 95.6°C)?",
+      "options": {
+        "A": "Monoclinic (β-sulfur)",
+        "B": "Rhombic (α-sulfur)",
+        "C": "Plastic sulfur",
+        "D": "Colloidal sulfur"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rhombic (α) sulfur consisting of puckered S₈ rings is the most stable allotrope below the transition temperature of 95.6°C."
+    },
+    {
+      "id": 5,
+      "question": "What is the molecular geometry of Chlorine trifluoride (ClF₃)?",
+      "options": {
+        "A": "Trigonal planar",
+        "B": "T-shaped",
+        "C": "Pyramidal",
+        "D": "Tetrahedral"
+      },
+      "correctAnswer": "B",
+      "explanation": "ClF₃ has 3 bond pairs and 2 lone pairs (sp³d). Lone pairs occupy equatorial sites, yielding a slightly bent T-shaped molecule."
+    },
+    {
+      "id": 6,
+      "question": "What is the geometry and coordination number of Iron in hemoglobin?",
+      "options": {
+        "A": "Square planar, 4",
+        "B": "Octahedral, 6",
+        "C": "Tetrahedral, 4",
+        "D": "Linear, 2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fe²⁺ is coordinated to 4 pyrrole nitrogens of the porphyrin ring, 1 histidine imidazole nitrogen, and 1 oxygen molecule (6 coordination positions, octahedral)."
+    },
+    {
+      "id": 7,
+      "question": "Homolytic fission of a covalent C-C single bond generates:",
+      "options": {
+        "A": "A carbocation and a carbanion",
+        "B": "Two neutral free radicals each carrying an unpaired electron",
+        "C": "Electrons and protons",
+        "D": "A carbocation and a hydride ion"
+      },
+      "correctAnswer": "B",
+      "explanation": "In homolytic cleavage (symmetrical breaking), each bonded atom retains one electron of the bonding pair: A:B → A• + B•."
+    },
+    {
+      "id": 8,
+      "question": "In the dehydration of alcohols to alkenes with concentrated sulfuric acid, what is the relative order of ease of dehydration?",
+      "options": {
+        "A": "1° > 2° > 3°",
+        "B": "3° (tertiary) > 2° (secondary) > 1° (primary)",
+        "C": "2° > 1° > 3°",
+        "D": "All alcohols dehydrate at the same rate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dehydration proceeds via carbocation intermediates; tertiary alcohols form stable 3° carbocations easily at mild temperatures (~85°C with 20% H₂SO₄)."
+    },
+    {
+      "id": 9,
+      "question": "When toluene (methylbenzene) is treated with chlorine in the presence of boiling temperature and bright sunlight (no catalyst), substitution occurs exclusively at:",
+      "options": {
+        "A": "The ortho position on the ring",
+        "B": "The para position on the ring",
+        "C": "The side-chain methyl group to form benzyl chloride (C₆H₅CH₂Cl)",
+        "D": "The meta position"
+      },
+      "correctAnswer": "C",
+      "explanation": "High temperature and light trigger free-radical halogenation of the side-chain: C₆H₅CH₃ + Cl₂ xrightarrow{hν, \\Delta} C₆H₅CH₂Cl (benzyl chloride) + HCl."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following compounds is known as Teflon and prepared by polymerization of tetrafluoroethene?",
+      "options": {
+        "A": "-[CF₂-CF₂]_n-",
+        "B": "-[CH₂-CHCl]_n-",
+        "C": "-[CH₂-CH₂]_n-",
+        "D": "-[CF₂-CCl₂]_n-"
+      },
+      "correctAnswer": "A",
+      "explanation": "Polytetrafluoroethene (PTFE / Teflon) consists of repeating -[CF₂-CF₂]- units with high chemical inertness and non-stick properties."
+    },
+    {
+      "id": 11,
+      "question": "What is the common chemical name of 1,2,3-propanetriol, a trihydric alcohol with sweet taste and high viscosity?",
+      "options": {
+        "A": "Glycerol (Glycerin)",
+        "B": "Ethylene glycol",
+        "C": "Catechol",
+        "D": "Resorcinol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Glycerol is CH₂OH-CHOH-CH₂OH, having 3 hydroxyl groups engaged in extensive hydrogen bonding, giving it high boiling point (290°C) and viscosity."
+    },
+    {
+      "id": 12,
+      "question": "Dry distillation of an equimolar mixture of calcium acetate and calcium formate yields:",
+      "options": {
+        "A": "Acetaldehyde (CH₃CHO)",
+        "B": "Acetone",
+        "C": "Formaldehyde only",
+        "D": "Ethanol"
+      },
+      "correctAnswer": "A",
+      "explanation": "(CH₃COO)₂Ca + (HCOO)₂Ca xrightarrow{\\Delta} 2 CH₃CHO + 2 CaCO₃."
+    },
+    {
+      "id": 13,
+      "question": "What is the systematic IUPAC name for Adipic acid, a precursor for the manufacture of Nylon-6,6?",
+      "options": {
+        "A": "Hexanedioic acid [HOOC-(CH₂)₄-COOH]",
+        "B": "Pentanedioic acid",
+        "C": "Butanedioic acid",
+        "D": "Heptanedioic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adipic acid has 6 carbons with terminal carboxyl groups: Hexanedioic acid."
+    },
+    {
+      "id": 14,
+      "question": "Which of the following polymers is an addition polymer synthesized from vinyl cyanide (acrylonitrile, CH₂=CH-CN)?",
+      "options": {
+        "A": "Polyacrylonitrile (PAN / Orlon / Acrilan)",
+        "B": "Nylon-6",
+        "C": "Teflon",
+        "D": "Polystyrene"
+      },
+      "correctAnswer": "A",
+      "explanation": "Polyacrylonitrile (Orlon / Acrilan) is a wool-like synthetic fiber used in sweaters and blankets."
+    },
+    {
+      "id": 15,
+      "question": "The black liquor discharged from Kraft pulp digesters is concentrated and burned in a recovery furnace to:",
+      "options": {
+        "A": "Recover cooking chemicals (converting Na₂SO₄ to Na₂S and Na₂CO₃ to NaOH) and generate high-pressure steam for plant energy",
+        "B": "Make black printing ink",
+        "C": "Produce asphalt",
+        "D": "Neutralize river water"
+      },
+      "correctAnswer": "A",
+      "explanation": "Burning black liquor recovers valuable inorganic chemicals and makes the pulp mill energetically self-sufficient by generating steam and power."
+    },
+    {
+      "id": 16,
+      "question": "Which greenhouse gas has the largest contribution to the human-induced greenhouse effect and global warming due to the vast volume emitted by fossil fuel combustion?",
+      "options": {
+        "A": "Carbon dioxide (CO₂)",
+        "B": "Methane (CH₄)",
+        "C": "Nitrous oxide (N₂O)",
+        "D": "Sulfur hexafluoride"
+      },
+      "correctAnswer": "A",
+      "explanation": "While methane is more potent per molecule, CO₂ is responsible for >65% of global radiative forcing due to hundreds of billions of tons emitted globally."
+    },
+    {
+      "id": 17,
+      "question": "Bromination of benzene requires FeBr₃ or Fe as catalyst. The reaction between Fe and Br₂ forms FeBr₃, which functions as:",
+      "options": {
+        "A": "A halogen carrier that polarizes Br₂ into a Br⁺ electrophile and [FeBr₄]⁻",
+        "B": "A reducing agent",
+        "C": "A nucleophile",
+        "D": "A solvent"
+      },
+      "correctAnswer": "A",
+      "explanation": "Br₂ + FeBr₃ ⇌ Br⁺···FeBr₄⁻; the Lewis acid FeBr₃ polarizes the Br-Br bond to release the electrophilic bromonium ion."
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "chapterNumber": 17,
+  "chapterTitle": "Annual Board Examination Section A Simulator 1 (FBISE Class 12 Chemistry)",
+  "title": "Annual Board Examination Section A Simulator 1 (FBISE Class 12 Chemistry)",
+  "slug": "chemistry-12-model-paper-1",
+  "totalQuestions": 17,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following elements exhibits the highest first ionization energy?",
+      "options": {
+        "A": "Lithium (Li)",
+        "B": "Nitrogen (N)",
+        "C": "Oxygen (O)",
+        "D": "Fluorine (F)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Fluorine has the highest nuclear charge among Period 2 reactive nonmetals with a small atomic radius, requiring the most energy to remove an electron."
+    },
+    {
+      "id": 2,
+      "question": "Beryllium differs from other alkaline earth metals because it:",
+      "options": {
+        "A": "Forms predominantly covalent compounds due to high polarizing power (small Be²⁺ size)",
+        "B": "Reacts vigorously with cold water",
+        "C": "Forms a basic oxide only",
+        "D": "Has the lowest ionization energy in Group IIA"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tiny Be²⁺ has immense charge density, polarizing anions and conferring high covalent character to its compounds (Fajans' rule)."
+    },
+    {
+      "id": 3,
+      "question": "The exceptional hardness and high melting point (>3500°C) of diamond is attributed to:",
+      "options": {
+        "A": "Van der Waals forces between graphene layers",
+        "B": "Giant three-dimensional tetrahedral network of sp³-hybridized carbon atoms linked by strong covalent bonds",
+        "C": "Delocalized pi electrons",
+        "D": "Metallic bonding"
+      },
+      "correctAnswer": "B",
+      "explanation": "Every carbon in diamond is sp³ hybridized, bonded tetrahedrally to 4 other carbons in an interlocking 3D covalent lattice."
+    },
+    {
+      "id": 4,
+      "question": "Which oxide of nitrogen is known as 'laughing gas' and used as a mild anesthetic?",
+      "options": {
+        "A": "Nitric oxide (NO)",
+        "B": "Dinitrogen monoxide (N₂O)",
+        "C": "Nitrogen dioxide (NO₂)",
+        "D": "Dinitrogen pentoxide (N₂O₅)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Nitrous oxide (N₂O) produces euphoria and hysterical laughter upon inhalation and is used in dental anesthesia."
+    },
+    {
+      "id": 5,
+      "question": "Which noble gas is radioactive, produced as a daughter decay product of Radium-226?",
+      "options": {
+        "A": "Krypton",
+        "B": "Xenon",
+        "C": "Radon (Rn)",
+        "D": "Argon"
+      },
+      "correctAnswer": "C",
+      "explanation": "Radon-222 is an alpha-emitting noble gas resulting from the radioactive decay of Ra-226 in rock and soil."
+    },
+    {
+      "id": 6,
+      "question": "What is the geometry and hybridization of the diamagnetic nickel complex [Ni(CN)₄]²⁻?",
+      "options": {
+        "A": "Tetrahedral, sp³",
+        "B": "Square planar, dsp²",
+        "C": "Octahedral, d²sp³",
+        "D": "Linear, sp"
+      },
+      "correctAnswer": "B",
+      "explanation": "CN⁻ is a strong field ligand that forces pairing of Ni²⁺ (3d⁸) electrons, freeing one 3d orbital for dsp² hybridization and square planar geometry."
+    },
+    {
+      "id": 7,
+      "question": "Molecules that are non-superimposable mirror images of each other are called:",
+      "options": {
+        "A": "Diastereomers",
+        "B": "Enantiomers",
+        "C": "Metamers",
+        "D": "Conformers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Enantiomers are chiral stereoisomers that rotate plane-polarized light in equal magnitudes but opposite directions (dextro and levo)."
+    },
+    {
+      "id": 8,
+      "question": "When ethyne (acetylene) gas is passed through ammoniacal cuprous chloride (Cu₂Cl₂) solution, a characteristic precipitate of which color is formed?",
+      "options": {
+        "A": "White",
+        "B": "Reddish-brown (copper acetylide, Cu₂C₂)",
+        "C": "Canary yellow",
+        "D": "Jet black"
+      },
+      "correctAnswer": "B",
+      "explanation": "HC≡CH + 2 [Cu(NH₃)₂]⁺ → Cu-C≡C-Cu↓ (red ppt of dicopper acetylide) + 2 NH₄⁺ + 2 NH₃."
+    },
+    {
+      "id": 9,
+      "question": "In the presence of bright sunlight (UV light) and in the absence of a halogen carrier, benzene reacts with chlorine by addition to produce:",
+      "options": {
+        "A": "Chlorobenzene",
+        "B": "Hexachlorobenzene",
+        "C": "Benzene hexachloride (BHC / Gammexane / Lindane)",
+        "D": "1,2-Dichlorobenzene"
+      },
+      "correctAnswer": "C",
+      "explanation": "C₆H₆ + 3 Cl₂ xrightarrow{UV light} C₆H₆Cl₆ (1,2,3,4,5,6-hexachlorocyclohexane, commercially called Gammexane or Lindane, an agricultural insecticide)."
+    },
+    {
+      "id": 10,
+      "question": "When a Grignard reagent (R-Mg-X) is bubbled with dry Carbon Dioxide (CO₂) followed by acid hydrolysis, the organic product is:",
+      "options": {
+        "A": "An aldehyde",
+        "B": "A ketone",
+        "C": "A carboxylic acid (R-COOH)",
+        "D": "An alkane"
+      },
+      "correctAnswer": "C",
+      "explanation": "R-MgX + O=C=O → R-COO⁻MgX⁺ xrightarrow{H₃O⁺} R-COOH (carboxylic acid with one more carbon than R)."
+    },
+    {
+      "id": 11,
+      "question": "Williamson Ether Synthesis involves an S_N2 displacement between:",
+      "options": {
+        "A": "A sodium alkoxide (R-O⁻Na⁺) and an unhindered primary alkyl halide (R'-X)",
+        "B": "Two alcohol molecules with conc. H₂SO₄",
+        "C": "An alkene and water",
+        "D": "An alkyl halide and NaOH"
+      },
+      "correctAnswer": "A",
+      "explanation": "R-ONa + R'X → R-O-R' + NaX. Primary alkyl halides give high ether yields via backside S_N2 attack; tertiary halides undergo E2 elimination instead."
+    },
+    {
+      "id": 12,
+      "question": "Formalin, an aqueous solution widely used to preserve biological specimens and embalm tissues, contains approximately:",
+      "options": {
+        "A": "37% to 40% Formaldehyde (methanal) in water with ~10% methanol stabilizer",
+        "B": "100% pure liquid formaldehyde",
+        "C": "50% acetaldehyde",
+        "D": "20% formic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Commercial formalin is 37-40% aqueous formaldehyde stabilized with 8-10% methanol to prevent precipitation of insoluble paraformaldehyde polymer."
+    },
+    {
+      "id": 13,
+      "question": "What is the systematic IUPAC name for Phthalic acid (benzene-1,2-dicarboxylic acid)?",
+      "options": {
+        "A": "Benzene-1,2-dicarboxylic acid",
+        "B": "Benzene-1,4-dicarboxylic acid",
+        "C": "Benzene-1,3-dicarboxylic acid",
+        "D": "Benzoic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Phthalic acid is ortho-benzene-dicarboxylic acid: Benzene-1,2-dicarboxylic acid."
+    },
+    {
+      "id": 14,
+      "question": "The sugar unit present in the backbone of RNA is β-D-ribose, whereas DNA contains:",
+      "options": {
+        "A": "β-D-2-deoxyribose (lacking an -OH group at carbon 2)",
+        "B": "D-glucose",
+        "C": "D-fructose",
+        "D": "D-galactose"
+      },
+      "correctAnswer": "A",
+      "explanation": "DNA contains 2'-deoxyribose, which has -H instead of -OH at the C-2' position, conferring greater chemical stability against alkaline hydrolysis."
+    },
+    {
+      "id": 15,
+      "question": "The Fourdrinier machine is the heart of a paper mill, performing which continuous sequence of operations?",
+      "options": {
+        "A": "Forming the wet web on a moving wire mesh screen, dewatering by suction, pressing, drying on heated steam cylinders, and calendering",
+        "B": "Digesting wood chips into pulp",
+        "C": "Bleaching with peroxide",
+        "D": "Packaging finished reams only"
+      },
+      "correctAnswer": "A",
+      "explanation": "A dilute 0.5% pulp suspension flows onto a moving endless wire cloth, draining water and consolidating into a continuous paper sheet."
+    },
+    {
+      "id": 16,
+      "question": "A shift of an absorption band toward longer wavelength (lower energy) is known as a:",
+      "options": {
+        "A": "Bathochromic shift (Red shift)",
+        "B": "Hypsochromic shift (Blue shift)",
+        "C": "Hyperchromic effect",
+        "D": "Hypochromic effect"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bathochromic (red) shift moves λ_max to longer wavelengths; hypsochromic (blue) shift moves λ_max to shorter wavelengths."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is a nucleophile?",
+      "options": {
+        "A": "AlCl₃",
+        "B": "BF₃",
+        "C": "Ammonia (NH₃ with lone pair)",
+        "D": "NO₂⁺"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ammonia has an unshared lone pair of electrons on nitrogen available for donation to electron-deficient centers, functioning as a nucleophile."
+    }
+  ]
+}

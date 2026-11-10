@@ -27,6 +27,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   }
 
   const isGrade12 =
+    chapter.subject === 'chemistry-12' ||
+    slug.startsWith('chemistry-12') ||
     chapter.subject === 'cs-12' ||
     slug.startsWith('cs-12') ||
     chapter.subject === 'biology-12' ||
@@ -82,7 +84,8 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     chapter.subject === 'biology-9' ||
     slug.startsWith('biology-9');
   let subjectName = 'Physics';
-  if (chapter.subject === 'cs-12' || slug.startsWith('cs-12')) subjectName = 'Computer Science (کمپیوٹر سائنس)';
+  if (chapter.subject === 'chemistry-12' || slug.startsWith('chemistry-12')) subjectName = 'Chemistry (کیمسٹری)';
+  else if (chapter.subject === 'cs-12' || slug.startsWith('cs-12')) subjectName = 'Computer Science (کمپیوٹر سائنس)';
   else if (chapter.subject === 'biology-12' || slug.startsWith('biology-12')) subjectName = 'Biology (حیاتیات)';
   else if (chapter.subject === 'physics-12' || slug.startsWith('physics-12')) subjectName = 'Physics (فزکس)';
   else if (chapter.subject === 'math-12' || slug.startsWith('math-12')) subjectName = 'Mathematics (ریاضی)';

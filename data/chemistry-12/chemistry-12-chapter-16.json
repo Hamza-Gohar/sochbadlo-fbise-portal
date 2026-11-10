@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 16,
+  "chapterTitle": "Chapter 16: Environmental Chemistry & Modern Analytical Techniques",
+  "title": "Chapter 16: Environmental Chemistry & Modern Analytical Techniques",
+  "slug": "chemistry-12-chapter-16",
+  "totalQuestions": 35,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In the atmosphere, the ozone layer that shields the Earth from harmful solar ultraviolet-B radiation (290-320 nm) is located in which atmospheric sphere?",
+      "options": {
+        "A": "Stratosphere (15 to 30 km altitude)",
+        "B": "Troposphere (0 to 12 km)",
+        "C": "Mesosphere",
+        "D": "Thermosphere"
+      },
+      "correctAnswer": "A",
+      "explanation": "The stratospheric ozone shield absorbs destructive UV-C and UV-B radiation via the Chapman photolytic cycle: O₃ + hν → O₂ + O."
+    },
+    {
+      "id": 2,
+      "question": "Chlorofluorocarbons (CFCs / Freons) cause catalytic destruction of stratospheric ozone because ultraviolet radiation photolyzes them to release reactive:",
+      "options": {
+        "A": "Chlorine free radicals (Cl•)",
+        "B": "Fluoride ions (F⁻)",
+        "C": "Carbon atoms",
+        "D": "Hydroxyl radicals"
+      },
+      "correctAnswer": "A",
+      "explanation": "CF₂Cl₂ + hν → •CF₂Cl + Cl•; each chlorine radical can destroy up to 100,000 ozone molecules via catalytic chain propagation: Cl• + O₃ → ClO• + O₂; ClO• + O → Cl• + O₂."
+    },
+    {
+      "id": 3,
+      "question": "Photochemical smog (Los Angeles smog) is an oxidizing smog formed on sunny days by photochemical reactions between:",
+      "options": {
+        "A": "Nitrogen oxides (NO_x), unburned volatile organic compounds (VOCs), and sunlight, producing ozone and peroxyacetyl nitrate (PAN)",
+        "B": "SO₂ and coal smoke in cold damp air",
+        "C": "Carbon dioxide and water vapor",
+        "D": "Methane and nitrogen gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "Automobile exhaust releases NO and hydrocarbons; solar UV splits NO₂ into NO + O, which creates secondary oxidants: ground-level O₃, aldehydes, and eye-irritating PAN."
+    },
+    {
+      "id": 4,
+      "question": "Normal unpolluted rainwater is slightly acidic (pH ~5.6) due to dissolved atmospheric CO₂ forming carbonic acid. Acid rain is defined when rainfall pH falls below:",
+      "options": {
+        "A": "5.6",
+        "B": "7.0",
+        "C": "6.5",
+        "D": "8.0"
+      },
+      "correctAnswer": "A",
+      "explanation": "Rainwater with pH < 5.6 is classified as acid rain, caused primarily by atmospheric sulfuric acid (from SO₂) and nitric acid (from NO_x)."
+    },
+    {
+      "id": 5,
+      "question": "Biochemical Oxygen Demand (BOD) is a vital water quality index that measures:",
+      "options": {
+        "A": "The amount of dissolved oxygen consumed by aerobic microorganisms to biologically decompose organic matter in a water sample over 5 days at 20°C",
+        "B": "The total volume of dissolved air in water",
+        "C": "The chemical oxidation by dichromate",
+        "D": "The concentration of dissolved minerals"
+      },
+      "correctAnswer": "A",
+      "explanation": "BOD₅ tests oxygen consumption by aerobic microbes. Clean unpolluted water has BOD < 1-2 ppm; heavily polluted sewage water has BOD > 100-400 ppm."
+    },
+    {
+      "id": 6,
+      "question": "Chemical Oxygen Demand (COD) measures the total organic content in wastewater by oxidizing it chemically using which boiling acidic reagent?",
+      "options": {
+        "A": "Potassium dichromate (K₂Cr₂O₇) in concentrated H₂SO₄",
+        "B": "KMnO₄ in cold water",
+        "C": "Hydrogen peroxide",
+        "D": "Sodium hypochlorite"
+      },
+      "correctAnswer": "A",
+      "explanation": "Boiling with acidified standard K₂Cr₂O₇ oxidizes both biodegradable and non-biodegradable organic pollutants, with COD always higher than BOD."
+    },
+    {
+      "id": 7,
+      "question": "Eutrophication of lakes and rivers is caused by excessive runoff of which plant nutrients, leading to algal blooms and eventual aquatic dead zones?",
+      "options": {
+        "A": "Phosphates and Nitrates (from agricultural fertilizers and detergents)",
+        "B": "Heavy metals",
+        "C": "Sodium chloride",
+        "D": "Calcium carbonate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Excess phosphate and nitrate trigger dense blooms of algae; decaying algae consume dissolved oxygen, suffocating fish."
+    },
+    {
+      "id": 8,
+      "question": "Minamata disease, a severe neurological toxic syndrome first discovered in Japan, is caused by bioaccumulation of:",
+      "options": {
+        "A": "Methylmercury [CH₃Hg⁺]",
+        "B": "Lead (Pb²⁺)",
+        "C": "Cadmium (Cd²⁺)",
+        "D": "Arsenic (As³⁺)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Industrial methylmercury discharges accumulate in fish, attacking the central nervous system, brain, and motor control."
+    },
+    {
+      "id": 9,
+      "question": "Itai-itai disease ('it hurts-it hurts') is a painful bone-softening and renal failure condition caused by chronic poisoning from:",
+      "options": {
+        "A": "Cadmium (Cd²⁺)",
+        "B": "Mercury",
+        "C": "Lead",
+        "D": "Nickel"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cadmium replaces calcium in human bones, causing severe osteomalacia, multiple fractures, and irreversible kidney damage."
+    },
+    {
+      "id": 10,
+      "question": "In drinking water purification plants, Alum [K₂SO₄·Al₂(SO₄)₃·24H₂O] is added during the coagulation/flocculation step to:",
+      "options": {
+        "A": "Neutralize negative charges on suspended colloidal clay particles, forming a gelatinous Al(OH)₃ floc that traps and settles impurities",
+        "B": "Kill all pathogenic bacteria",
+        "C": "Impart pleasant taste",
+        "D": "Soften hard water"
+      },
+      "correctAnswer": "A",
+      "explanation": "Al³⁺ ions hydrolyze to form sticky Al(OH)₃ gelatinous flocs that sweep down finely suspended silt and microorganisms during sedimentation."
+    },
+    {
+      "id": 11,
+      "question": "The primary disadvantage of chlorinating municipal drinking water containing residual humic organic matter is the formation of carcinogenic byproducts called:",
+      "options": {
+        "A": "Trihalomethanes (THMs, such as chloroform CHCl₃)",
+        "B": "Carbon dioxide",
+        "C": "Sulfates",
+        "D": "Nitrates"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chlorine reacts with natural organic matter to produce trihalomethanes (THMs), which are suspected human carcinogens."
+    },
+    {
+      "id": 12,
+      "question": "Which principle of 'Green Chemistry' emphasizes that synthetic methods should be designed to maximize the incorporation of all raw materials into the final product?",
+      "options": {
+        "A": "Atom Economy",
+        "B": "Solvent elimination",
+        "C": "Energy minimization",
+        "D": "Use of stoichiometric reagents"
+      },
+      "correctAnswer": "A",
+      "explanation": "Atom Economy = (Molecular weight of desired product / Molecular weight of all reactants) × 100%; high atom economy minimizes chemical waste."
+    },
+    {
+      "id": 13,
+      "question": "Infrared (IR) Spectroscopy is primarily used by organic chemists to identify:",
+      "options": {
+        "A": "Functional groups based on characteristic vibrational stretching and bending frequencies",
+        "B": "Total molecular weight directly",
+        "C": "Nuclear spins",
+        "D": "Electronic transitions"
+      },
+      "correctAnswer": "A",
+      "explanation": "Molecules absorb infrared radiation at frequencies resonant with specific bond vibrations (stretching and bending), diagnostic of functional groups."
+    },
+    {
+      "id": 14,
+      "question": "In an Infrared (IR) spectrum, a broad, strong absorption band appearing in the region 3200 - 3600 cm⁻¹ is characteristic of:",
+      "options": {
+        "A": "Hydrogen-bonded O-H stretching vibration (alcohols and phenols)",
+        "B": "C=O carbonyl stretch",
+        "C": "C-C single bond",
+        "D": "C≡C triple bond"
+      },
+      "correctAnswer": "A",
+      "explanation": "The O-H bond involved in intermolecular hydrogen bonding gives a broad, intense peak at 3200-3600 cm⁻¹."
+    },
+    {
+      "id": 15,
+      "question": "A sharp, very intense absorption band appearing at 1680 - 1750 cm⁻¹ in an IR spectrum is the diagnostic fingerprint of which functional group?",
+      "options": {
+        "A": "Carbonyl group (C=O stretch of aldehydes, ketones, esters, and acids)",
+        "B": "C-O stretch",
+        "C": "C=C alkene stretch",
+        "D": "N-H bend"
+      },
+      "correctAnswer": "A",
+      "explanation": "The polar C=O double bond has a large dipole change during vibration, producing a sharp, prominent absorption peak between 1680 and 1750 cm⁻¹."
+    },
+    {
+      "id": 16,
+      "question": "In an IR spectrum, the region below 1500 cm⁻¹ (600 - 1400 cm⁻¹) containing complex overlapping skeletal bending vibrations unique to a specific molecule is called the:",
+      "options": {
+        "A": "Fingerprint region",
+        "B": "Functional group region",
+        "C": "Overtone region",
+        "D": "Electronic zone"
+      },
+      "correctAnswer": "A",
+      "explanation": "The fingerprint region is unique to each individual organic compound, just as a human fingerprint identifies a specific person."
+    },
+    {
+      "id": 17,
+      "question": "According to the Beer-Lambert Law in Ultraviolet-Visible (UV-Vis) spectroscopy, the absorbance (A) of a solution is given by:",
+      "options": {
+        "A": "A = ε · c · l",
+        "B": "A = c / (ε · l)",
+        "C": "A = ε / (c · l)",
+        "D": "A = l / (ε · c)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Absorbance A = εcl, where ε is the molar absorptivity (extinction coefficient), c is concentration in mol/L, and l is cuvette path length in cm."
+    },
+    {
+      "id": 18,
+      "question": "In UV-Visible spectroscopy, a covalently bonded unsaturated group that absorbs electromagnetic radiation in the UV or visible region is called a:",
+      "options": {
+        "A": "Chromophore (e.g., -C=C-, -C=O, -N=N-, -NO₂)",
+        "B": "Auxochrome",
+        "C": "Ligand",
+        "D": "Chelate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chromophores ('color carriers') are functional groups with π electrons undergoing π→π* or n→π* transitions in the 200-800 nm range."
+    },
+    {
+      "id": 19,
+      "question": "A functional group containing lone pairs (such as -OH, -NH₂, -OR) that does not absorb UV light on its own but shifts the absorption of a chromophore to longer wavelength is called an:",
+      "options": {
+        "A": "Auxochrome",
+        "B": "Chromophore",
+        "C": "Bathochrome",
+        "D": "Isomer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Auxochromes attach to chromophores and extend conjugation via lone pair delocalization, red-shifting the absorption maximum (bathochromic shift)."
+    },
+    {
+      "id": 20,
+      "question": "A shift of an absorption band toward longer wavelength (lower energy) is known as a:",
+      "options": {
+        "A": "Bathochromic shift (Red shift)",
+        "B": "Hypsochromic shift (Blue shift)",
+        "C": "Hyperchromic effect",
+        "D": "Hypochromic effect"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bathochromic (red) shift moves λ_max to longer wavelengths; hypsochromic (blue) shift moves λ_max to shorter wavelengths."
+    },
+    {
+      "id": 21,
+      "question": "In Proton Nuclear Magnetic Resonance (¹H-NMR) spectroscopy, what reference compound is added as an internal standard and assigned a chemical shift (δ) of 0.0 ppm?",
+      "options": {
+        "A": "Tetramethylsilane [TMS, (CH₃)₄Si]",
+        "B": "Chloroform",
+        "C": "Water",
+        "D": "Benzene"
+      },
+      "correctAnswer": "A",
+      "explanation": "TMS is chemically inert, volatile (b.p. 27°C), soluble in organic solvents, and gives a sharp single resonance peak at higher field than almost all organic protons."
+    },
+    {
+      "id": 22,
+      "question": "In ¹H-NMR spectroscopy, the splitting of NMR signals into multiplets due to spin-spin coupling with adjacent non-equivalent protons follows the:",
+      "options": {
+        "A": "n + 1 rule",
+        "B": "Hund's rule",
+        "C": "Pauli principle",
+        "D": "Aufbau principle"
+      },
+      "correctAnswer": "A",
+      "explanation": "A proton with n equivalent neighboring protons splits into a multiplet containing (n + 1) peaks (e.g., 2 neighbors split a signal into a triplet: 2+1=3)."
+    },
+    {
+      "id": 23,
+      "question": "In Mass Spectrometry, the peak corresponding to the intact, unfragmented ionized molecule produced by loss of one electron (M•⁺) is called the:",
+      "options": {
+        "A": "Molecular ion peak (parent peak)",
+        "B": "Base peak",
+        "C": "Isotope peak",
+        "D": "Metastable peak"
+      },
+      "correctAnswer": "A",
+      "explanation": "The molecular ion peak (M•⁺) gives the exact molecular mass (m/z value) of the compound."
+    },
+    {
+      "id": 24,
+      "question": "The most intense (tallest) peak in a mass spectrum, arbitrarily assigned an abundance of 100%, is termed the:",
+      "options": {
+        "A": "Base peak",
+        "B": "Parent peak",
+        "C": "Radical peak",
+        "D": "Recombination peak"
+      },
+      "correctAnswer": "A",
+      "explanation": "The base peak represents the most stable and abundantly formed ionic fragment in the fragmentation pathway (normalized to 100%)."
+    },
+    {
+      "id": 25,
+      "question": "In chromatography (paper or thin-layer chromatography, TLC), the Retention Factor (R_f) value is calculated as:",
+      "options": {
+        "A": "Distance traveled by the solute spot / Distance traveled by the solvent front",
+        "B": "Distance of solvent / Distance of solute",
+        "C": "Molecular weight × distance",
+        "D": "Flow rate / pressure"
+      },
+      "correctAnswer": "A",
+      "explanation": "R_f is a dimensionless ratio between 0 and 1: R_f = (Distance traveled by substance) / (Distance traveled by solvent front)."
+    },
+    {
+      "id": 26,
+      "question": "Which greenhouse gas has the largest contribution to the human-induced greenhouse effect and global warming due to the vast volume emitted by fossil fuel combustion?",
+      "options": {
+        "A": "Carbon dioxide (CO₂)",
+        "B": "Methane (CH₄)",
+        "C": "Nitrous oxide (N₂O)",
+        "D": "Sulfur hexafluoride"
+      },
+      "correctAnswer": "A",
+      "explanation": "While methane is more potent per molecule, CO₂ is responsible for >65% of global radiative forcing due to hundreds of billions of tons emitted globally."
+    },
+    {
+      "id": 27,
+      "question": "High-performance liquid chromatography (HPLC) and Gas Chromatography (GC) differ primarily in that:",
+      "options": {
+        "A": "GC uses an inert carrier gas (He or N₂) as mobile phase for volatile compounds, whereas HPLC uses liquid mobile phase under high pressure for non-volatile/thermolabile compounds",
+        "B": "HPLC is only for gases",
+        "C": "GC does not use a column",
+        "D": "HPLC does not separate mixtures"
+      },
+      "correctAnswer": "A",
+      "explanation": "GC requires samples to be vaporized into carrier gas without thermal decomposition; HPLC pumps liquid solvents through fine particulate columns for heat-sensitive solutes."
+    },
+    {
+      "id": 28,
+      "question": "The catalytic converter installed in modern automobile exhaust systems uses platinum, palladium, and rhodium to convert harmful emissions into:",
+      "options": {
+        "A": "CO, NO_x, and hydrocarbons into harmless CO₂, N₂, and H₂O",
+        "B": "Sulfur dioxide",
+        "C": "Ozone and PAN",
+        "D": "Carbon soot"
+      },
+      "correctAnswer": "A",
+      "explanation": "Three-way catalytic converters oxidize toxic CO and unburned hydrocarbons to CO₂ and H₂O, while reducing NO_x to harmless nitrogen gas (N₂)."
+    },
+    {
+      "id": 29,
+      "question": "What is the primary toxic effect of lead (Pb²⁺) poisoning on human health, especially in young children?",
+      "options": {
+        "A": "Inhibits enzymes for heme synthesis (causing anemia) and damages developing central nervous system, lowering IQ",
+        "B": "Destroys skin cells only",
+        "C": "Causes immediate heart attack",
+        "D": "Causes color blindness"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lead inhibits aminolevulinic acid dehydratase, causing anemia, encephalopathy, and permanent neurodevelopmental cognitive deficits."
+    },
+    {
+      "id": 30,
+      "question": "In ¹H-NMR spectroscopy, how many distinct resonance signals are observed for pure Ethanol (CH₃-CH₂-OH)?",
+      "options": {
+        "A": "Three signals (ratio 3 : 2 : 1 corresponding to -CH₃, -CH₂-, and -OH protons)",
+        "B": "One signal",
+        "C": "Two signals",
+        "D": "Six signals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ethanol possesses three chemically non-equivalent sets of hydrogen atoms: 3 methyl protons, 2 methylene protons, and 1 hydroxyl proton."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following organic compounds will show only ONE sharp singlet in its ¹H-NMR spectrum?",
+      "options": {
+        "A": "Acetone (CH₃COCH₃)",
+        "B": "Acetaldehyde (CH₃CHO)",
+        "C": "Ethanol (CH₃CH₂OH)",
+        "D": "Ethyl acetate"
+      },
+      "correctAnswer": "A",
+      "explanation": "In acetone, all six protons belong to two identical, symmetrical methyl groups attached to the same carbonyl carbon, producing a single singlet (δ ~2.1 ppm)."
+    },
+    {
+      "id": 32,
+      "question": "The international treaty signed in 1987 to phase out production and consumption of ozone-depleting substances (CFCs and halons) is known as the:",
+      "options": {
+        "A": "Montreal Protocol",
+        "B": "Kyoto Protocol",
+        "C": "Paris Agreement",
+        "D": "Basel Convention"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Montreal Protocol successfully regulated and phased out CFCs, stabilizing and beginning the recovery of the stratospheric ozone layer."
+    },
+    {
+      "id": 33,
+      "question": "What is the m/z value of the molecular ion peak for Benzene (C₆H₆) in a mass spectrum?",
+      "options": {
+        "A": "78",
+        "B": "52",
+        "C": "92",
+        "D": "12"
+      },
+      "correctAnswer": "A",
+      "explanation": "Molecular weight of C₆H₆ = (6 × 12.011) + (6 × 1.008) = 78 g/mol; hence the molecular ion peak appears at m/z = 78."
+    },
+    {
+      "id": 34,
+      "question": "Arsenicosis (arsenic poisoning) from drinking tubewell water contaminated with natural inorganic arsenic (As³⁺) causes characteristic:",
+      "options": {
+        "A": "Blackfoot disease and hyperpigmentation/keratosis of palms and soles",
+        "B": "Loss of hearing",
+        "C": "Brittle bones",
+        "D": "Thyroid goiter"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chronic arsenic poisoning damages peripheral blood vessels (Blackfoot gangrene) and causes characteristic raindrop skin pigmentation."
+    },
+    {
+      "id": 35,
+      "question": "In Green Chemistry, supercritical carbon dioxide (scCO₂) is widely used as a 'green solvent' to replace toxic chlorinated solvents in:",
+      "options": {
+        "A": "Decaffeination of coffee beans and dry cleaning of textiles",
+        "B": "Manufacturing car batteries",
+        "C": "Combustion engines",
+        "D": "Electroplating"
+      },
+      "correctAnswer": "A",
+      "explanation": "Supercritical CO₂ is non-toxic, non-flammable, renewable, and evaporates completely leaving zero harmful chemical residue."
+    }
+  ]
+}

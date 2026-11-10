@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 6,
+  "chapterTitle": "Chapter 6: Transition Elements & Coordination Compounds",
+  "title": "Chapter 6: Transition Elements & Coordination Compounds",
+  "slug": "chemistry-12-chapter-6",
+  "totalQuestions": 35,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following elements is classified as a typical transition element having partially filled d-orbitals in its elemental or common oxidation states?",
+      "options": {
+        "A": "Zinc (Zn)",
+        "B": "Cadmium (Cd)",
+        "C": "Iron (Fe)",
+        "D": "Scandium(III) ion"
+      },
+      "correctAnswer": "C",
+      "explanation": "Iron ([Ar] 3d⁶ 4s²) has incompletely filled 3d orbitals in both neutral (3d⁶) and ionic states (Fe²⁺ 3d⁶, Fe³⁺ 3d⁵). Zn and Cd have completely filled d¹⁰ shells."
+    },
+    {
+      "id": 2,
+      "question": "Why are compounds of transition metals frequently colored?",
+      "options": {
+        "A": "Due to d-d electronic transitions occurring within the split d-orbitals in the presence of ligands",
+        "B": "Due to nuclear magnetic resonance",
+        "C": "Due to emission of infrared radiation",
+        "D": "Due to s-p orbital mixing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ligand electrostatic fields split degenerate d-orbitals into t_2g and e_g levels; absorption of visible light promotes electrons between these d levels (d-d transitions)."
+    },
+    {
+      "id": 3,
+      "question": "What is the magnetic moment (μ) of a divalent manganese ion (Mn²⁺) with 5 unpaired electrons (using the spin-only formula μ = √[n(n+2)] BM)?",
+      "options": {
+        "A": "1.73 BM",
+        "B": "3.87 BM",
+        "C": "4.90 BM",
+        "D": "5.92 BM"
+      },
+      "correctAnswer": "D",
+      "explanation": "Mn²⁺ has 3d⁵ configuration (n = 5 unpaired electrons). μ = √[5(5 + 2)] = √35 ≈ 5.92 Bohr Magnetons."
+    },
+    {
+      "id": 4,
+      "question": "What is the oxidation state and coordination number of Cobalt in the complex ion [Co(NH₃)₆]³⁺?",
+      "options": {
+        "A": "Oxidation state = +2, Coordination number = 6",
+        "B": "Oxidation state = +3, Coordination number = 6",
+        "C": "Oxidation state = +3, Coordination number = 3",
+        "D": "Oxidation state = +6, Coordination number = 3"
+      },
+      "correctAnswer": "B",
+      "explanation": "NH₃ is a neutral ligand, so Co carries the entire +3 ionic charge; six monodentate ammine ligands give a coordination number of 6."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following ligands is a polydentate (hexadentate) chelating agent used to treat heavy metal poisoning?",
+      "options": {
+        "A": "Cyanide ion (CN⁻)",
+        "B": "Ethylenediaminetetraacetate ion (EDTA⁴⁻)",
+        "C": "Oxalate ion (C₂O₄²⁻)",
+        "D": "Carbon monoxide (CO)"
+      },
+      "correctAnswer": "B",
+      "explanation": "EDTA⁴⁻ has 2 nitrogen and 4 carboxylate oxygen donor atoms, forming an exceptionally stable hexadentate chelate cage around metal cations."
+    },
+    {
+      "id": 6,
+      "question": "According to IUPAC nomenclature, what is the correct systematic name for K₄[Fe(CN)₆]?",
+      "options": {
+        "A": "Potassium hexacyanoferrate(II)",
+        "B": "Potassium hexacyanoiron(II)",
+        "C": "Tetrapotassium ferrocyanide",
+        "D": "Potassium hexacyanoferrate(III)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cation named first (Potassium), then anionic complex: hexacyano + ferrate (anionic suffix -ate) with oxidation state (II): 4(+1) + Fe + 6(-1) = 0 → Fe = +2."
+    },
+    {
+      "id": 7,
+      "question": "The pair of coordination isomers [Co(NH₃)₅(SO₄)]Br and [Co(NH₃)₅Br]SO₄ represents which type of isomerism?",
+      "options": {
+        "A": "Hydrate isomerism",
+        "B": "Ionization isomerism",
+        "C": "Linkage isomerism",
+        "D": "Geometrical isomerism"
+      },
+      "correctAnswer": "B",
+      "explanation": "They produce different ions in aqueous solution: the first precipitates AgBr with AgNO₃, while the second precipitates BaSO₄ with BaCl₂."
+    },
+    {
+      "id": 8,
+      "question": "In the metallurgy of copper, the matte obtained from the smelting furnace consists mainly of:",
+      "options": {
+        "A": "Cu₂S and FeS",
+        "B": "Cu₂O and FeO",
+        "C": "CuSO₄ and FeSO₄",
+        "D": "Metallic Cu and Fe"
+      },
+      "correctAnswer": "A",
+      "explanation": "Molten matte contains approximately 45% copper as cuprous sulfide (Cu₂S) along with ferrous sulfide (FeS)."
+    },
+    {
+      "id": 9,
+      "question": "Why is 'blister copper' so called?",
+      "options": {
+        "A": "It is covered with blisters caused by the escape of trapped sulfur dioxide (SO₂) gas during solidification",
+        "B": "It has surface blisters of unreacted slag",
+        "C": "It is burned by excessive oxygen",
+        "D": "It dissolves in acid with blistering foam"
+      },
+      "correctAnswer": "A",
+      "explanation": "During cooling of molten copper from the Bessemer converter, escaping SO₂ gas creates characteristic surface blisters (98-99% pure copper)."
+    },
+    {
+      "id": 10,
+      "question": "What is the geometry and hybridization of the diamagnetic nickel complex [Ni(CN)₄]²⁻?",
+      "options": {
+        "A": "Tetrahedral, sp³",
+        "B": "Square planar, dsp²",
+        "C": "Octahedral, d²sp³",
+        "D": "Linear, sp"
+      },
+      "correctAnswer": "B",
+      "explanation": "CN⁻ is a strong field ligand that forces pairing of Ni²⁺ (3d⁸) electrons, freeing one 3d orbital for dsp² hybridization and square planar geometry."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following complexes can exhibit optical isomerism (enantiomerism)?",
+      "options": {
+        "A": "[Co(NH₃)₆]³⁺",
+        "B": "[Co(en)₃]³⁺ (where en = ethylenediamine)",
+        "C": "trans-[Pt(NH₃)₂Cl₂]",
+        "D": "[Ni(CO)₄]"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tris(ethylenediamine)cobalt(III) lacks a plane of symmetry or center of inversion, existing as non-superimposable d- and l-enantiomers."
+    },
+    {
+      "id": 12,
+      "question": "Potassium permanganate (KMnO₄) acts as a powerful self-indicating oxidizing agent. In strongly acidic medium, MnO₄⁻ is reduced to:",
+      "options": {
+        "A": "MnO₂ (+4)",
+        "B": "Mn²⁺ (+2, colorless / pale pink)",
+        "C": "MnO₄²⁻ (+6, green)",
+        "D": "Mn metal (0)"
+      },
+      "correctAnswer": "B",
+      "explanation": "MnO₄⁻ + 8 H⁺ + 5 e⁻ → Mn²⁺ + 4 H₂O. The oxidation state changes by 5 units from +7 to +2 in acidic solution."
+    },
+    {
+      "id": 13,
+      "question": "What is the equivalent weight of KMnO₄ in acidic medium (Molecular mass = M)?",
+      "options": {
+        "A": "M / 1",
+        "B": "M / 3",
+        "C": "M / 5",
+        "D": "M / 6"
+      },
+      "correctAnswer": "C",
+      "explanation": "Equivalent weight = Molecular mass / change in oxidation number = M / 5 (since Mn changes from +7 to +2)."
+    },
+    {
+      "id": 14,
+      "question": "In the Chromyl Chloride test for confirming chloride ions, reddish-brown fumes of which compound are formed upon heating with K₂Cr₂O₇ and concentrated H₂SO₄?",
+      "options": {
+        "A": "CrO₃",
+        "B": "CrO₂Cl₂",
+        "C": "CrCl₃",
+        "D": "Cr₂O₃"
+      },
+      "correctAnswer": "B",
+      "explanation": "4 NaCl + K₂Cr₂O₇ + 6 H₂SO₄ → 2 CrO₂Cl₂ (chromyl chloride red-brown vapor) + 4 NaHSO₄ + 2 KHSO₄ + 3 H₂O."
+    },
+    {
+      "id": 15,
+      "question": "Transition metals and their compounds are widely used as industrial catalysts primarily because:",
+      "options": {
+        "A": "They have low densities",
+        "B": "They can adopt multiple oxidation states and provide vacant d-orbitals to form transient reaction intermediates",
+        "C": "They are diamagnetic",
+        "D": "They have high electronegativities"
+      },
+      "correctAnswer": "B",
+      "explanation": "Variable valency and accessible d-orbital coordination sites allow transition metals to adsorb reactant molecules, lower activation energy, and form reaction intermediates."
+    },
+    {
+      "id": 16,
+      "question": "What is the geometry and coordination number of Iron in hemoglobin?",
+      "options": {
+        "A": "Square planar, 4",
+        "B": "Octahedral, 6",
+        "C": "Tetrahedral, 4",
+        "D": "Linear, 2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fe²⁺ is coordinated to 4 pyrrole nitrogens of the porphyrin ring, 1 histidine imidazole nitrogen, and 1 oxygen molecule (6 coordination positions, octahedral)."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following compounds is an interstitial hydride where hydrogen atoms occupy octahedral or tetrahedral voids in the metal lattice without altering the crystal structure?",
+      "options": {
+        "A": "TiH₁.₇",
+        "B": "NaH",
+        "C": "CH₄",
+        "D": "H₂O"
+      },
+      "correctAnswer": "A",
+      "explanation": "Transition metal hydrides like TiH₁.₇ and VH₀.₅₆ are non-stoichiometric interstitial compounds where tiny H atoms lodge in lattice interstices."
+    },
+    {
+      "id": 18,
+      "question": "The anti-cancer drug Cisplatin is a coordination complex with the chemical formula:",
+      "options": {
+        "A": "cis-[Pt(NH₃)₂Cl₂]",
+        "B": "trans-[Pt(NH₃)₂Cl₂]",
+        "C": "[Pt(NH₃)₄]Cl₂",
+        "D": "K₂[PtCl₄]"
+      },
+      "correctAnswer": "A",
+      "explanation": "cis-diamminedichloroplatinum(II) specifically cross-links DNA in rapidly dividing cancer cells, whereas the trans-isomer is biologically inactive."
+    },
+    {
+      "id": 19,
+      "question": "In the spectrochemical series, which of the following ligands produces the largest crystal field splitting (Δ_o)?",
+      "options": {
+        "A": "I⁻",
+        "B": "H₂O",
+        "C": "NH₃",
+        "D": "CO (Carbon monoxide)"
+      },
+      "correctAnswer": "D",
+      "explanation": "CO and CN⁻ are the strongest field ligands due to synergistic π-back-bonding, causing maximum d-orbital splitting."
+    },
+    {
+      "id": 20,
+      "question": "What is the color change observed when potassium dichromate (K₂Cr₂O₇) solution is made basic by adding sodium hydroxide?",
+      "options": {
+        "A": "Orange changes to yellow due to conversion of Cr₂O₇²⁻ to CrO₄²⁻",
+        "B": "Yellow changes to orange",
+        "C": "Orange changes to deep green",
+        "D": "Colorless"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cr₂O₇²⁻ (orange) + 2 OH⁻ ⇌ 2 CrO₄²⁻ (chromate, yellow) + H₂O. Acid reverses the reaction back to orange."
+    },
+    {
+      "id": 21,
+      "question": "Which transition metal ion is colorless in aqueous solution?",
+      "options": {
+        "A": "Cu²⁺",
+        "B": "Fe³⁺",
+        "C": "Sc³⁺",
+        "D": "Cr³⁺"
+      },
+      "correctAnswer": "C",
+      "explanation": "Sc³⁺ has a [Ar] 3d⁰ configuration with no d electrons available for d-d transition; hence its compounds are completely colorless."
+    },
+    {
+      "id": 22,
+      "question": "The blue color of aqueous copper sulfate solution turns into an intense royal blue solution upon adding excess ammonia due to the formation of:",
+      "options": {
+        "A": "[Cu(NH₃)₄]²⁺ (tetraamminecopper(II) ion)",
+        "B": "Cu(OH)₂ precipitate",
+        "C": "[Cu(H₂O)₄]²⁺",
+        "D": "Cu₃N"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cu²⁺ forms the complex ion [Cu(NH₃)₄]²⁺ with ammine ligands, shifting the d-d absorption band and intensifying the blue color."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following metals is refined commercially by the Mond process using carbon monoxide to form a volatile tetracarbonyl?",
+      "options": {
+        "A": "Copper",
+        "B": "Nickel",
+        "C": "Iron",
+        "D": "Zinc"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ni + 4 CO xrightarrow{50°C} Ni(CO)₄ (volatile gas) xrightarrow{230°C} pure Ni + 4 CO."
+    },
+    {
+      "id": 24,
+      "question": "What is the coordination number of the central metal in Prussian blue [Fe₄[Fe(CN)₆]₃]?",
+      "options": {
+        "A": "4",
+        "B": "6",
+        "C": "8",
+        "D": "2"
+      },
+      "correctAnswer": "B",
+      "explanation": "Each iron atom in the [Fe(CN)₆]⁴⁻ moiety has 6 coordinated cyanide ligands in an octahedral geometry."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following represents an ambidentate ligand that can coordinate through two different donor atoms?",
+      "options": {
+        "A": "Water (H₂O)",
+        "B": "Ammonia (NH₃)",
+        "C": "Nitro / Nitrito ligand (NO₂⁻)",
+        "D": "Carbonate ion (CO₃²⁻)"
+      },
+      "correctAnswer": "C",
+      "explanation": "NO₂⁻ can coordinate through nitrogen (-NO₂, nitro) or through oxygen (-ONO, nitrito), exhibiting linkage isomerism."
+    },
+    {
+      "id": 26,
+      "question": "The green patina that forms on antique copper statues and roofs exposed to air is composed of:",
+      "options": {
+        "A": "Basic copper carbonate [CuCO₃ · Cu(OH)₂]",
+        "B": "Cuprous oxide (Cu₂O)",
+        "C": "Cupric chloride",
+        "D": "Pure copper sulfide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Atmospheric CO₂, moisture, and oxygen react with copper over time to produce protective green basic copper carbonate (malachite patina)."
+    },
+    {
+      "id": 27,
+      "question": "What is the oxidation state of Nickel in nickel tetracarbonyl [Ni(CO)₄]?",
+      "options": {
+        "A": "+2",
+        "B": "+4",
+        "C": "0",
+        "D": "-2"
+      },
+      "correctAnswer": "C",
+      "explanation": "CO is a neutral ligand, so the nickel metal atom is in the zero (0) oxidation state."
+    },
+    {
+      "id": 28,
+      "question": "Which of the following d-orbitals point directly along the Cartesian axes (x, y, z) and experience greater repulsion from axial ligands in an octahedral crystal field?",
+      "options": {
+        "A": "d_xy, d_yz, and d_xz (t_2g set)",
+        "B": "d_x²-y² and d_z² (e_g set)",
+        "C": "Only d_z²",
+        "D": "Only d_xy"
+      },
+      "correctAnswer": "B",
+      "explanation": "The lobes of d_x²-y² and d_z² lie directly along the x, y, and z axes, clashing directly with incoming octahedral ligands and elevating to the higher energy e_g set."
+    },
+    {
+      "id": 29,
+      "question": "The froth flotation process for concentrating copper pyrites (CuFeS₂) ore utilizes pine oil as a:",
+      "options": {
+        "A": "Collector / Frothing agent that preferentially wets hydrophobic sulfide mineral particles",
+        "B": "Depressant",
+        "C": "Reducing agent",
+        "D": "Flux"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pine oil coats the sulfide particles, rendering them water-repellent so they attach to rising air bubbles and float as a froth."
+    },
+    {
+      "id": 30,
+      "question": "Which transition metal has the highest melting point of all metals (3422°C) and is used as filaments in incandescent bulbs?",
+      "options": {
+        "A": "Molybdenum (Mo)",
+        "B": "Tungsten (W / Wolfram)",
+        "C": "Platinum (Pt)",
+        "D": "Osmium (Os)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tungsten has the maximum number of unpaired electrons in 5d and 6s orbitals, creating exceptionally strong metallic bonding."
+    },
+    {
+      "id": 31,
+      "question": "What is the IUPAC name for [Pt(NH₃)₄Cl₂]²⁺?",
+      "options": {
+        "A": "Tetraamminedichloroplatinum(IV) ion",
+        "B": "Dichlorotetraammineplatinum(II) ion",
+        "C": "Tetraammineplatinum(IV) dichloride",
+        "D": "Platinum tetraammine dichloride ion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ligands named alphabetically: tetraammine before dichloro; Pt has oxidation state +4: Pt + 4(0) + 2(-1) = +2 → Pt = +4."
+    },
+    {
+      "id": 32,
+      "question": "Which transition element is the densest naturally occurring element on Earth (density ≈ 22.59 g/cm³)?",
+      "options": {
+        "A": "Lead (Pb)",
+        "B": "Osmium (Os)",
+        "C": "Gold (Au)",
+        "D": "Uranium (U)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Osmium (and Iridium) have the highest densities due to lanthanide contraction packing electrons into small atomic volumes."
+    },
+    {
+      "id": 33,
+      "question": "The purple color of the permanganate ion (MnO₄⁻) arises not from d-d transitions (since Mn is d⁰) but from:",
+      "options": {
+        "A": "Ligand-to-Metal Charge Transfer (LMCT)",
+        "B": "Metal-to-Ligand Charge Transfer (MLCT)",
+        "C": "Nuclear spin flips",
+        "D": "Rayleigh scattering"
+      },
+      "correctAnswer": "A",
+      "explanation": "An electron is promoted from an oxygen lone pair (ligand π-orbital) into an empty d-orbital of Mn(VII), known as LMCT absorption."
+    },
+    {
+      "id": 34,
+      "question": "Which of the following compounds is known as 'Turnbull's blue'?",
+      "options": {
+        "A": "Ferrous ferricyanide [Fe₃[Fe(CN)₆]₂]",
+        "B": "Ferric ferrocyanide [Fe₄[Fe(CN)₆]₃]",
+        "C": "Copper sulfate pentahydrate",
+        "D": "Cobalt nitrate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Turnbull's blue is produced by reacting Fe²⁺ salts with potassium ferricyanide: Fe₃[Fe(CN)₆]₂."
+    },
+    {
+      "id": 35,
+      "question": "Which alloy contains approximately 70% Copper and 30% Zinc?",
+      "options": {
+        "A": "Bronze",
+        "B": "Brass",
+        "C": "German silver",
+        "D": "Gunmetal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Brass is an alloy of copper and zinc, whereas bronze is primarily copper and tin."
+    }
+  ]
+}

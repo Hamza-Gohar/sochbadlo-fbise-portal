@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 14,
+  "chapterTitle": "Chapter 14: Macromolecules, Polymers and Biomolecules",
+  "title": "Chapter 14: Macromolecules, Polymers and Biomolecules",
+  "slug": "chemistry-12-chapter-14",
+  "totalQuestions": 35,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Nylon-6,6 is a synthetic polyamide manufactured by the condensation polymerization of which two monomers?",
+      "options": {
+        "A": "Hexamethylenediamine and Adipic acid",
+        "B": "Caprolactam and ethylene glycol",
+        "C": "Terephthalic acid and ethylene glycol",
+        "D": "Phenol and formaldehyde"
+      },
+      "correctAnswer": "A",
+      "explanation": "H₂N-(CH₂)₆-NH₂ + HOOC-(CH₂)₄-COOH eliminate water to form poly(hexamethylene adipamide), designated Nylon-6,6 because both monomers contain 6 carbon atoms."
+    },
+    {
+      "id": 2,
+      "question": "Terylene (Dacron), a commercially vital polyester fiber, is produced by the condensation of:",
+      "options": {
+        "A": "Terephthalic acid (benzene-1,4-dicarboxylic acid) and Ethylene glycol",
+        "B": "Phthalic acid and glycerol",
+        "C": "Adipic acid and hexamethylenediamine",
+        "D": "Phenol and formaldehyde"
+      },
+      "correctAnswer": "A",
+      "explanation": "p-HOOC-C₆H₄-COOH + HO-CH₂-CH₂-OH form ester linkages (-COO-) repetitively, eliminating water to produce Dacron polyester."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is a thermosetting polymer that cannot be softened or remolded by heating once set, due to extensive 3D covalent cross-linking?",
+      "options": {
+        "A": "Bakelite",
+        "B": "Polyethylene",
+        "C": "Polystyrene",
+        "D": "Polyvinyl chloride (PVC)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bakelite (phenol-formaldehyde resin) develops permanent cross-linked network bonds upon curing, charring rather than melting upon reheating."
+    },
+    {
+      "id": 4,
+      "question": "Natural rubber is an addition polymer of which conjugated diene monomer?",
+      "options": {
+        "A": "Isoprene (2-methyl-1,3-butadiene)",
+        "B": "Chloroprene (2-chloro-1,3-butadiene)",
+        "C": "1,3-Butadiene",
+        "D": "Styrene"
+      },
+      "correctAnswer": "A",
+      "explanation": "Natural rubber is cis-1,4-polyisoprene. Trans-1,4-polyisoprene is non-elastic gutta-percha."
+    },
+    {
+      "id": 5,
+      "question": "Vulcanization of natural rubber involves heating raw rubber with sulfur at 140°C in order to:",
+      "options": {
+        "A": "Introduce sulfur disulfide cross-links (-S-S-) between polymer chains, improving elasticity, tensile strength, and heat resistance",
+        "B": "Depolymerize the rubber into liquid monomers",
+        "C": "Bleach its natural dark color",
+        "D": "Make it soluble in water"
+      },
+      "correctAnswer": "A",
+      "explanation": "Charles Goodyear discovered that sulfur atoms form cross-links between double bonds of adjacent polyisoprene chains, preventing sticky plastic deformation."
+    },
+    {
+      "id": 6,
+      "question": "Which synthetic rubber is formed by the polymerization of chloroprene (2-chloro-1,3-butadiene) and exhibits excellent resistance to oils, gasoline, and ozone?",
+      "options": {
+        "A": "Neoprene",
+        "B": "Buna-S",
+        "C": "Buna-N",
+        "D": "Butyl rubber"
+      },
+      "correctAnswer": "A",
+      "explanation": "Neoprene (polychloroprene) is highly resistant to hydrocarbons, heat, and weathering, making it ideal for automotive hoses and gaskets."
+    },
+    {
+      "id": 7,
+      "question": "In aqueous solution, an α-amino acid exists predominantly as a dipolar ion carrying both positive and negative charges, known as a:",
+      "options": {
+        "A": "Zwitterion",
+        "B": "Carbocation",
+        "C": "Radical",
+        "D": "Micelle"
+      },
+      "correctAnswer": "A",
+      "explanation": "The basic amino group (-NH₂) captures a proton from the acidic carboxyl group (-COOH): H₃N⁺-CH(R)-COO⁻ (zwitterion / dipolar ion)."
+    },
+    {
+      "id": 8,
+      "question": "The pH at which an amino acid carries no net electrical charge and does not migrate in an electric field during electrophoresis is called its:",
+      "options": {
+        "A": "Isoelectric point (pI)",
+        "B": "Equivalence point",
+        "C": "Neutrality point",
+        "D": "Buffer capacity"
+      },
+      "correctAnswer": "A",
+      "explanation": "At the isoelectric point (pI), the concentrations of cationic and anionic forms are equal; the net molecular charge is zero."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following amino acids is optically inactive because its side chain is simply a hydrogen atom (-H), lacking a chiral carbon?",
+      "options": {
+        "A": "Glycine (H₂N-CH₂-COOH)",
+        "B": "Alanine",
+        "C": "Valine",
+        "D": "Leucine"
+      },
+      "correctAnswer": "A",
+      "explanation": "Glycine has two identical hydrogen atoms attached to its α-carbon (achiral), making it the only optically inactive standard amino acid."
+    },
+    {
+      "id": 10,
+      "question": "The peptide bond linking amino acid residues in proteins is chemically an:",
+      "options": {
+        "A": "Amide linkage (-CO-NH-)",
+        "B": "Ester linkage",
+        "C": "Ether linkage",
+        "D": "Glycosidic bond"
+      },
+      "correctAnswer": "A",
+      "explanation": "Peptide bonds are planar amide bonds (-CONH-) formed by condensation of the α-carboxyl of one amino acid with the α-amino group of another."
+    },
+    {
+      "id": 11,
+      "question": "The secondary structure of proteins, such as the α-helix and β-pleated sheet proposed by Linus Pauling, is maintained primarily by:",
+      "options": {
+        "A": "Intramolecular and intermolecular hydrogen bonds between carbonyl oxygen (>C=O) and amide hydrogen (-NH-)",
+        "B": "Disulfide covalent bonds only",
+        "C": "Hydrophobic interactions only",
+        "D": "Ionic bonds"
+      },
+      "correctAnswer": "A",
+      "explanation": "Hydrogen bonds between the C=O of residue n and N-H of residue n+4 stabilize the α-helix, while inter-strand H-bonds stabilize β-sheets."
+    },
+    {
+      "id": 12,
+      "question": "Denaturation of a protein (by heat, extremes of pH, or heavy metals) destroys which levels of protein architecture while leaving the primary sequence intact?",
+      "options": {
+        "A": "Secondary, tertiary, and quaternary structures",
+        "B": "Primary peptide bonds",
+        "C": "Amino acid functional groups",
+        "D": "Only disulfide linkages"
+      },
+      "correctAnswer": "A",
+      "explanation": "Denaturation unfolds the delicate 3D tertiary and secondary conformations without hydrolyzing the covalent peptide backbone."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following carbohydrates is a non-reducing sugar that does not reduce Fehling's or Tollens' reagents because both anomeric carbons are locked in a glycosidic bond?",
+      "options": {
+        "A": "Sucrose (table sugar)",
+        "B": "Glucose",
+        "C": "Maltose",
+        "D": "Lactose"
+      },
+      "correctAnswer": "A",
+      "explanation": "Sucrose links C-1 of α-D-glucose to C-2 of β-D-fructose (anomeric-to-anomeric linkage); lacking a free hemiacetal group, it cannot mutarotate or reduce."
+    },
+    {
+      "id": 14,
+      "question": "Starch is composed of two fractions: water-soluble linear Amylose and water-insoluble branched:",
+      "options": {
+        "A": "Amylopectin",
+        "B": "Cellulose",
+        "C": "Glycogen",
+        "D": "Dextrin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Amylose is an unbranched polymer of α-D-glucose with α(1→4) links; Amylopectin has α(1→4) chains with α(1→6) branches every 24-30 residues."
+    },
+    {
+      "id": 15,
+      "question": "Why can humans and other mammals not digest cellulose (dietary fiber), despite it being a polymer of D-glucose?",
+      "options": {
+        "A": "Human digestive enzymes (salivary and pancreatic amylase) hydrolyze only α(1→4) glycosidic bonds, lacking cellulase to cleave β(1→4) linkages",
+        "B": "Cellulose is toxic",
+        "C": "Cellulose dissolves in gastric juice",
+        "D": "Cellulose contains fructose"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mammals lack the enzyme cellulase needed to hydrolyze the rigid β(1→4) glycosidic bonds connecting glucose units in cellulose."
+    },
+    {
+      "id": 16,
+      "question": "In DNA, the nitrogenous base Adenine (A) always pairs with Thymine (T) via how many hydrogen bonds?",
+      "options": {
+        "A": "Two hydrogen bonds (A = T)",
+        "B": "Three hydrogen bonds",
+        "C": "One hydrogen bond",
+        "D": "Four hydrogen bonds"
+      },
+      "correctAnswer": "A",
+      "explanation": "Watson-Crick base pairing specifies 2 hydrogen bonds between A and T, and 3 hydrogen bonds between Guanine and Cytosine (G ≡ C)."
+    },
+    {
+      "id": 17,
+      "question": "Which nitrogenous base is present in RNA in place of Thymine?",
+      "options": {
+        "A": "Uracil (U)",
+        "B": "Cytosine",
+        "C": "Guanine",
+        "D": "Adenine"
+      },
+      "correctAnswer": "A",
+      "explanation": "RNA contains Uracil (U), which base-pairs with Adenine during transcription and translation."
+    },
+    {
+      "id": 18,
+      "question": "The sugar unit present in the backbone of RNA is β-D-ribose, whereas DNA contains:",
+      "options": {
+        "A": "β-D-2-deoxyribose (lacking an -OH group at carbon 2)",
+        "B": "D-glucose",
+        "C": "D-fructose",
+        "D": "D-galactose"
+      },
+      "correctAnswer": "A",
+      "explanation": "DNA contains 2'-deoxyribose, which has -H instead of -OH at the C-2' position, conferring greater chemical stability against alkaline hydrolysis."
+    },
+    {
+      "id": 19,
+      "question": "Enzymes are highly specific biological catalysts composed primarily of:",
+      "options": {
+        "A": "Globular proteins",
+        "B": "Lipids",
+        "C": "Polysaccharides",
+        "D": "Steroids"
+      },
+      "correctAnswer": "A",
+      "explanation": "Enzymes are specialized globular proteins with unique tertiary catalytic pockets (active sites) that dramatically lower activation energies."
+    },
+    {
+      "id": 20,
+      "question": "Which model of enzyme action proposed by Daniel Koshland states that the binding of substrate induces conformational changes in the enzyme's active site for optimal catalytic alignment?",
+      "options": {
+        "A": "Induced-fit model",
+        "B": "Lock-and-key model (Fischer)",
+        "C": "Fluid mosaic model",
+        "D": "Sliding filament model"
+      },
+      "correctAnswer": "A",
+      "explanation": "The induced-fit model explains that the active site is flexible and molds snugly around the substrate upon binding."
+    },
+    {
+      "id": 21,
+      "question": "The non-protein, heat-stable organic component required by certain conjugated enzymes (holoenzymes) for catalytic activity is termed a:",
+      "options": {
+        "A": "Coenzyme (e.g., NAD⁺, FAD, Coenzyme A)",
+        "B": "Apoenzyme",
+        "C": "Zymogen",
+        "D": "Substrate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Apoenzyme (protein portion) + Coenzyme/Cofactor (non-protein portion) = Holoenzyme (active catalytic complex)."
+    },
+    {
+      "id": 22,
+      "question": "Iodine number of a fat or oil measures:",
+      "options": {
+        "A": "The degree of unsaturation (number of double bonds) present in the fatty acid chains",
+        "B": "Molecular weight of the fat",
+        "C": "Acid content",
+        "D": "Number of ester bonds"
+      },
+      "correctAnswer": "A",
+      "explanation": "Iodine value is defined as the grams of iodine consumed by 100 grams of fat or oil across its unsaturated C=C double bonds."
+    },
+    {
+      "id": 23,
+      "question": "Rancidity of fats and oils on prolonged exposure to air, warmth, and light is caused by:",
+      "options": {
+        "A": "Auto-oxidation of unsaturated fatty acids into malodorous peroxides, aldehydes, and volatile fatty acids",
+        "B": "Polymerization into plastics",
+        "C": "Hydrogenation",
+        "D": "Sublimation"
+      },
+      "correctAnswer": "A",
+      "explanation": "Oxidative rancidity generates volatile short-chain aldehydes and butyric acid, producing foul off-flavors and odors."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following polymers is an addition polymer synthesized from vinyl cyanide (acrylonitrile, CH₂=CH-CN)?",
+      "options": {
+        "A": "Polyacrylonitrile (PAN / Orlon / Acrilan)",
+        "B": "Nylon-6",
+        "C": "Teflon",
+        "D": "Polystyrene"
+      },
+      "correctAnswer": "A",
+      "explanation": "Polyacrylonitrile (Orlon / Acrilan) is a wool-like synthetic fiber used in sweaters and blankets."
+    },
+    {
+      "id": 25,
+      "question": "Which bond links successive nucleotide units along a single polynucleotide chain in DNA and RNA?",
+      "options": {
+        "A": "3',5'-Phosphodiester linkage",
+        "B": "Peptide bond",
+        "C": "Glycosidic bond",
+        "D": "Disulfide cross-link"
+      },
+      "correctAnswer": "A",
+      "explanation": "A phosphate group links the 3'-carbon of one pentose sugar to the 5'-carbon of the adjacent pentose via phosphodiester bonds."
+    },
+    {
+      "id": 26,
+      "question": "Saponification number of a fat is defined as the milligrams of KOH required to saponify 1 gram of fat. A higher saponification number indicates:",
+      "options": {
+        "A": "Lower average molecular weight of fatty acids (shorter chains)",
+        "B": "Higher molecular weight fatty acids",
+        "C": "Greater unsaturation",
+        "D": "Absence of glycerol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Shorter fatty acid chains mean more ester molecules per gram of fat, requiring more milligrams of KOH for complete saponification."
+    },
+    {
+      "id": 27,
+      "question": "Which of the following carbohydrates gives a blue-black coloration with iodine solution?",
+      "options": {
+        "A": "Starch (Amylose)",
+        "B": "Cellulose",
+        "C": "Glucose",
+        "D": "Sucrose"
+      },
+      "correctAnswer": "A",
+      "explanation": "Iodine (I₃⁻ / I₅⁻) slips inside the helical coils of unbranched amylose in starch, forming a deep blue-black charge-transfer complex."
+    },
+    {
+      "id": 28,
+      "question": "Insulin, a hormone that regulates blood glucose levels, is chemically classified as a:",
+      "options": {
+        "A": "Polypeptide / Protein hormone consisting of 51 amino acids in two chains linked by disulfide bridges",
+        "B": "Steroid hormone",
+        "C": "Carbohydrate",
+        "D": "Phospholipid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Insulin contains Chain A (21 amino acids) and Chain B (30 amino acids) cross-linked by two inter-chain disulfide bridges."
+    },
+    {
+      "id": 29,
+      "question": "Which test produces a purple-violet coloration with proteins and peptides containing two or more peptide bonds in alkaline copper sulfate solution?",
+      "options": {
+        "A": "Biuret Test",
+        "B": "Ninhydrin Test",
+        "C": "Xanthoproteic Test",
+        "D": "Molisch's Test"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cu²⁺ ions in alkaline solution coordinate with four peptide nitrogen atoms to form a violet chelate complex (Biuret test)."
+    },
+    {
+      "id": 30,
+      "question": "Ninhydrin reagent reacts with all α-amino acids on heating to produce an intense blue-purple coloration known as:",
+      "options": {
+        "A": "Ruhemann's Purple",
+        "B": "Prussian Blue",
+        "C": "Schiff's violet",
+        "D": "Biuret purple"
+      },
+      "correctAnswer": "A",
+      "explanation": "Oxidative deamination and condensation of ninhydrin with liberated ammonia generates the deep purple pigment Ruhemann's purple."
+    },
+    {
+      "id": 31,
+      "question": "Which vitamin is water-soluble, acts as a powerful antioxidant, prevents scurvy, and is chemically known as L-ascorbic acid?",
+      "options": {
+        "A": "Vitamin C",
+        "B": "Vitamin A",
+        "C": "Vitamin D",
+        "D": "Vitamin K"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ascorbic acid (Vitamin C) is a water-soluble enediol cofactor required for collagen biosynthesis."
+    },
+    {
+      "id": 32,
+      "question": "Molisch's Test is a general diagnostic test for all carbohydrates based on dehydration by concentrated H₂SO₄ to furfural derivatives that react with α-naphthol to form:",
+      "options": {
+        "A": "A reddish-violet ring at the liquid junction",
+        "B": "A silver mirror",
+        "C": "A yellow precipitate",
+        "D": "A green solution"
+      },
+      "correctAnswer": "A",
+      "explanation": "Concentrated H₂SO₄ dehydrates pentoses and hexoses into furfurals, condensing with alcoholic α-naphthol to produce a purple ring."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following is an example of an essential amino acid that cannot be synthesized de novo by the human body and must be supplied in diet?",
+      "options": {
+        "A": "Lysine",
+        "B": "Glycine",
+        "C": "Alanine",
+        "D": "Serine"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lysine, Leucine, Isoleucine, Valine, Methionine, Phenylalanine, Threonine, Tryptophan, and Histidine are the essential amino acids."
+    },
+    {
+      "id": 34,
+      "question": "Glycogen, the major glucose storage polysaccharide in animal liver and muscle tissues, is structurally most similar to:",
+      "options": {
+        "A": "Amylopectin, but with significantly more frequent branching points [α(1→6) every 8-12 residues]",
+        "B": "Cellulose",
+        "C": "Linear amylose",
+        "D": "Chitin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Glycogen is 'animal starch', resembling amylopectin but much more densely branched to enable rapid glucose mobilization."
+    },
+    {
+      "id": 35,
+      "question": "Phospholipids (like lecithin) are amphipathic molecules forming cell membrane bilayers because they contain:",
+      "options": {
+        "A": "A hydrophilic polar head (phosphate + choline) and two hydrophobic non-polar fatty acid hydrocarbon tails",
+        "B": "Only non-polar chains",
+        "C": "Only charged ions",
+        "D": "Cellulose fibers"
+      },
+      "correctAnswer": "A",
+      "explanation": "The dual hydrophilic head / hydrophobic tail architecture spontaneously forms lipid bilayers in aqueous environments."
+    }
+  ]
+}

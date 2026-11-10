@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 8,
+  "chapterTitle": "Chapter 8: Aliphatic Hydrocarbons (Alkanes, Alkenes & Alkynes)",
+  "title": "Chapter 8: Aliphatic Hydrocarbons (Alkanes, Alkenes & Alkynes)",
+  "slug": "chemistry-12-chapter-8",
+  "totalQuestions": 35,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In the Sabatier-Senderens reaction, alkenes or alkynes are converted into alkanes by catalytic hydrogenation at 200°C-300°C using which metal catalyst?",
+      "options": {
+        "A": "Raney Nickel",
+        "B": "Finely divided Nickel (Ni)",
+        "C": "Iron (Fe)",
+        "D": "Zinc dust"
+      },
+      "correctAnswer": "B",
+      "explanation": "Finely divided Nickel catalyzes hydrogenation of unsaturated hydrocarbons at 200°-300°C (Sabatier-Senderens reaction)."
+    },
+    {
+      "id": 2,
+      "question": "In the free radical chlorination of methane, the step Cl• + CH₄ → •CH₃ + HCl is classified as:",
+      "options": {
+        "A": "Chain initiation",
+        "B": "Chain propagation",
+        "C": "Chain termination",
+        "D": "Chain branching"
+      },
+      "correctAnswer": "B",
+      "explanation": "Propagation steps consume one radical (Cl•) and generate another radical (•CH₃), propagating the cyclic reaction."
+    },
+    {
+      "id": 3,
+      "question": "Kolbe's electrolytic synthesis of ethane involves the electrolysis of a concentrated aqueous solution of:",
+      "options": {
+        "A": "Sodium methanoate",
+        "B": "Potassium acetate (CH₃COOK)",
+        "C": "Sodium propanoate",
+        "D": "Calcium carbide"
+      },
+      "correctAnswer": "B",
+      "explanation": "At the anode: 2 CH₃COO⁻ - 2e⁻ → 2 CH₃COO• → 2 •CH₃ + 2 CO₂; 2 •CH₃ combine to form C₂H₆ (ethane)."
+    },
+    {
+      "id": 4,
+      "question": "What is the octane number of 2,2,4-trimethylpentane (isooctane) arbitrarily assigned on the octane rating scale?",
+      "options": {
+        "A": "0",
+        "B": "50",
+        "C": "100",
+        "D": "80"
+      },
+      "correctAnswer": "C",
+      "explanation": "Isooctane burns smoothly with minimal engine knock and is assigned an octane number of 100 (while n-heptane is assigned 0)."
+    },
+    {
+      "id": 5,
+      "question": "Which organometallic antiknock agent was historically added to gasoline to prevent engine knocking, now phased out due to toxic lead emissions?",
+      "options": {
+        "A": "Tetraethyl lead [Pb(C₂H₅)₄]",
+        "B": "Methyl tert-butyl ether (MTBE)",
+        "C": "Ferrocene",
+        "D": "Dimethyl mercury"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tetraethyl lead (TEL) breaks down into ethyl radicals that scavenge pre-ignition peroxy radicals in gasoline combustion."
+    },
+    {
+      "id": 6,
+      "question": "According to Markovnikov's rule, when an unsymmetrical reagent (like HBr) adds to an unsymmetrical alkene, the negative part of the reagent attaches to:",
+      "options": {
+        "A": "The sp² carbon bearing the greater number of hydrogen atoms",
+        "B": "The sp² carbon bearing the fewer number of hydrogen atoms",
+        "C": "Either carbon with equal probability",
+        "D": "The saturated terminal carbon"
+      },
+      "correctAnswer": "B",
+      "explanation": "Markovnikov addition proceeds via the more stable carbocation intermediate; hence electrophilic H⁺ adds to the carbon with more hydrogens, directing Br⁻ to the carbon with fewer hydrogens."
+    },
+    {
+      "id": 7,
+      "question": "When HBr adds to propene in the presence of organic peroxides (e.g., benzoyl peroxide), 1-bromopropane is obtained as the major product. This reversal of regioselectivity is known as the:",
+      "options": {
+        "A": "Peroxide effect (Kharasch effect)",
+        "B": "Saytzeff effect",
+        "C": "Hofmann degradation",
+        "D": "Cannizzaro effect"
+      },
+      "correctAnswer": "A",
+      "explanation": "In the presence of peroxides, addition occurs via a free-radical mechanism where Br• adds first to yield the more stable secondary alkyl radical, yielding anti-Markovnikov 1-bromopropane."
+    },
+    {
+      "id": 8,
+      "question": "Why does the peroxide effect (anti-Markovnikov addition) occur ONLY with HBr and NOT with HCl or HI?",
+      "options": {
+        "A": "HCl and HI are non-polar",
+        "B": "For HCl, the H-Cl bond is too strong for radical cleavage; for HI, I• radicals dimerize to I₂ rather than attacking the double bond",
+        "C": "HBr is an organic compound",
+        "D": "Bromine is a liquid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Both propagation steps are exothermic only for HBr. For HCl, step 1 is endothermic; for HI, step 2 is endothermic because I• rapidly recombines into I₂."
+    },
+    {
+      "id": 9,
+      "question": "In Baeyer's test for unsaturation, an alkene decolorizes which reagent with the precipitation of brown MnO₂?",
+      "options": {
+        "A": "Acidified K₂Cr₂O₇",
+        "B": "Cold, 1% alkaline potassium permanganate (KMnO₄) solution",
+        "C": "Fehling's solution",
+        "D": "Tollens' reagent"
+      },
+      "correctAnswer": "B",
+      "explanation": "Alkenes are oxidized to vicinal glycols (1,2-diols) by cold alkaline KMnO₄ (Baeyer's reagent), causing purple MnO₄⁻ to form brown MnO₂ precipitate."
+    },
+    {
+      "id": 10,
+      "question": "Ozonolysis of an unknown alkene followed by reductive cleavage with Zn/H₂O yields two moles of acetaldehyde (CH₃CHO). The original alkene was:",
+      "options": {
+        "A": "1-Butene",
+        "B": "2-Butene (CH₃-CH=CH-CH₃)",
+        "C": "Ethene",
+        "D": "2-Methylpropene"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cleaving the C=C double bond in 2-butene replaces =CH-CH₃ on each side with =O, giving two molecules of CH₃CHO."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following alkynes has an acidic hydrogen atom capable of reacting with sodium metal or sodium amide (NaNH₂)?",
+      "options": {
+        "A": "2-Butyne (CH₃-C≡C-CH₃)",
+        "B": "Ethyne (HC≡CH) and Propyne (CH₃-C≡CH)",
+        "C": "2-Pentyne",
+        "D": "3-Hexyne"
+      },
+      "correctAnswer": "B",
+      "explanation": "Terminal alkynes (RC≡CH) possess an acidic hydrogen bonded to an sp-hybridized carbon (50% s-character), reacting with strong bases to form acetylides."
+    },
+    {
+      "id": 12,
+      "question": "When ethyne (acetylene) gas is passed through ammoniacal cuprous chloride (Cu₂Cl₂) solution, a characteristic precipitate of which color is formed?",
+      "options": {
+        "A": "White",
+        "B": "Reddish-brown (copper acetylide, Cu₂C₂)",
+        "C": "Canary yellow",
+        "D": "Jet black"
+      },
+      "correctAnswer": "B",
+      "explanation": "HC≡CH + 2 [Cu(NH₃)₂]⁺ → Cu-C≡C-Cu↓ (red ppt of dicopper acetylide) + 2 NH₄⁺ + 2 NH₃."
+    },
+    {
+      "id": 13,
+      "question": "Hydration of ethyne (Kucherov reaction) in the presence of 20% H₂SO₄ and 1% HgSO₄ catalyst at 60°C directly yields which intermediate that tautomerizes to acetaldehyde?",
+      "options": {
+        "A": "Vinyl alcohol (H₂C=CH-OH)",
+        "B": "Ethanol",
+        "C": "Acetic acid",
+        "D": "Diethyl ether"
+      },
+      "correctAnswer": "A",
+      "explanation": "HC≡CH + H₂O xrightarrow{Hg²⁺/H⁺} [H₂C=CH-OH] (unstable vinyl alcohol enol) ⇌ CH₃-CHO (acetaldehyde)."
+    },
+    {
+      "id": 14,
+      "question": "When ethyne is passed through a red-hot iron or copper tube at 300°C, it undergoes cyclic trimerization to form:",
+      "options": {
+        "A": "Cyclohexane",
+        "B": "Benzene (C₆H₆)",
+        "C": "Toluene",
+        "D": "Naphthalene"
+      },
+      "correctAnswer": "B",
+      "explanation": "3 C₂H₂ xrightarrow{red hot Fe tube, 300°C} C₆H₆ (benzene)."
+    },
+    {
+      "id": 15,
+      "question": "Catalytic hydrogenation of an alkyne using Lindlar's catalyst (Pd deposited on CaCO₃ poisoned with quinoline or lead acetate) produces:",
+      "options": {
+        "A": "trans-alkene exclusively",
+        "B": "cis-alkene stereoselectively",
+        "C": "An alkane directly",
+        "D": "A polymer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Poisoned Lindlar's catalyst delivers both hydrogen atoms from the same face of the catalyst surface (syn-addition), yielding cis-alkenes."
+    },
+    {
+      "id": 16,
+      "question": "Reduction of an internal alkyne with Sodium in liquid Ammonia (Birch-type conditions) yields:",
+      "options": {
+        "A": "trans-alkene stereoselectively",
+        "B": "cis-alkene",
+        "C": "Alkane",
+        "D": "Cycloalkane"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dissolving metal reduction in liquid ammonia proceeds via anti-addition through the more stable trans-radical anion intermediate to give trans-alkenes."
+    },
+    {
+      "id": 17,
+      "question": "What is the general formula for non-cyclic aliphatic alkenes?",
+      "options": {
+        "A": "C_n H_{2n+2}",
+        "B": "C_n H_{2n}",
+        "C": "C_n H_{2n-2}",
+        "D": "C_n H_{2n-4}"
+      },
+      "correctAnswer": "B",
+      "explanation": "Mono-alkenes possess one double bond, having the general formula C_n H_{2n}."
+    },
+    {
+      "id": 18,
+      "question": "In the dehydration of alcohols to alkenes with concentrated sulfuric acid, what is the relative order of ease of dehydration?",
+      "options": {
+        "A": "1° > 2° > 3°",
+        "B": "3° (tertiary) > 2° (secondary) > 1° (primary)",
+        "C": "2° > 1° > 3°",
+        "D": "All alcohols dehydrate at the same rate"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dehydration proceeds via carbocation intermediates; tertiary alcohols form stable 3° carbocations easily at mild temperatures (~85°C with 20% H₂SO₄)."
+    },
+    {
+      "id": 19,
+      "question": "Saytzeff's (Zaitsev's) rule states that during dehydrohalogenation of an alkyl halide, the major alkene product is the one that has:",
+      "options": {
+        "A": "The fewest alkyl substituents attached to the double-bonded carbons",
+        "B": "The greatest number of alkyl substituents attached to the double-bonded carbon atoms (most substituted alkene)",
+        "C": "Terminal double bond only",
+        "D": "Cis configuration only"
+      },
+      "correctAnswer": "B",
+      "explanation": "More highly substituted alkenes are thermodynamically more stable due to greater hyperconjugation and steric stabilization."
+    },
+    {
+      "id": 20,
+      "question": "Bromine water test for alkenes involves the addition of bromine across the double bond to form a colorless 1,2-dibromoalkane. The mechanism involves the formation of a cyclic intermediate called:",
+      "options": {
+        "A": "Bromonium ion",
+        "B": "Carbanion",
+        "C": "Oxonium ion",
+        "D": "Carbene"
+      },
+      "correctAnswer": "A",
+      "explanation": "Electrophilic attack of Br₂ creates a three-membered cyclic bromonium ion intermediate, followed by backside anti-attack by Br⁻."
+    },
+    {
+      "id": 21,
+      "question": "Which of the following gases is known as 'marsh gas' because it is produced by anaerobic bacterial decomposition of plant matter in swamps and paddy fields?",
+      "options": {
+        "A": "Methane (CH₄)",
+        "B": "Ethane (C₂H₆)",
+        "C": "Ethylene",
+        "D": "Acetylene"
+      },
+      "correctAnswer": "A",
+      "explanation": "Methane is marsh gas, generated by methanogenic archaebacteria in oxygen-depleted marshy soils."
+    },
+    {
+      "id": 22,
+      "question": "What is the primary industrial method for producing acetylene on a large scale from limestone and coal?",
+      "options": {
+        "A": "Reaction of calcium carbide (CaC₂) with water",
+        "B": "Thermal cracking of ethane",
+        "C": "Dehalogenation of 1,2-dichloroethane",
+        "D": "Fermentation of glucose"
+      },
+      "correctAnswer": "A",
+      "explanation": "CaCO₃ → CaO → CaC₂ (in electric arc furnace with coke); CaC₂ + 2 H₂O → Ca(OH)₂ + C₂H₂."
+    },
+    {
+      "id": 23,
+      "question": "Polymerization of ethene at high pressure (1000-2000 atm) and 200°C in the presence of trace oxygen produces:",
+      "options": {
+        "A": "High Density Polyethylene (HDPE)",
+        "B": "Low Density Polyethylene (LDPE)",
+        "C": "Teflon",
+        "D": "Polypropylene"
+      },
+      "correctAnswer": "B",
+      "explanation": "High-pressure free-radical polymerization creates branched chains that cannot pack densely, yielding Low Density Polyethylene (LDPE)."
+    },
+    {
+      "id": 24,
+      "question": "High Density Polyethylene (HDPE) is manufactured under mild conditions (few atmospheres) using which coordination catalyst?",
+      "options": {
+        "A": "Ziegler-Natta catalyst [TiCl₄ + (C₂H₅)₃Al]",
+        "B": "Fenton's reagent",
+        "C": "Wilkinson's catalyst",
+        "D": "Lindlar's catalyst"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ziegler-Natta catalyst polymerizes ethene stereoregularly into unbranched, tightly packed linear chains with high crystallinity and tensile strength."
+    },
+    {
+      "id": 25,
+      "question": "Which alkyne yields acetone (propanone) upon mercury-catalyzed hydration?",
+      "options": {
+        "A": "Ethyne",
+        "B": "Propyne (CH₃-C≡CH)",
+        "C": "1-Butyne",
+        "D": "2-Butyne"
+      },
+      "correctAnswer": "B",
+      "explanation": "Markovnikov addition of H₂O to propyne gives CH₃-C(OH)=CH₂, which tautomerizes to acetone (CH₃-CO-CH₃)."
+    },
+    {
+      "id": 26,
+      "question": "The C-C bond lengths in ethane, ethene, and ethyne are respectively:",
+      "options": {
+        "A": "1.54 Å, 1.34 Å, and 1.20 Å",
+        "B": "1.20 Å, 1.34 Å, and 1.54 Å",
+        "C": "1.34 Å, 1.54 Å, and 1.20 Å",
+        "D": "1.40 Å, 1.40 Å, and 1.40 Å"
+      },
+      "correctAnswer": "A",
+      "explanation": "Bond length decreases with increasing bond order and s-character: C-C single (1.54 Å) > C=C double (1.34 Å) > C≡C triple (1.20 Å)."
+    },
+    {
+      "id": 27,
+      "question": "What gas is produced when potassium acetate is heated with soda lime (NaOH + CaO)?",
+      "options": {
+        "A": "Ethane",
+        "B": "Methane (CH₄)",
+        "C": "Carbon dioxide",
+        "D": "Hydrogen"
+      },
+      "correctAnswer": "B",
+      "explanation": "CH₃COONa + NaOH xrightarrow{CaO, \\Delta} CH₄ + Na₂CO₃ (decarboxylation reaction)."
+    },
+    {
+      "id": 28,
+      "question": "Wurtz reaction involves the coupling of two alkyl halide molecules in dry ether solution using which metal?",
+      "options": {
+        "A": "Zinc",
+        "B": "Sodium (Na)",
+        "C": "Magnesium",
+        "D": "Copper"
+      },
+      "correctAnswer": "B",
+      "explanation": "2 R-X + 2 Na xrightarrow{dry ether} R-R (symmetrical alkane) + 2 NaX."
+    },
+    {
+      "id": 29,
+      "question": "Why is the Wurtz reaction not suitable for preparing alkanes with an odd number of carbon atoms (e.g., propane)?",
+      "options": {
+        "A": "It requires expensive platinum catalysts",
+        "B": "Using a mixture of two different alkyl halides produces a messy mixture of three alkanes that is difficult to separate",
+        "C": "Odd alkanes are gases",
+        "D": "Water hydrolyzes the product"
+      },
+      "correctAnswer": "B",
+      "explanation": "Reacting CH₃Cl and C₂H₅Cl yields a mixture of ethane, propane, and butane whose close boiling points make separation extremely difficult."
+    },
+    {
+      "id": 30,
+      "question": "Thermal cracking (pyrolysis) of higher alkanes involves the breaking of:",
+      "options": {
+        "A": "C-C and C-H bonds via a free-radical mechanism at elevated temperatures to yield smaller alkanes and alkenes",
+        "B": "Ionic bonds",
+        "C": "Hydrogen bonds only",
+        "D": "Coordinate bonds"
+      },
+      "correctAnswer": "A",
+      "explanation": "Heating long-chain hydrocarbons to 500-700°C cleaves covalent C-C bonds homolytically, generating gasoline-range branched alkanes and alkenes."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following compounds gives a white precipitate with Tollens' reagent (ammoniacal silver nitrate)?",
+      "options": {
+        "A": "Ethene",
+        "B": "2-Butyne",
+        "C": "Ethyne (HC≡CH)",
+        "D": "Ethane"
+      },
+      "correctAnswer": "C",
+      "explanation": "Terminal alkynes like ethyne react with Tollens' reagent: HC≡CH + 2 [Ag(NH₃)₂]⁺ → Ag-C≡C-Ag↓ (white precipitate of silver acetylide)."
+    },
+    {
+      "id": 32,
+      "question": "Combustion of one mole of methane produces how many moles of water?",
+      "options": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "correctAnswer": "B",
+      "explanation": "CH₄ + 2 O₂ → CO₂ + 2 H₂O (ΔH = -891 kJ/mol)."
+    },
+    {
+      "id": 33,
+      "question": "When vicinal dihalides (e.g., 1,2-dibromoethane) are heated with zinc dust in alcohol, they undergo dehalogenation to yield:",
+      "options": {
+        "A": "Alkanes",
+        "B": "Alkenes (Ethene)",
+        "C": "Alkynes",
+        "D": "Alcohols"
+      },
+      "correctAnswer": "B",
+      "explanation": "Br-CH₂-CH₂-Br + Zn xrightarrow{alcohol, \\Delta} H₂C=CH₂ + ZnBr₂."
+    },
+    {
+      "id": 34,
+      "question": "Mustard gas, a blistering chemical warfare agent, is manufactured by the reaction of ethene with:",
+      "options": {
+        "A": "Sulfur monochloride (S₂Cl₂)",
+        "B": "Chlorine gas",
+        "C": "Sulfur dioxide",
+        "D": "Hydrogen sulfide"
+      },
+      "correctAnswer": "A",
+      "explanation": "2 H₂C=CH₂ + S₂Cl₂ → (Cl-CH₂-CH₂)₂S (mustard gas) + S."
+    },
+    {
+      "id": 35,
+      "question": "The heat of hydrogenation of alkenes decreases as the number of alkyl substituents around the double bond increases because:",
+      "options": {
+        "A": "Alkyl groups donate electrons and stabilize the double bond via hyperconjugation",
+        "B": "Steric hindrance prevents hydrogen adsorption",
+        "C": "C-C bonds become longer",
+        "D": "Hybridization changes to sp³"
+      },
+      "correctAnswer": "A",
+      "explanation": "Greater substitution stabilizes the alkene ground state through hyperconjugation and σ-π interaction, releasing less heat upon hydrogenation."
+    }
+  ]
+}

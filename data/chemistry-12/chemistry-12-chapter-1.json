@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 1,
+  "chapterTitle": "Chapter 1: Periodic Classification of Elements and Periodicity",
+  "title": "Chapter 1: Periodic Classification of Elements and Periodicity",
+  "slug": "chemistry-12-chapter-1",
+  "totalQuestions": 35,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to the Modern Periodic Law formulated by Henry Moseley, the physical and chemical properties of elements are periodic functions of their:",
+      "options": {
+        "A": "Atomic masses",
+        "B": "Atomic numbers",
+        "C": "Mass numbers",
+        "D": "Number of neutrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Moseley showed using X-ray characteristic spectra that atomic number (nuclear charge Z) is the fundamental property determining an element's chemical nature."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following electronic configurations represents an element belonging to the d-block of the periodic table?",
+      "options": {
+        "A": "[Ar] 3d¹⁰ 4s² 4p³",
+        "B": "[Ar] 3d⁶ 4s²",
+        "C": "[Ne] 3s² 3p⁵",
+        "D": "[Xe] 4f¹⁴ 5d¹ 6s²"
+      },
+      "correctAnswer": "B",
+      "explanation": "[Ar] 3d⁶ 4s² (Iron, Fe) has its differentiating electron entering the penultimate 3d subshell, characterizing it as a d-block transition element."
+    },
+    {
+      "id": 3,
+      "question": "Along a period from left to right across the periodic table, atomic radius generally decreases primarily due to:",
+      "options": {
+        "A": "Addition of new electron shells",
+        "B": "Increase in screening (shielding) effect",
+        "C": "Increase in effective nuclear charge (Z_eff) while principal quantum number remains constant",
+        "D": "Decrease in electron-electron repulsions"
+      },
+      "correctAnswer": "C",
+      "explanation": "Electrons are added to the same valence shell while nuclear protons increase, pulling valence electrons closer to the nucleus."
+    },
+    {
+      "id": 4,
+      "question": "The steady decrease in ionic radii of trivalent lanthanide cations from La³⁺ to Lu³⁺ is known as:",
+      "options": {
+        "A": "Actinide contraction",
+        "B": "Lanthanide contraction",
+        "C": "Inert pair effect",
+        "D": "Shielding expansion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Poor shielding offered by diffuse 4f electrons causes the effective nuclear charge to pull valence electrons tighter, causing lanthanide contraction."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following elements exhibits the highest first ionization energy?",
+      "options": {
+        "A": "Lithium (Li)",
+        "B": "Nitrogen (N)",
+        "C": "Oxygen (O)",
+        "D": "Fluorine (F)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Fluorine has the highest nuclear charge among Period 2 reactive nonmetals with a small atomic radius, requiring the most energy to remove an electron."
+    },
+    {
+      "id": 6,
+      "question": "Nitrogen has a higher first ionization energy than oxygen (1402 kJ/mol vs 1314 kJ/mol) because:",
+      "options": {
+        "A": "Nitrogen has a higher electronegativity than oxygen",
+        "B": "Nitrogen possesses a stable half-filled 2p³ valence subshell",
+        "C": "Oxygen has fewer electrons than nitrogen",
+        "D": "Nitrogen exhibits inert pair effect"
+      },
+      "correctAnswer": "B",
+      "explanation": "Half-filled subshells (2p³) possess extra exchange energy stability. Removing an electron from oxygen's paired 2p⁴ configuration relieves inter-electronic repulsion."
+    },
+    {
+      "id": 7,
+      "question": "Why does Chlorine have a more negative (higher) electron affinity (-349 kJ/mol) than Fluorine (-328 kJ/mol)?",
+      "options": {
+        "A": "Fluorine has lower electronegativity than Chlorine",
+        "B": "Fluorine's compact 2p subshell creates high electron-electron repulsion that resists incoming electrons",
+        "C": "Chlorine has vacant d-orbitals unavailable in Fluorine",
+        "D": "Chlorine has smaller atomic radius than Fluorine"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fluorine's tiny 2p subshell has exceptionally high electron density; incoming electrons experience strong repulsions, releasing less net energy than Chlorine's roomier 3p subshell."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following elements has the highest electronegativity on the Pauling scale?",
+      "options": {
+        "A": "Cesium (Cs)",
+        "B": "Chlorine (Cl)",
+        "C": "Oxygen (O)",
+        "D": "Fluorine (F)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Fluorine is the most electronegative element with a Pauling value of 4.0."
+    },
+    {
+      "id": 9,
+      "question": "Hydration energy of metal cations depends on charge density. Which of the following cations has the greatest negative hydration enthalpy?",
+      "options": {
+        "A": "Na⁺",
+        "B": "Mg²⁺",
+        "C": "Al³⁺",
+        "D": "K⁺"
+      },
+      "correctAnswer": "C",
+      "explanation": "Hydration energy is directly proportional to charge and inversely proportional to radius (charge density: q/r). Al³⁺ has +3 charge and small radius."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following Period 3 oxides is amphoteric in nature?",
+      "options": {
+        "A": "Na₂O",
+        "B": "MgO",
+        "C": "Al₂O₃",
+        "D": "SO₃"
+      },
+      "correctAnswer": "C",
+      "explanation": "Al₂O₃ reacts with both acids (forming Al³⁺ salts) and strong bases (forming aluminate [Al(OH)₄]⁻), proving its amphoteric character."
+    },
+    {
+      "id": 11,
+      "question": "The melting and boiling points of elements in Period 2 and Period 3 reach a maximum at:",
+      "options": {
+        "A": "Group IA (alkali metals)",
+        "B": "Group IVA (Carbon and Silicon)",
+        "C": "Group VIIA (halogens)",
+        "D": "Group VIIIA (noble gases)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Group IVA elements (C in diamond, Si) form giant covalent network lattices with four strong covalent bonds per atom, demanding enormous energy to melt."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following hydrides is ionic (saline) in nature?",
+      "options": {
+        "A": "CH₄",
+        "B": "NH₃",
+        "C": "NaH",
+        "D": "H₂S"
+      },
+      "correctAnswer": "C",
+      "explanation": "NaH consists of Na⁺ and H⁻ ions in a crystalline ionic lattice, liberating H₂ gas at the anode upon electrolysis of its molten state."
+    },
+    {
+      "id": 13,
+      "question": "The diagonal relationship in the periodic table is exhibited between which pair of elements?",
+      "options": {
+        "A": "Li and Na",
+        "B": "Be and Al",
+        "C": "B and P",
+        "D": "C and S"
+      },
+      "correctAnswer": "B",
+      "explanation": "Beryllium and Aluminum have remarkably similar charge-to-size ratios (charge density), leading to similar amphoteric oxides, covalent chlorides, and passivity with HNO₃."
+    },
+    {
+      "id": 14,
+      "question": "Which period of the periodic table is the shortest, containing only 2 elements?",
+      "options": {
+        "A": "Period 1",
+        "B": "Period 2",
+        "C": "Period 3",
+        "D": "Period 4"
+      },
+      "correctAnswer": "A",
+      "explanation": "Period 1 contains only Hydrogen (1s¹) and Helium (1s²)."
+    },
+    {
+      "id": 15,
+      "question": "The maximum oxidation state exhibited by an element is generally equal to its group number. Which transition element exhibits the maximum oxidation state of +7?",
+      "options": {
+        "A": "Chromium (Cr)",
+        "B": "Manganese (Mn)",
+        "C": "Iron (Fe)",
+        "D": "Vanadium (V)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Manganese ([Ar] 3d⁵ 4s²) utilizes all 7 valence electrons in compounds like KMnO₄ and Mn₂O₇ to show +7 oxidation state."
+    },
+    {
+      "id": 16,
+      "question": "Why does the second electron affinity of oxygen have a positive value (+780 kJ/mol) while the first is negative (-141 kJ/mol)?",
+      "options": {
+        "A": "The second electron is added to an already negatively charged O⁻ ion, requiring energy to overcome electrostatic repulsion",
+        "B": "Oxygen becomes a noble gas after first electron addition",
+        "C": "The valence shell expands to d-orbitals",
+        "D": "Nuclear charge decreases"
+      },
+      "correctAnswer": "A",
+      "explanation": "Adding an electron to a uninegative ion (O⁻) involves strong electrostatic repulsion, making the process endothermic (positive ΔH)."
+    },
+    {
+      "id": 17,
+      "question": "Which of the following chlorides undergoes complete hydrolysis in water to produce an acidic solution and fumes of HCl?",
+      "options": {
+        "A": "NaCl",
+        "B": "MgCl₂",
+        "C": "SiCl₄",
+        "D": "CCl₄"
+      },
+      "correctAnswer": "C",
+      "explanation": "SiCl₄ possesses vacant 3d orbitals to accept lone pairs from water molecules, hydrolyzing violently to Si(OH)₄ and 4 HCl (unlike CCl₄ which lacks d-orbitals)."
+    },
+    {
+      "id": 18,
+      "question": "The shielding effect of inner electrons across a period from left to right:",
+      "options": {
+        "A": "Increases significantly",
+        "B": "Decreases sharply",
+        "C": "Remains essentially constant",
+        "D": "Fluctuates randomly"
+      },
+      "correctAnswer": "C",
+      "explanation": "Across a period, electrons enter the same principal quantum shell; the number of inner shielding core electron shells remains unchanged."
+    },
+    {
+      "id": 19,
+      "question": "Which Group IA element has the lowest density, actually floating on water?",
+      "options": {
+        "A": "Lithium",
+        "B": "Potassium",
+        "C": "Rubidium",
+        "D": "Cesium"
+      },
+      "correctAnswer": "A",
+      "explanation": "Lithium is the lightest solid metal with a density of only 0.534 g/cm³, easily floating on water."
+    },
+    {
+      "id": 20,
+      "question": "Which of the following compounds is the most ionic halide of Period 3?",
+      "options": {
+        "A": "NaCl",
+        "B": "MgCl₂",
+        "C": "AlCl₃",
+        "D": "SiCl₄"
+      },
+      "correctAnswer": "A",
+      "explanation": "NaCl has the greatest electronegativity difference (3.0 - 0.9 = 2.1) among Period 3 chlorides, forming a classic face-centered cubic ionic crystal."
+    },
+    {
+      "id": 21,
+      "question": "The tendency of heavier p-block elements (like Tl, Pb, Bi) to show stable oxidation states two units lower than their group valency is known as:",
+      "options": {
+        "A": "Lanthanide contraction",
+        "B": "Inert pair effect",
+        "C": "Zeeman effect",
+        "D": "Shielding expansion"
+      },
+      "correctAnswer": "B",
+      "explanation": "The reluctance of outer ns² electrons to participate in bonding due to poor shielding of 4f/5d electrons is termed the inert pair effect."
+    },
+    {
+      "id": 22,
+      "question": "The acidic strength of normal oxides across Period 3 (Na₂O to Cl₂O₇):",
+      "options": {
+        "A": "Decreases steadily",
+        "B": "Increases steadily from strongly basic to strongly acidic",
+        "C": "Remains amphoteric throughout",
+        "D": "Decreases then increases"
+      },
+      "correctAnswer": "B",
+      "explanation": "Na₂O and MgO are basic, Al₂O₃ is amphoteric, SiO₂ is weakly acidic, P₄O₁₀ and SO₃ are acidic, and Cl₂O₇ is strongly acidic."
+    },
+    {
+      "id": 23,
+      "question": "What is the total number of elements present in Period 4 of the modern periodic table?",
+      "options": {
+        "A": "8",
+        "B": "18",
+        "C": "32",
+        "D": "10"
+      },
+      "correctAnswer": "B",
+      "explanation": "Period 4 fills 4s (2), 3d (10), and 4p (6) subshells, containing 18 elements from Potassium (Z=19) to Krypton (Z=36)."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following ions has the smallest ionic radius?",
+      "options": {
+        "A": "O²⁻",
+        "B": "F⁻",
+        "C": "Na⁺",
+        "D": "Mg²⁺"
+      },
+      "correctAnswer": "D",
+      "explanation": "These are isoelectronic species (10 electrons). Mg²⁺ has the highest nuclear charge (Z=12), pulling electrons closest to the nucleus."
+    },
+    {
+      "id": 25,
+      "question": "In which block of the periodic table are non-metals exclusively located (excluding Hydrogen and Helium)?",
+      "options": {
+        "A": "s-block",
+        "B": "p-block",
+        "C": "d-block",
+        "D": "f-block"
+      },
+      "correctAnswer": "B",
+      "explanation": "All non-metals (C, N, O, P, S, Se, halogens, noble gases) reside in the p-block."
+    },
+    {
+      "id": 26,
+      "question": "An element with electronic configuration [Ne] 3s² 3p⁴ belongs to which group and period?",
+      "options": {
+        "A": "Group VIA, Period 3",
+        "B": "Group IVA, Period 3",
+        "C": "Group VIA, Period 2",
+        "D": "Group VIIA, Period 3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Principal quantum number n=3 defines Period 3; valence electrons = 2 + 4 = 6, placing it in Group VIA (Sulfur)."
+    },
+    {
+      "id": 27,
+      "question": "Which factor causes the atomic radius of noble gases to appear larger than the preceding halogen in experimental tables?",
+      "options": {
+        "A": "They have extra d-orbitals",
+        "B": "Their radii are measured as van der Waals radii rather than covalent radii",
+        "C": "They have low nuclear charges",
+        "D": "Inert pair effect"
+      },
+      "correctAnswer": "B",
+      "explanation": "Noble gases do not form stable covalent bonds at room temperature; their radii are recorded as van der Waals radii, which are inherently larger than bonded covalent radii."
+    },
+    {
+      "id": 28,
+      "question": "The basic character of alkali metal hydroxides down Group IA (LiOH to CsOH):",
+      "options": {
+        "A": "Decreases because ionization energy increases",
+        "B": "Increases because cation radius increases and lattice energy decreases, releasing OH⁻ ions more readily",
+        "C": "Remains constant",
+        "D": "First increases then decreases"
+      },
+      "correctAnswer": "B",
+      "explanation": "Larger cations down Group IA hold OH⁻ less tightly due to weaker electrostatic attraction, making CsOH the strongest base."
+    },
+    {
+      "id": 29,
+      "question": "Which of the following bonds has the highest percentage of ionic character?",
+      "options": {
+        "A": "H-F",
+        "B": "Cs-F",
+        "C": "Na-Cl",
+        "D": "C-O"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cs-F combines the least electronegative metal (Cs = 0.79) and most electronegative nonmetal (F = 4.0), giving ΔEN = 3.21 and >92% ionic character."
+    },
+    {
+      "id": 30,
+      "question": "Elements belonging to the f-block are collectively designated as:",
+      "options": {
+        "A": "Representative elements",
+        "B": "Outer transition elements",
+        "C": "Inner transition elements",
+        "D": "Noble elements"
+      },
+      "correctAnswer": "C",
+      "explanation": "Lanthanides and actinides have electrons filling the antipenultimate (n-2)f subshells, known as inner transition elements."
+    },
+    {
+      "id": 31,
+      "question": "Why is Beryllium fluoride (BeF₂) soluble in water while Barium sulfate (BaSO₄) is insoluble?",
+      "options": {
+        "A": "Be²⁺ has an exceptionally high hydration enthalpy exceeding its lattice energy",
+        "B": "Ba²⁺ has higher hydration enthalpy than Be²⁺",
+        "C": "BeF₂ is a giant covalent network",
+        "D": "BaSO₄ is purely non-polar"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tiny Be²⁺ has immense charge density, resulting in hydration enthalpy so large that it easily overcomes lattice energy, dissolving BeF₂."
+    },
+    {
+      "id": 32,
+      "question": "Which element in the periodic table has the highest electrical and thermal conductivity at room temperature?",
+      "options": {
+        "A": "Copper (Cu)",
+        "B": "Silver (Ag)",
+        "C": "Gold (Au)",
+        "D": "Aluminum (Al)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Silver possesses the highest electrical and thermal conductivity of all known elements."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following pairs represents isoelectronic ions?",
+      "options": {
+        "A": "Na⁺ and K⁺",
+        "B": "K⁺ and Cl⁻",
+        "C": "Mg²⁺ and Ar",
+        "D": "F⁻ and Br⁻"
+      },
+      "correctAnswer": "B",
+      "explanation": "Both K⁺ (19 - 1 = 18) and Cl⁻ (17 + 1 = 18) possess 18 electrons (argon configuration)."
+    },
+    {
+      "id": 34,
+      "question": "What is the general valence electronic configuration of Group IIIA (Group 13) elements?",
+      "options": {
+        "A": "ns² np¹",
+        "B": "ns² np²",
+        "C": "ns¹ np²",
+        "D": "ns² (n-1)d¹"
+      },
+      "correctAnswer": "A",
+      "explanation": "Group 13 elements (B, Al, Ga, In, Tl) possess ns² np¹ valence electron configuration."
+    },
+    {
+      "id": 35,
+      "question": "Mendeleev's original periodic table had several anomalies that were resolved by Moseley's atomic number arrangement, including the positioning of:",
+      "options": {
+        "A": "Argon (Ar, 39.95) and Potassium (K, 39.10)",
+        "B": "Lithium and Sodium",
+        "C": "Carbon and Nitrogen",
+        "D": "Helium and Neon"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mendeleev placed Argon before Potassium based on chemical properties despite Argon having a higher atomic weight. Moseley's atomic number order (Ar=18, K=19) justified this placement."
+    }
+  ]
+}

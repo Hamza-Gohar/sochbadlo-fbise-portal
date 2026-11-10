@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 11,
+  "chapterTitle": "Chapter 11: Alcohols, Phenols and Ethers",
+  "title": "Chapter 11: Alcohols, Phenols and Ethers",
+  "slug": "chemistry-12-chapter-11",
+  "totalQuestions": 35,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Industrial production of Methanol (wood spirit) involves the catalytic reaction of water gas (CO + H₂) with hydrogen at 450°C and 200 atm over which catalyst?",
+      "options": {
+        "A": "ZnO and Cr₂O₃",
+        "B": "Finely divided Iron",
+        "C": "V₂O₅",
+        "D": "Platinum gauze"
+      },
+      "correctAnswer": "A",
+      "explanation": "CO + 2 H₂ xrightarrow{ZnO + Cr₂O₃, 450°C, 200 atm} CH₃OH (methanol)."
+    },
+    {
+      "id": 2,
+      "question": "In the fermentation of molasses or starchy grains to produce Ethanol, which two enzymes secreted by yeast convert sucrose into glucose/fructose and then ethanol?",
+      "options": {
+        "A": "Invertase and Zymase",
+        "B": "Diastase and Maltase",
+        "C": "Pepsin and Trypsin",
+        "D": "Amylase and Lipase"
+      },
+      "correctAnswer": "A",
+      "explanation": "Invertase hydrolyzes sucrose into glucose and fructose: C₁₂H₂₂O₁₁ + H₂O → C₆H₁₂O₆ + C₆H₁₂O₆. Zymase ferments hexoses into ethanol: C₆H₁₂O₆ → 2 C₂H₅OH + 2 CO₂."
+    },
+    {
+      "id": 3,
+      "question": "Rectified spirit obtained from industrial distillation of fermented wash contains approximately what percentage of alcohol by volume?",
+      "options": {
+        "A": "50%",
+        "B": "95.6% (azeotropic mixture with 4.4% water)",
+        "C": "100%",
+        "D": "12%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rectified spirit is an azeotropic mixture containing 95.6% ethanol and 4.4% water boiling at a constant 78.15°C."
+    },
+    {
+      "id": 4,
+      "question": "Methylated spirit (denatured alcohol) is rendered unfit for human drinking by adulterating ethanol with:",
+      "options": {
+        "A": "10% Methanol, pyridine, and mineral naphtha",
+        "B": "Pure glucose",
+        "C": "Glycerol",
+        "D": "Sodium chloride"
+      },
+      "correctAnswer": "A",
+      "explanation": "Methanol (toxic), pyridine (foul-smelling), and coloring dye are added to industrial ethanol to prevent its misuse for recreational consumption without excise tax."
+    },
+    {
+      "id": 5,
+      "question": "In the Lucas Test for distinguishing primary, secondary, and tertiary alcohols (reagent: anhydrous ZnCl₂ + concentrated HCl), a tertiary alcohol shows:",
+      "options": {
+        "A": "Immediate appearance of an oily turbidity/cloudiness (alkyl chloride layer)",
+        "B": "Turbidity only after 5 to 10 minutes",
+        "C": "No turbidity at room temperature unless heated",
+        "D": "Change to deep violet color"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tertiary alcohols react immediately at room temperature via stable 3° carbocations to yield insoluble oily R-Cl."
+    },
+    {
+      "id": 6,
+      "question": "Oxidation of a primary alcohol with acidified potassium dichromate (K₂Cr₂O₇/H₂SO₄) yields an aldehyde, which on continued oxidation produces:",
+      "options": {
+        "A": "A ketone",
+        "B": "A carboxylic acid having the same number of carbon atoms",
+        "C": "An ester",
+        "D": "Carbon dioxide only"
+      },
+      "correctAnswer": "B",
+      "explanation": "R-CH₂OH → R-CHO → R-COOH. Primary alcohols oxidize sequentially to aldehydes and then carboxylic acids."
+    },
+    {
+      "id": 7,
+      "question": "Secondary alcohols oxidize with acidified dichromate to yield:",
+      "options": {
+        "A": "Aldehydes",
+        "B": "Ketones having the same number of carbon atoms",
+        "C": "Alkenes directly",
+        "D": "Ethers"
+      },
+      "correctAnswer": "B",
+      "explanation": "R-CH(OH)-R' xrightarrow{[O]} R-CO-R' (ketone). Ketones resist further oxidation except under severe conditions."
+    },
+    {
+      "id": 8,
+      "question": "Why do tertiary alcohols resist oxidation by acidified dichromate under neutral or mild conditions?",
+      "options": {
+        "A": "The tertiary carbon lacks an α-hydrogen atom bonded to it",
+        "B": "They are insoluble in water",
+        "C": "They are basic",
+        "D": "Their O-H bond cannot ionize"
+      },
+      "correctAnswer": "A",
+      "explanation": "Oxidation requires removal of an α-hydrogen attached to the carbinol carbon; tertiary alcohols [(R)₃C-OH] have no α-hydrogen."
+    },
+    {
+      "id": 9,
+      "question": "Phenol is distinctly more acidic than aliphatic alcohols because:",
+      "options": {
+        "A": "The phenoxide ion (C₆H₅O⁻) is resonance-stabilized by delocalization of the negative charge over the aromatic ring, whereas alkoxide ions have no resonance stabilization",
+        "B": "Phenol has a higher molecular weight",
+        "C": "Phenol is a solid at room temperature",
+        "D": "The benzene ring pushes electrons into the oxygen atom"
+      },
+      "correctAnswer": "A",
+      "explanation": "The phenoxide anion has 5 resonance contributors delocalizing negative charge into ortho and para positions, stabilizing it and driving proton loss (pK_a ~10 vs 16 for ethanol)."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following substituted phenols is the most acidic compound, rivaling mineral acids in strength?",
+      "options": {
+        "A": "o-Cresol (2-methylphenol)",
+        "B": "p-Nitrophenol",
+        "C": "Picric acid (2,4,6-trinitrophenol)",
+        "D": "m-Chlorophenol"
+      },
+      "correctAnswer": "C",
+      "explanation": "Picric acid has three strongly electron-withdrawing -NO₂ groups at ortho and para positions, stabilizing the conjugate base immensely (pK_a = 0.38)."
+    },
+    {
+      "id": 11,
+      "question": "When phenol is treated with neutral ferric chloride (FeCl₃) solution, it produces a characteristic coloration of which color?",
+      "options": {
+        "A": "Blood red",
+        "B": "Violet / Purple complex [Fe(OC₆H₅)₆]³⁻",
+        "C": "Bright yellow",
+        "D": "Apple green"
+      },
+      "correctAnswer": "B",
+      "explanation": "Phenol reacts with FeCl₃ to form a water-soluble coordination complex [Fe(OC₆H₅)₆]³⁻ imparting a diagnostic violet coloration."
+    },
+    {
+      "id": 12,
+      "question": "Treatment of phenol with bromine water (Br₂/H₂O) gives an immediate white precipitate of:",
+      "options": {
+        "A": "2-Bromophenol",
+        "B": "4-Bromophenol",
+        "C": "2,4,6-Tribromophenol",
+        "D": "Bromobenzene"
+      },
+      "correctAnswer": "C",
+      "explanation": "In water, phenol ionizes to strongly activating phenoxide ion, causing rapid tri-substitution at all activated ortho and para positions to yield insoluble 2,4,6-tribromophenol."
+    },
+    {
+      "id": 13,
+      "question": "In the Kolbe-Schmitt reaction, sodium phenoxide is heated with carbon dioxide at 125°C under 4-7 atm pressure followed by acidification to produce:",
+      "options": {
+        "A": "Salicylic acid (o-hydroxybenzoic acid)",
+        "B": "Salicylaldehyde",
+        "C": "Aspirin directly",
+        "D": "Benzoic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "C₆H₅ONa + CO₂ xrightarrow{125°C, 5 atm} Sodium salicylate xrightarrow{H⁺} Salicylic acid (precursor for Aspirin synthesis)."
+    },
+    {
+      "id": 14,
+      "question": "In the Reimer-Tiemann reaction, phenol is heated with chloroform (CHCl₃) in aqueous NaOH at 60°C to introduce an aldehyde group ortho to -OH, producing:",
+      "options": {
+        "A": "Salicylaldehyde (o-hydroxybenzaldehyde)",
+        "B": "Salicylic acid",
+        "C": "Cinnamic acid",
+        "D": "Benzaldehyde"
+      },
+      "correctAnswer": "A",
+      "explanation": "The electrophile dichlorocarbene (:CCl₂) attacks phenoxide to produce salicylaldehyde upon alkaline hydrolysis and acidification."
+    },
+    {
+      "id": 15,
+      "question": "Williamson Ether Synthesis involves an S_N2 displacement between:",
+      "options": {
+        "A": "A sodium alkoxide (R-O⁻Na⁺) and an unhindered primary alkyl halide (R'-X)",
+        "B": "Two alcohol molecules with conc. H₂SO₄",
+        "C": "An alkene and water",
+        "D": "An alkyl halide and NaOH"
+      },
+      "correctAnswer": "A",
+      "explanation": "R-ONa + R'X → R-O-R' + NaX. Primary alkyl halides give high ether yields via backside S_N2 attack; tertiary halides undergo E2 elimination instead."
+    },
+    {
+      "id": 16,
+      "question": "What happens when an ether (R-O-R') is heated with an excess of concentrated hydroiodic acid (HI)?",
+      "options": {
+        "A": "It cleaves completely to form alkyl iodides and water: R-O-R + 2 HI → 2 R-I + H₂O",
+        "B": "It forms an aldehyde",
+        "C": "It forms an alkane",
+        "D": "It decomposes into CO₂"
+      },
+      "correctAnswer": "A",
+      "explanation": "Excess hot HI cleaves ethers: first to alcohol + alkyl iodide, then the alcohol reacts with second mole of HI to form another alkyl iodide."
+    },
+    {
+      "id": 17,
+      "question": "On prolonged storage in the presence of atmospheric oxygen and light, diethyl ether forms shock-sensitive explosive:",
+      "options": {
+        "A": "Hydroperoxides and diethyl peroxide",
+        "B": "Carbon monoxide",
+        "C": "Methane gas",
+        "D": "Ethyl acetate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Auto-oxidation creates dangerous peroxides: CH₃-CH(OOH)-O-CH₂CH₃; ether bottles must never be distilled to dryness if peroxides are present."
+    },
+    {
+      "id": 18,
+      "question": "Which reagent is used to detect dangerous peroxides in old samples of diethyl ether?",
+      "options": {
+        "A": "Aqueous KI and starch solution (yielding a blue color) or acidified FeSO₄ + KCNS (red color)",
+        "B": "Lucas reagent",
+        "C": "Tollens' reagent",
+        "D": "Fehling's solution"
+      },
+      "correctAnswer": "A",
+      "explanation": "Peroxides oxidize I⁻ to free I₂ (blue starch complex) and Fe²⁺ to Fe³⁺ (deep red thiocyanate complex)."
+    },
+    {
+      "id": 19,
+      "question": "Aspirin (acetylsalicylic acid), widely used as an analgesic, antipyretic, and blood thinner, is synthesized by the acetylation of salicylic acid with:",
+      "options": {
+        "A": "Acetic anhydride or acetyl chloride in the presence of an acid catalyst",
+        "B": "Methanol",
+        "C": "Formaldehyde",
+        "D": "Ethanol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Salicylic acid + (CH₃CO)₂O xrightarrow{H⁺} Acetylsalicylic acid (Aspirin) + CH₃COOH."
+    },
+    {
+      "id": 20,
+      "question": "Bakelite, the historic dark thermosetting plastic, is manufactured industrially by the step-growth condensation polymerization of:",
+      "options": {
+        "A": "Phenol and Formaldehyde (methanal)",
+        "B": "Ethylene glycol and terephthalic acid",
+        "C": "Urea and acetone",
+        "D": "Adipic acid and hexamethylenediamine"
+      },
+      "correctAnswer": "A",
+      "explanation": "Phenol reacts with HCHO under acidic or basic catalysis to form ortho- and para-hydroxybenzyl alcohols that cross-link into 3D network Bakelite."
+    },
+    {
+      "id": 21,
+      "question": "What is the common chemical name of 1,2,3-propanetriol, a trihydric alcohol with sweet taste and high viscosity?",
+      "options": {
+        "A": "Glycerol (Glycerin)",
+        "B": "Ethylene glycol",
+        "C": "Catechol",
+        "D": "Resorcinol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Glycerol is CH₂OH-CHOH-CH₂OH, having 3 hydroxyl groups engaged in extensive hydrogen bonding, giving it high boiling point (290°C) and viscosity."
+    },
+    {
+      "id": 22,
+      "question": "Which test chemically distinguishes Ethanol from Methanol?",
+      "options": {
+        "A": "Iodoform test (Ethanol gives yellow CHI₃ precipitate with I₂/NaOH; Methanol does not)",
+        "B": "Litmus test",
+        "C": "Reaction with metallic sodium",
+        "D": "Combustion test"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ethanol contains the CH₃-CH(OH)- grouping that oxidizes to CH₃CHO and gives positive yellow iodoform; methanol lacks this group."
+    },
+    {
+      "id": 23,
+      "question": "Why does ethanol have a much higher boiling point (78.3°C) than dimethyl ether (-24°C) despite having identical molecular formula (C₂H₆O)?",
+      "options": {
+        "A": "Ethanol molecules form intermolecular hydrogen bonds via the -OH group, while ethers cannot form intermolecular H-bonds with themselves",
+        "B": "Ethanol has a higher molecular weight",
+        "C": "Dimethyl ether is ionic",
+        "D": "Ethanol is non-polar"
+      },
+      "correctAnswer": "A",
+      "explanation": "Intermolecular hydrogen bonding in liquid ethanol creates associated molecular clusters requiring significant thermal energy to vaporize."
+    },
+    {
+      "id": 24,
+      "question": "Dow's process for the industrial preparation of phenol involves heating chlorobenzene with 6-8% aqueous NaOH at 350°C and 300 atm pressure. The intermediate formed before acidification is:",
+      "options": {
+        "A": "Sodium phenoxide (C₆H₅ONa)",
+        "B": "Phenyl chloride",
+        "C": "Benzene",
+        "D": "Biphenyl"
+      },
+      "correctAnswer": "A",
+      "explanation": "Nucleophilic aromatic substitution under forced conditions yields sodium phenoxide, which upon acidification with HCl yields free phenol."
+    },
+    {
+      "id": 25,
+      "question": "In the Cumene process for the manufacturing of phenol, isopropylbenzene (cumene) is oxidized with air to cumene hydroperoxide, which upon acid cleavage yields phenol and which valuable co-product?",
+      "options": {
+        "A": "Acetone (CH₃COCH₃)",
+        "B": "Formaldehyde",
+        "C": "Acetaldehyde",
+        "D": "Ethanol"
+      },
+      "correctAnswer": "A",
+      "explanation": "C₆H₅CH(CH₃)₂ + O₂ → Cumene hydroperoxide xrightarrow{H₂SO₄} Phenol + Acetone (in equimolar amounts)."
+    },
+    {
+      "id": 26,
+      "question": "The Victor Meyer test is a diagnostic colorimetric method to differentiate 1°, 2°, and 3° alcohols. The colors produced by the resulting nitrolic acid/pseudonitrol in alkaline solution are:",
+      "options": {
+        "A": "1° gives Blood Red, 2° gives Blue, 3° gives Colorless",
+        "B": "1° Blue, 2° Red, 3° Yellow",
+        "C": "1° Green, 2° Yellow, 3° Red",
+        "D": "All give violet color"
+      },
+      "correctAnswer": "A",
+      "explanation": "1° alcohol forms nitrolic acid (red in alkali); 2° forms pseudonitrol (blue); 3° alcohol has no α-hydrogen and remains colorless."
+    },
+    {
+      "id": 27,
+      "question": "When diethyl ether is treated with concentrated sulfuric acid in the cold, it dissolves by forming a stable, water-soluble:",
+      "options": {
+        "A": "Oxonium salt [(C₂H₅)₂OH⁺ HSO₄⁻]",
+        "B": "Alkene",
+        "C": "Ester",
+        "D": "Peroxide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ether oxygen has basic lone pairs that accept a proton from concentrated strong acids to form protonated oxonium salts."
+    },
+    {
+      "id": 28,
+      "question": "Crown ethers (such as 18-crown-6) are cyclic polyethers remarkable for their ability to:",
+      "options": {
+        "A": "Selectively chelate and dissolve alkali metal cations (like K⁺) in non-polar organic solvents as phase-transfer catalysts",
+        "B": "Explode on contact with water",
+        "C": "Act as strong reducing agents",
+        "D": "Bleach paper pulp"
+      },
+      "correctAnswer": "A",
+      "explanation": "The central hydrophilic cavity of 18-crown-6 matches the ionic radius of K⁺ (1.38 Å), dragging ionic salts (like KMnO₄) into benzene ('purple benzene')."
+    },
+    {
+      "id": 29,
+      "question": "Catalytic dehydrogenation of ethanol vapor over heated copper catalyst at 300°C produces:",
+      "options": {
+        "A": "Ethanal (Acetaldehyde) and Hydrogen gas",
+        "B": "Acetic acid",
+        "C": "Ethene",
+        "D": "Diethyl ether"
+      },
+      "correctAnswer": "A",
+      "explanation": "CH₃CH₂OH xrightarrow{Cu, 300°C} CH₃CHO + H₂↑. Dehydrogenation converts 1° alcohols into aldehydes without risking over-oxidation."
+    },
+    {
+      "id": 30,
+      "question": "Catalytic dehydration of ethanol over Al₂O₃ at 350°C yields ethene, but at lower temperature (140°C with excess ethanol) it yields:",
+      "options": {
+        "A": "Diethyl ether [(C₂H₅)₂O]",
+        "B": "Methane",
+        "C": "Ethanal",
+        "D": "Ethanoic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "At 140°C with excess ethanol: 2 C₂H₅OH xrightarrow{H₂SO₄ or Al₂O₃} C₂H₅-O-C₂H₅ + H₂O (intermolecular bimolecular dehydration)."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following compounds is also known as 'Carbolic Acid'?",
+      "options": {
+        "A": "Phenol (C₆H₅OH)",
+        "B": "Carbonic acid",
+        "C": "Formic acid",
+        "D": "Oxalic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Phenol was historically named carbolic acid when first extracted from coal tar by Runge in 1834."
+    },
+    {
+      "id": 32,
+      "question": "Phenol reacts with phthalic anhydride in the presence of concentrated H₂SO₄ to produce which popular acid-base indicator?",
+      "options": {
+        "A": "Phenolphthalein",
+        "B": "Methyl orange",
+        "C": "Litmus",
+        "D": "Bromothymol blue"
+      },
+      "correctAnswer": "A",
+      "explanation": "Condensation of two moles of phenol with one mole of phthalic anhydride eliminates water to form phenolphthalein (colorless in acid, pink in base)."
+    },
+    {
+      "id": 33,
+      "question": "What is the order of boiling points among isomeric primary, secondary, and tertiary butyl alcohols?",
+      "options": {
+        "A": "1° (n-butyl alcohol) > 2° (sec-butyl alcohol) > 3° (tert-butyl alcohol)",
+        "B": "3° > 2° > 1°",
+        "C": "2° > 3° > 1°",
+        "D": "All have identical boiling points"
+      },
+      "correctAnswer": "A",
+      "explanation": "Branching decreases molecular surface area and weakens van der Waals forces, while also sterically hindering hydrogen bonding; hence 1° > 2° > 3°."
+    },
+    {
+      "id": 34,
+      "question": "Ethylene glycol (ethane-1,2-diol) is widely used in automobile radiators as:",
+      "options": {
+        "A": "An antifreeze that depresses the freezing point of cooling water",
+        "B": "A lubricant only",
+        "C": "An octane booster",
+        "D": "A fuel cell reagent"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ethylene glycol forms strong hydrogen bonds with water, depressing the freezing point down to -40°C while simultaneously raising the boiling point."
+    },
+    {
+      "id": 35,
+      "question": "Ethers are generally unreactive and chemically inert toward bases, oxidizing agents, and reducing agents because:",
+      "options": {
+        "A": "They lack an active, ionizable hydrogen atom and have stable C-O-C sigma bonds with no easily accessible polar π-systems",
+        "B": "They are ionic solids",
+        "C": "They contain triple bonds",
+        "D": "They have zero dipole moment"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ether C-O bond is relatively strong and unreactive toward nucleophiles and bases in the absence of strong protonating acids."
+    }
+  ]
+}

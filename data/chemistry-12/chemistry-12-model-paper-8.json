@@ -1,0 +1,215 @@
+{
+  "chapterNumber": 24,
+  "chapterTitle": "Annual Board Examination Section A Simulator 8 (FBISE Class 12 Chemistry)",
+  "title": "Annual Board Examination Section A Simulator 8 (FBISE Class 12 Chemistry)",
+  "slug": "chemistry-12-model-paper-8",
+  "totalQuestions": 17,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "An element with electronic configuration [Ne] 3s² 3p⁴ belongs to which group and period?",
+      "options": {
+        "A": "Group VIA, Period 3",
+        "B": "Group IVA, Period 3",
+        "C": "Group VIA, Period 2",
+        "D": "Group VIIA, Period 3"
+      },
+      "correctAnswer": "A",
+      "explanation": "Principal quantum number n=3 defines Period 3; valence electrons = 2 + 4 = 6, placing it in Group VIA (Sulfur)."
+    },
+    {
+      "id": 2,
+      "question": "The chemical formula of soda ash is:",
+      "options": {
+        "A": "NaHCO₃",
+        "B": "Na₂CO₃",
+        "C": "Na₂CO₃ · 10H₂O",
+        "D": "NaOH"
+      },
+      "correctAnswer": "B",
+      "explanation": "Anhydrous sodium carbonate (Na₂CO₃) is termed soda ash, whereas the decahydrate is washing soda."
+    },
+    {
+      "id": 3,
+      "question": "What happens when orthoboric acid (H₃BO₃) is heated to red heat (>160°C)?",
+      "options": {
+        "A": "It sublimes without change",
+        "B": "It decomposes completely to form glassy Boric Oxide (B₂O₃)",
+        "C": "It yields diborane gas",
+        "D": "It forms metallic boron"
+      },
+      "correctAnswer": "B",
+      "explanation": "H₃BO₃ → HBO₂ (metaboric acid at 100°C) → H₂B₄O₇ (tetraboric acid at 160°C) → B₂O₃ (boron trioxide / boric anhydride at red heat)."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following hydride molecules has the lowest bond angle due to the absence of significant hybridization (Drago's rule)?",
+      "options": {
+        "A": "H₂O (~104.5°)",
+        "B": "NH₃ (~107°)",
+        "C": "H₂S (~92°)",
+        "D": "CH₄ (109.5°)"
+      },
+      "correctAnswer": "C",
+      "explanation": "According to Drago's rule, in H₂S the bonds are formed using pure p-orbitals (~90°), resulting in an observed bond angle of ~92°."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following hydrogen halides does not precipitate silver halide upon adding aqueous silver nitrate (AgNO₃)?",
+      "options": {
+        "A": "HF",
+        "B": "HCl",
+        "C": "HBr",
+        "D": "HI"
+      },
+      "correctAnswer": "A",
+      "explanation": "Silver fluoride (AgF) is water-soluble, whereas AgCl (white), AgBr (cream), and AgI (yellow) are insoluble precipitates."
+    },
+    {
+      "id": 6,
+      "question": "What is the IUPAC name for [Pt(NH₃)₄Cl₂]²⁺?",
+      "options": {
+        "A": "Tetraamminedichloroplatinum(IV) ion",
+        "B": "Dichlorotetraammineplatinum(II) ion",
+        "C": "Tetraammineplatinum(IV) dichloride",
+        "D": "Platinum tetraammine dichloride ion"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ligands named alphabetically: tetraammine before dichloro; Pt has oxidation state +4: Pt + 4(0) + 2(-1) = +2 → Pt = +4."
+    },
+    {
+      "id": 7,
+      "question": "What is the IUPAC suffix used for naming an ester?",
+      "options": {
+        "A": "-al",
+        "B": "-oate",
+        "C": "-one",
+        "D": "-oic acid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Esters are named as alkyl alkanoates (suffix -oate, e.g., ethyl ethanoate)."
+    },
+    {
+      "id": 8,
+      "question": "When vicinal dihalides (e.g., 1,2-dibromoethane) are heated with zinc dust in alcohol, they undergo dehalogenation to yield:",
+      "options": {
+        "A": "Alkanes",
+        "B": "Alkenes (Ethene)",
+        "C": "Alkynes",
+        "D": "Alcohols"
+      },
+      "correctAnswer": "B",
+      "explanation": "Br-CH₂-CH₂-Br + Zn xrightarrow{alcohol, \\Delta} H₂C=CH₂ + ZnBr₂."
+    },
+    {
+      "id": 9,
+      "question": "When phenol is heated with zinc dust, the organic product distilled over is:",
+      "options": {
+        "A": "Benzene",
+        "B": "Toluene",
+        "C": "Benzoic acid",
+        "D": "Cyclohexanol"
+      },
+      "correctAnswer": "A",
+      "explanation": "C₆H₅OH + Zn xrightarrow{\\Delta} C₆H₆ (benzene) + ZnO."
+    },
+    {
+      "id": 10,
+      "question": "When methylmagnesium iodide is treated with dry ice (solid CO₂), what intermediate complex precipitates prior to acid hydrolysis?",
+      "options": {
+        "A": "CH₃COOMgI",
+        "B": "CH₃OMgI",
+        "C": "(CH₃)₂Mg",
+        "D": "MgI₂"
+      },
+      "correctAnswer": "A",
+      "explanation": "CH₃MgI + CO₂ → CH₃-COO-MgI, which upon acid hydrolysis releases acetic acid (CH₃COOH) and Mg(OH)I."
+    },
+    {
+      "id": 11,
+      "question": "Industrial production of Methanol (wood spirit) involves the catalytic reaction of water gas (CO + H₂) with hydrogen at 450°C and 200 atm over which catalyst?",
+      "options": {
+        "A": "ZnO and Cr₂O₃",
+        "B": "Finely divided Iron",
+        "C": "V₂O₅",
+        "D": "Platinum gauze"
+      },
+      "correctAnswer": "A",
+      "explanation": "CO + 2 H₂ xrightarrow{ZnO + Cr₂O₃, 450°C, 200 atm} CH₃OH (methanol)."
+    },
+    {
+      "id": 12,
+      "question": "Aldehydes and ketones undergo nucleophilic addition reactions primarily because:",
+      "options": {
+        "A": "The electronegative oxygen atom polarizes the carbonyl π-bond (>C^δ⁺=O^δ⁻), rendering the carbon atom strongly electrophilic",
+        "B": "Carbonyl carbon is electron rich",
+        "C": "The C-O bond is non-polar",
+        "D": "Oxygen has no lone pairs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Electronegativity difference creates a positive partial charge (δ+) on the carbonyl carbon, making it vulnerable to attack by nucleophiles."
+    },
+    {
+      "id": 13,
+      "question": "Carboxylic acids react with sodium bicarbonate (NaHCO₃) solution with brisk effervescence due to the evolution of:",
+      "options": {
+        "A": "Carbon dioxide gas (CO₂)",
+        "B": "Hydrogen gas",
+        "C": "Carbon monoxide",
+        "D": "Oxygen gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "R-COOH + NaHCO₃ → R-COONa + H₂O + CO₂↑. This reaction distinguishes carboxylic acids from phenols (which generally do not liberate CO₂ from NaHCO₃)."
+    },
+    {
+      "id": 14,
+      "question": "Natural rubber is an addition polymer of which conjugated diene monomer?",
+      "options": {
+        "A": "Isoprene (2-methyl-1,3-butadiene)",
+        "B": "Chloroprene (2-chloro-1,3-butadiene)",
+        "C": "1,3-Butadiene",
+        "D": "Styrene"
+      },
+      "correctAnswer": "A",
+      "explanation": "Natural rubber is cis-1,4-polyisoprene. Trans-1,4-polyisoprene is non-elastic gutta-percha."
+    },
+    {
+      "id": 15,
+      "question": "Biuret is a toxic impurity formed when urea is overheated above its melting point (132°C). For agricultural fertilizer use, biuret content must be kept below:",
+      "options": {
+        "A": "1.0% to 1.5%",
+        "B": "5.0%",
+        "C": "10.0%",
+        "D": "0.01%"
+      },
+      "correctAnswer": "A",
+      "explanation": "Biuret is phytotoxic and damages germinating seeds and citrus crops; standards strictly limit biuret to <1.5%."
+    },
+    {
+      "id": 16,
+      "question": "Chemical Oxygen Demand (COD) measures the total organic content in wastewater by oxidizing it chemically using which boiling acidic reagent?",
+      "options": {
+        "A": "Potassium dichromate (K₂Cr₂O₇) in concentrated H₂SO₄",
+        "B": "KMnO₄ in cold water",
+        "C": "Hydrogen peroxide",
+        "D": "Sodium hypochlorite"
+      },
+      "correctAnswer": "A",
+      "explanation": "Boiling with acidified standard K₂Cr₂O₇ oxidizes both biodegradable and non-biodegradable organic pollutants, with COD always higher than BOD."
+    },
+    {
+      "id": 17,
+      "question": "The pair of coordination isomers [Co(NH₃)₅(SO₄)]Br and [Co(NH₃)₅Br]SO₄ represents which type of isomerism?",
+      "options": {
+        "A": "Hydrate isomerism",
+        "B": "Ionization isomerism",
+        "C": "Linkage isomerism",
+        "D": "Geometrical isomerism"
+      },
+      "correctAnswer": "B",
+      "explanation": "They produce different ions in aqueous solution: the first precipitates AgBr with AgNO₃, while the second precipitates BaSO₄ with BaCl₂."
+    }
+  ]
+}

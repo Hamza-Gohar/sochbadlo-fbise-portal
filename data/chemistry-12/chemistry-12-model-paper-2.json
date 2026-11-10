@@ -1,0 +1,215 @@
+{
+  "chapterNumber": 18,
+  "chapterTitle": "Annual Board Examination Section A Simulator 2 (FBISE Class 12 Chemistry)",
+  "title": "Annual Board Examination Section A Simulator 2 (FBISE Class 12 Chemistry)",
+  "slug": "chemistry-12-model-paper-2",
+  "totalQuestions": 17,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following elements has the highest electronegativity on the Pauling scale?",
+      "options": {
+        "A": "Cesium (Cs)",
+        "B": "Chlorine (Cl)",
+        "C": "Oxygen (O)",
+        "D": "Fluorine (F)"
+      },
+      "correctAnswer": "D",
+      "explanation": "Fluorine is the most electronegative element with a Pauling value of 4.0."
+    },
+    {
+      "id": 2,
+      "question": "Why is sodium stored under kerosene oil or liquid paraffin in the laboratory?",
+      "options": {
+        "A": "It dissolves in glass containers",
+        "B": "It reacts rapidly with atmospheric oxygen and moisture to form oxides and hydroxides",
+        "C": "It is radioactive",
+        "D": "It evaporates at room temperature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sodium is highly electropositive and reacts vigorously with moisture and oxygen; hydrocarbons do not react with sodium."
+    },
+    {
+      "id": 3,
+      "question": "Silicones are synthetic polymers characterized by which repeating backbone unit?",
+      "options": {
+        "A": "-[C-C]-",
+        "B": "-[Si-O]-",
+        "C": "-[C-N]-",
+        "D": "-[Si-Si]-"
+      },
+      "correctAnswer": "B",
+      "explanation": "Silicones (polyorganosiloxanes) consist of repeating -[R₂Si-O]- units with high thermal stability and water-repellent properties."
+    },
+    {
+      "id": 4,
+      "question": "Phosphorous acid (H₃PO₃) acts as a reducing agent and is dibasic because its structure contains:",
+      "options": {
+        "A": "Three P-OH bonds",
+        "B": "Two P-OH bonds and one direct non-ionizable P-H bond",
+        "C": "One P-OH bond and two P-H bonds",
+        "D": "Only P-O-P bridge bonds"
+      },
+      "correctAnswer": "B",
+      "explanation": "In H₃PO₃, phosphorus is bonded to one =O, two -OH groups, and one direct -H. The P-H hydrogen does not ionize but confers reducing power."
+    },
+    {
+      "id": 5,
+      "question": "Which interhalogen compound has a pentagonal bipyramidal geometry with sp³d³ hybridization?",
+      "options": {
+        "A": "ClF₃",
+        "B": "BrF₅",
+        "C": "IF₇",
+        "D": "ICl"
+      },
+      "correctAnswer": "C",
+      "explanation": "Iodine heptafluoride (IF₇) has 7 single bonds and zero lone pairs, giving a regular pentagonal bipyramidal geometry."
+    },
+    {
+      "id": 6,
+      "question": "What is the equivalent weight of KMnO₄ in acidic medium (Molecular mass = M)?",
+      "options": {
+        "A": "M / 1",
+        "B": "M / 3",
+        "C": "M / 5",
+        "D": "M / 6"
+      },
+      "correctAnswer": "C",
+      "explanation": "Equivalent weight = Molecular mass / change in oxidation number = M / 5 (since Mn changes from +7 to +2)."
+    },
+    {
+      "id": 7,
+      "question": "What is the systematic IUPAC name for (CH₃)₂CH-CH₂-CH(CH₃)₂?",
+      "options": {
+        "A": "Diisopropylmethane",
+        "B": "2,4-Dimethylpentane",
+        "C": "1,1,3,3-Tetramethylpropane",
+        "D": "2-Methylhexane"
+      },
+      "correctAnswer": "B",
+      "explanation": "The longest continuous carbon chain has 5 carbons (pentane) with methyl substituents at carbons 2 and 4."
+    },
+    {
+      "id": 8,
+      "question": "Catalytic hydrogenation of an alkyne using Lindlar's catalyst (Pd deposited on CaCO₃ poisoned with quinoline or lead acetate) produces:",
+      "options": {
+        "A": "trans-alkene exclusively",
+        "B": "cis-alkene stereoselectively",
+        "C": "An alkane directly",
+        "D": "A polymer"
+      },
+      "correctAnswer": "B",
+      "explanation": "Poisoned Lindlar's catalyst delivers both hydrogen atoms from the same face of the catalyst surface (syn-addition), yielding cis-alkenes."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following polycyclic aromatic hydrocarbons consists of two fused benzene rings sharing a common C-C bond?",
+      "options": {
+        "A": "Naphthalene (C₁₀H₈)",
+        "B": "Anthracene (C₁₄H₁₀)",
+        "C": "Phenanthrene",
+        "D": "Biphenyl"
+      },
+      "correctAnswer": "A",
+      "explanation": "Naphthalene consists of two fused benzene rings, formula C₁₀H₈, with a resonance energy of 255 kJ/mol."
+    },
+    {
+      "id": 10,
+      "question": "Which alkyl halide reacts with alcoholic potassium cyanide (KCN) to form an alkane nitrile (R-C≡N), but with silver cyanide (AgCN) to form an isonitrile (R-N≡C)?",
+      "options": {
+        "A": "KCN is ionic releasing ambidentate CN⁻ that attacks via carbon; AgCN is largely covalent where nitrogen donates its lone pair",
+        "B": "KCN decomposes the halide",
+        "C": "AgCN oxidizes the alkyl group",
+        "D": "Silver cyanide forms an ester"
+      },
+      "correctAnswer": "A",
+      "explanation": "K⁺CN⁻ is ionic, carbon attack is preferred; covalent Ag-C≡N binds through the unshared lone pair on nitrogen to form alkyl isocyanides (isonitriles)."
+    },
+    {
+      "id": 11,
+      "question": "Which reagent is used to detect dangerous peroxides in old samples of diethyl ether?",
+      "options": {
+        "A": "Aqueous KI and starch solution (yielding a blue color) or acidified FeSO₄ + KCNS (red color)",
+        "B": "Lucas reagent",
+        "C": "Tollens' reagent",
+        "D": "Fehling's solution"
+      },
+      "correctAnswer": "A",
+      "explanation": "Peroxides oxidize I⁻ to free I₂ (blue starch complex) and Fe²⁺ to Fe³⁺ (deep red thiocyanate complex)."
+    },
+    {
+      "id": 12,
+      "question": "Which of the following reagents selectively reduces aldehydes and ketones to alcohols without reducing carbon-carbon double bonds, esters, or carboxylic acids?",
+      "options": {
+        "A": "Sodium borohydride (NaBH₄)",
+        "B": "Concentrated H₂SO₄",
+        "C": "Acidified KMnO₄",
+        "D": "CrO₃"
+      },
+      "correctAnswer": "A",
+      "explanation": "NaBH₄ is a mild, selective hydride reducing agent that reduces aldehydes to 1° alcohols and ketones to 2° alcohols, leaving esters/acids/alkenes untouched."
+    },
+    {
+      "id": 13,
+      "question": "Vinegar is an aqueous solution containing approximately what percentage of acetic acid?",
+      "options": {
+        "A": "4% to 8%",
+        "B": "25% to 30%",
+        "C": "50%",
+        "D": "100%"
+      },
+      "correctAnswer": "A",
+      "explanation": "Household vinegar is 4-8% ethanoic (acetic) acid in water, typically manufactured by oxidative fermentation of ethanol by Acetobacter aceti."
+    },
+    {
+      "id": 14,
+      "question": "The non-protein, heat-stable organic component required by certain conjugated enzymes (holoenzymes) for catalytic activity is termed a:",
+      "options": {
+        "A": "Coenzyme (e.g., NAD⁺, FAD, Coenzyme A)",
+        "B": "Apoenzyme",
+        "C": "Zymogen",
+        "D": "Substrate"
+      },
+      "correctAnswer": "A",
+      "explanation": "Apoenzyme (protein portion) + Coenzyme/Cofactor (non-protein portion) = Holoenzyme (active catalytic complex)."
+    },
+    {
+      "id": 15,
+      "question": "In the Sulfite pulping process, wood chips are cooked under pressure with a liquor containing:",
+      "options": {
+        "A": "Calcium or magnesium bisulfite [Ca(HSO₃)₂] and excess sulfur dioxide (SO₂)",
+        "B": "NaOH and Na₂S",
+        "C": "Nitric acid and ammonia",
+        "D": "Sodium carbonate and lime"
+      },
+      "correctAnswer": "A",
+      "explanation": "Acid sulfite pulping uses Ca(HSO₃)₂/SO₂ cooking liquor to produce easily bleachable pulp used in fine writing paper."
+    },
+    {
+      "id": 16,
+      "question": "In Mass Spectrometry, the peak corresponding to the intact, unfragmented ionized molecule produced by loss of one electron (M•⁺) is called the:",
+      "options": {
+        "A": "Molecular ion peak (parent peak)",
+        "B": "Base peak",
+        "C": "Isotope peak",
+        "D": "Metastable peak"
+      },
+      "correctAnswer": "A",
+      "explanation": "The molecular ion peak (M•⁺) gives the exact molecular mass (m/z value) of the compound."
+    },
+    {
+      "id": 17,
+      "question": "High Density Polyethylene (HDPE) is manufactured under mild conditions (few atmospheres) using which coordination catalyst?",
+      "options": {
+        "A": "Ziegler-Natta catalyst [TiCl₄ + (C₂H₅)₃Al]",
+        "B": "Fenton's reagent",
+        "C": "Wilkinson's catalyst",
+        "D": "Lindlar's catalyst"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ziegler-Natta catalyst polymerizes ethene stereoregularly into unbranched, tightly packed linear chains with high crystallinity and tensile strength."
+    }
+  ]
+}

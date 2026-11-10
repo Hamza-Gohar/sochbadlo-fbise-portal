@@ -1,0 +1,215 @@
+{
+  "chapterNumber": 21,
+  "chapterTitle": "Annual Board Examination Section A Simulator 5 (FBISE Class 12 Chemistry)",
+  "title": "Annual Board Examination Section A Simulator 5 (FBISE Class 12 Chemistry)",
+  "slug": "chemistry-12-model-paper-5",
+  "totalQuestions": 17,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following chlorides undergoes complete hydrolysis in water to produce an acidic solution and fumes of HCl?",
+      "options": {
+        "A": "NaCl",
+        "B": "MgCl₂",
+        "C": "SiCl₄",
+        "D": "CCl₄"
+      },
+      "correctAnswer": "C",
+      "explanation": "SiCl₄ possesses vacant 3d orbitals to accept lone pairs from water molecules, hydrolyzing violently to Si(OH)₄ and 4 HCl (unlike CCl₄ which lacks d-orbitals)."
+    },
+    {
+      "id": 2,
+      "question": "The solubility of alkaline earth metal hydroxides down Group IIA (Be(OH)₂ to Ba(OH)₂):",
+      "options": {
+        "A": "Decreases",
+        "B": "Increases",
+        "C": "Remains constant",
+        "D": "First decreases then increases"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lattice energy decreases more rapidly than hydration enthalpy down Group IIA for hydroxides; hence Ba(OH)₂ is the most soluble and basic."
+    },
+    {
+      "id": 3,
+      "question": "Tin exists in two allotropic forms: white tin (metallic β-tin) and grey tin (non-metallic α-tin). The crumbly disintegration of tin objects in freezing weather is called:",
+      "options": {
+        "A": "Tin pest (tin disease)",
+        "B": "Galvanic corrosion",
+        "C": "Alum decay",
+        "D": "Inert embrittlement"
+      },
+      "correctAnswer": "A",
+      "explanation": "Below 13.2°C, white metallic β-tin slowly converts to brittle, grey powdery α-tin with lower density, known as tin pest."
+    },
+    {
+      "id": 4,
+      "question": "Ozone (O₃) acts as a powerful oxidizing agent because:",
+      "options": {
+        "A": "It readily decomposes to release one molecule of oxygen and one highly reactive nascent oxygen atom [O]",
+        "B": "It has basic properties",
+        "C": "It is paramagnetic",
+        "D": "It has a cyclic triangular shape"
+      },
+      "correctAnswer": "A",
+      "explanation": "O₃ → O₂ + [O]. The liberated nascent oxygen atom has immense oxidizing potential (E° = +2.07 V)."
+    },
+    {
+      "id": 5,
+      "question": "Hydrofluoric acid (HF) is stored in wax-coated bottles or plastic (polyethylene) containers because:",
+      "options": {
+        "A": "It reacts with glass (silica) forming soluble fluorosilicic acid: SiO₂ + 6HF → H₂SiF₆ + 2H₂O",
+        "B": "It is light-sensitive and decomposes into fluorine gas",
+        "C": "It is extremely flammable",
+        "D": "It oxidizes glass into silicon metal"
+      },
+      "correctAnswer": "A",
+      "explanation": "HF attacks silicates in glass (etching of glass), forming gaseous SiF₄ and H₂SiF₆, destroying glass containers."
+    },
+    {
+      "id": 6,
+      "question": "The blue color of aqueous copper sulfate solution turns into an intense royal blue solution upon adding excess ammonia due to the formation of:",
+      "options": {
+        "A": "[Cu(NH₃)₄]²⁺ (tetraamminecopper(II) ion)",
+        "B": "Cu(OH)₂ precipitate",
+        "C": "[Cu(H₂O)₄]²⁺",
+        "D": "Cu₃N"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cu²⁺ forms the complex ion [Cu(NH₃)₄]²⁺ with ammine ligands, shifting the d-d absorption band and intensifying the blue color."
+    },
+    {
+      "id": 7,
+      "question": "Stereoisomers that are not mirror images of each other are called:",
+      "options": {
+        "A": "Enantiomers",
+        "B": "Diastereomers",
+        "C": "Tautomers",
+        "D": "Structural isomers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Diastereomers have different spatial arrangements but are not mirror images (e.g., cis/trans isomers, non-mirror pairs of stereoisomers with multiple chiral centers)."
+    },
+    {
+      "id": 8,
+      "question": "High Density Polyethylene (HDPE) is manufactured under mild conditions (few atmospheres) using which coordination catalyst?",
+      "options": {
+        "A": "Ziegler-Natta catalyst [TiCl₄ + (C₂H₅)₃Al]",
+        "B": "Fenton's reagent",
+        "C": "Wilkinson's catalyst",
+        "D": "Lindlar's catalyst"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ziegler-Natta catalyst polymerizes ethene stereoregularly into unbranched, tightly packed linear chains with high crystallinity and tensile strength."
+    },
+    {
+      "id": 9,
+      "question": "What is the product obtained when benzene is hydrogenated under pressure at 200°C over a nickel catalyst?",
+      "options": {
+        "A": "1,3-Cyclohexadiene",
+        "B": "Cyclohexene",
+        "C": "Cyclohexane (C₆H₁₂)",
+        "D": "n-Hexane"
+      },
+      "correctAnswer": "C",
+      "explanation": "C₆H₆ + 3 H₂ xrightarrow{Ni, 200°C, pressure} C₆H₁₂ (cyclohexane)."
+    },
+    {
+      "id": 10,
+      "question": "When ethylmagnesium bromide reacts with ethylene oxide (oxirane) followed by acid hydrolysis, the product is:",
+      "options": {
+        "A": "1-Butanol (a primary alcohol extended by 2 carbons)",
+        "B": "2-Butanol",
+        "C": "Diethyl ether",
+        "D": "Butanal"
+      },
+      "correctAnswer": "A",
+      "explanation": "Grignard ring-opening of ethylene oxide adds a -CH₂CH₂OH unit: CH₃CH₂MgBr + (CH₂CH₂)O → CH₃CH₂CH₂CH₂OH."
+    },
+    {
+      "id": 11,
+      "question": "When diethyl ether is treated with concentrated sulfuric acid in the cold, it dissolves by forming a stable, water-soluble:",
+      "options": {
+        "A": "Oxonium salt [(C₂H₅)₂OH⁺ HSO₄⁻]",
+        "B": "Alkene",
+        "C": "Ester",
+        "D": "Peroxide"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ether oxygen has basic lone pairs that accept a proton from concentrated strong acids to form protonated oxonium salts."
+    },
+    {
+      "id": 12,
+      "question": "Trioxane (metaformaldehyde) is a cyclic trimer of formaldehyde with the formula:",
+      "options": {
+        "A": "(HCHO)₃ (1,3,5-trioxane)",
+        "B": "(CH₃CHO)₃",
+        "C": "C₆H₁₂O₆",
+        "D": "C₃H₈O₃"
+      },
+      "correctAnswer": "A",
+      "explanation": "Distilling 50% aqueous formaldehyde with dilute H₂SO₄ yields crystalline cyclic trioxane [(CH₂O)₃]."
+    },
+    {
+      "id": 13,
+      "question": "Acid anhydrides react with water to produce:",
+      "options": {
+        "A": "Two molecules of carboxylic acid",
+        "B": "An ester and water",
+        "C": "An aldehyde and alcohol",
+        "D": "Carbon monoxide"
+      },
+      "correctAnswer": "A",
+      "explanation": "(RCO)₂O + H₂O → 2 R-COOH."
+    },
+    {
+      "id": 14,
+      "question": "Ninhydrin reagent reacts with all α-amino acids on heating to produce an intense blue-purple coloration known as:",
+      "options": {
+        "A": "Ruhemann's Purple",
+        "B": "Prussian Blue",
+        "C": "Schiff's violet",
+        "D": "Biuret purple"
+      },
+      "correctAnswer": "A",
+      "explanation": "Oxidative deamination and condensation of ninhydrin with liberated ammonia generates the deep purple pigment Ruhemann's purple."
+    },
+    {
+      "id": 15,
+      "question": "Which Pakistan industry utilizes rock salt (NaCl) mined from Khewra as its primary raw material?",
+      "options": {
+        "A": "Chlor-alkali industry (Caustic soda, Chlorine) and Soda ash industry",
+        "B": "Urea industry",
+        "C": "Cement industry",
+        "D": "Paper pulp industry"
+      },
+      "correctAnswer": "A",
+      "explanation": "Brine from Khewra rock salt feeds large chlor-alkali and soda ash manufacturing facilities across Punjab."
+    },
+    {
+      "id": 16,
+      "question": "The international treaty signed in 1987 to phase out production and consumption of ozone-depleting substances (CFCs and halons) is known as the:",
+      "options": {
+        "A": "Montreal Protocol",
+        "B": "Kyoto Protocol",
+        "C": "Paris Agreement",
+        "D": "Basel Convention"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Montreal Protocol successfully regulated and phased out CFCs, stabilizing and beginning the recovery of the stratospheric ozone layer."
+    },
+    {
+      "id": 17,
+      "question": "What is the order of boiling points among isomeric primary, secondary, and tertiary butyl alcohols?",
+      "options": {
+        "A": "1° (n-butyl alcohol) > 2° (sec-butyl alcohol) > 3° (tert-butyl alcohol)",
+        "B": "3° > 2° > 1°",
+        "C": "2° > 3° > 1°",
+        "D": "All have identical boiling points"
+      },
+      "correctAnswer": "A",
+      "explanation": "Branching decreases molecular surface area and weakens van der Waals forces, while also sterically hindering hydrogen bonding; hence 1° > 2° > 3°."
+    }
+  ]
+}

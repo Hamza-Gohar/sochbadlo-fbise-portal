@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 9,
+  "chapterTitle": "Chapter 9: Aromatic Hydrocarbons (Benzene & Electrophilic Substitution)",
+  "title": "Chapter 9: Aromatic Hydrocarbons (Benzene & Electrophilic Substitution)",
+  "slug": "chemistry-12-chapter-9",
+  "totalQuestions": 35,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "According to Hückel's Rule, a monocyclic, planar, conjugated system is aromatic if it contains how many delocalized pi (π) electrons?",
+      "options": {
+        "A": "4n π electrons",
+        "B": "(4n + 2) π electrons (where n = 0, 1, 2, 3...)",
+        "C": "(2n + 4) π electrons",
+        "D": "2n π electrons"
+      },
+      "correctAnswer": "B",
+      "explanation": "Hückel's rule states that cyclic conjugated planar systems with (4n+2) π-electrons (e.g., 2, 6, 10, 14 π-electrons) exhibit aromatic stability."
+    },
+    {
+      "id": 2,
+      "question": "What is the resonance energy of benzene, representing its extra thermodynamic stability compared to hypothetical 1,3,5-cyclohexatriene?",
+      "options": {
+        "A": "36 kJ/mol",
+        "B": "150.5 kJ/mol (36 kcal/mol)",
+        "C": "358 kJ/mol",
+        "D": "208 kJ/mol"
+      },
+      "correctAnswer": "B",
+      "explanation": "Theoretical heat of hydrogenation for triene is -358.5 kJ/mol, but observed heat for benzene is -208 kJ/mol; difference is 150.5 kJ/mol (resonance energy)."
+    },
+    {
+      "id": 3,
+      "question": "All six carbon-carbon bond lengths in benzene are identical, measuring:",
+      "options": {
+        "A": "1.54 Å (typical single bond)",
+        "B": "1.34 Å (typical double bond)",
+        "C": "1.397 Å (~1.40 Å, intermediate between single and double bonds)",
+        "D": "1.20 Å"
+      },
+      "correctAnswer": "C",
+      "explanation": "Complete delocalization of the six π-electrons gives all six C-C bonds equal length (1.397 Å), exactly intermediate between sp³ C-C (1.54 Å) and sp² C=C (1.34 Å)."
+    },
+    {
+      "id": 4,
+      "question": "In the nitration of benzene with a mixture of concentrated HNO₃ and concentrated H₂SO₄ at 50°C-55°C, what is the active electrophile?",
+      "options": {
+        "A": "Nitrate ion (NO₃⁻)",
+        "B": "Nitronium ion (NO₂⁺)",
+        "C": "Nitrite ion (NO₂⁻)",
+        "D": "Nitric oxide (NO)"
+      },
+      "correctAnswer": "B",
+      "explanation": "H₂SO₄ protonates HNO₃: HNO₃ + 2 H₂SO₄ ⇌ NO₂⁺ (nitronium ion) + H₃O⁺ + 2 HSO₄⁻."
+    },
+    {
+      "id": 5,
+      "question": "In electrophilic aromatic substitution, the non-aromatic carbocation intermediate formed by addition of the electrophile to the benzene ring is called:",
+      "options": {
+        "A": "Arenium ion (σ-complex / Wheland intermediate)",
+        "B": "Free radical",
+        "C": "Carbanion",
+        "D": "Benzyne intermediate"
+      },
+      "correctAnswer": "A",
+      "explanation": "The electrophile forms a σ-bond with one carbon, converting it to sp³; the positive charge delocalizes over the remaining five sp² carbons as an arenium ion (σ-complex)."
+    },
+    {
+      "id": 6,
+      "question": "In the Friedel-Crafts alkylation of benzene (C₆H₆ + CH₃Cl xrightarrow{AlCl₃} C₆H₅CH₃ + HCl), the role of anhydrous AlCl₃ is to:",
+      "options": {
+        "A": "Act as a Lewis base",
+        "B": "Act as a Lewis acid catalyst that polarizes the alkyl halide to generate a carbocation electrophile (CH₃⁺)",
+        "C": "Absorb heat",
+        "D": "Act as a reducing agent"
+      },
+      "correctAnswer": "B",
+      "explanation": "AlCl₃ accepts a chloride ion from CH₃Cl to generate the carbocation electrophile: CH₃Cl + AlCl₃ ⇌ CH₃⁺ + AlCl₄⁻."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following substituents on a benzene ring is strongly activating and ortho/para-directing?",
+      "options": {
+        "A": "-NO₂",
+        "B": "-COOH",
+        "C": "-OH (Phenolic hydroxyl group)",
+        "D": "-SO₃H"
+      },
+      "correctAnswer": "C",
+      "explanation": "The lone pair on oxygen delocalizes into the ring (+M resonance effect), increasing electron density specifically at ortho and para positions."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following substituents is deactivating yet directs incoming electrophiles to the ortho and para positions?",
+      "options": {
+        "A": "Nitro group (-NO₂)",
+        "B": "Halogens (-Cl, -Br, -I)",
+        "C": "Methyl group (-CH₃)",
+        "D": "Cyano group (-CN)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Halogens withdraw electrons inductively (-I effect, deactivating the ring), but their lone pairs donate into the ring via resonance (+M effect) at ortho/para sites."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following groups is meta-directing and strongly deactivating toward electrophilic aromatic substitution?",
+      "options": {
+        "A": "-NH₂",
+        "B": "-OCH₃",
+        "C": "-NO₂ (Nitro group)",
+        "D": "-CH₃"
+      },
+      "correctAnswer": "C",
+      "explanation": "The nitrogen in -NO₂ bears a formal positive charge and exerts strong -I and -M electron-withdrawing effects, drastically destabilizing ortho/para attack."
+    },
+    {
+      "id": 10,
+      "question": "Vigorous oxidation of any alkylbenzene (such as toluene, ethylbenzene, or propylbenzene) with acidified or alkaline KMnO₄ yields which compound?",
+      "options": {
+        "A": "Phenol",
+        "B": "Benzoic acid (C₆H₅COOH)",
+        "C": "Benzaldehyde",
+        "D": "Benzene"
+      },
+      "correctAnswer": "B",
+      "explanation": "Any alkyl side chain possessing at least one benzylic hydrogen is degraded and oxidized completely into a carboxylic acid (-COOH) group attached to the ring."
+    },
+    {
+      "id": 11,
+      "question": "Why does tert-butylbenzene not undergo oxidation to benzoic acid with KMnO₄?",
+      "options": {
+        "A": "The ring is deactivated",
+        "B": "The tertiary carbon lacks benzylic hydrogen atoms required for the oxidation mechanism",
+        "C": "The molecule is planar",
+        "D": "It decomposes to methane"
+      },
+      "correctAnswer": "B",
+      "explanation": "KMnO₄ oxidation initiates via hydrogen abstraction from the benzylic position; tert-butyl [-C(CH₃)₃] has no benzylic C-H bonds."
+    },
+    {
+      "id": 12,
+      "question": "When benzene vapor is passed with air over vanadium pentoxide (V₂O₅) catalyst at 450°C, the ring is cleaved to yield:",
+      "options": {
+        "A": "Maleic anhydride",
+        "B": "Phthalic anhydride",
+        "C": "Benzoic acid",
+        "D": "Succinic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Catalytic vapor-phase oxidation of benzene breaks the ring: 2 C₆H₆ + 9 O₂ xrightarrow{V₂O₅, 450°C} 2 Maleic anhydride + 4 CO₂ + 4 H₂O."
+    },
+    {
+      "id": 13,
+      "question": "In the presence of bright sunlight (UV light) and in the absence of a halogen carrier, benzene reacts with chlorine by addition to produce:",
+      "options": {
+        "A": "Chlorobenzene",
+        "B": "Hexachlorobenzene",
+        "C": "Benzene hexachloride (BHC / Gammexane / Lindane)",
+        "D": "1,2-Dichlorobenzene"
+      },
+      "correctAnswer": "C",
+      "explanation": "C₆H₆ + 3 Cl₂ xrightarrow{UV light} C₆H₆Cl₆ (1,2,3,4,5,6-hexachlorocyclohexane, commercially called Gammexane or Lindane, an agricultural insecticide)."
+    },
+    {
+      "id": 14,
+      "question": "Electrophilic sulfonation of benzene using fuming sulfuric acid (oleum) involves which neutral electrophile?",
+      "options": {
+        "A": "HSO₄⁻",
+        "B": "SO₃ (Sulfur trioxide)",
+        "C": "SO₂",
+        "D": "HSO₃⁺"
+      },
+      "correctAnswer": "B",
+      "explanation": "Neutral SO₃ has a strongly electrophilic sulfur atom surrounded by three electronegative oxygen atoms pulling electron density away."
+    },
+    {
+      "id": 15,
+      "question": "Why does benzene undergo substitution reactions rather than addition reactions under standard conditions, unlike open-chain alkenes?",
+      "options": {
+        "A": "Benzene has no double bonds",
+        "B": "Substitution allows the product to retain the immense thermodynamic resonance stability of the aromatic sextet",
+        "C": "Benzene is an alkane",
+        "D": "Electrophiles cannot attack benzene"
+      },
+      "correctAnswer": "B",
+      "explanation": "Addition would destroy the cyclic (4n+2) aromatic delocalization, sacrificing 150.5 kJ/mol of resonance energy; substitution restores the aromatic ring."
+    },
+    {
+      "id": 16,
+      "question": "Which of the following polycyclic aromatic hydrocarbons consists of two fused benzene rings sharing a common C-C bond?",
+      "options": {
+        "A": "Naphthalene (C₁₀H₈)",
+        "B": "Anthracene (C₁₄H₁₀)",
+        "C": "Phenanthrene",
+        "D": "Biphenyl"
+      },
+      "correctAnswer": "A",
+      "explanation": "Naphthalene consists of two fused benzene rings, formula C₁₀H₈, with a resonance energy of 255 kJ/mol."
+    },
+    {
+      "id": 17,
+      "question": "What is the major limitation of Friedel-Crafts alkylation when attempting to synthesize n-propylbenzene from benzene and 1-chloropropane?",
+      "options": {
+        "A": "The primary carbocation rearranges via a 1,2-hydride shift to the more stable secondary carbocation, giving isopropylbenzene (cumene) as the major product",
+        "B": "Benzene decomposes",
+        "C": "Chloropropane polymerizes",
+        "D": "Only meta product forms"
+      },
+      "correctAnswer": "A",
+      "explanation": "CH₃-CH₂-CH₂⁺ undergoes rapid 1,2-hydride shift to form CH₃-CH⁺-CH₃, leading to isopropylbenzene (cumene) as ~70% of the product."
+    },
+    {
+      "id": 18,
+      "question": "Friedel-Crafts acylation uses an acyl chloride (RCOCl) and AlCl₃ to introduce an acyl group (-COR) onto the benzene ring. Why does acylation avoid the polyalkylation problem seen in alkylation?",
+      "options": {
+        "A": "The introduced acyl group is electron-withdrawing (-M effect), deactivating the ring toward further electrophilic attack",
+        "B": "Acyl chlorides are unreactive",
+        "C": "AlCl₃ is consumed",
+        "D": "Ketones cannot dissolve in benzene"
+      },
+      "correctAnswer": "A",
+      "explanation": "The carbonyl group of the newly formed ketone withdraws electron density, shutting down further electrophilic attack."
+    },
+    {
+      "id": 19,
+      "question": "When toluene (methylbenzene) is treated with chlorine in the presence of boiling temperature and bright sunlight (no catalyst), substitution occurs exclusively at:",
+      "options": {
+        "A": "The ortho position on the ring",
+        "B": "The para position on the ring",
+        "C": "The side-chain methyl group to form benzyl chloride (C₆H₅CH₂Cl)",
+        "D": "The meta position"
+      },
+      "correctAnswer": "C",
+      "explanation": "High temperature and light trigger free-radical halogenation of the side-chain: C₆H₅CH₃ + Cl₂ xrightarrow{hν, \\Delta} C₆H₅CH₂Cl (benzyl chloride) + HCl."
+    },
+    {
+      "id": 20,
+      "question": "What is the structural formula of Picric acid?",
+      "options": {
+        "A": "2,4,6-Trinitrophenol",
+        "B": "2,4,6-Trinitrotoluene (TNT)",
+        "C": "1,3,5-Trinitrobenzene",
+        "D": "Trinitroresorcinol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Picric acid is 2,4,6-trinitrophenol; three electron-withdrawing nitro groups render it as acidic as mineral acids."
+    },
+    {
+      "id": 21,
+      "question": "TNT (2,4,6-trinitrotoluene), a well-known military explosive, is manufactured by the step-wise nitration of:",
+      "options": {
+        "A": "Benzene",
+        "B": "Toluene",
+        "C": "Phenol",
+        "D": "Aniline"
+      },
+      "correctAnswer": "B",
+      "explanation": "Vigorous nitration of toluene with fuming HNO₃ and fuming H₂SO₄ yields 2,4,6-trinitrotoluene (TNT)."
+    },
+    {
+      "id": 22,
+      "question": "According to molecular orbital theory, the aromatic sextet of benzene is formed by:",
+      "options": {
+        "A": "Three completely filled bonding molecular orbitals (ψ₁, ψ₂, ψ₃) of lower energy containing 6 delocalized π-electrons",
+        "B": "Six localized sigma orbitals",
+        "C": "Three antibonding orbitals",
+        "D": "Non-bonding d-orbitals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Six 2p_z atomic orbitals combine to generate 3 bonding (ψ₁, ψ₂, ψ₃) and 3 antibonding (ψ₄*, ψ₅*, ψ₆*) MOs; all 6 π-electrons reside in the low-energy bonding MOs."
+    },
+    {
+      "id": 23,
+      "question": "Which of the following compounds is non-aromatic because it is tub-shaped and non-planar, avoiding anti-aromatic instability?",
+      "options": {
+        "A": "Cyclooctatetraene (COT)",
+        "B": "Cyclopentadienyl anion",
+        "C": "Tropylium cation",
+        "D": "Pyridine"
+      },
+      "correctAnswer": "A",
+      "explanation": "COT has 8 π electrons (4n); if planar it would be anti-aromatic. It flexes into a non-planar 'tub' conformation, rendering it non-aromatic."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following ions satisfies Hückel's rule with 6 π-electrons and exhibits aromatic properties?",
+      "options": {
+        "A": "Cyclopentadienyl anion (C₅H₅⁻)",
+        "B": "Cyclopropenyl anion",
+        "C": "Cycloheptatrienyl anion",
+        "D": "Cyclobutadiene"
+      },
+      "correctAnswer": "A",
+      "explanation": "C₅H₅⁻ has 4 π electrons from two double bonds + 2 electrons from the carbanion lone pair = 6 π-electrons (4n+2 with n=1), planar and aromatic."
+    },
+    {
+      "id": 25,
+      "question": "What is the product obtained when benzene is hydrogenated under pressure at 200°C over a nickel catalyst?",
+      "options": {
+        "A": "1,3-Cyclohexadiene",
+        "B": "Cyclohexene",
+        "C": "Cyclohexane (C₆H₁₂)",
+        "D": "n-Hexane"
+      },
+      "correctAnswer": "C",
+      "explanation": "C₆H₆ + 3 H₂ xrightarrow{Ni, 200°C, pressure} C₆H₁₂ (cyclohexane)."
+    },
+    {
+      "id": 26,
+      "question": "What is the systematic IUPAC name for o-xylene?",
+      "options": {
+        "A": "1,2-Dimethylbenzene",
+        "B": "1,3-Dimethylbenzene",
+        "C": "1,4-Dimethylbenzene",
+        "D": "Ethylbenzene"
+      },
+      "correctAnswer": "A",
+      "explanation": "ortho-xylene has two adjacent methyl groups on the benzene ring: 1,2-dimethylbenzene."
+    },
+    {
+      "id": 27,
+      "question": "Bromination of benzene requires FeBr₃ or Fe as catalyst. The reaction between Fe and Br₂ forms FeBr₃, which functions as:",
+      "options": {
+        "A": "A halogen carrier that polarizes Br₂ into a Br⁺ electrophile and [FeBr₄]⁻",
+        "B": "A reducing agent",
+        "C": "A nucleophile",
+        "D": "A solvent"
+      },
+      "correctAnswer": "A",
+      "explanation": "Br₂ + FeBr₃ ⇌ Br⁺···FeBr₄⁻; the Lewis acid FeBr₃ polarizes the Br-Br bond to release the electrophilic bromonium ion."
+    },
+    {
+      "id": 28,
+      "question": "Which position of naphthalene is most reactive toward electrophilic substitution (nitration, bromination)?",
+      "options": {
+        "A": "Alpha (1-position)",
+        "B": "Beta (2-position)",
+        "C": "Bridgehead carbon",
+        "D": "Both positions are equally reactive"
+      },
+      "correctAnswer": "A",
+      "explanation": "Electrophilic attack at the α-position (C-1) produces an arenium intermediate with two stable resonance contributors that preserve an intact benzene ring, compared to only one at C-2."
+    },
+    {
+      "id": 29,
+      "question": "Kekulé proposed two oscillating structures for benzene in 1865. The major objection to Kekulé's formulation was that:",
+      "options": {
+        "A": "It could not explain why 1,2-disubstituted benzenes exist as only one isomer rather than two distinct isomers",
+        "B": "It showed carbon with five bonds",
+        "C": "It predicted that benzene would be an explosive gas",
+        "D": "It violated the law of multiple proportions"
+      },
+      "correctAnswer": "A",
+      "explanation": "If bonds were fixed, o-xylene should exist as two isomers (one with a double bond between substituted carbons, one with a single bond). Only one isomer exists in reality."
+    },
+    {
+      "id": 30,
+      "question": "In the reduction of nitrobenzene, which reagent combination converts -NO₂ into an amino group (-NH₂) to produce aniline?",
+      "options": {
+        "A": "Tin and concentrated hydrochloric acid (Sn / conc. HCl)",
+        "B": "Sodium hydroxide and water",
+        "C": "KMnO₄ and acid",
+        "D": "Chlorine and light"
+      },
+      "correctAnswer": "A",
+      "explanation": "C₆H₅NO₂ + 6 [H] xrightarrow{Sn/HCl} C₆H₅NH₂ (aniline) + 2 H₂O."
+    },
+    {
+      "id": 31,
+      "question": "The conversion of diazonium salts into chlorobenzene or bromobenzene using cuprous chloride (Cu₂Cl₂) or cuprous bromide (Cu₂Br₂) in the corresponding halogen acid is called:",
+      "options": {
+        "A": "Sandmeyer reaction",
+        "B": "Wurtz-Fittig reaction",
+        "C": "Gattermann reaction",
+        "D": "Kolbe's reaction"
+      },
+      "correctAnswer": "A",
+      "explanation": "C₆H₅N₂⁺Cl⁻ xrightarrow{Cu₂Cl₂/HCl} C₆H₅Cl + N₂↑ (Sandmeyer reaction)."
+    },
+    {
+      "id": 32,
+      "question": "Which of the following compounds is an aromatic heterocycle containing a 6-membered ring with one nitrogen atom?",
+      "options": {
+        "A": "Pyridine (C₅H₅N)",
+        "B": "Pyrrole",
+        "C": "Furan",
+        "D": "Thiophene"
+      },
+      "correctAnswer": "A",
+      "explanation": "Pyridine is a six-membered aromatic ring with five CH groups and one nitrogen atom donating one electron to the π-system."
+    },
+    {
+      "id": 33,
+      "question": "The Wurtz-Fittig reaction is used to synthesize alkylbenzenes by reacting an aryl halide and an alkyl halide with:",
+      "options": {
+        "A": "Sodium metal in dry ether",
+        "B": "Zinc in water",
+        "C": "Magnesium in alcohol",
+        "D": "Aluminum in benzene"
+      },
+      "correctAnswer": "A",
+      "explanation": "C₆H₅Br + 2 Na + CH₃Br xrightarrow{dry ether} C₆H₅CH₃ (toluene) + 2 NaBr."
+    },
+    {
+      "id": 34,
+      "question": "When phenol is heated with zinc dust, the organic product distilled over is:",
+      "options": {
+        "A": "Benzene",
+        "B": "Toluene",
+        "C": "Benzoic acid",
+        "D": "Cyclohexanol"
+      },
+      "correctAnswer": "A",
+      "explanation": "C₆H₅OH + Zn xrightarrow{\\Delta} C₆H₆ (benzene) + ZnO."
+    },
+    {
+      "id": 35,
+      "question": "What is the product obtained when chlorobenzene is hydrolyzed with 10% NaOH at 350°C under 200 atm pressure (Dow's Process) followed by acidification?",
+      "options": {
+        "A": "Phenol (C₆H₅OH)",
+        "B": "Benzoic acid",
+        "C": "Aniline",
+        "D": "Benzene"
+      },
+      "correctAnswer": "A",
+      "explanation": "High temperature and pressure force nucleophilic aromatic substitution: C₆H₅Cl + 2 NaOH → C₆H₅ONa + NaCl + H₂O; acidification yields phenol."
+    }
+  ]
+}

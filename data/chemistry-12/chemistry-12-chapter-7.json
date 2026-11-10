@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 7,
+  "chapterTitle": "Chapter 7: Fundamental Principles of Organic Chemistry & Stereochemistry",
+  "title": "Chapter 7: Fundamental Principles of Organic Chemistry & Stereochemistry",
+  "slug": "chemistry-12-chapter-7",
+  "totalQuestions": 35,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Friedrich Wöhler synthesized urea in 1828 by evaporating an aqueous solution of which inorganic compound, disproving the Vital Force Theory?",
+      "options": {
+        "A": "Ammonium chloride",
+        "B": "Ammonium cyanate (NH₄CNO)",
+        "C": "Potassium cyanide",
+        "D": "Calcium cyanamide"
+      },
+      "correctAnswer": "B",
+      "explanation": "NH₄CNO (ammonium cyanate) rearranges upon heating to form H₂N-CO-NH₂ (urea), the first organic molecule prepared from an inorganic precursor."
+    },
+    {
+      "id": 2,
+      "question": "What is the hybridization and bond angle around the carbon atoms in ethene (H₂C=CH₂)?",
+      "options": {
+        "A": "sp³, 109.5°",
+        "B": "sp², 120°",
+        "C": "sp, 180°",
+        "D": "dsp², 90°"
+      },
+      "correctAnswer": "B",
+      "explanation": "Each double-bonded carbon is bonded to three atoms (2 H, 1 C) with no lone pairs, using three sp² hybrid orbitals in a planar 120° arrangement."
+    },
+    {
+      "id": 3,
+      "question": "Which of the following heterocyclic compounds contains a five-membered ring containing a sulfur heteroatom?",
+      "options": {
+        "A": "Furan",
+        "B": "Pyrrole",
+        "C": "Thiophene",
+        "D": "Pyridine"
+      },
+      "correctAnswer": "C",
+      "explanation": "Thiophene (C₄H₄S) is a 5-membered aromatic heterocycle containing one sulfur atom. Furan contains oxygen, pyrrole contains nitrogen."
+    },
+    {
+      "id": 4,
+      "question": "Compounds having the same molecular formula but differing in the position of functional groups along the carbon chain are termed:",
+      "options": {
+        "A": "Chain isomers",
+        "B": "Position isomers",
+        "C": "Functional group isomers",
+        "D": "Metamers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Position isomers (e.g., 1-propanol vs 2-propanol; 1-butene vs 2-butene) have the same carbon skeleton and functional group at different positions."
+    },
+    {
+      "id": 5,
+      "question": "Ethanol (CH₃CH₂OH) and Dimethyl ether (CH₃OCH₃) are classic examples of which type of isomerism?",
+      "options": {
+        "A": "Chain isomerism",
+        "B": "Functional group isomerism",
+        "C": "Metamerism",
+        "D": "Tautomerism"
+      },
+      "correctAnswer": "B",
+      "explanation": "Both share the formula C₂H₆O, but ethanol has an alcohol (-OH) group while dimethyl ether contains an ether (-O-) linkage."
+    },
+    {
+      "id": 6,
+      "question": "Metamerism is exhibited by compounds belonging to the same homologous family having unequal distribution of alkyl groups on either side of a polyvalent functional group, such as:",
+      "options": {
+        "A": "Alkanes",
+        "B": "Ethers (e.g., diethyl ether vs methyl propyl ether)",
+        "C": "Alkenes",
+        "D": "Carboxylic acids"
+      },
+      "correctAnswer": "B",
+      "explanation": "C₂H₅-O-C₂H₅ (diethyl ether) and CH₃-O-C₃H₇ (methyl propyl ether) have the same formula C₄H₁₀O but differ in alkyl chains flanking the oxygen."
+    },
+    {
+      "id": 7,
+      "question": "Keto-enol tautomerism involves the rapid equilibrium migration of:",
+      "options": {
+        "A": "An electron pair only",
+        "B": "A proton (hydrogen atom) between carbon and oxygen accompanied by a shift of a double bond",
+        "C": "A methyl group",
+        "D": "A hydroxyl ion"
+      },
+      "correctAnswer": "B",
+      "explanation": "CH₃-CO-CH₃ ⇌ CH₃-C(OH)=CH₂; a proton migrates between the α-carbon and the carbonyl oxygen with simultaneous double bond relocation."
+    },
+    {
+      "id": 8,
+      "question": "Which of the following molecules can exhibit geometrical (cis-trans) isomerism?",
+      "options": {
+        "A": "Ethene",
+        "B": "Propene",
+        "C": "2-Butene (CH₃-CH=CH-CH₃)",
+        "D": "2-Methylpropene"
+      },
+      "correctAnswer": "C",
+      "explanation": "2-Butene has restricted rotation about the C=C bond and each sp² carbon is attached to two different substituents (-H and -CH₃), allowing cis and trans forms."
+    },
+    {
+      "id": 9,
+      "question": "A carbon atom bonded to four entirely different atoms or groups of atoms is defined as a:",
+      "options": {
+        "A": "Trigonal carbon",
+        "B": "Chiral (asymmetric) carbon center",
+        "C": "Carbocation",
+        "D": "Carbanion"
+      },
+      "correctAnswer": "B",
+      "explanation": "An asymmetric carbon center possesses no symmetry elements and produces non-superimposable mirror images."
+    },
+    {
+      "id": 10,
+      "question": "Which of the following organic compounds contains a chiral carbon and exhibits optical activity?",
+      "options": {
+        "A": "Ethanol",
+        "B": "Lactic acid [CH₃-CH(OH)-COOH]",
+        "C": "Acetic acid",
+        "D": "Propanone"
+      },
+      "correctAnswer": "B",
+      "explanation": "In lactic acid, the central carbon is attached to four distinct groups: -H, -OH, -CH₃, and -COOH, conferring chirality."
+    },
+    {
+      "id": 11,
+      "question": "Molecules that are non-superimposable mirror images of each other are called:",
+      "options": {
+        "A": "Diastereomers",
+        "B": "Enantiomers",
+        "C": "Metamers",
+        "D": "Conformers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Enantiomers are chiral stereoisomers that rotate plane-polarized light in equal magnitudes but opposite directions (dextro and levo)."
+    },
+    {
+      "id": 12,
+      "question": "An equimolar mixture of dextrorotatory and levorotatory enantiomers is optically inactive due to:",
+      "options": {
+        "A": "Internal compensation",
+        "B": "External compensation (racemic mixture)",
+        "C": "Complete ionization",
+        "D": "Absence of chiral centers"
+      },
+      "correctAnswer": "B",
+      "explanation": "A racemic mixture (±) has net zero optical rotation because equal concentrations of + and - enantiomers cancel each other externally."
+    },
+    {
+      "id": 13,
+      "question": "Meso-tartaric acid contains two chiral carbon atoms yet is completely optically inactive because of:",
+      "options": {
+        "A": "External compensation",
+        "B": "Internal compensation due to an internal plane of symmetry",
+        "C": "Rapid racemization",
+        "D": "Decomposition into oxalic acid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Meso compounds have an internal mirror plane where the top half's optical rotation is cancelled internally by the bottom half."
+    },
+    {
+      "id": 14,
+      "question": "What is the systematic IUPAC name for (CH₃)₂CH-CH₂-CH(CH₃)₂?",
+      "options": {
+        "A": "Diisopropylmethane",
+        "B": "2,4-Dimethylpentane",
+        "C": "1,1,3,3-Tetramethylpropane",
+        "D": "2-Methylhexane"
+      },
+      "correctAnswer": "B",
+      "explanation": "The longest continuous carbon chain has 5 carbons (pentane) with methyl substituents at carbons 2 and 4."
+    },
+    {
+      "id": 15,
+      "question": "Which of the following organic reaction intermediates is a planar, sp²-hybridized species bearing a positive charge and 6 valence electrons?",
+      "options": {
+        "A": "Carbocation (carbonium ion)",
+        "B": "Carbanion",
+        "C": "Free radical",
+        "D": "Carbene"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carbocations (R₃C⁺) are sp² hybridized with an empty unhybridized p-orbital, having trigonal planar geometry and 6 valence electrons."
+    },
+    {
+      "id": 16,
+      "question": "The relative order of thermodynamic stability of carbocations is:",
+      "options": {
+        "A": "Methyl > 1° > 2° > 3°",
+        "B": "3° (tertiary) > 2° (secondary) > 1° (primary) > Methyl",
+        "C": "1° > 2° > 3° > Methyl",
+        "D": "2° > 3° > 1° > Methyl"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tertiary carbocations are stabilized by 9 hyperconjugative α-hydrogens and the electron-donating +I inductive effect of three alkyl groups."
+    },
+    {
+      "id": 17,
+      "question": "Homolytic fission of a covalent C-C single bond generates:",
+      "options": {
+        "A": "A carbocation and a carbanion",
+        "B": "Two neutral free radicals each carrying an unpaired electron",
+        "C": "Electrons and protons",
+        "D": "A carbocation and a hydride ion"
+      },
+      "correctAnswer": "B",
+      "explanation": "In homolytic cleavage (symmetrical breaking), each bonded atom retains one electron of the bonding pair: A:B → A• + B•."
+    },
+    {
+      "id": 18,
+      "question": "Which of the following functional groups has the highest nomenclature priority according to IUPAC rules?",
+      "options": {
+        "A": "Aldehyde (-CHO)",
+        "B": "Ketone (-C=O)",
+        "C": "Carboxylic acid (-COOH)",
+        "D": "Alcohol (-OH)"
+      },
+      "correctAnswer": "C",
+      "explanation": "Carboxylic acids (-COOH) have the highest priority among the common functional groups."
+    },
+    {
+      "id": 19,
+      "question": "What is the C-C-C bond angle in the cyclohexane ring in its most stable 'chair' conformation?",
+      "options": {
+        "A": "120°",
+        "B": "109.5°",
+        "C": "90°",
+        "D": "60°"
+      },
+      "correctAnswer": "B",
+      "explanation": "The chair conformation of cyclohexane is completely free from angle strain and eclipsing torsional strain, adopting the ideal tetrahedral 109.5° angle."
+    },
+    {
+      "id": 20,
+      "question": "An electrophile is defined as a chemical species that is:",
+      "options": {
+        "A": "Electron-rich and donates an electron pair (Lewis base)",
+        "B": "Electron-deficient and accepts an electron pair to form a new bond (Lewis acid)",
+        "C": "Always positively charged",
+        "D": "A proton acceptor"
+      },
+      "correctAnswer": "B",
+      "explanation": "Electrophiles ('electron-lovers') seek electron density; they may be cations (H⁺, NO₂⁺, Br⁺) or neutral Lewis acids (BF₃, AlCl₃, SO₃)."
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is a nucleophile?",
+      "options": {
+        "A": "AlCl₃",
+        "B": "BF₃",
+        "C": "Ammonia (NH₃ with lone pair)",
+        "D": "NO₂⁺"
+      },
+      "correctAnswer": "C",
+      "explanation": "Ammonia has an unshared lone pair of electrons on nitrogen available for donation to electron-deficient centers, functioning as a nucleophile."
+    },
+    {
+      "id": 22,
+      "question": "What is the total number of structural isomers possible for the alkane with molecular formula C₅H₁₂ (Pentane)?",
+      "options": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5"
+      },
+      "correctAnswer": "B",
+      "explanation": "C₅H₁₂ has 3 structural isomers: n-pentane, isopentane (2-methylbutane), and neopentane (2,2-dimethylpropane)."
+    },
+    {
+      "id": 23,
+      "question": "Stereoisomers that are not mirror images of each other are called:",
+      "options": {
+        "A": "Enantiomers",
+        "B": "Diastereomers",
+        "C": "Tautomers",
+        "D": "Structural isomers"
+      },
+      "correctAnswer": "B",
+      "explanation": "Diastereomers have different spatial arrangements but are not mirror images (e.g., cis/trans isomers, non-mirror pairs of stereoisomers with multiple chiral centers)."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following effects is a permanent electron-displacement effect transmitted through sigma bonds along a carbon chain due to electronegativity differences?",
+      "options": {
+        "A": "Electromeric effect",
+        "B": "Inductive effect (I-effect)",
+        "C": "Mesomeric effect",
+        "D": "Hyperconjugation"
+      },
+      "correctAnswer": "B",
+      "explanation": "The inductive effect is permanent and operates through σ-bonds, diminishing rapidly beyond three carbon-carbon bonds."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following alkyl groups exhibits the strongest electron-donating (+I) inductive effect?",
+      "options": {
+        "A": "-CH₃",
+        "B": "-CH₂CH₃",
+        "C": "-CH(CH₃)₂",
+        "D": "-C(CH₃)₃ (tert-butyl group)"
+      },
+      "correctAnswer": "D",
+      "explanation": "The tertiary butyl group with three methyl groups has the largest electron-pushing inductive (+I) effect."
+    },
+    {
+      "id": 26,
+      "question": "What is the systematic IUPAC name for CH₂=CH-CH₂-C≡CH?",
+      "options": {
+        "A": "Pent-1-en-4-yne",
+        "B": "Pent-4-en-1-yne",
+        "C": "1-Penten-4-yne",
+        "D": "Pent-1-yn-4-ene"
+      },
+      "correctAnswer": "A",
+      "explanation": "When double and triple bonds are equidistant from ends, the double bond receives the lower locant: Pent-1-en-4-yne."
+    },
+    {
+      "id": 27,
+      "question": "The phenomenon of rotation of the plane of polarized light by a chiral substance is measured using an instrument called a:",
+      "options": {
+        "A": "Spectrophotometer",
+        "B": "Polarimeter",
+        "C": "Potentiometer",
+        "D": "Refractometer"
+      },
+      "correctAnswer": "B",
+      "explanation": "A polarimeter measures the angle of optical rotation (α) of plane-polarized light passing through a sample tube."
+    },
+    {
+      "id": 28,
+      "question": "Which of the following hybridized orbitals has the greatest s-character (50%) and therefore the highest electronegativity?",
+      "options": {
+        "A": "sp³",
+        "B": "sp²",
+        "C": "sp",
+        "D": "dsp²"
+      },
+      "correctAnswer": "C",
+      "explanation": "sp hybridized carbon has 50% s-character, holding electrons closest to the nucleus, making sp carbon the most electronegative."
+    },
+    {
+      "id": 29,
+      "question": "The conversion of an alkane to a branched isomer at 300°C in the presence of AlCl₃/HCl catalyst is known as:",
+      "options": {
+        "A": "Polymerization",
+        "B": "Isomerization",
+        "C": "Cracking",
+        "D": "Halogenation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Straight-chain alkanes convert into branched isomers (e.g., n-butane to isobutane) via catalytic isomerization to boost octane numbers."
+    },
+    {
+      "id": 30,
+      "question": "How many sigma (σ) and pi (π) bonds are present in one molecule of Ethyne (Acetylene, H-C≡C-H)?",
+      "options": {
+        "A": "3 σ and 2 π bonds",
+        "B": "2 σ and 3 π bonds",
+        "C": "5 σ bonds and 0 π bonds",
+        "D": "1 σ and 2 π bonds"
+      },
+      "correctAnswer": "A",
+      "explanation": "Two C-H single bonds (2 σ) and one C≡C triple bond (1 σ + 2 π) give a total of 3 σ and 2 π bonds."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following statements about enantiomers is FALSE?",
+      "options": {
+        "A": "They have identical boiling points and melting points",
+        "B": "They have identical refractive indices and densities",
+        "C": "They rotate plane-polarized light in identical directions",
+        "D": "They interact differently with chiral biological receptors"
+      },
+      "correctAnswer": "C",
+      "explanation": "Enantiomers rotate plane-polarized light in OPPOSITE directions (+ and -) by equal magnitudes."
+    },
+    {
+      "id": 32,
+      "question": "What is the IUPAC suffix used for naming an ester?",
+      "options": {
+        "A": "-al",
+        "B": "-oate",
+        "C": "-one",
+        "D": "-oic acid"
+      },
+      "correctAnswer": "B",
+      "explanation": "Esters are named as alkyl alkanoates (suffix -oate, e.g., ethyl ethanoate)."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following compounds exhibits functional group isomerism with propanoic acid (CH₃CH₂COOH)?",
+      "options": {
+        "A": "Methyl ethanoate (CH₃COOCH₃)",
+        "B": "Propanal",
+        "C": "Propanone",
+        "D": "1-Propanol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Both share the formula C₃H₆O₂; propanoic acid is a carboxylic acid while methyl ethanoate is an ester."
+    },
+    {
+      "id": 34,
+      "question": "Free radicals are neutral species possessing an unpaired electron. Their geometry is generally:",
+      "options": {
+        "A": "Planar or shallow pyramidal undergoing rapid inversion",
+        "B": "Linear",
+        "C": "Octahedral",
+        "D": "Square planar"
+      },
+      "correctAnswer": "A",
+      "explanation": "Alkyl free radicals (R₃C•) are sp² hybridized planar species with the odd electron in an unhybridized 2p orbital."
+    },
+    {
+      "id": 35,
+      "question": "The specific rotation [α] of an optically active compound is expressed by the formula [α] = α / (l · c), where the path length (l) and concentration (c) are in units of:",
+      "options": {
+        "A": "Meters and moles/L",
+        "B": "Decimeters (dm) and grams per milliliter (g/mL)",
+        "C": "Centimeters and molality",
+        "D": "Millimeters and percentage"
+      },
+      "correctAnswer": "B",
+      "explanation": "By definition, path length l is in decimeters (1 dm = 10 cm) and concentration c is in g/mL (or g/cm³)."
+    }
+  ]
+}

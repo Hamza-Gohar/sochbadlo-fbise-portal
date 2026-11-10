@@ -49,6 +49,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isMath12 = chapter.subject === 'math-12' || chapter.slug.startsWith('math-12');
   const isCS12 = chapter.subject === 'cs-12' || chapter.slug.startsWith('cs-12');
   const isBiology12 = chapter.subject === 'biology-12' || chapter.slug.startsWith('biology-12');
+  const isChemistry12 = chapter.subject === 'chemistry-12' || chapter.slug.startsWith('chemistry-12');
   const isUrdu = (chapter.subject === 'urdu' || chapter.slug.startsWith('urdu')) && !isUrdu9 && !isUrdu10 && !isUrdu12;
   const isMath = (chapter.subject === 'math' || chapter.slug.startsWith('math-unit-') || chapter.slug.startsWith('math-model-paper-')) && !isMath9 && !isMath10 && !isMath12;
   const isEnglish = (chapter.subject === 'english' || chapter.slug.startsWith('english')) && !isEnglish9 && !isEnglish10 && !isEnglish12;
@@ -56,12 +57,13 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   const isIslamiat = (chapter.subject === 'islamiat' || chapter.slug.startsWith('islamiat')) && !isIslamiat9;
   const isTarjuma = (chapter.subject === 'tarjuma' || chapter.slug.startsWith('tarjuma')) && !isTarjuma9 && !isTarjuma10 && !isTarjuma12;
   const isBiology = (chapter.subject === 'biology' || chapter.slug.startsWith('biology')) && !isBiology9 && !isBiology10 && !isBiology12;
-  const isChemistry = (chapter.subject === 'chemistry' || chapter.slug.startsWith('chemistry')) && !isChemistry9 && !isChemistry10;
+  const isChemistry = (chapter.subject === 'chemistry' || chapter.slug.startsWith('chemistry')) && !isChemistry9 && !isChemistry10 && !isChemistry12;
   const isRtl = isUrdu || isIslamiat || isTarjuma || isUrdu9 || isTarjuma9 || isIslamiat9 || isUrdu10 || isTarjuma10 || isUrdu12 || isTarjuma12;
 
   const isPastPapers =
     chapter.slug === 'past-papers' ||
     chapter.slug === 'urdu-model-paper' ||
+    chapter.slug.startsWith('chemistry-12-model-paper-') ||
     chapter.slug.startsWith('cs-12-model-paper-') ||
     chapter.slug.startsWith('biology-12-model-paper-') ||
     chapter.slug.startsWith('math-12-model-paper-') ||
@@ -95,7 +97,9 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     chapter.slug.startsWith('chemistry-model-paper-');
 
   let tagLabel = `Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
-  if (chapter.slug.startsWith('cs-12-model-paper-')) tagLabel = `Class 12 CS Simulator ${chapter.slug.split('-').pop()}`;
+  if (chapter.slug.startsWith('chemistry-12-model-paper-')) tagLabel = `Class 12 Chem Simulator ${chapter.slug.split('-').pop()}`;
+  else if (isChemistry12) tagLabel = `Class 12 · Chem Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
+  else if (chapter.slug.startsWith('cs-12-model-paper-')) tagLabel = `Class 12 CS Simulator ${chapter.slug.split('-').pop()}`;
   else if (isCS12) tagLabel = `Class 12 · CS Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
   else if (chapter.slug.startsWith('biology-12-model-paper-')) tagLabel = `Class 12 Bio Simulator ${chapter.slug.split('-').pop()}`;
   else if (isBiology12) tagLabel = `Class 12 · Bio Unit ${chapter.chapterNumber.toString().padStart(2, '0')}`;
@@ -170,7 +174,11 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
   else if (isUrdu) tagLabel = `Urdu Module ${chapter.chapterNumber.toString().padStart(2, '0')}`;
 
   let description = `Comprehensive conceptual questions, dimensional formulas, and numericals for ${chapter.title} aligned with textbook SLOs.`;
-  if (chapter.slug.startsWith('cs-12-model-paper-')) {
+  if (chapter.slug.startsWith('chemistry-12-model-paper-')) {
+    description = `Official Federal Board Section A HSSC-II Class 12 annual examination simulation. 17 MCQs, 25-minute timer with complete chemical reactions, mechanisms, and spectroscopic SLO rationales.`;
+  } else if (isChemistry12) {
+    description = `Official FBISE HSSC-II Class 12 Chemistry: ${chapter.title}. Core periodic trends, reaction mechanisms, organic syntheses, industrial processes, and comprehensive SLO justifications.`;
+  } else if (chapter.slug.startsWith('cs-12-model-paper-')) {
     description = `Official Federal Board Section A HSSC-II Class 12 annual examination simulation. 15 MCQs, 20-minute timer with complete Python, data structures, and computational SLO rationales.`;
   } else if (isCS12) {
     description = `Official FBISE HSSC-II Class 12 Computer Science: ${chapter.title}. Core computational concepts, Python programming, database management, and emerging tech SLO justifications.`;

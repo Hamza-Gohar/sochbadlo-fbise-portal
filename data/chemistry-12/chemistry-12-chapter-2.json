@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 2,
+  "chapterTitle": "Chapter 2: s-Block Elements (Alkali & Alkaline Earth Metals)",
+  "title": "Chapter 2: s-Block Elements (Alkali & Alkaline Earth Metals)",
+  "slug": "chemistry-12-chapter-2",
+  "totalQuestions": 35,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "When burned in excess oxygen, Lithium, Sodium, and Potassium form which characteristic oxides respectively?",
+      "options": {
+        "A": "Normal oxide (Li₂O), Peroxide (Na₂O₂), and Superoxide (KO₂)",
+        "B": "Superoxide (LiO₂), Peroxide (Na₂O₂), and Normal oxide (K₂O)",
+        "C": "Peroxide (Li₂O₂), Superoxide (NaO₂), and Normal oxide (K₂O)",
+        "D": "Normal oxides for all three metals"
+      },
+      "correctAnswer": "A",
+      "explanation": "Small Li⁺ stabilizes the small O²⁻ oxide ion; larger Na⁺ stabilizes O₂²⁻ peroxide; large K⁺ stabilizes O₂⁻ superoxide."
+    },
+    {
+      "id": 2,
+      "question": "Which alkali metal imparts a persistent golden-yellow color to a non-luminous Bunsen flame?",
+      "options": {
+        "A": "Lithium",
+        "B": "Sodium",
+        "C": "Potassium",
+        "D": "Cesium"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sodium atoms emit strong D-lines at 589 nm giving a brilliant golden-yellow flame."
+    },
+    {
+      "id": 3,
+      "question": "In the Down's Cell for the commercial extraction of metallic sodium, calcium chloride (CaCl₂) is added to NaCl in order to:",
+      "options": {
+        "A": "Increase the electrical resistance",
+        "B": "Lower the melting point of NaCl from 801°C to approximately 600°C",
+        "C": "Prevent chlorine gas from escaping",
+        "D": "Act as an oxidizing agent"
+      },
+      "correctAnswer": "B",
+      "explanation": "CaCl₂ acts as a flux, lowering the melting point from 801°C to ~600°C to reduce energy costs and prevent sodium vaporization."
+    },
+    {
+      "id": 4,
+      "question": "Which of the following alkaline earth metal carbonates has the highest thermal decomposition temperature?",
+      "options": {
+        "A": "BeCO₃",
+        "B": "MgCO₃",
+        "C": "CaCO₃",
+        "D": "BaCO₃"
+      },
+      "correctAnswer": "D",
+      "explanation": "Ba²⁺ has the largest radius, causing least polarization of the large CO₃²⁻ anion; hence BaCO₃ has the greatest thermal stability."
+    },
+    {
+      "id": 5,
+      "question": "What is the chemical formula of Plaster of Paris?",
+      "options": {
+        "A": "CaSO₄ · 2H₂O",
+        "B": "CaSO₄ · ½H₂O",
+        "C": "CaSO₄ · 5H₂O",
+        "D": "MgSO₄ · 7H₂O"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gypsum (CaSO₄·2H₂O) loses 1.5 moles of water at 100°C-120°C to form hemihydrate Plaster of Paris (CaSO₄·½H₂O or 2CaSO₄·H₂O)."
+    },
+    {
+      "id": 6,
+      "question": "Beryllium differs from other alkaline earth metals because it:",
+      "options": {
+        "A": "Forms predominantly covalent compounds due to high polarizing power (small Be²⁺ size)",
+        "B": "Reacts vigorously with cold water",
+        "C": "Forms a basic oxide only",
+        "D": "Has the lowest ionization energy in Group IIA"
+      },
+      "correctAnswer": "A",
+      "explanation": "Tiny Be²⁺ has immense charge density, polarizing anions and conferring high covalent character to its compounds (Fajans' rule)."
+    },
+    {
+      "id": 7,
+      "question": "Which alkali metal hydroxide is amphoteric and dissolves in excess sodium hydroxide solution?",
+      "options": {
+        "A": "NaOH",
+        "B": "Be(OH)₂",
+        "C": "Mg(OH)₂",
+        "D": "Ca(OH)₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Be(OH)₂ is amphoteric, reacting with excess NaOH to form soluble beryllate ion [Be(OH)₄]²⁻."
+    },
+    {
+      "id": 8,
+      "question": "In the Solvay process for manufacturing sodium carbonate, the raw materials consumed are:",
+      "options": {
+        "A": "NaCl, CaCO₃, and NH₃",
+        "B": "NaOH, CO₂, and H₂SO₄",
+        "C": "Na₂SO₄, C, and CaCO₃",
+        "D": "NaCl, Ca(OH)₂, and HNO₃"
+      },
+      "correctAnswer": "A",
+      "explanation": "Brine (NaCl), limestone (CaCO₃ source of CO₂ and CaO), and ammonia (NH₃) are the primary raw materials in Solvay's process."
+    },
+    {
+      "id": 9,
+      "question": "Why is sodium stored under kerosene oil or liquid paraffin in the laboratory?",
+      "options": {
+        "A": "It dissolves in glass containers",
+        "B": "It reacts rapidly with atmospheric oxygen and moisture to form oxides and hydroxides",
+        "C": "It is radioactive",
+        "D": "It evaporates at room temperature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Sodium is highly electropositive and reacts vigorously with moisture and oxygen; hydrocarbons do not react with sodium."
+    },
+    {
+      "id": 10,
+      "question": "What is the role of magnesium ion (Mg²⁺) in biological systems?",
+      "options": {
+        "A": "It is the central coordinating metal ion in chlorophyll molecules",
+        "B": "It is the primary cation of extracellular fluids",
+        "C": "It forms the core of hemoglobin",
+        "D": "It acts as a neurotoxin"
+      },
+      "correctAnswer": "A",
+      "explanation": "Mg²⁺ occupies the center of the porphyrin ring in chlorophyll, essential for photosynthetic light absorption."
+    },
+    {
+      "id": 11,
+      "question": "Which of the following Group IIA sulfates is the most soluble in water?",
+      "options": {
+        "A": "BaSO₄",
+        "B": "SrSO₄",
+        "C": "CaSO₄",
+        "D": "BeSO₄"
+      },
+      "correctAnswer": "D",
+      "explanation": "Be²⁺ has an exceptionally high hydration enthalpy that outweighs the lattice energy of BeSO₄, making it highly water-soluble."
+    },
+    {
+      "id": 12,
+      "question": "When Lithium nitrate (LiNO₃) is heated strongly, it decomposes into:",
+      "options": {
+        "A": "LiNO₂ and O₂",
+        "B": "Li₂O, NO₂, and O₂",
+        "C": "Li metal, N₂, and O₂",
+        "D": "Li₃N and O₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Unlike other alkali metal nitrates that yield nitrites and O₂, LiNO₃ decomposes like Group IIA nitrates into Li₂O, NO₂ (brown fumes), and O₂."
+    },
+    {
+      "id": 13,
+      "question": "Which alkaline earth metal produces an apple-green flame in a flame test?",
+      "options": {
+        "A": "Calcium",
+        "B": "Strontium",
+        "C": "Barium",
+        "D": "Radium"
+      },
+      "correctAnswer": "C",
+      "explanation": "Barium salts impart a distinctive apple-green coloration to the flame."
+    },
+    {
+      "id": 14,
+      "question": "In Nelson's Cell (diaphragm cell) for manufacturing caustic soda (NaOH), the diaphragm is made of:",
+      "options": {
+        "A": "Platinum wire mesh",
+        "B": "Asbestos",
+        "C": "Graphite",
+        "D": "Porous ceramic tile"
+      },
+      "correctAnswer": "B",
+      "explanation": "An asbestos diaphragm separates the anode and cathode compartments, preventing Cl₂ from reacting with NaOH."
+    },
+    {
+      "id": 15,
+      "question": "What gas is evolved at the cathode during the electrolysis of aqueous sodium chloride (brine)?",
+      "options": {
+        "A": "Chlorine (Cl₂)",
+        "B": "Oxygen (O₂)",
+        "C": "Hydrogen (H₂)",
+        "D": "Sodium vapor"
+      },
+      "correctAnswer": "C",
+      "explanation": "H⁺ (from water) has a higher reduction potential than Na⁺, so 2H₂O + 2e⁻ → H₂ + 2OH⁻ occurs at the cathode."
+    },
+    {
+      "id": 16,
+      "question": "Milk of Magnesia, an over-the-counter antacid and laxative, is an aqueous suspension of:",
+      "options": {
+        "A": "MgCO₃",
+        "B": "Mg(OH)₂",
+        "C": "MgSO₄",
+        "D": "MgCl₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Magnesium hydroxide [Mg(OH)₂] suspension neutralizes excess gastric HCl safely without releasing gas."
+    },
+    {
+      "id": 17,
+      "question": "Why does Lithium uniquely react directly with atmospheric Nitrogen upon heating to form a nitride (Li₃N)?",
+      "options": {
+        "A": "Lithium has the highest electropositivity",
+        "B": "Small Li⁺ and N³⁻ ions have exceptionally high lattice energy that stabilizes the ionic lattice",
+        "C": "Lithium has vacant d-orbitals",
+        "D": "Lithium is a d-block element"
+      },
+      "correctAnswer": "B",
+      "explanation": "Li₃N is stable because the very small Li⁺ cation packs efficiently with small N³⁻, generating massive lattice energy."
+    },
+    {
+      "id": 18,
+      "question": "The solubility of alkaline earth metal hydroxides down Group IIA (Be(OH)₂ to Ba(OH)₂):",
+      "options": {
+        "A": "Decreases",
+        "B": "Increases",
+        "C": "Remains constant",
+        "D": "First decreases then increases"
+      },
+      "correctAnswer": "B",
+      "explanation": "Lattice energy decreases more rapidly than hydration enthalpy down Group IIA for hydroxides; hence Ba(OH)₂ is the most soluble and basic."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following compounds is known as 'Quicklime'?",
+      "options": {
+        "A": "CaCO₃",
+        "B": "CaO",
+        "C": "Ca(OH)₂",
+        "D": "CaCl₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Calcium oxide (CaO) is quicklime; upon adding water, it slakes exothermically to form slaked lime [Ca(OH)₂]."
+    },
+    {
+      "id": 20,
+      "question": "What is the primary commercial use of metallic Potassium superoxide (KO₂) in closed-circuit breathing apparatus (submarines and space suits)?",
+      "options": {
+        "A": "It absorbs CO₂ and releases O₂ gas simultaneously",
+        "B": "It destroys airborne bacteria",
+        "C": "It generates heat to warm the cabin",
+        "D": "It serves as a fuel cell catalyst"
+      },
+      "correctAnswer": "A",
+      "explanation": "4 KO₂ + 2 CO₂ → 2 K₂CO₃ + 3 O₂; it scrubs exhaled carbon dioxide while replenishing oxygen."
+    },
+    {
+      "id": 21,
+      "question": "The oxidation state of oxygen in potassium superoxide (KO₂) is:",
+      "options": {
+        "A": "-2",
+        "B": "-1",
+        "C": "-½",
+        "D": "+1"
+      },
+      "correctAnswer": "C",
+      "explanation": "K has +1 oxidation state; thus O₂ has -1 charge, giving an average oxidation state of -½ per oxygen atom."
+    },
+    {
+      "id": 22,
+      "question": "Which alkali metal is used in photoelectric cells due to its exceptionally low work function and ionization energy?",
+      "options": {
+        "A": "Lithium",
+        "B": "Sodium",
+        "C": "Cesium",
+        "D": "Beryllium"
+      },
+      "correctAnswer": "C",
+      "explanation": "Cesium's valence electron is held very loosely (IE = 376 kJ/mol), emitting electrons upon exposure even to visible light."
+    },
+    {
+      "id": 23,
+      "question": "Dead burnt plaster is formed when gypsum is heated above:",
+      "options": {
+        "A": "100°C",
+        "B": "120°C",
+        "C": "200°C",
+        "D": "400°C"
+      },
+      "correctAnswer": "C",
+      "explanation": "Above 200°C, all water of crystallization is driven off, forming anhydrous CaSO₄ (dead burnt plaster) which sets extremely slowly."
+    },
+    {
+      "id": 24,
+      "question": "Which of the following compounds gives a crimson red flame in flame photometry?",
+      "options": {
+        "A": "CaCl₂",
+        "B": "SrCl₂",
+        "C": "BaCl₂",
+        "D": "MgCl₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Strontium salts impart an intense crimson-red color to the flame."
+    },
+    {
+      "id": 25,
+      "question": "Epsom salt, commonly used in bath soaks and medicine, has the formula:",
+      "options": {
+        "A": "MgSO₄ · 7H₂O",
+        "B": "CaSO₄ · 2H₂O",
+        "C": "Na₂SO₄ · 10H₂O",
+        "D": "CuSO₄ · 5H₂O"
+      },
+      "correctAnswer": "A",
+      "explanation": "Epsom salt is magnesium sulfate heptahydrate (MgSO₄ · 7H₂O)."
+    },
+    {
+      "id": 26,
+      "question": "When calcium carbide (CaC₂) reacts with water, the hydrocarbon gas evolved is:",
+      "options": {
+        "A": "Methane (CH₄)",
+        "B": "Ethene (C₂H₄)",
+        "C": "Ethyne (C₂H₂ / Acetylene)",
+        "D": "Ethane (C₂H₆)"
+      },
+      "correctAnswer": "C",
+      "explanation": "CaC₂ + 2 H₂O → Ca(OH)₂ + C₂H₂ (acetylene gas)."
+    },
+    {
+      "id": 27,
+      "question": "The chemical formula of soda ash is:",
+      "options": {
+        "A": "NaHCO₃",
+        "B": "Na₂CO₃",
+        "C": "Na₂CO₃ · 10H₂O",
+        "D": "NaOH"
+      },
+      "correctAnswer": "B",
+      "explanation": "Anhydrous sodium carbonate (Na₂CO₃) is termed soda ash, whereas the decahydrate is washing soda."
+    },
+    {
+      "id": 28,
+      "question": "Which s-block element reacts with liquid ammonia to produce a deep blue conducting solution containing ammoniated electrons?",
+      "options": {
+        "A": "Sodium (Na)",
+        "B": "Bismuth (Bi)",
+        "C": "Lead (Pb)",
+        "D": "Silicon (Si)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Alkali metals dissolve in liquid ammonia: Na + (x+y)NH₃ → [Na(NH₃)_x]⁺ + [e(NH₃)_y]⁻. The ammoniated electron absorbs in the red region, imparting deep blue color."
+    },
+    {
+      "id": 29,
+      "question": "Which alkaline earth metal does not give a flame test color because its valence electrons are too tightly bound to be excited by Bunsen burner heat?",
+      "options": {
+        "A": "Barium",
+        "B": "Calcium",
+        "C": "Beryllium and Magnesium",
+        "D": "Strontium"
+      },
+      "correctAnswer": "C",
+      "explanation": "Due to their small size and high ionization energies, Be and Mg electrons require higher energy than a Bunsen flame can provide; hence they emit no visible flame color."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following compounds is formed when metallic sodium reacts with dry ammonia gas at 300°C?",
+      "options": {
+        "A": "Sodium nitride (Na₃N)",
+        "B": "Sodamide (NaNH₂)",
+        "C": "Sodium nitrate (NaNO₃)",
+        "D": "Sodium hydride (NaH)"
+      },
+      "correctAnswer": "B",
+      "explanation": "2 Na + 2 NH₃ → 2 NaNH₂ (sodamide) + H₂ gas."
+    },
+    {
+      "id": 31,
+      "question": "What happens when CO₂ gas is passed continuously through limewater for an extended period?",
+      "options": {
+        "A": "The milkiness persists permanently",
+        "B": "The solution turns clear due to the formation of soluble calcium bicarbonate [Ca(HCO₃)₂]",
+        "C": "A black precipitate forms",
+        "D": "Oxygen gas is liberated"
+      },
+      "correctAnswer": "B",
+      "explanation": "Initial milkiness is due to insoluble CaCO₃. Continued CO₂ forms soluble Ca(HCO₃)₂: CaCO₃ + CO₂ + H₂O → Ca(HCO₃)₂."
+    },
+    {
+      "id": 32,
+      "question": "The cement industry uses Gypsum (CaSO₄·2H₂O) in amounts of 2% to 5% primarily to:",
+      "options": {
+        "A": "Increase final hardness",
+        "B": "Retard the initial setting time of cement",
+        "C": "Accelerate rapid flash setting",
+        "D": "Lower the kiln operating temperature"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gypsum reacts with tricalcium aluminate (C₃A) to form insoluble ettringite crystals, preventing rapid flash setting and retarding the setting time."
+    },
+    {
+      "id": 33,
+      "question": "Which of the following alkali metal halides has the lowest solubility in water due to high lattice energy?",
+      "options": {
+        "A": "LiF",
+        "B": "NaCl",
+        "C": "KBr",
+        "D": "CsI"
+      },
+      "correctAnswer": "A",
+      "explanation": "Both Li⁺ and F⁻ are extremely small, resulting in exceptionally high lattice energy that exceeds hydration energy, making LiF poorly soluble."
+    },
+    {
+      "id": 34,
+      "question": "What is the biological importance of sodium-potassium pumps (Na⁺/K⁺-ATPase) in animal cell membranes?",
+      "options": {
+        "A": "Maintains resting membrane potential by pumping 3 Na⁺ ions out and 2 K⁺ ions in per ATP hydrolyzed",
+        "B": "Stores genetic information",
+        "C": "Directly oxidizes glucose",
+        "D": "Transports oxygen in blood"
+      },
+      "correctAnswer": "A",
+      "explanation": "The Na⁺/K⁺ ATPase hydrolyzes ATP to export 3 Na⁺ and import 2 K⁺, maintaining electrical polarization essential for nerve impulses."
+    },
+    {
+      "id": 35,
+      "question": "Which of the following metals burns with an intensely bright white flame and is widely used in flash photography and fireworks?",
+      "options": {
+        "A": "Magnesium",
+        "B": "Potassium",
+        "C": "Lead",
+        "D": "Copper"
+      },
+      "correctAnswer": "A",
+      "explanation": "Magnesium ribbon burns vigorously in air: 2 Mg + O₂ → 2 MgO with intense emission of white light across UV and visible wavelengths."
+    }
+  ]
+}

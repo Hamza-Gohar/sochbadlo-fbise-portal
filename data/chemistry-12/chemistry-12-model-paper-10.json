@@ -1,0 +1,215 @@
+{
+  "chapterNumber": 26,
+  "chapterTitle": "Annual Board Examination Section A Simulator 10 (FBISE Class 12 Chemistry)",
+  "title": "Annual Board Examination Section A Simulator 10 (FBISE Class 12 Chemistry)",
+  "slug": "chemistry-12-model-paper-10",
+  "totalQuestions": 17,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which element in the periodic table has the highest electrical and thermal conductivity at room temperature?",
+      "options": {
+        "A": "Copper (Cu)",
+        "B": "Silver (Ag)",
+        "C": "Gold (Au)",
+        "D": "Aluminum (Al)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Silver possesses the highest electrical and thermal conductivity of all known elements."
+    },
+    {
+      "id": 2,
+      "question": "Which of the following alkali metal halides has the lowest solubility in water due to high lattice energy?",
+      "options": {
+        "A": "LiF",
+        "B": "NaCl",
+        "C": "KBr",
+        "D": "CsI"
+      },
+      "correctAnswer": "A",
+      "explanation": "Both Li⁺ and F⁻ are extremely small, resulting in exceptionally high lattice energy that exceeds hydration energy, making LiF poorly soluble."
+    },
+    {
+      "id": 3,
+      "question": "Silicon carbide (SiC), known commercially as Carborundum, is widely used as:",
+      "options": {
+        "A": "A dietary supplement",
+        "B": "An industrial abrasive and cutting tool material due to diamond-like hardness",
+        "C": "A fertilizer",
+        "D": "A bleaching agent"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carborundum (SiC) has a 3D covalent tetrahedral structure with Mohs hardness ~9.5, making it an excellent abrasive."
+    },
+    {
+      "id": 4,
+      "question": "Hydrogen sulfide (H₂S) gas turns moist lead acetate paper black due to the formation of:",
+      "options": {
+        "A": "Lead sulfate (PbSO₄)",
+        "B": "Lead sulfide (PbS)",
+        "C": "Lead dioxide (PbO₂)",
+        "D": "Lead chloride (PbCl₂)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Pb(CH₃COO)₂ + H₂S → PbS (insoluble black precipitate) + 2 CH₃COOH."
+    },
+    {
+      "id": 5,
+      "question": "Which of the following halogens is the most powerful oxidizing agent?",
+      "options": {
+        "A": "Fluorine (F₂)",
+        "B": "Chlorine (Cl₂)",
+        "C": "Bromine (Br₂)",
+        "D": "Iodine (I₂)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fluorine has the highest standard reduction potential (+2.87 V) due to low F-F bond dissociation energy and exceptionally high hydration energy of F⁻."
+    },
+    {
+      "id": 6,
+      "question": "Why are compounds of transition metals frequently colored?",
+      "options": {
+        "A": "Due to d-d electronic transitions occurring within the split d-orbitals in the presence of ligands",
+        "B": "Due to nuclear magnetic resonance",
+        "C": "Due to emission of infrared radiation",
+        "D": "Due to s-p orbital mixing"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ligand electrostatic fields split degenerate d-orbitals into t_2g and e_g levels; absorption of visible light promotes electrons between these d levels (d-d transitions)."
+    },
+    {
+      "id": 7,
+      "question": "Which of the following heterocyclic compounds contains a five-membered ring containing a sulfur heteroatom?",
+      "options": {
+        "A": "Furan",
+        "B": "Pyrrole",
+        "C": "Thiophene",
+        "D": "Pyridine"
+      },
+      "correctAnswer": "C",
+      "explanation": "Thiophene (C₄H₄S) is a 5-membered aromatic heterocycle containing one sulfur atom. Furan contains oxygen, pyrrole contains nitrogen."
+    },
+    {
+      "id": 8,
+      "question": "What is the octane number of 2,2,4-trimethylpentane (isooctane) arbitrarily assigned on the octane rating scale?",
+      "options": {
+        "A": "0",
+        "B": "50",
+        "C": "100",
+        "D": "80"
+      },
+      "correctAnswer": "C",
+      "explanation": "Isooctane burns smoothly with minimal engine knock and is assigned an octane number of 100 (while n-heptane is assigned 0)."
+    },
+    {
+      "id": 9,
+      "question": "In electrophilic aromatic substitution, the non-aromatic carbocation intermediate formed by addition of the electrophile to the benzene ring is called:",
+      "options": {
+        "A": "Arenium ion (σ-complex / Wheland intermediate)",
+        "B": "Free radical",
+        "C": "Carbanion",
+        "D": "Benzyne intermediate"
+      },
+      "correctAnswer": "A",
+      "explanation": "The electrophile forms a σ-bond with one carbon, converting it to sp³; the positive charge delocalizes over the remaining five sp² carbons as an arenium ion (σ-complex)."
+    },
+    {
+      "id": 10,
+      "question": "Which solvent best accelerates an S_N2 reaction by solvating metal cations while leaving the nucleophilic anion naked and highly reactive?",
+      "options": {
+        "A": "Water (polar protic)",
+        "B": "Ethanol (polar protic)",
+        "C": "Dimethyl sulfoxide (DMSO) or Acetone (polar aprotic)",
+        "D": "Acetic acid"
+      },
+      "correctAnswer": "C",
+      "explanation": "Polar aprotic solvents (DMSO, DMF, acetone) solvate cations through dipole interactions without hydrogen-bonding to anions, leaving nucleophiles highly active."
+    },
+    {
+      "id": 11,
+      "question": "Secondary alcohols oxidize with acidified dichromate to yield:",
+      "options": {
+        "A": "Aldehydes",
+        "B": "Ketones having the same number of carbon atoms",
+        "C": "Alkenes directly",
+        "D": "Ethers"
+      },
+      "correctAnswer": "B",
+      "explanation": "R-CH(OH)-R' xrightarrow{[O]} R-CO-R' (ketone). Ketones resist further oxidation except under severe conditions."
+    },
+    {
+      "id": 12,
+      "question": "When acetaldehyde (ethanal) is warmed with dilute aqueous NaOH, the aldol addition product formed is:",
+      "options": {
+        "A": "3-Hydroxybutanal (Acetaldol)",
+        "B": "Crotonaldehyde",
+        "C": "Ethanol and acetic acid",
+        "D": "Ethyl acetate"
+      },
+      "correctAnswer": "A",
+      "explanation": "2 CH₃CHO xrightarrow{dil. NaOH} CH₃-CH(OH)-CH₂-CHO (3-hydroxybutanal). Upon heating, it dehydrates to crotonaldehyde (but-2-enal)."
+    },
+    {
+      "id": 13,
+      "question": "What is the systematic IUPAC name for oxalic acid (HOOC-COOH)?",
+      "options": {
+        "A": "Ethanedioic acid",
+        "B": "Methanedioic acid",
+        "C": "Propanedioic acid",
+        "D": "Butanedioic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Oxalic acid has two carbons and two carboxylic groups: Ethanedioic acid."
+    },
+    {
+      "id": 14,
+      "question": "The peptide bond linking amino acid residues in proteins is chemically an:",
+      "options": {
+        "A": "Amide linkage (-CO-NH-)",
+        "B": "Ester linkage",
+        "C": "Ether linkage",
+        "D": "Glycosidic bond"
+      },
+      "correctAnswer": "A",
+      "explanation": "Peptide bonds are planar amide bonds (-CONH-) formed by condensation of the α-carboxyl of one amino acid with the α-amino group of another."
+    },
+    {
+      "id": 15,
+      "question": "In the rotary cement kiln, the maximum temperature reached in the burning / clinkering zone where fusion occurs is approximately:",
+      "options": {
+        "A": "1400°C to 1500°C",
+        "B": "500°C",
+        "C": "800°C",
+        "D": "2500°C"
+      },
+      "correctAnswer": "A",
+      "explanation": "At 1400-1500°C, chemical combination between CaO, SiO₂, Al₂O₃, and Fe₂O₃ occurs, producing small greenish-black nodular clinker balls."
+    },
+    {
+      "id": 16,
+      "question": "Which principle of 'Green Chemistry' emphasizes that synthetic methods should be designed to maximize the incorporation of all raw materials into the final product?",
+      "options": {
+        "A": "Atom Economy",
+        "B": "Solvent elimination",
+        "C": "Energy minimization",
+        "D": "Use of stoichiometric reagents"
+      },
+      "correctAnswer": "A",
+      "explanation": "Atom Economy = (Molecular weight of desired product / Molecular weight of all reactants) × 100%; high atom economy minimizes chemical waste."
+    },
+    {
+      "id": 17,
+      "question": "Hydration of ethyne (Kucherov reaction) in the presence of 20% H₂SO₄ and 1% HgSO₄ catalyst at 60°C directly yields which intermediate that tautomerizes to acetaldehyde?",
+      "options": {
+        "A": "Vinyl alcohol (H₂C=CH-OH)",
+        "B": "Ethanol",
+        "C": "Acetic acid",
+        "D": "Diethyl ether"
+      },
+      "correctAnswer": "A",
+      "explanation": "HC≡CH + H₂O xrightarrow{Hg²⁺/H⁺} [H₂C=CH-OH] (unstable vinyl alcohol enol) ⇌ CH₃-CHO (acetaldehyde)."
+    }
+  ]
+}

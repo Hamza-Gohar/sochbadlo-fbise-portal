@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 12,
+  "chapterTitle": "Chapter 12: Aldehydes and Ketones (Carbonyl Compounds)",
+  "title": "Chapter 12: Aldehydes and Ketones (Carbonyl Compounds)",
+  "slug": "chemistry-12-chapter-12",
+  "totalQuestions": 35,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "In the carbonyl group (>C=O), the carbon atom is hybridized as:",
+      "options": {
+        "A": "sp² with trigonal planar geometry and a bond angle of approximately 120°",
+        "B": "sp³ with tetrahedral geometry",
+        "C": "sp with linear geometry",
+        "D": "dsp²"
+      },
+      "correctAnswer": "A",
+      "explanation": "The carbonyl carbon forms three σ bonds (sp² hybridized) and one π bond via unhybridized 2p-2p lateral overlap, creating a planar 120° geometry."
+    },
+    {
+      "id": 2,
+      "question": "Aldehydes and ketones undergo nucleophilic addition reactions primarily because:",
+      "options": {
+        "A": "The electronegative oxygen atom polarizes the carbonyl π-bond (>C^δ⁺=O^δ⁻), rendering the carbon atom strongly electrophilic",
+        "B": "Carbonyl carbon is electron rich",
+        "C": "The C-O bond is non-polar",
+        "D": "Oxygen has no lone pairs"
+      },
+      "correctAnswer": "A",
+      "explanation": "Electronegativity difference creates a positive partial charge (δ+) on the carbonyl carbon, making it vulnerable to attack by nucleophiles."
+    },
+    {
+      "id": 3,
+      "question": "Why are aldehydes generally more reactive than ketones toward nucleophilic addition?",
+      "options": {
+        "A": "Aldehydes experience less steric hindrance and have only one electron-donating alkyl group diminishing the electrophilic δ+ on carbon",
+        "B": "Ketones are gases",
+        "C": "Aldehydes have double bonds while ketones do not",
+        "D": "Aldehydes have lower dipole moments"
+      },
+      "correctAnswer": "A",
+      "explanation": "Two alkyl groups in ketones cause greater steric congestion around the transition state and supply +I electron density, reducing electrophilicity."
+    },
+    {
+      "id": 4,
+      "question": "In the reaction of an aldehyde or ketone with hydrogen cyanide (HCN) to form a cyanohydrin, the nucleophile that attacks the carbonyl carbon is:",
+      "options": {
+        "A": "H⁺ ion",
+        "B": "Cyanide ion (CN⁻)",
+        "C": "HCN molecule",
+        "D": "OH⁻ ion"
+      },
+      "correctAnswer": "B",
+      "explanation": "Base deprotonates HCN to generate the powerful nucleophile CN⁻, which attacks the carbonyl carbon in the rate-determining step."
+    },
+    {
+      "id": 5,
+      "question": "Aldehydes and methyl ketones form solid crystalline bisulfite adducts when shaken with saturated sodium bisulfite (NaHSO₃). This reaction is widely used to:",
+      "options": {
+        "A": "Purify and separate carbonyl compounds from non-carbonyl mixtures",
+        "B": "Oxidize carbonyls to acids",
+        "C": "Reduce carbonyls to hydrocarbons",
+        "D": "Convert them into esters"
+      },
+      "correctAnswer": "A",
+      "explanation": "The bisulfite crystalline adduct precipitates cleanly; upon filtering and warming with dilute acid or base, pure carbonyl compound is regenerated."
+    },
+    {
+      "id": 6,
+      "question": "Brady's Reagent, which forms bright yellow/orange crystalline precipitates with aldehydes and ketones, is chemically:",
+      "options": {
+        "A": "2,4-Dinitrophenylhydrazine (2,4-DNP)",
+        "B": "Hydroxylamine",
+        "C": "Phenylhydrazine",
+        "D": "Semicarbazide"
+      },
+      "correctAnswer": "A",
+      "explanation": "2,4-DNP condenses with carbonyl groups to eliminate water and form brightly colored 2,4-dinitrophenylhydrazone crystals with sharp melting points."
+    },
+    {
+      "id": 7,
+      "question": "The Aldol Condensation reaction requires that the reacting aldehyde or ketone must possess at least one:",
+      "options": {
+        "A": "Alpha (α) hydrogen atom",
+        "B": "Beta (β) hydrogen atom",
+        "C": "Aromatic ring",
+        "D": "Halogen atom"
+      },
+      "correctAnswer": "A",
+      "explanation": "Dilute base removes an acidic α-hydrogen to form a resonance-stabilized enolate ion, which then nucleophilically attacks another carbonyl molecule."
+    },
+    {
+      "id": 8,
+      "question": "When acetaldehyde (ethanal) is warmed with dilute aqueous NaOH, the aldol addition product formed is:",
+      "options": {
+        "A": "3-Hydroxybutanal (Acetaldol)",
+        "B": "Crotonaldehyde",
+        "C": "Ethanol and acetic acid",
+        "D": "Ethyl acetate"
+      },
+      "correctAnswer": "A",
+      "explanation": "2 CH₃CHO xrightarrow{dil. NaOH} CH₃-CH(OH)-CH₂-CHO (3-hydroxybutanal). Upon heating, it dehydrates to crotonaldehyde (but-2-enal)."
+    },
+    {
+      "id": 9,
+      "question": "Which of the following aldehydes lacks an α-hydrogen atom and therefore undergoes the Cannizzaro reaction (self oxidation-reduction / disproportionation) in 50% concentrated NaOH?",
+      "options": {
+        "A": "Formaldehyde (HCHO) and Benzaldehyde (C₆H₅CHO)",
+        "B": "Acetaldehyde (CH₃CHO)",
+        "C": "Propionaldehyde",
+        "D": "Acetone"
+      },
+      "correctAnswer": "A",
+      "explanation": "Aldehydes with no α-hydrogen cannot form enolates; under 50% alkali, one molecule is reduced to alcohol while the other is oxidized to carboxylate."
+    },
+    {
+      "id": 10,
+      "question": "What are the products when formaldehyde undergoes the Cannizzaro reaction in concentrated alkali?",
+      "options": {
+        "A": "Methanol (CH₃OH) and Sodium formate (HCOONa)",
+        "B": "Ethanol and sodium acetate",
+        "C": "Acetaldol",
+        "D": "Formic acid and hydrogen gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "2 HCHO + NaOH → CH₃OH (reduced alcohol) + HCOONa (oxidized salt)."
+    },
+    {
+      "id": 11,
+      "question": "Tollens' Test (Silver Mirror Test) utilizes ammoniacal silver nitrate solution [Ag(NH₃)₂]⁺. A positive test producing a gleaming silver mirror on the glass wall indicates the presence of:",
+      "options": {
+        "A": "An aldehyde (which reduces Ag⁺ to metallic silver Ag⁰)",
+        "B": "A ketone",
+        "C": "An alkane",
+        "D": "An ether"
+      },
+      "correctAnswer": "A",
+      "explanation": "Aldehydes are easily oxidized to carboxylates by mild Tollens' reagent, reducing [Ag(NH₃)₂]⁺ into a mirror of metallic silver."
+    },
+    {
+      "id": 12,
+      "question": "Fehling's solution consists of Fehling A (aqueous CuSO₄) and Fehling B (alkaline sodium potassium tartrate / Rochelle salt). A positive reaction with aliphatic aldehydes gives:",
+      "options": {
+        "A": "A red precipitate of cuprous oxide (Cu₂O)",
+        "B": "A silver mirror",
+        "C": "A blue precipitate",
+        "D": "Evolution of H₂ gas"
+      },
+      "correctAnswer": "A",
+      "explanation": "R-CHO + 2 Cu²⁺ + 5 OH⁻ → R-COO⁻ + Cu₂O↓ (brick red ppt) + 3 H₂O. Ketones and aromatic aldehydes do not reduce Fehling's solution."
+    },
+    {
+      "id": 13,
+      "question": "Which of the following compounds gives a positive Iodoform test (yellow precipitate of CHI₃ with I₂/NaOH)?",
+      "options": {
+        "A": "Acetone (CH₃COCH₃) and Acetaldehyde (CH₃CHO)",
+        "B": "3-Pentanone",
+        "C": "Benzaldehyde",
+        "D": "Formaldehyde"
+      },
+      "correctAnswer": "A",
+      "explanation": "A positive iodoform test requires a methyl carbonyl (CH₃-C=O) or a methyl carbinol [CH₃-CH(OH)-] group."
+    },
+    {
+      "id": 14,
+      "question": "In the Clemmensen reduction, a carbonyl group (>C=O) is reduced directly to a methylene group (>CH₂) by heating with:",
+      "options": {
+        "A": "Zinc amalgam (Zn-Hg) and concentrated hydrochloric acid",
+        "B": "Hydrazine and KOH in ethylene glycol",
+        "C": "LiAlH₄ in dry ether",
+        "D": "Sodium borohydride"
+      },
+      "correctAnswer": "A",
+      "explanation": "Clemmensen reduction converts aldehydes/ketones to alkanes using Zn(Hg) + conc. HCl under strongly acidic conditions."
+    },
+    {
+      "id": 15,
+      "question": "In the Wolff-Kishner reduction, aldehydes and ketones are reduced to alkanes under strongly basic conditions using:",
+      "options": {
+        "A": "Hydrazine (NH₂NH₂) and KOH in hot ethylene glycol",
+        "B": "Zn-Hg and HCl",
+        "C": "H₂ over Pt",
+        "D": "Sodium in liquid ammonia"
+      },
+      "correctAnswer": "A",
+      "explanation": "The hydrazone intermediate decomposes in the presence of strong base and high-boiling solvent at ~200°C, liberating N₂ gas and forming the hydrocarbon."
+    },
+    {
+      "id": 16,
+      "question": "Formalin, an aqueous solution widely used to preserve biological specimens and embalm tissues, contains approximately:",
+      "options": {
+        "A": "37% to 40% Formaldehyde (methanal) in water with ~10% methanol stabilizer",
+        "B": "100% pure liquid formaldehyde",
+        "C": "50% acetaldehyde",
+        "D": "20% formic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Commercial formalin is 37-40% aqueous formaldehyde stabilized with 8-10% methanol to prevent precipitation of insoluble paraformaldehyde polymer."
+    },
+    {
+      "id": 17,
+      "question": "Reaction of an aldehyde with one mole of an alcohol in dry HCl gas yields an unstable:",
+      "options": {
+        "A": "Hemiacetal",
+        "B": "Acetal",
+        "C": "Ester",
+        "D": "Ether"
+      },
+      "correctAnswer": "A",
+      "explanation": "R-CHO + R'OH ⇌ R-CH(OH)(OR') (hemiacetal). Addition of a second mole of alcohol yields a stable acetal [R-CH(OR')₂]."
+    },
+    {
+      "id": 18,
+      "question": "What is the systematic IUPAC name for CH₃-CO-CH₂-CH(CH₃)₂?",
+      "options": {
+        "A": "4-Methyl-2-pentanone",
+        "B": "2-Methyl-4-pentanone",
+        "C": "Isobutyl methyl ketone",
+        "D": "2-Isobutylpropanone"
+      },
+      "correctAnswer": "A",
+      "explanation": "The 5-carbon ketone chain is numbered from the right to give the carbonyl carbon the lowest locant: C-2 carbonyl, C-4 methyl (4-methyl-2-pentanone)."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following reagents selectively reduces aldehydes and ketones to alcohols without reducing carbon-carbon double bonds, esters, or carboxylic acids?",
+      "options": {
+        "A": "Sodium borohydride (NaBH₄)",
+        "B": "Concentrated H₂SO₄",
+        "C": "Acidified KMnO₄",
+        "D": "CrO₃"
+      },
+      "correctAnswer": "A",
+      "explanation": "NaBH₄ is a mild, selective hydride reducing agent that reduces aldehydes to 1° alcohols and ketones to 2° alcohols, leaving esters/acids/alkenes untouched."
+    },
+    {
+      "id": 20,
+      "question": "Urotropine (hexamethylenetetramine, (CH₂)₆N₄), an internal urinary antiseptic and precursor to the military explosive RDX, is synthesized by condensing formaldehyde with:",
+      "options": {
+        "A": "Ammonia (NH₃)",
+        "B": "Nitric acid",
+        "C": "Urea",
+        "D": "Hydrazine"
+      },
+      "correctAnswer": "A",
+      "explanation": "6 HCHO + 4 NH₃ → (CH₂)₆N₄ (urotropine) + 6 H₂O."
+    },
+    {
+      "id": 21,
+      "question": "Dry distillation of calcium acetate [(CH₃COO)₂Ca] produces which volatile liquid product?",
+      "options": {
+        "A": "Acetone (CH₃COCH₃) and calcium carbonate",
+        "B": "Acetaldehyde",
+        "C": "Acetic acid",
+        "D": "Methane"
+      },
+      "correctAnswer": "A",
+      "explanation": "(CH₃COO)₂Ca xrightarrow{\\Delta} CH₃-CO-CH₃ + CaCO₃ (pyrolysis of calcium carboxylates)."
+    },
+    {
+      "id": 22,
+      "question": "Dry distillation of an equimolar mixture of calcium acetate and calcium formate yields:",
+      "options": {
+        "A": "Acetaldehyde (CH₃CHO)",
+        "B": "Acetone",
+        "C": "Formaldehyde only",
+        "D": "Ethanol"
+      },
+      "correctAnswer": "A",
+      "explanation": "(CH₃COO)₂Ca + (HCOO)₂Ca xrightarrow{\\Delta} 2 CH₃CHO + 2 CaCO₃."
+    },
+    {
+      "id": 23,
+      "question": "The condensation product formed by the reaction of an aldehyde or ketone with hydroxylamine (NH₂OH) is called an:",
+      "options": {
+        "A": "Oxime (>C=N-OH)",
+        "B": "Hydrazone",
+        "C": "Semicarbazone",
+        "D": "Imine"
+      },
+      "correctAnswer": "A",
+      "explanation": ">C=O + H₂N-OH → >C=N-OH (oxime) + H₂O."
+    },
+    {
+      "id": 24,
+      "question": "Schiff's Reagent is prepared by decolorizing rosaniline hydrochloride (fuchsine) dye with sulfur dioxide (SO₂). A restored magenta/pink color confirms:",
+      "options": {
+        "A": "An aldehyde",
+        "B": "A ketone",
+        "C": "An ester",
+        "D": "An alkane"
+      },
+      "correctAnswer": "A",
+      "explanation": "Aldehydes immediately restore the pink/magenta color of Schiff's reagent without heating; ketones do not react or react very sluggishly."
+    },
+    {
+      "id": 25,
+      "question": "Benedict's solution, used in clinical pathology to detect reducing sugars (glucose) in diabetic urine, contains:",
+      "options": {
+        "A": "CuSO₄, sodium citrate, and sodium carbonate in alkaline aqueous solution",
+        "B": "AgNO₃ and ammonia",
+        "C": "KMnO₄ and acid",
+        "D": "Iodine in KI"
+      },
+      "correctAnswer": "A",
+      "explanation": "Benedict's reagent stabilizes Cu²⁺ with citrate ions in Na₂CO₃ solution, forming a red Cu₂O precipitate upon boiling with reducing sugars (aldehydes)."
+    },
+    {
+      "id": 26,
+      "question": "In the crossed aldol condensation between benzaldehyde (C₆H₅CHO) and acetaldehyde (CH₃CHO) in dilute NaOH (Claisen-Schmidt reaction), the dehydrated product formed is:",
+      "options": {
+        "A": "Cinnamaldehyde (C₆H₅-CH=CH-CHO)",
+        "B": "Benzophenone",
+        "C": "Benzyl alcohol",
+        "D": "Benzoic acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Acetaldehyde enolate attacks benzaldehyde: C₆H₅CHO + CH₃CHO → C₆H₅CH(OH)CH₂CHO → C₆H₅-CH=CH-CHO (cinnamaldehyde)."
+    },
+    {
+      "id": 27,
+      "question": "Paraformaldehyde is an insoluble white solid formed by the spontaneous polymerization of concentrated aqueous formaldehyde on standing. It is a:",
+      "options": {
+        "A": "Linear polyoxymethylene polymer HO-(CH₂O)_n-H (n = 8-100)",
+        "B": "Cyclic trimer",
+        "C": "Addition product with oxygen",
+        "D": "Dimer"
+      },
+      "correctAnswer": "A",
+      "explanation": "Paraformaldehyde is a linear polymer of formaldehyde that regenerates gaseous formaldehyde upon gentle heating."
+    },
+    {
+      "id": 28,
+      "question": "Trioxane (metaformaldehyde) is a cyclic trimer of formaldehyde with the formula:",
+      "options": {
+        "A": "(HCHO)₃ (1,3,5-trioxane)",
+        "B": "(CH₃CHO)₃",
+        "C": "C₆H₁₂O₆",
+        "D": "C₃H₈O₃"
+      },
+      "correctAnswer": "A",
+      "explanation": "Distilling 50% aqueous formaldehyde with dilute H₂SO₄ yields crystalline cyclic trioxane [(CH₂O)₃]."
+    },
+    {
+      "id": 29,
+      "question": "Paraldehyde, a historic hypnotic and sedative medicine, is a cyclic trimer formed by treating acetaldehyde with traces of concentrated sulfuric acid. Its formula is:",
+      "options": {
+        "A": "(CH₃CHO)₃",
+        "B": "(CH₃CHO)₄ (Metaldehyde)",
+        "C": "C₆H₁₂O₂",
+        "D": "CH₃COOH"
+      },
+      "correctAnswer": "A",
+      "explanation": "3 CH₃CHO xrightarrow{trace conc. H₂SO₄, 25°C} (CH₃CHO)₃ (paraldehyde, a six-membered cyclic ether trioxane derivative)."
+    },
+    {
+      "id": 30,
+      "question": "Why does acetone not reduce Tollens' reagent or Fehling's solution?",
+      "options": {
+        "A": "Oxidation of ketones requires breaking of a strong carbon-carbon single bond, which weak oxidizing agents cannot accomplish",
+        "B": "Acetone is non-polar",
+        "C": "Acetone has no oxygen",
+        "D": "Acetone is an acid"
+      },
+      "correctAnswer": "A",
+      "explanation": "Aldehydes have an oxidizable C-H bond on the carbonyl carbon (easily oxidized to -COOH); ketones have only C-C bonds attached to carbonyl carbon."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following compounds gives a positive haloform test but is an alcohol rather than a carbonyl?",
+      "options": {
+        "A": "2-Propanol (isopropyl alcohol)",
+        "B": "1-Propanol",
+        "C": "Methanol",
+        "D": "tert-Butyl alcohol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Halogen/alkali first oxidizes CH₃-CH(OH)-CH₃ to CH₃-CO-CH₃, which subsequently undergoes the haloform cleavage to CHI₃."
+    },
+    {
+      "id": 32,
+      "question": "What is the systematic IUPAC name for Acrolein (CH₂=CH-CHO)?",
+      "options": {
+        "A": "Prop-2-enal",
+        "B": "Prop-1-enal",
+        "C": "Propanal",
+        "D": "2-Propenol"
+      },
+      "correctAnswer": "A",
+      "explanation": "Carbonyl carbon is C-1, double bond begins at C-2: Prop-2-enal."
+    },
+    {
+      "id": 33,
+      "question": "When acetone is heated with concentrated sulfuric acid, three molecules undergo condensation and dehydration to form an aromatic hydrocarbon called:",
+      "options": {
+        "A": "Mesitylene (1,3,5-trimethylbenzene)",
+        "B": "Toluene",
+        "C": "Benzene",
+        "D": "Xylene"
+      },
+      "correctAnswer": "A",
+      "explanation": "3 CH₃COCH₃ xrightarrow{conc. H₂SO₄, \\Delta} Mesitylene (1,3,5-trimethylbenzene) + 3 H₂O."
+    },
+    {
+      "id": 34,
+      "question": "Reaction of an aldehyde with semicarbazide (NH₂-NH-CO-NH₂) produces a crystalline:",
+      "options": {
+        "A": "Semicarbazone",
+        "B": "Hydrazone",
+        "C": "Oxime",
+        "D": "Imide"
+      },
+      "correctAnswer": "A",
+      "explanation": "R-CHO + H₂N-NH-CO-NH₂ → R-CH=N-NH-CO-NH₂ (semicarbazone) + H₂O."
+    },
+    {
+      "id": 35,
+      "question": "What happens when acetone is treated with hydrogen gas over a Raney nickel catalyst?",
+      "options": {
+        "A": "It is reduced to 2-Propanol (isopropyl alcohol)",
+        "B": "It is oxidized to acetic acid",
+        "C": "It forms propane gas",
+        "D": "It decomposes to methane"
+      },
+      "correctAnswer": "A",
+      "explanation": "CH₃COCH₃ + H₂ xrightarrow{Ni} CH₃-CH(OH)-CH₃ (secondary alcohol)."
+    }
+  ]
+}

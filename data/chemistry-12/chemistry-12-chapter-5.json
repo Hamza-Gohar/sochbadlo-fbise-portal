@@ -1,0 +1,431 @@
+{
+  "chapterNumber": 5,
+  "chapterTitle": "Chapter 5: The Halogens and Noble Gases (Group VII-A & VIII-A)",
+  "title": "Chapter 5: The Halogens and Noble Gases (Group VII-A & VIII-A)",
+  "slug": "chemistry-12-chapter-5",
+  "totalQuestions": 35,
+  "subject": "chemistry-12",
+  "grade": "12",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which of the following halogens is the most powerful oxidizing agent?",
+      "options": {
+        "A": "Fluorine (F₂)",
+        "B": "Chlorine (Cl₂)",
+        "C": "Bromine (Br₂)",
+        "D": "Iodine (I₂)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fluorine has the highest standard reduction potential (+2.87 V) due to low F-F bond dissociation energy and exceptionally high hydration energy of F⁻."
+    },
+    {
+      "id": 2,
+      "question": "The acidic strength of halogen hydracids increases in the order:",
+      "options": {
+        "A": "HI < HBr < HCl < HF",
+        "B": "HF < HCl < HBr < HI",
+        "C": "HCl < HF < HBr < HI",
+        "D": "HF < HI < HBr < HCl"
+      },
+      "correctAnswer": "B",
+      "explanation": "Bond length increases and H-X bond dissociation energy decreases down the group (H-F = 567 kJ/mol, H-I = 299 kJ/mol), releasing H⁺ most easily in HI."
+    },
+    {
+      "id": 3,
+      "question": "Why does hydrofluoric acid (HF) have an anomalously high boiling point (19.5°C) compared to HCl (-85°C)?",
+      "options": {
+        "A": "HF has higher molecular weight",
+        "B": "Strong intermolecular hydrogen bonding forms zigzag (HF)_n polymer chains",
+        "C": "HF is ionic",
+        "D": "HF is unstable"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fluorine's extreme electronegativity creates powerful intermolecular H-F···H hydrogen bonds requiring substantial thermal energy to break."
+    },
+    {
+      "id": 4,
+      "question": "Bleaching powder is manufactured industrially by passing chlorine gas over dry slaked lime in:",
+      "options": {
+        "A": "Hasenclever's or Beckmann's plant",
+        "B": "Down's cell",
+        "C": "Nelson's cell",
+        "D": "Contact tower"
+      },
+      "correctAnswer": "A",
+      "explanation": "Ca(OH)₂ + Cl₂ xrightarrow{Hasenclever plant, <40°C} CaOCl₂ · H₂O (bleaching powder)."
+    },
+    {
+      "id": 5,
+      "question": "The available chlorine in good quality bleaching powder is approximately:",
+      "options": {
+        "A": "10 - 15%",
+        "B": "35 - 40%",
+        "C": "70 - 80%",
+        "D": "95 - 99%"
+      },
+      "correctAnswer": "B",
+      "explanation": "Commercial bleaching powder yields around 35% to 40% active available chlorine upon acidification."
+    },
+    {
+      "id": 6,
+      "question": "Which of the following oxyacids of chlorine is the strongest acid?",
+      "options": {
+        "A": "Hypochlorous acid (HClO)",
+        "B": "Chlorous acid (HClO₂)",
+        "C": "Chloric acid (HClO₃)",
+        "D": "Perchloric acid (HClO₄)"
+      },
+      "correctAnswer": "D",
+      "explanation": "In HClO₄, chlorine is in the +7 oxidation state with three terminal oxo atoms stabilizing the perchlorate anion (ClO₄⁻) via extensive resonance delocalization."
+    },
+    {
+      "id": 7,
+      "question": "What is the molecular geometry of Xenon tetrafluoride (XeF₄) according to VSEPR theory?",
+      "options": {
+        "A": "Tetrahedral",
+        "B": "Square planar",
+        "C": "See-saw",
+        "D": "Trigonal bipyramidal"
+      },
+      "correctAnswer": "B",
+      "explanation": "Xe has 8 valence electrons; bonding to 4 fluorines leaves 2 lone pairs. With an octahedral arrangement (sp³d²), the lone pairs occupy axial positions, yielding square planar geometry."
+    },
+    {
+      "id": 8,
+      "question": "Which noble gas is used in weather observation balloons and deep-sea diving gas cylinders (heliox)?",
+      "options": {
+        "A": "Helium (He)",
+        "B": "Neon (Ne)",
+        "C": "Argon (Ar)",
+        "D": "Radon (Rn)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Helium is non-flammable, exceptionally light, and has very low solubility in human blood, preventing the painful 'bends' (decompression sickness)."
+    },
+    {
+      "id": 9,
+      "question": "Which noble gas is radioactive, produced as a daughter decay product of Radium-226?",
+      "options": {
+        "A": "Krypton",
+        "B": "Xenon",
+        "C": "Radon (Rn)",
+        "D": "Argon"
+      },
+      "correctAnswer": "C",
+      "explanation": "Radon-222 is an alpha-emitting noble gas resulting from the radioactive decay of Ra-226 in rock and soil."
+    },
+    {
+      "id": 10,
+      "question": "When hot concentrated sodium hydroxide solution reacts with chlorine gas, the products formed are:",
+      "options": {
+        "A": "NaCl and NaOCl",
+        "B": "NaCl, NaClO₃ (sodium chlorate), and H₂O",
+        "C": "NaCl, HClO, and H₂",
+        "D": "NaClO₄ and H₂O"
+      },
+      "correctAnswer": "B",
+      "explanation": "6 NaOH (hot conc.) + 3 Cl₂ → 5 NaCl + NaClO₃ + 3 H₂O (disproportionation of Cl₂ from 0 to -1 and +5)."
+    },
+    {
+      "id": 11,
+      "question": "What is the shape of Xenon difluoride (XeF₂) according to VSEPR theory?",
+      "options": {
+        "A": "Bent",
+        "B": "Linear",
+        "C": "T-shaped",
+        "D": "Trigonal planar"
+      },
+      "correctAnswer": "B",
+      "explanation": "XeF₂ has 2 bond pairs and 3 lone pairs (sp³d). The 3 lone pairs occupy equatorial positions at 120°, forcing the two F atoms into axial positions at 180° (linear)."
+    },
+    {
+      "id": 12,
+      "question": "Which interhalogen compound has a pentagonal bipyramidal geometry with sp³d³ hybridization?",
+      "options": {
+        "A": "ClF₃",
+        "B": "BrF₅",
+        "C": "IF₇",
+        "D": "ICl"
+      },
+      "correctAnswer": "C",
+      "explanation": "Iodine heptafluoride (IF₇) has 7 single bonds and zero lone pairs, giving a regular pentagonal bipyramidal geometry."
+    },
+    {
+      "id": 13,
+      "question": "Which noble gas produces a brilliant reddish-orange glow in discharge tubes and advertising signs?",
+      "options": {
+        "A": "Helium",
+        "B": "Neon",
+        "C": "Argon",
+        "D": "Krypton"
+      },
+      "correctAnswer": "B",
+      "explanation": "Neon discharge tubes emit intense red-orange light widely utilized in neon advertising signs."
+    },
+    {
+      "id": 14,
+      "question": "Why cannot fluorine form interhalogen compounds where it acts as the central atom (e.g., FCl₃ or FBr₅)?",
+      "options": {
+        "A": "Fluorine is a gas",
+        "B": "Fluorine is the most electronegative element and lacks vacant d-orbitals in its n=2 shell to expand its octet",
+        "C": "Fluorine has high electron affinity",
+        "D": "F-F bond is too weak"
+      },
+      "correctAnswer": "B",
+      "explanation": "Fluorine cannot accommodate more than 8 valence electrons due to the absence of 2d orbitals and is never positive relative to any other halogen."
+    },
+    {
+      "id": 15,
+      "question": "What is the molecular geometry of Chlorine trifluoride (ClF₃)?",
+      "options": {
+        "A": "Trigonal planar",
+        "B": "T-shaped",
+        "C": "Pyramidal",
+        "D": "Tetrahedral"
+      },
+      "correctAnswer": "B",
+      "explanation": "ClF₃ has 3 bond pairs and 2 lone pairs (sp³d). Lone pairs occupy equatorial sites, yielding a slightly bent T-shaped molecule."
+    },
+    {
+      "id": 16,
+      "question": "Which noble gas was the first to be synthesized into a true chemical compound (Xe⁺[PtF₆]⁻) by Neil Bartlett in 1962?",
+      "options": {
+        "A": "Helium",
+        "B": "Argon",
+        "C": "Xenon",
+        "D": "Neon"
+      },
+      "correctAnswer": "C",
+      "explanation": "Bartlett observed that PtF₆ oxidized O₂ to O₂⁺; recognizing that Xenon's first IE (1170 kJ/mol) was nearly identical to O₂ (1175 kJ/mol), he synthesized XePtF₆."
+    },
+    {
+      "id": 17,
+      "question": "Which halogen sublimes directly from a dark purple crystalline solid into violet vapors upon heating?",
+      "options": {
+        "A": "Fluorine",
+        "B": "Chlorine",
+        "C": "Bromine",
+        "D": "Iodine"
+      },
+      "correctAnswer": "D",
+      "explanation": "Solid iodine has a high vapor pressure and sublimes easily at mild temperatures to generate rich violet fumes."
+    },
+    {
+      "id": 18,
+      "question": "Tincture of iodine, a classic antiseptic solution, contains:",
+      "options": {
+        "A": "Pure liquid iodine",
+        "B": "2-3% solution of Iodine and Potassium Iodide (KI) in an alcohol-water mixture",
+        "C": "Iodoform dissolved in benzene",
+        "D": "Aqueous sodium hypochlorite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Tincture of iodine is 2-3% I₂ with KI dissolved in ethanol-water; KI enhances iodine solubility via formation of soluble triiodide ions (I₃⁻)."
+    },
+    {
+      "id": 19,
+      "question": "Which of the following halogens is a fuming, dark reddish-brown liquid at room temperature?",
+      "options": {
+        "A": "Fluorine",
+        "B": "Chlorine",
+        "C": "Bromine (Br₂)",
+        "D": "Astatine"
+      },
+      "correctAnswer": "C",
+      "explanation": "Bromine is the only non-metallic element that exists as a liquid under standard temperature and pressure."
+    },
+    {
+      "id": 20,
+      "question": "What is the geometry of Xenon trioxide (XeO₃)?",
+      "options": {
+        "A": "Trigonal planar",
+        "B": "Trigonal pyramidal",
+        "C": "T-shaped",
+        "D": "Tetrahedral"
+      },
+      "correctAnswer": "B",
+      "explanation": "XeO₃ has 3 Xe=O double bonds and one lone pair on Xenon (sp³), producing a trigonal pyramidal structure similar to ammonia."
+    },
+    {
+      "id": 21,
+      "question": "Hydrofluoric acid (HF) is stored in wax-coated bottles or plastic (polyethylene) containers because:",
+      "options": {
+        "A": "It reacts with glass (silica) forming soluble fluorosilicic acid: SiO₂ + 6HF → H₂SiF₆ + 2H₂O",
+        "B": "It is light-sensitive and decomposes into fluorine gas",
+        "C": "It is extremely flammable",
+        "D": "It oxidizes glass into silicon metal"
+      },
+      "correctAnswer": "A",
+      "explanation": "HF attacks silicates in glass (etching of glass), forming gaseous SiF₄ and H₂SiF₆, destroying glass containers."
+    },
+    {
+      "id": 22,
+      "question": "Which of the following ions produces an intense deep-blue complex with starch solution?",
+      "options": {
+        "A": "Chloride (Cl⁻)",
+        "B": "Free Iodine (I₂ / I₃⁻)",
+        "C": "Fluoride (F⁻)",
+        "D": "Bromide (Br⁻)"
+      },
+      "correctAnswer": "B",
+      "explanation": "Polyiodide chains (I₅⁻ / I₃⁻) insert into the amylose helix of starch, producing an intense charge-transfer blue color."
+    },
+    {
+      "id": 23,
+      "question": "The most abundant noble gas present in Earth's dry atmosphere (approximately 0.93% by volume) is:",
+      "options": {
+        "A": "Helium",
+        "B": "Neon",
+        "C": "Argon",
+        "D": "Krypton"
+      },
+      "correctAnswer": "C",
+      "explanation": "Argon constitutes ~0.934% of air, accumulating over geological time through the radioactive decay of Potassium-40 in rocks."
+    },
+    {
+      "id": 24,
+      "question": "What happens when chlorine water is exposed to sunlight for a few hours?",
+      "options": {
+        "A": "It turns deep green",
+        "B": "It loses its yellowish-green color and liberates oxygen gas: 2 Cl₂ + 2 H₂O xrightarrow{hν} 4 HCl + O₂↑",
+        "C": "It forms perchloric acid exclusively",
+        "D": "No reaction occurs"
+      },
+      "correctAnswer": "B",
+      "explanation": "In sunlight, unstable HOCl in chlorine water photolyzes: 2 HOCl → 2 HCl + O₂↑, releasing oxygen and leaving dilute HCl."
+    },
+    {
+      "id": 25,
+      "question": "Which of the following compounds is known as 'Freon-12' and was historically used as an aerosol propellant and refrigerant?",
+      "options": {
+        "A": "CCl₄",
+        "B": "CF₂Cl₂ (Dichlorodifluoromethane)",
+        "C": "CHCl₃",
+        "D": "CH₂Cl₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Dichlorodifluoromethane (CF₂Cl₂) is designated Freon-12 (CFC-12)."
+    },
+    {
+      "id": 26,
+      "question": "What is the oxidation state of iodine in periodic acid (HIO₄ / H₅IO₆)?",
+      "options": {
+        "A": "+1",
+        "B": "+3",
+        "C": "+5",
+        "D": "+7"
+      },
+      "correctAnswer": "D",
+      "explanation": "In metaperiodic acid (HIO₄) or paraperiodic acid (H₅IO₆), iodine exhibits its maximum oxidation state of +7."
+    },
+    {
+      "id": 27,
+      "question": "Which halogen displacement reaction will occur spontaneously?",
+      "options": {
+        "A": "2 NaF + Cl₂ → 2 NaCl + F₂",
+        "B": "2 KBr + Cl₂ → 2 KCl + Br₂",
+        "C": "2 KCl + I₂ → 2 KI + Cl₂",
+        "D": "2 NaF + I₂ → 2 NaI + F₂"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chlorine is more electronegative with higher reduction potential than bromine, easily displacing bromide from aqueous KBr."
+    },
+    {
+      "id": 28,
+      "question": "What is the hybridization of Xenon in Xenon hexafluoride (XeF₆)?",
+      "options": {
+        "A": "sp³d",
+        "B": "sp³d²",
+        "C": "sp³d³",
+        "D": "dsp²"
+      },
+      "correctAnswer": "C",
+      "explanation": "XeF₆ has 6 bond pairs and 1 stereochemically active lone pair (steric number 7 = sp³d³), giving a distorted octahedral geometry."
+    },
+    {
+      "id": 29,
+      "question": "Argon gas is filled inside incandescent filament lamps primarily to:",
+      "options": {
+        "A": "Produce colorful light emission",
+        "B": "Provide an inert atmosphere that inhibits evaporation and burning of the tungsten filament",
+        "C": "Reduce electrical current consumption",
+        "D": "Act as a dielectric insulator"
+      },
+      "correctAnswer": "B",
+      "explanation": "Chemically inert argon suppresses tungsten vaporization at high operating temperatures (~2500°C), prolonging lamp life."
+    },
+    {
+      "id": 30,
+      "question": "Which of the following hydrogen halides does not precipitate silver halide upon adding aqueous silver nitrate (AgNO₃)?",
+      "options": {
+        "A": "HF",
+        "B": "HCl",
+        "C": "HBr",
+        "D": "HI"
+      },
+      "correctAnswer": "A",
+      "explanation": "Silver fluoride (AgF) is water-soluble, whereas AgCl (white), AgBr (cream), and AgI (yellow) are insoluble precipitates."
+    },
+    {
+      "id": 31,
+      "question": "Which of the following compounds is used as a tear gas (lachrymator) in riot control?",
+      "options": {
+        "A": "Chloropicrin (CCl₃NO₂)",
+        "B": "Chloroform (CHCl₃)",
+        "C": "Carbon tetrachloride (CCl₄)",
+        "D": "Freon-11"
+      },
+      "correctAnswer": "A",
+      "explanation": "Chloropicrin (trichloronitromethane, CCl₃NO₂) severely irritates mucus membranes and induces uncontrollable tearing."
+    },
+    {
+      "id": 32,
+      "question": "The boiling points of the noble gases increase steadily down the group from Helium to Radon because:",
+      "options": {
+        "A": "Metallic bonding strength increases",
+        "B": "Increasing polarizability and electron count lead to stronger London dispersion forces",
+        "C": "Ionic dipole moments develop",
+        "D": "Nuclear charge decreases"
+      },
+      "correctAnswer": "B",
+      "explanation": "Larger electron clouds are more easily distorted, leading to stronger instantaneous dipole-induced dipole (London dispersion) forces."
+    },
+    {
+      "id": 33,
+      "question": "In the reaction of Xenon with fluorine at 400°C and 1 atmosphere pressure in a nickel vessel (1:5 volume ratio), the major product is:",
+      "options": {
+        "A": "XeF₂",
+        "B": "XeF₄",
+        "C": "XeF₆",
+        "D": "XeO₃"
+      },
+      "correctAnswer": "B",
+      "explanation": "Heating Xe and F₂ in a 1:5 ratio at 400°C and 1 atm yields crystalline Xenon tetrafluoride (XeF₄)."
+    },
+    {
+      "id": 34,
+      "question": "Which of the following is considered a 'pseudo-halogen'?",
+      "options": {
+        "A": "Cyanogen [(CN)₂]",
+        "B": "Carbon dioxide (CO₂)",
+        "C": "Methane (CH₄)",
+        "D": "Nitric oxide (NO)"
+      },
+      "correctAnswer": "A",
+      "explanation": "Cyanogen [(CN)₂] consists of electronegative groups that mimic halogens in forming pseudohalide ions (CN⁻) and covalent interhalogens (ICN)."
+    },
+    {
+      "id": 35,
+      "question": "Bleaching action of chlorine gas in the presence of moisture is due to:",
+      "options": {
+        "A": "Reduction of colored matter",
+        "B": "Oxidation of colored matter by nascent oxygen released from hypochlorous acid (HOCl)",
+        "C": "Precipitation of chloride salts",
+        "D": "Dehydration"
+      },
+      "correctAnswer": "B",
+      "explanation": "Cl₂ + H₂O ⇌ HCl + HOCl; HOCl → HCl + [O]. Nascent oxygen permanently bleaches dyes by oxidation."
+    }
+  ]
+}

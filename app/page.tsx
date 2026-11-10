@@ -40,6 +40,7 @@ export default function HomePage() {
   const math12Chapters = getChaptersIndex('math-12');
   const cs12Chapters = getChaptersIndex('cs-12');
   const biology12Chapters = getChaptersIndex('biology-12');
+  const chemistry12Chapters = getChaptersIndex('chemistry-12');
 
   const physicsTotal = physicsChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const biologyTotal = biologyChapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -73,6 +74,7 @@ export default function HomePage() {
   const pakstudies12Total = pakstudies12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const tarjuma12Total = tarjuma12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const physics12Total = physics12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
+  const chemistry12Total = chemistry12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const math12Total = math12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const cs12Total = cs12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
   const biology12Total = biology12Chapters.reduce((acc, c) => acc + c.totalQuestions, 0);
@@ -110,6 +112,7 @@ export default function HomePage() {
     pakstudies12Total +
     tarjuma12Total +
     physics12Total +
+    chemistry12Total +
     math12Total +
     cs12Total +
     biology12Total;
@@ -146,6 +149,7 @@ export default function HomePage() {
     pakstudies12Chapters.length +
     tarjuma12Chapters.length +
     physics12Chapters.length +
+    chemistry12Chapters.length +
     math12Chapters.length +
     cs12Chapters.length +
     biology12Chapters.length;
@@ -168,7 +172,7 @@ export default function HomePage() {
               </h1>
               <p className="text-base sm:text-lg text-[var(--color-ink-2)] max-w-2xl leading-relaxed font-[family-name:var(--font-body)]">
                 Master Federal Board SSC-I (Matric Part 1), SSC-II (Matric Part 2), HSSC-I (Intermediate Part 1), and HSSC-II (Intermediate Part 2) examinations with authentic chapter-wise test series, instant conceptual explanations,
-                Class 12th Computer Science (7 units + 10 Section A simulators with Python OOP, data structures & computing logic), Class 12th Biology (13 units + 10 Section A simulators with physiological, genetic & ecological rationales), Class 12th Mathematics (10 units + 10 Section A simulators with calculus proofs & coordinate geometry), Class 12th Physics (10 units + 10 Section A simulators with formula steps & derivations), Class 12th English Compulsory (10 units + 10 Section A simulators by Soch Badlo By MAK English Faculty), Class 12th Urdu Compulsory (8 units + 10 Section A simulators by Lecturer Narjis Zaheer & Soch Badlo By MAK), Class 12th Pakistan Studies (7 units + 10 Section A bilingual simulators by Soch Badlo By MAK), Class 12th Tarjuma-tul-Quran (7 units + 10 Section A bilingual simulators),
+                Class 12th Chemistry (16 units + 10 Section A simulators with organic reaction mechanisms, IUPAC nomenclature & coordination complexes), Class 12th Computer Science (7 units + 10 Section A simulators with Python OOP, data structures & computing logic), Class 12th Biology (13 units + 10 Section A simulators with physiological, genetic & ecological rationales), Class 12th Mathematics (10 units + 10 Section A simulators with calculus proofs & coordinate geometry), Class 12th Physics (10 units + 10 Section A simulators with formula steps & derivations), Class 12th English Compulsory (10 units + 10 Section A simulators by Soch Badlo By MAK English Faculty), Class 12th Urdu Compulsory (8 units + 10 Section A simulators by Lecturer Narjis Zaheer & Soch Badlo By MAK), Class 12th Pakistan Studies (7 units + 10 Section A bilingual simulators by Soch Badlo By MAK), Class 12th Tarjuma-tul-Quran (7 units + 10 Section A bilingual simulators),
                 Class 10th Pakistan Studies (6 units + 10 Section A bilingual simulators by Soch Badlo By MAK & Lecturer Tayabah Rafaqat), Class 10th Urdu Compulsory (8 units + 10 Section A simulators by Lecturer Narjis Zaheer & Soch Badlo By MAK), Class 10th Tarjuma-tul-Quran (8 units + 10 Section A bilingual simulators by Lecturer Tayabah Rafaqat & Soch Badlo By MAK), Class 10th English Compulsory (10 units + 10 Section A simulators by Soch Badlo By MAK), Class 10th Biology (9 units + 10 Section A simulators by Lecturer Ma&apos;am Rubina Ashraf & Soch Badlo By MAK), Class 10th Computer Science (8 units + 10 Section A simulators by Lecturer Sabahat Ul Hasan & Soch Badlo By MAK), Class 10th Chemistry (8 units + 10 Section A simulators by Soch Badlo By MAK), Class 10th Physics (9 units + 10 Section A simulators by Soch Badlo By MAK), Class 10th Mathematics (13 units + 10 Section A simulators by Lecturer Jazab & Nimra Abid), Class 9th Biology (10 chapters + 8 Section A simulators by Lecturer Rubina Ashraf), Class 9th Computer Science (7 chapters + 4 Section A simulators by Lecturer Sabahat Ul Hasan & Aryan Ali), Class 9th Chemistry (19 chapters + 4 Section A simulators by Lecturer Ayesha Amjad), Class 9th English Compulsory (7 units + 4 Section A simulators by Lecturer Adeela Naheed), Class 9th Islamiat Compulsory (7 units + 4 Section A simulators by Lecturer Tayabah Rafaqat), Class 9th Urdu Compulsory (7 units + 4 Section A simulators), Class 9th Tarjuma-tul-Quran (9 units + 4 bilingual simulators), Class 9th Mathematics (11 units + 2 Section A simulators), Class 9th Physics (9 units + 2 Section A simulators), Biology (حیاتیات), Chemistry (کیمسٹری with Lecturer Ayesha Amjad rationales),
                 Physics formulas, English syntax & poetic devices, Urdu literature and rhetoric (علمِ بیان و علمِ بدیع), Islamiat Compulsory (اسلامیات لازمی),
                 Tarjuma-tul-Quran (ترجمۃ القرآن المجید), Pakistan Studies (مطالعہ پاکستان), Mathematics step-by-step problem solving, Computer Science logic, and timed board exam simulations.
@@ -239,6 +243,7 @@ export default function HomePage() {
           pakstudies12Chapters={pakstudies12Chapters}
           tarjuma12Chapters={tarjuma12Chapters}
           physics12Chapters={physics12Chapters}
+          chemistry12Chapters={chemistry12Chapters}
           math12Chapters={math12Chapters}
           cs12Chapters={cs12Chapters}
           biology12Chapters={biology12Chapters}
