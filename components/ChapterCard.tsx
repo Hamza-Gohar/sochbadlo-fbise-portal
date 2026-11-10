@@ -386,7 +386,7 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
     <article
       className={`relative border p-5 sm:p-6 flex flex-col justify-between transition-all duration-200 min-w-0 w-full overflow-hidden break-words ${
         isPastPapers
-          ? 'border-emerald-800 bg-emerald-50/40 col-span-1 md:col-span-2 shadow-sm'
+          ? 'border-emerald-800 dark:border-emerald-600 bg-emerald-50/40 dark:bg-emerald-950/20 col-span-1 md:col-span-2 shadow-sm'
           : 'border-[var(--color-rule-2)] bg-[var(--color-paper)] hover:border-[var(--color-ink)]'
       }`}
     >
@@ -404,8 +404,8 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
               <span
                 className={`text-[11px] font-mono px-2 py-0.5 border flex items-center gap-1 ${
                   bestScore.percentage >= 80
-                    ? 'border-emerald-600 bg-emerald-100/60 text-emerald-900 font-bold'
-                    : 'border-amber-600 bg-amber-50 text-amber-900'
+                    ? 'border-emerald-600 dark:border-emerald-500 bg-emerald-100/60 dark:bg-emerald-950/50 text-emerald-900 dark:text-emerald-200 font-bold'
+                    : 'border-amber-600 dark:border-amber-500 bg-amber-50 dark:bg-amber-950/40 text-amber-900 dark:text-amber-200'
                 }`}
               >
                 <CheckCircle className="w-3 h-3" />
@@ -441,12 +441,12 @@ export default function ChapterCard({ chapter }: ChapterCardProps) {
           href={`/test/${chapter.slug}?mode=practice`}
           className="flex-1 text-center py-2.5 px-3 min-h-[46px] border border-[var(--color-ink)] text-[var(--color-ink)] hover:bg-[var(--color-paper-2)] text-xs font-semibold flex items-center justify-center gap-1.5 transition-colors active:scale-[0.98]"
         >
-          <Sparkles className="w-3.5 h-3.5 text-emerald-700" />
+          <Sparkles className="w-3.5 h-3.5 text-emerald-700 dark:text-emerald-400" />
           <span>Practice Mode</span>
         </Link>
         <Link
           href={`/test/${chapter.slug}?mode=exam`}
-          className="flex-1 text-center py-2.5 px-3 min-h-[46px] bg-[var(--color-ink)] text-[var(--color-paper)] hover:bg-neutral-800 text-xs font-semibold flex items-center justify-center gap-1.5 transition-colors shadow-sm active:scale-[0.98]"
+          className="flex-1 text-center py-2.5 px-3 min-h-[46px] bg-[var(--color-ink)] text-[var(--color-paper)] hover:bg-neutral-800 dark:hover:bg-neutral-200 text-xs font-semibold flex items-center justify-center gap-1.5 transition-colors shadow-sm active:scale-[0.98]"
         >
           <Play className="w-3.5 h-3.5 fill-current" />
           <span>Timed Exam</span>

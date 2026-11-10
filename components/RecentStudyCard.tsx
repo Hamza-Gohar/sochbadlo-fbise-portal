@@ -49,25 +49,25 @@ export default function RecentStudyCard() {
   return (
     <>
       {hasActivity ? (
-        <section className="mb-10 border-2 border-emerald-800 bg-[var(--color-paper-alt)] p-4 sm:p-6 shadow-sm">
+        <section className="mb-10 border-2 border-emerald-800 dark:border-emerald-700/80 bg-[var(--color-paper-2)] p-4 sm:p-6 shadow-sm">
           <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6">
             <div className="space-y-2">
               <div className="flex items-center gap-2 flex-wrap">
-                <span className="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-mono font-bold bg-amber-100 text-amber-900 border border-amber-300">
-                  <Flame className="w-3.5 h-3.5 fill-amber-500 text-amber-600" />
+                <span className="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-mono font-bold bg-amber-100 dark:bg-amber-950/40 text-amber-900 dark:text-amber-200 border border-amber-300 dark:border-amber-700/60">
+                  <Flame className="w-3.5 h-3.5 fill-amber-500 text-amber-600 dark:text-amber-400" />
                   {stats.streak.current} {stats.streak.current === 1 ? 'Day Streak' : 'Days Streak'}
                 </span>
-                <span className="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-mono text-emerald-950 bg-emerald-100/80 border border-emerald-300">
-                  <Clock className="w-3.5 h-3.5 text-emerald-700" />
+                <span className="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-mono text-emerald-950 dark:text-emerald-200 bg-emerald-100/80 dark:bg-emerald-950/40 border border-emerald-300 dark:border-emerald-700/60">
+                  <Clock className="w-3.5 h-3.5 text-emerald-700 dark:text-emerald-400" />
                   Today: {formatStudyTime(stats.today.secondsSpent)}
                 </span>
                 {stats.bookmarks.length > 0 && (
                   <button
                     type="button"
                     onClick={() => openDashboard('bookmarks')}
-                    className="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-mono text-emerald-900 bg-white border border-emerald-600 hover:bg-emerald-50 transition-colors"
+                    className="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-mono text-emerald-900 dark:text-emerald-200 bg-[var(--color-paper)] border border-emerald-600 dark:border-emerald-500 hover:bg-emerald-50 dark:hover:bg-emerald-950/40 transition-colors"
                   >
-                    <Bookmark className="w-3.5 h-3.5 text-emerald-700 fill-emerald-700" />
+                    <Bookmark className="w-3.5 h-3.5 text-emerald-700 dark:text-emerald-400 fill-emerald-700 dark:fill-emerald-400" />
                     <span>{stats.bookmarks.length} Saved MCQs</span>
                   </button>
                 )}
@@ -75,9 +75,9 @@ export default function RecentStudyCard() {
                   <button
                     type="button"
                     onClick={() => openDashboard('achievements')}
-                    className="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-mono text-purple-900 bg-purple-50 border border-purple-300 hover:bg-purple-100 transition-colors"
+                    className="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-mono text-purple-900 dark:text-purple-200 bg-purple-50 dark:bg-purple-950/40 border border-purple-300 dark:border-purple-700/60 hover:bg-purple-100 dark:hover:bg-purple-900/40 transition-colors"
                   >
-                    <Award className="w-3.5 h-3.5 text-purple-700" />
+                    <Award className="w-3.5 h-3.5 text-purple-700 dark:text-purple-400" />
                     <span>{unlockedBadgesCount} Badges</span>
                   </button>
                 )}
@@ -90,7 +90,7 @@ export default function RecentStudyCard() {
               {lastTest ? (
                 <p className="text-xs sm:text-sm text-[var(--color-ink-2)] font-[family-name:var(--font-body)]">
                   Last studied: <strong className="font-semibold text-[var(--color-ink)]">{lastTest.chapterTitle}</strong> · Scored{' '}
-                  <span className="font-mono font-bold text-emerald-800">{lastTest.score}/{lastTest.total} ({lastTest.percentage}%)</span>
+                  <span className="font-mono font-bold text-emerald-800 dark:text-emerald-400">{lastTest.score}/{lastTest.total} ({lastTest.percentage}%)</span>
                 </p>
               ) : (
                 <p className="text-xs sm:text-sm text-[var(--color-ink-2)] font-[family-name:var(--font-body)]">
@@ -103,7 +103,7 @@ export default function RecentStudyCard() {
               {lastTest && (
                 <Link
                   href={`/test/${lastTest.slug}`}
-                  className="px-4 py-2.5 min-h-[44px] bg-[var(--color-ink)] hover:bg-neutral-800 text-[var(--color-paper)] font-bold text-xs flex items-center gap-1.5 transition-colors shadow-sm active:scale-95"
+                  className="px-4 py-2.5 min-h-[44px] bg-[var(--color-ink)] hover:bg-neutral-800 dark:hover:bg-neutral-200 text-[var(--color-paper)] font-bold text-xs flex items-center gap-1.5 transition-colors shadow-sm active:scale-95"
                 >
                   <RotateCcw className="w-3.5 h-3.5" />
                   <span>Resume {lastTest.chapterTitle.slice(0, 20)}...</span>
@@ -113,10 +113,10 @@ export default function RecentStudyCard() {
               <button
                 type="button"
                 onClick={() => openDashboard('stats')}
-                className="px-4 py-2.5 min-h-[44px] border border-emerald-800 bg-emerald-50 hover:bg-emerald-100 text-emerald-950 font-bold text-xs flex items-center gap-1.5 transition-colors active:scale-95"
+                className="px-4 py-2.5 min-h-[44px] border border-emerald-800 dark:border-emerald-600/70 bg-emerald-50 dark:bg-emerald-950/40 hover:bg-emerald-100 dark:hover:bg-emerald-900/50 text-emerald-950 dark:text-emerald-200 font-bold text-xs flex items-center gap-1.5 transition-colors active:scale-95"
               >
                 <span>Open Study Hub</span>
-                <ArrowRight className="w-3.5 h-3.5 text-emerald-800" />
+                <ArrowRight className="w-3.5 h-3.5 text-emerald-800 dark:text-emerald-400" />
               </button>
             </div>
           </div>

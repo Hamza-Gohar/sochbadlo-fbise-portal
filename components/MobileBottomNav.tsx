@@ -37,9 +37,9 @@ export default function MobileBottomNav({ onOpenDashboard }: MobileBottomNavProp
         {/* Curriculum Home */}
         <Link
           href="/"
-          className="flex flex-col items-center justify-center min-h-[48px] py-1 text-xs font-mono text-[var(--color-muted)] hover:text-emerald-800 transition-colors active:scale-95"
+          className="flex flex-col items-center justify-center min-h-[48px] py-1 text-xs font-mono text-[var(--color-muted)] hover:text-emerald-800 dark:hover:text-emerald-300 transition-colors active:scale-95"
         >
-          <Home className="w-5 h-5 text-emerald-800 mb-0.5" />
+          <Home className="w-5 h-5 text-emerald-800 dark:text-emerald-400 mb-0.5" />
           <span className="text-[11px] font-sans font-medium">Curriculum</span>
         </Link>
 
@@ -47,10 +47,10 @@ export default function MobileBottomNav({ onOpenDashboard }: MobileBottomNavProp
         <button
           type="button"
           onClick={() => onOpenDashboard('stats')}
-          className="flex flex-col items-center justify-center min-h-[48px] py-1 text-xs font-mono text-[var(--color-muted)] hover:text-amber-800 transition-colors active:scale-95"
+          className="flex flex-col items-center justify-center min-h-[48px] py-1 text-xs font-mono text-[var(--color-muted)] hover:text-amber-800 dark:hover:text-amber-300 transition-colors active:scale-95"
         >
           <div className="relative">
-            <Flame className="w-5 h-5 text-amber-600 fill-amber-500 mb-0.5" />
+            <Flame className="w-5 h-5 text-amber-600 dark:text-amber-400 fill-amber-500 mb-0.5" />
             {streak > 0 && (
               <span className="absolute -top-1 -right-2 bg-amber-600 text-white text-[9px] font-bold px-1 rounded-full">
                 {streak}
@@ -64,10 +64,10 @@ export default function MobileBottomNav({ onOpenDashboard }: MobileBottomNavProp
         <button
           type="button"
           onClick={() => onOpenDashboard('bookmarks')}
-          className="flex flex-col items-center justify-center min-h-[48px] py-1 text-xs font-mono text-[var(--color-muted)] hover:text-emerald-800 transition-colors active:scale-95"
+          className="flex flex-col items-center justify-center min-h-[48px] py-1 text-xs font-mono text-[var(--color-muted)] hover:text-emerald-800 dark:hover:text-emerald-300 transition-colors active:scale-95"
         >
           <div className="relative">
-            <Bookmark className="w-5 h-5 text-emerald-700 mb-0.5" />
+            <Bookmark className="w-5 h-5 text-emerald-700 dark:text-emerald-400 mb-0.5" />
             {bookmarkCount > 0 && (
               <span className="absolute -top-1 -right-2 bg-emerald-700 text-white text-[9px] font-bold px-1 rounded-full">
                 {bookmarkCount}
@@ -81,10 +81,10 @@ export default function MobileBottomNav({ onOpenDashboard }: MobileBottomNavProp
         <button
           type="button"
           onClick={() => onOpenDashboard('achievements')}
-          className="flex flex-col items-center justify-center min-h-[48px] py-1 text-xs font-mono text-[var(--color-muted)] hover:text-purple-800 transition-colors active:scale-95"
+          className="flex flex-col items-center justify-center min-h-[48px] py-1 text-xs font-mono text-[var(--color-muted)] hover:text-purple-800 dark:hover:text-purple-300 transition-colors active:scale-95"
         >
           <div className="relative">
-            <Award className="w-5 h-5 text-purple-700 mb-0.5" />
+            <Award className="w-5 h-5 text-purple-700 dark:text-purple-400 mb-0.5" />
             {unlockedCount > 0 && (
               <span className="absolute -top-1 -right-2 bg-purple-700 text-white text-[9px] font-bold px-1 rounded-full">
                 {unlockedCount}

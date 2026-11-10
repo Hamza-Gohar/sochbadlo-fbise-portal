@@ -285,7 +285,7 @@ export default function SubjectTabs({
               onClick={() => handleGradeChange('9')}
               className={`p-3 min-h-[48px] border text-xs font-bold flex items-center justify-center gap-2 transition-all active:scale-[0.98] ${
                 activeGrade === '9'
-                  ? 'bg-emerald-900 text-white border-emerald-950 shadow-sm'
+                  ? 'bg-emerald-900 dark:bg-emerald-800 text-white border-emerald-950 dark:border-emerald-600 shadow-sm'
                   : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
               }`}
             >
@@ -301,7 +301,7 @@ export default function SubjectTabs({
               onClick={() => handleGradeChange('10')}
               className={`p-3 min-h-[48px] border text-xs font-bold flex items-center justify-center gap-2 transition-all active:scale-[0.98] ${
                 activeGrade === '10'
-                  ? 'bg-blue-950 text-white border-blue-950 shadow-sm'
+                  ? 'bg-blue-950 dark:bg-blue-900 text-white border-blue-950 dark:border-blue-600 shadow-sm'
                   : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
               }`}
             >
@@ -333,7 +333,7 @@ export default function SubjectTabs({
               onClick={() => handleGradeChange('12')}
               className={`p-3 min-h-[48px] border text-xs font-bold flex items-center justify-center gap-2 transition-all active:scale-[0.98] ${
                 activeGrade === '12'
-                  ? 'bg-purple-950 text-white border-purple-950 shadow-sm'
+                  ? 'bg-purple-950 dark:bg-purple-900 text-white border-purple-950 dark:border-purple-600 shadow-sm'
                   : 'bg-[var(--color-paper)] text-[var(--color-ink)] border-[var(--color-rule-2)] hover:border-[var(--color-ink)]'
               }`}
             >
@@ -398,10 +398,10 @@ export default function SubjectTabs({
       {/* 3. ACTIVE SUBJECT BANNER & SEARCH/FILTER BAR                    */}
       {/* ============================================================== */}
       <section className="mb-6">
-        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 p-4 border border-[var(--color-rule-2)] bg-[var(--color-paper-alt)]">
+        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 p-4 border border-[var(--color-rule-2)] bg-[var(--color-paper-2)]">
           <div>
             <div className="flex items-center gap-2">
-              <span className="text-[10px] font-mono uppercase tracking-widest bg-emerald-100 text-emerald-900 border border-emerald-300 px-1.5 py-0.5 font-bold">
+              <span className="text-[10px] font-mono uppercase tracking-widest bg-emerald-100 dark:bg-emerald-950/60 text-emerald-900 dark:text-emerald-300 border border-emerald-300 dark:border-emerald-700/80 px-1.5 py-0.5 font-bold">
                 Class {activeGrade}th
               </span>
               <h2 className="font-[family-name:var(--font-display)] text-lg sm:text-xl font-bold tracking-tight text-[var(--color-ink)]">
@@ -418,7 +418,7 @@ export default function SubjectTabs({
             <span className="px-2.5 py-1.5 border border-[var(--color-rule)] bg-[var(--color-paper)] font-bold text-[var(--color-ink)]">
               {activeChapters.length} Modules
             </span>
-            <span className="px-2.5 py-1.5 border border-emerald-700 bg-emerald-50 text-emerald-950 font-bold">
+            <span className="px-2.5 py-1.5 border border-emerald-700 dark:border-emerald-500 bg-emerald-50 dark:bg-emerald-950/40 text-emerald-950 dark:text-emerald-200 font-bold">
               {totalSubjectMCQs} MCQs
             </span>
           </div>

@@ -1,5 +1,6 @@
 import React from 'react';
 import Link from 'next/link';
+import ThemeToggle from './ThemeToggle';
 
 export default function Footer() {
   return (
@@ -9,7 +10,7 @@ export default function Footer() {
           {/* Col 1 */}
           <div className="lg:col-span-1">
             <h3 className="font-[family-name:var(--font-display)] text-xl font-bold tracking-tight text-[var(--color-ink)] mb-3">
-              FBISE<span className="text-emerald-700 font-normal">Prep</span>
+              FBISE<span className="text-emerald-700 dark:text-emerald-400 font-normal">Prep</span>
             </h3>
             <p className="text-xs text-[var(--color-muted)] leading-relaxed font-[family-name:var(--font-body)]">
               Authentic FBISE exam practice platform engineered for secondary and intermediate students (Matric SSC-I, SSC-II, HSSC-I & HSSC-II).
@@ -141,8 +142,11 @@ export default function Footer() {
         </div>
 
         {/* Bottom bar */}
-        <div className="pt-6 flex flex-col sm:flex-row justify-between items-center text-xs text-[var(--color-muted)] font-[family-name:var(--font-display)]">
-          <p>© {new Date().getFullYear()} FBISE Prep Portal. Independent examination testing platform for Pakistani students.</p>
+        <div className="pt-6 flex flex-col sm:flex-row justify-between items-center gap-4 text-xs text-[var(--color-muted)] font-[family-name:var(--font-display)]">
+          <div className="flex flex-col sm:flex-row items-center gap-3 text-center sm:text-left">
+            <p>© {new Date().getFullYear()} FBISE Prep Portal. Independent examination testing platform for Pakistani students.</p>
+            <ThemeToggle compact />
+          </div>
           <p className="mt-2 sm:mt-0">Designed with Hallmark Editorial System · Zero AI Slop</p>
         </div>
       </div>

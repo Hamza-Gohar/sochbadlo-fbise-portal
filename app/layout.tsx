@@ -25,8 +25,36 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className={`${bricolage.variable} ${sourceSerif.variable}`}>
-      <body className="min-h-screen bg-[var(--color-paper)] text-[var(--color-ink)] selection:bg-emerald-100 selection:text-emerald-950 font-[family-name:var(--font-body)]">
+    <html
+      lang="en"
+      suppressHydrationWarning
+      className={`${bricolage.variable} ${sourceSerif.variable}`}
+    >
+      <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
+              (function() {
+                try {
+                  var mode = localStorage.getItem('fbise_theme_mode');
+                  var prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+                  var isDark = mode === 'dark' || (!mode && prefersDark);
+                  if (isDark) {
+                    document.documentElement.setAttribute('data-mode', 'dark');
+                    document.documentElement.setAttribute('data-theme', 'dark');
+                    document.documentElement.classList.add('dark');
+                  } else {
+                    document.documentElement.setAttribute('data-mode', 'light');
+                    document.documentElement.setAttribute('data-theme', 'light');
+                    document.documentElement.classList.remove('dark');
+                  }
+                } catch (e) {}
+              })();
+            `,
+          }}
+        />
+      </head>
+      <body className="min-h-screen bg-[var(--color-paper)] text-[var(--color-ink)] selection:bg-emerald-100 selection:text-emerald-950 dark:selection:bg-emerald-900/60 dark:selection:text-emerald-100 font-[family-name:var(--font-body)]">
         {children}
       </body>
     </html>

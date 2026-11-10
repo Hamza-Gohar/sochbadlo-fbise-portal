@@ -575,9 +575,9 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
 
                           let optClass = 'border-[var(--color-rule)] bg-[var(--color-paper)] text-[var(--color-ink)]';
                           if (isActualCorrect) {
-                            optClass = 'border-emerald-700 bg-emerald-100/70 text-emerald-950 font-bold';
+                            optClass = 'border-emerald-700 dark:border-emerald-500 bg-emerald-100/70 dark:bg-emerald-950/50 text-emerald-950 dark:text-emerald-200 font-bold';
                           } else if (isSelected && !q.isCorrect) {
-                            optClass = 'border-red-600 bg-red-100/70 text-red-950 line-through';
+                            optClass = 'border-red-600 dark:border-red-500 bg-red-100/70 dark:bg-red-950/40 text-red-950 dark:text-red-200 line-through';
                           }
 
                           return (
@@ -602,13 +602,13 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
                         <div
                           className={`bg-[var(--color-paper-2)] border-l-2 ${
                             isUrdu ? 'border-r-2 border-l-0 text-right' : ''
-                          } border-emerald-800 p-3 text-xs text-[var(--color-ink-2)] font-[family-name:var(--font-body)]`}
+                          } border-emerald-800 dark:border-emerald-600 p-3 text-xs text-[var(--color-ink-2)] font-[family-name:var(--font-body)]`}
                           dir={isUrdu ? 'rtl' : 'ltr'}
                         >
-                          <strong className="font-[family-name:var(--font-display)] uppercase tracking-wider text-[10px] text-emerald-900 block mb-0.5">
+                          <strong className="font-[family-name:var(--font-display)] uppercase tracking-wider text-[10px] text-emerald-900 dark:text-emerald-400 block mb-0.5">
                             {isUrdu ? 'امتحانی تشریح و مفہوم:' : 'Solution Justification:'}
                           </strong>
-                          <p className={isUrdu ? 'font-serif text-sm leading-relaxed text-neutral-800' : ''}>
+                          <p className={`text-[var(--color-ink-2)] ${isUrdu ? 'font-serif text-sm leading-relaxed' : ''}`}>
                             {q.explanation}
                           </p>
                         </div>
@@ -642,15 +642,15 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
                       onClick={() => handleToggleBookmark(currentQ)}
                       className={`flex items-center gap-1.5 px-3 py-1.5 min-h-[38px] border transition-colors font-mono text-xs ${
                         bookmarkedIds[currentQ.id]
-                          ? 'border-emerald-700 bg-emerald-100 text-emerald-950 font-bold'
-                          : 'border-[var(--color-rule-2)] text-[var(--color-muted)] hover:text-emerald-900 hover:border-emerald-700'
+                          ? 'border-emerald-700 dark:border-emerald-500 bg-emerald-100 dark:bg-emerald-950/50 text-emerald-950 dark:text-emerald-200 font-bold'
+                          : 'border-[var(--color-rule-2)] text-[var(--color-muted)] hover:text-emerald-900 dark:hover:text-emerald-300 hover:border-emerald-700'
                       }`}
                       title="Save question to revision list"
                       aria-label="Bookmark this question"
                     >
                       <Bookmark
                         className={`w-3.5 h-3.5 ${
-                          bookmarkedIds[currentQ.id] ? 'fill-emerald-700 text-emerald-700' : 'text-current'
+                          bookmarkedIds[currentQ.id] ? 'fill-emerald-700 text-emerald-700 dark:fill-emerald-400 dark:text-emerald-400' : 'text-current'
                         }`}
                       />
                       <span>{bookmarkedIds[currentQ.id] ? 'Saved' : 'Save'}</span>
@@ -701,9 +701,9 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
                     // Practice mode styling
                     if (mode === 'practice' && hasAnswered) {
                       if (isCorrect) {
-                        btnStyle = 'border-emerald-700 bg-emerald-100/70 text-emerald-950 font-bold';
+                        btnStyle = 'border-emerald-700 dark:border-emerald-500 bg-emerald-100/70 dark:bg-emerald-950/50 text-emerald-950 dark:text-emerald-200 font-bold';
                       } else if (isSelected && !isCorrect) {
-                        btnStyle = 'border-red-600 bg-red-100/70 text-red-950';
+                        btnStyle = 'border-red-600 dark:border-red-500 bg-red-100/70 dark:bg-red-950/40 text-red-950 dark:text-red-200';
                       } else {
                         btnStyle = 'border-[var(--color-rule)] opacity-60 text-[var(--color-muted)]';
                       }
@@ -723,7 +723,7 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
                         dir={isUrdu ? 'rtl' : 'ltr'}
                       >
                         <div className={`flex items-center gap-3 ${isUrdu ? 'flex-row-reverse' : ''}`}>
-                          <span className="font-mono text-xs px-2.5 py-1 border border-current font-bold whitespace-nowrap bg-white/40">
+                          <span className="font-mono text-xs px-2.5 py-1 border border-current font-bold whitespace-nowrap bg-[var(--color-paper-2)]/80">
                             {isUrdu ? urduOptionLabels[opt] : opt}
                           </span>
                           <span
@@ -737,8 +737,8 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
 
                         {mode === 'practice' && hasAnswered && (
                           <div className="shrink-0">
-                            {isCorrect && <CheckCircle className="w-5 h-5 text-emerald-700" />}
-                            {isSelected && !isCorrect && <XCircle className="w-5 h-5 text-red-600" />}
+                            {isCorrect && <CheckCircle className="w-5 h-5 text-emerald-700 dark:text-emerald-400" />}
+                            {isSelected && !isCorrect && <XCircle className="w-5 h-5 text-red-600 dark:text-red-400" />}
                           </div>
                         )}
                       </button>
@@ -751,18 +751,18 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
                   <div
                     className={`border-l-4 ${
                       isUrdu ? 'border-r-4 border-l-0 text-right' : ''
-                    } border-emerald-800 bg-[var(--color-paper-2)] p-4 mb-8 text-xs font-[family-name:var(--font-body)] text-[var(--color-ink)] leading-relaxed shadow-sm`}
+                    } border-emerald-800 dark:border-emerald-600 bg-[var(--color-paper-2)] p-4 mb-8 text-xs font-[family-name:var(--font-body)] text-[var(--color-ink)] leading-relaxed shadow-sm`}
                     dir={isUrdu ? 'rtl' : 'ltr'}
                   >
                     <div
-                      className={`flex items-center gap-1.5 font-[family-name:var(--font-display)] font-bold text-emerald-900 uppercase tracking-wider text-[11px] mb-1 ${
+                      className={`flex items-center gap-1.5 font-[family-name:var(--font-display)] font-bold text-emerald-900 dark:text-emerald-400 uppercase tracking-wider text-[11px] mb-1 ${
                         isUrdu ? 'flex-row-reverse' : ''
                       }`}
                     >
-                      <Sparkles className="w-3.5 h-3.5 text-emerald-700" />
+                      <Sparkles className="w-3.5 h-3.5 text-emerald-700 dark:text-emerald-400" />
                       <span>{isUrdu ? 'تفصیلی امتحانی تشریح و وضاحت' : 'Scientific Explanation'}</span>
                     </div>
-                    <p className={isUrdu ? 'font-serif text-sm leading-relaxed text-neutral-800' : ''}>
+                    <p className={`text-[var(--color-ink-2)] ${isUrdu ? 'font-serif text-sm leading-relaxed' : ''}`}>
                       {currentQ.explanation}
                     </p>
                   </div>

@@ -207,7 +207,7 @@ export default function HomePage() {
 
           {/* "What To Do Next" 3-Step Guided Roadmap for Students */}
           <div className="mt-8 pt-6 border-t border-[var(--color-rule)] grid grid-cols-1 sm:grid-cols-3 gap-3">
-            <div className="p-3.5 border border-[var(--color-rule-2)] bg-[var(--color-paper-alt)] flex items-start gap-3">
+            <div className="p-3.5 border border-[var(--color-rule-2)] bg-[var(--color-paper-2)] flex items-start gap-3">
               <span className="w-6 h-6 rounded-full bg-[var(--color-ink)] text-[var(--color-paper)] text-xs font-mono font-bold flex items-center justify-center shrink-0">
                 1
               </span>
@@ -221,7 +221,7 @@ export default function HomePage() {
               </div>
             </div>
 
-            <div className="p-3.5 border border-[var(--color-rule-2)] bg-[var(--color-paper-alt)] flex items-start gap-3">
+            <div className="p-3.5 border border-[var(--color-rule-2)] bg-[var(--color-paper-2)] flex items-start gap-3">
               <span className="w-6 h-6 rounded-full bg-[var(--color-ink)] text-[var(--color-paper)] text-xs font-mono font-bold flex items-center justify-center shrink-0">
                 2
               </span>
@@ -235,8 +235,8 @@ export default function HomePage() {
               </div>
             </div>
 
-            <div className="p-3.5 border border-[var(--color-rule-2)] bg-[var(--color-paper-alt)] flex items-start gap-3">
-              <span className="w-6 h-6 rounded-full bg-emerald-800 text-white text-xs font-mono font-bold flex items-center justify-center shrink-0">
+            <div className="p-3.5 border border-[var(--color-rule-2)] bg-[var(--color-paper-2)] flex items-start gap-3">
+              <span className="w-6 h-6 rounded-full bg-emerald-800 dark:bg-emerald-600 text-white text-xs font-mono font-bold flex items-center justify-center shrink-0">
                 3
               </span>
               <div>

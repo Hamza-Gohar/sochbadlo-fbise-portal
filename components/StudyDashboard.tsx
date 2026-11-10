@@ -138,11 +138,11 @@ export default function StudyDashboard({
             onClick={() => setActiveTab('stats')}
             className={`px-2.5 py-2 min-h-[44px] font-bold border-b-2 flex items-center justify-center gap-1.5 transition-colors ${
               activeTab === 'stats'
-                ? 'border-emerald-700 text-emerald-900 bg-[var(--color-paper)]'
+                ? 'border-emerald-700 dark:border-emerald-400 text-emerald-900 dark:text-emerald-300 bg-[var(--color-paper)]'
                 : 'border-transparent text-[var(--color-muted)] hover:text-[var(--color-ink)]'
             }`}
           >
-            <Flame className="w-4 h-4 text-orange-600 shrink-0" />
+            <Flame className="w-4 h-4 text-orange-600 dark:text-orange-400 shrink-0" />
             <span className="truncate">Streaks & Stats</span>
           </button>
 
@@ -150,11 +150,11 @@ export default function StudyDashboard({
             onClick={() => setActiveTab('bookmarks')}
             className={`px-2.5 py-2 min-h-[44px] font-bold border-b-2 flex items-center justify-center gap-1.5 transition-colors ${
               activeTab === 'bookmarks'
-                ? 'border-emerald-700 text-emerald-900 bg-[var(--color-paper)]'
+                ? 'border-emerald-700 dark:border-emerald-400 text-emerald-900 dark:text-emerald-300 bg-[var(--color-paper)]'
                 : 'border-transparent text-[var(--color-muted)] hover:text-[var(--color-ink)]'
             }`}
           >
-            <Bookmark className="w-4 h-4 text-emerald-700 shrink-0" />
+            <Bookmark className="w-4 h-4 text-emerald-700 dark:text-emerald-400 shrink-0" />
             <span className="truncate">Saved ({currentStats.bookmarks.length})</span>
           </button>
 
@@ -162,11 +162,11 @@ export default function StudyDashboard({
             onClick={() => setActiveTab('history')}
             className={`px-2.5 py-2 min-h-[44px] font-bold border-b-2 flex items-center justify-center gap-1.5 transition-colors ${
               activeTab === 'history'
-                ? 'border-emerald-700 text-emerald-900 bg-[var(--color-paper)]'
+                ? 'border-emerald-700 dark:border-emerald-400 text-emerald-900 dark:text-emerald-300 bg-[var(--color-paper)]'
                 : 'border-transparent text-[var(--color-muted)] hover:text-[var(--color-ink)]'
             }`}
           >
-            <History className="w-4 h-4 text-sky-700 shrink-0" />
+            <History className="w-4 h-4 text-sky-700 dark:text-sky-400 shrink-0" />
             <span className="truncate">History ({currentStats.recentTests.length})</span>
           </button>
 
@@ -174,11 +174,11 @@ export default function StudyDashboard({
             onClick={() => setActiveTab('achievements')}
             className={`px-2.5 py-2 min-h-[44px] font-bold border-b-2 flex items-center justify-center gap-1.5 transition-colors ${
               activeTab === 'achievements'
-                ? 'border-emerald-700 text-emerald-900 bg-[var(--color-paper)]'
+                ? 'border-emerald-700 dark:border-emerald-400 text-emerald-900 dark:text-emerald-300 bg-[var(--color-paper)]'
                 : 'border-transparent text-[var(--color-muted)] hover:text-[var(--color-ink)]'
             }`}
           >
-            <Award className="w-4 h-4 text-purple-700 shrink-0" />
+            <Award className="w-4 h-4 text-purple-700 dark:text-purple-400 shrink-0" />
             <span className="truncate">Badges ({Object.keys(currentStats.unlockedAchievements).length}/{ALL_ACHIEVEMENTS.length})</span>
           </button>
         </div>
@@ -189,19 +189,19 @@ export default function StudyDashboard({
           {activeTab === 'stats' && (
             <div className="space-y-6 animate-in fade-in duration-150">
               {/* Streak Banner */}
-              <div className="border border-orange-200 bg-orange-50/60 p-4 sm:p-5 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+              <div className="border border-orange-200 dark:border-orange-800/60 bg-orange-50/60 dark:bg-orange-950/30 p-4 sm:p-5 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
                 <div className="flex items-center gap-3">
                   <div className="w-12 h-12 rounded-full bg-orange-500 text-white flex items-center justify-center font-bold text-xl shadow-sm flex-shrink-0 animate-bounce duration-1000">
                     🔥
                   </div>
                   <div>
-                    <div className="text-xs font-mono uppercase tracking-wider text-orange-800 font-bold">
+                    <div className="text-xs font-mono uppercase tracking-wider text-orange-800 dark:text-orange-300 font-bold">
                       Current Study Streak
                     </div>
-                    <div className="font-[family-name:var(--font-display)] text-2xl font-extrabold text-orange-950">
+                    <div className="font-[family-name:var(--font-display)] text-2xl font-extrabold text-orange-950 dark:text-orange-100">
                       {currentStats.streak.current} {currentStats.streak.current === 1 ? 'Day' : 'Days'} In A Row
                     </div>
-                    <p className="text-xs text-orange-900/80 mt-0.5">
+                    <p className="text-xs text-orange-900/80 dark:text-orange-200/80 mt-0.5">
                       Best Streak: <span className="font-bold">{currentStats.streak.best} Days</span> · Practice daily to keep the fire lit!
                     </p>
                   </div>
@@ -487,10 +487,10 @@ export default function StudyDashboard({
                         <div
                           className={`w-12 h-12 rounded-sm border flex items-center justify-center font-[family-name:var(--font-display)] font-extrabold text-lg ${
                             t.percentage >= 80
-                              ? 'border-emerald-700 bg-emerald-50 text-emerald-900'
+                              ? 'border-emerald-700 dark:border-emerald-500 bg-emerald-50 dark:bg-emerald-950/40 text-emerald-900 dark:text-emerald-200'
                               : t.percentage >= 50
-                              ? 'border-amber-700 bg-amber-50 text-amber-900'
-                              : 'border-red-700 bg-red-50 text-red-900'
+                              ? 'border-amber-700 dark:border-amber-500 bg-amber-50 dark:bg-amber-950/40 text-amber-900 dark:text-amber-200'
+                              : 'border-red-700 dark:border-red-500 bg-red-50 dark:bg-red-950/40 text-red-900 dark:text-red-200'
                           }`}
                         >
                           {t.percentage}%
@@ -533,15 +533,15 @@ export default function StudyDashboard({
                       key={ach.id}
                       className={`p-4 border flex items-start gap-3 transition-colors ${
                         isUnlocked
-                          ? 'border-amber-300 bg-amber-50/50 shadow-xs'
+                          ? 'border-amber-300 dark:border-amber-600/60 bg-amber-50/50 dark:bg-amber-950/30 shadow-xs'
                           : 'border-[var(--color-rule)] bg-[var(--color-paper-2)] opacity-60'
                       }`}
                     >
                       <div
                         className={`w-10 h-10 rounded-full flex items-center justify-center text-lg flex-shrink-0 border ${
                           isUnlocked
-                            ? 'bg-amber-100 border-amber-300'
-                            : 'bg-neutral-200 border-neutral-300 filter grayscale'
+                            ? 'bg-amber-100 dark:bg-amber-950/60 border-amber-300 dark:border-amber-600'
+                            : 'bg-neutral-200 dark:bg-neutral-800 border-neutral-300 dark:border-neutral-700 filter grayscale'
                         }`}
                       >
                         {ach.icon}
