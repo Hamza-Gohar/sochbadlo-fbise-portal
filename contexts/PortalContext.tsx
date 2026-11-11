@@ -104,8 +104,26 @@ export function PortalProvider({ children }: { children: ReactNode }) {
     setStats(getStudyStats());
   }, []);
 
-  // Listen to cross-component and cross-tab events
+  // Listen to cross-component, cross-tab, and cross-window events
   useEffect(() => {
+    // 1. Cross-Window BroadcastChannel for instant theme and context sync
+    let portalChannel: BroadcastChannel | null = null;
+    if (typeof window !== 'undefined' && 'BroadcastChannel' in window) {
+      try {
+        portalChannel = new BroadcastChannel('fbise_portal_channel');
+        portalChannel.onmessage = (event) => {
+          if (event.data?.type === 'THEME_CHANGED' && event.data.mode) {
+            const dark = event.data.mode === 'dark';
+            setIsDark(dark);
+            setThemeState(event.data.mode);
+            applyThemeToDocument(dark);
+          }
+        };
+      } catch {
+        // BroadcastChannel blocked or restricted
+      }
+    }
+
     const handleStudyUpdate = () => {
       setStats(getStudyStats());
     };
@@ -123,6 +141,7 @@ export function PortalProvider({ children }: { children: ReactNode }) {
         setIsDark(dark);
         setThemeState(customEvent.detail.mode);
         applyThemeToDocument(dark);
+        portalChannel?.postMessage({ type: 'THEME_CHANGED', mode: customEvent.detail.mode });
       }
     };
 
@@ -137,16 +156,45 @@ export function PortalProvider({ children }: { children: ReactNode }) {
       }
     };
 
+    // 2. Self-anneal whenever the user returns to this tab/window
+    const handleVisibilityOrFocus = () => {
+      if (typeof document !== 'undefined' && document.visibilityState === 'visible') {
+        setStats(getStudyStats());
+      }
+    };
+
+    // 3. React to OS-level system dark mode changes dynamically
+    const mediaQuery = window.matchMedia('(prefers-color-scheme: dark)');
+    const handleMediaChange = (e: MediaQueryListEvent) => {
+      try {
+        const explicit = localStorage.getItem('fbise_theme_mode');
+        if (!explicit) {
+          setIsDark(e.matches);
+          setThemeState(e.matches ? 'dark' : 'light');
+          applyThemeToDocument(e.matches);
+        }
+      } catch {
+        // Storage access error
+      }
+    };
+
     window.addEventListener('fbise-study-updated', handleStudyUpdate);
     window.addEventListener('fbise-achievement-unlocked', handleAchievementUnlocked);
     window.addEventListener('fbise-theme-changed', handleThemeEvent);
     window.addEventListener('storage', handleStorageEvent);
+    window.addEventListener('focus', handleVisibilityOrFocus);
+    document.addEventListener('visibilitychange', handleVisibilityOrFocus);
+    mediaQuery.addEventListener('change', handleMediaChange);
 
     return () => {
+      portalChannel?.close();
       window.removeEventListener('fbise-study-updated', handleStudyUpdate);
       window.removeEventListener('fbise-achievement-unlocked', handleAchievementUnlocked);
       window.removeEventListener('fbise-theme-changed', handleThemeEvent);
       window.removeEventListener('storage', handleStorageEvent);
+      window.removeEventListener('focus', handleVisibilityOrFocus);
+      document.removeEventListener('visibilitychange', handleVisibilityOrFocus);
+      mediaQuery.removeEventListener('change', handleMediaChange);
     };
   }, []);
 

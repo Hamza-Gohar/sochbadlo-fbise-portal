@@ -1,0 +1,132 @@
+{
+  "name": "FBISE Prep Portal Manifest",
+  "version": "2.0.0",
+  "lastAnnealedAt": "2026-11-11T07:05:32.411Z",
+  "integrity": {
+    "totalSubjects": 36,
+    "totalModuleFiles": 566,
+    "totalQuestions": 16923,
+    "totalStaticRoutes": 571,
+    "brandViolations": 0
+  },
+  "grades": {
+    "Class 9": {
+      "modules": 122,
+      "questions": 4637,
+      "subjectCount": 9
+    },
+    "Class 10": {
+      "modules": 169,
+      "questions": 3830,
+      "subjectCount": 9
+    },
+    "Class 11": {
+      "modules": 97,
+      "questions": 3916,
+      "subjectCount": 9
+    },
+    "Class 12": {
+      "modules": 178,
+      "questions": 4540,
+      "subjectCount": 9
+    }
+  },
+  "subjects": {
+    "biology": {
+      "modules": 77,
+      "questions": 2332,
+      "grades": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ]
+    },
+    "chemistry": {
+      "modules": 82,
+      "questions": 3067,
+      "grades": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ]
+    },
+    "cs": {
+      "modules": 57,
+      "questions": 1768,
+      "grades": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ]
+    },
+    "english": {
+      "modules": 61,
+      "questions": 1575,
+      "grades": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ]
+    },
+    "islamiat": {
+      "modules": 18,
+      "questions": 490,
+      "grades": [
+        "11",
+        "9"
+      ]
+    },
+    "math": {
+      "modules": 64,
+      "questions": 1974,
+      "grades": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ]
+    },
+    "pakstudies": {
+      "modules": 33,
+      "questions": 655,
+      "grades": [
+        "10",
+        "12"
+      ]
+    },
+    "physics": {
+      "modules": 65,
+      "questions": 2807,
+      "grades": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ]
+    },
+    "tarjuma": {
+      "modules": 55,
+      "questions": 995,
+      "grades": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ]
+    },
+    "urdu": {
+      "modules": 54,
+      "questions": 1260,
+      "grades": [
+        "10",
+        "11",
+        "12",
+        "9"
+      ]
+    }
+  }
+}

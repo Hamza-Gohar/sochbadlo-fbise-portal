@@ -71,6 +71,24 @@ export interface StudyStats {
 const STORAGE_KEY = 'fbise_study_tracker_v2';
 const EVENT_NAME = 'fbise-study-updated';
 const ACHIEVEMENT_EVENT = 'fbise-achievement-unlocked';
+const SYNC_CHANNEL_NAME = 'fbise_study_sync_v1';
+
+// Cross-Window Realtime BroadcastChannel
+let syncChannel: BroadcastChannel | null = null;
+if (typeof window !== 'undefined' && 'BroadcastChannel' in window) {
+  try {
+    syncChannel = new BroadcastChannel(SYNC_CHANNEL_NAME);
+    syncChannel.onmessage = (event) => {
+      if (event.data?.type === 'STATS_UPDATED' && event.data.stats) {
+        window.dispatchEvent(new CustomEvent(EVENT_NAME, { detail: event.data.stats }));
+      } else if (event.data?.type === 'ACHIEVEMENT_UNLOCKED' && event.data.achievement) {
+        window.dispatchEvent(new CustomEvent(ACHIEVEMENT_EVENT, { detail: event.data.achievement }));
+      }
+    };
+  } catch {
+    // BroadcastChannel unsupported or restricted in environment
+  }
+}
 
 export const ALL_ACHIEVEMENTS: Omit<Achievement, 'unlockedAt'>[] = [
   {
@@ -168,6 +186,173 @@ export function getDefaultStats(): StudyStats {
   };
 }
 
+/**
+ * Self-anneals raw study stats by repairing corrupted fields, NaN counters,
+ * out-of-bounds streaks, malformed bookmarks, and date rollover discrepancies.
+ */
+export function annealStudyStats(raw: unknown): { stats: StudyStats; wasRepaired: boolean } {
+  let wasRepaired = false;
+  const defaults = getDefaultStats();
+  const today = getTodayKey();
+  const yesterday = getYesterdayKey();
+
+  if (!raw || typeof raw !== 'object') {
+    return { stats: defaults, wasRepaired: true };
+  }
+
+  const input = raw as Partial<StudyStats>;
+
+  // 1. Streak Annealing
+  const streak = input.streak || defaults.streak;
+  let streakCurrent =
+    typeof streak.current === 'number' && !isNaN(streak.current) && streak.current >= 1
+      ? Math.floor(streak.current)
+      : 1;
+  const streakBest =
+    typeof streak.best === 'number' && !isNaN(streak.best) && streak.best >= streakCurrent
+      ? Math.floor(streak.best)
+      : streakCurrent;
+  const lastActiveDate =
+    typeof streak.lastActiveDate === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(streak.lastActiveDate)
+      ? streak.lastActiveDate
+      : today;
+  const activeDates = Array.isArray(streak.activeDates)
+    ? Array.from(new Set(streak.activeDates.filter((d): d is string => typeof d === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(d))))
+    : [today];
+
+  if (!activeDates.includes(lastActiveDate)) {
+    activeDates.push(lastActiveDate);
+  }
+
+  if (
+    streak.current !== streakCurrent ||
+    streak.best !== streakBest ||
+    streak.lastActiveDate !== lastActiveDate ||
+    !Array.isArray(streak.activeDates)
+  ) {
+    wasRepaired = true;
+  }
+
+  // 2. Day Rollover & Continuity Check
+  const todayObj = input.today || defaults.today;
+  const todayDate = today;
+  let todaySeconds =
+    typeof todayObj.secondsSpent === 'number' && !isNaN(todayObj.secondsSpent) && todayObj.secondsSpent >= 0
+      ? Math.floor(todayObj.secondsSpent)
+      : 0;
+  let todayQuestions =
+    typeof todayObj.questionsAnswered === 'number' && !isNaN(todayObj.questionsAnswered) && todayObj.questionsAnswered >= 0
+      ? Math.floor(todayObj.questionsAnswered)
+      : 0;
+  let todayCorrect =
+    typeof todayObj.correctAnswers === 'number' && !isNaN(todayObj.correctAnswers) && todayObj.correctAnswers >= 0
+      ? Math.floor(todayObj.correctAnswers)
+      : 0;
+
+  if (todayObj.date !== today) {
+    wasRepaired = true;
+    todaySeconds = 0;
+    todayQuestions = 0;
+    todayCorrect = 0;
+    // Streak continuity: if last activity was yesterday, streak continues on next answer; otherwise resets to 1
+    if (lastActiveDate !== yesterday && lastActiveDate !== today) {
+      streakCurrent = 1;
+    }
+  }
+
+  // 3. Lifetime Metrics Annealing
+  const life = input.lifetime || defaults.lifetime;
+  const totalSecondsSpent =
+    typeof life.totalSecondsSpent === 'number' && !isNaN(life.totalSecondsSpent) && life.totalSecondsSpent >= 0
+      ? Math.floor(life.totalSecondsSpent)
+      : todaySeconds;
+  const totalQuestionsAnswered =
+    typeof life.totalQuestionsAnswered === 'number' && !isNaN(life.totalQuestionsAnswered) && life.totalQuestionsAnswered >= 0
+      ? Math.floor(life.totalQuestionsAnswered)
+      : todayQuestions;
+  const totalCorrectAnswers =
+    typeof life.totalCorrectAnswers === 'number' && !isNaN(life.totalCorrectAnswers) && life.totalCorrectAnswers >= 0
+      ? Math.floor(life.totalCorrectAnswers)
+      : todayCorrect;
+  const totalTestsCompleted =
+    typeof life.totalTestsCompleted === 'number' && !isNaN(life.totalTestsCompleted) && life.totalTestsCompleted >= 0
+      ? Math.floor(life.totalTestsCompleted)
+      : 0;
+
+  // 4. Bookmarks Annealing & Deduplication
+  const rawBookmarks = Array.isArray(input.bookmarks) ? input.bookmarks : [];
+  const seenBookmarkIds = new Set<string>();
+  const sanitizedBookmarks: BookmarkedQuestion[] = [];
+
+  for (const b of rawBookmarks) {
+    if (
+      b &&
+      typeof b === 'object' &&
+      typeof b.id === 'string' &&
+      typeof b.question === 'string' &&
+      b.options &&
+      !seenBookmarkIds.has(b.id)
+    ) {
+      seenBookmarkIds.add(b.id);
+      sanitizedBookmarks.push({
+        id: b.id,
+        questionId: typeof b.questionId === 'number' ? b.questionId : 1,
+        slug: typeof b.slug === 'string' ? b.slug : '',
+        chapterTitle: typeof b.chapterTitle === 'string' ? b.chapterTitle : 'Practice Module',
+        subject: typeof b.subject === 'string' ? b.subject : undefined,
+        grade: typeof b.grade === 'string' ? b.grade : undefined,
+        question: b.question,
+        options: b.options,
+        correctAnswer: typeof b.correctAnswer === 'string' ? b.correctAnswer : 'A',
+        explanation: typeof b.explanation === 'string' ? b.explanation : undefined,
+        savedAt: typeof b.savedAt === 'string' ? b.savedAt : new Date().toISOString(),
+      });
+    } else {
+      wasRepaired = true;
+    }
+  }
+
+  // 5. Subject Mastery & Achievements
+  const subjectMastery =
+    typeof input.subjectMastery === 'object' && input.subjectMastery !== null
+      ? input.subjectMastery
+      : {};
+  const unlockedAchievements =
+    typeof input.unlockedAchievements === 'object' && input.unlockedAchievements !== null
+      ? input.unlockedAchievements
+      : {};
+  const recentTests = Array.isArray(input.recentTests)
+    ? input.recentTests.slice(0, 15)
+    : [];
+
+  const annealed: StudyStats = {
+    streak: {
+      current: streakCurrent,
+      best: streakBest,
+      lastActiveDate,
+      activeDates,
+    },
+    today: {
+      date: todayDate,
+      secondsSpent: todaySeconds,
+      questionsAnswered: todayQuestions,
+      correctAnswers: todayCorrect,
+    },
+    lifetime: {
+      totalSecondsSpent,
+      totalQuestionsAnswered,
+      totalCorrectAnswers,
+      totalTestsCompleted,
+    },
+    subjectMastery,
+    recentTests,
+    bookmarks: sanitizedBookmarks,
+    unlockedAchievements,
+  };
+
+  return { stats: annealed, wasRepaired };
+}
+
 export function getStudyStats(): StudyStats {
   if (typeof window === 'undefined') {
     return getDefaultStats();
@@ -181,32 +366,27 @@ export function getStudyStats(): StudyStats {
       return initial;
     }
 
-    const stats: StudyStats = JSON.parse(raw);
-    const today = getTodayKey();
+    const parsed = JSON.parse(raw);
+    const { stats, wasRepaired } = annealStudyStats(parsed);
 
-    // Check if day rolled over
-    if (stats.today.date !== today) {
-      const yesterday = getYesterdayKey();
-      // Check streak continuity
-      if (stats.streak.lastActiveDate === yesterday) {
-        // Streak continues on next action
-      } else if (stats.streak.lastActiveDate !== today) {
-        // Broken streak
-        stats.streak.current = 1;
+    if (wasRepaired) {
+      try {
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(stats));
+      } catch {
+        // Storage full
       }
-
-      stats.today = {
-        date: today,
-        secondsSpent: 0,
-        questionsAnswered: 0,
-        correctAnswers: 0,
-      };
-      localStorage.setItem(STORAGE_KEY, JSON.stringify(stats));
     }
 
     return stats;
   } catch {
-    return getDefaultStats();
+    // Malformed JSON: heal with default
+    const fallback = getDefaultStats();
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(fallback));
+    } catch {
+      // Storage full
+    }
+    return fallback;
   }
 }
 
@@ -215,6 +395,7 @@ function saveStudyStats(stats: StudyStats): void {
   try {
     localStorage.setItem(STORAGE_KEY, JSON.stringify(stats));
     window.dispatchEvent(new CustomEvent(EVENT_NAME, { detail: stats }));
+    syncChannel?.postMessage({ type: 'STATS_UPDATED', stats });
   } catch {
     // localStorage full or disabled
   }
@@ -243,11 +424,9 @@ function checkAchievements(stats: StudyStats): void {
     newlyUnlocked.forEach((id) => {
       const ach = ALL_ACHIEVEMENTS.find((a) => a.id === id);
       if (ach) {
-        window.dispatchEvent(
-          new CustomEvent(ACHIEVEMENT_EVENT, {
-            detail: { ...ach, unlockedAt: now },
-          })
-        );
+        const fullAch = { ...ach, unlockedAt: now };
+        window.dispatchEvent(new CustomEvent(ACHIEVEMENT_EVENT, { detail: fullAch }));
+        syncChannel?.postMessage({ type: 'ACHIEVEMENT_UNLOCKED', achievement: fullAch });
       }
     });
   }

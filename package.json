@@ -4,7 +4,10 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "predev": "npm run context:sync",
     "build": "next build",
+    "prebuild": "npm run context:sync",
+    "context:sync": "node scripts/sync-context.mjs",
     "start": "next start",
     "lint": "next lint"
   },
