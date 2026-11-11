@@ -19,6 +19,8 @@ export const metadata: Metadata = {
   description: "Official Federal Board (FBISE) chapter-wise MCQ testing platform, SLO-based practice modules, and timed Section A board exam simulators for Class 9, 10, 11, and 12.",
 };
 
+import Providers from "@/components/Providers";
+
 export default function RootLayout({
   children,
 }: Readonly<{
@@ -55,7 +57,7 @@ export default function RootLayout({
         />
       </head>
       <body className="min-h-screen bg-[var(--color-paper)] text-[var(--color-ink)] selection:bg-emerald-100 selection:text-emerald-950 dark:selection:bg-emerald-900/60 dark:selection:text-emerald-100 font-[family-name:var(--font-body)]">
-        {children}
+        <Providers>{children}</Providers>
       </body>
     </html>
   );

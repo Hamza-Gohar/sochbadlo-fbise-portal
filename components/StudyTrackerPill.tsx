@@ -1,53 +1,25 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import { Flame, Clock, Bookmark, Sparkles } from 'lucide-react';
-import { getStudyStats, formatStudyTime, StudyStats } from '../lib/study-tracker';
+import { formatStudyTime } from '../lib/study-tracker';
+import { usePortal, DashboardTab } from '../contexts/PortalContext';
 
 interface StudyTrackerPillProps {
-  onOpenDashboard: (tab?: 'stats' | 'bookmarks' | 'history' | 'achievements') => void;
+  onOpenDashboard?: (tab?: DashboardTab) => void;
   className?: string;
 }
 
 export default function StudyTrackerPill({ onOpenDashboard, className = '' }: StudyTrackerPillProps) {
-  const [stats, setStats] = useState<StudyStats | null>(null);
-  const [hasNewAchievement, setHasNewAchievement] = useState<boolean>(false);
-
-  const loadStats = () => {
-    setStats(getStudyStats());
-  };
-
-  useEffect(() => {
-    loadStats();
-
-    const handleUpdate = () => {
-      loadStats();
-    };
-
-    const handleAchievement = () => {
-      loadStats();
-      setHasNewAchievement(true);
-      setTimeout(() => setHasNewAchievement(false), 5000);
-    };
-
-    window.addEventListener('fbise-study-updated', handleUpdate);
-    window.addEventListener('fbise-achievement-unlocked', handleAchievement);
-    return () => {
-      window.removeEventListener('fbise-study-updated', handleUpdate);
-      window.removeEventListener('fbise-achievement-unlocked', handleAchievement);
-    };
-  }, []);
-
-  const streak = stats?.streak?.current || 0;
-  const todaySeconds = stats?.today?.secondsSpent || 0;
-  const bookmarkCount = stats?.bookmarks?.length || 0;
+  const { streak, todaySeconds, bookmarkCount, hasNewAchievement, openDashboard } = usePortal();
+  const handleOpen = onOpenDashboard || openDashboard;
 
   return (
     <div className={`flex items-center gap-1.5 sm:gap-2 ${className}`}>
       {/* Streak & Today Focus Pill */}
       <button
         type="button"
-        onClick={() => onOpenDashboard('stats')}
+        onClick={() => handleOpen('stats')}
         className="group flex items-center gap-2 px-2.5 sm:px-3 py-1.5 rounded-sm border border-[var(--color-rule-2)] bg-[var(--color-paper-alt)] hover:bg-[var(--color-paper)] hover:border-emerald-700 transition-colors text-xs font-mono"
         title="View Daily Study Streak & Stats"
         aria-label="Daily Study Streak and Progress"
@@ -72,7 +44,7 @@ export default function StudyTrackerPill({ onOpenDashboard, className = '' }: St
       {/* Bookmarks quick button */}
       <button
         type="button"
-        onClick={() => onOpenDashboard('bookmarks')}
+        onClick={() => handleOpen('bookmarks')}
         className="relative flex items-center justify-center p-1.5 sm:px-2.5 sm:py-1.5 rounded-sm border border-[var(--color-rule-2)] bg-[var(--color-paper-alt)] hover:bg-[var(--color-paper)] hover:border-emerald-700 transition-colors text-xs font-mono text-[var(--color-muted)] hover:text-emerald-800"
         title="View Saved Questions for Revision"
         aria-label="Saved Revision Questions"

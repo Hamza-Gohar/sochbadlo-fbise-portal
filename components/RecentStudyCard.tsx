@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import Link from 'next/link';
 import {
   Flame,
@@ -10,41 +10,28 @@ import {
   ArrowRight,
   RotateCcw
 } from 'lucide-react';
-import { getStudyStats, formatStudyTime, StudyStats, TestAttempt } from '../lib/study-tracker';
-import StudyDashboard from './StudyDashboard';
+import { formatStudyTime, TestAttempt } from '../lib/study-tracker';
+import { usePortal } from '../contexts/PortalContext';
 import MobileBottomNav from './MobileBottomNav';
 
 export default function RecentStudyCard() {
-  const [stats, setStats] = useState<StudyStats | null>(null);
-  const [isDashboardOpen, setIsDashboardOpen] = useState(false);
-  const [dashboardTab, setDashboardTab] = useState<'stats' | 'bookmarks' | 'history' | 'achievements'>('stats');
-
-  const loadStats = () => {
-    setStats(getStudyStats());
-  };
-
-  useEffect(() => {
-    loadStats();
-    const handleUpdate = () => loadStats();
-    window.addEventListener('fbise-study-updated', handleUpdate);
-    return () => window.removeEventListener('fbise-study-updated', handleUpdate);
-  }, []);
-
-  const openDashboard = (tab: 'stats' | 'bookmarks' | 'history' | 'achievements' = 'stats') => {
-    setDashboardTab(tab);
-    setIsDashboardOpen(true);
-  };
+  const {
+    stats,
+    streak,
+    bookmarkCount,
+    unlockedBadgesCount,
+    openDashboard,
+  } = usePortal();
 
   if (!stats) return null;
 
   const hasActivity =
-    stats.streak.current > 0 ||
+    streak > 0 ||
     stats.today.secondsSpent > 0 ||
     stats.lifetime.totalTestsCompleted > 0 ||
-    stats.bookmarks.length > 0;
+    bookmarkCount > 0;
 
   const lastTest: TestAttempt | undefined = stats.recentTests[0];
-  const unlockedBadgesCount = Object.keys(stats.unlockedAchievements).length;
 
   return (
     <>
@@ -55,20 +42,20 @@ export default function RecentStudyCard() {
               <div className="flex items-center gap-2 flex-wrap">
                 <span className="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-mono font-bold bg-amber-100 dark:bg-amber-950/40 text-amber-900 dark:text-amber-200 border border-amber-300 dark:border-amber-700/60">
                   <Flame className="w-3.5 h-3.5 fill-amber-500 text-amber-600 dark:text-amber-400" />
-                  {stats.streak.current} {stats.streak.current === 1 ? 'Day Streak' : 'Days Streak'}
+                  {streak} {streak === 1 ? 'Day Streak' : 'Days Streak'}
                 </span>
                 <span className="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-mono text-emerald-950 dark:text-emerald-200 bg-emerald-100/80 dark:bg-emerald-950/40 border border-emerald-300 dark:border-emerald-700/60">
                   <Clock className="w-3.5 h-3.5 text-emerald-700 dark:text-emerald-400" />
                   Today: {formatStudyTime(stats.today.secondsSpent)}
                 </span>
-                {stats.bookmarks.length > 0 && (
+                {bookmarkCount > 0 && (
                   <button
                     type="button"
                     onClick={() => openDashboard('bookmarks')}
                     className="inline-flex items-center gap-1 px-2 py-0.5 text-xs font-mono text-emerald-900 dark:text-emerald-200 bg-[var(--color-paper)] border border-emerald-600 dark:border-emerald-500 hover:bg-emerald-50 dark:hover:bg-emerald-950/40 transition-colors"
                   >
                     <Bookmark className="w-3.5 h-3.5 text-emerald-700 dark:text-emerald-400 fill-emerald-700 dark:fill-emerald-400" />
-                    <span>{stats.bookmarks.length} Saved MCQs</span>
+                    <span>{bookmarkCount} Saved MCQs</span>
                   </button>
                 )}
                 {unlockedBadgesCount > 0 && (
@@ -124,14 +111,7 @@ export default function RecentStudyCard() {
       ) : null}
 
       {/* Persistent Mobile Bottom Navigation */}
-      <MobileBottomNav onOpenDashboard={openDashboard} />
-
-      {/* Embedded Study Dashboard */}
-      <StudyDashboard
-        isOpen={isDashboardOpen}
-        onClose={() => setIsDashboardOpen(false)}
-        initialTab={dashboardTab}
-      />
+      <MobileBottomNav />
     </>
   );
 }

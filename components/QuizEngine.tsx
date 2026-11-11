@@ -24,7 +24,7 @@ import {
   toggleBookmarkQuestion,
   isQuestionBookmarked,
 } from '../lib/study-tracker';
-import StudyDashboard from './StudyDashboard';
+import { usePortal } from '../contexts/PortalContext';
 import StudyTrackerPill from './StudyTrackerPill';
 
 interface QuizEngineProps {
@@ -41,8 +41,7 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
   const [bookmarkedIds, setBookmarkedIds] = useState<Record<number, boolean>>({});
   const [isSubmitted, setIsSubmitted] = useState(false);
   const [reviewFilter, setReviewFilter] = useState<'all' | 'incorrect'>('all');
-  const [isDashboardOpen, setIsDashboardOpen] = useState(false);
-  const [dashboardTab, setDashboardTab] = useState<'stats' | 'bookmarks' | 'history' | 'achievements'>('stats');
+  const { openDashboard } = usePortal();
 
   // Timer for Exam Mode (15 min for 10-MCQ subjects; 25 min for 20-MCQ Class 12 English/Urdu; 20 min default)
   const is10QExam =
@@ -300,8 +299,7 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
   };
 
   const openDashboardTab = (tab: 'stats' | 'bookmarks' | 'history' | 'achievements' = 'stats') => {
-    setDashboardTab(tab);
-    setIsDashboardOpen(true);
+    openDashboard(tab);
   };
 
   return (
@@ -923,13 +921,6 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
           )}
         </div>
       )}
-
-      {/* Embedded Study Dashboard */}
-      <StudyDashboard
-        isOpen={isDashboardOpen}
-        onClose={() => setIsDashboardOpen(false)}
-        initialTab={dashboardTab}
-      />
     </div>
   );
 }

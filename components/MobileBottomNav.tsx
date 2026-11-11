@@ -1,31 +1,17 @@
 'use client';
 
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import Link from 'next/link';
 import { Home, Flame, Bookmark, Award } from 'lucide-react';
-import { getStudyStats, StudyStats } from '../lib/study-tracker';
+import { usePortal, DashboardTab } from '../contexts/PortalContext';
 
 interface MobileBottomNavProps {
-  onOpenDashboard: (tab: 'stats' | 'bookmarks' | 'history' | 'achievements') => void;
+  onOpenDashboard?: (tab: DashboardTab) => void;
 }
 
-export default function MobileBottomNav({ onOpenDashboard }: MobileBottomNavProps) {
-  const [stats, setStats] = useState<StudyStats | null>(null);
-
-  const loadStats = () => {
-    setStats(getStudyStats());
-  };
-
-  useEffect(() => {
-    loadStats();
-    const handleUpdate = () => loadStats();
-    window.addEventListener('fbise-study-updated', handleUpdate);
-    return () => window.removeEventListener('fbise-study-updated', handleUpdate);
-  }, []);
-
-  const streak = stats?.streak?.current || 0;
-  const bookmarkCount = stats?.bookmarks?.length || 0;
-  const unlockedCount = Object.keys(stats?.unlockedAchievements || {}).length;
+export default function MobileBottomNav({ onOpenDashboard }: MobileBottomNavProps = {}) {
+  const { streak, bookmarkCount, unlockedBadgesCount, openDashboard } = usePortal();
+  const handleOpen = onOpenDashboard || openDashboard;
 
   return (
     <nav
@@ -46,7 +32,7 @@ export default function MobileBottomNav({ onOpenDashboard }: MobileBottomNavProp
         {/* Streak & Focus */}
         <button
           type="button"
-          onClick={() => onOpenDashboard('stats')}
+          onClick={() => handleOpen('stats')}
           className="flex flex-col items-center justify-center min-h-[48px] py-1 text-xs font-mono text-[var(--color-muted)] hover:text-amber-800 dark:hover:text-amber-300 transition-colors active:scale-95"
         >
           <div className="relative">
@@ -63,7 +49,7 @@ export default function MobileBottomNav({ onOpenDashboard }: MobileBottomNavProp
         {/* Saved MCQs */}
         <button
           type="button"
-          onClick={() => onOpenDashboard('bookmarks')}
+          onClick={() => handleOpen('bookmarks')}
           className="flex flex-col items-center justify-center min-h-[48px] py-1 text-xs font-mono text-[var(--color-muted)] hover:text-emerald-800 dark:hover:text-emerald-300 transition-colors active:scale-95"
         >
           <div className="relative">
@@ -80,14 +66,14 @@ export default function MobileBottomNav({ onOpenDashboard }: MobileBottomNavProp
         {/* Milestones & Badges */}
         <button
           type="button"
-          onClick={() => onOpenDashboard('achievements')}
+          onClick={() => handleOpen('achievements')}
           className="flex flex-col items-center justify-center min-h-[48px] py-1 text-xs font-mono text-[var(--color-muted)] hover:text-purple-800 dark:hover:text-purple-300 transition-colors active:scale-95"
         >
           <div className="relative">
             <Award className="w-5 h-5 text-purple-700 dark:text-purple-400 mb-0.5" />
-            {unlockedCount > 0 && (
+            {unlockedBadgesCount > 0 && (
               <span className="absolute -top-1 -right-2 bg-purple-700 text-white text-[9px] font-bold px-1 rounded-full">
-                {unlockedCount}
+                {unlockedBadgesCount}
               </span>
             )}
           </div>

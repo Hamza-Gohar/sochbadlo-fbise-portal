@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { Sun, Moon } from 'lucide-react';
+import { useTheme } from '../contexts/PortalContext';
 
 interface ThemeToggleProps {
   compact?: boolean;
@@ -10,48 +11,11 @@ interface ThemeToggleProps {
 
 export default function ThemeToggle({ compact = false, className = '' }: ThemeToggleProps) {
   const [mounted, setMounted] = useState(false);
-  const [isDark, setIsDark] = useState(false);
+  const { isDark, toggleTheme } = useTheme();
 
   useEffect(() => {
     setMounted(true);
-    // Determine initial state
-    const saved = localStorage.getItem('fbise_theme_mode');
-    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    const initialIsDark = saved === 'dark' || (!saved && prefersDark);
-    setIsDark(initialIsDark);
-
-    const handleThemeChange = (e: Event) => {
-      const customEvent = e as CustomEvent<{ mode: 'light' | 'dark' }>;
-      if (customEvent.detail?.mode) {
-        setIsDark(customEvent.detail.mode === 'dark');
-      }
-    };
-
-    window.addEventListener('fbise-theme-changed', handleThemeChange);
-    return () => window.removeEventListener('fbise-theme-changed', handleThemeChange);
   }, []);
-
-  const toggleTheme = () => {
-    const nextDark = !isDark;
-    const nextMode = nextDark ? 'dark' : 'light';
-
-    setIsDark(nextDark);
-    try {
-      localStorage.setItem('fbise_theme_mode', nextMode);
-      if (nextDark) {
-        document.documentElement.setAttribute('data-mode', 'dark');
-        document.documentElement.setAttribute('data-theme', 'dark');
-        document.documentElement.classList.add('dark');
-      } else {
-        document.documentElement.setAttribute('data-mode', 'light');
-        document.documentElement.setAttribute('data-theme', 'light');
-        document.documentElement.classList.remove('dark');
-      }
-      window.dispatchEvent(new CustomEvent('fbise-theme-changed', { detail: { mode: nextMode } }));
-    } catch {
-      // LocalStorage error fallback
-    }
-  };
 
   if (!mounted) {
     // Render placeholder to avoid layout shift while mounting
