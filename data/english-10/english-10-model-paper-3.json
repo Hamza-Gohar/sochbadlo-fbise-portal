@@ -16,7 +16,8 @@
         "D": "Principal clause"
       },
       "answer": "A",
-      "explanation": "'that he is telling the truth' acts as the direct object of the transitive verb 'know', making it a Noun Clause."
+      "explanation": "'that he is telling the truth' acts as the direct object of the transitive verb 'know', making it a Noun Clause.",
+      "correctAnswer": "A"
     },
     {
       "id": 2,
@@ -28,7 +29,8 @@
         "D": "Independent clause"
       },
       "answer": "A",
-      "explanation": "'who secured the top position' modifies the antecedent noun 'The student', functioning as an Adjective (Relative) Clause."
+      "explanation": "'who secured the top position' modifies the antecedent noun 'The student', functioning as an Adjective (Relative) Clause.",
+      "correctAnswer": "A"
     },
     {
       "id": 3,
@@ -40,7 +42,8 @@
         "D": "Noun clause"
       },
       "answer": "A",
-      "explanation": "'as soon as the rain stops' answers 'When shall we leave?' and is introduced by the temporal subordinator 'as soon as', qualifying it as an Adverb Clause of Time."
+      "explanation": "'as soon as the rain stops' answers 'When shall we leave?' and is introduced by the temporal subordinator 'as soon as', qualifying it as an Adverb Clause of Time.",
+      "correctAnswer": "A"
     },
     {
       "id": 4,
@@ -52,7 +55,8 @@
         "D": "Adverb clause"
       },
       "answer": "A",
-      "explanation": "'in a very dignified manner' modifies the verb 'spoke' by answering 'How did he speak?' without containing a finite verb, functioning as an Adverb Phrase of Manner."
+      "explanation": "'in a very dignified manner' modifies the verb 'spoke' by answering 'How did he speak?' without containing a finite verb, functioning as an Adverb Phrase of Manner.",
+      "correctAnswer": "A"
     },
     {
       "id": 5,
@@ -64,7 +68,8 @@
         "D": "Adjective clause"
       },
       "answer": "A",
-      "explanation": "'as if she knew everything' describes the manner of her action, functioning as an Adverb Clause of Manner."
+      "explanation": "'as if she knew everything' describes the manner of her action, functioning as an Adverb Clause of Manner.",
+      "correctAnswer": "A"
     },
     {
       "id": 6,
@@ -76,7 +81,8 @@
         "D": "Independent clause"
       },
       "answer": "A",
-      "explanation": "'What he said at the conference' functions as the subject of the finite verb 'impressed', which is a Noun Clause."
+      "explanation": "'What he said at the conference' functions as the subject of the finite verb 'impressed', which is a Noun Clause.",
+      "correctAnswer": "A"
     },
     {
       "id": 7,
@@ -88,7 +94,8 @@
         "D": "Adverb clause"
       },
       "answer": "A",
-      "explanation": "'of immense wealth' modifies the noun 'man' like an adjective (meaning 'a wealthy man'), making it an Adjective Phrase."
+      "explanation": "'of immense wealth' modifies the noun 'man' like an adjective (meaning 'a wealthy man'), making it an Adjective Phrase.",
+      "correctAnswer": "A"
     },
     {
       "id": 8,
@@ -100,7 +107,8 @@
         "D": "Independent clause"
       },
       "answer": "A",
-      "explanation": "'where the resolution was passed' modifies the noun 'historical spot', functioning as an Adjective (Relative) Clause with a relative adverb."
+      "explanation": "'where the resolution was passed' modifies the noun 'historical spot', functioning as an Adjective (Relative) Clause with a relative adverb.",
+      "correctAnswer": "A"
     },
     {
       "id": 9,
@@ -112,7 +120,8 @@
         "D": "Third Conditional"
       },
       "answer": "A",
-      "explanation": "Zero conditional represents universal scientific facts or invariable physical truths using 'If + present simple, present simple'."
+      "explanation": "Zero conditional represents universal scientific facts or invariable physical truths using 'If + present simple, present simple'.",
+      "correctAnswer": "A"
     },
     {
       "id": 10,
@@ -124,7 +133,8 @@
         "D": "passed"
       },
       "answer": "A",
-      "explanation": "First conditional uses 'If + present simple' ('works') paired with 'will + base verb' ('will pass') in the main result clause."
+      "explanation": "First conditional uses 'If + present simple' ('works') paired with 'will + base verb' ('will pass') in the main result clause.",
+      "correctAnswer": "A"
     },
     {
       "id": 11,
@@ -136,7 +146,8 @@
         "D": "Zero Conditional"
       },
       "answer": "A",
-      "explanation": "Second conditional expresses hypothetical or improbable present/future scenarios using 'If + past simple, would + base verb'."
+      "explanation": "Second conditional expresses hypothetical or improbable present/future scenarios using 'If + past simple, would + base verb'.",
+      "correctAnswer": "A"
     },
     {
       "id": 12,
@@ -148,7 +159,8 @@
         "D": "had caught"
       },
       "answer": "A",
-      "explanation": "Third conditional discusses impossible past counterfactuals using 'If + past perfect' ('had departed') with 'would have + past participle' ('would have caught')."
+      "explanation": "Third conditional discusses impossible past counterfactuals using 'If + past perfect' ('had departed') with 'would have + past participle' ('would have caught').",
+      "correctAnswer": "A"
     },
     {
       "id": 13,
@@ -160,7 +172,8 @@
         "D": "have been"
       },
       "answer": "A",
-      "explanation": "In hypothetical/counterfactual Second Conditional sentences, the past subjunctive form 'were' is used for all persons including first-person singular 'I'."
+      "explanation": "In hypothetical/counterfactual Second Conditional sentences, the past subjunctive form 'were' is used for all persons including first-person singular 'I'.",
+      "correctAnswer": "A"
     },
     {
       "id": 14,
@@ -172,7 +185,8 @@
         "D": "Theoretical ability"
       },
       "answer": "A",
-      "explanation": "'Must' in this regulatory context expresses mandatory legal obligation and strict necessity."
+      "explanation": "'Must' in this regulatory context expresses mandatory legal obligation and strict necessity.",
+      "correctAnswer": "A"
     },
     {
       "id": 15,
@@ -184,7 +198,8 @@
         "D": "could"
       },
       "answer": "A",
-      "explanation": "'Ought to' expresses moral duty, ethical obligation, or civic responsibility."
+      "explanation": "'Ought to' expresses moral duty, ethical obligation, or civic responsibility.",
+      "correctAnswer": "A"
     }
   ]
 }

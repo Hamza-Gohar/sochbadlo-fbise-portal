@@ -7,180 +7,180 @@
     {
       "id": 1,
       "question": "Which of the following words is spelled correctly?",
-      "options": [
-        "Accommodation",
-        "Accomodasion",
-        "Acomodation",
-        "Accomodtion"
-      ],
+      "options": {
+        "A": "Accommodation",
+        "B": "Accomodasion",
+        "C": "Acomodation",
+        "D": "Accomodtion"
+      },
       "correctAnswer": "A",
       "explanation": "'Accommodation' is the correct spelling with double 'c' and double 'm'."
     },
     {
       "id": 2,
       "question": "Which of the following conditional sentences is in the Second conditional?",
-      "options": [
-        "If I study hard, I will pass the exam.",
-        "If I won the lottery, I would buy a house.",
-        "If I had studied harder, I would have passed the exam.",
-        "Water boils at 100 degrees centigrade."
-      ],
+      "options": {
+        "A": "If I study hard, I will pass the exam.",
+        "B": "If I won the lottery, I would buy a house.",
+        "C": "If I had studied harder, I would have passed the exam.",
+        "D": "Water boils at 100 degrees centigrade."
+      },
       "correctAnswer": "B",
       "explanation": "The Second conditional uses past simple in the if-clause ('If I won') and 'would + base verb' in the main clause ('I would buy')."
     },
     {
       "id": 3,
       "question": "Identify the figure of speech in the sentence: 'The wind whispered through the trees.'",
-      "options": [
-        "Simile",
-        "Metaphor",
-        "Personification",
-        "Hyperbole"
-      ],
+      "options": {
+        "A": "Simile",
+        "B": "Metaphor",
+        "C": "Personification",
+        "D": "Hyperbole"
+      },
       "correctAnswer": "C",
       "explanation": "Personification attributes human qualities ('whispered') to non-human entities ('the wind')."
     },
     {
       "id": 4,
       "question": "Identify the correct tense: 'If he __________ to the store, he will buy some milk.'",
-      "options": [
-        "goes",
-        "will go",
-        "would go",
-        "have gone"
-      ],
+      "options": {
+        "A": "goes",
+        "B": "will go",
+        "C": "would go",
+        "D": "have gone"
+      },
       "correctAnswer": "A",
       "explanation": "In the First Conditional, the if-clause takes the simple present tense ('goes')."
     },
     {
       "id": 5,
       "question": "The sentence 'The report was written by John' is in the __________ voice.",
-      "options": [
-        "Active",
-        "Passive",
-        "Imperative",
-        "Interrogative"
-      ],
+      "options": {
+        "A": "Active",
+        "B": "Passive",
+        "C": "Imperative",
+        "D": "Interrogative"
+      },
       "correctAnswer": "B",
       "explanation": "The subject ('The report') receives the action of the verb ('was written by John'), signifying passive voice."
     },
     {
       "id": 6,
       "question": "Which of the following sentences uses the infinitive as an adverb?",
-      "options": [
-        "She studied hard to win the competition.",
-        "I came here because I wanted to study.",
-        "I came here that I might study.",
-        "I came here so that I can study."
-      ],
+      "options": {
+        "A": "She studied hard to win the competition.",
+        "B": "I came here because I wanted to study.",
+        "C": "I came here that I might study.",
+        "D": "I came here so that I can study."
+      },
       "correctAnswer": "A",
       "explanation": "'To win' modifies the verb 'studied' to express purpose, functioning as an adverbial infinitive."
     },
     {
       "id": 7,
       "question": "The sentence 'The student who did the homework is very smart' uses which type of pronoun?",
-      "options": [
-        "Relative pronoun",
-        "Demonstrative pronoun",
-        "Emphatic pronoun",
-        "Reflexive pronoun"
-      ],
+      "options": {
+        "A": "Relative pronoun",
+        "B": "Demonstrative pronoun",
+        "C": "Emphatic pronoun",
+        "D": "Reflexive pronoun"
+      },
       "correctAnswer": "A",
       "explanation": "'Who' connects the dependent relative clause to the antecedent noun 'student', functioning as a relative pronoun."
     },
     {
       "id": 8,
       "question": "Which transitional device is used to indicate a concession?",
-      "options": [
-        "Although",
-        "Consequently",
-        "Furthermore",
-        "Therefore"
-      ],
+      "options": {
+        "A": "Although",
+        "B": "Consequently",
+        "C": "Furthermore",
+        "D": "Therefore"
+      },
       "correctAnswer": "A",
       "explanation": "'Although' introduces a subordinate clause acknowledging an opposing condition (concession)."
     },
     {
       "id": 9,
       "question": "What type of sentence is: 'Please hand me the book!'?",
-      "options": [
-        "Declarative",
-        "Interrogative",
-        "Imperative",
-        "Exclamatory"
-      ],
+      "options": {
+        "A": "Declarative",
+        "B": "Interrogative",
+        "C": "Imperative",
+        "D": "Exclamatory"
+      },
       "correctAnswer": "C",
       "explanation": "Imperative sentences express commands, requests, or instructions, often with the subject 'you' implied."
     },
     {
       "id": 10,
       "question": "Which of the following sentences uses a correlative conjunction correctly?",
-      "options": [
-        "Not only did I study for the exam, but also I attended the review session.",
-        "Not only I studied for the exam, but also I attended.",
-        "I not only studied for the exam but also attended the review session.",
-        "I not only studied for the exam but attended the review session."
-      ],
+      "options": {
+        "A": "Not only did I study for the exam, but also I attended the review session.",
+        "B": "Not only I studied for the exam, but also I attended.",
+        "C": "I not only studied for the exam but also attended the review session.",
+        "D": "I not only studied for the exam but attended the review session."
+      },
       "correctAnswer": "C",
       "explanation": "'Not only ... but also' correctly pairs parallel verb structures ('studied' and 'attended')."
     },
     {
       "id": 11,
       "question": "Which of the following sentences uses the correct article with a direction?",
-      "options": [
-        "I'm heading north to visit my family.",
-        "I'm heading the north to visit my family.",
-        "I'm heading a north to visit my family.",
-        "I'm heading an north to visit my family."
-      ],
+      "options": {
+        "A": "I'm heading north to visit my family.",
+        "B": "I'm heading the north to visit my family.",
+        "C": "I'm heading a north to visit my family.",
+        "D": "I'm heading an north to visit my family."
+      },
       "correctAnswer": "A",
       "explanation": "When used as an adverb indicating movement, cardinal directions like 'north' do not take an article."
     },
     {
       "id": 12,
       "question": "Which of the following sentences uses the correct article?",
-      "options": [
-        "She is a best singer.",
-        "He is the only person to succeed.",
-        "He is a honest man.",
-        "She bought an university degree."
-      ],
+      "options": {
+        "A": "She is a best singer.",
+        "B": "He is the only person to succeed.",
+        "C": "He is a honest man.",
+        "D": "She bought an university degree."
+      },
       "correctAnswer": "B",
       "explanation": "'The only' correctly uses the definite article with unique designating modifiers, and 'honest' requires 'an' due to vowel sound."
     },
     {
       "id": 13,
       "question": "What literary device involves a discrepancy between expectation and reality?",
-      "options": [
-        "Irony",
-        "Simile",
-        "Metaphor",
-        "Personification"
-      ],
+      "options": {
+        "A": "Irony",
+        "B": "Simile",
+        "C": "Metaphor",
+        "D": "Personification"
+      },
       "correctAnswer": "A",
       "explanation": "Irony portrays an incongruity between what is expected to occur and what actually happens."
     },
     {
       "id": 14,
       "question": "In the poem 'The Eagle', the phrase 'He clasps the crag with crooked hands' uses:",
-      "options": [
-        "Alliteration and Personification",
-        "Simile and Metaphor",
-        "Onomatopoeia",
-        "Hyperbole only"
-      ],
+      "options": {
+        "A": "Alliteration and Personification",
+        "B": "Simile and Metaphor",
+        "C": "Onomatopoeia",
+        "D": "Hyperbole only"
+      },
       "correctAnswer": "A",
       "explanation": "The repetition of 'c' sound represents alliteration, while 'hands' personifies the eagle's talons."
     },
     {
       "id": 15,
       "question": "Identify the sentence with an abstract noun:",
-      "options": [
-        "The bravery of the soldier saved many lives.",
-        "The soldier held a heavy rifle.",
-        "The iron bridge crossed the river.",
-        "The golden ring shone brightly."
-      ],
+      "options": {
+        "A": "The bravery of the soldier saved many lives.",
+        "B": "The soldier held a heavy rifle.",
+        "C": "The iron bridge crossed the river.",
+        "D": "The golden ring shone brightly."
+      },
       "correctAnswer": "A",
       "explanation": "'Bravery' denotes an intangible concept, state, or quality, making it an abstract noun."
     }

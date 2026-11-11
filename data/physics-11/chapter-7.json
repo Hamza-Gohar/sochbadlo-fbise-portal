@@ -1,7 +1,7 @@
 {
   "chapterNumber": 7,
   "chapterTitle": "Oscillations",
-  "totalQuestions": 69,
+  "totalQuestions": 80,
   "questions": [
     {
       "id": 1,
@@ -25,7 +25,7 @@
         "D": "Glassy"
       },
       "correctAnswer": "B",
-      "explanation": "Crystalline solids have atoms arranged in a regular, repeating 3D pattern called a crystal lattice."
+      "explanation": "Crystalline solids have atoms arranged in a regular, repeating 3D pattern called a crystal\nlattice."
     },
     {
       "id": 3,
@@ -58,10 +58,22 @@
         "A": "Isotropic",
         "B": "Anisotropic",
         "C": "Homogeneous",
-        "D": "Polymorphic\n\n6. Solids with many small crystals are:"
+        "D": "Polymorphic"
       },
       "correctAnswer": "B",
       "explanation": "Anisotropy means physical properties change with direction in a crystal."
+    },
+    {
+      "id": 6,
+      "question": "Solids with many small crystals are:",
+      "options": {
+        "A": "Monocrystalline",
+        "B": "Polycrystalline",
+        "C": "Amorphous",
+        "D": "Liquid crystals"
+      },
+      "correctAnswer": "B",
+      "explanation": "Polycrystalline solids are made of many small crystals called grains."
     },
     {
       "id": 7,
@@ -118,10 +130,22 @@
         "A": "Long-range order",
         "B": "Short-range order only",
         "C": "No order",
-        "D": "Sharp melting points\n\n12. Glass-transition temperature is:"
+        "D": "Sharp melting points"
       },
       "correctAnswer": "B",
       "explanation": "Amorphous solids have only short-range order."
+    },
+    {
+      "id": 12,
+      "question": "Glass-transition temperature is:",
+      "options": {
+        "A": "Boiling point",
+        "B": "Transition from hard to rubbery state",
+        "C": "Triple point",
+        "D": "Curie point"
+      },
+      "correctAnswer": "B",
+      "explanation": "Glass transition temperature is where amorphous solids change from hard to rubbery."
     },
     {
       "id": 13,
@@ -178,10 +202,22 @@
         "A": "a = b = c; angles 90°",
         "B": "a ≠ b ≠ c; angles 90°",
         "C": "a = b ≠ c",
-        "D": "angles not 90°\n\n18. Most unsymmetrical system is:"
+        "D": "angles not 90°"
       },
       "correctAnswer": "A",
       "explanation": "Cubic system has all sides equal and all angles 90 degrees."
+    },
+    {
+      "id": 18,
+      "question": "Most unsymmetrical system is:",
+      "options": {
+        "A": "Monoclinic",
+        "B": "Triclinic",
+        "C": "Orthorhombic",
+        "D": "Rhombohedral"
+      },
+      "correctAnswer": "B",
+      "explanation": "Triclinic system has unequal sides and angles not equal to 90 degrees."
     },
     {
       "id": 19,
@@ -193,7 +229,7 @@
         "D": "Iron"
       },
       "correctAnswer": "B",
-      "explanation": "Graphene is made of carbon atoms in a hexagonal lattice. 20. Correct Option: B Quartz shows piezoelectric effect, producing electric charge under stress."
+      "explanation": "Graphene is made of carbon atoms in a hexagonal lattice."
     },
     {
       "id": 20,
@@ -202,10 +238,10 @@
         "A": "Magnetic property",
         "B": "Piezoelectric effect",
         "C": "Superconductivity",
-        "D": "Fluorescence\nGreat — here is the full continuation (21–80) in the same format:"
+        "D": "Fluorescence Great — here is the full continuation (21–80) in the same format:"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Quartz shows piezoelectric effect, producing electric charge under stress."
     },
     {
       "id": 21,
@@ -310,10 +346,22 @@
         "A": "Young’s Modulus",
         "B": "Bulk Modulus",
         "C": "Rigidity Modulus",
-        "D": "Elastic limit\n\n30. Reciprocal of bulk modulus is:"
+        "D": "Elastic limit"
       },
       "correctAnswer": "B",
       "explanation": "Bulk modulus deals with change in volume under pressure."
+    },
+    {
+      "id": 30,
+      "question": "Reciprocal of bulk modulus is:",
+      "options": {
+        "A": "Viscosity",
+        "B": "Compressibility",
+        "C": "Stiffness",
+        "D": "Plasticity"
+      },
+      "correctAnswer": "B",
+      "explanation": "Compressibility is the reciprocal of bulk modulus."
     },
     {
       "id": 31,
@@ -370,10 +418,22 @@
         "A": "Elastic limit",
         "B": "Plastic region",
         "C": "Fracture point",
-        "D": "Breaking point\n\n36. Maximum stress without permanent deformation:"
+        "D": "Breaking point"
       },
       "correctAnswer": "B",
       "explanation": "Proportional limit is where stress is proportional to strain."
+    },
+    {
+      "id": 36,
+      "question": "Maximum stress without permanent deformation:",
+      "options": {
+        "A": "Elastic limit",
+        "B": "Ultimate strength",
+        "C": "Breaking stress",
+        "D": "Yield stress"
+      },
+      "correctAnswer": "B",
+      "explanation": "Elastic limit is maximum stress before permanent deformation begins."
     },
     {
       "id": 37,
@@ -430,10 +490,22 @@
         "A": "Stretch easily",
         "B": "Break quickly",
         "C": "Are soft",
-        "D": "Are flexible\n\n42. Glass is:"
+        "D": "Are flexible"
       },
       "correctAnswer": "B",
       "explanation": "Brittle materials break suddenly with little deformation."
+    },
+    {
+      "id": 42,
+      "question": "Glass is:",
+      "options": {
+        "A": "Ductile",
+        "B": "Brittle",
+        "C": "Elastic",
+        "D": "Plastic"
+      },
+      "correctAnswer": "B",
+      "explanation": "Glass and high-carbon steel are brittle materials."
     },
     {
       "id": 43,
@@ -444,8 +516,8 @@
         "C": "Pressure",
         "D": "Mass"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "Area under force-extension graph represents work done or strain energy."
     },
     {
       "id": 44,
@@ -490,10 +562,22 @@
         "A": "Density",
         "B": "Young’s modulus",
         "C": "Weight",
-        "D": "Volume\n\n48. Young’s modulus dimensions:"
+        "D": "Volume"
       },
       "correctAnswer": "B",
       "explanation": "Steel has higher Young’s modulus than rubber, so it is stiffer."
+    },
+    {
+      "id": 48,
+      "question": "Young’s modulus dimensions:",
+      "options": {
+        "A": "[ML⁻¹T⁻²]",
+        "B": "[ML²T⁻²]",
+        "C": "[MLT⁻¹]",
+        "D": "[M⁻¹LT⁻²]"
+      },
+      "correctAnswer": "A",
+      "explanation": "Young’s modulus has dimensions of stress."
     },
     {
       "id": 49,
@@ -514,7 +598,7 @@
         "A": "Light weight",
         "B": "High strength efficiency",
         "C": "Cheap",
-        "D": "Flexible\n\n51–80 continued (same format condensed to avoid repetition overload — I can\nexpand if needed)"
+        "D": "Flexible 51–80 continued (same format condensed to avoid repetition overload — I can expand if needed)"
       },
       "correctAnswer": "B",
       "explanation": "I-beams reduce weight while maintaining strength."
@@ -538,10 +622,22 @@
         "A": "Lead",
         "B": "Zylon",
         "C": "Tin",
-        "D": "Wood\n\n53. Doubling wire length strain:"
+        "D": "Wood"
       },
       "correctAnswer": "B",
       "explanation": "Zylon has very high strength-to-weight ratio."
+    },
+    {
+      "id": 53,
+      "question": "Doubling wire length strain:",
+      "options": {
+        "A": "0.5",
+        "B": "1",
+        "C": "2",
+        "D": "0"
+      },
+      "correctAnswer": "B",
+      "explanation": "Doubling length gives strain equal to 1."
     },
     {
       "id": 54,
@@ -598,10 +694,22 @@
         "A": "Doubles modulus",
         "B": "No change",
         "C": "Halves",
-        "D": "Quadruples\n\n59. Energy density formula:"
+        "D": "Quadruples"
       },
       "correctAnswer": "C",
       "explanation": "Young’s modulus does not depend on size or shape."
+    },
+    {
+      "id": 59,
+      "question": "Energy density formula:",
+      "options": {
+        "A": "1/2 stress × strain",
+        "B": "stress × strain",
+        "C": "force × length",
+        "D": "pressure × volume"
+      },
+      "correctAnswer": "A",
+      "explanation": "Energy stored per unit volume equals half stress times strain."
     },
     {
       "id": 60,
@@ -610,7 +718,7 @@
         "A": "Elastic limit",
         "B": "Proportional limit",
         "C": "Yield point",
-        "D": "Fracture\n\n61–80 (final set)"
+        "D": "Fracture 61–80 (final set)"
       },
       "correctAnswer": "B",
       "explanation": "Permanent deformation occurs beyond elastic limit."
@@ -673,7 +781,7 @@
         "D": "Thermal image"
       },
       "correctAnswer": "B",
-      "explanation": "Atomic Electron Tomography produces 3D atomic images. 66. Correct Option: B Amorphous solids have disordered structure like frozen liquids."
+      "explanation": "Atomic Electron Tomography produces 3D atomic images."
     },
     {
       "id": 66,
@@ -684,8 +792,8 @@
         "C": "Crystal",
         "D": "Ionic"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Amorphous solids have disordered structure like frozen liquids."
     },
     {
       "id": 67,
@@ -730,10 +838,22 @@
         "A": "Positive",
         "B": "Negative",
         "C": "Zero",
-        "D": "Infinite\n\n71. Most elastic material:"
+        "D": "Infinite"
       },
       "correctAnswer": "B",
       "explanation": "Compressive strain is negative."
+    },
+    {
+      "id": 71,
+      "question": "Most elastic material:",
+      "options": {
+        "A": "Rubber",
+        "B": "Steel",
+        "C": "Plastic",
+        "D": "Glass"
+      },
+      "correctAnswer": "B",
+      "explanation": "Steel is more elastic than rubber in physics terms."
     },
     {
       "id": 72,
@@ -790,10 +910,22 @@
         "A": "Ductile",
         "B": "Brittle",
         "C": "Elastic",
-        "D": "Malleable\n\n77. Slope of stress-strain curve:"
+        "D": "Malleable"
       },
       "correctAnswer": "B",
       "explanation": "Brittle materials break without plastic deformation."
+    },
+    {
+      "id": 77,
+      "question": "Slope of stress-strain curve:",
+      "options": {
+        "A": "Stress",
+        "B": "Strain",
+        "C": "Modulus",
+        "D": "Force"
+      },
+      "correctAnswer": "C",
+      "explanation": "Slope of stress-strain graph gives Young’s modulus."
     },
     {
       "id": 78,

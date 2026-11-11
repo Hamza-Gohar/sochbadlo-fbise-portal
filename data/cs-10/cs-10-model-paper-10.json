@@ -64,8 +64,8 @@
         "C": "convert()",
         "D": "itoa()"
       },
-      "correctAnswer": "A",
-      "explanation": "Option A ('stringToInt()') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 10 (Full-Book Board Simulator III)."
+      "correctAnswer": "B",
+      "explanation": "In C standard library (<stdlib.h>), atoi() (ASCII to Integer) is the built-in function used to convert a string of digits into an integer."
     },
     {
       "id": 6,
@@ -76,8 +76,8 @@
         "C": "Both conditions are false",
         "D": "The first condition is false"
       },
-      "correctAnswer": "A",
-      "explanation": "Option A ('Both conditions are true') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 10 (Full-Book Board Simulator III)."
+      "correctAnswer": "B",
+      "explanation": "The logical OR operator (||) in C evaluates to true if at least one (any one) of its operand conditions is true."
     },
     {
       "id": 7,
@@ -100,8 +100,8 @@
         "C": "3",
         "D": "5"
       },
-      "correctAnswer": "B",
-      "explanation": "Option B ('2') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 10 (Full-Book Board Simulator III)."
+      "correctAnswer": "A",
+      "explanation": "In binary: 5 is 101 and 3 is 011. Performing bitwise AND (&): 101 & 011 = 001 in binary, which equals decimal 1."
     },
     {
       "id": 9,
@@ -124,8 +124,8 @@
         "C": "Debug errors",
         "D": "Store data"
       },
-      "correctAnswer": "C",
-      "explanation": "Option C ('Debug errors') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 10 (Full-Book Board Simulator III)."
+      "correctAnswer": "B",
+      "explanation": "The primary purpose of a compiler is to translate source code written in a high-level programming language into executable machine code."
     },
     {
       "id": 11,

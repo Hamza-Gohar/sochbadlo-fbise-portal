@@ -1,7 +1,7 @@
 {
   "chapterNumber": 1,
   "chapterTitle": "Physical Quantities & Measurements",
-  "totalQuestions": 56,
+  "totalQuestions": 60,
   "questions": [
     {
       "id": 1,
@@ -13,7 +13,7 @@
         "D": "Parallax error during observation"
       },
       "correctAnswer": "C",
-      "explanation": "The uncertainty in a single measurement of a physical quantity is usually taken as the least count of the instrument used. This defines the limit of resolution of the measurement."
+      "explanation": "The uncertainty in a single measurement of a physical quantity is usually taken as the least count\nof the instrument used. This defines the limit of resolution of the measurement."
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
         "D": "Stress, Strain, and Young’s Modulus"
       },
       "correctAnswer": "B",
-      "explanation": "Work, Energy, and Torque all have the same dimensions because each depends on force multiplied by distance."
+      "explanation": "Work, Energy, and Torque all have the same dimensions because each depends on force\nmultiplied by distance."
     },
     {
       "id": 3,
@@ -37,7 +37,7 @@
         "D": "1.6%"
       },
       "correctAnswer": "C",
-      "explanation": "For volume of a sphere, the percentage uncertainty in volume is three times the percentage uncertainty in radius. Therefore: 3 × 0.4% = 1.2%. 4. Correct Option: C The average of 161, 162, and 158 is close to 160, making it accurate. However, the readings are spread out, showing low precision."
+      "explanation": "For volume of a sphere, the percentage uncertainty in volume is three times the percentage\nuncertainty in radius. Therefore:\n3 × 0.4% = 1.2%."
     },
     {
       "id": 4,
@@ -48,8 +48,8 @@
         "C": "Accurate but not precise",
         "D": "Neither accurate nor precise"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "The average of 161, 162, and 158 is close to 160, making it accurate. However, the readings are\nspread out, showing low precision."
     },
     {
       "id": 5,
@@ -70,10 +70,22 @@
         "A": "Check the homogeneity of an equation",
         "B": "Derive a relationship between physical quantities",
         "C": "Determine the value of dimensionless constants like 2π",
-        "D": "Convert units from one system to another\n\n7. The density of water is 10³ kg m⁻³. To estimate the mass of 1 liter of water, we use the fact\nthat 1 liter is:"
+        "D": "Convert units from one system to another"
       },
       "correctAnswer": "C",
-      "explanation": "Dimensional analysis cannot determine numerical constants such as 2, π, or 1/2 because they have no dimensions."
+      "explanation": "Dimensional analysis cannot determine numerical constants such as 2, π, or 1/2 because they\nhave no dimensions."
+    },
+    {
+      "id": 7,
+      "question": "The density of water is 10³ kg m⁻³. To estimate the mass of 1 liter of water, we use the fact that 1 liter is:",
+      "options": {
+        "A": "10⁻¹ m³",
+        "B": "10⁻² m³",
+        "C": "10⁻³ m³",
+        "D": "10⁻⁶ m³"
+      },
+      "correctAnswer": "C",
+      "explanation": "One liter equals one cubic decimeter, which is equal to 10⁻³ cubic meters."
     },
     {
       "id": 8,
@@ -85,7 +97,7 @@
         "D": "Modulus of elasticity"
       },
       "correctAnswer": "B",
-      "explanation": "Using the gravitational force equation, the dimensions of the gravitational constant are obtained as M⁻¹L³T⁻²."
+      "explanation": "Using the gravitational force equation, the dimensions of the gravitational constant are obtained\nas M⁻¹L³T⁻²."
     },
     {
       "id": 9,
@@ -109,7 +121,7 @@
         "D": "T/2"
       },
       "correctAnswer": "B",
-      "explanation": "If the pendulum length becomes four times larger, the time period doubles because the time period is proportional to the square root of length."
+      "explanation": "If the pendulum length becomes four times larger, the time period doubles because the time\nperiod is proportional to the square root of length."
     },
     {
       "id": 11,
@@ -133,7 +145,7 @@
         "D": "10¹¹"
       },
       "correctAnswer": "C",
-      "explanation": "The human heart beats approximately 1.8 × 10⁹ times in 60 years, giving an order of magnitude of 10⁹."
+      "explanation": "The human heart beats approximately 1.8 × 10⁹ times in 60 years, giving an order of magnitude\nof 10⁹."
     },
     {
       "id": 13,
@@ -181,7 +193,7 @@
         "D": "Personal error"
       },
       "correctAnswer": "B",
-      "explanation": "For repeated measurements, the mean deviation or average uncertainty represents the final absolute uncertainty. 17. Correct Option: B Measuring many sheets together reduces percentage uncertainty and improves reliability."
+      "explanation": "For repeated measurements, the mean deviation or average uncertainty represents the final\nabsolute uncertainty."
     },
     {
       "id": 17,
@@ -192,8 +204,8 @@
         "C": "Using a micrometer on a single sheet only",
         "D": "Sound physical reasoning without measurement"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Measuring many sheets together reduces percentage uncertainty and improves reliability."
     },
     {
       "id": 18,
@@ -238,10 +250,22 @@
         "A": "Random error",
         "B": "Systematic error",
         "C": "Personal error",
-        "D": "Significant error\n\n22. A precise measurement is one that has:"
+        "D": "Significant error"
       },
       "correctAnswer": "B",
       "explanation": "Calibration and zero errors are systematic errors because they affect all readings consistently."
+    },
+    {
+      "id": 22,
+      "question": "A precise measurement is one that has:",
+      "options": {
+        "A": "Small fractional uncertainty",
+        "B": "Small absolute uncertainty",
+        "C": "High accuracy",
+        "D": "Large least count"
+      },
+      "correctAnswer": "B",
+      "explanation": "Smaller absolute uncertainty means greater precision."
     },
     {
       "id": 23,
@@ -313,7 +337,7 @@
         "D": "Cannot contain trigonometric functions"
       },
       "correctAnswer": "B",
-      "explanation": "An equation may be dimensionally correct but still physically incorrect if numerical factors are missing."
+      "explanation": "An equation may be dimensionally correct but still physically incorrect if numerical factors are\nmissing."
     },
     {
       "id": 29,
@@ -349,7 +373,7 @@
         "D": "All are equally accurate"
       },
       "correctAnswer": "C",
-      "explanation": "Accuracy means closeness to the true value. The readings centered around 160.0 are the most accurate. 32. Correct Option: B Force multiplied by velocity gives the dimensions of power."
+      "explanation": "Accuracy means closeness to the true value. The readings centered around 160.0 are the most\naccurate."
     },
     {
       "id": 32,
@@ -360,8 +384,8 @@
         "C": "Torque",
         "D": "Momentum"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Force multiplied by velocity gives the dimensions of power."
     },
     {
       "id": 33,
@@ -406,10 +430,22 @@
         "A": "Energy",
         "B": "Angular Momentum",
         "C": "Force",
-        "D": "Power\n\n37. In a timing experiment for 20 vibrations, if the least count of the stopwatch is 0.1 s, the\nuncertainty in the time period is:"
+        "D": "Power"
       },
       "correctAnswer": "B",
       "explanation": "Angular momentum depends on mass, velocity, and radius."
+    },
+    {
+      "id": 37,
+      "question": "In a timing experiment for 20 vibrations, if the least count of the stopwatch is 0.1 s, the uncertainty in the time period is:",
+      "options": {
+        "A": "0.1 s",
+        "B": "0.01 s",
+        "C": "0.005 s",
+        "D": "0.02 s"
+      },
+      "correctAnswer": "C",
+      "explanation": "Uncertainty in time period equals least count divided by number of oscillations."
     },
     {
       "id": 38,
@@ -517,7 +553,7 @@
         "D": "10¹⁵ s"
       },
       "correctAnswer": "B",
-      "explanation": "Human history is approximately 10¹¹ seconds long. 47. Correct Option: B For estimation, complicated shapes are simplified into easier forms like spheres or boxes."
+      "explanation": "Human history is approximately 10¹¹ seconds long."
     },
     {
       "id": 47,
@@ -528,8 +564,8 @@
         "C": "An irregular polygon",
         "D": "A line segment"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "For estimation, complicated shapes are simplified into easier forms like spheres or boxes."
     },
     {
       "id": 48,
@@ -574,10 +610,22 @@
         "A": "10³ m",
         "B": "10⁶ m",
         "C": "10⁷ m",
-        "D": "10⁸ m\n\n52. A student guesses v²/x as a formula for acceleration. Is it dimensionally consistent?"
+        "D": "10⁸ m"
       },
       "correctAnswer": "B",
       "explanation": "Half of 10⁷ meters is 5 × 10⁶ meters, so the order is 10⁶."
+    },
+    {
+      "id": 52,
+      "question": "A student guesses v²/x as a formula for acceleration. Is it dimensionally consistent?",
+      "options": {
+        "A": "Yes",
+        "B": "No, it gives velocity",
+        "C": "No, it gives time",
+        "D": "No, it gives L²T⁻¹"
+      },
+      "correctAnswer": "A",
+      "explanation": "Velocity squared divided by distance gives the dimensions of acceleration."
     },
     {
       "id": 53,
@@ -670,7 +718,7 @@
         "A": "The rod is 5 meters long",
         "B": "The water level remains constant",
         "C": "The pressure is 2 Pascals",
-        "D": "The temperature is 30°C\n\nAnswer key\nQ.\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n\nAns\nC\nB\nC\nC\nB\nC\nC\nB\nB\nB\n\nQ.\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n\nAns\nA\nC\nB\nB\nA\nB\nB\nC\nB\nB\n\nQ.\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n\nAns\nB\nB\nA\nC\nC\nC\nC\nB\nB\nB\n\nQ.\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n\nAns\nC\nB\nB\nA\nA\nB\nC\nC\nA\nB\n\nQ.\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n\nAns\nC\nB\nC\nB\nC\nB\nB\nD\nC\nC\n\nQ.\n51\n52\n53\n54\n55\n56\n57\n58\n59\n60\n\nAns\nB\nA\nD\nB\nC\nB\nB\nB\nA\nB\n\nSolutions and Conceptual Explanations"
+        "D": "The temperature is 30°C"
       },
       "correctAnswer": "B",
       "explanation": "Qualitative observations describe qualities without numerical measurements."

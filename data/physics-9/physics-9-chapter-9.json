@@ -62,8 +62,8 @@
         "C": "Hypothesis → Theory → Law",
         "D": "Law → Theory → Hypothesis"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Hypothesis → Law → Theory. Observations lead to a hypothesis, which is tested and may develop into a theory, and repeated confirmations can establish a law."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Hypothesis → Theory → Law. In the scientific method, an observation leads to a hypothesis, which upon repeated testing and experimental support becomes a theory, and universal mathematical principles are formulated into scientific laws."
     },
     {
       "id": 6,
@@ -110,8 +110,8 @@
         "C": "Temperature difference between ends of solid",
         "D": "All of them"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): Length of solid. Heat flow increases with area and temperature difference, decreases with length."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): All of them. The rate of thermal conduction is given by Q/t = k A (T₁ - T₂) / L, depending on cross-sectional area, length, and temperature difference (all of them)."
     },
     {
       "id": 10,
@@ -254,8 +254,8 @@
         "C": "Surface area",
         "D": "All of them"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Surface temperature. Hotter, darker, rougher, and larger surfaces emit more thermal radiation."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): All of them. The emission of radiant energy depends on surface temperature (T⁴), surface area (A), and surface emissivity (colour and texture) according to the Stefan-Boltzmann law."
     },
     {
       "id": 22,
@@ -302,8 +302,8 @@
         "C": "Nitrogen",
         "D": "Both (a) & (b)"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Water vapors. Water vapor and CO₂ trap infrared radiation, warming the atmosphere."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Both (a) & (b). Both water vapor and carbon dioxide are primary greenhouse gases responsible for trapping outgoing thermal radiation."
     },
     {
       "id": 26,
@@ -326,8 +326,8 @@
         "C": "Less specific heat of sand",
         "D": "None of these"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): Less specific heat of water. Land heats faster because it has lower specific heat than water, absorbing less energy to rise in temperature."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Less specific heat of sand. Water has a very high specific heat capacity (~4200 J/kg·K), while dry soil and sand have a much lower specific heat capacity (~800 J/kg·K), so land heats up much faster under the same sunlight."
     },
     {
       "id": 28,
@@ -338,8 +338,8 @@
         "C": "Land and sea breeze",
         "D": "All of them"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct Option (C): Land and sea breeze. All the listed phenomena utilize the upward movement of hot air currents caused by convection. Hot air balloons rise because the air inside is heated, becomes less dense, and moves upward. Gliders use “thermals,” which are rising columns of warm air, to stay aloft without an engine. Land and sea breezes are localized convection currents formed by the temperature difference between land and water."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): All of them. Hot air balloons, soaring gliders/birds (thermals), and land and sea breezes all rely on rising convective warm air currents."
     },
     {
       "id": 29,

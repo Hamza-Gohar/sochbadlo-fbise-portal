@@ -38,8 +38,8 @@
         "C": "Aluminum",
         "D": "Copper"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Soft iron. Steel can retain its magnetization after being magnetized, making it a permanent magnet. Soft iron, by contrast, is only temporarily magnetized."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Steel. Steel has high retentivity and high coercivity, retaining its magnetization to form permanent magnets, whereas soft iron easily loses its magnetism (temporary magnet)."
     },
     {
       "id": 4,
@@ -86,8 +86,8 @@
         "C": "It is unaffected by the magnetic field",
         "D": "It creates an opposing magnetic field"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct Option (C): It is unaffected by the magnetic field. Diamagnetic materials generate a weak magnetic field in the opposite direction of the applied field, causing a small repulsive effect."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): It creates an opposing magnetic field. Diamagnetic substances create an internal induced magnetic field directed opposite to the external applied field, causing weak repulsion."
     },
     {
       "id": 8,
@@ -134,8 +134,8 @@
         "C": "Attract the magnet",
         "D": "Remain unaffected"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): Repel the magnet. Non-magnetic materials like wood or plastic are not influenced by magnetic fields, so there is no effect when a magnet is nearby."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Remain unaffected. Non-magnetic materials (such as wood, glass, or plastic) experience no magnetic interaction and remain unaffected in a magnetic field."
     },
     {
       "id": 12,
@@ -170,8 +170,8 @@
         "C": "Erasing or distorting data",
         "D": "Making the device magnetic"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct Option (D): Making the device magnetic. Strong magnets can alter or erase magnetic data on devices like hard drives or credit cards."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Erasing or distorting data. Strong magnetic fields can corrupt magnetic storage media (hard drives, tapes, cards) and interfere with inductors/sensors, causing data erasure or distortion."
     },
     {
       "id": 15,
@@ -218,8 +218,8 @@
         "C": "Absolute temperature",
         "D": "Lowest temperature"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Highest temperature. Ice is cold because its molecules have low kinetic energy, corresponding to a low temperature."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Lowest temperature. In comparison to hot objects like a candle flame, ice is at a low/lower temperature due to lower molecular kinetic energy."
     },
     {
       "id": 19,
@@ -278,8 +278,8 @@
         "C": "Light",
         "D": "Heat"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Temperature. Heat is the energy transferred due to temperature difference; it is not stored in an object but moves from hotter to colder bodies."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Heat. Heat is the energy transferred between two bodies solely due to a temperature difference between them."
     },
     {
       "id": 24,
@@ -506,8 +506,8 @@
         "C": "Low temperature",
         "D": "Fixed temperature"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): High temperature. Evaporation can occur even at room temperature, unlike boiling which requires a specific temperature."
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): All temperatures. Evaporation is a spontaneous surface phenomenon that occurs at all temperatures, whereas boiling occurs only at a specific fixed boiling point."
     },
     {
       "id": 43,
@@ -530,8 +530,8 @@
         "C": "Wind",
         "D": "Types of container"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Temperature. The type of container does not affect molecular escape; temperature, area, and airflow do."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Types of container. Evaporation rate depends on temperature, surface area, wind/air circulation, and humidity, but does not depend on the material or type of container."
     },
     {
       "id": 45,
@@ -554,8 +554,8 @@
         "C": "Gas into gas",
         "D": "Liquid into liquid"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Gas into liquid. Refrigerators absorb heat via evaporation of a liquid refrigerant into gas."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Liquid into gas. In a refrigeration cycle, cooling is produced when the volatile liquid refrigerant absorbs heat from the freezer compartment and evaporates into gas."
     },
     {
       "id": 47,
@@ -626,8 +626,8 @@
         "C": "Wax",
         "D": "Alcohol"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): Mercury. Alcohol freezes at much lower temperatures than water or mercury."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Alcohol. Alcohol has an exceptionally low freezing point of -114°C (compared to water at 0°C and mercury at -39°C), which is why alcohol thermometers are used in very cold climates."
     },
     {
       "id": 53,
@@ -638,8 +638,8 @@
         "C": "273K",
         "D": "All of them"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): 32°F. 0°C = 32°F = 273K; all these represent the freezing point of water."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): All of them. The freezing point of water is 0°C on the Celsius scale, 32°F on the Fahrenheit scale, and 273.15 K on the Kelvin scale; all are equivalent."
     },
     {
       "id": 54,

@@ -3,28 +3,28 @@
     "chapterNumber": 1,
     "title": "Physical Quantities & Measurements",
     "slug": "chapter-1",
-    "totalQuestions": 56,
+    "totalQuestions": 60,
     "fileName": "chapter-1.json"
   },
   {
     "chapterNumber": 2,
     "title": "Vectors & Equilibrium",
     "slug": "chapter-2",
-    "totalQuestions": 60,
+    "totalQuestions": 70,
     "fileName": "chapter-2.json"
   },
   {
     "chapterNumber": 3,
     "title": "Force & Motion",
     "slug": "chapter-3",
-    "totalQuestions": 78,
+    "totalQuestions": 80,
     "fileName": "chapter-3.json"
   },
   {
     "chapterNumber": 4,
     "title": "Rotational & Circular Motion",
     "slug": "chapter-4",
-    "totalQuestions": 84,
+    "totalQuestions": 90,
     "fileName": "chapter-4.json"
   },
   {
@@ -38,49 +38,49 @@
     "chapterNumber": 6,
     "title": "Fluid Dynamics",
     "slug": "chapter-6",
-    "totalQuestions": 76,
+    "totalQuestions": 90,
     "fileName": "chapter-6.json"
   },
   {
     "chapterNumber": 7,
     "title": "Oscillations",
     "slug": "chapter-7",
-    "totalQuestions": 69,
+    "totalQuestions": 80,
     "fileName": "chapter-7.json"
   },
   {
     "chapterNumber": 8,
     "title": "Waves",
     "slug": "chapter-8",
-    "totalQuestions": 75,
+    "totalQuestions": 90,
     "fileName": "chapter-8.json"
   },
   {
     "chapterNumber": 9,
     "title": "Physical Optics",
     "slug": "chapter-9",
-    "totalQuestions": 78,
+    "totalQuestions": 90,
     "fileName": "chapter-9.json"
   },
   {
     "chapterNumber": 10,
-    "title": "Thermodynamics",
+    "title": "Electrostatics",
     "slug": "chapter-10",
-    "totalQuestions": 57,
+    "totalQuestions": 60,
     "fileName": "chapter-10.json"
   },
   {
     "chapterNumber": 11,
-    "title": "Electrostatics",
+    "title": "Current Electricity",
     "slug": "chapter-11",
-    "totalQuestions": 60,
+    "totalQuestions": 70,
     "fileName": "chapter-11.json"
   },
   {
     "chapterNumber": 12,
     "title": "Electromagnetism",
     "slug": "chapter-12",
-    "totalQuestions": 70,
+    "totalQuestions": 100,
     "fileName": "chapter-12.json"
   },
   {
@@ -92,14 +92,14 @@
   },
   {
     "chapterNumber": 14,
-    "title": "Particle Physics",
+    "title": "Nuclear Physics",
     "slug": "chapter-14",
-    "totalQuestions": 44,
+    "totalQuestions": 50,
     "fileName": "chapter-14.json"
   },
   {
-    "chapterNumber": 0,
-    "title": "FBISE Past Papers Board Exam Bank",
+    "chapterNumber": 15,
+    "title": "13-Year Board Past Papers (2012-2024)",
     "slug": "past-papers",
     "totalQuestions": 64,
     "fileName": "past-papers.json"

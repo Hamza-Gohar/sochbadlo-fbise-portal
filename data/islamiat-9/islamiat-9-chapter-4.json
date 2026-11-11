@@ -7,300 +7,300 @@
     {
       "id": 1,
       "question": "What does \"Shukr\" (gratitude) mean in Islam?",
-      "options": [
-        "Wishing for something",
-        "Acknowledging and expressing thankfulness for Allah’s blessings",
-        "Earning more wealth",
-        "Abandoning worldly possessions"
-      ],
-      "correctAnswer": "A",
-      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Wishing for something' ہے۔"
+      "options": {
+        "A": "Wishing for something",
+        "B": "Acknowledging and expressing thankfulness for Allah’s blessings",
+        "C": "Earning more wealth",
+        "D": "Abandoning worldly possessions"
+      },
+      "correctAnswer": "B",
+      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (B) 'Acknowledging and expressing thankfulness for Allah’s blessings' ہے۔"
     },
     {
       "id": 2,
       "question": "Which term is used in the Quran for expressing gratitude?",
-      "options": [
-        "Sabr (patience)",
-        "Taqwa (piety)",
-        "Hamd (praise)",
-        "Shukr (gratitude)"
-      ],
-      "correctAnswer": "C",
-      "explanation": "قرآن مجید اور علوم الحدیث کے مستند تاریخی و تفسیری ماخذ کے مطابق درست جواب 'Hamd (praise)' ہے۔"
+      "options": {
+        "A": "Sabr (patience)",
+        "B": "Taqwa (piety)",
+        "C": "Hamd (praise)",
+        "D": "Shukr (gratitude)"
+      },
+      "correctAnswer": "D",
+      "explanation": "قرآن مجید اور علوم الحدیث کے مستند تاریخی و تفسیری ماخذ کے مطابق درست جواب (D) 'Shukr (gratitude)' ہے۔"
     },
     {
       "id": 3,
       "question": "What does \"Qana'ah\" (contentment) mean?",
-      "options": [
-        "Earning more wealth",
-        "Being satisfied with what one has",
-        "Desiring others' wealth",
-        "Loving worldly possessions"
-      ],
+      "options": {
+        "A": "Earning more wealth",
+        "B": "Being satisfied with what one has",
+        "C": "Desiring others' wealth",
+        "D": "Loving worldly possessions"
+      },
       "correctAnswer": "B",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (B) 'Being satisfied with what one has' ہے۔"
     },
     {
       "id": 4,
       "question": "What does \"Qana'ah\" (contentment) mean? a) Earning more wealth b) Being satisfied with what one has ✅ c) Desiring others' wealth d) Loving worldly possessions",
-      "options": [
-        "orrect Answer: b) Being satisfied with what one has",
-        "ccording to Prophet Muhammad (PBUH), what is true wealth?",
-        "Abundance of gold and silver",
-        "Contentment of the heart"
-      ],
-      "correctAnswer": "C",
-      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (C) 'Abundance of gold and silver' ہے۔"
+      "options": {
+        "A": "orrect Answer: b) Being satisfied with what one has",
+        "B": "ccording to Prophet Muhammad (PBUH), what is true wealth?",
+        "C": "Abundance of gold and silver",
+        "D": "Contentment of the heart"
+      },
+      "correctAnswer": "B",
+      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (B) 'ccording to Prophet Muhammad (PBUH), what is true wealth?' ہے۔"
     },
     {
       "id": 5,
       "question": "What reward is promised in the Quran for those who practice contentment?",
-      "options": [
-        "Paradise",
-        "Abundance of wealth",
-        "Success in worldly affairs",
-        "Fame and recognition"
-      ],
-      "correctAnswer": "C",
-      "explanation": "قرآن مجید اور علوم الحدیث کے مستند تاریخی و تفسیری ماخذ کے مطابق درست جواب 'Success in worldly affairs' ہے۔"
+      "options": {
+        "A": "Paradise",
+        "B": "Abundance of wealth",
+        "C": "Success in worldly affairs",
+        "D": "Fame and recognition"
+      },
+      "correctAnswer": "A",
+      "explanation": "قرآن مجید اور علوم الحدیث کے مستند تاریخی و تفسیری ماخذ کے مطابق درست جواب (A) 'Paradise' ہے۔"
     },
     {
       "id": 6,
       "question": "Wealth & Contentment in Islam The Prophet ‫ ﷺ‬said: \"The wealthiest person is the one who...\"",
-      "options": [
-        "Does a lot of business",
-        "Asks people for more",
-        "Is the most content",
-        "Becomes a king"
-      ],
+      "options": {
+        "A": "Does a lot of business",
+        "B": "Asks people for more",
+        "C": "Is the most content",
+        "D": "Becomes a king"
+      },
       "correctAnswer": "C",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (C) 'Is the most content' ہے۔"
     },
     {
       "id": 7,
       "question": "What did the Prophet ‫ ﷺ‬say about contentment?",
-      "options": [
-        "Contentment brings blessings in wealth",
-        "A content person remains poor",
-        "Contentment hinders worldly success",
-        "Contentment reduces honor"
-      ],
+      "options": {
+        "A": "Contentment brings blessings in wealth",
+        "B": "A content person remains poor",
+        "C": "Contentment hinders worldly success",
+        "D": "Contentment reduces honor"
+      },
       "correctAnswer": "A",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (A) 'Contentment brings blessings in wealth' ہے۔"
     },
     {
       "id": 8,
       "question": "What does \"arrogance\" mean in Islam?",
-      "options": [
-        "Considering oneself superior to others",
-        "Being humble",
-        "Helping others",
-        "Showing humility in worship"
-      ],
+      "options": {
+        "A": "Considering oneself superior to others",
+        "B": "Being humble",
+        "C": "Helping others",
+        "D": "Showing humility in worship"
+      },
       "correctAnswer": "A",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Considering oneself superior to others' ہے۔"
     },
     {
       "id": 9,
       "question": "The Prophet ‫ ﷺ‬said: \"Whoever has even a mustard seed of arrogance in their heart...\"",
-      "options": [
-        "Will enter Paradise",
-        "Will not even smell the fragrance of Paradise",
-        "Will be close to Allah",
-        "Will become the greatest scholar"
-      ],
+      "options": {
+        "A": "Will enter Paradise",
+        "B": "Will not even smell the fragrance of Paradise",
+        "C": "Will be close to Allah",
+        "D": "Will become the greatest scholar"
+      },
       "correctAnswer": "B",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (B) 'Will not even smell the fragrance of Paradise' ہے۔"
     },
     {
       "id": 10,
       "question": "Which of the following is a sign of arrogance?",
-      "options": [
-        "Humility and modesty",
-        "Looking down on others",
-        "Respecting others",
-        "Thanking Allah"
-      ],
+      "options": {
+        "A": "Humility and modesty",
+        "B": "Looking down on others",
+        "C": "Respecting others",
+        "D": "Thanking Allah"
+      },
       "correctAnswer": "B",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (B) 'Looking down on others' ہے۔"
     },
     {
       "id": 11,
       "question": "Which famous king was destroyed because of his arrogance?",
-      "options": [
-        "Prophet Sulaiman AS",
-        "Pharaoh",
-        "Prophet Dawood (David) AS",
-        "Prophet Yusuf AS"
-      ],
+      "options": {
+        "A": "Prophet Sulaiman AS",
+        "B": "Pharaoh",
+        "C": "Prophet Dawood (David) AS",
+        "D": "Prophet Yusuf AS"
+      },
       "correctAnswer": "B",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (B) 'Pharaoh' ہے۔"
     },
     {
       "id": 12,
       "question": "What is the best way to avoid arrogance, according to the Prophet ‫?ﷺ‬",
-      "options": [
-        "Adopt humility and modesty",
-        "Earn more wealth",
-        "Consider oneself superior",
-        "Show off in front of others"
-      ],
+      "options": {
+        "A": "Adopt humility and modesty",
+        "B": "Earn more wealth",
+        "C": "Consider oneself superior",
+        "D": "Show off in front of others"
+      },
       "correctAnswer": "A",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (A) 'Adopt humility and modesty' ہے۔"
     },
     {
       "id": 13,
       "question": "What does \"jealousy\" mean in Islam?",
-      "options": [
-        "Wishing well for others",
-        "Wishing for someone’s blessings to be taken away",
-        "Advising others",
-        "Being patient"
-      ],
+      "options": {
+        "A": "Wishing well for others",
+        "B": "Wishing for someone’s blessings to be taken away",
+        "C": "Advising others",
+        "D": "Being patient"
+      },
       "correctAnswer": "B",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (B) 'Wishing for someone’s blessings to be taken away' ہے۔"
     },
     {
       "id": 14,
       "question": "Who was the first person to show jealousy?",
-      "options": [
-        "Habil (Abel)",
-        "Qabil (Cain)",
-        "Pharaoh",
-        "Abu Jahl"
-      ],
+      "options": {
+        "A": "Habil (Abel)",
+        "B": "Qabil (Cain)",
+        "C": "Pharaoh",
+        "D": "Abu Jahl"
+      },
       "correctAnswer": "B",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (B) 'Qabil (Cain)' ہے۔"
     },
     {
       "id": 15,
       "question": "Who suffers the most from jealousy?",
-      "options": [
-        "The jealous person himself",
-        "Others",
-        "Society",
-        "The government"
-      ],
+      "options": {
+        "A": "The jealous person himself",
+        "B": "Others",
+        "C": "Society",
+        "D": "The government"
+      },
       "correctAnswer": "A",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'The jealous person himself' ہے۔"
     },
     {
       "id": 16,
       "question": "In which Surah does the Quran guide us to seek protection from jealousy?",
-      "options": [
-        "Surah Al-Fatiha",
-        "Surah Al-Baqarah",
-        "Surah Al-Falaq",
-        "Surah Yusuf"
-      ],
-      "correctAnswer": "A",
-      "explanation": "قرآن مجید اور علوم الحدیث کے مستند تاریخی و تفسیری ماخذ کے مطابق درست جواب 'Surah Al-Fatiha' ہے۔"
+      "options": {
+        "A": "Surah Al-Fatiha",
+        "B": "Surah Al-Baqarah",
+        "C": "Surah Al-Falaq",
+        "D": "Surah Yusuf"
+      },
+      "correctAnswer": "C",
+      "explanation": "قرآن مجید اور علوم الحدیث کے مستند تاریخی و تفسیری ماخذ کے مطابق درست جواب (C) 'Surah Al-Falaq' ہے۔"
     },
     {
       "id": 17,
       "question": "Who was the first person in history to suffer from jealousy?",
-      "options": [
-        "Prophet Musa AS",
-        "Prophet Yusuf AS",
-        "Prophet Ibrahim AS",
-        "Prophet Adam AS"
-      ],
-      "correctAnswer": "A",
-      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Prophet Musa AS' ہے۔"
+      "options": {
+        "A": "Prophet Musa AS",
+        "B": "Prophet Yusuf AS",
+        "C": "Prophet Ibrahim AS",
+        "D": "Prophet Adam AS"
+      },
+      "correctAnswer": "B",
+      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (B) 'Prophet Yusuf AS' ہے۔"
     },
     {
       "id": 18,
       "question": "What is the best way to avoid jealousy?",
-      "options": [
-        "Being grateful to Allah",
-        "Earning more than others",
-        "Sharing wealth",
-        "Criticizing others"
-      ],
+      "options": {
+        "A": "Being grateful to Allah",
+        "B": "Earning more than others",
+        "C": "Sharing wealth",
+        "D": "Criticizing others"
+      },
       "correctAnswer": "A",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Being grateful to Allah' ہے۔"
     },
     {
       "id": 19,
       "question": "What action is recommended in place of jealousy?",
-      "options": [
-        "Patience",
-        "Gratitude",
-        "Arrogance",
-        "Anger"
-      ],
+      "options": {
+        "A": "Patience",
+        "B": "Gratitude",
+        "C": "Arrogance",
+        "D": "Anger"
+      },
       "correctAnswer": "B",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (B) 'Gratitude' ہے۔"
     },
     {
       "id": 20,
       "question": "What can eliminate the disease of jealousy?",
-      "options": [
-        "More wealth",
-        "Being happy for others' success",
-        "Bringing others down",
-        "Luxurious lifestyle"
-      ],
+      "options": {
+        "A": "More wealth",
+        "B": "Being happy for others' success",
+        "C": "Bringing others down",
+        "D": "Luxurious lifestyle"
+      },
       "correctAnswer": "B",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (B) 'Being happy for others' success' ہے۔"
     },
     {
       "id": 21,
       "question": "Which Surahs should be recited for protection from jealousy?",
-      "options": [
-        "Surah Al-Fatiha",
-        "Surah Al-Ikhlas",
-        "Surah Al-Falaq and Surah An-Nas",
-        "Surah Yaseen"
-      ],
-      "correctAnswer": "A",
-      "explanation": "قرآن مجید اور علوم الحدیث کے مستند تاریخی و تفسیری ماخذ کے مطابق درست جواب 'Surah Al-Fatiha' ہے۔"
+      "options": {
+        "A": "Surah Al-Fatiha",
+        "B": "Surah Al-Ikhlas",
+        "C": "Surah Al-Falaq and Surah An-Nas",
+        "D": "Surah Yaseen"
+      },
+      "correctAnswer": "C",
+      "explanation": "قرآن مجید اور علوم الحدیث کے مستند تاریخی و تفسیری ماخذ کے مطابق درست جواب (C) 'Surah Al-Falaq and Surah An-Nas' ہے۔"
     },
     {
       "id": 22,
       "question": "What is meant by mental health?",
-      "options": [
-        "Improvement in physical health",
-        "Mental peace and emotional balance",
-        "Increase in wealth",
-        "Sleeping more"
-      ],
+      "options": {
+        "A": "Improvement in physical health",
+        "B": "Mental peace and emotional balance",
+        "C": "Increase in wealth",
+        "D": "Sleeping more"
+      },
       "correctAnswer": "B",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (B) 'Mental peace and emotional balance' ہے۔"
     },
     {
       "id": 23,
       "question": "What is the biggest sign of good mental health?",
-      "options": [
-        "Being happy and thinking positively",
-        "Always being worried",
-        "Blaming others",
-        "Isolating oneself"
-      ],
+      "options": {
+        "A": "Being happy and thinking positively",
+        "B": "Always being worried",
+        "C": "Blaming others",
+        "D": "Isolating oneself"
+      },
       "correctAnswer": "A",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Being happy and thinking positively' ہے۔"
     },
     {
       "id": 24,
       "question": "Which of the following is a common mental health issue?",
-      "options": [
-        "Depression",
-        "Overeating",
-        "Playing sports",
-        "Traveling"
-      ],
+      "options": {
+        "A": "Depression",
+        "B": "Overeating",
+        "C": "Playing sports",
+        "D": "Traveling"
+      },
       "correctAnswer": "A",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Depression' ہے۔"
     },
     {
       "id": 25,
       "question": "What is necessary to maintain mental health?",
-      "options": [
-        "Balanced diet, exercise, and positive thinking",
-        "Constant worrying",
-        "Staying isolated",
-        "Watching too much TV"
-      ],
+      "options": {
+        "A": "Balanced diet, exercise, and positive thinking",
+        "B": "Constant worrying",
+        "C": "Staying isolated",
+        "D": "Watching too much TV"
+      },
       "correctAnswer": "A",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Balanced diet, exercise, and positive thinking' ہے۔"
     }

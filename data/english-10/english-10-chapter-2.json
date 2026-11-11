@@ -16,7 +16,8 @@
         "D": "An essay has been written by Ali yesterday."
       },
       "answer": "A",
-      "explanation": "Past simple tense in active voice ('wrote') changes into 'was/were + past participle' ('was written') in passive voice."
+      "explanation": "Past simple tense in active voice ('wrote') changes into 'was/were + past participle' ('was written') in passive voice.",
+      "correctAnswer": "A"
     },
     {
       "id": 2,
@@ -28,7 +29,8 @@
         "D": "The driver has washed the car."
       },
       "answer": "C",
-      "explanation": "'is being washed' is present continuous passive, which corresponds to the present continuous active form 'is washing'."
+      "explanation": "'is being washed' is present continuous passive, which corresponds to the present continuous active form 'is washing'.",
+      "correctAnswer": "C"
     },
     {
       "id": 3,
@@ -40,7 +42,8 @@
         "D": "The birds will migrate south before winter."
       },
       "answer": "C",
-      "explanation": "Option C features the passive auxiliary 'was restored' with the agent introduced by the prepositional phrase 'by renowned architects'."
+      "explanation": "Option C features the passive auxiliary 'was restored' with the agent introduced by the prepositional phrase 'by renowned architects'.",
+      "correctAnswer": "C"
     },
     {
       "id": 4,
@@ -52,7 +55,8 @@
         "D": "A science exhibition has been prepared by the students."
       },
       "answer": "C",
-      "explanation": "Present continuous active ('are preparing') converts to 'is/am/are being + past participle' ('is being prepared')."
+      "explanation": "Present continuous active ('are preparing') converts to 'is/am/are being + past participle' ('is being prepared').",
+      "correctAnswer": "C"
     },
     {
       "id": 5,
@@ -64,7 +68,8 @@
         "D": "The results had announced before sunset."
       },
       "answer": "B",
-      "explanation": "Past perfect active ('had announced') changes into 'had been + past participle' ('had been announced') in passive voice."
+      "explanation": "Past perfect active ('had announced') changes into 'had been + past participle' ('had been announced') in passive voice.",
+      "correctAnswer": "B"
     },
     {
       "id": 6,
@@ -76,7 +81,8 @@
         "D": "You open the window."
       },
       "answer": "A",
-      "explanation": "Imperative commands are converted into passive using the formula: 'Let + object + be + past participle' ('Let the window be opened')."
+      "explanation": "Imperative commands are converted into passive using the formula: 'Let + object + be + past participle' ('Let the window be opened').",
+      "correctAnswer": "A"
     },
     {
       "id": 7,
@@ -88,7 +94,8 @@
         "D": "Flowers should not pluck."
       },
       "answer": "A",
-      "explanation": "Negative imperatives take the passive form 'Let + object + not + be + past participle' ('Let the flowers not be plucked')."
+      "explanation": "Negative imperatives take the passive form 'Let + object + not + be + past participle' ('Let the flowers not be plucked').",
+      "correctAnswer": "A"
     },
     {
       "id": 8,
@@ -100,7 +107,8 @@
         "D": "By whom this mirror was broken?"
       },
       "answer": "A",
-      "explanation": "Interrogative sentences with 'Who' change to 'By whom + auxiliary verb + subject + past participle' ('By whom was this mirror broken?')."
+      "explanation": "Interrogative sentences with 'Who' change to 'By whom + auxiliary verb + subject + past participle' ('By whom was this mirror broken?').",
+      "correctAnswer": "A"
     },
     {
       "id": 9,
@@ -112,7 +120,8 @@
         "D": "Why had he been punished by you?"
       },
       "answer": "A",
-      "explanation": "In past simple interrogative passive, 'Why did you punish him?' becomes 'Why was he punished by you?' maintaining inversion (auxiliary 'was' before subject 'he')."
+      "explanation": "In past simple interrogative passive, 'Why did you punish him?' becomes 'Why was he punished by you?' maintaining inversion (auxiliary 'was' before subject 'he').",
+      "correctAnswer": "A"
     },
     {
       "id": 10,
@@ -124,7 +133,8 @@
         "D": "Our teachers are respected by us."
       },
       "answer": "A",
-      "explanation": "Modal auxiliary 'must' transforms into 'modal + be + past participle' ('must be respected')."
+      "explanation": "Modal auxiliary 'must' transforms into 'modal + be + past participle' ('must be respected').",
+      "correctAnswer": "A"
     },
     {
       "id": 11,
@@ -136,7 +146,8 @@
         "D": "This mathematical problem is solved by her."
       },
       "answer": "A",
-      "explanation": "Modal auxiliary 'can' takes 'can be + past participle' ('can be solved') in passive voice; the tense of the modal does not change."
+      "explanation": "Modal auxiliary 'can' takes 'can be + past participle' ('can be solved') in passive voice; the tense of the modal does not change.",
+      "correctAnswer": "A"
     },
     {
       "id": 12,
@@ -148,7 +159,8 @@
         "D": "Build"
       },
       "answer": "B",
-      "explanation": "'Sleep' is an intransitive verb; intransitive verbs cannot take a direct object and therefore cannot be converted into the passive voice."
+      "explanation": "'Sleep' is an intransitive verb; intransitive verbs cannot take a direct object and therefore cannot be converted into the passive voice.",
+      "correctAnswer": "B"
     },
     {
       "id": 13,
@@ -160,7 +172,8 @@
         "D": "A scholarship was gave by the principal to the boy."
       },
       "answer": "A",
-      "explanation": "When a sentence has both an indirect object ('the boy') and direct object ('a scholarship'), either may be the subject; here 'The boy was given a scholarship by the principal' correctly promotes the indirect object."
+      "explanation": "When a sentence has both an indirect object ('the boy') and direct object ('a scholarship'), either may be the subject; here 'The boy was given a scholarship by the principal' correctly promotes the indirect object.",
+      "correctAnswer": "A"
     },
     {
       "id": 14,
@@ -172,7 +185,8 @@
         "D": "The bridge will has been finished by them by December."
       },
       "answer": "A",
-      "explanation": "Future perfect active ('will have finished') changes to 'will have been + past participle' ('will have been finished')."
+      "explanation": "Future perfect active ('will have finished') changes to 'will have been + past participle' ('will have been finished').",
+      "correctAnswer": "A"
     },
     {
       "id": 15,
@@ -184,7 +198,8 @@
         "D": "The clown laughed at them."
       },
       "answer": "A",
-      "explanation": "In prepositional verbs ('laughed at'), the preposition must be retained alongside the past participle in passive voice ('was laughed at by them')."
+      "explanation": "In prepositional verbs ('laughed at'), the preposition must be retained alongside the past participle in passive voice ('was laughed at by them').",
+      "correctAnswer": "A"
     },
     {
       "id": 16,
@@ -196,7 +211,8 @@
         "D": "The orphan has been looked after by the nurse."
       },
       "answer": "A",
-      "explanation": "Present continuous with prepositional verb: 'is looking after' -> 'is being looked after by'."
+      "explanation": "Present continuous with prepositional verb: 'is looking after' -> 'is being looked after by'.",
+      "correctAnswer": "A"
     },
     {
       "id": 17,
@@ -208,7 +224,8 @@
         "D": "English is being spoken all over the world."
       },
       "answer": "A",
-      "explanation": "When the agent is vague or understood ('people'), the by-phrase is typically omitted: 'English is spoken all over the world'."
+      "explanation": "When the agent is vague or understood ('people'), the by-phrase is typically omitted: 'English is spoken all over the world'.",
+      "correctAnswer": "A"
     },
     {
       "id": 18,
@@ -220,7 +237,8 @@
         "D": "My bicycle is stolen."
       },
       "answer": "A",
-      "explanation": "Indefinite pronouns ('someone', 'somebody') are omitted in passive voice: 'My bicycle has been stolen'."
+      "explanation": "Indefinite pronouns ('someone', 'somebody') are omitted in passive voice: 'My bicycle has been stolen'.",
+      "correctAnswer": "A"
     },
     {
       "id": 19,
@@ -232,7 +250,8 @@
         "D": "Sweetness is smelled by the rose."
       },
       "answer": "A",
-      "explanation": "Quasi-passive sensory verbs take the formula: 'Subject + be + adjective + when it is + past participle' ('Rose is sweet when it is smelt')."
+      "explanation": "Quasi-passive sensory verbs take the formula: 'Subject + be + adjective + when it is + past participle' ('Rose is sweet when it is smelt').",
+      "correctAnswer": "A"
     },
     {
       "id": 20,
@@ -244,7 +263,8 @@
         "D": "Quinine tastes bitterly when eaten."
       },
       "answer": "A",
-      "explanation": "Middle/quasi-passive verbs like 'taste' become 'Quinine is bitter when it is tasted'."
+      "explanation": "Middle/quasi-passive verbs like 'taste' become 'Quinine is bitter when it is tasted'.",
+      "correctAnswer": "A"
     },
     {
       "id": 21,
@@ -256,7 +276,8 @@
         "D": "Promises are to be kept by someone."
       },
       "answer": "A",
-      "explanation": "When 'one' is used as an impersonal subject, the by-phrase 'by one' is omitted: 'Promises should be kept'."
+      "explanation": "When 'one' is used as an impersonal subject, the by-phrase 'by one' is omitted: 'Promises should be kept'.",
+      "correctAnswer": "A"
     },
     {
       "id": 22,
@@ -268,7 +289,8 @@
         "D": "Help must be given to me."
       },
       "answer": "A",
-      "explanation": "Polite requests using 'Please' are appropriately converted into 'You are requested to + infinitive' ('You are requested to help me')."
+      "explanation": "Polite requests using 'Please' are appropriately converted into 'You are requested to + infinitive' ('You are requested to help me').",
+      "correctAnswer": "A"
     },
     {
       "id": 23,
@@ -280,7 +302,8 @@
         "D": "You must work hard."
       },
       "answer": "A",
-      "explanation": "Intransitive imperative sentences expressing advice are converted using 'You are advised to + infinitive' ('You are advised to work hard')."
+      "explanation": "Intransitive imperative sentences expressing advice are converted using 'You are advised to + infinitive' ('You are advised to work hard').",
+      "correctAnswer": "A"
     },
     {
       "id": 24,
@@ -292,7 +315,8 @@
         "D": "A new educational policy has been proposed."
       },
       "answer": "A",
-      "explanation": "Past simple active ('proposed') becomes 'was proposed by them' in passive voice."
+      "explanation": "Past simple active ('proposed') becomes 'was proposed by them' in passive voice.",
+      "correctAnswer": "A"
     },
     {
       "id": 25,
@@ -304,7 +328,8 @@
         "D": "Is the culprit arrested by the police?"
       },
       "answer": "A",
-      "explanation": "Past simple Yes/No questions change from 'Did + subject + V1' to 'Was/Were + subject + V3' ('Was the culprit arrested by the police?')."
+      "explanation": "Past simple Yes/No questions change from 'Did + subject + V1' to 'Was/Were + subject + V3' ('Was the culprit arrested by the police?').",
+      "correctAnswer": "A"
     },
     {
       "id": 26,
@@ -316,7 +341,8 @@
         "D": "The national team was winning the match."
       },
       "answer": "A",
-      "explanation": "'was won' is past simple passive, converting back into past simple active 'won'."
+      "explanation": "'was won' is past simple passive, converting back into past simple active 'won'.",
+      "correctAnswer": "A"
     },
     {
       "id": 27,
@@ -328,7 +354,8 @@
         "D": "Hundreds of houses are destroyed by the earthquake."
       },
       "answer": "A",
-      "explanation": "'Hundreds of houses' is plural, requiring the plural auxiliary 'were': 'were destroyed by the earthquake'."
+      "explanation": "'Hundreds of houses' is plural, requiring the plural auxiliary 'were': 'were destroyed by the earthquake'.",
+      "correctAnswer": "A"
     },
     {
       "id": 28,
@@ -340,7 +367,8 @@
         "D": "Present Simple"
       },
       "answer": "A",
-      "explanation": "In standard English grammar, the four tenses that do not have recognized passive forms are: Present Perfect Continuous, Past Perfect Continuous, Future Continuous, and Future Perfect Continuous."
+      "explanation": "In standard English grammar, the four tenses that do not have recognized passive forms are: Present Perfect Continuous, Past Perfect Continuous, Future Continuous, and Future Perfect Continuous.",
+      "correctAnswer": "A"
     },
     {
       "id": 29,
@@ -352,7 +380,8 @@
         "D": "The engine is repaired by the mechanic."
       },
       "answer": "A",
-      "explanation": "Present perfect active ('has repaired') transforms into 'has been + past participle' ('has been repaired')."
+      "explanation": "Present perfect active ('has repaired') transforms into 'has been + past participle' ('has been repaired').",
+      "correctAnswer": "A"
     },
     {
       "id": 30,
@@ -364,7 +393,8 @@
         "D": "You do not tell a lie."
       },
       "answer": "A",
-      "explanation": "Negative imperative passive follows 'Let + object + not + be + V3' ('Let a lie not be told')."
+      "explanation": "Negative imperative passive follows 'Let + object + not + be + V3' ('Let a lie not be told').",
+      "correctAnswer": "A"
     },
     {
       "id": 31,
@@ -376,7 +406,8 @@
         "D": "Chef Tariq had prepared a delicious meal."
       },
       "answer": "A",
-      "explanation": "'was being prepared' is past continuous passive, which converts back to past continuous active 'was preparing'."
+      "explanation": "'was being prepared' is past continuous passive, which converts back to past continuous active 'was preparing'.",
+      "correctAnswer": "A"
     },
     {
       "id": 32,
@@ -388,7 +419,8 @@
         "D": "He has been known by me very well."
       },
       "answer": "A",
-      "explanation": "The past participle 'known' takes the preposition 'to' rather than 'by' in passive constructions: 'He is known to me very well'."
+      "explanation": "The past participle 'known' takes the preposition 'to' rather than 'by' in passive constructions: 'He is known to me very well'.",
+      "correctAnswer": "A"
     },
     {
       "id": 33,
@@ -400,7 +432,8 @@
         "D": "Everyone had been surprised with his behavior."
       },
       "answer": "A",
-      "explanation": "The verb 'surprised' in passive voice typically pairs with the preposition 'at' when referring to conduct or actions ('surprised at his behavior')."
+      "explanation": "The verb 'surprised' in passive voice typically pairs with the preposition 'at' when referring to conduct or actions ('surprised at his behavior').",
+      "correctAnswer": "A"
     },
     {
       "id": 34,
@@ -412,7 +445,8 @@
         "D": "The room is filled with smoke."
       },
       "answer": "A",
-      "explanation": "The verb 'filled' takes the preposition 'with' in passive voice ('filled with smoke') rather than 'by'."
+      "explanation": "The verb 'filled' takes the preposition 'with' in passive voice ('filled with smoke') rather than 'by'.",
+      "correctAnswer": "A"
     },
     {
       "id": 35,
@@ -424,7 +458,8 @@
         "D": "The team completes the project next week."
       },
       "answer": "A",
-      "explanation": "'will be completed' is future simple passive, which translates back to future simple active 'will complete'."
+      "explanation": "'will be completed' is future simple passive, which translates back to future simple active 'will complete'.",
+      "correctAnswer": "A"
     }
   ]
 }

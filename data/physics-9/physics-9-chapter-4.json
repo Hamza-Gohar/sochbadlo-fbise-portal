@@ -50,8 +50,8 @@
         "C": "By marking plumb line direction twice and finding intersection",
         "D": "By weighing lamina"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct Option (D): By weighing lamina. Suspend the lamina from two different points and draw vertical lines using a plumb line. Their intersection gives COG."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): By marking plumb line direction twice and finding intersection. The center of gravity of an irregularly shaped plane lamina is determined by suspending it from at least two different points and locating the intersection of the vertical plumb lines."
     },
     {
       "id": 5,
@@ -62,8 +62,8 @@
         "C": "No one",
         "D": "One person at centre"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): Different weights. Equal weights at equal distances produce equal and opposite moments → balanced."
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): A seesaw with equal weights on both ends. Equal weights placed at equal distances from the pivot produce equal clockwise and anticlockwise moments, keeping the seesaw in rotational equilibrium."
     },
     {
       "id": 6,
@@ -98,8 +98,8 @@
         "C": "By lowering the centre of mass and increasing the base area",
         "D": "By adding more weight on top"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct Option (D): By adding more weight on top. An object is more stable when its centre of gravity is low and its base is wide. This prevents it from toppling easily."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): By lowering the centre of mass and increasing the base area. An object is made more stable by keeping its center of mass as low as possible and making its base of support as wide as possible."
     },
     {
       "id": 9,
@@ -134,8 +134,8 @@
         "C": "Optimizing weight distribution and lowering centre of gravity for better cornering stability",
         "D": "Increasing base area to improve speed"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): Designing high centre of mass. Racing cars are designed with low centre of gravity and wide base to prevent overturning at high speeds."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Optimizing weight distribution and lowering centre of gravity for better cornering stability. Racing cars are engineered with a very low center of gravity and broad wheelbase to prevent toppling during high-speed cornering."
     },
     {
       "id": 12,
@@ -146,8 +146,8 @@
         "C": "Rolling friction occurs due to deformation of object rolling",
         "D": "Sliding friction occurs only in liquids"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Rolling friction > sliding friction. Rolling friction is mainly due to deformation of surfaces. Sliding friction depends on materials and is usually greater than rolling friction."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Rolling friction occurs due to deformation of object rolling. Rolling friction is caused primarily by the deformation of the contacting surfaces as an object rolls, and it is significantly smaller than sliding friction."
     },
     {
       "id": 13,
@@ -158,8 +158,8 @@
         "C": "Only experience air resistance",
         "D": "No friction"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct Option (D): No friction. If wheels lock and skid, sliding friction acts instead of rolling friction."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Experience sliding friction if they skid. When bicycle brakes lock the wheels and cause skidding, the rolling friction transitions into sliding friction."
     },
     {
       "id": 14,
@@ -242,8 +242,8 @@
         "C": "50 N downward 10 cm left",
         "D": "50 N upward 10 cm left"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): 20 N upward 40 cm right. Moment left = 40 × 20 = 800 Nm To balance: F × 40 = 800 F = 20 N downward (opposite moment direction)"
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 20 N downward 40 cm right. Anticlockwise moment = 40 N × 20 cm = 800 N·cm. To balance, a clockwise moment of 800 N·cm is required, provided by 20 N acting downward at 40 cm to the right (20 × 40 = 800 N·cm)."
     },
     {
       "id": 21,
@@ -314,8 +314,8 @@
         "C": "Rotates while moving over surface",
         "D": "No contact"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Object slides. Rolling friction occurs when object both rotates and moves forward."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Rotates while moving over surface. Rolling friction comes into play when a body rotates and rolls forward across a surface without sliding."
     },
     {
       "id": 27,
@@ -470,8 +470,8 @@
         "C": "Nm⁻²",
         "D": "Nm"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Newton. Torque = Force × distance Unit = Newton × metre = Nm"
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Nm. Torque is the product of force and moment arm (τ = F × d), so its SI unit is Newton-meter (N·m)."
     },
     {
       "id": 40,
@@ -854,8 +854,8 @@
         "C": "lower centre of gravity",
         "D": "decrease width"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): increase COG. Lower COG increases stability at high speeds."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): lower centre of gravity. Racing cars are built low to lower their center of gravity, thereby maximizing stability and cornering grip."
     },
     {
       "id": 72,
@@ -878,8 +878,8 @@
         "C": "0 N",
         "D": "90 N"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): 10 N. Horizontal component = F cos90° = 10 × 0 = 0."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 0 N. The horizontal component is F_x = F cos(90°) = 10 × 0 = 0 N."
     },
     {
       "id": 74,

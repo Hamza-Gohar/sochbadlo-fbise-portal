@@ -7,180 +7,180 @@
     {
       "id": 1,
       "question": "Which of the following words is spelled correctly?",
-      "options": [
-        "Conscientious",
-        "Consciencious",
-        "Conscientous",
-        "Conscensious"
-      ],
+      "options": {
+        "A": "Conscientious",
+        "B": "Consciencious",
+        "C": "Conscientous",
+        "D": "Conscensious"
+      },
       "correctAnswer": "A",
       "explanation": "'Conscientious' is correctly spelled with 'scien' and suffix 'tious'."
     },
     {
       "id": 2,
       "question": "Identify the type of conditional: 'If water reaches 100°C, it boils.'",
-      "options": [
-        "Zero Conditional",
-        "First Conditional",
-        "Second Conditional",
-        "Third Conditional"
-      ],
+      "options": {
+        "A": "Zero Conditional",
+        "B": "First Conditional",
+        "C": "Second Conditional",
+        "D": "Third Conditional"
+      },
       "correctAnswer": "A",
       "explanation": "Zero conditional expresses universal truths or scientific facts using present simple in both clauses."
     },
     {
       "id": 3,
       "question": "Identify the figure of speech: 'As brave as a lion.'",
-      "options": [
-        "Simile",
-        "Metaphor",
-        "Hyperbole",
-        "Oxymoron"
-      ],
+      "options": {
+        "A": "Simile",
+        "B": "Metaphor",
+        "C": "Hyperbole",
+        "D": "Oxymoron"
+      },
       "correctAnswer": "A",
       "explanation": "Comparison using 'as ... as' constitutes a direct simile."
     },
     {
       "id": 4,
       "question": "Choose the correct voice: 'They will announce the board examination results tomorrow.'",
-      "options": [
-        "The board examination results will be announced tomorrow.",
-        "The board examination results will have been announced tomorrow.",
-        "The board examination results are announced tomorrow.",
-        "The board examination results were announced tomorrow."
-      ],
+      "options": {
+        "A": "The board examination results will be announced tomorrow.",
+        "B": "The board examination results will have been announced tomorrow.",
+        "C": "The board examination results are announced tomorrow.",
+        "D": "The board examination results were announced tomorrow."
+      },
       "correctAnswer": "A",
       "explanation": "Future simple 'will announce' converts to 'will be announced' in the passive voice."
     },
     {
       "id": 5,
       "question": "Identify the underlined verbal: 'To err is human; to forgive, divine.'",
-      "options": [
-        "Infinitive",
-        "Gerund",
-        "Present participle",
-        "Past participle"
-      ],
+      "options": {
+        "A": "Infinitive",
+        "B": "Gerund",
+        "C": "Present participle",
+        "D": "Past participle"
+      },
       "correctAnswer": "A",
       "explanation": "'To err' and 'to forgive' are bare 'to + base verb' infinitives functioning as nouns."
     },
     {
       "id": 6,
       "question": "Which sentence contains a relative pronoun?",
-      "options": [
-        "The scientist whose discovery won the Nobel Prize gave a lecture.",
-        "This is the most memorable day of my life.",
-        "Everyone should do their duty diligently.",
-        "She herself designed the website layout."
-      ],
+      "options": {
+        "A": "The scientist whose discovery won the Nobel Prize gave a lecture.",
+        "B": "This is the most memorable day of my life.",
+        "C": "Everyone should do their duty diligently.",
+        "D": "She herself designed the website layout."
+      },
       "correctAnswer": "A",
       "explanation": "'Whose' acts as a possessive relative pronoun connecting the dependent adjective clause."
     },
     {
       "id": 7,
       "question": "Identify the transitional device indicating result or cause-and-effect:",
-      "options": [
-        "Therefore",
-        "Nevertheless",
-        "In contrast",
-        "Similarly"
-      ],
+      "options": {
+        "A": "Therefore",
+        "B": "Nevertheless",
+        "C": "In contrast",
+        "D": "Similarly"
+      },
       "correctAnswer": "A",
       "explanation": "'Therefore' signifies a logical conclusion, result, or consequence."
     },
     {
       "id": 8,
       "question": "Identify the noun phrase in: 'The exceptionally talented young artist won the first prize.'",
-      "options": [
-        "The exceptionally talented young artist",
-        "won the first prize",
-        "first prize",
-        "artist won"
-      ],
+      "options": {
+        "A": "The exceptionally talented young artist",
+        "B": "won the first prize",
+        "C": "first prize",
+        "D": "artist won"
+      },
       "correctAnswer": "A",
       "explanation": "'The exceptionally talented young artist' consists of the noun head 'artist' with all its determiners and modifiers."
     },
     {
       "id": 9,
       "question": "In poetry, the repetition of initial consonant sounds in neighboring words is called:",
-      "options": [
-        "Alliteration",
-        "Assonance",
-        "Consonance",
-        "Onomatopoeia"
-      ],
+      "options": {
+        "A": "Alliteration",
+        "B": "Assonance",
+        "C": "Consonance",
+        "D": "Onomatopoeia"
+      },
       "correctAnswer": "A",
       "explanation": "Alliteration is the deliberate repetition of identical initial consonant sounds in successive words."
     },
     {
       "id": 10,
       "question": "Choose the correct form: 'Neither the teacher nor the students ___ present yesterday.'",
-      "options": [
-        "were",
-        "was",
-        "is",
-        "are"
-      ],
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "is",
+        "D": "are"
+      },
       "correctAnswer": "A",
       "explanation": "With 'neither ... nor', the verb agrees with the nearer subject ('students' -> plural 'were')."
     },
     {
       "id": 11,
       "question": "Which of the following contains an abstract noun?",
-      "options": [
-        "Honesty is the foundation of all righteous character.",
-        "The stone building stood firmly.",
-        "The river flows down the valley.",
-        "He bought three new pens."
-      ],
+      "options": {
+        "A": "Honesty is the foundation of all righteous character.",
+        "B": "The stone building stood firmly.",
+        "C": "The river flows down the valley.",
+        "D": "He bought three new pens."
+      },
       "correctAnswer": "A",
       "explanation": "'Honesty' is an intangible virtue and quality, qualifying as an abstract noun."
     },
     {
       "id": 12,
       "question": "Identify the preposition of time in: 'We will meet at sunset near the river.'",
-      "options": [
-        "at",
-        "near",
-        "by",
-        "with"
-      ],
+      "options": {
+        "A": "at",
+        "B": "near",
+        "C": "by",
+        "D": "with"
+      },
       "correctAnswer": "A",
       "explanation": "'At' introduces the specific point in time ('sunset')."
     },
     {
       "id": 13,
       "question": "Which of the following is a compound sentence?",
-      "options": [
-        "The bell rang, and the students entered the examination hall.",
-        "When the bell rang, the students entered the hall.",
-        "Upon the ringing of the bell, the students entered.",
-        "The students entered the examination hall after hearing the bell."
-      ],
+      "options": {
+        "A": "The bell rang, and the students entered the examination hall.",
+        "B": "When the bell rang, the students entered the hall.",
+        "C": "Upon the ringing of the bell, the students entered.",
+        "D": "The students entered the examination hall after hearing the bell."
+      },
       "correctAnswer": "A",
       "explanation": "Two independent clauses joined by coordinating conjunction 'and' form a compound sentence."
     },
     {
       "id": 14,
       "question": "Identify the correct article: 'He is ___ heir to a vast ancestral estate.'",
-      "options": [
-        "an",
-        "a",
-        "the",
-        "no article"
-      ],
+      "options": {
+        "A": "an",
+        "B": "a",
+        "C": "the",
+        "D": "no article"
+      },
       "correctAnswer": "A",
       "explanation": "'Heir' begins with a silent 'h' and vowel sound, requiring the indefinite article 'an'."
     },
     {
       "id": 15,
       "question": "Identify the literary device: 'I have told you a million times to double-check your calculations.'",
-      "options": [
-        "Hyperbole",
-        "Understatement",
-        "Metaphor",
-        "Simile"
-      ],
+      "options": {
+        "A": "Hyperbole",
+        "B": "Understatement",
+        "C": "Metaphor",
+        "D": "Simile"
+      },
       "correctAnswer": "A",
       "explanation": "'A million times' is an intentional extreme exaggeration used for rhetorical effect, known as hyperbole."
     }

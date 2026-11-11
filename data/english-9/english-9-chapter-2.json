@@ -7,420 +7,420 @@
     {
       "id": 1,
       "question": "The institute provides scholarships for students who wish to pursue ___ MBA abroad.",
-      "options": [
-        "a",
-        "an",
-        "the",
-        "no article"
-      ],
+      "options": {
+        "A": "a",
+        "B": "an",
+        "C": "the",
+        "D": "no article"
+      },
       "correctAnswer": "B",
       "explanation": "Option (B) 'an' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 2,
       "question": "Had she left earlier, she wouldn’t have missed the train.",
-      "options": [
-        "First Conditional",
-        "Second Conditional",
-        "Third Conditional",
-        "Zero Conditional"
-      ],
+      "options": {
+        "A": "First Conditional",
+        "B": "Second Conditional",
+        "C": "Third Conditional",
+        "D": "Zero Conditional"
+      },
       "correctAnswer": "C",
       "explanation": "Option (C) 'Third Conditional' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 3,
       "question": "If water reaches 100°C, it boils.",
-      "options": [
-        "First Conditional",
-        "Second Conditional",
-        "Third Conditional",
-        "Zero Conditional"
-      ],
+      "options": {
+        "A": "First Conditional",
+        "B": "Second Conditional",
+        "C": "Third Conditional",
+        "D": "Zero Conditional"
+      },
       "correctAnswer": "D",
       "explanation": "In standard English conditional structures, 'Zero Conditional' precisely aligns with the tense sequence and grammatical requirement of the if-clause and main clause."
     },
     {
       "id": 4,
       "question": "If she worked harder, she would get better grades.",
-      "options": [
-        "First Conditional",
-        "Second Conditional",
-        "Third Conditional",
-        "Zero Conditional"
-      ],
+      "options": {
+        "A": "First Conditional",
+        "B": "Second Conditional",
+        "C": "Third Conditional",
+        "D": "Zero Conditional"
+      },
       "correctAnswer": "B",
       "explanation": "In standard English conditional structures, 'Second Conditional' precisely aligns with the tense sequence and grammatical requirement of the if-clause and main clause."
     },
     {
       "id": 5,
       "question": "If I were you, I wouldn’t invest in that company.",
-      "options": [
-        "First Conditional",
-        "Second Conditional",
-        "Third Conditional",
-        "Zero Conditional"
-      ],
+      "options": {
+        "A": "First Conditional",
+        "B": "Second Conditional",
+        "C": "Third Conditional",
+        "D": "Zero Conditional"
+      },
       "correctAnswer": "B",
       "explanation": "In standard English conditional structures, 'Second Conditional' precisely aligns with the tense sequence and grammatical requirement of the if-clause and main clause."
     },
     {
       "id": 6,
       "question": "If he had studied more, he might have passed the exam.",
-      "options": [
-        "First Conditional",
-        "Second Conditional",
-        "Third Conditional",
-        "Zero Conditional"
-      ],
+      "options": {
+        "A": "First Conditional",
+        "B": "Second Conditional",
+        "C": "Third Conditional",
+        "D": "Zero Conditional"
+      },
       "correctAnswer": "C",
       "explanation": "In standard English conditional structures, 'Third Conditional' precisely aligns with the tense sequence and grammatical requirement of the if-clause and main clause."
     },
     {
       "id": 7,
       "question": "If she calls me, I will answer the phone.",
-      "options": [
-        "First Conditional",
-        "Second Conditional",
-        "Third Conditional",
-        "Zero Conditional"
-      ],
+      "options": {
+        "A": "First Conditional",
+        "B": "Second Conditional",
+        "C": "Third Conditional",
+        "D": "Zero Conditional"
+      },
       "correctAnswer": "A",
       "explanation": "In standard English conditional structures, 'First Conditional' precisely aligns with the tense sequence and grammatical requirement of the if-clause and main clause."
     },
     {
       "id": 8,
       "question": "If I don’t drink coffee in the morning, I feel tired all day.",
-      "options": [
-        "First Conditional",
-        "Second Conditional",
-        "Third Conditional",
-        "Zero Conditional"
-      ],
+      "options": {
+        "A": "First Conditional",
+        "B": "Second Conditional",
+        "C": "Third Conditional",
+        "D": "Zero Conditional"
+      },
       "correctAnswer": "D",
       "explanation": "In standard English conditional structures, 'Zero Conditional' precisely aligns with the tense sequence and grammatical requirement of the if-clause and main clause."
     },
     {
       "id": 9,
       "question": "If we had left on time, we wouldn’t have been late for the meeting.",
-      "options": [
-        "First Conditional",
-        "Second Conditional",
-        "Third Conditional",
-        "Zero Conditional"
-      ],
+      "options": {
+        "A": "First Conditional",
+        "B": "Second Conditional",
+        "C": "Third Conditional",
+        "D": "Zero Conditional"
+      },
       "correctAnswer": "C",
       "explanation": "In standard English conditional structures, 'Third Conditional' precisely aligns with the tense sequence and grammatical requirement of the if-clause and main clause."
     },
     {
       "id": 10,
       "question": "If she apologizes, they will forgive her.",
-      "options": [
-        "First Conditional",
-        "Second Conditional",
-        "Third Conditional",
-        "Zero Conditional"
-      ],
+      "options": {
+        "A": "First Conditional",
+        "B": "Second Conditional",
+        "C": "Third Conditional",
+        "D": "Zero Conditional"
+      },
       "correctAnswer": "A",
       "explanation": "In standard English conditional structures, 'First Conditional' precisely aligns with the tense sequence and grammatical requirement of the if-clause and main clause."
     },
     {
       "id": 11,
       "question": "If I didn’t have a job, I would travel the world.",
-      "options": [
-        "First Conditional",
-        "Second Conditional",
-        "Third Conditional",
-        "Zero Conditional"
-      ],
+      "options": {
+        "A": "First Conditional",
+        "B": "Second Conditional",
+        "C": "Third Conditional",
+        "D": "Zero Conditional"
+      },
       "correctAnswer": "B",
       "explanation": "In standard English conditional structures, 'Second Conditional' precisely aligns with the tense sequence and grammatical requirement of the if-clause and main clause."
     },
     {
       "id": 12,
       "question": "Identify the tense of the sentence: \"She will have been reading for two hours by the time you arrive.\"",
-      "options": [
-        "Future Perfect",
-        "Past Perfect Continuous",
-        "Future Perfect Continuous",
-        "Present Perfect"
-      ],
+      "options": {
+        "A": "Future Perfect",
+        "B": "Past Perfect Continuous",
+        "C": "Future Perfect Continuous",
+        "D": "Present Perfect"
+      },
       "correctAnswer": "C",
       "explanation": "Option (C) 'Future Perfect Continuous' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 13,
       "question": "Choose the correct negative form of: \"They have completed the assignment.\"",
-      "options": [
-        "They had not completed the assignment.",
-        "They have not completed the assignment.",
-        "They does not completed the assignment.",
-        "They hasn’t completed the assignment."
-      ],
+      "options": {
+        "A": "They had not completed the assignment.",
+        "B": "They have not completed the assignment.",
+        "C": "They does not completed the assignment.",
+        "D": "They hasn’t completed the assignment."
+      },
       "correctAnswer": "B",
       "explanation": "Option (B) 'They have not completed the assignment.' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 14,
       "question": "Which sentence is in the Past Perfect Continuous tense?",
-      "options": [
-        "She was writing a letter when I called.",
-        "She had been writing a letter for an hour before I called.",
-        "She has written a letter.",
-        "She will have written a letter."
-      ],
+      "options": {
+        "A": "She was writing a letter when I called.",
+        "B": "She had been writing a letter for an hour before I called.",
+        "C": "She has written a letter.",
+        "D": "She will have written a letter."
+      },
       "correctAnswer": "B",
       "explanation": "Option (B) 'She had been writing a letter for an hour before I called.' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 15,
       "question": "Select the correct interrogative form of: \"He had finished his homework before dinner.\"",
-      "options": [
-        "Had he finished his homework before dinner?",
-        "Did he had finished his homework before dinner?",
-        "Has he finished his homework before dinner?",
-        "Had he finishes his homework before dinner?"
-      ],
+      "options": {
+        "A": "Had he finished his homework before dinner?",
+        "B": "Did he had finished his homework before dinner?",
+        "C": "Has he finished his homework before dinner?",
+        "D": "Had he finishes his homework before dinner?"
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'Had he finished his homework before dinner?' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 16,
       "question": "Which of the following is in the Future Continuous tense?",
-      "options": [
-        "He will have completed his work by evening.",
-        "He will be completing his work in the evening.",
-        "He is completing his work now.",
-        "He has completed his work."
-      ],
+      "options": {
+        "A": "He will have completed his work by evening.",
+        "B": "He will be completing his work in the evening.",
+        "C": "He is completing his work now.",
+        "D": "He has completed his work."
+      },
       "correctAnswer": "B",
       "explanation": "Option (B) 'He will be completing his work in the evening.' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 17,
       "question": "Choose the correct negative sentence: \"She goes to the gym every day.\"",
-      "options": [
-        "She do not goes to the gym every day.",
-        "She does not go to the gym every day.",
-        "She does not goes to the gym every day.",
-        "She has not goes to the gym every day."
-      ],
+      "options": {
+        "A": "She do not goes to the gym every day.",
+        "B": "She does not go to the gym every day.",
+        "C": "She does not goes to the gym every day.",
+        "D": "She has not goes to the gym every day."
+      },
       "correctAnswer": "B",
       "explanation": "Option (B) 'She does not go to the gym every day.' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 18,
       "question": "Identify the correct interrogative sentence: \"They were watching TV.\"",
-      "options": [
-        "Were they watching TV?",
-        "Did they watching TV?",
-        "Was they watching TV?",
-        "Are they watching TV?"
-      ],
+      "options": {
+        "A": "Were they watching TV?",
+        "B": "Did they watching TV?",
+        "C": "Was they watching TV?",
+        "D": "Are they watching TV?"
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'Were they watching TV?' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 19,
       "question": "Which of the following sentences is incorrect?",
-      "options": [
-        "She has been working here since 2015.",
-        "They will have left before we arrive.",
-        "He didn’t went to school yesterday.",
-        "Had she completed the project before the deadline?"
-      ],
+      "options": {
+        "A": "She has been working here since 2015.",
+        "B": "They will have left before we arrive.",
+        "C": "He didn’t went to school yesterday.",
+        "D": "Had she completed the project before the deadline?"
+      },
       "correctAnswer": "C",
       "explanation": "Option (C) 'He didn’t went to school yesterday.' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 20,
       "question": "Convert into Future Perfect tense: \"They finish their work before lunch.\"",
-      "options": [
-        "They will have finished their work before lunch.",
-        "They had finished their work before lunch.",
-        "They has finished their work before lunch.",
-        "They were finishing their work before lunch."
-      ],
+      "options": {
+        "A": "They will have finished their work before lunch.",
+        "B": "They had finished their work before lunch.",
+        "C": "They has finished their work before lunch.",
+        "D": "They were finishing their work before lunch."
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'They will have finished their work before lunch.' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 21,
       "question": "Choose the correct past simple negative form: \"She sang beautifully at the concert.\"",
-      "options": [
-        "She did not sang beautifully at the concert.",
-        "She did not sing beautifully at the concert.",
-        "She was not singing beautifully at the concert.",
-        "She do not sing beautifully at the concert."
-      ],
+      "options": {
+        "A": "She did not sang beautifully at the concert.",
+        "B": "She did not sing beautifully at the concert.",
+        "C": "She was not singing beautifully at the concert.",
+        "D": "She do not sing beautifully at the concert."
+      },
       "correctAnswer": "B",
       "explanation": "Option (B) 'She did not sing beautifully at the concert.' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 22,
       "question": "Which sentence is in the Present Perfect Continuous tense?",
-      "options": [
-        "They have been studying for three hours.",
-        "They will have studied for three hours.",
-        "They had studied for three hours.",
-        "They were studying for three hours."
-      ],
+      "options": {
+        "A": "They have been studying for three hours.",
+        "B": "They will have studied for three hours.",
+        "C": "They had studied for three hours.",
+        "D": "They were studying for three hours."
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'They have been studying for three hours.' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 23,
       "question": "Convert into interrogative: \"She has been working since morning.\"",
-      "options": [
-        "Has she been working since morning?",
-        "Is she been working since morning?",
-        "Was she been working since morning?",
-        "Did she been working since morning?"
-      ],
+      "options": {
+        "A": "Has she been working since morning?",
+        "B": "Is she been working since morning?",
+        "C": "Was she been working since morning?",
+        "D": "Did she been working since morning?"
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'Has she been working since morning?' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 24,
       "question": "Identify the Future Simple sentence:",
-      "options": [
-        "They will complete the project soon.",
-        "They completed the project.",
-        "They were completing the project.",
-        "They had completed the project."
-      ],
+      "options": {
+        "A": "They will complete the project soon.",
+        "B": "They completed the project.",
+        "C": "They were completing the project.",
+        "D": "They had completed the project."
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'They will complete the project soon.' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 25,
       "question": "Choose the correct negative form: \"He was playing football.\"",
-      "options": [
-        "He was not playing football.",
-        "He did not was playing football.",
-        "He were not playing football.",
-        "He do not was playing football."
-      ],
+      "options": {
+        "A": "He was not playing football.",
+        "B": "He did not was playing football.",
+        "C": "He were not playing football.",
+        "D": "He do not was playing football."
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'He was not playing football.' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 26,
       "question": "Select the correct interrogative sentence: \"She had been working for hours.\"",
-      "options": [
-        "Had she been working for hours?",
-        "Has she been working for hours?",
-        "Was she been working for hours?",
-        "Does she been working for hours?"
-      ],
+      "options": {
+        "A": "Had she been working for hours?",
+        "B": "Has she been working for hours?",
+        "C": "Was she been working for hours?",
+        "D": "Does she been working for hours?"
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'Had she been working for hours?' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 27,
       "question": "Which sentence is in the Past Simple tense?",
-      "options": [
-        "They went to the market yesterday.",
-        "They had gone to the market.",
-        "They have gone to the market.",
-        "They are going to the market."
-      ],
+      "options": {
+        "A": "They went to the market yesterday.",
+        "B": "They had gone to the market.",
+        "C": "They have gone to the market.",
+        "D": "They are going to the market."
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'They went to the market yesterday.' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 28,
       "question": "Convert into interrogative: \"He will be traveling next week.\"",
-      "options": [
-        "Will he be traveling next week?",
-        "Is he be traveling next week?",
-        "Was he be traveling next week?",
-        "Does he be traveling next week?"
-      ],
+      "options": {
+        "A": "Will he be traveling next week?",
+        "B": "Is he be traveling next week?",
+        "C": "Was he be traveling next week?",
+        "D": "Does he be traveling next week?"
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'Will he be traveling next week?' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 29,
       "question": "Identify the incorrect sentence:",
-      "options": [
-        "He doesn’t like coffee.",
-        "She didn’t completed her work.",
-        "They have been studying for hours.",
-        "Will she be coming to the party?"
-      ],
+      "options": {
+        "A": "He doesn’t like coffee.",
+        "B": "She didn’t completed her work.",
+        "C": "They have been studying for hours.",
+        "D": "Will she be coming to the party?"
+      },
       "correctAnswer": "B",
       "explanation": "Option (B) 'She didn’t completed her work.' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 30,
       "question": "Choose the correct negative form: \"She had submitted the report.\"",
-      "options": [
-        "She hadn’t submitted the report.",
-        "She hasn’t submitted the report.",
-        "She didn’t submitted the report.",
-        "She weren’t submitted the report."
-      ],
+      "options": {
+        "A": "She hadn’t submitted the report.",
+        "B": "She hasn’t submitted the report.",
+        "C": "She didn’t submitted the report.",
+        "D": "She weren’t submitted the report."
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'She hadn’t submitted the report.' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 31,
       "question": "Which sentence is in the Future Perfect Continuous tense?",
-      "options": [
-        "He will have been waiting for two hours.",
-        "He will wait for two hours.",
-        "He is waiting for two hours.",
-        "He had waited for two hours."
-      ],
+      "options": {
+        "A": "He will have been waiting for two hours.",
+        "B": "He will wait for two hours.",
+        "C": "He is waiting for two hours.",
+        "D": "He had waited for two hours."
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'He will have been waiting for two hours.' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 32,
       "question": "Identify the Present Simple sentence:",
-      "options": [
-        "He plays the guitar.",
-        "He has played the guitar.",
-        "He is playing the guitar.",
-        "He had played the guitar."
-      ],
+      "options": {
+        "A": "He plays the guitar.",
+        "B": "He has played the guitar.",
+        "C": "He is playing the guitar.",
+        "D": "He had played the guitar."
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'He plays the guitar.' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 33,
       "question": "Identify the correctly punctuated sentence.",
-      "options": [
-        "Despite the heavy rain; we continued our journey without hesitation.",
-        "Despite the heavy rain, we continued our journey; without hesitation.",
-        "Despite the heavy rain, we continued our journey without hesitation.",
-        "Despite, the heavy rain we continued our journey without hesitation."
-      ],
+      "options": {
+        "A": "Despite the heavy rain; we continued our journey without hesitation.",
+        "B": "Despite the heavy rain, we continued our journey; without hesitation.",
+        "C": "Despite the heavy rain, we continued our journey without hesitation.",
+        "D": "Despite, the heavy rain we continued our journey without hesitation."
+      },
       "correctAnswer": "C",
       "explanation": "Option (C) 'Despite the heavy rain, we continued our journey without hesitation.' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 34,
       "question": "Where should the full stop be placed in the following sentence? \"The professor asked the students to submit their assignments by Friday otherwise they would not be graded\"",
-      "options": [
-        "The professor asked the students to submit their assignments by Friday. Otherwise they",
-        "The professor asked the students to submit their assignments by Friday; otherwise, they",
-        "The professor asked the students to submit their assignments by Friday, otherwise they",
-        "The professor asked the students to submit their assignments by Friday otherwise, they"
-      ],
+      "options": {
+        "A": "The professor asked the students to submit their assignments by Friday. Otherwise they",
+        "B": "The professor asked the students to submit their assignments by Friday; otherwise, they",
+        "C": "The professor asked the students to submit their assignments by Friday, otherwise they",
+        "D": "The professor asked the students to submit their assignments by Friday otherwise, they"
+      },
       "correctAnswer": "B",
       "explanation": "Option (B) 'The professor asked the students to submit their assignments by Friday; otherwise, they' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 35,
       "question": "Choose the correctly punctuated version of the sentence. \"Although she was tired she continued working, determined to finish before midnight.\"",
-      "options": [
-        "Although, she was tired, she continued working determined to finish before midnight.",
-        "Although she was tired; she continued working, determined to finish before midnight.",
-        "Although she was tired, she continued working, determined to finish before midnight.",
-        "Although she was tired she continued working determined, to finish before midnight."
-      ],
+      "options": {
+        "A": "Although, she was tired, she continued working determined to finish before midnight.",
+        "B": "Although she was tired; she continued working, determined to finish before midnight.",
+        "C": "Although she was tired, she continued working, determined to finish before midnight.",
+        "D": "Although she was tired she continued working determined, to finish before midnight."
+      },
       "correctAnswer": "C",
       "explanation": "Option (C) 'Although she was tired, she continued working, determined to finish before midnight.' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     }

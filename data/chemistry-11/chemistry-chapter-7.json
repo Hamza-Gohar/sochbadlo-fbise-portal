@@ -143,8 +143,8 @@
         "C": "No change",
         "D": "Both reactants and products equally"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct answer: 'The products'. According to Federal Board Class 11 Chemistry principles of Chemical Equilibrium & Le Chatelier's Principle.",
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'The reactants'. According to Le Chatelier’s Principle, decreasing reactant concentration shifts the equilibrium toward reactants to replenish the consumed substance.",
       "id": 12
     },
     {
@@ -155,8 +155,8 @@
         "C": "No shift",
         "D": "Depends on temperature"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct answer: 'To the left'. According to Federal Board Class 11 Chemistry principles of Chemical Equilibrium & Le Chatelier's Principle.",
+      "correctAnswer": "B",
+      "explanation": "Correct answer: 'To the right'. According to Le Chatelier’s Principle, increasing pressure shifts equilibrium toward the side with fewer gas moles (the products side / to the right).",
       "id": 13
     },
     {

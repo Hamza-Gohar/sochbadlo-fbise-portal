@@ -7,360 +7,360 @@
     {
       "id": 1,
       "question": "Where was Prophet Muhammad ‫ ﷺ‬born?",
-      "options": [
-        "Madinah",
-        "Taif",
-        "Makkah",
-        "Syria"
-      ],
+      "options": {
+        "A": "Madinah",
+        "B": "Taif",
+        "C": "Makkah",
+        "D": "Syria"
+      },
       "correctAnswer": "C",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (C) 'Makkah' ہے۔"
     },
     {
       "id": 2,
       "question": "Where was the first revelation sent down upon the Prophet ‫?ﷺ‬",
-      "options": [
-        "Cave Thawr",
-        "Cave Hira",
-        "Masjid Nabawi",
-        "Bait-ul-Maqdis"
-      ],
+      "options": {
+        "A": "Cave Thawr",
+        "B": "Cave Hira",
+        "C": "Masjid Nabawi",
+        "D": "Bait-ul-Maqdis"
+      },
       "correctAnswer": "B",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (B) 'Cave Hira' ہے۔"
     },
     {
       "id": 3,
       "question": "How many wives (Ummahat-ul-Mu'mineen) did Prophet Muhammad ‫ ﷺ‬have?",
-      "options": [
-        "9",
-        "10",
-        "11",
-        "12"
-      ],
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "12"
+      },
       "correctAnswer": "C",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (C) '11' ہے۔"
     },
     {
       "id": 4,
       "question": "What was the first miracle of Prophet Muhammad ‫?ﷺ‬",
-      "options": [
-        "Splitting of the moon",
-        "Water flowing from his fingers",
-        "Trees bowing to him",
-        "Stones reciting the Kalima"
-      ],
+      "options": {
+        "A": "Splitting of the moon",
+        "B": "Water flowing from his fingers",
+        "C": "Trees bowing to him",
+        "D": "Stones reciting the Kalima"
+      },
       "correctAnswer": "A",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (A) 'Splitting of the moon' ہے۔"
     },
     {
       "id": 5,
       "question": "How old was Prophet Muhammad ‫ ﷺ‬at the time of his passing?",
-      "options": [
-        "60 years",
-        "61 years",
-        "62 years",
-        "63 years"
-      ],
+      "options": {
+        "A": "60 years",
+        "B": "61 years",
+        "C": "62 years",
+        "D": "63 years"
+      },
       "correctAnswer": "D",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (D) '63 years' ہے۔"
     },
     {
       "id": 6,
       "question": "Who were the Ashra Mubashsharah?",
-      "options": [
-        "The ten companions who participated in the Battle of Badr",
-        "The ten companions who were given the glad tidings of Paradise",
-        "The ten companions martyred in the Battle of Uhud",
-        "The ten companions who migrated to Madinah"
-      ],
+      "options": {
+        "A": "The ten companions who participated in the Battle of Badr",
+        "B": "The ten companions who were given the glad tidings of Paradise",
+        "C": "The ten companions martyred in the Battle of Uhud",
+        "D": "The ten companions who migrated to Madinah"
+      },
       "correctAnswer": "B",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (B) 'The ten companions who were given the glad tidings of Paradise' ہے۔"
     },
     {
       "id": 7,
       "question": "Who was the second Caliph of Islam?",
-      "options": [
-        "Hazrat Abu Bakr (RA)",
-        "Hazrat Umar Farooq (RA)",
-        "Hazrat Usman (RA)",
-        "Hazrat Ali (RA)"
-      ],
-      "correctAnswer": "A",
-      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Hazrat Abu Bakr (RA)' ہے۔"
+      "options": {
+        "A": "Hazrat Abu Bakr (RA)",
+        "B": "Hazrat Umar Farooq (RA)",
+        "C": "Hazrat Usman (RA)",
+        "D": "Hazrat Ali (RA)"
+      },
+      "correctAnswer": "B",
+      "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (B) 'Hazrat Umar Farooq (RA)' ہے۔"
     },
     {
       "id": 8,
       "question": "Which was the first battle in Islam?",
-      "options": [
-        "Battle of Badr",
-        "Battle of Uhud",
-        "Battle of Khandaq",
-        "Battle of Khyber"
-      ],
+      "options": {
+        "A": "Battle of Badr",
+        "B": "Battle of Uhud",
+        "C": "Battle of Khandaq",
+        "D": "Battle of Khyber"
+      },
       "correctAnswer": "A",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (A) 'Battle of Badr' ہے۔"
     },
     {
       "id": 9,
       "question": "What is the year of the Prophet’s migration known as?",
-      "options": [
-        "Aam-ul-Feel (Year of the Elephant)",
-        "Aam-ul-Huzn (Year of Sorrow)",
-        "Aam-ul-Fath (Year of Victory)",
-        "Aam-ul-Hijrah (Year of Migration)"
-      ],
-      "correctAnswer": "A",
-      "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (A) 'Aam-ul-Feel (Year of the Elephant)' ہے۔"
+      "options": {
+        "A": "Aam-ul-Feel (Year of the Elephant)",
+        "B": "Aam-ul-Huzn (Year of Sorrow)",
+        "C": "Aam-ul-Fath (Year of Victory)",
+        "D": "Aam-ul-Hijrah (Year of Migration)"
+      },
+      "correctAnswer": "D",
+      "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (D) 'Aam-ul-Hijrah (Year of Migration)' ہے۔"
     },
     {
       "id": 10,
       "question": "Where was Prophet Muhammad ‫ ﷺ‬born?",
-      "options": [
-        "Madinah",
-        "Taif",
-        "Makkah",
-        "Syria"
-      ],
+      "options": {
+        "A": "Madinah",
+        "B": "Taif",
+        "C": "Makkah",
+        "D": "Syria"
+      },
       "correctAnswer": "C",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (C) 'Makkah' ہے۔"
     },
     {
       "id": 11,
       "question": "Where was the first revelation sent down upon the Prophet ‫?ﷺ‬",
-      "options": [
-        "Cave Thawr",
-        "Cave Hira",
-        "Masjid Nabawi",
-        "Bait-ul-Maqdis"
-      ],
+      "options": {
+        "A": "Cave Thawr",
+        "B": "Cave Hira",
+        "C": "Masjid Nabawi",
+        "D": "Bait-ul-Maqdis"
+      },
       "correctAnswer": "B",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (B) 'Cave Hira' ہے۔"
     },
     {
       "id": 12,
       "question": "How many wives (Ummahat-ul-Mu'mineen) did Prophet Muhammad ‫ ﷺ‬have?",
-      "options": [
-        "9",
-        "10",
-        "11",
-        "12"
-      ],
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "12"
+      },
       "correctAnswer": "C",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (C) '11' ہے۔"
     },
     {
       "id": 13,
       "question": "What was the first miracle of Prophet Muhammad ‫?ﷺ‬",
-      "options": [
-        "Splitting of the moon",
-        "Water flowing from his fingers",
-        "Trees bowing to him",
-        "Stones reciting the Kalima"
-      ],
+      "options": {
+        "A": "Splitting of the moon",
+        "B": "Water flowing from his fingers",
+        "C": "Trees bowing to him",
+        "D": "Stones reciting the Kalima"
+      },
       "correctAnswer": "A",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (A) 'Splitting of the moon' ہے۔"
     },
     {
       "id": 14,
       "question": "How old was Prophet Muhammad ‫ ﷺ‬at the time of his passing?",
-      "options": [
-        "60 years",
-        "61 years",
-        "62 years",
-        "63 years"
-      ],
+      "options": {
+        "A": "60 years",
+        "B": "61 years",
+        "C": "62 years",
+        "D": "63 years"
+      },
       "correctAnswer": "D",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (D) '63 years' ہے۔"
     },
     {
       "id": 15,
       "question": "Who were the Ashra Mubashsharah?",
-      "options": [
-        "The ten companions who participated in the Battle of Badr",
-        "The ten companions who were given the glad tidings of Paradise",
-        "The ten companions martyred in the Battle of Uhud",
-        "The ten companions who migrated to Madinah"
-      ],
+      "options": {
+        "A": "The ten companions who participated in the Battle of Badr",
+        "B": "The ten companions who were given the glad tidings of Paradise",
+        "C": "The ten companions martyred in the Battle of Uhud",
+        "D": "The ten companions who migrated to Madinah"
+      },
       "correctAnswer": "B",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (B) 'The ten companions who were given the glad tidings of Paradise' ہے۔"
     },
     {
       "id": 16,
       "question": "Who was the second Caliph of Islam?",
-      "options": [
-        "Hazrat Abu Bakr (RA)",
-        "Hazrat Umar Farooq (RA)",
-        "Hazrat Usman (RA)",
-        "Hazrat Ali (RA)"
-      ],
-      "correctAnswer": "A",
-      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Hazrat Abu Bakr (RA)' ہے۔"
+      "options": {
+        "A": "Hazrat Abu Bakr (RA)",
+        "B": "Hazrat Umar Farooq (RA)",
+        "C": "Hazrat Usman (RA)",
+        "D": "Hazrat Ali (RA)"
+      },
+      "correctAnswer": "B",
+      "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (B) 'Hazrat Umar Farooq (RA)' ہے۔"
     },
     {
       "id": 17,
       "question": "Which was the first battle in Islam?",
-      "options": [
-        "Battle of Badr",
-        "Battle of Uhud",
-        "Battle of Khandaq",
-        "Battle of Khyber"
-      ],
+      "options": {
+        "A": "Battle of Badr",
+        "B": "Battle of Uhud",
+        "C": "Battle of Khandaq",
+        "D": "Battle of Khyber"
+      },
       "correctAnswer": "A",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (A) 'Battle of Badr' ہے۔"
     },
     {
       "id": 18,
       "question": "What is the year of the Prophet’s migration known as?",
-      "options": [
-        "Aam-ul-Feel (Year of the Elephant)",
-        "Aam-ul-Huzn (Year of Sorrow)",
-        "Aam-ul-Fath (Year of Victory)",
-        "Aam-ul-Hijrah (Year of Migration)"
-      ],
-      "correctAnswer": "A",
-      "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (A) 'Aam-ul-Feel (Year of the Elephant)' ہے۔"
+      "options": {
+        "A": "Aam-ul-Feel (Year of the Elephant)",
+        "B": "Aam-ul-Huzn (Year of Sorrow)",
+        "C": "Aam-ul-Fath (Year of Victory)",
+        "D": "Aam-ul-Hijrah (Year of Migration)"
+      },
+      "correctAnswer": "D",
+      "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (D) 'Aam-ul-Hijrah (Year of Migration)' ہے۔"
     },
     {
       "id": 19,
       "question": "Where was Prophet Muhammad ‫ ﷺ‬born?",
-      "options": [
-        "Madinah",
-        "Taif",
-        "Makkah",
-        "Syria"
-      ],
+      "options": {
+        "A": "Madinah",
+        "B": "Taif",
+        "C": "Makkah",
+        "D": "Syria"
+      },
       "correctAnswer": "C",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (C) 'Makkah' ہے۔"
     },
     {
       "id": 20,
       "question": "Where was the first revelation given to Prophet Muhammad ‫?ﷺ‬",
-      "options": [
-        "Cave Thawr",
-        "Cave Hira",
-        "Masjid Nabawi",
-        "Bait-ul-Maqdis"
-      ],
+      "options": {
+        "A": "Cave Thawr",
+        "B": "Cave Hira",
+        "C": "Masjid Nabawi",
+        "D": "Bait-ul-Maqdis"
+      },
       "correctAnswer": "B",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (B) 'Cave Hira' ہے۔"
     },
     {
       "id": 21,
       "question": "How many wives did Prophet Muhammad ‫ ﷺ‬have?",
-      "options": [
-        "9",
-        "10",
-        "11",
-        "12"
-      ],
+      "options": {
+        "A": "9",
+        "B": "10",
+        "C": "11",
+        "D": "12"
+      },
       "correctAnswer": "C",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (C) '11' ہے۔"
     },
     {
       "id": 22,
       "question": "What was the first miracle of Prophet Muhammad ‫?ﷺ‬",
-      "options": [
-        "Splitting of the moon",
-        "Making a water spring flow",
-        "Trees bowing down",
-        "Stones reciting Kalima"
-      ],
+      "options": {
+        "A": "Splitting of the moon",
+        "B": "Making a water spring flow",
+        "C": "Trees bowing down",
+        "D": "Stones reciting Kalima"
+      },
       "correctAnswer": "A",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (A) 'Splitting of the moon' ہے۔"
     },
     {
       "id": 23,
       "question": "What was the age of Prophet Muhammad ‫ ﷺ‬at the time of his passing?",
-      "options": [
-        "60 years",
-        "61 years",
-        "62 years",
-        "63 years"
-      ],
+      "options": {
+        "A": "60 years",
+        "B": "61 years",
+        "C": "62 years",
+        "D": "63 years"
+      },
       "correctAnswer": "D",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (D) '63 years' ہے۔"
     },
     {
       "id": 24,
       "question": "Who was the second Caliph of Islam?",
-      "options": [
-        "Abu Bakr (RA)",
-        "Umar ibn Khattab (RA)",
-        "Uthman ibn Affan (RA)",
-        "Ali ibn Abi Talib (RA)"
-      ],
-      "correctAnswer": "A",
-      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Abu Bakr (RA)' ہے۔"
+      "options": {
+        "A": "Abu Bakr (RA)",
+        "B": "Umar ibn Khattab (RA)",
+        "C": "Uthman ibn Affan (RA)",
+        "D": "Ali ibn Abi Talib (RA)"
+      },
+      "correctAnswer": "B",
+      "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (B) 'Umar ibn Khattab (RA)' ہے۔"
     },
     {
       "id": 25,
       "question": "What was the first battle in Islam?",
-      "options": [
-        "Battle of Badr",
-        "Battle of Uhud",
-        "Battle of Khandaq",
-        "Battle of Khaibar"
-      ],
+      "options": {
+        "A": "Battle of Badr",
+        "B": "Battle of Uhud",
+        "C": "Battle of Khandaq",
+        "D": "Battle of Khaibar"
+      },
       "correctAnswer": "A",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (A) 'Battle of Badr' ہے۔"
     },
     {
       "id": 26,
       "question": "What is the name of the year when Prophet Muhammad ‫ ﷺ‬migrated?",
-      "options": [
-        "Year of the Elephant",
-        "Year of Sorrow",
-        "Year of Victory",
-        "Year of Migration"
-      ],
+      "options": {
+        "A": "Year of the Elephant",
+        "B": "Year of Sorrow",
+        "C": "Year of Victory",
+        "D": "Year of Migration"
+      },
       "correctAnswer": "D",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (D) 'Year of Migration' ہے۔"
     },
     {
       "id": 27,
       "question": "What was the name of Prophet Isa’s (AS) mother?",
-      "options": [
-        "Asiya (AS)",
-        "Hajar (AS)",
-        "Maryam (AS)",
-        "Fatimah (RA)"
-      ],
-      "correctAnswer": "A",
-      "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (A) 'Asiya (AS)' ہے۔"
+      "options": {
+        "A": "Asiya (AS)",
+        "B": "Hajar (AS)",
+        "C": "Maryam (AS)",
+        "D": "Fatimah (RA)"
+      },
+      "correctAnswer": "C",
+      "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (C) 'Maryam (AS)' ہے۔"
     },
     {
       "id": 28,
       "question": "On which prophet was the Quran revealed?",
-      "options": [
-        "Prophet Musa (AS)",
-        "Prophet Isa (AS)",
-        "Prophet Muhammad (‫)ﷺ‬",
-        "Prophet Dawud (AS)"
-      ],
+      "options": {
+        "A": "Prophet Musa (AS)",
+        "B": "Prophet Isa (AS)",
+        "C": "Prophet Muhammad (‫)ﷺ‬",
+        "D": "Prophet Dawud (AS)"
+      },
       "correctAnswer": "C",
       "explanation": "قرآن مجید اور علوم الحدیث کے مستند تاریخی و تفسیری ماخذ کے مطابق درست جواب 'Prophet Muhammad (‫)ﷺ‬' ہے۔"
     },
     {
       "id": 29,
       "question": "Which book was revealed to Prophet Isa (AS)?",
-      "options": [
-        "Psalms",
-        "Torah",
-        "Gospel",
-        "Quran"
-      ],
+      "options": {
+        "A": "Psalms",
+        "B": "Torah",
+        "C": "Gospel",
+        "D": "Quran"
+      },
       "correctAnswer": "C",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (C) 'Gospel' ہے۔"
     },
     {
       "id": 30,
       "question": "Which book was revealed to Prophet Musa (AS)?",
-      "options": [
-        "Psalms",
-        "Torah",
-        "Gospel",
-        "Quran"
-      ],
+      "options": {
+        "A": "Psalms",
+        "B": "Torah",
+        "C": "Gospel",
+        "D": "Quran"
+      },
       "correctAnswer": "B",
       "explanation": "سیرتِ نبوی ﷺ اور تاریخِ اسلام کے مستند روایات کے مطابق درست جواب (B) 'Torah' ہے۔"
     }

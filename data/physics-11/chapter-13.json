@@ -12,8 +12,8 @@
         "C": "Inertial frame",
         "D": "Rotating frame"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "By definition, an inertial frame is one in which Newton’s First Law holds true."
     },
     {
       "id": 2,
@@ -24,8 +24,8 @@
         "C": "Non-inertial frames",
         "D": "Gravitational fields"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "The principle of relativity states that the laws of physics are identical in all inertial (nonaccelerating) frames."
     },
     {
       "id": 3,
@@ -36,8 +36,8 @@
         "C": "Both the motion of the source and the observer",
         "D": "The frequency of light only"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "Einstein’s second postulate states that the speed of light in vacuum remains constant regardless\nof the motion of the source or observer."
     },
     {
       "id": 4,
@@ -48,8 +48,8 @@
         "C": "Double its rest mass",
         "D": "Infinite"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "D",
+      "explanation": "Relativistic mass:\nm = m₀ / √(1 − v²/c²)\nAs v approaches c, the denominator approaches zero, so mass approaches infinity."
     },
     {
       "id": 5,
@@ -60,8 +60,8 @@
         "C": "Relative time",
         "D": "Absolute time"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Proper time is the time interval measured in the frame where both events occur at the same place."
     },
     {
       "id": 6,
@@ -72,8 +72,8 @@
         "C": "60 m",
         "D": "125 m"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "Length contraction formula:\n\n\nL = L₀ √(1 − v²/c²)\nL = 100 √(1 − 0.8²)\nL = 100 √(0.36)\nL = 100 × 0.6\nL = 60 m"
     },
     {
       "id": 7,
@@ -84,8 +84,8 @@
         "C": "Only valid for inertial frames",
         "D": "Dependent on the intensity of light"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "According to relativity, two events simultaneous in one frame may not be simultaneous in\nanother moving frame."
     },
     {
       "id": 8,
@@ -96,8 +96,8 @@
         "C": "1.66",
         "D": "1.0"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Lorentz factor:\nγ = 1 / √(1 − 0.6²)\nγ = 1 / √(0.64)\nγ = 1 / 0.8\nγ = 1.25"
     },
     {
       "id": 9,
@@ -109,7 +109,7 @@
         "D": "0.931 MeV"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "Rest mass energy:\nE₀ = m₀c²\nE₀ ≈ 0.511 MeV"
     },
     {
       "id": 10,
@@ -120,8 +120,8 @@
         "C": "0.866c",
         "D": "c"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "If kinetic energy equals rest mass energy:\n(m − m₀)c² = m₀c²\nm = 2m₀\nγ=2\nv ≈ 0.866c"
     },
     {
       "id": 11,
@@ -132,8 +132,8 @@
         "C": "Remains constant",
         "D": "Becomes imaginary"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Length contraction occurs in the direction of motion only.\nAs speed increases, observed length decreases."
     },
     {
       "id": 12,
@@ -144,8 +144,8 @@
         "C": "At the same rate",
         "D": "Backward"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Due to time dilation, a moving clock appears to run slower to a stationary observer."
     },
     {
       "id": 13,
@@ -156,8 +156,8 @@
         "C": "E = ½m₀v²",
         "D": "E = hf"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Mass-energy equivalence relation:\nE = mc²"
     },
     {
       "id": 14,
@@ -168,8 +168,8 @@
         "C": "½m₀v²",
         "D": "Zero"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "At very small velocities compared to c, relativistic kinetic energy reduces to classical kinetic\nenergy:\nK.E. = ½m₀v²"
     },
     {
       "id": 15,
@@ -180,8 +180,8 @@
         "C": "Time",
         "D": "Velocity"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "Relativity combines three spatial dimensions with time to form four-dimensional spacetime."
     },
     {
       "id": 16,
@@ -193,7 +193,7 @@
         "D": "Be zero"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "Moving particles experience time dilation, so their observed lifetime increases."
     },
     {
       "id": 17,
@@ -204,8 +204,8 @@
         "C": "Undergoing acceleration",
         "D": "Following Newton’s first law"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "A non-inertial frame is an accelerating or rotating frame."
     },
     {
       "id": 18,
@@ -216,8 +216,8 @@
         "C": "v ≪ c",
         "D": "v = 0"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "When velocity is much smaller than speed of light, Lorentz transformations reduce to Galilean\ntransformations."
     },
     {
       "id": 19,
@@ -228,8 +228,8 @@
         "C": "Mass depends on the observer’s frame",
         "D": "Density remains constant"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "Relativistic mass changes with velocity, meaning observed mass depends on the frame of\nreference."
     },
     {
       "id": 20,
@@ -240,8 +240,8 @@
         "C": "Both space and time are relative",
         "D": "Speed of light depends on the medium only"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "Since speed of light remains constant for all observers, measurements of space and time must\nchange accordingly."
     },
     {
       "id": 21,
@@ -252,8 +252,8 @@
         "C": "0.707c",
         "D": "0.99c"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "If relativistic mass is 2m₀:\nγ=2\n\n\nv ≈ 0.866c"
     },
     {
       "id": 22,
@@ -264,8 +264,8 @@
         "C": "p = mv²",
         "D": "p = m₀c³"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Relativistic momentum:\np = γm₀v"
     },
     {
       "id": 23,
@@ -276,8 +276,8 @@
         "C": "L′ = L",
         "D": "L′ = 0"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Proper length is always maximum.\nA moving observer measures a contracted length."
     },
     {
       "id": 24,
@@ -288,8 +288,8 @@
         "C": "Rest mass energy and potential energy",
         "D": "Momentum and velocity"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Total energy equals rest mass energy plus kinetic energy."
     },
     {
       "id": 25,
@@ -300,8 +300,8 @@
         "C": "∞",
         "D": "0.5"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "As v approaches c:\n√(1 − v²/c²) approaches zero."
     },
     {
       "id": 26,
@@ -312,8 +312,8 @@
         "C": "0.707c",
         "D": "0.25c"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "If observed length becomes half:\n0.5 = √(1 − v²/c²)\nv ≈ 0.866c"
     },
     {
       "id": 27,
@@ -325,7 +325,7 @@
         "D": "mc²"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "Relativistic kinetic energy:\nK.E. = mc² − m₀c²"
     },
     {
       "id": 28,
@@ -337,7 +337,7 @@
         "D": "1 J"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "Using:\nE = mc²\nE = (1)(3 × 10⁸)²\nE = 9 × 10¹⁶ J"
     },
     {
       "id": 29,
@@ -348,8 +348,8 @@
         "C": "Gravity/Mass",
         "D": "Temperature"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "General relativity explains that gravity bends spacetime."
     },
     {
       "id": 30,
@@ -361,7 +361,7 @@
         "D": "Vanishes at high speeds"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "Einstein described mass as a concentrated form of energy."
     },
     {
       "id": 31,
@@ -372,8 +372,8 @@
         "C": "Are only simultaneous if they happen at the same point",
         "D": "Cannot happen in another frame"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Events simultaneous in one frame may occur at different times in another frame."
     },
     {
       "id": 32,
@@ -385,7 +385,7 @@
         "D": "80%"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "γ = 1 / √(1 − 0.6²)\nγ = 1.25\nL = L₀/1.25 = 0.8L₀\n\n\nContraction = 20%"
     },
     {
       "id": 33,
@@ -396,8 +396,8 @@
         "C": "Einstein",
         "D": "Maxwell"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Galileo first introduced the principle of relativity for mechanics."
     },
     {
       "id": 34,
@@ -409,7 +409,7 @@
         "D": "Distorted"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "Inside the spaceship, laws of optics remain normal.\nThe observer sees a normal reflection."
     },
     {
       "id": 35,
@@ -420,8 +420,8 @@
         "C": "0.6",
         "D": "2.0"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "For v = 0.8c:\nγ = 1 / 0.6\nγ ≈ 1.66"
     },
     {
       "id": 36,
@@ -433,7 +433,7 @@
         "D": "The formula becomes invalid"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "As velocity approaches c, time dilation becomes extremely large and processes appear frozen to\nan external observer."
     },
     {
       "id": 37,
@@ -444,8 +444,8 @@
         "C": "Zero",
         "D": "2m₀c²"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Infinite energy is required for a massive object to reach the speed of light."
     },
     {
       "id": 38,
@@ -456,8 +456,8 @@
         "C": "Both special and general relativistic effects",
         "D": "Newton’s second law only"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "GPS satellites require corrections from both special and general relativity for accurate timing."
     },
     {
       "id": 39,
@@ -468,8 +468,8 @@
         "C": "Asymptotic to infinity",
         "D": "Parabolic"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "Relativistic mass increases sharply and tends toward infinity as v approaches c."
     },
     {
       "id": 40,
@@ -480,8 +480,8 @@
         "C": "Mass-energy equivalence",
         "D": "Non-inertial frames"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "Nuclear reactions convert mass into energy according to:\nE = Δmc²"
     },
     {
       "id": 41,
@@ -493,7 +493,7 @@
         "D": "Absolute"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "Proper time is the shortest possible time interval between two events."
     },
     {
       "id": 42,
@@ -504,8 +504,8 @@
         "C": "6m₀c²",
         "D": "m₀c²"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Kinetic energy:\nK.E. = Total Energy − Rest Energy\nK.E. = 5m₀c² − m₀c²\nK.E. = 4m₀c²"
     },
     {
       "id": 43,
@@ -516,8 +516,8 @@
         "C": "Third",
         "D": "Fourth"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "The second postulate states that the speed of light is constant in all inertial frames."
     },
     {
       "id": 44,
@@ -528,8 +528,8 @@
         "C": "Moving at constant velocity",
         "D": "In a strong gravitational field"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "Special relativity applies only to inertial frames moving with constant velocity."
     },
     {
       "id": 45,
@@ -540,8 +540,8 @@
         "C": "Greater than or equal to 1",
         "D": "Negative"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "Since v is always less than c:\n1 / √(1 − v²/c²) is always greater than or equal to 1."
     },
     {
       "id": 46,
@@ -553,7 +553,7 @@
         "D": "Non-existent"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "In the Twin Paradox, the traveling twin becomes younger because of time dilation."
     },
     {
       "id": 47,
@@ -565,7 +565,7 @@
         "D": "1%"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "For v = 0.99c:\nγ≈7\nL = L₀/7 ≈ 0.14L₀\nLength becomes about 14% of proper length."
     },
     {
       "id": 48,
@@ -576,8 +576,8 @@
         "C": "Mass and energy are independent",
         "D": "Only potential energy is related to mass"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Mass-energy equivalence means mass can convert into energy and energy into mass."
     },
     {
       "id": 49,
@@ -588,8 +588,8 @@
         "C": "Ultimate/Maximum",
         "D": "Starting"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "The speed of light is the ultimate speed limit in the universe."
     },
     {
       "id": 50,
@@ -600,8 +600,8 @@
         "C": "Photoelectric Effect",
         "D": "Brownian Motion"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "Einstein received the Nobel Prize mainly for explaining the Photoelectric Effect."
     }
   ]
 }

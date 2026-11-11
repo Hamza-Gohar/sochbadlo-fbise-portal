@@ -23,8 +23,8 @@
         "C": "3 moles",
         "D": "0.5 moles"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct answer: '1 mole'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '2 moles'. Molar mass of H₂O is 18 g/mol. Number of moles = 36 g / 18 g/mol = 2 moles.",
       "id": 2
     },
     {
@@ -35,8 +35,8 @@
         "C": "58 g",
         "D": "29 g"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct answer: '116 g'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '232 g'. From 2Na + Cl₂ → 2NaCl (1:1 mole ratio), 4 moles of Na produce 4 moles of NaCl = 4 × 58 g/mol = 232 g.",
       "id": 3
     },
     {
@@ -215,8 +215,8 @@
         "C": "2 g",
         "D": "1 g"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct answer: '4 g'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '2 g'. 18 g of water is 1 mole of H₂O. From 2H₂ + O₂ → 2H₂O, 1 mole of H₂O requires 1 mole of H₂ = 2 g.",
       "id": 18
     },
     {
@@ -263,8 +263,8 @@
         "C": "16 g",
         "D": "8 g"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct answer: '32 g'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '64 g'. From 2H₂ + O₂ → 2H₂O, 4 moles of H₂ require 2 moles of O₂ = 2 × 32 g = 64 g.",
       "id": 22
     },
     {
@@ -299,8 +299,8 @@
         "C": "0.5 M",
         "D": "0.1 M"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct answer: '0.25 M'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '0.4 M'. Molarity = moles / volume in liters = 0.1 mol / 0.250 L = 0.4 M.",
       "id": 25
     },
     {
@@ -311,8 +311,8 @@
         "C": "3 moles",
         "D": "0.5 moles"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct answer: '1 mole'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '2 moles'. Molar mass of CO₂ is 44 g/mol. Number of moles = 88 g / 44 g/mol = 2 moles.",
       "id": 26
     },
     {
@@ -335,8 +335,8 @@
         "C": "9 g",
         "D": "28 g"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct answer: '18 g'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '36 g'. 2H₂ + O₂ → 2H₂O. 1 mole of O₂ reacts with 2 moles of H₂ to produce 2 moles of H₂O = 2 × 18 g = 36 g.",
       "id": 28
     },
     {
@@ -407,8 +407,8 @@
         "C": "2.4 × 10²³",
         "D": "12.044 × 10²³"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct answer: '2.4 × 10²³'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "correctAnswer": "D",
+      "explanation": "Correct answer: '12.044 × 10²³'. 2 moles of CO₂ contain 2 × 6.022 × 10²³ = 12.044 × 10²³ molecules (1.2044 × 10²⁴).",
       "id": 34
     },
     {
@@ -419,8 +419,8 @@
         "C": "9 g",
         "D": "54 g"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct answer: '36 g'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "correctAnswer": "D",
+      "explanation": "Correct answer: '54 g'. From 2H₂ + O₂ → 2H₂O, 3 moles of H₂ produce 3 moles of H₂O = 3 × 18 g = 54 g.",
       "id": 35
     },
     {
@@ -503,8 +503,8 @@
         "C": "4 moles",
         "D": "8 moles"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct answer: '6 moles'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "correctAnswer": "C",
+      "explanation": "Correct answer: '4 moles'. 2A + 3B → 4C. 4 moles of A would require 6 moles of B. Since only 3 moles of B are present, B is limiting: 3 moles of B produce 4 moles of C.",
       "id": 42
     },
     {
@@ -563,8 +563,8 @@
         "C": "75%",
         "D": "80%"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct answer: '75%'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "correctAnswer": "A",
+      "explanation": "Correct answer: '25%'. In CH₄ (molar mass 16 g/mol), hydrogen contributes 4 g/mol. Mass percent of H = (4 / 16) × 100% = 25%. (75% is carbon).",
       "id": 47
     },
     {
@@ -575,8 +575,8 @@
         "C": "2.5 moles",
         "D": "20 moles"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct answer: '10 moles'. According to Federal Board Class 11 Chemistry principles of Stoichiometry & Quantitative Chemical Calculations.",
+      "correctAnswer": "B",
+      "explanation": "Correct answer: '5 moles'. From 2H₂ + O₂ → 2H₂O, 5 moles of H₂ react with excess oxygen to produce 5 moles of H₂O.",
       "id": 48
     },
     {

@@ -649,8 +649,8 @@
         "C": "150°",
         "D": "240°"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct Option (C): '150°'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 120°. Due South corresponds to a bearing of 180°. Moving 60° East of South means rotating 60° counter-clockwise towards East: 180° - 60° = 120°.",
       "id": 54
     },
     {
@@ -697,8 +697,8 @@
         "C": "35 m",
         "D": "20 m"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct Option (C): '35 m'. In FBISE Grade 9 Mathematics Unit 6 (Trigonometry & Bearing), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 30 m. In right triangle, tan(40°) = 25 / d => d = 25 / tan(40°) = 25 / 0.8391 ≈ 29.79 m ≈ 30 m.",
       "id": 58
     },
     {

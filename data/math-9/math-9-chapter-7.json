@@ -85,8 +85,8 @@
         "C": "7",
         "D": "5√2"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct Option (D): '5√2'. In FBISE Grade 9 Mathematics Unit 7 (Coordinate Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 5. The distance is d = √[(6 - 3)² + (8 - 4)²] = √(3² + 4²) = √(9 + 16) = √25 = 5.",
       "id": 7
     },
     {
@@ -157,8 +157,8 @@
         "C": "8",
         "D": "9"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct Option (C): '8'. In FBISE Grade 9 Mathematics Unit 7 (Coordinate Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 7. By midpoint formula, (3 + x)/2 = 5 => 3 + x = 10 => x = 7.",
       "id": 13
     },
     {
@@ -577,8 +577,8 @@
         "C": "4√2",
         "D": "6"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): '5√2'. In FBISE Grade 9 Mathematics Unit 7 (Coordinate Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 4√2. The length of diameter is √[(6 - 2)² + (7 - 3)²] = √(4² + 4²) = √32 = 4√2.",
       "id": 48
     },
     {
@@ -589,8 +589,8 @@
         "C": "2",
         "D": "3"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct Option (D): '3'. In FBISE Grade 9 Mathematics Unit 7 (Coordinate Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 1. Distance formula: √[(4 - x)² + (6 - 2)²] = 5 => (4 - x)² + 16 = 25 => (4 - x)² = 9 => 4 - x = ±3 => x = 1 or 7. From options, x = 1.",
       "id": 49
     },
     {
@@ -649,8 +649,8 @@
         "C": "3/2",
         "D": "-2/3"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct Option (D): '-2/3'. In FBISE Grade 9 Mathematics Unit 7 (Coordinate Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 3/2. The slope of 2x + 3y = 5 is -2/3. The slope of a perpendicular line is the negative reciprocal: -1/(-2/3) = 3/2.",
       "id": 54
     },
     {
@@ -925,8 +925,8 @@
         "C": "y = -2x + 5",
         "D": "y = -2x - 3"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): 'y = 2x + 1'. In FBISE Grade 9 Mathematics Unit 7 (Coordinate Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): y = 2x - 3. Parallel line has slope m = 2. Equation passing through (4, 5): y - 5 = 2(x - 4) => y = 2x - 8 + 5 = 2x - 3.",
       "id": 77
     },
     {
@@ -961,8 +961,8 @@
         "C": "2/5",
         "D": "-2/5"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): '-5/2'. In FBISE Grade 9 Mathematics Unit 7 (Coordinate Geometry), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 5/2. Rewriting in slope-intercept form: 2y = 5x - 10 => y = (5/2)x - 5, so slope m = 5/2.",
       "id": 80
     }
   ]

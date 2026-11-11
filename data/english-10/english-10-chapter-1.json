@@ -16,7 +16,8 @@
         "D": "He said that he had been busy then."
       },
       "answer": "A",
-      "explanation": "In indirect speech with a past reporting verb ('said'), the present simple tense ('am') shifts to past simple ('was'), and the time adverb 'now' shifts to 'then'."
+      "explanation": "In indirect speech with a past reporting verb ('said'), the present simple tense ('am') shifts to past simple ('was'), and the time adverb 'now' shifts to 'then'.",
+      "correctAnswer": "A"
     },
     {
       "id": 2,
@@ -28,7 +29,8 @@
         "D": "She said she finishes her work the previous day."
       },
       "answer": "C",
-      "explanation": "Past simple tense ('finished') shifts to past perfect tense ('had finished'), and the time adverb 'yesterday' shifts to 'the previous day' or 'the day before'."
+      "explanation": "Past simple tense ('finished') shifts to past perfect tense ('had finished'), and the time adverb 'yesterday' shifts to 'the previous day' or 'the day before'.",
+      "correctAnswer": "C"
     },
     {
       "id": 3,
@@ -40,7 +42,8 @@
         "D": "He said he goes the next day."
       },
       "answer": "A",
-      "explanation": "Modal auxiliary 'will' shifts to 'would' in indirect reporting, and the time expression 'tomorrow' shifts to 'the next day' or 'the following day'."
+      "explanation": "Modal auxiliary 'will' shifts to 'would' in indirect reporting, and the time expression 'tomorrow' shifts to 'the next day' or 'the following day'.",
+      "correctAnswer": "A"
     },
     {
       "id": 4,
@@ -52,7 +55,8 @@
         "D": "She said she read that book."
       },
       "answer": "B",
-      "explanation": "Present perfect continuous tense ('have been reading') shifts to past perfect continuous ('had been reading'), and the demonstrative pronoun 'this' shifts to 'that'."
+      "explanation": "Present perfect continuous tense ('have been reading') shifts to past perfect continuous ('had been reading'), and the demonstrative pronoun 'this' shifts to 'that'.",
+      "correctAnswer": "B"
     },
     {
       "id": 5,
@@ -64,7 +68,8 @@
         "D": "The teacher told that the sun is rising in the east."
       },
       "answer": "C",
-      "explanation": "Universal truths, scientific facts, and habitual actions do not undergo tense backshift even when the reporting verb is in the past tense."
+      "explanation": "Universal truths, scientific facts, and habitual actions do not undergo tense backshift even when the reporting verb is in the past tense.",
+      "correctAnswer": "C"
     },
     {
       "id": 6,
@@ -76,7 +81,8 @@
         "D": "She told me where I was going."
       },
       "answer": "B",
-      "explanation": "In indirect interrogative sentences beginning with Wh-words, the reporting verb changes to 'asked', the Wh-word acts as conjunction, and the sentence order becomes assertive (subject before auxiliary: 'I was going')."
+      "explanation": "In indirect interrogative sentences beginning with Wh-words, the reporting verb changes to 'asked', the Wh-word acts as conjunction, and the sentence order becomes assertive (subject before auxiliary: 'I was going').",
+      "correctAnswer": "B"
     },
     {
       "id": 7,
@@ -88,7 +94,8 @@
         "D": "He asked her whether did she like coffee."
       },
       "answer": "B",
-      "explanation": "For Yes/No interrogative sentences, the reporting clause connects with 'if' or 'whether', the auxiliary 'do' is removed, and the verb shifts to past simple ('liked')."
+      "explanation": "For Yes/No interrogative sentences, the reporting clause connects with 'if' or 'whether', the auxiliary 'do' is removed, and the verb shifts to past simple ('liked').",
+      "correctAnswer": "B"
     },
     {
       "id": 8,
@@ -100,7 +107,8 @@
         "D": "The doctor asked the patient taking medicine regularly."
       },
       "answer": "A",
-      "explanation": "In imperative sentences expressing medical counsel, the reporting verb becomes 'advised', and the imperative verb is converted into a to-infinitive clause ('to take')."
+      "explanation": "In imperative sentences expressing medical counsel, the reporting verb becomes 'advised', and the imperative verb is converted into a to-infinitive clause ('to take').",
+      "correctAnswer": "A"
     },
     {
       "id": 9,
@@ -112,7 +120,8 @@
         "D": "The father told to his son do not waste his time."
       },
       "answer": "B",
-      "explanation": "Negative imperative sentences are converted into 'advised/warned [object] not to [infinitive]'. Note: using 'forbade' already carries negative meaning so it cannot be followed by 'not'."
+      "explanation": "Negative imperative sentences are converted into 'advised/warned [object] not to [infinitive]'. Note: using 'forbade' already carries negative meaning so it cannot be followed by 'not'.",
+      "correctAnswer": "B"
     },
     {
       "id": 10,
@@ -124,7 +133,8 @@
         "D": "The mother exclaims that her son might succeed in life."
       },
       "answer": "B",
-      "explanation": "In optative sentences expressing a prayer or benediction, the reporting verb changes to 'prayed', connector 'that' is used, and 'may' shifts to 'might'."
+      "explanation": "In optative sentences expressing a prayer or benediction, the reporting verb changes to 'prayed', connector 'that' is used, and 'may' shifts to 'might'.",
+      "correctAnswer": "B"
     },
     {
       "id": 11,
@@ -136,7 +146,8 @@
         "D": "The boys cheered that they won the match."
       },
       "answer": "A",
-      "explanation": "Interjections of joy such as 'Hurrah!' change the reporting verb into 'exclaimed with joy that', and present perfect ('have won') shifts to past perfect ('had won')."
+      "explanation": "Interjections of joy such as 'Hurrah!' change the reporting verb into 'exclaimed with joy that', and present perfect ('have won') shifts to past perfect ('had won').",
+      "correctAnswer": "A"
     },
     {
       "id": 12,
@@ -148,7 +159,8 @@
         "D": "She cried that her purse had lost."
       },
       "answer": "B",
-      "explanation": "Interjection 'Alas!' indicates grief, converting the reporting verb to 'exclaimed with sorrow', followed by tense backshift from present perfect to past perfect ('had lost')."
+      "explanation": "Interjection 'Alas!' indicates grief, converting the reporting verb to 'exclaimed with sorrow', followed by tense backshift from present perfect to past perfect ('had lost').",
+      "correctAnswer": "B"
     },
     {
       "id": 13,
@@ -160,7 +172,8 @@
         "D": "He exclaimed with wonder that the rainbow is very beautiful."
       },
       "answer": "A",
-      "explanation": "Exclamatory sentences beginning with 'How/What' expressing admiration change into assertive clauses with intensifiers like 'very beautiful' and past tense 'was'."
+      "explanation": "Exclamatory sentences beginning with 'How/What' expressing admiration change into assertive clauses with intensifiers like 'very beautiful' and past tense 'was'.",
+      "correctAnswer": "A"
     },
     {
       "id": 14,
@@ -172,7 +185,8 @@
         "D": "Ali told that he would solve that puzzle easily."
       },
       "answer": "B",
-      "explanation": "Modal auxiliary 'can' shifts to 'could', and proximal demonstrative adjective 'this' shifts to distal 'that'."
+      "explanation": "Modal auxiliary 'can' shifts to 'could', and proximal demonstrative adjective 'this' shifts to distal 'that'.",
+      "correctAnswer": "B"
     },
     {
       "id": 15,
@@ -184,7 +198,8 @@
         "D": "The commander asked the soldiers that they halt."
       },
       "answer": "B",
-      "explanation": "Military and authoritative orders require reporting verbs like 'commanded' or 'ordered' followed by an infinitive ('to halt')."
+      "explanation": "Military and authoritative orders require reporting verbs like 'commanded' or 'ordered' followed by an infinitive ('to halt').",
+      "correctAnswer": "B"
     },
     {
       "id": 16,
@@ -196,7 +211,8 @@
         "D": "She says that she had loved reading novels."
       },
       "answer": "B",
-      "explanation": "When the reporting verb is in the present tense ('says') or future tense, the tense of the reported speech does NOT change ('loves reading novels')."
+      "explanation": "When the reporting verb is in the present tense ('says') or future tense, the tense of the reported speech does NOT change ('loves reading novels').",
+      "correctAnswer": "B"
     },
     {
       "id": 17,
@@ -208,7 +224,8 @@
         "D": "He will tell that he had been ready."
       },
       "answer": "B",
-      "explanation": "With a future reporting verb ('will say'), the tense in the reported clause remains unchanged in the present ('he is ready')."
+      "explanation": "With a future reporting verb ('will say'), the tense in the reported clause remains unchanged in the present ('he is ready').",
+      "correctAnswer": "B"
     },
     {
       "id": 18,
@@ -220,7 +237,8 @@
         "D": "The boy said respectfully that he submitted his assignment."
       },
       "answer": "A",
-      "explanation": "Honorific terms such as 'Sir' or 'Madam' in direct speech are replaced by the adverb 'respectfully' in indirect speech."
+      "explanation": "Honorific terms such as 'Sir' or 'Madam' in direct speech are replaced by the adverb 'respectfully' in indirect speech.",
+      "correctAnswer": "A"
     },
     {
       "id": 19,
@@ -232,7 +250,8 @@
         "D": "She said that let them go for a walk."
       },
       "answer": "B",
-      "explanation": "'Let us' indicates a proposal or suggestion. The reporting verb changes to 'suggested/proposed that [subject] should [verb]'."
+      "explanation": "'Let us' indicates a proposal or suggestion. The reporting verb changes to 'suggested/proposed that [subject] should [verb]'.",
+      "correctAnswer": "B"
     },
     {
       "id": 20,
@@ -244,7 +263,8 @@
         "D": "The beggar told to please give him some food."
       },
       "answer": "B",
-      "explanation": "Polite requests from mendicants or earnest entreaties use reporting verbs such as 'requested' or 'begged' with the infinitive 'to give'."
+      "explanation": "Polite requests from mendicants or earnest entreaties use reporting verbs such as 'requested' or 'begged' with the infinitive 'to give'.",
+      "correctAnswer": "B"
     },
     {
       "id": 21,
@@ -256,7 +276,8 @@
         "D": "He questioned me that what my name was."
       },
       "answer": "B",
-      "explanation": "In indirect Wh-questions, the verb appears after the subject noun phrase ('what my name was'). Placing 'was' before 'my name' violates indirect assertive syntax."
+      "explanation": "In indirect Wh-questions, the verb appears after the subject noun phrase ('what my name was'). Placing 'was' before 'my name' violates indirect assertive syntax.",
+      "correctAnswer": "B"
     },
     {
       "id": 22,
@@ -268,7 +289,8 @@
         "D": "The teacher advised honesty had been the best policy."
       },
       "answer": "B",
-      "explanation": "Philosophical maxims, proverbs, and universal truths remain in the present simple tense in indirect speech."
+      "explanation": "Philosophical maxims, proverbs, and universal truths remain in the present simple tense in indirect speech.",
+      "correctAnswer": "B"
     },
     {
       "id": 23,
@@ -280,7 +302,8 @@
         "D": "He said that he had bought a car two days ago."
       },
       "answer": "A",
-      "explanation": "Past simple shifts to past perfect ('had bought') and the time expression 'ago' shifts to 'before'."
+      "explanation": "Past simple shifts to past perfect ('had bought') and the time expression 'ago' shifts to 'before'.",
+      "correctAnswer": "A"
     },
     {
       "id": 24,
@@ -292,7 +315,8 @@
         "D": "She ordered her brother that he don't touch that wire."
       },
       "answer": "A",
-      "explanation": "Imperatives involving peril are reported with 'warned [object] not to [verb]'."
+      "explanation": "Imperatives involving peril are reported with 'warned [object] not to [verb]'.",
+      "correctAnswer": "A"
     },
     {
       "id": 25,
@@ -304,7 +328,8 @@
         "D": "They said that they already finished before he arrived."
       },
       "answer": "C",
-      "explanation": "In complex past narrative sentences, past simple in temporal clauses shifts to past perfect ('had arrived') while existing past perfect remains past perfect."
+      "explanation": "In complex past narrative sentences, past simple in temporal clauses shifts to past perfect ('had arrived') while existing past perfect remains past perfect.",
+      "correctAnswer": "C"
     },
     {
       "id": 26,
@@ -316,7 +341,8 @@
         "D": "The stranger enquired me that could I tell him the way to the post office."
       },
       "answer": "A",
-      "explanation": "A polite inquiry is reported as an interrogative clause with 'if', subject pronoun 'I', modal backshift 'could tell', and objective pronoun 'him'."
+      "explanation": "A polite inquiry is reported as an interrogative clause with 'if', subject pronoun 'I', modal backshift 'could tell', and objective pronoun 'him'.",
+      "correctAnswer": "A"
     },
     {
       "id": 27,
@@ -328,7 +354,8 @@
         "D": "My friend wished me goodbye."
       },
       "answer": "A",
-      "explanation": "Farewells in direct speech ('Goodbye', 'Farewell') use the reporting verb 'bade' (past tense of 'bid')."
+      "explanation": "Farewells in direct speech ('Goodbye', 'Farewell') use the reporting verb 'bade' (past tense of 'bid').",
+      "correctAnswer": "A"
     },
     {
       "id": 28,
@@ -340,7 +367,8 @@
         "D": "He said his friend good morning and enquired how was he."
       },
       "answer": "A",
-      "explanation": "Salutations such as 'Good morning' use 'wished [object] good morning', joined by 'and asked' followed by assertive word order ('how he was')."
+      "explanation": "Salutations such as 'Good morning' use 'wished [object] good morning', joined by 'and asked' followed by assertive word order ('how he was').",
+      "correctAnswer": "A"
     },
     {
       "id": 29,
@@ -352,7 +380,8 @@
         "D": "The judge said that call the next witness."
       },
       "answer": "A",
-      "explanation": "Judicial instructions in a courtroom are commands, requiring 'ordered to call'."
+      "explanation": "Judicial instructions in a courtroom are commands, requiring 'ordered to call'.",
+      "correctAnswer": "A"
     },
     {
       "id": 30,
@@ -364,7 +393,8 @@
         "D": "She enquired whether she would attend the meeting tomorrow."
       },
       "answer": "A",
-      "explanation": "When modal 'must' denotes present necessity/obligation, it backshifts to 'had to' in indirect reporting."
+      "explanation": "When modal 'must' denotes present necessity/obligation, it backshifts to 'had to' in indirect reporting.",
+      "correctAnswer": "A"
     },
     {
       "id": 31,
@@ -376,7 +406,8 @@
         "D": "He said water would boil at 100 degrees Celsius."
       },
       "answer": "C",
-      "explanation": "Physical scientific laws retain the simple present tense regardless of the past tense of the reporting verb."
+      "explanation": "Physical scientific laws retain the simple present tense regardless of the past tense of the reporting verb.",
+      "correctAnswer": "C"
     },
     {
       "id": 32,
@@ -388,7 +419,8 @@
         "D": "She said that she is cooking when the phone rang."
       },
       "answer": "A",
-      "explanation": "In past continuous background actions with a time clause ('when the phone rang'), the continuous action shifts to past perfect continuous ('had been cooking') while the point action may remain in past simple."
+      "explanation": "In past continuous background actions with a time clause ('when the phone rang'), the continuous action shifts to past perfect continuous ('had been cooking') while the point action may remain in past simple.",
+      "correctAnswer": "A"
     },
     {
       "id": 33,
@@ -400,7 +432,8 @@
         "D": "The coach remarked that he had played exceptionally well."
       },
       "answer": "A",
-      "explanation": "The exclamatory word 'Bravo!' is an applause/accolade, correctly transformed into 'applauded [him] saying that he had played exceptionally well'."
+      "explanation": "The exclamatory word 'Bravo!' is an applause/accolade, correctly transformed into 'applauded [him] saying that he had played exceptionally well'.",
+      "correctAnswer": "A"
     },
     {
       "id": 34,
@@ -412,7 +445,8 @@
         "D": "He said that let him have a cup of tea."
       },
       "answer": "A",
-      "explanation": "When 'let' expresses a personal wish or permission (rather than a group proposal), it is reported with 'requested/expressed a wish that he might be allowed to [verb]'."
+      "explanation": "When 'let' expresses a personal wish or permission (rather than a group proposal), it is reported with 'requested/expressed a wish that he might be allowed to [verb]'.",
+      "correctAnswer": "A"
     },
     {
       "id": 35,
@@ -424,7 +458,8 @@
         "D": "These -> That, Here -> Where, Now -> Then, Ago -> Later"
       },
       "answer": "A",
-      "explanation": "Under standard grammatical rules of indirect narration: 'these' becomes 'those', 'here' becomes 'there', 'now' becomes 'then', and 'ago' becomes 'before'."
+      "explanation": "Under standard grammatical rules of indirect narration: 'these' becomes 'those', 'here' becomes 'there', 'now' becomes 'then', and 'ago' becomes 'before'.",
+      "correctAnswer": "A"
     }
   ]
 }

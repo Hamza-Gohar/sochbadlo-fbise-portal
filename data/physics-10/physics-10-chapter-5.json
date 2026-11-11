@@ -292,8 +292,8 @@
         "C": "50 J",
         "D": "20 J"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Answer: (A) 100 J. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+      "correctAnswer": "B",
+      "explanation": "Correct Answer: (B) 200 J. By Joule's law of heating, energy dissipated H = I² R t = (2 A)² × 5 Ω × 10 s = 4 × 5 × 10 = 200 J."
     },
     {
       "id": 25,
@@ -472,8 +472,8 @@
         "C": "10A",
         "D": "0.5A"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Answer: (B) 5A. Current electricity adheres to Ohm's law (V = IR), Joule's law (H = I²Rt), and electrical power P = VI."
+      "correctAnswer": "A",
+      "explanation": "Correct Answer: (A) 2A. By Ohm's law, I = V / R = 20 V / 10 Ω = 2 A."
     },
     {
       "id": 40,

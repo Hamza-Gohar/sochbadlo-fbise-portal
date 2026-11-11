@@ -111,8 +111,8 @@
         "C": "Joule",
         "D": "Pascal"
       },
-      "correctAnswer": "C",
-      "explanation": "Meter is the base unit of length"
+      "correctAnswer": "B",
+      "explanation": "Meter is the fundamental (base) SI unit of length. Newton, Joule, and Pascal are derived units."
     },
     {
       "id": "chem9-c16-q10",
@@ -316,7 +316,7 @@
         "D": "ys positive"
       },
       "correctAnswer": "C",
-      "explanation": "Exponents can be positive or negative integers 27. Which of the following coefficients is NOT valid in 12.5 3.4 −7.2 9.9 ○ ○ ○ ○ scientific notation? Answer: (A) 12.5"
+      "explanation": "Exponents can be positive or negative integers"
     },
     {
       "id": "chem9-c16-q27",
@@ -375,8 +375,8 @@
         "C": "4.9 × 10⁹",
         "D": "49 × 10⁷"
       },
-      "correctAnswer": "A",
-      "explanation": "Decimal shifts eight places left"
+      "correctAnswer": "C",
+      "explanation": "In 4,900,000,000, the decimal point is shifted 9 places to the left, yielding 4.9 × 10⁹ in standard scientific notation."
     },
     {
       "id": "chem9-c16-q32",

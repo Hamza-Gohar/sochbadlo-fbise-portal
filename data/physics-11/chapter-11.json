@@ -1,7 +1,7 @@
 {
   "chapterNumber": 11,
-  "chapterTitle": "Electrostatics",
-  "totalQuestions": 60,
+  "chapterTitle": "Current Electricity",
+  "totalQuestions": 70,
   "questions": [
     {
       "id": 1,
@@ -13,7 +13,7 @@
         "D": "IA/(nq)"
       },
       "correctAnswer": "A",
-      "explanation": "Based on the relation I = nAvd q. Rearranging gives: vd = I / (nqA)"
+      "explanation": ""
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
         "D": "A·m"
       },
       "correctAnswer": "C",
-      "explanation": "Current density: J=I/A SI unit = A/m²"
+      "explanation": ""
     },
     {
       "id": 3,
@@ -37,7 +37,7 @@
         "D": "The length of the conductor increases significantly"
       },
       "correctAnswer": "B",
-      "explanation": "Lattice ions vibrate with greater amplitude, increasing collisions with free electrons."
+      "explanation": ""
     },
     {
       "id": 4,
@@ -49,7 +49,7 @@
         "D": "Current decreases"
       },
       "correctAnswer": "B",
-      "explanation": "LDRs are made of semiconductor materials where light releases more charge carriers."
+      "explanation": ""
     },
     {
       "id": 5,
@@ -61,7 +61,7 @@
         "D": "Maximum current a battery can provide"
       },
       "correctAnswer": "B",
-      "explanation": "e.m.f. represents the total work done per unit charge including internal resistance."
+      "explanation": ""
     },
     {
       "id": 6,
@@ -73,7 +73,7 @@
         "D": "V = I(R − r)"
       },
       "correctAnswer": "B",
-      "explanation": "V = E − Ir (during discharging) Ir are the “lost volts”."
+      "explanation": ""
     },
     {
       "id": 7,
@@ -85,7 +85,7 @@
         "D": "Mass"
       },
       "correctAnswer": "C",
-      "explanation": "Total current entering a junction equals total current leaving."
+      "explanation": ""
     },
     {
       "id": 8,
@@ -97,7 +97,7 @@
         "D": "Voltage"
       },
       "correctAnswer": "B",
-      "explanation": "Energy is conserved around a closed loop."
+      "explanation": ""
     },
     {
       "id": 9,
@@ -109,7 +109,7 @@
         "D": "R1² + R2² + R3²"
       },
       "correctAnswer": "C",
-      "explanation": "1/Rp = 1/R1 + 1/R2 + 1/R3"
+      "explanation": ""
     },
     {
       "id": 10,
@@ -121,7 +121,7 @@
         "D": "Shape of the conductor"
       },
       "correctAnswer": "C",
-      "explanation": "Resistivity is an intrinsic property independent of dimensions."
+      "explanation": ""
     },
     {
       "id": 11,
@@ -133,7 +133,7 @@
         "D": "R/4"
       },
       "correctAnswer": "B",
-      "explanation": "L′ = 2L and A′ = A/2 R′ = ρ(2L)/(A/2) = 4ρL/A = 4R"
+      "explanation": ""
     },
     {
       "id": 12,
@@ -145,7 +145,7 @@
         "D": "All of these"
       },
       "correctAnswer": "D",
-      "explanation": "All formulas come from P = VI and Ohm’s law."
+      "explanation": ""
     },
     {
       "id": 13,
@@ -157,7 +157,19 @@
         "D": "75 W"
       },
       "correctAnswer": "B",
-      "explanation": "R = V²/P = 220²/100 = 484 Ω New power: P = 110²/484 = 25 W"
+      "explanation": ""
+    },
+    {
+      "id": 14,
+      "question": "A thermistor with a negative temperature coefficient of resistance (NTC) is used to:",
+      "options": {
+        "A": "Detect light",
+        "B": "Sense temperature changes",
+        "C": "Stabilize voltage",
+        "D": "Store charge"
+      },
+      "correctAnswer": "B",
+      "explanation": ""
     },
     {
       "id": 15,
@@ -169,7 +181,7 @@
         "D": "10² m/s"
       },
       "correctAnswer": "B",
-      "explanation": "Drift velocity is very slow despite rapid electric signal transmission."
+      "explanation": ""
     },
     {
       "id": 16,
@@ -181,7 +193,7 @@
         "D": "100 Ω"
       },
       "correctAnswer": "B",
-      "explanation": "An ideal source has zero internal resistance."
+      "explanation": ""
     },
     {
       "id": 17,
@@ -193,7 +205,7 @@
         "D": "The wire is cut"
       },
       "correctAnswer": "B",
-      "explanation": "In null condition, galvanometer current is zero because potentials are equal."
+      "explanation": ""
     },
     {
       "id": 18,
@@ -205,7 +217,7 @@
         "D": "It can measure high currents"
       },
       "correctAnswer": "B",
-      "explanation": "Null methods avoid loading effects, giving accurate e.m.f."
+      "explanation": ""
     },
     {
       "id": 19,
@@ -217,7 +229,7 @@
         "D": "V/A"
       },
       "correctAnswer": "A",
-      "explanation": "R = ρL/A Therefore: ρ = RA/L Unit = Ω·m"
+      "explanation": ""
     },
     {
       "id": 20,
@@ -229,7 +241,7 @@
         "D": "R + n"
       },
       "correctAnswer": "C",
-      "explanation": "Rs = R + R + ... = nR"
+      "explanation": ""
     },
     {
       "id": 21,
@@ -241,7 +253,7 @@
         "D": "Dependent on the battery voltage"
       },
       "correctAnswer": "B",
-      "explanation": "Wheatstone bridge balance condition: P/Q = R/S"
+      "explanation": ""
     },
     {
       "id": 22,
@@ -253,7 +265,7 @@
         "D": "ΔR/ΔT"
       },
       "correctAnswer": "B",
-      "explanation": "Temperature coefficient is fractional resistance change per degree."
+      "explanation": ""
     },
     {
       "id": 23,
@@ -265,7 +277,7 @@
         "D": "60 Ω"
       },
       "correctAnswer": "A",
-      "explanation": "R′ = ρ(3L)/(2A) = 1.5(ρL/A) = 1.5 × 10 = 15 Ω"
+      "explanation": ""
     },
     {
       "id": 24,
@@ -277,7 +289,7 @@
         "D": "3600 J"
       },
       "correctAnswer": "B",
-      "explanation": "1000 × 3600 = 3.6 × 10⁶ J"
+      "explanation": ""
     },
     {
       "id": 25,
@@ -289,7 +301,7 @@
         "D": "Transformers"
       },
       "correctAnswer": "B",
-      "explanation": "LDR has high resistance in dark and low resistance in light."
+      "explanation": ""
     },
     {
       "id": 26,
@@ -301,7 +313,7 @@
         "D": "Vector, Scalar"
       },
       "correctAnswer": "C",
-      "explanation": "Current is scalar while current density is vector."
+      "explanation": ""
     },
     {
       "id": 27,
@@ -313,7 +325,7 @@
         "D": "Greater than its e.m.f."
       },
       "correctAnswer": "B",
-      "explanation": "In open circuit: I=0 Therefore: V = E − 0r = E"
+      "explanation": ""
     },
     {
       "id": 28,
@@ -325,7 +337,7 @@
         "D": "Using a thicker wire"
       },
       "correctAnswer": "C",
-      "explanation": "Sensitivity = L/V Longer wire gives smaller potential gradient."
+      "explanation": ""
     },
     {
       "id": 29,
@@ -337,7 +349,7 @@
         "D": "Single wires"
       },
       "correctAnswer": "B",
-      "explanation": "Kirchhoff’s loop law states that algebraic sum of potentials in a loop is zero."
+      "explanation": ""
     },
     {
       "id": 30,
@@ -349,7 +361,7 @@
         "D": "16 times"
       },
       "correctAnswer": "B",
-      "explanation": "R ∝ 1/A and A ∝ d² Therefore: R ∝ 1/d² Halving diameter increases resistance by 4 times. 31. (B) Color code: Brown = 1 Black = 0 Red = 10² 10 × 10² = 1000 Ω"
+      "explanation": ""
     },
     {
       "id": 31,
@@ -360,7 +372,7 @@
         "C": "10 Ω",
         "D": "1200 Ω"
       },
-      "correctAnswer": "A",
+      "correctAnswer": "B",
       "explanation": ""
     },
     {
@@ -373,7 +385,7 @@
         "D": "P"
       },
       "correctAnswer": "B",
-      "explanation": "P ∝ I² Doubling current makes power 4 times."
+      "explanation": ""
     },
     {
       "id": 33,
@@ -385,7 +397,7 @@
         "D": "0.45 V/m"
       },
       "correctAnswer": "A",
-      "explanation": "E = Vw(l/L)"
+      "explanation": ""
     },
     {
       "id": 34,
@@ -397,7 +409,7 @@
         "D": "Increase in area of plates"
       },
       "correctAnswer": "B",
-      "explanation": "High ion concentration hinders ion movement."
+      "explanation": ""
     },
     {
       "id": 35,
@@ -409,7 +421,7 @@
         "D": "Power"
       },
       "correctAnswer": "C",
-      "explanation": "Resistance: R = V/I"
+      "explanation": ""
     },
     {
       "id": 36,
@@ -421,7 +433,7 @@
         "D": "Silver"
       },
       "correctAnswer": "C",
-      "explanation": "Semiconductors have negative temperature coefficient."
+      "explanation": ""
     },
     {
       "id": 37,
@@ -433,7 +445,19 @@
         "D": "0.5 A"
       },
       "correctAnswer": "B",
-      "explanation": "I = Q/t = 60/60 =1A"
+      "explanation": ""
+    },
+    {
+      "id": 38,
+      "question": "The e.m.f. of a source is 12 V. When a 5 Ω resistor is connected, the current is 2 A. The internal resistance is:",
+      "options": {
+        "A": "1 Ω",
+        "B": "0.5 Ω",
+        "C": "2 Ω",
+        "D": "Zero"
+      },
+      "correctAnswer": "A",
+      "explanation": ""
     },
     {
       "id": 39,
@@ -442,9 +466,21 @@
         "A": "Negative, Positive",
         "B": "Positive, Negative",
         "C": "Zero, Zero",
-        "D": "Positive, Positive\n\n40.\nA potential divider circuit uses two resistors R1 and R2 in series with a source V. The output\nvoltage across R2 is:"
+        "D": "Positive, Positive"
       },
-      "correctAnswer": "A",
+      "correctAnswer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 40,
+      "question": "A potential divider circuit uses two resistors R1 and R2 in series with a source V. The output voltage across R2 is:",
+      "options": {
+        "A": "V × (R1/R2)",
+        "B": "V × R2/(R1 + R2)",
+        "C": "V × (R1 + R2)/R2",
+        "D": "I²R2"
+      },
+      "correctAnswer": "B",
       "explanation": ""
     },
     {
@@ -457,7 +493,7 @@
         "D": "Convert AC to DC"
       },
       "correctAnswer": "B",
-      "explanation": "Potentiometers act as variable voltage sources."
+      "explanation": ""
     },
     {
       "id": 42,
@@ -469,7 +505,7 @@
         "D": "0.5 Ω"
       },
       "correctAnswer": "B",
-      "explanation": "Rp = 6/3 =2Ω"
+      "explanation": ""
     },
     {
       "id": 43,
@@ -478,10 +514,22 @@
         "A": "Ohm",
         "B": "Siemens (S or mho)",
         "C": "Ampere/Volt",
-        "D": "Both B and C\n\n44.\nA galvanometer is used in null methods because:"
+        "D": "Both B and C"
       },
       "correctAnswer": "D",
-      "explanation": "Conductance is inverse of resistance. Unit = mho or Ω⁻¹"
+      "explanation": ""
+    },
+    {
+      "id": 44,
+      "question": "A galvanometer is used in null methods because:",
+      "options": {
+        "A": "It measures high voltage",
+        "B": "It indicates the presence of even small current",
+        "C": "It acts as a battery",
+        "D": "It is always connected in series"
+      },
+      "correctAnswer": "B",
+      "explanation": ""
     },
     {
       "id": 45,
@@ -493,7 +541,7 @@
         "D": "Dependent on ρ ratio"
       },
       "correctAnswer": "D",
-      "explanation": "R = ρL/A Depends on resistivity ratio."
+      "explanation": ""
     },
     {
       "id": 46,
@@ -505,7 +553,7 @@
         "D": "Negative"
       },
       "correctAnswer": "B",
-      "explanation": "Ammeter resistance should be very low."
+      "explanation": ""
     },
     {
       "id": 47,
@@ -514,10 +562,22 @@
         "A": "Very high",
         "B": "Very low",
         "C": "Zero",
-        "D": "10 Ω\n\n48.\nIn a metallic wire, the actual flow of charge is due to:"
+        "D": "10 Ω"
       },
       "correctAnswer": "A",
-      "explanation": "Voltmeter resistance should be very high."
+      "explanation": ""
+    },
+    {
+      "id": 48,
+      "question": "In a metallic wire, the actual flow of charge is due to:",
+      "options": {
+        "A": "Protons",
+        "B": "Positive ions",
+        "C": "Free electrons",
+        "D": "Neutrons"
+      },
+      "correctAnswer": "C",
+      "explanation": ""
     },
     {
       "id": 49,
@@ -529,7 +589,7 @@
         "D": "1 A"
       },
       "correctAnswer": "A",
-      "explanation": "P = I²R 2 = I² × 100 I = √0.02 ≈ 0.14 A"
+      "explanation": ""
     },
     {
       "id": 50,
@@ -541,7 +601,7 @@
         "D": "1.7 × 10⁻⁴ Ω"
       },
       "correctAnswer": "B",
-      "explanation": "R = ρL/A = 1.7 × 10⁻⁸ × 1/10⁻⁶ = 0.017 Ω"
+      "explanation": ""
     },
     {
       "id": 51,
@@ -550,10 +610,22 @@
         "A": "Same as the direction of electric field",
         "B": "Opposite to the direction of electric field",
         "C": "Perpendicular to the electric field",
-        "D": "Random\n\n52.\nThermistors are usually made of:"
+        "D": "Random"
       },
       "correctAnswer": "B",
-      "explanation": "Electrons move opposite to electric field direction."
+      "explanation": ""
+    },
+    {
+      "id": 52,
+      "question": "Thermistors are usually made of:",
+      "options": {
+        "A": "Metals",
+        "B": "Semiconductor ceramic materials",
+        "C": "Insulators",
+        "D": "Liquids"
+      },
+      "correctAnswer": "B",
+      "explanation": ""
     },
     {
       "id": 53,
@@ -565,7 +637,7 @@
         "D": "I(R1 + R2)"
       },
       "correctAnswer": "B",
-      "explanation": "Ohm’s law applied locally."
+      "explanation": ""
     },
     {
       "id": 54,
@@ -577,7 +649,7 @@
         "D": "A high resistance in parallel"
       },
       "correctAnswer": "B",
-      "explanation": "Shunt resistance bypasses most current. 55. (B) Potential difference is path independent."
+      "explanation": ""
     },
     {
       "id": 55,
@@ -586,9 +658,21 @@
         "A": "Non-conservative",
         "B": "Conservative",
         "C": "Magnetic",
-        "D": "Infinite\n\n56.\nThe resistance of a human body (dry) is approximately:"
+        "D": "Infinite"
       },
-      "correctAnswer": "A",
+      "correctAnswer": "B",
+      "explanation": ""
+    },
+    {
+      "id": 56,
+      "question": "The resistance of a human body (dry) is approximately:",
+      "options": {
+        "A": "10 Ω",
+        "B": "100,000 Ω",
+        "C": "100 Ω",
+        "D": "Zero"
+      },
+      "correctAnswer": "B",
       "explanation": ""
     },
     {
@@ -601,7 +685,7 @@
         "D": "Half"
       },
       "correctAnswer": "B",
-      "explanation": "V = E − Ir For a discharging cell, V < E."
+      "explanation": ""
     },
     {
       "id": 58,
@@ -613,7 +697,7 @@
         "D": "N/C"
       },
       "correctAnswer": "B",
-      "explanation": "Potential gradient = voltage per unit length."
+      "explanation": ""
     },
     {
       "id": 59,
@@ -622,10 +706,22 @@
         "A": "Capacitances",
         "B": "e.m.f.s of two cells",
         "C": "Magnetic fields",
-        "D": "Inductances\n\n60.\nIf the current in a circuit is 0.5 A and it flows for 2 hours, the total charge is:"
+        "D": "Inductances"
       },
       "correctAnswer": "B",
-      "explanation": "Potentiometer is used to compare unknown e.m.f."
+      "explanation": ""
+    },
+    {
+      "id": 60,
+      "question": "If the current in a circuit is 0.5 A and it flows for 2 hours, the total charge is:",
+      "options": {
+        "A": "1 C",
+        "B": "3600 C",
+        "C": "1800 C",
+        "D": "7200 C"
+      },
+      "correctAnswer": "B",
+      "explanation": ""
     },
     {
       "id": 61,
@@ -637,7 +733,7 @@
         "D": "Infinite"
       },
       "correctAnswer": "B",
-      "explanation": "Superconductors have ideal conductivity."
+      "explanation": ""
     },
     {
       "id": 62,
@@ -649,7 +745,7 @@
         "D": "Low cost"
       },
       "correctAnswer": "B",
-      "explanation": "Precision resistors must resist temperature changes."
+      "explanation": ""
     },
     {
       "id": 63,
@@ -658,10 +754,22 @@
         "A": "12 V",
         "B": "10 V",
         "C": "2 V",
-        "D": "11 V\n\n64.\nA junction in a circuit is where:"
+        "D": "11 V"
       },
       "correctAnswer": "B",
-      "explanation": "I = 12/(5 + 1) =2A V = E − Ir = 12 − (2 × 1) = 10 V"
+      "explanation": ""
+    },
+    {
+      "id": 64,
+      "question": "A junction in a circuit is where:",
+      "options": {
+        "A": "Only one wire ends",
+        "B": "Two or more wires meet",
+        "C": "Three or more wires meet",
+        "D": "The battery is connected"
+      },
+      "correctAnswer": "C",
+      "explanation": ""
     },
     {
       "id": 65,
@@ -673,7 +781,7 @@
         "D": "Charge and Time"
       },
       "correctAnswer": "C",
-      "explanation": "Electric power: P = VI"
+      "explanation": ""
     },
     {
       "id": 66,
@@ -685,7 +793,7 @@
         "D": "Becomes zero"
       },
       "correctAnswer": "B",
-      "explanation": "Higher temperature creates more electron-hole pairs."
+      "explanation": ""
     },
     {
       "id": 67,
@@ -694,10 +802,22 @@
         "A": "Faraday’s Law",
         "B": "Ohm’s Law",
         "C": "Lenz’s Law",
-        "D": "Coulomb’s Law\n\n68.\nAn ideal voltmeter has ______ resistance."
+        "D": "Coulomb’s Law"
       },
       "correctAnswer": "B",
-      "explanation": "Ohm’s law relates current, voltage, and resistance."
+      "explanation": ""
+    },
+    {
+      "id": 68,
+      "question": "An ideal voltmeter has ______ resistance.",
+      "options": {
+        "A": "Zero",
+        "B": "1000 Ω",
+        "C": "Infinite",
+        "D": "1 Ω"
+      },
+      "correctAnswer": "C",
+      "explanation": ""
     },
     {
       "id": 69,
@@ -709,7 +829,7 @@
         "D": "Law of Gravitation"
       },
       "correctAnswer": "B",
-      "explanation": "Based on Kirchhoff’s voltage law."
+      "explanation": ""
     },
     {
       "id": 70,
@@ -718,10 +838,10 @@
         "A": "10 V",
         "B": "2.5 V",
         "C": "0.4 V",
-        "D": "7 V\n\nAnswer key\nQ. No.\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n21\n22\n23\n24\n\nAnswer\nA\nC\nB\nB\nB\nB\nC\nB\nC\nC\nB\nD\nB\nB\nB\nB\nB\nB\nA\nC\nB\nB\nA\nB\n\nQ. No.\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n46\n47\n48\n\nAnswer\nB\nC\nB\nC\nB\nB\nB\nB\nA\nB\nC\nC\nB\nA\nB\nB\nB\nB\nD\nB\nD\nB\nA\nC\n\nQ. No.\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58\n59\n60\n61\n62\n63\n64\n65\n66\n67\n68\n69\n70\n\nAnswer\nA\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nB\nC\nC\nB\nB\nC\nB\nA\n\nDETAILED SOLUTIONS"
+        "D": "7 V"
       },
       "correctAnswer": "A",
-      "explanation": "V = IR =2×5 = 10 V"
+      "explanation": ""
     }
   ]
 }

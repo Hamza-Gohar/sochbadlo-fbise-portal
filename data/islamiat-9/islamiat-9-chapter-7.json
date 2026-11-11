@@ -7,242 +7,242 @@
     {
       "id": 1,
       "question": "Who was the first man to accept Islam?",
-      "options": [
-        "Hazrat Umar (RA)",
-        "Hazrat Abu Bakr (RA)",
-        "Hazrat Ali (RA)",
-        "Hazrat Zaid (RA)"
-      ],
-      "correctAnswer": "A",
-      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Hazrat Umar (RA)' ہے۔"
+      "options": {
+        "A": "Hazrat Umar (RA)",
+        "B": "Hazrat Abu Bakr (RA)",
+        "C": "Hazrat Ali (RA)",
+        "D": "Hazrat Zaid (RA)"
+      },
+      "correctAnswer": "D",
+      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (D) 'Hazrat Zaid (RA)' ہے۔"
     },
     {
       "id": 2,
       "question": "What was the title of Hazrat Ali (RA)?",
-      "options": [
-        "Farooq-e-Azam",
-        "Siddiq-e-Akbar",
-        "Ghani",
-        "Sher-e-Khuda"
-      ],
+      "options": {
+        "A": "Farooq-e-Azam",
+        "B": "Siddiq-e-Akbar",
+        "C": "Ghani",
+        "D": "Sher-e-Khuda"
+      },
       "correctAnswer": "D",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (D) 'Sher-e-Khuda' ہے۔"
     },
     {
       "id": 3,
       "question": "What title was Hazrat Usman (RA) known by?",
-      "options": [
-        "Zul-Noorain",
-        "Ghani",
-        "Siddiq",
-        "Farooq"
-      ],
+      "options": {
+        "A": "Zul-Noorain",
+        "B": "Ghani",
+        "C": "Siddiq",
+        "D": "Farooq"
+      },
       "correctAnswer": "A",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Zul-Noorain' ہے۔"
     },
     {
       "id": 4,
       "question": "What was the name of Hazrat Isa’s (AS) mother?",
-      "options": [
-        "Hazrat Asiya (AS)",
-        "Hazrat Hajrah (AS)",
-        "Hazrat Maryam (AS)",
-        "Hazrat Fatima (RA)"
-      ],
-      "correctAnswer": "A",
-      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Hazrat Asiya (AS)' ہے۔"
+      "options": {
+        "A": "Hazrat Asiya (AS)",
+        "B": "Hazrat Hajrah (AS)",
+        "C": "Hazrat Maryam (AS)",
+        "D": "Hazrat Fatima (RA)"
+      },
+      "correctAnswer": "C",
+      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (C) 'Hazrat Maryam (AS)' ہے۔"
     },
     {
       "id": 5,
       "question": "Who was the first man to accept Islam?",
-      "options": [
-        "Hazrat Umar (RA)",
-        "Hazrat Abu Bakr (RA)",
-        "Hazrat Ali (RA)",
-        "Hazrat Zaid (RA)"
-      ],
-      "correctAnswer": "A",
-      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Hazrat Umar (RA)' ہے۔"
+      "options": {
+        "A": "Hazrat Umar (RA)",
+        "B": "Hazrat Abu Bakr (RA)",
+        "C": "Hazrat Ali (RA)",
+        "D": "Hazrat Zaid (RA)"
+      },
+      "correctAnswer": "D",
+      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (D) 'Hazrat Zaid (RA)' ہے۔"
     },
     {
       "id": 6,
       "question": "What was the title of Hazrat Ali (RA)?",
-      "options": [
-        "Farooq-e-Azam",
-        "Siddiq-e-Akbar",
-        "Ghani",
-        "Sher-e-Khuda"
-      ],
+      "options": {
+        "A": "Farooq-e-Azam",
+        "B": "Siddiq-e-Akbar",
+        "C": "Ghani",
+        "D": "Sher-e-Khuda"
+      },
       "correctAnswer": "D",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (D) 'Sher-e-Khuda' ہے۔"
     },
     {
       "id": 7,
       "question": "What title was Hazrat Usman (RA) known by?",
-      "options": [
-        "Zul-Noorain",
-        "Ghani",
-        "Siddiq",
-        "Farooq"
-      ],
+      "options": {
+        "A": "Zul-Noorain",
+        "B": "Ghani",
+        "C": "Siddiq",
+        "D": "Farooq"
+      },
       "correctAnswer": "A",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Zul-Noorain' ہے۔"
     },
     {
       "id": 8,
       "question": "What was the name of Hazrat Isa’s (AS) mother?",
-      "options": [
-        "Hazrat Asiya (AS)",
-        "Hazrat Hajrah (AS)",
-        "Hazrat Maryam (AS)",
-        "Hazrat Fatima (RA)"
-      ],
-      "correctAnswer": "A",
-      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Hazrat Asiya (AS)' ہے۔"
+      "options": {
+        "A": "Hazrat Asiya (AS)",
+        "B": "Hazrat Hajrah (AS)",
+        "C": "Hazrat Maryam (AS)",
+        "D": "Hazrat Fatima (RA)"
+      },
+      "correctAnswer": "C",
+      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (C) 'Hazrat Maryam (AS)' ہے۔"
     },
     {
       "id": 9,
       "question": "Who was the first male to accept Islam?",
-      "options": [
-        "Umar ibn Khattab (RA)",
-        "Abu Bakr (RA)",
-        "Ali ibn Abi Talib (RA)",
-        "Zaid ibn Harithah (RA)"
-      ],
-      "correctAnswer": "A",
-      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Umar ibn Khattab (RA)' ہے۔"
+      "options": {
+        "A": "Umar ibn Khattab (RA)",
+        "B": "Abu Bakr (RA)",
+        "C": "Ali ibn Abi Talib (RA)",
+        "D": "Zaid ibn Harithah (RA)"
+      },
+      "correctAnswer": "D",
+      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (D) 'Zaid ibn Harithah (RA)' ہے۔"
     },
     {
       "id": 10,
       "question": "Who were the Ashara Mubashshara?",
-      "options": [
-        "Ten companions who participated in the Battle of Badr",
-        "Ten companions who were promised Paradise",
-        "Ten companions who were martyred in Uhud",
-        "Ten companions who migrated to Madinah"
-      ],
+      "options": {
+        "A": "Ten companions who participated in the Battle of Badr",
+        "B": "Ten companions who were promised Paradise",
+        "C": "Ten companions who were martyred in Uhud",
+        "D": "Ten companions who migrated to Madinah"
+      },
       "correctAnswer": "B",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (B) 'Ten companions who were promised Paradise' ہے۔"
     },
     {
       "id": 11,
       "question": "What was the title of Ali ibn Abi Talib (RA)?",
-      "options": [
-        "Al-Farooq",
-        "As-Siddiq",
-        "Al-Ghani",
-        "Asadullah (Lion of Allah)"
-      ],
-      "correctAnswer": "A",
-      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Al-Farooq' ہے۔"
+      "options": {
+        "A": "Al-Farooq",
+        "B": "As-Siddiq",
+        "C": "Al-Ghani",
+        "D": "Asadullah (Lion of Allah)"
+      },
+      "correctAnswer": "D",
+      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (D) 'Asadullah (Lion of Allah)' ہے۔"
     },
     {
       "id": 12,
       "question": "What was the title of Uthman ibn Affan (RA)?",
-      "options": [
-        "Dhu'l-Nurayn",
-        "Al-Ghani",
-        "As-Siddiq",
-        "Al-Farooq"
-      ],
+      "options": {
+        "A": "Dhu'l-Nurayn",
+        "B": "Al-Ghani",
+        "C": "As-Siddiq",
+        "D": "Al-Farooq"
+      },
       "correctAnswer": "A",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (A) 'Dhu'l-Nurayn' ہے۔"
     },
     {
       "id": 13,
       "question": "How many Rak'ahs are there in Tarawih during Ramadan?",
-      "options": [
-        "8",
-        "12",
-        "20",
-        "30"
-      ],
+      "options": {
+        "A": "8",
+        "B": "12",
+        "C": "20",
+        "D": "30"
+      },
       "correctAnswer": "C",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (C) '20' ہے۔"
     },
     {
       "id": 14,
       "question": "When is Eid al-Fitr celebrated?",
-      "options": [
-        "On the 27th of Ramadan",
-        "The first day after Ramadan",
-        "On the 15th of Ramadan",
-        "After Shab-e-Barat"
-      ],
+      "options": {
+        "A": "On the 27th of Ramadan",
+        "B": "The first day after Ramadan",
+        "C": "On the 15th of Ramadan",
+        "D": "After Shab-e-Barat"
+      },
       "correctAnswer": "B",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (B) 'The first day after Ramadan' ہے۔"
     },
     {
       "id": 15,
       "question": "What should be recited after wearing Ihram?",
-      "options": [
-        "Surah Al-Fatiha",
-        "Durood Sharif",
-        "Talbiyah",
-        "Any supplication"
-      ],
+      "options": {
+        "A": "Surah Al-Fatiha",
+        "B": "Durood Sharif",
+        "C": "Talbiyah",
+        "D": "Any supplication"
+      },
       "correctAnswer": "C",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (C) 'Talbiyah' ہے۔"
     },
     {
       "id": 16,
       "question": "Where must Ihram be worn?",
-      "options": [
-        "In Makkah",
-        "In Madinah",
-        "From Miqat",
-        "During Tawaf"
-      ],
+      "options": {
+        "A": "In Makkah",
+        "B": "In Madinah",
+        "C": "From Miqat",
+        "D": "During Tawaf"
+      },
       "correctAnswer": "C",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (C) 'From Miqat' ہے۔"
     },
     {
       "id": 17,
       "question": "What type of clothing is allowed for men in the state of Ihram?",
-      "options": [
-        "Stitched clothing",
-        "Unstitched white cloth",
-        "Any clothing",
-        "White turban"
-      ],
+      "options": {
+        "A": "Stitched clothing",
+        "B": "Unstitched white cloth",
+        "C": "Any clothing",
+        "D": "White turban"
+      },
       "correctAnswer": "B",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (B) 'Unstitched white cloth' ہے۔"
     },
     {
       "id": 18,
       "question": "When is Wuquf-e-Arafat performed?",
-      "options": [
-        "7th of Dhul-Hijjah",
-        "8th of Dhul-Hijjah",
-        "9th of Dhul-Hijjah",
-        "10th of Dhul-Hijjah"
-      ],
+      "options": {
+        "A": "7th of Dhul-Hijjah",
+        "B": "8th of Dhul-Hijjah",
+        "C": "9th of Dhul-Hijjah",
+        "D": "10th of Dhul-Hijjah"
+      },
       "correctAnswer": "C",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (C) '9th of Dhul-Hijjah' ہے۔"
     },
     {
       "id": 19,
       "question": "Until what time can the stay at Arafat be observed?",
-      "options": [
-        "From dawn until noon",
-        "From noon until sunset",
-        "From morning until evening",
-        "Until Isha time"
-      ],
+      "options": {
+        "A": "From dawn until noon",
+        "B": "From noon until sunset",
+        "C": "From morning until evening",
+        "D": "Until Isha time"
+      },
       "correctAnswer": "B",
       "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (B) 'From noon until sunset' ہے۔"
     },
     {
       "id": 20,
       "question": "What is the last divine book?",
-      "options": [
-        "Torah",
-        "Psalms",
-        "Gospel",
-        "Quran"
-      ],
-      "correctAnswer": "C",
-      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (C) 'Gospel' ہے۔"
+      "options": {
+        "A": "Torah",
+        "B": "Psalms",
+        "C": "Gospel",
+        "D": "Quran"
+      },
+      "correctAnswer": "D",
+      "explanation": "وفاقی بورڈ جماعت نہم لازمی اسلامیات کے معیار کے مطابق مستند جواب (D) 'Quran' ہے۔"
     }
   ]
 }

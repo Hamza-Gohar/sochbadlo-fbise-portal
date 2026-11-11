@@ -146,8 +146,8 @@
         "C": "Greater momentum",
         "D": "None of these"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Less momentum. Bullet has high velocity → large momentum → strong impact."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Greater momentum. A bullet fired from a gun possesses high velocity and therefore a large momentum, resulting in high impact force."
     },
     {
       "id": 13,
@@ -158,8 +158,8 @@
         "C": "Size",
         "D": "Velocity"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct Option (D): Velocity. Force can change velocity, shape, size but not mass."
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Mass. An applied force can change an object's velocity, shape, and size, but the mass of the object remains invariant in classical mechanics."
     },
     {
       "id": 14,
@@ -182,8 +182,8 @@
         "C": "Presence of momentum",
         "D": "Absence of momentum"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Presence of net force. First law applies when net force = 0."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Absence of net force. Newton's first law describes motion when the net external force acting on a body is zero (absence of net force)."
     },
     {
       "id": 16,
@@ -338,8 +338,8 @@
         "C": "Speed",
         "D": "Acceleration"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Weight. Mass does not change with location. Weight changes with gravity."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Mass. Mass is an intrinsic quantity of matter and remains constant everywhere, whereas weight varies with local gravitational field strength."
     },
     {
       "id": 29,
@@ -422,8 +422,8 @@
         "C": "3",
         "D": "5"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): 1. In standard physics textbooks (specifically regarding Atwood machines or tension), there are typically two primary cases studied: Case 1: Both bodies move vertically (one up, one down). Case 2: One body moves vertically while the other moves horizontally on a smooth surface."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 2. In FBISE Class 9 physics, two standard cases of motion of bodies connected by a string passing over a pulley are studied: Case 1 (both bodies move vertically) and Case 2 (one body moves vertically and the other horizontally)."
     },
     {
       "id": 36,
@@ -470,8 +470,8 @@
         "C": "Momentum",
         "D": "Displacement"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct Option (C): Momentum. Newton’s second law: Force = rate of change of momentum."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Force. According to Newton's second law in terms of momentum, the rate of change of momentum equals the applied force (F = Δp / Δt)."
     },
     {
       "id": 40,
@@ -734,8 +734,8 @@
         "C": "Gravitational force",
         "D": "Frictional force"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Electroweak force. Among fundamental forces, gravity is the weakest."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Gravitational force. Gravitational force is by far the weakest of the four fundamental forces of nature (approximately 10³⁸ times weaker than the strong nuclear force)."
     },
     {
       "id": 62,
@@ -818,8 +818,8 @@
         "C": "Electromagnetic force",
         "D": "Weight (gravitational force)"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Air resistance. Only gravitational force acts (ignoring air resistance)."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Weight (gravitational force). In ideal free fall near the Earth, air resistance is neglected and only the gravitational force (weight) acts on the body."
     },
     {
       "id": 69,
@@ -866,8 +866,8 @@
         "C": "Both direction and speed",
         "D": "Neither"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Only direction. Velocity has magnitude and direction."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Both direction and speed. Velocity is a vector quantity having both speed and direction; an applied force can change speed, direction, or both."
     },
     {
       "id": 73,
@@ -974,8 +974,8 @@
         "C": "Force applied",
         "D": "All of the above"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): Velocity. Impulse depends on force and time and results in change in momentum (mass and velocity)."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): All of the above. Impulse is defined as J = F × Δt = Δp = m(v_f - v_i). It depends on applied force, time, mass, and velocity change."
     },
     {
       "id": 82,
@@ -986,8 +986,8 @@
         "C": "Remains same",
         "D": "Becomes zero"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Increases. Impulse = F × t If time increases → force decreases for same impulse."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Decreases. Since Force = Δp / Δt, increasing the collision duration Δt reduces the average impact force experienced for a given momentum change."
     },
     {
       "id": 83,
@@ -1010,8 +1010,8 @@
         "C": "Volume occupied",
         "D": "Acceleration"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): Weight. Weight = gravitational force acting on a body."
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Force due to gravity. Weight is defined as the force of gravity acting on an object (W = mg)."
     },
     {
       "id": 85,
@@ -1058,8 +1058,8 @@
         "C": "No translational or rotational effects",
         "D": "Moving with uniform velocity"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Only linear motion zero. For an object to be in complete equilibrium, it must satisfy two conditions: First Condition (Translational): The sum of all forces must be zero (Σ F = 0). This means the object has no linear acceleration. Second Condition (Rotational): The sum of all torques must be zero (Σ τ = 0). This means the object has no angular (turning) acceleration. If only one condition is met, the object is in “partial equilibrium,” but for it to be complete, both linear and rotational effects must be absent."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): No translational or rotational effects. Complete equilibrium requires satisfying both conditions: first condition (ΣF = 0, no translational acceleration) and second condition (Στ = 0, no angular acceleration)."
     },
     {
       "id": 89,
@@ -1106,8 +1106,8 @@
         "C": "Friction",
         "D": "Gravity"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Balanced force. Only net (unbalanced) force changes motion."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Unbalanced force. An object remains at rest or in uniform motion unless acted upon by a net external (unbalanced) force."
     },
     {
       "id": 93,
@@ -1166,8 +1166,8 @@
         "C": "Increases",
         "D": "Becomes zero"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct Option (D): Becomes zero. Impulse = change in momentum. Zero impulse → no change."
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Remains constant. Impulse equals change in momentum (J = Δp). If impulse is zero, Δp = 0, which means momentum remains constant."
     },
     {
       "id": 98,

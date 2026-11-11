@@ -28,8 +28,8 @@
         "C": "Processing",
         "D": "Connector"
       },
-      "correctAnswer": "C",
-      "explanation": "Option C ('Processing') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)."
+      "correctAnswer": "D",
+      "explanation": "In flowchart symbols, a small circle represents an on-page connector used to connect different flow lines without crossing over."
     },
     {
       "id": 3,
@@ -40,8 +40,8 @@
         "C": "Processing",
         "D": "Connector"
       },
-      "correctAnswer": "C",
-      "explanation": "Option C ('Processing') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)."
+      "correctAnswer": "D",
+      "explanation": "In flowchart standards, a small circle represents a connector. Rectangles represent processing operations."
     },
     {
       "id": 4,
@@ -64,8 +64,8 @@
         "C": "Diamond",
         "D": "Rectangle"
       },
-      "correctAnswer": "D",
-      "explanation": "Option D ('Rectangle') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)."
+      "correctAnswer": "C",
+      "explanation": "The statement \"K < 3\" is a conditional test/comparison. In flowcharts, all decision and comparison steps are placed inside a Diamond symbol."
     },
     {
       "id": 6,
@@ -76,8 +76,8 @@
         "C": "Diamond",
         "D": "Rectangle"
       },
-      "correctAnswer": "D",
-      "explanation": "Option D ('Rectangle') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)."
+      "correctAnswer": "C",
+      "explanation": "The statement \"Marks < 33\" evaluates a condition (pass/fail check). Conditional checks and decisions are represented by a Diamond symbol in flowcharts."
     },
     {
       "id": 7,
@@ -148,8 +148,8 @@
         "C": "Assembly",
         "D": "VB"
       },
-      "correctAnswer": "A",
-      "explanation": "Option A ('Java') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 06 (FBISE Past Papers Focus I)."
+      "correctAnswer": "C",
+      "explanation": "Assembly language is a low-level programming language that uses mnemonics. Java, C++, and Visual Basic are high-level programming languages."
     }
   ]
 }

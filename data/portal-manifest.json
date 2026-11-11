@@ -1,11 +1,11 @@
 {
   "name": "FBISE Prep Portal Manifest",
   "version": "2.0.0",
-  "lastAnnealedAt": "2026-11-11T07:16:19.464Z",
+  "lastAnnealedAt": "2026-11-11T08:31:28.974Z",
   "integrity": {
     "totalSubjects": 36,
     "totalModuleFiles": 566,
-    "totalQuestions": 16923,
+    "totalQuestions": 17046,
     "totalStaticRoutes": 571,
     "brandViolations": 0
   },
@@ -22,7 +22,7 @@
     },
     "Class 11": {
       "modules": 97,
-      "questions": 3916,
+      "questions": 4039,
       "subjectCount": 9
     },
     "Class 12": {
@@ -100,7 +100,7 @@
     },
     "physics": {
       "modules": 65,
-      "questions": 2807,
+      "questions": 2930,
       "grades": [
         "10",
         "11",

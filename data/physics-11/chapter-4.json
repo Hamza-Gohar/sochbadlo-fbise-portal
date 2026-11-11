@@ -1,7 +1,7 @@
 {
   "chapterNumber": 4,
   "chapterTitle": "Rotational & Circular Motion",
-  "totalQuestions": 84,
+  "totalQuestions": 90,
   "questions": [
     {
       "id": 1,
@@ -25,7 +25,7 @@
         "D": "2π radians"
       },
       "correctAnswer": "B",
-      "explanation": "A radian is the angle formed when arc length equals radius. θ = s/r = r/r = 1 radian."
+      "explanation": "A radian is the angle formed when arc length equals radius.\nθ = s/r = r/r = 1 radian."
     },
     {
       "id": 3,
@@ -109,7 +109,7 @@
         "D": "v = ω/r"
       },
       "correctAnswer": "A",
-      "explanation": "Linear velocity = radius × angular velocity. 10. Correct Option: C Tangential acceleration = r × angular acceleration. If angular velocity is constant, acceleration is zero."
+      "explanation": "Linear velocity = radius × angular velocity."
     },
     {
       "id": 10,
@@ -120,8 +120,8 @@
         "C": "Zero",
         "D": "Constant"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "Tangential acceleration = r × angular acceleration. If angular velocity is constant, acceleration is\nzero."
     },
     {
       "id": 11,
@@ -166,10 +166,22 @@
         "A": "Force is zero",
         "B": "Displacement is zero",
         "C": "Force is perpendicular to displacement",
-        "D": "Force is parallel to displacement\n\n15. In circular motion of a stone tied to a string, centripetal force is provided by:"
+        "D": "Force is parallel to displacement"
       },
       "correctAnswer": "C",
       "explanation": "Work done is zero because force is perpendicular to displacement."
+    },
+    {
+      "id": 15,
+      "question": "In circular motion of a stone tied to a string, centripetal force is provided by:",
+      "options": {
+        "A": "Gravity",
+        "B": "Friction",
+        "C": "Tension in string",
+        "D": "Air resistance"
+      },
+      "correctAnswer": "C",
+      "explanation": "Tension provides centripetal force in circular motion."
     },
     {
       "id": 16,
@@ -277,7 +289,7 @@
         "D": "Both B and C"
       },
       "correctAnswer": "D",
-      "explanation": "Unit of angular momentum is kg m²/s. 25. Correct Option: B Angular momentum has both magnitude and direction."
+      "explanation": "Unit of angular momentum is kg m²/s."
     },
     {
       "id": 25,
@@ -288,8 +300,8 @@
         "C": "Scalar only",
         "D": "Dimensionless"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Angular momentum has both magnitude and direction."
     },
     {
       "id": 26,
@@ -334,10 +346,22 @@
         "A": "Increases",
         "B": "Decreases",
         "C": "Remains same",
-        "D": "Becomes zero\n\n30. Rotational kinetic energy is given by:"
+        "D": "Becomes zero"
       },
       "correctAnswer": "B",
       "explanation": "Reducing radius reduces moment of inertia."
+    },
+    {
+      "id": 30,
+      "question": "Rotational kinetic energy is given by:",
+      "options": {
+        "A": "½mv²",
+        "B": "½Iω²",
+        "C": "mgh",
+        "D": "Iα"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rotational kinetic energy = 1/2 I ω²."
     },
     {
       "id": 31,
@@ -445,7 +469,7 @@
         "D": "[MLT⁻²]"
       },
       "correctAnswer": "B",
-      "explanation": "Orbital speed approximately 7.9 km/s. 40. Correct Option: A Angular momentum dimension: mass × length² × time⁻¹."
+      "explanation": "Orbital speed approximately 7.9 km/s."
     },
     {
       "id": 40,
@@ -457,7 +481,7 @@
         "D": "Never"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "Angular momentum dimension: mass × length² × time⁻¹."
     },
     {
       "id": 41,
@@ -502,10 +526,22 @@
         "A": "Increases",
         "B": "Decreases",
         "C": "Remains same",
-        "D": "Becomes zero\n\n45. The moment of inertia of a thin rod about its center is:"
+        "D": "Becomes zero"
       },
       "correctAnswer": "C",
       "explanation": "Force and velocity are perpendicular in circular motion."
+    },
+    {
+      "id": 45,
+      "question": "The moment of inertia of a thin rod about its center is:",
+      "options": {
+        "A": "1/12 ML²",
+        "B": "1/3 ML²",
+        "C": "ML²",
+        "D": "1/2 ML²"
+      },
+      "correctAnswer": "B",
+      "explanation": "Arms out increases inertia, decreases angular speed."
     },
     {
       "id": 46,
@@ -613,7 +649,7 @@
         "D": "4:1"
       },
       "correctAnswer": "A",
-      "explanation": "Linear speed = radius × angular velocity. 55. Correct Option: B Acceleration is inversely proportional to radius."
+      "explanation": "Linear speed = radius × angular velocity."
     },
     {
       "id": 55,
@@ -624,8 +660,8 @@
         "C": "Iω",
         "D": "Fd"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Acceleration is inversely proportional to radius."
     },
     {
       "id": 56,
@@ -670,10 +706,22 @@
         "A": "4 N",
         "B": "8 N",
         "C": "2 N",
-        "D": "1 N\n\n60. Torque is zero if:"
+        "D": "1 N"
       },
       "correctAnswer": "C",
       "explanation": "Centripetal force is inward, velocity is tangential."
+    },
+    {
+      "id": 60,
+      "question": "Torque is zero if:",
+      "options": {
+        "A": "α = 0",
+        "B": "ω is constant",
+        "C": "Both A and B",
+        "D": "Force is maximum"
+      },
+      "correctAnswer": "B",
+      "explanation": "Use Fc = m r ω²."
     },
     {
       "id": 61,
@@ -781,7 +829,7 @@
         "D": "Couple"
       },
       "correctAnswer": "B",
-      "explanation": "Speed constant, direction changing → acceleration present. 70. Correct Option: A Moment of inertia is integral of r² dm."
+      "explanation": "Speed constant, direction changing → acceleration present."
     },
     {
       "id": 70,
@@ -793,7 +841,7 @@
         "D": "Energy"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "Moment of inertia is integral of r² dm."
     },
     {
       "id": 71,
@@ -838,10 +886,22 @@
         "A": "GMm/r²",
         "B": "Zero",
         "C": "mr²α",
-        "D": "Constant\n\n75. Conserved quantity in planetary motion is:"
+        "D": "Constant"
       },
       "correctAnswer": "C",
       "explanation": "Zero angular momentum means no rotation."
+    },
+    {
+      "id": 75,
+      "question": "Conserved quantity in planetary motion is:",
+      "options": {
+        "A": "Speed",
+        "B": "Linear momentum",
+        "C": "Angular momentum",
+        "D": "Energy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gravitational force produces zero torque at center line."
     },
     {
       "id": 76,
@@ -949,7 +1009,7 @@
         "D": "Nuclear force"
       },
       "correctAnswer": "C",
-      "explanation": "Rolling without slipping: translation equals rotation effect. 85. Correct Option: B Centrifugal force appears only in rotating frame."
+      "explanation": "Rolling without slipping: translation equals rotation effect."
     },
     {
       "id": 85,
@@ -960,8 +1020,8 @@
         "C": "Increase speed",
         "D": "Decoration"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Centrifugal force appears only in rotating frame."
     },
     {
       "id": 86,
@@ -1006,10 +1066,22 @@
         "A": "Linear motion",
         "B": "Spin motion",
         "C": "Random motion",
-        "D": "Translational motion\n\n90. Angular displacement is a vector for:"
+        "D": "Translational motion"
       },
       "correctAnswer": "B",
       "explanation": "At top, minimum speed condition gives v = sqrt(gr)."
+    },
+    {
+      "id": 90,
+      "question": "Angular displacement is a vector for:",
+      "options": {
+        "A": "Large values",
+        "B": "Small values",
+        "C": "All values",
+        "D": "Never"
+      },
+      "correctAnswer": "B",
+      "explanation": "Spin is rotation about own axis."
     }
   ]
 }

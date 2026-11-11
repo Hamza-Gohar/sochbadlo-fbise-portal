@@ -26,8 +26,8 @@
         "C": "Have least kinetic energy",
         "D": "Are in a plasma state"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): Have a maximum kinetic energy. Absolute zero (0 K) is the theoretical temperature where particles have minimum possible energy and motion nearly stops."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Possess minimum kinetic energy. At absolute zero (0 K or -273.15°C), thermal motion reaches its fundamental minimum (zero classical kinetic energy)."
     },
     {
       "id": 3,
@@ -62,8 +62,8 @@
         "C": "Ice melts",
         "D": "Ice forms"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Water boils. Ice point is the freezing point of water, i.e., 0°C or 32°F."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Pure ice melts at standard atmospheric pressure. The ice point (lower fixed point) is defined as the temperature of melting pure ice under standard atmospheric pressure (0°C)."
     },
     {
       "id": 6,
@@ -146,8 +146,8 @@
         "C": "Oil evaporates quickly",
         "D": "Oil is transparent"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): Oil will mix with water. Oil floats on water due to lower density, making displacement measurement inaccurate."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Oil will float on water and will not submerge completely. Because oil is less dense than water and immiscible, it floats on the water surface and cannot be fully submerged to measure volume displacement."
     },
     {
       "id": 13,
@@ -206,8 +206,8 @@
         "C": "The expansion coefficient of the liquid",
         "D": "The material of the glass tube"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): The color of the liquid. Linearity depends on how uniformly the liquid expands with temperature."
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): The uniformity of the capillary tube diameter. Linearity requires equal expansion of liquid to produce equal distance along the stem, which depends directly on the uniform cross-section of the capillary bore."
     },
     {
       "id": 18,
@@ -398,8 +398,8 @@
         "C": "Gas",
         "D": "None of these"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Liquid. Gas has lower density compared to solids and liquids."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Gas. Gases have widely spaced molecules and very low densities (roughly 1000 times less dense than liquids or solids), making gases the lightest state of matter."
     },
     {
       "id": 34,
@@ -434,8 +434,8 @@
         "C": "10⁻³ m³",
         "D": "None of these"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): 1 m³. 1 liter = 0.001 m³."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 10⁻³ m³. 1 liter = 1000 cm³ = 10⁻³ m³."
     },
     {
       "id": 37,
@@ -446,8 +446,8 @@
         "C": "Pressure",
         "D": "All above"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): Volume. Denser objects weigh more for the same volume."
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Density. Comparing heaviness for a given size of different substances is a comparison of their densities (mass per unit volume)."
     },
     {
       "id": 38,
@@ -614,8 +614,8 @@
         "C": "More than 10",
         "D": "13.6"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): 10 m. To find the length of a water barometer, we calculate the height (h) of water that standard atmospheric pressure can support. The Derivation The pressure exerted by a liquid column is given by the formula: P=pgh Where: P (Atmospheric Pressure) ≈ 1.013x10⁵Pa p= (Density of water) ≈1000kg/m³ g= (Gravity) ≈9.8m/s² Rearranging the formula to solve for height (h): h=P/pg h=P/pg h=1.013x10⁵Pa/1000kg/m³ x 9.8m/s² h≈10.34m Conclusion Since the atmosphere supports a water column of approximately 10.34 meters, a glass tube must be longer than this height to accommodate the water and maintain a vacuum at the top."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): More than 10. Standard atmospheric pressure supports a water column of h = P / (ρg) ≈ 101325 / (1000 × 9.8) = 10.34 m; thus a tube of more than 10 m (approx 11 m) is required."
     },
     {
       "id": 52,
@@ -698,8 +698,8 @@
         "C": "Gases",
         "D": "Fluids"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): Liquids. A fluid refers to both liquids and gases. Pascal's law applies to these because their particles are free to move, allowing any applied pressure to be transmitted equally and undiminished in all directions. • Liquids: Used in hydraulic systems (like car lifts) because they are nearly incompressible. • Gases: Used in pneumatic systems (like bicycle tires), though they compress before fully transmitting pressure. • Solids: Do not follow this law because they are rigid and transmit force primarily in the direction of the application."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Fluids. Pascal's law applies to all fluids (both liquids and enclosed gases), as both transmit pressure equally in all directions."
     },
     {
       "id": 59,

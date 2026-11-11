@@ -1,7 +1,7 @@
 {
   "chapterNumber": 2,
   "chapterTitle": "Vectors & Equilibrium",
-  "totalQuestions": 60,
+  "totalQuestions": 70,
   "questions": [
     {
       "id": 1,
@@ -13,7 +13,7 @@
         "D": "Becomes zero"
       },
       "correctAnswer": "C",
-      "explanation": "The magnitude of a vector represents its length, which is a scalar quantity. Rotating the coordinate system changes the components of the vector, but the magnitude remains unchanged."
+      "explanation": "The magnitude of a vector represents its length, which is a scalar quantity. Rotating the\ncoordinate system changes the components of the vector, but the magnitude remains\nunchanged."
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
         "D": "Null vectors cannot be produced by cross products"
       },
       "correctAnswer": "B",
-      "explanation": "The cross product of a vector with itself is always a null vector because the angle between the two vectors is 0°, and sin 0° = 0."
+      "explanation": "The cross product of a vector with itself is always a null vector because the angle\nbetween the two vectors is 0°, and sin 0° = 0."
     },
     {
       "id": 3,
@@ -37,7 +37,7 @@
         "D": "Fourth quadrant"
       },
       "correctAnswer": "D",
-      "explanation": "A positive x-component and a negative y-component place the vector in the fourth quadrant."
+      "explanation": "A positive x-component and a negative y-component place the vector in the fourth\nquadrant."
     },
     {
       "id": 4,
@@ -61,7 +61,7 @@
         "D": "45°"
       },
       "correctAnswer": "A",
-      "explanation": "The resultant of two vectors is maximum when the angle between them is 0°, meaning both vectors act in the same direction."
+      "explanation": "The resultant of two vectors is maximum when the angle between them is 0°, meaning\nboth vectors act in the same direction."
     },
     {
       "id": 6,
@@ -70,10 +70,22 @@
         "A": "0°",
         "B": "30°",
         "C": "45°",
-        "D": "90°\n\n7. The magnitude of the cross product of two parallel vectors A and B is:"
+        "D": "90°"
       },
       "correctAnswer": "C",
       "explanation": "If |A · B| = |A × B|, then cos θ = sin θ, which gives θ = 45°."
+    },
+    {
+      "id": 7,
+      "question": "The magnitude of the cross product of two parallel vectors A and B is:",
+      "options": {
+        "A": "AB",
+        "B": "1",
+        "C": "0",
+        "D": "−AB"
+      },
+      "correctAnswer": "C",
+      "explanation": "For parallel vectors, the angle between them is 0°, therefore the cross product becomes\nzero."
     },
     {
       "id": 8,
@@ -85,7 +97,7 @@
         "D": "Negative"
       },
       "correctAnswer": "C",
-      "explanation": "Torque equals rF sin θ. If force acts parallel to the position vector, θ = 0°, so torque becomes zero."
+      "explanation": "Torque equals rF sin θ. If force acts parallel to the position vector, θ = 0°, so torque\nbecomes zero."
     },
     {
       "id": 9,
@@ -133,7 +145,7 @@
         "D": "|A × B|"
       },
       "correctAnswer": "B",
-      "explanation": "The magnitude of the cross product gives the area of the parallelogram formed by the two vectors."
+      "explanation": "The magnitude of the cross product gives the area of the parallelogram formed by the two\nvectors."
     },
     {
       "id": 13,
@@ -146,6 +158,18 @@
       },
       "correctAnswer": "B",
       "explanation": "A force acting entirely along the y-axis has no x-component."
+    },
+    {
+      "id": 14,
+      "question": "The vector product is anti-commutative, which means:",
+      "options": {
+        "A": "A × B = B × A",
+        "B": "A × B = −(B × A)",
+        "C": "A × B = 1/(B × A)",
+        "D": "|A × B| ≠ |B × A|"
+      },
+      "correctAnswer": "B",
+      "explanation": "The cross product is anti-commutative:\nA × B = −(B × A)"
     },
     {
       "id": 15,
@@ -169,7 +193,7 @@
         "D": "Angle between them is 45°"
       },
       "correctAnswer": "C",
-      "explanation": "A · B = 0 means perpendicular vectors, while A × B = 0 means parallel vectors. This is only possible if one vector is a null vector."
+      "explanation": "A · B = 0 means perpendicular vectors, while A × B = 0 means parallel vectors. This is\nonly possible if one vector is a null vector."
     },
     {
       "id": 17,
@@ -193,7 +217,7 @@
         "D": "Undefined"
       },
       "correctAnswer": "A",
-      "explanation": "The dot product of perpendicular vectors is zero. 19. Correct Option: C Electric flux is a scalar quantity obtained from the dot product of electric field and area vectors."
+      "explanation": "The dot product of perpendicular vectors is zero."
     },
     {
       "id": 19,
@@ -204,8 +228,8 @@
         "C": "Electric Flux",
         "D": "Force"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "Electric flux is a scalar quantity obtained from the dot product of electric field and area\nvectors."
     },
     {
       "id": 20,
@@ -226,10 +250,22 @@
         "A": "AB sin θ",
         "B": "AB cos θ n̂",
         "C": "AB sin θ n̂",
-        "D": "AB n̂\n\n22. Three vectors satisfy the relation A + B + C = 0. These vectors can form:"
+        "D": "AB n̂"
       },
       "correctAnswer": "C",
-      "explanation": "The cross product equals AB sin θ multiplied by a unit vector perpendicular to both vectors."
+      "explanation": "The cross product equals AB sin θ multiplied by a unit vector perpendicular to both\nvectors."
+    },
+    {
+      "id": 22,
+      "question": "Three vectors satisfy the relation A + B + C = 0. These vectors can form:",
+      "options": {
+        "A": "A right-angled triangle only",
+        "B": "A straight line",
+        "C": "A triangle",
+        "D": "A circle"
+      },
+      "correctAnswer": "C",
+      "explanation": "If A + B + C = 0, the vectors can form a closed triangle."
     },
     {
       "id": 23,
@@ -394,10 +430,22 @@
         "A": "Only r",
         "B": "Only p",
         "C": "Both r and p",
-        "D": "The axis of rotation\n\n37. What is the angle between i + j and i?"
+        "D": "The axis of rotation"
       },
       "correctAnswer": "C",
       "explanation": "Angular momentum is perpendicular to both position vector and momentum vector."
+    },
+    {
+      "id": 37,
+      "question": "What is the angle between i + j and i?",
+      "options": {
+        "A": "30°",
+        "B": "45°",
+        "C": "60°",
+        "D": "90°"
+      },
+      "correctAnswer": "B",
+      "explanation": "The angle between i + j and i is 45°."
     },
     {
       "id": 38,
@@ -424,6 +472,18 @@
       "explanation": "Resultant = √(3² + 4²) = 5 N."
     },
     {
+      "id": 40,
+      "question": "The position vector of a point P(a, b) is:",
+      "options": {
+        "A": "ai − bj",
+        "B": "ai + bj",
+        "C": "bi + aj",
+        "D": "√(a² + b²)"
+      },
+      "correctAnswer": "B",
+      "explanation": "The position vector of point (a, b) is ai + bj."
+    },
+    {
       "id": 41,
       "question": "If A × B = C, then C · A is:",
       "options": {
@@ -432,8 +492,8 @@
         "C": "CA cos θ",
         "D": "1"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "A × B is perpendicular to A, so their dot product is zero."
     },
     {
       "id": 42,
@@ -550,10 +610,22 @@
         "A": "The first vector only",
         "B": "The second vector only",
         "C": "The plane containing both vectors",
-        "D": "The null vector\n\n52. A force of 50 N acts at 30° to the x-axis. The y-component is:"
+        "D": "The null vector"
       },
       "correctAnswer": "C",
       "explanation": "The cross product is perpendicular to the plane containing the two vectors."
+    },
+    {
+      "id": 52,
+      "question": "A force of 50 N acts at 30° to the x-axis. The y-component is:",
+      "options": {
+        "A": "25 N",
+        "B": "43.3 N",
+        "C": "50 N",
+        "D": "0 N"
+      },
+      "correctAnswer": "A",
+      "explanation": "Fy = 50 sin 30° = 25 N."
     },
     {
       "id": 53,
@@ -578,6 +650,18 @@
       },
       "correctAnswer": "A",
       "explanation": "j × k = i and i × i = 0."
+    },
+    {
+      "id": 55,
+      "question": "If vector A = 2i + j and B = i − j, then (A + B) · (A − B) is:",
+      "options": {
+        "A": "0",
+        "B": "3",
+        "C": "5",
+        "D": "12"
+      },
+      "correctAnswer": "B",
+      "explanation": "(A + B) · (A − B) = |A|² − |B|² = 5 − 2 = 3."
     },
     {
       "id": 56,
@@ -673,7 +757,19 @@
         "D": "−j"
       },
       "correctAnswer": "B",
-      "explanation": "Reversing the order of cross product changes the direction. 64. Correct Option: B A scalar multiplied by a vector gives another vector."
+      "explanation": "Reversing the order of cross product changes the direction."
+    },
+    {
+      "id": 64,
+      "question": "Which of the following operations results in a vector?",
+      "options": {
+        "A": "A · (B × C)",
+        "B": "(A · B)C",
+        "C": "A · B",
+        "D": "A(B · C)/|A|"
+      },
+      "correctAnswer": "B",
+      "explanation": "A scalar multiplied by a vector gives another vector."
     },
     {
       "id": 65,
@@ -694,10 +790,22 @@
         "A": "0°",
         "B": "45°",
         "C": "90°",
-        "D": "180°\n\n67. A vector having zero magnitude and arbitrary direction is called:"
+        "D": "180°"
       },
       "correctAnswer": "C",
       "explanation": "If |A + B| = |A − B|, then A · B = 0, meaning vectors are perpendicular."
+    },
+    {
+      "id": 67,
+      "question": "A vector having zero magnitude and arbitrary direction is called:",
+      "options": {
+        "A": "Unit vector",
+        "B": "Position vector",
+        "C": "Null vector",
+        "D": "Resultant vector"
+      },
+      "correctAnswer": "C",
+      "explanation": "A null vector has zero magnitude."
     },
     {
       "id": 68,
@@ -710,6 +818,18 @@
       },
       "correctAnswer": "B",
       "explanation": "Ay = 10 sin 60° = 5√3."
+    },
+    {
+      "id": 69,
+      "question": "(A × B) · A is always:",
+      "options": {
+        "A": "0",
+        "B": "1",
+        "C": "A²B",
+        "D": "AB"
+      },
+      "correctAnswer": "A",
+      "explanation": "(A × B) is perpendicular to A, so their dot product is zero."
     },
     {
       "id": 70,

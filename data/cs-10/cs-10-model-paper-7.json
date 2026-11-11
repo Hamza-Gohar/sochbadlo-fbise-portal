@@ -124,8 +124,8 @@
         "C": "2",
         "D": "3"
       },
-      "correctAnswer": "B",
-      "explanation": "Option B ('1') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 07 (FBISE Past Papers Focus II)."
+      "correctAnswer": "C",
+      "explanation": "Given a = -1 and b = 2: ++a pre-increments a to 0. The condition (++a == 0) evaluates to true (0 == 0). The if-branch executes: printf(\"%d\", a + b) which evaluates to 0 + 2 = 2."
     },
     {
       "id": 11,
@@ -136,8 +136,8 @@
         "C": "break",
         "D": "case close"
       },
-      "correctAnswer": "B",
-      "explanation": "Option B ('end case') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 07 (FBISE Past Papers Focus II)."
+      "correctAnswer": "C",
+      "explanation": "In C language, each case block within a switch statement is terminated using the \"break\" keyword to prevent fall-through."
     },
     {
       "id": 12,

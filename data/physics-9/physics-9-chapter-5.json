@@ -98,8 +98,8 @@
         "C": "A vacuum not affecting the shape of a balloon",
         "D": "Air not having weight"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct Option (D): Air not having weight. Atmospheric pressure decreases at high altitude. Less external pressure causes balloon to expand or deflate. This shows air exerts pressure. Hence atmosphere has weight and pressure."
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Collapse of crushed can when air is pumped out. The collapsing can experiment is the standard demonstration in FBISE Physics 9: when air inside a sealed tin can is removed, surrounding atmospheric pressure crushes it."
     },
     {
       "id": 9,
@@ -122,8 +122,8 @@
         "C": "A sudden increase in pressure signals rain",
         "D": "A drop in pressure often precedes the arrival of a storm"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): An increase in pressure indicates a storm. Low pressure systems are linked with storms. When pressure drops rapidly, bad weather approaches. High pressure usually indicates clear weather. Thus falling pressure signals a storm."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): A drop in pressure often precedes the arrival of a storm. A rapid fall in atmospheric pressure indicates an approaching low-pressure storm system with wind and rain."
     },
     {
       "id": 11,
@@ -194,8 +194,8 @@
         "C": "Area divided by force",
         "D": "Sum of force and area"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Product of force and area. Pressure = Force / Area It indicates how much force acts on a unit area. Larger area reduces pressure for the same force. This is used in designing tires, shoes, and machinery."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Force divided by area. Pressure is defined as the normal force per unit area (P = F / A)."
     },
     {
       "id": 17,
@@ -206,8 +206,8 @@
         "C": "Kilogram",
         "D": "Meter²"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Newton. 1 Pascal = 1 N/m² Pressure is force per unit area. Newton measures force, not pressure. Hence Pascal is the SI unit of pressure."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Pascal. The SI unit of pressure is the Pascal (Pa), equivalent to 1 N/m²."
     },
     {
       "id": 18,
@@ -242,8 +242,8 @@
         "C": "Stable weather",
         "D": "Snowfall"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Sunny weather. Rapid drop in atmospheric pressure signals approaching low-pressure system. Low pressure is linked to storms and rain. Barometer detects this change. Hence falling reading warns of bad weather."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): A storm is likely. A sudden drop in barometric pressure signals an impending storm or cyclone."
     },
     {
       "id": 21,
@@ -278,8 +278,8 @@
         "C": "Temperature",
         "D": "Mass"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct Option (C): Temperature. Manometer shows pressure difference between fluid and atmosphere. Commonly U-tube filled with liquid. Height difference indicates pressure. It does not measure temperature, volume, or mass."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Pressure. A manometer is a U-tube instrument specifically designed to measure fluid (gas or liquid) pressure."
     },
     {
       "id": 24,
@@ -338,8 +338,8 @@
         "C": "Color",
         "D": "Salinity"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Temperature. Pressure in a liquid = ρgh Depth (h) directly affects pressure at a point. Deeper points experience more pressure. Other factors like temperature or color are not directly responsible."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Depth of liquid. By hydrostatic pressure law P = ρgh, liquid pressure depends directly on the depth (h) beneath the surface and the density of the liquid."
     },
     {
       "id": 29,
@@ -362,8 +362,8 @@
         "C": "Floating on raft",
         "D": "Standing near pool"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Swimming at surface. Pressure increases with depth in water. At the bottom, water column is tallest → highest pressure. Surface experiences minimal pressure. Thus maximum pressure is at greatest depth."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Diving to bottom of deep pool. Hydrostatic pressure increases linearly with depth (P = ρgh); therefore, maximum pressure is experienced at the greatest depth."
     },
     {
       "id": 31,
@@ -422,8 +422,8 @@
         "C": "Elastic limit and spring constant",
         "D": "Melting point"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): Conductivity. Load-extension experiment measures how spring/material deforms. Slope gives spring constant (k). Max reversible extension gives elastic limit. No effect on color or conductivity."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Elastic limit and spring constant. Load-extension experiments test the elastic properties of a material, determining its spring constant (k) and elastic limit."
     },
     {
       "id": 36,
@@ -482,8 +482,8 @@
         "C": "Mass",
         "D": "Distance"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct Option (D): Distance. Force decreases as distance increases. Doubling distance reduces force by factor of 4. Inverse-square law is fundamental in gravitation. Applies to planets, satellites, and objects on Earth."
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): Square of distance. Newton's law of universal gravitation states that gravitational attraction is inversely proportional to the square of the distance between their centers (inverse-square law, F ∝ 1/r²)."
     },
     {
       "id": 41,
@@ -518,8 +518,8 @@
         "C": "Newton’s 3rd law of motion",
         "D": "Law of electromagnetism"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Law of conservation of momentum. Every action has an equal and opposite reaction. Gravitational force between two bodies satisfies Newton’s 3rd law. Each mass experiences equal force in opposite directions. Momentum and energy conservation also hold but the law is directly linked to 3rd law."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Newton’s 3rd law of motion. The gravitational attraction between two masses forms an action-reaction pair: body A attracts body B with a force equal in magnitude and opposite in direction to the force with which body B attracts body A (Newton's 3rd law)."
     },
     {
       "id": 44,
@@ -530,8 +530,8 @@
         "C": "Small masses",
         "D": "None of these"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): Large value of G. Gravitational force is weak for small everyday objects. Value of G is very small (10⁻¹¹). Hence we do not notice attraction between books, pens, or humans. Only massive objects like planets exert noticeable force."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Small masses. Because the universal gravitational constant G is exceedingly small (6.67 × 10⁻¹¹ N m²/kg²), the gravitational force between everyday objects with small masses is far too weak to be perceived."
     },
     {
       "id": 45,
@@ -590,8 +590,8 @@
         "C": "1/4 B",
         "D": "1/6 B"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): 6 B. gₘ ≈ 1/6 gₑ Weight = mass × g Thus weight on Moon = 1/6 of Earth weight Explains why astronauts feel lighter on the Moon."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): 1/6 B. The acceleration due to gravity on the Moon is roughly one-sixth of that on Earth (g_m ≈ g_e / 6), so weight on the Moon is B / 6."
     },
     {
       "id": 50,
@@ -602,8 +602,8 @@
         "C": "1/4 g",
         "D": "1/9 g"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): 16 g. g_h = g / (1 + h/R)² Here h = 3R → g_h = g / (4²) = g / 16 Gravity decreases with square of distance from center of Earth. Hence g is 1/16th at 3R above surface."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 1/16 g. At altitude h = 3R, the distance from the Earth's center is r = R + 3R = 4R. Since g ∝ 1/r², g' = g / (4)² = g / 16."
     },
     {
       "id": 51,
@@ -614,8 +614,8 @@
         "C": "2 G",
         "D": "8 G"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct Option (C): 2 G. Gravitational force F = G (m₁ m₂) / r² Here F = G × 2 × 2 / 1² = 4G Force increases with product of masses. Direct calculation gives 4G."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 4G. According to Newton's law: F = G (m₁ m₂) / r² = G (2 × 2) / (1)² = 4G."
     },
     {
       "id": 52,
@@ -638,8 +638,8 @@
         "C": "4 times",
         "D": "One time"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct Option (D): One time. GPS satellites are not geostationary. They are in “Medium Earth Orbit” (MEO) and complete two full orbits every 24 hours. Orbital Period: GPS satellites complete one orbit every 12 hours. Daily Count: In a 24-hour day, they revolve around the Earth exactly twice."
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 2 times. GPS satellites operate in Medium Earth Orbit (MEO) with an orbital period of approximately 12 hours, completing 2 full revolutions around the Earth every 24 hours."
     },
     {
       "id": 54,
@@ -710,8 +710,8 @@
         "C": "R² g / G",
         "D": "R G² / g"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): R² G / g. Gravitational acceleration g = G M / R² → M = R² g / G Mass depends on radius, gravity, and G. Formula used in geophysics and astronomy. Other options are dimensionally incorrect."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): R² g / G. From g = G M / R², solving for Earth's mass gives M = g R² / G."
     },
     {
       "id": 60,
@@ -758,8 +758,8 @@
         "C": "Coulomb force",
         "D": "Gravitational force"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Centrifugal force. Gravity provides centripetal force for orbital motion Pulls satellite toward Earth continuously Centrifugal force is apparent in rotating frame Electrostatic and Coulomb forces are irrelevant for satellites."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Gravitational force. The gravitational attraction between the Earth and the satellite provides the required centripetal force for orbital motion."
     },
     {
       "id": 64,

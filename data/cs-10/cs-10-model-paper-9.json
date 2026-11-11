@@ -100,8 +100,8 @@
         "C": "final int x = 10;",
         "D": "Both a and b"
       },
-      "correctAnswer": "B",
-      "explanation": "Option B ('int const x = 10;') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 09 (Full-Book Board Simulator II)."
+      "correctAnswer": "D",
+      "explanation": "In C syntax, both \"const int x = 10;\" and \"int const x = 10;\" are completely valid ways to declare an integer constant, making \"Both a and b\" the correct answer."
     },
     {
       "id": 9,
@@ -124,8 +124,8 @@
         "C": "Only when the loop is finished",
         "D": "After every two iterations"
       },
-      "correctAnswer": "A",
-      "explanation": "Option A ('Before the loop starts') is the verified answer according to Federal Board (FBISE) examination standards for FBISE Annual Exam Simulator 09 (Full-Book Board Simulator II)."
+      "correctAnswer": "B",
+      "explanation": "A do-while loop is an exit-controlled loop where the loop body is executed first, and the terminating condition is checked after each iteration at the end of the loop."
     },
     {
       "id": 11,

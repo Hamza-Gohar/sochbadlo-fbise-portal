@@ -16,7 +16,8 @@
         "D": "no article"
       },
       "answer": "A",
-      "explanation": "'Honest' begins with a silent 'h' and a vowel phoneme /ɒ/, requiring the indefinite article 'an'."
+      "explanation": "'Honest' begins with a silent 'h' and a vowel phoneme /ɒ/, requiring the indefinite article 'an'.",
+      "correctAnswer": "A"
     },
     {
       "id": 2,
@@ -28,7 +29,8 @@
         "D": "no article"
       },
       "answer": "A",
-      "explanation": "'University' begins with a consonant glide sound /juː/ (like 'yoo'), thus taking the indefinite article 'a' rather than 'an'."
+      "explanation": "'University' begins with a consonant glide sound /juː/ (like 'yoo'), thus taking the indefinite article 'a' rather than 'an'.",
+      "correctAnswer": "A"
     },
     {
       "id": 3,
@@ -40,7 +42,8 @@
         "D": "no article"
       },
       "answer": "A",
-      "explanation": "The abbreviation 'MBA' is pronounced starting with a vowel phoneme /ɛm/, thus requiring the indefinite article 'an'."
+      "explanation": "The abbreviation 'MBA' is pronounced starting with a vowel phoneme /ɛm/, thus requiring the indefinite article 'an'.",
+      "correctAnswer": "A"
     },
     {
       "id": 4,
@@ -52,7 +55,8 @@
         "D": "no article"
       },
       "answer": "A",
-      "explanation": "'One-eyed' begins with the consonantal labio-velar glide /w/ sound (like 'won'), taking 'a' (e.g., 'a one-eyed man')."
+      "explanation": "'One-eyed' begins with the consonantal labio-velar glide /w/ sound (like 'won'), taking 'a' (e.g., 'a one-eyed man').",
+      "correctAnswer": "A"
     },
     {
       "id": 5,
@@ -64,7 +68,8 @@
         "D": "The Lake Saif-ul-Malook is in Kaghan."
       },
       "answer": "A",
-      "explanation": "Mountain ranges (chains) take the definite article 'the' ('The Himalayas', 'The Alps'), whereas individual mountain peaks ('Mount Everest', 'K2') do not take an article."
+      "explanation": "Mountain ranges (chains) take the definite article 'the' ('The Himalayas', 'The Alps'), whereas individual mountain peaks ('Mount Everest', 'K2') do not take an article.",
+      "correctAnswer": "A"
     },
     {
       "id": 6,
@@ -76,7 +81,8 @@
         "D": "for"
       },
       "answer": "A",
-      "explanation": "The adjective 'addicted' takes the dependent preposition 'to'."
+      "explanation": "The adjective 'addicted' takes the dependent preposition 'to'.",
+      "correctAnswer": "A"
     },
     {
       "id": 7,
@@ -88,7 +94,8 @@
         "D": "by"
       },
       "answer": "A",
-      "explanation": "The verb 'accused' strictly governs the preposition 'of' ('accused of a crime')."
+      "explanation": "The verb 'accused' strictly governs the preposition 'of' ('accused of a crime').",
+      "correctAnswer": "A"
     },
     {
       "id": 8,
@@ -100,7 +107,8 @@
         "D": "against"
       },
       "answer": "A",
-      "explanation": "The verb 'prefer' takes the preposition 'to' (never 'than') when expressing preference between two gerunds or nouns."
+      "explanation": "The verb 'prefer' takes the preposition 'to' (never 'than') when expressing preference between two gerunds or nouns.",
+      "correctAnswer": "A"
     },
     {
       "id": 9,
@@ -112,7 +120,8 @@
         "D": "Hyperbole"
       },
       "answer": "A",
-      "explanation": "The repetition of the identical initial hard /k/ consonant sound in 'cat', 'caught', and 'crazy' exemplifies Alliteration."
+      "explanation": "The repetition of the identical initial hard /k/ consonant sound in 'cat', 'caught', and 'crazy' exemplifies Alliteration.",
+      "correctAnswer": "A"
     },
     {
       "id": 10,
@@ -124,7 +133,8 @@
         "D": "Oxymoron"
       },
       "answer": "A",
-      "explanation": "'Life is a dream' directly equates two different concepts without using comparative markers like 'as' or 'like', creating a Metaphor."
+      "explanation": "'Life is a dream' directly equates two different concepts without using comparative markers like 'as' or 'like', creating a Metaphor.",
+      "correctAnswer": "A"
     },
     {
       "id": 11,
@@ -136,7 +146,8 @@
         "D": "Alliteration"
       },
       "answer": "A",
-      "explanation": "Attributing human voluntary actions ('nodded and smiled') to inanimate flowers is Personification."
+      "explanation": "Attributing human voluntary actions ('nodded and smiled') to inanimate flowers is Personification.",
+      "correctAnswer": "A"
     },
     {
       "id": 12,
@@ -148,7 +159,8 @@
         "D": "Onomatopoeia"
       },
       "answer": "A",
-      "explanation": "An explicit comparison between his valor and that of a lion using the comparative word 'as...as' constitutes a Simile."
+      "explanation": "An explicit comparison between his valor and that of a lion using the comparative word 'as...as' constitutes a Simile.",
+      "correctAnswer": "A"
     },
     {
       "id": 13,
@@ -160,7 +172,8 @@
         "D": "Alliteration"
       },
       "answer": "A",
-      "explanation": "'Deafening silence' pairs two inherently contradictory words together side by side, creating an Oxymoron."
+      "explanation": "'Deafening silence' pairs two inherently contradictory words together side by side, creating an Oxymoron.",
+      "correctAnswer": "A"
     },
     {
       "id": 14,
@@ -172,7 +185,8 @@
         "D": "Understatement"
       },
       "answer": "A",
-      "explanation": "Exaggerating the count to 'a million times' for emphatic or rhetorical impact is Hyperbole."
+      "explanation": "Exaggerating the count to 'a million times' for emphatic or rhetorical impact is Hyperbole.",
+      "correctAnswer": "A"
     },
     {
       "id": 15,
@@ -184,7 +198,8 @@
         "D": "Dense forest foliage"
       },
       "answer": "A",
-      "explanation": "In 'The Rain', the upper leaves that drink rain first and pass droplets to the lower poor leaves symbolize the rich and privileged social class."
+      "explanation": "In 'The Rain', the upper leaves that drink rain first and pass droplets to the lower poor leaves symbolize the rich and privileged social class.",
+      "correctAnswer": "A"
     }
   ]
 }

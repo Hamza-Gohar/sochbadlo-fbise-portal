@@ -1,7 +1,7 @@
 {
   "chapterNumber": 8,
   "chapterTitle": "Waves",
-  "totalQuestions": 75,
+  "totalQuestions": 90,
   "questions": [
     {
       "id": 1,
@@ -13,7 +13,7 @@
         "D": "Optics"
       },
       "correctAnswer": "B",
-      "explanation": "Thermodynamics is the branch of physics that studies heat, work, temperature, and their relationship with energy and matter."
+      "explanation": "Thermodynamics is the branch of physics that studies heat, work, temperature, and their\nrelationship with energy and matter."
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
         "D": "Internal Energy"
       },
       "correctAnswer": "C",
-      "explanation": "Two systems are in thermal equilibrium when there is no net heat flow between them, meaning they have the same temperature."
+      "explanation": "Two systems are in thermal equilibrium when there is no net heat flow between them, meaning\nthey have the same temperature."
     },
     {
       "id": 3,
@@ -37,7 +37,7 @@
         "D": "Entropy"
       },
       "correctAnswer": "C",
-      "explanation": "The Zeroth Law of Thermodynamics defines temperature and states that systems in thermal equilibrium with a third system are in equilibrium with each other."
+      "explanation": "The Zeroth Law of Thermodynamics defines temperature and states that systems in thermal\nequilibrium with a third system are in equilibrium with each other."
     },
     {
       "id": 4,
@@ -49,7 +49,7 @@
         "D": "Enthalpy"
       },
       "correctAnswer": "C",
-      "explanation": "Internal energy is the total microscopic energy of a system, including kinetic and potential energy of molecules."
+      "explanation": "Internal energy is the total microscopic energy of a system, including kinetic and potential\nenergy of molecules."
     },
     {
       "id": 5,
@@ -58,10 +58,22 @@
         "A": "Pressure",
         "B": "Volume",
         "C": "Temperature",
-        "D": "Nature of gas\n\n6. The equation of state for ideal gas is:"
+        "D": "Nature of gas"
       },
       "correctAnswer": "C",
-      "explanation": "For an ideal gas, internal energy depends only on temperature because there are no intermolecular forces."
+      "explanation": "For an ideal gas, internal energy depends only on temperature because there are no\nintermolecular forces."
+    },
+    {
+      "id": 6,
+      "question": "The equation of state for ideal gas is:",
+      "options": {
+        "A": "PV = nRT",
+        "B": "PV = mRT",
+        "C": "P/V = nRT",
+        "D": "PV = kT"
+      },
+      "correctAnswer": "A",
+      "explanation": "The ideal gas equation is PV = nRT, relating pressure, volume, and temperature."
     },
     {
       "id": 7,
@@ -85,7 +97,7 @@
         "D": "V/n"
       },
       "correctAnswer": "A",
-      "explanation": "Boltzmann constant is defined as k = R / NA. 9. Correct Option: B Gas pressure is caused by collisions of molecules with the walls of the container."
+      "explanation": "Boltzmann constant is defined as k = R / NA."
     },
     {
       "id": 9,
@@ -96,8 +108,8 @@
         "C": "Weight of molecules",
         "D": "Potential energy"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Gas pressure is caused by collisions of molecules with the walls of the container."
     },
     {
       "id": 10,
@@ -118,10 +130,22 @@
         "A": "Water freezes",
         "B": "Molecular motion ceases (theoretical)",
         "C": "Gas liquefies",
-        "D": "Pressure becomes infinite\n\n12. Work done in P-V diagram is:"
+        "D": "Pressure becomes infinite"
       },
       "correctAnswer": "B",
       "explanation": "At absolute zero, molecular motion is theoretically at minimum."
+    },
+    {
+      "id": 12,
+      "question": "Work done in P-V diagram is:",
+      "options": {
+        "A": "Slope of curve",
+        "B": "Area under curve",
+        "C": "PV product",
+        "D": "Internal energy"
+      },
+      "correctAnswer": "B",
+      "explanation": "Work done by a gas equals the area under the pressure-volume graph."
     },
     {
       "id": 13,
@@ -178,10 +202,22 @@
         "A": "Positive",
         "B": "Negative",
         "C": "Zero",
-        "D": "Equal to W\n\n18. No heat exchange process is:"
+        "D": "Equal to W"
       },
       "correctAnswer": "C",
       "explanation": "For ideal gas in isothermal process, internal energy change is zero."
+    },
+    {
+      "id": 18,
+      "question": "No heat exchange process is:",
+      "options": {
+        "A": "Isothermal",
+        "B": "Isobaric",
+        "C": "Adiabatic",
+        "D": "Isochoric"
+      },
+      "correctAnswer": "C",
+      "explanation": "Adiabatic process has no heat exchange (Q = 0)."
     },
     {
       "id": 19,
@@ -192,8 +228,8 @@
         "C": "Constant",
         "D": "Zero"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "In adiabatic expansion, temperature decreases."
     },
     {
       "id": 20,
@@ -238,10 +274,22 @@
         "A": "Internal energy increases more at constant pressure",
         "B": "Heat used for work + internal energy",
         "C": "Volume constant",
-        "D": "Pressure increases temperature\n\n24. Cycle returning to initial state is:"
+        "D": "Pressure increases temperature"
       },
       "correctAnswer": "B",
       "explanation": "At constant pressure, some heat is used for work, so Cp > Cv."
+    },
+    {
+      "id": 24,
+      "question": "Cycle returning to initial state is:",
+      "options": {
+        "A": "Reversible",
+        "B": "Irreversible",
+        "C": "Cyclic",
+        "D": "Adiabatic"
+      },
+      "correctAnswer": "C",
+      "explanation": "A cyclic process returns to initial state."
     },
     {
       "id": 25,
@@ -289,7 +337,7 @@
         "D": "Entropy decreases"
       },
       "correctAnswer": "B",
-      "explanation": "No engine can convert all heat into work (Second Law). 29. Correct Option: B Carnot efficiency depends only on source and sink temperatures."
+      "explanation": "No engine can convert all heat into work (Second Law)."
     },
     {
       "id": 29,
@@ -298,10 +346,22 @@
         "A": "Substance",
         "B": "Temperatures",
         "C": "Pressure",
-        "D": "Volume\n\n30. Carnot efficiency formula:"
+        "D": "Volume"
+      },
+      "correctAnswer": "B",
+      "explanation": "Carnot efficiency depends only on source and sink temperatures."
+    },
+    {
+      "id": 30,
+      "question": "Carnot efficiency formula:",
+      "options": {
+        "A": "1 − TL/TH",
+        "B": "1 − TH/TL",
+        "C": "TL/TH",
+        "D": "(TH − TL)/TL"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "Efficiency = 1 − TL / TH."
     },
     {
       "id": 31,
@@ -358,10 +418,22 @@
         "A": "3/2 R",
         "B": "5/2 R",
         "C": "R",
-        "D": "3R\n\n36. Adiabatic curve is:"
+        "D": "3R"
       },
       "correctAnswer": "A",
       "explanation": "Cv for monatomic gas is 3/2 R."
+    },
+    {
+      "id": 36,
+      "question": "Adiabatic curve is:",
+      "options": {
+        "A": "Flatter than isothermal",
+        "B": "Steeper than isothermal",
+        "C": "Same",
+        "D": "Circular"
+      },
+      "correctAnswer": "B",
+      "explanation": "Adiabatic curve is steeper than isothermal curve."
     },
     {
       "id": 37,
@@ -385,7 +457,7 @@
         "D": "1/2"
       },
       "correctAnswer": "C",
-      "explanation": "Root mean square speed is proportional to square root of temperature. 39. Correct Option: A 1 calorie equals 4.184 joules."
+      "explanation": "Root mean square speed is proportional to square root of temperature."
     },
     {
       "id": 39,
@@ -397,7 +469,7 @@
         "D": "0.42 J"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "1 calorie equals 4.184 joules."
     },
     {
       "id": 40,
@@ -418,10 +490,22 @@
         "A": "Heat",
         "B": "Work",
         "C": "Internal Energy",
-        "D": "Distance\n\n42. In an isobaric process, which of the following remains constant?"
+        "D": "Distance"
       },
       "correctAnswer": "C",
       "explanation": "Internal energy is a state function."
+    },
+    {
+      "id": 42,
+      "question": "In an isobaric process, which of the following remains constant?",
+      "options": {
+        "A": "Volume",
+        "B": "Temperature",
+        "C": "Pressure",
+        "D": "Internal Energy"
+      },
+      "correctAnswer": "C",
+      "explanation": "Isobaric process has constant pressure."
     },
     {
       "id": 43,
@@ -478,10 +562,22 @@
         "A": "Low pressure and high temperature",
         "B": "High pressure and low temperature",
         "C": "Low pressure and low temperature",
-        "D": "High pressure and high temperature\n\n48. The ratio of R to Boltzmann constant k gives:"
+        "D": "High pressure and high temperature"
       },
       "correctAnswer": "A",
       "explanation": "Ideal gas behavior occurs at low pressure and high temperature."
+    },
+    {
+      "id": 48,
+      "question": "The ratio of R to Boltzmann constant k gives:",
+      "options": {
+        "A": "Molar mass",
+        "B": "Avogadro’s number",
+        "C": "Number of moles",
+        "D": "Volume"
+      },
+      "correctAnswer": "B",
+      "explanation": "R/k = Avogadro number."
     },
     {
       "id": 49,
@@ -492,8 +588,8 @@
         "C": "Third Law",
         "D": "Zeroth Law"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "Third Law states absolute zero cannot be reached."
     },
     {
       "id": 50,
@@ -538,10 +634,22 @@
         "A": "R",
         "B": "Entropy",
         "C": "Heat capacity",
-        "D": "All of these\n\n54. In a refrigerator, heat is rejected to the:"
+        "D": "All of these"
       },
       "correctAnswer": "D",
       "explanation": "All listed quantities share same energy-related units."
+    },
+    {
+      "id": 54,
+      "question": "In a refrigerator, heat is rejected to the:",
+      "options": {
+        "A": "Cold reservoir",
+        "B": "Hot reservoir",
+        "C": "Ice",
+        "D": "Compressor"
+      },
+      "correctAnswer": "B",
+      "explanation": "Heat is rejected to the hot reservoir."
     },
     {
       "id": 55,
@@ -589,7 +697,7 @@
         "D": "Free expansion only"
       },
       "correctAnswer": "C",
-      "explanation": "During compression, internal energy increases. 59. Correct Option: C Area of P-V graph represents work done."
+      "explanation": "During compression, internal energy increases."
     },
     {
       "id": 59,
@@ -598,10 +706,22 @@
         "A": "Internal energy",
         "B": "Heat absorbed",
         "C": "Net work done",
-        "D": "Pressure\n\n60. Kinetic theory assumes gas molecules are:"
+        "D": "Pressure"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "Area of P-V graph represents work done."
+    },
+    {
+      "id": 60,
+      "question": "Kinetic theory assumes gas molecules are:",
+      "options": {
+        "A": "Large spheres",
+        "B": "Point masses",
+        "C": "Attracting particles",
+        "D": "Fixed bodies"
+      },
+      "correctAnswer": "B",
+      "explanation": "Gas molecules are treated as point masses."
     },
     {
       "id": 61,
@@ -658,10 +778,22 @@
         "A": "Charles law",
         "B": "Boyle law",
         "C": "Avogadro law",
-        "D": "Dalton law\n\n66. Q is positive when:"
+        "D": "Dalton law"
       },
       "correctAnswer": "B",
       "explanation": "Boyle’s law: PV = constant."
+    },
+    {
+      "id": 66,
+      "question": "Q is positive when:",
+      "options": {
+        "A": "Heat leaves system",
+        "B": "Heat enters system",
+        "C": "System cools",
+        "D": "Work is zero"
+      },
+      "correctAnswer": "A",
+      "explanation": "Heat entering system is positive."
     },
     {
       "id": 67,
@@ -685,7 +817,7 @@
         "D": "Water"
       },
       "correctAnswer": "C",
-      "explanation": "Carnot engine uses ideal gas. 69. Correct Option: A Heat is energy in transit."
+      "explanation": "Carnot engine uses ideal gas."
     },
     {
       "id": 69,
@@ -697,7 +829,7 @@
         "D": "Solid state"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "Heat is energy in transit."
     },
     {
       "id": 70,
@@ -718,10 +850,22 @@
         "A": "160 J",
         "B": "40 J",
         "C": "-40 J",
-        "D": "60 J\n\n72. In adiabatic expansion internal energy:"
+        "D": "60 J"
       },
       "correctAnswer": "B",
       "explanation": "Work = 100 − 60 = 40 J."
+    },
+    {
+      "id": 72,
+      "question": "In adiabatic expansion internal energy:",
+      "options": {
+        "A": "Increases",
+        "B": "Decreases",
+        "C": "Constant",
+        "D": "Infinite"
+      },
+      "correctAnswer": "B",
+      "explanation": "Internal energy decreases in expansion."
     },
     {
       "id": 73,
@@ -778,10 +922,22 @@
         "A": "273.16 K",
         "B": "273.15 K",
         "C": "373 K",
-        "D": "0 K\n\n78. Density in kinetic theory equation:"
+        "D": "0 K"
       },
       "correctAnswer": "A",
       "explanation": "Triple point is 273.16 K."
+    },
+    {
+      "id": 78,
+      "question": "Density in kinetic theory equation:",
+      "options": {
+        "A": "Pressure",
+        "B": "Density",
+        "C": "Radius",
+        "D": "Mole"
+      },
+      "correctAnswer": "B",
+      "explanation": "Rho (ρ) represents density."
     },
     {
       "id": 79,
@@ -793,7 +949,7 @@
         "D": "Adiabatic"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "Constant volume process is isochoric."
     },
     {
       "id": 80,
@@ -838,10 +994,22 @@
         "A": "Celsius",
         "B": "Fahrenheit",
         "C": "Kelvin",
-        "D": "Rankine\n\n84. Molar volume of ideal gas at STP is:"
+        "D": "Rankine"
       },
       "correctAnswer": "C",
       "explanation": "Kelvin scale is required for gas laws."
+    },
+    {
+      "id": 84,
+      "question": "Molar volume of ideal gas at STP is:",
+      "options": {
+        "A": "22.4 L",
+        "B": "1 L",
+        "C": "10 L",
+        "D": "100 L"
+      },
+      "correctAnswer": "A",
+      "explanation": "Molar volume at STP is 22.4 L."
     },
     {
       "id": 85,
@@ -889,7 +1057,7 @@
         "D": "No collisions"
       },
       "correctAnswer": "A",
-      "explanation": "Gas molecules undergo elastic collisions. 89. Correct Option: B Pressure is inversely proportional to volume."
+      "explanation": "Gas molecules undergo elastic collisions."
     },
     {
       "id": 89,
@@ -898,10 +1066,22 @@
         "A": "Directly",
         "B": "Inversely",
         "C": "Not related",
-        "D": "Exponentially\n\n90. Thermodynamics deals with:"
+        "D": "Exponentially"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Pressure is inversely proportional to volume."
+    },
+    {
+      "id": 90,
+      "question": "Thermodynamics deals with:",
+      "options": {
+        "A": "Microscopic properties",
+        "B": "Macroscopic properties",
+        "C": "Atomic structure only",
+        "D": "Nuclear reactions"
+      },
+      "correctAnswer": "B",
+      "explanation": "Thermodynamics deals with macroscopic properties."
     }
   ]
 }

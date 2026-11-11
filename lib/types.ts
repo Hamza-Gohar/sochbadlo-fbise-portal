@@ -6,8 +6,10 @@ export interface Question {
     B: string;
     C: string;
     D: string;
+    [key: string]: string;
   };
   correctAnswer: 'A' | 'B' | 'C' | 'D';
+  answer?: string;
   explanation?: string;
 }
 

@@ -26,8 +26,8 @@
         "C": "Both kinetic and potential energy are equal",
         "D": "Total energy is zero"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Kinetic energy is maximum, potential energy is zero. Velocity = 0 → K.E = 0; height maximum → P.E = maximum."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Kinetic energy is zero, potential energy is maximum. At the peak of vertical flight, the velocity of the ball momentarily becomes zero (KE = 0), and all mechanical energy is stored as maximum gravitational potential energy."
     },
     {
       "id": 3,
@@ -38,8 +38,8 @@
         "C": "Solar energy into chemical energy",
         "D": "Mechanical energy into nuclear energy"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Kinetic energy into chemical energy. Sunlight → chemical energy in glucose."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Solar energy into chemical energy. Photosynthesis captures radiant solar (light) energy from the Sun and converts it into stored chemical energy in the bonds of glucose."
     },
     {
       "id": 4,
@@ -62,8 +62,8 @@
         "C": "Wind",
         "D": "Natural gas"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct Option (D): Natural gas. Renewable energy naturally replenishes."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Wind. Wind is a continuously naturally replenished renewable resource, whereas coal, oil, and natural gas are finite fossil fuels."
     },
     {
       "id": 6,
@@ -206,8 +206,8 @@
         "C": "25 W",
         "D": "50 W"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): 10 W. Power = Work / Time = 10 / 5 = 2 W."
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 2W. Power is work done divided by time: P = W / t = 10 J / 5 s = 2 W."
     },
     {
       "id": 18,
@@ -242,8 +242,8 @@
         "C": "Sound Energy",
         "D": "Heat Energy"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct Option (C): Sound Energy. Hammer has gravitational potential energy = m × g × h."
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): P.E. A raised hammer possesses gravitational potential energy due to its elevated position above the ground (PE = mgh)."
     },
     {
       "id": 21,
@@ -434,8 +434,8 @@
         "C": "The sun",
         "D": "Nuclear fuels"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): The earth. Sun is the primary source of energy for Earth."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): The sun. The Sun is the primary source of heat and energy for planet Earth."
     },
     {
       "id": 37,
@@ -482,8 +482,8 @@
         "C": "3",
         "D": "4"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): 1. The Two Conditions for Work 1)Force must be applied: An external force (F) must act upon the object. 2) Displacement must occur: The object must move a certain distance (d) in the direction of the force (or have a component of motion along the line of action of the force)."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 2. In physics, work requires two essential conditions: (1) a force must act on the body, and (2) the body must be displaced in the direction of the force."
     },
     {
       "id": 41,
@@ -554,8 +554,8 @@
         "C": "Energy",
         "D": "None of these"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Work. Force × moment arm = Torque, not work."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): None of these. The product of force and moment arm is torque (turning effect), not work, power, or energy."
     },
     {
       "id": 47,
@@ -578,8 +578,8 @@
         "C": "Constant",
         "D": "Zero"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Maximum. At maximum height, velocity = 0 → K.E = 0."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Zero. At the extreme positions (maximum height) of a swinging pendulum, the bob comes to rest momentarily before reversing direction, so its kinetic energy is zero."
     },
     {
       "id": 49,

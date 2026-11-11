@@ -1,7 +1,7 @@
 {
   "chapterNumber": 14,
-  "chapterTitle": "Particle Physics",
-  "totalQuestions": 44,
+  "chapterTitle": "Nuclear Physics",
+  "totalQuestions": 50,
   "questions": [
     {
       "id": 1,
@@ -13,7 +13,7 @@
         "D": "Only the number of protons"
       },
       "correctAnswer": "C",
-      "explanation": "In any nuclear reaction, the total number of nucleons (baryon number) and the net electric charge must remain constant."
+      "explanation": "In any nuclear reaction, the total number of nucleons (baryon number) and the net electric charge\nmust remain constant."
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
         "D": "Beryllium"
       },
       "correctAnswer": "B",
-      "explanation": "An alpha particle consists of two protons and two neutrons, which is the same as a Helium-4 nucleus."
+      "explanation": "An alpha particle consists of two protons and two neutrons, which is the same as a Helium-4\nnucleus."
     },
     {
       "id": 3,
@@ -49,7 +49,7 @@
         "D": "Positively charged particles"
       },
       "correctAnswer": "C",
-      "explanation": "Gamma rays are high-frequency electromagnetic waves (photons) emitted during nuclear transitions."
+      "explanation": "Gamma rays are high-frequency electromagnetic waves (photons) emitted during nuclear\ntransitions."
     },
     {
       "id": 5,
@@ -58,10 +58,22 @@
         "A": "A proton",
         "B": "A neutron",
         "C": "An electron",
-        "D": "An alpha particle\n\n6.\nWhich particle is emitted during β+ decay?"
+        "D": "An alpha particle"
       },
       "correctAnswer": "C",
-      "explanation": "A positron is the antiparticle of an electron; they have identical mass but opposite electric charges."
+      "explanation": "A positron is the antiparticle of an electron; they have identical mass but opposite electric\ncharges."
+    },
+    {
+      "id": 6,
+      "question": "Which particle is emitted during β+ decay?",
+      "options": {
+        "A": "Electron",
+        "B": "Positron",
+        "C": "Neutron",
+        "D": "Alpha particle"
+      },
+      "correctAnswer": "B",
+      "explanation": "Beta-plus decay (positron emission) occurs when a proton in the nucleus converts into a neutron,\nreleasing a positron and a neutrino."
     },
     {
       "id": 7,
@@ -73,7 +85,7 @@
         "D": "A graviton"
       },
       "correctAnswer": "B",
-      "explanation": "To conserve lepton number, the emission of an electron (lepton number +1) must be accompanied by an antineutrino (lepton number −1)."
+      "explanation": "To conserve lepton number, the emission of an electron (lepton number +1) must be\naccompanied by an antineutrino (lepton number −1)."
     },
     {
       "id": 8,
@@ -85,7 +97,7 @@
         "D": "Infinite"
       },
       "correctAnswer": "B",
-      "explanation": "Alpha particles are emitted during transitions between specific, quantized nuclear energy levels, resulting in discrete energy peaks."
+      "explanation": "Alpha particles are emitted during transitions between specific, quantized nuclear energy levels,\nresulting in discrete energy peaks."
     },
     {
       "id": 9,
@@ -97,7 +109,7 @@
         "D": "Meson"
       },
       "correctAnswer": "B",
-      "explanation": "Since the decay energy is shared between the daughter nucleus, the beta particle, and the neutrino, the beta particle can have any value up to a maximum, creating a continuous spectrum."
+      "explanation": "Since the decay energy is shared between the daughter nucleus, the beta particle, and the\nneutrino, the beta particle can have any value up to a maximum, creating a continuous spectrum."
     },
     {
       "id": 10,
@@ -109,7 +121,7 @@
         "D": "Only found in the nucleus"
       },
       "correctAnswer": "B",
-      "explanation": "According to the Standard Model, quarks and leptons are fundamental (elementary) particles because they have no known internal structure. 11. Ans: (C) There are six flavors of quarks: up, down, charm, strange, top, and bottom."
+      "explanation": "According to the Standard Model, quarks and leptons are fundamental (elementary) particles\nbecause they have no known internal structure."
     },
     {
       "id": 11,
@@ -120,8 +132,8 @@
         "C": "6",
         "D": "8"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "There are six flavors of quarks: up, down, charm, strange, top, and bottom."
     },
     {
       "id": 12,
@@ -137,12 +149,12 @@
     },
     {
       "id": 13,
-      "question": "The charge of a “down”",
+      "question": "The charge of a “down” (d) quark is:",
       "options": {
-        "D": "quark is:",
         "A": "−1/3e",
         "B": "+2/3e",
-        "C": "−2/3e"
+        "C": "−2/3e",
+        "D": "+1/3e"
       },
       "correctAnswer": "A",
       "explanation": "The down-type quarks (down, strange, bottom) all possess a fractional electric charge of −1/3e."
@@ -178,10 +190,22 @@
         "A": "Leptons and Photons",
         "B": "Baryons and Mesons",
         "C": "Bosons and Fermions",
-        "D": "Quarks and Gluons\n\n17.\nA baryon is made of:"
+        "D": "Quarks and Gluons"
       },
       "correctAnswer": "B",
-      "explanation": "Hadrons are particles that feel the strong force. They are divided into baryons (3 quarks) and mesons (quark–antiquark pair)."
+      "explanation": "Hadrons are particles that feel the strong force. They are divided into baryons (3 quarks) and\nmesons (quark–antiquark pair)."
+    },
+    {
+      "id": 17,
+      "question": "A baryon is made of:",
+      "options": {
+        "A": "One quark and one anti-quark",
+        "B": "Two quarks",
+        "C": "Three quarks",
+        "D": "Six quarks"
+      },
+      "correctAnswer": "C",
+      "explanation": "By definition, a baryon is a composite particle made of three quarks (e.g., protons and neutrons)."
     },
     {
       "id": 18,
@@ -205,7 +229,7 @@
         "D": "Top, Bottom"
       },
       "correctAnswer": "B",
-      "explanation": "In beta-minus decay, a neutron (udd) becomes a proton (uud). This means one down quark transforms into an up quark."
+      "explanation": "In beta-minus decay, a neutron (udd) becomes a proton (uud). This means one down quark\ntransforms into an up quark."
     },
     {
       "id": 20,
@@ -216,8 +240,8 @@
         "C": "Up, Strange",
         "D": "Bottom, Top"
       },
-      "correctAnswer": "C",
-      "explanation": "In beta-plus decay, a proton (uud) becomes a neutron (udd). This means one up quark transforms into a down quark."
+      "correctAnswer": "B",
+      "explanation": "In beta-plus decay, a proton (uud) becomes a neutron (udd). This means one up quark transforms\ninto a down quark."
     },
     {
       "id": 21,
@@ -229,7 +253,7 @@
         "D": "Mesons"
       },
       "correctAnswer": "B",
-      "explanation": "Leptons are a family of fundamental particles that do not experience the strong nuclear force. They include electrons, muons, taus, and their neutrinos."
+      "explanation": "Leptons are a family of fundamental particles that do not experience the strong nuclear force.\nThey include electrons, muons, taus, and their neutrinos."
     },
     {
       "id": 22,
@@ -241,7 +265,7 @@
         "D": "Z Boson"
       },
       "correctAnswer": "C",
-      "explanation": "The photon is the gauge boson that mediates the electromagnetic force between charged particles."
+      "explanation": "The photon is the gauge boson that mediates the electromagnetic force between charged\nparticles."
     },
     {
       "id": 23,
@@ -253,7 +277,7 @@
         "D": "Graviton"
       },
       "correctAnswer": "B",
-      "explanation": "Gluons are the exchange particles that carry the color force between quarks, keeping them bound inside hadrons. 24. Ans: (C) The Higgs Boson is the quantum excitation of the Higgs field, which gives mass to fundamental particles through the Higgs mechanism."
+      "explanation": "Gluons are the exchange particles that carry the color force between quarks, keeping them bound\ninside hadrons."
     },
     {
       "id": 24,
@@ -264,8 +288,8 @@
         "C": "Higgs Boson",
         "D": "Neutrino"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "The Higgs Boson is the quantum excitation of the Higgs field, which gives mass to fundamental\nparticles through the Higgs mechanism."
     },
     {
       "id": 25,
@@ -277,7 +301,7 @@
         "D": "Pair Production"
       },
       "correctAnswer": "C",
-      "explanation": "Annihilation occurs when a particle meets its corresponding antiparticle, and their total mass is converted into energy (photons)."
+      "explanation": "Annihilation occurs when a particle meets its corresponding antiparticle, and their total mass is\nconverted into energy (photons)."
     },
     {
       "id": 26,
@@ -298,10 +322,22 @@
         "A": "Thin and erratic",
         "B": "Thick, straight, and continuous",
         "C": "Circular",
-        "D": "Very faint and long\n\n28.\nWhich particle accelerator uses drift tubes of increasing length?"
+        "D": "Very faint and long"
       },
       "correctAnswer": "B",
-      "explanation": "Alpha particles are heavy and highly ionizing, meaning they lose energy quickly in straight, dense tracks of ionized atoms."
+      "explanation": "Alpha particles are heavy and highly ionizing, meaning they lose energy quickly in straight,\ndense tracks of ionized atoms."
+    },
+    {
+      "id": 28,
+      "question": "Which particle accelerator uses drift tubes of increasing length?",
+      "options": {
+        "A": "Cyclotron",
+        "B": "Synchrotron",
+        "C": "Linear Accelerator (LINAC)",
+        "D": "Betatron"
+      },
+      "correctAnswer": "C",
+      "explanation": "A Linear Accelerator (LINAC) uses tubular electrodes that get longer as the particle speeds up to\nensure the particle arrives at each gap in phase with the AC voltage."
     },
     {
       "id": 29,
@@ -314,6 +350,18 @@
       },
       "correctAnswer": "B",
       "explanation": "The frequency of a cyclotron is independent of the speed or radius of the particle."
+    },
+    {
+      "id": 30,
+      "question": "The largest particle accelerator in the world is the:",
+      "options": {
+        "A": "Tevatron",
+        "B": "SLAC",
+        "C": "Large Hadron Collider (LHC)",
+        "D": "DESY"
+      },
+      "correctAnswer": "C",
+      "explanation": "The LHC at CERN is currently the world’s largest and highest-energy particle collider."
     },
     {
       "id": 31,
@@ -384,7 +432,7 @@
         "C": "Strong Nuclear",
         "D": "Weak Nuclear"
       },
-      "correctAnswer": "B",
+      "correctAnswer": "D",
       "explanation": "The weak nuclear force is extremely short-ranged, even shorter than the strong nuclear force."
     },
     {
@@ -397,7 +445,7 @@
         "D": "−2/3e"
       },
       "correctAnswer": "B",
-      "explanation": "Strange, Down, and Bottom quarks all carry a charge of −1/3e. 38. Ans: (C) A proton is composite (made of quarks), while electrons, quarks, and neutrinos are fundamental."
+      "explanation": "Strange, Down, and Bottom quarks all carry a charge of −1/3e."
     },
     {
       "id": 38,
@@ -406,10 +454,22 @@
         "A": "Electron",
         "B": "Quark",
         "C": "Proton",
-        "D": "Neutrino\n\n39.\nThe process of PET (Positron Emission Tomography) is based on:"
+        "D": "Neutrino"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "A proton is composite (made of quarks), while electrons, quarks, and neutrinos are fundamental."
+    },
+    {
+      "id": 39,
+      "question": "The process of PET (Positron Emission Tomography) is based on:",
+      "options": {
+        "A": "Nuclear Fission",
+        "B": "Electron-Positron Annihilation",
+        "C": "Alpha decay",
+        "D": "X-ray diffraction"
+      },
+      "correctAnswer": "B",
+      "explanation": "PET scans detect the gamma rays produced when positrons emitted by a tracer annihilate with\nelectrons in the patient’s body."
     },
     {
       "id": 40,
@@ -420,7 +480,7 @@
         "C": "W+, W− and Z0 bosons",
         "D": "Gravitons"
       },
-      "correctAnswer": "B",
+      "correctAnswer": "C",
       "explanation": "The weak interaction is mediated by the massive W and Z bosons."
     },
     {
@@ -445,7 +505,7 @@
         "D": "Same as X"
       },
       "correctAnswer": "B",
-      "explanation": "An alpha particle carries away 4 nucleons, so the daughter nucleus has a mass number reduced by 4."
+      "explanation": "An alpha particle carries away 4 nucleons, so the daughter nucleus has a mass number reduced\nby 4."
     },
     {
       "id": 43,
@@ -526,10 +586,22 @@
         "A": "1",
         "B": "2",
         "C": "3",
-        "D": "6\n\n50.\nThe “charm” quark has a charge of:"
+        "D": "6"
       },
       "correctAnswer": "C",
       "explanation": "There are three generations of neutrinos: electron, muon, and tau neutrinos."
+    },
+    {
+      "id": 50,
+      "question": "The “charm” quark has a charge of:",
+      "options": {
+        "A": "+2/3e",
+        "B": "−1/3e",
+        "C": "+1/3e",
+        "D": "−2/3e Got it — I’ve adjusted the numbering to a slightly darker medium blue (#1E88E5) and kept your exact format. 51 An anti-proton has a charge of: A) +1e B) −1e C) Zero D) −2e 52 In pair production, momentum is conserved by: A) The electron B) The positron C) The presence of a heavy nucleus D) The photon itself 53 Neutrinos are difficult to detect because: A) They have no charge and tiny mass B) They move slowly C) They are very large D) They only exist in space 54 The bottom quark belongs to which generation of matter? A) First B) Second C) Third D) Fourth 55 A particle made of u and anti-d has a net charge of: A) 0 B) +1e C) −1e D) +1/3e 56 Which particle mediates the strong force between nucleons? A) Gluon B) Meson (pion) C) Photon D) W boson 57 Who proposed the existence of the neutrino? A) Einstein B) Wolfgang Pauli C) Enrico Fermi D) Richard Feynman 58 The top quark was the quark to be discovered: A) First B) Second C) Last D) Third 59 Which of the following particles is a boson? A) Electron B) Up quark C) Photon D) Neutrino 60 A tau (τ) particle is: A) A heavy version of an electron B) A type of quark C) A force carrier D) A composite baryon 61 Which property differentiates a particle from its antiparticle? A) Mass B) Spin C) Charge D) Lifetime 62 The annihilation of an electron and positron at rest produces two photons each of energy: A) 0.25 MeV B) 0.51 MeV C) 1.02 MeV D) 931 MeV 63 Linear accelerators are mainly used to accelerate: A) Neutrons B) Charged particles C) Photons D) Neutrinos 64 In a synchrotron, as the energy of the particle increases, the magnetic field: A) Decreases B) Increases C) Remains constant D) Becomes zero 65 Quarks are held together in a hadron by the exchange of: A) Pions B) Photons C) Gluons D) Gravitons 66 The baryon number of a quark is: A) +1 B) +1/3 C) −1/3 D) 0 67 Which of the following is an anti-lepton? A) Electron B) Muon C) Positron D) Tau 68 “Flavor” in particle physics refers to: A) The color of a particle B) The type of a quark or lepton C) The spin of a particle D) The mass of a particle 69 Which particle has the highest ionizing power? A) Alpha B) Beta C) Gamma D) Neutrino 70 Which particle is the most penetrating? A) Alpha B) Beta C) Gamma D) Proton 71 A Z⁰ boson is: A) Positively charged B) Negatively charged C) Neutral D) Made of quarks 72 The quark combination udd results in a net charge of: A) +1e B) −1e C) 0 D) +2/3e 73 The conservation of which quantity explains why a free proton does not decay? A) Charge B) Energy C) Baryon number D) Lepton number 74 A particle and its antiparticle must have: A) Different masses B) Opposite spins C) Opposite charges D) Different lifetimes 75 What is the charge of a bottom quark? A) +2/3e B) −1/3e C) +1/3e D) −2/3e 76 The Higgs field permeates: A) Only the nucleus B) Only atoms C) All of space D) Only high-energy accelerators 77 The energy equivalent of 1 atomic mass unit (u) is: A) 0.511 MeV B) 931.5 MeV C) 1.02 MeV D) 125 GeV 78 Beta particles are actually: A) Protons B) Neutrons C) Electrons or positrons D) Photons 79 Which device is used to accelerate particles in a circular path with a constant radius? A) Cyclotron B) Synchrotron C) Van de Graaff generator D) Linear accelerator 80 The spin of a gluon is: A) 0 B) 1/2 C) 1 D) 2 81 Which of the following is NOT a baryon? A) Proton B) Neutron C) Kaon D) Lambda particle 82 The name “quark” was taken from a book by: A) Albert Einstein B) James Joyce C) Isaac Newton D) Stephen Hawking 83 A neutrino’s lepton number is: A) 0 B) +1 C) −1 D) +1/3 84 An anti-neutrino’s lepton number is: A) 0 B) +1 C) −1 D) +1/3 85 The weak interaction can change: A) Only position B) Only velocity C) Quark flavor D) Only mass 86 The LHC is located at the border of: A) USA and Canada B) France and Switzerland C) Germany and Austria D) UK and Ireland 87 The particle u anti-u is: A) A baryon B) A meson C) A lepton D) A glueball 88 Total energy in annihilation is conserved as: A) Potential energy B) Photon energy C) Heat D) Sound 89 In a cloud chamber, beta particles produce tracks that are: A) Straight and thick B) Thin and erratic C) Not visible D) Circular only 90 How many color charges do gluons carry? A) 1 B) 3 C) 8 D) 6 91 Which fundamental force is the weakest? A) Strong B) Weak C) Electromagnetic D) Gravity 92 Which particle is its own antiparticle? A) Electron B) Proton C) Photon D) Neutron 93 The term “lepton” comes from the Greek word for: A) Heavy B) Small/light C) Fast D) Strong 94 The force carrier for gravity is hypothesized to be the: A) Gluon B) Photon C) Graviton D) Higgs boson 95 The conversion of a neutron to a proton involves: A) Emission of an alpha particle B) Emission of a beta particle and an antineutrino C) Capture of an electron D) Emission of a photon 96 A particle with a mass of 125 GeV is the: A) Top quark B) Z boson C) Higgs boson D) Tau particle 97 The baryon number of a proton is: A) 0 B) +1 C) +3 D) −1 98 Pair production cannot occur in a: A) Cloud chamber B) Vacuum (without a nucleus) C) Solid D) Liquid 99 What is the charge of a charm quark? A) +2/3e B) −1/3e C) +1/3e D) −2/3e 100 The sum of the charges of uud is: A) 0 B) +1e C) −1e D) +2e"
+      },
+      "correctAnswer": "A",
+      "explanation": "Charm and Top quarks carry +2/3e."
     }
   ]
 }

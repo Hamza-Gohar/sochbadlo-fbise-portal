@@ -158,8 +158,8 @@
         "C": "Acceleration",
         "D": "Initial velocity"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Displacement. While displacement is the net area, distance requires calculating the absolute area of all segments regardless of direction."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Distance. On a velocity-time graph, displacement is the net area, acceleration is the slope, and initial velocity is the intercept at t = 0. Total distance requires taking the absolute value of areas if motion changes direction, so it cannot be read directly."
     },
     {
       "id": 14,
@@ -170,8 +170,8 @@
         "C": "Weight = Air resistance",
         "D": "No forces act"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Weight > Air resistance. Equilibrium between the downward pull of gravity and upward air resistance leads to terminal velocity."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Weight = Air resistance. Terminal velocity occurs when the downward force of gravity (weight) is balanced by the upward force of air resistance, resulting in zero net force and zero acceleration."
     },
     {
       "id": 15,
@@ -194,8 +194,8 @@
         "C": "Both speed and velocity are zero",
         "D": "Neither speed nor velocity is zero"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Speed is zero but velocity is not. Displacement is zero (resulting in zero velocity), but the actual distance covered is non-zero (resulting in non-zero speed)."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): Velocity is zero but speed is not. When an object returns to its starting point, its net displacement is zero (so average velocity is zero), but total distance travelled is non-zero (so average speed is not zero)."
     },
     {
       "id": 17,
@@ -290,8 +290,8 @@
         "C": "Curved path",
         "D": "line without rotation"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): straight line. In translatory motion, the object moves as a whole such that all its particles move the same distance. This can be straight or curved."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): line without rotation. According to FBISE Class 9 textbook, in translatory motion, a body moves along a line without any rotation. The line may be straight or curved."
     },
     {
       "id": 25,
@@ -314,8 +314,8 @@
         "C": "Rotatory motion",
         "D": "Brownian motion"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): Circular motion. Named after Robert Brown, it describes the random, zig-zag motion of particles suspended in a fluid."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): Brownian motion. The irregular, zig-zag motion of gas or liquid molecules (particles suspended in a fluid) is called Brownian motion (or random motion)."
     },
     {
       "id": 27,
@@ -326,8 +326,8 @@
         "C": "Vibratory motion",
         "D": "none of these"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct Option (D): none of these. Both the cradle swinging and the guitar string plucked involve moving back and forth through a center point. 38.A. quantity is described completely by its magnitude and direction. (a) Scalar (b) Vector (c)Both (a) and (b) (d) none of these Explanation: Scalars only have magnitude (size); vectors require a direction (e.g., 50 km/h North)."
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): Vibratory motion. The back and forth motion of a body about a mean position (like the motion of a cradle or a plucked guitar string) is vibratory (oscillatory) motion."
     },
     {
       "id": 28,
@@ -398,8 +398,8 @@
         "C": "acceleration",
         "D": "displacement"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct Option (D): displacement. Velocity = Displacement / Time. 50.A car is moving at a speed of 20 ms⁻¹. Its speed in kmh⁻¹ is : (a) 27 (b) 72 (c)5.55 (d) 50 Explanation: To convert m/s to km/h, multiply by 3.6 (20 x 3.6 = 72). 51.SI unit of velocity is (a) kms⁻¹ (b) ms⁻² (c)kmh⁻² . . (d) ms⁻¹ Explanation: Standard unit for velocity is meters per second."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): velocity. By dividing displacement by time (v = d/t), we get velocity."
     },
     {
       "id": 34,
@@ -422,8 +422,8 @@
         "C": "variable",
         "D": "all of them"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): constant. This describes a linear change in velocity. 59.If a body is moving in a circular path with uniform speed its velocity and acceleration will be . (a) in the same direction (b) in the opposite direction (c) equal (d) mutually perpendicular Explanation: In uniform circular motion, velocity is tangential while acceleration (centripetal) is directed toward the center. 59.If a car is moving with uniform speed in circle then the magnitude of its velocity will be . (a) uniform (b) constant (c)variable (d) zero Explanation: Magnitude of velocity is speed. If speed is uniform, magnitude is constant."
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): uniform. A body has uniform acceleration if it has equal changes in velocity in equal intervals of time, however short the interval may be (FBISE textbook definition)."
     },
     {
       "id": 36,
@@ -458,8 +458,8 @@
         "C": "9.8 ms⁻²",
         "D": "all of them"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): 32 fts⁻². They are the same measurement, just using different \"rulers\": • • • (a) 32 ft/s² is the value in Feet (Imperial system). (b) 980 cm/s² is the value in Centimeters (Metric CGS system). (c) 9.8 m/s² is the value in Meters (Standard SI system)."
+      "correctAnswer": "D",
+      "explanation": "Correct Option (D): all of them. The acceleration due to gravity g at sea level is 9.8 m/s² in SI units, 980 cm/s² in CGS units, and 32 ft/s² in British engineering units. All represent the same physical value."
     },
     {
       "id": 39,
@@ -482,8 +482,8 @@
         "C": "20m",
         "D": "40m"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): 5 m. S = (1/2) gt² S = 0.5 x 10 x 2² S = 0.5 x10 x 4 S = 20 m"
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 20m. Using s = 1/2 g t² with g = 10 m/s² and t = 2 s: s = 0.5 × 10 × 4 = 20 m."
     },
     {
       "id": 41,
@@ -710,8 +710,8 @@
         "C": "200 m",
         "D": "20 m"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct Option (C): '200 m'. In FBISE Grade 9 Physics Unit 2 (Kinematics), this is a standard curriculum property and board-examined definition. Reference key: (20 m/s × 5s = 100m)."
+      "correctAnswer": "B",
+      "explanation": "Correct Option (B): 100 m. Distance s = v × t = 20 m/s × 5 s = 100 m."
     },
     {
       "id": 60,

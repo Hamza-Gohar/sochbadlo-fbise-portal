@@ -97,8 +97,8 @@
         "C": "7",
         "D": "2"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): '3'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 7. Subtracting 2x from both sides gives x - 2 = 5, so x = 7.",
       "id": 8
     },
     {
@@ -109,8 +109,8 @@
         "C": "4",
         "D": "3"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct Option (D): '3'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 4. Subtracting 2x from both sides gives 2x + 3 = 11 => 2x = 8 => x = 4.",
       "id": 9
     },
     {
@@ -121,8 +121,8 @@
         "C": "x = 10",
         "D": "x = 5"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): 'x = 6'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), according to standard curriculum principles: x = 8.",
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): x = 8. Subtracting 3 gives x/2 = 4, multiplying by 2 yields x = 8.",
       "id": 10
     },
     {
@@ -169,8 +169,8 @@
         "C": "x < 3",
         "D": "x > 3"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct Option (C): 'x < 3'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), according to standard curriculum principles: x < -3.",
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): x < -3. Dividing both sides of the inequality by -3 reverses the inequality sign: x < 9 / (-3) = -3.",
       "id": 14
     },
     {
@@ -193,8 +193,8 @@
         "C": "7",
         "D": "5"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct Option (C): '7'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 8. Let the smaller number be x. Then the larger is 2x + 5. Their sum is x + (2x + 5) = 29 => 3x = 24 => x = 8.",
       "id": 16
     },
     {
@@ -253,8 +253,8 @@
         "C": "x = 4",
         "D": "x = 6"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct Option (C): 'x = 4'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), according to standard curriculum principles: x = 3.",
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): x = 3. Rearranging: 7x - 3x = 8 + 4 => 4x = 12 => x = 3.",
       "id": 21
     },
     {
@@ -397,8 +397,8 @@
         "C": "x < 2",
         "D": "x > 2"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct Option (C): 'x < 2'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), according to standard curriculum principles: x < -2.",
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): x < -2. Dividing by -3 reverses the inequality direction: x < 6 / (-3) = -2.",
       "id": 33
     },
     {
@@ -457,8 +457,8 @@
         "C": "15",
         "D": "18"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): '12'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 10. Let the smaller number be x; then the larger is 3x + 5. Their sum is x + 3x + 5 = 45 => 4x = 40 => x = 10.",
       "id": 38
     },
     {
@@ -613,8 +613,8 @@
         "C": "x > 5",
         "D": "x < 5"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct Option (C): 'x > 5'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), according to standard curriculum principles: x > 4.",
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): x > 4. Adding 4 gives 3x > 12, then dividing by 3 gives x > 4.",
       "id": 51
     },
     {
@@ -625,8 +625,8 @@
         "C": "x ≥ 3",
         "D": "x ≤ 3"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): 'x ≤ -3'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): x ≥ -3. Dividing both sides by -5 reverses the inequality sign: x ≥ 15 / (-5) = -3.",
       "id": 52
     },
     {
@@ -685,8 +685,8 @@
         "C": "7 hours",
         "D": "8 hours"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct Option (A): '5 hours'. In FBISE Grade 9 Mathematics Unit 5 (Linear Equations & Inequalities), according to standard curriculum principles: 7 hours.",
+      "correctAnswer": "C",
+      "explanation": "Correct Option (C): 7 hours. The total cost is 50 + 10h ≤ 120 => 10h ≤ 70 => h ≤ 7 hours.",
       "id": 57
     },
     {

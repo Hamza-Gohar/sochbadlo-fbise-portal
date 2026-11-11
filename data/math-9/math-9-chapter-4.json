@@ -37,8 +37,8 @@
         "C": "(x - 6)(x - 4)",
         "D": "(x - 3)(x - 2)"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct Option (D): '(x - 3)(x - 2)'. In FBISE Grade 9 Mathematics Unit 4 (Factorization & Algebraic Manipulation), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): (x - 6)(x - 2). Expanding gives (x - 6)(x - 2) = x² - 8x + 12.",
       "id": 3
     },
     {
@@ -85,8 +85,8 @@
         "C": "xy",
         "D": "2xy"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): '6xy'. In FBISE Grade 9 Mathematics Unit 4 (Factorization & Algebraic Manipulation), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 3xy. The greatest common divisor of numerical coefficients (6, 9, 12) is 3, and the lowest powers of common variables are x and y, giving GCF = 3xy.",
       "id": 7
     },
     {
@@ -241,8 +241,8 @@
         "C": "72",
         "D": "54"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct Option (C): '72'. In FBISE Grade 9 Mathematics Unit 4 (Factorization & Algebraic Manipulation), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 90. Using the identity a² + b² = (a + b)² - 2ab = 12² - 2(27) = 144 - 54 = 90.",
       "id": 20
     },
     {
@@ -301,8 +301,8 @@
         "C": "(x + 2)(2x - 3)",
         "D": "(2x - 3)(x + 1)"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): '(2x + 3)(x - 1)'. In FBISE Grade 9 Mathematics Unit 4 (Factorization & Algebraic Manipulation), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): (2x - 1)(x + 3). Factoring by splitting the middle term: 2x² + 6x - x - 3 = 2x(x + 3) - 1(x + 3) = (2x - 1)(x + 3).",
       "id": 25
     },
     {
@@ -313,8 +313,8 @@
         "C": "12xy",
         "D": "xy"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct Option (B): '8xy'. In FBISE Grade 9 Mathematics Unit 4 (Factorization & Algebraic Manipulation), this is the standard mathematical definition, theorem, or computational property examined by the Federal Board.",
+      "correctAnswer": "A",
+      "explanation": "Correct Option (A): 4xy. The gcd of 8, 12, 16 is 4, and the common variable factors with lowest exponents are x and y, giving 4xy.",
       "id": 26
     },
     {

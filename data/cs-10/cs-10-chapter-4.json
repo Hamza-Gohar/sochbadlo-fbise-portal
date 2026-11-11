@@ -213,7 +213,7 @@
     },
     {
       "id": 18,
-      "question": "1?",
+      "question": "Which of the following is NOT a commonly used tool for data science and analysis?",
       "options": {
         "A": "R studio",
         "B": "MATLAB",
@@ -221,7 +221,7 @@
         "D": "Python"
       },
       "correctAnswer": "C",
-      "explanation": "Correct option is C: 'Photoshop'. In Data & Analysis (Data Science), this fundamental concept is standard across Federal Board curriculum specifications."
+      "explanation": "Photoshop is photo editing software developed by Adobe, whereas R Studio, MATLAB, and Python are widely used tools for data analysis, statistics, and machine learning."
     },
     {
       "id": 19,

@@ -7,360 +7,360 @@
     {
       "id": 1,
       "question": "The cat caught the crazy mouse. Choose the correct figure of speech:",
-      "options": [
-        "Simile",
-        "Metaphor",
-        "Personification",
-        "Alliteration"
-      ],
+      "options": {
+        "A": "Simile",
+        "B": "Metaphor",
+        "C": "Personification",
+        "D": "Alliteration"
+      },
       "correctAnswer": "D",
       "explanation": "Option (D) 'Alliteration' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 2,
       "question": "\"Noodles\" is an inexpensive food. Negative connotation of the underlined word is:",
-      "options": [
-        "Extravagant",
-        "Affordable",
-        "Cheap",
-        "Lavish"
-      ],
+      "options": {
+        "A": "Extravagant",
+        "B": "Affordable",
+        "C": "Cheap",
+        "D": "Lavish"
+      },
       "correctAnswer": "C",
       "explanation": "Option (C) 'Cheap' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 3,
       "question": "He gave me a bunch of grapes. The underlined word is:",
-      "options": [
-        "Common noun",
-        "Proper noun",
-        "Collective noun",
-        "Abstract noun"
-      ],
+      "options": {
+        "A": "Common noun",
+        "B": "Proper noun",
+        "C": "Collective noun",
+        "D": "Abstract noun"
+      },
       "correctAnswer": "C",
       "explanation": "Option (C) 'Collective noun' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 4,
       "question": "A sonnet is an example of:",
-      "options": [
-        "Poetry",
-        "Fiction",
-        "Drama",
-        "Autobiography"
-      ],
+      "options": {
+        "A": "Poetry",
+        "B": "Fiction",
+        "C": "Drama",
+        "D": "Autobiography"
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'Poetry' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 5,
       "question": "Abdullah won the second prize. The underlined word is an adjective of:",
-      "options": [
-        "Manner",
-        "Quantity",
-        "Frequency",
-        "Number"
-      ],
+      "options": {
+        "A": "Manner",
+        "B": "Quantity",
+        "C": "Frequency",
+        "D": "Number"
+      },
       "correctAnswer": "D",
       "explanation": "Option (D) 'Number' is the correct grammatical classification based on its syntactic function in the sentence."
     },
     {
       "id": 6,
       "question": "His eloquence made his speech effective. The underlined word means:",
-      "options": [
-        "Weak",
-        "Fluency",
-        "Strong",
-        "Healthy"
-      ],
+      "options": {
+        "A": "Weak",
+        "B": "Fluency",
+        "C": "Strong",
+        "D": "Healthy"
+      },
       "correctAnswer": "B",
       "explanation": "Option (B) 'Fluency' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 7,
       "question": "Faisalabad is famous:",
-      "options": [
-        "Because",
-        "Due",
-        "For",
-        "Since"
-      ],
+      "options": {
+        "A": "Because",
+        "B": "Due",
+        "C": "For",
+        "D": "Since"
+      },
       "correctAnswer": "C",
       "explanation": "Option (C) 'For' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 8,
       "question": "Select the plural form of the word \"cactus\":",
-      "options": [
-        "Cactuses",
-        "Cactes",
-        "Cacti",
-        "Cacties"
-      ],
+      "options": {
+        "A": "Cactuses",
+        "B": "Cactes",
+        "C": "Cacti",
+        "D": "Cacties"
+      },
       "correctAnswer": "C",
       "explanation": "Option (C) 'Cacti' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 9,
       "question": "The moon was bright, and we could see our way. The given sentence is an example of:",
-      "options": [
-        "Simple sentence",
-        "Compound sentence",
-        "Complex sentence",
-        "Compound-complex sentence"
-      ],
+      "options": {
+        "A": "Simple sentence",
+        "B": "Compound sentence",
+        "C": "Complex sentence",
+        "D": "Compound-complex sentence"
+      },
       "correctAnswer": "B",
       "explanation": "Option (B) 'Compound sentence' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 10,
       "question": "He does his work without any care. The underlined part of the sentence is:",
-      "options": [
-        "Adjective phrase",
-        "Adverb phrase",
-        "Noun phrase",
-        "Verb phrase"
-      ],
+      "options": {
+        "A": "Adjective phrase",
+        "B": "Adverb phrase",
+        "C": "Noun phrase",
+        "D": "Verb phrase"
+      },
       "correctAnswer": "B",
       "explanation": "Option (B) 'Adverb phrase' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 11,
       "question": "People who work hard succeed. The underlined part is:",
-      "options": [
-        "Noun clause",
-        "Adjective clause",
-        "Adverb clause",
-        "Independent clause"
-      ],
+      "options": {
+        "A": "Noun clause",
+        "B": "Adjective clause",
+        "C": "Adverb clause",
+        "D": "Independent clause"
+      },
       "correctAnswer": "B",
       "explanation": "Option (B) 'Adjective clause' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 12,
       "question": "I am tired of waiting. The underlined word is:",
-      "options": [
-        "Gerund",
-        "Infinitive",
-        "Present participle",
-        "Past participle"
-      ],
+      "options": {
+        "A": "Gerund",
+        "B": "Infinitive",
+        "C": "Present participle",
+        "D": "Past participle"
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'Gerund' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 13,
       "question": "We should obey the laws. The underlined modal verb is used to express:",
-      "options": [
-        "Ability",
-        "Obligation",
-        "Possibility",
-        "Capacity"
-      ],
+      "options": {
+        "A": "Ability",
+        "B": "Obligation",
+        "C": "Possibility",
+        "D": "Capacity"
+      },
       "correctAnswer": "B",
       "explanation": "Option (B) 'Obligation' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 14,
       "question": "The sun smiled down on us. The figure of speech is:",
-      "options": [
-        "Simile",
-        "Metaphor",
-        "Personification",
-        "Alliteration"
-      ],
+      "options": {
+        "A": "Simile",
+        "B": "Metaphor",
+        "C": "Personification",
+        "D": "Alliteration"
+      },
       "correctAnswer": "C",
       "explanation": "Option (C) 'Personification' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 15,
       "question": "She is a good speaker. In addition, he also writes very well. The underlined part of the sentence is a transitional device of:",
-      "options": [
-        "Emphasis",
-        "Sequencing",
-        "Exemplification",
-        "Addition"
-      ],
+      "options": {
+        "A": "Emphasis",
+        "B": "Sequencing",
+        "C": "Exemplification",
+        "D": "Addition"
+      },
       "correctAnswer": "D",
       "explanation": "The transitional device or conjunction 'Addition' correctly creates the intended logical relationship (contrast, cause, sequence, or addition)."
     },
     {
       "id": 16,
       "question": "Most of the butterflies perish in the first frost of autumn. The underlined word means:",
-      "options": [
-        "To remain",
-        "To endure",
-        "To die",
-        "To breathe"
-      ],
+      "options": {
+        "A": "To remain",
+        "B": "To endure",
+        "C": "To die",
+        "D": "To breathe"
+      },
       "correctAnswer": "C",
       "explanation": "Option (C) 'To die' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 17,
       "question": "Some people are too fat to walk. Negative connotation of the underlined word is:",
-      "options": [
-        "Running",
-        "Obese",
-        "Strong",
-        "Heavy"
-      ],
+      "options": {
+        "A": "Running",
+        "B": "Obese",
+        "C": "Strong",
+        "D": "Heavy"
+      },
       "correctAnswer": "B",
       "explanation": "Option (B) 'Obese' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 18,
       "question": "Which one of the following sentences has the use of a transitive verb?",
-      "options": [
-        "He lives on the left side of the road.",
-        "The dog chased the running cat.",
-        "She was going to the bank.",
-        "He is going to the seashore."
-      ],
+      "options": {
+        "A": "He lives on the left side of the road.",
+        "B": "The dog chased the running cat.",
+        "C": "She was going to the bank.",
+        "D": "He is going to the seashore."
+      },
       "correctAnswer": "B",
       "explanation": "Option (B) 'The dog chased the running cat.' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 19,
       "question": "If you had worked hard, you would have passed. What type of sentence is it?",
-      "options": [
-        "Zero conditional",
-        "Conditional Type-I",
-        "Conditional Type-II",
-        "Conditional Type-III"
-      ],
+      "options": {
+        "A": "Zero conditional",
+        "B": "Conditional Type-I",
+        "C": "Conditional Type-II",
+        "D": "Conditional Type-III"
+      },
       "correctAnswer": "D",
       "explanation": "In standard English conditional structures, 'Conditional Type-III' precisely aligns with the tense sequence and grammatical requirement of the if-clause and main clause."
     },
     {
       "id": 20,
       "question": "They bought seashells from the seashore. Which poetic device is used in this line?",
-      "options": [
-        "Metaphor",
-        "Simile",
-        "Alliteration",
-        "Personification"
-      ],
+      "options": {
+        "A": "Metaphor",
+        "B": "Simile",
+        "C": "Alliteration",
+        "D": "Personification"
+      },
       "correctAnswer": "C",
       "explanation": "Option (C) 'Alliteration' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 21,
       "question": "We ought to help the poor. The modal verb in the sentence shows the function of:",
-      "options": [
-        "Doubt",
-        "Ability",
-        "Obligation",
-        "Probability"
-      ],
+      "options": {
+        "A": "Doubt",
+        "B": "Ability",
+        "C": "Obligation",
+        "D": "Probability"
+      },
       "correctAnswer": "C",
       "explanation": "Option (C) 'Obligation' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 22,
       "question": "Identify the indefinite pronoun used in one of the following sentences:",
-      "options": [
-        "I performed the practical myself.",
-        "Nobody was there to help the injured.",
-        "This is the shortest way to school.",
-        "Please, help me in this question."
-      ],
+      "options": {
+        "A": "I performed the practical myself.",
+        "B": "Nobody was there to help the injured.",
+        "C": "This is the shortest way to school.",
+        "D": "Please, help me in this question."
+      },
       "correctAnswer": "B",
       "explanation": "Option (B) 'Nobody was there to help the injured.' is the correct grammatical classification based on its syntactic function in the sentence."
     },
     {
       "id": 23,
       "question": "The car which has red doors is mine. The underlined part of the sentence is:",
-      "options": [
-        "Principal Clause",
-        "Noun Clause",
-        "Adjective Clause",
-        "Adverb Clause"
-      ],
+      "options": {
+        "A": "Principal Clause",
+        "B": "Noun Clause",
+        "C": "Adjective Clause",
+        "D": "Adverb Clause"
+      },
       "correctAnswer": "C",
       "explanation": "Option (C) 'Adjective Clause' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 24,
       "question": "In which of the following sentences is an abstract noun used?",
-      "options": [
-        "Jack and Jill went up a hill",
-        "Honesty is the best policy",
-        "The crow could not find water.",
-        "Poverty is the main hindrance in development"
-      ],
+      "options": {
+        "A": "Jack and Jill went up a hill",
+        "B": "Honesty is the best policy",
+        "C": "The crow could not find water.",
+        "D": "Poverty is the main hindrance in development"
+      },
       "correctAnswer": "B",
       "explanation": "Option (B) 'Honesty is the best policy' is the correct grammatical classification based on its syntactic function in the sentence."
     },
     {
       "id": 25,
       "question": "The hardworking team won the match. What type of sentence is it?",
-      "options": [
-        "Simple Sentence",
-        "Compound Sentence",
-        "Complex Sentence",
-        "Compound-Complex Sentence"
-      ],
+      "options": {
+        "A": "Simple Sentence",
+        "B": "Compound Sentence",
+        "C": "Complex Sentence",
+        "D": "Compound-Complex Sentence"
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'Simple Sentence' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 26,
       "question": "We passed the examination. Which tense is used in this sentence?",
-      "options": [
-        "Simple present",
-        "Simple past",
-        "Past perfect continuous",
-        "Past perfect"
-      ],
+      "options": {
+        "A": "Simple present",
+        "B": "Simple past",
+        "C": "Past perfect continuous",
+        "D": "Past perfect"
+      },
       "correctAnswer": "B",
       "explanation": "Option (B) 'Simple past' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 27,
       "question": "A lamb consists of:",
-      "options": [
-        "Two syllables",
-        "Three syllables",
-        "Four syllables",
-        "Five syllables"
-      ],
+      "options": {
+        "A": "Two syllables",
+        "B": "Three syllables",
+        "C": "Four syllables",
+        "D": "Five syllables"
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'Two syllables' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 28,
       "question": "\"Brush your teeth.\" In this sentence, the word \"Brush\" has been used as:",
-      "options": [
-        "Verb",
-        "Noun",
-        "Adjective",
-        "Adverb"
-      ],
+      "options": {
+        "A": "Verb",
+        "B": "Noun",
+        "C": "Adjective",
+        "D": "Adverb"
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'Verb' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     },
     {
       "id": 29,
       "question": "Which one of the following sentences contains an example of present participle?",
-      "options": [
-        "She burnt the bread.",
-        "He told the details which were in the story.",
-        "Reason employee will be given a certificate.",
-        "It was raining yesterday."
-      ],
+      "options": {
+        "A": "She burnt the bread.",
+        "B": "He told the details which were in the story.",
+        "C": "Reason employee will be given a certificate.",
+        "D": "It was raining yesterday."
+      },
       "correctAnswer": "D",
       "explanation": "Option (D) 'It was raining yesterday.' accurately fulfills the syntactic role of verbal (gerund/participle/infinitive) in this sentence structure."
     },
     {
       "id": 30,
       "question": "He had finished the project.",
-      "options": [
-        "Past perfect",
-        "Past simple",
-        "Present perfect",
-        "Future perfect"
-      ],
+      "options": {
+        "A": "Past perfect",
+        "B": "Past simple",
+        "C": "Present perfect",
+        "D": "Future perfect"
+      },
       "correctAnswer": "A",
       "explanation": "Option (A) 'Past perfect' is the verified correct answer in accordance with FBISE Class 9 English SLO benchmarks."
     }

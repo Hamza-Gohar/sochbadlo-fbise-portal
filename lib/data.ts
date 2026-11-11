@@ -286,12 +286,48 @@ export function getChapterBySlug(
     const fileName = slug.endsWith('.json') ? slug : `${slug}.json`;
     const filePath = path.join(targetDir, fileName);
 
+    function normalizeQuestions(rawList: unknown[]): Question[] {
+      return (rawList || []).map((rawQ, idx) => {
+        const q = (rawQ && typeof rawQ === 'object' ? rawQ : {}) as Record<string, unknown>;
+        let opts: Record<string, string> = { A: '', B: '', C: '', D: '' };
+        if (Array.isArray(q.options)) {
+          opts = {
+            A: String(q.options[0] || ''),
+            B: String(q.options[1] || ''),
+            C: String(q.options[2] || ''),
+            D: String(q.options[3] || ''),
+          };
+        } else if (q.options && typeof q.options === 'object') {
+          const rawOpts = q.options as Record<string, unknown>;
+          opts = {
+            A: String(rawOpts.A || ''),
+            B: String(rawOpts.B || ''),
+            C: String(rawOpts.C || ''),
+            D: String(rawOpts.D || ''),
+          };
+        }
+
+        const rawAns = q.correctAnswer || q.answer || 'A';
+        const cleanAns = String(rawAns).trim().toUpperCase();
+        const correctAnswer = (['A', 'B', 'C', 'D'].includes(cleanAns) ? cleanAns : 'A') as 'A' | 'B' | 'C' | 'D';
+
+        return {
+          id: typeof q.id === 'number' ? q.id : idx + 1,
+          question: String(q.question || ''),
+          options: opts as Question['options'],
+          correctAnswer,
+          explanation: typeof q.explanation === 'string' ? q.explanation : '',
+        };
+      });
+    }
+
     if (fs.existsSync(filePath)) {
       const content = fs.readFileSync(filePath, 'utf-8');
       const parsed = JSON.parse(content) as (Partial<ChapterData> & { title?: string }) | Question[];
       const isArr = Array.isArray(parsed);
       const rawObj = isArr ? {} : parsed;
-      const questionsList: Question[] = (isArr ? parsed : parsed.questions) || [];
+      const rawQuestionsList: unknown[] = (isArr ? parsed : parsed.questions) || [];
+      const questionsList: Question[] = normalizeQuestions(rawQuestionsList);
       const title = (!isArr && (rawObj.chapterTitle || rawObj.title)) || '';
       return {
         ...rawObj,
@@ -350,7 +386,8 @@ export function getChapterBySlug(
         const parsed = JSON.parse(content) as (Partial<ChapterData> & { title?: string }) | Question[];
         const isArr = Array.isArray(parsed);
         const rawObj = isArr ? {} : parsed;
-        const questionsList: Question[] = (isArr ? parsed : parsed.questions) || [];
+        const rawQuestionsList: unknown[] = (isArr ? parsed : parsed.questions) || [];
+        const questionsList: Question[] = normalizeQuestions(rawQuestionsList);
         const title = (!isArr && (rawObj.chapterTitle || rawObj.title)) || '';
         return {
           ...rawObj,

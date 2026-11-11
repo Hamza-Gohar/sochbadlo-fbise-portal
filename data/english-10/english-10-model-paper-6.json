@@ -16,7 +16,8 @@
         "D": "The father told to his son do not waste his time."
       },
       "answer": "B",
-      "explanation": "Negative imperative sentences are converted into 'advised/warned [object] not to [infinitive]'. Note: using 'forbade' already carries negative meaning so it cannot be followed by 'not'."
+      "explanation": "Negative imperative sentences are converted into 'advised/warned [object] not to [infinitive]'. Note: using 'forbade' already carries negative meaning so it cannot be followed by 'not'.",
+      "correctAnswer": "B"
     },
     {
       "id": 2,
@@ -28,7 +29,8 @@
         "D": "By whom this mirror was broken?"
       },
       "answer": "A",
-      "explanation": "Interrogative sentences with 'Who' change to 'By whom + auxiliary verb + subject + past participle' ('By whom was this mirror broken?')."
+      "explanation": "Interrogative sentences with 'Who' change to 'By whom + auxiliary verb + subject + past participle' ('By whom was this mirror broken?').",
+      "correctAnswer": "A"
     },
     {
       "id": 3,
@@ -40,7 +42,8 @@
         "D": "have been"
       },
       "answer": "B",
-      "explanation": "While 'shoes' is plural, the head noun of the subject phrase is the singular 'A pair', requiring the singular verb 'is'."
+      "explanation": "While 'shoes' is plural, the head noun of the subject phrase is the singular 'A pair', requiring the singular verb 'is'.",
+      "correctAnswer": "B"
     },
     {
       "id": 4,
@@ -52,7 +55,8 @@
         "D": "Prepositional verbal"
       },
       "answer": "A",
-      "explanation": "'Believing' follows the linking verb 'is' and renames/completes the subject 'Seeing', functioning as a subject complement gerund."
+      "explanation": "'Believing' follows the linking verb 'is' and renames/completes the subject 'Seeing', functioning as a subject complement gerund.",
+      "correctAnswer": "A"
     },
     {
       "id": 5,
@@ -64,7 +68,8 @@
         "D": "Noun clause"
       },
       "answer": "A",
-      "explanation": "'unless you persevere' sets the prerequisite condition under which success occurs, making it an Adverb Clause of Condition."
+      "explanation": "'unless you persevere' sets the prerequisite condition under which success occurs, making it an Adverb Clause of Condition.",
+      "correctAnswer": "A"
     },
     {
       "id": 6,
@@ -76,7 +81,8 @@
         "D": "Third Conditional"
       },
       "answer": "A",
-      "explanation": "This expresses a biological universal truth; both the conditional clause and the main clause are in the present simple, marking a Zero Conditional."
+      "explanation": "This expresses a biological universal truth; both the conditional clause and the main clause are in the present simple, marking a Zero Conditional.",
+      "correctAnswer": "A"
     },
     {
       "id": 7,
@@ -88,7 +94,8 @@
         "D": "high"
       },
       "answer": "A",
-      "explanation": "Comparison between two entities ('Mount Everest' vs 'any other peak') signaled by 'than' requires the comparative degree 'higher'."
+      "explanation": "Comparison between two entities ('Mount Everest' vs 'any other peak') signaled by 'than' requires the comparative degree 'higher'.",
+      "correctAnswer": "A"
     },
     {
       "id": 8,
@@ -100,7 +107,8 @@
         "D": "Optative sentence"
       },
       "answer": "A",
-      "explanation": "A sentence that makes a polite request, command, or instruction with an implied subject 'you' is an Imperative Sentence."
+      "explanation": "A sentence that makes a polite request, command, or instruction with an implied subject 'you' is an Imperative Sentence.",
+      "correctAnswer": "A"
     },
     {
       "id": 9,
@@ -112,7 +120,8 @@
         "D": "about"
       },
       "answer": "A",
-      "explanation": "One agrees 'with' a person, but agrees 'to' a proposal, suggestion, or plan."
+      "explanation": "One agrees 'with' a person, but agrees 'to' a proposal, suggestion, or plan.",
+      "correctAnswer": "A"
     },
     {
       "id": 10,
@@ -124,7 +133,8 @@
         "D": "The fading of daylight"
       },
       "answer": "A",
-      "explanation": "The bright sunshine that illuminates every dark droplet equally symbolizes a hopeful, egalitarian society free of socioeconomic disparity."
+      "explanation": "The bright sunshine that illuminates every dark droplet equally symbolizes a hopeful, egalitarian society free of socioeconomic disparity.",
+      "correctAnswer": "A"
     },
     {
       "id": 11,
@@ -136,7 +146,8 @@
         "D": "The mother exclaims that her son might succeed in life."
       },
       "answer": "B",
-      "explanation": "In optative sentences expressing a prayer or benediction, the reporting verb changes to 'prayed', connector 'that' is used, and 'may' shifts to 'might'."
+      "explanation": "In optative sentences expressing a prayer or benediction, the reporting verb changes to 'prayed', connector 'that' is used, and 'may' shifts to 'might'.",
+      "correctAnswer": "B"
     },
     {
       "id": 12,
@@ -148,7 +159,8 @@
         "D": "Why had he been punished by you?"
       },
       "answer": "A",
-      "explanation": "In past simple interrogative passive, 'Why did you punish him?' becomes 'Why was he punished by you?' maintaining inversion (auxiliary 'was' before subject 'he')."
+      "explanation": "In past simple interrogative passive, 'Why did you punish him?' becomes 'Why was he punished by you?' maintaining inversion (auxiliary 'was' before subject 'he').",
+      "correctAnswer": "A"
     },
     {
       "id": 13,
@@ -160,7 +172,8 @@
         "D": "The baby slept peacefully."
       },
       "answer": "C",
-      "explanation": "'Polished' transfers action directly to the object 'the table', which makes it a transitive verb."
+      "explanation": "'Polished' transfers action directly to the object 'the table', which makes it a transitive verb.",
+      "correctAnswer": "C"
     },
     {
       "id": 14,
@@ -172,7 +185,8 @@
         "D": "Hope"
       },
       "answer": "A",
-      "explanation": "The verb 'let' takes a bare infinitive (e.g., 'Let him go', not 'Let him to go')."
+      "explanation": "The verb 'let' takes a bare infinitive (e.g., 'Let him go', not 'Let him to go').",
+      "correctAnswer": "A"
     },
     {
       "id": 15,
@@ -184,7 +198,8 @@
         "D": "Adjective clause"
       },
       "answer": "A",
-      "explanation": "'Although he was exhausted' introduces an acknowledged contrast or concession, making it an Adverb Clause of Concession."
+      "explanation": "'Although he was exhausted' introduces an acknowledged contrast or concession, making it an Adverb Clause of Concession.",
+      "correctAnswer": "A"
     }
   ]
 }

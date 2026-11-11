@@ -1,7 +1,7 @@
 {
   "chapterNumber": 3,
   "chapterTitle": "Force & Motion",
-  "totalQuestions": 78,
+  "totalQuestions": 80,
   "questions": [
     {
       "id": 1,
@@ -13,7 +13,7 @@
         "D": "Momentum"
       },
       "correctAnswer": "C",
-      "explanation": "The area under a velocity-time graph represents displacement because it is equal to velocity × time."
+      "explanation": "The area under a velocity-time graph represents displacement because it is equal to\nvelocity × time."
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
         "D": "5 m"
       },
       "correctAnswer": "C",
-      "explanation": "Using equation of motion: s = ut + 1/2 at² Here u = 0, a = 2, t = 5 s = 1/2 × 2 × 25 = 25 m"
+      "explanation": "Using equation of motion: s = ut + 1/2 at²\nHere u = 0, a = 2, t = 5\ns = 1/2 × 2 × 25 = 25 m"
     },
     {
       "id": 3,
@@ -37,7 +37,7 @@
         "D": "Becomes zero at the peak"
       },
       "correctAnswer": "C",
-      "explanation": "Horizontal velocity remains constant because there is no acceleration in horizontal direction (ignoring air resistance)."
+      "explanation": "Horizontal velocity remains constant because there is no acceleration in horizontal\ndirection (ignoring air resistance)."
     },
     {
       "id": 4,
@@ -61,7 +61,7 @@
         "D": "Hyperbola"
       },
       "correctAnswer": "C",
-      "explanation": "Projectile motion follows a parabolic path due to constant gravity and uniform horizontal motion."
+      "explanation": "Projectile motion follows a parabolic path due to constant gravity and uniform horizontal\nmotion."
     },
     {
       "id": 6,
@@ -136,6 +136,18 @@
       "explanation": "Newton’s second law: F = ma"
     },
     {
+      "id": 12,
+      "question": "The SI unit of impulse is:",
+      "options": {
+        "A": "kg m/s",
+        "B": "N s",
+        "C": "Both (a) and (b)",
+        "D": "N/s"
+      },
+      "correctAnswer": "C",
+      "explanation": "Impulse unit is Newton-second or kg m/s."
+    },
+    {
       "id": 13,
       "question": "A change in momentum is known as:",
       "options": {
@@ -205,7 +217,7 @@
         "D": "Uniformly increasing"
       },
       "correctAnswer": "C",
-      "explanation": "Zero slope means zero acceleration (constant velocity). 19. Correct Option: B Momentum = mv = 1 × 10 = 10 kg m/s"
+      "explanation": "Zero slope means zero acceleration (constant velocity)."
     },
     {
       "id": 19,
@@ -216,8 +228,8 @@
         "C": "20 kg m/s",
         "D": "100 kg m/s"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Momentum = mv = 1 × 10 = 10 kg m/s"
     },
     {
       "id": 20,
@@ -481,7 +493,7 @@
         "D": "Infinite"
       },
       "correctAnswer": "B",
-      "explanation": "Velocity changes direction in circular motion. 42. Correct Option: C s = 1/2 at²"
+      "explanation": "Velocity changes direction in circular motion."
     },
     {
       "id": 42,
@@ -492,8 +504,8 @@
         "C": "1/2 at²",
         "D": "at²"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "s = 1/2 at²"
     },
     {
       "id": 43,
@@ -757,7 +769,7 @@
         "D": "75 m"
       },
       "correctAnswer": "C",
-      "explanation": "At 45°, maximum height is one-fourth of range. 65. Correct Option: B Horizontal component remains at top."
+      "explanation": "At 45°, maximum height is one-fourth of range."
     },
     {
       "id": 65,
@@ -768,8 +780,8 @@
         "C": "0",
         "D": "vi"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Horizontal component remains at top."
     },
     {
       "id": 66,
@@ -928,13 +940,25 @@
       "explanation": "Average speed = 50 km/h"
     },
     {
+      "id": 79,
+      "question": "Friction depends on:",
+      "options": {
+        "A": "Nature of surfaces",
+        "B": "Normal force",
+        "C": "Both (a) and (b)",
+        "D": "Area of contact"
+      },
+      "correctAnswer": "C",
+      "explanation": "Friction depends on surface and normal force"
+    },
+    {
       "id": 80,
       "question": "Two bodies of mass M and m (M > m) are dropped from the same height. In a vacuum, they will reach the ground:",
       "options": {
         "A": "Simultaneously",
         "B": "M first",
         "C": "m first",
-        "D": "Depends on their volumes\n\nAnswer key\nQ.No\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n16\n17\n18\n19\n20\n\nAnswer\nC\nB\nC\nC\nC\nB\nB\nB\nB\nB\nC\nC\nB\nC\nD\nB\nC\nC\nB\nC\n\nQ.No\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n\nAnswer\nB\nB\nA\nC\nC\nB\nC\nA\nB\nA\nC\nB\nC\nC\nB\nC\nB\nC\nC\nC\n\nQ.No\n41\n42\n43\n44\n45\n46\n47\n48\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58\n59\n60\n\nAnswer\nB\nC\nA\nA\nC\nC\nC\nC\nC\nB\nC\nA\nC\nB\nC\nC\nD\nB\nC\nC\n\nQ.No\n61\n62\n63\n64\n65\n66\n67\n68\n69\n70\n71\n72\n73\n74\n75\n76\n77\n78\n79\n80\n\nAnswer\nC\nB\nA\nC\nB\nC\nC\nC\nB\nB\nC\nA\nB\nB\nD\nB\nB\nB\nC\nA\n\nHere is your properly written version (no LaTeX, no box format, clean text):"
+        "D": "Depends on their volumes"
       },
       "correctAnswer": "A",
       "explanation": "All bodies fall equally in vacuum"

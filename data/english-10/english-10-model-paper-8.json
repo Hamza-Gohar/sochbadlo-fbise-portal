@@ -16,7 +16,8 @@
         "D": "She cried that her purse had lost."
       },
       "answer": "B",
-      "explanation": "Interjection 'Alas!' indicates grief, converting the reporting verb to 'exclaimed with sorrow', followed by tense backshift from present perfect to past perfect ('had lost')."
+      "explanation": "Interjection 'Alas!' indicates grief, converting the reporting verb to 'exclaimed with sorrow', followed by tense backshift from present perfect to past perfect ('had lost').",
+      "correctAnswer": "B"
     },
     {
       "id": 2,
@@ -28,7 +29,8 @@
         "D": "This mathematical problem is solved by her."
       },
       "answer": "A",
-      "explanation": "Modal auxiliary 'can' takes 'can be + past participle' ('can be solved') in passive voice; the tense of the modal does not change."
+      "explanation": "Modal auxiliary 'can' takes 'can be + past participle' ('can be solved') in passive voice; the tense of the modal does not change.",
+      "correctAnswer": "A"
     },
     {
       "id": 3,
@@ -40,7 +42,8 @@
         "D": "have been"
       },
       "answer": "A",
-      "explanation": "When a collective noun ('jury') acts as a single, undivided unit (signaled by 'unanimous' and 'its'), it takes a singular verb ('was')."
+      "explanation": "When a collective noun ('jury') acts as a single, undivided unit (signaled by 'unanimous' and 'its'), it takes a singular verb ('was').",
+      "correctAnswer": "A"
     },
     {
       "id": 4,
@@ -52,7 +55,8 @@
         "D": "Infinitive"
       },
       "answer": "A",
-      "explanation": "'Sunken' is an archaic/attributive past participle form of 'sink' modifying the noun 'ship'."
+      "explanation": "'Sunken' is an archaic/attributive past participle form of 'sink' modifying the noun 'ship'.",
+      "correctAnswer": "A"
     },
     {
       "id": 5,
@@ -64,7 +68,8 @@
         "D": "Prepositional clause"
       },
       "answer": "A",
-      "explanation": "'with blue eyes' is a prepositional phrase modifying the noun 'The boy', functioning adjectivally as an Adjective Phrase."
+      "explanation": "'with blue eyes' is a prepositional phrase modifying the noun 'The boy', functioning adjectivally as an Adjective Phrase.",
+      "correctAnswer": "A"
     },
     {
       "id": 6,
@@ -76,7 +81,8 @@
         "D": "Shall"
       },
       "answer": "A",
-      "explanation": "'May' is the formal and grammatically respectful modal auxiliary for requesting permission from an authority figure."
+      "explanation": "'May' is the formal and grammatically respectful modal auxiliary for requesting permission from an authority figure.",
+      "correctAnswer": "A"
     },
     {
       "id": 7,
@@ -88,7 +94,8 @@
         "D": "Reflexive pronoun"
       },
       "answer": "A",
-      "explanation": "'Whose' shows possession and connects the subordinate clause to the antecedent noun 'The boy', qualifying as a Possessive Relative Pronoun."
+      "explanation": "'Whose' shows possession and connects the subordinate clause to the antecedent noun 'The boy', qualifying as a Possessive Relative Pronoun.",
+      "correctAnswer": "A"
     },
     {
       "id": 8,
@@ -100,7 +107,8 @@
         "D": "but"
       },
       "answer": "A",
-      "explanation": "'Neither' strictly pairs with 'nor' as correlative conjunctions."
+      "explanation": "'Neither' strictly pairs with 'nor' as correlative conjunctions.",
+      "correctAnswer": "A"
     },
     {
       "id": 9,
@@ -112,7 +120,8 @@
         "D": "with"
       },
       "answer": "A",
-      "explanation": "The verb 'congratulate' takes the dependent preposition 'on' (or 'upon'), not 'for'."
+      "explanation": "The verb 'congratulate' takes the dependent preposition 'on' (or 'upon'), not 'for'.",
+      "correctAnswer": "A"
     },
     {
       "id": 10,
@@ -124,7 +133,8 @@
         "D": "Personification"
       },
       "answer": "A",
-      "explanation": "The repetition of the short vowel sound /ɛ/ across 'men', 'sell', 'wedding', and 'bells' is Assonance."
+      "explanation": "The repetition of the short vowel sound /ɛ/ across 'men', 'sell', 'wedding', and 'bells' is Assonance.",
+      "correctAnswer": "A"
     },
     {
       "id": 11,
@@ -136,7 +146,8 @@
         "D": "He exclaimed with wonder that the rainbow is very beautiful."
       },
       "answer": "A",
-      "explanation": "Exclamatory sentences beginning with 'How/What' expressing admiration change into assertive clauses with intensifiers like 'very beautiful' and past tense 'was'."
+      "explanation": "Exclamatory sentences beginning with 'How/What' expressing admiration change into assertive clauses with intensifiers like 'very beautiful' and past tense 'was'.",
+      "correctAnswer": "A"
     },
     {
       "id": 12,
@@ -148,7 +159,8 @@
         "D": "Build"
       },
       "answer": "B",
-      "explanation": "'Sleep' is an intransitive verb; intransitive verbs cannot take a direct object and therefore cannot be converted into the passive voice."
+      "explanation": "'Sleep' is an intransitive verb; intransitive verbs cannot take a direct object and therefore cannot be converted into the passive voice.",
+      "correctAnswer": "B"
     },
     {
       "id": 13,
@@ -160,7 +172,8 @@
         "D": "has been"
       },
       "answer": "B",
-      "explanation": "When members of a collective noun act individually in disagreement (indicated by 'divided' and 'their'), it takes a plural verb ('were')."
+      "explanation": "When members of a collective noun act individually in disagreement (indicated by 'divided' and 'their'), it takes a plural verb ('were').",
+      "correctAnswer": "B"
     },
     {
       "id": 14,
@@ -172,7 +185,8 @@
         "D": "Noun clause"
       },
       "answer": "A",
-      "explanation": "'that he could barely stand' connected to the intensifier 'so weak' denotes the outcome/result of his weakness, making it an Adverb Clause of Result."
+      "explanation": "'that he could barely stand' connected to the intensifier 'so weak' denotes the outcome/result of his weakness, making it an Adverb Clause of Result.",
+      "correctAnswer": "A"
     },
     {
       "id": 15,
@@ -184,7 +198,8 @@
         "D": "would rain"
       },
       "answer": "A",
-      "explanation": "In a First Conditional, future time in the conditional clause is expressed using the simple present tense ('rains'), never 'will rain'."
+      "explanation": "In a First Conditional, future time in the conditional clause is expressed using the simple present tense ('rains'), never 'will rain'.",
+      "correctAnswer": "A"
     }
   ]
 }

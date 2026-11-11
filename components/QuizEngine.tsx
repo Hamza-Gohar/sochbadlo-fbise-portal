@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect, useCallback, useMemo, useRef } from 'react';
 import Link from 'next/link';
-import { ChapterData } from '../lib/types';
+import { ChapterData, Question } from '../lib/types';
 import {
   ArrowLeft,
   ArrowRight,
@@ -26,6 +26,20 @@ import {
 } from '../lib/study-tracker';
 import { usePortal } from '../contexts/PortalContext';
 import StudyTrackerPill from './StudyTrackerPill';
+
+function getOptionText(options: Question['options'] | string[] | undefined, opt: 'A' | 'B' | 'C' | 'D'): string {
+  if (!options) return '';
+  if (Array.isArray(options)) {
+    const idx = opt === 'A' ? 0 : opt === 'B' ? 1 : opt === 'C' ? 2 : 3;
+    return String(options[idx] || '');
+  }
+  return options[opt] || '';
+}
+
+function getExpectedAnswer(q: Question | undefined): string {
+  if (!q) return 'A';
+  return q.correctAnswer || q.answer || 'A';
+}
 
 interface QuizEngineProps {
   chapter: ChapterData;
@@ -143,10 +157,11 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
 
     // Record question answer metric only on first attempt of this question
     if (!prevAnswer) {
-      const isCorrect = opt === currentQ.correctAnswer;
+      const expected = getExpectedAnswer(currentQ);
+      const isCorrect = opt === expected;
       recordQuestionAnswer(isCorrect, chapter.subject);
     }
-  }, [answers, chapter.subject, currentQ.correctAnswer, currentQ.id, isSubmitted, mode]);
+  }, [answers, chapter.subject, currentQ, isSubmitted, mode]);
 
   // Toggle Flag
   const toggleFlag = useCallback((qId: number) => {
@@ -203,10 +218,12 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
     let correctCount = 0;
     const details = questions.map((q) => {
       const selected = answers[q.id];
-      const isCorrect = selected === q.correctAnswer;
+      const expectedAns = getExpectedAnswer(q) as 'A' | 'B' | 'C' | 'D';
+      const isCorrect = selected === expectedAns;
       if (isCorrect) correctCount++;
       return {
         ...q,
+        correctAnswer: expectedAns,
         selected,
         isCorrect,
       };
@@ -236,7 +253,7 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
 
     const correctCount = Object.entries(answers).filter(([id, ans]) => {
       const q = questions.find((item) => item.id === Number(id));
-      return q && q.correctAnswer === ans;
+      return q ? getExpectedAnswer(q) === ans : false;
     }).length;
     const currentPercentage = Math.round((correctCount / questions.length) * 100);
     const timeTaken = elapsedTime || initialExamTime - timeLeft;
@@ -551,7 +568,7 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
                       </div>
 
                       <div className="text-xs font-mono text-[var(--color-muted)] mb-3">
-                        Your answer: <strong className="text-[var(--color-ink)]">{q.selected || 'None'}</strong> | Correct: <strong className="text-emerald-900">{q.correctAnswer}</strong>
+                        Your answer: <strong className="text-[var(--color-ink)]">{q.selected || 'None'}</strong> | Correct: <strong className="text-emerald-900">{getExpectedAnswer(q)}</strong>
                       </div>
 
                       <h4
@@ -566,10 +583,10 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
                       {/* Options list */}
                       <div className="grid grid-cols-1 sm:grid-cols-2 gap-2 mb-4 font-[family-name:var(--font-display)] text-xs">
                         {(['A', 'B', 'C', 'D'] as const).map((opt) => {
-                          const optText = q.options[opt];
+                          const optText = getOptionText(q.options, opt);
                           if (!optText) return null;
                           const isSelected = q.selected === opt;
-                          const isActualCorrect = q.correctAnswer === opt;
+                          const isActualCorrect = getExpectedAnswer(q) === opt;
 
                           let optClass = 'border-[var(--color-rule)] bg-[var(--color-paper)] text-[var(--color-ink)]';
                           if (isActualCorrect) {
@@ -687,10 +704,10 @@ export default function QuizEngine({ chapter, slug, initialMode = 'practice' }: 
                 {/* 4 Options List */}
                 <div className="space-y-3 font-[family-name:var(--font-display)] mb-8">
                   {(['A', 'B', 'C', 'D'] as const).map((opt) => {
-                    const optText = currentQ.options[opt];
+                    const optText = getOptionText(currentQ.options, opt);
                     if (!optText) return null;
                     const isSelected = answers[currentQ.id] === opt;
-                    const isCorrect = currentQ.correctAnswer === opt;
+                    const isCorrect = getExpectedAnswer(currentQ) === opt;
                     const hasAnswered = Boolean(answers[currentQ.id]);
 
                     let btnStyle =

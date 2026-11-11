@@ -25,7 +25,7 @@
         "D": "Pascal (Pa)"
       },
       "correctAnswer": "B",
-      "explanation": "The Joule (J) is the SI unit. 1 Joule is the work done when a force of 1 Newton moves an object 1 meter."
+      "explanation": "The Joule (J) is the SI unit. 1 Joule is the work done when a force of 1 Newton moves an object 1\nmeter."
     },
     {
       "id": 3,
@@ -169,7 +169,7 @@
         "D": "Work and Energy"
       },
       "correctAnswer": "C",
-      "explanation": "Mechanical energy = KE + PE, conserved in absence of friction. 15. Correct Option: C In free fall, PE converts into KE while total mechanical energy remains constant."
+      "explanation": "Mechanical energy = KE + PE, conserved in absence of friction."
     },
     {
       "id": 15,
@@ -180,8 +180,8 @@
         "C": "Constant",
         "D": "Zero"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "In free fall, PE converts into KE while total mechanical energy remains constant."
     },
     {
       "id": 16,

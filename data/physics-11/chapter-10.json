@@ -1,7 +1,7 @@
 {
   "chapterNumber": 10,
-  "chapterTitle": "Thermodynamics",
-  "totalQuestions": 57,
+  "chapterTitle": "Electrostatics",
+  "totalQuestions": 60,
   "questions": [
     {
       "id": 1,
@@ -13,7 +13,7 @@
         "D": "3:12"
       },
       "correctAnswer": "C",
-      "explanation": "Initially, the force between the charges is: F = k(Q)(3Q) / r² = 3kQ² / r² After contact, total charge = +Q − 3Q = −2Q Since the spheres are identical, each sphere gets: −2Q / 2 = −Q New force: F′ = k(Q²) / r² Therefore, F′ / F = (kQ² / r²) ÷ (3kQ² / r²) = 1/3"
+      "explanation": "Initially, the force between the charges is:\nF = k(Q)(3Q) / r² = 3kQ² / r²\nAfter contact, total charge = +Q − 3Q = −2Q\nSince the spheres are identical, each sphere gets:\n−2Q / 2 = −Q\nNew force:\nF′ = k(Q²) / r²\nTherefore,\nF′ / F = (kQ² / r²) ÷ (3kQ² / r²) = 1/3"
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
         "D": "The velocity of the charges"
       },
       "correctAnswer": "C",
-      "explanation": "Coulomb’s constant is: k = 1 / (4π ε₀ εᵣ) Therefore, it depends on the system of units and the medium between the charges."
+      "explanation": "Coulomb’s constant is:\nk = 1 / (4π ε₀ εᵣ)\nTherefore, it depends on the system of units and the medium between the charges."
     },
     {
       "id": 3,
@@ -37,7 +37,7 @@
         "D": "Infinite"
       },
       "correctAnswer": "B",
-      "explanation": "Inside the hollow conducting sphere, the field due to the conducting shell is zero. Only the point charge contributes. Therefore, E = kq / r²"
+      "explanation": "Inside the hollow conducting sphere, the field due to the conducting shell is zero. Only\nthe point charge contributes.\nTherefore,\nE = kq / r²"
     },
     {
       "id": 4,
@@ -49,7 +49,7 @@
         "D": "The surface must be spherical"
       },
       "correctAnswer": "B",
-      "explanation": "According to Gauss’s Law: Φ = q enclosed / ε₀ If electric flux is zero, then enclosed charge must also be zero."
+      "explanation": "According to Gauss’s Law:\nΦ = q enclosed / ε₀\n\n\nIf electric flux is zero, then enclosed charge must also be zero."
     },
     {
       "id": 5,
@@ -61,7 +61,7 @@
         "D": "Zero"
       },
       "correctAnswer": "B",
-      "explanation": "Force on each particle: F = qE Acceleration: a = F / m = qE / m Thus, ap / ae = me / mp because proton mass is much greater than electron mass."
+      "explanation": "Force on each particle:\nF = qE\nAcceleration:\na = F / m = qE / m\nThus,\nap / ae = me / mp\nbecause proton mass is much greater than electron mass."
     },
     {
       "id": 6,
@@ -73,7 +73,7 @@
         "D": "Zero"
       },
       "correctAnswer": "C",
-      "explanation": "Inside a conductor, electric field is zero. Therefore, potential remains constant throughout the conductor. Potential at center = Potential at surface = V"
+      "explanation": "Inside a conductor, electric field is zero. Therefore, potential remains constant\nthroughout the conductor.\nPotential at center = Potential at surface = V"
     },
     {
       "id": 7,
@@ -97,7 +97,7 @@
         "D": "0.02 V/m"
       },
       "correctAnswer": "A",
-      "explanation": "Potential gradient: E=V/d E = 10 / (2 × 10⁻³) E = 5000 V/m 9. Correct Option: (B) In a Faraday cage, charges stay on the outer surface, making the electric field inside zero. Hence, the person remains safe."
+      "explanation": "Potential gradient:\nE=V/d\nE = 10 / (2 × 10⁻³)\nE = 5000 V/m"
     },
     {
       "id": 9,
@@ -108,8 +108,8 @@
         "C": "They are safe because the cage is an insulator",
         "D": "They will be shocked due to electromagnetic induction"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "In a Faraday cage, charges stay on the outer surface, making the electric field inside zero.\nHence, the person remains safe."
     },
     {
       "id": 10,
@@ -133,7 +133,7 @@
         "D": "One-half"
       },
       "correctAnswer": "C",
-      "explanation": "Force in a dielectric medium becomes: Fm = Fvac / εᵣ Since εᵣ = 4, Force becomes one-fourth."
+      "explanation": "Force in a dielectric medium becomes:\nFm = Fvac / εᵣ\nSince εᵣ = 4,\nForce becomes one-fourth."
     },
     {
       "id": 12,
@@ -145,7 +145,7 @@
         "D": "[M−1L2T4A2]"
       },
       "correctAnswer": "A",
-      "explanation": "The dimensions of permittivity are obtained from Coulomb’s law and are: [M⁻¹ L⁻³ T⁴ A²]"
+      "explanation": "The dimensions of permittivity are obtained from Coulomb’s law and are:\n[M⁻¹ L⁻³ T⁴ A²]"
     },
     {
       "id": 13,
@@ -157,7 +157,7 @@
         "D": "F ≠ 0, τ = 0"
       },
       "correctAnswer": "C",
-      "explanation": "In a uniform electric field: • • Net force on dipole = 0 Torque on dipole ≠ 0 because equal and opposite forces act at different points."
+      "explanation": "In a uniform electric field:\n•\n•\n\nNet force on dipole = 0\nTorque on dipole ≠ 0\n\nbecause equal and opposite forces act at different points."
     },
     {
       "id": 14,
@@ -169,7 +169,7 @@
         "D": "1/r⁴"
       },
       "correctAnswer": "C",
-      "explanation": "Electric field due to a dipole at large distance varies as: 1 / r³ 15. Correct Option: (B) Given: V = 5x² Electric field: E = − dV/dx E = −10x At x = 2 m: E = −20 V/m Direction is along negative x-axis."
+      "explanation": "Electric field due to a dipole at large distance varies as:\n1 / r³"
     },
     {
       "id": 15,
@@ -180,8 +180,8 @@
         "C": "10 V/m along +x axis",
         "D": "Zero"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Given:\nV = 5x²\nElectric field:\nE = − dV/dx\nE = −10x\nAt x = 2 m:\nE = −20 V/m\nDirection is along negative x-axis."
     },
     {
       "id": 16,
@@ -217,7 +217,7 @@
         "D": "0.2 J"
       },
       "correctAnswer": "C",
-      "explanation": "Work done: W = qΔV On an equipotential surface, ΔV = 0 Therefore, W=0 19. Correct Option: (B) Potential remains constant throughout a conductor. Hence, potential at center = 100 V."
+      "explanation": "Work done:\nW = qΔV\nOn an equipotential surface, ΔV = 0\nTherefore,\nW=0"
     },
     {
       "id": 19,
@@ -228,8 +228,8 @@
         "C": "50 V",
         "D": "Infinite"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Potential remains constant throughout a conductor.\nHence, potential at center = 100 V."
     },
     {
       "id": 20,
@@ -241,7 +241,7 @@
         "D": "Becomes zero"
       },
       "correctAnswer": "B",
-      "explanation": "A dielectric becomes polarized and produces an opposing internal field. Hence, net field decreases."
+      "explanation": "A dielectric becomes polarized and produces an opposing internal field.\nHence, net field decreases."
     },
     {
       "id": 21,
@@ -250,10 +250,22 @@
         "A": "Forces act only through contact",
         "B": "A charge modifies the space around it",
         "C": "Electric field is a scalar quantity",
-        "D": "Mass of the charge determines the field\n\n22. Two point charges +4q and +q are separated by a distance L. The point where the net electric\nfield is zero is:"
+        "D": "Mass of the charge determines the field"
       },
       "correctAnswer": "B",
       "explanation": "Field concept means a charge modifies the space around it."
+    },
+    {
+      "id": 22,
+      "question": "Two point charges +4q and +q are separated by a distance L. The point where the net electric field is zero is:",
+      "options": {
+        "A": "L/2 from +4q",
+        "B": "L/3 from +q",
+        "C": "2L/3 from +q",
+        "D": "L/4 from +4q"
+      },
+      "correctAnswer": "B",
+      "explanation": "Let zero-field point be at distance x from charge +q.\nThen:\nk(4q)/(L − x)² = kq/x²\n4/(L − x)² = 1/x²\n2/(L − x) = 1/x\n2x = L − x\n3x = L\nx = L/3"
     },
     {
       "id": 23,
@@ -265,7 +277,7 @@
         "D": "C/N"
       },
       "correctAnswer": "B",
-      "explanation": "Potential gradient: V/m = (J/C)/m = N/C 24. Correct Option: (B) Energy gained by electron through 1 volt: 1 eV = 1.6 × 10⁻¹⁹ J"
+      "explanation": "Potential gradient:\nV/m = (J/C)/m\n= N/C"
     },
     {
       "id": 24,
@@ -276,8 +288,8 @@
         "C": "6.25 × 10¹⁸ J",
         "D": "1 erg"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Energy gained by electron through 1 volt:\n1 eV = 1.6 × 10⁻¹⁹ J"
     },
     {
       "id": 25,
@@ -313,7 +325,7 @@
         "D": "30 N"
       },
       "correctAnswer": "B",
-      "explanation": "Force varies inversely with square of distance. If distance becomes 3 times: F′ = 10 / 9 F′ = 1.11 N"
+      "explanation": "Force varies inversely with square of distance.\nIf distance becomes 3 times:\nF′ = 10 / 9\nF′ = 1.11 N"
     },
     {
       "id": 28,
@@ -349,7 +361,7 @@
         "D": "Neutral"
       },
       "correctAnswer": "B",
-      "explanation": "If q₁q₂ is positive, both charges have same sign. Like charges repel. 31. Correct Option: (B) For suspension: mg = qE If charge doubles: E becomes half."
+      "explanation": "If q₁q₂ is positive, both charges have same sign.\nLike charges repel."
     },
     {
       "id": 31,
@@ -360,8 +372,8 @@
         "C": "Four times",
         "D": "Unchanged"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "For suspension:\nmg = qE\nIf charge doubles:\nE becomes half."
     },
     {
       "id": 32,
@@ -397,7 +409,7 @@
         "D": "q/mE"
       },
       "correctAnswer": "B",
-      "explanation": "Using Newton’s second law: F = ma qE = ma a = qE / m"
+      "explanation": "Using Newton’s second law:\nF = ma\nqE = ma\na = qE / m"
     },
     {
       "id": 35,
@@ -409,7 +421,7 @@
         "D": "10⁸ C"
       },
       "correctAnswer": "B",
-      "explanation": "Charge: q=F/E q = 10⁻⁶ / 100 q = 10⁻⁸ C 36. Correct Option: (A) Potential gradient: E = V/d If distance decreases, E increases."
+      "explanation": "Charge:\nq=F/E\nq = 10⁻⁶ / 100\nq = 10⁻⁸ C"
     },
     {
       "id": 36,
@@ -418,10 +430,22 @@
         "A": "Increases",
         "B": "Decreases",
         "C": "Remains the same",
-        "D": "Becomes zero\n\n37. Ferrofluids are used in loudspeakers primarily to:"
+        "D": "Becomes zero"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "Potential gradient:\nE = V/d\nIf distance decreases, E increases."
+    },
+    {
+      "id": 37,
+      "question": "Ferrofluids are used in loudspeakers primarily to:",
+      "options": {
+        "A": "Conduct current",
+        "B": "Dampen vibrations and dissipate heat",
+        "C": "Create a permanent magnet",
+        "D": "Amplify the sound"
+      },
+      "correctAnswer": "B",
+      "explanation": "Ferrofluids in loudspeakers help cool the system and reduce vibrations."
     },
     {
       "id": 38,
@@ -433,19 +457,19 @@
         "D": "kQ/r³"
       },
       "correctAnswer": "A",
-      "explanation": "Potential due to a point charge: V = kQ / r"
+      "explanation": "Potential due to a point charge:\nV = kQ / r"
     },
     {
       "id": 39,
-      "question": "Two charges +q and −q are separated by distance",
+      "question": "Two charges +q and −q are separated by distance d. The potential at the midpoint is:",
       "options": {
-        "D": "The potential at the midpoint is:",
         "A": "2kq/d",
         "B": "Zero",
-        "C": "4kq/d"
+        "C": "4kq/d",
+        "D": "kq/d²"
       },
       "correctAnswer": "B",
-      "explanation": "At midpoint: V = kq/(d/2) + k(−q)/(d/2) V=0"
+      "explanation": "At midpoint:\nV = kq/(d/2) + k(−q)/(d/2)\nV=0"
     },
     {
       "id": 40,
@@ -457,7 +481,7 @@
         "D": "N·C"
       },
       "correctAnswer": "B",
-      "explanation": "Electric flux unit: (Electric field × Area) = (V/m) × m² = V·m"
+      "explanation": "Electric flux unit:\n(Electric field × Area)\n= (V/m) × m²\n= V·m"
     },
     {
       "id": 41,
@@ -469,7 +493,7 @@
         "D": "A non-linear surface"
       },
       "correctAnswer": "B",
-      "explanation": "A conductor in electrostatic equilibrium is an equipotential surface. 42. Correct Option: (C) Electric field intensity has both magnitude and direction, so it is a vector."
+      "explanation": "A conductor in electrostatic equilibrium is an equipotential surface."
     },
     {
       "id": 42,
@@ -480,8 +504,8 @@
         "C": "Electric field intensity",
         "D": "Electric potential energy"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "Electric field intensity has both magnitude and direction, so it is a vector."
     },
     {
       "id": 43,
@@ -493,7 +517,7 @@
         "D": "−10⁶ C"
       },
       "correctAnswer": "A",
-      "explanation": "Charge on body: Q = ne Q = 10⁶ × 1.6 × 10⁻¹⁹ Q = 1.6 × 10⁻¹³ C Removing electrons makes the body positive."
+      "explanation": "Charge on body:\nQ = ne\nQ = 10⁶ × 1.6 × 10⁻¹⁹\nQ = 1.6 × 10⁻¹³ C\nRemoving electrons makes the body positive."
     },
     {
       "id": 44,
@@ -505,7 +529,7 @@
         "D": "Elliptical"
       },
       "correctAnswer": "C",
-      "explanation": "A charged particle moving perpendicular to a uniform electric field follows a parabolic path."
+      "explanation": "A charged particle moving perpendicular to a uniform electric field follows a parabolic\npath."
     },
     {
       "id": 45,
@@ -517,7 +541,7 @@
         "D": "q₀²V"
       },
       "correctAnswer": "B",
-      "explanation": "Work done: W = qV"
+      "explanation": "Work done:\nW = qV"
     },
     {
       "id": 46,
@@ -529,7 +553,7 @@
         "D": "Infinite"
       },
       "correctAnswer": "B",
-      "explanation": "A dipole contains equal and opposite charges. Net charge = 0"
+      "explanation": "A dipole contains equal and opposite charges.\nNet charge = 0"
     },
     {
       "id": 47,
@@ -541,7 +565,7 @@
         "D": "Disappear"
       },
       "correctAnswer": "B",
-      "explanation": "Without external field, nanoparticles remain randomly oriented because of Brownian motion. 48. Correct Option: (B) Force in vacuum: Fv = εᵣ Fm"
+      "explanation": "Without external field, nanoparticles remain randomly oriented because of Brownian\nmotion."
     },
     {
       "id": 48,
@@ -552,8 +576,8 @@
         "C": "Fm",
         "D": "Fm²"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Force in vacuum:\nFv = εᵣ Fm"
     },
     {
       "id": 49,
@@ -586,10 +610,22 @@
         "A": "Yes",
         "B": "No",
         "C": "Only if the charge is zero",
-        "D": "Only in vacuum\n\n52. The magnitude of the electric field inside a charged conductor is:"
+        "D": "Only in vacuum"
       },
       "correctAnswer": "B",
-      "explanation": "Electric field can be zero while potential is non-zero. Example: midpoint between similar charges."
+      "explanation": "Electric field can be zero while potential is non-zero.\nExample: midpoint between similar charges."
+    },
+    {
+      "id": 52,
+      "question": "The magnitude of the electric field inside a charged conductor is:",
+      "options": {
+        "A": "kQ/R²",
+        "B": "Zero",
+        "C": "σ/ε₀",
+        "D": "V/R"
+      },
+      "correctAnswer": "B",
+      "explanation": "Electric field inside a conductor is always zero."
     },
     {
       "id": 53,
@@ -625,7 +661,7 @@
         "D": "Gold"
       },
       "correctAnswer": "B",
-      "explanation": "Most ferrofluids use magnetite (Fe₃O₄). 56. Correct Option: (C) Maximum work is done when dipole rotates through 180°."
+      "explanation": "Most ferrofluids use magnetite (Fe₃O₄)."
     },
     {
       "id": 56,
@@ -636,8 +672,8 @@
         "C": "180°",
         "D": "360°"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "C",
+      "explanation": "Maximum work is done when dipole rotates through 180°."
     },
     {
       "id": 57,
@@ -661,7 +697,7 @@
         "D": "V·m"
       },
       "correctAnswer": "B",
-      "explanation": "SI unit of permittivity: C² N⁻¹ m⁻²"
+      "explanation": "SI unit of permittivity:\nC² N⁻¹ m⁻²"
     },
     {
       "id": 59,
@@ -673,7 +709,7 @@
         "D": "2"
       },
       "correctAnswer": "B",
-      "explanation": "Force: F = k q(Q − q) For maximum value: d/dq [q(Q − q)] = 0 Q − 2q = 0 q = Q/2"
+      "explanation": "Force:\nF = k q(Q − q)\nFor maximum value:\nd/dq [q(Q − q)] = 0\nQ − 2q = 0\nq = Q/2"
     },
     {
       "id": 60,
@@ -682,7 +718,7 @@
         "A": "Parallel",
         "B": "Normal",
         "C": "At 45°",
-        "D": "Random\n\nAnswer key\nQ No.\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n13\n14\n15\n\nAnswer\nC\nC\nB\nB\nB\nC\nB\nA\nB\nB\nC\nA\nC\nC\nB\n\nQ No.\n16\n17\n18\n19\n20\n21\n22\n23\n24\n25\n26\n27\n28\n29\n30\n\nAnswer\nB\nC\nC\nB\nB\nB\nB\nB\nB\nA\nB\nB\nB\nB\nB\n\nQ No.\n31\n32\n33\n34\n35\n36\n37\n38\n39\n40\n41\n42\n43\n44\n45\n\nAnswer\nB\nC\nB\nB\nB\nA\nB\nA\nB\nB\nB\nC\nA\nC\nB\n\nDetailed Solution of Mcqs\n\nQ No.\n46\n47\n48\n49\n50\n51\n52\n53\n54\n55\n56\n57\n58\n59\n60\n\nAnswer\nB\nB\nB\nC\nB\nB\nB\nA\nB\nB\nC\nB\nB\nB\nB"
+        "D": "Random"
       },
       "correctAnswer": "B",
       "explanation": "Electric field at the surface of a conductor is always normal to the surface."

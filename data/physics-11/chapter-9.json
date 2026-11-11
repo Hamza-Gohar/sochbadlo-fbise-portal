@@ -1,7 +1,7 @@
 {
   "chapterNumber": 9,
   "chapterTitle": "Physical Optics",
-  "totalQuestions": 78,
+  "totalQuestions": 90,
   "questions": [
     {
       "id": 1,
@@ -13,7 +13,7 @@
         "D": "1/4"
       },
       "correctAnswer": "A",
-      "explanation": "Intensity is proportional to amplitude squared and frequency squared. Tripling amplitude increases intensity by 9 times, halving frequency reduces it by 4 times, so net factor = 9/4."
+      "explanation": "Intensity is proportional to amplitude squared and frequency squared. Tripling amplitude\n\n\nincreases intensity by 9 times, halving frequency reduces it by 4 times, so net factor =\n9/4."
     },
     {
       "id": 2,
@@ -25,7 +25,19 @@
         "D": "16I"
       },
       "correctAnswer": "B",
-      "explanation": "Resultant intensity for phase difference π (destructive interference) is (√I1 − √I2)² = (3√I − √I)² = 4I."
+      "explanation": "Resultant intensity for phase difference π (destructive interference) is (√I1 − √I2)² = (3√I\n− √I)² = 4I."
+    },
+    {
+      "id": 3,
+      "question": "A point source emits sound waves uniformly in all directions. At distance r amplitude is A. At 2r, amplitude is:",
+      "options": {
+        "A": "A/2",
+        "B": "A/4",
+        "C": "2A",
+        "D": "A/√2"
+      },
+      "correctAnswer": "A",
+      "explanation": "For a point source, intensity varies as 1/r², so amplitude varies as 1/r. At 2r, amplitude\nbecomes A/2."
     },
     {
       "id": 4,
@@ -37,7 +49,7 @@
         "D": "3λ/4"
       },
       "correctAnswer": "B",
-      "explanation": "Distance from 1st node to 1st antinode is λ/4, and between antinodes is λ/2, so total = 7λ/4."
+      "explanation": "Distance from 1st node to 1st antinode is λ/4, and between antinodes is λ/2, so total =\n7λ/4."
     },
     {
       "id": 5,
@@ -61,7 +73,7 @@
         "D": "22%"
       },
       "correctAnswer": "C",
-      "explanation": "Wave speed v ∝ √T. If tension increases by 44%, speed increases by √1.44 = 1.2 → 20% increase."
+      "explanation": "Wave speed v ∝ √T. If tension increases by 44%, speed increases by √1.44 = 1.2 → 20%\nincrease."
     },
     {
       "id": 7,
@@ -109,7 +121,7 @@
         "D": "Different frequency"
       },
       "correctAnswer": "C",
-      "explanation": "Noise cancellation requires same frequency and 180° phase difference for destructive interference."
+      "explanation": "Noise cancellation requires same frequency and 180° phase difference for destructive\ninterference."
     },
     {
       "id": 11,
@@ -118,10 +130,22 @@
         "A": "3f",
         "B": "5f",
         "C": "7f",
-        "D": "4f\n\n12. Beats: A=256 Hz, B original frequency is:"
+        "D": "4f"
       },
       "correctAnswer": "C",
       "explanation": "Closed pipe harmonics are odd multiples: f, 3f, 5f, 7f → 3rd overtone = 7f."
+    },
+    {
+      "id": 12,
+      "question": "Beats: A=256 Hz, B original frequency is:",
+      "options": {
+        "A": "252 Hz",
+        "B": "260 Hz",
+        "C": "250 Hz",
+        "D": "262 Hz"
+      },
+      "correctAnswer": "B",
+      "explanation": "Beat frequency changes from 4 to 6 Hz after loading A. Using fA = 256 Hz, original fB =\n260 Hz."
     },
     {
       "id": 13,
@@ -178,10 +202,22 @@
         "A": "2L/n",
         "B": "4L/n",
         "C": "L/n",
-        "D": "2L/(2n−1)\n\n18. Does NOT support wave nature of light:"
+        "D": "2L/(2n−1)"
       },
       "correctAnswer": "A",
       "explanation": "Open pipe: L = nλ/2 so λ = 2L/n."
+    },
+    {
+      "id": 18,
+      "question": "Does NOT support wave nature of light:",
+      "options": {
+        "A": "Interference",
+        "B": "Diffraction",
+        "C": "Photoelectric effect",
+        "D": "Polarization"
+      },
+      "correctAnswer": "C",
+      "explanation": "Photoelectric effect supports particle nature of light, not wave nature."
     },
     {
       "id": 19,
@@ -205,7 +241,7 @@
         "D": "180° phase interference"
       },
       "correctAnswer": "C",
-      "explanation": "Beats occur due to superposition of two waves with slightly different frequencies. 21. Correct Answer: (A) Doppler formula gives f′ ≈ 1.11f for vs = v/10."
+      "explanation": "Beats occur due to superposition of two waves with slightly different frequencies."
     },
     {
       "id": 21,
@@ -217,7 +253,7 @@
         "D": "f"
       },
       "correctAnswer": "A",
-      "explanation": ""
+      "explanation": "Doppler formula gives f′ ≈ 1.11f for vs = v/10."
     },
     {
       "id": 22,
@@ -238,10 +274,22 @@
         "A": "f(v+vo)/(v−vs)",
         "B": "f(v−vo)/(v+vs)",
         "C": "f(v−vo)/(v−vs)",
-        "D": "f(v+vo)/(v+vs)\n\n24. Doppler effect depends on:"
+        "D": "f(v+vo)/(v+vs)"
       },
       "correctAnswer": "A",
       "explanation": "Standard Doppler formula for source and observer moving towards each other."
+    },
+    {
+      "id": 24,
+      "question": "Doppler effect depends on:",
+      "options": {
+        "A": "Distance",
+        "B": "Relative velocity",
+        "C": "Intensity",
+        "D": "Loudness"
+      },
+      "correctAnswer": "B",
+      "explanation": "Doppler effect depends on relative velocity, not distance."
     },
     {
       "id": 25,
@@ -298,10 +346,22 @@
         "A": "1125 Hz",
         "B": "1000 Hz",
         "C": "1058 Hz",
-        "D": "1111 Hz\n\n30. Red shift shows:"
+        "D": "1111 Hz"
       },
       "correctAnswer": "C",
       "explanation": "Double Doppler shift gives 1125 Hz."
+    },
+    {
+      "id": 30,
+      "question": "Red shift shows:",
+      "options": {
+        "A": "Big Crunch",
+        "B": "Expansion of universe",
+        "C": "Steady state",
+        "D": "Rotation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Redshift proves expansion of the universe."
     },
     {
       "id": 31,
@@ -358,10 +418,22 @@
         "A": "v²",
         "B": "√v",
         "C": "v",
-        "D": "1/v\n\n36. Observer moving away at speed of sound:"
+        "D": "1/v"
       },
       "correctAnswer": "C",
       "explanation": "Radar frequency shift is directly proportional to speed of object."
+    },
+    {
+      "id": 36,
+      "question": "Observer moving away at speed of sound:",
+      "options": {
+        "A": "f",
+        "B": "2f",
+        "C": "f/2",
+        "D": "0"
+      },
+      "correctAnswer": "D",
+      "explanation": "Observer moving at speed of sound receives no wavefronts → zero frequency."
     },
     {
       "id": 37,
@@ -418,10 +490,22 @@
         "A": "Louder",
         "B": "Stops",
         "C": "Second harmonic",
-        "D": "Same\n\n42. Mass per unit length ×4:"
+        "D": "Same"
       },
       "correctAnswer": "C",
       "explanation": "Touching midpoint forces second harmonic mode."
+    },
+    {
+      "id": 42,
+      "question": "Mass per unit length ×4:",
+      "options": {
+        "A": "Doubles",
+        "B": "Halves",
+        "C": "Quadruples",
+        "D": "Same"
+      },
+      "correctAnswer": "B",
+      "explanation": "Frequency ∝ 1/√μ, so quadrupling mass per length halves frequency."
     },
     {
       "id": 43,
@@ -433,7 +517,7 @@
         "D": "4 nodes 3 antinodes"
       },
       "correctAnswer": "A",
-      "explanation": "4th harmonic open pipe has 4 nodes and 5 antinodes. 44. Correct Answer: (B) v = 2Lf = 200 m/s."
+      "explanation": "4th harmonic open pipe has 4 nodes and 5 antinodes."
     },
     {
       "id": 44,
@@ -444,8 +528,8 @@
         "C": "50 m/s",
         "D": "400 m/s"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "v = 2Lf = 200 m/s."
     },
     {
       "id": 45,
@@ -478,10 +562,22 @@
         "A": "1:2:3",
         "B": "1:3:5",
         "C": "1:4:9",
-        "D": "2:4:6\n\n48. Displacement node is:"
+        "D": "2:4:6"
       },
       "correctAnswer": "B",
       "explanation": "Closed pipes produce odd harmonics only."
+    },
+    {
+      "id": 48,
+      "question": "Displacement node is:",
+      "options": {
+        "A": "Pressure node",
+        "B": "Pressure antinode",
+        "C": "Max displacement",
+        "D": "Min pressure variation"
+      },
+      "correctAnswer": "B",
+      "explanation": "Node of displacement is antinode of pressure."
     },
     {
       "id": 49,
@@ -550,10 +646,22 @@
         "A": "Light wave",
         "B": "Radio wave",
         "C": "Sound wave",
-        "D": "X-ray\n\n55. In a stationary wave, the phase difference between particles in two adjacent loops is:"
+        "D": "X-ray"
       },
       "correctAnswer": "C",
       "explanation": "Sound waves are longitudinal mechanical waves."
+    },
+    {
+      "id": 55,
+      "question": "In a stationary wave, the phase difference between particles in two adjacent loops is:",
+      "options": {
+        "A": "0",
+        "B": "π/2",
+        "C": "π",
+        "D": "2π"
+      },
+      "correctAnswer": "C",
+      "explanation": "Adjacent loops are 180° out of phase."
     },
     {
       "id": 56,
@@ -622,10 +730,22 @@
         "A": "Longitudinal",
         "B": "Plane polarized",
         "C": "Unpolarized",
-        "D": "Circularly polarized\n\n62. If two polarizers are placed such that no light passes through them, the angle between\nthem is:"
+        "D": "Circularly polarized"
       },
       "correctAnswer": "B",
       "explanation": "Polarizer produces plane polarized light."
+    },
+    {
+      "id": 62,
+      "question": "If two polarizers are placed such that no light passes through them, the angle between them is:",
+      "options": {
+        "A": "0°",
+        "B": "45°",
+        "C": "90°",
+        "D": "180°"
+      },
+      "correctAnswer": "C",
+      "explanation": "Crossed polarizers are at 90°."
     },
     {
       "id": 63,
@@ -673,7 +793,7 @@
         "D": "None of these"
       },
       "correctAnswer": "B",
-      "explanation": "Scattered skylight is partially polarized. 67. Correct Answer: (B) Polaroids reduce glare by blocking polarized reflected light."
+      "explanation": "Scattered skylight is partially polarized."
     },
     {
       "id": 67,
@@ -684,8 +804,8 @@
         "C": "They change the color of objects",
         "D": "They are more transparent"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Polaroids reduce glare by blocking polarized reflected light."
     },
     {
       "id": 68,
@@ -790,10 +910,22 @@
         "A": "Isaac Newton",
         "B": "Albert Einstein",
         "C": "Stephen Hawking",
-        "D": "Edwin Hubble\n\n77. The speed of gravitational waves is:"
+        "D": "Edwin Hubble"
       },
       "correctAnswer": "B",
       "explanation": "Gravitational waves were predicted by Einstein."
+    },
+    {
+      "id": 77,
+      "question": "The speed of gravitational waves is:",
+      "options": {
+        "A": "Equal to speed of sound",
+        "B": "Less than speed of light",
+        "C": "Equal to speed of light",
+        "D": "Infinite"
+      },
+      "correctAnswer": "C",
+      "explanation": "They travel at speed of light."
     },
     {
       "id": 78,
@@ -862,10 +994,22 @@
         "A": "f(vs/v)",
         "B": "f(v/vs)",
         "C": "f(vs²/v²)",
-        "D": "2f\n\n84. If a star is moving away from the earth, the wavelength of the light received:"
+        "D": "2f"
       },
       "correctAnswer": "A",
       "explanation": "Small velocity approximation of Doppler formula."
+    },
+    {
+      "id": 84,
+      "question": "If a star is moving away from the earth, the wavelength of the light received:",
+      "options": {
+        "A": "Decreases",
+        "B": "Increases",
+        "C": "Remains same",
+        "D": "Fluctuates"
+      },
+      "correctAnswer": "B",
+      "explanation": "Moving away increases wavelength (redshift)."
     },
     {
       "id": 85,
@@ -925,7 +1069,7 @@
         "D": "Infrared"
       },
       "correctAnswer": "B",
-      "explanation": "SONAR is used for submarines. 90. Correct Answer: (B) Sound level increase = 10 log(3) ≈ 4.77 dB."
+      "explanation": "SONAR is used for submarines."
     },
     {
       "id": 90,
@@ -936,8 +1080,8 @@
         "C": "9 dB",
         "D": "10 dB"
       },
-      "correctAnswer": "A",
-      "explanation": ""
+      "correctAnswer": "B",
+      "explanation": "Sound level increase = 10 log(3) ≈ 4.77 dB."
     }
   ]
 }

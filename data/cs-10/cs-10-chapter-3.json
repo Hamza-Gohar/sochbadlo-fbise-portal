@@ -196,8 +196,8 @@
         "C": "Diamond",
         "D": "Parallelogram"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct option is D: 'Parallelogram'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+      "correctAnswer": "C",
+      "explanation": "In flowcharts, a Diamond represents a decision (conditional branch), while a Parallelogram represents Input/Output operations and a Rectangle represents processing."
     },
     {
       "id": 17,
@@ -232,8 +232,8 @@
         "C": "do-while loop",
         "D": "switch statement"
       },
-      "correctAnswer": "D",
-      "explanation": "Correct option is D: 'switch statement'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+      "correctAnswer": "C",
+      "explanation": "A do-while loop is an exit-controlled loop that tests its condition after executing the loop body, guaranteeing that the body executes at least once."
     },
     {
       "id": 20,
@@ -340,8 +340,8 @@
         "C": "AND",
         "D": "XOR"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct option is A: 'OR'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+      "correctAnswer": "C",
+      "explanation": "An AND gate produces a high output (1) only when all of its inputs are 1. An OR gate produces 1 when at least one input is 1."
     },
     {
       "id": 29,
@@ -472,8 +472,8 @@
         "C": "reset()",
         "D": "printf()"
       },
-      "correctAnswer": "C",
-      "explanation": "Correct option is C: 'reset()'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+      "correctAnswer": "B",
+      "explanation": "In C programming with conio.h (the standard library environment used in Pakistani textbooks/Turbo C), clrscr() is the function used to clear the output screen."
     },
     {
       "id": 40,
@@ -496,8 +496,8 @@
         "C": "B",
         "D": "Error"
       },
-      "correctAnswer": "A",
-      "explanation": "Correct option is A: '65'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+      "correctAnswer": "B",
+      "explanation": "The %c format specifier outputs the character corresponding to ASCII code 65, which is uppercase letter A."
     },
     {
       "id": 42,
@@ -532,8 +532,8 @@
         "C": "char name[10];",
         "D": "Both a and c"
       },
-      "correctAnswer": "B",
-      "explanation": "Correct option is B: 'character name;'. In Programming Fundamentals (C Syntax & Web Development), this fundamental concept is standard across Federal Board curriculum specifications."
+      "correctAnswer": "D",
+      "explanation": "In C, character data is declared using the keyword \"char\". Both \"char name;\" (single character) and \"char name[10];\" (character array/string) are valid declarations, making \"Both a and c\" the correct answer. \"character\" is not a valid C keyword."
     },
     {
       "id": 45,

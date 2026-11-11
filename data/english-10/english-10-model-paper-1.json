@@ -16,7 +16,8 @@
         "D": "He said that he had been busy then."
       },
       "answer": "A",
-      "explanation": "In indirect speech with a past reporting verb ('said'), the present simple tense ('am') shifts to past simple ('was'), and the time adverb 'now' shifts to 'then'."
+      "explanation": "In indirect speech with a past reporting verb ('said'), the present simple tense ('am') shifts to past simple ('was'), and the time adverb 'now' shifts to 'then'.",
+      "correctAnswer": "A"
     },
     {
       "id": 2,
@@ -28,7 +29,8 @@
         "D": "She said she finishes her work the previous day."
       },
       "answer": "C",
-      "explanation": "Past simple tense ('finished') shifts to past perfect tense ('had finished'), and the time adverb 'yesterday' shifts to 'the previous day' or 'the day before'."
+      "explanation": "Past simple tense ('finished') shifts to past perfect tense ('had finished'), and the time adverb 'yesterday' shifts to 'the previous day' or 'the day before'.",
+      "correctAnswer": "C"
     },
     {
       "id": 3,
@@ -40,7 +42,8 @@
         "D": "He said he goes the next day."
       },
       "answer": "A",
-      "explanation": "Modal auxiliary 'will' shifts to 'would' in indirect reporting, and the time expression 'tomorrow' shifts to 'the next day' or 'the following day'."
+      "explanation": "Modal auxiliary 'will' shifts to 'would' in indirect reporting, and the time expression 'tomorrow' shifts to 'the next day' or 'the following day'.",
+      "correctAnswer": "A"
     },
     {
       "id": 4,
@@ -52,7 +55,8 @@
         "D": "She said she read that book."
       },
       "answer": "B",
-      "explanation": "Present perfect continuous tense ('have been reading') shifts to past perfect continuous ('had been reading'), and the demonstrative pronoun 'this' shifts to 'that'."
+      "explanation": "Present perfect continuous tense ('have been reading') shifts to past perfect continuous ('had been reading'), and the demonstrative pronoun 'this' shifts to 'that'.",
+      "correctAnswer": "B"
     },
     {
       "id": 5,
@@ -64,7 +68,8 @@
         "D": "The teacher told that the sun is rising in the east."
       },
       "answer": "C",
-      "explanation": "Universal truths, scientific facts, and habitual actions do not undergo tense backshift even when the reporting verb is in the past tense."
+      "explanation": "Universal truths, scientific facts, and habitual actions do not undergo tense backshift even when the reporting verb is in the past tense.",
+      "correctAnswer": "C"
     },
     {
       "id": 6,
@@ -76,7 +81,8 @@
         "D": "She told me where I was going."
       },
       "answer": "B",
-      "explanation": "In indirect interrogative sentences beginning with Wh-words, the reporting verb changes to 'asked', the Wh-word acts as conjunction, and the sentence order becomes assertive (subject before auxiliary: 'I was going')."
+      "explanation": "In indirect interrogative sentences beginning with Wh-words, the reporting verb changes to 'asked', the Wh-word acts as conjunction, and the sentence order becomes assertive (subject before auxiliary: 'I was going').",
+      "correctAnswer": "B"
     },
     {
       "id": 7,
@@ -88,7 +94,8 @@
         "D": "He asked her whether did she like coffee."
       },
       "answer": "B",
-      "explanation": "For Yes/No interrogative sentences, the reporting clause connects with 'if' or 'whether', the auxiliary 'do' is removed, and the verb shifts to past simple ('liked')."
+      "explanation": "For Yes/No interrogative sentences, the reporting clause connects with 'if' or 'whether', the auxiliary 'do' is removed, and the verb shifts to past simple ('liked').",
+      "correctAnswer": "B"
     },
     {
       "id": 8,
@@ -100,7 +107,8 @@
         "D": "The doctor asked the patient taking medicine regularly."
       },
       "answer": "A",
-      "explanation": "In imperative sentences expressing medical counsel, the reporting verb becomes 'advised', and the imperative verb is converted into a to-infinitive clause ('to take')."
+      "explanation": "In imperative sentences expressing medical counsel, the reporting verb becomes 'advised', and the imperative verb is converted into a to-infinitive clause ('to take').",
+      "correctAnswer": "A"
     },
     {
       "id": 9,
@@ -112,7 +120,8 @@
         "D": "An essay has been written by Ali yesterday."
       },
       "answer": "A",
-      "explanation": "Past simple tense in active voice ('wrote') changes into 'was/were + past participle' ('was written') in passive voice."
+      "explanation": "Past simple tense in active voice ('wrote') changes into 'was/were + past participle' ('was written') in passive voice.",
+      "correctAnswer": "A"
     },
     {
       "id": 10,
@@ -124,7 +133,8 @@
         "D": "The driver has washed the car."
       },
       "answer": "C",
-      "explanation": "'is being washed' is present continuous passive, which corresponds to the present continuous active form 'is washing'."
+      "explanation": "'is being washed' is present continuous passive, which corresponds to the present continuous active form 'is washing'.",
+      "correctAnswer": "C"
     },
     {
       "id": 11,
@@ -136,7 +146,8 @@
         "D": "The birds will migrate south before winter."
       },
       "answer": "C",
-      "explanation": "Option C features the passive auxiliary 'was restored' with the agent introduced by the prepositional phrase 'by renowned architects'."
+      "explanation": "Option C features the passive auxiliary 'was restored' with the agent introduced by the prepositional phrase 'by renowned architects'.",
+      "correctAnswer": "C"
     },
     {
       "id": 12,
@@ -148,7 +159,8 @@
         "D": "A science exhibition has been prepared by the students."
       },
       "answer": "C",
-      "explanation": "Present continuous active ('are preparing') converts to 'is/am/are being + past participle' ('is being prepared')."
+      "explanation": "Present continuous active ('are preparing') converts to 'is/am/are being + past participle' ('is being prepared').",
+      "correctAnswer": "C"
     },
     {
       "id": 13,
@@ -160,7 +172,8 @@
         "D": "The results had announced before sunset."
       },
       "answer": "B",
-      "explanation": "Past perfect active ('had announced') changes into 'had been + past participle' ('had been announced') in passive voice."
+      "explanation": "Past perfect active ('had announced') changes into 'had been + past participle' ('had been announced') in passive voice.",
+      "correctAnswer": "B"
     },
     {
       "id": 14,
@@ -172,7 +185,8 @@
         "D": "You open the window."
       },
       "answer": "A",
-      "explanation": "Imperative commands are converted into passive using the formula: 'Let + object + be + past participle' ('Let the window be opened')."
+      "explanation": "Imperative commands are converted into passive using the formula: 'Let + object + be + past participle' ('Let the window be opened').",
+      "correctAnswer": "A"
     },
     {
       "id": 15,
@@ -184,7 +198,8 @@
         "D": "Flowers should not pluck."
       },
       "answer": "A",
-      "explanation": "Negative imperatives take the passive form 'Let + object + not + be + past participle' ('Let the flowers not be plucked')."
+      "explanation": "Negative imperatives take the passive form 'Let + object + not + be + past participle' ('Let the flowers not be plucked').",
+      "correctAnswer": "A"
     }
   ]
 }
